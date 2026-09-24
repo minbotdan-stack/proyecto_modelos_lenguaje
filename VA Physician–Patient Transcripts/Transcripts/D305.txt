@@ -1,0 +1,382 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@ 
+
+DOCTOR D305 
+PATIENT.
+
+PATIENT D305
+Right here.
+
+DOCTOR D305
+How you doing?
+
+PATIENT D305
+Fine.
+
+DOCTOR D305
+@@@.  I'm DOCTOR a the Green Clinic doc nice to meet you.
+
+PATIENT D305
+Uh-huh.
+
+DOCTOR D305
+So only recently you were in the hospital right?
+
+PATIENT D305
+Yeah I was, I was discharged the 13th of last month.
+
+DOCTOR D305
+And they made some changes to your medications.
+
+PATIENT D305
+Uh well the first time when I got in the hospital for two days I believe they gave me medications for depression.
+
+DOCTOR D305
+Uh-huh.
+
+PATIENT D305
+So I went home I think, about ten days later, I got sick again and I went back to the hospital for three days.  There they changed the medication, the depression medication.  They gave me something different instead of depression medication.
+
+DOCTOR D305
+Hmm.  And how have you been doing with that?
+
+PATIENT D305
+I've been doing fine.  I've been progressing until today I got up a little hazy or something.  Thought it was maybe the weather or something I’m not sure.
+
+DOCTOR D305
+But um.
+
+PATIENT D305
+I been walking.
+
+DOCTOR D305
+You been walking alright?
+
+PATIENT D305
+Yeah now the weather's nice and I've been out there for three days in a row already.
+
+DOCTOR D305
+Uh-huh.
+
+PATIENT D305
+You know.  If I hear it's going to rain tonight then I'll go out in the afternoon you know.  I'll listen for the weather if I have a good day.
+
+DOCTOR D305
+Any more dizziness?
+
+PATIENT D305
+No, no just like today.  It's not dizzy it's just.
+
+DOCTOR D305
+@@@.
+
+PATIENT D305
+Something but I don't know what it is.
+
+DOCTOR D305
+Might be the weather.
+
+PATIENT D305
+Yeah.
+
+DOCTOR D305
+And uh let's see, are you gonna.  I want to make sure you don't run out of medications.
+
+PATIENT D305
+Well that's what I want to talk to the doctor about.  
+
+DOCTOR D305
+Yes.
+
+PATIENT D305
+She gave me 5 mg of sleeping pills.
+
+DOCTOR D305
+The zolpidem.
+
+PATIENT D305
+See I've had them before, a couple months ago when I first got sick.  The doctor gave me some 5 milligrams and uh I go to bed maybe anywhere from 9 to 11 o'clock I go to bed, I take my pill and I wake up like 4 or 5 in the morning.
+
+DOCTOR D305
+Hmm.
+
+PATIENT D305
+I don't get a full night's sleep and I'm up you know tossing and turning and when I first two pills the first two nights, so the third night I took two of them.  I was using them up faster and I was getting a full night’s sleep.
+
+DOCTOR D305
+Hmm.  Did it help for that?
+
+PATIENT D305
+Oh yeah so.
+
+DOCTOR D305
+@@@.
+
+PATIENT D305
+The 10 milligrams you know so then I ran out of the medication I came back to see the doctor and I explained to her why I took two at a time cause I was getting a full night's sleep.
+
+DOCTOR D305
+Uh-huh.
+
+PATIENT D305
+So she gave me 10 milligram sleeping pills so I could have a better night's sleep.
+DOCTOR D305
+Uh-huh.
+
+PATIENT D305
+Cause with the other by the time you get up in the middle of the night and you get up later on you feel terrible.
+
+DOCTOR D305
+Like do you want to pick them up today or do you want them by mail?
+
+PATIENT D305
+Huh?
+
+DOCTOR D305
+These pills do you want to pick them up today or do you want to have them mailed?
+
+PATIENT D305
+I could pick them up today yeah, as long as I'm here.
+
+DOCTOR D305
+The uh the sleeping pill?  Yeah we can do that; we'll give you 10 mg instead of 5.
+
+PATIENT D305
+Huh?
+
+DOCTOR D305
+We're gonna do 10 instead of 5.
+
+PATIENT D305
+Yeah, yeah.
+
+DOCTOR D305
+But the pill is gonna be 10 so don't take two pills, take one.
+
+PATIENT D305
+Oh no, no, just the one yeah.
+
+DOCTOR D305
+I'm giving you a different pill.
+
+PATIENT D305
+No I know that's that.
+
+DOCTOR D305
+Okay and uh the one for the blood pressure, @@@ to keep the blood pressure where you supposed to be so you don't feel dizzy.
+
+PATIENT D305
+Cortisone?
+
+DOCTOR D305
+@@@.  It's uh the one 0.1 mg.
+
+PATIENT D305
+Oh yeah that's what I'm taking every morning.
+
+DOCTOR D305
+Yeah you take that one as well.
+
+PATIENT D305
+Yeah, yeah.
+
+DOCTOR D305
+So @@@ so which one are you running out?  Mirtazapine uh.
+
+PATIENT D305
+A prostate medication.
+
+DOCTOR D305
+Prostate medication yes.
+
+PATIENT D305
+Yes I take that too.
+
+DOCTOR D305
+Uh you have let me do that as well.
+
+PATIENT D305
+That's the only three medications I'm taking.
+
+DOCTOR D305
+Which one's the third one?
+
+PATIENT D305
+The prostate.
+
+DOCTOR D305
+So prostate, oh okay.  So you're not taking the mirtazapine right?
+
+PATIENT D305
+Which is that one?
+
+DOCTOR D305
+Okay, so you're taking the one for the sleep, for the prostate.
+
+PATIENT D305
+Prostate.
+
+DOCTOR D305
+And the one for the pressure in the morning.
+
+PATIENT D305
+Yeah the morning that's it.
+
+DOCTOR D305
+Yes.  Good so the less the better and as long as you're doing well that's all that matters.  And the blood pressure is good.
+
+PATIENT D305
+Yes.
+
+DOCTOR D305
+Blood pressure is good.  Alright I just need to listen to your heart and lungs.
+
+PATIENT D305
+Okay.  Yeah I've been progressing pretty good lately.  I'm eating more too.  See I didn't have no appetite either.
+
+DOCTOR D305
+Did they give you a medication for the appetite?
+
+PATIENT D305
+No I don't need any after that.
+
+DOCTOR D305
+No you're just eating a little better.
+
+PATIENT D305
+Yeah.
+
+DOCTOR D305
+Perfect, perfect, perfect.  Some deep breaths through your mouth.  Any joint pain?  Joint pain or no.
+
+PATIENT D305
+No.  I might get up a little slower than I used to.
+
+DOCTOR D305
+Yeah.
+
+PATIENT D305
+But that's old age.
+
+DOCTOR D305
+Yes.  @@@ come back here.
+
+PATIENT D305
+Take a hot shower and.
+
+DOCTOR D305
+Yes, yes.  Give me one sec and I'll be right back.
+
+PATIENT D305
+Okay.
+
+(DOCTOR OUT:  67:05  DOCTOR IN:  69:51)
+
+DOCTOR D305
+Well I'm glad things are doing much better PATIENT.  You know, not many medications, you're doing better, we'll leave the things the way they are then make sure you get the medications.
+
+PATIENT D305
+At the Pharmacy here?
+
+DOCTOR D305
+At the Pharmacy yeah.
+
+PATIENT D305
+Yeah.
+
+DOCTOR D305
+Uh, that's fine and you're all set.
+
+PATIENT D305
+Okay.
+
+DOCTOR D305
+Okay.
+
+PATIENT D305
+Just the uh sleeping pills right?
+
+DOCTOR D305
+Sleeping pill uh and do you need anything else or just the sleeping pills for today?
+
+PATIENT D305
+Uh I think I got enough um.
+
+DOCTOR D305
+Oh for the other ones.
+
+PATIENT D305
+The daytime, for the daytime.
+
+DOCTOR D305
+Um just the sleeping pill.  Let me make sure, the other ones is by.
+
+PATIENT D305
+The prostate I'm gonna see them tomorrow.
+
+DOCTOR D305
+Oh, do you want me to change the prostate or?
+
+PATIENT D305
+No I just have uh, it's a follow-up.
+
+DOCTOR D305
+Okay, okay.
+
+PATIENT D305
+So I got to see the prostate tomorrow and then I got to go up to the 8th floor some electric tests on my leg and nerves or something.
+
+DOCTOR D305
+Just @@@ sleeping pill, if they try to give the prostate pills ask them to mail it.
+
+PATIENT D305
+Yeah.
+
+DOCTOR D305
+Because uh.
+
+PATIENT D305
+Just the 10 mg right?
+
+DOCTOR D305
+Yes, it's a 10 mg.
+
+PATIENT D305
+Good now I can get some good sleep that way.
+
+DOCTOR D305
+Exactly.  More rest and then more energy.
+
+PATIENT D305
+Then I can go out and do my walk you know get more @@@.
+
+DOCTOR D305
+Absolutely, absolutely.
+
+PATIENT D305
+That's what they told me when I got this @@@ I was just a little dizzy, you off of work, go with your walker, you don't just sit around the house you know.
+
+DOCTOR D305
+Exactly, that's the best thing.  They were right.
+
+PATIENT D305
+Well I was active before you know.  Now that I'm getting older @@@.
+
+DOCTOR D305
+You take care PATIENT.
+
+PATIENT D305
+Okay.
+
+DOCTOR D305
+Alright.
+
+PATIENT D305
+Thank you.
+
+PATIENT LEAVES:  71:43
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286134
+TRANSACTION # 578-10-2-316-0103

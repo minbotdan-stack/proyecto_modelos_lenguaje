@@ -1,0 +1,851 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR J367 
+PATIENT?
+
+PATIENT J367
+How you doing?
+
+DOCTOR J367
+Nice to meet you.  Alright come on back.
+
+PATIENT J367
+I was about to step upstairs and get an application.
+ 
+DOCTOR J367
+Application for what?
+
+PATIENT J367
+Uh.
+
+DOCTOR J367
+@@@.
+
+PATIENT J367
+They said that they might be hiring.
+
+DOCTOR J367
+Oh, oh.  Alright so I was looking at your stuff to renew um.
+
+PATIENT J367
+Yeah the last time I was here.
+
+DOCTOR J367
+Yeah.
+
+PATIENT J367
+I supposed to you - they send me for a psychiatric appointment and I didn't keep that.  See and you said well if you don't keep it you can always call the 1445, I think it is @@@ between 8 and 12.
+
+DOCTOR J367
+Uh-huh.
+
+PATIENT J367
+Yeah so.  Uh I know my lisinopril I have to get that started back up again.
+
+DOCTOR J367
+Oh you haven't been taking it?
+
+PATIENT J367
+Yeah I ran out.
+
+DOCTOR J367
+What medicines are you taking?
+
+PATIENT J367
+Lisinopril and I was uh, what's the name of that anti-depressant?
+
+DOCTOR J367
+@@@?
+
+PATIENT J367
+Yeah.
+
+DOCTOR J367
+@@@.
+
+PATIENT J367
+Yeah it's @@@ yeah but I stopped taking it, that stuff makes me too sick.
+
+DOCTOR J367
+Okay.
+
+PATIENT J367
+You said take it for two weeks but I took it for three and all it did was make me sick.
+
+DOCTOR J367
+Okay.
+
+PATIENT J367
+So I stopped taking it.  And it didn't make me feel any better either.
+
+DOCTOR J367
+Any other, anything else you want to have?
+
+PATIENT J367
+Uh I have trouble sleeping at night.
+
+DOCTOR J367
+Uh-huh.
+
+PATIENT J367
+I toss and turn a lot and.
+
+DOCTOR J367
+What time do you go to bed?
+
+PATIENT J367
+Uh around anywhere from 9 to 10 to 11.  Yesterday I went to sleep at see the Bulls game came on and I went to sleep when the Bulls game came on 7 o'clock and I woke up at 4 but I had been up almost like, off and on for two days straight.
+
+DOCTOR J367
+So that's like nine hours right there.
+
+PATIENT J367
+Yeah and I'm, I slept and I feel tired as hell uh.
+
+DOCTOR J367
+But you slept nine hours though.
+
+PATIENT J367
+Right.
+
+DOCTOR J367
+And then what, I mean are you not sleeping other nights?
+
+PATIENT J367
+Yeah I'm not sleeping all the night.  Uh.
+
+DOCTOR J367
+What time do you go to bed?
+
+PATIENT J367
+Uh between uh 10 and 11.
+
+DOCTOR J367
+Every night?
+
+PATIENT J367
+Not every night but most nights.
+
+DOCTOR J367
+Do you have a TV in your room?
+
+PATIENT J367
+No.  TV is out in the front.  I can't sleep with the TV.
+
+DOCTOR J367
+Okay, alright.  So a big part of sleeping right is uh you know is like getting into the habit.  You're training your mind and your body to get into a habit so, things that you are doing, which is good, no TV in the room.
+
+PATIENT J367
+Uh-huh.
+
+DOCTOR J367
+Your room is for sleep only.
+
+PATIENT J367
+Right.
+
+DOCTOR J367
+You go, you lay down, you don't fall asleep within 20 minutes, get up, do something but you know, they say, get out of bed, go sit in a chair, go try to read a book till you get tired and then go back to bed.
+
+PATIENT J367
+Yeah I do that.  I read books you know.
+
+DOCTOR J367
+Okay.
+
+PATIENT J367
+I go in the room and read and read.
+
+DOCTOR J367
+Yes.
+
+PATIENT J367
+Try to go to sleep drowsy.
+
+DOCTOR J367
+Are you smoking, do you smoke?  Do you drink?
+
+PATIENT J367
+No I don't smoke.  I stopped drinking, in fact, in the last couple of months I've only had two beers.  But to be fair, I had a bad drinking problems and I came home so I just did cold turkey on my own.  I just stopped going out to bars.  I just stayed in and went through the sweats.  I didn’t drink, I didn’t drink to the point that I didn't need it anymore you know.  Mother and father were how come you don't go out so I'm trying to kick this drinking habit. 
+
+DOCTOR J367
+Okay.
+
+PATIENT J367
+That's why I came here you know.  Instead of going to Alcoholics Anonymous I'm gonna kick it myself without help and they say okay take your time you know.  When you get over it, get over it and.
+
+DOCTOR J367
+Are you over it?
+
+PATIENT J367
+Yeah I walk by liquor stores.  You know my father he drinks and uh he can't even get me to have a drink with him.  The last drink I had was New Years and it was a can of beer, took me over an hour to drink it so.  That much cause I was reading in this book uh Natural Energy that I got from the VA Hospital in Bettendorf and a lot of the symptoms in that book I exhibit like uh the tiredness all the time and the lack of sleep and uh the @@@ but it's hard for me to think.  So I'm going through a VA program right now to help veterans get jobs and support them and stuff and uh I got to stop and think, you see what I'm saying.  The book talks about brain fog and not having enough energy cause I'm older now and I just, I'm turning 53 next week and it's saying that maybe starting supplements like @@@ and CQ10.
+
+DOCTOR J367
+Uh-huh.
+
+PATIENT J367
+Could help get rid of that and following a diet.  I got the book with me and it's a lot of stuff in the book I was gonna talk to the doctor and see if I can get some of that.  Is that a possibility?
+
+DOCTOR J367
+So yeah I mean we can get you vitamins.  They don't have like all the you know newer CQ10 and all that.
+
+PATIENT J367
+No.
+
+DOCTOR J367
+That's not available here.  You got to buy that over-the-counter.
+
+PATIENT J367
+Oh okay.
+
+DOCTOR J367
+Um we've got multivitamins which I'd be happy to give you.
+
+PATIENT J367
+Yeah.
+
+DOCTOR J367
+Um but yeah.  That's um yeah you're kind of on your own on that.
+
+PATIENT J367
+Oh okay.
+
+DOCTOR J367
+I mean there's a couple of things, I can put in a prescription for a multivitamin but like CQ10 I know we don't have.
+
+PATIENT J367
+Okay you know @@@ to @@@. I believe I’m pronouncing it right.
+
+DOCTOR J367
+The only vitamins that the VA offers are vitamin D, folic acid, B12 um, ergocalciferol um well it's basically a multivitamin which has you know a bunch of different vitamins in it you know like your basic stuff vitamin C, A, you know those types of things.  Uh but CQ10 and I'm not sure what the other one is.
+
+PATIENT J367
+Uh-huh.  @@@ that I'm talking about.  I can show you the book.
+
+DOCTOR J367
+Oh yeah.
+
+PATIENT J367
+I got it with me.  So definitely need the lisinopril.  The VA sent me a little machine to check my blood pressure.
+
+DOCTOR J367
+Uh-huh.
+
+PATIENT J367
+And yesterday it was 109, 146/109.
+
+DOCTOR J367
+Yeah, you gotta get back on blood pressure medicine.
+
+PATIENT J367
+To help me go to sleep.  There you go.  Under chapter 4.  
+
+DOCTOR J367
+@@@.
+
+PATIENT J367
+@@@ that's what I thought; it's what they call natural energy.
+
+DOCTOR J367
+It’s an old book.
+
+PATIENT J367
+Yeah, yeah.
+
+DOCTOR J367
+1998, that's.
+
+PATIENT J367
+And now I see commercials where they're putting that in medications.
+
+DOCTOR J367
+Yeah, yeah.
+
+PATIENT J367
+CQ10 is @@@.  I'm following the diet in there.
+
+DOCTOR J367
+Uh-huh.
+
+PATIENT J367
+But uh I check my weight I was like 245.
+
+DOCTOR J367
+Uh-huh.
+
+PATIENT J367
+I'm 226 now.
+
+DOCTOR J367
+Alright.  
+
+PATIENT J367
+Could I get sleep aids?
+
+DOCTOR J367
+Yeah.  Um what time do you get up in the morning?
+
+PATIENT J367
+Different times, like the last two weeks I've been setting my alarm to get up at 6:30 cause I have to be at this program I'm in and I got to be there at 9 o'clock.
+
+DOCTOR J367
+No drug use?
+
+PATIENT J367
+No drug use.  I stopped @@@.
+
+DOCTOR J367
+@@@.  Other things that can affect your sleep, depression.
+
+PATIENT J367
+Yeah I know I'm, I'm depressed right now cause I'm looking for work and uh going on interviews and so far nothing.  Pushing I mean it's like, still every day I have to push myself to get out of bed.  You know I'm always tired all the damn time.
+
+DOCTOR J367
+Do you have another appointment for Psychiatry?
+
+PATIENT J367
+That what I said I did and I didn't, last time I was here to see the doctor I got here too late but the guy you set it up and I didn't make it.
+
+DOCTOR J367
+Okay.  Well call back and set that up okay.  Cause if you know I want to help you with the sleep.
+
+PATIENT J367
+Uh-huh.
+
+DOCTOR J367
+But I want you know if the sleep, you're not gonna sleep because of depression which is extremely common, okay and that's extremely common then we need to deal with the depression.  I don't want to give you sleeping pills and you know because sleeping pills, sleeping pills are like you know honestly one of the last things that I like to give people because it's a band-aid many times.  It's not, you know it's like what I mean by that is we're not getting to the root of the problem.  As soon as you stop taking the sleeping pills you're gonna have trouble with sleep again if we don't get to the why you're not getting good sleep.  If it's depression then we should treat the depression.
+
+PATIENT J367
+Uh-huh.
+
+DOCTOR J367
+Because sleeping pills aren't gonna do anything for the depression.
+
+PATIENT J367
+Oh.
+
+DOCTOR J367
+If I give you sleeping pills, you might, I might as well say well you're gonna be on these pills for the rest of your life.
+
+PATIENT J367
+Oh okay, I just thought it was the other way around you know.
+
+DOCTOR J367
+No, no, no.
+
+PATIENT J367
+If you.
+
+DOCTOR J367
+You know I mean, I don't know but I think it's very possible that your sleeping is you know it's insomnia, your difficulty sleeping is secondary to depression.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+You know I mean you've got good sleep habits.  You go to bed at the same time, you don't have a TV.
+
+PATIENT J367
+Uh-huh.
+
+DOCTOR J367
+Uh you don't drink like coffee before you go to bed.
+
+PATIENT J367
+No, no.
+
+DOCTOR J367
+You don't have caffeine.
+
+PATIENT J367
+When I get up in the morning.
+
+DOCTOR J367
+Yeah but not, you know, not before bed so those are kind of the simple things that we can do um you know.  There are others, there is a long list of reasons as to why people don't get to sleep but you know depression is a very, very, we see this all the time.  You know it's actually more common to see someone with depression who has problems with sleep than someone who doesn't and then we see people who sleep too much.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+Cause they're always tired.
+
+PATIENT J367
+Right.
+
+DOCTOR J367
+So I mean you know I don't mind giving you something for sleeping pills but I want you to be on the same page with me that.
+
+PATIENT J367
+Uh-huh.
+
+DOCTOR J367
+This is not gonna be a permanent thing.  I don't want to keep giving you sleeping pills; prescription, you know what I'm saying?
+
+PATIENT J367
+Yeah I'm, yeah okay.  Work off of it and go see the doctor.
+
+DOCTOR J367
+Right.
+
+PATIENT J367
+Depression.
+
+DOCTOR J367
+Yeah you see that's the goal.  I want to get to why aren't you sleeping you know.  You were sleeping before, you’ve slept your whole life, right?  Now there's something different.
+
+PATIENT J367
+And yeah I used to be, I wasn't so tired all the time you know.
+
+DOCTOR J367
+Yeah.  Do you snore?
+
+PATIENT J367
+No I don't snore.
+
+DOCTOR J367
+Do you live alone or?
+
+PATIENT J367
+No I live with uh my mother and father.  But they're older and in their own little room and.
+
+DOCTOR J367
+Sure.  Alright.
+
+PATIENT J367
+Pretty quiet.  Nobody plays no loud music or anything.
+
+DOCTOR J367
+Okay so we're gonna do that.  I'm gonna give you a prescription for sleeping pills.  We're gonna get some blood today.  I want to check the cholesterol.
+
+PATIENT J367
+Uh-huh.
+
+DOCTOR J367
+All of that.  Have you thought about a colonoscopy, you're at that?
+
+PATIENT J367
+Yeah I'm at that age yeah.
+
+DOCTOR J367
+That age.
+
+PATIENT J367
+Yeah in fact I was scheduled for one when I was in the Bettendorf VA they wanted to send me to Iowa City and I didn't go.
+
+DOCTOR J367
+I'm sorry give me a minute.  (Doctor answers a page)
+
+PATIENT J367
+So you put in for a colonoscopy?
+
+DOCTOR J367
+Uh yeah I mean we could do that now, we could talk about it next time it's up to you.
+
+PATIENT J367
+Uh.
+
+DOCTOR J367
+I mean the recommendation is at 50.
+
+PATIENT J367
+Yeah.
+
+DOCTOR J367
+Do you want to do it now?
+
+PATIENT J367
+Yeah uh what today, you can do it today?
+
+DOCTOR J367
+No, no I mean I put in a consult yeah.
+
+PATIENT J367
+Yeah, yeah.  Yeah I forgot, yeah that’s how they did - they send me a letter for a consult to go to the consultant first yeah.
+
+DOCTOR J367
+You never had one before right?
+
+PATIENT J367
+No.
+
+DOCTOR J367
+You don't smoke?
+
+PATIENT J367
+No I don't smoke.
+
+DOCTOR J367
+Any surgeries in your belly?
+
+PATIENT J367
+Nope.
+
+DOCTOR J367
+Never had radiation in your belly?
+
+PATIENT J367
+No.
+
+DOCTOR J367
+Any problems with anesthesia?
+
+PATIENT J367
+Uh uh.  No allergies.
+
+DOCTOR J367
+Okay.  You want to pick up the medicines at the window right?
+
+PATIENT J367
+Yeah.
+
+DOCTOR J367
+Um okay what else.  Uh did you have a flu shot?
+
+PATIENT J367
+Uh I said I'd take one.  The nurse asked me I said yeah I'll take a flu shot.
+
+DOCTOR J367
+Want to get that today?
+
+PATIENT J367
+Yeah.
+
+DOCTOR J367
+Okay and how about tetanus?
+
+PATIENT J367
+Already had one, tetanus is every ten years and I had one two years ago.  In @@@@, Bettendorf Clinic @@@.
+
+DOCTOR J367
+Okay.  
+
+PATIENT J367
+I try to have one every ten years to have a tetanus shot.
+
+DOCTOR J367
+Yeah.
+
+PATIENT J367
+Yeah.  @@@@.  
+
+DOCTOR J367
+Um so I'm gonna have you come back in a month.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+To recheck your blood pressure cause right now its high okay.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+And then I'm gonna have you, you can come and see us, to see me back in about six months if everything you know looks okay or you know you can be seen sooner if you know something comes up or you want to see us.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+For whatever reason.
+
+PATIENT J367
+Just call and make an appointment.
+
+DOCTOR J367
+Yeah, yeah, yeah.  Alright, I will be right back.
+
+PATIENT J367
+You’re DOCTOR?
+
+DOCTOR J367
+Yeah.
+
+PATIENT J367
+Oh okay.
+
+DOCTOR J367
+I'm sorry.  I'm normally, I'm all call tonight.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+So I'm here all night so I don't usually wear a shirt and tie.
+
+PATIENT J367
+Oh okay.
+
+DOCTOR J367
+When I'm on call.
+
+PATIENT J367
+Oh okay.  I @@@.
+
+DOCTOR J367
+No, that’s DOCTOR.
+
+PATIENT J367
+DOCTOR oh okay.
+
+DOCTOR J367
+Yeah but um.
+
+PATIENT J367
+I heard DOCTOR he comes around so I thought, hey DOCTOR.
+
+DOCTOR J367
+No, no, that's me but uh give me just a minute.  We'll get everything set-up.
+
+PATIENT J367
+Alright.
+
+(DOCTOR OUT:  45:46  DOCTOR IN:  58:01)
+
+DOCTOR J367
+Alright, sorry about the wait there.
+
+PATIENT J367
+Oh no problem.
+
+DOCTOR J367
+Um okay so before you leave go up front.  Do you know where the PACC is, right across from the Psychiatry Care um that's where you can go and see if you can reschedule your depression mental health appointment.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+Okay.
+
+PATIENT J367
+Where is that at?
+
+DOCTOR J367
+Uh do you know where the ER is?
+
+PATIENT J367
+No.
+
+DOCTOR J367
+Uh how about the admitting area?
+
+PATIENT J367
+Yeah back this way and then uh.
+
+DOCTOR J367
+Yeah go down the hall, go past the door, you know the front door.
+
+PATIENT J367
+Uh-huh.
+
+DOCTOR J367
+From Damon, just past that there's another door on your right.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+@@@ they're gonna have a waiting room.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+You go in there and you ask, go up to the desk.
+
+PATIENT J367
+Uh-huh.
+
+DOCTOR J367
+Ask where the PAC is.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+And then you can go and schedule your appointment for the depression, you know the mental health appointment.
+
+PATIENT J367
+Okay, okay.
+
+DOCTOR J367
+Um they called you right and then or you cancelled the appointment?
+
+PATIENT J367
+Yeah I called and what the lady said is that okay uh what you can do is just come to room 1445 between the hours of 8 and 12 and get uh and you get uh.
+
+DOCTOR J367
+I think that's the room that I'm talking about.
+
+PATIENT J367
+Yeah and she said you can come between the hours of 8 and 12 from Monday through Wednesday and you can get evaluated.  That's the term I was looking for they were going to evaluate me.  She said you don't have to make an appointment just come in.
+
+DOCTOR J367
+Okay.  Yeah that's, that's I think exactly what I'm talking about.  So just take a walk over there.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+See what needs to be done.  Um they should, I know I restarted it again.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+You're gonna leave, you're gonna stop at the front desk and you're gonna make an appointment to come back in a month just to get your blood pressure rechecked.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+You're gonna go to the Pharmacy and pick up your medicines.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+I gave you lisinopril and then the sleeping pill.
+
+PATIENT J367
+Okay, okay.
+
+DOCTOR J367
+You're gonna go across the hall to get blood drawn okay.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+Same place you went last time and then you're gonna go all the way where I was talking about before, past the front door you know down the main hallway.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+You're gonna go past the main entrance and then take a right with the waiting room and then you know there's a desk there.  Just ask the person at the desk where the PAC is, the psychiatric acute care.
+
+PATIENT J367
+It is okay.
+
+DOCTOR J367
+And then they'll show you where it is, it's like right next to that.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+Okay.
+
+PATIENT J367
+You didn't think I need vitamins?
+
+DOCTOR J367
+Oh you want vitamins?
+
+PATIENT J367
+Yeah I want some.  They do the flu shot here?
+
+DOCTOR J367
+Yeah um here let me put it in.
+
+PATIENT J367
+You know the phone number is different uh.
+
+DOCTOR J367
+Okay.
+
+PATIENT J367
+So I get the medication first.
+
+DOCTOR J367
+Yeah.  I'll walk out with you.  Let's see here, let me just sign everything here.  Okay.  This is the lady for the @@@ appointment and we'll see you back here in six months.
+
+PATIENT J367
+Six months okay.
+
+DOCTOR J367
+Pharmacy is that window, see that TV all the way up the hallway.
+
+PATIENT J367
+Okay yeah.  The Pharmacy.
+
+DOCTOR J367
+You know where to get the blood drawn right, across the hall?  That's where they drew it last time.
+
+PATIENT J367
+Oh yeah they sent me upstairs okay so.
+
+DOCTOR J367
+So stop here and make the appointment in a month, there to get your meds.
+
+PATIENT J367
+And over there to get the blood drawn.
+
+DOCTOR J367
+Blood and then once you're done with that go past here you know where you came in the front door here.
+
+PATIENT J367
+Uh-huh.
+
+DOCTOR J367
+Go past that and then just past the hall you know when you're walking down this hall.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+The front door go past that and you'll see another door on your right.
+
+PATIENT J367
+Oh okay.
+
+DOCTOR J367
+There's a waiting room in there.  It's right over there.
+
+PATIENT J367
+Right there okay.
+
+DOCTOR J367
+And then you walk in there and just ask someone sitting at the desk, there'll be a desk like a little bit in front of you.
+
+PATIENT J367
+Uh-huh.
+
+DOCTOR J367
+Ask them where the PAC is, they'll tell and you'll be all set.
+
+PATIENT J367
+Oh okay.  So here first and back there, there.
+
+DOCTOR J367
+There, there, there.
+
+PATIENT J367
+There and there okay.  Yeah I remember the blood.
+
+DOCTOR J367
+Yeah, yeah, yeah.
+
+PATIENT J367
+Okay.
+
+DOCTOR J367
+Okay.
+
+PATIENT J367
+Alright.  See do I have time for that?  To draw the blood cause last time they sent me upstairs.
+
+DOCTOR J367
+That's not gonna happen yeah.
+
+PATIENT J367
+Okay thank you DOCTOR.  @@@.
+
+PATIENT LEAVES:  64:32.
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1300318
+TRANSACTION # 578-10-2-316-0103

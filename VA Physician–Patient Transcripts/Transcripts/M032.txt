@@ -1,0 +1,1073 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR M032
+PATIENT? 
+
+PATIENT M032
+Pardon?
+
+DOCTOR M032
+How you doing today?
+
+PATIENT M032
+Pretty good and yourself?
+
+DOCTOR M032
+I'm good.  I'm DOCTOR, I work with DOCTOR.  @@@.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Um so yeah.
+
+PATIENT M032
+@@@.
+
+DOCTOR M032
+Um, I was talking to DOCTOR, who I know you saw last time.
+
+PATIENT M032
+Yeah.
+
+DOCTOR M032
+Um so how you doing today?
+
+PATIENT M032
+Still have back pain.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+And the headaches.
+
+DOCTOR M032
+When do you see @@@ again?
+
+PATIENT M032
+Uh I just saw them Monday.
+
+DOCTOR M032
+Yeah.
+
+PATIENT M032
+Yeah.
+
+DOCTOR M032
+And they said that they were still waiting for the report?
+
+PATIENT M032
+I don't know.
+
+DOCTOR M032
+Is that right?  Cause I think they're the ones that have to make the decision if they want to treat your headache so what they want to do.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Okay um it looks like from your tests though that the EEG that they did where they stuck all those electrodes on your head.
+
+PATIENT M032
+Right.
+
+DOCTOR M032
+It looked normal.  So the findings were normal and symmetrical patterns were seen.  No evidence was seen in the sleep and waking methods or any focal or diffuse abnormalities so that's good.  At least they don't see anything wrong.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Um.
+
+PATIENT M032
+But she said something about a concussion, a mild concussion or something.
+
+DOCTOR M032
+Are they gonna do?  Well on the EEG Report it doesn't show any of that.  Um I don't know what she said.  If she said anything about a concussion because she didn't write anything about it and then are they gonna do like a MRI or anything like that?  Oh they did the MRI.
+
+PATIENT M032
+Well they did most of all the testing.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+I don't know about any more testings.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+The only thing that she said that it would be in a report was a mild concussion.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+I @@@.
+
+DOCTOR M032
+I think we need to have you see the neurologist again though.
+
+PATIENT M032
+Uh when?
+
+DOCTOR M032
+To see if they want to do anything about it.  Um.
+
+PATIENT M032
+Just saw them Monday.
+
+DOCTOR M032
+They basically said awaiting results of the ABER for post concussive symptoms.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+And loss of balance.  Seen by ENT surgery who have suggested surgery treatment of migraine equivalent if the ABER  result is also normal.  And the ABER results are normal so that's, they probably recommend treating the migraine then.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Okay.  Um, regarding your back pain @@@ of the entire back.  Um, when was that done? October. Okay.  What are you taking for pain?
+
+PATIENT M032
+Well I'm taking the tramadol.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+And the neurologist asked me to cut back on the, cut back on the um Tylenol because they can damage my liver.
+
+DOCTOR M032
+Can hurt your liver.
+
+PATIENT M032
+Yeah they can damage my liver.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+And uh they want me to take the Tylenol just rather than four times a day, take it one time a day.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+Just to cut back you know, but what I'm saying after I cut back.
+
+DOCTOR M032
+Uh-huh.
+
+PATIENT M032
+Then what am I gonna use for the pain?
+
+DOCTOR M032
+Hmm.
+
+PATIENT M032
+I know that they increased the dosage of tramadol to 50%.
+
+DOCTOR M032
+Uh-huh.
+
+PATIENT M032
+I don't know, I know they increased one of them to 50%.
+
+DOCTOR M032
+So how often are you taking the Tylenol right now?
+
+PATIENT M032
+I was taking it four times a day.
+
+DOCTOR M032
+Is that one tablet or two tablets four times a day?
+
+PATIENT M032
+Two tablets four times a day.
+
+DOCTOR M032
+And now what are you taking?
+
+PATIENT M032
+Now I'm taking two tablets once a day.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+Because they said I've been taking the Tylenol for a long period of time.
+
+DOCTOR M032
+Uh-huh.
+
+PATIENT M032
+Which has been over a year.  Almost a year and six months.
+
+DOCTOR M032
+Okay and the tramadol how much or how often are you taking it?
+
+PATIENT M032
+The tramadol twice a day.
+
+DOCTOR M032
+Okay.  So you can take the tramadol up to four times a day.
+
+PATIENT M032
+Increase it?
+
+DOCTOR M032
+Yeah you can take it up to four times a day.  That's how it's order at least.  Do you have your bottles?
+
+PATIENT M032
+No I don't have it.
+
+DOCTOR M032
+Yeah if you read the medication bottle it says it on there too.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Um the Tylenol, I don't know why they would tell you to take less.  You've had liver function tests done.
+
+PATIENT M032
+Yes.
+
+DOCTOR M032
+And that was in February.
+
+PATIENT M032
+Yes.
+
+DOCTOR M032
+And they actually don't look bad so you can actually take more Tylenol than just two tablets once a day.
+
+PATIENT M032
+What are you suggesting we take?
+
+DOCTOR M032
+Um the maximum dose is taking two tablets four times a day.
+
+PATIENT M032
+So that's eight tablets a day.
+
+DOCTOR M032
+Right.
+
+PATIENT M032
+That's what I was taking.
+
+DOCTOR M032
+That was, yeah that's the maximum you can take per day.
+
+PATIENT M032
+Go back to taking them?
+
+DOCTOR M032
+Well how's your pain doing?
+
+PATIENT M032
+Well I'm still with the pain.
+
+DOCTOR M032
+Is it mostly back pain?
+
+PATIENT M032
+No both, headaches and back pain.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+So what I'm asking you is.
+
+DOCTOR M032
+Is what you should do.
+
+PATIENT M032
+Because the neurologist said cut back now you're telling me to keep taking them.
+
+DOCTOR M032
+Well I don't know.  The neurologist really didn't write too much in her note here um, why she would actually say that.
+
+PATIENT M032
+Because she said because of my liver.
+
+DOCTOR M032
+Yeah.  If you take it in high doses or more than the recommended amount yeah.
+
+PATIENT M032
+But I'm just taking what's recommended.
+
+DOCTOR M032
+I understand.
+
+PATIENT M032
+On the bottle you know.  Why would she say cut back on it and you said take more?
+
+DOCTOR M032
+I think take what's recommended on the bottle.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Your liver isn't bad, right?  Are you a drinker?
+
+PATIENT M032
+I don't drink.
+
+DOCTOR M032
+No, oh well, okay.  Um let's see.  So then how have your sugars been doing?
+
+PATIENT M032
+I assume it was normal, I'm not sure.
+
+DOCTOR M032
+Do you check it every day?
+
+PATIENT M032
+Yes I checked it uh once every day.
+
+DOCTOR M032
+Your sugars.
+
+PATIENT M032
+I check it in the morning and don't check it that evening, check it the following evening after the meal, two hours after meals that's what he told me now.
+
+DOCTOR M032
+Okay.  Do you have the numbers?  You have a lot of sugars in the 90s. Do you eat a lot of sugary food at night?
+
+PATIENT M032
+Um not, I'm trying to stick with it.  Sometimes I fall off you know.  I try to keep up with it.
+
+DOCTOR M032
+Actually they're not too bad.  You've got @@@ here now.
+
+PATIENT M032
+Guess that's when I fall off the wagon as they say.
+
+DOCTOR M032
+Why did you check your blood sugar at 2:08 in the morning, is the timing on these right?
+
+PATIENT M032
+I don't know.
+
+DOCTOR M032
+When was the last time you checked your blood sugar?
+
+PATIENT M032
+I checked it.
+
+DOCTOR M032
+The 135 and what time is that from?
+
+PATIENT M032
+That uh in the morning, that was last night the last one.
+
+DOCTOR M032
+This 130 happened last night?
+
+PATIENT M032
+Yeah.
+
+DOCTOR M032
+You're gonna have to, take it to the pharmacist today, have him change the time.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Because it says 1:12 p.m. so this looks like its yesterday after lunch.
+
+PATIENT M032
+Just take it to the Pharmacy and tell them to change the.
+
+DOCTOR M032
+Yeah, they need to change the settings.
+
+PATIENT M032
+I'm not up at 1:47 in the morning.
+
+DOCTOR M032
+That's what I, well yeah, this is at 1:12 p.m. and then this is at 2:08 a.m. which doesn't make too much sense.
+
+PATIENT M032
+No, no.  I'm not up that time of the morning.
+
+DOCTOR M032
+Uh-huh.  
+
+PATIENT M032
+Is the time incorrect, can you set it?
+
+DOCTOR M032
+I don't know how to set it.  That's why I said take it to the pharmacist, it's the first door on the right and they can actually do it for you.
+
+PATIENT M032
+Is it all the way down?
+
+DOCTOR M032
+No on this hallway.
+
+PATIENT M032
+Uh-huh.
+
+DOCTOR M032
+The first door on the right, with the blond lady, short blond hair.  She's with DOCTOR @@@.
+
+PATIENT M032
+Where about over here?
+
+DOCTOR M032
+Yeah.
+
+PATIENT M032
+Straight across?
+
+DOCTOR M032
+In this hallway.  It's the first, when you're coming towards this way it's the first door on the right.
+
+PATIENT M032
+Alright.
+
+DOCTOR M032
+So when you're leaving here, it's the last door on the left.
+
+PATIENT M032
+Okay so it's just like where the uh blood test area?
+
+DOCTOR M032
+I'll take you there, don't worry about it.  
+
+PATIENT M032
+Because the only pharmacist I know of is the one all the way at the end down there.
+
+DOCTOR M032
+Hmm.  Are you taking amitriptyline at bedtime?
+
+PATIENT M032
+Yes.
+
+DOCTOR M032
+Is that helping at all?
+
+PATIENT M032
+Uh, cause I don't, because I'm not, at least I'm getting some sleep.
+
+DOCTOR M032
+Uh-huh.
+
+PATIENT M032
+You know.  It @@@ tend to be up most of the night.
+
+DOCTOR M032
+Are you still taking meclizine?
+
+PATIENT M032
+Yes I am.
+
+DOCTOR M032
+You are taking it three times a day?
+
+PATIENT M032
+Taking all my meds, even some of the stomach.
+
+DOCTOR M032
+Are you still smoking?
+
+PATIENT M032
+No I'm trying to cut back.
+
+DOCTOR M032
+And when was the last time you had a cigarette?
+
+PATIENT M032
+Uh day before yesterday.
+
+DOCTOR M032
+How often are you smoking?
+
+PATIENT M032
+I'm trying to smoke as less as possible.
+
+DOCTOR M032
+I know but like how often, like four cigarettes a week or?
+
+PATIENT M032
+Uh something like two maybe three.
+
+DOCTOR M032
+Okay.  
+
+PATIENT M032
+I cut way back on the smoking.
+
+DOCTOR M032
+Uh-huh.
+
+PATIENT M032
+I used to smoke a pack every other day.
+
+DOCTOR M032
+Okay, so you’ve been making progress, then.
+
+PATIENT M032
+This gum has helped it sometimes but sometimes you just get the craving.
+
+DOCTOR M032
+Uh-huh.
+
+PATIENT M032
+Nothing like that cigarette @@@.  So it's alright because I @@@ somebody from the Surgery Clinic that was supposed to be for March 4.
+
+DOCTOR M032
+What happened?
+
+PATIENT M032
+They called my house.
+
+DOCTOR M032
+Uh-huh.
+
+PATIENT M032
+And they just wanted to know that, they called back again and scheduled me for surgery.
+
+DOCTOR M032
+For your hand?
+
+PATIENT M032
+This Friday.  Yes it is.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+This Friday.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+And everything is normal for that.
+
+DOCTOR M032
+Okay, your sugar could be under slightly better control but you should be okay yeah.
+
+PATIENT M032
+Okay.  I thought @@@ that day, that I was doing great.
+
+DOCTOR M032
+Yeah, it's just that we need to recheck some labs today to see how you're doing.  And uh you ate today I take it?
+
+PATIENT M032
+I ate this morning.
+
+DOCTOR M032
+Has it been eight hours since you ate?
+
+PATIENT M032
+No.
+
+DOCTOR M032
+No okay.
+
+PATIENT M032
+It was about 10 this morning.
+
+DOCTOR M032
+We need to retest your total cholesterol again. Sit up here.  How's your dizziness?
+
+PATIENT M032
+Well I haven't fallen lately.
+
+DOCTOR M032
+You haven't.
+
+PATIENT M032
+That's a good thing.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+Wasn't like when it first started.
+
+DOCTOR M032
+Uh-huh.
+
+PATIENT M032
+Which was, I had to hold on to something; at least now my head is not spinning.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+Because it was before.  It was like my head was like spinning when I get up.
+
+DOCTOR M032
+Uh-huh.
+
+PATIENT M032
+Spinning when I go to sleep to lay down so at least that's not spinning.  So evidently the meclizine is doing some good.
+
+DOCTOR M032
+Yeah.  Deep breath.  Just breathe normally.  Swelling in your legs?
+
+PATIENT M032
+Pardon?
+
+DOCTOR M032
+Swelling in the legs?
+
+PATIENT M032
+I don't know.
+
+DOCTOR M032
+It's kind of thin there.  Did you put some lotion on there?
+
+PATIENT M032
+Yeah but I'm peeling now.  You see the @@@ on my sock?
+
+DOCTOR M032
+Uh-huh.
+
+PATIENT M032
+It's like I shed down on here.
+
+DOCTOR M032
+You shed a lot?
+
+PATIENT M032
+In the winter.
+
+DOCTOR M032
+@@@ or down here.
+
+PATIENT M032
+Coming into spring.
+
+DOCTOR M032
+Okay.  Didn't feel too good with that.
+
+PATIENT M032
+Yep.
+
+DOCTOR M032
+You feel a little dizzy.
+
+PATIENT M032
+Yeah you’re moving too fast.
+
+DOCTOR M032
+Have a seat down there.  Let me go grab DOCTOR and see if we can try to figure out what we're gonna do for your pain.  Alright, I'll be back.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Okay one sec.
+
+(DOCTOR OUT:  61:19  DOCTOR IN:  68:29)
+
+DOCTOR M032
+Okay um for the Tylenol, @@@ okay, I’m going to write on the front here that you need to follow-up with neurology @@@.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Um and we need to check some labs.  @@@.
+
+PATIENT M032
+Huh?
+
+DOCTOR M032
+The hemoglobin A1c which is a marker to see how your sugars have been doing, so we need to get that, the cholesterol and um @@@ level.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Um and then one more thing, the metformin that you're taking for diabetes, we're gonna bump it up a little bit.  Um you're on 500 mg twice a day, we're gonna go up to 850 @@@ a day.  And the metformin shouldn’t cause any low blood sugars, but your sugars are still high and we need to get them lower.  Do you usually get your meds by mail or do you want to pick them up?
+
+PATIENT M032
+No I'll pick it up.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+I'd rather pick it up than for it to be sent out because then it goes to the post office and it sits there and so then I have to go.
+
+DOCTOR M032
+@@@.
+
+PATIENT M032
+See them coming last week, it was the only week I had a small week.  I had no visits last week.  That's only the weekend @@@.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+I been pretty regularly.  I don't think I missed any appointments.  I try to keep them all.  I have to go back to my Wellness but since I've been a diabetic I haven't went there, maybe that’s why my @@@ went back up.  I had about five @@@ and I haven't been @@@.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+So I have to go back to the Wellness Center, plus that helps my back also.
+
+DOCTOR M032
+Okay.  Since you ate today I don't want you to get the blood draw done today.  Is there a way you could come back come back fasting in the morning.
+
+PATIENT M032
+Well I have to be out here in the morning.
+
+DOCTOR M032
+For labs.
+
+PATIENT M032
+I have an appointment.
+
+DOCTOR M032
+Oh.
+
+PATIENT M032
+Tomorrow morning and I got an appointment with the nurses.
+
+DOCTOR M032
+Oh well that's okay.  Well then maybe tonight after midnight you don't eat anything.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Then tomorrow first thing you come and get your labs done.
+
+PATIENT M032
+Okay and then you want me to, you want to check @@@.
+
+DOCTOR M032
+Yeah I'll put that in right now.
+
+PATIENT M032
+Okay.  You gonna sign me out.
+
+DOCTOR M032
+Yes.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+You get transportation.
+
+PATIENT M032
+@@@ my transportation because @@@.  The only thing you got to do is sign me out, that's it.  But they will give me a schedule at the desk.
+
+DOCTOR M032
+Uh-huh.
+
+PATIENT M032
+Then I go to Pharmacy and pick up my meds.  And don't take the other one.
+
+DOCTOR M032
+Okay.
+
+PATIENT M032
+Don't take the other, I'm taking two now.
+
+DOCTOR M032
+Well, the metformin we just switched it, we just switched the dose.
+
+PATIENT M032
+Okay now the metformin is the first one you gave me.
+
+DOCTOR M032
+Right.
+
+PATIENT M032
+Okay now what about the second one?
+
+DOCTOR M032
+Keep taking that.
+
+PATIENT M032
+In the morning.
+
+DOCTOR M032
+Yeah.  Keep taking that.
+
+PATIENT M032
+And take the metformin still twice a day.
+
+DOCTOR M032
+Yeah but at the higher dose.
+
+PATIENT M032
+Okay you giving me a higher dose.
+
+DOCTOR M032
+Right.
+
+PATIENT M032
+But it won't make my sugar go real low.
+
+DOCTOR M032
+No the metformin doesn't bring your sugar down.
+
+PATIENT M032
+Okay.  Okay, but the one I take in the morning makes it drop like that.  Okay.  Still take it?
+
+DOCTOR M032
+Don't take it.
+
+PATIENT M032
+Don't take the metformin that I have at home, you're increasing the dosage.
+
+DOCTOR M032
+Right.
+
+PATIENT M032
+So when the ones at home, throw them away.
+
+DOCTOR M032
+Yes.
+
+PATIENT M032
+Disregard, okay, cool.
+
+DOCTOR M032
+You're @@@.
+
+PATIENT M032
+Okay.  No, I’m just trying to make sure.
+
+DOCTOR M032
+Yeah I'll be here no.
+
+PATIENT M032
+Because @@@ losing me, I had never taking no meds and here it is I'm taking all these meds.
+
+DOCTOR M032
+I know.  Give this to the clerk, oh hold on, give this to the clerk @@@.
+
+PATIENT M032
+Are you still going to take me to do this?
+
+DOCTOR M032
+Yes, come on with me.
+
+PATIENT M032
+Okay.  Oh man.  What @@@.
+
+DOCTOR M032
+Well the metformin will help regulate your blood sugar too @@@, insulin and all kinds of other things but insulin makes your blood sugars, @@@ but the metformin works in a different way.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Yeah, it does eventually get your blood sugars down but @@@.  
+
+PATIENT M032
+So you gonna order me blood work to do up here.
+
+DOCTOR M032
+I already put in the order.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+Just come tomorrow morning and get it done, make sure you're fasting first thing in the morning.
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+So you should be set @@@.  
+
+PATIENT M032
+Okay.
+
+DOCTOR M032
+I think the clock figure, it was @@@ today like at lunch time @@@.  What was your sugar the last time you checked it last night?
+
+PATIENT M032
+Uh, yesterday morning.
+
+DOCTOR M032
+So it's like an hour ahead yeah.
+
+PATIENT M032
+Cause yesterday I woke up late.
+
+DOCTOR M032
+And your lunch sugar was at @@@ or something and that was at 2 a.m., we know that's not right.
+
+PATIENT M032
+@@@.
+
+SECOND PERSON M032
+They time was like just an hour ahead actually.  It was reading like 3:54 instead of 2:54; let's just turn it back off and on to see.
+
+DOCTOR M032
+Well did you check your sugar at 1 a.m. in the morning?
+
+PATIENT M032
+Not in the morning.
+
+SECOND PERSON M032
+So yesterday was more like 12, at noon.
+
+DOCTOR M032
+@@@.
+
+PATIENT M032
+In the day.
+
+DOCTOR M032
+Yeah right.
+
+SECOND PERSON M032
+Have you been checking in the a.m., it says 2 a.m.?
+
+PATIENT M032
+No.  I'm asleep.
+
+DOCTOR M032
+What?
+
+PATIENT M032
+@@@.
+
+SECOND PERSON M032
+That's interesting.
+
+DOCTOR M032
+@@@.
+
+SECOND PERSON M032
+And it's right, I mean it's 10 o'clock right now and I don't know if maybe it wasn't working correctly but I guess if you want to just check and see on how it goes from now on.  But it is correct now.
+
+PATIENT M032
+Okay.
+
+SECOND PERSON M032
+And maybe the averages are going to tell you more than those will.
+
+DOCTOR M032
+@@@
+
+SECOND PERSON M032
+I know the 30 day it was @@@ 
+
+DOCTOR M032
+Yeah @@@ okay.
+
+SECOND PERSON M032
+Great.  Hope that's all set now.
+
+PATIENT M032
+Okay.  But I haven't been nowhere at that time of day.
+
+DOCTOR M032
+@@@ time @@@.
+
+PATIENT M032
+Cause I been @@@.
+
+DOCTOR M032
+Uh what's that?
+
+PATIENT M032
+@@@ I don't think it works.
+
+SECOND PERSON M032
+It'll go back and will just give you an average over the past 30 days so if you haven't been checking for 30 days it would give you as many.
+
+PATIENT M032
+Right.
+
+SECOND PERSON M032
+Even if you had checked it for 15 it will just give that average.
+
+PATIENT M032
+Okay.
+
+SECOND PERSON M032
+And it was, ahead yeah, an hour.
+
+DOCTOR M032
+Oh okay you lose an hour.
+
+SECOND PERSON M032
+You lose an hour yeah.  So on Sunday, just because the time is going to go ahead an hour, we'll need to change your time again but yeah, just so you know.  Cause it's um.
+
+PATIENT M032
+So when I come here next week.
+
+SECOND PERSON M032
+Yeah we can change it for you, uh-huh.
+
+PATIENT M032
+Just come in here.
+
+SECOND PERSON M032
+Yeah you can just come find me, no problem.
+
+PATIENT M032
+Okay.
+
+SECOND PERSON M032
+Sure. 
+
+PATIENT M032
+I don't need an appointment for that.
+
+SECOND PERSON M032
+No you just pop in here, I'll take care of it.
+
+PATIENT M032
+Okay.
+
+SECOND PERSON M032
+No worries, definitely we can do.
+
+PATIENT M032
+And you're here five days a week.
+
+SECOND PERSON M032
+I'm here yeah, come find me.
+
+THIRD PERSON M032
+Let's just set up the appointment.
+
+PATIENT M032
+Okay.
+
+SECOND PERSON M032
+Come find me.
+
+PATIENT M032
+Okay, thank you.
+
+SECOND PERSON M032
+Okay.
+
+PATIENT LEAVES:  77:12
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286121
+TRANSACTION # 578-10-2-316-0103

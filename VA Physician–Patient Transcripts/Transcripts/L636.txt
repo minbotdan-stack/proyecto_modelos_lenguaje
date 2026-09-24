@@ -1,0 +1,1015 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@ 
+
+DOCTOR L636
+PATIENT?  How you doing?
+
+PATIENT L636
+Fine doc, how you been?
+
+DOCTOR L636
+Not too bad.  Want to come on back?
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+Good.
+
+PATIENT L636
+So you never know what you're going to find when you open up the door.
+
+DOCTOR L636
+Let me carry that for you.
+
+PATIENT L636
+You know I didn't get the MRI.
+
+DOCTOR L636
+How come?
+
+PATIENT L636
+Because I'm claustrophobic.
+
+DOCTOR L636
+Okay.
+
+PATIENT L636
+And I brought the medicine - Valium.
+
+DOCTOR L636
+Did you try the Valium?
+
+PATIENT L636
+No I didn't take it cause I couldn't even get in there.  I had a cold now.  I've got a cold now and that's the biggest problem I have when I'm laying down, due to my back or it's the postnasal drip and it makes me gag.
+
+DOCTOR L636
+Okay.
+
+PATIENT L636
+And that's my nightmare yeah.  And I'm sorry but you know.
+
+DOCTOR L636
+No and so we'll do something.  We'll figure this out.
+
+PATIENT L636
+Okay.  I brought you back the pill too cause I didn't take it.  I don't know if they want it, so I probably should give it back to the pharmacy or.
+
+DOCTOR L636
+Um yeah I can do that.
+
+PATIENT L636
+Oh good, okay.  Yeah I bet they can use it.  I didn't even open it doc you know.
+
+DOCTOR L636
+@@@ okay.  But you got a cold @@@?
+
+PATIENT L636
+Yeah, yeah I've got a cold for a couple weeks now and um yeah.  You know cold sneezes so that and um my biggest problem lately is I uh fell out of bed twice in the last month and last night, night before last I fell out of the bed, a queen-sized bed and uh I sat up and my daughter's telling me that cause she is in the living room and I sat up and as soon as I sat up, I went right out of the bed in between the dresser and the night stand right.  Blasted my arm you know.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+I blastered the arm real good and I bump my head on the dresser and I didn't pass out but I was soaking wet with sweat and the last time I had that happen to me, Stuckie woke me up because I was having a nightmare and I was holding my breath again and uh she went to shake me to wake me up and I jumped out of bed and fell right down again.  So I'm having that fall thing going on.
+
+DOCTOR L636
+How often are you waking up at night?
+
+PATIENT L636
+A lot.
+
+DOCTOR L636
+At nighttime?
+
+PATIENT L636
+Yes, the medicine I'm getting ain't helping me.  You know I had a real bad one you know.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+A couple real scary ones.
+
+DOCTOR L636
+Okay.
+
+PATIENT L636
+They don't scare me as much as they scare my wife and my daughter you know.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+Cause I look like kind of a mad man.  My daughter said you look like a mad man this morning you know.  My eyes are this big you know.  You know I'm embarrassed because she came in, she seen me with the diaper on and you know.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+She's 17 you know I.  We don't even tell the kids I put them on you know.
+
+DOCTOR L636
+Uh-huh.
+
+PATIENT L636
+But I had that on and that's been a real bummer too.  The wetting the bed and the constipation God I got some stuff, what do you call it, the enemas you know the liquid enemas that come in a squeeze bottle, she had to go out yesterday and get me that because I couldn't make it go and then that helped it like a great deal but then I'm bleeding.
+
+DOCTOR L636
+You're having bleeding?
+
+PATIENT L636
+My hemorrhoids.
+
+DOCTOR L636
+Oh okay.
+
+PATIENT L636
+I was bleeding like a dog and uh it was terrible so.  Yeah I think I'm taking so much medicines I just think that's adding to it.  But I am putting weight back on.  I go to my cardiac exercise and now I'm on the next 12 week thing.
+
+DOCTOR L636
+Well good.
+
+PATIENT L636
+I got my 70% from the VA on my pension.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+But they rated me 70% so I'm going to file the appeal and get the other 30 cause they said the only thing that they were lacking was being able to substantiate that I'm unemployable.  Well I'm on Social Security for being unemployable and disabled and I been telling the nurse that I'm unemployable by the psychiatrist DOCTOR and by another doctor here but they said they have to have more evidence so I don't know what evidence they need.
+
+DOCTOR L636
+When was the last time you saw DOCTOR?
+
+PATIENT L636
+Oh I seen him about two weeks ago I think.  I think I have to see him this week coming.
+
+DOCTOR L636
+Okay, okay.  Do you talk about @@@ nighttime?
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+Do @@@ helping at all?
+
+PATIENT L636
+No, really I mean.  He got me on this medication and you know, like I'll tell him I'm falling out of bed and he'll tell me well move the night stand and throw a couple comforters down on the floor next to your bed, so we do that.  So I @@@ it's insane.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+You know its insane man.  So the heart, the surgery, it’s good.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+I @@@ neck and low back you know.  But uh that was tough because of the loss of weight you know.  Cause I've lost a lot of weight and I look like it too.
+
+DOCTOR L636
+You look better than when I saw you last.
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+@@@.
+
+PATIENT L636
+Yeah I've done good now you know.  I'm starting to, you know put on the weight now.  I'm about 164, 165.
+
+DOCTOR L636
+Hmm.
+
+PATIENT L636
+But I'm working out so.  At the Cardiac Rehab.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+But I'm just beside myself about this waking up at night you know and wetting the bed and you know and not having any control over these nightmares you know.
+
+DOCTOR L636
+Okay.  They say wetting the bed @@@ through the diapers?
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+Okay.  
+
+PATIENT L636
+And I slowed down on drinking.  My wife tells me no you can't do that, you'll screw your kidneys up and.
+
+DOCTOR L636
+@@@ slow down drinking water?
+
+PATIENT L636
+Water, yeah.
+
+DOCTOR L636
+@@@ alcohol?
+
+PATIENT L636
+No, no, no. I had a couple drinks last month and I got uh some medicine from the psychiatrist to take if I feel like I'm going to start having a problem.  I can't think of the name of it now.  Uh, Antabuse.
+
+DOCTOR L636
+It's Antabuse yeah.
+
+PATIENT L636
+Yeah so.  But I was really depressed after a while.  My dad's funeral.
+
+DOCTOR L636
+Are you having neck pain?
+
+PATIENT L636
+Yeah I'm having some neck pain, back of my neck.  When I wake up in the mornings uh cause that's what I do is I try to sleep high.
+
+DOCTOR L636
+Uh-huh.
+
+PATIENT L636
+And when I’m sleeping high I'm doing this at night and I wake up with a really pounding headache and uh I don't think it's anything to do with any damage from my body just the way that I sleep and uh that's about it.
+
+DOCTOR L636
+Okay.
+
+PATIENT L636
+Of course I'm making my wife crazy cause she's watching me now.  I went for the sleep apnea test.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+And the nurse told me I held my breath three times during the evening.
+
+DOCTOR L636
+Okay.
+
+PATIENT L636
+Well she said one of them was 40 seconds long.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+Then they woke me up about 10 to 5 on that one.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+And they tried to give me that little mask that you wear.
+
+DOCTOR L636
+Uh-huh.
+
+PATIENT L636
+I couldn't wear it.
+
+DOCTOR L636
+@@@.
+
+PATIENT L636
+Neither one.
+
+DOCTOR L636
+Oh.
+
+PATIENT L636
+So then they let me go home and she says DOCTOR will call me and let me know about that.  I hadn't heard from DOCTOR.  Maybe she went on vacation or something.  That Korean doctor so.
+
+DOCTOR L636
+Okay.
+
+PATIENT L636
+Yeah so I don't know if we need a follow up on that.  @@@ thing is I even hold my breath during the day she notices.  I don't know what that's from.  Your guess is as good as mine.
+
+DOCTOR L636
+Well, it's @@@ sleep apnea.
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+Um @@@ works as @@@.
+
+PATIENT L636
+Yeah, yeah, yeah.
+
+DOCTOR L636
+But for people like, like you and me and I have it as well.
+
+PATIENT L636
+Oh yeah.
+
+DOCTOR L636
+And uh I don't know why.
+
+PATIENT L636
+Yeah.  Okay.
+
+DOCTOR L636
+@@@.
+
+PATIENT L636
+It's not gonna kill you, let's put it that way.
+
+DOCTOR L636
+Well you know, the problem is that holding your breath while you sleep and struggling against holding your breath.
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+It can put a strain on your heart and your lungs.
+
+PATIENT L636
+Yeah, yeah.
+
+DOCTOR L636
+Because you're creating high pressure inside your chest.
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+And that straining can cause some damage.
+
+PATIENT L636
+It does.
+
+DOCTOR L636
+Yeah to the heart.
+
+PATIENT L636
+Could it have cause that tumor?
+
+DOCTOR L636
+It wouldn't cause a tumor but it can weaken the heart.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+Quite a bit.
+
+PATIENT L636
+Then I got to do something about that then.
+
+DOCTOR L636
+So part of it is finding a CPAP machine that you like.
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+Sort of finding a position where you sleep and don't hold your breath.  Are you going to see the pulmonologist again, have they reviewed that sleep study?
+
+PATIENT L636
+I hope so.  I don't know, who's it gonna be?
+
+DOCTOR L636
+There's one um. (Looks in EMR)
+
+PATIENT L636
+Cause I want to get this taken care of cause I you know my heart took a beating with that surgery you know.  I ended up with a bad heart you know.
+
+DOCTOR L636
+Yeah.  So it said the test will be read by DOCTOR by @@@.  
+
+PATIENT L636
+It’s Friday.
+
+DOCTOR L636
+Hmm.  You may need to give DOCTOR a call.
+
+PATIENT L636
+Yeah okay.  Do you have a direct line to her? Where is she at, what medicine?
+
+DOCTOR L636
+She's uh; She's in pulmonology.  @@@  You could call the main line and ask for the Sleep Clinic.
+
+PATIENT L636
+Okay.  Yeah.  What floor was that on 11 or something like that?  I don't even remember when I went up there.  I think it was up there, 14, 11, I don't know.
+
+DOCTOR L636
+@@@ to get it.  Alright.
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+Still something to get.  So you had an MRI in the past.  How did you get through the MRI?
+
+PATIENT L636
+Well I didn't have this thing because I took the medication for a couple days before that and it wasn't a long trip into that machine.  It was kind of fast.  I think I was in there maybe 15 minutes if that but I know I wanted to come out of there every second I was in there you know.  I just told myself to stay there and get this done.  But it's a real bummer for me.  You know I can't stand being in there.  @@@ not good.  You know not good.  And I feel like the guy can't hear me you know.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+And I'm scared of it you know.  Not to be a sissy about it,
+
+DOCTOR L636
+@@@.
+
+PATIENT L636
+It scared the shit out of me.
+
+DOCTOR L636
+@@@.
+
+PATIENT L636
+You know.  I been in a couple situations where I was in that @@@, it was like so if we can do the same thing that SCT scan will give you, you know if that'll work or if you could knock me out.
+
+DOCTOR L636
+Yeah we may have to.  I don't know.  Let's see, let me ask DOCTOR, @@@.  Mind if I take a quick listen to you?
+
+PATIENT L636
+Yeah.  I'll take this shirt off for you.  
+
+DOCTOR L636
+Yeah sure.  
+
+PATIENT L636
+Do you need this off?
+
+DOCTOR L636
+No that's okay.
+
+PATIENT L636
+Okay doctor.
+
+DOCTOR L636
+Take a couple of deep breaths.  Okay.  Any pain here?
+
+PATIENT L636
+No.
+
+DOCTOR L636
+Turn your head again @@@.  Does that feel weak at all?
+
+PATIENT L636
+No.
+
+DOCTOR L636
+Shrug your shoulder.  Squeeze my finger.  Okay.  Now pull towards me, push towards me.  You've gotten much stronger.  @@@ towards me @@@ okay good.  Look up toward the ceiling now look at the floor.  Doing great.  How's the exercise going?
+
+PATIENT L636
+Actually it's going good.
+
+DOCTOR L636
+@@@.
+
+PATIENT L636
+Exercise is doing good.
+
+DOCTOR L636
+Have you ever had a colonoscopy before?
+
+PATIENT L636
+No, no.  They were going to order one for me.
+
+DOCTOR L636
+We're going to need to get it done um sometime.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+Maybe not right now.  We're going to get this MRI out of the way.
+
+PATIENT L636
+Okay.  What's the MRI going to be looking for?
+
+DOCTOR L636
+So on the CT or sorry @@@ so you had the MRI.  The MRI showed a mass in one of the vertebrae of your neck.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+That might be causing the pain.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+And I'm not sure exactly what the mass is or what to do about it.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+Um and we want to take a better look at it and make sure that one it's nothing dangerous.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+And two that uh see that if it's causing the neck pain then we can get it fixed.
+
+PATIENT L636
+Right.
+
+DOCTOR L636
+So, I don't know.  With the history of the prostate cancer, we can never be too careful.
+
+PATIENT L636
+Right.
+
+DOCTOR L636
+I want to make sure it's nothing dangerous.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+I want to make sure it's not a spread of the cancer or something.
+
+PATIENT L636
+Right, right.  It's been a while. Almost ten years.
+
+DOCTOR L636
+Well yeah.  Let me talk to DOCTOR.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+Um.  
+
+PATIENT L636
+Is he here now?
+
+DOCTOR L636
+Yeah he's here now.  I'll go and talk to him.  I'll come right back in here and see you again.
+
+PATIENT L636
+Okay.  Should I put my shirt back on?
+
+DOCTOR L636
+Yes please.
+
+PATIENT L636
+Okay yeah.  
+
+DOCTOR L636
+I will be right back.  It'll be a couple minutes and I'll be right back in.
+
+PATIENT L636
+I'll be here.
+
+(DOCTOR OUT:  50:11  DOCTOR IN:  58:35)
+
+DOCTOR L636
+So we need to get a colonoscopy scheduled.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+And we need to get this CT scan.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+If I give you Valium for the day before and then this one for the day of.
+
+PATIENT L636
+Uh-huh.
+
+DOCTOR L636
+Do you think you can do it?
+
+PATIENT L636
+What the CT scan?
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+And what if you bring your wife with you too.
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+Do think that will help?
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+Okay.
+
+PATIENT L636
+Yeah.  I got my nephew with me now.  He drove me here.
+
+DOCTOR L636
+Okay.
+
+PATIENT L636
+Alright.
+
+DOCTOR L636
+If no one else can make it and you need someone to be there, just have me paged.
+
+PATIENT L636
+Uh-huh.  Are you talking about the colonoscopy?
+
+DOCTOR L636
+No it's a CT scan.
+
+PATIENT L636
+CT scan oh okay.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+Yeah cause I can't drive after that.
+
+DOCTOR L636
+The colonoscopy you can't drive after.
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+I'm talking about if you can't actually make it into the CT machine.
+
+PATIENT L636
+Oh yeah I can get in there, yeah no I go in you know.  It's not a tunnel @@@.
+
+DOCTOR L636
+That's the one they tried to do yesterday.
+
+PATIENT L636
+No that's the uh other machine.  That's not a CT scan it's a MRI you said it's a long.
+
+DOCTOR L636
+You're not getting an MRI you're getting a CT scan.
+
+PATIENT L636
+Yeah, well what did you have ordered yesterday?
+ 
+DOCTOR L636
+CT scan.
+
+PATIENT L636
+They told me an MRI down there.  
+
+DOCTOR L636
+@@@.
+
+PATIENT L636
+That's wacky doc.  Cause I'm going to show you, I hope I got it here.  Boy I'm telling you.  Give me a minute.
+
+DOCTOR L636
+Yeah sure.
+
+PATIENT L636
+Just give me one second.  MRI.
+
+DOCTOR L636
+I have no idea why they have that.
+
+PATIENT L636
+They made a mistake.
+
+DOCTOR L636
+Yeah it's right here.
+
+PATIENT L636
+I believe you.
+
+DOCTOR L636
+CT scan.
+
+PATIENT L636
+Yeah hey it's crappy.  
+
+DOCTOR L636
+Oh someone else tried to get @@@.
+
+PATIENT L636
+What was it?
+
+DOCTOR L636
+Yeah someone else tried to order you a MRI.
+
+PATIENT L636
+Yeah DOCTOR.
+
+DOCTOR L636
+Yeah.  Yeah oh a nurse practitioner.  For the liver @@@.
+
+PATIENT L636
+Oh yeah, yeah, yeah.
+
+DOCTOR L636
+That's why you had it.
+
+PATIENT L636
+Oh it wasn't yours.
+
+DOCTOR L636
+No mine was supposed to be.
+
+PATIENT L636
+Up a creek.
+
+DOCTOR L636
+The 16th.
+
+PATIENT L636
+Of what of April?
+
+DOCTOR L636
+Let me find it here.
+
+PATIENT L636
+It’d don’t say.
+
+DOCTOR L636
+04/16/10.
+
+PATIENT L636
+Oh 04/16 yeah.
+
+DOCTOR L636
+@@@.
+
+PATIENT L636
+Yeah.  This is weird.  This is weird.  Because look at all of this, it says cancelled, cancelled by patient.  It doesn’t look too good does it?  I don't know why that came out like that.
+
+DOCTOR L636
+I know.
+
+PATIENT L636
+If I missed anything I missed a couple of them because the weather so I don't know who's doing all of this.  Maybe there's another patient here using my Social Security card getting medical treatment.
+
+DOCTOR L636
+Alright let me uh order this thing here.
+
+PATIENT L636
+Okay.  @@@ like that.  Okay.  Oh brother.  Put in - DOCTOR put me in for a handicapped parking.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+Thing and uh the girl over there never filed it.  I got to do it all over again.  So I guess they still have some of them problems with not filing stuff.  Do you want me to keep this or do you want to keep this?
+
+DOCTOR L636
+Uh you can keep it.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+But uh just save it for the day.
+
+PATIENT L636
+Yeah I got you.
+
+DOCTOR L636
+I'm going to put it in for Monday okay.
+
+PATIENT L636
+For this coming Monday? What time?
+
+DOCTOR L636
+Got it set up.
+
+PATIENT L636
+I'm just trying to make it, you can do that, cause you want to be here right?  Is that one of the reasons still@@@.
+
+DOCTOR L636
+No I don’t need to be here.
+
+PATIENT L636
+Oh okay, hold on one second.  Oh shoot man.  Can you make it for a Wednesday?
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+Let's book it for Wednesday but somewhere around 10 o'clock if we can or they'll tell me.  Cause then I got stuff to do here too.
+
+DOCTOR L636
+Okay.
+
+PATIENT L636
+Okay, alright doc.  What’s going on here?  Can you get me a consult to the dentist?
+
+DOCTOR L636
+Uh @@@.
+
+PATIENT L636
+Okay I need you to do that cause I got a problem with the tooth and I need to see if they can do something with that cause there might be @@@.
+
+DOCTOR L636
+So you have uh, what's the reason for this?  Have you seen the dentist before?
+
+PATIENT L636
+Well before I had the surgery they pulled a tooth you know.  Cause now I got one that's bothering but I'm not able to chew my food thoroughly.
+
+DOCTOR L636
+Oh if you've been seen by them, I don’t need to put in a consult you just gotta call.
+
+PATIENT L636
+Call and make an appointment.
+
+DOCTOR L636
+Yeah.
+
+PATIENT L636
+Oh okay.  Great.  That'll work then.
+
+DOCTOR L636
+Have you been seen by the GI doctors before?
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+But not for a colonoscopy?
+
+PATIENT L636
+No they didn't do a colonoscopy.  I thought they were going to do a lower GI or something, what is that?
+
+DOCTOR L636
+That's the same thing.  
+
+PATIENT L636
+What's a lower GI?  Is that when they put all that barium in you?
+
+DOCTOR L636
+Uh sort a yeah.
+
+PATIENT L636
+That milky stuff, that white stuff?
+
+DOCTOR L636
+@@@.
+
+PATIENT L636
+O brother.  I don't know what they want but I thought she had said the lower GI.  I don't need that, I had one of those many years ago and.
+
+DOCTOR L636
+If you can get the GI consult, you need to get the labs drawn.
+
+PATIENT L636
+I had labs drawn yesterday.
+
+DOCTOR L636
+Uh.
+
+PATIENT L636
+Did you get them back yet?  She got about six or eight things drawn on me.
+
+DOCTOR L636
+Do you have prosthetic heart valve?
+
+PATIENT L636
+No. 
+
+DOCTOR L636
+No uh, do you have a pacemaker?
+
+PATIENT L636
+No.
+
+DOCTOR L636
+Uh have you ever had a heart attack?
+
+PATIENT L636
+No.
+
+DOCTOR L636
+Uh pain in the chest?
+
+PATIENT L636
+No.
+
+DOCTOR L636
+Do you take Plavix?
+
+PATIENT L636
+No.
+
+DOCTOR L636
+Coumadin?
+
+PATIENT L636
+No.
+
+DOCTOR L636
+Lovenox, any @@@?
+
+PATIENT L636
+No.
+
+DOCTOR L636
+Do you take aspirin?
+
+PATIENT L636
+Yeah.
+
+DOCTOR L636
+@@@ keep taking the 10 mg of @@@.
+
+PATIENT L636
+Yeah if I get a headache, I took it about three years ago.
+
+DOCTOR L636
+@@@.  You're not a diabetic are you?
+
+PATIENT L636
+No.
+
+DOCTOR L636
+@@@ medication.  Alrighty, @@@ labs.  Your INR looked fine.  Your B12 is just fine.  Your PSA is 0.01.
+
+PATIENT L636
+Where do you get that?
+
+DOCTOR L636
+Very low @@@.  Your hemoglobin A1c is normal, 6.3 moderately high so, let's do that again.  @@@ is normal.  All of your blood counts look just fine.  You're a little anemic.
+
+PATIENT L636
+What does that mean?
+
+DOCTOR L636
+That means uh that you have low red blood cells.  That's probably another reason why we need a colonoscopy.
+
+PATIENT L636
+Gotcha.
+
+DOCTOR L636
+It could be blood loss and otherwise looks pretty good and then your electrolytes and cholesterol are pretty good.  Actually fantastic.  You got great cholesterol.
+
+PATIENT L636
+Hmm, must be the olive oil.  @@@.
+
+DOCTOR L636
+@@@.  So we have some repeat labs for the colonoscopy.
+
+PATIENT L636
+Okay.
+
+DOCTOR L636
+@@@.
+
+PATIENT L636
+Barium okay.
+
+DOCTOR L636
+So otherwise um follow-up in two months.
+
+PATIENT L636
+Sounds @@@.
+
+DOCTOR L636
+And if anything comes up before.
+
+PATIENT L636
+You'll call me.
+
+DOCTOR L636
+Yeah.  You're good to go.
+
+PATIENT L636
+@@@.  Alright.
+
+DOCTOR L636
+@@@.
+
+PATIENT L636
+I think I'll be fine.
+
+DOCTOR L636
+You have a good day.
+
+PATIENT L636
+Alright doc you take care.
+
+PATIENT LEAVES:  71:18
+
+Time is 5:04 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238108
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,698 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR O905
+PATIENT?
+
+PATIENT O905
+Hey how you doing?
+
+DOCTOR O905
+Oh that's fine.  Hi I'm DOCTOR, pleased to meet you.  Come on back.  Alright just take a seat wherever.  How you feeling today?
+
+PATIENT O905
+Pretty good.  Refills that's my only problem.
+
+DOCTOR O905
+Let's see, I just have to put in some blood work for the last patient, okay just give me one second here.
+
+PATIENT O905
+Okay.
+
+DOCTOR O905
+Okay.  So it looks like I don't think we've seen you here for quite a while.
+ 
+PATIENT O905
+Well I don't know about that.  I came in here three weeks ago and that's when they told me that they wanted to start me on insulin.
+
+DOCTOR O905
+Was this the Urgent Care?
+
+PATIENT O905
+Oh yeah it was in Urgent Care.
+
+DOCTOR O905
+Yeah.  So let me see what they said actually um.
+
+PATIENT O905
+And I been waiting to find out about the insulin probably for my diabetes it was 200 and something.
+
+DOCTOR O905
+@@@?
+
+PATIENT O905
+Yeah.
+
+DOCTOR O905
+Okay.
+
+PATIENT O905
+And the blood pressure dropped.
+
+DOCTOR O905
+You have a history of so you had a gastric bypass.
+
+PATIENT O905
+Yeah, everything going good when I lost 100 pounds till I gained 50 back recently.
+
+DOCTOR O905
+I think I'm supposed to give you the, I think this is why this is stapled here.
+
+PATIENT O905
+Hmm.
+
+DOCTOR O905
+@@@.  You gained 50 pounds back?
+
+PATIENT O905 
+Yep.
+
+DOCTOR O905
+Okay.
+
+PATIENT O905
+And as I gained it back I could feel that the diabetes was coming back cause I could see when I pee, I pee all night.
+
+DOCTOR O905
+Okay.  Okay.  And your blood pressure's high as well.
+
+PATIENT O905
+Yeah.  I can see them little dots in my eyes when I sit down real quick.
+
+DOCTOR O905
+Okay.  Now medication-wise you're not taking anything.
+
+PATIENT O905
+I don't have anything yet no.
+
+DOCTOR O905
+Okay.  So you were taking insulin before?
+
+PATIENT O905
+No. 
+
+DOCTOR O905
+What were you taking?
+
+PATIENT O905
+I was taking uh metformin and glyburide.
+
+DOCTOR O905
+Yeah I don't think we'll have to go straight to insulin or anything like that.  Um so how have you been feeling?
+
+PATIENT O905
+I've been feeling kind of sluggish mostly.  Cause I don’t sleep regular.  I have to take a sleeping pill to sleep so.  I had stopped taking them period cause I don't work no more so I stay up all night.
+
+DOCTOR O905
+Why were you seen in Urgent Care?
+
+PATIENT O905
+Just cause I hadn't seen anybody for a long time so they told me to go to Urgent Care.
+
+DOCTOR O905
+Oh okay.
+
+PATIENT O905
+So I could get in cause they just told me I had to wait and go to the clinic was so long I got @@@.
+
+DOCTOR O905
+Okay.  And why do you think you've put back on all this weight?
+
+PATIENT O905
+Cause I don't work no more.
+
+DOCTOR O905
+Oh okay.
+
+PATIENT O905
+I went to Rehab.  See I used to work here and they told me to go to Rehab and when you come back you could get back on board but I went to Rehab and when I came back they didn't put me back on board and I been sitting at home for like a year now.
+
+DOCTOR O905
+Uh-huh.
+
+PATIENT O905
+I ain't have nothing to do.
+
+DOCTOR O905
+And your sugars at home are usually around 200?
+
+PATIENT O905
+Well when I came here and they did it, it was like I don't have no meter at my house.
+
+DOCTOR O905
+Oh.
+
+PATIENT O905
+So that was one of the reasons I came here so I could you know start getting back into the Diabetic Clinic or something cause I know when she did my blood work it was over 250.
+
+DOCTOR O905
+Okay let me put in an order to go to Prosthetics or actually Pharmacy can give you a sugar monitor, I can I'll order that.
+
+PATIENT O905
+And if you can, put me in for a PSA because I just found out my brother had surgery a month ago cause he had cancer of the prostate.
+
+DOCTOR O905
+Okay.
+
+PATIENT O905
+And I don't think I've one of them in like four or five years.
+
+DOCTOR O905
+So it looks like the last clinic they did some blood work when you were here.
+
+PATIENT O905
+Yeah.
+
+DOCTOR O905
+Your LDL was good.  Your cholesterol looks good, except your triglycerides were high.
+
+PATIENT O905
+Uh-huh.
+
+DOCTOR O905
+Had you just eaten?
+
+PATIENT O905
+Uh uh, I fasted.
+
+DOCTOR O905
+This was fasting okay.  So, your kidneys look fine but yeah your sugars, definitely diabetic again.
+
+PATIENT O905
+Uh-huh.
+
+DOCTOR O905
+Your sugar was very high.  So what kind of diet have you been eating?
+
+PATIENT O905
+I don't even eat pork hardly any more cause I, switched to turkey, I got married she won't allow it and so I eat turkey, @@@ it's pretty good.  Lots of beans and rice.
+
+DOCTOR O905
+Oh lots of rice though?
+
+PATIENT O905
+Uh-huh.
+
+DOCTOR O905
+Rice has a lot of sugar.
+
+PATIENT O905
+Oh it do.
+
+DOCTOR O905
+Yeah, so that's kind of a no no.
+
+PATIENT O905
+What about spaghetti?
+
+DOCTOR O905
+It has all sugar.
+
+PATIENT O905
+Oh well that's the problem.
+
+DOCTOR O905
+All pastas and those are all carbohydrates.
+
+PATIENT O905
+I thought it was good for you.
+
+DOCTOR O905
+No, no, it's terrible for you actually.
+
+PATIENT O905
+Yeah cause I eat spaghetti like twice a week and rice once or twice a week.
+
+DOCTOR O905
+Well we'll get you hooked up with the MOVE Program again um.
+
+PATIENT O905
+Cause once I had the surgery and lost weight, my sugar went down to like 85-90 all the time so I had to stop taking the medicine completely cause then my blood sugar went too low.
+
+DOCTOR O905
+Okay.
+
+PATIENT O905
+I passed out at work one day but then I stopped taking all medications and I was fine for a couple years.
+
+DOCTOR O905
+Have you been drinking a lot of fluids?
+
+PATIENT O905
+Oh yeah, lots, a lot of water.
+
+DOCTOR O905
+So you were trying uh metformin?
+
+PATIENT O905
+I was taking that and glyburide cause for like a year or a year and a half I was on glyburide but it wasn't working and I was taking like four or five pills a day and they ended up giving me metformin to go with it and told me to take two of them a day with the glyburide.  It brought it down some but not enough.  It was still like 120 or 130 every day.
+
+DOCTOR O905
+And what were you taking for your blood pressure?
+
+PATIENT O905
+I can't remember the name of that stuff.
+
+DOCTOR O905
+Let's see if it's here.
+
+PATIENT O905
+I hated it because it give me a soft but then they started giving me Viagra but I was like, this is too many pills.
+
+DOCTOR O905
+@@@.  Okay maybe we could just start like a hydrochlorothiazide, that doesn't do anything sexually.
+
+PATIENT O905
+Yeah cause I got married, I can't be soft, I’ll be thrown out the house.
+
+DOCTOR O905
+Okay um and any other pain or problems besides the diabetes and.
+
+PATIENT O905
+Just my knees cause I'm pretty sure I got to have my knees replaced.
+
+DOCTOR O905
+Have you talked with the surgeons?
+
+PATIENT O905
+I got an appointment Monday upstairs.
+
+DOCTOR O905
+Okay.
+
+PATIENT O905
+Uh-huh.
+
+DOCTOR O905
+With who, oh with them here?
+
+PATIENT O905
+Yeah.
+
+DOCTOR O905
+Okay.
+
+PATIENT O905
+Ortho.
+
+DOCTOR O905
+Okay and so you had some anemia after.
+
+PATIENT O905
+Yeah.
+
+DOCTOR O905
+So I think its fine now.
+
+PATIENT O905
+They had me taking iron pills and all that stuff yeah; I'm supposed to take a vitamin every day.
+
+DOCTOR O905
+And are you still taking, you're not taking the omeprazole anymore?
+
+PATIENT O905
+No.
+
+DOCTOR O905
+Okay.  But you had a bleed?
+
+PATIENT O905
+Yeah uh-huh.  That's when I was drinking a lot of liquor every day.
+
+DOCTOR O905
+Okay.
+
+PATIENT O905
+And uh I think it healed up right now.
+
+DOCTOR O905
+Okay.  Any alcohol use?
+
+PATIENT O905
+Uh-huh.
+
+DOCTOR O905
+How much?
+
+PATIENT O905
+I drink about three times a week.
+
+DOCTOR O905
+Um cause I know you have a history of problems with alcohol right?
+
+PATIENT O905
+Uh-huh.
+
+DOCTOR O905
+And how much are you drinking?
+
+PATIENT O905
+I drink about a 4-pack of beer.
+
+DOCTOR O905
+A 4-pack?
+
+PATIENT O905
+Yeah when I drink.
+
+DOCTOR O905
+A 4-pack of a regular sized beer?
+
+PATIENT O905
+Yes.
+
+DOCTOR O905
+Okay.  Some people say I drink a beer but it's like a 40 ounce.
+
+PATIENT O905
+No, no, no it's a regular but I get the strong beer, the malt liquor.
+
+DOCTOR O905
+Okay.  Do you feel you need help trying to stop drinking; do you think that's too much?
+
+PATIENT O905
+I did it.  I mean I went to Rehab six months.
+
+DOCTOR O905
+So you feel.
+
+PATIENT O905
+But I'm gonna tell you I didn't make no promises about alcohol but I did stop smoking crack.  I smoked crack for 25 years.
+
+DOCTOR O905
+And you stopped?
+
+PATIENT O905
+And I stopped.  I ain't had crack since I came back home from Great Lakes.
+
+DOCTOR O905
+Well good for you.
+
+PATIENT O905
+I got 18 months clean now.  I tell my wife all the time I would love to try to stop but I'm gonna drink my beer.  I made it this far, I’m not gonna hit that pipe no more I don't care.
+
+DOCTOR O905
+So maybe PSA, otherwise @@@ fine.
+
+PATIENT O905
+Can you see the A1c that I took in there?
+
+DOCTOR O905
+Yeah it's extremely high.
+
+PATIENT O905
+Is it past 10?
+
+DOCTOR O905
+Yeah.  It's double what it's supposed to be.
+
+PATIENT O905
+Double a 10?
+
+DOCTOR O905
+Well it's 11.
+
+PATIENT O905
+Oh okay.
+
+DOCTOR O905
+Because it should be less than 6.
+
+PATIENT O905
+Right.  I had got it down to 7.3.
+
+DOCTOR O905
+Yeah.
+
+PATIENT O905
+When I was doing really well, cause it was like 10 1/2 and I got it down to 7.
+
+DOCTOR O905
+Well let me have you sit up here and um do an exam.
+
+PATIENT O905
+Yeah.
+
+DOCTOR O905
+Deep breath.  Let me see your scar, any problems?  
+
+PATIENT O905
+Well it's kind of sore right here.  Cause there's one time when I was gaining weight back I thought they had opened a vein up.
+
+DOCTOR O905
+Oh, pardon.  I think it feels fine, I'm not feeling a hernia or anything like that.
+
+PATIENT O905
+Yeah.  I'm talking about down here.  At one time it was hurting for like a week.
+
+DOCTOR O905
+Uh-huh.
+
+PATIENT O905
+And I thought I'd stretched the stomach thing and it was supposed to be permanently little.
+
+DOCTOR O905
+Oh okay.  Um okay so I think as far as I think our main problems today are the diabetes and the blood pressure.  So we're gonna restart some medications which I'm gonna discuss with DOCTOR.  As far as just health screening type of stuff, I know you had a colonoscopy a few years ago.
+
+PATIENT O905
+Yes.
+
+DOCTOR O905
+So you're not due for that for eight more years.  You're fine.
+
+PATIENT O905
+Yeah.
+
+DOCTOR O905
+Um we could check a PSA today um otherwise you just had all your other blood work.
+
+PATIENT O905
+Right.
+
+DOCTOR O905
+I might, your one cholesterol number which we usually start medications for it looks okay but your triglycerides are really high.
+
+PATIENT O905
+Okay.  How.
+
+DOCTOR O905
+We don't like that, 473.
+
+PATIENT O905
+Okay.
+
+DOCTOR O905
+It's supposed to be below 150.
+
+PATIENT O905
+I know, I know.
+
+DOCTOR O905
+So I might um.
+
+PATIENT O905
+But at one time it was 1100.
+
+DOCTOR O905
+Oh.  Do you have a family history of that?
+
+PATIENT O905
+Yeah I think so.  The other one is on cholesterol medicine.
+
+DOCTOR O905
+Or do you want to go on fenofibrate?
+
+PATIENT O905
+I don’t know what that was?
+
+DOCTOR O905
+I think I'm probably going to start you on that.  It's a medicine that mostly just works on the triglycerides.
+
+PATIENT O905
+Okay.
+
+DOCTOR O905
+But otherwise.
+
+PATIENT O905
+I know I got it from 1100 to 100 some, I was shocked.  It took about four months but.
+
+DOCTOR O905
+Well I'm gonna go talk with DOCTOR about all this and otherwise we'll, I'll get you to see somebody about that MOVE Program, the Diabetes Program.
+
+PATIENT O905
+Okay.
+
+DOCTOR O905
+So we can kind of get you back on track okay.
+
+PATIENT O905
+Okay.
+
+DOCTOR O905
+Anything else?
+
+PATIENT O905
+One thing.
+
+DOCTOR O905
+Yeah.
+
+PATIENT O905
+They said I supposed to go through you about getting my travel pay so you check me out.
+
+DOCTOR O905
+Oh I'll set you up.
+
+PATIENT O905
+Okay.
+
+DOCTOR O905
+Anything else?
+
+PATIENT O905
+But other than that, when you say get a meter do they do that fasting meter like you use when you got to stick your finger?
+
+DOCTOR O905
+Yes.
+
+PATIENT O905
+They ain't got the disks yet?
+
+DOCTOR O905
+No.  Alright.
+
+PATIENT O905
+Damn, that’s why I wanted to get rid of the diabetes.
+
+DOCTOR O905
+Yeah.
+
+(DOCTOR OUT:  61:06  DOCTOR IN:  64:44)
+
+DOCTOR O905
+Alright.  So, he's good with all those medicines.
+
+PATIENT O905
+Uh-huh.
+
+DOCTOR O905
+This is the information about that MOVE Program.
+
+PATIENT O905
+Okay.
+
+DOCTOR O905
+These are @@@.  So we're going to start metformin.
+
+PATIENT O905
+Uh-huh.
+
+DOCTOR O905
+And glyburide and hydrochlorothiazide.
+
+PATIENT O905
+That's for blood pressure.
+
+DOCTOR O905
+That's for blood pressure and fenofibrate for your triglycerides.
+
+PATIENT O905
+Oh okay.
+
+DOCTOR O905
+We'll check your PSA and then I'm gonna have you follow up with the Pharm-D, the pharmacist.
+
+PATIENT O905
+Uh-huh.
+
+DOCTOR O905
+In a month to look at your sugars.
+
+PATIENT O905
+Okay.
+
+DOCTOR O905
+Start keeping a log again.  You know the early morning and then do one in the afternoon.
+
+PATIENT O905
+Uh-huh.
+
+DOCTOR O905
+And bring that with you.
+
+PATIENT O905
+Okay.
+
+DOCTOR O905
+Okay.
+
+PATIENT O905
+Okay.
+
+DOCTOR O905
+I'll give you this, stop at the front they'll make the appointment.  It's just for Pharm-D in one month.
+
+PATIENT O905
+So do I need uh, do I need to go to the Pharmacy or.
+
+DOCTOR O905
+Um they can mail them to you.
+
+PATIENT O905
+Yeah.
+
+DOCTOR O905
+But if you want to start them today then they probably won't get to you for a while.
+
+PATIENT O905
+So I know they can mail them cause I know how long it takes for them.
+
+DOCTOR O905
+Okay that's fine.  Um I'll put in for the blood work, the PSA test and let me see the phone number where we can reach you is, make sure of the number, NUMBER.
+
+PATIENT O905
+Yeah.
+
+DOCTOR O905
+Okay cool.  Alright well then we'll sent you those.  We'll get you back in the MOVE Program.  We'll see you in six months and hopefully we'll get all this kind of taken care of okay.
+
+PATIENT O905
+Okay, that sound good.
+
+DOCTOR O905
+Sound good?
+
+PATIENT O905
+Sounds good.
+
+DOCTOR O905
+Good luck with the knee doctors.
+
+PATIENT O905
+Yeah.
+
+DOCTOR O905
+Alright nice meeting you.
+
+PATIENT O905
+Now I'm gonna tell you, you the finest doctor I've had.
+
+DOCTOR O905
+Okay.
+
+PATIENT O905
+Don't forget to check me out.
+
+DOCTOR O905
+Alright I'll do that @@@ okay.
+
+PATIENT O905
+Okay you have a good one.
+
+PATIENT LEAVES:  66:49
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1286153
+TRANSACTION # 578-10-2-316-0103

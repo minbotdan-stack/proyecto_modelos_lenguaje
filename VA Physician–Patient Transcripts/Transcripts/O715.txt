@@ -1,0 +1,886 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR O715
+PATIENT.
+
+PATIENT O715 
+Yo.
+
+DOCTOR O715
+How's it going today?
+
+PATIENT O715
+Hi.  Good afternoon, hi.  So that's who I am.
+
+DOCTOR O715
+Alright I'm DOCTOR.
+
+PATIENT O715
+DOCTOR.  Business card, please?
+
+DOCTOR O715
+I don't think I have one on me here.
+
+PATIENT O715
+Okay I mean how can I get in contact if I like you again for the next time?
+
+DOCTOR O715
+Um let's see what I can find.
+
+PATIENT O715
+Okay.
+
+DOCTOR O715
+Uh. 
+
+PATIENT O715
+I think they messed up on the medications last time so we need to double check it.
+
+DOCTOR O715
+Okay.  @@@.  @@@.  It looks like the last time when you came in DOCTOR saw you because, I was out @@@ in general if you come back to the Blue Clinic on Tuesday afternoons it'll be me from now on okay.
+
+PATIENT O715
+Yeah but if don't come back on Tuesday I can request you right?
+
+DOCTOR O715
+Uh.  
+
+PATIENT O715
+I couldn't remember 90 days who you are.
+
+DOCTOR O715
+I mean yeah exactly.  It would be nice I wish I had, I’ve given out my last one, I’ll have to get refills @@@.
+
+PATIENT O715
+There's nothing wrong with that.  Nothing wrong with that at all isn't it?
+
+DOCTOR O715
+But uh, no so the last clinic, because we’re all residents from UIC here, my clinic is just Tuesday afternoons but if Tuesday afternoons work for you and that's when you can come in.
+
+PATIENT O715
+That’s if I like you, then I can say “DOCTOR on Tuesday.”
+
+DOCTOR O715
+Exactly.
+
+PATIENT O715
+Okay uh you know I'd like to have an appointment on Tuesday.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+Because he’s a good guy, we're getting along okay.  We're starting a doctor and patient relationship, other than seeing somebody different every time you come in.
+
+DOCTOR O715
+Good.
+
+PATIENT O715
+It's kind of like ugh.  It's like going to a shoe store and you know the shoes that you like and you know that they fit good but then you go to another shoe store and they don't have them, so what do I do, oh you go back to the original one.  Just uh alright.
+
+DOCTOR O715
+Alright so how have you been feeling?  
+
+PATIENT O715
+Feeling pretty good uh.  Been a little bit more active so because of the heat and that I've been kind of keeping it low key, doing uh bicycle riding, doing some walking, doing the flea markets, doing the garage sales okay and keeping myself active.  You know I'm unemployed right now and uh basically I think uh keeping myself in motion.  Coming here today though got me a little, my blood pressure's a little bit high because of the questions they asked me.  I had to go to the people down the hallway here and they asked me questions that I didn't expect them to ask, no they asked but then I came here and they asked the same questions again but uh and the thing is, basically if you have a will, who they would contact and all that and you know to me that doesn't matter.  I only have to have one person once I leave here.
+
+DOCTOR O715
+Correct.
+
+PATIENT O715
+Okay.  I'm just wondering whether @@@ okay but otherwise everything else @@@ for some reason here, it's a very important factor.
+
+DOCTOR O715
+Okay.
+
+PATIENT O715
+Because they don't know what to do with me after I'm gone.
+
+DOCTOR O715
+Well it's not that, it's not just that.  I mean there's more reasons that we ask.  I think one of the big things is we want to know if something were to happen what you would want and not at the end but before that.
+
+PATIENT O715
+Yeah I know.
+
+DOCTOR O715
+Uh.
+
+PATIENT O715
+I see what the technicality is.
+
+DOCTOR O715
+It's nothing, I mean some patients want everything done.  They want, no matter what, they would rather be alive on a ventilator than not um and so it's not a decision you have to make right this second. It's nothing that's urgent um. You're a very healthy 61-year-old that just.
+
+PATIENT O715
+62.
+
+DOCTOR O715
+What’s that?
+
+PATIENT O715
+62 next month.
+
+DOCTOR O715
+Next month yeah so a little of the high blood pressure that's been controlled.  A little bit of diabetes that you've been doing good.  There's no obvious problems that the diabetes has caused for you.  That's been pretty well controlled.  Uh so there's nothing that, we're not saying this because we're looking here and we're going oh man we better address this soon because.
+
+PATIENT O715
+Asked twice in one day, I'm kind of like you know.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+But then once again I'm gonna consider what they had to say to me today.
+
+DOCTOR O715
+Exactly.
+
+PATIENT O715
+Now I might have to have another decision or make another decision next time I come in.
+
+DOCTOR O715
+Good.
+
+PATIENT O715
+But then once again I just wasn't prepared for all that.
+
+DOCTOR O715
+Right and it's just one of those things that we just have to open up that topic at some point.
+
+PATIENT O715
+Yeah so.
+
+DOCTOR O715
+Twice on the same day.
+
+PATIENT O715
+You know I hope not.  I hope we can resolve.
+
+DOCTOR O715
+But uh so yeah it's just something to keep in mind.  It's not anything.  We didn't pick you out of the crowd and.
+
+PATIENT O715
+I know that.  I know, I know, I know.
+
+DOCTOR O715
+@@@.  But uh but so since March you've been feeling pretty well.
+
+PATIENT O715
+Yeah, no problems.  Every thing’s cooking along.
+
+DOCTOR O715
+Good.
+
+PATIENT O715
+And basically, hoping to find a job and.
+
+DOCTOR O715
+Uh-huh.
+
+PATIENT O715
+I've been very active on that.
+
+DOCTOR O715
+Good.
+
+PATIENT O715
+I've been actually been going out and contacting @@@.  You know what the problem is, is the people who've been very responsive with their thinking and being responsible for who they are and the thing is when you get a reply back no you're not qualified, we, you're specifically gonna keep you in mind, okay you're getting some type of response.  It's the ones that I send out.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+Did it get lost in cyberspace?
+
+DOCTOR O715
+Right, you don't know yeah.
+
+PATIENT O715
+I mean.
+
+DOCTOR O715
+Yeah it's like.
+
+PATIENT O715
+Yeah or.
+
+DOCTOR O715
+Either that or did it just, was there just some mix-up and you need to send it again or yeah.
+
+PATIENT O715
+Like this is the reason why too in relationships between doctors and patients should always be on a regular basis.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+Because then this way here you feel comfortable, you know where you're going, you know what to expect.
+
+DOCTOR O715
+Exactly.
+
+PATIENT O715
+Uh seeing only once before, like you said and uh okay I know who you are but I've forgotten how you work.
+
+DOCTOR O715
+Exactly.
+
+PATIENT O715
+Cause it's been six months.
+
+DOCTOR O715
+Yep.
+
+PATIENT O715
+Okay and the thing is that now that I'm beginning to have a little bit deeper understanding about you and I feel pretty comfortable and I'm kind of relaxed now, we can concentrate on who you are okay, alright.  So um the medication that's in question.
+
+DOCTOR O715
+Uh-huh.
+
+PATIENT O715
+Is this one.  Okay.
+
+DOCTOR O715
+Okay.
+
+PATIENT O715
+I found when I took one of these big ones that I take twice a day right.  Okay I should take two of these too every time I take one, so that's four a day.
+
+DOCTOR O715
+Take two of them by mouth every morning; let's see if that's what it says uh.
+
+PATIENT O715
+But that's what written out but the last time.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+I mean let's go back farther in our record and take a look at that and how many there were before.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+It should be, it should be 360 for 90 days.
+
+DOCTOR O715
+Correct.
+
+PATIENT O715
+Or 120 for a month.
+
+DOCTOR O715
+No yeah so you've usually been taking um one in the morning and one at night or two in the morning and two at night?
+
+PATIENT O715
+Two in the morning and two at night because I take two every time I take one of these big boys.
+
+DOCTOR O715
+Okay.
+
+PATIENT O715
+And that's for the.
+
+DOCTOR O715
+Yeah was your doctor specific on the old notes?
+
+PATIENT O715
+I mean.
+
+DOCTOR O715
+Let's see if that's twice a day, yeah you've had it twice a day.
+
+PATIENT O715
+Yeah, two tablets twice a day, that's four.  So I take two in the morning, two at night when I take the big boy 2000 mg, the horse pills.
+
+DOCTOR O715
+@@@ Uh you weren't having any episodes of low blood sugars right?
+
+PATIENT O715
+Uh sometimes if I don't eat right on time.
+
+DOCTOR O715
+Uh-huh.
+
+PATIENT O715
+Or you know what I mean, I might go for maybe an hour, hour and a half.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+Then it does go down quite a bit.  It goes down to about 70 but then once you get, I mean I never, I'm always, you feel it you know.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+You get busy, you know then you sit there and say wait a minute; we got to do something now, now okay.  So uh just basically yeah but then that's because I'm not paying attention to my daily procedure.
+
+DOCTOR O715
+Exactly.
+
+PATIENT O715
+Okay.
+
+DOCTOR O715
+Okay, so that's the only thing I'd be concerned if you're having those low blood sugars that maybe they went down to the lower dose but you know we can get, it should be two pills twice a day like you've always taken.
+
+PATIENT O715
+Yeah, yeah okay.
+
+DOCTOR O715
+And there's no reason to change it because like I said everything has been going well.
+
+PATIENT O715
+Yeah, yeah.
+
+DOCTOR O715
+Uh so I'll refill that and I'll send you that too out.
+
+PATIENT O715
+And I had my teeth examined and everything since the last time I was here and uh we had another little problem but they looked into it pretty deeply the last time I was here and we found out it's really not a problem.
+
+DOCTOR O715
+What was that?
+
+PATIENT O715
+That was the uh.
+
+DOCTOR O715
+The @@@?
+
+PATIENT O715
+Yeah and the one where I was having problems with post nasal drip from okay and for some reason uh it all got back to the idea of how much coffee I drink.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+Okay and kind of like okay.
+
+DOCTOR O715
+Sometimes they over think things.
+
+PATIENT O715
+Right, right, you know and I'm kind of like okay.  I cut down on coffee, guess what, no more problems.  No more post nasal drip.  So it took a little bit and we had to drink a lot of water and we put the pressure tester and all that other stuff and as far as they were concerned everything looked good and he focused in on the coffee.
+
+DOCTOR O715
+Good.  Well that, an easy fix then.
+
+PATIENT O715
+Yes it was.
+
+DOCTOR O715
+That's always nice.
+
+PATIENT O715
+Well even when it happens, first of all it's embarrassing.  Second of all you smell like that for the rest of the day.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+Okay and the thing is you know you got to find out what's really going on.
+
+DOCTOR O715
+Yeah, yeah.
+
+PATIENT O715
+Okay and sure enough, so all I want is the medication, now we have it all set right?
+
+DOCTOR O715
+Yeah um the refill on all of those yeah.
+
+PATIENT O715
+Yeah well you know and the thing is since I'm doing so well, will you write a refill?
+
+DOCTOR O715
+Yeah, yeah, we'll get it refilled now.  Yeah um.
+
+PATIENT O715
+One time and then this way here I'll come back in so I'll leave this six month.
+
+DOCTOR O715
+Uh-huh.
+
+PATIENT O715
+Period where I won't have to come in okay.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+And then I will come in and most likely we'll probably take another blood test and the whole deal, you know.
+
+DOCTOR O715
+Yeah that makes sense it's uh.
+
+PATIENT O715
+Yeah.
+
+DOCTOR O715
+Go in the Lab.
+
+PATIENT O715
+Yeah.
+
+DOCTOR O715
+Okay so let's see what your cholesterol and see when it was done, September so yeah we don't have to check it until next time.
+
+PATIENT O715
+Yeah.
+
+DOCTOR O715
+Yeah that'll be fine.  We just have to check it every one to two years but generally we'll check it every year since you're on a cholesterol medicine.
+
+PATIENT O715
+Uh-huh.
+
+DOCTOR O715
+Um to make sure it's continuing to work but otherwise.
+
+PATIENT O715
+Uh-huh.
+
+DOCTOR O715
+Everything else looks good.  Your blood pressure, I think you've got it a little bit elevated but that could be stress, that could be something else.
+
+PATIENT O715
+Well, yeah I told you what I, you know cause normally I don't get to answer these questions and uh well, see here, I got @@@ so anyway.  Nice person.  Interesting, it's nice for her to @@@.
+
+DOCTOR O715
+What can I say though, oh, alright.  So you'd like these all sent to you or do you want to pick them up today.
+
+PATIENT O715
+Uh I think we can have them sent to me and that'd be at the gas station which which is ADDRESS.  Cause I can't send it to my house you know why don't you?  They get picked up.
+
+DOCTOR O715
+Alright.
+
+PATIENT O715
+Yeah, it's what I have to do.  This is where I want it sent to.
+
+DOCTOR O715
+To the temporary one, yeah.
+
+PATIENT O715
+Yeah.  Because if they send it to the house, believe it or not this guy's following the mailman.  Yeah and there's nothing you can do about it as long as you can stay within uh 50 feet, they come @@@.
+
+DOCTOR O715
+Hmm.
+
+PATIENT O715
+It's in my @@@.
+
+DOCTOR O715
+That's a little scary.
+
+PATIENT O715
+So the thing is I send it to this guy and it's not a problem.
+
+DOCTOR O715
+Uh-huh.
+
+PATIENT O715
+He's my auto mechanic so; he's a pretty decent guy.
+
+DOCTOR O715
+Glyburide uh.  
+
+PATIENT O715
+Yeah and uh will it cost me anything for another pill cutter?  Okay, let's try to get another one of those, yeah.  That's amazing, cutting pills in half but I guess that saved a lot of money.
+
+DOCTOR O715
+Yeah and that's what we do here like in my other clinic over at the University of Illinois we rarely do that.  It's always like if you're going from 10 to 20 or from 20 to 10 you don't cut the 20s in half you just give them 10 mg so but here yeah it saves them money.
+
+PATIENT O715
+I can understand it saves almost millions.
+
+DOCTOR O715
+Really.
+
+PATIENT O715
+Yeah.
+
+DOCTOR O715
+I know it's a lot because there are very few medicines that we don't have people split up.  Have a seat up here.
+
+PATIENT O715
+Alright okay.
+
+DOCTOR O715
+I'll have you take deep breaths in and out.  Okay and lay back.
+
+PATIENT O715
+Okay.
+
+DOCTOR O715
+And uh, so no fevers, chills, chest pain, belly pain?
+
+PATIENT O715
+No, no.
+
+DOCTOR O715
+Nothing like that.
+
+PATIENT O715
+Nothing like that at all.
+
+DOCTOR O715
+No swelling in your legs?
+
+PATIENT O715
+No.  Everything else is fine.
+
+DOCTOR O715
+Good.
+
+PATIENT O715
+Anatomy stuff.
+
+DOCTOR O715
+Good okay.
+
+PATIENT O715
+No the reason why I had the feet cut checked out, I guess they wanted sensitivity cause I was growing a big callus.
+
+DOCTOR O715
+Okay.
+
+PATIENT O715
+And the problem was is that I couldn't feel anything, you understand on that side of the foot and he gave me a pair of inserts to put in and it made a big difference.
+
+DOCTOR O715
+It did?  Good.
+
+PATIENT O715
+Yep.  That callus went away and I got full complete feeling back on that side.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+Yeah it's just a matter of you know tidying and tuning.
+
+DOCTOR O715
+Exactly.
+
+PATIENT O715
+@@@.
+
+DOCTOR O715
+It’s always a good thing when it’s an easy fix.
+
+PATIENT O715
+Yeah and the thing is @@@ cheap shoes.  I'd say that's another thing, stay away from the coffee, don't buy cheap shoes.  Okay.
+
+DOCTOR O715
+@@@.
+
+PATIENT O715
+No.  I'm on a tight budget, oh yeah you know being unemployed it's kind of hard.  Tell you what I had these made um online okay and I want you to go over there and it's made by @@@ or something like that.
+
+DOCTOR O715
+Uh-huh.
+
+PATIENT O715
+And you get 500 for 15, that’s ten dollars to have them made and five bucks to have them shipped and you get them the next day.
+
+DOCTOR O715
+Really.
+
+PATIENT O715
+Yep for 500.
+
+DOCTOR O715
+You put on the.
+
+PATIENT O715
+Yeah, all that, keep it.
+
+DOCTOR O715
+Graphics and everything.
+
+PATIENT O715
+This one here I had done at, what's that place where they sell packing paper and all that other stuff, that was $29.95 for 350.
+
+DOCTOR O715
+Uh-huh.
+
+PATIENT O715
+That was a little too high and I like this, these come out good but then once again go on the internet and they can do everything.
+
+DOCTOR O715
+Oh everything.
+
+PATIENT O715
+Yeah what's that, Vista yeah I think it was Vista.  You see them advertised on TV okay and they make 500 cards for ten bucks okay and this is how it comes.
+
+DOCTOR O715
+Yeah alright.  I have some at home, I just have @@@.
+
+PATIENT O715
+Oh could be.
+
+DOCTOR O715
+I keep forgetting to bring them.
+
+PATIENT O715
+Sounds good, being a doctor.  I mean.
+
+DOCTOR O715
+We'll see, @@@.
+
+PATIENT O715
+No I mean being a doctor you know.
+
+DOCTOR O715
+Right yeah.  So let me talk with.
+
+PATIENT O715
+Okay.
+
+DOCTOR O715
+DOCTOR.
+
+PATIENT O715
+Sure.
+
+DOCTOR O715
+He's my attending right now and we'll get you out of here in just a bit.
+
+PATIENT O715
+Okay, alright.
+
+(DOCTOR OUT:  52:55  DOCTOR IN:  73:43)
+
+DOCTOR O715
+Alright, sorry about that.
+
+PATIENT O715
+Alright no problem, I understand he's probably pretty busy too.  I want you to print your name on here too before you leave.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+Are we gonna double check our quantities again?
+
+DOCTOR O715
+Yeah I'll just run it through one more time.
+
+PATIENT O715
+Okay.
+
+DOCTOR O715
+And see you back here in six months.
+
+PATIENT O715
+Okay.  Oh you're gonna do that okay.
+
+DOCTOR O715
+Yeah @@@.
+
+PATIENT O715
+Come up again okay.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+Do you like that Vista; yeah I think its Vista Point or Vista Pal.  You'll find it on the internet.
+
+DOCTOR O715
+Uh-huh.
+
+PATIENT O715
+Print your business card for ten bucks.
+
+DOCTOR O715
+Yeah.
+
+PATIENT O715
+And it's really good you can do everything on the computer.  So we're gonna check the quantities of these again and.
+
+DOCTOR O715
+Yeah I'll just make sure.
+
+PATIENT O715
+Yeah.
+
+DOCTOR O715
+I gave you one refill on everything so I'm gonna give you a 90 day supply and one refill so.
+
+PATIENT O715
+Yeah, alright, give me six months.
+
+DOCTOR O715
+I'll see you back in six months.
+
+PATIENT O715
+Right.
+
+DOCTOR O715
+Uh otherwise we'll not need any blood work or anything till then.
+
+PATIENT O715
+Okay.  Now the thing is when I go for a refill I just call it in?
+
+DOCTOR O715
+Yep.
+
+PATIENT O715
+Just call it in.
+
+DOCTOR O715
+Uh yeah as far as I know, I don't know.
+
+PATIENT O715
+I don't know the procedure here that I kind of like, they told me they have a new procedure here going.
+
+DOCTOR O715
+Really.
+
+PATIENT O715
+Yeah.
+
+DOCTOR O715
+Alright, yeah I'm not sure as far as calling it in to get refills I'm not sure.  If you need, like there's no refills available and you need them you can always talk with them and I don't know if you have the clinic number.
+
+PATIENT O715
+Yeah I got the clinic number.  I got that yeah.
+
+DOCTOR O715
+And um they can just let them know my name and they can get a hold of me and I can put in for a refill.
+
+PATIENT O715
+Uh-huh.
+
+DOCTOR O715
+Like if you need them.
+
+PATIENT O715
+See.
+
+DOCTOR O715
+Just say something got stolen and.
+
+PATIENT O715
+Right, right, right.
+
+DOCTOR O715
+In the mail uh we can always just put them in again and send them to the right place.
+
+PATIENT O715
+Now you know @@@.  See once again I didn't know that.  The only thing I had to do is.
+
+DOCTOR O715
+I mean now that.
+
+PATIENT O715
+Drop your name you know.
+
+DOCTOR O715
+Exactly, now that you're in the clinic I mean we've been seeing each other, I mean this is only your second time but you're in my clinic and as long as you want me to be I'm going to be your primary doctor.
+
+PATIENT O715
+Uh-huh.
+
+DOCTOR O715
+So we don't have to go through all the rig-a-ma-roll if um just something happens with your meds.
+
+PATIENT O715
+Well that's important.
+
+DOCTOR O715
+Yeah these aren’t medications that I'm concerned that you're abusing or anything like that.
+
+PATIENT O715
+Right, right, right.
+
+DOCTOR O715
+It's something that, whatever if you lose them.
+
+PATIENT O715
+Right well I've got some; I need the diabetic ones for sure.
+
+DOCTOR O715
+Exactly and they can get a hold of me or get a hold of the nurse and they can get a hold of me.
+
+PATIENT O715
+Okay.
+
+DOCTOR O715
+And we can get it all taken care of.  Alright.
+
+PATIENT O715
+Alright.
+
+DOCTOR O715
+Everything else looks good though.  We'll see you back here in about six months.
+
+PATIENT O715
+Okay.
+
+DOCTOR O715
+And recheck everything.
+
+PATIENT O715
+Excellent.  Very good sir.
+
+DOCTOR O715
+Good to see you.
+
+PATIENT O715
+Excellent.  Well it feels good that we had this little talk and we're getting to know each other even better and now I know a little bit more about the procedure.
+
+DOCTOR O715
+Exactly.
+
+PATIENT O715
+And uh the only thing I have to really make sure is before I leave here is talk to somebody about the refill and make sure I follow the directions.
+
+DOCTOR O715
+Yeah, I don't know who would be good.  I mean you can try to get in touch, I mean you can go talk to the Pharmacy people.  Tell them I know.
+
+PATIENT O715
+Yeah.
+
+DOCTOR O715
+Do you know her?
+
+PATIENT O715
+No I don't know her.
+
+DOCTOR O715
+She could help you with it.
+
+PATIENT O715
+Talking with the Pharmacy people right now is like whoa, you know what I'm saying.
+
+DOCTOR O715
+Uh-huh.
+
+PATIENT O715
+It's kind of like.  
+
+Doctor talks with another person regarding prescriptions)
+
+DOCTOR O715
+@@@.
+
+PATIENT O715
+I will go to see her.
+
+DOCTOR O715
+Yeah @@@.
+
+PATIENT LEAVES:  78:15
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275415
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,903 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@   
+
+DOCTOR Z166
+PATIENT.  How you doing?  Oh about the same?
+
+PATIENT Z166
+Yeah they told me uh.  I could take it.  @@@.
+
+DOCTOR Z166
+@@@.
+
+PATIENT Z166
+Cause he said I had a refill, but @@@ said I didn't.
+
+DOCTOR Z166
+Uh how are you doing?
+
+PATIENT Z166
+In pain.
+
+DOCTOR Z166
+But you've been taking this pain medication @@@.
+
+PATIENT Z166
+What you mean?
+
+DOCTOR Z166
+@@@ Too many, too many of them. 
+
+PATIENT Z166
+Uh naw she cut me back.
+
+DOCTOR Z166
+Before that.  That's why she cut you back because.
+
+PATIENT Z166
+Yeah she told me my kidney.
+
+DOCTOR Z166
+Right.
+
+PATIENT Z166
+Because I'm on the TB medication.
+
+DOCTOR Z166
+And also that amount of um.
+
+PATIENT Z166
+But I was doing fine, I been @@@.
+
+DOCTOR Z166
+They said.
+
+PATIENT Z166
+But the.
+
+DOCTOR Z166
+So basically what happens is you're doing fine on the pain but.
+
+PATIENT Z166
+@@@
+
+DOCTOR Z166
+@@@ is your liver cannot handle it anymore all those pain medications.    
+
+PATIENT Z166
+@@@.  Right.
+
+DOCTOR Z166
+Uh and you're only 47.
+
+PATIENT Z166
+What the age got to do with it?
+
+DOCTOR Z166
+I want you to be old and get old.  I don't want you to die young with your liver problems.
+
+PATIENT Z166
+I know.  A lot of this stuff, my whole family is like this almost.
+
+DOCTOR Z166
+So we got to find out something.  How to protect your liver and get you out of pain.
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+Right.
+
+PATIENT Z166
+Right.  See my family's all been like this.  My granddaddy.
+
+DOCTOR Z166
+What do you mean?
+
+PATIENT Z166
+My whole family they, they grew up with something wrong with their joints is messed up.
+
+DOCTOR Z166
+Yeah I believe you, I believe you.
+
+PATIENT Z166
+I got a cousin @@@ they can’t turn their neck @@@.
+
+DOCTOR Z166
+Yeah but that doesn't mean that you have to be in pain but that doesn't mean we @@@.
+
+PATIENT Z166
+My joints is like deteriorating. I don’t know what’s wrong.  Like my arm, I can't move my arm. Messed up. That's just @@@ limitation on my arm.
+
+DOCTOR Z166
+Uh-huh, uh-huh.
+
+PATIENT Z166
+That's tough and then my joints with the back and everything.  Now it's my hip, now my shoulder.  
+
+DOCTOR Z166
+Okay in your back.
+
+PATIENT Z166
+It's in my back right.  My back's been hurting @@@. Something new, that’s my problem with that I say doc what's going on with my, what's really going on here?  
+
+DOCTOR Z166
+I hear you um.
+
+PATIENT Z166
+Um well I know I’m in pain because you cut me down on my medication.  You what I'm saying you gonna cut back.  You know get off that TB stuff.  That's what's probably messing with my liver.  But ain't never had no problem with it until I started taking that.
+
+DOCTOR Z166
+No, you don’t have problems with your liver.
+
+PATIENT Z166
+For the kidney, whatever.  I wouldn't had no problem I would keep on my medications.
+
+DOCTOR Z166
+Uh-huh.
+
+PATIENT Z166
+Until I started taking that what @@@ she told me that it mixed with my @@@ and stuff.
+
+DOCTOR Z166
+That medication you're taking doesn’t affect the kidneys and we're monitoring your liver.
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+And your liver is doing okay so far.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+And you're not gonna take it for the rest of your life, it's only for nine months and you're almost half, @@@.
+
+PATIENT Z166
+Hope, hope.
+
+DOCTOR Z166
+So you have another four or five.
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+You're done after that.  You don't take that, so we @@@ risk of tuberculosis.  Uh that's one thing.  The other thing is I, you're in pain.
+
+PATIENT Z166
+Yeah.
+
+DOCTOR Z166
+And the medications @@@.
+
+PATIENT Z166
+@@@ they will.
+
+DOCTOR Z166
+Well I mean if, if I give five pounds of pain medication, of course you're gonna do it.
+
+PATIENT Z166
+But it's alright.
+
+DOCTOR Z166
+But that's not the answer because it kills all the other organs in your body but um I'm don’t remember, have you ever been seen in the Pain Clinic?
+
+PATIENT Z166
+No, I tried to schedule a class with the Pain Clinic.
+
+DOCTOR Z166
+A class?
+
+PATIENT Z166
+Right yeah.  @@@ I thought they had a class or something.
+
+DOCTOR Z166
+No, no, no. I want you to see the doctor.
+
+PATIENT Z166
+Yeah I haven't seen the doctor.  @@@.
+
+DOCTOR Z166
+@@@.  Sometimes they can.
+
+PATIENT Z166
+Yeah I supposed to see Rheumatology next month.
+
+DOCTOR Z166
+Okay.  That was the other question but let you go first to the Pain Clinic for anything.
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+Because sometimes, not in all the joints but the joints that hurt the most they can uh inject steroids that will take the pain away for months.
+
+PATIENT Z166
+@@@ too @@@ I’m a diabetic and they didn’t want to. @@@
+
+DOCTOR Z166
+Who said that?
+
+PATIENT Z166
+That's what I meant that I know.  I @@@.
+
+DOCTOR Z166
+Who?
+
+PATIENT Z166
+Well since I been up here.
+
+DOCTOR Z166
+Yeah but in which clinic?  
+
+PATIENT Z166
+Here.
+
+DOCTOR Z166
+Here in General Medicine.
+
+PATIENT Z166
+Right, right.  @@@.
+
+DOCTOR Z166
+The steroids would increase the sugars yes.  The problem is that we can deal with the sugars with medications as long as it takes care of the pain okay.  Now is this the first time you going to go to Rheumatology?
+
+PATIENT Z166
+Yeah, yeah.  @@@ wouldn’t see me @@@.
+
+DOCTOR Z166
+Yeah I remember what @@@.
+
+PATIENT Z166
+Right because you told me that I was drinking.
+
+DOCTOR Z166
+@@@.
+
+PATIENT Z166
+Right, right but I was drinking and stuff.  And you say, well you better stop drinking @@@.  So I stopped drinking and I started @@@. @@@ I might drink something.
+
+DOCTOR Z166
+You know what?
+
+PATIENT Z166
+What?
+
+DOCTOR Z166
+@@@ medication, just don’t.
+
+PATIENT Z166
+Yeah I know, I know I try not to but you know.  I drink for years and you don't drink.
+
+DOCTOR Z166
+I know.
+
+PATIENT Z166
+No, no, if @@@ I might hurt something.
+
+DOCTOR Z166
+So.
+
+PATIENT Z166
+@@@ you know about me @@@.
+
+DOCTOR Z166
+So they @@@.
+
+PATIENT Z166
+I drink a little more, if you know what I'm saying, every once in a while that's the thing. To get out of that pain, that pain.  I know.
+
+DOCTOR Z166
+The Rheumatology doctors are the joint doctors.
+
+PATIENT Z166
+Right, right.
+
+DOCTOR Z166
+Okay.
+
+PATIENT Z166
+Yeah.
+
+DOCTOR Z166
+They got some new kinds of medications for this type of pain.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+Okay.  It's not; it's medications that really have turned life around for a lot of people.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+What these medications do though, you cannot take them if you are at risk of tuberculosis.  One, well let me finish.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+Once you are treated for tuberculosis then we can see that it's alright, now we can do this medication.
+
+PATIENT Z166
+I @@@ medicine a year from now.
+
+DOCTOR Z166
+No, six months.
+
+PATIENT Z166
+Yeah, that's a half of a year.
+
+DOCTOR Z166
+Well, you’re only 47.  We got to do something in terms of @@@ being in pain.
+
+PATIENT Z166
+Yeah.
+
+DOCTOR Z166
+Alcohol is not the answer.
+
+PATIENT Z166
+No.  I don't know, maybe I can try @@@.
+
+DOCTOR Z166
+@@@.
+
+PATIENT Z166
+I know that it is.  It is getting where it could.  The pain is like being temporary and @@@ drink some more and after that, drink some more.
+
+DOCTOR Z166
+Yeah you might be on @@@ cause I was wondering @@@.
+
+PATIENT Z166
+I know but you know, hey I ain't @@@.  
+
+DOCTOR Z166
+I do, I'm just trying to, I'm just trying to tell you what we're trying to do here.
+
+PATIENT Z166
+I understand what you're saying.
+
+DOCTOR Z166
+I mean what our goal is that we're trying to do.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+My goal as your primary care doc is for you not to be in pain.
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+But for you to get the best care that we can possibly give you.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+Okay.  Rheumatology doctors, as I said, are the joint specialists.
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+With regard to the pain.
+
+PATIENT Z166
+Uh-huh.
+
+DOCTOR Z166
+Uh have all these new kinds of fancy medications and injections as well that they can do injections um and that's all they do.  They don't deal with anything else.  They're great at what they do.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+They cannot give you that medication unless.
+
+PATIENT Z166
+@@@.
+
+DOCTOR Z166
+Exactly, exactly.  That's WWW.  I wish I could do something.
+
+PATIENT Z166
+Okay.  Yeah well I just to be in pain.
+
+DOCTOR Z166
+Well you've been in pain.  @@@.
+
+PATIENT Z166
+I meant more pain since the last month since the doctor took the medicine away.
+
+DOCTOR Z166
+@@@ decreased it @@@.
+
+PATIENT Z166
+Decreased it right, right.  It is cutting it back, cutting it back some.  
+
+DOCTOR Z166
+You know people are in joint pain that they can live with that.  People cannot live without liver.
+
+PATIENT Z166
+Yeah.
+
+DOCTOR Z166
+They cannot live without kidneys.
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+They cannot live without heart or brain.
+
+PATIENT Z166
+I thought that, what the problem is messing with my pills. The Vicodin.
+
+DOCTOR Z166
+Hydrocordone and acetaminophen.
+
+PATIENT Z166
+@@@ right.
+
+DOCTOR Z166
+While you are taking your pills.  @@@.
+
+PATIENT Z166
+Huh, no that's right.  
+
+DOCTOR Z166
+Brand name for Vicodin @@@.
+
+PATIENT Z166
+@@@.
+
+DOCTOR Z166
+The tuberculosis drug is isoniazid.
+
+PATIENT Z166
+Yeah that don't mess with the liver?
+
+DOCTOR Z166
+That in maybe 1 to 2% of the patients can mess with the liver and your liver so far has been doing fine.
+
+PATIENT Z166
+But @@@ with the drug.
+
+DOCTOR Z166
+Yes.  @@@ they can lower your vitamins and we are already giving you vitamins for that now.
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+So that's not an issue and your uh liver is doing okay.  @@@ five days ago.
+
+PATIENT Z166
+You got the kidneys, what about the kidneys?
+
+DOCTOR Z166
+The @@@ liver.
+
+PATIENT Z166
+How are the kidneys doing?  @@@.
+
+DOCTOR Z166
+Your kidneys are hanging there, they're doing okay.  It's uh, it's doing okay.  It hasn’t changed.
+
+PATIENT Z166
+What about the A1c?
+
+DOCTOR Z166
+A1c is 6.0, excellent.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+Your A1c is as good as it gets.
+
+PATIENT Z166
+Right, yeah.
+
+DOCTOR Z166
+Your liver is @@@.
+
+PATIENT Z166
+It was 6.0?
+
+DOCTOR Z166
+Yeah 6.0.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+Uh the liver is as good as it gets.
+
+PATIENT Z166
+Uh another thing, I seen blood there in my stool, I’ll be doing that uh camera.
+
+DOCTOR Z166
+Yeah colonoscopy?
+
+PATIENT Z166
+I already had the colonoscopy.
+
+DOCTOR Z166
+When was that?
+
+PATIENT Z166
+Oh.
+
+DOCTOR Z166
+Let's see.
+
+PATIENT Z166
+I did that, about a month ago, I know the first of the month, around the first of the month.
+
+DOCTOR Z166
+Hmm let's see.
+
+PATIENT Z166
+Around the first, I did that.
+
+DOCTOR Z166
+Yeah we did a small bowel @@@.
+
+PATIENT Z166
+Right and they gonna do the capsule, what I got that next week or the week after the 7th I think @@@.
+
+DOCTOR Z166
+Okay.
+
+PATIENT Z166
+No the 5th.
+
+DOCTOR Z166
+On the 5th of May, let's see.
+
+PATIENT Z166
+Yeah it's like next month.  I already made the appointment.
+
+DOCTOR Z166
+Yeah you got @@@ one okay.  Let's see.  Yeah that's it, you're right, it is the 5th.  @@@.
+
+PATIENT Z166
+Um cause I'm supposed to take that bowel thing.  I @@@ but they told me not to take no more so I am getting @@@.
+
+DOCTOR Z166
+But the first thing is @@@ answer for the kidney because it can um.
+
+PATIENT Z166
+Right that's what they and it's in my stomach.
+
+DOCTOR Z166
+I understand it.  The Naproxen can damage your kidneys and your stomach.  Uh hydrocodone and acetaminophen that's what you take damages your liver uh and you take a lot.  If we came down to only one pill take care of all this joint pain can you imagine how much medications less you're going to take and how happy you're gonna be, so hang in there.  I mean you're halfway through.
+
+PATIENT Z166
+So, @@@ 
+
+DOCTOR Z166
+Let me see.  You got those pills on the 6th, three weeks ago; you've got another week to wait regarding the refills you have left.  So you have enough, it's not a matter of me not ordering it, you have enough.  It's a matter of time really.  Uh let's see what @@@.  Yet you are out of it?  Are you out of them completely uh the pain meds pill?
+ 
+PATIENT Z166
+Yeah.
+
+DOCTOR Z166
+The Naproxen I can give you some of that.
+
+PATIENT Z166
+I think I called in for, called in I don't know to get a refill or what.
+
+DOCTOR Z166
+For which one?
+
+PATIENT Z166
+Naproxen.
+
+DOCTOR Z166
+They filled it; they sent it on the 20th.  Let's see did they mail it.  They mailed it on the 20th so it should be, they mailed that.  They mailed the cream.
+
+PATIENT Z166
+Okay yeah they mailed the cream.
+
+DOCTOR Z166
+Okay so definitely that.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+The @@@.  That was probably for the pain as well.
+
+PATIENT Z166
+Yeah I use yeah that cream, well I been rubbing down on that.
+
+DOCTOR Z166
+Uh-huh.
+
+PATIENT Z166
+Like Ben-Gay.
+
+DOCTOR Z166
+They mailed it.
+
+PATIENT Z166
+I really some increase of that, a tube only lasts me a little week.
+
+DOCTOR Z166
+Hmm.
+
+PATIENT Z166
+That only last me a good week, right here, it @@@ full.
+
+DOCTOR Z166
+Let's do something.  I think we can @@@ too, let's see.  They have @@@ I think the same thing @@@.  Uh Naproxen, trazodone.  Are you taking trazodone for sleep?
+
+PATIENT Z166
+Yeah, yeah, it working out.  You know I'm on my tank now, I'm on uh CPAP.
+
+DOCTOR Z166
+Uh-huh CPAP.
+
+PATIENT Z166
+Yeah CPAP.
+
+DOCTOR Z166
+The thing with the mask.
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+Did it help you?
+
+PATIENT Z166
+Yeah I forgot to put some water in it, something like stuffing me up so I don't know whether I can do that anymore.  I took it off because I'm having stuffed it, cause the humidifier, I can't @@@ with the humidifier.
+
+DOCTOR Z166
+Oh @@@
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+Um let's see @@@.  Okay yeah um.  I'm looking at long term.  I'm looking how to get you better.  You’re a young man, if I can get your tuberculosis treated.
+
+PATIENT Z166
+And my @@@ look good.  @@@ surgery @@@.  It's just messed up, it just messed up with me, it just came in up again, like it hanging up.
+
+DOCTOR Z166
+All your joints.  It's not one joint, if it was only one joint it's.
+
+PATIENT Z166
+Right, right.  This one's like, that knee and if it swells up, that's my elbow right here.
+
+DOCTOR Z166
+So what you need to do is just @@@.
+
+PATIENT Z166
+That's what I did.
+
+DOCTOR Z166
+That @@@ fix all the joints, take the pain away from the joints.  So if I can treat your tuberculosis, if the Rheumatology doctors can help you find the perfect pill for you and when you take the pill from the rheumatologist will make the pain much better you'll be taking so much less medication, be more active.  By being more active you'll move more, hopefully lose some weight.
+
+PATIENT Z166
+I'm losing weight, I lost some.
+
+DOCTOR Z166
+Hold up. By losing more weight you won't need to use the mask don't you see?
+
+PATIENT Z166
+That's what cause it?
+
+DOCTOR Z166
+Yeah obesity.  That's the number one cause.  @@@ So that's the number one cause.  So @@@ what I'm saying is the answer to the problem is not add another pill, add another @@@.
+
+PATIENT Z166
+No.
+
+DOCTOR Z166
+@@@.
+
+PATIENT Z166
+@@@ I'm trying to find the answer too @@@, genetic-wise what I got that.  I knew what genetic wise.  @@@ genetic wise but I didn’t think I’d be hurting like this.
+
+DOCTOR Z166
+That's why, and the fact that there are a lot of people in your family have similar problems and it can be a genetic thing, something that's passed down.
+
+PATIENT Z166
+Right that's what I'm saying.  I know @@@ this.  If you know they could do a blood test like that.
+
+DOCTOR Z166
+Uh-huh.  Uh most often no but yet let me see if Rheumatology has done any, just double check and then if not I can always.  Whether they have done it or not I can I'll do some blood work today or next time you come here.
+
+PATIENT Z166
+Yeah I'll do it next week.  I'll be up next week and I'll get it.
+
+DOCTOR Z166
+Okay I'll put it for Monday and come you can do it anytime next week.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+Uh but do it before you see Rheumatology.
+
+PATIENT Z166
+Yeah okay.  Yeah I'll seem the 15th.
+
+DOCTOR Z166
+15th.
+
+PATIENT Z166
+14th or 15th.  My cousin always had gout, uh what's that other thing that he gets.  Not gout @@@.  But that @@@ what it feels like.
+
+DOCTOR Z166
+Yep, yeah um gout.
+
+PATIENT Z166
+Yeah.
+
+DOCTOR Z166
+Yeah we have gout that would give pain uh.  I would give you pain in some joints but not all over the body.  Um that's, so I'll put them for next Monday but um.
+
+PATIENT Z166
+So even if they give me shots in my arms that still wasn't to give me that limitation I feel in them.  I'm really losing patience and motion.
+
+DOCTOR Z166
+Motion, yeah.  We'll try to get some of it back.
+
+PATIENT Z166
+They just seem like my joints like, I don't know what.  I'll see I'm, I know like @@@ crushing down on @@@.
+
+DOCTOR Z166
+Yeah, @@@.
+
+PATIENT Z166
+Right and that can @@@.  You know what I'm saying; it'll give too much what they call it?
+
+DOCTOR Z166
+Uh.
+
+PATIENT Z166
+It’s just closing in on the spine.  
+
+DOCTOR Z166
+Right, right, right, stenosis.
+
+PATIENT Z166
+Stenosis.  Narrowing.  Yeah.  I know @@@ cause I had a doctor, DOCTOR checked, when he checked x-rays.
+
+DOCTOR Z166
+@@@ the diabetes is doing much better.  Okay. 
+
+PATIENT Z166
+Yeah I see them on the 5th, @@@ pills. I just got to watch myself with that glyburide @@@ black out.
+
+DOCTOR Z166
+How are your meds, how low are low?
+
+PATIENT Z166
+Uh 6 to I just got to watch myself.
+
+DOCTOR Z166
+You're taking, it's not, you're taking the glyburide right nothing.
+
+PATIENT Z166
+And also metformin too.
+
+DOCTOR Z166
+Um.
+
+PATIENT Z166
+You want to take me off them glyburides?
+
+DOCTOR Z166
+Yeah just do the metformin.  Keep the glyburide in your pocket don’t throw it away.
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+But don't take it for now.
+
+PATIENT Z166
+Okay.  Exactly woo.  I know a couple of times I ate.
+
+DOCTOR Z166
+Yeah definitely @@@.
+
+PATIENT Z166
+Walked around @@@ like 30 minutes.  Oh man I like to fall off.  @@@.  And then I take my medicine, I supposed to take my med all the time but I make sure @@@ exactly what's going on @@@ it's probably glyburide yeah.
+
+DOCTOR Z166
+@@@ stop the glyburide. Because your diabetes is doing good so.
+
+PATIENT Z166
+@@@ yes.  I'm through with that glyburide.  That's what I noticed it, woo.
+
+DOCTOR Z166
+It works good.
+
+PATIENT Z166
+@@@ too good.
+
+DOCTOR Z166
+What do you do for your blood pressure?  Are you taking medications for that?
+
+PATIENT Z166
+Uh-huh.  Want to get next week checked?
+
+DOCTOR Z166
+Yeah because uh probably when your blood pressure's high @@@ pain.  Uh so it used to be normal, you had good blood pressures in the past.
+
+PATIENT Z166
+Right.
+
+DOCTOR Z166
+So I'm not that worried about it now.  Um @@@ so I put in all the labs.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+So get the labs before Rheumatology.
+
+PATIENT Z166
+For next week.
+
+DOCTOR Z166
+Sometime next week.  Sometime uh before you see the.
+
+PATIENT Z166
+Rheumatology.
+
+DOCTOR Z166
+Those guys.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+Alright.  Any questions?
+
+PATIENT Z166
+Uh uh.
+
+DOCTOR Z166
+But if you do you can @@@ they know where to find me.
+
+PATIENT Z166
+Okay.
+
+DOCTOR Z166
+Green Clinic.
+
+PATIENT Z166
+Okay.  @@@.  
+
+DOCTOR Z166
+Uh we are getting you on the right track.
+
+PATIENT Z166
+I know.
+
+DOCTOR Z166
+We are truly getting there.  @@@.
+
+PATIENT Z166
+Okay.  Yeah.
+
+PATIENT LEAVES:  71:14
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286133
+TRANSACTION # 578-10-2-316-0103

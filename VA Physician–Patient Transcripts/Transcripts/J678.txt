@@ -1,0 +1,734 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR J678
+PATIENT?
+
+PATIENT J678
+Yeah.  How you doing?
+
+DOCTOR J678
+@@@ getting warm?
+
+PATIENT J678
+Yeah.
+
+DOCTOR J678
+Your COPD is getting worse?
+
+PATIENT J678
+Terrible.
+
+DOCTOR J678
+Okay, what medicines are you using every day?
+
+PATIENT J678
+I usually uh albuterol.
+
+DOCTOR J678
+Uh-huh.
+
+PATIENT J678
+And that.
+
+DOCTOR J678
+Okay.
+
+PATIENT J678
+You take the Combivent.
+
+DOCTOR J678
+I'll give you those refills okay.  That's it?
+
+PATIENT J678
+That's all.  @@@.
+
+DOCTOR J678
+Okay.  @@@.
+
+PATIENT J678
+I don't have any more.
+
+DOCTOR J678
+Okay, alright.  Uh you haven't been here @@@ since January.
+
+PATIENT J678
+Yeah.
+
+DOCTOR J678
+And you ran out @@@.
+
+PATIENT J678
+And @@@ out.
+
+DOCTOR J678
+Okay.  Okay.  There's supposed to be a couple other things you're supposed to be on okay.
+
+PATIENT J678
+Yeah.
+
+DOCTOR J678
+You're supposed to be on mometasone.
+
+PATIENT J678
+Those I run out of.
+
+DOCTOR J678
+Okay and you're on the mometasone and you're also supposed to be on Singulair both of those need to be taken twice a day every day no matter what.
+
+PATIENT J678
+Okay.
+
+DOCTOR J678
+Using that will make you feel a lot better.
+
+PATIENT J678
+Well give me those two things uh-huh.  I have to have some.  Yeah what my biggest problem is, is night.
+
+DOCTOR J678
+Uh-huh.
+
+PATIENT J678
+Because see I use that CPAP.
+
+DOCTOR J678
+Uh-huh.
+
+PATIENT J678
+And @@@.
+
+DOCTOR J678
+You sound awful.
+
+PATIENT J678
+What?
+
+DOCTOR J678
+You sound awful right now.
+
+PATIENT J678
+And I am @@@.
+
+DOCTOR J678
+You want to go to the ER?
+
+PATIENT J678
+No, no, I'm not feeling that bad.
+
+DOCTOR J678
+Are you sure?
+
+PATIENT J678
+Yes.
+
+DOCTOR J678
+Okay.
+
+PATIENT J678
+But uh it's uh, and I had one @@@ you know I had the CPAP and see, that happens with that at night.
+
+DOCTOR J678
+Uh-huh, uh-huh.  I think okay, so this one are you taking it uh every single day four times a day or just when.
+
+PATIENT J678
+When I need it.
+
+DOCTOR J678
+You should start taking this every single day at least twice a day.
+
+PATIENT J678
+Uh-huh.
+
+DOCTOR J678
+That's two puffs in the morning and two puffs at night.
+
+PATIENT J678
+Uh-huh.
+
+DOCTOR J678
+Every day.
+
+PATIENT J678
+That's all.
+
+DOCTOR J678
+Every day yeah.  And then the other ones I'm going to give you they're also going to be the same thing.  
+
+PATIENT J678
+Uh-huh.
+
+DOCTOR J678
+You are going to get three inhalers that you have to take every single day, two puffs in the morning and two at night.
+
+PATIENT J678
+Well what about this?
+
+DOCTOR J678
+As needed.
+
+PATIENT J678
+@@@.
+
+DOCTOR J678
+This is as needed.
+
+PATIENT J678
+Oh.
+
+DOCTOR J678
+If you take all the medicines that you’re supposed to take and if you still feel short of breath then you can take this one too.
+
+PATIENT J678
+Okay.
+
+DOCTOR J678
+This one you take all the time cause this medicine is in here.
+
+PATIENT J678
+Yeah.
+
+DOCTOR J678
+So you’re already getting it twice a day.
+
+PATIENT J678
+Uh-huh.
+
+DOCTOR J678
+Okay.  And you're going to pick it all up right, right now?
+
+PATIENT J678
+Yes.
+
+DOCTOR J678
+Okay.
+
+PATIENT J678
+And you know a couple of @@@ is out, you know, no more refills.
+
+DOCTOR J678
+Right.  Well I'm going to put in the refills for you.  
+
+PATIENT J678
+And like I say it'll be like it's @@@.
+
+DOCTOR J678
+Uh-huh.
+
+PATIENT J678
+It's uh, it's difficult to breathe and I have to use it, you know it helps.
+
+DOCTOR J678
+Okay.
+
+PATIENT J678
+Every night.
+
+DOCTOR J678
+Well we have to um, we have to look and make sure you don't have @@@.  Now when's the last time you took your meds?
+
+PATIENT J678
+My medicine, this morning.
+
+DOCTOR J678
+Um, this morning, okay you didn't run out of everything?  You just ran out of some @@@.
+
+PATIENT J678
+Well um uh gout.
+
+DOCTOR J678
+Okay.
+
+PATIENT J678
+I was out.
+
+DOCTOR J678
+Okay.
+
+PATIENT J678
+Of the gout.
+
+DOCTOR J678
+Right.
+
+PATIENT J678
+But the rest of it I had some, I took it this morning.
+
+DOCTOR J678
+Okay.  Okay.  Let me, right now I'm gonna refill the um the ones that you get @@@ that's out and then this other one @@@ that's out and then I'm gonna get some breathing tests okay cause we haven't done that in many years.
+
+PATIENT J678
+Uh-huh.
+
+DOCTOR J678
+I just want to see what's going on with your lungs okay.  What's your phone number?
+
+PATIENT J678
+Uh NUMBER.
+
+DOCTOR J678
+Any fevers or chills at all?
+
+PATIENT J678
+No I had, it seemed to me a couple nights ago, I had so much trouble because I was sick, you know I had you know sweats.
+
+DOCTOR J678
+Uh-huh.
+
+PATIENT J678
+Not every night.
+
+DOCTOR J678
+Okay are you having any uh swelling in your legs at all?
+
+PATIENT J678
+No cause that's, you know they don't, they ain’t too stable for some reason.
+
+DOCTOR J678
+@@@.  Do you have any problems like when you wake up in the middle of the night and you have to stick your head out the window to breathe or @@@.
+
+PATIENT J678
+No I hadn't get that but I have to get.
+
+DOCTOR J678
+You have to sit up?
+
+PATIENT J678
+Sit up.
+
+DOCTOR J678
+Okay.
+
+PATIENT J678
+Uh-huh.
+
+DOCTOR J678
+When are you using the inhalers?
+
+PATIENT J678
+Sometime at night I use that thing three or four times you know because when I wake up seems like @@@ clogged up.
+
+DOCTOR J678
+Okay and with the diabetes you're on the @@@.
+
+PATIENT J678
+Pills.
+
+DOCTOR J678
+Pills, @@@.
+
+PATIENT J678
+Now that.
+
+DOCTOR J678
+Glipizide @@@.
+
+PATIENT J678
+Yeah I had uh, like this morning when I, I hadn't taken anything you now all the time but, but that's the way it was this morning.  
+
+DOCTOR J678
+167.
+
+PATIENT J678
+And before breakfast and after.  
+
+DOCTOR J678
+@@@.  You have 50 before breakfast and @@@ at lunch.
+
+PATIENT J678
+Yeah @@@.
+
+DOCTOR J678
+Okay.  You've had a couple of lows I see.  They don't look too bad, @@@.
+
+PATIENT J678
+And I take 1 1/2.
+
+DOCTOR J678
+You take one and a half of those pills.
+
+PATIENT J678
+In the morning.
+
+DOCTOR J678
+In the morning.
+
+PATIENT J678
+And half at noon.
+
+DOCTOR J678
+Okay.  And you take @@@.  It looks like all the high ones are.
+
+PATIENT J678
+The high ones is after noon.
+
+DOCTOR J678
+In the afternoons.  But then there's some low ones too.
+
+PATIENT J678
+Yes I get some low ones cause half of them.
+
+DOCTOR J678
+In between February 23 and February 28th.
+
+PATIENT J678
+Yeah I been taking some.
+
+DOCTOR J678
+@@@ okay.
+
+PATIENT J678
+From what I was @@@.
+
+DOCTOR J678
+Since May @@@ 135 in the morning, 218 after lunch, 148 after dinner and 148's not bad after dinner, 159 before breakfast, that one's kind of high and then 270, that's a little high.  So today you are kind of high so.  When you're taking the 10 glipizide every night, the same dose of glipizide every day?
+
+PATIENT J678
+Uh-huh, I take.
+
+DOCTOR J678
+You take that pill.
+
+PATIENT J678
+The one and a half and the half.
+
+DOCTOR J678
+Okay.  Your hemoglobin A1c was 7.1, so that's not too bad but this it's @@@ check it again.
+
+PATIENT J678
+I can't remember why I don't have no appetite in the afternoons.
+
+DOCTOR J678
+Let's see.  Can you get labs today?
+
+PATIENT J678
+Yeah.
+
+DOCTOR J678
+Can you get your blood lab tests?
+
+PATIENT J678
+Yeah.
+
+DOCTOR J678
+Okay good.  Are you taking, do you have lisinopril and atenolol at home?
+
+PATIENT J678
+What?
+
+DOCTOR J678
+Lisinopril and atenolol?  Some other blood pressure medicines you're supposed to be on, do you have those at home?
+
+PATIENT J678
+Yes I have all, I have all the medicines.
+
+DOCTOR J678
+Okay these are the ones you're running out of.
+
+PATIENT J678
+Yeah.
+
+DOCTOR J678
+But you have all the meds.
+
+PATIENT J678
+But I have the other ones yeah.
+
+DOCTOR J678
+Okay and you also take hydrochlorothiazide?  The water pill?
+
+PATIENT J678
+Yeah, yeah.
+
+DOCTOR J678
+And then you also take amlodipine.  You take like five pills for blood pressure is that correct?
+
+PATIENT J678
+Yeah, yeah, I'm taking that right.  I got all the rest of them, but those are the ones that.
+
+DOCTOR J678
+Okay.  And I'll refill them all.  No do you feel, you can have them delivered by mail or you can pick them all up at the Lab.
+
+PATIENT J678
+I need to pick them up today.
+
+DOCTOR J678
+Okay.  So you took all five of your blood pressure pills this morning is that right?
+
+PATIENT J678
+No.
+
+DOCTOR J678
+Oh.
+
+PATIENT J678
+I took, they tell me to take some in the morning and I take some in the evening.
+
+DOCTOR J678
+Oh okay.
+
+PATIENT J678
+I think I.
+
+DOCTOR J678
+But the ones you're supposed to take in the morning you took all those?
+
+PATIENT J678
+Yeah the ones I take at morning I take but now I got some they just say take once a day and I divide them up and put you know.
+
+DOCTOR J678
+Take some in the morning and some in the evening.
+
+PATIENT J678
+Some in the evening.  I take some in the evening that um know night and some say morning.
+
+DOCTOR J678
+Yeah.
+
+PATIENT J678
+And I take those, you know like they say but the other ones I just kind of divide them up and just take once a day.
+
+DOCTOR J678
+Okay.
+
+PATIENT J678
+And I got some you know that say take twice a day.
+
+DOCTOR J678
+Uh-huh.  
+
+PATIENT J678
+Along with the aspirin.
+
+DOCTOR J678
+Okay.  Do you know your dose of allopurinol?
+
+PATIENT J678
+Huh?
+
+DOCTOR J678
+Do you know your dose of your gout medicine?  Is it 50 or 100 mg do you know?
+
+PATIENT J678
+I don't know but you’ll figure that out.  I know I haven't no problem ever since I been taking it.  But you know you had me down for March 20th.
+
+DOCTOR J678
+Okay.
+
+PATIENT J678
+But then they said it wasn't on the schedule and @@@ today.
+
+DOCTOR J678
+Well I don't know.
+
+PATIENT J678
+The last time I was here you had March the 20th on it.
+
+DOCTOR J678
+Yeah.
+
+PATIENT J678
+@@@.
+
+DOCTOR J678
+But they didn't send @@@ an appointment until now?
+
+PATIENT J678
+No.
+
+DOCTOR J678
+I wonder why they @@@.  I don't have a lot of control over the scheduling.
+
+PATIENT J678
+Uh-huh.
+
+DOCTOR J678
+@@@.  Alright let me listen to your lungs okay.
+
+PATIENT J678
+Do you want me?
+
+DOCTOR J678
+Uh yeah, could you take just the top shirt off?  @@@.  Just put your back facing me. There we go.  Deep breath, again, again, again okay.  That was pretty fast.  Then you can sit the regular way.  @@@ heart.  Look over there for, look that way and @@@.  
+
+PATIENT J678
+It's tingling.
+
+DOCTOR J678
+What?
+
+PATIENT J678
+It's tingling.  Like it went to sleep.
+
+DOCTOR J678
+Oh hmm.  Only this one and not on the other one?
+
+PATIENT J678
+Just this one.
+
+DOCTOR J678
+Just this one, the whole arm?
+
+PATIENT J678
+@@@.
+
+DOCTOR J678
+From there down.
+
+PATIENT J678
+Yeah.
+
+DOCTOR J678
+Like it's asleep?
+
+PATIENT J678
+Yeah.
+
+DOCTOR J678
+Hmm.  How long has that been going on?
+
+PATIENT J678
+It's been like a week.
+
+DOCTOR J678
+A week.  Do you sleep on it funny or something?
+
+PATIENT J678
+Well that could be the problem, I sleep on this side.
+
+DOCTOR J678
+Oh okay.  Well try sleeping on the other side and maybe it'll go away.
+
+PATIENT J678
+@@@.
+
+DOCTOR J678
+If it doesn't go away next time I see you we'll do an x-ray of your neck and that can make sure that everything looks okay.
+
+PATIENT J678
+Okay.
+
+DOCTOR J678
+@@@ normal here right?
+
+PATIENT J678
+Uh-huh.
+
+DOCTOR J678
+Alright you can keep this, I already ordered all your medicines okay.
+
+PATIENT J678
+Okay.
+
+DOCTOR J678
+You can get dressed and I'll talk to DOCTOR and I'll be right back.  @@@.  Be right back.  You're gonna get your blood tests today okay?
+
+PATIENT J678
+Okay yes.
+
+DOCTOR J678
+And then have you seen the eye doctor?
+
+PATIENT J678
+Yes.
+
+DOCTOR J678
+When did you see the eye doctor?
+
+PATIENT J678
+Well you know because I got these new glasses.
+
+DOCTOR J678
+Okay.  @@@.
+
+PATIENT J678
+Uh March, I think it was in March.
+
+DOCTOR J678
+March or February.  You know you went in November for the eye doctors; you get to go back this November.
+
+PATIENT J678
+@@@.
+
+DOCTOR J678
+Are you smoking?
+
+PATIENT J678
+Smoking?
+
+DOCTOR J678
+Do you smoke?
+
+PATIENT J678
+No.
+
+DOCTOR J678
+Okay.  Did you used to?
+
+PATIENT J678
+Yes.
+
+DOCTOR J678
+Do you remember when you quit?  What year?
+
+PATIENT J678
+98.
+
+DOCTOR J678
+98 okay.  Let me talk to DOCTOR and I'll be right back okay.
+
+PATIENT J678
+Okay.
+
+(DOCTOR OUT:  32:15  DOCTOR IN:  34:17
+
+DOCTOR J678
+So.  You're gonna get all your medicines and especially those inhalers.  Use them right away cause you sound really stuffy.
+
+PATIENT J678
+Yeah I will uh-huh.
+
+DOCTOR J678
+Um I want you to come back in about two months okay.
+
+PATIENT J678
+Right.
+
+DOCTOR J678
+After you get your breathing tests and all that stuff and we'll see you know and make sure you're on the right medicines.
+
+PATIENT J678
+Okay.
+
+DOCTOR J678
+You need to get some PFTs done which is the breathing tests um in about, you'll get them in about four weeks and then you're gonna get all your blood labs done today.
+
+PATIENT J678
+Uh-huh.
+
+DOCTOR J678
+So when you come back we'll talk about that @@@.  Okay I think that's it.
+
+PATIENT J678
+Thank you.
+
+DOCTOR J678
+@@@ know up front and they'll schedule the appointment.
+
+PATIENT J678
+Oh okay thank you.  The blood's already in on that right?
+
+DOCTOR J678
+What's that?
+
+PATIENT J678
+For the blood.
+
+DOCTOR J678
+Oh um yeah, over in the Lab.
+
+PATIENT LEAVES: 35:23.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275394
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,888 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR L177
+PATIENT?
+
+PATIENT L177
+What's up doc?
+
+DOCTOR L177
+Hi how are you? 
+
+PATIENT L177
+Fine.  You?
+
+DOCTOR L177
+Good.  
+
+PATIENT L177
+I just seen you in August.
+
+DOCTOR L177
+Huh.  I know.
+
+PATIENT L177
+And.
+
+DOCTOR L177
+But you've had some movement since then right?
+
+PATIENT L177
+Uh.
+
+DOCTOR L177
+You've been busy since then?
+
+PATIENT L177
+Well I was in the hospital.
+
+DOCTOR L177
+Yeah that's what I mean.
+
+PATIENT L177
+This is supposed to be a follow-up from that I guess.
+
+DOCTOR L177
+Uh-huh.  To see how you're doing.  So you were kind of dizzy and things were going on and then you went to the hospital.
+
+PATIENT L177
+Vertigo, dehydrated.
+
+DOCTOR L177
+Yeah you were pretty dehydrated.
+
+PATIENT L177
+Yeah um.  They said my blood and creatinine was way off.
+
+DOCTOR L177
+Yeah.  That's probably because of the dehydration.
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+Um.  They stopped some of your meds and I know Cardiology restarted one of them.  How have you been doing since then?
+
+PATIENT L177
+Okay.
+
+DOCTOR L177
+Okay.  You were discharged end of August right?
+
+PATIENT L177
+Should have been like in September I think it was.
+
+DOCTOR L177
+See September yeah somewhere around.
+
+PATIENT L177
+Third or fourth.
+
+DOCTOR L177
+Third or fourth.  Yeah it looks uh it looks like it may be the end of August I'm not sure.
+
+PATIENT L177
+End of August.
+
+DOCTOR L177
+You had been admitted on the 28th.
+
+PATIENT L177
+Right.
+
+DOCTOR L177
+How has it been since then, your dizziness and everything?
+
+PATIENT L177
+Well it's gone away.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+I lost three more pounds.
+
+DOCTOR L177
+Oh good.  But maybe in a bad way right?
+
+PATIENT L177
+No.
+
+DOCTOR L177
+You've been actively trying right?
+
+PATIENT L177
+Yes.
+
+DOCTOR L177
+Okay good.  I don't want to lose it because you're in the hospital.  Let's see.  Okay so your pressure is a little better.  You've been doing okay at home right?
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+I know you were low so you're probably running, you know what are you running at home?
+
+PATIENT L177
+Uh, I wasn't, gee back then I was running 90 over like 60 something.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+But the vertigo was so bad that I just lied in bed for like three days before I even came in here.
+
+DOCTOR L177
+Right now?
+
+PATIENT L177
+No way back then.
+
+DOCTOR L177
+Oh back then okay.  Okay.  Um.
+
+PATIENT L177
+I couldn't eat nothing.  I was nauseated all the time.
+
+DOCTOR L177
+You're still taking 80 and 90 of Lantus morning and evening?
+
+PATIENT L177
+Uh-huh.
+
+DOCTOR L177
+Okay and then are you still on 60 three times a day?
+
+PATIENT L177
+Yes.
+
+DOCTOR L177
+Of the.
+
+PATIENT L177
+Yes.
+
+DOCTOR L177
+Uh Aspart and you're still on the @@@? 
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+Okay and you're not sure which one you're on, if you're on the placebo or the uh?
+
+PATIENT L177
+I tell you the way it's been working I have seen where my sugars have been and it even went @@@, it's the real thing I think.
+
+DOCTOR L177
+When were you due to see Ophthalmology?
+
+PATIENT L177
+Did.
+
+DOCTOR L177
+You saw them.
+
+PATIENT L177
+Last week.
+
+DOCTOR L177
+You saw them yeah.  You saw them on the 7th.
+
+PATIENT L177
+Yeah everything's good.
+
+DOCTOR L177
+Everything looked good back there?
+
+PATIENT L177
+Yep.
+
+DOCTOR L177
+Okay.  You see Podiatry too right?
+
+PATIENT L177
+Um I'm still following up with the nail thing all the way from February.
+
+DOCTOR L177
+Okay so they check your, they saw you in August?
+
+PATIENT L177
+Yeah.  Plus they checked me with my gout too.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+Cause they say I'm a strange person.  I have it in a weird spot.
+
+DOCTOR L177
+Yeah.  Did they repeat any echo or imaging on you?
+
+PATIENT L177
+Uh coming up.
+
+DOCTOR L177
+You're coming up for a repeat okay.  So you'll get those and no increased shortness of breath, increased swelling in your legs?
+
+PATIENT L177
+Still having a little problem when I overdo it with fluid.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+And I can tell when I'm having, I'm being orthopneic at night is because maybe I'm sleeping on maybe three, four pillows.
+
+DOCTOR L177
+And is that your baseline?
+
+PATIENT L177
+If I overdo it with the fluids.
+
+DOCTOR L177
+You know more.  
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+You've got to be careful about the fluid.
+
+PATIENT L177
+Yeah, yeah.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+Yes.
+
+DOCTOR L177
+You got, you're getting an ultrasound of your thyroid again?
+
+PATIENT L177
+I guess yes.
+
+DOCTOR L177
+And that is.
+
+PATIENT L177
+It's coming up.
+
+DOCTOR L177
+That should of been coming up right?
+
+PATIENT L177
+Yeah October some time, 2nd.
+
+DOCTOR L177
+Yeah it's coming up.  I think you can get it any time.  They just ordered it a day or two ago so.
+
+PATIENT L177
+Okay.
+
+DOCTOR L177
+I think you can get it whenever now.  Um, losing the weight which is good.
+
+PATIENT L177
+What you told me to do.
+
+DOCTOR L177
+Uh-huh.  Things are gonna get better and they're already getting better okay.
+
+PATIENT L177
+Yeah.  What was it back in May you and DOCTOR almost read me the riot act.
+
+DOCTOR L177
+I think you have PTSD from that.  Sorry.
+
+PATIENT L177
+And then who and then when I get admitted that day, who's down there?
+
+DOCTOR L177
+Uh was she your attending?
+
+PATIENT L177
+No.
+
+DOCTOR L177
+In oh she was on first?
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+DOCTOR was.
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+I saw, I got an alert and I saw DOCTOR admit you and I was like.
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+What is he doing in the hospital?  I was looking at your thing and I was like but yeah, I was looking at it seeing what they were doing.
+
+PATIENT L177
+Believe it or not I came in to see DOCTOR uh for my follow-up for refractory cardiac and.
+
+DOCTOR L177
+Uh-huh.
+
+PATIENT L177
+What it was is I was in the office there and they said you don't look good.
+
+DOCTOR L177
+Oh.
+
+PATIENT L177
+Over there in building one where my telehealth is.
+
+DOCTOR L177
+Uh-huh.
+
+PATIENT L177
+And they said you don't look good and they're the ones that put me in.  They told me to go to the Emergency Room and the Emergency put you in.
+
+DOCTOR L177
+And put you in because your numbers didn't look good either.
+
+PATIENT L177
+Cause I tried to be good this year.  I tried to stay out.
+
+DOCTOR L177
+Yeah I mean I think your renal function is improving.  You got it done on the 30th.  It was 1.58, it was 4-ish I think when you were admitted.  All your other labs look good.  I mean your cholesterol is looking better but I think the last time that was whatever we had last time.
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+You're still on the niacin right and the?
+
+PATIENT L177
+Yes.
+
+DOCTOR L177
+Do you see NAME at all for your anything?  NAME.
+
+PATIENT L177
+She told me that uh now that I'm in this program okay.
+
+DOCTOR L177
+Which program?
+
+PATIENT L177
+The Excel Program for the diabetes.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+She says that.
+
+DOCTOR L177
+She can't mess with them.
+
+PATIENT L177
+She's taken off and so is my uh.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+My diabetic doctor which is DOCTOR.
+
+DOCTOR L177
+DOCTOR.  So who sees you?
+
+PATIENT L177
+That.
+
+DOCTOR L177
+The one doctor who does your?
+
+PATIENT L177
+Uh doctor yeah.  That's who.
+
+DOCTOR L177
+What are you on, let me see, you're on the niacin, fish oil you take 3000.
+
+PATIENT L177
+Yeah I called in.
+
+DOCTOR L177
+Fenofibrate.
+
+PATIENT L177
+The other night because I was filling my pills and there's a couple on there that you have to refill I think.
+
+DOCTOR L177
+Okay, I'll renew them.  No problem.
+
+PATIENT L177
+Have them sent please.
+
+DOCTOR L177
+Okay in the mail okay.
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+I saw your A1c was 9.
+
+PATIENT L177
+Down from almost 11.
+
+DOCTOR L177
+Yeah.  We can probably get it checked out.
+
+PATIENT L177
+She's got me going for an INR today.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+So if you want to put something in.
+
+DOCTOR L177
+Let's see.  It's only been a month.
+
+PATIENT L177
+I don't see you until like Christmas or something around there again.  Right?
+
+DOCTOR L177
+Yeah.
+
+PATIENT L177
+For my six month annually?
+
+DOCTOR L177
+Yeah we're annually.
+
+PATIENT L177
+Or January uh semi-annual.
+
+DOCTOR L177
+Semi-annual yeah.  I'll probably see  you a few times a year to try to keep you out of the hospital.
+
+PATIENT L177
+Yes.
+
+DOCTOR L177
+So they stopped your Aldactone and they stopped your.
+
+PATIENT L177
+Whatever it was.
+
+DOCTOR L177
+Metolazone.
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+And you just restarted metolazone.
+
+PATIENT L177
+Right.
+
+DOCTOR L177
+And the dizziness is better right?
+
+PATIENT L177
+Yes.
+
+DOCTOR L177
+And then you're checking your blood pressure okay.  Let me take a listen to you.
+
+PATIENT L177
+Okay.  You need the shirt off, what?
+
+DOCTOR L177
+No you're fine.  Okay.  Same amount of pillows though, same amount of distance walking that you can tolerate?  Good, better?
+
+PATIENT L177
+The distance is getting better.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+Because I.
+
+DOCTOR L177
+You're losing the weight too.
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+It's gonna get better you know the more active you are so.  
+
+PATIENT L177
+But uh the sleep thing, because I've been having trouble sleeping at night because of the back pain.
+
+DOCTOR L177
+The back pain that you're having?
+
+PATIENT L177
+Yeah but I'm having, I have an epidural scheduled for the 18th of October.
+
+DOCTOR L177
+Okay.  Take some deep breaths.  You can breathe normally, I'm just gonna listen to your heart.  Any swelling?
+
+PATIENT L177
+Just the normal.
+
+DOCTOR L177
+Just the normal amount.
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+Just by your sock line and everything.
+
+PATIENT L177
+Yeah.  Nothing gross.
+
+DOCTOR L177
+Have a seat.  Alright we'll probably gonna need to repeat your lipids before we see you next time.  Um and then I'll do the A1c at that time too okay.  But um I'll be right back okay.
+
+PATIENT L177
+Sure.
+
+DOCTOR L177
+Cause it looks like your friend, DOCTOR.
+
+PATIENT L177
+Oh gosh.
+
+DOCTOR L177
+Oh yeah.
+
+DOCTOR OUT:  33:31  DOCTOR IN:  50:54
+
+DOCTOR L177
+Alright.  We think you're doing okay okay.
+
+PATIENT L177
+Alright.
+
+DOCTOR L177
+Um I want to see you probably, let's see now is, saw you in October right, we'll see you in two months, we'll have you back.
+
+PATIENT L177
+Alright.
+
+DOCTOR L177
+Um.  Get your A1c and fasting lipid and you're going to all your appointments for like the echo and the ultrasound.  You know to get all those done okay.
+
+PATIENT L177
+Yes.
+
+DOCTOR L177
+And I'm gonna renew your medications and you just want them mailed.
+
+PATIENT L177
+Yep.
+
+DOCTOR L177
+Right okay.  If you need anything else from us besides that, we'll see you soon okay and we'll get this.
+
+PATIENT L177
+Question.
+
+DOCTOR L177
+Yeah.  
+
+PATIENT L177
+Uh.  I seem to be having a GI problem again.
+
+DOCTOR L177
+What kind?
+
+PATIENT L177
+Uh.
+
+DOCTOR L177
+What's going on?
+
+PATIENT L177
+Is it alright to have bowel movements four or five times a day?
+
+DOCTOR L177
+So what are you having like loose bowel movements or just.
+
+PATIENT L177
+No.
+
+DOCTOR L177
+Regular bowel movements?  How long have you been doing that?
+
+PATIENT L177
+I mean even with the morphine too.  I should be having it be a slow GI.
+
+DOCTOR L177
+Yeah.  How long has it been going on?
+
+PATIENT L177
+Uh for about the last three months now.
+
+DOCTOR L177
+Any blood or mucous in the stool?
+
+PATIENT L177
+Just if I go a lot you know during the day I think it's just the ring around there it's irritated, that's it because it's bright red.
+
+DOCTOR L177
+So you have bright red blood?
+
+PATIENT L177
+Yeah around the rectum.
+
+DOCTOR L177
+And it's bright red too.
+
+PATIENT L177
+No, no, just when I wipe.
+
+DOCTOR L177
+When you're wiping?
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+Do you have hemorrhoids?
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+So @@@.
+
+PATIENT L177
+No fistula.  They said I had a fistula before.
+
+DOCTOR L177
+No pain there?
+
+PATIENT L177
+No.
+
+DOCTOR L177
+Uh-huh.  No abdominal pain, no nausea or vomiting?
+
+PATIENT L177
+Not like before I had the colonoscopy done.  I had @@@.
+
+DOCTOR L177
+When did you have your colonoscopy?
+
+PATIENT L177
+Not the colonoscopy.
+
+DOCTOR L177
+You had a hemicolectomy.
+
+PATIENT L177
+Hemicolectomy, I had a sigmoidectomy you mean.
+
+DOCTOR L177
+When they took part of it out right?
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+Cause you had the.
+
+PATIENT L177
+So I can eat popcorn again.
+
+DOCTOR L177
+@@@.  So they're normal formed bowel movements but you're just having multiple ones?
+
+PATIENT L177
+Flat.  They're not round they're kind of.
+
+DOCTOR L177
+Like runny kind of?
+
+PATIENT L177
+No flat.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+Like the intestine the ziggy collapsed like.
+
+DOCTOR L177
+Like a pencil thin kind of?
+
+PATIENT L177
+Like a ribbon.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+Okay.
+
+DOCTOR L177
+I wonder if you're gonna need another colonoscopy again.
+
+PATIENT L177
+Check it out.
+
+DOCTOR L177
+No pain though?
+
+PATIENT L177
+No.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+Okay.  About the only other problem I noticed.  I got a thing coming up with the urologist.
+
+DOCTOR L177
+And you feel like you can't completely go to the bathroom?
+
+PATIENT L177
+I go but it's you know, it's like its inadequate and I go four, five, six times a day.
+
+DOCTOR L177
+Okay maybe you're not completely going those times that you do go.
+
+PATIENT L177
+I mean.
+
+DOCTOR L177
+Have you been.  I mean it might be because.
+
+PATIENT L177
+And sometimes when I do have a bowel movement it's like I cannot control it.  I mean when it says go now it means go now because or else you're gonna fill your pants.
+
+DOCTOR L177
+Okay.
+
+PATIENT L177
+Alright.
+
+DOCTOR L177
+And that's been recent?
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+Okay.  Let me go talk to, let me go talk to DOCTOR and see if we might need to set you up right now with a colonoscopy or if there's something.
+
+PATIENT L177
+Okay.
+
+DOCTOR L177
+We can try okay.
+
+PATIENT L177
+Yes ma'am.
+
+DOCTOR OUT:  55:09    DOCTOR IN:  57:33
+
+DOCTOR L177
+Okay.  I think we're gonna, it looks like it might be like you're not completely going is my, what the issue is.  I think we need to bulk up your stool a little bit more.  It could still be from the morphine.  It might be just presenting differently in you, you know.
+
+PATIENT L177
+Okay.
+
+DOCTOR L177
+Um I'm gonna give you some fiber to take okay.  Why don't you take it for the next uh whatever month or so and see if that helps with your stool okay.  I'll mail it to you okay.
+
+PATIENT L177
+Yes ma'am.
+
+DOCTOR L177
+Um and then if that, you know whether or not it works what not I'm gonna see you in ten weeks anyways okay.
+
+PATIENT L177
+Okay.
+
+DOCTOR L177
+See if that works.  Alright and then if we have to go and do a colonoscopy then we'll do that but let's see if we can figure out what it is.  I mean it's like a motility problem or whatever it is okay.
+
+PATIENT L177
+Okay.  
+
+DOCTOR L177
+And I'm gonna put in labs for you okay.
+
+PATIENT L177
+Yes.
+
+DOCTOR L177
+In two weeks, in about two months sorry.  Getting all messed up okay.
+
+PATIENT L177
+Why you getting all messed up?  Rough day?
+
+DOCTOR L177
+It’s always a rough long day.
+
+PATIENT L177
+You're only here one day a week ain't you?
+
+DOCTOR L177
+I'm doing other things.
+
+PATIENT L177
+Oh I know you gotta do your rounds here.
+
+DOCTOR L177
+I'm here the whole week.
+
+PATIENT L177
+Yeah but I mean you're clinic is just on Wednesday.
+
+DOCTOR L177
+Every five weeks we're in clinic yeah.
+
+PATIENT L177
+Yeah.
+
+DOCTOR L177
+There you go, you're all set okay.
+
+PATIENT L177
+Yes ma'am.
+
+DOCTOR L177
+Call if you have any questions okay.
+
+PATIENT L177
+I'll see you in two months.
+
+DOCTOR L177
+Yeah.
+
+PATIENT L177
+Okay.
+
+PATIENT LEAVES:  59:11.
+
+Time is 4:05.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  38301
+TRANSACTION # 578-10-2-316-0103

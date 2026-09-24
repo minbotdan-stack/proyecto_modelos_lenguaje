@@ -1,0 +1,463 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR S875 
+PATIENT?
+
+PATIENT S875
+Yeah.  What you having a party?
+
+DOCTOR S875
+I don't know I wasn't invited.  I'll take you back.
+
+PATIENT S875
+@@@ way back there.
+
+DOCTOR S875
+@@@.  Take a seat.  @@@.  Just a little bit more okay, enough to make the door shut okay.  @@@ way back here, I'm sorry.
+
+PATIENT S875
+Hmm.
+
+DOCTOR S875
+So I don't believe we've met, I'm DOCTOR.
+ 
+PATIENT S875
+DOCTOR, no I don't think we've met.
+
+DOCTOR S875
+Alright, how are you doing today?
+
+PATIENT S875
+I'm fine.  @@@ I'm living.
+
+DOCTOR S875
+Okay.  That's good.  I understand that you have kind of some chronic pain.
+
+PATIENT S875
+Yeah.
+
+DOCTOR S875
+Okay after a car accident?
+
+PATIENT S875
+You know actually it’s been this way most of my life cause of the car accident and I started having these dreams and I be fighting in my sleep and they're starting to get worse.
+
+DOCTOR S875
+And that was all after the car accident?
+
+PATIENT S875
+Yeah.
+
+DOCTOR S875
+Okay.
+
+PATIENT S875
+Well actually it was there before the car accident, started to get better and then it got worse.  So it's coming back again.
+
+DOCTOR S875
+Okay.
+
+PATIENT S875
+And I've had these probably since at least '81, around there.
+
+DOCTOR S875
+Okay.  What type of dreams do you have?
+
+PATIENT S875
+Fighting, I'm always fighting.
+
+DOCTOR S875
+Who are you fighting?
+
+PATIENT S875
+I don't know, I'm getting jumped by people @@@ you know.  Sometimes I remember them, sometimes I don't and I’m seeing a psychiatrist @@@ relaxation @@@ nightmares.  
+
+DOCTOR S875
+@@@.
+
+PATIENT S875
+I have an appointment with her so.
+
+DOCTOR S875
+@@@ that's okay.  Have you um @@@.
+
+PATIENT S875
+@@@.
+
+DOCTOR S875
+Okay, @@@.
+
+PATIENT S875
+Yes.
+
+DOCTOR S875
+Okay.  Any thoughts of suicide or anything?
+
+PATIENT S875
+Yeah.  @@@ but.
+
+DOCTOR S875
+Um.
+
+PATIENT S875
+It's just sometimes you know just things I can't do anymore I just you know, @@@.  Time for me to give up.
+
+DOCTOR S875
+When did you start having these thoughts?
+
+PATIENT S875
+A while back.
+
+DOCTOR S875
+In the last couple of weeks or?
+
+PATIENT S875
+Maybe about a month ago.
+
+DOCTOR S875
+Okay.  What um, do you have a plan?
+
+PATIENT S875
+No, I don't have no plan.  I get to be in certain situations in certain areas then I think this would be a good way to go.
+
+DOCTOR S875
+Okay.  Do you plan on following through with that?
+
+PATIENT S875
+No.  After I think about it for a while, then I don't do it at the time and it passes and I just forget about it.  Like a couple weeks ago I was stopped by a train, so I am just sitting there, I was the first car there you know I like to think about it, just going up there and falling in between the trains and it was like I mean it was intense, and I was like, you know I could do this, you know but I don't know, the train passed, it was a long freighter so I sat there a while thinking about it and it passed and I went on my way and then later on I didn't think about it no more.  Maybe it's just like they come in spurts you know.  It's just like there's times when I'll be sitting and I'm thinking and.
+
+DOCTOR S875
+Do you uh when they come in spurts, do you hear any voices or anything like that?
+
+PATIENT S875
+@@@ I feel like @@@ I don't know, it's like I'm not really there. I don't know how to explain.
+
+DOCTOR S875
+Yeah, yeah, it's kind of like.  No, no I hear you.  Is it kind of like an out of body thing?  Like it's more kind of primal, does that make sense?
+
+PATIENT S875
+Hmm.
+
+DOCTOR S875
+Or is that not the way to describe it?
+
+PATIENT S875
+I don't know.
+
+DOCTOR S875
+This is different.
+
+PATIENT S875
+I don't know a cycle.  I'm dreaming that I'm awake and dreaming this and you know somehow this stuff happens.  I can see myself, let's just say I can see myself walking doing these things.
+
+DOCTOR S875
+What are some of the @@@?
+
+PATIENT S875
+I don't want to talk about @@@.  That's how you @@@ psychiatrist @@@.
+
+DOCTOR S875
+Well, let me tell you what, like I know, I know we don't know each other very well but um like I'm afraid that you might, you might walk out of here today and act on some of these.
+
+PATIENT S875
+Yeah, I haven't done anything yet.
+
+DOCTOR S875
+I know but I think that's the key thing.  I think these are some of the things I hear you're kind of reaching out to me and I want to.
+
+PATIENT S875
+No you're just making me think about them.
+
+DOCTOR S875
+No, no, no, no, but I'm not a bad guy by all means.  You know I don't but I think that these are some warning things that maybe we should um; you know maybe this could be a little bit more emergent than maybe both you and I kind of think you know.  Like I don't want tomorrow something to happen to you after I just talked to you today you know like this is my opportunity of being your doctor and you know and knowing you today to maybe step in and you know, maybe save your life you know.
+
+PATIENT S875
+Well I got an appointment with my doctor.
+
+DOCTOR S875
+I know but what if you don't make it that far?
+
+PATIENT S875
+Oh I'll make it.  I'll make it, I'm still, I'll go.
+
+DOCTOR S875
+I know but I'm a little worried so.  Have you um as far as some of the dreams have you been jumped before is this all from the war?
+
+PATIENT S875
+I was never in the war.  @@@ in the service.
+
+DOCTOR S875
+Okay.  Otherwise you've been jumped before?
+
+PATIENT S875
+No.
+
+DOCTOR S875
+By um, @@@ I understand it's kind of a traumatic experience.
+
+PATIENT S875
+Yeah well, have you ever been, going into a room with somebody that you supposedly know and then get your head beat up with a Billy clubs.
+
+DOCTOR S875
+Yeah that's kind of how it happened for me yeah.
+
+PATIENT S875
+But you were young huh?
+
+DOCTOR S875
+No, I was just in the wrong place at the wrong time so um so alright.  Do you take all of your medications on a regular basis?
+
+PATIENT S875
+Yes.
+
+DOCTOR S875
+@@@.  Anything else bothering you?
+
+PATIENT S875
+No.
+
+DOCTOR S875
+@@@.
+
+PATIENT S875
+No I don't know why they just gave me this appointment.
+
+DOCTOR S875
+Well maybe it was fate, maybe we were supposed to meet.  Do you mind if I examine you?
+
+PATIENT S875
+Go ahead, you’re the doc!
+
+DOCTOR S875
+I always ask.  I'll listen to your heart okay.
+
+PATIENT S875
+Uh-huh.
+
+DOCTOR S875
+Deep breath, deep breath.
+
+PATIENT S875
+@@@.
+
+DOCTOR S875
+Give me one more, deep breath, deep breath.  Any chest pain at all?
+
+PATIENT S875
+No.
+
+DOCTOR S875
+Any shortness of breath?
+
+PATIENT S875
+Oh I pretty much quite a bit.
+
+DOCTOR S875
+Okay.  When do you get short of breath?
+
+PATIENT S875
+Usually after having attacks.
+
+DOCTOR S875
+Okay, like anxiety attacks?
+
+PATIENT S875
+No back attacks.  My back pain goes @@@ and makes it hard for me to breathe.  @@@ anxiety attacks @@@.
+
+DOCTOR S875
+Okay.  Well your blood pressure is pretty well controlled.  When was your last episode of gout?
+
+PATIENT S875
+About two days ago.
+
+DOCTOR S875
+Do you have some gout pain?
+
+PATIENT S875
+Yes.
+
+DOCTOR S875
+Where was that?
+
+PATIENT S875
+In my knee.  I can't bend my knee.
+
+DOCTOR S875
+Have you told any of the other doctors about the suicide thinking?
+
+PATIENT S875
+My psychiatrist.  I have two teenagers, they always bring me back.
+
+DOCTOR S875
+They what?
+
+PATIENT S875
+Always bring me back.
+
+DOCTOR S875
+Okay.
+
+PATIENT S875
+But they're about to leave home, one’s gonna be 18.
+
+DOCTOR S875
+Who’s going to leave home?
+
+PATIENT S875
+My kids, one’s gonna be 18. @@@ I got a good year pretty much and I'm going to be okay.
+
+DOCTOR S875
+So you've got a lot to live for.  You've got to live for them.
+
+PATIENT S875
+You know when they're gone it's over.
+
+DOCTOR S875
+Okay.  I mean after they move out I mean they're still your babies right?  You got to watch over your kids and that's all of our jobs uh you know.
+
+PATIENT S875
+Well I got six kids altogether, one is in jail for murder @@@, one he's living with his mother still, he is 25; I got a daughter she's doing okay.
+
+DOCTOR S875
+But they're all your blood right?
+
+PATIENT S875
+Yeah.
+
+DOCTOR S875
+You know.
+
+PATIENT S875
+And I screwed up with them.  I wasn’t there @@@, he was 22 when this happened.  
+
+DOCTOR S875
+Oh I'm sorry to hear that.
+
+PATIENT S875
+But anyway, @@@  Why did they give me an appointment for today?
+
+DOCTOR S875
+I don't know.
+
+PATIENT S875
+You know.
+
+DOCTOR S875
+So let me go talk to DOCTOR okay.  I just kind of want to discuss with her your current state, okay.  I'll be back in just a little bit alright.  Just give me a minute alright. @@@
+
+(DOCTOR OUT:  35:16  DOCTOR IN:  43:47)
+
+DOCTOR S875
+I'm back, how you doing?
+
+PATIENT S875
+I'm okay.
+
+DOCTOR S875
+So I'd like you to just sit and talk with the Psychiatry Assessment Clinic just for a bit okay.
+
+PATIENT S875
+@@@.
+
+DOCTOR S875
+Do you mind doing that?
+
+PATIENT S875
+Yes I do.
+
+DOCTOR S875
+Do you want to do that?
+
+PATIENT S875
+No.
+
+DOCTOR S875
+Are you sure?
+
+PATIENT S875
+Uh-huh.
+
+DOCTOR S875
+I think um, I think it may um, I mean it wouldn't take long.  You know they just sit and talk with you for a little bit okay and they're right across from the Emergency Room.
+
+PATIENT S875
+You’re talking about PAC?
+
+DOCTOR S875
+Yeah.
+
+PATIENT S875
+It takes too long.
+
+DOCTOR S875
+I'll go over there with you okay.
+
+PATIENT S875
+@@@.
+
+DOCTOR S875
+And I'll even @@@ you there okay.  Let me just put something quick here alright.
+
+PATIENT S875
+Hmm.
+
+DOCTOR S875
+What's your current phone number?
+
+PATIENT S875
+NUMBER.
+
+DOCTOR S875
+Okay, I can walk you over there.  Let me get the door open and it'll be okay.  Can you get up?
+
+PATIENT S875
+Yeah.
+
+DOCTOR S875
+Okay.  I'll be back alright.
+
+PATIENT S875
+Uh-huh.
+
+DOCTOR S875
+You a big White Sox fan?
+
+PATIENT S875
+Not really I'm a Cubs fan @@@.
+
+DOCTOR S875
+Cubs fan huh.
+
+PATIENT S875
+Yeah.
+
+DOCTOR S875
+I see, you know game I was at the Cubs @@@ this season.
+
+PATIENT S875
+I haven't been to a Cubs game in about 30 years but I'm still a fan.
+
+DOCTOR S875
+I think um, let me get this, you know what @@@.  I got @@@ things come up in 30 years but they probably look the same.
+
+PATIENT S875
+@@@ like on the buildings over there.
+
+DOCTOR S875
+Yea the roof top @@@.
+
+PATIENT S875
+Yeah.
+
+DOCTOR S875
+Wouldn't it be nice to buy one of those?
+
+PATIENT S875
+Yeah it would.  I used to think about that years ago.  @@@.  Excuse me.  
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275427
+TRANSACTION # 578-10-2-316-0103

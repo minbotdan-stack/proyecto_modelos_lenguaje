@@ -1,0 +1,599 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR N421
+PATIENT have a seat and shut the door.  How have you been since I last saw you?
+
+PATIENT N421
+Pretty good.
+
+DOCTOR N421
+Anything going on? 
+
+PATIENT N421
+No, everything's fine.
+
+DOCTOR N421
+Good.  Still checking your blood sugars at home?
+
+PATIENT N421
+Yes.
+
+DOCTOR N421
+What have they been?
+
+PATIENT N421
+Uh they're running about 142 and the last couple of days it's been in the 200 range.
+
+DOCTOR N421
+And that's diet?
+
+PATIENT N421
+Uh yes.
+
+DOCTOR N421
+What about the lowest?
+
+PATIENT N421
+Uh a couple times I was down to 43.
+
+DOCTOR N421
+Okay.  And do you feel it when you're down that low?
+
+PATIENT N421
+No.
+
+DOCTOR N421
+Okay.  And you're taking your insulin all the time?
+
+PATIENT N421
+Yeah.
+
+DOCTOR N421
+Okay.  Uh and are you taking the lisinopril again or are you?
+
+PATIENT N421
+Uh yes but I'm uh out of that.
+
+DOCTOR N421
+Okay and any chest pain, shortness of breath?
+
+PATIENT N421
+No.
+
+DOCTOR N421
+Okay.  Problems urinating, problems going to the bathroom?
+
+PATIENT N421
+No.
+
+DOCTOR N421
+Good.  Still smoking?
+
+PATIENT N421
+Yeah.
+
+DOCTOR N421
+Still half a pack?
+
+PATIENT N421
+Yes still a half pack.
+
+DOCTOR N421
+Are you seeing the Smoking Cessation Clinic?
+
+PATIENT N421
+Uh not yet.
+
+DOCTOR N421
+Okay.  But you've been slowing down right?
+
+PATIENT N421
+Yeah.
+
+DOCTOR N421
+Okay.  Alright.  Let's see your vital signs today look fine.  Oh so you're due though for the eye doctor and the foot doctor.
+
+PATIENT N421
+Yeah.
+
+DOCTOR N421
+Do you have appointments for those?
+
+PATIENT N421
+Uh, uh the eye doctor coming up on the 30th.
+
+DOCTOR N421
+Okay.
+
+PATIENT N421
+Uh and the foot doctor I'm gonna need another appointment for that.
+
+DOCTOR N421
+Okay.  Have you ever had problems with your feet?
+
+PATIENT N421
+No.
+
+DOCTOR N421
+Alright.  You can just take off your shoes and I'll look at them.
+
+PATIENT N421
+Uh one thing I do doctor, I don't know what it is, this bump here, it started out like a little bitty bump and uh just turned into this.
+
+DOCTOR N421
+Okay.  How long has that been going on?
+
+PATIENT N421
+Uh it's gone on for a couple of months now but like I said it just started out like a little bitty bump and now it's like turned to this. 
+
+DOCTOR N421
+Okay.  Does it bother you?
+
+PATIENT N421
+Yeah usually it turns real hard and got a scratch it but I try to keep from scratching it.  Like today it's just like a little spot thing, you know you can't hardly tell.
+
+DOCTOR N421
+Okay.
+
+PATIENT N421
+So I don't know what it is.
+
+DOCTOR N421
+Okay I'll take a look more closely and that came a couple months ago?
+
+PATIENT N421
+A couple of months ago.
+
+DOCTOR N421
+And it's just kind of gets better and gets worse?
+
+PATIENT N421
+Yeah, yeah.
+
+DOCTOR N421
+Yeah okay.
+
+PATIENT N421
+Uh-huh.
+
+DOCTOR N421
+You know I'm not sure what it is but I'll take a look though.  So and you've have been to the Endocrine Clinic right?  Cause your sugars have been pretty high and they started you were on a better regimen?
+
+PATIENT N421
+Yeah.
+
+DOCTOR N421
+Okay.
+
+PATIENT N421
+Yeah @@@.
+
+DOCTOR N421
+@@@ since then?
+
+PATIENT N421
+Yes, I ain't got the paper with me but if it was over a certain level, I go up one unit and it was lower level I go down on it.
+
+DOCTOR N421
+Okay.
+
+PATIENT N421
+Yeah, insulin, so like that.
+
+DOCTOR N421
+When did you get your, you saw them in August right?
+
+PATIENT N421
+Right.
+
+DOCTOR N421
+So we can repeat them and we'll do an A1c.  When is your next appointment with them?
+
+PATIENT N421
+Uh they haven't sent me a letter yet.
+
+DOCTOR N421
+Okay.
+
+PATIENT N421
+So it should be getting close, pretty close here though.
+
+DOCTOR N421
+Okay.  So we'll repeat the labs before your next appointment, I'll put them in.
+
+PATIENT N421
+Okay.
+
+DOCTOR N421
+Okay.  And then um you are taking your lisinopril.
+
+PATIENT N421
+Yes.
+
+DOCTOR N421
+And your hypertension was at goal then.  And you're still seeing the kidney doctors?
+
+PATIENT N421
+Yes.
+
+DOCTOR N421
+And it looks like your lipids were fine in uh last year so it's time for us to recheck those.
+
+PATIENT N421
+Okay.
+
+DOCTOR N421
+Since @@@.
+
+PATIENT N421
+Lipid, what is that?
+
+DOCTOR N421
+That's cholesterol.
+
+PATIENT N421
+Cholesterol okay yeah.  I think the kidney doctor had told me uh to have that done.
+
+DOCTOR N421
+Okay.
+
+PATIENT N421
+But told me I had to do it on an empty stomach.
+
+DOCTOR N421
+Yes exactly.  I can put in those orders tood.
+
+PATIENT N421
+Alright.
+
+DOCTOR N421
+And you're good on the colonoscopy and you're good on your flu, did you get your flu shot today?
+
+PATIENT N421
+Yeah I got the flu shot today.
+
+DOCTOR N421
+And uh you still have that referral to Smoking Cessation right?
+
+PATIENT N421
+Yes.
+
+DOCTOR N421
+Okay, great let me just put in for your, um put in for your @@@.  Do you need medications renewed?
+
+PATIENT N421
+Yeah I need them all renewed.
+
+DOCTOR N421
+Okay.  So you're still taking the iron supplementation?
+
+PATIENT N421
+The name of it?
+
+DOCTOR N421
+It's called ferrous sulfate.
+
+PATIENT N421
+Yeah.
+
+DOCTOR N421
+Okay.
+
+PATIENT N421
+Yes taking that.
+
+DOCTOR N421
+The lisinopril.
+
+PATIENT N421
+Lisinopril yeah.
+
+DOCTOR N421
+Nifedipine.
+
+PATIENT N421
+Yes.
+
+DOCTOR N421
+Calcitriol?
+
+PATIENT N421
+Yes.
+
+DOCTOR N421
+Um the furosemide which is the water pill.
+
+PATIENT N421
+Yes.
+
+DOCTOR N421
+Simvastatin we talked about.
+
+PATIENT N421
+Right.
+
+DOCTOR N421
+The insulin um I'll renew that.
+
+PATIENT N421
+Claritin and Aspart.
+
+DOCTOR N421
+So you're taking Aspart 4 units?
+
+PATIENT N421
+Uh.
+
+DOCTOR N421
+4 to 6 units?
+
+PATIENT N421
+4, 6 and 4.
+
+DOCTOR N421
+Okay.
+
+PATIENT N421
+Yeah.
+
+DOCTOR N421
+I got that here and the omeprazole for your stomach?
+
+PATIENT N421
+Yes.
+
+DOCTOR N421
+And insulin, the Glargine.
+
+PATIENT N421
+Yes.
+
+DOCTOR N421
+You're taking 30 at night.
+
+PATIENT N421
+30 at night yes.
+
+DOCTOR N421
+The @@@ and are you taking anything else?
+
+PATIENT N421
+Uh.
+
+DOCTOR N421
+Were you taking clonidine?
+
+PATIENT N421
+Yeah clonidine I'm still taking that too yeah.
+
+DOCTOR N421
+And you've been taking it cause the medication expired.
+
+PATIENT N421
+It expired?
+
+DOCTOR N421
+Well it means that it wasn't active.
+
+PATIENT N421
+Yeah.
+
+DOCTOR N421
+You're still taking every day, the clonidine?
+
+PATIENT N421
+Yes the clonidine and uh @@@ I think @@@.
+
+DOCTOR N421
+The nifedipine?
+
+PATIENT N421
+Yeah.  The three yes, nifedipine and the @@@.
+
+DOCTOR N421
+Okay, okay great.  So the clonidine just make sure that you are taking all the time because when you miss clonidine then they have the affect what's called rebound hypertension.
+
+PATIENT N421
+Uh-huh.
+
+DOCTOR N421
+So it can make your hypertension a lot worse.
+
+PATIENT N421
+It does okay.
+
+DOCTOR N421
+Yeah and so that can be pretty dangerous if you miss the doses of the clonidine especially.
+
+PATIENT N421
+Alright.
+
+DOCTOR N421
+Alright.  Alright so we'll renew all of those, I'll sign them for you and they're all gonna be mailed is that good?
+
+PATIENT N421
+Uh no I need to pick them up today so.
+
+DOCTOR N421
+Okay.  So I'll put them all for the window.
+
+PATIENT N421
+Okay.
+
+DOCTOR N421
+Um and then you can call the Pharmacy if you want to change it to by mail.
+
+PATIENT N421
+Okay.
+
+DOCTOR N421
+After today so for today you can get them all at the window.
+
+PATIENT N421
+Alright.
+
+DOCTOR N421
+And then just let the pharmacist know which ones you want to change to by mail.
+
+PATIENT N421
+Okay.
+
+DOCTOR N421
+They can do that.  Alright and then I think we need to put in an order for the lab tests.  So the lab tests you can come back at your convenience to do but try to do it before you go to the endocrinologist.
+
+PATIENT N421
+That'll be like I said I would be back on the 30th.
+
+DOCTOR N421
+Okay.
+
+PATIENT N421
+So it'll be fine @@@.
+
+DOCTOR N421
+That'll be perfect.
+
+PATIENT N421
+Okay.
+
+DOCTOR N421
+Yep.  Yeah you don't need to inconvenience yourself and come back sooner but definitely have it done then.  Okay.  Close your eyes for me I just want to check your feet.  Tell me when I'm touching you.  
+
+PATIENT N421
+Yeah now.
+
+DOCTOR N421
+What about now?
+
+PATIENT N421
+No.  Now.
+
+DOCTOR N421
+Okay how about this now?
+
+PATIENT N421
+Now, now, now.
+
+DOCTOR N421
+How about now?
+
+PATIENT N421
+No.
+
+DOCTOR N421
+How about now?
+
+PATIENT N421
+No, now.
+
+DOCTOR N421
+Okay good.  @@@ good.  Alright so your feet look good.  But make sure that all of this stuff.  Hmm you might have a @@@ yeah what I'd do is just soak it.
+
+PATIENT N421
+Uh-huh.
+
+DOCTOR N421
+In the bath for like a week, see if it kind of looks like a pustule like a pimple that keeps getting infected.
+
+PATIENT N421
+Right that's when it started out, just like I said like a little bitty bump then.
+
+DOCTOR N421
+Yeah I mean it's.
+
+PATIENT N421
+It's kind of gets larger from me scratching it.
+
+DOCTOR N421
+Yeah I would just soak it for like a week or two and see if it, you know maybe cover it just a little bit.
+
+PATIENT N421
+Cover it.
+
+DOCTOR N421
+Of um you can put some like a little band-aid over it, see if that like.
+
+PATIENT N421
+Yeah.
+
+DOCTOR N421
+It just looks like it's a non-healing sort of pimple.  There's not really much we can do about it.
+
+PATIENT N421
+Okay.
+
+DOCTOR N421
+But if it gets worse or it starts bothering you then you can come back in and we'll give you medications for it.
+
+PATIENT N421
+Yeah like uh last year, well this year, earlier this year it was kind of like this on my arm right here, the same thing be a dot starts here and then it just went away.
+
+DOCTOR N421
+And then it just kind of went away.
+
+PATIENT N421
+Just like this yeah.
+
+DOCTOR N421
+Yeah just gently scrub it and soak it.
+
+PATIENT N421
+Okay.
+
+DOCTOR N421
+That's it.
+
+PATIENT N421
+Alright.
+
+DOCTOR N421
+Let me just listen to your lungs.  Deep breath, again, deep breath okay.  I think we've got everything and then I want you to come back to see me in three months.
+
+PATIENT N421
+Okay.
+
+DOCTOR N421
+And you have labs to do.  You know you can go to Smoking Cessation when you're ready.  
+
+PATIENT N421
+Uh-huh.
+
+DOCTOR N421
+I'll be right back.
+
+PATIENT N421
+Okay.
+
+(DOCTOR OUT:  43:51  DOCTOR IN:  46:58)
+
+DOCTOR N421
+Alright, so like we talked about, go pick up your meds and call whenever you want them to be sent by mail.
+
+PATIENT N421
+Okay.
+
+DOCTOR N421
+And your labs will be done on the 30th and you'll come back and see me in three months and make sure you go back to the Endocrine Clinic too.
+
+PATIENT N421
+Okay.
+
+DOCTOR N421
+Alright.
+
+PATIENT N421
+Alright thank you doc.
+
+DOCTOR N421
+Take care sir.
+
+PATIENT N421
+Alright.
+
+PATIENT LEAVES:  47:24
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286088
+TRANSACTION # 578-10-2-316-0103

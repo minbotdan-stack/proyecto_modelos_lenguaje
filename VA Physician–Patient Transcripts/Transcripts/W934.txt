@@ -1,0 +1,840 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@
+
+DOCTOR W934
+PATIENT?
+
+PATIENT W934
+Hi.  
+
+DOCTOR W934
+@@@ before, but good to see you again.
+
+PATIENT W934
+Good to see you.
+
+DOCTOR W934
+How you doing?
+
+PATIENT W934
+Oh pretty good I think, I guess.
+
+DOCTOR W934
+@@@ yeah @@@.  How's your energy level?
+
+PATIENT W934
+Well I guess its, it might be pretty good most of the time.
+
+DOCTOR W934
+Yeah.  Are you feeling.
+
+PATIENT W934
+Except being out of breath @@@ just.
+
+DOCTOR W934
+Oh, yeah you have the emphysema right?
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+Okay are you taking all of your inhalers?
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+Yeah so you taking the salmeterol, the mometasone?
+
+PATIENT W934
+Yeah uh another one uh DOCTOR gave me another one to put over your nose.
+
+DOCTOR W934
+Okay, the whole mask.
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+Okay good.  You have to put it in a machine or you hook it up to.
+
+PATIENT W934
+Yeah, yeah.
+
+DOCTOR W934
+Alright.  Do you have any cough?
+
+PATIENT W934
+Uh not really.  I have some you know every now and then I have some @@@.  But you got to cough sometime.  Yes.
+
+DOCTOR W934
+Sometimes? What's that like?
+
+PATIENT W934
+Um I been coughing most of it up.  @@@.
+
+DOCTOR W934
+Okay.  Any fevers?
+
+PATIENT W934
+Huh?
+
+DOCTOR W934
+Any fevers?
+
+PATIENT W934
+No.
+
+DOCTOR W934
+Well let me through your chart for one minute and see what's been going on since the last time we met okay.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+And let me just see.  Today for your labs, you said you got them today?
+
+PATIENT W934
+No I didn't do no lab today.
+
+DOCTOR W934
+Oh yesterday, sorry.
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+Yesterday.  They look pretty good.  @@@ fantastic cause your blood counts and all that are low because of @@@.
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+The @@@ and besides that you know everything else looks better too.  There is no infection.
+
+PATIENT W934
+Yeah my nose, if I hold my head down it bleeds, it bleeds a lot.
+
+DOCTOR W934
+You want to use like the nasal spray for like to keep your membranes moistened then.
+
+PATIENT W934
+Yeah I use that doesn’t stopped the bleeding.
+
+DOCTOR W934
+You have blood in your nose?
+
+PATIENT W934
+No.
+
+DOCTOR W934
+You use it twice a day every day?  No.  Do you pick your nose or anything like that?
+
+PATIENT W934
+Huh?
+
+DOCTOR W934
+Do you pick your nose or anything like that?
+
+PATIENT W934
+Uh uh.
+
+DOCTOR W934
+@@@.
+
+PATIENT W934
+Yeah @@@ blow it, @@@ and when I bleed, I bleed so I bleed.
+
+DOCTOR W934
+Yeah.
+
+PATIENT W934
+And uh then it quits.
+
+DOCTOR W934
+Yeah you don’t have the spray that I’m talking about on your list, it's like something you put in your nose @@@.
+
+PATIENT W934
+Yeah I got two things to put in my nose.
+
+DOCTOR W934
+You have two things to put in your nose.  Okay @@@ not in your mouth.
+
+PATIENT W934
+Not in my mouth.
+
+DOCTOR W934
+In your nose.
+
+PATIENT W934
+Uh-huh.
+
+DOCTOR W934
+@@@ just a nasal spray.
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+@@@.  Did they tell you the results of the heart test you had in October?
+
+PATIENT W934
+The heart test?
+
+DOCTOR W934
+Yeah.
+
+PATIENT W934
+Uh yeah I think, I think DOCTOR told me I think about a week ago.
+
+DOCTOR W934
+Oh I see yeah he did.  
+
+PATIENT W934
+Is there anything they can do to stop my nose from bleeding so much?
+
+DOCTOR W934
+Um you could try some Vaseline but.
+
+PATIENT W934
+I put some of that in there.
+
+DOCTOR W934
+You put some in there.
+
+PATIENT W934
+Well uh not lately but I have put it in there.
+
+DOCTOR W934
+Yeah.  You're heart looks pretty good except for the, your @@@.  I'm just seeing if they @@@ other inhaler.  When they gave you the lung tests did they make you breathe into the machine or did they just @@@ make you walk around?
+
+PATIENT W934
+Yeah well I had to walk @@@.  They just @@@ that.
+
+DOCTOR W934
+Yeah.
+
+PATIENT W934
+@@@.  See I had to go to the, they gave me @@@ I think it was 5 mg @@@.
+
+DOCTOR W934
+Uh-huh.
+
+PATIENT W934
+But did have to go to the bathroom twice.
+
+DOCTOR W934
+When you did.
+
+PATIENT W934
+I been there two hours.
+
+DOCTOR W934
+I understand.  When did you start taking this?
+
+PATIENT W934
+Huh?
+
+DOCTOR W934
+When did you start taking the @@@?
+
+PATIENT W934
+Oh it was, oh I'd say it might have been a year.
+
+DOCTOR W934
+Oh a year and it's still not really helping you at all.
+
+PATIENT W934
+I'm still uh.
+
+DOCTOR W934
+@@@.  Do you have the dosage @@@?
+
+PATIENT W934
+Uh yeah I'm taking one.
+
+DOCTOR W934
+Yeah that's the max dose.  Um are you drinking a lot of water before you go to bed or?
+
+PATIENT W934
+Um no not really.
+
+DOCTOR W934
+Not really.
+
+PATIENT W934
+No.
+
+DOCTOR W934
+Do you have an appointment with the urology doctor at any time, let me see @@@.  Cause there's another medication we could add to it, so you take the prostate medicine and then we would add another prostate medicine.  The only thing with doing that is that your blood pressure is kind of low, so @@@ whole lot @@@.
+
+PATIENT W934
+@@@.
+
+DOCTOR W934
+Your waking up every two hours?
+
+PATIENT W934
+Uh well yeah I about got used to it but yeah you know, I have to get up.
+
+DOCTOR W934
+Have you tried just having a urinal at the bedside?
+
+PATIENT W934
+Yeah I got one of them there.
+
+DOCTOR W934
+Yeah.  
+
+PATIENT W934
+I still got to get up.
+
+DOCTOR W934
+@@@.
+
+PATIENT W934
+When I uh, and I still have to get up.
+
+DOCTOR W934
+Still have to get up.
+
+PATIENT W934
+And sometimes you know it really.
+
+DOCTOR W934
+Yeah.
+
+PATIENT W934
+It don't come out like it should.
+
+DOCTOR W934
+Right.  Well I may, I know you got your blood work checked yesterday, would you mind getting just one more blood test today?  I want to check your prostate level.
+
+PATIENT W934
+@@@.
+
+DOCTOR W934
+Cause the last time it was checked was two years ago but I want to see if it got a lot higher um.  Especially if you're having any troubles I think maybe I'm going to talk to DOCTOR but maybe we could start the other medicine and if your blood pressure goes really low or like if you get dizzy or something, you just don't take it.
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+Okay.  I'm going to talk to him about that.
+
+PATIENT W934
+Yeah is @@@.
+
+DOCTOR W934
+It'd be for having, for the trouble with peeing.
+
+PATIENT W934
+But it's don’t hurt or nothing.
+
+DOCTOR W934
+No like it's hard to push it out you're saying.
+
+PATIENT W934
+No it's not hard it's just uh, @@@ you don't have a good stream.
+
+DOCTOR W934
+Uh-huh, yeah it's for that like it helps the urine get out easier.
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+Yeah so I'll talk to him about it and we'll see what he says.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+Are you having a lot of swelling in your legs too?
+
+PATIENT W934
+Hmm, yeah @@@.
+
+DOCTOR W934
+Yeah, it’s a little bit swollen, but not too bad though.
+
+PATIENT W934
+No but.
+
+DOCTOR W934
+Okay.  Let me uh @@@ do you live by yourself?
+
+PATIENT W934
+No @@@.
+
+DOCTOR W934
+@@@.
+
+PATIENT W934
+Yes.
+
+DOCTOR W934
+Who do you live with your kids or your wife or?
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+Can I take a look @@@.  Deep breath good.  I'm going to check your back, okay.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+Deep breath.  @@@.  @@@ are you short of breath right now?
+
+PATIENT W934
+No.
+
+DOCTOR W934
+No okay.  Do you feel.
+
+PATIENT W934
+@@@ lungs when I'm sitting down like this.
+
+DOCTOR W934
+Uh-huh.
+
+PATIENT W934
+I could be driving and I’ll get out of breath @@@ or anything like that @@@.
+
+DOCTOR W934
+Okay.
+
+PATIENT W934
+Is the reason why I get up and go @@@.
+
+DOCTOR W934
+Uh-huh.
+
+PATIENT W934
+@@@.  Sometime uh @@@ and I lost a lot of blood, I don't know whether it's cause the nose bleeds a lot.
+
+DOCTOR W934
+Right.
+
+PATIENT W934
+And I don't know if that has anything to do with this thing or not.
+
+DOCTOR W934
+Well and your blood count being low will definitely make you more tired and short of breath.
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+Yeah.  Uh let me see how low your blood count was 8.6 and before it was 8.8 so it @@@ about the same.  Um you know what we could do about the nosebleeds so you are already using the nasal spray right?
+
+PATIENT W934
+Yeah I started it again something like @@@ and it bleeds a whole lot.
+
+DOCTOR W934
+Do you take your medicine before sleep?
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+Yeah.  I'm gonna order you, just cause I don't see it in the computer anymore, I think it's something you were taking that's not in the computer I want you to try @@@ probably the same thing you were taking and if it is, that’s fine. It's kind of like an oil except it's more like water and you put it in your nose and it kind of protects it from bleeding.  The same thing you're taking but it's not in the computer so I'm not sure.  That's what you're taking?
+
+PATIENT W934
+Yeah it's not on there, not on that?
+
+DOCTOR W934
+No it's not on here.  So that's why I'm not sure what uh what exactly they gave you.  This one is probably what you're talking about but this is like a cream type of thing.  Yeah so the one I want to give you is like a, oh here it is.
+
+PATIENT W934
+So I got two of them I'm not crazy.
+
+DOCTOR W934
+Yeah, you're right, you're actually right, it's in here, you're right.  
+
+PATIENT W934
+Hmm.
+
+DOCTOR W934
+So never mind.  @@@ okay.  You're using it four times a day; they want you to use it four times a day?
+
+PATIENT W934
+No I usually use when I'm driving the car and sometimes I use it then when I got a bleed, right after a bleed.
+
+DOCTOR W934
+Yeah.
+
+PATIENT W934
+See I got a sleeping @@@ that I'll put on, @@@.
+
+DOCTOR W934
+Are you using @@@.
+
+PATIENT W934
+Sometimes my nose will start bleeding when I'm asleep and um, it's lucky that when it starts coming down.
+
+DOCTOR W934
+@@@.
+
+PATIENT W934
+It wakes me up.
+
+DOCTOR W934
+@@@.  Yeah so you need the Coumadin cause we don't want you to get a stroke so, it's kind of a cost benefit type of thing.  If we stop the Coumadin the nosebleeds would stop but then you could have a stroke or something.
+
+PATIENT W934
+Uh-huh.
+
+DOCTOR W934
+@@@.
+
+PATIENT W934
+And the first time I have a slight headache and then I'm just tired you know.
+
+DOCTOR W934
+Uh-huh.
+
+PATIENT W934
+I don't know whether that has anything to do with it or not.
+
+DOCTOR W934
+It's probably everybody over the age of like 10 starts getting headaches, it’s probably one of those. Are you still using your CPAP?
+
+PATIENT W934
+Huh?
+
+DOCTOR W934
+CPAP machine?  Are you still using it at night?  Oh they just did it yesterday, your sleep study.
+
+PATIENT W934
+Yeah I had that.
+
+DOCTOR W934
+Did they tell you that you needed a machine?
+
+PATIENT W934
+That I need what?
+
+DOCTOR W934
+Like a CPAP machine, like the machine when you sleep?
+
+PATIENT W934
+Uh oh,yeah, they told me uh yeah that's what I got.
+
+DOCTOR W934
+You got one of those?
+
+PATIENT W934
+Yeah.
+
+DOCTOR W934
+Okay good and you’re still using it?
+
+PATIENT W934
+Yeah I had the thing that go up in your nose.
+
+DOCTOR W934
+Uh-huh.
+
+PATIENT W934
+But uh for the last week I went up there and they gave me uh the one you know it don't go in your nose, it goes over your nose.
+
+DOCTOR W934
+Right, right.
+
+PATIENT W934
+So I got that one.
+
+DOCTOR W934
+You've been using that?
+
+PATIENT W934
+Yeah but I haven’t used it three or four, two or three days.
+
+DOCTOR W934
+Uh-huh.
+
+PATIENT W934
+Because of the nosebleeds.
+
+DOCTOR W934
+Oh yeah.  So let me talk to my boss to see if he might have any ideas okay.  See if we can do anything about it.
+
+PATIENT W934
+Alright.
+
+DOCTOR W934
+Alright, I'll be right back.
+
+(DOCTOR OUT:  126:10  DOCTOR IN:  133:31)
+
+DOCTOR W934
+Alright so, for the nosebleeds, he didn't have any ideas either.  The only thing we could think of is that maybe, have you ever been to a nose doctor, like an ENT doctor where they take a camera and look in your nose and see?
+
+PATIENT W934
+No, no more than the doctors here looked at me.
+
+DOCTOR W934
+Alright so we'll uh, so, keep doing what you’re doing with the sprays and all that and in the meantime we want to get you to see the ENT doctor, the Ear, Nose and Throat doctors and they can just see if there's anything - cause they're the experts of the nose and they can just take a really good look inside and see if there's anything that's bleeding or some other changes, okay.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+And then I'm going to put that here for you know in one week or in one to two weeks.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+They'll schedule it for you right out front there and I'll put it in the computer too.  And then for the um, you know the urinary symptoms you're having, we can actually go up on the tamsulosin that you're taking the 5 mg pills.
+
+PATIENT W934
+What.
+
+DOCTOR W934
+You could go up to 10 so you'd take two pills instead of just one and I'll change it in the computer um it's this medicine right here.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+The tamsulosin.
+
+PATIENT W934
+Alright.
+
+DOCTOR W934
+Instead of taking 5 mg take the 10 mg.
+
+PATIENT W934
+Okay take two.
+
+DOCTOR W934
+Take two.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+Yeah.  @@@ it’s the prostate medicine okay.
+
+PATIENT W934
+Right.
+
+DOCTOR W934
+Do you get your medicines mailed to you or do you pick them up here?
+
+PATIENT W934
+Uh I get it mailed to me.
+
+DOCTOR W934
+Mailed to you.
+
+PATIENT W934
+Some of it I pick up at the Pharmacy.  If I need to pick it up, I pick it up but if not they mail it.
+
+DOCTOR W934
+Okay.  So, it’s up to you. If you have some of these left over you can just take two pills and I'll get them mailed to you and then you'll take the 10 mg.
+
+PATIENT W934
+Oh okay.
+
+DOCTOR W934
+Or if you want to just pick it up you can.
+
+PATIENT W934
+Okay.  Do which one you want.
+
+DOCTOR W934
+Well which do you want?
+
+PATIENT W934
+A you can have them mail it.
+
+DOCTOR W934
+Okay.  So in the meantime take two of them tonight.
+
+PATIENT W934
+You @@@.  Is it a week to two weeks?
+
+DOCTOR W934
+Hopefully you'll get the ENT appointment the nose doctor appointment.
+
+PATIENT W934
+Hmm.
+
+DOCTOR W934
+Then you can come see me in three months.  But @@@ if you want to see me earlier like one month?
+
+PATIENT W934
+Yeah one month that way uh.
+
+DOCTOR W934
+Yeah you could do that, we could do one month and then see the nose doctors and we'll go over your next @@@.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+Okay.
+
+PATIENT W934
+They're going to be giving me the phone number for that right?
+
+DOCTOR W934
+Yeah, they should.  When you go out front ask them, give them this piece of paper.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+And then uh just make sure tell them I need to see the nose doctor for nosebleeds. I’ll put it on here.
+
+PATIENT W934
+Say can I get, can I get a urine test?
+
+DOCTOR W934
+Yeah let me get a urine test.
+
+PATIENT W934
+You know what I, you know what I got put the, you know burning in my prostate @@@.  And uh after so long of a day, you know if it's in there, I don't know if that's how long, could they like @@@ pull it out.
+
+DOCTOR W934
+Power on the wall?
+
+PATIENT W934
+So @@@ you.
+
+DOCTOR W934
+Yeah.
+
+PATIENT W934
+Uh @@@ this Friday and when I try to take it, I take 80 of @@@ a day.
+
+DOCTOR W934
+That could do it.
+
+PATIENT W934
+Yeah I just wanted to know what, you know if there's anything else that @@@.
+
+DOCTOR W934
+We could do a urine test yeah.
+
+PATIENT W934
+If it don't rise or nothing, I ain't, you know I ain't you don't have to.  I was just telling you you know.
+
+DOCTOR W934
+Yeah we can get it looked at and make sure there's not any infection or anything like that.  I don't think there's @@@.
+
+PATIENT W934
+Alright.
+
+DOCTOR W934
+Do you mind stopping by the Lab today?
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+And then we'll get your blood drawn too.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+Okay.
+
+PATIENT W934
+Alright.
+
+DOCTOR W934
+Alright.  I think that's it.  Let me just put this in the computer so you get that ear nose and throat doctor's appointment @@@.  
+
+PATIENT W934
+Yeah @@@ in the morning @@@ four at night.
+
+DOCTOR W934
+That can cause, you know cause it's like extra stuff in your urine that kind of calcifies and @@@.  You know @@@.
+
+PATIENT W934
+Well I mean you always know what it is and know it's no harm, you don't have to fool with that.
+
+DOCTOR W934
+Okay.
+
+PATIENT W934
+As long as you know what it's going to be.  You know but I wanted you to know.
+
+DOCTOR W934
+No it's alright.
+
+PATIENT W934
+What was happening.  So I'll just get the blood drawn.
+
+DOCTOR W934
+Yeah and another appointment.  Alright, it’s in the computer now, @@@ right.  So then one other thing, @@@.  Okay.  
+
+PATIENT W934
+Alright.  
+
+DOCTOR W934
+I'm getting this @@@ alright so you're all set then okay.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+You're @@@ today and we're gonna see you in a month and then they'll get you scheduled with the @@@.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+@@@.
+
+PATIENT W934
+All I got to do is @@@ soon right.
+
+DOCTOR W934
+Yeah just do that and get your blood test@@@ and you'll be good okay.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+It was nice seeing you again.
+
+PATIENT W934
+Alright.
+
+DOCTOR W934
+@@@.
+
+PATIENT W934
+Okay.
+
+DOCTOR W934
+Alright.
+
+PATIENT W934
+And thank you.
+
+DOCTOR W934
+Oh no, it’s my pleasure.  Do you need any help?
+
+PATIENT W934
+No I'll make it.
+
+DOCTOR W934
+Alright then.
+
+PATIENT LEAVES:  141.10
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@ 
+INFOPRO/800511/JOB#  1255192
+TRANSACTION # 578-10-2-316-0103

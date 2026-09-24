@@ -1,0 +1,1013 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@  
+
+DOCTOR S375
+PATIENT?
+
+PATIENT S375
+Who?
+
+DOCTOR S375
+PATIENT?
+
+PATIENT S375
+Yeah, uh-huh.
+
+DOCTOR S375
+Hello.
+
+PATIENT S375
+Hello.
+
+DOCTOR S375
+Hi.
+
+PATIENT S375
+Uh-huh.
+
+DOCTOR S375
+I'm DOCTOR.
+
+PATIENT S375
+Hey DOCTOR.
+
+DOCTOR S375
+Right this way.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Have a seat.  So um you're here to establish care right?
+
+PATIENT S375
+Yes.
+
+DOCTOR S375
+This is your first time being seen by a primary care physician?
+
+PATIENT S375
+Yes.
+
+DOCTOR S375
+Okay, welcome to the Blue Clinic.
+
+PATIENT S375
+Thank you.
+
+DOCTOR S375
+Um so no other medical problems except for your elevated PSA and the results of your biopsy today.
+
+PATIENT S375
+Right today correct, correct, correct.
+
+DOCTOR S375
+Okay.  Don’t miss that appointment.
+
+PATIENT S375
+No, no way.
+
+DOCTOR S375
+Any other problems?
+
+PATIENT S375
+Uh not that I know of.
+
+DOCTOR S375
+Okay.  Okay, um any medications?
+
+PATIENT S375
+I'm just, the medications I'm taking for the uh prostate so.
+
+DOCTOR S375
+Okay.  What do they have you on, cause I don't have you in the system?  Oh ciproflox okay.  Um and then did you have your TB test done?
+
+PATIENT S375
+No not yet.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Can I get that done today too?
+
+DOCTOR S375
+Sure.  It looks like it's already in the system so okay.  They'll place it today, you'll have to come back and.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+What's today Thursday oh, Friday, Saturday, Sunday so it would be better to come on.  So you have to come back to have somebody read it.
+
+PATIENT S375
+Okay.  So it'd be best to come back on a.
+
+DOCTOR S375
+Do you have another appointment coming up?
+
+PATIENT S375
+No.
+
+DOCTOR S375
+No.
+
+PATIENT S375
+These are my last two.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Now see I can come back, I mean no problem.
+
+DOCTOR S375
+Right.  Can you come back on Monday then?
+
+PATIENT S375
+Yeah.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+What time Monday?
+
+DOCTOR S375
+Um the early let's see.
+
+PATIENT S375
+So I could do that okay.
+
+DOCTOR S375
+Let me find out for you.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Let me see, instead of going through Urgent Care if I can just get you a nursing visit and you can take the PPD and then come back and follow up and see them.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Okay and okay.  Allergy to penicillin, what happens?
+
+PATIENT S375
+Oh all kinds of stuff.
+
+DOCTOR S375
+What stuff?
+
+PATIENT S375
+Break out in hives and um it's not a pretty sight.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Sick.
+
+DOCTOR S375
+No @@@, diabetes, no hypertension that you know of?
+
+PATIENT S375
+Not that I know of.
+
+DOCTOR S375
+Okay and then family history.
+
+PATIENT S375
+Yeah I had that, excuse me, I had some blood work done and it told me that all of it was good except cholesterol was just a little high.  And you don't see that either?
+
+DOCTOR S375
+Yeah.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+The cholesterol is a little high.
+
+PATIENT S375
+Yeah.
+
+DOCTOR S375
+And okay and no heart disease in your family?
+
+PATIENT S375
+Um not really no.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Just that.
+
+DOCTOR S375
+Diabetes and high blood pressure?
+
+PATIENT S375
+Diabetes, yeah, yeah.
+
+DOCTOR S375
+Okay and then what about um any cancers run in your family?
+
+PATIENT S375
+No.
+
+DOCTOR S375
+Okay.  Okay so your LDL, your bad cholesterol number is 152.
+
+PATIENT S375
+Is that bad?
+
+DOCTOR S375
+Well given your age they'd like it to be less than 130.
+
+PATIENT S375
+Okay, okay.
+
+DOCTOR S375
+And it's one pill once a day; in the long run it also protects all your arteries and prevents some blockages.
+
+PATIENT S375
+Blockages and stuff.
+
+DOCTOR S375
+Right so um so side effects to watch out for is just muscle aches.  It's not very common but if you start having muscle aches it could be from the medications.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+And so then you can always just either stop it or come in.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+And we'll check it out.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+The other thing is to, so it can metabolize to the liver um so and for some reason it interacts with grapefruit juice we tell patients not to drink grapefruit juice when they're on this medication.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Uh-huh.
+
+DOCTOR S375
+Do you want me to mail this to you or do you want to pick it up today?
+
+PATIENT S375
+Uh the medication?  I'll pick it up today.
+
+DOCTOR S375
+Okay.  So it's a half a pill every day.
+
+PATIENT S375
+A half a pill every day.
+
+DOCTOR S375
+They'll give you a pill cutter.
+
+PATIENT S375
+Okay.  So I'll be here still for a while today.
+
+DOCTOR S375
+Yeah for your biopsy, so yeah you can pick it up.
+
+PATIENT S375
+Yeah.
+
+DOCTOR S375
+And then um before your next appointment we'll have you go to the Lab and we'll check to see that your numbers have come down.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Okay. 
+
+DOCTOR S375
+So on the morning of your next appointment nothing to eat or drink.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Um water is okay.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+And then go to the Lab before your appointment and then we can go over the labs when we meet.
+
+PATIENT S375
+Okay, okay.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+To the Lab first.
+
+DOCTOR S375
+Yeah and they open at either 7:30 or 8.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Okay your other labs your kidneys look normal.
+
+PATIENT S375
+Praise God.
+
+DOCTOR S375
+Your blood count was good.
+
+PATIENT S375
+Praise God.
+
+DOCTOR S375
+So everything else here, your hep C was negative.
+
+PATIENT S375
+Who?
+
+DOCTOR S375
+Your hepatitis C.
+
+PATIENT S375
+Oh whew another good thing, praise God.
+
+DOCTOR S375
+Your hepatitis B was negative and you don't have diabetes.
+
+PATIENT S375
+Thank you, praise God.
+
+DOCTOR S375
+Okay.  So let's see, are you still smoking?  Half pack a day?  Want to quit?
+
+PATIENT S375
+Yes.  I should.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+I should want to quit.
+
+DOCTOR S375
+Do you want to come here?
+
+PATIENT S375
+I can.
+
+DOCTOR S375
+Okay.  These are all our Smoking Cessation Clinics.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+So you know there are different medications that you can try.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Either patches or gum but you have to go to one of those appointments first.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+And then um they're just a walk-in and you just show up whenever you want.
+
+PATIENT S375
+Oh okay.
+
+DOCTOR S375
+And then they can figure out which medication might work best for you.
+
+PATIENT S375
+They'll give me okay.
+
+DOCTOR S375
+Yeah.
+
+PATIENT S375
+Okay thanks doc, thank you.
+
+DOCTOR S375
+And then how much, are you still drinking alcohol occasionally?
+
+PATIENT S375
+No I don't even, it's very rare.
+
+DOCTOR S375
+Okay.  When was the last time you used cocaine?
+
+PATIENT S375
+Oh it's been a while.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Yeah it's been a while.  Praise God it's been a while, thank God.
+
+DOCTOR S375
+Okay and have you ever had a colonoscopy?
+
+PATIENT S375
+No I haven't and I would like to get one.
+
+DOCTOR S375
+Yeah.
+
+PATIENT S375
+A consult yeah.
+
+DOCTOR S375
+Uh-huh.
+
+PATIENT S375
+Cause @@@ not right that I should get all that stuff checked out right?
+
+DOCTOR S375
+Yes.
+
+PATIENT S375
+Yeah.
+
+DOCTOR S375
+Okay, so what I'll do is I'll send you a set that'll be two different bottles that you'll get in the mail.
+
+PATIENT S375
+Uh-huh.
+
+DOCTOR S375
+And it's stuff to clean out your colon the day before the procedure.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+So initially what will happen is you'll come in for a visit, you’ll watch a video, we can answer all your questions and then we'll schedule you for the procedure.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Oh wow, praise God, I'm about to start a new job.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+So in the event that I'm working can I reschedule those things, call in and reschedule.
+
+DOCTOR S375
+Yeah you can call in and reschedule.
+
+PATIENT S375
+Yeah maybe on my day off or something like that.
+
+DOCTOR S375
+Yeah.
+
+PATIENT S375
+Yeah, praise God.
+
+DOCTOR S375
+They do these all day @@@.
+
+PATIENT S375
+Okay, okay.
+
+DOCTOR S375
+Have you ever had any abdominal surgery?
+
+PATIENT S375
+Oh um I had my appendix removed.
+
+DOCTOR S375
+Okay.  Okay I'm going to put in for your labs before your next visit so.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Um you should come back in three or four months.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+And so early September.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Okay.  So if you go get, if you happen to be around for something else, any time after September 1st you could get your labs done.
+
+PATIENT S375
+Okay, okay, yeah.
+
+DOCTOR S375
+And then that way they'll be ready for us when we have our next visit.
+
+PATIENT S375
+Okay.  So it's probably, then the next visit will be two or three months from now?
+
+DOCTOR S375
+Yeah I have it early September.
+
+PATIENT S375
+Okay, okay.
+
+DOCTOR S375
+Like three, three.  You don't really have any medical problems it's just we're gonna follow up on the cholesterol.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+So it's like three to four months.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+We're gonna say early September.
+
+PATIENT S375
+Okay, okay, good.
+
+DOCTOR S375
+And then by that time you'll have your colonoscopy done.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+And you should be good on that.
+
+PATIENT S375
+Okay, okay.
+
+DOCTOR S375
+Okay, I don't have anything @@@.  Did you go to the eye doctor?
+
+PATIENT S375
+No not yet.
+
+DOCTOR S375
+I know you came in for their clinic and they placed a consult did you ever get uh, did you ever get a letter?
+
+PATIENT S375
+I don't think so.
+
+DOCTOR S375
+Oh it looks like no, so it looks like they put in, okay this is old.  Let's see, we'll put in a new.
+
+PATIENT S375
+Okay good, good, good.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Please cause I need some glasses, I really do.  These are old.
+
+DOCTOR S375
+Let me put in a consult.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Sit up here for me.
+
+PATIENT S375
+Yeah.  Take off the jacket?
+
+DOCTOR S375
+Um sure.  Are you nearsighted?
+
+PATIENT S375
+That's when you see things; you have trouble seeing things close?
+
+DOCTOR S375
+Far away.
+
+PATIENT S375
+Far away.  I don't know.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Yeah I think I might be.
+
+DOCTOR S375
+Okay hold on.  (Doctor takes phone call)  Anything else you can think of?  Do you get seasonal allergies at all?
+
+PATIENT S375
+Uh yeah.  I have trouble with sinuses and it's hard for me to breathe and can I get something for my sinuses you know to clear them up you know?
+
+DOCTOR S375
+Uh-huh.
+
+PATIENT S375
+To help me breathe.
+
+DOCTOR S375
+Uh-huh is it pressure? Or is it postnasal drip or do you get a dry cough?
+
+PATIENT S375
+I get a dry cough and I also get that uh, where it's hard for me to breathe like at night.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+You know I definitely have to have the window open so I can breathe good.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+You know.
+
+DOCTOR S375
+Sort of itchy eyes or?
+
+PATIENT S375
+Yeah and itchy nose and.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+I just want to knock my nose off.
+
+DOCTOR S375
+Okay open for me, say ah.
+
+PATIENT S375
+Ah.
+
+DOCTOR S375
+One more time.
+
+PATIENT S375
+Ah.
+
+DOCTOR S375
+Okay.  Good.  So I'll give you two things, one is a nasal spray.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Two sprays in each nostril once a day.
+
+PATIENT S375
+Uh-huh.
+
+DOCTOR S375
+You have to do that every day no matter what.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+And it decreases the inflammation in your nose here.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+But then and then the pill that you can take kind of as needed.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Okay.  Okay.
+
+DOCTOR S375
+Take a big deep breath, let it out, good.  Again, again, good.  Just breathe normally.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+You sound good.  Okay so you can pick these up today too.  Um.
+
+PATIENT S375
+Oh I guess I do have a question I want to ask you doctor.
+
+DOCTOR S375
+Uh-huh.
+
+PATIENT S375
+I get pain right here, I don't know what it is. I don't know what it's from.  It's right in the joint, right here, in each arm sometimes.
+
+DOCTOR S375
+Okay.  How long has it been going on?
+
+PATIENT S375
+For a little while now, just a little while.  Maybe about four or five months.
+
+DOCTOR S375
+What do you do for, what is your profession?  Or what will your profession be once you have that new job?
+
+PATIENT S375
+Uh I'll be doing environmental tech II at Mercy Hospital.  I'll be @@@.
+
+DOCTOR S375
+Do you do a lot of movement with your?
+
+PATIENT S375
+I just started the job.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Uh-huh.
+
+DOCTOR S375
+Pretty recently though and where is it?
+
+PATIENT S375
+Right in here.
+
+DOCTOR S375
+Here?
+
+PATIENT S375
+Here yeah, like right now, especially right there.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Now, if I lift something heavy.
+
+DOCTOR S375
+Right here.
+
+PATIENT S375
+Yeah it hurts.
+
+DOCTOR S375
+Okay.  Any numbness or tingling in your finger, in your hand, it's just pain right here?
+
+PATIENT S375
+Yeah.
+
+DOCTOR S375
+Okay.  Why don't we do some um, well see the problem is you're going to moving that, it's gonna make that worse.
+
+PATIENT S375
+Really.
+
+DOCTOR S375
+Yeah.
+
+PATIENT S375
+Then I'll probably do it @@@.
+
+DOCTOR S375
+Does it hurt you a lot or a little?
+
+PATIENT S375
+Just a little.
+
+DOCTOR S375
+Uh-huh.
+
+PATIENT S375
+You know just a little you know.  I know its there.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+The pain, I know it’s there. I just wanted to mention that and maybe I you know.
+
+DOCTOR S375
+What we can do is we can try to give you some Motrin to take for about a week or so.
+
+PATIENT S375
+Uh-huh.
+
+DOCTOR S375
+And take it every day and see if that doesn't decrease the inflammation.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+But then just try um icing it too.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Um.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Like twice a day and seeing if it just helps bring it down.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Cause I'm really just the movement, trying to minimize the amount of movement that you do.
+
+PATIENT S375
+Uh-huh.  It hurts @@@.
+
+DOCTOR S375
+And it hurts right in the center where I push?
+
+PATIENT S375
+No right in here.
+
+DOCTOR S375
+Right in here.
+
+PATIENT S375
+Right here yeah.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Right here.
+
+DOCTOR S375
+And in the forearms too?
+
+PATIENT S375
+Yeah just a little bit right here.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Just a little bit.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+And it's tender to the touch.
+
+DOCTOR S375
+Nothing in the joints here?
+
+PATIENT S375
+No uh uh, nothing like that.  It's basically right here, I don't know what that is but it’s been increasing for some time.
+
+DOCTOR S375
+Make sure you just, cause this Motrin can sometimes um upset your stomach so just take it with food.
+
+PATIENT S375
+Yeah with food right.
+
+DOCTOR S375
+And drink a lot of water.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Yeah.
+
+DOCTOR S375
+Okay, um just give me a minute okay.
+
+PATIENT S375
+Okay.
+
+(DOCTOR OUT:  43:35  DOCTOR IN:  51:54)
+
+SECOND DOCTOR S375
+Hi PATIENT.  I'm DOCTOR.  I'm the attending on the Blue Clinic, I just wanted to say hello.
+
+PATIENT S375
+Oh thank you.
+
+SECOND DOCTOR S375
+Yeah.  DOCTOR's got, she's a plan for you and you're in good hands but you’ll see me around so I just wanted to introduce myself.
+
+PATIENT S375
+Thank you.
+
+SECOND DOCTOR S375
+Yeah.  How are you today?
+
+PATIENT S375
+I'm blessed.
+
+SECOND DOCTOR S375
+Good.
+
+PATIENT S375
+Thank you @@@.
+
+SECOND DOCTOR S375
+Okay.  Well I'll let her finish up and have a good day alright?
+
+PATIENT S375
+You also.
+
+FIRST DOCTOR S375
+@@@ okay, you're all set.  Just take this to the front and they'll schedule you an appointment for Monday to get your PPD.
+
+PATIENT S375
+Uh-huh.
+
+FIRST DOCTOR S375
+And then also um for Eye Clinic.
+
+PATIENT S375
+Okay.
+
+FIRST DOCTOR S375
+Okay.
+
+PATIENT S375
+Uh-huh.  Is that here?
+
+FIRST DOCTOR S375
+Pardon?
+
+PATIENT S375
+That it here?
+
+FIRST DOCTOR S375
+Oh yeah we're all done.
+
+PATIENT S375
+Oh okay.
+
+FIRST DOCTOR S375
+Yeah.
+
+PATIENT S375
+Alright.  Thank you.
+
+DOCTOR S375
+They'll help you out in front.
+
+PATIENT S375
+Okay.
+
+DOCTOR S375
+Okay.
+
+PATIENT S375
+Thank you.
+
+PATIENT LEAVES:  52:57
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275396
+TRANSACTION # 578-10-2-316-0103

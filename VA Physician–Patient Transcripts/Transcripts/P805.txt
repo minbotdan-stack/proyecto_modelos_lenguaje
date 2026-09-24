@@ -1,0 +1,727 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR P805
+PATIENT?
+ 
+PATIENT P805
+Hi.
+
+DOCTOR P805
+How you doing?
+
+PATIENT P805
+Alright how you doing?
+
+DOCTOR P805
+Doing well thank you.  Have a seat right here.  How’ve you been?
+
+PATIENT P805
+Pretty good.
+
+DOCTOR P805
+Good.  Have a seat.
+
+PATIENT P805
+@@@ except for my foot.
+
+DOCTOR P805
+What's the matter with your foot?
+
+PATIENT P805
+See I got blisters.
+
+DOCTOR P805
+Okay.  So they @@@.  
+
+PATIENT P805
+@@@ my foot now.
+
+DOCTOR P805
+Yep.  @@@ a step.  Unable to reach patient after three attempts.  They attempted to schedule you a Podiatry appointment.
+
+PATIENT P805
+And how did they, try?
+
+DOCTOR P805
+First call line busy, second call line busy, third call phone busy.  Three different people.  Unable to reach patient after three attempts last call on @@@.
+
+PATIENT P805
+I never @@@.
+
+DOCTOR P805
+I don't know.  So I thought you saw the liver guy.
+
+PATIENT P805
+Yeah.  I was supposed to, I was supposed to actually come to the clinic but I was sick that day.  I didn't @@@ see him.
+
+DOCTOR P805
+Okay.  What about that stress test?
+
+PATIENT P805
+Yeah, see I figured I need @@@, I need @@@.
+
+DOCTOR P805
+Yeah.
+
+PATIENT P805
+I don't know it's just that they @@@.
+
+DOCTOR P805
+So what can we do to make of this kind of stuff happen?  You know if we cannot get a hold of you.
+
+PATIENT P805
+Reschedule them.
+
+DOCTOR P805
+Okay, I'll definitely schedule them again but if you don't hear from them you call me.
+
+PATIENT P805
+Alright I'll call you.
+
+DOCTOR P805
+You call the nurse, I'll get back in touch with you, I promise.
+
+PATIENT P805
+Hmm.
+
+DOCTOR P805
+If I can guarantee you @@@.
+
+PATIENT P805
+Now you give me your card and I'll call over and over there @@@ right?
+
+DOCTOR P805
+Yes but I'll give you the, this clinic is all you need.  It's the clinic number here.  Your direct patient cell phone number, PHONE NUMBER.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+PHONE NUMBER and if you call it’s my nurse.
+
+PATIENT P805
+Your nurse.
+
+DOCTOR P805
+A message and I will call you back.
+
+PATIENT P805
+Okay.
+
+DOCTOR P805
+You just say can you reorder a stress test or they haven't called me about the podiatrist and then we'll get that done.
+
+PATIENT P805
+Alright so @@@ I just happened to be @@@ on that particular day.
+
+DOCTOR P805
+Okay, okay.  This is the patient telephone number.
+
+PATIENT P805
+So when should I call you.
+
+DOCTOR P805
+So you won't get me if you call this number.  I don't have an office.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+That I sit around and answer phone calls.  Okay you get the nurse who can put in a message for me and I'll call you back.
+
+PATIENT P805
+And when then should I call you?
+
+DOCTOR P805
+If something's wrong.  If you don't get your things scheduled or something's happened.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+Or I mean really, we're having a problem here since you're needing the tests and you're not getting them, for whatever reason.  So if there's a problem you call me with it and we'll deal with it.
+
+PATIENT P805
+Okay.
+
+DOCTOR P805
+Instead of just not getting it or not hearing from them okay?
+
+PATIENT P805
+Alright.
+
+DOCTOR P805
+We got to make sure we the tests done.
+
+PATIENT P805
+I'll schedule for this.
+
+DOCTOR P805
+Okay I’m going to @@@ the stress test today.
+
+PATIENT P805
+Stress test today?
+
+DOCTOR P805
+Not today I wish it could be today but we won't be able to get it done today.
+
+PATIENT P805
+@@@.
+
+DOCTOR P805
+You missed your eye appointment.
+
+PATIENT P805
+Yes @@@.
+
+DOCTOR P805
+We'll get you an Ophtho for you.  Alright so you had recent labs.  In January when you got labs most recently.
+
+PATIENT P805
+@@@.  What about the uh Podiatry appointment?
+
+DOCTOR P805
+Now I'm going to put it in but you haven't proven too successful at this point.
+
+PATIENT P805
+I know, you know.  I was thinking about do they have a clinic on Halsted?
+
+DOCTOR P805
+Well I don't know why they're not getting a hold of you.  Do you have any ideas?
+
+PATIENT P805
+No because uh, usually it's either on my voice mail or my son is there, one of the two and they know to give me a call.  But I have a cell phone.
+
+DOCTOR P805
+Did you give them that number?
+
+PATIENT P805
+No I didn't.
+
+DOCTOR P805
+Well I highly recommend it.  When you go to check out in the front you need to give them that number.
+
+PATIENT P805
+Okay.
+
+DOCTOR P805
+Are you having the chest pain still?
+
+PATIENT P805
+Yeah I haven't had any more since.  I got this again and @@@ to get an appointment.
+
+DOCTOR P805
+Okay.  You got to do me a favor my friend though.
+
+PATIENT P805
+What's that?
+
+DOCTOR P805
+You got to start showing up for your stuff.  You see me every time but I can't ever help you because you don't go for other stuff okay.
+
+PATIENT P805
+Now, let me @@@
+
+DOCTOR P805
+Yeah I'll move it, all of your stuff will be assigned to @@@ also.
+
+PATIENT P805
+Okay.  But what happened was, I do recall missing was the eye appointment.  Now the stress test I don't know but what I be thinking is that usually, the way I know about that appointment is you just send through the mail.  You know sometimes they'll call @@@ appointment, they even confirmed the eye appointment but I just got tied up for that appointment but I @@@.  But the stress test I don't remember that. Maybe I should give them the other number to get in contact with.
+
+DOCTOR P805
+I think so.
+
+PATIENT P805
+But my son he be on the computer and he be playing with the video games, sometimes he don't answer the phone and @@@.
+
+DOCTOR P805
+Alright and the liver doctors can’t do anything for you until we get all this stuff figured out.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+Okay.
+
+PATIENT P805
+Well what am I supposed to do about my foot, @@@?
+
+DOCTOR P805
+Well you get to Podiatry.  I can't help you.  I mean there's nothing I can do for your feet okay.  Lotion is the best thing, that's all I know.  They probably need to biopsy the skin.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+Okay and give you special shoes.
+
+PATIENT P805
+But what I think @@@ I think there's a piece of glass in my foot.
+
+DOCTOR P805
+That doesn't cause blisters, but I'll take a look at it.
+
+PATIENT P805
+Yeah because I had uh, it’s been there @@@ stepped in a lot of glass @@@.
+
+DOCTOR P805
+They're not painful right?
+
+PATIENT P805
+What the blisters?  Yes they are.
+
+DOCTOR P805
+They are.  Take them off and let me see.  I'm going to take care of your feet.  I'm more worried about your heart and your liver working so you need to survive.
+
+PATIENT P805
+Alright.
+
+DOCTOR P805
+Right.
+
+PATIENT P805
+Alright.
+
+DOCTOR P805
+We got to get you that stress test.  Your blood pressure's too high still.
+
+PATIENT P805
+That's because I'm in a lot of pain with my foot.  @@@ right in the middle.
+
+DOCTOR P805
+Uh-huh and I'll check your vitals and we'll check it in a second.
+
+PATIENT P805
+The blisters had on my feet @@@.
+
+DOCTOR P805
+Are you taking your blood pressure medicine?
+
+PATIENT P805
+Yes.
+
+DOCTOR P805
+Every single one of them?  Do you know which ones you're taking?
+
+PATIENT P805
+Yes.
+
+DOCTOR P805
+Which ones?
+
+PATIENT P805
+Name them?
+
+DOCTOR P805
+Uh-huh.
+
+PATIENT P805
+Uh metoprolol or whatever it is.
+
+DOCTOR P805
+Metoprolol good.
+
+PATIENT P805
+And the uh lisinopril.
+
+DOCTOR P805
+Good.
+
+PATIENT P805
+And uh a water pill.
+
+DOCTOR P805
+Hydrochlorothiazide good.
+
+PATIENT P805
+Yeah I tell you I wasn't taking that other one because it @@@.
+
+DOCTOR P805
+@@@ okay that's fine.
+
+PATIENT P805
+Uh-huh.  See I take those three.
+
+DOCTOR P805
+Okay.  Have you ever tried the Telebuddy System?
+
+PATIENT P805
+What's that?
+
+DOCTOR P805
+Where they actually call you about your blood pressure every day and you submit it electronically?
+
+PATIENT P805
+No, I got a blood pressure gauge.
+
+DOCTOR P805
+Would you like that?
+
+PATIENT P805
+What for that.
+
+DOCTOR P805
+You take your blood pressure at home with a certain machine that submits it electronically so we get the information.
+
+PATIENT P805
+Okay.
+
+DOCTOR P805
+Because your blood pressure has been too high for over a year and a half now.
+
+PATIENT P805
+It goes low once I get home.  The last time I took it at home it was about 120.
+
+DOCTOR P805
+Okay.
+
+PATIENT P805
+@@@ you know.
+
+DOCTOR P805
+Okay what is it running at home though?
+
+PATIENT P805
+Uh for the last uh month or so it's been running like about 129/80, in the lower 80s something like that.
+
+DOCTOR P805
+Okay well then I think it'd be good to have you have blood pressures at home then.  Look at ours, every single one that we have here.
+
+PATIENT P805
+I think I be, it's a little more stressful for me to come up here.
+
+DOCTOR P805
+I'm sure it is.  I'm a stressful person.
+
+PATIENT P805
+(Laughter).
+
+DOCTOR P805
+Well see we've only got these here.  That’s why I think it'd good for you to have one of those Telebuddy Systems then we'd know what your blood pressure is at home.
+
+PATIENT P805
+Okay.
+
+DOCTOR P805
+Cause you're right, your blood pressure may be better at home but I can't know that until we check it at home and I find out the answer okay.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+So let's try that alright.  Alright, you also need to be on a cholesterol medicine that we need to add today.
+
+PATIENT P805
+Cholesterol.
+
+DOCTOR P805
+Your cholesterol is too high.  Your bad cholesterol we want for you less than 70 and yours is 134.  We need to cut your cholesterol in half okay.  And for that reason, I think you need to go on Zocor or Lipitor which is a cholesterol medicine alrighty.
+
+PATIENT P805
+@@@.
+
+DOCTOR P805
+You're African-American; you're almost 60 years old.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+You have hypertension and diabetes so right there those are four.
+
+PATIENT P805
+Hepatitis C.
+
+DOCTOR P805
+What, well hepatitis C is pretty much equivalent to diabetes, in my mind it is diabetes okay.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+You have four things okay that would put you at risk for heart attacks.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+Which will now give you five with high cholesterol so all of these things we need to treat.  We're trying to treat your blood pressure, we can't change your race, we change your age okay.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+But we can change your cholesterol.
+
+PATIENT P805
+So what was that pill I was on.
+
+DOCTOR P805
+The cholesterol.
+
+PATIENT P805
+I know, I understand, what kind of side effects is there?
+
+DOCTOR P805
+Side effects, the only kind of side effects is it might cause a little bit of muscle ache, so it's the most prescribed pills in America, is Lipitor.
+
+PATIENT P805
+Yeah I've heard that.
+
+DOCTOR P805
+Yeah.  That’s because it saves lives.
+
+PATIENT P805
+Okay.
+
+DOCTOR P805
+Okay.  So we'll put you on a low dose and increase it as you need it.
+
+PATIENT P805
+Alright.
+
+DOCTOR P805
+That sound good, I think it's important.  Alright.  Are you still taking the meloxicam?
+
+PATIENT P805
+Yes.
+
+DOCTOR P805
+Good.  Is that working for you?
+
+PATIENT P805
+Hmm so so.
+
+DOCTOR P805
+Okay.  I'd like to really get your.  I'm graduating you know soon and I'd like to get you all tuned up before I get rid of you.
+
+PATIENT P805
+Yeah I know.
+
+DOCTOR P805
+I've been working at it my friend.
+
+PATIENT P805
+Congratulations.
+
+DOCTOR P805
+Well no on you.
+
+PATIENT P805
+(Laughter).
+
+DOCTOR P805
+I'd like to feel a little bit better about you.  Alright, we're going to need to set up with this Telebuddy System okay.  You need a stress test; we need the Eye Clinic and the Foot Clinic.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+Okay.  And then we need to make a liver appointment after we get the stress test done.
+
+PATIENT P805
+Yeah I know you was telling me that I need to get the test.
+
+DOCTOR P805
+Alrighty.
+
+PATIENT P805
+Uh-huh, get the appointment.
+
+DOCTOR P805
+Alright.
+
+PATIENT P805
+Now I'm going to start on the Lipitor today?
+
+DOCTOR P805
+Yep.  Did you want me to mail it to you or you can pick it up downstairs either way.
+
+PATIENT P805
+Well you can mail it to me @@@.
+
+DOCTOR P805
+Alright.  @@@ Telebuddy, simvastatin, Podiatry and stress test.
+
+PATIENT P805
+So how would I go about setting up that Telebuddy @@@.  Are they calling me or what?  Do I have to do something with that?
+
+DOCTOR P805
+They'll call you to set it up with you.  Did you talk to the nurse at all about treatment?
+
+PATIENT P805
+Uh the uh liver clinic?
+
+DOCTOR P805
+Uh-huh.
+
+PATIENT P805
+Yeah I went to the class.
+
+DOCTOR P805
+Uh-huh what'd you learn?
+
+PATIENT P805
+Hopefully @@@.  The doctor was telling me that it's we don't have @@@ for 4-6 weeks and then we'll know whether I should keep on the @@@.
+
+DOCTOR P805
+Yep and if it works it works quick.
+
+PATIENT P805
+Yeah.
+
+DOCTOR P805
+And it'll @@@ but if doesn't @@@.
+
+PATIENT P805
+Uh-huh, okay.  Yeah all those things @@@.
+
+DOCTOR P805
+Uh-huh.
+
+PATIENT P805
+@@@.  This is like @@@.  Like @@@ this is what this was and then @@@.
+
+DOCTOR P805
+You've tried many different inserts right?  Have you tried doing different insert anywhere?
+
+PATIENT P805
+What in my shoes?
+
+DOCTOR P805
+Yeah.
+
+PATIENT P805
+I have different shoes.
+
+DOCTOR P805
+Okay well they just need to get you some special um orthotics.
+
+PATIENT P805
+Uh-huh.
+
+DOCTOR P805
+That's the only thing @@@.  These are rubbing blisters.
+
+PATIENT P805
+Are they?
+
+DOCTOR P805
+Yeah I mean they look very much like rubbing blisters to me.  Okay.  It's possible though that it's chronic inflammation because you're rubbing like this.  That may feel better if you pop it a little bit.
+
+PATIENT P805
+I did.
+
+DOCTOR P805
+Okay.
+
+PATIENT P805
+It came back again.
+
+DOCTOR P805
+Okay.
+
+PATIENT P805
+That's what they do, what I mean I pop them and they come back.
+
+DOCTOR P805
+You need orthotics alright and then also we needs labs in like a week or you can, what do you think are you going to get labs today or do you want to come back?  Cause we need to recheck your creatinine, let’s just do them today.  Okay.
+
+PATIENT P805
+Yeah.
+
+DOCTOR P805
+So you want to come all the way back here.  Alrighty.  
+
+PATIENT P805
+Alright.
+
+DOCTOR P805
+Let me go get this paper signed real quick and you can sit in the Waiting Room to wait for the labs okay.  Sit in this room right here and wait for NAME to come and draw your labs and I will um go get this top paper signed real quick.
+
+PATIENT P805
+Alright.
+
+DOCTOR P805
+I'll just listen to your heart and lungs.  No other problems right?
+
+PATIENT P805
+No, that’s it.
+
+DOCTOR P805
+No chest pain or?
+
+PATIENT P805
+No, I @@@ chest pain @@@.
+
+DOCTOR P805
+@@@  Let me listen to your heart real quick.  Sit up for me.  Alright.  Deep breath here, @@@ again.  No pain back here?
+
+PATIENT P805
+No.
+
+DOCTOR P805
+Nope okay.  No weight gaining or, is there anything @@@ right?
+
+PATIENT P805
+What skin?
+
+DOCTOR P805
+Yeah.
+
+PATIENT P805
+In this area.
+
+DOCTOR P805
+You do?
+
+PATIENT P805
+Yes.
+
+DOCTOR P805
+Everywhere?
+ 
+PATIENT P805
+No just on my arms.
+
+DOCTOR P805
+Just on your arms.  Okay.  Probably could be due from your hepatitis.  That's for you, that's the list of to-dos, so lab work today.  I'm going to take this and then get it signed @@@ okay.
+
+PATIENT P805
+@@@.
+
+DOCTOR P805
+They need the print out so you can get your labs drawn.
+
+PATIENT P805
+Okay.
+
+DOCTOR P805
+Your kidney function you know it's a little bit abnormal.  The last time we checked it @@@ normal in the past I'm just thinking it'll be okay.  So the liver doctor was kind of worried about that.
+
+PATIENT P805
+My kidney function?
+
+DOCTOR P805
+Yup.  So we'll take a look at it again.  That's why I'm going to have you do the lab tests.
+
+PATIENT P805
+Alright.
+
+DOCTOR P805
+Okay, so we have to make sure you do that stress test @@@.  Okay.  The eye doctor @@@.
+
+PATIENT P805
+Okay.
+
+(DOCTOR OUT:  47:39) 
+
+Patient went to Laboratory.  
+
+Time is 3:25 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238100
+TRANSACTION # 578-10-2-316-0103

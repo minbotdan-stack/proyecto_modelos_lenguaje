@@ -1,0 +1,617 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR S363
+PATIENT.  How you doing?
+
+PATIENT S363
+Fine, fine.
+
+DOCTOR S363
+How have you been doing?
+
+PATIENT S363
+Oh fair to midland we'll say.
+
+DOCTOR S363
+Yeah.  That's good.  That's always the question.
+
+PATIENT S363
+Each day gets a little slower.
+
+DOCTOR S363
+Does it?
+
+PATIENT S363
+Yes it does.
+
+DOCTOR S363
+Were you @@@ for Halloween?
+
+PATIENT S363
+Uh no, just answering the door.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+With the kids.
+
+DOCTOR S363
+Well that'll be fun.
+
+PATIENT S363
+A lot of the children out the east coast are sad.
+
+DOCTOR S363
+I know.
+
+PATIENT S363
+What a disaster holy cow.
+
+DOCTOR S363
+I know.
+
+PATIENT S363
+That's horrible.
+
+DOCTOR S363
+Seriously.
+
+PATIENT S363
+Horrible.
+
+DOCTOR S363
+So what's new?
+
+PATIENT S363
+Well since I've last seen you I've had carpal tunnel done on my hands again.
+
+DOCTOR S363
+You have okay. 
+
+PATIENT S363
+Uh-huh.  That's still uh.
+
+DOCTOR S363
+Feeling better?
+
+PATIENT S363
+No but that's the end of it.  But I've had it done three times in each hand.
+
+DOCTOR S363
+I know.
+
+PATIENT S363
+And this time they had to open my hands up and they said this is the last time to do it.  I own my age and the size of my hands.
+
+DOCTOR S363
+Anything else new?
+
+PATIENT S363
+Oh just once in the summer I was a little dizzy with the heat but that was at.
+
+DOCTOR S363
+Did you get, did you have to go to the hospital?
+
+PATIENT S363
+Uh yes I did.  I went and had a stress test and everything, my heart doctor.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+And they checked it out and that was about it and I've had a sleep test.
+
+DOCTOR S363
+Uh-huh.
+
+PATIENT S363
+And I guess I'm gonna go see a sleep doctor.  Whatever, what do they call it again?
+
+DOCTOR S363
+Sleep apnea?
+
+PATIENT S363
+Sleep apnea yes and one of the heart doctors thought that might be a part of my heart.  I have a little bleep in my heart all the time and so that's what they said to do that.
+
+DOCTOR S363
+To do what?
+
+PATIENT S363
+Have a sleep test.
+
+DOCTOR S363
+Did you have the sleep test already?
+
+PATIENT S363
+Yes I've had that done.
+
+DOCTOR S363
+And it says that you have sleep apnea?
+
+PATIENT S363
+Well no I haven't met with the man that read the test yet.
+
+DOCTOR S363
+Oh, gotcha.
+
+PATIENT S363
+That's within a week or two I go meet with him.
+
+DOCTOR S363
+Gotcha.
+
+PATIENT S363
+But the one heart doctor, a different doctor that reads some of the things he says take the magnesium and I've been taking magnesium and it helps.
+
+DOCTOR S363
+For what?
+
+PATIENT S363
+You need it in your system, it helps you.  So now I feel a lot better.
+
+DOCTOR S363
+Okay.  What is it?
+
+PATIENT S363
+But the heat was the big problem.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+This summer was horrible.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+But other than that I'm fine.  My arthritis is killing me but otherwise what are you gonna do.
+
+DOCTOR S363
+Are you taking anything for it?
+
+PATIENT S363
+Just the meloxicam is for the arthritis.
+
+DOCTOR S363
+Yeah.  Oh right but you have to take that.
+
+PATIENT S363
+Oh yes I take all my medications.
+
+DOCTOR S363
+Does it help?
+
+PATIENT S363
+I hope so.
+
+DOCTOR S363
+Okay.
+
+PATIENT S363
+I mean nothings gonna do, make it that perfect anymore.
+
+DOCTOR S363
+And you have another outside primary care doctor is that right?
+
+PATIENT S363
+Uh I have my family doctor; it's been 40 years DOCTOR in Villa Park.
+
+DOCTOR S363
+Yeah okay.
+
+PATIENT S363
+And then a heart doctor which is DOCTOR in Elmhurst Hospital.
+
+DOCTOR S363
+And he's the one that gave you the magnesium?
+
+PATIENT S363
+That's a lady.  Pardon?
+
+DOCTOR S363
+She’ the one that gave you the magnesium, is she the one that gave you the magnesium?
+
+PATIENT S363
+Uh it was another one of the heart doctors that she referred to.
+
+DOCTOR S363
+Okay.
+
+PATIENT S363
+Cause he read, he looked into why I got the beep in my heart.  They all know that.  I've had it for years.  Everybody thinks like, when they take my blood pressure or something or whatever it is when they listen to my heart they always probably get a little beep, a little jump or something.
+
+DOCTOR S363
+Huh.
+
+PATIENT S363
+See so but, but I've had that for years and years and years.
+
+DOCTOR S363
+But no new chest pain or anything like that?
+
+PATIENT S363
+No, none of that no.  There was one thing I asked last time.
+
+DOCTOR S363
+Uh-huh.
+
+PATIENT S363
+And doggone it again, why can't we get montelukast.  That's for my asthma?  I can't get a 90 day fill on it.  It's only 30 day fill so that's 12 times a year I gotta keep calling for that one thing.  That's a lot of postage and then we damn waste it.
+
+DOCTOR S363
+Did I order it?
+
+PATIENT S363
+Yeah everything is 90 days.
+
+DOCTOR S363
+I changed it.
+
+PATIENT S363
+I know you did but it still comes 30.
+
+DOCTOR S363
+I don't know why.
+
+PATIENT S363
+It comes in one bottle.
+
+DOCTOR S363
+I've changed it again.
+
+PATIENT S363
+Yeah it comes and the last time, the last one I ran low and I called in and it says oh it's over with and it wasn't over with.
+
+DOCTOR S363
+Huh.  Hmm.  I'm sorry about that.  I keep changing it on my end and I already had changed it.
+
+PATIENT S363
+Well it only comes in, they send me the exact bottle and it comes that way with only 30 tablets in it.
+
+DOCTOR S363
+Uh-huh.
+
+PATIENT S363
+Like you know so it's a sealed bottle.  But I get most of the medications in larger quantities just break them down.
+
+DOCTOR S363
+Yeah.  And your stress test this summer was negative?
+
+PATIENT S363
+Yeah everything was fine.  Yeah oh yeah.  I've had all of that.
+
+DOCTOR S363
+And you got your labs done today.
+
+PATIENT S363
+Yeah.  You got any report on that yet?
+
+DOCTOR S363
+There well your CBC looks fine.
+
+PATIENT S363
+How about the cholesterol I tried.
+
+DOCTOR S363
+That's still pending so.
+
+PATIENT S363
+Oh cause I fight with that.  Oh I don't fight; I try to keep it real low.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+The heart doctors want it low and I've been doing it.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+But I'm very faithful with all of my medications.  I take them exact like I'm supposed to.
+
+DOCTOR S363
+I believe you.  Well your blood pressure looks good.
+
+PATIENT S363
+Uh-huh.  I still go three days a week to the hospital and exercise.
+
+DOCTOR S363
+Good.
+
+PATIENT S363
+At Elmhurst Hospital.
+
+DOCTOR S363
+Good.
+
+PATIENT S363
+Cardiac rehab I've been doing that for 12 years now.  It's a hard nut to crack but I still do it.  And we open up the hospital at 6:30 in the morning so I got to get up at 5:30 to do that.
+
+DOCTOR S363
+Take a seat up here my friend let me take a quick look at you.
+
+PATIENT S363
+Alright.  You'll probably hear the little bleep.  Oh then another thing that the sleep test is, my heart gets real slow sometimes when I sleep.
+
+DOCTOR S363
+Does it?
+
+PATIENT S363
+It drops real low yes.
+
+DOCTOR S363
+Like how low?
+
+PATIENT S363
+Uh 38, I think once the heartbeat was 38.
+
+DOCTOR S363
+Big deep breaths for me.  
+
+PATIENT S363
+And these, at the hospital every time we used a machine or anything.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+We used one of these cleaning things and I store them in my pocket and I haven't had a cold now in four or five years.
+
+DOCTOR S363
+Oh really.
+
+PATIENT S363
+Yes.
+
+DOCTOR S363
+That's better than I've done.
+
+PATIENT S363
+Oh I've been lucky and I wash my hands 100 times a day and I use that what's you're doing there.
+
+DOCTOR S363
+Good.
+
+PATIENT S363
+Yeah.  No swelling of the legs or feet or anything.
+
+DOCTOR S363
+Yeah.  Well that's good.
+
+PATIENT S363
+The only thing is I just bruise a lot more now in my older age.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+A lot more bruising but other than that.  But.
+
+DOCTOR S363
+Are you still using the Albuterol a couple times a week?
+
+PATIENT S363
+The albuterol I, not really, yeah maybe once or twice a day maybe.
+
+DOCTOR S363
+Once or twice a day?
+
+PATIENT S363
+Yes.  And when I was in the hospital for that check-up, they take that away from you and I says well they gave me, this is what I used to have years ago.  This was from hospital and this has both.  This is kind of like a preventive and a helper.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+It was a double but albuterol is just for emergency.  What was the other one?  Albuterol and I forget the name of the other one.  I used to have a double but then they had these years back.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+And this is what the hospital gave me for the day I was in there.  They won't let you bring your own.
+
+DOCTOR S363
+Really oh.
+
+PATIENT S363
+Oh yeah when you go in there right.
+
+DOCTOR S363
+Yeah I could see that.
+
+PATIENT S363
+You can't bring your own medications.
+
+DOCTOR S363
+That's true.  Let me go talk to the other doctors I'll be right back okay.
+
+PATIENT S363
+Okay.
+
+DOCTOR S363
+I'm gonna check with them and I'll be right back to you so I'm gonna take your medication list.
+
+PATIENT S363
+Okay.
+
+DOCTOR OUT:  40:50  DOCTOR IN:  45:55
+
+DOCTOR S363
+Alright then.  Everything looks good.
+
+PATIENT S363
+That's good.
+
+DOCTOR S363
+And what I will do is follow up on these labs when they return and send you a letter with them cause it might take a while before they come back with your lipids.
+
+PATIENT S363
+Okay.
+
+DOCTOR S363
+And if we need to make any changes I'll call you.
+
+PATIENT S363
+Okay.  Uh the letter that tells me to call in to make an appointment.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+Was lost in the mail I guess cause I didn't get anything.
+
+DOCTOR S363
+Oh.
+
+PATIENT S363
+So finally I called.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+But I did get the letter for my eye exam.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+Would make the appointment in December.
+
+DOCTOR S363
+Okay.
+
+PATIENT S363
+And I said I wonder why and then I ran out of the one medication.  I said why, cause I didn't remember what the date was.
+
+DOCTOR S363
+Oh no.
+
+PATIENT S363
+So I called and they said oh that, yeah we sent you a letter in September, well I never received it.
+
+DOCTOR S363
+This place I tell you.
+
+PATIENT S363
+It's the mail.  Lost in the mail.
+
+DOCTOR S363
+Oh well.  But I'm sorry about that.
+
+PATIENT S363
+No that ain't your fault.
+
+DOCTOR S363
+So call me if you have any problems okay.
+
+PATIENT S363
+How do I get in touch with you?  Just call.
+
+DOCTOR S363
+Yeah, here I'll give you the number.  Alright.
+
+PATIENT S363
+Yeah there you go cause I keep that just.  
+
+DOCTOR S363
+Okay.  Here you go.
+
+PATIENT S363
+Alrighty.  Hey.
+
+DOCTOR S363
+So it's good to see you.
+
+PATIENT S363
+Alright.
+
+DOCTOR S363
+Need any help getting, okay.  
+
+PATIENT S363
+Alright take that up front?
+
+DOCTOR S363
+Yeah take care.
+
+PATIENT S363
+Will it be another year or do we have any shorter time?
+
+DOCTOR S363
+You want to come back in six, it's up to you.  I'm just, we're not cause I know you have another doctor that's why I don't want to.
+
+PATIENT S363
+Uh-huh.  Well okay.  Just as long as I don't run out of medications you know like that's the big thing.
+
+DOCTOR S363
+Yeah well every time, if you ever run out, just call and I'll renew them.
+
+PATIENT S363
+Uh-huh.  Alrighty, fine.
+
+DOCTOR S363
+If you have any problems and you want to come in another six months just call me and make an appointment.
+
+PATIENT S363
+Okay.
+
+DOCTOR S363
+Just let me know.
+
+PATIENT S363
+Okay, alrighty, fine.  Here.
+
+DOCTOR S363
+Alright.
+
+PATIENT S363
+Okay.
+
+DOCTOR S363
+Good to see you.
+
+PATIENT S363
+Ma'am.
+
+DOCTOR S363
+Stay warm.
+
+PATIENT S363
+Oh it's beautiful, I love the cold weather.  Love the change of seasons.
+
+DOCTOR S363
+Yeah.
+
+PATIENT S363
+Okay thank you.
+
+DOCTOR S363
+Okay have a good day.
+
+PATIENT S363
+You have good holidays.
+
+DOCTOR S363
+You too.
+
+PATIENT S363
+Look out for the goblins today.
+
+DOCTOR S363
+I will, see you later.
+
+PATIENT S363
+Bye, bye.
+
+Time is 3:59.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  38304
+TRANSACTION # 578-10-2-316-0103

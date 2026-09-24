@@ -1,0 +1,1153 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+DOCTOR W876
+How are you?
+
+PATIENT W876
+Good.  I was falling asleep over there.
+
+DOCTOR W876
+@@@.
+
+PATIENT W876
+What's that?
+
+DOCTOR W876
+@@@.  Uh once a year I'll find something @@@ send you here um pulmonary function tests and the reports were normal.
+
+PATIENT W876
+Yeah Excellent.
+
+DOCTOR W876
+Yeah exactly.  Uh how you doing overall?
+
+PATIENT W876
+Um I still have that cough.
+
+DOCTOR W876
+Still have that cough huh.
+
+PATIENT W876
+Yeah.  It um hasn't got any better um.  As a matter of fact it's gotten um I think its a little worse um.  I believe, I'm getting heart palpitations and I think it might be from that uh because I think it's something I get not only at the time I cough or right before I cough.  I haven't figured it out before or after I cough it seems like I've been getting little heart palpitations.
+
+DOCTOR W876
+Uh-huh.
+
+PATIENT W876
+And I know @@@ probably so.
+
+DOCTOR W876
+Yeah and you had a stress test recently.  You had a TSH that was normal.  Uh.
+
+PATIENT W876
+What do all these numbers mean?
+
+DOCTOR W876
+Cause your stress test is pretty much to see if you're having – what would be causing the palpitations or its just decreased blood flow to your heart, serious heart problems.
+
+PATIENT W876
+We did that last year I think it was, wasn't it?
+
+DOCTOR W876
+Yeah, yeah.  You got that last year.
+
+PATIENT W876
+Yeah we did it last year.  I remember that.
+
+DOCTOR W876
+Yeah.  Um we ended up getting a TSH cause we concerned about the thyroid hormone and that your thyroid hormone was elevated @@@ through that that was normal.  Uh we checked your cholesterol once again this also goes along the lines if you don’t have blood flow to your heart, cholesterol is high then it could be what causes palpitations but that was normal.
+
+PATIENT W876
+Okay.
+
+DOCTOR W876
+So um the reason I ordered the pulmonary function tests, one of the most common causes of a chronic cough is asthma and you don't have asthma.  Uh so there are other common cause of chronic cough actually, there are two other causes.  One is reflux.  Reflux can actually cause a cough, it can cause a cough @@@ asthma @@@.  So um do you have reflux after you eat?
+
+PATIENT W876
+You know I didn't know what's going on here um I think um a while back they gave me some pills cause they was thinking it was acid reflux.  That was before the uh any of the tests that you just described uh the cardio test or that pulmonary test, that was before that.  They gave me some medication um which actually caused one of the side effects and I read those things, unlike most patients.
+
+DOCTOR W876
+Yeah.
+
+PATIENT W876
+I read them.
+
+DOCTOR W876
+Sure @@@.
+
+PATIENT W876
+One of the side effects was coughing.  So you ask me will it really do any good, I took these pills so I think maybe 30 days.
+
+DOCTOR W876
+Yeah.
+
+PATIENT W876
+Three or four weeks.
+
+DOCTOR W876
+Do you know what pill it was?
+
+PATIENT W876
+Should be in my records, I don't remember the name of it.  But um that was supposed, I guess @@@ the cause but they was discussing acid reflux and uh cause I was like, “acid reflux?” 
+Cuz’ isn’t that something you can feel like in your throat like you're about to throw up or something.
+
+DOCTOR W876
+Uh @@@.
+
+PATIENT W876
+They said no this could be going on in my stomach and I wouldn't feel it.  But one of the side effects was coughing so how are you going to get someone on medication for coughing when one of the side effects is coughing?
+
+DOCTOR W876
+Well I mean.
+
+PATIENT W876
+@@@.
+
+DOCTOR W876
+Right, like you said, profiles oftentimes, unless they are like black-box warnings, oftentimes, for example I can say nausea and vomiting, you'll see nausea and vomiting or GI upset for almost every single medication, but it doesn't mean that everyone has it.  Uh they can actually improve your @@@ so there’s multiple random-controlled trials of uh and well-documented uh trials showing that these medicine can help with the cough.
+
+PATIENT W876
+Well when you come back and you say well  did it do any good.
+
+DOCTOR W876
+Uh-huh.
+
+PATIENT W876
+So my answer to that is I don't know.
+
+DOCTOR W876
+Yeah.  Well @@@.
+
+PATIENT W876
+If one of the side effects is coughing.
+
+DOCTOR W876
+If it didn't suppress your coughing, then it didn’t do good.
+
+PATIENT W876
+Yeah.
+
+DOCTOR W876
+Yeah.
+
+PATIENT W876
+If it cause coughing – I didn’t know if it suppressed it.
+
+DOCTOR W876
+No, no right.
+
+PATIENT W876
+And then I had a side effect?
+
+DOCTOR W876
+No it's very simple.
+
+PATIENT W876
+Oh.
+
+DOCTOR W876
+Did the medication help, did your coughing stop after you started taking the medication?
+
+PATIENT W876
+No.
+
+DOCTOR W876
+Okay so it didn't help.  
+
+PATIENT W876
+Um and I guess I've been noticing I mean when I get up in the morning I'm okay and usually after I eat you know later on in the day is when the cough starts, starting back.  So I'm thinking am I having an allergic reaction to something um.
+
+DOCTOR W876
+I'm sorry what?
+
+PATIENT W876
+@@@.
+
+DOCTOR W876
+Repeat what you just said I'm sorry.
+
+PATIENT W876
+I said in the morning time it seems to be okay.  Then later on in the day is when it starts, after I eat something.  So I start to notice that.  I don't eat a lot of acidic foods.  That's one thing about me I do not eat acidic foods so I'm thinking am I allergic to something cause I try to keep my PH balance in my day.  I take pills for that.
+
+DOCTOR W876
+What are you taking?
+
+PATIENT W876
+Uh well I take a thing that's @@@, that's alka balance.  But you know I don't take them every day.  No I just kind of watch my pH I have a pH strips that I use @@@. 
+
+DOCTOR W876
+Yeah.
+
+PATIENT W876
+To see what my pH, because I want to keep it slightly Alkaline @@@. Well, that’s going to help anyway because it helps acidic @@@
+
+DOCTOR W876
+Well I mean actually you know, those medications can result in uh.  You're talking about altering the pH of your stomach um which.
+
+PATIENT W876
+Yeah.
+
+DOCTOR W876
+Yeah you can do that but uh often times we recommend against that and the reason why is because the bacteria, the reason why your @@@ low pH for one reason @@@ protective mechanism uh but that uh @@@ kills the bacteria yeah.
+
+PATIENT W876
+I think that was supposed to @@@.
+
+DOCTOR W876
+Yeah so uh it keeps the pH at a very low level to slow bacteria up here so if you're @@@ high reflux you know you can aspirate some of the reflux um it won't be filled with bacteria, you know what I'm saying.  Um so I wouldn't necessarily recommend doing that.  Uh what we can of do though, I mean uh how long have you been on it?  Are you still taking the omeprazole?  Are you still taking that?
+
+PATIENT W876
+I think it was a 30 day supply.
+
+DOCTOR W876
+30.
+
+PATIENT W876
+Yeah two weeks or 30, something like that.  Two to four weeks.
+
+DOCTOR W876
+Three refills @@@ on.  And you say you took it only for 30 days or did you take it for less than that?
+
+PATIENT W876
+I just took whatever was in the bottle.
+
+DOCTOR W876
+What was in the bottle.
+
+PATIENT W876
+I didn't refill it.
+
+DOCTOR W876
+And it didn't help you at all?
+
+PATIENT W876
+Uh uh.
+
+DOCTOR W876
+Okay alright.  Uh usually three month trials.
+
+PATIENT W876
+@@@.
+
+DOCTOR W876
+Yeah let me see what DOCTOR thinks about that.  The other thing that it possibly could be is uh people end up having postnasal drip and uh postnasal drips occurs.  What it sounds like to me, it sounded like reflux coughing because you're saying that it occurs after you eat um and that you notice when you wake up in the morning and it occurred after you eat um.  You know the postnasal drip cough is a little bit different because the postnasal drip cough occurs at night when you lay back down, you get it then.  So now, omeprazole like with a reflux cough can happen at night @@@ too.  That's a very common reason for @@@ when you lay down you cough @@@.  But I mean it sounds like it occurs after you eat, that's what you were saying.  So it very well could just be that I mean you need a higher dose of the omeprazole.
+
+PATIENT W876
+@@@.
+
+DOCTOR W876
+Okay, alright. 
+
+PATIENT W876
+That one didn't work.
+
+DOCTOR W876
+Yeah.
+
+PATIENT W876
+So I don't, I mean if I double up on something that doesn't work.
+
+DOCTOR W876
+Well I mean it could just be the fact that you need a higher dose you know.
+
+PATIENT W876
+Yeah.  My body is supposed to take care of itself.
+
+DOCTOR W876
+Yeah.
+
+PATIENT W876
+And that's what I don't want to take pills to take care of this stuff so why. I don't suspect the cough.
+
+DOCTOR W876
+Well @@@.
+
+PATIENT W876
+I want to find out what's causing it.
+
+DOCTOR W876
+Well sometimes it's very difficult to find out what's causing it.
+
+PATIENT W876
+@@@.
+
+DOCTOR W876
+And I wouldn't expect and @@@ is suppressing the cough, you're not suppressing the cause what you're doing is you're ending up treating the cause and that is the way you go about finding out how, what the cause is.  If you end up taking the omeprazole and it actually works then that is the cause.  You understand?
+
+PATIENT W876
+@@@.  I think if I have a problem and I take something that suppresses the cough or makes me feel comfortable with it, what stops, then I'm taking the pill and I @@@.
+
+DOCTOR W876
+Uh well if you want to problem to go away.
+
+PATIENT W876
+What's causing me, what's causing acid reflux?
+
+DOCTOR W876
+Very common.
+
+PATIENT W876
+Is it the food that I'm eating or I wouldn't think so because I'm not eating acidic foods so I'm starting to watch what foods I eat.
+
+DOCTOR W876
+Do you drink coffee in the morning?
+
+PATIENT W876
+No I do not.  I do not drink coffee no.
+
+DOCTOR W876
+Well first of all right now we don't even know whether it's reflux or not so I mean, so I mean I think it sounds like reflux to me but if you're not willing to take the omeprazole then we'll see what else, I mean that's not something that we need to do.  The other thing is @@@ it seems like the serious causes are out of it.
+
+PATIENT W876
+See my thing is that the problem keeps coming and the pills take care of it and dilutes the acid in my stomach that means yeah the pill dilutes the acid in my stomach then I stop coughing.
+
+DOCTOR W876
+Uh-huh.
+
+PATIENT W876
+But the problem still exists.
+
+DOCTOR W876
+Yeah well sometimes you can't, you can't.
+
+PATIENT W876
+I want to know what the problem is.
+
+DOCTOR W876
+Yeah.
+
+PATIENT W876
+So if you're gonna be taking something and we don't know what the problem is.  We don't even know if it's acid reflux.  I take the pills, like they asked me to.  I took their pills.
+
+DOCTOR W876
+Right.
+
+PATIENT W876
+It didn't help.
+
+DOCTOR W876
+Right.
+
+PATIENT W876
+I took them as prescribed, they didn't help.
+
+DOCTOR W876
+Sure yeah.
+
+PATIENT W876
+Uh it didn't help at all.
+
+DOCTOR W876
+Okay.
+
+PATIENT W876
+So to me @@@.
+
+DOCTOR W876
+So it didn't help at all then that's surprising.  Uh like I said I would admit that doesn't fit, in the picture. It didn't help at all, that surprises me.
+
+PATIENT W876
+It got worse.
+
+DOCTOR W876
+Yeah, yeah and then the other thing that we can possibly do is we could once again is trial, but what we'd do is we'd give you a trial of medication and we'll see if it works.  If it works then that's the cause.  That's the way that it works.
+
+PATIENT W876
+If it works, it helps resolve.
+
+DOCTOR W876
+Exactly.
+
+PATIENT W876
+The issue but it doesn't cause.
+
+DOCTOR W876
+It doesn't cure the problem.
+
+PATIENT W876
+It doesn't cure the problem right.
+
+DOCTOR W876
+Well unfortunately we don't have a lot that we can cure problems with.
+
+PATIENT W876
+Yeah.
+
+DOCTOR W876
+@@@.
+
+PATIENT W876
+I want to find out why.
+
+DOCTOR W876
+Okay.
+
+PATIENT W876
+Why I’m haVing @@@.
+
+DOCTOR W876
+Okay.
+
+PATIENT W876
+I mean because my diet and I changed my diet.
+
+DOCTOR W876
+How's everything else going for you other than the cough?
+
+PATIENT W876
+Heart palpitations I don't know if it's being caused by the cough.
+
+DOCTOR W876
+Yeah we can give you some.
+
+PATIENT W876
+That’s kind of scaring me.
+
+DOCTOR W876
+Well I totally understand.  When you get, we can give you something called a Holter monitor.  Have you ever had one of those?
+
+PATIENT W876
+@@@ thing that monitors the beat of the heart.
+
+DOCTOR W876
+Yeah.  So it monitors the beat of the heart but it monitors it for 24 hours and when you're telling me is you have heart palpitations almost every day, when you cough right?  Whenever you cough?
+
+PATIENT W876
+Yeah I think it just recently started in the last week or two.
+
+DOCTOR W876
+Week or two, I have it documented for like the last time you were here that you had heart palpitations.
+
+PATIENT W876
+@@@.
+
+DOCTOR W876
+Yeah and that was back in, let's see it was back in uh let's see.
+
+PATIENT W876
+@@@.
+
+DOCTOR W876
+Back in November.
+
+PATIENT W876
+Yeah, November?
+
+DOCTOR W876
+Yeah and.
+
+PATIENT W876
+Last month?
+
+DOCTOR W876
+Last month.
+
+PATIENT W876
+Okay, okay.
+
+DOCTOR W876
+And then.
+
+PATIENT W876
+Okay.
+
+DOCTOR W876
+Yeah and I have it again back in August of 2009 and then I have it back in.
+
+PATIENT W876
+Oh okay.
+
+DOCTOR W876
+Yeah so I mean.
+
+PATIENT W876
+So it's been doing this.
+
+DOCTOR W876
+Yeah actually you had it back in 2008 that you'd been having heart palpitations.
+
+PATIENT W876
+Yeah it's getting worse then.
+
+DOCTOR W876
+Yeah um okay.
+
+PATIENT W876
+But now I get it almost daily, It wasn’t daily back then.
+
+DOCTOR W876
+Well we can go ahead and give you a Holter monitor.
+
+PATIENT W876
+Okay.
+
+DOCTOR W876
+And uh see how you do.
+
+PATIENT W876
+Does it @@@ something?  
+
+DOCTOR W876
+No it just monitors your heart.
+
+PATIENT W876
+For the acid reflux.
+
+DOCTOR W876
+Um I don't think so, not that I know of.
+
+PATIENT W876
+@@@ what are the causes?
+
+DOCTOR W876
+Um anxiety.
+
+PATIENT W876
+Hmm.
+
+DOCTOR W876
+That could cause it.
+
+PATIENT W876
+I could definitely have that.
+
+DOCTOR W876
+I mean.
+
+PATIENT W876
+Stress.
+
+DOCTOR W876
+Yeah.  Definitely.
+
+PATIENT W876
+Fatigue.
+
+DOCTOR W876
+That could cause it.
+
+PATIENT W876
+Cause I been trying to get more rest.
+
+DOCTOR W876
+Uh-huh.
+
+PATIENT W876
+I definitely try to get more rest since that started happening @@@.  So I been trying to get more rest.  The last couple of nights I haven’t been having @@@ seems like I get like four hours, five hours waking up @@@.
+
+DOCTOR W876
+Pretty stressed out?
+
+PATIENT W876
+Well stuff on my mind.
+
+DOCTOR W876
+Yeah.
+
+PATIENT W876
+You know @@@ I'm aware of that.  @@@ before.  So that's why I need to bring it down and try to eliminate all the things that causes stress so maybe that.
+
+DOCTOR W876
+You know.
+
+PATIENT W876
+@@@.
+
+DOCTOR W876
+Yeah that's good.
+
+PATIENT W876
+It helps.
+
+DOCTOR W876
+Yeah I know it does.
+
+PATIENT W876
+Yeah I need to get more of that.  @@@ love.
+
+DOCTOR W876
+Yeah um.  When do the palpitations occurs other than the coughing.  Do they ever occur without the coughing?
+
+PATIENT W876
+I'm thinking it's more the cough and I'm just trying to remember you know um.
+
+DOCTOR W876
+I mean if you.
+
+PATIENT W876
+I don't need to have any more.
+
+DOCTOR W876
+If you cough a lot.  If you end up coughing a lot and your heart, your hearts’ just going faster in response to it.
+
+PATIENT W876
+So that's what’s happening.
+
+DOCTOR W876
+Yeah.  It very well could be that.  But you know we have to make sure that it's not necessarily a serious kind of palpitations.  Like I mean first of all it could be severe serious causes and non-serious causes causing the palpitations okay.  Uh serious causes result in your heart stopping beating so um and non-serious causes are I mean I'm sure that @@@ but at least you have the comfort of having a non-serious causes @@@ you know your heart beats irregularly for a couple of beats and then it comes back to normal.  So we can get, if you get the Holter monitor we can watch it for 24 hours and I mean you can just be walking around you know doing your everyday things and it will be analyzed and uh we'll go from there.
+
+PATIENT W876
+Okay.
+
+DOCTOR W876
+Okay.
+
+PATIENT W876
+With that I'm just going to get the heartbeat, I don't know if it monitors the breathing as well.
+
+DOCTOR W876
+No, it'll monitor, but the palpitations, the cause of it is the heart so.  I mean it could be the heart, it could be just your anxiety but we'll at least be able to find out whether it’s the heart or not.
+
+PATIENT W876
+With that, okay.  That's a little more cardiac stuff I guess.
+
+DOCTOR W876
+Yeah that always helps.  Exercise is excellent.
+
+PATIENT W876
+I want to do more cardiac stuff.  Cause I know exercises can do more cardio stuff.
+
+DOCTOR W876
+Where you lift?
+
+PATIENT W876
+Yeah I need to do more cardiac.
+
+DOCTOR W876
+Yeah I was going to say I lift but I don't @@@ run as much as I should.
+
+PATIENT W876
+Yeah I did real good when I @@@.
+
+DOCTOR W876
+Yeah that is pretty cool.
+
+PATIENT W876
+Then I think I'm fat.  @@@ more fat old age.
+
+DOCTOR W876
+@@@.
+
+PATIENT W876
+@@@ just to see if I cough.
+
+DOCTOR W876
+Sure.
+
+PATIENT W876
+And then if I cough I want to see if it's after I eat.
+
+DOCTOR W876
+Sure, yeah.  Monitor that.
+
+PATIENT W876
+See if that occurs.
+
+DOCTOR W876
+Try that, yeah that's a real good idea.  Uh.
+
+PATIENT W876
+Well I'm @@@ the body @@@ machine.
+
+DOCTOR W876
+Yeah.
+
+PATIENT W876
+So I'm just gonna have to watch my body.
+
+DOCTOR W876
+Alright let's @@@.
+
+PATIENT W876
+I'll take it cause this coughing @@@.  You know we had this back in, you know I had the palpitations but not the cough.  I had to come into the Emergency Room with that.
+
+DOCTOR W876
+Really.  For what?
+
+PATIENT W876
+I had palpitations um nauseousness.  Think it was last year, in 08 I think that was.  They put me on monitoring.  They monitored me for a few hours.  They took an EKG on me and everything.  
+
+DOCTOR W876
+Yeah so what we see, an EKG is just a snap shot, it's like what's occurring as body @@@ it's like a picture right.  Now this, the Holter monitor is a video recording.  So it watching, I mean you just go through your activities every day you know and so it kind of sees your every day life and it sees how your heart reacts to it so.  You know like I mean if you're not having palpitations at that minute and they did the EKG then it doesn't mean anything right?
+
+PATIENT W876
+Right, right.
+
+DOCTOR W876
+Yeah.
+
+PATIENT W876
+This is the smart way.
+
+DOCTOR W876
+Yeah.
+
+PATIENT W876
+So whenever it happens it's going to record it.
+
+DOCTOR W876
+Yeah and it usually happens during the day.  Sometimes the Holter monitor during those 24 hours might not have any palpitations at all so you know it @@@ much use.  But if you're having palpitations, you actually have heart palpitations then you know let's, just they can still take a look at it and we'll see what happens.  So when you actually get the Holter monitor, remember whether you had palpitations that day okay.  Okay check your other labs real quick.
+
+PATIENT W876
+Did you see whether I had any more refills for all the pills you gave me?
+
+DOCTOR W876
+Yeah @@@.
+
+PATIENT W876
+I need a refill for um; I think it was a cream from Dermatology.
+
+DOCTOR W876
+Oh, now what was it?  Is it the hydrocortisone, what was it?
+
+PATIENT W876
+I think it was um.
+
+DOCTOR W876
+When was the last time you saw Dermatology?  Do you remember?
+
+PATIENT W876
+@@@.
+
+DOCTOR W876
+Here we go.
+
+PATIENT W876
+Uh.
+
+DOCTOR W876
+You're on Retin A cream.
+
+PATIENT W876
+Retin A right.
+
+DOCTOR W876
+Yeah no problem.
+
+PATIENT W876
+That'd be good.
+
+DOCTOR W876
+@@@.  Is there anything else you need?
+
+PATIENT W876
+@@@.
+
+DOCTOR W876
+@@@.
+
+PATIENT W876
+Yeah that kind of concern me more @@@ cough is when the palpitations kick in @@@, four or five times a day you know @@@.
+
+DOCTOR W876
+How long do they last when it comes on?
+
+PATIENT W876
+It's like an interruption you know I guess.
+
+DOCTOR W876
+And do you get any chest pain or just palpitations?  Any shortness of breath?  I mean you can take a deep breath right, @@@ occasionally?
+
+PATIENT W876
+Well no, I @@@ no more of that.  I need to do more cardiac okay.  Maybe lifting more I mean, I mostly doing push-ups and I can push them up you know.
+
+DOCTOR W876
+Oh okay, yeah.
+
+PATIENT W876
+@@@.
+
+DOCTOR W876
+How many push-ups do you do?
+
+PATIENT W876
+Well I used to run.  I maybe do about; I mean I do about 60.
+
+DOCTOR W876
+Okay so about an hour.
+
+PATIENT W876
+And then I stop.
+
+DOCTOR W876
+Okay.
+
+PATIENT W876
+And then the only thing I maybe do 25, so probably like 100 pull-ups, you know five minutes.
+
+DOCTOR W876
+I think you're heart's in good shape though.  Alright I'll be right back.
+
+PATIENT W876
+Alright thanks doctor.
+
+(DOCTOR OUT:  46:33  DOCTOR IN:  53:09)
+
+SECOND DOCTOR W876
+@@@.  Hi sir, I'm DOCTOR nice to see you.
+
+PATIENT W876
+That's right.
+
+SECOND DOCTOR W876
+Is this a cough that you have?
+
+PATIENT W876
+Uh-huh.
+
+SECOND DOCTOR W876
+It’s the cough, okay.  Now I'm just perusing those notes on what is causing the cough.  So your breathing has been fine, no sign of asthma um @@@ exacerbate @@@ making @@@ right.
+
+PATIENT W876
+Hmm.
+
+SECOND DOCTOR W876
+Do you feel like you have a stuffy nose, blowing your nose, or a tickle in the back of your throat?
+
+PATIENT W876
+No postnasal drip or anything like that no.
+
+SECOND DOCTOR W876
+Okay you don't have any.  So @@@ sinus x-ray cause you've had some sinusitis in the past.  That's another common cause for um.
+
+PATIENT W876
+I @@@.
+
+SECOND DOCTOR W876
+@@@.
+
+PATIENT W876
+An infection that I had when I was in the service.
+
+SECOND DOCTOR W876
+Yeah.
+
+PATIENT W876
+@@@.
+
+SECOND DOCTOR W876
+Okay, @@@ some symptoms from that @@@.  Smoking, you don't smoke.
+
+PATIENT W876
+No I don't.
+
+SECOND DOCTOR W876
+And do you get it in the morning when you wake up, when you start eating actually start coughing?
+
+PATIENT W876
+Uh I'm noticing I'm trying to diagnose it, diagnose it myself.
+
+SECOND DOCTOR W876
+Yeah.
+
+PATIENT W876
+And I think it's been more like, when I get up in the morning I'm not coughing.  Usually after I eat not 100% sure but I think it's after I eat.
+
+SECOND DOCTOR W876
+Okay.
+
+PATIENT W876
+Then I start, uh a little bit later on I start to cough.
+
+SECOND DOCTOR W876
+Okay.
+
+PATIENT W876
+But I don't know if it's because I eat.
+
+SECOND DOCTOR W876
+Uh-huh.
+
+PATIENT W876
+Or it's because it's later on in the day so I was just telling the doc here that I might start fasting to see what’s going on.
+
+SECOND DOCTOR W876
+@@@.  So you have coffee, chocolate @@@.
+
+PATIENT W876
+Coffee? Chocolate?
+
+SECOND DOCTOR W876
+And uh.
+
+PATIENT W876
+A little chocolate here and there but not recently I haven't been.  My daughter loves chocolate so on occasion I might have a hot chocolate in the wintertime not in the summertime @@@.
+
+SECOND DOCTOR W876
+Okay.
+
+FIRST DOCTOR W876
+Any Cokes or anything like that?  Caffeine would be thing we're looking for.  
+
+PATIENT W876
+Uh-huh.
+
+FIRST DOCTOR W876
+No sodas throughout the day?
+
+PATIENT W876
+Uh I usually do teas. Some of the teas have caffeine in them, some of them do have caffeine in them but I haven't even been doing that lately.
+
+SECOND DOCTOR W876
+Oh um.
+
+PATIENT W876
+You know so.
+
+SECOND DOCTOR W876
+And when they were @@@ treating you um you know DOCTOR a diagnosis and giving you the acid reflux pill, um, we could do relation with the eating you could you know get a formal upper GI where they have you swallow the barium and see if there is @@@ acid reflux they do the same thing.  Um and it's causing you to have more severe  reflux cause @@@.  Uh so we could check if there’s are relation after you’re eating and then you’re coughing. So if we could to an upper GI @@@ make an appointment @@@.
+
+PATIENT W876
+Okay.
+
+SECOND DOCTOR W876
+Um so that could be something we could do.  And @@@ why.
+
+PATIENT W876
+Right.
+
+SECOND DOCTOR W876
+@@@ know why.
+
+PATIENT W876
+Yeah do that.  It seems like phlegm gets @@@ in my throat.  Yeah it seems like that.
+
+SECOND DOCTOR W876
+Okay.  And then I will be right back.
+
+PATIENT W876
+@@@.
+
+SECOND DOCTOR W876
+Oh okay.  So @@@ is normal.
+
+FIRST DOCTOR W876
+Uh I believe so @@@.
+
+SECOND DOCTOR W876
+You could send him to the see the ENT doctor for @@@ for a day or two and um they also could see @@@ uh reflux affecting your vocal cords or something @@@.  Um you know we could do @@@ or we could just order the upper GI and see what it comes back as um.
+
+PATIENT W876
+Okay.
+
+SECOND DOCTOR W876
+@@@.  Yeah so, um so we could do that yeah.
+
+PATIENT W876
+Okay.
+
+SECOND DOCTOR W876
+I'll have @@@ set you up for that test and if you don't want to take meds then we can get you set up for the test.
+
+FIRST DOCTOR W876
+Well he's not taking anything.
+
+SECOND DOCTOR W876
+Okay yeah we'll see what we see um.
+
+FIRST DOCTOR W876
+So we'll set him up for an EGD correct?
+
+SECOND DOCTOR W876
+Um, @@@.
+
+FIRST DOCTOR W876
+Oh you already, oh yeah it's here @@@.
+
+SECOND DOCTOR W876
+Hopefully @@@.  Another thing we could do is um @@@ okay.  @@@.  Okay.  Um so @@@.  Lots of things can.  Have you been taking over-the-counter medications like Sudafed?
+
+PATIENT W876
+No I hate medicines.
+
+SECOND DOCTOR W876
+@@@.  Okay um and um you can @@@ you drink some tea how many a day?
+
+PATIENT W876
+I would say in the last month I probably drank maybe two cups of tea a week.
+
+SECOND DOCTOR W876
+Oh okay.
+
+FIRST DOCTOR W876
+So it’s not like a daily thing.
+
+SECOND DOCTOR W876
+Yeah.
+
+PATIENT W876
+It's not a daily thing, but normally I do. That’s when I drank green tea uh health tea @@@ cleansing tea.
+
+DOCTOR W876
+Uh-huh.
+
+PATIENT W876
+Or things like that.
+
+DOCTOR W876
+Okay and you know we could send you upstairs and you could do @@@.
+
+PATIENT W876
+Yeah @@@.  
+
+FIRST DOCTOR W876
+I ordered the Holter monitor.
+
+SECOND DOCTOR W876
+Okay, okay.  So I want you to Outpatient here then  pick up the Holter monitor and wear it for 24 hours.
+
+PATIENT W876
+And where is this at?
+
+FIRST DOCTOR W876
+I think it's on the third floor in the Damen Building okay.  So go to the @@@ Building.
+
+PATIENT W876
+@@@.
+
+SECOND DOCTOR W876
+@@@.
+
+PATIENT W876
+And you gave me prescription refills right?
+
+FIRST DOCTOR W876
+Yeah so.  @@@.  
+
+PATIENT W876
+@@@.  
+
+FIRST DOCTOR W876
+Yeah @@@.
+
+PATIENT W876
+Yeah.
+
+FIRST DOCTOR W876
+Yeah.  Uh I'm going to go ahead and order one other test on you called an echocardiogram alright.  What it does it's an ultrasound of your heart you know like they do ultrasound of baby, only this one is of your heart okay.  So uh. Make sure it’s not cardio. @@@
+
+PATIENT W876
+@@@, one of those um body scans.
+
+FIRST DOCTOR W876
+Like a @@@ scan?
+
+PATIENT W876
+Yeah.  I don't think that a body scan could pick up anything?
+
+FIRST DOCTOR W876
+@@@ picking up a lot of stuff that probably would be harmless  
+
+SECOND DOCTOR W876
+So you're gonna go to Outpatient to do the x-ray and the Holter okay and then you can stop by X-ray and @@@ okay.  
+
+FIRST DOCTOR W876
+I'm doing the, I ordered an echo for him @@@.
+
+SECOND DOCTOR W876
+So @@@.
+
+PATIENT W876
+@@@ Damen
+
+SECOND DOCTOR W876
+No, no no its um, we have to @@@ you.
+
+PATIENT W876
+Okay.
+
+SECOND DOCTOR W876
+They'll probably call you.
+
+PATIENT W876
+@@@.
+
+SECOND DOCTOR W876
+Yeah won't do it today, they will do it another time and then I'm going to have you go to @@@.
+
+PATIENT W876
+Where is that?
+
+SECOND DOCTOR W876
+Um do you know where X-ray is?
+
+PATIENT W876
+So I take @@@.
+
+SECOND DOCTOR W876
+Did he give you the paper?
+
+FIRST DOCTOR W876
+Uh he @@@ at the elevator so that's Cardiology @@@.
+
+SECOND DOCTOR W876
+Oh okay.
+
+FIRST DOCTOR W876
+So @@@.
+
+SECOND DOCTOR W876
+@@@ alright sir.  @@@.
+
+Doctors visit between themselves.
+
+SECOND DOCTOR W876
+Okay sir.  Alright then um and then you're gonna get.
+
+FIRST DOCTOR W876
+So you're gonna @@@.
+
+SECOND DOCTOR W876
+Alright very good sir.  So uh before @@@.
+
+PATIENT W876
+Yeah that's what I'm saying @@@.
+
+SECOND DOCTOR W876
+And when you come back we can see what's actually causing the cough @@@.
+
+PATIENT W876
+Okay.
+
+SECOND DOCTOR W876
+Okay, alright thank you sir.
+
+PATIENT W876
+Thank you.
+
+FIRST DOCTOR W876
+Okay you need this to check out.
+
+PATIENT W876
+Okay so @@@ today.
+
+FIRST DOCTOR W876
+Yeah @@@.  Nice seeing you.
+
+PATIENT W876
+Right, thank you.
+
+FIRST DOCTOR W876
+Take care.
+
+PATIENT W876
+You take care.
+
+FIRST DOCTOR W876
+Yeah alright.  Have a happy holiday.
+
+PATIENT W876
+Oh you too.
+
+DOCTOR W876
+Alright.
+
+PATIENT LEAVES:  63:58
+
+10:25.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255156
+TRANSACTION # 578-10-2-316-0103

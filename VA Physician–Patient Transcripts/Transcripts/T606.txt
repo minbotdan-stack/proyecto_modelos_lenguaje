@@ -1,0 +1,1277 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@ 
+
+DOCTOR T606
+PATIENT.  How you doing?
+ 
+PATIENT T606
+Hello.  @@@ shake hands @@@.
+
+DOCTOR T606
+Alright sir.
+
+PATIENT T606
+@@@ today.
+
+DOCTOR T606
+@@@.
+
+PATIENT T606
+@@@.
+
+DOCTOR T606
+@@@.
+
+PATIENT T606
+I called the other day and I came in and I'm here now.
+
+DOCTOR T606
+You're, you called?
+
+PATIENT T606
+Oh I got called out there.
+
+DOCTOR T606
+Oh you got called.  Oh you're moving.
+
+PATIENT T606
+Yeah everything's going good.
+
+DOCTOR T606
+@@@.
+
+PATIENT T606
+I get in and get out @@@ go back.
+
+DOCTOR T606
+@@@.
+
+PATIENT T606
+I love them.  Yeah.  I like I got a new doctor I can understand you.  I told you.
+
+DOCTOR T606
+Yeah.
+
+PATIENT T606
+@@@.
+
+DOCTOR T606
+That's good.
+
+PATIENT T606
+@@@ for a short period.  So I think the longest @@@ number of doctors I've had.
+
+DOCTOR T606
+Yeah it does happen.
+
+PATIENT T606
+Which is cool I guess.
+
+DOCTOR T606
+So, let me pull up the record.  Blood pressure is looking good.
+
+PATIENT T606
+Yeah it was good.  Medication is working.
+
+DOCTOR T606
+@@@.
+
+PATIENT T606
+Yeah I probably seen you one time.
+
+DOCTOR T606
+Well good we'll see.
+
+PATIENT T606
+You're the doc.
+
+DOCTOR T606
+You have, you take the water pill which makes you pee all the time, you probably hate.
+
+PATIENT T606
+Yeah. 
+
+DOCTOR T606
+@@@ going down the toilet.
+
+PATIENT T606
+Especially at night.
+
+DOCTOR T606
+Take that uh.
+
+PATIENT T606
+Before I sleep.
+
+DOCTOR T606
+And you're taking the lisinopril right?
+
+PATIENT T606
+Right.
+
+DOCTOR T606
+Things are going well from that standpoint.
+
+PATIENT T606
+Yeah.
+
+DOCTOR T606
+Looks like uh.
+
+PATIENT T606
+It’s going good.
+
+DOCTOR T606
+Yeah that's what I see there.  Do you check your blood pressure at home?
+
+PATIENT T606
+No.
+
+DOCTOR T606
+No.  Do you want a cuff?
+
+PATIENT T606
+Yeah.  I think the blood pressure's medication is working this time.
+
+DOCTOR T606
+It seems like it is, it really does.
+
+PATIENT T606
+Yeah.  Every time I come in it seems to work.  I'm good there.
+
+DOCTOR T606
+Okay uh let's see, @@@ I want to make sure.  Um are you still smoking?  Yeah you probably @@@.
+
+PATIENT T606
+Well I will, yeah but I'm trying to quit so, which reminds me I.
+
+DOCTOR T606
+Huh?
+
+PATIENT T606
+Get some more of the gum.
+
+DOCTOR T606
+Okay yeah.
+
+PATIENT T606
+Uh do they have patches here too?
+
+DOCTOR T606
+Yes. 
+
+PATIENT T606
+Let me try the gum one more time.
+
+DOCTOR T606
+Well, here's the thing if you want to do patches you have to go to the Smoking Cessation Class.
+
+PATIENT T606
+That may be my next move if I don't.
+
+DOCTOR T606
+Well I mean, you don't necessarily have to make it your next move.  You can do that as your now move, there there's nothing wrong with it.
+
+PATIENT T606
+I'll try the gum; I'll the try the gum once.
+
+DOCTOR T606
+You'll try the gum, let me put it in.
+
+PATIENT T606
+Yeah please.
+
+DOCTOR T606
+Okay, I'll do that.  Have you been using the gum?
+
+PATIENT T606
+Well I quit for a week, just recently.  I wasn't using it cause I have some stress you know.
+
+DOCTOR T606
+Yeah sure.
+
+PATIENT T606
+In my personal life, so just, argh, uh but uh I quit uh for a week and then, a little over a week ago but right now I'm at the point where I've started back up but I'm cutting it down, I want to quit again, so.  Again, but they say it takes sometimes, it takes three times.
+
+DOCTOR T606
+I understand that yeah.
+
+PATIENT T606
+Oh I been smoking for 47 years.
+
+DOCTOR T606
+It's a bad habit.
+
+PATIENT T606
+Yeah.  Yeah. It’s real hard.  But I go to church all the time now.  I'm a born again Christian and I'm praying and everything.  I think I'm gonna make it hopefully.
+
+DOCTOR T606
+Let's see um.  I think I went up on your cholesterol medicine.
+
+PATIENT T606
+Uh I was gonna, I quit taking it.
+
+DOCTOR T606
+Oh why?
+
+PATIENT T606
+It seems like I was getting pains and uh the doctor uh, what's her name uh the chief doctor, what's her name?
+
+DOCTOR T606
+Uh-huh.
+
+PATIENT T606
+She changed the medication because I was feeling pain from the other one.
+
+DOCTOR T606
+Let's see which doctor?
+
+PATIENT T606
+What's her name right here?
+
+DOCTOR T606
+DOCTOR?
+
+PATIENT T606
+Yeah.
+
+DOCTOR T606
+Okay.  Let me see if she wrote a note on that.  She changed it to pravastatin okay.  @@@.
+
+PATIENT T606
+I was getting pains again.  I've been pain a lot in the right shoulder.  I get pain in my shoulder.  @@@ get a cortisone shot every three months.
+
+DOCTOR T606
+Okay.
+
+PATIENT T606
+And uh it seem like it just made it worse, you know.
+
+DOCTOR T606
+Okay.
+
+PATIENT T606
+So I quit and the shoulder felt a little better.
+
+DOCTOR T606
+So is the pain in your shoulder or pain in the muscles?
+
+PATIENT T606
+It's hard to tell the difference.  @@@.
+
+DOCTOR T606
+Did you have pain anywhere else?
+
+PATIENT T606
+No. The shoulder and right in this area. Seems like It was in the muscle too and uh I quit taking it.  I'm overdue for my steroid shot but their backlogged up there so what I was -  you know, doing myself was that I got an appointment for up there but it's late cause they're stacked up.  I wanted to get my shot once again and then start taking that medication again and see if there is a difference because it was like I couldn’t move my arm hardly.  I still have problems but @@@.
+
+DOCTOR T606
+Is it a sharp pain when you move your arm?
+
+PATIENT T606
+Oh yeah.
+
+DOCTOR T606
+And if you're not moving it, how is it, is it better?
+
+PATIENT T606
+I'm okay right now but if I move it.
+
+DOCTOR T606
+It's, I mean keep going.
+
+PATIENT T606
+You can hear it snap at times.
+
+DOCTOR T606
+When you were on the medicine for your cholesterol was it bad when you were moving?
+
+PATIENT T606
+It was bad when I wasn't moving nowhere.  If I remember correctly.  I got so many things in my mind that I try to remember.
+
+DOCTOR T606
+Okay.
+
+PATIENT T606
+I don't like @@@.
+
+DOCTOR T606
+No, no I understand, no that's fine.  Um.  Do you know when you have an appointment for that?
+
+PATIENT T606
+Uh next month, I'm not sure exactly of the date.  I've got it at home but I got it next month.
+
+DOCTOR T606
+Cause I think.
+
+PATIENT T606
+Probably within the month.
+
+DOCTOR T606
+Yeah.  The way you talk, it makes me think its degenerative change problems, @@@ I’m trying to @@@.
+
+PATIENT T606
+I'm gonna give @@@ more.
+
+DOCTOR T606
+Okay, @@@ what the ultimate problem is.  Because you know how well, you know shoulder joints work for a while oh I mean injections work but they're temporary measures.  They don't uh.
+
+PATIENT T606
+Well I just, I just, you can hear it popping.
+
+DOCTOR T606
+Oh I know.
+
+PATIENT T606
+And I'm just wondering if maybe my shoulder is uh.
+
+DOCTOR T606
+Have you done physical therapy?
+
+PATIENT T606
+I like the physical therapy for a while but not actually for my shoulder for my back I mean.
+
+DOCTOR T606
+But let's see.
+
+PATIENT T606
+@@@.
+
+DOCTOR T606
+Oh because what I'm saying a lot of times one of the best ways of getting things better is working on things around that joint.
+
+PATIENT T606
+Oh.
+
+DOCTOR T606
+Getting the muscle either more loose and strengthens around the joint.
+
+PATIENT T606
+Oh.
+
+DOCTOR T606
+That not only helps the joint but it helps to support the structures.
+
+PATIENT T606
+Yeah.
+
+DOCTOR T606
+And a lot of times you'll see improvement that way.
+
+PATIENT T606
+Oh.
+
+DOCTOR T606
+@@@.
+
+PATIENT T606
+I was at physical therapy.
+
+DOCTOR T606
+Good.  Way back in 2010 right, was that when it was 2010?
+
+PATIENT T606
+I can't remember.  Sometimes I @@@.
+
+DOCTOR T606
+Have you @@@ rotator cuff?
+
+PATIENT T606
+No but I.
+
+DOCTOR T606
+Ever have an MRI for your shoulder?
+
+PATIENT T606
+No.  I just had an MRI on my brain you know.
+
+DOCTOR T606
+Yeah let me make sure.
+
+PATIENT T606
+Which was cool.  @@@
+
+PATIENT T606
+Oh I was looking at your x-rays; you've got a bony spur in there.
+
+PATIENT T606
+I think I got to discuss this with them a little bit further this time.
+
+DOCTOR T606
+Okay.
+
+PATIENT T606
+Because you know I think I tore my rotator cuff a long time ago and uh I don't know what's wrong with it now.  Just like came on all of a sudden and it snaps and pops.  I sometimes, I have a feeling; I got to ask them, if it's dislocated or something.
+
+DOCTOR T606
+Okay.  Yeah it's probably not dislocated.  You'd really know it if it was dislocated.
+
+PATIENT T606
+Oh I'm telling you at times I really feel it.
+
+DOCTOR T606
+Where, we'll take a look.  I mean it would look like this.  You’d look in the mirror and see that you don’t look symmetrical.
+
+PATIENT T606
+Oh okay.  Alright.
+
+DOCTOR T606
+That's @@@ obvious.
+
+PATIENT T606
+Okay, okay.  Then it ain’t dislocated but sometimes I get a real bad pain and if I move it suddenly I get a sharp pain like ah.
+
+DOCTOR T606
+Okay.
+
+PATIENT T606
+Like I said I'm gonna talk to them more.  I guess that's what they specialize in so.
+
+DOCTOR T606
+Yeah they do that all the time.
+
+PATIENT T606
+@@@.
+
+DOCTOR T606
+Let's see, @@@.  They weren't gonna to do a colonoscopy for you but it looks like we're gonna do maybe the blood tests for your stool.
+
+PATIENT T606
+Right, you know what.
+
+DOCTOR T606
+Did you pick those up, or, it looks like it.
+
+PATIENT T606
+Well I did pick them up.
+
+DOCTOR T606
+Okay so you did get them.
+
+PATIENT T606
+But I misplaced it. I lost it.  
+
+DOCTOR T606
+Yeah we'll @@@.
+
+PATIENT T606
+Oh okay.  Yeah I was gonna ask you about that. @@@.  And I wanted to ask uh.
+
+DOCTOR T606
+Uh-huh.
+
+PATIENT T606
+Uh DOCTOR sent me for an x-ray on my spine. I wondered because  in order to get service-connected disability with my back.
+
+DOCTOR T606
+Okay.
+
+PATIENT T606
+And uh I don't know if it's the muscles or the disability.  Sometimes I see these doctors and then I forgot what they said.  All I know is this spot is something like that.
+
+DOCTOR T606
+Okay.
+
+PATIENT T606
+But uh.  I was at Mercy Hospital before I started coming to the VA.  I think I had one of the spine and I got arthritis or some kind of thing @@@.
+
+DOCTOR T606
+Let's see, I see.  Wait a second.  All I see is um a CT of, essentially right here from November 2010.  Did you get anything; you got something done somewhere else?
+
+PATIENT T606
+Uh no, nowhere else.
+s
+DOCTOR T606
+Okay.  Well we have some @@@ six months ago.  They did a CT of your neck and it showed some degenerative changes.
+
+PATIENT T606
+When was the last time I was here, do you know?
+
+DOCTOR T606
+Okay December.
+
+PATIENT T606
+Uh well I had that done since the last time I was here.
+
+DOCTOR T606
+@@@ imaging done. Where?
+
+PATIENT T606
+Here.
+
+DOCTOR T606
+Um, you did, did you do an MRI?
+
+PATIENT T606
+Uh I did that at Hines.
+
+DOCTOR T606
+Well let me actually see.
+
+PATIENT T606
+But now I didn't have the spine x-ray at Hines, I believe that was here.
+
+DOCTOR T606
+Okay. So let's see.  
+
+PATIENT T606
+It's @@@ brain @@@.
+
+DOCTOR T606
+Here we go. There you go, wait, what?  They did an MRI of your brain?
+
+PATIENT T606
+I had uh yes.
+
+DOCTOR T606
+What was the ultimate reason for?
+
+PATIENT T606
+Well it started out uh a while back, I think two doctors ago.  Some guy thought I might have been having a heart attack cause my left eye went numb.  Instead they sent me, they checked me out and no heart attack but they sent me for a CAT scan and uh but that's gone, I don't know I guess it came out okay.
+
+DOCTOR T606
+Uh-huh.
+
+PATIENT T606
+And she wanted to send me, she thought that maybe I might have had a stroke, or whatever, so she scheduled me for an MRI, I couldn't do it because I'm claustrophobic. I tried.  They outsourced me even and they @@@ and this time they gave me some medication and I went to Hines and I did it and everything was alright except they said that I got an enlarged blood vessel but it's not a, oh what do you call uh, uh.
+
+DOCTOR T606
+Not like an aneurysm.
+
+PATIENT T606
+Right they said it wasn't an aneurysm.
+
+DOCTOR T606
+Okay.
+
+PATIENT T606
+And she said uh that my sinuses, I got an infection in my sinuses.  
+
+DOCTOR T606
+@@@ can also see.
+
+PATIENT T606
+So.  And I was just happy it wasn't a stroke or whatever.  But she didn't say about the medication.  I only took two pills and the nasal spray.
+
+DOCTOR T606
+Uh-huh.
+
+PATIENT T606
+I take them it seems like my nose just keeps running and running and running.
+
+DOCTOR T606
+Yeah.
+
+PATIENT T606
+So I stopped that too and my nose doesn't run and uh.  When I joined the service uh they said I had postnasal drip that could kill a horse. Their exact words.  But it runs in my family.
+
+DOCTOR T606
+Okay.  Yeah I'll be honest with you, there are a couple of things which really help that, might make a difference @@@.  
+
+PATIENT T606
+Yeah.  @@@ smoking.
+
+DOCTOR T606
+@@@ smoking @@@ huge @@@.  To be honest with you uh it really is.
+
+PATIENT T606
+I know, I'm trying.  I know I want to stop more.  I got emphysema of course @@@.
+
+DOCTOR T606
+Are you taking your inhalers at all?
+
+PATIENT T606
+Yeah I use that uh, the Combivent.
+
+DOCTOR T606
+Yeah.
+
+PATIENT T606
+No, no what's.
+
+DOCTOR T606
+The albuterol inhaler.
+
+PATIENT T606
+Albuterol.
+
+DOCTOR T606
+Sorry.
+
+PATIENT T606
+I need uh, if you would, uh yeah maybe that's in there along with the Nicorette or whatever.
+
+DOCTOR T606
+Mail it to you?
+
+PATIENT T606
+Yeah.
+
+DOCTOR T606
+Okay. 
+
+PATIENT T606
+Right, right.  Especially my refills for the pain and the muscle relaxant.
+
+DOCTOR T606
+You're taking Vicodin right?
+
+PATIENT T606
+Right, right.  Because like I haven't.
+
+DOCTOR T606
+Are you taking the inhaled steroids too?
+
+PATIENT T606
+Uh I quit that.  I'm trying to.
+
+DOCTOR T606
+Which, uh, @@@.
+
+PATIENT T606
+Uh methocarbamol.
+
+DOCTOR T606
+Right there we go.
+
+PATIENT T606
+Yeah I want to stay up to date on that because I came down to the wire not long ago and thought oh man I'm gonna be in some pain if I and I called DOCTOR and I got a receptionist out at the desk. I wanted to strangle her @@@. 
+
+DOCTOR T606
+Right, yeah.  
+
+PATIENT T606
+Maybe if she lived with me it would bother her.  Now where did I take @@@.
+
+DOCTOR T606
+Uh-huh.
+
+PATIENT T606
+Uh where I pick up that thing for the stool where do they.
+
+DOCTOR T606
+At the Lab.
+
+PATIENT T606
+Where I get my blood pressure taken?
+
+DOCTOR T606
+It's on the other side of the hall, where you get your blood drawn.
+
+PATIENT T606
+I went there and they didn't give it to me, they told me to come over here.
+
+DOCTOR T606
+They did huh.
+
+PATIENT T606
+Yeah.
+
+DOCTOR T606
+Okay.  I thought that was where they, maybe that's where you drop them off.  I thought it was over there.
+
+PATIENT T606
+I think you drop them off there too but I don't.
+
+DOCTOR T606
+@@@.  Alright we'll ask if they have them.
+
+PATIENT T606
+Okay.
+
+DOCTOR T606
+Have a seat right here I'm gonna take a listen to you.
+
+PATIENT T606
+Hear me breathing.
+
+DOCTOR T606
+You betcha.  
+
+PATIENT T606
+@@@ that problem.  I live with a girl, that always sounded like this.  I @@@ any trouble sleeping at night.  @@@. I live alone.
+
+DOCTOR T606
+Do you snore?
+
+PATIENT T606
+Yeah.
+
+DOCTOR T606
+Okay, deep breath.
+
+PATIENT T606
+I never used to.
+
+DOCTOR T606
+Good.  You're not wheezing, good.  
+
+PATIENT T606
+Oh I'm pretty good today.  @@@.
+
+DOCTOR T606
+You got your flu shot this year right?
+
+PATIENT T606
+Yeah, yeah.  I @@@.
+
+DOCTOR T606
+Pretty important.
+
+PATIENT T606
+That one blew up on me about a week ago, the ankle.
+
+DOCTOR T606
+Okay.
+
+PATIENT T606
+I think I forgot to take my pills @@@.
+
+DOCTOR T606
+Alright.  Do a couple of things for me.  Let it flop @@@.
+
+PATIENT T606
+@@@
+
+DOCTOR T606
+@@@.  Go on out like this.
+
+PATIENT T606
+Sometimes that's difficult.
+
+DOCTOR T606
+Do it again for me.  Got it.
+
+PATIENT T606
+Did you hear it pop?
+
+DOCTOR T606
+Yeah. Sorry.
+
+PATIENT T606
+Right.  @@@.  It happens all the time.
+
+DOCTOR T606
+Is that right.
+
+PATIENT T606
+@@@.
+
+DOCTOR T606
+Do you do any exercises on your shoulder at home?
+
+PATIENT T606
+You know they gave me some from uh Rehab or whatever you call that.
+
+DOCTOR T606
+Uh-huh.  Are you doing them?
+
+PATIENT T606
+No.
+
+DOCTOR T606
+Um you need to be doing them.
+
+PATIENT T606
+I know I gotta go back and find the sheet of paper.
+
+DOCTOR T606
+You want to go back and see the Rehab doctors?  The PT folks to start doing those again or?
+
+PATIENT T606
+No what I want to do is I want to see the doctor first and then I'll make you know the decision.
+
+DOCTOR T606
+Okay.
+
+PATIENT T606
+Based on what he has to say.  What doctor, what do they call him uh?
+
+DOCTOR T606
+A rheumatologist.
+
+PATIENT T606
+Rheumatologist.
+
+DOCTOR T606
+Give me a couple of seconds; I'll be right back okay.
+
+PATIENT T606
+Okay.
+
+DOCTOR T606
+Yeah @@@.
+
+PATIENT T606
+Okay doctor.
+
+DOCTOR T606
+I'll be right back.  Whatever you want @@@.
+
+PATIENT T606
+Alright.
+
+(DOCTOR OUT:  41:43  DOCTOR IN:  45:19)
+
+SECOND DOCTOR T606
+PATIENT?
+
+PATIENT T606
+Yes ma'am.
+
+SECOND DOCTOR T606
+How are you feeling?
+
+PATIENT T606
+Okay.
+
+SECOND DOCTOR T606
+@@@.  And then with the shoulder pain the pravastatin did the same thing again to you?
+
+PATIENT T606
+Yeah I believe so.
+
+SECOND DOCTOR T606
+Yeah, okay.
+
+PATIENT T606
+I stopped taking it and I got an appointment like at the beginning of next month.
+
+SECOND DOCTOR T606
+Okay.
+
+PATIENT T606
+I'm seeing them again.
+
+SECOND DOCTOR T606
+You're seeing them again okay.
+
+PATIENT T606
+But uh yeah.
+
+SECOND DOCTOR T606
+You know it's hard and you have a lot of risk factors.  You know sometimes I have patients come and say yeah you now you're really sick and I really think that's alright for you to @@@ and then they come back a couple months later with a heart attack so I don't want you to.
+
+PATIENT T606
+Oh and you're gonna give me a heart attack now.
+
+SECOND DOCTOR T606
+Yeah.  @@@ sometimes we try to go along, but you know you have a lot of things going against you.  The smoking.
+
+PATIENT T606
+Yeah I understand but at the time I'd be in such pain you know.
+
+SECOND DOCTOR T606
+Yeah.
+
+PATIENT T606
+You told me that.
+
+SECOND DOCTOR T606
+I mean I don't want you to take your medicines, I just want to make sure is that really the problem though.
+
+PATIENT T606
+Well I'm that's what I want to determine.  I'm waiting to get in up there again and get a shot.
+
+SECOND DOCTOR T606
+Uh-huh.
+
+PATIENT T606
+And then I was gonna start taking that again and see.
+
+SECOND DOCTOR T606
+Okay.
+
+PATIENT T606
+How, what happens.
+
+SECOND DOCTOR T606
+You know then if you want to restart it, you could restart it again.
+
+PATIENT T606
+No not now.  Not till after I have that shot.  I'm telling you.
+
+SECOND DOCTOR T606
+Okay, okay.
+
+PATIENT T606
+It's very painful.
+
+SECOND DOCTOR T606
+Okay.
+
+PATIENT T606
+I mean I understand the risks I'm taking.
+
+SECOND DOCTOR T606
+Okay.
+
+PATIENT T606
+But uh if it comes down to you know.
+
+SECOND DOCTOR T606
+Well right now you have a lot of pain uh is it only when you do certain things?
+
+PATIENT T606
+When I do certain things.
+
+SECOND DOCTOR T606
+Okay when you take the pills, even at rest you're in pain is that correct?
+
+PATIENT T606
+Uh most of the time it seems yes.
+
+SECOND DOCTOR T606
+Yeah okay.
+
+PATIENT T606
+But I'm going to find out myself.
+
+SECOND DOCTOR T606
+Okay.
+
+PATIENT T606
+Cause I'm going to see that doctor again.
+
+SECOND DOCTOR T606
+Yeah, yeah.
+
+PATIENT T606
+And I'm going to get a shot, hopefully I guess.
+
+SECOND DOCTOR T606
+Okay.
+
+PATIENT T606
+I'm gonna talk to him and after that I will resume taking that.
+
+SECOND DOCTOR T606
+Okay.
+
+PATIENT T606
+Cause I may have to find out for myself.
+
+SECOND DOCTOR T606
+Yeah okay.  Um there's a couple of other statins that if that is the problem we can try another statin.  @@@ problems with all of them unfortunately.
+
+PATIENT T606
+Oh.
+
+SECOND DOCTOR T606
+Um and now we, have you decided about it, you remember that we.
+
+PATIENT T606
+Yeah we were going to discuss that, do you remember, we haven't discussed that.
+
+SECOND DOCTOR T606
+Well I filled in the form they said.
+
+PATIENT T606
+I know and I told you we'll talk about that next time I come in.
+
+SECOND DOCTOR T606
+Yeah that's why I'm here to talk to you.
+
+PATIENT T606
+Yeah okay, we're talking.  What is it?
+
+SECOND DOCTOR T606
+So this is one of the veins seemed a little bit enlarged in the head um one of the veins.  Now we all have um.
+
+PATIENT T606
+Right, right, right.
+
+SECOND DOCTOR T606
+Sinuses.
+
+PATIENT T606
+Now what is this thing called?
+
+SECOND DOCTOR T606
+It’s like an MRI.  It's called MRE, which is the same thing as having @@@ inject you with the die.
+
+PATIENT T606
+Okay.
+
+SECOND DOCTOR T606
+It's a different kind of picture exactly.
+
+PATIENT T606
+It's the same thing basically as a MRI.
+
+SECOND DOCTOR T606
+MRI.
+
+PATIENT T606
+Wonderful.
+
+SECOND DOCTOR T606
+Can you go @@@?
+
+PATIENT T606
+What if I don't I mean, what's the?
+
+SECOND DOCTOR T606
+Well um the thing is um you know we just want to make sure it's not like an aneurysm.  Oh @@@ um.
+
+PATIENT T606
+I thought you said it wasn't.
+
+SECOND DOCTOR T606
+It's not an aneurysm because it's not coming from the artery @@@.
+
+PATIENT T606
+Well it already showed that it's enlarged.  I mean what difference does it make of having it done or not?  MRE or V or whatever it is.
+
+SECOND DOCTOR T606
+Uh no @@@.  Um.
+
+PATIENT T606
+It just seems like I've been getting a whole lot of x-rays and stuff you know.  I shut out the light here and we can still see you know.
+
+SECOND DOCTOR T606
+No, no.
+
+PATIENT T606
+Cause I glow in the dark.
+
+SECOND DOCTOR T606
+The thing is sometimes the @@@ get thrombosed, you know they can @@@ you know they get enlarged and they're bigger than usual and then blood tends to thicken there and they can form clots and then you end up with a different set of problems and @@@ end up being on blood thinners long-term.
+
+PATIENT T606
+Okay and uh.
+
+SECOND DOCTOR T606
+And uh it could potentially cause a stroke because.
+
+PATIENT T606
+Okay, what if I get the MRE and what is it going to show different?
+
+SECOND DOCTOR T606
+So if it does show that you have uh a enlarged vein.
+
+PATIENT T606
+Okay then what do you do?
+
+SECOND DOCTOR T606
+Unless you have thrombosis, more blood clots, we leave it alone and then @@@ blood clot then you have to be on blood thinners.
+
+PATIENT T606
+Oh boy.  It seems like I get a lot of x-rays and stuff.  They all don’t seem necessary.
+
+SECOND DOCTOR T606
+You know the problem is unfortunately @@@ right now, @@@ we have to follow up on it because now there is something @@@.
+
+PATIENT T606
+@@@.  One test uh, I just tested for that one thing.
+
+SECOND DOCTOR T606
+And they found something else.
+
+PATIENT T606
+And the test shows up something different and then when it shows up something different I get a test for that and that shows up something different.
+
+SECOND DOCTOR T606
+@@@.
+
+PATIENT T606
+And it's going on and on and on.
+
+SECOND DOCTOR T606
+I know.  It's because @@@ so intense, @@@.
+
+PATIENT T606
+When do we finally say okay that's enough?
+
+SECOND DOCTOR T606
+Uh we yeah the patient dies or when he says no I don't want it @@@ because from our side of view we had to offer it and.
+
+PATIENT T606
+Okay.
+
+SECOND DOCTOR T606
+Just so we can get some answers.  So.
+
+PATIENT T606
+Where do I have this at?  Hines again?
+
+SECOND DOCTOR T606
+At Hines again.
+
+PATIENT T606
+And it's the same thing huh?
+
+SECOND DOCTOR T606
+They do the same thing.  They just to a focus on the veins this time, not on the.
+
+PATIENT T606
+Is it the same machine, very same?
+
+SECOND DOCTOR T606
+The same machine yeah that's right @@@.
+
+PATIENT T606
+I think they injected me the last time didn't they?
+
+SECOND DOCTOR T606
+Yeah that was, the same @@@.  I think most likely they do.
+
+PATIENT T606
+I don't care if I'm injected it's just so many x-rays.
+
+SECOND DOCTOR T606
+Maybe this one is the last one that's done @@@.
+
+PATIENT T606
+Alright when was this gonna be for?
+
+SECOND DOCTOR T606
+Uh we'll give you the number.  You'll call and set it up.  But this time you have to go to Hines because um.
+
+PATIENT T606
+Okay, okay.
+
+SECOND DOCTOR T606
+Okay, @@@ for it.
+
+PATIENT T606
+Let's do this and this is gonna be it.
+
+SECOND DOCTOR T606
+And hope @@@.
+
+PATIENT T606
+Yeah there's got to be an end to it sometime.
+
+SECOND DOCTOR T606
+@@@.  But when he calls over to Hines, @@@.
+
+PATIENT T606
+I'll need blood work and I get the blood work out there too.
+
+SECOND DOCTOR T606
+Oh they did that there?
+
+PATIENT T606
+They do, I didn't get it done here.
+
+SECOND DOCTOR T606
+But they actually do it again there?
+
+PATIENT T606
+No they called; they told me forget about here, I do it there.
+
+SECOND DOCTOR T606
+Oh okay.
+
+PATIENT T606
+An hour ahead I do the blood work and then they do it right there.
+
+SECOND DOCTOR T606
+Uh-huh, okay, alright, that sounds good then alright.
+
+PATIENT T606
+Alright.  Yeah there’s gotta be an end to it somewhere. I can’t keep @@@. I got problems with @@@. 
+
+FIRST DOCTOR T606
+(Doctor makes phone call to schedule appointment)
+
+PATIENT T606
+@@@ Okay, do I need to call in, oh they want me to set up an appointment then they're just gonna have to wait till I call them.  @@@ you know I'm a busy man.  MRV.
+
+FIRST DOCTOR T606
+Have you had your tetanus and diphtheria and pertussis shot recently?  It didn't look like it.
+
+PATIENT T606
+Tetanus shot, would they be the same?  Now how long will that take me today?
+
+FIRST DOCTOR T606
+Not that long.
+
+PATIENT T606
+Oh you give it to me?
+
+FIRST DOCTOR T606
+I think one of the nurses will give it to you, don't worry about it.
+
+PATIENT T606
+That would be good.  That'll save me time, instead of going to another place and hanging out for lunch.
+
+FIRST DOCTOR T606
+You haven't had it recently from what it looks like.
+
+PATIENT T606
+No.  Tetanus shot no.  I haven't had one at the VA actually @@@.
+
+FIRST DOCTOR T606
+(Doctor makes phone call.)
+
+PATIENT T606
+I like how she said one of patients came back and had a heart attack. Well thank you.  Don't get me nervous.
+
+FIRST DOCTOR T606
+@@@. 
+
+PATIENT T606
+Okay.
+
+FIRST DOCTOR T606
+Great.  Come on and see if we can @@@.
+
+PATIENT T606
+@@@.  Alright.  You’re doing a great job.  You're the best doctor I've had in a long time.
+
+FIRST DOCTOR T606
+Yeah, good.  That's good to hear.
+
+PATIENT T606
+Alright where do I pick that other thing.
+
+FIRST DOCTOR T606
+Uh.
+
+PATIENT T606
+I think I pick that up here.
+
+FIRST DOCTOR T606
+Yeah, I'm trying to figure that out.  @@@.
+
+PATIENT T606
+So yeah I stopped @@@ newspaper last time I threw it away.
+
+FIRST DOCTOR T606
+So you have two of them in there.
+
+PATIENT T606
+Alright.  I'm done.  Thank you doctor.  Thank you.  Alright doc, I'll see you what three months.
+
+FIRST DOCTOR T606
+Here you go.
+
+PATIENT T606
+@@@.
+
+FIRST DOCTOR T606
+I filled most of your pills.  @@@.
+
+PATIENT T606
+Okay what are you gonna do, call me at home or?
+
+FIRST DOCTOR T606
+It'll be, @@@.
+
+PATIENT T606
+Alright uh.  Well you got my phone number then.  You got it.  NUMBER.
+
+FIRST DOCTOR T606
+Okay.
+
+PATIENT T606
+@@@ thank you.
+
+PATIENT LEAVES:  59:31.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286128
+TRANSACTION # 578-10-2-316-0103

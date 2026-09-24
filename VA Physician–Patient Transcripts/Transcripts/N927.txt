@@ -1,0 +1,584 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@@  
+
+DOCTOR N927
+How are you?
+
+PATIENT N927
+How you doing today?
+
+DOCTOR N927
+Can you make it in?
+
+PATIENT N927
+Yeah.
+
+DOCTOR N927
+Let me move this for you.  Okay.  I'm DOCTOR, how you doing?
+
+PATIENT N927
+Pretty good so far.
+
+DOCTOR N927
+Okay.  What brings you in today?
+
+PATIENT N927
+I had an appointment.
+
+DOCTOR N927
+Anything bothering you today?
+
+PATIENT N927
+Yep.
+
+DOCTOR N927
+What's that?
+
+PATIENT N927
+Knees.
+
+DOCTOR N927
+Your knees?  What's wrong with your knees?
+
+PATIENT N927
+Well one of them had to be replaced; this here is doing what it was doing, slipping out of placed voluntarily.
+
+DOCTOR N927
+Oh you one of them replaced so now you just have a lot of arthritis?
+
+PATIENT N927
+Yep and I got bad feet.
+
+DOCTOR N927
+What have you been taking for the pain?
+
+PATIENT N927
+I'm taking Tylenol.
+
+DOCTOR N927
+Tylenol with gabapentin?
+
+PATIENT N927
+Haven't had any.
+
+DOCTOR N927
+You haven't had any.  You have refills, why don't you get it refilled?
+
+PATIENT N927
+I didn't know I had to.  I didn't even know I had the refills.  Probably misplaced it.
+
+DOCTOR N927
+Oh okay, your knees are just the regular arthritis pain?
+
+PATIENT N927
+No this is.
+
+DOCTOR N927
+Can you walk at all or @@@?
+
+PATIENT N927
+Yes but the.
+
+DOCTOR N927
+You're able to walk okay?
+
+PATIENT N927
+No I can't do prolonged standing and no.
+
+DOCTOR N927
+Has it been getting worse recently or just the same old?
+
+PATIENT N927
+Well we replaced that one.
+
+DOCTOR N927
+Yeah.
+
+PATIENT N927
+And this one is getting worse.
+
+DOCTOR N927
+It's getting worse?  Do you think it needs to be replaced?
+
+PATIENT N927
+This one.
+
+DOCTOR N927
+Huh.
+
+PATIENT N927
+Just this one.
+
+DOCTOR N927
+You think that one needs to be replaced?
+
+PATIENT N927
+That one's already been replaced.
+
+DOCTOR N927
+I know what about this one?
+
+PATIENT N927
+I been trying to avoid it but um.
+
+DOCTOR N927
+You haven't had your knees x-rayed in a couple years.  We might want to get that redone today.  Everything else okay today?
+
+PATIENT N927
+I need to get.
+
+DOCTOR N927
+Do you need refills on the other medicines then?
+
+PATIENT N927
+Yeah my Dilantin and my uh.
+
+DOCTOR N927
+Dilantin and your hydrochlorothiazide?
+
+PATIENT N927
+Yes.
+
+DOCTOR N927
+And your Tylenol.
+
+PATIENT N927
+Yeah cause I haven't had any of that in a long time.
+
+DOCTOR N927
+What's your Dilantin dose?  100 mg?
+
+PATIENT N927
+Right.
+
+DOCTOR N927
+Two tablets?
+
+PATIENT N927
+I have four a day.
+
+DOCTOR N927
+You do two tablets in the morning and two tablets in the evening?
+
+PATIENT N927
+Right.
+
+DOCTOR N927
+Okay and um you have hepatitis C?
+
+PATIENT N927
+Yeah.  I had that about 30 years now.  Cause I quit drinking too.
+
+DOCTOR N927
+Yeah.
+
+PATIENT N927
+I quit drinking ten years ago.
+
+DOCTOR N927
+Okay good.  Um your blood pressure's okay today, a little high um.
+
+PATIENT N927
+I know why, these socks.
+
+DOCTOR N927
+Oh.
+
+PATIENT N927
+See the way they was cutting out the circulation here?
+
+DOCTOR N927
+Now have you seen the neurologist recently because uh, weren't they supposed to um change your dose?  Neurology.
+
+PATIENT N927
+They did, well they did.
+
+DOCTOR N927
+Cause they, you want to be um 300, not 400 right?  Did you make that change?
+
+PATIENT N927
+No they put me on uh; last time I was here they put me on two in the morning and two in the evening.
+
+DOCTOR N927
+Who did?  The neurologist?
+
+PATIENT N927
+The doctor that I saw.
+
+DOCTOR N927
+In Urgent Care?
+
+PATIENT N927
+Yeah cause I come in, I had had a seizure and what happened I @@@.
+
+DOCTOR N927
+Yeah you need to see Neurology.  You haven't seen them, it's been too long. Let me see when you’re due to see them next.  Yeah you don’t even have another appointment.  But you need to see the neurologist.  You didn't go?
+
+PATIENT N927
+I didn't have an appointment yet.
+
+DOCTOR N927
+You don't even have one scheduled.  Have you had any seizures?
+
+PATIENT N927
+Yeah.
+
+DOCTOR N927
+When?
+
+PATIENT N927
+When I headed to Urgent Care?
+
+DOCTOR N927
+No but since then.
+
+PATIENT N927
+And one was threatening.
+
+DOCTOR N927
+But have you had one since then?
+
+PATIENT N927
+I jumped on it @@@.
+
+DOCTOR N927
+No.
+
+PATIENT N927
+Cause I felt it coming, I saw the signs coming and @@@.
+
+DOCTOR N927
+So the last time you had one was when you were in Urgent Care that day?
+
+PATIENT N927
+That's when I really had one, it woke me up.
+
+DOCTOR N927
+So that was in March?
+
+PATIENT N927
+Uh-huh.
+
+DOCTOR N927
+Cause they don't say that you had a seizure at that time, oh you had one in February but nothing since then.
+
+PATIENT N927
+None since then no.  I felt one coming but I stopped it, I took the medicine right quick.
+
+DOCTOR N927
+Okay so you never saw.
+
+PATIENT N927
+I haven't been to Neurology yet.  He had mentioned uh scheduling me for an MRI.
+
+DOCTOR N927
+Yeah but thing is you never, you need to see the neurologist.  Did you ever get the MRI done?  No.
+
+PATIENT N927
+No they didn't schedule it yet.
+
+DOCTOR N927
+But you got the EEG.
+
+PATIENT N927
+Uh-huh.
+
+DOCTOR N927
+Did you ever see the podiatrist, the foot doctor?
+
+PATIENT N927
+No.
+
+DOCTOR N927
+Oh yeah you did, in August. Let's see.
+
+PATIENT N927
+But not since then though.
+
+DOCTOR N927
+Oh okay.  Did you have the colonoscopy?
+
+PATIENT N927
+No I chickened out.
+
+DOCTOR N927
+You chickened out, you don't want it then?
+
+PATIENT N927
+I didn't want it, no.  The whole idea just threw me backwards.  I guess if I get up enough courage whenever they schedule me for one again, I might get up enough courage to do it, I don't know.
+
+DOCTOR N927
+Okay and you take simvastatin?  No.
+
+PATIENT N927
+No.
+
+DOCTOR N927
+You don't take anything for your cholesterol?
+
+PATIENT N927
+I was taking something but they discontinued it.
+
+DOCTOR N927
+Why?
+
+PATIENT N927
+That's what I'd like to know.
+
+DOCTOR N927
+LDL 80, oh wow it looks like you may not need one.  Uh and you need your blood pressure medication?
+
+PATIENT N927
+Oh yeah.
+
+DOCTOR N927
+Okay.
+
+PATIENT N927
+And my Dilantin, I only have four capsules left.
+
+DOCTOR N927
+Okay.
+
+PATIENT N927
+What kind of Tylenol is this you were telling me about?
+
+DOCTOR N927
+Tylenol?
+
+PATIENT N927
+It's a pain medication you was telling me.
+
+DOCTOR N927
+Yeah just Tylenol.  Gabapentin, that one?
+
+PATIENT N927
+Yeah.  Are you gonna prescribe some of that for me today?
+
+DOCTOR N927
+I can give that to you.
+
+PATIENT N927
+Yeah.  I know what brought on that other seizure though.
+
+DOCTOR N927
+It brought on seizures?
+
+PATIENT N927
+No I say I know what brought it on.
+
+DOCTOR N927
+What did?
+
+PATIENT N927
+Had sort of a earth shattering event.
+
+DOCTOR N927
+Huh?
+
+PATIENT N927
+Had sort of a earth shattering event.
+
+DOCTOR N927
+Oh what happened?
+
+PATIENT N927
+Uh my youngest daughter, she's you know 35 years of age.  She called me up from home and told me that she'd been diagnosed with MS.
+
+DOCTOR N927
+Oh, I'm sorry.
+
+PATIENT N927
+That threw me upside down and I.
+
+DOCTOR N927
+So you were taking the medicine.  It wasn't that you weren't taking it?
+
+PATIENT N927
+Yeah I was taking the medicine but that.
+
+DOCTOR N927
+So then you just had another, like a big emotional event?
+
+PATIENT N927
+Yeah I had a, that threw me off, way off.
+
+DOCTOR N927
+So you have access to the medication though?
+
+PATIENT N927
+Yeah.
+
+DOCTOR N927
+It's never been a problem for you to get it?
+
+PATIENT N927
+No, no.
+
+DOCTOR N927
+Okay.
+
+PATIENT N927
+No no problem.  Some things, see it starts up with an anxiety attack, you get this sick feeling in the stomach with the anxiety attack.
+
+DOCTOR N927
+Yeah.
+
+PATIENT N927
+You start feeling cartwheels with different colors and uh if I don't take some medicine right away it gets me blind temporarily.
+
+DOCTOR N927
+Oh no.
+
+PATIENT N927
+And then comes the seizure.  The whole left side just trembles out of control and I'm standing.
+
+DOCTOR N927
+Now your right leg you have some infection on it?
+
+PATIENT N927
+Yes.
+
+DOCTOR N927
+Or earlier.  Is that all taken care of, all done?
+
+PATIENT N927
+Yeah I had uh.
+
+DOCTOR N927
+Can I see it?
+
+PATIENT N927
+This is uh, it was uh I need to loosen @@@.
+
+DOCTOR N927
+You need some lotion.  But there's no fever or chills, nothing like that?
+
+PATIENT N927
+No, no, it was what do you call that thing uh, um.
+
+DOCTOR N927
+Oh like an ulcer?
+
+PATIENT N927
+That's the word, what I'm looking for.  It was like an ulcer.
+
+DOCTOR N927
+Okay but that's all gone now?
+
+PATIENT N927
+Yeah.  I got lotion I just didn't use this morning.
+
+DOCTOR N927
+Okay, I'll be back in a second okay.
+
+PATIENT N927
+Alright.
+
+DOCTOR N927
+I need to check this with the attending.
+
+PATIENT N927
+Uh-huh.
+
+DOCTOR N927
+I'll be back in a minute.
+
+(DOCTOR OUT:  110.0  DOCTOR IN:  117:50)
+
+DOCTOR N927
+Okay.  Alright you need to see the neurologist.
+
+PATIENT N927
+When?
+
+DOCTOR N927
+I want you to go up to the front and make an appointment right now before you go.
+
+PATIENT N927
+Alright.
+
+DOCTOR N927
+Are you taking all your blood pressure medications?
+
+PATIENT N927
+I take it yes.  That one uh, every six.
+
+DOCTOR N927
+And I want to get some labs, I want to get some labs done today, will you go to the Laboratory before you leave?
+
+PATIENT N927
+Oh you mean do a blood draw?
+
+DOCTOR N927
+Yeah.
+
+PATIENT N927
+Yeah.
+
+DOCTOR N927
+I need a blood draw.
+
+PATIENT N927
+So go make the appointment for the neurologist right now?
+
+DOCTOR N927
+Yeah they'll make it for you right up front okay and then I want you to come back and see me in one month cause then I want to see what the neurologist says.
+
+PATIENT N927
+When do I see the neurologist?
+
+DOCTOR N927
+You're gonna make an appointment up front right now okay.
+
+PATIENT N927
+Uh-huh.
+
+DOCTOR N927
+They're gonna give you an appointment.
+
+PATIENT N927
+Oh.
+
+DOCTOR N927
+You need your um and you need your medications refilled?
+
+PATIENT N927
+Yes.
+
+DOCTOR N927
+Okay so take this to the front and make the appointment right now before you go.
+
+PATIENT N927
+Right.
+
+DOCTOR N927
+I'll meet you up there okay and I'm gonna get your medications done and then I'll meet you up there and find out when the appointment is.
+
+PATIENT N927
+Okay.
+
+DOCTOR N927
+And then you have to go to the Lab.
+
+PATIENT N927
+I go to the Lab and then I can go home.
+
+DOCTOR N927
+Then you can go home.
+
+PATIENT N927
+Okay.
+
+DOCTOR N927
+But uh I'll meet you up there in the front in just a minute okay.
+
+PATIENT N927
+Okay.
+
+PATIENT LEAVES 121:00
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275384
+TRANSACTION # 578-10-2-316-0103

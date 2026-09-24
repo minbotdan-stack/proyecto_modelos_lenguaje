@@ -1,0 +1,834 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR S164
+PATIENT?  How are you doing PATIENT?  I'm DOCTOR.
+
+PATIENT S164
+Hi.
+
+DOCTOR S164
+It's nice to meet you.  Do you want to come back with me?  Go ahead and have a seat right here for me okay.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+So what you doing to see me today, what's going on?
+
+PATIENT S164
+I got a cold.
+
+DOCTOR S164
+A cold.
+
+PATIENT S164
+A cold and the flu.
+
+DOCTOR S164
+How long has this been going on for?
+
+PATIENT S164
+Ooh, oh about four days.  @@@ yellow and red streaks.
+
+DOCTOR S164
+With a cough or?
+
+PATIENT S164
+Cough.
+
+DOCTOR S164
+What was the first symptom you had?
+
+PATIENT S164
+Huh?
+
+DOCTOR S164
+What was the first symptom you had?  What was the first problem that you had?
+
+PATIENT S164
+Oh my throat @@@.  Nose running.
+
+DOCTOR S164
+That's the first thing was starting?
+
+PATIENT S164
+Uh-huh.  Nose running, eyes running.  Then they was white I had to cough it up, fluid up was white and I’d cough it up and it was white and then yellow.  I was gonna come out here cause I can't take nothing unless the doctor say, so I can’t go to a drug store and get nothing.
+
+DOCTOR S164
+Are you short of breath at all?
+
+PATIENT S164
+Uh-huh.  Yeah I walked to the elevator @@@.
+
+DOCTOR S164
+How'd you get here?
+
+PATIENT S164
+I @@@.
+
+DOCTOR S164
+Any chest pain?
+
+PATIENT S164
+Uh uh.
+
+DOCTOR S164
+Do you have emphysema?
+
+PATIENT S164
+I don't know what that is, I don't know.
+
+DOCTOR S164
+Any lung disease, emphysema?
+
+PATIENT S164
+No.
+
+DOCTOR S164
+Do you take inhalers because of your lungs?
+
+PATIENT S164
+Uh uh.
+
+DOCTOR S164
+Did you get a pneumonia shot ever?  The pneumonia vaccine?
+
+PATIENT S164
+Uh the last one I take it uh, when I go to get a shot and they say I didn't need it, it was the pneumonia shot but that's been a year ago.
+
+DOCTOR S164
+You got a flu shot right?
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+Did you get both flu shots or just one?
+
+PATIENT S164
+Just one.
+
+DOCTOR S164
+The regular flu?
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+Who do you live with?
+
+PATIENT S164
+Uh me and my wife and my son.  I don't feel bad.
+
+DOCTOR S164
+You don't.  @@@.
+
+PATIENT S164
+Yeah I do, that's what I do, try to heal this cold.  We got uh a hot drank hot tea, @@@ in the feet, hot chocolate. 
+
+DOCTOR S164
+Do you have abdominal pain or symptoms at all?
+
+PATIENT S164
+Uh uh.
+
+DOCTOR S164
+Okay.  Have been around anybody sick?
+ 
+PATIENT S164
+Huh.
+
+DOCTOR S164
+Have you been around anybody sick?
+
+PATIENT S164
+Yeah.
+
+DOCTOR S164
+Who was it?
+
+PATIENT S164
+My son, both my son and my wife.
+
+DOCTOR S164
+What are they sick with?
+
+PATIENT S164
+Uh.
+
+DOCTOR S164
+What are they sick with?
+
+PATIENT S164
+Cold, same thing.
+
+DOCTOR S164
+Do they have muscle aches and pains?
+
+PATIENT S164
+I don't know but they cough a lot, cough that cold up.
+
+DOCTOR S164
+What about you?
+
+PATIENT S164
+I have aches and pains in the muscles, in the side, back.  I get that from coughing after so much.
+
+DOCTOR S164
+Well is it all over, your legs and your arms?
+
+PATIENT S164
+Really just my arms here and both sides of my muscles.
+
+DOCTOR S164
+When you cough?
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+What about your arms here or your legs?
+
+PATIENT S164
+Uh uh.
+
+DOCTOR S164
+Anything hurt?
+
+PATIENT S164
+Just, I hurt right here, I don't know what you get but it @@@.
+
+DOCTOR S164
+Have you had fever?
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+How high?
+
+PATIENT S164
+I don't know.  I know I woke up sweats the night before last and last night and the night before that.  I wake up as wet and dripping in sweat.
+
+DOCTOR S164
+@@@ with you?
+
+PATIENT S164
+Uh-huh.  Both of them.
+
+DOCTOR S164
+Both of them @@@.
+
+PATIENT S164
+My grandson.
+
+DOCTOR S164
+Have been all sick?
+
+PATIENT S164
+Yeah they all got colds.
+
+DOCTOR S164
+Are you all really sick with fevers too?
+
+PATIENT S164
+Now I don't know about fevers, but they got that bad cough.
+
+DOCTOR S164
+Do you have heart disease?
+
+PATIENT S164
+Uh yeah I had a heart attack, @@@ time ago.
+
+DOCTOR S164
+Did you have bypass surgery?
+
+PATIENT S164
+And they split me open and I was open from my naval all the way up to the throat.
+
+DOCTOR S164
+Have you ever had heart failure?
+
+PATIENT S164
+What?
+
+DOCTOR S164
+Have you ever had congestive heart failure?
+
+PATIENT S164
+Yeah I had, before I had the heart attack I had a little heart attack or something like that but that wouldn't @@@.  They just told me to stop drinking and stop smoking and I didn't quit so I had the big, one. I quit then.
+
+DOCTOR S164
+When was the big one?
+
+PATIENT S164
+Oh @@@.
+
+DOCTOR S164
+Yeah when did you have that?
+
+PATIENT S164
+Huh?
+
+DOCTOR S164
+When did you have that?
+
+PATIENT S164
+Oh.
+
+DOCTOR S164
+Open heart surgery when was that?
+
+PATIENT S164
+Oh, it was about seven years, about seven or eight years ago in Mississippi at the VA.
+
+DOCTOR S164
+Your blood sugars doing okay?
+
+PATIENT S164
+Yeah.
+
+DOCTOR S164
+What are they running at home?
+
+PATIENT S164
+Oh around 103, 104, 102 something like that.  I check it every once in a while @@@.
+
+DOCTOR S164
+Has it been higher or no?
+
+PATIENT S164
+Uh uh.
+
+DOCTOR S164
+And you take all these medications in here?
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+So all of them?
+
+PATIENT S164
+You bet.
+
+DOCTOR S164
+There's a lot of them.
+
+PATIENT S164
+Oh yeah.
+
+DOCTOR S164
+Amlodipine, aspirin, carvedilol, Lantus, @@@.
+
+PATIENT S164
+Yeah.
+
+DOCTOR S164
+Lisinopril, omeprazole, simvastatin, spironolactone, terazosin, trazodone, bupropion.
+
+PATIENT S164
+All that stuff.  @@@.  There are about eight that I take @@@.
+
+DOCTOR S164
+Okay.  I'm gonna have you sit up here for me okay.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+@@@ I want your shoes off, I need to go get an oxygen monitor, I'll be right back.
+
+PATIENT S164
+Okay.
+
+(DOCTOR OUT:  39:07  DOCTOR IN:  39:46)
+
+DOCTOR S164
+Are you on Coumadin?
+
+PATIENT S164
+I'm on what?
+
+DOCTOR S164
+You on Coumadin?
+
+PATIENT S164
+Yeah.  Yes I am.
+
+DOCTOR S164
+Have your numbers been okay?
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+You take uh.  
+
+PATIENT S164
+@@@.
+
+DOCTOR S164
+Good.  Your lungs have a good sound.  I'm gonna have you cough for me a couple times.   Give me a good cough.
+
+PATIENT S164
+Uh-huh. (coughs)
+
+DOCTOR S164
+Okay.  @@@ okay.  
+
+PATIENT S164
+Hmm.
+
+DOCTOR S164
+Take a deep breath.  Out and up and in and out.  Deep breath, and out, and in and out, again.  Deep breath and out and in.  You never had an inhaler before?
+
+PATIENT S164
+No.
+
+DOCTOR S164
+You've never had an inhaler?
+
+PATIENT S164
+Yeah but it was a long time ago.  What it read?
+
+DOCTOR S164
+Say E for me.
+
+PATIENT S164
+E.
+
+DOCTOR S164
+Again.
+
+PATIENT S164
+E.
+
+DOCTOR S164
+Again.
+
+PATIENT S164
+E.
+
+DOCTOR S164
+Again.
+
+PATIENT S164
+E.
+
+DOCTOR S164
+Okay good.  @@@?  Do you feel short of breath right now?
+
+PATIENT S164
+Uh-huh.  @@@.
+
+DOCTOR S164
+Do you need me to come in?
+
+PATIENT S164
+What?
+
+DOCTOR S164
+Do you need me to come in?
+
+PATIENT S164
+No I don't feel like it, just a cough and cold.
+
+DOCTOR S164
+I'd like to give you another inhaler okay.  I think I'd like to get a chest x-ray and let's take a look at your mouth.  Okay open your mouth real big.  Say ah.
+
+PATIENT S164
+Ah.
+
+DOCTOR S164
+Stick out your tongue.  Do you have dentures up there?
+
+PATIENT S164
+I have partials, @@@.
+
+DOCTOR S164
+You don't have dentures right.
+
+PATIENT S164
+No.
+
+DOCTOR S164
+Do you ever choke when you swallow?
+
+PATIENT S164
+Uh uh.
+
+DOCTOR S164
+Any real pain?
+
+PATIENT S164
+Uh uh.
+
+DOCTOR S164
+Do you know how to use an inhaler?
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+Who's your primary doctor?
+
+PATIENT S164
+@@@ so I don't know who, who it is.  I don't think I've been here in a good while.  I don’t know doctors.  @@@ that brought me out here is this cold.
+
+DOCTOR S164
+I don't see Coumadin on your medication list.  It's also called Warfarin.
+
+PATIENT S164
+Yeah.
+
+DOCTOR S164
+Do you take that?
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+You're getting it here?
+
+PATIENT S164
+Yeah.
+
+DOCTOR S164
+I don't think you take that cause you’re last blood test.
+
+PATIENT S164
+Oh they probably taken it off then, they probably take me off it.  I was taking it.
+
+DOCTOR S164
+Yeah.  In the past you were but now you're off.
+
+PATIENT S164
+Yeah, uh-huh.
+
+DOCTOR S164
+Okay.
+
+PATIENT S164
+I don't feel sick with this.  I @@@ cough @@@.
+
+DOCTOR S164
+So it was mainly the coughing and the shortness of breath?
+
+PATIENT S164
+Yeah that's all.  I was sore on both sides.
+
+DOCTOR S164
+Are you smoking?
+
+PATIENT S164
+Uh uh.
+
+DOCTOR S164
+When did you quit?
+
+PATIENT S164
+Oh, about two years ago.
+
+DOCTOR S164
+How much did you smoke then?
+
+PATIENT S164
+About a pack and a half a day.
+
+DOCTOR S164
+For how long?
+
+PATIENT S164
+Oh, man all my life, since I was about 10 years.  I'm 82 now.
+
+DOCTOR S164
+Well they checked your lungs for emphysema in 2006 and it looks like you had emphysema.
+
+PATIENT S164
+Oh I did.
+
+DOCTOR S164
+Yeah.  So.
+
+PATIENT S164
+They didn't tell me.
+
+DOCTOR S164
+I think what we're seeing a little bit now is emphysema.
+
+PATIENT S164
+Oh.
+
+DOCTOR S164
+Sounds like we gotta get you tuned up okay.  I'll be right back okay.
+
+PATIENT S164
+You gotta get me tuned up?
+
+DOCTOR S164
+Yeah we're going to tune you up like a car, so we'll treat you better, I'll be right back okay.
+
+PATIENT S164
+Alright.
+
+(DOCTOR OUT:  46:57  DOCTOR IN:  57:33)
+
+DOCTOR S164
+Okay.  I was talking to DOCTOR, he's my attending okay.
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+And you have to; I think what's going on with you more than anything is what we call and exacerbation of emphysema.  When they looked at your lungs in 2006, you had emphysema.  Do you know what emphysema is?
+
+PATIENT S164
+Uh uh.
+
+DOCTOR S164
+Emphysema is when people who smoke all their life, even though you quit a couple years ago your lungs don't work as well and they start trapping air and you have a hard time getting air out.
+
+PATIENT S164
+Yeah.
+
+DOCTOR S164
+And um when you start having productive sputum like you're having with shortness of breath you can get an exacerbation of COPD and I think that's what we're seeing with you.
+
+PATIENT S164
+Hmm.
+
+DOCTOR S164
+Okay.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+So there’s a goal to treating that, number one when I listen to you I don't hear pneumonia but given that you've had a lot going on.
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+I want you to get a chest x-ray on the way out.
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+If there’s an abnormality, I will call you.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+I'm still going to give you it's for part of COPD exacerbations, 
+what works well is I want to try giving antibiotics for five days.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+It's called azithromycin okay.  I'll also want to give you um, who gives you your medications at home?
+
+PATIENT S164
+I take them myself.
+
+DOCTOR S164
+Okay, so you're pretty good about your medications?
+
+PATIENT S164
+Oh yeah.  @@@.
+
+DOCTOR S164
+Okay so, the antibiotic is going to be and these will all be in the instructions, its two pills the first day and then one pill the next four days okay.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+The steroid is going to be similar, what I'm gonna do is I'm going to give you some steroids to decrease the inflammation in your lungs.
+
+PATIENT S164
+Hmm.
+
+DOCTOR S164
+Okay.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+This other stuff, have you ever been on steroids before?
+
+PATIENT S164
+No.
+
+DOCTOR S164
+Steroids have side effects okay.  Usually in the short term there are not that many side effects.
+
+PATIENT S164
+No.
+
+DOCTOR S164
+But sometimes people can get a little anxious.
+
+PATIENT S164
+You’re right.
+
+DOCTOR S164
+And can cause some confusion and it can cause your blood sugar to go higher.
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+Okay.
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+But it's gonna really help with your breathing I think.
+
+PATIENT S164
+That's good.
+
+DOCTOR S164
+It's a 9-day course where the first two days you take four pills, the next three days you take you know two pills, the next three days you take one pill.  It will all be on the instructions.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+You take all of them and taper off, does that make sense?
+
+PATIENT S164
+That makes sense.
+
+DOCTOR S164
+And then I'm gonna start you on inhalers.  And inhalers are to help you breathe better.
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+And you take two puffs of this inhaler every six hours and it's should open up your breathing a little bit.
+
+PATIENT S164
+Yeah.
+
+DOCTOR S164
+So we're doing three medications, steroid, antibiotic and inhaler and you're getting a chest x-ray on the way out.
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+You normally see DOCTOR.  He's your primary doctor.
+
+PATIENT S164
+Hmm.
+
+DOCTOR S164
+And I think it's time you see him again for follow-up.
+
+PATIENT S164
+Yeah.
+
+DOCTOR S164
+You've had problems like this in the past.  DOCTOR we need to have you back within three or four weeks okay.  Now if you’re home and you're not doing better, the fevers persist and your breathing becomes harder, you got to come back to the Emergency Room.
+
+PATIENT S164
+Oh.
+
+DOCTOR S164
+Okay.  You can stop at the X-ray today okay.
+
+PATIENT S164
+Uh-huh, okay.
+
+DOCTOR S164
+And the Pharmacy today to pick up all the medicines I'm putting through.  Probably get your x-rays first to give the Pharmacy time to fill the medications.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+And you'll take the steroids today, the antibiotic today and start using the inhalers today.
+
+PATIENT S164
+Uh-huh.
+
+DOCTOR S164
+Okay?
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+Do you have questions for me?
+
+PATIENT S164
+No, no.  All the instructions will be on the bottle, I might forget.
+
+DOCTOR S164
+Yep and @@@ don't be shy to have your family help you out okay.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+Cause this is a lot of new medications.
+
+PATIENT S164
+Yeah.
+
+DOCTOR S164
+The steroid might make your blood sugars go higher so keep checking your blood sugars and if they get high you have to call us and let us know.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+I’m DOCTOR @@@.  Just, I don't @@@ so I'll give you an appointment card.  DOCTOR @@@ doctor.
+
+PATIENT S164
+Yeah.
+
+DOCTOR S164
+And you can’t forget.
+
+PATIENT S164
+Right.
+
+DOCTOR S164
+You're gonna call me and let me know.  So you're going to @@@ and then @@@ stop on the x-rays on the first floor Radiology and the Pharmacy.
+
+PATIENT S164
+Okay.
+
+DOCTOR S164
+Okay.
+
+PATIENT S164
+Okay thank you.
+
+DOCTOR S164
+You're welcome.  
+
+PATIENT S164
+@@@.
+
+DOCTOR S164
+You're welcome.
+
+PATIENT LEAVES 62:51
+Time is 3 o'clock.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1235343
+TRANSACTION # 578-10-2-316-0103

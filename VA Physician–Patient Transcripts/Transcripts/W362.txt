@@ -1,0 +1,639 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@  
+
+PATIENT W362
+How you doing doc?
+
+DOCTOR W362 
+Good to see you.  Come on back.
+
+PATIENT W362
+Yeah.
+
+DOCTOR W362
+So @@@ right in the entrance here.
+
+PATIENT W362
+Tape recorder.
+
+DOCTOR W362
+Oh tape recorder.  Why?  Who?
+
+PATIENT W362
+A lady doing research.
+
+DOCTOR W362
+Ah, for reports.
+
+PATIENT W362
+Right.
+
+DOCTOR W362
+Okay.  I was looking at your chart a little bit and uh from, was it a car accident?
+
+PATIENT W362
+I had a car accident.  Someone hit me and now my back is messed up a little bit.
+
+DOCTOR W362
+Okay.
+
+PATIENT W362
+And uh when I came in um my blood pressure I guess was sky high so I explained to them that what I was trying to do was lose some weight and watch my diet and he said he didn't think it was smart because it's too high.
+
+DOCTOR W362
+Uh-huh.
+
+PATIENT W362
+And then after that, about a week after, my brother is active duty military.
+
+DOCTOR W362
+Oh.
+
+PATIENT W362
+Uh he had a stroke and he's younger. He's 38 years old and so when he had the stroke then I spoke with my mother and inquired more about my dad.  My dad died here in Jesse Brown in 2002.
+
+DOCTOR W362
+Oh.
+
+PATIENT W362
+Massive heart attack.
+
+DOCTOR W362
+At what age?
+
+PATIENT W362
+He was 68, 69.
+
+DOCTOR W362
+Young, definitely should have been older.
+
+PATIENT W362
+Right.  So what I'm thinking is that I'm not even going to try on my own anymore.  Whatever you want to do.
+
+DOCTOR W362
+I think so, no um it's true when you're in pain the blood pressure tends to get a little bit high.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+Uh so but, so even if we blame the pain for the last visit for your high blood pressure.  Every other time that you've had high blood pressure the pain hasn’t been the reason and it’s been a little bit higher than, well it's not as high as last time you were here, so that kind of extra increase might have been the result of the pain.
+
+PATIENT W362
+Sure.
+
+DOCTOR W362
+But even today it's high.  Now uh we talked about, the last time, I mean I know you were reluctant about the blood pressure medications that you wanted to try with a little bit diet and weight change; however, in the last visit here, are you on the hydrochlorothiazide or not?
+
+PATIENT W362
+Right.
+
+DOCTOR W362
+Have it or not?
+
+PATIENT W362
+Right I started taking it.
+
+DOCTOR W362
+Okay @@@.
+
+PATIENT W362
+I ran out and I was unaware that I was supposed to get a refill.  I was just unaware of it though.
+
+DOCTOR W362
+How long ago that you ran out?
+
+PATIENT W362
+Uh it's been about maybe five days.
+
+DOCTOR W362
+Five days so you took it for five days or you ran out five days ago?
+
+PATIENT W362
+I ran out of it five days ago right.
+
+DOCTOR W362
+Alright.  So go ahead and put the coat there.  Okay.  Um and were you able to measure the blood pressure at home?
+
+PATIENT W362
+Uh you know actually every day after I got through with my work-out regimen.
+
+DOCTOR W362
+Uh-huh.
+
+PATIENT W362
+I went to the local CVS and they had a blood pressure machine.
+
+DOCTOR W362
+Yeah.
+
+PATIENT W362
+And it was terrible.  It was anywhere between say somewhere between 170 to 190 on the high number.
+
+DOCTOR W362
+Uh-huh.
+
+PATIENT W362
+And the lowest number today was the lowest I've seen in I don't know how long so, I'm not I guess whatever's happening I'm not doing very well with it.
+
+DOCTOR W362
+Yeah and the other thing, when it was high were you were taking the blood pressure medication.
+
+PATIENT W362
+I was taking it.
+
+DOCTOR W362
+You were taking it, so even with the blood pressure medication, it wasn’t decreasing it as much as we want.  What happens usually, everything the blood pressure medication will decrease, the big number the one that we're worried about, um by maybe 20, 25 megs no more than that so if your blood pressure is at above 160 we might have to gradually, not right away, not in one day but to decrease it gradually.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+But eventually you might need more than one blood pressure medication and um the fact that.  How's your brother doing by the way?
+
+PATIENT W362
+Uh he has paralysis and also he has, as he was explaining to me, this affected the other side of his brain too because he has loss of memory.
+
+DOCTOR W362
+Oh.
+
+PATIENT W362
+Loss of sight and I mean he's a physical specimen. He trained with the SEALS so he's a specimen.
+
+DOCTOR W362
+Wow.
+
+PATIENT W362
+And uh you know the same symptoms, he was saying, the headaches and things like that that I was getting.
+
+DOCTOR W362
+Yes.  Yes.  Because and also, furthermore, all the tests that they've done should see, there were different reasons that caused the blood pressure sometimes it could be the kidney, sometimes it could be certain hormones, none of them really told us anything to pinpoint where this high blood pressure was actually coming from.  So I agree we definitely have to think about um medications and being aggressive.  It doesn't mean that um exercise and diet are not important.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+Because what happens is um usually, not all the time, but usually a lot of conditions come together meaning blood pressure, cholesterol and diabetes, these three are the number one conditions that really will cause a stroke or heart attack or so forth and um even though, as I told you last time, the exercise and diet will probably not decrease the blood pressure back to normal levels, it will be good, they will help with the blood pressure medications but they also will help with the cholesterol and the risk of developing diabetes.  Right now, obviously, you're young, but right now you don't have, looking at the numbers.
+
+PATIENT W362
+Uh-huh.
+
+DOCTOR W362
+You don't have anything.  You don't have the diagnosis of diabetes but the sugar high, that number that you are at risk of developing diabetes.  Bascially what I'm saying is in order to diagnose diabetes, what uh the actual studies, the numbers that we have to have, morning sugars when you're fasting, when you haven't eaten, 126 or above.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+Measure it separately, not in the same day.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+We measure it today and then measure a week from now and if it is greater than the 126 or above that's diabetes.  That's one of the ways we have.  Less than that, you don't have diabetes.  That's kind of how we have to define this too so we can treat the patients but diabetes is not one of the conditions that you have it, but you didn't have it yesterday and all of a sudden now you have it @@@.
+
+PATIENT W362
+Gradually.
+
+DOCTOR W362
+Yeah.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+So when the sugars are anywhere between 100 to 125, that's kind of the borderline that you are at risk of developing diabetes which means you don't have it yet.
+
+PATIENT W362
+Uh-huh.
+
+DOCTOR W362
+By definition, you're at risk but we can do things to prevent it, to delay it, to prevent it from becoming full blown diabetes.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+So you @@@ it to be 109, so you are at that risk range, but you are @@@ blood pressure also with the weight.  So most of the time, exercise and diet will improve the blood pressure, will improve the risk of developing diabetes and cholesterol as well.  I think we'll check one thing because I don't think we, because you've been young I'm not sure if we have a cholesterol level on you yet.  We do have a actually, it is 150 and the cholesterol is the other thing.  So your cholesterol, the bad cholesterol which um I will just mentioned it, you know they are just called LDL.
+
+PATIENT W362
+LDL.
+
+DOCTOR W362
+LDL that's the bad cholesterol.  For different people there are different brackets meaning if somebody is older than 65.  If somebody 65 year old has had a heart attack, that number should be less than 70.  
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+If somebody who's young, in your case young but with no medical problems whatsoever, that number should be less than 160 and then everybody else is somewhere in between meaning that depending upon the risk factors somebody else you can have the goal of a l60, or 130 or less than 100 @@@.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+I think in your case because of the family @@@ and also the blood pressure, the goal should be less than 130.
+
+PATIENT W362
+Okay, okay.
+
+DOCTOR W362
+Yours is 160.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+It's high so that puts you at risk and um you can, like in the long term for stroke.
+
+PATIENT W362
+Right.
+
+DOCTOR W362
+But usually almost never the first treatment is never to start cholesterol medication right away.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+We need to give, we need to start a medication for blood pressure, no question about it but we need to give time to exercise and diet to try to decrease that, to try to decrease that.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+Cholesterol even more and in the long term I think we will have to introduce that because the benefits of having that if we don't reach the goal of the LDL level of 130 uh would be, the benefits would be great and would make the indications if I used them @@@, the goal is to prevent those things from happening.
+
+PATIENT W362
+Well whatever you need be, I @@@.
+
+DOCTOR W362
+Yeah, I am going to examine you, but in the meantime do you have any questions.
+
+PATIENT W362
+Uh no, I have one question.
+
+DOCTOR W362
+Sure.
+
+PATIENT W362
+Well I mean I don't have to ask you now because.
+
+DOCTOR W362
+Yes.
+
+PATIENT W362
+Uh it's down the line, but this medication is not gonna stop my uh sexual prowess will it?
+
+DOCTOR W362
+No it shouldn't.  Um all medications have certain side effects.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+Um and there really is no medication, even the simple pain medicine Tylenol can have side effects.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+Uh the medications that we, there are some blood pressure medications what we call cardiovascular medications that can cause decreased erections usually – we have different families of blood pressure medications.  The most common ones are called beta blockers and they usually end with the letters ol meaning metoprolol, carvedilol basically there's a family of medications that can be used for some times for blood pressure medications but we don't usually use them as a first line of treatment in somebody that has high blood pressure.
+
+PATIENT W362
+Sounds good.
+
+DOCTOR W362
+The medications that you um will have been using and that we'll restart is the hydrochlorothiazide.
+
+PATIENT W362
+Uh-huh.
+
+DOCTOR W362
+The most common @@@ i.
+
+PATIENT W362
+Right, right.
+
+DOCTOR W362
+So the only thing I would recommend is don't take it in the evening.@@@
+
+PATIENT W362
+Right.  That's no problem.  I drink a lot of water so that's no problem.  I'm not going to do anything different.
+
+DOCTOR W362
+Um it's once a day.  As I said this medication will most likely not bring the blood pressure to where we want it to so we'll have to introduce a second blood pressure medication which is called nifedipine, it's a calcium channel and that's another family of medications.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+Called nifedipine.  That can make you pee uh; it is great actually for blood pressure control.  One of the, not common, but one of the side effects that is known is sometimes it can cause swelling of the legs and if it does cause swelling of the legs and if it's bothersome we can switch it to something else. But it’s not something…
+
+PATIENT W362
+So if it swells my legs it won't be do I, I still be able to walk.
+
+DOCTOR W362
+Oh yeah, yeah, yeah, yeah.
+
+PATIENT W362
+Oh I see, no problem.  My legs, I need my legs to be bigger anyway so.
+
+DOCTOR W362
+No, no it's something @@@ switch to something else.
+
+PATIENT W362
+You bet, okay.
+
+DOCTOR W362
+That's @@@.
+
+PATIENT W362
+Okay, sure.  
+
+DOCTOR W362
+Now um, in terms of the diet, we talked the last time.
+
+PATIENT W362
+I'm doing very well.  I haven't been eating that much fried food.
+
+DOCTOR W362
+Uh-huh.
+
+PATIENT W362
+Uh I don't do the uh sweets anymore at nighttime like I used to.  I've cut down a lot but I actually gained five pounds working out.
+
+DOCTOR W362
+That's alright.
+
+PATIENT W362
+Um I think I was 252 when I came here last time.
+
+DOCTOR W362
+Yeah.
+
+PATIENT W362
+252 or something like that.
+
+DOCTOR W362
+Yeah.
+
+PATIENT W362
+I'm on 259 now.
+
+DOCTOR W362
+Yeah so now that sort of number.  Do you, although, besides hydrating are you eating more or about the same?
+
+PATIENT W362
+I'm eating a lot less.  I'm eating a lot less and in between my meals I'm drinking a protein so instead, what I was doing was I was eating at first.
+
+DOCTOR W362
+Uh-huh.
+
+PATIENT W362
+And now I'm just taking a protein shake and like I said I cut all of the @@@ now.
+
+DOCTOR W362
+Do you eat breakfast?
+
+PATIENT W362
+I eat breakfast.
+
+DOCTOR W362
+Good.  The other trick here, in addition to exercise and so there are two things, one with diet is breakfast, you're doing the right things and the other thing is smaller meals.  Frequent small meals so never @@@.  You don't want to do large meals because those are the worst.  Small meals, frequent meals and sometimes to suppress the hunger or the cravings um you uh whether it's uh like almonds or you like different type nuts,  like almonds.
+
+PATIENT W362
+Okay.  Oh almonds.  
+
+DOCTOR W362
+Or whatever and those will have fiber and are heart health as well.  So while you're working out, basically have a small uh whatever, a bag of walnuts and almonds and that is a great supressant for the hunger for that.  The other thing, and this just came recently in the studies, is um the best way to with regard to exercise to lose weight.  Usually what people do in the gym if they are indoors they will run and then they will lift.
+
+PATIENT W362
+Right.
+
+DOCTOR W362
+Right.  Actually the opposite is better for losing weight.
+
+PATIENT W362
+Which makes sense because you heat up the body, then you run.
+
+DOCTOR W362
+Yeah.
+
+PATIENT W362
+Yeah.
+
+DOCTOR W362
+And then so kind of @@@.
+
+PATIENT W362
+Right.
+
+DOCTOR W362
+People seem to be.
+
+PATIENT W362
+Okay, so that's what I'll do.
+
+DOCTOR W362
+Losing a little bit more.
+
+PATIENT W362
+But you know why they do that?  Why they run and lift weights?
+
+DOCTOR W362
+But uh, so usually the very first thing because they think and so what happens is that the very first thing that body is to burn is the carbohydrates, the sugars before it burns the fat.
+
+PATIENT W362
+Right.
+
+DOCTOR W362
+And uh the best way to burn the carbohydrate is lifting or something that will burn your muscles and then the endurance will burn the @@@.  The way that people used to do it the opposite is because they thought well they would warm up the body with their running.
+
+PATIENT W362
+Right, right, right.
+
+DOCTOR W362
+And they burn off the muscles and then go in and take the @@@.  So you know they say whatever works better but whatever works better for you.
+
+PATIENT W362
+That might work better for me.
+
+DOCTOR W362
+Uh let's see.  How's the pain now, after the car accident?
+
+PATIENT W362
+Uh it's okay.  I'm going to a chiropractor now.
+
+DOCTOR W362
+Okay and it helps?
+
+PATIENT W362
+And uh the first week if felt like it was doing, I mean it felt like they were hurting me worse than the car accident.
+
+DOCTOR W362
+Hmm.
+
+PATIENT W362
+They said that that's the first sign of treatment.
+
+DOCTOR W362
+Okay.
+
+PATIENT W362
+And I didn't know doc, I didn't know that doctors of medicine don't really acknowledge chiropractors as doctors.
+
+DOCTOR W362
+No, no, they do.  It's all um, it's all individual biases and individual  - based on preconceptions – I do acknowledge them, they do go to school and they learn.
+
+PATIENT W362
+Right.
+
+DOCTOR W362
+Basically they're good with what they do.  The best way is to have an understanding of ask what they do and ask them what they recommend.
+
+PATIENT W362
+Right, right.
+
+DOCTOR W362
+Because they help uh in a lot of cases.  There are cases where they don't help and there are cases that they make things worse so we need to, we need to, both us and the chiropractor in order to kind of help each other to prevent bad things from happening but and @@@ the muscle and a lot of times they are good at what they do.  Uh it's not all about medication @@@ sometimes it's manipulation but I've seen where to have this conversation.  But yeah no they are doctors @@@.  Take a deep breath in.  You can breathe normally.  Good.  You sound great.  Uh and no smoking right?
+
+PATIENT W362
+No no smoking.
+
+DOCTOR W362
+Alright give me a moment.  Do you have any questions in the meantime?
+
+PATIENT W362
+Uh not yet, but I appreciate it.
+
+DOCTOR W362
+No problem, have a seat I will be right back.
+
+PATIENT W362
+Okay.
+
+(DOCTOR OUT:  19:49  DOCTOR IN:  22:38)
+
+DOCTOR W362
+Uh do you want to, for the blood pressure medication that you're taking half a pill.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+We're gonna go to a full pill and that's the maximum dose.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+Um and then what we need to do in about two weeks have you come just to visit the nurse just for a blood pressure check.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+To see how well it is controlling the blood pressure and then at the time um we might have to start the second medication, to see if we have to.  Hopefully we don't have to but you know if you have to uh we don't want to start both at the same time to drop the blood pressure too fact.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+Too rapidly and uh that uh.  Oh do you want to pick them up or do you want it by mail?
+
+PATIENT W362
+Uh.
+
+DOCTOR W362
+The blood pressure medication.
+
+PATIENT W362
+How long, well you wouldn't know how long it would take.
+
+DOCTOR W362
+Uh usually it takes just a half hour or 45 minutes and it'll probably be ready.
+
+PATIENT W362
+Oh no okay, I'll wait, then mail it, then mail it.
+
+DOCTOR W362
+The mail @@@.
+
+PATIENT W362
+I'll pick it up, I'd like to get started yes, I'll get started.
+
+DOCTOR W362
+Alright.  
+
+PATIENT W362
+And I'm supposed to take them the same time every day.
+
+DOCTOR W362
+Uh well usually @@@ right now except just one pill right.
+
+PATIENT W362
+Right.
+
+DOCTOR W362
+But if we have to add the second one and that's gonna be also a once a day medication.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+Um what I usually do is I tell patients is to take one, to take it in the morning the water pill that makes you pee.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+And that's good for 24 hours and then the other one they take it in the evening so and that's taken always at the same time, because what happens is, they kind of help each other, they stagger so you don't take them both in the morning because if you do take them both in the morning the next morning right before you take the blood pressure medications your blood pressure might be high because the effects of those medications might be almost out.
+
+PATIENT W362
+Gotcha right.
+
+DOCTOR W362
+But if you kind of take one in the morning and one in the evening they kind of complement each other much better. Makes sense?
+
+PATIENT W362
+Okay. Makes sense.
+
+DOCTOR W362
+Alright.  So if you give this to the clerk and tell them to make an appointment with the nurse.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+For two weeks for a blood pressure check.
+
+PATIENT W362
+Oh okay, thank you very much doc.
+
+DOCTOR W362
+And uh you have @@@ and then the Pharmacy for medication.
+
+PATIENT W362
+Okay.
+
+DOCTOR W362
+The Pharmacy @@@.
+
+PATIENT W362
+Always good seeing you.
+
+DOCTOR W362
+@@@ good luck.  They'll send you @@@.
+
+PATIENT W362
+Okay alright thank you very much.
+
+PATIENT LEAVES:  25:31
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286135
+TRANSACTION # 578-10-2-316-0103

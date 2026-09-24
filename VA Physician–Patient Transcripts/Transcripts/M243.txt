@@ -1,0 +1,549 @@
+AUDIO NAME		M243
+Date of Encounter  @@/@@/@@ 
+Time of Encounter  @@@
+
+
+
+DOCTOR M243
+This is your first time here in a while?  
+
+PATIENT M243
+Yeah.
+
+DOCTOR M243
+Okay.  What can we do for you today?
+
+PATIENT M243
+I am having a lot of knee pain.
+
+DOCTOR M243 	
+Okay.
+
+PATIENT M243	
+@@@.
+
+DOCTOR M243 	
+You are down here @@@.
+
+PATIENT M243	
+I feel like @@@ and I am you know @@@.  I don’t really do anything anymore because I can’t @@@.
+
+DOCTOR M243	
+Oh, Okay.  Is one worse than the other, or are they both about the same?
+
+PATIENT M243	
+Um periodically @@@ pain just up.  I want to really find out what really causing problems and I am thinking about the @@@ and asking about the things @@@.  I just would like to see where it is.  
+
+DOCTOR M243 	
+Well, okay.  Tell me about the pain first? Where does it hurt? When do you get pain?  
+
+PATIENT M243	
+Okay, normally it is up in here and around here.
+
+DOCTOR M243 	
+Okay.
+
+PATIENT M243	
+If I do a lot of squatting it is here.  Sometimes my knees pops and creeks.  There are a lot of things I can't do.  Like @@@. I have gained some weight.  I gained weight.
+
+DOCTOR M243 	
+You are a pretty skinny guy.
+
+PATIENT M243	
+If I get to 185 to 190, I mean it is a big difference to me. @@@.
+
+DOCTOR M243 	
+Okay.  Are you taking anything for it?  Over-the-counter or anything like that?  
+
+PATIENT M243	
+No, I am not a big prescription type person, if I don't know what the side effects are?
+
+DOCTOR M243 	
+Okay.
+
+PATIENT M243	
+I don't want to take be taking anything @@@ doing what I’m not supposed to be doing. I would like to find out and see what is wrong?
+
+DOCTOR M243 	
+Are you still able?  Are you playing basketball?
+
+PATIENT M243	
+I mean my mobility, my jumps. I don’t know if it’s because I am getting older, but this is @@@.
+
+DOCTOR M243 	
+You’re still able to do it but it’s not quite at the level you are used to?
+
+PATIENT M243	
+I don't like playing anymore.
+
+DOCTOR M243 	
+Because it hurts?
+
+PATIENT M243	
+Not only does it hurt, but it hurts my feelings.
+
+DOCTOR M243 	
+(Laughs.)
+
+PATIENT M243	
+It hurts my feeling, seeing somebody who can do something @@@ that’s not right.
+
+DOCTOR M243 	
+Well I think we can take x-rays today. 
+
+PATIENT M243	
+That's okay.
+
+DOCTOR M243 	
+And I am going to examine you and see how @@@. My guess is it could be some arthritis.  From playing ball for years and now you are 38 or whatever.  You are getting to the point where the pounding over all those years and the cartilage the stuff that helps kind of cushion the blow starts to wear away and that is when you start having pain.  Um, figuring out what it is.  If that’s definitely what is if it is one thing, which is nice.  The problem there is no great cure for arthritis.  What we try to do is we give you medicines, like anti inflammatory medicines to kind deal with the pain and decrease the inflammation which is part of the problem.  Then trying to strengthen the muscles around it.  I mean, you’re an active guy, you participate in sports for a long time which definitely helps.  But, we can strengthen both the quads, the calves, the hamstrings so that it supports the bones very well which helps kind of decrease some of the inflammation and helps keep things more stable.
+
+PATIENT M243	
+Okay.  Yeah. It is just new to me now.  
+
+DOCTOR M243	
+(Laughs.)
+
+PATIENT M243	
+I know I am stiff now, but I am saying that @@@.  I never felt my hamstring before.  @@@.  I do a lot of home improvement type activities now.  @@@.  I never felt it before, but now I know that @@@.
+
+DOCTOR M243 	
+You are lucky.  I pulled my hamstring in high school and I swear like it almost never healed, like I still there is something. @@@.
+
+PATIENT M243	
+@@@.  I never had a hamstring issue or anything.  I know I have hamstrings now.  You know?
+
+DOCTOR M243 	
+Yeah. (Laughs.)
+
+PATIENT M243	
+I would just like to get this thing where I can figure out what is truly wrong with it.  I feel like, like I said, I have been suffering for a long time now.
+
+DOCTOR M243 	
+What we will do, we will take pictures today to try to confirm what I think it is.  I think it’s the beginning of arthritis.  What I think we should do is start you on some anti inflammatory medications, which is just like ibuprofen.  Stuff you can buy over-the-counter but you can get it here probably cheaper than you can buy over-the-counter so you might as well do it through the VA since you got that.  What we will probably do is may be start it every day, about once or twice a day for a couple of weeks and then I would WWW, whether you are trying good or not to try to decrease some of the inflammation, then after that just start using it when you need it.
+
+PATIENT M243	
+What is making the popping and everything?
+
+DOCTOR M243 	
+The popping is, it depends, it can be a combination of there could be some damage in there and it is a little unstable.  But, also it is not abnormal to have popping as we age and the stuff wears down there is more like air that is able to get in.  It is actually the air coming out of your blood and into the joint that actually causes the popping. Like if I crack my knuckles, that’s what you are hearing.  It is actually not a sign of how bad the knee is necessarily. Not necessarily anything to worry about.
+
+PATIENT M243	
+And then creaking @@@ because a lot of the time I hear @@@ creaking.
+
+DOCTOR M243 	
+Why don't you hop up here and let me take a look at it.  It is not necessarily a sign that it is better or worse.  That can happen and it doesn’t necessarily mean anything just as long as things are stable.  You ever feel like your knees are giving out on you or anything?
+
+PATIENT M243	
+Oh, I felt like @@@ like I said @@@ they gave me a disability rating.
+
+DOCTOR M243	
+What did you do? In the service?
+
+PATIENT M243	
+@@@ a lot of running in steel-toed boots, five miles, six miles. It was constant Someone in the military told me I had Osgood-Schlatter.
+
+DOCTOR M243
+Oh, that’s right.
+
+KNOCK ON DOOR, DOCTOR ANSWERS DOOR 0958 - 1001.
+
+PATIENT M243	
+They told me that I would outgrow that.
+
+DOCTOR M243 	
+You still have pain from that?
+
+PATIENT M243
+@@@ I always have pain.  Basically what it is, is I just tough it out.  Because I be pissed off @@@.  
+
+DOCTOR M243
+Osgood-Schlatter  is usually by the time I was 20 years old, it’s usually not a problem any more. 
+
+PATIENT M243
+They gave me a disability rating when I got out.  I am just, thinking to the point now where I don't want to go like this forever.  What happened was, when I got out, to a lot of guys frightened me. Operating on you, practicing on you, initially about 15 operations until they got it right. ‘Cuz I got a lot of friends who told me…
+
+DOCTOR M243 	
+You are nowhere near needing an operation I don’t think. We don’t want you even to think about that.  Although, I know, on the same topic,  but I don’t, I don't think that’s true, I think  a lot of people, at least at this VA, that’s all I can speak to, that do a really good job. Nobody’s, we’ve got enough patients to deal with, we don’t need extras to practice on, believe me. 
+
+PATIENT M243	
+That’s always been in my mind.
+
+DOCTOR M243	
+I hear you.
+
+PATIENT M243	
+I always thought about that. He told me about this operation that didn’t work and I don’t want no part of that.
+
+DOCTOR M243 	
+Well, I don’t want no part of sending you to surgery, so don't worry about that.  But, 30 years from now if you needed surgery it is not a bad place to come get it.  We'll worry about that then.  @@@ right there. On the underside, is you pain down here?
+
+PATIENT M243	
+In the, around up in this area.
+
+DOCTOR M243 	
+And that is kind of the same area you get the pain now?
+
+PATIENT M243	
+I get the pain actually all in here.
+
+DOCTOR M243 	
+Does it hurt in there when I push?
+
+PATIENT M243	
+It’s sore in there now.
+
+DOCTOR M243 	
+In this area.
+
+PATIENT M243	
+And it is always sore around this area and like I said in and down.  Squatting over, doing something, cutting dry wall or cutting wood or anything I might be okay for ten minutes and next thing I know there is pain just starts.
+
+DOCTOR M243  	
+@@@ stable is it? @@@ ACL was torn I could slide @@@ I’m just talking to him.
+
+PATIENT M243	
+I understand. ‘Cuz I see them on TV.
+
+DOCTOR M243 	
+Exactly, that’s how they tell, sometimes if you look you’ll see them, the knee pain, you’ll see the guys, the trainers on the field, and they are pushing like this and that’s what they’re looking for.  He does have a little tenderness here which is his  @@@ joint, it could be, the meniscus which you hear about sometimes because which is the bones, this bone and this bone kind of go like this on top of each other and there’s a flat part that kind of meet and usually there’s the cartilage and stuff between and that can be worn away a little bit.  But the other thing is the meniscus is like a plate that’s on top of that that kind of helps with the movement and everything.  And those can get torn frayed, whatever, different things. And sometimes you get, when yet get pain in here, that can be from that.  Sometimes you can do surgery on that if we have to.  I don't think it sounds like you are at the point where you would want to do that now.  They never swell up or anything?
+
+PATIENT M243	
+It swells.  But like I said it has been something, personally,  I just consider myself a tough person.  It has just gotten to the point where now I feel like I shouldn’t be.
+
+DOCTOR M243 	
+Okay. You’re not able to play ball anymore.
+
+PATIENT M243	
+The problem. It takes the enjoyment out. I got kids I like to play and it hurts my feelings to be what I consider a bum.
+
+DOCTOR M243 	
+No pain in your back, shooting down your legs.
+
+PATIENT M243	
+I have a little.  I got pain in this hip now and this hip popping.  
+
+DOCTOR M243 	
+Okay.  Does your hip hurt right in here?
+
+PATIENT M243	
+Yeah, when it pops, like my knee popping it don’t hurt. But when this pops, it hurts.  
+
+DOCTOR M243 	
+Do you get pain in like over going down here to your groin area.
+
+PATIENT M243	
+@@@.  My mother told me but to be honest with you I feel like @@@.  I pulled something in this arm about four or five months ago and I’m just still sore. My garage door came off track.  @@@ pullin @@@ and it’s been months and months ago since I pulled that.  Sometimes I get back spasms. When I get a back spasm I’m so terrified of moving or doing anything because once the spasms hit, it’s just irritating.
+
+DOCTOR M243  
+I mean.  A lot of this.  It is not because of the knees.  These things seem to happen and are more common as we get older.  You know.  @@@.  You are going to start having some of these things.  Some of them we will be able to do something about to make it a little bit better.  I don't know that you are going to feel like you did when you were 24, you know?  But we will try to see what we can do to get you close.
+
+PATIENT M243	
+What could it possibly be @@@?
+
+DOCTOR M243	
+So the hips.  Does it hurt, is this where it is from?
+
+PATIENT M243	
+It’s around up in this area here.
+
+DOCTOR M243 	
+When I push here?
+
+PATIENT M243	
+That’s a little tender.
+
+DOCTOR M243 	
+That is the spot.
+
+PATIENT M243	
+Not really, more @@@.
+
+DOCTOR M243 	
+Yeah okay.  You do get pains shooting towards the groin.  When I push in here does that cause that pain?
+
+PATIENT M243	
+No that is not.  It is mild right now.
+
+DOCTOR M243	
+Lie down again for a second. I just want to check.  Does it hurt when I do that?  @@@.  Does that hurt a little bit?
+
+PATIENT M243	
+No.
+
+DOCTOR M243 	
+So actually, it’s a little bit limited @@@.  Does that cause pain around here?  There are a couple of things.  The first thing is there are a lot of muscles attached to the bone is real big up here and the muscle attach up here and the muscles sliding against each other.  There is nothing in between to help like cushion the blow to help kind of lubricate it, so they slide easily they would always be getting stuck, they’d be rubbing against bone and it will eventually tear.  So there are these things inbetween called bursas, which are little are a little forward and go back. @@@. There is a big bursa right there, that’s a common place, especially if you are having knee pain and maybe not walking totally normally to compensate, people start getting inflamed bursas in here.  That was the first thing I was thinking, but you’re not that tender in here.  The pain that goes to the groin is sometimes from inside the hip.  May be we will take a picture of your hip too since we’re going to be doing your knees anyway.  All right?   I think we will start with an anti-inflammatory medicine.  I am thinking this one called naproxen, Naprosyn. 	
+
+PATIENT M243	
+I took it.
+
+DOCTOR M243
+Did it help when you took it?
+
+PATIENT M243	
+To be honest with you I took it for a while but like I said at the time @@@ stopped medicine, but I got to a point now.
+
+DOCTOR M243 	
+Well my thought is let's do it for two or three weeks.  One in the morning, and one @@@ no matter what and then we will see how you are doing at the end of that.
+
+PATIENT M243	
+What did you decide @@@?
+
+DOCTOR M243 	
+Taking it long-term, it is an anti-inflammatory medicine.  It’s similar to like ibuprofen, Advil, Motrin. Those things.  Long-term it can cause problems with your stomach.  If you take a lot for a long time.  We are not going to do a high dose it won’t be for a long time for now.  I am not really too worried about that.  It can affect your kidneys if you take many of though.  So if you have a bad day, don’t go and take twelve of them because that’s when people get kidney problems.  As long as you take them like you are supposed to there is no harm to your kidneys.
+
+PATIENT M243	
+Kidney disease runs in my family, kidney failure.
+
+DOCTOR M243 	
+Something we want to watch out for.  By themselves they are not really a concern. As long as you are taking them as you’re supposed to, once or twice a day we should have no problem. That’s way under the dose @@@.  Otherwise no problems?
+
+PATIENT M243	
+No.
+
+DOCTOR M243 	
+Your blood pressure is a little borderline.  No one has ever told you that you have high blood pressure or anything?  Right?
+
+PATIENT M243	
+No.  
+
+DOCTOR M243  
+All right.  Nothing for us to do about it today but we will measure it the next time and if it is high again we have to start thinking about may be putting you on a low-dose blood pressure medicine.  The first time it is kind of borderline anyway and I don't think there is anything to do.  Just something that you need to know about.  Then, just some questions, the nurses asked you these and you screened positive.  Did you ever have any thoughts about taking your life or committing suicide?
+
+PATIENT M243	
+It has been a while but not recently.
+
+DOCTOR M243 	
+When was it that you had these thoughts?  
+
+PATIENT M243	
+May be a year ago or so.
+
+DOCTOR M243 	
+Did you have a plan at that time?  A way you would have done it?
+
+PATIENT M243	
+I always have a plan of doing things.
+
+DOCTOR M243 	
+What was your plan?
+
+PATIENT M243	
+To be truthful I would jump in front of a train. But I think that hurts too much.
+
+DOCTOR M243 	
+Yeah.  That is even worse if it doesn’t kill you.
+
+PATIENT M243	
+That is my point, it would be just my luck that it wouldn’t kill me.
+
+DOCTOR M243 	
+Have you ever attempted suicide?
+
+PATIENT M243	
+No.
+
+DOCTOR M243 	
+So right now you feel that this is not something that you are worried about?
+
+PATIENT M243	
+Sometimes I feel depressed, something is just not right.
+
+DOCTOR M243 	
+What makes you say that?  
+
+PATIENT M243	
+My whole demeanor.  Everything about me.  Something is off.  I noticed that and I actually read something about depression recently.
+
+DOCTOR M243	
+Okay.
+
+PATIENT M243	
+Kind of like a shocking me.
+
+DOCTOR M243	
+Okay.  Um what were you reading?  You tell me.  What are the symptoms that you have read that you feel like @@@?
+
+PATIENT M243	
+I don't have a lot of energy.  I'm still agitated a lot.  It doesn't take a whole lot to get me upset.  You know.  A lot of times I try not to reveal a lot. @@@ the Hell out of me.
+
+DOCTOR M243 	
+How about, you feel you don't enjoy the things in life that you used to enjoy?
+
+PATIENT M243	
+No I don't enjoy much.  Right now my life is not at that point where I want it to be.  So, it is what it is.
+
+DOCTOR M243 	
+Do you have trouble sleeping at night?
+
+PATIENT M243	
+Sometimes.
+
+DOCTOR M243	
+How about eating?  Is your appetite the same?  Less?  Eating more?
+
+PATIENT M243	
+Like I said I try to monitor my calories, like I said when I gained weight and then my knees starting hurting more.  I realized @@@ that I can gain weight.  I realized the bigger I get the more pain I’m in so I try to monitor that myself.
+
+DOCTOR M243 	
+Um.  I agree it does sound like maybe you are having some issues with depression.  Other than the pain and that affecting your life, are there other things at home that are affecting you?
+
+PATIENT M243	
+No. @@@ I take care of properties. I got an apartment.  @@@.  I got to get my situation right, that’s all.
+
+DOCTOR M243 	
+Anything that the VA can help you with?  Anything we can do?
+
+PATIENT M243	
+They told me, I wanted to go back to school, so I supposed to be going to school @@@. Like I said, also, they gave me a disability rating.  I have never been paid or anything.  I went back down and they told me I had to start going back to the doctor and really I would like to find out what is wrong with y leg, like I said @@@.
+
+DOCTOR M243 	
+We will do that.  That part I can try to help you with. I can try to figure this out and try to find a way to make it better @@@, make you feel a little bit better and not being in that much pain. As for this stuff, we already talked about you don't want to take any medicines.  So I don’t want to say, “Oh, you’re depressed, take this.”
+
+PATIENT M243	
+I don't really want to take medicines.
+
+DOCTOR M243 	
+I don't necessarily go that route.  It is something we can do if you want to at some point now or at some point.
+
+PATIENT M243	
+When you say medicines.  I am truthfully worried about the side effects.
+
+DOCTOR M243	
+Yeah.  Antidepressant medicine although some of them can be very helpful, definitely have side effects.  Some of them will cause weight gain, some can cause sexual dysfunction.  There are not many serious side effects from some of the newer ones that are.  They are pretty good.  But there are some of them that can definitely affect your life and you know makes it difficult.
+
+PATIENT M243	
+Yeah, I got these friends and they got medicine and the just zombified @@@.
+
+DOCTOR M243 	
+I certainly don't want to put you on anything to sedate you or anything like that.
+
+PATIENT M243	
+@@@.
+
+DOCTOR M243 	
+No, no, now.  I think if you were to try an antidepressant medications we would try something that wasn’t.
+
+PATIENT M243	
+@@@ like I said I want to be me personally @@@. I mean I don’t mind doing something.  But I would like to find out personally what this is actually doing.  I don't feel like I am zombified.
+
+DOCTOR M243 	
+Absolutely.
+
+PATIENT M243	
+That is what I am really terrified of @@@.
+
+DOCTOR M243 	
+What we do is, if we want to start this, is that we start out with one of the newest ones, it is called SSRI.  Prozac is one of the early ones.  And there’s some newer ones, too. We will try one of those.
+
+PATIENT M243	
+@@@.
+
+DOCTOR M243 	
+We will start with a really low dose and you can try that for a while and see how you are feeling?  If you are not having any side effects we can then go up slowly as you get used to it.
+
+PATIENT M243	
+I got a question.  
+
+DOCTOR M243 	
+Yeah.
+
+PATIENT M243	
+How will I know?
+
+DOCTOR M243 	
+How will you know if you are feeling better?
+
+PATIENT M243	
+You know as far as…
+
+DOCTOR M243 	
+You know I can't answer that for you.  I don't know for sure.  I know that, my patients have had it. I have seen somebody from personal experience.  Like my Mom has one of them that worked for her.  She has some depression for most of her life, for 40 years and finally found one that seemed to work for her and she is like a new person.  So it just depends.  It obviously doesn’t fix any of the other issues that are going on at home. I mean some of these definitely stem from the fact that you’re having pain now. @@@ things aren’t financially where you want them to be. It obviously doesn’t fix that, but it can help.  It is something you can always try.  If you feel like it is having side effects, making you feel a way you don’t want to feel, you can stop it. It’s not a big deal.
+
+PATIENT M243	
+Okay.
+
+DOCTOR M243 	
+So is that something you wanted to try now.
+
+PATIENT M243	
+Yeah, I am willing.
+
+DOCTOR M243 	
+All right!  We will do it.  We will give it a shot. Let me finish @@@  We will work on that.  Also I guess the nurse was asking about a @@@ of stress? Some issues you’re having with that.  Is this about the experiences you had in the war?  There were some questions related to that. How difficult have problems with post-traumatic stress made it for you to take care of things at home more and things like that? It is very difficult, somewhat difficult, not difficult.
+
+PATIENT M243	
+To be honest with you.  I wasn't in the war zone.
+
+DOCTOR M243 	
+Okay.
+
+PATIENT M243	
+But like I said.  I don’t know what the hell is going on with me. Like I said my mother said @@@ always getting personally @@@ mentioning I need to go get checked @@@ needed to come down here @@@. I’m afraid something’s wrong.
+
+DOCTOR M243 	
+So, okay and that is normal.  That is normal @@@.
+
+PATIENT M243	
+@@@.
+
+DOCTOR M243 	
+The other thing we should do today is check a blood test today and check your cholesterol okay?
+
+PATIENT M243	
+Do this now?
+
+DOCTOR M243 	
+We are getting all this going.
+
+PATIENT M243	
+@@@ not a problem.
+
+DOCTOR M243 	
+Oh yeah.
+
+PATIENT M243	
+@@@.
+
+DOCTOR M243 	
+All right.  So @@@. We will start on fluoxetine, the anti-depressant. I’m blanking on it’s trade name is. @@@.  Um we will start with the lowest dose, which is one pill a day. And we will start that for a while and see how it makes you feel. If you don’t have any side effects and you don’t feel anything, it usually takes 4-6 weeks before you expect to feel any difference.  It kind of builds up in your body.  At that point we will plan on having you back and see how you are feeling.  If you don't feel anything and not any side effects, then we will try a higher dose and then see what happens.  If at that point you still don't feel anything we will either try another medicine.
+
+PATIENT M243	
+No.  I really supposed to @@@ because I really want to be able to tell if that.
+
+DOCTOR M243  
+I know, you know I can’t specifically say that this is going to happen and you know you are going to know it’s working.  In about six weeks you start, if it’s effective, you should feel a little bit different.  What it does is it changes some of the hormones in your body.  There are things that go to your brain.  Like the happy center of your brain is kind of the way to describe it.  @@@ and it alters those things.  Because we think that a lot of depression is related to the peoples’ bodies don’t make @@@ the way that they’re supposed to and that can be part of the depression.  So, ideally you will start feeling different. You start to feel happy, you will start enjoying the things that you enjoy all the time, but you know it is different in everybody.  So, that is why we will check and see.  If you are having side effects on it.  If you have any problems you can stop it, that is okay.  It does not interact with the medicine for pain, so that is not a problem.  So if there is anything about it that makes you uncomfortable you can stop it and you can come back in and the next time we’ll go from there. You want to pick it up at the pharmacy today?
+
+PATIENT M243	
+That’s fine. You said one pill a day.
+
+DOCTOR M243 	
+One pill a day.  @@@.  The other medicine is naproxen a low-dose 1 in the morning and 1 at night for a couple of weeks.  Then I would like to see you back. @@@.
+
+PATIENT M243	
+@@@.
+
+DOCTOR OUT  3132   DOCTOR IN 
+ 
+DOCTOR M243	
+@@@ Okay.  So you know where everything is?
+
+PATIENT M243	
+No. I know where Pharmacy is.
+
+DOCTOR M243 	
+Okay, Pharmacy is over there.  Trying to think of what the best order is. @@@ I don't know if you take a number and then go @@@. Have you come back in six weeks.  The Pharmacy is over there.  The Lab and Radiology are kind of right next to each other. @@@ Right across the hall.  @@@ waiting room there.  Give them your last four and they will give you a number and they will @@@ you.  Right next to it is the hallway and then you sign up with Radiology.  @@@.  @@@ say my doctor wanted me to get an x-ray. @@@
+
+PATIENT M243	
+Probably best to go to the Lab?
+
+DOCTOR M243 	
+I don't know what the best order is.  You can try to get the number for the Pharmacy and then get a number for Radiology. I don't know how that works.  I am not sure.  I don't know exactly the best way to do it.  @@@.  The Lab closes at 4:30.  So you want to make sure you get to them first.  The Pharmacy doesn't close until 6:00.  Then just stop at the desk up from and they will make you an appointment and I will see you @@@ and see how things are going.  Good luck.  @@@.
+
+
+Times is 335.
+
+
+DD @@/@@/@@
+DT @@/@@/@@  
+INFOPRO/740018/JOB#  1255144
+TRANSACTION # 578-10-2-316-0103

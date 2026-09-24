@@ -1,0 +1,1215 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@@ 
+
+DOCTOR O716
+PATIENT?
+
+PATIENT O716
+Yes.
+
+DOCTOR O716
+How you doing?
+
+PATIENT O716
+Alrighty.
+
+DOCTOR O716
+@@@.
+
+PATIENT O716
+Yep @@@.
+
+DOCTOR O716
+What's new?
+
+PATIENT O716
+Nothing much.
+
+DOCTOR O716
+You have to remember I use the best uh recording in all my patients they love it.
+
+PATIENT O716
+Oh.
+
+DOCTOR O716
+You had more records than I did.  I love it; you're kind of uh, oh look at this.
+
+PATIENT O716
+Look at this. Latest, three months of blood pressure @@@.
+
+DOCTOR O716
+Holy moly. That's great. And here are your glucoses, oh wow, they look good, 120s, 114 over 71, 113, 115.  Well your blood pressures are doing, pretty much our goal is less than 130.
+
+PATIENT O716
+Well the last times have had a couple of spikes.
+
+DOCTOR O716
+Uh, yeah what happens with blood pressure is that throughout the day.
+
+PATIENT O716
+Uh-huh.
+
+DOCTOR O716
+It's kind of more like this than anything else so, what's really important for us is to sort of a trend for these
+
+PATIENT O716
+Uh-huh.
+
+DOCTOR O716
+So I'm uh happy with your blood pressure.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+And so let's just say I checked it today and I saw a 135/80 randomly today um.  If you didn't have this log, I'd have to say ah man I wonder what.
+
+PATIENT O716
+Well, I think today it was.
+
+DOCTOR O716
+Right, yeah, so with this log I know that you know as the day changes with different levels of stress.
+
+PATIENT O716
+Uh-huh.
+
+DOCTOR O716
+And different levels of caffeine or you know how excited you are, your blood pressure kind of goes like this but what matters, over the long haul, is sort of the trend.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+And your trend is good.  Same with your sugars.  Um now you're taking, let's pull up your.
+
+PATIENT O716
+Yeah I have to work on the medication because we just have a part of them filled.  You were going to look at it last time and.
+
+DOCTOR O716
+@@@ filled, oh in terms of which ones were @@@.
+
+PATIENT O716
+Yeah you were going to make a decision as to what I should take and obviously may not have had a chance to do that.
+
+DOCTOR O716
+Yeah.  Well, you mean um in terms of what we could get you or maybe?
+
+PATIENT O716
+Yeah, yeah.  Cause I was on more medication before I come here and you said we could.
+
+DOCTOR O716
+What were you on when you came here?  I have here that you were on glyburide, you're taking 5 mg daily.
+
+PATIENT O716
+Correct.
+
+DOCTOR O716
+Right now.  Yeah your hemoglobin A1c last time was incredible.
+
+PATIENT O716
+How can I get copies of the reports?  Cause I'd like.
+
+DOCTOR O716
+That's why I can print one.
+
+PATIENT O716
+Alright can I and what I got tested for.  Cause you had mentioned once maybe.
+
+DOCTOR O716
+And did you get a stress test?
+
+PATIENT O716
+Yeah.
+
+DOCTOR O716
+I wonder why I didn't see the results of that.
+
+PATIENT O716
+I was supposed to, you said you might give me an HIV and uh, I forgot what the other one was and I had no idea what tests I really had.
+
+DOCTOR O716
+In May.  Good, no evidence of ischemia, so that's good.  I'm trying to remember why we.  Were you having any complaints?
+
+PATIENT O716
+Well I had an upper chest infection or something.
+
+DOCTOR O716
+Yeah.
+
+PATIENT O716
+And some pounding of the chest.  These were the medications I was on.
+
+DOCTOR O716
+Oh, historically.
+
+PATIENT O716
+Yeah.  You changed the.
+
+DOCTOR O716
+Glyburide, no yeah you were only on one medication for diabetes.
+
+PATIENT O716
+Right, right.
+
+DOCTOR O716
+Yeah but.
+
+PATIENT O716
+But I was on Flomax and finasteride.
+
+DOCTOR O716
+Oh.
+
+PATIENT O716
+And then I was also on this for high blood pressure and you said you were going to review that and uh see.
+
+DOCTOR O716
+Okay, which ones are you taking, the lisinopril one?
+
+PATIENT O716
+Well you changed yeah, no uh metoprolol.  You changed that.
+
+DOCTOR O716
+Okay.
+
+PATIENT O716
+The last visit.
+
+DOCTOR O716
+Let me see what I've got again diabetes.
+
+PATIENT O716
+You did have a half and a half.
+
+DOCTOR O716
+Let's see what I put here um.  Switched from metoprolol to lisinopril @@@.  I think we just thought your regimen was kind of bizarre.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+And the reason why we changed that was because typically if people have any sort of, if they have diabetes or if they have any sort of heart problems, uh metoprolol is sort of a really good drug for cardio protection.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+The thiazem is a is kind of a weird choice and the last time you a bad reaction to metoprolol.  So the reason why we changed it wasn't because of uh.
+
+PATIENT O716
+Right cause the other one I was on, does that mean I don't need to take that any longer?
+
+DOCTOR O716
+The verapamil?
+
+PATIENT O716
+Yeah.
+
+DOCTOR O716
+Yeah no.  Uh, we had stopped your, uh wait a minute.  We had stopped your.  You were historically on diltiazem.  Both of those were sort of calcium channel blockers um, so I think at this point you're taking, you're on lisinopril, verapamil @@@.
+
+PATIENT O716
+@@@ that I asked the doctor if he couldn't get something more in the line of @@@.
+
+DOCTOR O716
+You have verapamil but weren't you on diltiazem?
+
+PATIENT O716
+No.
+
+DOCTOR O716
+What I have on the list @@@ diltiazem.
+
+PATIENT O716
+No.
+
+DOCTOR O716
+No.
+
+PATIENT O716
+@@@ and this one.
+
+DOCTOR O716
+Well I don't know why I have your, instead of diltiazem.
+
+PATIENT O716
+Well I don't know.
+
+DOCTOR O716
+No.  Maybe.
+
+PATIENT O716
+Unless it was under a different name but I don't recognize that.
+
+DOCTOR O716
+Okay, so you're no longer taking that though.
+
+PATIENT O716
+No.
+
+DOCTOR O716
+Okay good.  Yeah I looked at it.
+
+PATIENT O716
+Instead am I taking.
+
+DOCTOR O716
+Based upon your.
+
+PATIENT O716
+Or am I taking this cause I ran out of that uh.
+
+DOCTOR O716
+The lisinopril?
+
+PATIENT O716
+Yeah.
+
+DOCTOR O716
+Yeah we'll continue the lisinopril.
+
+PATIENT O716
+Alright.
+
+DOCTOR O716
+10 mg daily.  It's good for your heart.
+
+PATIENT O716
+@@@.  Get off of this.
+
+DOCTOR O716
+No.
+
+PATIENT O716
+Just a prescription.
+
+DOCTOR O716
+Oh for a prescription okay.
+
+PATIENT O716
+Cause I @@@.
+
+DOCTOR O716
+Okay.
+
+PATIENT O716
+And then there's a couple that are 30 day ones.
+
+DOCTOR O716
+Let's renew, expires, expires, all of these expire in 2011.  Let me see here.
+
+PATIENT O716
+Well I've got two that are 30 days and that's a pain in the butt.
+
+DOCTOR O716
+Let's do this, let's do um, I think what you mean is and let's do 120.  You mean it's a pain in the butt because you.
+
+PATIENT O716
+Well every 30 days uh you know.
+
+DOCTOR O716
+Oh yeah.
+
+PATIENT O716
+I get it cause it takes a week and a half to get so by the time I get it I won't have to reorder.
+
+DOCTOR O716
+I'll change the dose; I mean I'll change the quantity.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+Let's see @@@.
+
+PATIENT O716
+And then yeah and then there are two of them that are 30 day supplies.
+
+DOCTOR O716
+The statin one?
+
+PATIENT O716
+Yeah.
+
+DOCTOR O716
+The statin one you have plenty of those.  Let's see about the glyburide, we can renew them.
+
+PATIENT O716
+Glyburide is a 30 day supply, or 90 day supply.
+
+DOCTOR O716
+And let me put in for the lisinopril.  You're taking 10 right?  Lisinopril here we go 10 milligrams daily.  We'll give you @@@.  Do you want them mailed to you or do you want to pick them up at the window?
+
+PATIENT O716
+Well if I could pick this one up at the window then I can renew is on the website.
+
+DOCTOR O716
+Website.
+
+PATIENT O716
+The website yeah.
+
+DOCTOR O716
+That's kind of convenient huh.
+
+PATIENT O716
+Yeah.
+
+DOCTOR O716
+Okay so that's the medications, let me go back to this list right here to make sure I.  Hemoglobin A1c what it was, let's see let's look at.  You've had two stress tests?
+
+PATIENT O716
+One here.
+
+DOCTOR O716
+I mean in addition to the one here.
+
+PATIENT O716
+Right, sure.
+
+DOCTOR O716
+It looks like you had @@@.
+
+PATIENT O716
+Right, right.
+
+DOCTOR O716
+What symptoms were you having for those?
+
+PATIENT O716
+The first one they read an EKG, the doctor said the computer read the EKG.
+
+DOCTOR O716
+Okay.
+
+PATIENT O716
+And indicated I had a heart attack.
+
+DOCTOR O716
+Okay.
+
+PATIENT O716
+And it says that was totally incorrect but now that I had something that said I had a heart attack, he had to prove it's wrong.
+
+DOCTOR O716
+Okay.
+
+PATIENT O716
+And then the last one my insurance was expiring so he.
+
+DOCTOR O716
+Oh.
+
+PATIENT O716
+It's just a precaution.
+
+DOCTOR O716
+And currently you're doing well, you have no complaints?
+
+PATIENT O716
+Well, I walk about three miles a day.
+
+DOCTOR O716
+Oh wow.
+
+PATIENT O716
+You know weather permitting.
+
+DOCTOR O716
+And no chest pain?
+
+PATIENT O716
+Nope.
+
+DOCTOR O716
+No shortness of breath.
+
+PATIENT O716
+Nope.
+
+DOCTOR O716
+And how are your bowel movements?
+
+PATIENT O716
+They're one a day.
+
+DOCTOR O716
+No black tarry stool?
+
+PATIENT O716
+Nope.
+
+DOCTOR O716
+And no black tarry, I'm sorry no blood in the stool?
+
+PATIENT O716
+No.
+
+DOCTOR O716
+And in terms of your urination, no problems with urination?
+
+PATIENT O716
+Nope.
+
+DOCTOR O716
+Are you urinating more, having to wake up at nighttime?
+
+PATIENT O716
+Well I'm still; I still had a prescription open from my doctor on the finasteride.
+
+DOCTOR O716
+Okay.
+
+PATIENT O716
+So I'm still taking that.
+
+DOCTOR O716
+And no problems when you're taking that?
+
+PATIENT O716
+No.
+
+DOCTOR O716
+No fevers or chills right?
+
+PATIENT O716
+No.
+
+DOCTOR O716
+No nausea or vomiting.
+
+PATIENT O716
+Nope.
+
+DOCTOR O716
+And then no recent weight loss?
+
+PATIENT O716
+I've been losing weight because I want to lose weight.
+
+DOCTOR O716
+Okay so you're trying, you're exercising more.
+
+PATIENT O716
+Eating less, exercising more yeah.
+
+DOCTOR O716
+How much have you lost?
+
+PATIENT O716
+Uh probably about 17 pounds.
+
+DOCTOR O716
+Oh excellent.
+
+PATIENT O716
+It's been a long struggle but it's getting down there.
+
+DOCTOR O716
+That's great.
+
+PATIENT O716
+Well I felt myself gaining weight again and I knew that's not good for diabetes and everything else in the body so.
+
+DOCTOR O716
+Now remind me about your colonoscopy.  Did you have, when was the last time you had a colonoscopy?
+
+PATIENT O716
+I had one when I was 59 and.
+
+DOCTOR O716
+I think somewhere, I may have it written down in my.
+
+PATIENT O716
+Here's a copy of the results.
+
+DOCTOR O716
+Of the colonoscopy.
+
+PATIENT O716
+Yes.  
+
+DOCTOR O716
+And remind me are you retired?
+
+PATIENT O716
+No unemployed.
+
+DOCTOR O716
+And what did you used to do?
+
+PATIENT O716
+I was a project manager, running projects uh for @@@ and then I moved on to another company but uh.
+
+DOCTOR O716
+Are you still trying, are you trying to find work right now?
+
+PATIENT O716
+Well certainly.
+
+DOCTOR O716
+Okay.  Okay I got that done.
+
+PATIENT O716
+In fact they had a job fair here last week, I came in.
+
+DOCTOR O716
+Did they really?
+
+PATIENT O716
+Yeah, so that was sort of a farce.
+
+DOCTOR O716
+And you're no longer drinking?
+
+PATIENT O716
+Nope, oh occasionally yeah maybe once a month or something like that.
+
+DOCTOR O716
+And you're no longer smoking?
+
+PATIENT O716
+Never.
+
+DOCTOR 0716
+But you did smoke.
+
+PATIENT 0716
+yes.
+
+DOCTOR O716
+How years have you smoked for?
+
+PATIENT O716
+I think I quit in the mid 70s, I probably started when I was about 16, 17, so @@@.
+
+DOCTOR O716
+We may repeat a urine.  In February.
+
+PATIENT O716
+February or March.
+
+DOCTOR O716
+Okay if you just had one then we'll see.  Um, they found some trace blood.  I just want to make sure there's no.
+
+PATIENT O716
+I had that before and I went through all kinds of tests and they didn't find anything.
+
+DOCTOR O716
+You did a cystoscopy?  Did they put a camera up your penis?
+
+PATIENT O716
+Yes.
+
+DOCTOR O716
+Oh they did.
+
+PATIENT O716
+Oh yeah that was fun.
+
+DOCTOR O716
+When was that?
+
+PATIENT O716
+I don’t know, I could back track, um I'm guessing maybe five, eight years ago.
+
+DOCTOR O716
+Alright.
+
+PATIENT O716
+And then I had a series of tests uh.  I had a CAT scan associated with that as well as a uh another test, I can't remember what it was.
+
+DOCTOR O716
+Yeah your HIV was negative.  Vitamin B12 was all normal and your blood was.  Yeah you have two UAs with blood.  Let's repeat one.  Well you have the results, when was the cystoscopy?  Do you remember when that was?
+
+PATIENT O716
+Uh no I think I listed it, let me see.  I'll have to check that for the next time.
+
+DOCTOR O716
+Okay.  Do you remember approximately when it was like a year ago, two years ago?
+
+PATIENT O716
+No it was probably five to eight years ago.
+
+DOCTOR O716
+I'm going to repeat a UA today okay.
+
+PATIENT O716
+What's that?
+
+DOCTOR O716
+Just urine and some blood tests.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+We'll do a pee in cup.  Okay, let's have you come over there and @@@ 166/80 we’ll check it.
+
+PATIENT O716
+Yeah.
+
+DOCTOR O716
+You go to the nurse check, that's okay.
+
+PATIENT O716
+Yep.
+
+DOCTOR O716
+The nurse check was higher um.  Have you been following all this madness with the basketball stuff, all these people speculating about Lebron James?
+
+PATIENT O716
+No.
+
+DOCTOR O716
+No.
+
+PATIENT O716
+I'm not.
+
+DOCTOR O716
+Chicago's going, they're all going crazy.
+
+PATIENT O716
+@@@.
+
+DOCTOR O716
+He's a famous basketball player, who everybody, everybody and their cousin wants to sign of course Chicago is in a frenzy on all the shows.
+
+PATIENT O716
+@@@.
+
+DOCTOR O716
+Get Michael Jordan back here but I don't know and I don't care how good you are, I don't know that there's going to be anybody as good as that guy.  He was pretty. 
+
+PATIENT O716
+Uh-huh.
+
+DOCTOR O716
+Pretty amazing.  Unfortunately for me, I was a Phoenix Suns fan growing up.
+
+PATIENT O716
+Oh oh.
+
+DOCTOR O716
+The Phoenix Suns never had much success against them.
+
+PATIENT O716
+Uh uh.
+
+DOCTOR O716
+Especially when they played them in the finals and lost, that was no fun.  Fun for people here but.
+
+PATIENT O716
+@@@.
+
+DOCTOR O716
+It's a little high.  Did you take your blood pressure pills today?
+
+PATIENT O716
+I take them at night.
+
+DOCTOR O716
+Do you take all of them at night?
+
+PATIENT O716
+Oh no I @@@ split them in half.
+
+DOCTOR O716
+So @@@.
+
+PATIENT O716
+What?
+
+DOCTOR O716
+Do you mean that you haven't been taking your lisinopril?
+
+PATIENT O716
+No, no.
+
+DOCTOR O716
+Okay.
+
+PATIENT O716
+@@@.
+
+DOCTOR O716
+Maybe that's the reason why your blood pressure is so high.  Maybe your, now that we restart the lisinopril it probably should come back down.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+What I would do is, that way when you get it downstairs, take it and then maybe, make sure that, maybe next week like on Tuesday, Monday or Tuesday, come in for the nurse practitioner here or just call me after.  You have a blood pressure cuff right?
+
+PATIENT O716
+Yep.
+
+DOCTOR O716
+Obviously you’re checking it and call me with the blood pressure, make sure the lisinopril is kicking in.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+How long have you not been taking the lisinopril?
+
+PATIENT O716
+Couple months probably.
+
+DOCTOR O716
+Oh that long.
+
+PATIENT O716
+Yeah.
+
+DOCTOR O716
+That long okay.
+
+PATIENT O716
+That's what I was saying, you need to address @@@.
+
+DOCTOR O716
+Yeah, definitely want to put you on that.  Okay I'll be right back okay.
+
+PATIENT O716
+Alright and then the ones that were for 30 days, are you going to change those to 90 days?
+
+DOCTOR O716
+I did.
+
+PATIENT O716
+So that was two of them?  I forgot what two.
+
+DOCTOR O716
+Um.
+
+PATIENT O716
+@@@.
+
+DOCTOR O716
+It would be lisinopril, metoprolol and the glyburide.  I gave you 120 of the metoprolol and then you have 90 of the glipizide.
+
+PATIENT O716
+Oh wait I'm only take a half, I'm taking one a day.
+
+DOCTOR O716
+Of the what?  The glyburide?
+
+PATIENT O716
+The metoprolol.
+
+DOCTOR O716
+Right.
+
+PATIENT O716
+I'm taking one pill.
+
+DOCTOR O716
+Right.
+
+PATIENT O716
+Cutting in half.
+
+DOCTOR O716
+Yeah.
+
+PATIENT O716
+Taking a half in the morning and @@@.
+
+DOCTOR O716
+Well you're taking half a pill twice a day right?
+
+PATIENT O716
+Right so I'm taking one pill a day.
+
+DOCTOR O716
+Correct.  @@@ You said that you want more than what you're getting.  You want 90 instead of 30.
+
+PATIENT O716
+Right.
+
+DOCTOR O716
+So with what we give you, you're going to have plenty.
+
+PATIENT O716
+Oh okay.
+
+DOCTOR O716
+Yeah.  Okay I'll be right back.
+
+PATIENT O716
+Okay.
+
+(DOCTOR OUT:  27:20  DOCTOR IN:  41:41)
+
+DOCTOR O716
+Alright.  Well my attending thinks that um she's okay with checking your UA but if you have no symptoms then we'll just leave it alone.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+In terms of looking for, the last one was technically negative for red blood cells, the one before that had some in it.  So if you're not having any symptoms we'll just let it be.
+
+PATIENT O716
+Well that's what started the first time, it was high and it shouldn't have been over 3.
+
+DOCTOR O716
+Uh we will, so this one is ready for you to pick up, these two won't since you have plenty of them or we can mail them to you.
+
+PATIENT O716
+Well I'll go @@@.  Um so what am I going to pick up today?
+
+DOCTOR O716
+Lisinopril.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+And then call the nurse, call us up on like Monday or Tuesday to make sure your blood pressure really can you know, came back down uh.  Since you've been on the lisinopril.
+
+PATIENT O716
+Yeah.
+
+DOCTOR O716
+Yeah.
+
+PATIENT O716
+Well what should it read other than this?
+
+DOCTOR O716
+Well no so these ones were, I guess my point is if you recently ran out of them, these readings were.
+
+PATIENT O716
+No it was three months ago.
+
+DOCTOR O716
+Oh yeah.
+
+PATIENT O716
+Actually or more, I think it was more than two months ago.
+
+DOCTOR O716
+Yeah.  It was up, before breakfast, oh here's your blood pressure, 119, 120, 160, @@@.  Yeah for the uh diabetes you really shouldn't be on an ace inhibitor.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+Um so what I would say is just a low dose of lisinopril.
+
+PATIENT O716
+Uh-huh.
+
+DOCTOR O716
+Something like 10 mg daily.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+But make sure that it doesn't go, if your blood pressure goes low or you get dizzy stop taking it.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+Okay.
+
+PATIENT O716
+What about the Flomax and finasteride?
+
+DOCTOR O716
+Um.
+
+PATIENT O716
+I was on that before, I don't have any other than.
+
+DOCTOR O716
+So the way the VA works is that I think I have to put in for terazosin it's a similar one.
+
+PATIENT O716
+Uh-huh.
+
+DOCTOR O716
+Uh but basically we'll do like a starter pack and you slowly work your way up on that, you want that for a month.  In other words the VA, they get the terazosin.
+
+PATIENT O716
+Well I don't have any prescriptions, any remaining prescriptions from the old doctors.
+
+DOCTOR O716
+Okay.  So then why don't I do that then?
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+I'll put in for terazosin a starter pack.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+And then you'll use, it's like one pill for the first week then two pills and three pills or whatever for a month.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+But because the VA, because of the cheapness of the medication, whatever the cost is to the VA they do one that's similar but it's called terazosin.
+
+PATIENT O716
+Okay yeah.
+
+DOCTOR O716
+So I'll put that.
+
+PATIENT O716
+Alright.
+
+DOCTOR O716
+And then because you're doing so well, you don't need to see me for like six months.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+Cause you're really, you're doing real good.
+
+PATIENT O716
+Alright but then I went on uh My Healthy Vets, the online guide.
+
+DOCTOR O716
+Yeah.
+
+PATIENT O716
+There are tips for wellness.  They were talking about a diabetic eye exam.
+
+DOCTOR O716
+Okay.  Have you been to @@@.
+
+PATIENT O716
+A foot exam.
+
+DOCTOR O716
+Yeah the foot exam you don't have to go to anybody to do it.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+As long you @@@.
+
+PATIENT O716
+And then they talked about heart attacks.
+
+DOCTOR O716
+Yeah you've got @@@.  When was the last time you saw somebody from optho@@@ though?
+
+PATIENT O716
+Uh probably three years ago.
+
+DOCTOR O716
+Okay let's do, here you had May 2000, I have the surveillance in here.
+
+PATIENT O716
+Uh-huh.
+
+DOCTOR O716
+Diabetic retinopathy surveillance.  Did you make that pending.  So it looks like I ordered and maybe we just didn't set up the appointment.
+
+PATIENT O716
+I didn't know anything about it.
+
+DOCTOR O716
+Yeah so let's, let's go, when you go to the front we'll do the consults and diabetic retinopathy.  Come with me we'll set this up and.
+
+PATIENT O716
+Alright then you were going to print out the uh.
+
+DOCTOR O716
+Oh the um tests um hmm.  @@@ all one location.  What specifically do you want to know?
+
+PATIENT O716
+Well generally I get the blood test results.
+
+DOCTOR O716
+Yeah.
+
+PATIENT O716
+I got the A1c and all the blood work, cholesterols and that.
+
+DOCTOR O716
+Let's do this, these are your, you're not going to want those um.  I don't know how to put them all on one thing um.  Tell you what um, they don't show up on the web, you can't look them up on the web?
+
+PATIENT O716
+Not yet.
+
+DOCTOR O716
+Hmm.  So the problem is just kind of trying to, I don't know how to print all of the.
+
+PATIENT O716
+They give you places where you can put in the information that you have but if you don't know the results you can't get it.
+
+DOCTOR O716
+Um let's see what happens if I do labs cumulative, let's see what will happen if I print this.
+
+PATIENT O716
+Right.
+
+DOCTOR O716
+I'm going to try and print this and see if I can get this to actually work.  Okay come with me and then I'm going to see if this printed or not.  I'll be back in like 10 seconds you can have a seat right there.
+
+PATIENT O716
+Right here, okay.
+
+(DOCTOR OUT:  46:25  DOCTOR IN:  46:50)
+
+DOCTOR O716
+Here we go.
+
+PATIENT O716
+Oh thank you.
+
+DOCTOR O716
+Again, uh basically what it does it look like it's going to put in to, @@@ UA.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+Here is like basically BNP, so the thing that's important here.
+
+PATIENT O716
+Does it give me a cholesterol here?
+
+DOCTOR O716
+Here this is the hemoglobin A1c, @@@.
+
+PATIENT O716
+@@@
+
+DOCTOR O716
+@@@
+
+PATIENT O716
+Oh okay.
+
+DOCTOR O716
+That's the important one.
+
+PATIENT O716
+How about the, yeah that would be affected if I was fasting right?
+
+DOCTOR O716
+No because it's a measurement of three months.
+
+PATIENT O716
+Oh three months.
+
+DOCTOR O716
+Okay and another one that's important okay.
+
+PATIENT O716
+But those should have been fasting and they weren't right so.
+
+DOCTOR O716
+Uh these ones?
+
+PATIENT O716
+Yeah.
+
+DOCTOR O716
+No I think, oh you weren't fasting when you did those?
+
+PATIENT O716
+No, @@@.
+
+DOCTOR O716
+Yeah well they're good despite that, these are all good.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+Uh and then well these are all the important ones.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+The other ones @@@.  
+
+PATIENT O716
+And I had a negative hepatitis and that’s good, right?
+
+DOCTOR O716
+Correct.
+
+PATIENT O716
+Good.
+
+DOCTOR O716
+And this and then, you pick up your lisinopril downstairs.
+
+PATIENT O716
+Uh-huh.
+
+DOCTOR O716
+And make sure, I have ordered this and we'll have you schedule @@@.
+
+PATIENT O716
+That's the eye exam?
+
+DOCTOR O716
+The eye exam, basically @@@ and then the UA.
+
+PATIENT O716
+The Eye Clinic.
+
+DOCTOR O716
+Right so um, we'll have them set up an appointment for me in six months and they'll set up your diabetes retinopathy exam.
+
+PATIENT O716
+Right okay.
+
+DOCTOR O716
+So the order I had put in a few months ago and I put in for a diabetic retinopathy you know consult.
+
+PATIENT O716
+Uh-huh.
+
+DOCTOR O716
+It just wasn't set up so, the order should still be good.
+
+PATIENT O716
+Okay.
+
+DOCTOR O716
+Um and if it's not maybe just let me know and then I'll put it in again.
+
+CLERK
+Okay.  I'll get in touch with the @@@.
+
+DOCTOR O716
+Okay great.  If it's not then just either shoot me a little inbox and we'll set it up because you need to do it again.
+
+PATIENT O716
+Okay, alright.
+
+DOCTOR O716
+Okay.  Thanks.
+
+PATIENT O716
+Thank you.
+
+PATIENT LEAVES: 49:26
+
+Time is 3:14.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238115
+TRANSACTION # 578-10-2-316-0103

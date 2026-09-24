@@ -1,0 +1,1414 @@
+Date of Encounter:    @@/@@/@@ 
+Time of Encounter:    @@@
+
+DOCTOR H279
+PATIENT?  
+
+PATIENT H279 
+How you doing?
+
+DOCTOR H279
+Okay how are you?
+
+PATIENT H279
+It's been a while, nice to see you.
+
+DOCTOR H279
+Yep.
+
+PATIENT H279
+I do what they tell me to.  I might @@@.
+
+DOCTOR H279
+Oh I know, @@@.
+
+PATIENT H279
+@@@ you have them.
+
+DOCTOR H279
+Yeah @@@ the 23rd.  When you're done here okay.
+
+PATIENT H279
+Okay.  @@@.
+
+DOCTOR H279
+Yeah they decided to move the clinic.  Not that they don't have anything better to do but they just.
+
+PATIENT H279
+No um.
+
+DOCTOR H279
+Change things.
+
+PATIENT H279
+With you going.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+That's all you're gonna do is cancer research?
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+You're not coming?
+
+DOCTOR H279
+Not research, well cancer treatment and research.
+
+PATIENT H279
+Treatment okay, okay.
+
+DOCTOR H279
+I know, I'm sorry.  I can’t take you to my other clinic, if I could I would, trust me.
+
+PATIENT H279
+Well, okay, I guess I have to.  Who do I get as a replacement?
+
+DOCTOR H279
+I don't know yet.
+
+PATIENT H279
+Don't know yet.
+
+DOCTOR H279
+But if they're not good, we can, you know what well, make sure, let's see if I can get you in with, well I'll try to get you in someone else's clinic.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+Now how are you doing?
+
+PATIENT H279
+Good, real good.
+
+DOCTOR H279
+I heard you were in the Emergency Room.
+
+PATIENT H279
+Yeah.  Uh this, whatever this is, there's got to be a pinched nerve here.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+Everything is mimicking I guess that's the way to say it.  When I had the fusion done.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+Everything is mimicking that.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+And now with that um uh I'm having these three and these three now, driving especially.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+Okay will cause numbness.  If I lay on my stomach at night and usually I lay something like this.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+I guess you know when I get on my back cause the numbness sets in.  Now and I, one thing that does help is the wristlets, applying pressure.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+Um prescribed, whatever they're called and they do help but it's not, I don't feel, that it's a complete cure.
+
+DOCTOR H279
+Right.
+
+PATIENT H279
+Um.
+
+DOCTOR H279
+Did they ever scan your neck?
+
+PATIENT H279
+Yeah.  They've taken a couple of MRIs and I don't know what the last MRI.
+
+DOCTOR H279
+MRI was March 29th.
+
+PATIENT H279
+Yeah I don't know what the results of that was.
+
+DOCTOR H279
+I'm trying to check something here.
+
+PATIENT H279
+But I did something to where this muscle started in, oh doc you could actually see a knot on the side of my neck it was that bad.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+And if notice the time we were in the ER.
+
+DOCTOR H279
+How long did you wait?
+
+PATIENT H279
+Well no I mean.
+
+DOCTOR H279
+Oh.
+
+PATIENT H279
+3 o'clock in the morning.
+
+DOCTOR H279
+Oh.
+
+PATIENT H279
+We left Michigan at 1 o'clock in the morning to come down here.
+
+DOCTOR H279
+Wow.
+
+PATIENT H279
+It was that bad.  Um yeah we drove in; we left there at 1 o'clock to come in.  It was, because it started, it actually started to affect my swallowing.  I went to take my gabapentin and I couldn't hardly get it down.
+
+DOCTOR H279
+Wow.
+
+PATIENT H279
+It was, but like I said you could see a knot on this side and one was starting on this side.  Um, the shot did help and the pills have helped but I think there's more to this than.
+
+DOCTOR H279
+So the MRI that you did at the end of March, the same person read the MRI back in August and it was unchanged from August but what it shows in August was a disk bulging, some narrowing of the canal.
+
+PATIENT H279
+Well that would be, that could be one thing right there couldn't it?
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+Narrowing of the canal.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+And now on the MRI can they tell how much it has narrowed or not?
+
+DOCTOR H279
+Well they just kind of give it a degree of either mild, moderate or severe.  Certain areas looked mild, other areas they're calling it mild to moderate, other areas they're calling it moderate to severe.
+
+PATIENT H279
+Yeah.  And maybe it's just the way, whatever I'm doing or something causes.
+
+DOCTOR H279
+Yeah.  I don't know if you'd get any benefit from having you see the neck surgeons, but I can certainly go talk to my boss.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+And see what she says, if she agrees with that.  Okay, the neck spasms, have they improved?
+
+PATIENT H279
+Yeah it has since like, whenever or it was in November when it happened before and I came in.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+And I had an appointment so I waited a day but I didn't have any appointments you know coming up soon until I had you so that's why we came in and again it worried me when I couldn't even hardly swallow.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+I mean it took quite a bit to get the gabapentin down and that's when I said nope we gotta go in.  Um that has helped; it's still sore right in here.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+This muscle right here, uh still sore.  Um I'm having right there uh, where it starts to hurt again and then again over here, same spot, that muscle right there down the side uh but as far as the severity of it no.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+It's really decreased.
+
+DOCTOR H279
+I mean how, so if I were to send you to the neck surgeon, the spine surgeon, they're going to look and see if surgery is something that you should have done.  Is that something that you want to consider doing?
+
+PATIENT H279
+It, at this point, I would consider it.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+Maybe after we talked, after I talked with them no, but because of, I can't get, it not only affects, has been affecting.
+
+DOCTOR H279
+If it comes back, well let's put it this way.  If it's affecting you to such degree that it's at least worthwhile to see what they have to offer.
+
+PATIENT H279
+Yeah and see what they have to say yeah.  I agree.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+Because again I didn't come running in here from Michigan at 1 o'clock in the morning.
+
+DOCTOR H279
+Yeah, no I know, it's not like you're live next door.  I was like, yeah he must have had something major.
+
+PATIENT H279
+Yeah it was.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+Serious, it was bad.
+
+DOCTOR H279
+Now have you seen Ortho here, or no?
+
+PATIENT H279
+Uh, oh boy.
+
+DOCTOR H279
+Let me see, cause they're the ones I would send you to.  Let me see if you ever saw them here.  Okay they put in a consult for you, a request and they put in, they made an appointment, I bet they didn't tell you the appointment, did they?
+
+PATIENT H279
+No.
+
+DOCTOR H279
+March 10th.
+
+PATIENT H279
+Gosh I try not to miss my appointments.
+
+DOCTOR H279
+I know its okay.  I will uh put in a new consult okay, that's why.  So okay, how are your sugars doing now?
+
+PATIENT H279
+Real good.  In fact with, you can tell the summertime or spring's here and the planting season and the farms.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+Because every morning I'm getting up and I can see, the sugars are so far down um.  It's, I have to wait for a little bit to be able to.
+
+DOCTOR H279
+How low are they going?
+
+PATIENT H279
+They're okay, they're okay.
+
+DOCTOR H279
+No, no, tell me how low.
+
+PATIENT H279
+Well some of them are down in the 70s.
+
+DOCTOR H279
+Oh okay, 70s are fine.
+
+PATIENT H279
+Okay, alright.
+
+DOCTOR H279
+But is it lower than 70s?
+
+PATIENT H279
+Uh there's been a couple of times uh during the day, during the day.
+
+DOCTOR H279
+How low?  Be honest.
+
+PATIENT H279
+I had a couple in the 30s.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+36 and 38.
+
+DOCTOR H279
+And what happened at those times, did you like not eat?
+
+PATIENT H279
+Yeah I was, I ate breakfast and then I worked, it was like 2-3 in the afternoon before I ate anything again and I knew it.
+
+DOCTOR H279
+You knew it okay.
+
+PATIENT H279
+The sugar was dropping so it was not the insulin is over, it's just.
+
+DOCTOR H279
+You weren't doing your part.
+
+PATIENT H279
+I wasn't doing my part.
+
+DOCTOR H279
+Okay that's fine.  Uh the only reason why we care to know how low these things can get cause if it happens regularly, high blood sugars, nobody wants high blood sugars.  So high blood sugars aren't going to kill you like that.
+
+PATIENT H279
+Right.
+
+DOCTOR H279
+Low blood sugars could, so if you are getting to a point where you're having it often.
+
+PATIENT H279
+Uh-huh.
+
+DOCTOR H279
+70s is a normal blood sugar, just so you're aware.  Now people do get symptoms but it's not because they're getting symptoms of hypoglycemia because the sugar is 70, they're getting symptoms because their sugar had been like 180.
+
+PATIENT H279
+Uh-huh.
+
+DOCTOR H279
+And now it's 70 and it's that drop, that change that is causing your symptoms, not the sugar number itself.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+Uh but if you, so you need to be aware that I know it's hard cause you're gonna be outside and doing all kinds of things but make sure you have a snack or something in your pocket because if those sugars get too low it could be dangerous.
+
+PATIENT H279
+Really, I didn't know that it was.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+Yeah high kills you in the long run and the low kills you, it can kill you in the short time?
+
+DOCTOR H279
+Yeah.  That's why I asked.
+
+PATIENT H279
+Okay then what I'll do is I'll just start carrying something.  I love the Lifesaver wintergreen candies so I'll just carry some of that with me.
+
+DOCTOR H279
+Yeah, just I mean just kind of have something every so often.
+
+PATIENT H279
+Yeah and it's, that's the only reason they have dropped is because of me not eating and you know you just don't want to quit, uh just a little bit longer and of course a little bit longer turns into a couple of hours.
+
+DOCTOR H279
+Yeah, yeah.
+
+PATIENT H279
+So.
+
+DOCTOR H279
+Exactly.  
+
+PATIENT H279
+Yeah.
+
+DOCTOR H279
+Now did you take all your medicines this morning?
+
+PATIENT H279
+Yes uh-huh.
+
+DOCTOR H279
+And are you taking the simvastatin?
+
+PATIENT H279
+Yes uh-huh.  Um the reason, I run up the stairs.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+So I found out maybe that wasn't that long after I ran up the stairs.
+
+DOCTOR H279
+I'll recheck it, I'll repeat it don't worry about it.
+
+PATIENT H279
+I always take the stairs.  I don't take the.
+
+DOCTOR H279
+The other thing I was going to ask you is we; remember we increased your Neurontin or your gabapentin dose.
+
+PATIENT H279
+Uh-huh, uh-huh.
+
+DOCTOR H279
+Did you notice any improvement with that?
+
+PATIENT H279
+Yes, yes.  It does seem to, it has made a difference yes.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+Um mainly when I, when I really notice it is mainly at night.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+That's when, I guess it's cause you're relaxing and now the nerve endings are, you're not thinking about it, are you thinking about it now because throughout the day.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+It doesn't seem to as though I need it.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+But at night um, you can, that's when it and it has really helped.
+
+DOCTOR H279
+And are you doing 800 in the morning and night with 400 in the afternoon?  How are you doing it?
+
+PATIENT H279
+Okay I was doing one in the morning and then uh whatever it is four at night, I'm sorry.
+
+DOCTOR H279
+That's okay.
+
+PATIENT H279
+I.
+
+DOCTOR H279
+Okay so the gabapentin is 400 mg caps.
+
+PATIENT H279
+Yeah gabapentin.
+
+DOCTOR H279
+Okay so how many are you taking in the morning?
+
+PATIENT H279
+One.
+
+DOCTOR H279
+And how many in the afternoon?
+
+PATIENT H279
+None.
+
+DOCTOR H279
+None and what about the evening?
+
+PATIENT H279
+Four.
+
+DOCTOR H279
+Okay so that's.
+
+PATIENT H279
+And that's again, a lot of times that's the only way it seems and usually I take it about between 7 and 8 o'clock.
+
+DOCTOR H279
+Does it get you, make you tired?
+
+PATIENT H279
+Yeah uh-huh.  Uh and then finally the hands and the feet stop and mainly it's the hands and feet.  Uh a little, once in a while in the legs but uh.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+But then I'm able to sleep and I sleep all night.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+Yeah.
+
+DOCTOR H279
+So those things have been working for you?
+
+PATIENT H279
+Yeah that's what, that seems to be working for me.
+
+DOCTOR H279
+Let's not fix it.
+
+PATIENT H279
+Yeah.
+
+DOCTOR H279
+Let's not fix something that isn't broken.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+Um okay and then I got to put in for you to see Ortho.  Now, we could get some basic x-rays of your neck.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+So they can see what the hardware is that you have in there.
+
+PATIENT H279
+Uh-huh.
+
+DOCTOR H279
+Where it is, the location and all that.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+Um but we don't need to repeat the MRIs or anything.
+
+PATIENT H279
+They may have x-rays of the neck.  It seems like I had some x-rays taken.
+
+DOCTOR H279
+I know.  They'll want it if it's too long ago.
+
+PATIENT H279
+So long, okay.
+
+DOCTOR H279
+To make sure nothing has happened in the interim.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+Um.
+
+PATIENT H279
+Now in the wintertime, it harder. I know last time the sugars were up.  I try and this past winter was just, I mean I didn't want to get outside to do nothing you know, it just was hard and then my son-in-law.  I got to tell you what my son-in-law did here, back in March uh, no, no it wasn't, it was back in February.  We had that one snowfall.
+
+DOCTOR H279
+Uh-huh.  I'm listening, just so you know, to order stuff and what not.
+
+PATIENT H279
+Um anyway I called him, he called me once and yeah we had a freaking snowfall here and did some plowing and we got stuck.  He said yeah, he says I know.  He said you know what I got stuck today also and I said you got stuck; they live in @@@ Florida which is Cape Canaveral.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+You got stuck, he drives for Waste Management but down there Waste Management of part of the state and they get all state benefits.
+
+DOCTOR H279
+Oh.
+
+PATIENT H279
+Yeah anyway, I said,you got stuck.  He says yeah I got stuck in 75 degree weather today, yeah now that the sun's going down it's only 60 and I got out.  Okay that was when it was cold up here you know.
+
+DOCTOR H279
+Yeah, it really was yeah.  Now the blood work we won't do until you see um Endocrine.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+It’s not due anyways.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+And let me see what else.  Let me see how you're doing on your refills.  I'll give you cyclobenzaprine.
+
+PATIENT H279
+Yeah that's the one.
+
+DOCTOR H279
+So you've been using it?
+
+PATIENT H279
+Yeah I almost forgot.  I don't remember it from the first time.
+
+DOCTOR H279
+Oh.
+
+PATIENT H279
+Yeah he gave me a prescription here when I was in and that has helped.
+
+DOCTOR H279
+It helped.
+
+PATIENT H279
+Yeah because it started in again and so um I, they had told me that the Pharmacy was open; the Pharmacy wasn't open, anyway.  So when we got home I found the old ones and I got, my fault, I did not know that they had come.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+Anyway so I started taking them again and then I got the other ones in the mail and sure enough it went back down again so it um did help, it's helping yeah.
+
+DOCTOR H279
+Okay good.  Uh your simvastatin expired so I'm going to renew that.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+The insulin syringes, do you use those still or no?
+
+PATIENT H279
+No, uh huh.
+
+DOCTOR H279
+No okay, well we'll just.
+
+PATIENT H279
+The 30 and 31 syringes no.
+
+DOCTOR H279
+Okay, clean up your list. What about adhesive remover liquid, do you still use that?
+
+PATIENT H279
+Yes uh-huh.
+
+DOCTOR H279
+You do use that?
+
+PATIENT H279
+Uh-huh.  Yeah I still got enough right now, unless it's, uh I still got half a bottle, one of those bottles like.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+That, about like that, I still got about half a bottle.  Cause sometimes these.
+
+DOCTOR H279
+So we'll not worry about it.  What about the nasal spray, do you use that?
+
+PATIENT H279
+No uh uh, no.
+
+DOCTOR H279
+Discontinue @@@.  Okay what about the Claritin?  Loratadine that's the antihistamine.
+
+PATIENT H279
+Well that must be over because.
+
+DOCTOR H279
+It's been over a year.
+
+PATIENT H279
+Yeah, yeah I'm going to say that must be old.
+
+DOCTOR H279
+Okay.  Alright so you've got a good number of refills.  
+
+PATIENT H279
+I wanted to ask you something.  I'll wait till you're done.
+
+DOCTOR H279
+Shoot.
+
+PATIENT H279
+What is this?
+
+DOCTOR H279
+What?
+
+PATIENT H279
+That little break, as it is right now.
+
+DOCTOR H279
+Oh this here.
+
+PATIENT H279
+And it'll open up, I'll put some, usually I put bag balm on them, put a band-aid on them and it heals up in a day or two and that's the only spot and yet you can kind of see how bumped up, it never goes down or anything.
+
+DOCTOR H279
+Hmm.
+
+PATIENT H279
+Always a bump as though it's healed.  Is that and it's been like that for, I can't tell you how long.
+
+DOCTOR H279
+Yeah.  It's sometimes the skin, for whatever reason it just didn't heal like back to normal the way it should be.
+
+PATIENT H279
+And so, with working, especially right now.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+It seems to be okay for two or three months and then I'll be doing something and right now gloves, going on and off constantly, because you're hot, cold and working out so okay.
+
+DOCTOR H279
+Yeah I wouldn't worry about it.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+It sometimes, you know with diabetes you get poor wound healing and then if it doesn't heal like it should, @@@.
+
+PATIENT H279
+And that was my main concern just because of the diabetes so.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+Uh.
+
+DOCTOR H279
+Well if it were to like continue to be a problem then we'd have to, you know.
+
+PATIENT H279
+But it always heals up.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+Um, bag balm, that kind of thing um, @@@.  Do you know what it is?  Whatever, have you heard of it?
+
+DOCTOR H279
+Uh uh.
+
+PATIENT H279
+It's an old remedy, that's one new one.  It's parabolic acid um, I forgot what I was saying but it's actually you put that on something like this.  The reason I didn't because I was going to show you today uh, within two days it'll get healed.
+
+DOCTOR H279
+Oh yeah.
+
+PATIENT H279
+Any sore.
+
+DOCTOR H279
+It's not like a red.
+
+PATIENT H279
+No it's a um yellowish.
+
+DOCTOR H279
+Okay.  It doesn't have Mercury does it?
+
+PATIENT H279
+No, no.
+
+DOCTOR H279
+Okay so I remember once I had this blister on my thumb that would not heal.
+
+PATIENT H279
+Uh-huh.
+
+DOCTOR H279
+And I went to Italy, I was there for six weeks and aunt goes oh let me just try this stuff and she puts this stuff on it and it like the blister healed right away right, within a couple of days and so when I came back I was a teenager and I went to tell one of my friends who's a doctor.
+
+PATIENT H279
+Uh-huh.
+
+DOCTOR H279
+And I'm like this stuff works miracles, blah, blah, blah and she goes yeah uh the government pulled that off the market cause it's got high Mercury content and I'm like oh for goodness sake.
+
+PATIENT H279
+I'll tell you a story, when I was oh 12, 14 years old, we were at my grandparents.  I won't tell you how it happened because I was stupid as a kid but I cut my bottom of my foot wide open.  My brother and I was playing on a tin roof and a nail was sticking up.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+Anyway, I'm going, we went in and my brother and I and I'm bawling my eyes out you know and my grandmother said to my mother and that's all I heard, Mary get the turpentine and I went blood-footed and all, I went running.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+But do you know, I never had any infection.  They finally tackled me, got me.  I thought it was going to burn and it was going to hurt, it never hurt.  Grandma soaked my foot in there and I didn't even know, oh several minutes and then bandaged it with the turpentine.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+And it healed; uh of course I always used to heal fast until the diabetes.
+
+DOCTOR H279
+Right.
+
+PATIENT H279
+But I never had a scar or anything.  You can't find anything and it was, it seemed to me even as a kid, as bad as the cut was.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+Uh turpentine and it never burned.  I was baffled.
+
+DOCTOR H279
+It's amazing.  It's amazing the stuff that that we used to use.
+
+PATIENT H279
+Yes, yes.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+Well, it's the first time @@@.
+
+DOCTOR H279
+Looks good huh.  Okay, it's better.  It's 130/60.  That’s where you are supposed to be.
+
+PATIENT H279
+Yeah usually I've got that talking one.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+That I had for my brother before he died and whenever I take it, so that's about what it runs.
+
+DOCTOR H279
+Yeah.  Deep breaths.  Okay, just breathe regularly.  
+
+PATIENT H279
+Question.
+
+DOCTOR H327
+Yes.
+
+PATIENT H279
+When you were on this side, I know you listen to the heart.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+But what are you listening to on this side?
+
+DOCTOR H327
+The heart sounds.
+
+PATIENT H279
+Oh really.
+
+DOCTOR H279
+You can hear the heart sounds go to various places on your chest.
+
+PATIENT H279
+Really.
+
+DOCTOR H327
+Yep.
+
+PATIENT H279
+I did not know that.
+
+DOCTOR H279
+Uh-huh.  Any swelling?
+
+PATIENT H279
+Nope uh uh.  I have a question.
+
+DOCTOR H327
+Yeah.
+
+PATIENT H279
+You were just saying that okay the neuropathy in the feet.  I don't like it's from the diabetes, never gonna get better okay.  But there's time when it seems its worse and then times when it's better okay.  It's not the neuropathy that's gonna have them cut my uh.
+
+DOCTOR H279
+Your.
+
+PATIENT H279
+We just had a friend here.
+
+DOCTOR H327
+Was getting an amputation?
+
+PATIENT H279
+Yeah right.
+
+DOCTOR H279
+So it's not the neuropathy but what it is is, it's the neuropathy cause like you don't feel the way you should so you're more likely to get um, to step on things, get cuts whatever.  Now when you get those sorts of cuts and what not, then it's hard for the wound to heal and if the blood flow to the limbs is lessened, which it can be with diabetes, it just doesn't allow it to heal and it continues to fester and then it just gets worse and worse.
+
+PATIENT H279
+That's what happened. 
+
+DOCTOR H327
+Yeah.
+
+PATIENT H279
+A friend of ours, just a month ago had some, first it was just some toes and then they took her leg off up to her knee because she didn't listen, actually a friend of NAME.  It was too late.
+
+DOCTOR H279
+Right.
+
+PATIENT H279
+It was too late by that time.
+
+DOCTOR H327
+Uh-huh.
+
+PATIENT H279
+Uh well when she finally did and the only thing that I have with my feet is the nail on the second toe and there seems to be a tender spot under it.  They looked at it at um.
+
+DOCTOR H279
+Podiatry?
+
+PATIENT H279
+Podiatry and didn't see anything.
+
+DOCTOR H327
+Okay.
+
+PATIENT H279
+Um and I didn't know if that was just maybe, maybe it's the toe, maybe it's the neuropathy.
+
+DOCTOR H279
+It's just.
+
+PATIENT H279
+That I'm making it feel that way.
+
+DOCTOR H327
+Uh-huh.
+
+PATIENT H279
+But as far as anything else and it just, doc it scared me when.
+
+DOCTOR H279
+You know as long.
+
+PATIENT H279
+It's right here.
+
+DOCTOR H327
+As you're not walking around barefoot, walking and stepping on you know rusty nails, things like that.
+
+PATIENT H279
+Yeah.
+
+DOCTOR H279
+As long as you are always keeping an eye on your feet and looking at them, making sure that you don't break down, you're fine.
+
+PATIENT H279
+She checks them every night.  Uh I won't even walk around the house, I have a set up a pair of sandals that when I come in and take off my shoes or boots or whatever.
+
+DOCTOR H327
+Yeah.
+
+PATIENT H279
+Um on goes the sandals.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+That way cause we have three little dogs, two little Lhasa Apsos and a miniature Schnauzer, who I don't know why but they don't understand they have to put their toys away.  They get them out with no problem.
+
+DOCTOR H327
+Right.
+
+PATIENT H279
+You ought to see these three but they will leave their toys right where daddy can step on them and.
+
+DOCTOR H279
+Yes.
+
+PATIENT H279
+And then I have a couple of times but it’s a good thing I've had my shoes or.
+
+DOCTOR H327
+Yeah make sure you're always wearing something.
+
+PATIENT H279
+Yeah.
+
+DOCTOR H279
+Okay.
+
+PATIENT H279
+Yep.
+
+DOCTOR H327
+Let me um talk to my boss.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+And we'll give you the green light to go.
+
+PATIENT H279
+Okay.
+
+DOCTOR H327
+You're doing, there's nothing that we need to change today.
+
+PATIENT H279
+Okay great.
+
+DOCTOR H279
+So that's good.
+
+PATIENT H279
+Except you staying here.
+
+DOCTOR H327
+I know.
+
+PATIENT H279
+I know.  I know, I know.
+
+DOCTOR H279
+I'll be back.
+
+PATIENT H279
+Alrighty.  Hypertension and the kidney?
+
+(DOCTOR OUT:  81:31  DOCTOR IN:  84:03)
+
+DOCTOR H327
+Hmm.
+
+PATIENT H279
+I didn't know hypertension affected the kidneys.
+
+DOCTOR H279
+Yeah the kidneys can cause hypertension too, if the arteries.
+
+PATIENT H279
+Really.
+
+DOCTOR H327
+If the, see this here?
+
+PATIENT H279
+Uh-huh.
+
+DOCTOR H279
+This is a normal artery.
+
+PATIENT H279
+Uh-huh.
+
+DOCTOR H327
+Going to the kidney and it's one of.
+
+PATIENT H279
+Oh.
+
+DOCTOR H327
+If it’s narrowed, the kidneys are kind of also part of your how your blood pressure @@@ so if it’s narrowed, it can cause hypertension.
+
+PATIENT H279
+Okay sure.
+
+DOCTOR H279
+Yep but that's um, that's not a very common cause.
+
+PATIENT H279
+Hmm, I thought the kidneys you know went along with the liver taking care of everything and sort of filtering and but yeah it makes sense.  It makes sense I mean, if you've got something, especially of the kidneys.  I mean they're a big thing with the blood.  Yeah.  Will you do me a favor?
+
+DOCTOR H327
+Yes.
+
+PATIENT H279
+Well I don't know if you're allowed to but I hope you are, allowed to take my number with you.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+And.
+
+DOCTOR H327
+Do you have e-mail?
+
+PATIENT H279
+Yes.
+
+DOCTOR H279
+I'll just give you my e-mail address.
+
+PATIENT H279
+Okay, oh yeah, that'd be nice and I know you're gonna be busy so if I do e-mail you.
+
+DOCTOR H327
+Don't worry.
+
+PATIENT H279
+And you don't answer right away I understand.  I understand.  I think its well, going into this cancer research is just, can I ask.
+
+DOCTOR H279
+Yes.
+
+PATIENT H279
+A personal question?
+
+DOCTOR H327
+Sure.
+
+PATIENT H279
+When I mean personal, it's about this cancer thing.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+And I hate to say this and I know.
+
+DOCTOR H327
+Just ask me.
+
+PATIENT H279
+Is this, is this, other cancers that are curable that they just don't want to.
+
+DOCTOR H279
+Tell you about?
+
+PATIENT H279
+Yeah.
+
+DOCTOR H327
+No.  There are cancers that are curable provided they're found early enough so it's all about screening and early detection.  So.
+
+PATIENT H279
+@@@.
+
+DOCTOR H279
+Yeah so the problem is that a lot of cancers, because we don't routinely check.  You know pancreatic cancer; there are certain types of cancers where you're a goner.  So essentially I don't care what.
+
+PATIENT H279
+Why can't, if they can transplant a heart, a kidney, a liver, everything.
+
+DOCTOR H327
+Yeah.
+
+PATIENT H279
+Why not a pancreas?
+
+DOCTOR H279
+Because the thing is that by the time it's found it's so advanced that it's infiltrated all the areas surrounding it.
+
+PATIENT H279
+Okay you know I had heard that and uh, now it doesn't seem right but is that what it is?
+
+DOCTOR H327
+Uh-huh.
+
+PATIENT H279
+But I thought like, Patrick Swayze, I thought that they had diagnosed his early what not early enough.
+
+DOCTOR H279
+The pancreas cancer is one of those where.
+
+PATIENT H279
+Here and now, it's gone.
+
+DOCTOR H327
+Yeah you're um.
+
+PATIENT H279
+Wow, wow.
+
+DOCTOR H279
+It's.
+
+PATIENT H279
+Okay somebody like me, my pancreas is not working right.
+
+DOCTOR H327
+Uh-huh.
+
+PATIENT H279
+I mean that's why I'm taking insulin.
+
+DOCTOR H279
+Uh-huh.
+
+PATIENT H279
+Why can't they do a transplant on me?  I've heard over there at MCB at the Commission for the Blind, there's a girl there who is a diabetic who they did a cornea transplant on.
+
+DOCTOR H327
+Uh-huh.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+I haven't heard of pancreas transplants, they haven't done that yet.  
+
+PATIENT H279
+Why?
+
+DOCTOR H327
+I don't know.
+
+PATIENT H279
+I'm sure there's got to be.
+
+DOCTOR H279
+I really don't know to be honest with you.  I'm sure they're looking into it.
+
+PATIENT H279
+Yeah.
+
+DOCTOR H327
+But I've not heard of it so in terms of it being something that they're offering.
+
+PATIENT H279
+I can't imagine.  I don't know how like with a heart or a kidney.  I don't know how you would fit.  How do they sew that stuff together?
+
+DOCTOR H279
+Yeah I know it's amazing.
+
+PATIENT H279
+I mean who thinks this stuff up you know?
+
+DOCTOR H327
+Uh-huh.
+
+PATIENT H279
+I just, but I remember when what's his name Bernard Shaw, the first heart transplant, the name was Bernard, maybe that might have been the last name.
+
+DOCTOR H279
+I can't remember the name.
+
+PATIENT H279
+Yeah that was…
+
+DOCTOR H327
+They've come a long ways.
+
+PATIENT H279
+That was, that was space age.  Uh that was Buck Rogers and then some yeah.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+Uh and he didn't live all that long but it was still, it was still uh.
+
+DOCTOR H327
+Uh-huh.  So I'm not sure how long this e-mail's going to work.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+But this will be the new e-mail starting July 1.
+
+PATIENT H279
+This one.
+
+DOCTOR H327
+The EMAIL.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+Yep.
+
+PATIENT H279
+What can I say but thank you?  You know, you know where I was and you know where I've come and it's all because of you.
+
+DOCTOR H327
+Well.
+
+PATIENT H279
+You've given me the incentive, you have.
+
+DOCTOR H279
+Well I'm glad.
+
+PATIENT H279
+Uh because there sure could have been a lot of other doctors that I could have got who would not have been.  You know I remember once we were talking and you helped me get the pump and helping me when I'm down.  Well, put @@@.
+
+DOCTOR H327
+Yeah.
+
+PATIENT H279
+And I'm.
+
+DOCTOR H279
+It's been a pleasure PATIENT, you're very welcome.  You keep it up though okay.
+
+PATIENT H279
+I will.  I want to keep in contact.  You've been an inspiration to me.
+
+DOCTOR H327
+Great, I'm glad.  Um now I can tell you, I'm still your doctor until June 23rd.
+
+PATIENT H279
+Okay.
+
+DOCTOR H279
+Okay so if you need anything you call.
+
+PATIENT H279
+Okay.
+
+DOCTOR H327
+Afterwards just e-mail, call me, I don't care okay, seriously.  Um and then otherwise we'll get you to a physician in either of these clinics, if they can't then they'll put you in whoever is taking over for me.  Okay.  If for whatever reason you don't like the new doctor you get, just switch to a different doctor.  Just FYI, you’re not stuck. Okay just ask for a new doctor.
+
+PATIENT H279
+You know it'll be.
+
+DOCTOR H279
+I don't, that's the deal.  So we just that's the problem, if you don't like who they gave that's why you make a request for a new physician okay.  Well and I know you told me.  You can ask @@@ to follow you as well.  It's not a problem.  @@@ don't by fooled by the @@@.
+
+PATIENT H279
+@@@.
+
+DOCTOR H327
+Still if you don't like who you get, just switch.
+
+PATIENT H279
+@@@.
+
+DOCTOR H279
+Yeah.
+
+PATIENT H279
+@@@.
+
+DOCTOR H327
+Yeah.
+
+PATIENT H279
+Then maybe @@@.
+
+DOCTOR H279
+But I think what you need right now is to just do the @@@.  Yeah so I think that's the most important.  More important than Neurology.  You're welcome.  You're welcome.
+
+PATIENT LEAVES:  91:27.
+
+Time is 10:03
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249444
+TRANSACTION # 578-10-2-316-0103

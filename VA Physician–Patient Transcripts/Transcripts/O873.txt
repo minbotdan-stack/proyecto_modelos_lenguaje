@@ -1,0 +1,1016 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR O873
+PATIENT?
+
+PATIENT O873
+Okay.  Hi, how are you today doctor?
+
+DOCTOR O873
+Good how you doing?
+
+PATIENT O873
+Alright.
+
+DOCTOR O873
+Good.  You can have a seat.  So what's going on huh?
+
+PATIENT O873
+Oh well uh I'm still having problems with my uveitis and the glaucoma in the Eye Clinic so every time I go down there now I'm seeing a surgeon, so they must think they're gonna do an operation on me or something.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+Yeah but doctor the last time I was here you called me and left a message on my voice mail telling me to stop taking the gemfibrozil yeah.
+
+DOCTOR O873
+Did you stop taking it?
+
+PATIENT O873
+Yeah I sure did.
+
+DOCTOR O873
+Okay, uh-huh.
+
+PATIENT O873
+Well was there something normal?
+
+DOCTOR O873
+Yeah, yeah so.
+
+PATIENT O873
+Uh-huh.
+
+DOCTOR O873
+When uh, when you're on it we check a…  You were having some muscle pains weren't you?
+
+PATIENT O873
+Yeah uh muscle weakness.
+
+DOCTOR O873
+Muscle weakness.
+
+PATIENT O873
+And then I was having problems with my gout in my foot.
+
+DOCTOR O873
+Is the muscle weakness better?
+
+PATIENT O873
+Oh yeah since I stopped it.  And you also stopped the testosterone also.  You know I was taking the testosterone patch and I been trying to uh get a refill.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+And the Pharmacy filled the last refills and every time I would call in the nurse to have them refilled I never got anymore so I didn't know if you discontinued them or you just ran out of refills or what.
+
+DOCTOR O873
+I think it just expired.
+
+PATIENT O873
+Oh okay.  Because I didn't know you didn't stop that like you stopped gemfibrozil but uh I was having a lot of gout and the gout was attacking me in my ankle again and acting up.
+
+DOCTOR O873
+Yeah.
+
+PATIENT O873
+And it was attacking me in my toe and then I was having a lot of weakness.  I was sleeping a lot, didn't want to get out the bed, hurt yeah and then all of a sudden.
+
+DOCTOR O873
+Is it better now?
+
+PATIENT O873
+Oh yeah.
+
+DOCTOR O873
+Well good.
+
+PATIENT O873
+Much better.  
+
+DOCTOR O873
+The muscle pains are better yeah cause the tests we were looking at were showing us your muscles were breaking down.
+
+PATIENT O873
+Yeah from.
+
+DOCTOR O873
+The medicine.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+That's why we stopped it but um, let's see where @@@ here.  The cholesterol the last time, it looked you know your cholesterol was not all that bad the last time.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+And you're on all those pills though.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+Are you still taking the fish oil?
+
+PATIENT O873
+Yeah, but that helps, it helps.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+Yeah I'm not having as much chest pains as I used to.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+And uh but the thing is that what are they going to do let's see um, oh yeah doctor I was wondering about my kidneys.  How's my kidneys look in my blood, in my labs.
+
+DOCTOR O873
+Oh.
+
+PATIENT O873
+Because I took one of those health care of my services, you they got the Heart Association come in.
+
+DOCTOR O873
+Yes.
+
+PATIENT O873
+And they had a van and they did these tests and one was telling me my kidneys are not functioning at the proper level.
+
+DOCTOR O873
+Well the last time you were tested in September.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+Not that long ago.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+They were fine.
+
+PATIENT O873
+Okay.  So uh-huh.
+
+DOCTOR O873
+I'm not sure what the issue was with that.
+
+PATIENT O873
+Um cause I just had, I had oral surgery at the VA Hospital.  You know I was telling the nurse @@@ how.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+How bridge broke, that's why I got a flip in my mouth now.
+
+DOCTOR O873
+Where'd you go Jesse Brown or?
+
+PATIENT O873
+Yeah, yeah they did it at Jesse Brown but they don't do implants.  See the stitches? They did this last month.
+
+DOCTOR O873
+Oh yeah.  Okay.
+
+PATIENT O873
+This is about the second week now I've been out of surgery so I got to go back the end of this month so they can do pictures and then cause I had a bone graft also.
+
+DOCTOR O873
+Sure.
+
+PATIENT O873
+Uh-huh.  And they was telling me then my kidneys cause you know they had to prep me for surgery.
+
+DOCTOR O873
+They were telling the kidneys.
+
+PATIENT O873
+And yeah one of the uh, uh anesthesiologists, she looked in the computer after I did my lab work at Jesse Brown, she said your kidneys is just a little bit over the functioning levels, just a little bit over and I said well I'm going to have to talk to my general medicine doctor and see if there's some medicine they got I need to take.
+
+DOCTOR O873
+Well let's see, I'm going to look over at Jesse Brown and see what they're talking about.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+So you just had a bunch of lab tests today.
+
+PATIENT O873
+Yeah, yeah, so see I missed my first operation that they scheduled me.  It was back during October or November because my church was doing a rehearsal to do our Christmas concert.
+
+DOCTOR O873
+Oh yeah I remember you telling me that.
+
+PATIENT O873
+Yeah and so I couldn't do the surgery so after the concert in December they had me scheduled and they did it.
+
+DOCTOR O873
+And it's very; I don't think it's a big deal.
+
+PATIENT O873
+Oh okay.
+
+DOCTOR O873
+They're telling you, it's very slight.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+Yeah so I think they're kind of making a little bit more out of it than what it actually is.
+
+PATIENT O873
+Oh okay, I was worried.
+
+DOCTOR O873
+You they don't know you know better so.
+
+PATIENT O873
+Oh okay.
+
+DOCTOR O873
+Don't worry about all that.
+
+PATIENT O873
+So I don't need to worry about this.
+
+DOCTOR O873
+Yeah, I mean as long as we control your blood pressure.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+It should be fine.
+
+PATIENT O873
+Okay doctor.
+
+DOCTOR O873
+And it's almost the same as it was when we checked it.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+Maybe a touch higher but.
+
+PATIENT O873
+Oh okay.
+
+DOCTOR O873
+It's not that.
+
+PATIENT O873
+Not some degree, major cause I was under the impression my kidney was getting ready to shut down on me.
+
+DOCTOR O873
+No, no, no, no.
+
+PATIENT O873
+And I was going to end up being on dialysis.
+
+DOCTOR O873
+No, no, no.
+
+PATIENT O873
+I'm glad to hear that man.
+
+DOCTOR O873
+No it's not that bad.
+
+PATIENT O873
+Yeah cause I'm having a lot of problem.  My major problem now is my eyes.
+
+DOCTOR O873
+Yeah you don't.
+
+PATIENT O873
+Yeah see right now I have a flap and I missed my appointment yesterday but see the thing is I'm going to a different doctor to treat me for my uveitis in the eye and he's treating me for the glaucoma.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+And I keep getting flyers.
+
+DOCTOR O873
+Do you see a DOCTOR?
+
+PATIENT O873
+Yeah, yeah DOCTOR is the surgeon.  I just started seeing him and he's a surgeon so I know they getting ready to operate and I can't see out.
+
+DOCTOR O873
+Are you doing whatever eye drops they're telling you to use?
+
+PATIENT O873
+Yeah, yeah I'm using that but the thing is my pressure still be elevated and then I'm becoming far-sighted.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+You know, every time I do that, what is that called way front you know where they have you look and then get your eyes adjusted and it be clear.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+But it always be blurry and then when I read, I'm farsighted.  Farsighted, I really can't see out of this eye now.  I can't see past 50 feet.  And then now it's beginning to happen with my left eye and my left eye is my good eye so I'm wondering what's going on and then well now, last time I seen the private doctor for my uveitis he had gave me a prescription for bifocal glasses.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+And then after about two or three appointments here I went back to him and he said all of a sudden I got a lens problem, the bifocal glasses won't help me.  So he had to get me, so I had new reading glasses.
+
+DOCTOR O873
+Hmm.
+
+PATIENT O873
+I said what happened and he say I have a lens problem now and I said well when did that develop and he say glasses won't help me with my farsightedness.
+
+DOCTOR O873
+Hmm.
+
+PATIENT O873
+Yeah man it's weird.
+
+DOCTOR O873
+Can you see him today or?
+
+PATIENT O873
+Well I scheduled to see him uh next month.  My appointment is. 
+
+DOCTOR O873
+April 15th.
+
+PATIENT O873
+Yeah April, uh-huh cause I called in and rescheduled and I was just so busy cause my wife @@@ when I needed my wife came in, I had to bring her in, uh because she did a biopsy the last time she was here and I had to bring her in last week and they had to go in and get some more of the tissue because they said it may be cancerous.
+
+DOCTOR O873
+What kind of a?
+
+PATIENT O873
+She has and so she had surgery on the fourth floor in the fourth floor, I brought her in the other day and that's when I came down here and made them find out when was my appointment was to see you.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+Yeah.  Since I was wondering when my appointment was cause I know I needed to talk to you and my wife was having her surgery to see if they tissue, they had to go back into the side and take a lot of this tissue off to make sure they got it all so she was having cancer in a mole, uh-huh.  So she, then her car went out on her, she had a car went out on her.  The timing broke and then torqued the engine, I never heard of that.  They say Japanese made cars, if you don't change the timing belt in 60,000 miles it'll zap your car and you don't get, you out of the warranty.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+And I say well man, I said @@@ cars out there cause let them know when they bring in the car in when you get 60,000 miles, 
+they said no that's their responsibility, they're supposed to read their manual.  I say oh man and she got to spend 4 grand on an engine man, just finished paying on the car.
+
+DOCTOR O873
+Geez.
+
+PATIENT O873
+I tell you man it's always something.
+
+DOCTOR O873
+There's always something.  Are you taking aspirin still?
+
+PATIENT O873
+No I had to discontinue that because when they did the surgery and when I developed a glaucoma.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+What it is the aspirin thins my blood and it ended up raising the pressure in my eye.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+And they definitely told me I couldn't take it prior to that oral surgery.
+
+DOCTOR O873
+Yeah cause of surgery but otherwise did they tell you you shouldn't take it at all?
+
+PATIENT O873
+Yeah, yeah and I been having chest pain.
+
+DOCTOR O873
+Did you get that treadmill test done?
+
+PATIENT O873
+I sure had that test done, I sure did.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+I did it at Jesse Brown also.
+
+DOCTOR O873
+Oh you.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+Did you do it here as well?
+
+PATIENT O873
+I did it here and I did it at Jesse Brown and I talked to the heart doctor up there.
+
+DOCTOR O873
+What did they say?
+
+PATIENT O873
+They wanted me to do the test again but Jesse Brown ended up doing it prior to my cause I had to have the operation and instead of putting me on the treadmill, they induced the heart rate.
+
+DOCTOR O873
+Right.
+
+PATIENT O873
+You know how they give you an injection.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+And some man there and my heart is racing and they got me hooked up to the EKG machine and then when I got through my eyes was bloodshot red man.
+
+DOCTOR O873
+You're sure you even had this stress test in the last few months here?
+
+PATIENT O873
+Oh yeah it was a little farther back, a little farther back.
+
+DOCTOR O873
+But you saw this DOCTOR.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+In October and he ordered one.  Did you get that one?
+
+PATIENT O873
+He ordered one here but I ended up having it done at Jesse Brown.
+
+DOCTOR O873
+Okay.  Okay, so you didn't have it done here.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+You had it at Jesse Brown.
+
+PATIENT O873
+Yeah.  Uh-huh.
+
+DOCTOR O873
+So I'll see if we can find that at Jesse Brown.
+
+PATIENT O873
+Uh-huh.
+
+DOCTOR O873
+You said it was fine or?
+
+PATIENT O873
+Uh yeah, yeah because they say it was okay to have surgery.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+You know.  The only thing I was concerned about is that my eyes turned red and then after I come out of surgery in Recovery the doctors knew my pressure was high, my blood pressure was high and my eyes were red again so I don't know if something has something to do with the @@@ pressure is up or something going on with my eyes again.  You know they noticed that they were bloodshot during that test.
+
+DOCTOR O873
+I never heard about not taking aspirin.  I mean I know for surgery.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+But not in general.
+
+PATIENT O873
+Oh they definitely said not to take it prior to surgery.
+
+DOCTOR O873
+I know for surgery but I'm not, I'm saying.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+Cause you have heart, you know what I mean you have heart problems.
+
+PATIENT O873
+I got a heart murmur.
+
+DOCTOR O873
+Well yeah you have heart disease.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+In general, you have blockages in your arteries so.
+
+PATIENT O873
+Oh okay.
+
+DOCTOR O873
+I don't think, it doesn't make sense to me that you shouldn't be on.
+
+PATIENT O873
+You want me to go back taking them?
+
+DOCTOR O873
+I mean I would.  I'm going to talk it over with my boss and see what @@@.
+
+PATIENT O873
+Okay if you want me to go back on them I take them.
+
+DOCTOR O873
+But uh it doesn't make sense.  I know for surgery but I don't think for permanently you shouldn't be taking it.
+
+PATIENT O873
+Yeah, yeah cause I have a heart murmur.
+
+DOCTOR O873
+Yeah.
+
+PATIENT O873
+I have a heart murmur and prior to exercising, walking on the treadmill, I get the chest pains and then all of a sudden once I get into my exercise it goes away yeah.
+
+DOCTOR O873
+And you had that test in October @@@ over there.
+
+PATIENT O873
+Right, at Jesse Brown.
+
+DOCTOR O873
+And you have 66%, you have.  @@@ defect @@@  They just injected you.
+
+PATIENT O873
+Right, yeah, they did an injection.  To mimic the running on the treadmill.
+
+DOCTOR O873
+Right.
+
+PATIENT O873
+They had me lay down, they hooked me up and then all of a sudden they gave me this injection and man my heart was racing man, as if I was on the treadmill or something.
+
+DOCTOR O873
+Okay.  Alright sir um and you're still getting chest pains quite a bit?
+
+PATIENT O873
+No, no, no.
+
+DOCTOR O873
+No, okay.
+
+PATIENT O873
+Not since I had the oral surgery.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+Uh-huh.
+
+DOCTOR O873
+Good.  Alright.  We need to examine you.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+You need to look at me now.  
+
+PATIENT O873
+I keep forgetting not to wear turtleneck sweaters when I come out here.
+
+DOCTOR O873
+Yeah.
+
+PATIENT O873
+You ran out of paper huh?
+
+DOCTOR O873
+Um.
+
+PATIENT O873
+Just no more paper.
+
+DOCTOR O873
+Yeah no more paper I guess.  That’s how the VA runs? It was bankrupt huh.
+
+PATIENT O873
+Yeah.  @@@.
+
+DOCTOR O873
+Deep breaths please.  Again.  Again, again.  One more please.  Are you moving your bowels okay?
+
+PATIENT O873
+Oh yes.
+
+DOCTOR O873
+No blood in your stool?
+
+PATIENT O873
+No, no and I'm eating a lot of fiber now.
+
+DOCTOR O873
+Good.
+
+PATIENT O873
+Whole grain wheat bread.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+So I'm not eating a lot of beef and pork.
+
+DOCTOR O873
+Good.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+Are you feeling better?
+
+PATIENT O873
+Oh much better since I stopped the gemfibrozil.  My energy come back.
+
+DOCTOR O873
+So you're taking the fish oil.
+
+PATIENT O873
+Yeah the fish oil definitely works for me.  Yeah I think the fish oil stopped my chest pain.
+
+DOCTOR O873
+So um, otherwise everything looks pretty good.  We don't have to repeat your cholesterol yet.
+
+PATIENT O873
+@@@.
+
+DOCTOR O873
+Not yet no.
+
+PATIENT O873
+Oh okay.
+
+DOCTOR O873
+You just had them in January.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+You had cholesterol done.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+But you can wait a few more months before your next appointment.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+You can put your clothes back on sir.
+
+PATIENT O873
+Yeah, alright.  Well doctor, is it okay to take the patch?
+
+DOCTOR O873
+Testosterone patch?
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+Why were you getting that anyway?
+
+PATIENT O873
+Because of the low energy.
+
+DOCTOR O873
+Yeah I don't think you need it.
+
+PATIENT O873
+You don't think so?
+
+DOCTOR O873
+No.  Did they ever check your testosterone level?
+
+PATIENT O873
+Yeah, yeah uh before you came my doctors, I had it checked and they say cause I, see I usually when I'm at the health club I'm always in the steam room and the sauna and the whirlpool.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+And uh, they told me well your testosterone was low and that's what started it but you know, I don't know, if you want.  I know my wife was taking hormones and then her doctors made her take them when she started coming to the VA, made her stop taking them because they were messing with the women,  they were telling the women they were causing cancer.
+
+DOCTOR O873
+Yeah, yeah they were.
+
+PATIENT O873
+Yeah, yeah, yeah.  So she couldn't take her.  She was taking Prempro and all that stuff.
+
+DOCTOR O873
+Are you still feeling a lot of low energy or?
+
+PATIENT O873
+Oh yeah I wants to sleep.  That's why I missed my appointment yesterday @@@ I can't get out the bed man.  I have no energy and I want to stay in the bed all day and I'm glad, the only reason why I made my appointment this morning is cause my wife's car is down I had to take her to her work and her job this morning.
+
+DOCTOR O873
+Oh.
+
+PATIENT O873
+Cause I said well I'm going to the VA otherwise I may have called you to cancel it man.
+
+DOCTOR O873
+Yeah.
+
+PATIENT O873
+Cause you see I had to take her to work.  I said well I'm gonna go and make my appointment, keep my appointment.  Sometime I just want to lay in the bed man.  I 36 years old in July.  @@@ aw man you don't look your age but I certainly feel it.
+
+DOCTOR O873
+We can check your testosterone level.
+
+PATIENT O873
+Well can you do that?
+
+DOCTOR O873
+If your low then um.
+
+PATIENT O873
+You put me back on?
+
+DOCTOR O873
+Yeah we could do that.
+
+PATIENT O873
+Okay then doc that's fine okay.  You know cause I don't want to end up with cancers.
+
+DOCTOR O873
+Right.  No I mean there are definitely risks to it.
+
+PATIENT O873
+Yeah but I know some guys around my age and stuff and older and they go to the health club and they say they got this cream now.  They don't use it cause I know one guy who used to use the patches.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+And now he takes the cream cause I ask him I say what happened, you don't use the patch no more, he said no I had my doctor prescribe me the cream and what he say he rubs it on his arm.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+And it goes right into his bloodstream.
+
+DOCTOR O873
+Right.
+
+PATIENT O873
+Yeah I say oh, okay.  But I liked the patch you know that's uh.
+
+DOCTOR O873
+You just leave it on and @@@.
+
+PATIENT O873
+Yeah, yeah.  @@@.
+
+DOCTOR O873
+I'll be back in a second sir.
+
+PATIENT O873
+Alrighty doctor.
+
+(DOCTOR OUT:  67:58  DOCTOR IN:  78:47)
+
+DOCTOR O873
+Alright sir.
+
+PATIENT O873
+Uh-huh.
+
+DOCTOR O873
+Well um, you can repeat your cholesterol.  Did you eat breakfast by any chance this morning?
+
+PATIENT O873
+No I didn't but I had a cup of coffee.
+
+DOCTOR O873
+Uh black or sugar?
+
+PATIENT O873
+Black, no sugar, no cream.
+
+DOCTOR O873
+Okay.  Um so we'll check your cholesterol and see where we stand okay.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+And uh did the cardiologist want to see you again or did he tell you anything about anything or?
+
+PATIENT O873
+Well uh, they wanted to know what were the tests I might end up doing so he just wanted me to have this test but since I had the surgery and they did the tests twice and I saw the cardiologists out there and they said well everything was okay, he was cleared for surgery and just keep exercising and stuff and eat your proper food.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+Uh-huh.
+
+DOCTOR O873
+And you're still having chest pains sometimes?
+
+PATIENT O873
+Yeah every now and then.  Yeah but I try to exercise.  So as long as I keep moving and exercising I don't have that.
+
+DOCTOR O873
+Um we're going to have to switch your pills around.
+
+PATIENT O873
+Uh-huh.
+
+DOCTOR O873
+Uh a little bit cause uh we're going put you on a different uh cholesterol pill.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+Okay, called Crestor.
+
+PATIENT O873
+Oh okay, I heard of that.  They advertise on TV.  My wife used to take that.
+
+DOCTOR O873
+Uh-huh.  So I'll do it right here.
+
+PATIENT O873
+But it won't have nothing to do with my glaucoma with it?
+
+DOCTOR O873
+No, no, it doesn't and aspirin doesn't.  No one knows if aspirin will do anything for glaucoma.
+
+PATIENT O873
+Oh okay then, so it's okay with the aspirin too?
+
+DOCTOR O873
+Yeah, yeah.  I don't know what the eye doctors told you but.
+
+PATIENT O873
+Yeah.
+
+DOCTOR O873
+You know I would take the aspirin.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+And we'll check your testosterone again okay?
+
+PATIENT O873
+Okay doctor.  The thing that was making a lot of noise when you left out here.
+
+DOCTOR O873
+Yeah I don't know what they're doing.
+
+PATIENT O873
+Oh okay.
+
+DOCTOR O873
+It's crazy @@@.  They're always fixing something.
+
+PATIENT O873
+Yeah.  They was really going to work there and I thought it was going to blow up for a minute.
+
+DOCTOR O873
+Now I'll see you back in six months or so.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+You should, you should call the cardiologist and set up another appointment with them.
+
+PATIENT O873
+You think so?
+
+DOCTOR O873
+Yeah I really do.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+Yeah just so they can kind of see everything.
+
+PATIENT O873
+Oh okay then.
+
+DOCTOR O873
+Um.
+
+PATIENT O873
+Yeah I know when the guy put me in the tube to check my heart and then afterwards he came back and he walked over to me and asked me was I wearing a necklace or something.
+
+DOCTOR O873
+Uh-huh.
+
+PATIENT O873
+I said no and @@@ right here in the middle.  Something must have showed up.
+
+DOCTOR O873
+Okay.
+
+PATIENT O873
+Something must have showed up on that uh.
+
+DOCTOR O873
+So make an appointment with the Cardiology Department and get that taken care of.  Okay.
+
+PATIENT O873
+Okay.
+
+DOCTOR O873
+I think that's important so.
+
+PATIENT O873
+Uh-huh.
+
+DOCTOR O873
+They don't need another consult from me in the computer; they just need you to call.
+
+PATIENT O873
+Just make an appointment at @@@.
+
+DOCTOR O873
+You can ask them up front if they can make that for you.
+
+PATIENT O873
+Okay doctor I will.
+
+DOCTOR O873
+Okay.  Alright.
+
+PATIENT O873
+You want me to fast for the blood.  I can come back another time.
+
+DOCTOR O873
+No, no, you're fine.  You can give blood today.
+
+PATIENT O873
+Okay that coffee, I can go right now.
+
+DOCTOR O873
+Yeah.  No that's fine.  They don't mind taking it.
+
+PATIENT O873
+@@@ fine okay, have a good day sir.
+
+DOCTOR O873
+You too sir, take care.
+
+PATIENT O873
+Okay, take care, thank you doctor.
+
+PATIENT LEAVES 84:30
+
+Time is 11:05.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1238093
+TRANSACTION # 578-10-2-316-0103

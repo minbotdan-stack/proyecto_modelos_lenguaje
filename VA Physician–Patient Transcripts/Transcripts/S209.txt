@@ -1,0 +1,353 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@@ 
+
+DOCTOR S209
+PATIENT.
+
+PATIENT S209
+Who?
+
+DOCTOR S209
+PATIENT.
+
+PATIENT S209
+Uh-huh.  Hi.
+
+DOCTOR S209
+How you doing?
+
+PATIENT S209
+Alright.
+
+DOCTOR S209
+Is it still raining pretty hard out there?
+
+PATIENT S209
+Huh?
+
+DOCTOR S209
+Is it still raining pretty hard?
+
+PATIENT S209
+Yeah.
+
+DOCTOR S209
+How's everything going?
+
+PATIENT S209
+Uh well I ran out of medicine.
+
+DOCTOR S209
+Oh my.
+
+PATIENT S209
+I ran out of gout medicine.
+
+DOCTOR S209
+Okay.
+
+PATIENT S209
+I couldn’t order it.  I told you before to put that thing in and then the magnesium I ran out of it, couldn't order it.
+
+DOCTOR S209
+Hmm.  Well the gout medicine they only gave you nine pills.  They barely gave you any of the medicine when they gave it to you for the gout.
+
+PATIENT S209
+They what?
+
+DOCTOR S209
+They only gave you a few pills of the gout medicine when they did give it to you right?
+
+PATIENT S209
+Uh-huh.
+
+DOCTOR S209
+They didn't give you enough to last a month okay.  Hmm.  How about your insulin?  Did you need it?
+
+PATIENT S209
+I've got insulin.
+
+DOCTOR S209
+Okay.  And are you taking the vitamin D, that big pill once a week?
+
+PATIENT S209
+Uh-huh.
+
+DOCTOR S209
+You finished taking it?
+
+PATIENT S209
+I got two left.  @@@.  There’s some in there.  I got about two left.
+
+DOCTOR S209
+Okay.
+
+PATIENT S209
+Yeah.
+
+DOCTOR S209
+Alright.  How's everything else going?  You're urinating okay?
+
+PATIENT S209
+Uh-huh.
+
+DOCTOR S209
+Are you having any gout attacks anywhere?
+
+PATIENT S209
+Yeah, I have had yeah.
+
+DOCTOR S209
+You have recently?
+
+PATIENT S209
+Yeah.
+
+DOCTOR S209
+Which joints do you have it in?
+
+PATIENT S209
+It switches, it'd be in both of them, both feet.
+
+DOCTOR S209
+In your feet.
+
+PATIENT S209
+And then sometime it be in the toes.
+
+DOCTOR S209
+Yeah.  Is it bad right now?
+
+PATIENT S209
+No.
+
+DOCTOR S209
+Okay.
+
+PATIENT S209
+I used the medicine today though.
+
+DOCTOR S209
+For your gout?
+
+PATIENT S209
+Yeah.
+
+DOCTOR S209
+Okay.  How often do you have to take that gout medicine?
+
+PATIENT S209
+Well I don't know maybe, you can't tell.
+
+DOCTOR S209
+Well I mean like in an average month, like last month how many times did you have to take it?
+
+PATIENT S209
+About twice.
+
+DOCTOR S209
+Okay.  Okay.  Okay.  Do you get any low sugars with this ever?
+
+PATIENT S209
+Lotion?
+
+DOCTOR S209
+Do you get any low sugars?  Does your sugar get low?
+
+PATIENT S209
+Not too low.  I got the book; you want to see the book?
+
+DOCTOR S209
+Sure.  And how much insulin do you use right now?
+
+PATIENT S209
+20 and 5.
+
+DOCTOR S209
+Okay.  Yeah this is looking good.  I think these are great.
+
+PATIENT S209
+Uh-huh.
+
+DOCTOR S209
+So as long as your sugar is not getting too low, we won't need to change anything then.
+
+PATIENT S209
+Okay.
+
+DOCTOR S209
+Okay.  Okay and you don't smoke right?
+
+PATIENT S209
+No.  You see, she's said I'm supposed to have a tetanus shot.
+
+DOCTOR S209
+Yeah I was just gonna ask you that.  Do you know when your last tetanus shot was?
+
+PATIENT S209
+I don't remember.
+
+DOCTOR S209
+Okay.  Was it, you think in the last ten years?
+
+PATIENT S209
+Yeah.
+
+DOCTOR S209
+It was in the last ten years?
+
+PATIENT S209
+Uh-huh.
+
+DOCTOR S209
+Yeah okay.  Okay.  Well give me a few minutes I'm gonna go talk to DOCTOR so I'll be right back.
+
+PATIENT S209
+Okay.
+
+(DOCTOR OUT:  11:54  DOCTOR IN:  22:09)
+
+DOCTOR S209
+So you're saying you take the gout pills twice a month and you just take one pill twice a month?
+
+PATIENT S209
+No.
+
+DOCTOR S209
+Then what?
+
+PATIENT S209
+They changed it back to three.
+
+DOCTOR S209
+Okay.
+
+PATIENT S209
+Three pills.
+
+DOCTOR S209
+And that takes care of it when you have a gout attack?
+
+PATIENT S209
+It supposed, come sometimes it cools it off.
+
+DOCTOR S209
+Uh-huh.
+
+PATIENT S209
+But it didn't stop it all the time.
+
+DOCTOR S209
+Okay.  And have you ever been on a medicine that you take every day to help prevent gout attacks?
+
+PATIENT S209
+No.
+
+DOCTOR S209
+Um because there's a medicine called allopurinol that you can take one pill every day and it's supposed to help decrease the amount of uric acid in your body and uric acid is what causes gout attacks.
+
+PATIENT S209
+Oh.
+
+DOCTOR S209
+Would you like to start that pill to take to help prevent the gout attacks?  It’s one pill once a day and it helps your kidneys get rid of some of that extra uric acid in the body and that uric acid is what gets in your joints and can cause the gout flares.
+
+PATIENT S209
+Yeah.
+
+DOCTOR S209
+But it is one more pill you'd have to take every day.  It's not just the pill that you take when you have the gout attack.
+
+PATIENT S209
+Uh-huh.
+
+DOCTOR S209
+It something you take every single day.
+
+PATIENT S209
+Okay, yeah.
+
+DOCTOR S209
+Okay and you want to pick it up today?
+
+PATIENT S209
+Yeah.
+
+DOCTOR S209
+Alright.
+
+PATIENT S209
+I want the magnesium.
+
+DOCTOR S209
+And the magnesium also.
+
+PATIENT S209
+Yeah.
+
+DOCTOR S209
+Okay.  Are those the only ones you're gonna pick up today?
+
+PATIENT S209
+Yeah.
+
+DOCTOR S209
+Okay.  So let me do that first.  Okay so those medicines will be at the Pharmacy today.
+
+PATIENT S209
+Okay.
+
+DOCTOR S209
+And let me go through all your other medicines and make sure you have enough refills left so you can call for it.  Okay.  Okay so it'll be at the Pharmacy.
+
+PATIENT S209
+Okay.
+
+DOCTOR S209
+And you don't need the shot.  You don't need a tetanus shot because you had one in 2003.
+
+PATIENT S209
+Okay oh.
+
+DOCTOR S209
+Okay so you got the tetanus shot, just eight years ago and you don't need a booster.
+
+PATIENT S209
+Okay, okay.
+
+DOCTOR S209
+So you're gonna continue all your medicines and start this new one.  It's called allopurinol.
+
+PATIENT S209
+Uh-huh.
+
+DOCTOR S209
+Just one pill once a day.
+
+PATIENT S209
+Alright, okay, yeah.
+
+DOCTOR S209
+Okay and then we're gonna have you come back and see the pharmacist in a couple of months.
+
+PATIENT S209
+Okay.
+
+DOCTOR S209
+They’ll mail you @@@.
+
+PATIENT S209
+Okay, okay.
+
+DOCTOR S209
+Alright, take care.
+
+PATIENT S209
+Yeah alright, yeah.
+
+PATIENT LEAVES:  28:00
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286151
+TRANSACTION # 578-10-2-316-0103

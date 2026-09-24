@@ -1,0 +1,811 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR M255
+PATIENT?  
+ 
+PATIENT M255
+Yes.
+
+DOCTOR M255
+@@@ Come on back.  How are you today?
+
+PATIENT M255
+I'm alright doc.
+
+DOCTOR M255
+Okay and your doctor is doctor?
+
+PATIENT M255
+DOCTOR.
+
+DOCTOR M255
+DOCTOR.
+
+PATIENT M255
+Yes sir.
+
+DOCTOR M255
+What brings you in today?
+
+PATIENT M255
+I been breaking out on my legs with this here man.  I been breaking out with these things man all over my legs.  I don't know what's going on man.
+
+DOCTOR M255
+Hmm.
+
+PATIENT M255
+You know what I mean.
+
+DOCTOR M255
+We got to take a look.
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+When did first notice this?
+
+PATIENT M255
+About a week ago man.  You know but I thought it was gonna go away by itself but you know.  I been having a lot of pain.  I say about four days man, four or five days.
+
+DOCTOR M255
+Yeah okay.  So let me see right here.  Have you ever had this before?
+
+PATIENT M255
+What these here?
+
+DOCTOR M255
+Yeah.
+
+PATIENT M255
+Yeah they come on this area right here.
+
+DOCTOR M255
+What do have to resolve them?
+
+PATIENT M255
+Yeah that was about, that was a while back.
+
+DOCTOR M255
+Like a year ago or two years ago?
+
+PATIENT M255
+It was about; it was the early part of this year.
+
+DOCTOR M255
+And what did they figure out was the problem then?
+
+PATIENT M255
+They said it could have been some hair pigment or something, you know what I mean.
+
+DOCTOR M255
+Okay folliculitis?
+
+PATIENT M255
+Yeah, yeah.
+
+DOCTOR M255
+Let me see, did they give you antibiotics?
+
+PATIENT M255
+Yes sir.
+
+DOCTOR M255
+Let me see, did you see DOCTOR for that?
+
+PATIENT M255
+Not this here, but I think I went to the Emergency Room.
+
+DOCTOR M255
+Uh-huh.  
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+And do remember what time of the year it was?
+
+PATIENT M255
+That I went to the Emergency Room?
+
+DOCTOR M255
+The Emergency Room yeah.
+
+PATIENT M255
+Oh it had to be in summer.  I think it was during the summer.
+
+DOCTOR M255
+Let see what uh, was like in July?
+
+PATIENT M255
+Yeah I don't know exactly but I don't want to start you know fibbing but I know I came in before.
+
+DOCTOR M255
+@@@.
+
+PATIENT M255
+Yeah summer yeah.
+
+DOCTOR M255
+Okay.  I’ll see if I can figure it out.  Okay it looks like you saw someone in April in the clinic here. 
+
+PATIENT M255
+Uh-huh yeah.
+
+DOCTOR M255
+DOCTOR.
+
+PATIENT M255
+Yeah, yeah.
+
+DOCTOR M255
+And it said you had some, they gave you some Bactrim.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+Did it work?
+
+PATIENT M255
+Yeah then they gave me an antibiotic too.
+
+DOCTOR M255
+That was the antibiotic, did it work?
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+It resolved?
+
+PATIENT M255
+Uh-huh.  But it still leaves a mark there you know what I mean.
+
+DOCTOR M255
+Like a scar.
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+Yeah.  Where do you live?
+
+PATIENT M255
+I live at ADDRESS.
+
+DOCTOR M255
+@@@.
+
+PATIENT M255
+Forest Park, yeah apartment @@@.
+
+DOCTOR M255
+You live by yourself?
+
+PATIENT M255
+Yes.
+
+DOCTOR M255
+Okay.  Um and you weren't previously, have you ever been tested for MRSA?  Do you know what that is?
+
+PATIENT M255
+Yeah they said I had that.
+
+DOCTOR M255
+You have MRSA?
+
+PATIENT M255
+Yeah that's what they said, I don't know man.
+
+DOCTOR M255
+@@@.
+
+PATIENT M255
+That could be the problem too?
+
+DOCTOR M255
+Well it could be one of the bacteria that infecting those.  So, but they @@@.
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+Is that the only one you have right now?
+
+PATIENT M255
+Yeah the only two.  This one was one too.
+
+DOCTOR M255
+Yeah, it looks like your body's repaired one and this one's been going on for about week?
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+I know it probably hurts, are they painful?
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+Have you had any fevers?
+
+PATIENT M255
+Uh uh.
+
+DOCTOR M255
+Any chills?
+
+PATIENT M255
+Nope.
+
+DOCTOR M255
+Any nausea or vomiting?
+
+PATIENT M255
+Uh uh.
+
+DOCTOR M255
+Uh and do they itch?
+
+PATIENT M255
+No.
+
+DOCTOR M255
+Just painful?
+
+PATIENT M255
+Yeah, yes.
+
+DOCTOR M255
+Alright bear with me.  How old is this one?
+
+PATIENT M255
+They came out the same time; well this one came out first.
+
+DOCTOR M255
+This one did?
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+Yeah it looks older.
+
+PATIENT M255
+Yeah and this one came about.
+
+DOCTOR M255
+Did you pop that or anything?
+
+PATIENT M255
+No.
+
+DOCTOR M255
+Does that hurt?
+
+PATIENT M255
+Nope.  Uh uh, I can take pain man.
+
+DOCTOR M255
+Yeah, yeah.
+
+PATIENT M255
+Hmm.
+
+DOCTOR M255
+Well its firm and what I'm trying to say is that I don't think there's a bunch of pus down there.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+If there was I’d think that'd be an abscess.
+
+PATIENT M255
+I squeezed it, I squeezed it.
+
+DOCTOR M255
+Did you get anything out?
+
+PATIENT M255
+Pushed out red blood yeah.
+
+DOCTOR M255
+Okay.  And you got olds ones?
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+Let me see the old ones.
+
+PATIENT M255
+That one right there, on my leg here.  Another down there you know. All over.
+
+DOCTOR M255
+Yep.
+
+PATIENT M255
+That's what I've been saying man.  @@@.
+
+DOCTOR M255
+Do you use IV drugs?
+
+PATIENT M255
+No.
+
+DOCTOR M255
+Um do you recreational?
+
+PATIENT M255
+No no drugs.
+
+DOCTOR M255
+Um, do you have any type of liver disease like hepatitis C?
+
+PATIENT M255
+I have hepatitis C yeah.
+
+DOCTOR M255
+Hepatitis C.
+
+PATIENT M255
+Yeah, yeah, could that be involved?
+
+DOCTOR M255
+I don’t know.  Um I'm just trying to see if your immune system's intact.  Um you don't have any immune, you don't take steroids or anything?
+
+PATIENT M255
+Uh uh, nope.
+
+DOCTOR M255
+I think we can give you the same antibiotic for you.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+I think we are going to give you an antibiotic and I think it'll help clear it up.  You can, I don't know if we have uh, so basically what we found when you were admitted to the hospital, we do like those nasal swabs. Do you ever remember getting the nasal swabs?
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+You have a bug that grows in there called methicillin-resistant Staph aureus.  You've heard about Staph infection?
+
+PATIENT M255
+Uh uh.
+
+DOCTOR M255
+Uh it's the type of bacteria that grows on all our skin.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+Okay and you can get a folliculitis, which means the follicle, the hair follicle is infected.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+And usually your body deals with it, you know like a zit.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+You know uh when you get a zit or a pimple, that's an infected little, you know I've got one forming here.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+Or here's an old one.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+You got an old one here.
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+And you can probably see @@@.
+
+PATIENT M255
+Yeah, yeah.
+
+DOCTOR M255
+Yeah right here and right here.
+
+PATIENT M255
+Uh-huh, yeah.
+
+DOCTOR M255
+Those are little bitty like inflammations and your body usually deals with it.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+Sometimes though we can get an ingrown hair.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+Follicle that can get stuck, trapped in there like that pus.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+And it's a little stronger infection okay.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+And you have a bug in your body, not everyone has it, some people have it and if it's in your nose we say it's colonized.  You know, it's just these bacteria grow they don't cause infection for you most of the time.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+You may have a little bit of an infection with skin flow which could be this resistant bug called MRSA.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+In which case we can give you an antibiotic which will help clear it.  If you want to get rid of the bug entirely you can do this Decolonization Clinic, I don't think we have it here at the VA though.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+You'd have to go to a private hospital to get that done.
+
+PATIENT M255
+What was that called?
+
+DOCTOR M255
+It's like a Decolonization MRSA Clinic.
+
+PATIENT M255
+Uh-huh okay.
+
+DOCTOR M255
+They have one at Loyola but I don't know, I don't know what the options are for veterans.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+Um I'll go and ask what my attending what they think but I think if we give you an antibiotic for that we can clear that up okay.
+
+PATIENT M255
+Okay.  Hey doc another things man, could write me a prescription now for some smoke patches?
+
+DOCTOR M255
+Uh nicotine patches?
+
+PATIENT M255
+Yeah I'm trying to quit that and we have a new year coming in now.
+
+DOCTOR M255
+Do you have them; have you tried those in the past?
+
+PATIENT M255
+Yeah I've had them in the past but I failed man cause you know.  Lot of stress man and stuff.
+
+DOCTOR M255
+Alright.
+
+PATIENT M255
+But I'm gonna really try to quit the first of the year this time man, I'm really going to try and do this.
+
+DOCTOR M255
+Yeah I can give you some @@@ okay.
+
+PATIENT M255
+Yeah but I need 21 doc to start over again.
+
+DOCTOR M255
+Yep, I can give you the whole thing okay.
+
+PATIENT M255
+Okay doc.
+
+DOCTOR M255
+How much do you smoke a day?
+
+PATIENT M255
+I smoke about a half; I smoke about a half a pack to a whole pack, yeah about a half a pack a day.  Maybe a little bit more than that.
+
+DOCTOR M255
+Yeah, nicotine, what they don't tell you nicotine is one of the most addictive substances @@@.
+
+PATIENT M255
+Yeah I know man.  See I been sober for going on three years.
+
+DOCTOR M255
+Yeah.
+
+PATIENT M255
+Dealing with alcohol.
+
+DOCTOR M255
+Yeah, right.
+
+PATIENT M255
+But the cigarettes, man it's really hard @@@ man.
+
+DOCTOR M255
+And if they don't, that's okay, just do it again.
+
+PATIENT M255
+Okay.
+
+DOCTOR M255
+Quit again.
+
+PATIENT M255
+Okay.
+
+DOCTOR M255
+So I'm glad you want this.
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+Hang tight, let me see if there’s any options for you.
+
+PATIENT M255
+Okay.
+
+DOCTOR M255
+I don't know, it's probably @@@.
+
+PATIENT M255
+@@@ testing for prostate.
+
+DOCTOR M255
+Yeah.
+
+PATIENT M255
+I never had a test for that.
+
+DOCTOR M255
+Have you ever had a rectal exam?
+
+PATIENT M255
+Where they look up in my rear end?
+
+DOCTOR M255
+Uh-huh.
+
+PATIENT M255
+Yeah I think so but I don't remember.
+
+DOCTOR M255
+Okay.  Let's see here.  You've had a PSA done before.
+
+PATIENT M255
+I did.
+
+DOCTOR M255
+You had it done a year ago.
+
+PATIENT M255
+Okay.
+
+DOCTOR M255
+If you want us to repeat that we can.
+
+PATIENT M255
+Yeah, so it came back negative?
+
+DOCTOR M255
+It came back within normal limits.
+
+PATIENT M255
+Okay.
+
+DOCTOR M255
+It wasn't high.
+
+PATIENT M255
+Okay.
+
+DOCTOR M255
+Do you want me to recheck it again this year?
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+Okay.
+
+PATIENT M255
+I need to get it rechecked.  
+
+DOCTOR M255
+And then your primary care physician should be able to get those if you follow with him.
+
+PATIENT M255
+Okay.
+
+DOCTOR M255
+Okay.
+
+PATIENT M255
+Okay doc.
+
+DOCTOR M255
+Hang tight, I’ll be right back sir.
+
+PATIENT M255
+Sure.
+
+DOCTOR M255
+One more thing.  Okay.  I'll be right back.
+
+PATIENT M255
+Okay doc.
+
+(DOCTOR OUT:  33:10  DOCTOR IN:  35:23)
+
+DOCTOR M255
+I have some forms for you.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+And then you need to go down to.
+
+PATIENT M255
+The Pharmacy.
+
+DOCTOR M255
+In the lab to get the PSA, we can do that as well today.  
+
+PATIENT M255
+But yeah, can you tell me when I supposed to see DOCTOR again so I didn't get me no letter.
+
+DOCTOR M255
+@@@.
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+Let me check and see.  You do not have one scheduled.
+
+PATIENT M255
+Okay.
+
+DOCTOR M255
+So you need to have one scheduled @@@?
+
+PATIENT M255
+Okay.
+
+DOCTOR M255
+Just follow up on that.
+
+PATIENT M255
+Sure.
+
+DOCTOR M255
+@@@ okay. 
+
+PATIENT M255
+Okay.
+
+DOCTOR M255
+And we're going to refill your nicotine patches.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+Nicotine patches.
+
+PATIENT M255
+Yes sir.
+
+DOCTOR M255
+And then I need you to go all the way down for the window, you want to pick the up today?
+
+PATIENT M255
+Yeah, so I can go straight to the window, I don't have to pull that slip or do I still have to pull the slip?
+
+DOCTOR M255
+What do you mean by pull the slip?
+
+PATIENT M255
+You know they got outpatient, wheelchair, you know cause you got to pull the thing first, then go to the window.
+
+DOCTOR M255
+Oh I don't know.
+
+PATIENT M255
+Well yeah.
+
+DOCTOR M255
+I'd just give me that.
+
+PATIENT M255
+Yeah let's do that.
+
+DOCTOR M255
+Yeah there might be a bit of a wait, but definitely you need the antibiotic though.
+
+PATIENT M255
+Right I definitely need that.
+
+DOCTOR M255
+Yeah and you know if you're going to wait for the antibiotic, you want to go to the.
+
+PATIENT M255
+Yeah I'm gonna wait.
+
+DOCTOR M255
+The nicotine patches.
+
+PATIENT M255
+Uh-huh yeah I'm gonna wait.
+
+DOCTOR M255
+Okay and then we're going to have DOCTOR call you with the PSA or if you get an appointment with her in the next month or two you can just wait for it here.
+
+PATIENT M255
+Yeah.
+
+DOCTOR M255
+Either way.
+
+PATIENT M255
+Yeah I can wait, it don't matter.
+
+DOCTOR M255
+Yeah.
+
+PATIENT M255
+Uh-huh.
+
+DOCTOR M255
+Okay.
+
+PATIENT M255
+Okay doc, thanks a lot.
+
+DOCTOR M255
+Nice to meet you.
+
+PATIENT M255
+Nice to meet you too doc.
+
+DOCTOR M255
+Take this with you when you sign out and um I hope you have a Happy New Year.
+
+PATIENT M255
+You too doc, thank you.
+
+PATIENT LEAVES:  39:08.
+
+Time is 2:33.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1246966
+TRANSACTION # 578-10-2-316-0103

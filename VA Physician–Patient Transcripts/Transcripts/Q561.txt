@@ -1,0 +1,799 @@
+Date of Encounter: @@/@@/@@   
+Time of Encounter: @@@   
+
+DOCTOR Q561 
+PATIENT.
+
+PATIENT Q561
+How you doing?
+
+DOCTOR Q561
+Good.  We go all the way to the end.  Are you doing okay?  Any problems?  I'm DOCTOR.
+
+PATIENT Q561
+How you doing?
+
+DOCTOR Q561
+Nice to meet you.  Uh anything new going on that you wanted to talk about?
+
+PATIENT Q561
+Not really.
+
+DOCTOR Q561
+No, okay.  So this is just kind of a routine visit?  
+
+PATIENT Q561
+Alright.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+Just a different doctor, different doctor.
+
+DOCTOR Q561
+There's always a different doctor I know, I know.  Alright.  Your blood pressure's a bit high; um it's in the 150s.  What does it usually run at home or do you check it at all?
+
+PATIENT Q561
+Well I haven't checked it lately but when she was, the first time she did it it stayed high?
+
+DOCTOR Q561
+Yeah, yeah.  It was 152 and on the repeat it was 154.
+
+PATIENT Q561
+Oh it was, see we was talking.
+
+DOCTOR Q561
+Yeah.
+
+PATIENT Q561
+And I wasn't you know if you get upset the blood pressure goes up.
+
+DOCTOR Q561
+Oh I know, absolutely.
+
+PATIENT Q561
+So I was talking about what DOCTOR did to me and that made my blood pressure go.
+
+DOCTOR Q561
+Oh okay so you were upset.
+
+PATIENT Q561
+So you might need to check it again and see if I'm relaxed some you know.
+
+DOCTOR Q561
+Oh sure yeah we'll check it in a little bit.  Hopefully you won't.
+
+PATIENT Q561
+Cause I mean that's what happened you know.  I got, a little I think I got a little upset cause of what she did to me, stuff like that you know.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+Otherwise it don't really be high I me.  When I took it at home it was like 130 something you know or something like that.  You know it don't be high like 150.
+
+DOCTOR Q561
+Sure, alright okay.  Let's see, I'm just gonna look at your lab work to see if there's anything done here recently.
+
+PATIENT Q561
+I don't think so; I didn't have no blood taken in a while.
+
+DOCTOR Q561
+Yeah we need to update that.  The last time you had anything was um electrolytes and checking your kidney function in July and back then it was okay.  So will you be able to go to the Lab, I mean have you eaten yet today?
+
+PATIENT Q561
+Yeah I ate this morning.
+
+DOCTOR Q561
+Yes.
+
+PATIENT Q561
+Ate this morning, but I ain't had nothing for lunch.
+
+DOCTOR Q561
+Okay.  So.
+
+PATIENT Q561
+Which is more than like before 6 o'clock so you should be able to draw some blood right?
+
+DOCTOR Q561
+Yeah the, unfortunately I want to check your cholesterol too and to check your cholesterol you can't have eaten anything um from midnight until you get the lab work and then.
+
+PATIENT Q561
+So I got to come back okay.
+
+DOCTOR Q561
+So yeah.  Yeah and you can do that anytime within the next month and I'll take a look at them and in the computer a follow-up.
+
+PATIENT Q561
+Come in here, don't eat no breakfast, come in here and get it drawn and then you'll have that here.
+
+DOCTOR Q561
+Right, yep, nothing after midnight and then come in here.  You know where you get it checked.
+
+PATIENT Q561
+Yeah, yeah I know where I need to go.
+
+DOCTOR Q561
+Yeah because I know you were hospitalized at St. Francis a little while ago.
+
+PATIENT Q561
+That's cause I was given some metformin.
+
+DOCTOR Q561
+Yeah.
+
+PATIENT Q561
+It was too strong for me.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+It was too strong, it was 850 mg and it bothered my, I think the doctor said my liver or my kidneys one and when I got in the hospital he said no it no good for you which is, it was bothering me because it was sending me to the bathroom every hour, before the hour.
+
+DOCTOR Q561
+Hmm.
+
+PATIENT Q561
+Forceful urination.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+And then it finally of dehydrated me so I had to go to the Emergency Room at St. Francis cause the ambulance took me to the closest hospital to my house.
+
+DOCTOR Q561
+Did they check your sugars then?  Did they see how high those were?
+
+PATIENT Q561
+I think they checked everything.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+Otherwise they would've let me go.
+
+DOCTOR Q561
+So now what are you taking for your blood sugars?
+
+PATIENT Q561
+Glipizide and then metformin.
+
+DOCTOR Q561
+Oh you're still taking the metformin.
+
+PATIENT Q561
+But only at that lower dosage cause you she me 850 mg and when I told them it made me sick, they changed me down to 450.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+That's what she did and its better but it's still almost like the same thing cause I have to go, it won't let me hold, I can't hold.
+
+DOCTOR Q561
+Uh-huh.
+
+PATIENT Q561
+No water, I have to go.  It don't matter where I'm at.
+
+DOCTOR Q561
+Uh-huh.
+
+PATIENT Q561
+It's like that feeling come on I have to go.
+
+DOCTOR Q561
+Uh-huh.
+
+PATIENT Q561
+And it come out, that's how those pills, some pills do me.  For some reason, I don't know why.
+
+DOCTOR Q561
+So yeah, you know everybody reacts differently to medications.  Most of my patients who have diabetes are on 1000 of metformin twice a day.  That's the regular dose.
+
+PATIENT Q561
+I don't think it's too strong for anybody.
+
+DOCTOR Q561
+No it's actually, I mean it.
+
+PATIENT Q561
+I guess it all depends on how your sugars is running.
+
+DOCTOR Q561
+Oh it depends on your sugars.
+
+PATIENT Q561
+Yeah cause mine are running @@@@ high.
+
+DOCTOR Q561
+They're not running that @@@
+
+PATIENT Q561
+Yeah so that's what I'm saying.
+
+DOCTOR Q561
+Yeah absolutely, it depends on your sugars.  We don't want to drop your sugars too low and then um it really depends on each person and how they react to the medication.  You know in general metformin is one that a lot of people do tend to tolerate but everybody's different so you know you might have had urinary frequency from that.  A lot of times blood sugars being high can cause urinary frequency too.
+
+PATIENT Q561
+But like I said I been controlling my sugars.
+
+DOCTOR Q561
+Good, good.
+
+PATIENT Q561
+And the thing is she took me off of insulin and said I shouldn't be taking insulin which I been taking insulin all along and put me on the metformin.  Uh the metformin, the dose that she gave me was too strong.
+
+DOCTOR Q561
+Okay, good.
+
+PATIENT Q561
+Because it was like sending me to the bathroom, just automatically just hurried up and ended me sending me to the bathroom and I never went to the bathroom that many times like that there and then finally it dehydrated me cause it just really dehydrates you.
+
+DOCTOR Q561
+Uh-huh.
+
+PATIENT Q561
+And I’m sitting at home and boom I got dehydrated and almost passed out.
+
+DOCTOR Q561
+So you're okay on the 500?
+
+PATIENT Q561
+Uh 450 yeah, I'm better with it, 450 you know.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+Cause if it was bothering me I wouldn't want to take that either.  I mean I don't need to take something that makes me sick or make me go to the bathroom.
+
+DOCTOR Q561
+Yeah.  Well um, let me see, so what I want to do is to check your cholesterol and I'm also gonna check your sugars and how they're being controlled.
+
+PATIENT Q561
+Okay.
+
+DOCTOR Q561
+Um do you test your sugars at home?
+
+PATIENT Q561
+Sometimes I do, I stopped doing it for a while because you know that's two fingers every day and them fingers.
+
+DOCTOR Q561
+@@@.
+
+PATIENT Q561
+And them fingers, see all the marks on my fingertips there.
+
+DOCTOR Q561
+Absolutely.
+
+PATIENT Q561
+Cause I just learn, the new nurses that uh at Cabrini showed me how to do it from the side so it don't you know cause I usually doing the tips, that's what I was taught to prick the tips, now I know to do the sides.
+
+DOCTOR Q561
+Yeah.
+
+PATIENT Q561
+But you see all the marks, because I been doing it for awhile. I mean I said I feel great I mean.  I aint’ feeling bad, I don't think I be having to draw, taking that sugar every day.
+
+DOCTOR Q561
+Uh-huh.
+
+PATIENT Q561
+But if you want me to take it every other day or something like then give you the results, I can do that.
+
+DOCTOR Q561
+Yeah you know if it's stable every other day, every couple days then that's fine.
+
+PATIENT Q561
+Then what, so what, how high should the sugar go?
+
+DOCTOR Q561
+After you eat.
+
+PATIENT Q561
+Uh-huh.
+
+DOCTOR Q561
+It's okay for it to go to 150-160.
+
+PATIENT Q561
+Okay after I eat but before I eat, I usually take it before I eat.
+
+DOCTOR Q561
+Yeah before you eat I tend to like to see it 110 and below.
+
+PATIENT Q561
+110 and below.
+
+DOCTOR Q561
+Uh-huh.
+
+PATIENT Q561
+Okay, okay.  110 and below.
+
+DOCTOR Q561
+But the test that I'm gonna do is going to check your blood sugars and how they've been controlled over the past three months, it's a test that kind of can see how it's been over the past month to three months.
+
+PATIENT Q561
+Uh-huh.
+
+DOCTOR Q561
+So we'll get a better idea.
+
+PATIENT Q561
+Okay, okay.
+
+DOCTOR Q561
+Um let's see.  Have you ever had a colonoscopy?
+
+PATIENT Q561
+Yes.
+
+DOCTOR Q561
+When was that?  Oh actually I see it here, oh it was 2010.
+
+PATIENT Q561
+I had a couple of those and the other one go down through my throat too.
+
+DOCTOR Q561
+And in 2010 it looks like.
+
+PATIENT Q561
+I had triple bypass, I had a gallbladder taken out, what else.  That's about it, the triple bypass and gallbladder taken out.  I don't have no gallbladder or whatever cause she said I had too many kidney stones and they had to take the bladder.  
+
+DOCTOR Q561
+So you're good, cause they didn't see any precancerous tumors or anything in the colonoscopy.
+
+PATIENT Q561
+Right, it was clear.
+
+DOCTOR Q561
+So that's good.
+
+PATIENT Q561
+It was all clear, no polyps, no none of that other stuff.
+
+DOCTOR Q561
+Good.
+
+PATIENT Q561
+It was clear.
+
+DOCTOR Q561
+Good, good.
+
+PATIENT Q561
+Both times it was clear.
+
+DOCTOR Q561
+Good.  And then have you had the influenza shot this year?
+
+PATIENT Q561
+She told me to come back and uh, she told me to come back when December?
+
+DOCTOR Q561
+No it looks like you had it.
+
+PATIENT Q561
+I had it in March but she said it's time to take another one so, she said it was time to take another one so to come back in a month or so and take another one.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+She said it due, unless you want me to take it today before I leave up out of here I mean.
+
+DOCTOR Q561
+She wants you to take it today?
+
+PATIENT Q561
+No, no, no, if you want me to.  She said come back and do it.
+
+DOCTOR Q561
+Oh.
+
+PATIENT Q561
+That's what she told me to come back and do it.
+
+DOCTOR Q561
+March was a bit early to get it so um you can get it done today, that's fine.
+
+PATIENT Q561
+So where do I go get that at?
+
+DOCTOR Q561
+You can just go to the nurse who checked you in.
+
+PATIENT Q561
+And she'll give it to me?
+
+DOCTOR Q561
+Uh-huh.
+
+PATIENT Q561
+Oh okay, that's good.
+
+DOCTOR Q561
+And then it looks like all your medications are good through the next year.  All the refills that you need.
+
+PATIENT Q561
+Yeah all the refills.  Cause the only thing I really had run out of was uh stool softeners, my wife who uses them too.
+
+DOCTOR Q561
+Oh it looks like you have enough now, but do you need some more?
+
+PATIENT Q561
+I mean, like I said my wife had some left over so I'm gonna use hers before I come and get some more.  
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+I got that.  You know she had a bottle of 50 and I got that.
+
+DOCTOR Q561
+Is it the same medication?
+
+PATIENT Q561
+Its stool softeners.
+
+DOCTOR Q561
+Yeah.
+
+PATIENT Q561
+There any no different kind of stool softeners is there?
+
+DOCTOR Q561
+Yes there's many different kinds of stool softeners.
+
+PATIENT Q561
+So the ones you buy at the store are like, you go to the store like Dominic's, they ain't no good?
+
+DOCTOR Q561
+Docusate, no they're good too but I'm just saying there are different kinds of stool softeners but at the same time you have to make sure you know the medication is what it is.  Is it prescribed to her or was it over-the-counter?
+
+PATIENT Q561
+You go buy it, there's stool softeners on the shelf.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+I mean you know.
+
+DOCTOR Q561
+Oh I see.
+
+PATIENT Q561
+And you go buy them.
+
+DOCTOR Q561
+Why would you buy them, you can get them here.
+
+PATIENT Q561
+Because I, well I ran out, I have to have time to get over here and get them right so I go and buy them every once in a while, I go buying them, you know you just go buy them.  
+
+DOCTOR Q561
+Sure.
+
+PATIENT Q561
+They don't cost over $10.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+Instead of coming way over here cause I had to come a long ways to come over here just to get stool softeners.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+You know what I mean.
+
+DOCTOR Q561
+Good enough.
+
+PATIENT Q561
+And so she was taking uh iron pills like I was taking iron pills but the doctor took her off of them so she had a whole bottle full I mean, why not use the ones she has, I was taking before, it works.
+
+DOCTOR Q561
+I'm not saying you can't.
+
+PATIENT Q561
+No I'm just asking.
+
+DOCTOR Q561
+I just don't think you should.
+
+PATIENT Q561
+I was asking you cause you said different stool softeners, well I ain't seen no different ones myself.
+
+DOCTOR Q561
+Do you check your blood pressure at home?
+
+PATIENT Q561
+Yes.
+
+DOCTOR Q561
+And you said it runs what?
+
+PATIENT Q561
+It'll run in like @@@ something.
+
+DOCTOR Q561
+And how high does it run?
+
+PATIENT Q561
+Maybe 130 something.
+
+DOCTOR Q561
+130?
+
+PATIENT Q561
+Sometime lower than that.
+
+DOCTOR Q561
+That sounds good.
+
+PATIENT Q561
+And the blood pressure don't really go up unless I get upset.  If I start talking about something that gonna upset me you know then you know.
+
+DOCTOR Q561
+I can see that.  Any other questions by the way?
+
+PATIENT Q561
+No.
+
+DOCTOR Q561
+I'll be right back okay.
+
+PATIENT Q561
+Okay.
+
+(DOCTOR OUT:  45:23  DOCTOR IN:  58:05)
+
+DOCTOR Q561
+Excuse me, I'm sorry to keep you waiting, I'll just be another minute okay.  Did you get an eye exam done when you came recently?
+
+PATIENT Q561
+Last year.
+
+DOCTOR Q561
+Last year.
+
+PATIENT Q561
+I got to make another appointment.
+
+DOCTOR Q561
+Yeah, we'll put it in, I'll make sure it’s on here; you can make another appointment here.
+
+PATIENT Q561
+Because they send me a letter to make another appointment.
+
+DOCTOR Q561
+Exactly.
+
+PATIENT Q561
+Yeah, yeah.
+
+DOCTOR Q561
+Good.  Oh, one more thing, do you smoke cigarettes?
+
+PATIENT Q561
+Yes I still smoke.
+
+DOCTOR Q561
+About how many?
+
+PATIENT Q561
+Three- two packs a week.
+
+DOCTOR Q561
+Two packs a week and how long have you been doing that?
+
+PATIENT Q561
+I used to smoke more than that I mean, I've cut.
+
+DOCTOR Q561
+How many years have you been smoking?
+
+PATIENT Q561
+Been smoking over 30 years.
+
+DOCTOR Q561
+Okay.  Do you drink alcohol?
+
+PATIENT Q561
+I drank too but I don't drink no more, I don't drink any more since I became a diabetic 15 years or whatever it was.
+
+DOCTOR Q561
+Okay.
+
+PATIENT Q561
+The doctor told me if I didn't stop drinking I'd be dead.
+
+DOCTOR Q561
+Uh-huh.
+
+PATIENT Q561
+So.  
+
+DOCTOR Q561
+You have drank for 15 years?
+
+PATIENT Q561
+I haven't been drinking.  I have had a drink.
+
+DOCTOR Q561
+How much do you drink?
+
+PATIENT Q561
+I have had a beer or something like that, maybe a shot but I'm not drinking.
+
+DOCTOR Q561
+I got it.
+
+PATIENT Q561
+Like I, cause I was a drinker.  I mean I would have me a drink every day.  I don't do that anymore.
+
+DOCTOR Q561
+Good.
+
+PATIENT Q561
+I mean, I want to live to be 100.
+
+DOCTOR Q561
+Good.
+
+PATIENT Q561
+So it's like stop drinking but the thing is smoking is hard to break.
+
+DOCTOR Q561
+Yeah.
+
+PATIENT Q561
+It's like, it's relaxing to me, relaxes me.
+
+DOCTOR Q561
+@@@.
+
+PATIENT Q561
+Cause if I'm feeling all tense and nervous or something, smoke and I'm square.
+
+DOCTOR Q561
+Do you smoke anything else, marijuana?
+
+PATIENT Q561
+Every now and then.
+
+DOCTOR Q561
+Yeah how about cocaine?
+
+PATIENT Q561
+Oh no I told you I was doing good so I don't you know.
+
+DOCTOR Q561
+Marijuana is a drug, it's a drug.
+
+PATIENT Q561
+It's not a drug.
+
+DOCTOR Q561
+It's illegal.
+
+PATIENT Q561
+They got legalized smokers out here, they be smoking it.
+
+DOCTOR Q561
+They haven't yet though.
+
+PATIENT Q561
+Maybe not here in Illinois but they got it you know so it's like.
+
+DOCTOR Q561
+Maybe in another country but not in the United States.
+
+PATIENT Q561
+Here in the states they got it legalized.
+
+DOCTOR Q561
+Uh-huh, yeah.
+
+PATIENT Q561
+Somewhere in California somewhere.
+
+DOCTOR Q561
+They have medical marijuana.
+
+PATIENT Q561
+That what I'm talking about that's marijuana, I don't know how you want to put it, it still.
+
+DOCTOR Q561
+Yeah @@@.
+
+PATIENT Q561
+You know, what it do to you?
+
+DOCTOR Q561
+No, people who use it medically for glaucoma, for cancer.
+
+PATIENT Q561
+Well I mean that's what helping my eyes.  My glasses is about eight years old.  Yes.
+
+(DOCTOR OUT: 60:31  DOCTOR IN:  73:45)  
+
+DOCTOR Q561
+Sorry to make you wait.  So if you don't mind to go get your lab work done basically um you know you can't eat overnight before you get it done.
+
+PATIENT Q561
+Uh-huh.
+
+DOCTOR Q561
+And then you'll come back to see me.  But if there's any abnormalities in the lab work then I'll call you.
+
+PATIENT Q561
+Oh okay.  So is it necessary for me to get that flu shot before I leave here or I can come back and get it right?
+
+DOCTOR Q561
+You can come back and get it.
+
+PATIENT Q561
+Okay cause I'm feeling, like I'm getting sick to my stomach.
+
+DOCTOR Q561
+Yeah you know you're sugars are doing great.  So just stop at the clerk and make the appointment for the eye doctor.
+
+PATIENT Q561
+Okay.
+
+DOCTOR Q561
+And then um that's it.  Where's the eye doctor, so I'll just write it on here or just call them.  You can call the Eye Clinic actually.
+
+PATIENT Q561
+See I got to, like I said, I got a letter at home.
+
+DOCTOR Q561
+Yeah, yeah, yeah.
+
+PATIENT Q561
+They tell me what number to call and they'll schedule me like that too right.
+
+DOCTOR Q561
+Yes.
+
+PATIENT Q561
+Cause she ain't going to be able to schedule me for the optical appointment.
+
+DOCTOR Q561
+Right.  She's not gonna be able to schedule.
+
+PATIENT Q561
+No she's not gonna be able to do it.
+
+DOCTOR Q561
+Yeah you're right.
+
+PATIENT Q561
+Alright thank you miss.
+
+DOCTOR Q561
+No problem, good luck.
+
+PATIENT Q561
+You too.  Whoa, which way is this, that a way.
+
+PATIENT LEAVES:  75:25
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300297
+TRANSACTION # 578-10-2-316-0103

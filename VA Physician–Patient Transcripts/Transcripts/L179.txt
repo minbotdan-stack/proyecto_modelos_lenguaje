@@ -1,0 +1,1232 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR L179:
+Patient? 
+
+PATIENT L179:
+Hi, how are you?
+
+DOCTOR L179:
+Good how are you?
+
+PATIENT L179:
+Good.
+
+DOCTOR L179:
+@@@ right?
+
+PATIENT L179:
+No that's just my list @@@.  But I fit the blood type.
+
+DOCTOR L179:
+Okay, we need to talk about your blood type.
+
+PATIENT L179:
+Yeah, yeah.
+
+DOCTOR L179:
+How have you been?
+
+PATIENT L179:
+Okay.
+
+DOCTOR L179:
+Okay.  Right here.  Everything okay?
+
+PATIENT L179:
+Uh yeah I've had uh, just another sort of sinus headaches the last two weeks but that ain't why I'm here today.  I'm here because I was here in March.
+
+DOCTOR L179:
+Uh-huh.
+
+PATIENT L179:
+Something with my uh, anyway since winter I've had a sinus issue but I had to go to the ENT Clinic.
+
+DOCTOR L179:
+Here?
+
+PATIENT L179:
+Yeah.
+
+DOCTOR L179:
+Okay.
+
+PATIENT L179:
+But in March I had this feeling in here.
+
+DOCTOR L179:
+Chest pain?
+
+PATIENT L179:
+Not a pain, it was like um I think you better take me to the Emergency Room kind.
+
+DOCTOR L179:
+You did.
+
+PATIENT L179:
+I did.
+
+DOCTOR L179:
+Did they admit you?  Did they send.
+
+PATIENT L179:
+No.
+
+DOCTOR L179:
+Send you up to the hospital?
+
+PATIENT L179:
+I saw them there.  No they kept me and I think they hooked me up to whatever they do when they think it’s your heart.
+
+DOCTOR L179:
+In March?
+
+PATIENT L179:
+I believe it was, March, April it should be.
+
+DOCTOR L179:
+Okay you said you @@@ palpitations.
+
+PATIENT L179:
+Yeah and I didn't know why and since then I had it once.  About three days ago I woke up in the morning but I think it's something to do with my sinuses, I swear.
+
+DOCTOR L179:
+Hmm.
+
+PATIENT L179:
+When they're draining, I woke up right out of a dead sleep with a quick, went away and I'm fine.
+
+DOCTOR L179:
+Do you feel like your heart is racing yeah.
+
+PATIENT L179:
+The anxiety.
+
+DOCTOR L179:
+Possibly, it could be.  Um tell me how long does it last?
+
+PATIENT L179:
+Not long.
+
+DOCTOR L179:
+Not long.
+
+PATIENT L179:
+Uh-uh.
+
+DOCTOR L179:
+Just seconds.  No pain associated with it?  No pain going down the arm or like the jaw, anything like that?  No okay, @@@.
+
+PATIENT L179:
+Sure.
+
+DOCTOR L179:
+Sweating, shortness of breath.
+
+PATIENT L179:
+And they hooked me up to whatever they hook you up to and they said.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+Everything looked fine.
+
+DOCTOR L179:
+Did they send home.
+
+PATIENT L179:
+I went home.
+
+DOCTOR L179:
+Did they send you home?
+
+PATIENT L179:
+I went home.
+
+DOCTOR L179:
+Did they send you home with a device or not?
+
+PATIENT L179:
+No.  But I was here.
+
+DOCTOR L179:
+Right.
+
+PATIENT L179:
+Whatever they hooked here, they put something on your finger and watched it.
+
+DOCTOR L179:
+Oh a pulse ox?
+
+PATIENT L179:
+Probably.  I was here, they waited two, three hours and said everything's fine.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+I guess they could tell.
+
+DOCTOR L179:
+Yeah did they and they said no more caffeine and decrease stress, did that help?
+
+PATIENT L179:
+I don't.
+
+DOCTOR L179:
+No, not really.
+
+PATIENT L179:
+I had a cup of coffee today.  Here's what I'll tell you, what I really need from you today is something for heartburn cause it's driving me crazy.
+
+DOCTOR L179:
+Do you think you have heartburn every day?
+
+PATIENT L179:
+Okay here's what I ate last night for dinner cause I didn't eat nothing since 6 o'clock because of the blood tests, I had three bottles of Bud Lite cause somebody stopped over but wait.
+
+DOCTOR L179:
+Three bottles goodness.
+
+PATIENT L179:
+Well I had friends stop over and that's not a lot.
+
+DOCTOR L179:
+Oh it's not.
+
+PATIENT L179:
+Not really I mean.
+
+DOCTOR L179:
+Oh, not for you.
+
+PATIENT L179:
+Yeah I won't have another drink now until whatever.
+
+DOCTOR L179:
+Oh goodness.  Alright go on.
+
+PATIENT L179:
+I ate spaghetti with a salad.
+
+DOCTOR L179:
+That's the spaghetti sauce would do it.
+
+PATIENT L179:
+It's really, very mild.
+
+DOCTOR L179:
+Tomatoes.
+
+PATIENT L179:
+I didn't like, I'm gonna tell you, I didn't have heartburn.
+
+DOCTOR L179:
+Uh-huh.
+
+PATIENT L179:
+But I didn't eat nothing.  Got up this morning, all I had was water.  I just had breakfast here, two scrambled eggs.
+
+DOCTOR L179:
+Uh-huh.
+
+PATIENT L179:
+Toast with jelly and corn beef hash.  Why?  What is it?
+
+DOCTOR L179:
+Did you get ketchup with the corn beef?
+
+PATIENT L179:
+No, what's with the deal?  What's with the heartburn?
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+And then some night I'll, I'll deliberately sit up straight, I'll want to lay down but I won't cause I read an article you know if you eat and lay down right away well that could.
+
+DOCTOR L179:
+Exactly.  When did you start having heartburn?
+
+PATIENT L179:
+I thought it was.  In the last two years it's just been terrible.
+
+DOCTOR L179:
+Yeah.  And every day or just intermittently or with certain foods?
+
+PATIENT L179:
+Every day sometimes so I've been taking um.
+
+DOCTOR L179:
+Zantac or Tums?  You been taking Tums?
+
+PATIENT L179:
+Tums.  Cause one of the doctors here prescribed me, I was taking omeprazole.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+But he said quit taking it.
+
+DOCTOR L179:
+Why?
+
+PATIENT L179:
+Cause it gave me pneumonia.  That's what he said so.
+
+DOCTOR L179:
+You've been taking ranitidine?
+
+PATIENT L179:
+I took it.
+
+DOCTOR L179:
+Twice a day.
+
+PATIENT L179:
+It did not help, ranitidine.  So I did try uh Pepcid, I don't know what's in Pepcid.
+
+DOCTOR L179:
+It's the same thing as omeprazole.
+
+PATIENT L179:
+So why won't that give me.
+
+DOCTOR L179:
+It will.  Long term chronic will do it but if you're having heartburn now, okay so in a way that is something good right.  Risks of getting daily heartburn right, you're eroding the lining right.
+
+PATIENT L179:
+I know.
+
+DOCTOR L179:
+Your esophagus, you can get Barrett's that leads to cancer.  You need to a) be on the right diet, doing all the right stuff.  We call it lifestyle modification and you need to be on medicine.  With time it might get better if you don't have to be @@@.  What he's talking about is over the years, over the years of being on omeprazole.
+
+PATIENT L179:
+Well they had prescribed up to three, four years ago for me.  I took it, I quit, it came back.  I took it, I quit taking it, it came back.  I took it, it quit.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+So how long would you recommend I should stay on this I mean is it gonna be forever?
+
+DOCTOR L179:
+No, let's try, let's try both, let's try you know cutting down on the spaghetti, cutting down on the mints, the citrus stuff.
+
+PATIENT L179:
+I'm a V8 juice guy every morning, will that bother you?
+
+DOCTOR L179:
+Does it have tomato in it?  It has tomato.
+
+PATIENT L179:
+Okay I mean, yeah.
+
+DOCTOR L179:
+Yeah. Yes.
+
+PATIENT L179:
+The tomato juice but I've been drinking it for 30 years every day a glass of V8 juice.
+
+DOCTOR L179:
+Does it give you heartburn right after you drink it?
+
+PATIENT L179:
+Nope.
+
+DOCTOR L179:
+Well you're probably good.  Then when do get @@@?
+
+PATIENT L179:
+I feel I do and my coffee I take it two cups in the morning, that's it.
+
+DOCTOR L179:
+Okay uh you need to cut it down to one cup yeah see if it does anything.  But I can definitely put you back on the omeprazole, did it work?
+
+PATIENT L179:
+Yeah.
+
+DOCTOR L179:
+Yeah so we'll do it.
+
+PATIENT L179:
+And what would be the ranitidine, what's the difference?
+
+DOCTOR L179:
+It's the same thing.  It's just; it works on different pathways to slow down the acid production in your stomach.  So both of it, the PPI, the omeprazole works better.  Ranitidine, if it works at all, it works a little bit faster but omeprazole over the long term it works better.
+
+PATIENT L179:
+Okay, alright.
+
+DOCTOR L179:
+What other medicines do you need?  Do you need the nasal spray?
+
+PATIENT L179:
+The doctor still has me on that, the ENT he's got it.
+
+DOCTOR L179:
+Good.
+
+PATIENT L179:
+I got it, I've been using that.
+
+DOCTOR L179:
+So just two sprays right, do you use that?
+
+PATIENT L179:
+One.
+
+DOCTOR L179:
+Just one, the flunisolide or the sodium chloride?
+
+PATIENT L179:
+Oh okay so flunisolide is the spray, the sodium chloride is a rinse.
+
+DOCTOR L179:
+Okay, okay.
+
+PATIENT L179:
+I got it, that's fine.
+
+DOCTOR L179:
+You got those okay and then what do you take the sildenafil for, oh erectile dysfunction.
+
+PATIENT L179:
+How which?
+
+DOCTOR L179:
+Um erectile dysfunction you take.
+
+PATIENT L179:
+I haven't had that.
+
+DOCTOR L179:
+Okay.
+
+PATIENT L179:
+But if you could prescribe it I'll use it.
+
+DOCTOR L179:
+Okay.  Any other medicines that you're taking do you know?  Over-the-counter or anything else?
+
+PATIENT L179:
+@@@, nope, nope, nope, nope.
+
+DOCTOR L179:
+Nothing else, so just the heartburn huh?
+
+PATIENT L179:
+Yeah that's just the only thing.
+
+DOCTOR L179:
+Okay.  How's your psoriasis?
+
+PATIENT L179:
+Okay, not a problem, it's uh you know.
+
+DOCTOR L179:
+Good.
+
+PATIENT L179:
+So they had me come and see you because of the fact that of the issue I had with uh.
+
+DOCTOR L179:
+Yeah follow-up.
+
+PATIENT L179:
+This is an earlier appointment than normal.
+
+DOCTOR L179:
+That's fine you can keep this one and we'll just count this as a routine check-up.  You don’t have to see me for another six months, okay?
+
+PATIENT L179:
+Okay.
+
+DOCTOR L179:
+If you had another episode I wonder if I should send you home with a Holter, set you up with a Holter monitor.
+
+PATIENT L179:
+What's that?
+
+DOCTOR L179:
+It's uh; it's also like a device where you go home with it.  You pick it up downstairs, go home with it.  They monitor your electrical activity for 24 hours.  The next day you come back and you return it, they record all of your things and um if there's any abnormalities I would let you know.
+
+PATIENT L179:
+Okay.
+
+DOCTOR L179:
+You said, the first thing you said this happened once and then it happened again two days ago.  Did it happen right after you drank caffeine?
+
+PATIENT L179:
+I was sleeping.
+
+DOCTOR L179:
+And you were sleeping and @@@ it just woke you up?
+
+PATIENT L179:
+I don't know what woke me up.
+
+DOCTOR L179:
+Or this one woke you up?
+
+PATIENT L179:
+This one woke me up it was just a quick one.
+
+DOCTOR L179:
+Alright.
+
+PATIENT L179:
+But you know I thought they had me down as agoraphobia but I suffer from anxiety.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+They just switched the classification I don't know the difference.
+
+DOCTOR L179:
+Did you?  Are you on any medicines for anxiety?
+
+PATIENT L179:
+They were giving me uh for years I took uh Valium I'm off it now.  Then they were giving me, they have me on nothing right now.  I've been doing more uh, I see him the end of this month uh, Ultraline I think they had me on.
+
+DOCTOR L179:
+Sertraline yeah.
+
+PATIENT L179:
+Yeah.
+
+DOCTOR L179:
+Yeah previously.
+
+PATIENT L179:
+I had taken it and he recommended trying to do what I'm doing.  I've been doing more therapy when I know it’s coming.
+
+DOCTOR L179:
+Oh okay.
+
+PATIENT L179:
+I have it every Sunday when I go to church.  I can get it, I get worked up because all of those people.
+
+DOCTOR L179:
+Were you anxious when this happened?
+
+PATIENT L179:
+I was sleeping.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+I could of been dreaming, I don't know.
+
+DOCTOR L179:
+Could have been. Do you remember anything?
+
+PATIENT L179:
+That I don't know, whatever.
+
+DOCTOR L179:
+Alright so.
+
+PATIENT L179:
+So the omeprazole will be fine, it's only on the long term use okay.
+
+DOCTOR L179:
+Yeah.  Like I said I mean you stop if it's well controlled but obviously you're not controlled if you're having it every day.
+
+PATIENT L179:
+Yeah it could happen you know. 
+
+DOCTOR L179:
+Right.
+
+PATIENT L179:
+And there's sometimes even after I make a bowel movement.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+I get heartburn.
+
+DOCTOR L179:
+Any belly pain?
+
+PATIENT L179:
+No.  What does that tell you?
+
+DOCTOR L179:
+I don't know.
+
+PATIENT L179:
+It's craziness.
+
+DOCTOR L179:
+Um, @@@blood pressures good, okay.  Lightheadedness, dizziness?
+
+PATIENT L179:
+Uh uh.
+
+DOCTOR L179:
+Okay.
+
+PATIENT L179:
+I had my eye exam.
+
+DOCTOR L179:
+You did good.
+
+PATIENT L179:
+And she told me that, the doctor a female doctor when I say she, I should say the doctor, she found a wiggly spot in one of my eyes but she said, you got high blood pressure, I said not yet well she said usually this would be a spot on both sides so she just said remember what I said and I thought that was strange but.
+
+DOCTOR L179:
+Umm.  Alright.  Any numbness or tingling in your feet or hands or anything?
+
+PATIENT L179:
+Uh uh.
+
+DOCTOR L179:
+Okay.
+
+PATIENT L179:
+The other day I did wake up but I never had this, maybe just never, right here, a cramp so bad out of a dead sleep, right here.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+My wife gets them all the time but she said it's because she don't eat the, I'm always eating bananas.  She said maybe I'm low on potassium.
+
+DOCTOR L179:
+Last time your potassium was fine.
+
+PATIENT L179:
+That's what I thought.
+
+DOCTOR L179:
+Um.
+
+PATIENT L179:
+That could of just been something.
+
+DOCTOR L179:
+Right.  Do you have varicose veins?
+
+PATIENT L179:
+Oh yeah and I have them.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+Look at this yeah.
+
+DOCTOR L179:
+Yeah there you go, especially at this place.
+
+PATIENT L179:
+Right here.
+
+DOCTOR L179:
+I'll bet yeah.
+
+PATIENT L179:
+I never have a @@@ though.
+
+DOCTOR L179:
+Oh.
+
+PATIENT L179:
+They don't hurt me.
+
+DOCTOR L179:
+Do you think they got bigger?  The varicose veins?
+
+PATIENT L179:
+Probably.
+
+DOCTOR L179:
+Sometimes with enlargement or worsening varicose veins can do that.
+
+PATIENT L179:
+And I walk.
+
+DOCTOR L179:
+Good.  Stay hydrated, stay hydrated.
+
+PATIENT L179:
+I do.
+
+DOCTOR L179:
+Good.  Are your immunizations up-to-date?
+
+PATIENT L179:
+I think.
+
+DOCTOR L179:
+Flu shot last year?  Pneumonia vaccine, tetanus?
+
+PATIENT L179:
+Pneumonia uh you gave me the uh shingles.
+
+DOCTOR L179:
+Good.
+
+PATIENT L179:
+The pneumonia.
+
+DOCTOR L179:
+I did something right.
+
+PATIENT L179:
+I know you did.  The pneumonia shot.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+I had uh four or five years ago.
+
+DOCTOR L179:
+Okay.
+
+PATIENT L179:
+Which I thought was early.
+
+DOCTOR L179:
+Yeah sometimes um that is pretty early.
+
+PATIENT L179:
+They made a mistake on my age.
+
+DOCTOR L179:
+@@@.
+
+PATIENT L179:
+I'm just now 63.
+
+DOCTOR L179:
+Oh okay.
+
+PATIENT L179:
+They put it, but it should've been after.  So whenever you think it's time for another one.
+
+DOCTOR L179:
+Look straight.  Any coughing, fevers, chills, night sweats, weight loss?  Say ah.
+
+PATIENT L179:
+Ah.
+
+DOCTOR L179:
+How's your sinus pressure, now today it's better?  Pain?  Pain?
+
+PATIENT L179:
+Uh-huh, but that’s where I get the headache.
+
+DOCTOR L179:
+Here?  Okay, okay.
+
+PATIENT L179:
+Oh God.
+
+DOCTOR L179:
+That's okay yeah.  But not any today?
+
+PATIENT L179:
+A little today.  At least today I'd say I've had it just kind of and I don't know what to take for it so I end up taking a Tylenol.
+
+DOCTOR L179:
+You can take Tylenol yeah.
+
+PATIENT L179:
+Does it have to be sinus or could it just be Tylenol pain relief?
+
+DOCTOR L179:
+Uh sometimes sinus would be better, it has a different agent in there, in addition to the Tylenol especially with that.  Any headaches other than here?
+
+PATIENT L179:
+Uh uh.
+
+DOCTOR L179:
+Okay.  Chest pain, shortness of breath?  Your heart sounds fine.  Deep breaths in and out, deep breath, deep breath again.  Good.  One more, great, you're not hyperventilating are you?
+
+PATIENT L179:
+I don't think so.
+
+DOCTOR L179:
+Pain?
+
+PATIENT L179:
+No.
+
+DOCTOR L179:
+Why do you have this divot here?
+
+PATIENT L179:
+What's a divot?
+
+DOCTOR L179:
+Oh no here it's going away.  Any pain?
+
+PATIENT L179:
+Uh uh.
+
+DOCTOR L179:
+Go ahead and lay back.  Good.  No urinary symptoms or like?
+
+PATIENT L179:
+Uh the urinary deal I've noticed a change but it's uh.
+
+DOCTOR L179:
+Uh-huh, like frequency, going a lot at night?
+
+PATIENT L179:
+After a couple bottles of Bud Lite I have to go but I don't go a lot at night.  I do drink a little sip of water at night.
+
+DOCTOR L179:
+Uh-huh.
+
+PATIENT L179:
+But like before I go to bed.
+
+DOCTOR L179:
+Uh-huh.
+
+PATIENT L179:
+But the first thing in the morning, when I get up, I have to go to the washroom.
+
+DOCTOR L179:
+Okay.  Any accidents?  Incontinence?
+
+PATIENT L179:
+Sometimes, it depends, it doesn't want to notify me, I just go on my own now at home.
+
+DOCTOR L179:
+Oh.
+
+PATIENT L179:
+Does that make sense?
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+Is that normal?
+
+DOCTOR L179:
+Do you have an enlarged prostate or no?
+
+PATIENT L179:
+I, how would I know?
+
+DOCTOR L179:
+Okay.  But you've never been to the urologist?  Nobody's ever told you?
+
+PATIENT L179:
+Oh I've been to a urologist.
+
+DOCTOR L179:
+Yeah did they say anything, go ahead move your.
+
+PATIENT L179:
+But I haven't been to one in five years.
+
+DOCTOR L179:
+Okay.
+
+PATIENT L179:
+You know.
+
+DOCTOR L179:
+Any like, any change in your urinary symptoms?
+
+PATIENT L179:
+As to?
+
+DOCTOR L179:
+Like worsening, going more often, blood in your urine?
+
+PATIENT L179:
+I go more often and it seems like I really gotta you know, it’s like, how can I explain it.
+
+DOCTOR L179:
+Urge?
+
+PATIENT L179:
+The urge, but there ain’t that much water.
+
+DOCTOR L179:
+Right okay.
+
+PATIENT L179:
+Is that normal?
+
+DOCTOR L179:
+Uh, depends if you have an enlarged prostate that can happen and with older, again as you get older um that can happen.  Your prostate starts growing more because of age um.  Let me check your PSA.
+
+PATIENT L179:
+I know you give me that every year and it's been the same.
+
+DOCTOR L179:
+Yeah.  I mean I don't think it's ever been high @@@.
+
+PATIENT L179:
+Now if I don't drink liquids I'm fine.
+
+DOCTOR L179:
+Oh okay.  So it's related to the amount of water that you take?
+
+PATIENT L179:
+Oh yeah.
+
+DOCTOR L179:
+Yeah your PSA last year, six months ago was fine.
+
+PATIENT L179:
+I uh can hold the water longer than I can hold a cup of coffee though.
+
+DOCTOR L179:
+Okay, alright.
+
+PATIENT L179:
+Does that make sense?
+
+DOCTOR L179:
+Makes sense cause there's a diuretic effect in caffeine, makes you want to go a lot more.
+
+PATIENT L179:
+Just the urgency is there.  It never used to be before.
+
+DOCTOR L179:
+Oh you're fine um.  What else, okay so immunizations. You got it, yeah 65 is there.  Your colonoscopy is just fine.  Stress test is good.  Were you ever a smoker?
+
+PATIENT L179:
+Oh in the past yes.
+
+DOCTOR L179:
+Yeah.  Okay at 65 we check an ultrasound just to make sure that your blood vessels are okay.
+
+PATIENT L179:
+Okay.
+
+DOCTOR L179:
+So next time we'll check that out.  Um are you taking anything over-the-counter?
+
+PATIENT L179:
+For?
+
+DOCTOR L179:
+Anything like herbal medicines, things like that?
+
+PATIENT L179:
+No if I get sinus whatever, I take a Tylenol but um or I take @@@ or I'll take a Benadryl just to, I don't know I think they all do the same thing.
+
+DOCTOR L179:
+Oh yeah.  The next time you get labs in six months you'll see me.
+
+PATIENT L179:
+Okay.
+
+DOCTOR L179:
+Um before that you know same thing, same drill today, you get labs before you see me, that way I can go over your results with you um and um then I can get yeah.  HIV test, this is something new that you take @@@.
+
+PATIENT L179:
+I don't care, I don't care.  That's it.  They were giving them out free; I just didn't want to stop before.  I think the stigma of an insurance company finding out, I'll be on it, is over.  I just never did it before because I could be honest with you; I have nothing to hide for any reason but the least you tell an insurance company the better you are.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+I've been talking car insurance, life insurance, health insurance; I just think it's a lot of.
+
+DOCTOR L179:
+Right, okay well.
+
+PATIENT L179:
+A lot of hooey.
+
+DOCTOR L179:
+I see yeah.
+
+PATIENT L179:
+That's probably why I never did it before.  I think a lot of people don't do it cause they're afraid the insurance companies if you're out there looking for help they'll say well why did you get an HIV test, is that kind of a question, no.  I mean they may say well why did you get, 20 years ago they might of asked you.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+But now I know, I think it's pretty prevalent that people get them.
+
+DOCTOR L179:
+Yeah.  Yeah.
+
+PATIENT L179:
+Am I the only one that would ask that question?
+
+DOCTOR L179:
+I ask everybody.
+
+PATIENT L179:
+No but I mean that kind of response, how does everybody?
+
+DOCTOR L179:
+I mean I’ve had people say no, it's not, I mean I've had the same partner for you know three years, why would I need one so you say no.
+
+PATIENT L179:
+But I mean what they're saying is because.
+
+DOCTOR L179:
+Insurance you think?
+
+PATIENT L179:
+I think the government's too nosey on everything.
+
+DOCTOR L179:
+Yeah, probably, probably.
+
+PATIENT L179:
+I just, I could go into stories I should think.  I think they know way too much now.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+I'm not on Facebook.  I don't think I ever will be cause if I want to talk to you I'll call you and if I want to tell you that I won the lottery, I certainly ain't gonna put it on Facebook.
+
+DOCTOR L179:
+Right, why would you okay.
+
+PATIENT L179:
+People just say that's my age and I said no but I can't believe that I mean millions of people sit there and waste there, idle their time away.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+And what do I do, I might watch TV, Jeopardy, who knows.
+
+DOCTOR L179:
+Yeah.  So um well I'll give you the omeprazole.  Do you want to pick it up or do you want me to send it to you?
+
+PATIENT L179:
+You could send it to me, cause if I pick it up I think it'll be a.
+
+DOCTOR L179:
+Longer wait cool, alright.  And your labs before you see me, your lipids um with the exception of your HDL it was fine.
+
+PATIENT L179:
+What's the HDL?
+
+DOCTOR L179:
+The HDL is your protective cholesterol, as we call it.  It's your good cholesterol that helps you protect against heart attacks and strokes and it's 26.  Sometimes that can be hereditary, from your family it runs low um but sometimes you know um you know, it’s not.  It doesn't affect it.  It’s not affected by what you eat, per se.  A lot of its genetics.  Sometimes it can be brought up by exercising more.  The treadmill, you're walking around, it can boost it up okay.  Um and if it's persistently low we can talk about putting you on something called niacin but I think exercise is better, it can help.  It is 26. I think in the past it's been that low too.
+
+PATIENT L179:
+And what should it be?
+
+DOCTOR L179:
+40.
+
+PATIENT L179:
+Oh.
+
+DOCTOR L179:
+Female it should be 50, males it should be 40.  Yours is at 26.
+
+PATIENT L179:
+Oh.
+
+DOCTOR L179:
+You know we can consider that.  Last time it was 32.
+
+PATIENT L179:
+Okay now what's my cholesterol on the whole?
+
+DOCTOR L179:
+142, which is wonderful.
+
+PATIENT L179:
+Oh.
+
+DOCTOR L179:
+It needs to be less than 200 and triglycerides you're just about where it should be, 150 and LDL which is your bad cholesterol that I want it less than 100 and yours was 86 so the only thing is that good cholesterol to boost it up if with exercise.
+
+PATIENT L179:
+Okay.
+
+DOCTOR L179:
+Okay.  Give me some time okay I'll be right back.
+
+PATIENT L179:
+Okay.
+
+---DOCTOR OUT:  62:33  DOCTOR IN:  70:10 ---
+
+DOCTOR L179:
+Alright um do you want try the test just to make sure there's nothing?
+
+PATIENT L179:
+Yeah I will.
+
+DOCTOR L179:
+Okay.
+
+PATIENT L179:
+What is it a day deal or?
+
+DOCTOR L179:
+No so they'll send you something.
+
+PATIENT L179:
+In the mail?
+
+DOCTOR L179:
+Um you may have to pick it up when they notify you.
+
+PATIENT L179:
+Okay.
+
+DOCTOR L179:
+And then you pick it up okay.  So let me um, Holter monitor, let's see.
+
+PATIENT L179:
+And how long does the thing last or what do you do?
+
+DOCTOR L179:
+A day cause they hook you up and you go home with it um for a day.  The next day you come back.
+
+PATIENT L179:
+Oh you come here and they hook you up on that.
+
+DOCTOR L179:
+Yeah I think so.
+
+PATIENT L179:
+How big?
+
+DOCTOR L179:
+They put it in, it's small but.
+
+PATIENT L179:
+Oh okay.
+
+DOCTOR L179:
+Yeah.
+
+PATIENT L179:
+So I know what I'm walking around with.
+
+DOCTOR L179:
+Yeah just for one day and um if they can set you up.  I put in the order so I'll let my nurse know uh.  If this can be hooked up today it would be great then you wouldn't have to make a trip back.  So you wear it for a day, you come back and you return it to the same place you got it.
+
+PATIENT L179:
+Okay.
+
+DOCTOR L179:
+And then the cardiologist will then look at it and at the end if everything's okay we've got this, this, this, or it was normal.
+
+PATIENT L179:
+Okay.
+
+DOCTOR L179:
+So that we can rule out bad stuff like arrhythmia.
+
+PATIENT L179:
+Okay.
+
+DOCTOR L179:
+I mean we can, I can very easily attribute that to anxiety but then what if it's not so let's rule out the bad stuff.
+
+PATIENT L179:
+Alright.
+
+DOCTOR L179:
+And if it's ruled out then I can say hey it's probably anxiety.
+
+PATIENT L179:
+Alrighty, okay.
+
+DOCTOR L179:
+Okay.
+
+PATIENT L179:
+Alright.
+
+DOCTOR L179:
+Six months you'll see me.  You'll be getting that omeprazole in the mail.
+
+PATIENT L179:
+Okay, okay.
+
+DOCTOR L179:
+Okay.  This, for some reason, two weeks or four weeks later if you don't feel any improvement.
+
+PATIENT L179:
+Oh I'm sure I will feel better in two days.
+
+DOCTOR L179:
+Okay.  Okay.
+
+PATIENT L179:
+Cause it worked before.
+
+DOCTOR L179:
+It worked before great then.
+
+PATIENT L179:
+That ranitidine just never.
+
+DOCTOR L179:
+Didn't work.
+
+PATIENT L179:
+I didn't know what it was doing yeah.
+
+DOCTOR L179:
+Alright and remember labs before you see me okay and I'll see you in six months.
+
+PATIENT L179:
+I'll do it.  And usually like they called yesterday and told me to come in earlier.
+
+DOCTOR L179:
+Yeah, yeah.
+
+PATIENT L179:
+So I'll come in earlier then, I know they open at 7.
+
+DOCTOR L179:
+Okay.  Let me walk out with you.  Do you have time?
+
+PATIENT L179:
+Okay thank you.
+
+DOCTOR L179:
+Okay.  Holter monitor.  I put him on it; do you have to call or anything?
+
+PATIENT L179:
+Uh yeah I think I need to pick it up before the appointment.
+
+DOCTOR L179:
+Were you gonna call someone?
+
+PATIENT L179:
+Yeah I'll pick it up.  
+
+DOCTOR L179:
+Okay.
+
+PATIENT L179:
+Thank you doctor, you have a good day.
+
+DOCTOR L179:
+Bye.
+
+Time is 9:58.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  38215
+TRANSACTION # 578-10-2-316-0103

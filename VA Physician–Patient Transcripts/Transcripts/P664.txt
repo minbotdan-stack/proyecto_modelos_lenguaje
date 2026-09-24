@@ -1,0 +1,1376 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@   
+
+DOCTOR P664
+Come with me.
+ 
+PATIENT P664
+Yes ma'am.
+
+DOCTOR P664
+How are you?
+
+PATIENT P664
+I am quite well. 
+
+DOCTOR P664
+Well that's good.
+
+PATIENT P664
+Let's see your DOCTOR.
+
+DOCTOR P664
+Yeah.  You've been out for a while, have a seat right here.
+
+PATIENT P664
+I don't think we've met before.
+
+DOCTOR P664
+No.
+
+PATIENT P664
+And you're my primary physician uh DOCTOR.
+
+DOCTOR P664
+Yeah I'm taking over her clinics.
+
+PATIENT P664
+Yeah she's moved on.
+
+DOCTOR P664
+Yeah she has.  How have you been?
+
+PATIENT P664
+Uh I've gone through.
+
+DOCTOR P664
+A lot.
+
+PATIENT P664
+Near death and I feel very fit, especially for my age.
+
+DOCTOR P664
+That's good.  Any issues at all?  Concerns?
+
+PATIENT P664
+Yeah all kinds.
+
+DOCTOR P664
+Like?
+
+PATIENT P664
+Uh I'm primarily, this really has, it's best handled by uh DOCTOR in Oncology but I have a.
+
+DOCTOR P664
+You saw them.
+
+PATIENT P664
+Oh yeah.
+
+DOCTOR P664
+Two weeks ago?
+
+PATIENT P664
+Oh yeah, yeah I'm well cared for uh I had a colectomy back in June and was given uh two months of chemo.
+
+DOCTOR P664
+Chemo.
+
+PATIENT P664
+That.
+
+DOCTOR P664
+Didn't go too well.
+
+PATIENT P664
+Darn near killed me.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+I didn't want to live that way uh and you know I outlasted it and I feel great and I'm only concerned with a return of the cancer and I have a colonoscopy scheduled.
+
+DOCTOR P664
+Right.
+
+PATIENT P664
+So it's under control.
+
+DOCTOR P664
+Okay.  You could not, so how's your appetite been though?
+
+PATIENT P664
+Uh good yes, very good.  And my alimentary canal, as far as I can tell is functioning very well considering I lost a third of the colon.
+
+DOCTOR P664
+Okay.  So otherwise you think you're doing fine?
+
+PATIENT P664
+Yes.  Thanks to you good folks at Hines and my wife.
+
+DOCTOR P664
+That's great.  And for your weight I was looking through, it looks like its back to where it was before you started the chemo.
+
+PATIENT P664
+No.  Oh uh yes.
+
+DOCTOR P664
+How is your appetite?
+
+PATIENT P664
+I uh, it, it's more than adequate.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+Yeah, you know I.
+
+DOCTOR P664
+Any recent fevers or like chills?
+
+PATIENT P664
+No.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+No.
+
+DOCTOR P664
+Coughing up anything?
+
+PATIENT P664
+No.  I have a persistent cough that I think is indicative of nothing other than bad habit.
+
+DOCTOR P664
+Shortness of breath?
+
+PATIENT P664
+No.  I'm back on my bicycle and trying to get my conditioning back.
+
+DOCTOR P664
+So any symptoms of your heart?
+
+PATIENT P664
+No.
+
+DOCTOR P664
+Cause I know you had a procedure where they ablated.
+
+PATIENT P664
+Yes, yeah.  Well I didn't know I needed an ablation.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+Uh and I've had no what?
+
+DOCTOR P664
+No leg swelling?  Any leg swelling?
+
+PATIENT P664
+No, no, no.  Oh you know, well that was during uh the uh colon procedures and uh chemo I had a little.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+But it's gone.
+
+DOCTOR P664
+You're having regular bowel movements daily?
+
+PATIENT P664
+Uh just about.  Yeah for all practical purposes I'm very regular.
+
+DOCTOR P664
+Not any, has it been loose or constipation?
+
+PATIENT P664
+Uh that concerns me.  It was uh not loose at all and suddenly it became much softer.
+
+DOCTOR P664
+When?
+
+PATIENT P664
+About six weeks ago and I have observed it and there seems to be nothing irregular.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+Uh.
+
+DOCTOR P664
+No blood?
+
+PATIENT P664
+No, no blood, no blackness but variation.
+
+DOCTOR P664
+Okay.  You have a history of hypertension right?
+
+PATIENT P664
+I have what?
+
+DOCTOR P664
+Did they give you a list of your medicines?
+
+PATIENT P664
+Yes I have it.
+
+DOCTOR P664
+Let's go through that.
+
+PATIENT P664
+Okay, I that's a good idea cause I'm not taking much of any of this.  Uh.
+
+DOCTOR P664
+Are you taking the, this is your blood pressure medicine?
+
+PATIENT P664
+No.
+
+DOCTOR P664
+You're not.  I thought they told you to take it.  Remember when Cardiology saw you, you were taking 10 of it and they wanted you to decrease to 5.
+
+PATIENT P664
+Oh wait a minute, no I take half a pill for cholesterol every night but that's not it, that's not it no.  No that's.  You know I'm not taking this and uh I think it's my negligence.  
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+Uh I need to uh.
+
+DOCTOR P664
+Let's see if there are any other ones that you're not taking.
+
+PATIENT P664
+Start it.
+
+DOCTOR P664
+You take a stool softener?
+
+PATIENT P664
+No I don't need it.
+
+DOCTOR P664
+This is probably before.  You're to take it before your colonoscopy.
+
+PATIENT P664
+Yeah.
+
+DOCTOR P664
+Yeah.
+
+PATIENT P664
+Probably yeah.
+
+DOCTOR P664
+Do you take this one?
+
+PATIENT P664
+Uh.
+
+DOCTOR P664
+It's a stool softener too.
+
+PATIENT P664
+No, no.
+
+DOCTOR P664
+It's to keep you more regular, no.
+
+PATIENT P664
+No and I don't feel I need it.
+
+DOCTOR P664
+Do you use eye drops?
+
+PATIENT P664
+Yeah, oh, oh yes.  I use the eye drops every night religiously.  
+
+DOCTOR P664
+For?
+
+DOCTOR P664
+Uh what do you call it, I'm having a senior moment.
+
+DOCTOR P664
+Glaucoma?
+
+PATIENT P664
+Uh yes.
+
+DOCTOR P664
+Okay.  Um are you still taking Megace, Megace, Megestrol?  It's to help you help stimulate your appetite. 
+
+PATIENT P664
+No, don't need it.  
+
+DOCTOR P664
+@@@.  So you're taking half a pill of this for your cholesterol.
+
+PATIENT P664
+Yes.
+
+DOCTOR P664
+So you're not taking lisinopril either.
+
+PATIENT P664
+No.
+
+DOCTOR P664
+And you're not taking any blood pressure medicine?
+
+PATIENT P664
+No.
+
+DOCTOR P664
+So DOCTOR, who saw you a couple of weeks ago.
+
+PATIENT P664
+No, well he.
+
+DOCTOR P664
+Told you to restart those medicines but you're not.
+
+PATIENT P664
+Now wait a minute DOCTOR?
+
+DOCTOR P664
+Yeah.
+
+PATIENT P664
+I don't recall him telling me this.
+
+DOCTOR P664
+You don't recall him telling you that?
+
+PATIENT P664
+No.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+Which is not to say he didn't.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+But I, you know, I need to okay uh.
+
+DOCTOR P664
+You're taking baby aspirin right?
+
+PATIENT P664
+Nope.
+
+DOCTOR P664
+Why not?
+
+PATIENT P664
+Uh, a combination of forgetfulness and negligence.  I have to take the blame for that because if I was @@@ to take it.
+
+DOCTOR P664
+Do you have the pills at home?
+
+PATIENT P664
+Yeah oh right.
+
+DOCTOR P664
+Do you have like the.
+
+PATIENT P664
+The baby aspirin?
+
+DOCTOR P664
+No, no, no, you know like those um pill holders.
+
+PATIENT P664
+Oh yes uh.
+
+DOCTOR P664
+Where you can put in the medicines for days.
+
+PATIENT P664
+I have been.
+
+DOCTOR P664
+Would that help?
+
+PATIENT P664
+Religious about that and I can, I need to pick it up again and I hereby promise to do so.  Alright now, that's a baby aspirin.
+
+DOCTOR P664
+Uh-huh, 81.
+
+PATIENT P664
+Oh yeah there it is yeah.
+
+DOCTOR P664
+Uh-huh.  Are you taking the fish oil?
+
+PATIENT P664
+Yes I take that regularly.
+
+DOCTOR P664
+Do you take vitamin C?
+
+PATIENT P664
+No.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+I, if I were.
+
+DOCTOR P664
+Do you take Calcitrate? The calcium pill?
+
+PATIENT P664
+No.
+
+DOCTOR P664
+Are you taking saw palmetto?
+
+PATIENT P664
+No.
+
+DOCTOR P664
+Okay.  
+
+PATIENT P664
+I will take vitamin C, because right or wrong I believe in it, if I think I'm coming down with a cold but I never get colds anymore at all.
+
+DOCTOR P664
+Are you taking the magnesium?
+
+PATIENT P664
+No.  Now I need to...
+
+DOCTOR P664
+What do you need?
+
+PATIENT P664
+Alright the amlodipine and.
+
+DOCTOR P664
+Lisinopril.
+
+PATIENT P664
+And lisinopril which I don't see on here at all.
+
+DOCTOR P664
+Yeah that medicine is actually expired so I'll have to renew it.
+
+PATIENT P664
+Oh okay.
+
+DOCTOR P664
+So your blood pressure is.
+
+PATIENT P664
+No, no.
+
+DOCTOR P664
+140-150s.
+
+PATIENT P664
+That's high.
+
+DOCTOR P664
+Yeah.
+
+PATIENT P664
+So I should be taking that stuff.  I'm seeing DOCTOR, cardiologist after this appointment.
+
+DOCTOR P664
+Uh-huh.  @@@.
+
+PATIENT P664
+Sure.
+
+DOCTOR P664
+And I think the reason why the plan @@@ for you to keep up on these medicines was to cut back on these medicines.
+
+PATIENT P664
+Uh.
+
+DOCTOR P664
+Was because during the time when you had the weight loss your blood pressure was low, you @@@.  It looks like things are @@@.
+
+PATIENT P664
+Yes.
+
+DOCTOR P664
+Okay.  Alright I need to just fill out; okay we have a series of questions the VA wants us to ask you guys okay?
+
+PATIENT P664
+Oh I'm at your disposal with great appreciation.
+
+DOCTOR P664
+You ate today right?
+
+PATIENT P664
+Yes.
+
+DOCTOR P664
+The only thing we probably have to check at some point is your cholesterol levels.
+
+PATIENT P664
+Hmm.
+
+DOCTOR P664
+So when is your next appointment?
+
+PATIENT P664
+Oh boy.
+
+DOCTOR P664
+And you see DOCTOR on the 31st oh.
+
+PATIENT P664
+No I see him today.
+
+DOCTOR P664
+Oh it's later today.
+
+PATIENT P664
+Yes.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+And then I come in in about a week.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+I think.
+
+DOCTOR P664
+You come in on April 6th?
+
+PATIENT P664
+Yes.
+
+DOCTOR P664
+I'll order that for April 6th.
+
+PATIENT P664
+Oh.
+
+DOCTOR P664
+Your cholesterol so make sure you don't eat before you come.
+
+PATIENT P664
+Oh okay.
+
+DOCTOR P664
+Okay.  So we can check your cholesterol and see if you need to.
+
+PATIENT P664
+And I won't receive any other notice so you know this, this will be the only instructions I get.
+
+DOCTOR P664
+Yeah.
+
+PATIENT P664
+Okay, April 6th.
+
+DOCTOR P664
+And you have your podiatry appointment.
+
+PATIENT P664
+Yeah, yeah wait a minute there's something else uh than Podiatry, oh well.  Where do I go to have the cholesterol checked?
+
+DOCTOR P664
+Oh you can get the labs done here.
+
+PATIENT P664
+Downstairs, on the first floor?
+
+DOCTOR P664
+You can have it done here.
+
+PATIENT P664
+Yeah but on the first floor?
+
+DOCTOR P664
+Uh-huh.
+
+PATIENT P664
+Cause I don't go there anymore.  I always go to 9E and they take my blood for labs.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+So I should have it done there.
+
+DOCTOR P664
+Yes.
+
+PATIENT P664
+Okay.
+
+DOCTOR P664
+No, no, no, you should get your labs done up here.  Oh you mean when you come on.
+
+PATIENT P664
+On April 6th for the cholesterol.
+
+DOCTOR P664
+You get those in the Outpatient Lab downstairs on the first floor.
+
+PATIENT P664
+Oh on the first floor okay.
+
+DOCTOR P664
+Uh-huh.
+
+PATIENT P664
+Okay.
+
+DOCTOR P664
+Any problems peeing at all, like losing urine on yourself?
+
+PATIENT P664
+No.
+
+DOCTOR P664
+Okay, or feeling like you've got a weak stream?
+
+PATIENT P664
+No, no, definitely not.  I'm very pleased that I seem to be doing so well after going through all I've gone through.
+
+DOCTOR P664
+Are you fairly active at home like walking around, do you do all the shopping yourself or?
+
+PATIENT P664
+No, but I do quite a bit and the only problem is that I am not regular enough but every once in a while I take a long bike ride which I really enjoy and then I sleep better.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+At night.
+
+DOCTOR P664
+Do you do your cooking at home?
+
+PATIENT P664
+No.  My wife does.
+
+DOCTOR P664
+Who does that for you?
+
+PATIENT P664
+My wife does, my wife.
+
+DOCTOR P664
+Uh-huh.  Are you up walking around all the time?
+
+PATIENT P664
+Oh yes, I'm active during the day but not enough uh.  Because I have been very active almost all my life and I'm not as active as I used to be and I notice it.
+
+DOCTOR P664
+You're eating like three meals a day?
+
+PATIENT P664
+Oh yes, very very good meals.
+
+DOCTOR P664
+@@@ almost all your meals?
+
+PATIENT P664
+All of them without fail.  I’d feel deprived otherwise.
+
+DOCTOR P664
+Alright so we do the cholesterol on the 6th.
+
+PATIENT P664
+Yeah, yeah.
+
+DOCTOR P664
+There'll be an order at the blood lab?
+
+PATIENT P664
+Yeah.
+
+DOCTOR P664
+Come and have a seat here.
+
+PATIENT P664
+Okay.  Take off anything?  Sweater?
+
+DOCTOR P664
+The sweater.
+
+PATIENT P664
+Yeah.
+
+DOCTOR P664
+My hands are a bit cold.
+
+PATIENT P664
+Oh, if that's the worst I have to go through today I'll be very lucky.
+
+DOCTOR P664
+Let me look in your ears okay.
+
+PATIENT P664
+Yeah.
+
+DOCTOR P664
+Any problems with your vision at all?
+
+PATIENT P664
+Uh yeah I'm corrected, well yes.
+
+DOCTOR P664
+You do have a lot of wax in here.
+
+PATIENT P664
+Should I get them cleaned?
+
+DOCTOR P664
+Yeah.  Well do you use the wax remover like the Debrox?
+
+PATIENT P664
+No I don't.
+
+DOCTOR P664
+I could give you one and you can pick it up downstairs.
+
+PATIENT P664
+Oh that's terrific.
+
+DOCTOR P664
+So you just put it in and the wax dissolves itself.
+
+PATIENT P664
+Yeah, self-administered, terrific.
+
+DOCTOR P664
+Open your mouth for me.  Lift up your tongue.  No dentures right?
+
+PATIENT P664
+No.
+
+DOCTOR P664
+You look really good.  I'm just going to feel around your neck.
+
+PATIENT P664
+Okay.
+
+DOCTOR P664
+I'll try to warm up my hand.
+
+PATIENT P664
+Oh don't worry about it, don't worry about it.
+
+DOCTOR P664
+Alright.  @@@.
+
+PATIENT P664
+Uh-huh.
+
+DOCTOR P664
+Deep breath.
+
+PATIENT P664
+Uh excuse me I have to cough.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+Sorry.
+
+DOCTOR P664
+Not a problem.  Deep breath for me.  Out.  Just going to lift up your shirt right here.
+
+PATIENT P664
+Oh sure.
+
+DOCTOR P664
+@@@.
+
+PATIENT P664
+Yeah.  Doc do I sit down?
+
+DOCTOR P664
+Yeah.
+
+PATIENT P664
+Okay.
+
+DOCTOR P664
+Any back pain at all?
+
+PATIENT P664
+Any what?
+
+DOCTOR P664
+Back pain?
+
+PATIENT P664
+None.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+Uh oh I.
+
+DOCTOR P664
+Can you lay back for me?
+
+PATIENT P664
+Okay I have stiffness you know.  I'm an architect and I do a lot of sedentary work.
+
+DOCTOR P664
+Do you still do a lot of the architect stuff?
+
+PATIENT P664
+Not enough.  As a matter of fact I'm looking for work because I was off and uh during these travails.
+
+DOCTOR P664
+Hmm.
+
+PATIENT P664
+Uh but I still am rather sedentary and I get up and my back is stiff.  But that's being 79 I presume.
+
+DOCTOR P664
+I think you're doing pretty well as far as we're concerned.
+
+PATIENT P664
+Hmm.
+
+DOCTOR P664
+Take a deep breath, out.  Can you sit up for me?  Have a seat right here.
+
+PATIENT P664
+Okay.  I do this with some hesitation but I uh.
+
+DOCTOR P664
+What's that?
+
+PATIENT P664
+I have solicited some of the people like DOCTOR and a nurse in Oncology um, I want to give back to the Hines VA and I'm offering my services as an architect.  Of course no fee, no commitment.  
+
+DOCTOR P664
+You've never smoked right?
+
+PATIENT P664
+No.
+
+DOCTOR P664
+Okay.  Drinking?  Wine?
+
+PATIENT P664
+I love about three or four ounces of wine a night.
+
+DOCTOR P664
+Okay, okay.
+
+PATIENT P664
+No, it's very much under control and I hope therapeutic.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+But I'd like to leave you with a notice of what I'm doing.
+
+DOCTOR P664
+Well what you were saying about what you wanted to do with the VA?
+
+PATIENT P664
+Oh I'm offering my services, personal services as an architect to people like you.
+
+DOCTOR P664
+Oh.  That's nice of you.
+
+PATIENT P664
+Uh.
+
+DOCTOR P664
+So you've been an architect all your life right?
+
+PATIENT P664
+Yes uh yes in that capacity.
+
+DOCTOR P664
+I've been looking through all of your labs here.
+
+PATIENT P664
+Oh boy.  I have a.
+
+DOCTOR P664
+They're fine.
+
+PATIENT P664
+Very long record.
+
+DOCTOR P664
+Okay I'll be right back okay.
+
+PATIENT P664
+Okay.  Alright I can tuck my shirt in.
+
+DOCTOR P664
+Oh yeah.
+
+PATIENT P664
+Move it.
+
+(DOCTOR OUT:  37:33  DOCTOR IN:  44:10)
+
+DOCTOR P664
+Alright, so we'll repeat your cholesterol like we said on the 6th of April.
+
+PATIENT P664
+Yes, yes.
+
+DOCTOR P664
+And let me see, how soon do you want to see me back, up to you.
+
+PATIENT P664
+Really?  Well, you've been my primary doctor for a while and this is our first appointment.
+
+DOCTOR P664
+Yeah, I wonder why…
+
+PATIENT P664
+Uh I think I know why.
+
+DOCTOR P664
+Yeah.
+
+PATIENT P664
+Because I've been in here so regularly for the specialty things.
+
+DOCTOR P664
+Probably.
+
+PATIENT P664
+You know and I have my vitals you know whatever.  Although I really appreciate uh seeing a GP.
+
+DOCTOR P664
+Finally right?
+
+PATIENT P664
+Yes, yes.  Well I'm forever grateful to DOCTOR because she kept telling me to get a colonoscopy and I kept.
+
+DOCTOR P664
+And you didn’t want to?
+
+PATIENT P664
+And I had one and it was one of the worst experience, physical experiences I've ever had.  It was, you know, it was not good or you know uh and I don't like the procedure but because of her I had it done and it turned out I had a small tumor.  Um oh when to see you uh.
+
+DOCTOR P664
+Six months, three months?
+
+PATIENT P664
+Okay alright six months yeah.
+
+DOCTOR P664
+Okay.  And if everything is stable we could go like nine months, a year.
+
+PATIENT P664
+Yeah, gee whiz, @@@.
+
+DOCTOR P664
+You look pretty.  Of course I didn't see you when all these things were going on you know.
+
+PATIENT P664
+Oh I, I weigh 180 now, I weighed 145 at one point.
+
+DOCTOR P664
+Yeah.
+
+PATIENT P664
+And I was not a happy camper.  Uh.
+
+DOCTOR P664
+So I'll see you back in six months.
+
+PATIENT P664
+Yes.
+
+DOCTOR P664
+And you get labs in two weeks, a week from now.
+
+PATIENT P664
+Uh okay, alright, alright.
+
+DOCTOR P664
+Oh, your medicines.  We need to restart some of those.  
+
+PATIENT P664
+Yes.
+
+DOCTOR P664
+I'm going to refill the medicine for you.
+
+PATIENT P664
+Alright.
+
+DOCTOR P664
+The lisinopril, you have to pick this up downstairs.
+
+PATIENT P664
+Now?  Very good, that's terrific.
+
+DOCTOR P664
+You can pick it up downstairs, let me make sure, let me refill it.
+
+PATIENT P664
+I, I should have some amlodipine but maybe.
+
+DOCTOR P664
+Maybe not.
+
+PATIENT P664
+I finished it.
+
+DOCTOR P664
+I'll renew it.
+
+PATIENT P664
+Okay, yeah considering what I pay for it, I shouldn't uh skimp.  Alright.
+
+DOCTOR P664
+Now let me give you the up-to-date with all your medicine so you can pick it up, here it is okay.  So you take the 5 daily and your lisinopril I'm going to refill it for you.
+
+PATIENT P664
+Hmm.
+
+DOCTOR P664
+So you can pick up both of them downstairs.
+
+PATIENT P664
+Alright.
+
+DOCTOR P664
+And let me see what other medicines you would need.  Alright, any refills on any of your medicines?
+
+PATIENT P664
+I, no, no.
+
+DOCTOR P664 
+Do you still need the hydrocortisone cream for itching?
+
+
+PATIENT P664
+No.
+
+DOCTOR P664
+I'm gonna refill your cholesterol medicine okay.
+
+PATIENT P664
+Uh, I have about three or four months.
+
+DOCTOR P664
+I'm just going to renew it.  You have no more refills left.
+
+PATIENT P664
+Oh, oh I see yeah because I should be taking it right.
+
+DOCTOR P664
+Let me finish my notes here.
+
+PATIENT P664
+Pardon?
+
+DOCTOR P664
+Let me finish my notes here.
+
+PATIENT P664
+Oh sure.
+
+DOCTOR P664
+Oh the ear wax.
+
+PATIENT P664
+Yes.  That'd be much appreciated uh.
+
+DOCTOR P664
+It's like an ear drop.
+
+PATIENT P664
+Uh-huh.
+
+DOCTOR P664
+Let me see how often you should be using it.  So you do it twice a day.
+
+PATIENT P664
+Okay.
+
+DOCTOR P664
+3-5 drops twice a day for about four days okay.
+
+PATIENT P664
+Uh I can't tell you how much I appreciate that and my wife will appreciate it even more if I hear better.
+
+DOCTOR P664
+Oh really.  Alright so we'll give you 10 of that.  You can pick that up downstairs too.
+
+PATIENT P664
+Oh boy.  So three things.
+
+DOCTOR P664
+Yes.  So are we clear on everything?
+
+PATIENT P664
+I think so.
+
+DOCTOR P664
+So you're to pick up your two medicines, your three medicines.
+
+PATIENT P664
+Yes.
+
+DOCTOR P664
+Two for your blood pressure.
+
+PATIENT P664
+Uh-huh and the ear wax.
+
+DOCTOR P664
+And the one for the ear wax.
+
+PATIENT P664
+Yeah.
+
+DOCTOR P664
+And we'll do your cholesterol check when you come back.
+
+PATIENT P664
+Uh-huh.
+
+DOCTOR P664
+When you go to Podiatry.
+
+PATIENT P664
+Podiatry, I'll stop at the blood lab.
+
+DOCTOR P664
+Any questions for me at all?
+
+PATIENT P664
+Yes uh, every month.
+
+DOCTOR P664
+Uh-huh.
+
+PATIENT P664
+Or more often I have a Port-A-Cath flushed.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+Up on 9 East.
+
+DOCTOR P664
+Uh-huh.
+
+PATIENT P664
+Would it be simpler to have the cholesterol check as part of that or be more complicated?
+
+DOCTOR P664
+You could do it during that time but the thing is I'm not sure if they'll have the labels printed out to their labs.
+
+PATIENT P664
+Oh you want to do it.
+
+DOCTOR P664
+It doesn't matter as long as it's drawn.  So what we could do is.
+
+PATIENT P664
+Cause I'll be glad to do it when I come in for my podiatry.
+
+DOCTOR P664
+Well you could do it when you get the Port-A-Cath done.
+
+PATIENT P664
+Uh-huh.
+
+DOCTOR P664
+When you get it flushed, ask them whether they can do your labs.
+
+PATIENT P664
+Okay for cholesterol.
+
+DOCTOR P664
+For your cholesterol.
+
+PATIENT P664
+Yes.
+
+DOCTOR P664
+If they cannot then you'll have to go see downstairs.  The main reason is I'm not sure where those labels print out from.
+
+PATIENT P664
+Uh-huh no.
+
+DOCTOR P664
+Should the labels.
+
+PATIENT P664
+Well I don't want to complicate things.
+
+DOCTOR P664
+If they don't print out, just ask them.
+
+PATIENT P664
+Yeah okay.
+
+DOCTOR P664
+If they don't have the labels then you get it done downstairs.
+
+PATIENT P664
+Okay.
+
+DOCTOR P664
+Or if they can regenerate the label then it's perfectly fine.
+
+PATIENT P664
+Uh-huh.
+
+DOCTOR P664
+As long as the lab is done there.
+
+PATIENT P664
+Okay.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+Yeah.
+
+DOCTOR P664
+So take your amlodipine, take your lisinopril.
+
+PATIENT P664
+Uh-huh, uh-huh.
+
+DOCTOR P664
+The cholesterol medicine and that's it and a baby aspirin.
+
+PATIENT P664
+Uh-huh.
+
+DOCTOR P664
+Your fish oil and then the Debrox you'll get downstairs.
+
+PATIENT P664
+My what?
+
+DOCTOR P664
+Debrox.
+
+PATIENT P664
+Oh yes.
+
+DOCTOR P664
+That's the one.
+
+PATIENT P664
+Oh that's what it's called right.
+
+DOCTOR P664
+And then we're done.
+
+PATIENT P664
+Alright.
+
+DOCTOR P664
+@@@.
+
+PATIENT P664
+Yeah okay, I take these with me.
+
+DOCTOR P664
+For the next time yeah.
+
+PATIENT P664
+Yes, yes.
+
+DOCTOR P664
+Just take these, give this to them when you check out.
+
+PATIENT P664
+Oh.
+
+DOCTOR P664
+You take these with you.
+
+PATIENT P664
+Oh yes, yes.
+
+DOCTOR P664
+So can I, let me write down something.
+
+PATIENT P664
+Okay yeah.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+You have very legible handwriting for a doctor.
+
+DOCTOR P664
+Oh really.  So we're all set.
+
+PATIENT P664
+Yeah this explains what I was talking about and it's essentially a throw away.
+
+DOCTOR P664
+Okay.
+
+PATIENT P664
+Unless you're looking for services.  Okay.
+
+DOCTOR P664
+Thank you sir.
+
+PATIENT P664
+Well thank you DOCTOR.
+
+DOCTOR P664
+They'll schedule you for an appointment right.
+
+PATIENT P664
+Yes, yes.  Right we're all down.
+
+DOCTOR P664
+You need to check out.
+
+PATIENT P664
+Yes, thank you ma'am.
+
+PATIENT LEAVES:  55:02
+
+Time is 2:30 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249440
+TRANSACTION # 578-10-2-316-0103

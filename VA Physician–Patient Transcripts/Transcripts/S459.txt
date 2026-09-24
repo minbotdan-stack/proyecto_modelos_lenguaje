@@ -1,0 +1,409 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR S459
+PATIENT?  I'm DOCTOR.  How are you?  Come on back.
+
+PATIENT S459
+I got my @@@ down here.  @@@ okay.
+
+DOCTOR S459
+Alright.  So we'll be in the second room to the right okay.
+
+PATIENT S459
+Second room to the right.
+
+DOCTOR S459
+This one right here.
+
+PATIENT S459
+@@@.
+
+DOCTOR S459
+Go ahead and have a seat.  How we doing today?
+
+PATIENT S459
+Okay.
+
+DOCTOR S459
+Doing okay?
+
+PATIENT S459
+Yeah.
+
+DOCTOR S459
+You're doing okay?  Yeah.
+
+PATIENT S459
+Uh-huh.
+
+DOCTOR S459
+Yeah? Okay good.  You're here for a General Medicine visit right?
+
+PATIENT S459
+Yeah.
+
+DOCTOR S459
+Okay.  So the last time you were in here was back in September.  How have things been going since then?
+
+PATIENT S459
+Oh okay.
+
+DOCTOR S459
+Okay.
+
+PATIENT S459
+Yeah.
+
+DOCTOR S459
+Anything new?
+
+PATIENT S459
+No.
+
+DOCTOR S459
+Any new, old, different, changed?
+
+PATIENT S459
+No.
+
+DOCTOR S459
+Pretty much the same?
+
+PATIENT S459
+Yes.
+
+DOCTOR S459
+Okay.  Have you been eating okay?
+
+PATIENT S459
+Yes.
+
+DOCTOR S459
+Any chest pain or anything like that?
+
+PATIENT S459
+No.
+
+DOCTOR S459
+No okay.  Uh have you been checking your blood sugars at home?
+
+PATIENT S459
+Yeah.
+
+DOCTOR S459
+Yeah what do they run?
+
+PATIENT S459
+They run about the same.
+
+DOCTOR S459
+Run about the same?  Can you give me an approximate number?
+
+PATIENT S459
+Uh, I don't know, 90 something I think.
+
+DOCTOR S459
+Around the 90s?
+
+PATIENT S459
+Sometimes it goes up and down I don't know.
+
+DOCTOR S459
+What's the highest it gets up to?
+
+PATIENT S459
+Huh?
+
+DOCTOR S459
+What's the highest it goes up to?
+
+PATIENT S459
+102 I think.
+
+DOCTOR S459
+What's the lowest it goes down to?
+
+PATIENT S459
+About 50 something.
+
+DOCTOR S459
+50 something?  When it goes down to 50 something do you get lightheaded or dizzy?
+
+PATIENT S459
+No I haven't been feeling it too much.
+
+DOCTOR S459
+Not too much or not at all?
+
+PATIENT S459
+Not at all.
+
+DOCTOR S459
+Okay any nausea, vomiting, diarrhea?
+
+PATIENT S459
+No.
+
+DOCTOR S459
+Constipation?
+
+PATIENT S459
+Uh uh.
+
+DOCTOR S459
+Blood in your stools?
+
+PATIENT S459
+No.
+
+DOCTOR S459
+Okay.  So the last time you were here, what'd we talk about?  We wanted to continue your blood pressure management and your blood pressure looks really good today so that's good.  Still, are you still making urine?
+
+PATIENT S459
+Yes.
+
+DOCTOR S459
+Yeah cause I know you were seen by the kidney doctors and they said you absolutely do not want dialysis is that right?
+
+PATIENT S459
+Right.
+
+DOCTOR S459
+Still taking all your medications?
+
+PATIENT S459
+Yes I, right now I used the last one and I run out of this one here.  This one I run out @@@.
+
+DOCTOR S459
+This is the one the kidney doctors prescribed you right?
+
+PATIENT S459
+Yes uh-huh.
+
+DOCTOR S459
+See if they refilled it for you.  You should still be on the calcium carbonate, let's just see what they said.  Are you taking the kayexalate that's uh the thing they gave you at the uh kidney doctors?  Like that liquid stuff?
+
+PATIENT S459
+The liquid stuff.
+
+DOCTOR S459
+Yeah you still taking that?
+
+PATIENT S459
+Uh I haven't taken any of that stuff yet.
+
+DOCTOR S459
+You haven't taken any of it yet?
+
+PATIENT S459
+No.
+
+DOCTOR S459
+Why not?
+
+PATIENT S459
+I don't know.
+
+DOCTOR S459
+You should start taking it.
+
+PATIENT S459
+Alright.
+
+DOCTOR S459
+Cause they're worried because your potassium was really high and that can cause you to have a heart attack.
+
+PATIENT S459
+Alright.
+
+DOCTOR S459
+And we don't want that.
+
+PATIENT S459
+Alright.
+
+DOCTOR S459
+Okay.  So start taking that.  Can I see that medication bottle one more time the one you said you’re out of.  Okay I refilled this.  What about the rest of your meds?  Do you still have all those?
+
+PATIENT S459
+Yes.
+
+DOCTOR S459
+Yeah.
+
+PATIENT S459
+I have some refills.
+
+DOCTOR S459
+I want to make sure you have enough to last you till your next appointment.  I think you're gonna run out so I'm gonna refill everything for you okay.
+
+PATIENT S459
+Alright.  They usually send it to me when I run out.
+
+DOCTOR S459
+Yeah they usually send it to you but if you run out then they can't send it to you right.  Like if you run out of refills.
+
+PATIENT S459
+I thought they should know when I run out.
+
+DOCTOR S459
+Yeah they do and that's why we have to refill them for you before they run out of refills.  Make sense?
+
+PATIENT S459
+I don't know.
+
+DOCTOR S459
+(Laughter)  You know what, I see you're gonna be seeing the kidney doctors in, let’s see, do you have an appointment coming up with the kidney doctors?
+
+PATIENT S459
+I don't know when the next appointment is.  I ain't got nothing @@@ or anything. 
+
+DOCTOR S459
+They wanted to see you back in a month and that was back in November so I think we need to schedule you for a follow-up kidney doctor appointment okay.
+
+PATIENT S459
+Uh-huh.
+
+DOCTOR S459
+Other than that you're doing okay though huh?
+
+PATIENT S459
+Uh-huh.
+
+DOCTOR S459
+Okay.  Want to have a seat up here for me and I can examine you?  I'm looking to see when the last time we got a cholesterol panel on you.  Can you look straight ahead for me?  Open your mouth, stick your tongue out and say ah.
+
+PATIENT S459
+Ah.
+
+DOCTOR S459
+Give me some big deep breaths.  Good, breathe normally.  Good.  Numbness or tingling in your fingers or toes?
+
+PATIENT S459
+No.
+
+DOCTOR S459
+Stomach pain?
+
+PATIENT S459
+No.
+
+DOCTOR S459
+Okay, alright.  Give me a few minutes.  Let me go talk to DOCTOR and I'll be right back okay.
+
+(DOCTOR OUT:  32:54  DOCTOR IN:  49:40)
+
+SECOND DOCTOR S459
+Hey PATIENT.
+
+PATIENT S459
+Hi.
+
+SECOND DOCTOR S459
+How are you?
+
+PATIENT S459
+Okay.
+
+SECOND DOCTOR S459
+Okay.  Um are you watching your diet and @@@ off the potassium?
+
+PATIENT S459
+Uh-huh.
+
+FIRST DOCTOR S459
+High potassium diet.
+
+PATIENT S459
+Uh-huh.
+
+SECOND DOCTOR S459
+You're watching like bananas, oranges okay.  But you haven't taken that sweet liquid?
+
+PATIENT S459
+Hmm?
+
+SECOND DOCTOR S459
+The kayexalate, the one that tastes really sweet? 
+
+PATIENT S459
+Hmm.
+
+SECOND DOCTOR S459
+Do you have it at home?
+
+PATIENT S459
+Yeah.
+
+SECOND DOCTOR S459
+You do, okay.  I'm going to check your potassium again today so I don't want you to leave.  I want you to come back after your blood tests done and just wait out there because I need to make sure it's not too dangerously elevated and PATIENT your kidney function is deteriorating quite fast - quite rapidly and I think the dialysis is eminent.  So I think you need to come to the conclusion that you really need it otherwise you I mean this is life-threatening.  You may not need it immediately but that might be in near future and you will need it.  What is that you are concerned about?  A lot of people are on dialysis.  They start even at the age of 85, I have a patient, an 85 year old who just started on dialysis.
+
+PATIENT S459
+Well I.
+
+SECOND DOCTOR S459
+And they do fine.
+
+PATIENT S459
+Don't like the idea, going for three hours and sit and I don't like that.
+
+SECOND DOCTOR S459
+Well you are otherwise doing okay.  I think that dialysis is I mean.  I mean unfortunately we don't have any other way to take care of your kidneys.  I don't think it's.  I mean the idea is bad to start it but once you get used to it I'm sure you'll.  I mean it's not as bad as you think.
+
+PATIENT S459
+Well I'll never get used to it.
+
+SECOND DOCTOR S459
+But the problem is, it’s better than uh I mean that it's going to be your life support measure.  Without it.
+
+PATIENT S459
+Yeah.
+
+SECOND DOCTOR S459
+People die.
+
+PATIENT S459
+Yeah.
+
+SECOND DOCTOR S459
+You're not there yet but I'm sure that I want you to get used to the idea.
+
+PATIENT S459
+Right.
+
+SECOND DOCTOR S459
+So you do not decline.  That's what @@@.  That's what I wanted to talk to you about.
+
+PATIENT S459
+Yeah @@@.  I have to give it some thought.
+
+SECOND DOCTOR S459
+Okay because I don't want you to just, just without any thinking.
+
+PATIENT S459
+Yeah.
+
+SECOND DOCTOR S459
+Uh not.  Okay.  Alright.  So do the blood, wait out there and meanwhile make your kidney doctors appointment okay.
+
+PATIENT S459
+Yeah.
+
+FIRST DOCTOR S459
+Alright so I want you to go to the Lab and get your blood drawn and then come back here okay.  And up front they're gonna schedule you in the clinic.  So I want you to go up front, schedule the appointment, go to the Lab get your blood drawn and come back here okay.
+
+PATIENT S459
+Yeah.
+
+FIRST DOCTOR S459
+Okay.
+
+PATIENT LEAVES:  52:50
+
+10:55
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1255160
+TRANSACTION # 578-10-2-316-0103

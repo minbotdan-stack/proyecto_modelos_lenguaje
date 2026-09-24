@@ -1,0 +1,1388 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR A768 
+PATIENT?
+
+PATIENT A768
+Mr. PATIENT?
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+That's me.
+
+DOCTOR A768
+Hi.
+
+PATIENT A768
+Hi.
+
+DOCTOR A768
+How's it going?
+
+PATIENT A768
+Alright.
+
+DOCTOR A768
+Have a seat back here @@@ for me.  Anything specific bring you in today?
+
+PATIENT A768
+Yep.  But we'll get to that.  First thing's is uh take care of this.  I'm not taking any of this stuff right now.  One, two and four I don't even have and number three were stopped when they took me off the naproxen.  
+
+DOCTOR A768
+Um, well these.
+
+PATIENT A768
+So what do I need?  I don't know.
+
+DOCTOR A768
+Is there, how many of them are you taking there? 
+
+PATIENT A768
+Huh?
+
+DOCTOR A768
+How many of these were you taking cause it looks like they're expired?
+
+PATIENT A768
+Right.  So aside from that, my doctor, civilian doctor called me in January because my uh prescription for my thyroid medication had expired and she said she had to see me.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+So okay so as a result of seeing her, she took my blood pressure.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+So now I'm taking this stuff.
+
+DOCTOR A768
+Okay.
+
+PATIENT A768
+And then I told her that I was having trouble sleeping with the pain so she gave me this stuff.
+
+DOCTOR A768
+Hmm.  Okay.
+
+PATIENT A768
+She also had me get all of these blood tests.
+
+DOCTOR A768
+Okay.
+
+PATIENT A768
+Now the reason I'm here is cause you wanted me to come in here because I wanted to see a spine specialist and the only way to do that is to get a referral from you.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+So that's why I'm here and I got another issue today.  Well it's not just today it's been for the last three weeks, this paraquadrant hurts and I think it's from getting up and down and strained something in there.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+But like if I sneeze or cough you know I get a shot in the back and the shoulder blade and all of that and uh so now it's up to you.
+
+DOCTOR A768
+Well, so you have a history of spinal stenosis.
+
+PATIENT A768
+Right.
+
+DOCTOR A768
+But we’ve not imaged the spine here.  How do you now that you have spinal stenosis?
+
+PATIENT A768
+How do I know?
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+Well other doctors in the past have told me that that's what I had.
+
+DOCTOR A768
+How did they know?
+
+PATIENT A768
+I don't know.
+
+DOCTOR A768
+Did they do an MRI?  Did they . . .
+
+PATIENT A768
+No I don't think I've had an MRI.  Uh probably based on the fact that I had the spine operation in '68 and there's a lot of scar tissue there, you know I don't know.
+
+DOCTOR A768
+Okay.  What did they do?  Why did you have a spine operation?
+
+PATIENT A768
+Cause I had a ruptured disk and they took it out or fused it.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+Or whatever they did at L5.
+
+DOCTOR A768
+Okay.
+
+PATIENT A768
+And since I've been having more pain, uh in that area and my SI joints some days is really a killer.  I want to get something done and have my spine examined or something.
+
+DOCTOR A768
+Uh-huh.  You had a fusion surgery of L5?
+
+PATIENT A768
+Yeah.  I guess that's what.
+
+DOCTOR A768
+With like rods and @@@?
+
+PATIENT A768
+No, no, no rods.  He said it would fuse itself because I was so young.
+
+DOCTOR A768
+You don't have any metal in your body?
+
+PATIENT A768
+No.
+
+DOCTOR A768
+Okay, no shrapnel even?
+
+PATIENT A768
+No.
+
+DOCTOR A768
+And what are your symptoms?  You can't walk?
+
+PATIENT A768
+Well, lately I've been getting more and more pain in the scar tissue area and in the SI joint.
+
+DOCTOR A768
+Okay.
+
+PATIENT A768
+And once I stand for a while then my back starts hurting and I got to lay down and you know ease the pain and even walking from the parking lot here caused me some, not a lot of pain but some discomfort in the back you know, in the lower back, the SI joint and I want to, see I'm scheduled to get another shot at the end of this month, the 27th.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+Now am I going to be wasting my time because the hip is getting the pain from the spine or what you know, because they can only do this every six, I mean every three months and it only lasts for four or five weeks you know.  
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+So am I wasting my time getting the shots you know what I mean?
+
+DOCTOR A768
+Well I think you probably have both back pain and osteoarthritis.
+
+PATIENT A768
+Uh-huh.
+
+DOCTOR A768
+So it'll help the osteoarthritis pain but we can also look into the back pain.  Just tell me a little bit more about it, what it feels like, do you have any numbness, tingling in the legs?
+
+PATIENT A768
+Well the pain in the back is a dull pain back here where the surgery was.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+And the other, with the intensity of the SI joint, I don't know if it's a sharp pain, a dull pain, it's just you know really intense or what but I know the SI joint really sometimes hurts pretty bad.  
+
+DOCTOR A768
+So that is dull and sharp pain or it isn't?
+
+PATIENT A768
+You know like with the intensity of the pain, how do you tell what a sharp pain is and a dull pain is?
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know.  All I know is it hurts like heck.
+
+DOCTOR A768
+What makes it better and what makes it worse?
+
+PATIENT A768
+Well getting off my, getting off my feet makes it better.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+Uh sometimes laying down makes it better.  See I can do one thing at one time and something will hurt.  I can do the same thing another time and that thing won't hurt.
+
+DOCTOR A768
+Uh-huh.  So can you lean forward?  Like can you walk straight up or do you have to like lean forward?  Like in a store you may use a grocery cart and that makes it a little bit easier for you to walk?
+
+PATIENT A768
+Well when I got the cane I'm upright and the tendency with the shopping cart is to walk you know over, bent over you know.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+When I walk with the cane I'm upright.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know.
+
+DOCTOR A768
+And you're okay with that?
+
+PATIENT A768
+Yeah.  So far I can still uh; you know I still have the strength to walk with just a cane.
+
+DOCTOR A768
+Good.
+
+PATIENT A768
+But uh.
+
+DOCTOR A768
+You don't need a walker?
+
+PATIENT A768
+Not yet no but now I'm sitting here now you know.  The pain goes to different places.  Now my knee's starting to hurt see.  Back feels okay now I'm sitting upright and all back feels okay.  The hip is a little sore but the knee's starting to hurt you know.  So I don't know, it's like my body's got switches in it and somebody's in there flipping all these different switches to make the pain go to different areas.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+And when the four or five weeks that the shot worked, then this was more noticeable.  The pain on this side was more noticeable.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know and uh I think it's coming up from the spine.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+But and I want to make sure if it is or isn't you know.
+
+DOCTOR A768
+Okay.  So no numbness, no tingling?
+
+PATIENT A768
+Well not that you would say constant.
+
+DOCTOR A768
+But you have it?
+
+PATIENT A768
+Well let me put it to you this way, if I sit in my recliner and I don't have any socks on, my toes hurt.
+
+DOCTOR A768
+Is there a numbness and tingling?
+
+PATIENT A768
+They get all electrified in the tips, in the toes you know.
+
+DOCTOR A768
+But only if you take off your socks?
+
+PATIENT A768
+Yeah.  If my wife puts my socks on the pain goes away.  So I don't know what that's all about you know.  I don't know if it's just a reaction to the cold air that's in the room or what, I don't know.
+
+DOCTOR A768
+Okay.
+
+PATIENT A768
+You know and it uh there are times when somewhere in the body, it'll feel like somebody just took a pin and went put, you know.  
+
+DOCTOR A768
+Yeah.
+
+PATIENT A768
+It's just that and then sometimes it'll be somewhere else and another one you know.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+But uh I don't know.
+
+DOCTOR A768
+Okay.  How's your mood?
+
+PATIENT A768
+How's my mood?
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+Uh I haven't threaten to kill anybody yet.
+
+DOCTOR A768
+So you're not depressed or unhappy?
+
+PATIENT A768
+Well naturally you're gonna have some depression with being in constant pain.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know, you uh, if you don't get a lot of sleep you know.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+I can go to bed; I go to bed 11:30, 12 o'clock at night.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+I'm still in bed at 11 o'clock, 12 o'clock in the morning you know because I haven't gotten some restful sleep.
+
+DOCTOR A768
+Yeah.
+
+PATIENT A768
+This stuff only lasts about four hours and then you know I wake up in pain and I'd have to take another to go back to sleep you know and so I lay there tossing and turning, trying to find a position to get rid of the pain.  So when I find a position to get rid of that pain then a different one will come.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know.
+
+DOCTOR A768
+Okay.  So do you want the amlodipine, do want these medications on here?
+
+PATIENT A768
+Well you can give it yeah if you can sure.
+
+DOCTOR A768
+Okay.  
+
+PATIENT A768
+Cause it seems to be working because uh when I went there the blood pressure she had to take it two or three times, they took it, she said it was in the high 150s.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know, the top one and the low one was still too high too.
+
+DOCTOR A768
+Do you want 90 pills?
+
+PATIENT A768
+Sure.  I got enough to last me the rest of the week so they can mail it.
+
+DOCTOR A768
+Yep okay.  Alright, alright I think everything else you're pretty much up-to-date on.  Um we'll do labs next time you come but that's it.  Um 
+
+PATIENT A768
+So you gonna read these or what?
+
+DOCTOR A768
+Yeah I looked at them.  There's nothing abnormal about it.
+
+PATIENT A768
+Cause geez she told my vitamin D was low.
+
+DOCTOR A768
+Um wait; I didn't see the vitamin D.
+
+PATIENT A768
+She said my cholesterol was borderline high.
+
+DOCTOR A768
+We checked your cholesterol here recently and let me see if I got this right.  LDL, yeah it was high there but it wasn't, oh it was @@@ but it wasn't to @@@ 118 get it lower than that.   And then what are you doing for the vitamin D?
+
+PATIENT A768
+Taking uh 6000 of D3.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+If that's good or not I don't know.
+
+DOCTOR A768
+Okay.  And she gave you thyroid medications?
+
+PATIENT A768
+Uh yeah.
+
+DOCTOR A768
+And she didn't start you on anything for cholesterol?
+
+PATIENT A768
+No.
+
+DOCTOR A768
+Okay.
+
+PATIENT A768
+She said she wanted to do the blood tests again in two months and see if you know.  She told me to change my diet you know.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+Then she said you make an effort to do that and then we'll see if that drops it down you know.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+She said it ain't real bad she said but it is uh higher than we'd like it to be.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+She said my main concern at this time was your blood pressure you know.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+Because it was so high.  Of course the more they get me to come in there the more I gotta pay.
+
+DOCTOR A768
+Yeah.
+
+PATIENT A768
+She also told me to take my blood pressure medicine the way I'm supposed to take it instead of getting up out of bed, taking it and eating breakfast you know.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+She said you're supposed to do it on an empty stomach.  But uh if I could get out of bed at a decent time every day at the same time you know.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+It would be different but uh you know I get up and my wife's ready to eat her lunch you know.
+
+DOCTOR A768
+You get up late?
+
+PATIENT A768
+Sometimes I don't get out of bed till 12 o'clock.
+
+DOCTOR A768
+Why?
+
+PATIENT A768
+Because I'm tired.
+
+DOCTOR A768
+Hmm.
+
+PATIENT A768
+You know.  I'm so tired from not getting any restful sleep during the night.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know and four hours sleep, which is what you know that sleep stuff does, that only lasts you know for four hours.  Starting in the beginning I got six.
+
+DOCTOR A768
+Do you snore?
+
+PATIENT A768
+Probably, she says I do, I don't know, everybody snores.
+
+DOCTOR A768
+Has she ever seen you stop breathing when you snore?
+
+PATIENT A768
+No.
+
+DOCTOR A768
+Alright.
+
+PATIENT A768
+Uh sleep apnea, I don't uh wake up because I can't breathe or anything like that you know uh and if I'm snoring I don't know I'm snoring.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know.  I'm asleep.  If I'm snoring I'm getting sleep you know.
+
+DOCTOR A768
+You might have sleep apnea.  Do you want a sleep study?
+
+PATIENT A768
+Ah.
+
+DOCTOR A768
+Uh-huh.  It'll help you feel.  If you have sleep apnea you'll feel more rested after they put you on a CPAP if you have sleep apnea and that'll help you feel more rested.  
+
+PATIENT A768
+Well if you can't sleep because of the pain what is the sleep test gonna do?
+
+DOCTOR A768
+Well I mean the pain, like if you're not sleeping and the pain can be worse but if it makes you go on to sleep then you maybe, you may have less pain.
+
+PATIENT A768
+Uh-huh.
+
+DOCTOR A768
+But it's up to you.  I mean if you're not, if you really don't think that you know your breathing is stopping when you're sleeping.
+
+PATIENT A768
+I don't really think so no.
+
+DOCTOR A768
+But you are at risk because you're overweight and you're snoring so the likelihood that you have sleep apnea if nothing else @@@.
+
+PATIENT A768
+Uh-huh.
+
+DOCTOR A768
+So.  It is not, it seems reasonable to do a sleep study.
+
+PATIENT A768
+Uh-huh.  And then what does that entail?
+
+DOCTOR A768
+Um you just come here.  I don't know if they do it early in the evening of if they do it at the end of the day.  Basically they record you sleeping and they @@@.
+
+PATIENT A768
+What if you can't, what if you can't go to sleep?
+
+DOCTOR A768
+Um I think they ask you to come in sleep-deprived so that you do.  You know.
+
+PATIENT A768
+I'm sleep deprived now.
+
+DOCTOR A768
+Yeah.  So you should be able to fall asleep.  I don't know if they give you medications to make you fall asleep or not.  They may.
+
+PATIENT A768
+You know it's strange because I get all kinds of different pains.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+And I have gone to the Naprapath.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+And laid on his table.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+And I could go to sleep just like that.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+Now why I don't know.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know cause I was going to him to get some heat compresses and you know on the area there.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+And uh, after about half an hour I'm almost asleep.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know cause he leaves the room and all that you know.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+And I, its just I guess its just what that's made out of, the firmness of it and all of that that I could sleep on.  I'm sure my mattress could be a lot harder than it is but uh my wife says it's hard enough.  Although we don't sleep together anymore, she still said she's not going to get another mattress that's harder.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+So what can I do?
+
+DOCTOR A768
+So what do think, sleep study or not?
+
+PATIENT A768
+When will it be?
+
+DOCTOR A768
+Whenever you're ready, they can schedule it for you.
+
+PATIENT A768
+Yeah, try anything.
+
+DOCTOR A768
+Okay.
+
+PATIENT A768
+Eliminate as much as I can.
+
+DOCTOR A768
+Uh-huh.  We'll try that.  Um okay I want to just take a look at you.  So first let's just have you put your leg up.  And why do you have this difficulty getting up?  Pain in your knees or pain in your back or?
+
+PATIENT A768
+Well my muscles don't work.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know.  I can't, you know I can't lift my leg.  I can't use the muscles in my leg to stand up.  I have to push myself up and when I'm then it gets me in the back trying to straighten up from after having sat you know in the car or in a chair or whatever.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+And right now it's got me right there, it's kind of see.
+
+DOCTOR A768
+And you've had this for a long time right?
+
+PATIENT A768
+Yeah.  It's tough.
+
+DOCTOR A768
+@@@ new right?
+
+PATIENT A768
+No it's not new but it don't hurt up that high.
+
+DOCTOR A768
+Down here?
+
+PATIENT A768
+Yeah down in the SI joint.
+
+DOCTOR A768
+Like right down here?
+
+PATIENT A768
+Yeah.  But the right side is the worst.
+
+DOCTOR A768
+Right here.
+
+PATIENT A768
+Yeah, ow.
+
+DOCTOR A768
+It hurts.
+
+PATIENT A768
+Yeah.
+
+DOCTOR A768
+Okay getting any numbness or tingling?
+
+PATIENT A768
+No.
+
+DOCTOR A768
+So how do you get dressed with this everything in the morning?
+
+PATIENT A768
+With the assistance of my wife.
+
+DOCTOR A768
+So you can't really dress yourself.
+
+PATIENT A768
+No.
+
+DOCTOR A768
+Do you have any problems with your arms?
+
+PATIENT A768
+Uh, only occasionally.
+
+DOCTOR A768
+Okay.  Now let me see.
+
+PATIENT A768
+If I.
+
+DOCTOR A768
+Can you lean back?  So does that worsen your pain?
+
+PATIENT A768
+Now the pain is in my thighs.
+
+DOCTOR A768
+Okay and then lean forward.  Can you bend your back all the way?
+
+PATIENT A768
+Uh that's it.
+
+DOCTOR A768
+You have pain?
+
+PATIENT A768
+Well it ain't so much pain here as it is in the groin.
+
+DOCTOR A768
+Hmm.  Okay, now can you bend side to side?
+
+PATIENT A768
+Ah.
+
+DOCTOR A768
+And that brought you pain?
+
+PATIENT A768
+Mostly in the legs.
+
+DOCTOR A768
+Okay.  You said no problems with your arms though?
+
+PATIENT A768
+Well uh.
+
+DOCTOR A768
+Just have a seat up here.
+
+PATIENT A768
+I get uh; I get a little pain if I have constipation.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+When I try to go to the bathroom.
+
+DOCTOR A768
+In your arms?
+
+PATIENT A768
+Yes.
+
+DOCTOR A768
+Hmm okay.
+
+PATIENT A768
+If I strain you know and back when I used to have sex.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+I used to get pain right here.
+
+DOCTOR A768
+Hmm.
+
+PATIENT A768
+But that's not been for a while.  As you can well imagine.
+
+DOCTOR A768
+Um, you know weight loss is gonna help your pain.
+
+PATIENT A768
+Yeah.
+
+DOCTOR A768
+A lot of this is just weight.
+
+PATIENT A768
+Well I'm trying you know.  I weighed 243 pounds at one time.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+But that's maybe in 2006.
+
+DOCTOR A768
+Uh-huh, sit back.
+
+PATIENT A768
+2007.
+
+DOCTOR A768
+Uh-huh.  And then have you tried our MOVE Program or any exercise program?  Are you interested in our MOVE Program?
+
+PATIENT A768
+No.
+
+DOCTOR A768
+No.  Okay.  And once you get that far can you grab on to the edge of this, oh yeah just like that.  Um can you lift this leg from the hip and back, up off the okay good and the same thing over here, lift feeling weak over there?
+
+PATIENT A768
+Yep.
+
+DOCTOR A768
+Okay.  Alright.  Now I want you to kick your leg out and move it out and let me push, now bend your knee good.  Same thing over here okay good now bend your knee good and then point your toes up to the sky don’t let me push on them good.  Okay and now hold your hands up like this if you can.  Alright now push against my hand good, just keep pushing good.  Push against my hand, good now pull and pull okay now squeeze my fingers with your hand okay very good and shrug your shoulders, now leave them up, leave them up good.  Now turn your head that direction and turn your head the other direction good.  And um just stick your tongue straight out okay good.  You can go ahead and unbutton just so I can listen to your heart.  Okay.  So we need to do an MRI of your spine and then send you to um, well depending on what it shows we can decide where to send you.
+
+PATIENT A768
+Uh-huh.
+
+DOCTOR A768
+Okay.  Uh you do have some spinal stenosis.  Open your mouth, say ah.
+
+PATIENT A768
+Ah.
+
+DOCTOR A768
+Alright and then look at my eyes, alright I'm going to look in your nose and your ears.  I keep stepping on it (the table control), need to move it.  Okay.  Alright.  Give me deep breaths in and out.  Do you know what medications they started you on for the thyroid, hypothyroidism?
+
+PATIENT A768
+What she started me on?
+
+DOCTOR A768
+Uh-huh.  Cause we can give you that from the VA.
+
+PATIENT A768
+Yeah well she started me at 1 something, I'm up to 200.
+
+DOCTOR A768
+Uh-huh.  Okay.
+
+PATIENT A768
+She thinks she might even have to increase it again.
+
+DOCTOR A768
+You're on 200 micrograms of the thyroid.
+
+PATIENT A768
+Yeah the Leva . . .
+
+DOCTOR A768
+The levothyroxine?  Do you want that from here?
+
+PATIENT A768
+Sure.
+
+DOCTOR A768
+And you're sure it's 200 right?
+
+PATIENT A768
+Yeah I'm sure.
+
+DOCTOR A768
+Okay.  Alright you can have a seat over there and relax a bit I have to go talk to the boss.  You know how to take this thyroid medication right?  You've got to take a half an hour before your meals.
+
+PATIENT A768
+Right.
+
+DOCTOR A768
+And by itself.
+
+PATIENT A768
+Yep.  Now you see this belt?
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+This was given to me in 2010 by a Naprapath that was doing spinal decompression that didn't work.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+But he told me that I was supposed to wear it around here see.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+So I didn't, I tried that and it didn't work.
+
+DOCTOR A768
+Yeah.
+
+PATIENT A768
+Okay.  So I put it away and a couple two or three weeks ago when I was having trouble going to sleep I put it on and went to bed but I didn't put it, I put it around my stomach.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+And went to bed and gee I had a good night so I'm wearing it a lot, every night when I go to bed now I'm wearing it.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+It helps but it don't, you know it don't get rid of all of the pain.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+But it helps.  Uh I can get into positions with the belt on that without the belt I can't get into.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know.  But I need to know about the spine, if there's anything maybe I need to have to.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+@@@.
+
+DOCTOR A768
+Have you ever had physical therapy?
+
+PATIENT A768
+Yeah well, I went to Physical Therapy for six visits.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+And.
+
+DOCTOR A768
+Was it for your knee or your back?
+
+PATIENT A768
+Well all they did was.
+
+DOCTOR A768
+Your legs?
+
+PATIENT A768
+Oh for the legs and all that.
+
+DOCTOR A768
+Did they give you a TENS.
+
+PATIENT A768
+They gave me a TENS you know and that helps while it's on.  You can make movements that you can't make before you put it on.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+But then again after you take it off then you're back to where you started again.  You still can't make those movements.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You can only make them while the unit is on.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+You know.  So, every once in a while I put it on but I don't use it on a regular basis.
+
+DOCTOR A768
+And you haven't had physical therapy for your back yet right?
+
+PATIENT A768
+No.  I don't know what they could do, what kind of physical therapy could they do for my back?
+
+DOCTOR A768
+They'll teach you exercises and things.  If you could strengthen up the muscles it'll help control your pain.
+
+PATIENT A768
+Well I don't know how you can strengthen up muscles that you can't move because it causes too much pain.
+
+DOCTOR A768
+Right.
+
+PATIENT A768
+You know.  How do you exercise something that hurts?
+
+DOCTOR A768
+Right.  They'll teach you how to stretch and kind of relieve some of that pain with some stretching.
+
+PATIENT A768
+Okay whatever.
+
+DOCTOR A768
+You want to try it?
+
+PATIENT A768
+Well we could try it.
+
+DOCTOR A768
+Okay and we'll get, give me a minute I'm going to talk to the boss and see what he says about this.  So let's see your cholesterol was checked in.
+
+PATIENT A768
+January.
+
+DOCTOR A768
+And you've been trying to eat better?
+
+PATIENT A768
+Well yeah uh, yeah I've been trying to eat better.
+
+DOCTOR A768
+Uh-huh.  Yeah if it doesn't get lower you're going to have to start the medications.
+
+PATIENT A768
+Oh, we'll see what the next blood test shows.
+
+DOCTOR A768
+Okay.  I'll be right back.
+
+(DOCTOR OUT:  88:00  DOCTOR IN:  99:04)
+
+DOCTOR A768
+Hey. He said we should start with x-rays.  So we'll get x-rays and then um I'll see what they show and then I can refer you to the Pain Clinic and then they will be doing injections.
+
+PATIENT A768
+Uh-huh.
+
+DOCTOR A768
+Depending on what the x-rays show and I can call you with those results.  What was the other thing, oh how has the thyroid medication working for you?
+
+PATIENT A768
+Well.
+
+DOCTOR A768
+Did you have symptoms of hypothyroidism?
+
+PATIENT A768
+Yeah.  She said that uh.
+
+DOCTOR A768
+What were your symptoms?
+
+PATIENT A768
+Well when this all first started, uh 20 some years ago, my fingers, tips of my fingers is what got the doctor to get me the thyroid tests.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+So.
+
+DOCTOR A768
+And that decreased the.
+
+PATIENT A768
+Well that went away yeah after I took the pills yeah.
+
+DOCTOR A768
+You weren't having any constipation or you weren't cold all the time or you didn't have decreased energy?
+
+PATIENT A768
+No.  Uh cause it turns out uh my wife's got hypothyroidism, my son's got hypothyroidism, uh my sister's got hypothyroidism so I guess it's a genetic thing.
+
+DOCTOR A768
+But the only symptom that you had was numbness in the fingers?
+
+PATIENT A768
+Yeah.
+
+DOCTOR A768
+Nothing else, no constipation?
+
+PATIENT A768
+No.
+
+DOCTOR A768
+No cold intolerance?
+
+PATIENT A768
+No cause that was, I was working at the time you know.
+
+DOCTOR A768
+Well that shouldn’t matter.  
+
+PATIENT A768
+Well.
+
+DOCTOR A768
+You may have constipation; you may have, with hypothyroidism and then when she found that your numbers were off this time did you have any of those symptoms?
+
+PATIENT A768
+No.
+
+DOCTOR A768
+Okay.  Um, let's see.  We'll get the x-rays um; we're going to get them today.
+
+PATIENT A768
+You know the tiredness that's uh; you can't attribute it to the hypothyroidism now today because I'm not getting any sleep you know.
+
+DOCTOR A768
+Right.  I'll um, okay we need to get that and then um, the physical therapy we can order that.  
+
+PATIENT A768
+Should I still go through with the shot?
+
+DOCTOR A768
+From Ortho?
+
+PATIENT A768
+Yeah.
+
+DOCTOR A768
+Yeah.
+
+PATIENT A768
+Oh.
+
+DOCTOR A768
+Yeah whatever makes you feel better you should do and how has your pain been controlled with the medications you're on, the tramadol, the hydrocodone?
+
+PATIENT A768
+I told you I ain't on any of that.  I'm not taking any of it.
+
+DOCTOR A768
+Why not?
+
+PATIENT A768
+I don't have any of it.  The only thing I got is that opta, whatever it is and that was only for when I was on the naproxen.
+
+DOCTOR A768
+Oh okay.  You have a history of a GI bleed right?
+
+PATIENT A768
+Right.
+
+DOCTOR A768
+And have you had any follow up endoscopies?
+
+PATIENT A768
+No.
+
+DOCTOR A768
+Okay we should do a follow-up endoscopy too.
+
+PATIENT A768
+Yeah.
+
+DOCTOR A768
+They haven't looked since 2010?
+
+PATIENT A768
+No.
+
+DOCTOR A768
+Okay we should do that too.
+
+PATIENT A768
+Why?
+
+DOCTOR A768
+Um just to make sure that the ulcer has healed.
+
+PATIENT A768
+Hmm.  That means I have to go to sleep, right?
+
+DOCTOR A768
+Um they, it's called conscious sedation.
+
+PATIENT A768
+Uh-huh.
+
+DOCTOR A768
+Let me put in that consult too, we need to really schedule that.  @@@ their clinic.  You know do mind going to the Lab today?
+
+PATIENT A768
+For what?
+
+DOCTOR A768
+To get a blood draw, because normally when you're seen by the GI doctors for that scope.
+
+PATIENT A768
+Yeah.
+
+DOCTOR A768
+They want to make sure that you don't have any problems with your blood test.
+
+PATIENT A768
+Uh-huh.
+
+DOCTOR A768
+So we need to order the labs for that.  Are you taking any aspirin or anything?
+
+PATIENT A768
+No.  The other thing I was taking but I haven't taken it for two days was vitamin C.
+
+DOCTOR A768
+Are you out of those medications, cause you have refills?
+
+PATIENT A768
+I never sent the things in.
+
+DOCTOR A768
+Yeah you can call and tell them to send it in.
+
+PATIENT A768
+Yeah.
+
+DOCTOR A768
+Yeah.  You have plenty of refills.
+
+PATIENT A768
+Yeah.  I know.  Do you know how many bottles of naproxen I got that I never ordered you know?
+
+DOCTOR A768
+Oh.  Sometimes they just send it.  The narcotics they probably won't send unless you ask for them.
+
+PATIENT A768
+Right but uh the naproxen I got.
+
+DOCTOR A768
+Uh-huh.  Yeah.
+
+PATIENT A768
+I must have 600 pills of that stuff cause it just kept coming.
+Trying to deal with the pain without taking a whole lot of medication, that's why I'm so concerned about getting the spine looked at.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+Because I'm sure that if it is the spine, whatever they can do to correct it will eliminate a lot of the pain and I won't have to be on the medication.
+
+DOCTOR A768
+Well with spinal stenosis it is a chronic pain illness. 
+
+PATIENT A768
+Uh-huh.
+
+DOCTOR A768
+Okay.
+
+PATIENT A768
+Well I want to find out if there's any, if they could find out what's wrong if there's a way to correct it.  If there ain't no way to correct it then what can I do you know.  I can't do nothing.
+
+DOCTOR A768
+Right.
+
+PATIENT A768
+But uh.
+
+DOCTOR A768
+Would you be willing to have surgery?
+
+PATIENT A768
+Yeah.  If that would correct it.  You know uh I don't want to just numb the pain; I want to try and get to the source of the pain and get rid of it if that's possible.  If it's not possible well then it's not possible.
+
+DOCTOR A768
+Uh-huh.
+
+PATIENT A768
+But you know that's uh my goal cause I got lots of years left.
+
+DOCTOR A768
+Yeah.
+
+PATIENT A768
+That’s right.
+
+DOCTOR A768
+Okay, well let me, you can schedule your appointment with me.
+
+PATIENT A768
+Uh-huh.
+
+DOCTOR A768
+Um, well I don't think you're going to be able schedule with me; the clinic is going to call you so just ask up front if it's possible.
+
+PATIENT A768
+Uh-huh.
+
+DOCTOR A768
+Okay and now I guess we go through the nurse; we want to do a pain assessment I’m going to just walk you over there.
+
+PATIENT A768
+A pain assessment.
+
+DOCTOR A768
+You know you're in pain right?
+
+PATIENT A768
+Yeah.
+
+DOCTOR A768
+So we have to assess.
+
+PATIENT A768
+Right, what do they have to assess me?  How are they going to feel it to assess it?
+
+DOCTOR A768
+Uh-huh well hopefully we'll get these x-rays, get some answers, get some physical therapy and then I'll most likely be referring, it sounds like its spinal stenosis.  I'll most likely be referring you to um the Anesthesia Pain Clinic.
+
+PATIENT A768
+So they gonna do injections?
+
+DOCTOR A768
+Yeah they can do injections.
+
+PATIENT A768
+What kind?  What do they call them?
+
+DOCTOR A768
+Epidural injections.
+
+PATIENT A768
+An epidural or something like that yeah.  I had a guy that wanted to do that last year but it was gonna cost me $3000. 
+
+DOCTOR A768
+Well it won't cost you that much here.  So go ahead and sit in the chair now.  Alright.  (Doctor speaking to someone)  You can wait over here and the person who is assessing you will be back okay and then you're gonna go check out and then you're gonna go get the x-ray.  Okay.  And you probably stop by the Pharmacy and get those medicines if you want just call and they'll mail them.
+
+PATIENT A768
+Yeah okay.
+
+DOCTOR A768
+Okay.
+
+PATIENT A768
+Uh-huh.
+
+DOCTOR A768
+Okay.
+
+DOCTOR LEAVES:  109:00
+
+Time is 10:30
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255098
+TRANSACTION # 578-10-2-316-0103

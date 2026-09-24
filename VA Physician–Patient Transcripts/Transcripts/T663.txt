@@ -1,0 +1,1601 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR T663
+Patient?  Hi, how are you this morning?  How are you?
+
+PATIENT T663
+It's been really wild.
+
+DOCTOR T663
+Excuse me?  Hmm?
+ 
+PATIENT T663
+Bet you're my new doctor.
+
+DOCTOR T663
+Right here, okay.  
+
+PATIENT T663
+After you.
+
+DOCTOR T663
+I'll take it.  Yes I am DOCTOR.
+
+PATIENT T663
+I can't pronounce that.
+
+DOCTOR T663
+Alright, that's fine.  Oh bar, like a metal bar and then the watch around your wrist.
+
+PATIENT T663
+DOCTOR.
+
+DOCTOR T663
+Yeah DOCTOR.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+Right in here.  Just sit, one second. I’ll be right back.
+
+PATIENT T663
+Hmm.
+
+DOCTOR T663
+Alright, falling asleep on me already?
+
+PATIENT T663
+Been a long day.
+
+DOCTOR T663
+Well I'll try to make this a little shorter.  Um PATIENT, what can we do for you today?
+
+PATIENT T663
+I'm just here to.
+
+DOCTOR T663
+Follow-up.
+
+PATIENT T663
+Yeah, well it's uh.
+
+DOCTOR T663
+Great I love follow-ups.
+
+PATIENT T663
+This is, I'm supposed to see you.  You're supposed to be my new uh.
+
+DOCTOR T663
+Sure.
+
+PATIENT T663
+My new uh general practitioner.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+Uh the other question is uh I don't understand why there wasn't a uh, a uh thing in for blood work.
+
+DOCTOR T663
+Today?
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+Hmm.  Let's take a look shall we um.
+
+PATIENT T663
+And I spoke with the lady when I spoke to her a few weeks ago.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+She told me that uh I was given a new primary care doctor.
+
+DOCTOR T663
+Sure.
+
+PATIENT T663
+So I asked her first well okay, set up the date and I asked her do I have to you know, I'll come in and have the blood work done.  She says well nobody's put in anything for a blood work or anything.  I says well you know I don't know how long you've been doing this job but generally when they change from one doctor to another doctor.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+They do a blood work; this way here the incoming doctor knows what's going on because I think my last blood work was in January.
+
+DOCTOR T663
+Yeah I'm actually looking at it right now and to be honest with you there was nothing I noticed that I found to be too concerning.  So usually when that happens, when patients seem to be doing really well and we're not following up on anything acutely then once a year is fine.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+So, you know that's not a problem for me.  I mean was there anything that you were concerned about in particular?
+
+PATIENT T663
+No, the primarily uh the cholesterol count.
+
+DOCTOR T663
+Okay.  So it.
+
+PATIENT T663
+That was the uh big thing.  Because I'm out of my cholesterol medication and.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+If I can get the, if I can get the.
+
+DOCTOR T663
+Absolutely.
+
+PATIENT T663
+The medication.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+That's fine and then in the next three months when I come in to see you or whatever.
+
+DOCTOR T663
+We'll get you back on the medication and we'll check the cholesterol.
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+That's perfect.  Actually I refilled it so I think it'll be ready for you to pick up downstairs, let me just double check.  Do you, would you, lets try that again, alright.  Let's take a look at the details.  Um so I had put it to be mailed to you at home.
+
+PATIENT T663
+Right.
+
+DOCTOR T663
+The cholesterol medication is not urgent.  I don't want you to waste your time downstairs.
+
+PATIENT T663
+Now usually what I do.  Usually I order mine online.
+
+DOCTOR T663
+Oh really?
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+Do you want me to cancel this or?
+
+PATIENT T663
+No, no, no, no, no.
+
+DOCTOR T663
+Okay keep it.
+
+PATIENT T663
+No let it go, this way I don't know how many other refills are behind this.
+
+DOCTOR T663
+Um let's see, what did I put it in for, so a 90-day supply with three refills.  That's the most they let me do, 270 days.
+
+PATIENT T663
+Okay, that's fine.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Because uh it's a half a tablet that I take.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+In the evening so.
+
+DOCTOR T663
+Yeah.
+
+PATIENT T663
+It's actually, that works out fine.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+That's fine.  That's, that was the biggest concern.  I don't have any aches or pains or anything.  Nothing to speak of, other than old age.  Uh I'll be back here the 6th of September.
+
+DOCTOR T663
+So you know actually looking at your cholesterol level that was taken in January, if you're doing everything the same and we get you back on the same medication um I don't think it'll be a problem.  Your last numbers were actually very good.
+
+PATIENT T663
+Yeah the medication that they put me on the simvastatin or whatever it is.
+
+DOCTOR T663
+Yeah simvastatin.
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+Did its job.
+
+PATIENT T663
+It's doing its job.  It's not like I go out and have steaks and everything every day or anything.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+But uh no, everything.
+
+DOCTOR T663
+Great.
+
+PATIENT T663
+As long as I don't have to, if I don't have to be here I don't want to be here.
+
+DOCTOR T663
+Yeah I mean we still recommend coming in once a year, even if you're completely healthy just so we can go over things like you're blood pressure's great, your temperature's fine, your heart rate is great.  The weight's a little high.
+
+PATIENT T663
+Yeah, that I, that I got to work on.
+
+DOCTOR T663
+Yeah so do you uh is there anything in particular you'd like me to talk about this visit?
+
+PATIENT T663
+Uh no sir.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+But if I have any questions in the near future.
+
+DOCTOR T663
+Oh absolutely.
+
+PATIENT T663
+I can probably reach you online.
+
+DOCTOR T663
+Online not so much.  Clinic would be the best and easiest way and then that way cause you know if we.  If you e-mail me and then I e-mail you back then there's this gap, there's this delay, I don't know.
+
+PATIENT T663
+Having to wait.
+
+DOCTOR T663
+Exactly.  This is what I want to show you.  This is the weight.  This is the trend that we have for the weight.  So today when you came in we had you at 270 and you know if I look at it, it really looks like since about well we'll say go ahead to 2006, the weight's steadily been going up.  Actually there was a three year gap right here so it's almost been pretty steady growth.  I mean do you have any ideas as to why that is?
+
+PATIENT T663
+No other than the fact that I smoke.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+I've been out of work for the last two years so I'm inactive.
+
+DOCTOR T663
+Yeah.
+
+PATIENT T663
+And uh, it's probably really what it is.
+
+DOCTOR T663
+So let's talk a little bit about that.  We'll kind of make that the issue for the day but since I have a bit of time you know they cause my next patient's scheduled at 11:15 so I have a half an hour.  Um let me just try to get a little bit of background history and update your chart, make sure that everything is okay.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+Um so in here, what I'm reading is that you know in the past, before we had the medication you had high cholesterol.  You also had a problem with arthritis in one of the knees.  
+
+PATIENT T663
+Uh yeah.
+
+DOCTOR T663
+Which knee was that, left, right or both?
+
+PATIENT T663
+Both. It's more like when uh, the weather changes.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+You know it's an age thing.  I don't think it's uh, you know I don't think I hurt my legs or anything.
+
+DOCTOR T663
+Yeah and you know the thing is the osteoarthritis it gets worse with the weight going up.  It's just more wear and tear for your legs.  So if the weight, as it is right now, 270 pounds.  That's 70 pounds of weight gain you know since @@@@ in the last six years.
+
+PATIENT T663
+That's a lot.
+
+DOCTOR T663
+Yeah that is a lot.  That's a lot of stress on your knees every day that they kind of have to deal with.  So if your knees are bothering you, yeah weather changes will make it worse but weight changes will make it worse for the rest of your life.  It's just more wear and tear.  So that's why I want to work on the weight.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+Um I'm also reading that you know there's been a history in the past with depression and post-traumatic stress is that right or you tell me.
+
+PATIENT T663
+Yes.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+As a matter of fact I'm going through uh 228.
+
+DOCTOR T663
+Okay and how do you feel that that's going?
+
+PATIENT T663
+Uh well I just started.  Just like uh.
+
+DOCTOR T663
+Just uh.
+
+PATIENT T663
+My third week.
+
+DOCTOR T663
+Okay.  Is it helping?  Do you feel?
+
+PATIENT T663
+Uh.
+
+DOCTOR T663
+Things are moving in the right direction?
+
+PATIENT T663
+Well the first time I went into this thing it was a group thing.  Uh I don't like writing things down.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Okay I just don't like it.  I don't like the fact that they turn around and somebody says write it down so the more you, I don't have to write it down to remember it.  The incident that happened in Vietnam, I don't like to write it down.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+It's there and it wakes me up in the middle of the night.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+Uh I get uh, I feel like I have restless leg syndrome.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+Uh doesn't matter what time of the year it is but I'll, I'll go for a walk, I'll go for a walk and I'm gone.  I'm gone for hour, hour and a half.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Uh in the session that I'm in right now it's like on a one to one basis and uh I feel like they're trying to pull me into saying something.  Uh last week they asked me says when you're calm you know 0-100 they have this scale, when you're calm you know how do you feel?  Where are you the most calm at?  I'm most calm at home, front porch, you know where there's no stress or anything.  Where I feel the most is in crowds.  I don't go to ballgames.  Uh I try to avoid large crowds.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Period.  If I walk into a building I don't care if I've been in this building 100 times.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+When I walk through that first door first thing I look for is an exit.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+I want to be able to get out if something happens.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+If I feel that my anxiety gets too high.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+I want to be able to get out.  I don't want to be, I don't want to be suppressed.  I don't want to you know be held someplace where I don't want to be.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+If I go to a picnic uh it's fine.  I'm outside because I have the freedom that if something doesn't feel right to me I can leave.
+
+DOCTOR T663
+Hmm.
+
+PATIENT T663
+Uh I distance myself from a lot of people that I used to know.  There are a lot of things that I used to do, that I enjoyed doing, I don't do anymore.  Uh I'm fine as long as my mind and hands are occupied.  I do little crafts around the house.  Sometimes I have the guy downstairs and he hands out those crafts and stuff, I'll pick up one of those things and it gives me something to do when I'm at the house.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Uh.
+
+DOCTOR T663
+You know before I forget to ask I did want to mention um I read that you were on the trazodone to help you go to sleep at night.
+
+PATIENT T663
+Uh-huh.
+
+DOCTOR T663
+Has that been working for you?
+
+PATIENT T663
+Uh only as needed.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Only as needed.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+That's the whole thing.  I already take as needed.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+I don't like taking medications doc.  Uh I take my cholesterol medication because I know that I need it and I have to keep that in control but I do not want to become dependent on a sleep medication.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+So yes I have used it.  I don't fill it as often as I should.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+But if I feel that you know, I feel that I need it I take it.  I don't take it every day.
+
+DOCTOR T663
+Okay, no that's perfectly fine and since it's written as needed then that's okay.
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+It's up to you to decide when you want to take it.  Um what I will say is that you know I understand your sentiment about not wanting to take medication.  The two medications we have you on right now, the statin and the aspirin that you take outside as well.
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+Right, those are good medications to be taking.  Um they're gonna do great things to protect your heart.
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+Protect you from having heart attacks and having strokes.  The only other problem is you know if the weight goes up.  I mean actually the weight level we're at right now, 270 pounds, is too high and it's gonna be the kind of thing where you're only 65 right now but if you'd stay at this weight in another five years, maybe even faster than that, you're gonna start to develop a lot of health problems which will require medications.  So if we work.
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+On getting this weight under control now we can just keep you on the three medications you're on right now.
+
+PATIENT T663
+That'll work.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+There's uh.
+
+DOCTOR T663
+So uh.
+
+PATIENT T663
+The young lady uh the prep nurse.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+She gave me uh; she gave me my pneumonia vaccination.
+
+DOCTOR T663
+Perfect.
+
+PATIENT T663
+Uh she gave me this MOVE.
+
+DOCTOR T663
+Okay.  Actually yeah that's what I was gonna talk about as well but since they talked to you about that already that.
+
+PATIENT T663
+That and uh the way to quit tobacco.  I got all the literature.  She did a good job of presenting her case and everything.
+
+DOCTOR T663
+Yeah.  So of the two things having you quit tobacco is I think just as important as and you know the thing is.  Actually let me ask you, you're smoking ten cigarettes a day still or?
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+Okay.  So what I want you to do is try to cut down on that.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+I think that your goal should be at five cigarettes a day.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+And I think you should get there and stay there in the next two months.  Do you think you can do that?  Or what do you think would be more reasonable?
+
+PATIENT T663
+That's an attainable goal.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Yeah I can do that.  I can do that.
+
+DOCTOR T663
+If you can quit, I mean, don't stop at five if you feel like you can go any further.
+
+PATIENT T663
+Well you know it's kind of funny.  Uh when my son was born.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+And my son's in his 30s right now.  When my son was born I quit smoking and then uh when he was about 12 or 13, he was in an accident and I snapped.
+
+DOCTOR T663
+Hmm.
+
+PATIENT T663
+Because you should, the accident shouldn't have happened so on the way driving from Chicago to Wisconsin I picked up a pack of cigarettes and I just started smoking again.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+I think it was more a lack of worry.
+
+DOCTOR T663
+Stress can definitely do it.
+
+PATIENT T663
+And I think that's what did most of it.
+
+DOCTOR T663
+The thing is we have to find better ways of dealing with the stress and actually you know the Mental Health people are gonna be the ones that can really help you with that.  I understand that some of the you know activities that they have you do aren't ones that you're necessarily a fan of like writing things down.
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+But talk to them and see if there's any other alternatives.
+
+PATIENT T663
+Well I'm on the one to one basis right now.
+
+DOCTOR T663
+Yeah.
+
+PATIENT T663
+And uh right now they're recording my sessions and I sit there and we talk but it's not talk as in like we're doing now okay.  She's going down this book.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+You know, talks about this, talks about this, talk about this uh.  Where is your stress level?  What is the medium stress?  I don't know what a medium stress level is.  I couldn't, I know what my high stress level is and I know how calm I am.  I have no clue what a middle is.  I have no clue what a middle is.  I tend to leave areas when I feel uncomfortable.
+
+DOCTOR T663
+Okay.  There's um, there's also do you remember DOCTOR?  DOCTOR or DOCTOR, he was a clinical psychologist.
+
+PATIENT T663
+Uh-huh.
+
+DOCTOR T663
+That saw you back in May.  Are you still in contact with him?
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+He's the one that got me into this One on One Program.
+
+DOCTOR T663
+Okay.  But you still follow-up with him personally?
+
+PATIENT T663
+No.
+
+DOCTOR T663
+No.
+
+PATIENT T663
+No.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+I, right now, when I talk to somebody else over there it's a NAME.
+
+DOCTOR T663
+At Mental Health?
+
+PATIENT T663
+Yeah.  She's the one that prescribed the trazodone.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+And we'll sit down and we'll talk you know.  It's easier to talk when you're not reading it out of a book.
+
+DOCTOR T663
+Yeah.
+
+PATIENT T663
+You know what I'm saying?
+
+DOCTOR T663
+No I agree with you.
+
+PATIENT T663
+You know it's like, it's like somebody's looking at you and they're reading a instruction manual.
+
+DOCTOR T663
+Right.
+
+PATIENT T663
+On how to deal with you.  It's fine but, kind of gives you that uneasy feeling there for a while.  You know they have a good system and everything, I just feel that it's too book, too much book.
+
+DOCTOR T663
+Yeah.
+
+PATIENT T663
+But you know, that's just my opinion.
+
+DOCTOR T663
+Alright, well.  Here's kind of what I want to focus on.  Um I should first, let me ask you in terms of your overall mood uh do you feel like you're currently depressed or too anxious?
+
+PATIENT T663
+I'm not depressed.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Uh I'm always anxious even, I'm always anxious.  Uh somebody turns around and tells me well we're gonna leave at 3:30, quarter to 3 I'm ready to go.  I'll sit and wait for the 45 minutes.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Okay.  3:30 you ain't ready I'm gone.  Don't tell me we're gonna do something at a certain time and then, I understand things happen but you have so much time to get from point A to point B and you want to be there at a certain time, let's get on the, let's go.
+
+DOCTOR T663
+Okay.  So let me just fill, these are some of the things that the VA wants me to talk to you about.
+
+PATIENT T663
+Uh-huh.
+
+DOCTOR T663
+One of them is the smoking which we've already kind of done.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+We've come up with a plan and I think it's reasonable and you told me that it's reasonable.
+
+PATIENT T663
+Yeah, it's attainable.
+
+DOCTOR T663
+Yeah five cigarettes and the way, the easiest way to do it is just you know realize that at the end of this week um smoking one less cigarette a day.  So all you do to stop smoking five, so this week ten, next week nine then eight, then seven, then six, then five.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+Okay.  
+
+PATIENT T663
+In other words if I eliminate one cigarette this week.
+
+DOCTOR T663
+One cigarette a day.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+For the week.
+
+PATIENT T663
+Alright.
+
+DOCTOR T663
+Um so that's, we're gonna taper you down and you are willing to quit is that right?
+
+PATIENT T663
+Sure.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+The last time I was in here I talked to the doctor and he told me he says well we have programs here to help you.
+
+DOCTOR T663
+Can I see, which exactly which one she gave you?
+
+PATIENT T663
+Right uh.
+
+DOCTOR T663
+Somewhere in here?
+
+PATIENT T663
+All three of them and the pneumonia shot, the other one is.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Yeah you know I'm gonna have to say and anyway he turned around and he told me he says well we have programs here to help you quit.  I said okay fine.   He says how about if we put you in for the, what do you call it the patch.  I was okay fine you know.  Never heard anything else about it.
+
+DOCTOR T663
+Here's what I'm gonna do.  I'm gonna place a consult to the Stop Smoking Clinic.
+
+PATIENT T663
+Uh-huh.
+
+DOCTOR T663
+And usually what they do is that they'll try to get a hold of you and figure out when would be a good time scheduling wise.  Um the other thing is there is a program here.  I wonder if this is the same one, I can check out the numbers.
+
+PATIENT T663
+Oh it's the.
+
+DOCTOR T663
+Yeah the 1-800 QUIT NOW okay.  So look into this program.  I mean take a look at this brochure and then call the number and ask them and tell them you're ready.
+
+PATIENT T663
+Yes uh the lady told me that there was uh, I can go to this thing here and take a little survey thing online.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Okay.  Okay, we got a plan.
+
+DOCTOR T663
+The other thing that we have to do, let's see, let me put this in.  So one of the things that can happen, one second so uh.  You know this is very frustrating for me.  Now we have to do this on the computer while we, while we have the encounter.  In the old days I could write and talk at the same time.  I can't do the same because there's all this clicking and everything that goes into it.  So it's just my thing to deal with.  The other thing that's important to talk about is someone your age with a history of smoking cause one of the things smoking does is it damages the blood vessels and there's actually a very important and very big blood vessel that runs through your entire body basically from here to here.  It's called your aorta.
+
+PATIENT T663
+Hmm.
+
+DOCTOR T663
+And it's sort of like in the back right by the spinal column and what can happen is over time smoking can damage it and make it sort of swell up and once it's swelled it actually becomes weaker cause the walls kind of stretch and what we worry about is in people that have these large aortas is that they can sort of burst and it's a very, very serious medical condition.  Actually roughly 50% of the people that have that happen to them will never even make it into the hospital.  I mean that's it for them.
+
+PATIENT T663
+It's a major blood vessel.
+
+DOCTOR T663
+Yeah it is the major blood vessel.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+So what we recommend is once you get to around the age of 65, which you know you're at right now, we screen you for it and it's a one-time thing.  Basically what we do is we do an ultrasound and take a look see how big it is.  If it's bigger than normal and normal is about 2 cm or about 1 inch, 1 1/2 inches and it can get all the way up to 2 1/2 inches and if it's big then we need to follow it closely and make sure it's not getting bigger too quickly.  And if it reaches a certain size then we can do a surgery before you know.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+It ruptures and the outcome is way better if that's the case.  So what I would like to do, with your permission, is just schedule you for an ultrasound.
+
+PATIENT T663
+Sure.
+
+DOCTOR T663
+Okay.  So we'll go ahead and.
+
+PATIENT T663
+Schedule me for a brain transplant if you need.
+
+DOCTOR T663
+Well you gotta wait your turn I might need one of those too.  So let's see we have the ultrasound and that's fine.  Okay great, finish.
+
+PATIENT T663
+Alright doc but I'll be here; I'll be back in the hospital here September 6th.  I'll be here September 6th at the Eye Clinic downstairs, September 6th.
+
+DOCTOR T663
+Let's go ahead and put that in for that.  Uh is that in the morning, the Eye Clinic?
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+Okay.  So I'll put the order in for 5 a.m. but they really should be able to do it anytime so just go down to Radiology and on that day just ask them, let them know that and I need an ultrasound where do I go for that and they'll point you in the right direction.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+I can tell you know I mean you know September 6th.
+
+PATIENT T663
+Well Radiology is on the first floor right by the Lab.
+
+DOCTOR T663
+Uh-huh.  So I mean that's uh, that's it for me.  You know what I'll also do; I'll repeat the lipid panel on September 6th, that sound okay?
+
+PATIENT T663
+Lipid panel?
+
+DOCTOR T663
+Oh to check for the cholesterol and everything.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+Actually, no once a year is fine.  You did have it in January.
+
+PATIENT T663
+Hmm.
+
+DOCTOR T663
+So we don't need to do it any time faster than that.
+
+PATIENT T663
+We can do it in uh.
+
+DOCTOR T663
+It was actually right at the beginning of the year so we can do it after the winter holidays.
+
+PATIENT T663
+That'll work.
+
+DOCTOR T663
+Okay so that.
+
+PATIENT T663
+I mean the only other time I'll have to draw blood is if I come in here for something else.
+
+DOCTOR T663
+Uh-huh.  So I mean it's not a problem. 
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+Right now everything's good.  Uh just a few quick questions from me.  Are you having any fevers or chills?
+
+PATIENT T663
+Uh no.
+
+DOCTOR T663
+Any nausea or vomiting?
+
+PATIENT T663
+No.
+
+DOCTOR T663
+Any trouble breathing?
+
+PATIENT T663
+Uh no.
+
+DOCTOR T663
+Any shortness of breath or cough?
+
+PATIENT T663
+I have a cough.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+But I think it's related to smoking.
+
+DOCTOR T663
+Yeah.  Has that cough been the same for the last couple years?
+
+PATIENT T663
+It's been the same for the last uh.
+
+DOCTOR T663
+Couple decades?
+
+PATIENT T663
+Cute no uh actually it's only; it's gotten worse in the last three months.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+The last three months it's really gotten worse but you know like I say I think I attribute most of it now, being as though we're having this conversation about smoking regarding to that.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+So uh.
+
+DOCTOR T663
+Any crushing chest pain or pressure, chest pressure where you feel like you can't breathe?
+
+PATIENT T663
+No.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+But uh on occasion, it'll start hurting behind here in my left arm.
+
+DOCTOR T663
+Okay.  What kind of pain is that?
+
+PATIENT T663
+Uh like a dull numbing pain.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+Not sharp or anything.  It's just more; it's more like you know when your hand falls asleep.
+
+DOCTOR T663
+Yeah.
+
+PATIENT T663
+And you try to get it back up to get that.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+It's just that numb feeling and it just, it's just annoying sometimes.  Then other times my hands will.
+
+DOCTOR T663
+How often does that happen, that numb feeling?  Uh would you say once a week, once a month, once a day?
+
+PATIENT T663
+Uh it was uh, if I had to put an average on it.
+
+DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+I'd say every two weeks.
+
+DOCTOR T663
+And are you doing anything that makes that happen?
+
+PATIENT T663
+Not unless I'm sleeping wrong but I doubt that uh.
+
+DOCTOR T663
+For example uh how far can you walk before you get tired or out of breath?
+
+PATIENT T663
+Oh I can walk for an hour.
+
+DOCTOR T663
+Okay and does that cause the arm pain?
+
+PATIENT T663
+No.  No.
+
+DOCTOR T663
+Okay can you climb uh, how many flights of stairs can you climb?
+
+PATIENT T663
+I climb a flight of stairs every day.
+
+DOCTOR T663
+Okay.  Any pain in the arm when that happens?
+
+PATIENT T663
+No.
+
+DOCTOR T663
+Okay.  
+
+PATIENT T663
+Uh I ride my motorcycle and I don't even know if the sun's shining or not.  Uh here lately I've become uh a since July.
+
+DOCTOR T663
+Okay.  So actually PATIENT what I want to do is since you're here I just want to look you over.  Listen to your heart, your lungs; take a look at your stomach.  Uh just go ahead and have a seat up there and we'll lay you flat.  Actually I'll go ahead and listen from the back and then I'll have you lie flat.  But it doesn't sound like it's a heart pain to me.  Now the problem, the thing I get worried about is if it's every time you walk, every time you exerted yourself, every time you climb stairs you are having chest pain, shortness of breath, you felt sweaty, nauseous.
+
+PATIENT T663
+No uh those are heart attack symptoms.
+
+DOCTOR T663
+Exactly.  So this I think is musculoskeletal.
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+And I think it's just you know from using the arm.  Let me go ahead and take a listen.  Uh do me a favor, nice deep breaths with your mouth open.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+So just go in and out, in and out, in and out, in and out, in and out, in and out, one more great.  Alright the lungs sound clear.  Go ahead and take a listen.  You can breathe normally again.  Actually let's have you lie down, it might help you feel a little bit better.  Let's take a look at the stomach.  Any pain when I push?
+
+PATIENT T663
+Uh uh.
+
+DOCTOR T663
+When I push?
+
+PATIENT T663
+Uh uh.
+
+DOCTOR T663
+When I push?
+
+PATIENT T663
+Uh uh.
+
+DOCTOR T663
+No, how about here?
+
+PATIENT T663
+Now that's a little tender.
+
+DOCTOR T663
+How long has that been going on?
+
+PATIENT T663
+For years.
+
+DOCTOR T663
+For years.  Any problems with bowel movements?
+
+PATIENT T663
+No.
+
+DOCTOR T663
+Any blood in the stools?
+
+PATIENT T663
+No.
+
+DOCTOR T663
+Dark stool?
+
+PATIENT T663
+No.
+
+DOCTOR T663
+Diarrhea or constipation?
+
+PATIENT T663
+No.
+
+DOCTOR T663
+No.  That's fine, sit up.  How often do you have a bowel movement?
+
+PATIENT T663
+Twice a day.
+
+DOCTOR T663
+Twice a day.
+
+PATIENT T663
+I have one in the morning and then I have one uh later on that day.
+
+DOCTOR T663
+Any fevers or chills?
+
+PATIENT T663
+No.  Usually on occasion I try, if I have a fever or a chill, it's uh.
+
+DOCTOR T663
+Alright you can have a seat back on the chair.
+
+PATIENT T663
+Usually it's from uh being caught in the rain or whatever.  The thing is if I feel sick I don't go by my great grandson.
+
+DOCTOR T663
+Okay.
+
+PATIENT T663
+I don't need them to get sick when grandpa's not feeling well.
+
+DOCTOR T663
+Alright so that's the plan alright.  Ultrasound when you come back in.
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+Uh also we'll get, wow there's no other labs actually we've decided no labs for now.  So we'll repeat the lipid panel in one year.
+
+PATIENT T663
+Yeah.
+
+DOCTOR T663
+Alright and that's it.  Following Mental Health and then the smoking.
+
+PATIENT T663
+Yeah okay.
+
+DOCTOR T663
+Alright.  So let me go uh talk to DOCTOR, who is my supervising physician.  I'll tell her everything that you've told me.  She'll come in and ask just a few questions, they'll more or less be the same but see if she has any different recommendations alright.
+
+PATIENT T663
+Okay.
+
+DOCTOR T663
+So I'll be back in just, probably about a minute.
+
+PATIENT T663
+Alright thank you.
+
+DOCTOR T663
+But if it's not a minute don't get upset.
+
+PATIENT T663
+Yeah I get antsy.
+
+DOCTOR T663
+Alright.
+
+DOCTOR OUT:  139:5  DOCTOR IN:  145:40
+
+FIRST DOCTOR T663
+It wasn't more than a minute was it?
+
+PATIENT T663
+I've been watching the clock.
+
+SECOND DOCTOR T663
+Been watching it.  Oh my goodness @@@.
+
+PATIENT T663
+I’m kidding.
+
+SECOND DOCTOR T663
+Alright.  @@@.
+
+PATIENT T663
+Fine, no, no, no.
+
+SECOND DOCTOR T663
+No eye.
+
+PATIENT T663
+No eye.
+
+SECOND DOCTOR T663
+You're not Italian.
+
+PATIENT T663
+No I'm Puerto Rican, not Italian.
+
+SECOND DOCTOR T663
+Puerto Rican.  How are you?
+
+PATIENT T663
+I'm good.
+
+SECOND DOCTOR T663
+I'm DOCTOR, I'm the attending doctor.
+
+PATIENT T663
+Okay.
+
+SECOND DOCTOR T663
+Yeah so it seems you are doing well.
+
+PATIENT T663
+Yeah.
+
+SECOND DOCTOR T663
+Yeah.
+
+PATIENT T663
+Doing well so far.
+
+SECOND DOCTOR T663
+So far yeah except the tobacco that I smell smell.
+
+PATIENT T663
+I didn't tell her, she smelled it, she smelled it.  I know that I mean.
+
+SECOND DOCTOR T663
+Yeah.
+
+PATIENT T663
+I'm not trying to hide it you know, yes I do, I do smoke.
+
+SECOND DOCTOR T663
+Right.
+
+PATIENT T663
+But I could like some other people do and spray the Binaca and stuff.
+
+SECOND DOCTOR T663
+Yeah, yeah.  I know you're working on it so.
+
+PATIENT T663
+Yeah uh we uh.
+
+SECOND DOCTOR T663
+Yeah.
+
+PATIENT T663
+We set a goal for right now.
+
+SECOND DOCTOR T663
+Okay.  Good, good, good.  Alright.  So everything is good except that you just need to get some blood tests and to check your vitamin D.  You know at some point it was low.  I want to make sure that it’s okay.
+
+PATIENT T663
+Well they can take the blood on the way out.
+
+SECOND DOCTOR T663
+Yeah, yeah.
+
+FIRST DOCTOR T663
+Oh perfect.
+
+SECOND DOCTOR T663
+So let's do that.
+
+PATIENT T663
+I can get it done on the way out.  That's what I was telling you earlier.
+
+FIRST DOCTOR T663
+Uh-huh.
+
+PATIENT T663
+Uh you know.
+
+SECOND DOCTOR T663
+Yeah, yeah cause that.
+
+PATIENT T663
+This way I get it.
+
+SECOND DOCTOR T663
+Right.  So let's do that and then we are also checking HIV on all.
+
+PATIENT T663
+I don't have that.
+
+SECOND DOCTOR T663
+The patients.
+
+PATIENT T663
+I know that I don't have that.
+
+SECOND DOCTOR T663
+Regardless.  Okay the risk factors.
+
+PATIENT T663
+Yeah.
+
+SECOND DOCTOR T663
+Um.  When was the last time you were checked?
+
+PATIENT T663
+Every time they the blood, the last time they drew blood.
+
+SECOND DOCTOR T663
+We don't do HIV when we draw the blood.
+
+FIRST DOCTOR T663
+Yeah we usually need your permission to screen for it specifically so it's not in the included blood tests.  If you want we can go ahead and screen you and sort of.
+
+SECOND DOCTOR T663
+Why, you'll take that permission.
+
+PATIENT T663
+I'm going right down to have blood taken and you might as well have everything done right now.
+
+SECOND DOCTOR T663
+So that's what I'll do that, yeah and then um then just one more thing.  You need a booster shot for whooping cough um.  It's coming back up again so we are giving booster shots for all the vets.
+
+PATIENT T663
+I got the pneumonia today.
+
+SECOND DOCTOR T663
+Yes today and its okay.
+
+PATIENT T663
+I got the pneumonia today.
+
+SECOND DOCTOR T663
+Exactly.  This is a shot as well.  Is that okay with you?
+
+PATIENT T663
+You mean to take them both at the same time?
+
+FIRST DOCTOR T663
+Yeah.
+
+SECOND DOCTOR T663
+Yes.
+
+PATIENT T663
+Yeah.
+
+SECOND DOCTOR T663
+Alright.  We'll let the nurse know that.
+
+PATIENT T663
+Yeah well let me know.
+
+SECOND DOCTOR T663
+Okay.
+
+PATIENT T663
+Check the tires, rotate the @@@.
+
+SECOND DOCTOR T663
+Yeah.
+
+PATIENT T663
+@@@ do what you gotta do you know.
+
+SECOND DOCTOR T663
+Yeah maintenance, total maintenance.
+
+PATIENT T663
+Right, you know it's like, I know we were talking about this earlier.  I couldn't understand why they didn't want to you know didn't put an order in for drawing blood when I came earlier before the uh.
+
+SECOND DOCTOR T663
+Yeah.
+
+PATIENT T663
+Visit.  That's fine.
+
+SECOND DOCTOR T663
+Yeah.
+
+PATIENT T663
+I told him, I said that's fine I can do it on the way out.
+
+SECOND DOCTOR T663
+Yeah.
+
+PATIENT T663
+And this way here you guys can.
+
+SECOND DOCTOR T663
+Yeah.
+
+PATIENT T663
+Analyze it, boil it.
+
+SECOND DOCTOR T663
+Yeah.
+
+PATIENT T663
+Feed it to vampires, whatever you need to do.
+
+SECOND DOCTOR T663
+Alright that sounds good.
+
+PATIENT T663
+Okay thank you very much.
+
+SECOND DOCTOR T663
+We'll let you know if anything comes back abnormal okay.
+
+PATIENT T663
+Okay, yeah well that's okay.
+
+FIRST DOCTOR T663
+Alright so you know that's what we'll do.  We'll get you that shot because you mentioned you were around your grandson so I told DOCTOR and she said you know once you get 65 and you're right there, so we figured.
+
+PATIENT T663
+Oh how do I get that?
+
+FIRST DOCTOR T663
+@@@ out a little bit.
+
+PATIENT T663
+Yeah I already got the pneumonia.  It's not, it's no uh.
+
+FIRST DOCTOR T663
+Link between the two.
+
+PATIENT T663
+There's no interaction of these?
+
+FIRST DOCTOR T663
+No, no.
+
+PATIENT T663
+Two uh shots.
+
+FIRST DOCTOR T663
+No the pneumonia you get more often.  But this is just a booster just because by the time you get.
+
+PATIENT T663
+@@@.
+
+FIRST DOCTOR T663
+Yeah.
+
+PATIENT T663
+So the most @@@.
+
+FIRST DOCTOR T663
+Let me just make.
+
+PATIENT T663
+This is something.
+
+FIRST DOCTOR T663
+Okay.  Yeah Pneumococcal vaccine yep.
+
+PATIENT T663
+Now there's not gonna be any drug interaction between this and the other, okay.
+
+FIRST DOCTOR T663
+There will not be.
+
+PATIENT T663
+Alright.  I just want to make sure I'm not uh driving down the street and I start hallucinating.
+
+FIRST DOCTOR T663
+So here's what I'm gonna do, since we're gonna do that vitamin D level, actually DOCTOR was very thorough.  She went back to 2009.
+
+PATIENT T663
+Uh-huh.
+
+FIRST DOCTOR T663
+And it looks like it was low then so we can't really do anything based off that value in 2009 cause it's @@@@ now.
+
+PATIENT T663
+Hmm.
+
+FIRST DOCTOR T663
+So let's see how it is in the meantime.  Maybe it's improved.
+
+PATIENT T663
+Okay.
+
+FIRST DOCTOR T663
+Maybe it hasn't um but since I'm doing that and we're doing the HIV screening, we're sticking you anyway uh I'm gonna go ahead and bump those, some of the other tests that we talked about up just normal routine stuff.
+
+PATIENT T663
+Yeah the.
+
+FIRST DOCTOR T663
+That we went over.
+
+PATIENT T663
+The cholesterol and everything.
+
+FIRST DOCTOR T663
+The cholesterol, did you eat this morning?
+
+PATIENT T663
+No.
+
+FIRST DOCTOR T663
+No.  You haven't eaten anything since yesterday for dinner?
+
+PATIENT T663
+That's right.
+
+FIRST DOCTOR T663
+No coffee, no juice, nothing.  Oh mind if I add that on?
+
+PATIENT T663
+Alright.
+
+FIRST DOCTOR T663
+So we'll get the full panel you know.
+
+PATIENT T663
+Yeah, so when I stopped in at the Lab this morning the girl asked and says did you eat anything I said yeah I had steak and eggs uh.  She says no I got.  I says no I haven't had anything since yesterday.
+
+FIRST DOCTOR T663
+Okay.
+
+PATIENT T663
+So that's why I stopped at the Lab thing to have the blood drawn but there was no order in.
+
+FIRST DOCTOR T663
+So let's see where is my @@@.  You know what, I'll actually I won't look for it right now.  I'll talk to the nurse and let her know.  You hear that too right.  So we'll do that and we'll get you out of here.  Alright so there we go.  We talked about this, this, this and this alright and you did agree to get screened so I put the order in already.
+
+PATIENT T663
+And the cholesterol medication will be sent in the mail to me.
+
+FIRST DOCTOR T663
+Yep just like we talked about.
+
+PATIENT T663
+That'll work.
+
+FIRST DOCTOR T663
+Alright so here we go and this is it.  Alright and lets sign all this fun stuff and get you going.  Oh this is signed.  Go ahead and find the nurse and let her know and then six months should be fine, sooner if there are any problems.
+
+PATIENT T663
+Yeah.  That's what usually happens you know.  Unless I don't have to be here, I come in here for other things. 
+
+FIRST DOCTOR T663
+And you know what's gonna keep you out is working on smoking and the weight.
+
+PATIENT T663
+Okay.
+
+FIRST DOCTOR T663
+I mean if you can get those two under control by yourself then you might just have to deal with me once a year.
+
+PATIENT T663
+I can deal with that, that's probably ideal.
+
+FIRST DOCTOR T663
+Alright so, take this to the clerk.  Actually, uh just @@@ let her know you need your shot.
+
+PATIENT T663
+Okay.
+
+FIRST DOCTOR T663
+Sorry you have to meet with them but don't leave quite yet.
+
+PATIENT T663
+I won't.
+
+Time is 11:30.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  38291
+TRANSACTION # 578-10-2-316-0103

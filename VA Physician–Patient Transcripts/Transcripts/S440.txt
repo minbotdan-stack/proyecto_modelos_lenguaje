@@ -1,0 +1,639 @@
+Date of Encounter:    @@/@@/@@ 
+Time of Encounter:    @@@
+
+DOCTOR S440
+How are you?
+
+PATIENT S440
+Fine doctor.
+
+DOCTOR S440
+Good morning how are you?
+
+PATIENT S440
+I'm doing fine except for high blood sugars.
+
+DOCTOR S440
+Your sugars are running high?
+
+PATIENT S440
+Yes and I'm watching it carefully.
+
+DOCTOR S440
+Uh-huh.
+
+PATIENT S440
+And it's still high.
+
+DOCTOR S440
+How high are we talking here?
+
+PATIENT S440
+Well I got everything here with me.  Going back, I keep two log books.
+
+DOCTOR S440
+Well let me see it.
+
+PATIENT S440
+That's why I just stopped it.
+
+DOCTOR S440
+Hmm.  How long have you noticed that the sugars have been high?
+
+PATIENT S440
+About, off and on, for the past two months.
+
+DOCTOR S440
+Two months they've been higher.  And you had 186 today when we got labs.  Your hemoglobin A1c was a little, let me see what's it's been in the past first.  I'm going to have to look it up.
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+But it was considerably running a little bit higher.  Right?
+
+PATIENT S440
+Yeah.
+
+DOCTOR S440
+And they asked when I called you and saw you in the ED, were you in the Emergency Department?
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+What was the story about that?
+
+PATIENT S440
+That was a racing heart.
+
+DOCTOR S440
+Racing heart.  How has that been?  Have you had that anymore?
+
+PATIENT S440
+No because they told me I was dehydrated.
+
+DOCTOR S440
+Okay.
+
+PATIENT S440
+And uh so I'm drinking more water.
+
+DOCTOR S440
+Yeah.
+
+PATIENT S440
+And my record from here.
+
+DOCTOR S440
+Oh so you've been keeping track of your pulse and everything.
+
+PATIENT S440
+Yeah.
+
+DOCTOR S440
+That's good.  You haven't had any more high, since you've got, you've been drinking more water, you get out of the.
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+Do you feel fine?
+
+PATIENT S440
+Yes.  There it is there from there down to @@@ so it's pretty good.
+
+DOCTOR S440
+You can have a seat here.
+
+PATIENT S440
+Yeah oh.
+
+DOCTOR S440
+Have you been urinating more frequently?
+
+PATIENT S440
+A lot.
+
+DOCTOR S440
+Okay.
+
+PATIENT S440
+Yeah.  And that's still @@@ very frequent,  you know.  
+
+DOCTOR S440
+And that's been going on for about two months you say?
+
+PATIENT S440
+Yes.  I didn't pay that much attention to it until like one day that I came in to the ER.  I woke up and I was kind of dizzy.
+
+DOCTOR S440
+Uh-huh.
+
+PATIENT S440
+And uh my pulse was 123.
+
+DOCTOR S440
+Uh-huh.
+
+PATIENT S440
+So I called the nurse and she told me to come in to the ER and have it checked out.  That's when they said that I was dehydrated.
+
+DOCTOR S440
+Let's see what @@@.  What medicines you're on metformin you're taking?
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+And then the glipizide.
+
+PATIENT S440
+Glipizide yeah.
+
+DOCTOR S440
+You're just taking 5 mg of that?
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+Okay, so we @@@.
+
+PATIENT S440
+Yeah.
+
+DOCTOR S440
+How long have you been on the glipizide, that dose?
+
+PATIENT S440
+Oh I've been on for quite a while, a year easily I suppose.  Yeah the doctor down there was suggesting I increase the glipizide maybe.
+
+DOCTOR S440
+No they didn't do it, did they tell you to increase it there or no?
+
+PATIENT S440
+No, no, she didn't no.  But she said maybe I should.
+
+DOCTOR S440
+When do you take your sugars?  Do you tend to take them after, in the mornings or after you eat or?
+
+PATIENT S440
+The metformin?
+
+DOCTOR S440
+No the sugar, what time do you check your blood sugars during the day?
+
+PATIENT S440
+Oh uh just at different times.
+
+DOCTOR S440
+All different times okay.
+
+PATIENT S440
+Yeah, I take them first thing in the morning.  I take them two hours after breakfast.
+
+DOCTOR S440
+After you eat.  Have you noticed was one time higher than the others?
+
+PATIENT S440
+No I haven't noticed really no.
+
+DOCTOR S440
+Okay.  And no chest pain, shortness of breath?
+
+PATIENT S440
+No I didn't that day, I had was a little bit of shortness of breath.
+
+DOCTOR S440
+You had a little shortness of breath.
+
+PATIENT S440
+Yeah.  But nothing since.
+
+DOCTOR S440
+Good.  Had you been doing anything more strenuous before that day outside, doing work?
+
+PATIENT S440
+No.
+
+DOCTOR S440
+Nothing, no.
+
+PATIENT S440
+No, no.
+
+DOCTOR S440
+Um and no swelling in the legs or anything like that?
+
+PATIENT S440
+No, no, no, nothing like that.
+
+DOCTOR S440
+No pain with urination, you're just going more?
+
+PATIENT S440
+No going more yeah.
+
+DOCTOR S440
+Have you been felt more thirsty?  Do you feel thirsty?
+
+PATIENT S440
+No I don't really no.
+
+DOCTOR S440
+Did you feel that day, when you, do you feel like your heart was beating fast or racing?
+
+PATIENT S440
+I did yes.
+
+DOCTOR S440
+You did.  Did it come on all of a sudden or did it come on kind of gradually.
+
+PATIENT S440
+Well it was when I got up.
+
+DOCTOR S440
+As soon as you got up you noticed it?
+
+PATIENT S440
+As soon as I got up yeah.
+
+DOCTOR S440
+Had you ever had anything like that, feeling like that before?
+
+PATIENT S440
+I had.  I had uh I think once before I had that but I didn't pay any attention to it.
+
+DOCTOR S440
+You didn't.
+
+PATIENT S440
+It doesn't last, you know it goes away.
+
+DOCTOR S440
+Yeah, so how long did you have it that day cause when you got to the ED it looks like the heart rate was back to.
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+Near normal.
+
+PATIENT S440
+Yeah.  Right.  That's how it's been, that's how it was.  Uh, it would last maybe half hour, an hour.
+
+DOCTOR S440
+And then go away?
+
+PATIENT S440
+And then go away yeah.
+
+DOCTOR S440
+How fast was it going?  Did you check it when you woke up that morning?
+
+PATIENT S440
+Yeah it was 123.
+
+DOCTOR S440
+Yeah you were definitely @@@@ dehydrated when you came in.
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+It looks like your orthostatic you recall when they did the tests.
+
+PATIENT S440
+Now the other thing that uh, I get Prilosec and I know that the side effects of Prilosec is a fast heart rate.
+
+DOCTOR S440
+It can, yeah.
+
+PATIENT S440
+Uh DOCTOR prescribed it.
+
+DOCTOR S440
+How long ago?
+
+PATIENT S440
+I've been on them for the past year.
+
+DOCTOR S440
+Okay.  It shouldn't, I wouldn't expect it to uh.
+
+PATIENT S440
+To do that.
+
+DOCTOR S440
+Do that.  No the way it sounds, it sounds like more like you were possibly be dehydrated more than anything.
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+Since you responded well with just the fluids and especially with all this urinating and stuff.  You're probably losing some glucose out your urine.
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+Which is why you're peeing in your urine.
+
+PATIENT S440
+Yeah they told me that yeah, right.
+
+DOCTOR S440
+Um so that's probably what’s going on here, yeah.  But no fevers, chills?
+
+PATIENT S440
+No.
+
+DOCTOR S440
+No belly pain @@@?
+
+PATIENT S440
+No nothing, nothing at all no.
+
+DOCTOR S440
+Nothing like that.  Let me look you over here once, just sit over here for me.  Some deep breaths for me.  Open your mouth for me.  You didn't have any episodes of low blood sugars have you?
+
+PATIENT S440
+No.
+
+DOCTOR S440
+No low.
+
+PATIENT S440
+No I haven't, no.
+
+DOCTOR S440
+Okay.  What's the lowest reading you had would you say?  @@@?
+
+PATIENT S440
+Yeah I think on that, I was under 100 yeah.
+
+DOCTOR S440
+Under 100 okay.
+
+PATIENT S440
+87.
+
+DOCTOR S440
+80s okay but nothing like low 60s.
+
+PATIENT S440
+No, no, nothing like that.
+
+DOCTOR S440
+Nothing like that okay.  Let me have you lay back here.  I'm going to push on your belly a little bit.  No pain there?
+
+PATIENT S440
+No.
+
+DOCTOR S440
+Sit you back up.  Go ahead and have a seat back over here.  Just looking to see if there are bulges in here and I just want to make sure, yeah @@@.  Did they do an EKG when you were in there?
+
+PATIENT S440
+They did.
+
+DOCTOR S440
+Let me look at that real quick.  I'm going to go chat with one of the attending doctors here.
+
+PATIENT S440
+Okay.
+
+DOCTOR S440
+And we'll come up with a plan for you okay.
+
+PATIENT S440
+Alright.
+
+(DOCTOR OUT:  39:20  DOCTOR IN:  48:50)
+
+DOCTOR S440
+So when you urinate do you feel like you're totally emptying when you do go?
+
+PATIENT S440
+Yes I do.
+
+DOCTOR S440
+Okay, so it doesn't feel like it's a prostate problem.  Cause I didn't know if you were feeling like you're fully emptying it.
+
+PATIENT S440
+No I have no problem area.
+
+DOCTOR S440
+Do you see the urologist here?
+
+PATIENT S440
+Yes I do yeah.
+
+DOCTOR S440
+And your prostate level is going up.  I know that you've had biopsies and all that before so I'll just let them follow up with that.
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+When you see them the next time.  Um so I think two things I want to do today.  They didn't do a urine sample?  Did they do a urine sample on you?
+
+PATIENT S440
+No they didn't do that.
+
+DOCTOR S440
+So I think just because, I don't think you have a urinary tract infection but urinary infections can cause you to go to the bathroom a lot.
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+So I think you should go down to the Lab and just give a urine sample and make sure you don't have infection.
+
+PATIENT S440
+Oh okay.
+
+DOCTOR S440
+That's causing it.  Um and then otherwise I think it's probably likely due to the sugars so we're going to start going up, you're taking 5 of glipizide in the morning only, we're going to start take 5 in the morning and 5 at night.
+
+PATIENT S440
+Okay.
+
+DOCTOR S440
+You keep track and see where your sugars are you know and kind of keep track of them and a couple weeks of doing that if you're still going a lot, urinating real frequently and having higher, I want to have you actually call in and talk to the nurse and kind of let her know what you've been doing.
+
+PATIENT S440
+Right, right.
+
+DOCTOR S440
+Um and then if that's still high we still have some room and we can go up a little bit more.
+
+PATIENT S440
+Okay.
+
+DOCTOR S440
+On the medication but we'll start, you kind of go slowly up with this cause you can have low blood sugars if you go up too fast.
+
+PATIENT S440
+I see.
+
+DOCTOR S440
+We'll go up to 5 now in the morning and 5 at night.
+
+PATIENT S440
+Five before I go to bed?
+
+DOCTOR S440
+Yeah, evening.
+
+PATIENT S440
+Evening yeah.
+
+DOCTOR S440
+You know whenever you take your pills.
+
+PATIENT S440
+Oh okay yeah.
+
+DOCTOR S440
+That would be before you go to bed; it can be you know whenever.
+
+PATIENT S440
+Yeah okay.
+
+DOCTOR S440
+Sometime when you feel on schedule anyway.
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+And then stop down to the Lab today and get a urine @@@.
+
+PATIENT S440
+Okay.
+
+DOCTOR S440
+And if there is an infection I'll call you and we'll put you on antibiotics.
+
+PATIENT S440
+Right.
+
+DOCTOR S440
+But @@@ if it's not.
+
+PATIENT S440
+Right, yeah.
+
+DOCTOR S440
+Medicine.
+
+PATIENT S440
+Okay.  Um, how do I get a pair of diabetic shoes?
+
+DOCTOR S440
+Oh diabetic shoes?
+
+PATIENT S440
+I have them at home but I've had them for two years and they're worn down in the back.
+
+DOCTOR S440
+Sure.
+
+PATIENT S440
+You know so, the heels, I don't wear them anymore.
+
+DOCTOR S440
+So, let's see.  You got them through the VA?  Did you get them through the VA before, the shoes?
+
+PATIENT S440
+No I paid for myself.  I got it from uh Medicare.
+
+DOCTOR S440
+Medicare.
+
+PATIENT S440
+Yeah.
+
+DOCTOR S440
+I could send you to the Prosthetics Division here that.
+
+PATIENT S440
+Oh okay.
+
+DOCTOR S440
+Let me put it in and just check your medications.  Also if you have anymore of those episodes where you have the real fast heartbeat, let us know that.
+
+PATIENT S440
+Okay.
+
+DOCTOR S440
+And keep on the fluids you know.  Stop down today and get that and the medications, I changed it in here but you have the same pills.  You can just take them and you should get more.
+
+PATIENT S440
+Okay.
+
+DOCTOR S440
+I'll do the refills.  Uh and then I'll follow up with you if you need to be put on antibiotics or something.
+
+PATIENT S440
+Okay.
+
+DOCTOR S440
+And then I think you are scheduled like to come back before, I recall in a year, in April.
+
+PATIENT S440
+April yeah.
+
+DOCTOR S440
+They will set you back up, we can have you follow up in one year, I'll have you set up and make sure you're up-to-date on everything okay.
+
+PATIENT S440
+Okay. Yeah.
+
+DOCTOR S440
+I'll walk you out here.
+
+PATIENT S440
+Okay.  Oh uh Prosthetics, do I need to see them?
+
+DOCTOR S440
+No they'll have to call you.  I put in a consult.
+
+PATIENT S440
+Oh.
+
+DOCTOR S440
+So they'll probably call you.
+
+PATIENT S440
+Oh good.
+
+DOCTOR S440
+To schedule that yeah.
+
+PATIENT S440
+Yeah.
+
+DOCTOR S440
+I think he is already scheduled to see me again in April, so a recall in April so you can just follow up with that schedule.
+
+PATIENT S440
+Okay thank you doctor.
+
+DOCTOR S440
+So let me know how you're doing okay.
+
+PATIENT S440
+Uh I will yeah okay.
+
+PATIENT LEAVES:  55:30.
+
+Time is @@@.
+
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255121
+TRANSACTION # 578-10-2-316-0103

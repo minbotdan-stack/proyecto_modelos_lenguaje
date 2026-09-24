@@ -1,0 +1,633 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+ 
+DOCTOR O313
+PATIENT?
+
+PATIENT O313
+Right here.  How are you?
+
+DOCTOR O313
+@@@.  I don't think I've seen you for over a year.
+
+PATIENT O313
+Yeah it's been a while.
+
+DOCTOR O313
+Where have you been?
+
+PATIENT O313
+I got a lot of @@@.
+
+DOCTOR O313
+You got @@@.  
+
+PATIENT O313
+Yeah.
+
+DOCTOR O313
+Uh-huh.
+
+PATIENT O313
+So I definitely gonna be @@@.
+
+DOCTOR O313
+@@@.  So how long were you there?
+
+PATIENT O313
+Nine months.
+
+DOCTOR O313
+That's a long time.
+
+PATIENT O313
+Yeah.  I need some pills for my back.  He gave me some ibuprofen 800.
+
+DOCTOR O313
+Uh-huh you’re out?
+
+PATIENT O313
+Yeah that is the ibuprofen.  My ibuprofen, I have acid reflux now real bad.
+
+DOCTOR O313
+Okay.
+
+PATIENT O313
+I need something for that and the doctor he gave me some paperwork here for uh he wanted me to go to the Substance Abuse Clinic.
+
+DOCTOR O313
+Okay.
+
+PATIENT O313
+See and I want to get that started so I can get them out of the way, whatever it takes.  And then I also want you to make me an appointment to see the eye doctor and foot doctor.
+
+DOCTOR O313
+Alright let me make a note of this here, eye doctor, foot doctor, Substance Abuse Clinic, ibuprofen and acid reflux.  Alright.  I'll quickly put in the request for the eye doctor then and just go down everything one by one.  Tell me why you need to see the eye doctor.
+
+PATIENT O313
+I had glasses.
+
+DOCTOR O313
+Uh-huh.
+
+PATIENT O313
+And they got misplaced so that's one of the reasons I need to see the eye doctor to get some new glasses.
+
+DOCTOR O313
+Gotcha.
+
+PATIENT O313
+I need glasses.  
+
+DOCTOR O313
+And you saw them.
+
+PATIENT O313
+The foot doctor, I saw the foot doctor but the calluses have come back.
+
+DOCTOR O313
+Oh.  Calluses huh.
+
+PATIENT O313
+Yeah.  @@@ hepatitis C.
+
+DOCTOR O313
+Well uh do you have arthritis at all?
+
+PATIENT O313
+Well not, it don't bother me but I have it.
+
+DOCTOR O313
+Uh-huh.
+
+PATIENT O313
+And I need some pills for my sex drive.
+
+DOCTOR O313
+Okay.  Were you on pills for that before?
+
+PATIENT O313
+No.  I @@@.
+
+DOCTOR O313
+You said you don't have interest or you have interest and it doesn't, you can't sustain erection?
+
+PATIENT O313
+No I can't sustain an erection.  I'm interested @@@.
+
+DOCTOR O313
+Okay.  Okay.  I can get you some of those pills.  The VA can only mail those out; you can't pick those up here.
+
+PATIENT O313
+Okay fine.
+
+DOCTOR O313
+And you're limited to two pills a month.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+That's, for some reason that's come down from higher up that's all we can give.
+
+PATIENT O313
+That'd be fine.
+
+DOCTOR O313
+So we'll do that.  We'll also check some blood work cause sometimes if there's something you know wrong in the blood that might be a reason why too and we've got to figure that out.
+
+PATIENT O313
+@@@ papers here @@@  It still might be an idea @@@.
+
+DOCTOR O313
+Oh you got this done at UIC huh?
+
+PATIENT O313
+Yeah well I got it @@@ UIC @@@.
+
+DOCTOR O313
+Oh I see.
+
+PATIENT O313
+Some doctor @@@.
+
+DOCTOR O313
+So are you still drinking?
+
+PATIENT O313
+No.
+
+DOCTOR O313
+When did you stop?
+
+PATIENT O313
+When I got locked up, it was a @@@ day.
+
+DOCTOR O313
+It looks like you're trying to stop.
+
+PATIENT O313
+Yeah no drinking or smoking.
+
+DOCTOR O313
+No drinking or smoking.
+
+PATIENT O313
+Yeah.  That's why I'm @@@ and wanted to show them to you.
+
+DOCTOR O313
+Alright.  Well we actually have a Liver Clinic here that can treat people who have hepatitis C.
+
+PATIENT O313
+Oh yeah.
+
+DOCTOR O313
+As long as they're still not smoking or drinking they'll consider you for treatment.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+It'd be great if I could get them to see you.  You're okay with seeing them?
+
+PATIENT O313
+@@@.
+
+DOCTOR O313
+Alright well I'll ask them to make you an appointment too.
+
+PATIENT O313
+Can you make it?
+
+DOCTOR O313
+And what I'll do is we'll see if our clerk up front can and if they can't schedule you they'll send you something in the mail and you'll give them a call.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+Whatever time that works well for both of you.
+
+PATIENT O313
+Well what about this?  This substance abuse?
+
+DOCTOR O313
+Yeah I'm making a referral for that one too.
+
+PATIENT O313
+Let me see @@@.  Yeah there @@@ sixty days to sign some kind of paperwork.
+
+DOCTOR O313
+I'm sure we can provide that for you.
+
+PATIENT O313
+I appreciate it.
+
+DOCTOR O313
+Yeah.  Okay.  And I'll make a note here um.  And is this still your phone number here, NUMBER?
+
+PATIENT O313
+That's it.
+
+DOCTOR O313
+Okay, @@@ and what medications were you on cause I think a lot of them expired off of the list.
+
+PATIENT O313
+Oh before I went in?
+
+DOCTOR O313
+Yeah.
+
+PATIENT O313
+Ibuprofen, that's for my back.
+
+DOCTOR O313
+Okay.
+
+PATIENT O313
+They gave me ibuprofen and I take it.
+
+DOCTOR O313
+Were you taking anything for your blood pressure?
+
+PATIENT O313
+No.  Never have.
+
+DOCTOR O313
+You were on.
+
+PATIENT O313
+I wasn't @@@ it was @@@.  I wasn't even taking no aspirin, nothing but that ibuprofen before I went to jail.
+
+DOCTOR O313
+Nothing but the ibuprofen.
+
+PATIENT O313
+Yeah.
+
+DOCTOR O313
+Well your blood pressure looks like it's a little bit up today.
+
+PATIENT O313
+Yeah.
+
+DOCTOR O313
+And it was a little bit up the last time I saw you too.
+
+PATIENT O313
+It was.  But only one pill if I have to take it I take it.
+
+DOCTOR O313
+We'll get some medications for you today too.  And how about, you look like you're missing some teeth.
+
+PATIENT O313
+All of them.  I have seven.
+
+DOCTOR O313
+I see.  Can you eat with them?
+
+PATIENT O313
+Yeah been I been eating with them.
+
+DOCTOR O313
+Have you been eating okay with that?
+
+PATIENT O313
+Yeah so far.  I guess I'm trying to get in the clinic where I can get me some.
+
+DOCTOR O313
+Uh-huh.
+
+PATIENT O313
+You know so they can get me some made.
+
+DOCTOR O313
+Gotcha.  Do you see Dentistry in here or, some people some of our Vets outside of the VA?
+
+PATIENT O313
+Well I never saw no dentist @@@.  It hasn't been for I'd say 20 years or more.
+
+DOCTOR O313
+I see okay.  Let's see.
+
+PATIENT O313
+You can put up all those appointments.
+
+DOCTOR O313
+Dentists, we'll try to get this stuff set up first and then once this is getting better we'll talk about your teeth.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+What I want you to do you know for the, they have some paperwork that they'll have you do at Admitting to see if you qualify for the dental services here.  I guess it has to do with how much service connected you are and how much they'll cover and stuff like that.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+If you're covered by dental here we can have them see you but if you're not then they won't even, they'll only take emergencies.
+
+PATIENT O313
+Oh.
+
+DOCTOR O313
+It might not be worth it.
+
+PATIENT O313
+I mean I been waiting till @@@.  I'm trying to get a claim for disability now.
+
+DOCTOR O313
+Yeah.
+
+PATIENT O313
+And once I get @@@ I'll get some teeth.
+
+DOCTOR O313
+Good.
+
+PATIENT O313
+@@@ teeth.
+
+DOCTOR O313
+Good, well alrighty.  Let's see.
+
+PATIENT O313
+I got to leave here and go upstairs and see my Psych Unit.  He @@@ on my paperwork.
+
+DOCTOR O313
+He probably said I haven't seen you in a long time. I want to know where you've been to.
+
+PATIENT O313
+Yeah.  The last time I saw him he and I got into it about my paperwork.  I gave him my paperwork for him to fill it out and he never returned it.
+
+DOCTOR O313
+Okay.  We'll get started with those things.  Let me take a listen to your heart and lungs here.  You can stay where you are.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+@@@.  It's a bright light, look ahead for me, good.  Say ah.
+
+PATIENT O313
+Ah.
+
+DOCTOR O313
+Alright try to take good care of those seven teeth that you've got.
+
+PATIENT O313
+I been trying.
+
+DOCTOR O313
+So what happened here?
+
+PATIENT O313
+Uh @@@ I kind of got it remade it.
+
+DOCTOR O313
+Oh.
+
+PATIENT O313
+Only got @@@ like that.
+
+DOCTOR O313
+Does that bother you at all?
+
+PATIENT O313
+No.  Collarbone broke too.
+
+DOCTOR O313
+What troubles were you getting into stuff.
+
+PATIENT O313
+No @@@ rob me.
+
+DOCTOR O313
+I'm gonna lift up your shirt.
+
+PATIENT O313
+Go ahead.  
+
+DOCTOR O313
+Deep breath, good relax.  I'm gonna listen to your heart.  Do you feel like your belly is bigger?
+
+PATIENT O313
+It is much bigger.  They fed me that food and everything there.  @@@ food.
+
+DOCTOR O313
+Does it hurt at all with me pushing up here?
+
+PATIENT O313
+No it don't hurt or nothing.
+
+DOCTOR O313
+Do you have swelling in your legs?
+
+PATIENT O313
+No.
+
+DOCTOR O313
+I'll take a look.
+
+PATIENT O313
+No swelling at all.
+
+DOCTOR O313
+Good.
+
+PATIENT O313
+I'm just feeling tired.  I don't have no energy.
+
+DOCTOR O313
+You're feeling tired overall huh?
+
+PATIENT O313
+Yeah.
+
+DOCTOR O313
+Well it might have a little bit to do with the hepatitis as well.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+So we'll kind of see what those doctors say but let me step out and talk to my attending.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+And then I'll come back in and we'll go through everything that we're gonna get done okay.
+
+PATIENT O313
+Alright.
+
+DOCTOR O313
+I'll be right back.
+
+PATIENT O313
+Okay.
+
+(DOCTOR OUT:  24:03  DOCTOR IN:  38:18)
+
+DOCTOR O313
+Alright PATIENT.  Very good.  So we'll go through this list one by one with you.  So we'll have you pick up your medications today.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+They'll be the ibuprofen um 800, pick it up from the window and we're gonna start you on a blood pressure medication.
+
+PATIENT O313
+Okay.  What about this acid reflux?
+
+DOCTOR O313
+I can get you something for that too, hold on a second.  Acid reflux uh, do you usually take medications?  Is it after every meal or is it worse when you lie down in bed?
+
+PATIENT O313
+It's worse when I lay down in bed.  I have to jump out of bed and run to the bathroom.
+
+DOCTOR O313
+Gotcha.  When you run to the bathroom what happens?
+
+PATIENT O313
+It just make me feel like I'm @@@ my stomach.
+
+DOCTOR O313
+Okay.  I'm gonna give you something, it says to take it at bedtime but I would probably take it like half an hour or an hour before you actually lie down to go to bed.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+If it bothers you during the day as well you can take this medication up to twice a day so you could take it at morning and night.
+
+PATIENT O313
+And see this stuff here; it's been keeping it under control until at night.
+
+DOCTOR O313
+Gotcha.  You can keep taking these if you want.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+Okay.  Like a multivitamin sort of thing you've got going on here.
+
+PATIENT O313
+Okay, so it won't hurt.
+
+DOCTOR O313
+For the eyes we will send you to uh, I'll ask them to schedule a follow-up for you in the Eye Clinic.  You saw them, if you see them within like a two year period they don't count you as a new patient, you're a follow-up one so if they can't schedule you you'll have to call and just say I want to make a follow-up appointment.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+You'll be a new patient in the Nail Care Clinic; this is the Podiatry Clinic who takes care of the calluses.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+Uh the Liver Clinic you're also gonna be a new patient in.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+And the Addictions Clinic.  They should be able to direct you to the Addiction Central Intake.  They have their own office where they make their appointments.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+So the front desk will tell you how to get there.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+Uh Admitting will have some paperwork to see if you qualify for the dental stuff.
+
+PATIENT O313
+When I leave here.
+
+DOCTOR O313
+Yeah hopefully.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+So the places that I want you to stop off at are the front desk, the Pharmacy and the Laboratory we're gonna get some blood work cause it's been about a year and a half now.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+Okay.  I want to see you back in a month just to see how all of these things have kind of played out.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+Maybe after the holidays, like the early January, you could come in; we could check your blood pressure again with just the nurse.
+
+PATIENT O313
+Okay.  Okay.
+
+DOCTOR O313
+And then if your blood pressure is still high we can change the medication a little bit.
+
+PATIENT O313
+Okay.
+
+DOCTOR O313
+Alright.  Then sorry that you were in jail but I'm glad that they took the opportunity to get you to stop drinking and stop smoking.
+
+PATIENT O313
+Yeah right.
+
+DOCTOR O313
+Kind of get everything back together.
+
+PATIENT O313
+I tell you, thank you.
+
+DOCTOR O313
+You're welcome.  Stay warm it's a.
+
+PATIENT O313
+And the pill that you say you gonna get for me for my sex drive.
+
+DOCTOR O313
+Yeah that will get mailed to you.  You can't pick that up here.
+
+PATIENT O313
+So when I'll be expecting it?  One week, two weeks?
+
+DOCTOR O313
+I would give it about a week because of Christmas, the mail is probably not gonna come on Friday.
+
+PATIENT O313
+Okay, alright thank you.
+
+DOCTOR O313
+You're welcome.
+
+PATIENT O313
+Have a good one. Merry Christmas!
+
+DOCTOR O313
+@@@.
+
+PATIENT LEAVES:  42:41
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286099
+TRANSACTION # 578-10-2-316-0103

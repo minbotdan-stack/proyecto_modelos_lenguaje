@@ -1,0 +1,1890 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter: @@@ 
+
+DOCTOR S027
+Oh PATIENT.
+
+PATIENT S027
+Yeah.  Hi how are you?
+
+DOCTOR S027
+Hi.  Good, how are you.  DOCTOR.
+
+PATIENT S027
+You know what I gotta find out; I was expecting some old man.
+
+DOCTOR S027
+Oh yeah.
+
+PATIENT S027
+Yeah I'm pleasantly surprised.  Actually I was expecting a young man probably.
+
+DOCTOR S027
+Oh yeah.
+
+PATIENT S027
+How you doing?
+
+DOCTOR S027
+Doing very well, how about you?
+
+PATIENT S027
+Good uh I'm doing, I guess you know alright for my age.
+
+DOCTOR S027
+Yeah, good.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+Have a seat.
+
+PATIENT S027
+Okay.
+
+DOCTOR S027
+Enjoying this nice weather?
+
+PATIENT S027
+Trying to yeah, yeah.
+
+DOCTOR S027
+Good.
+
+PATIENT S027
+Anxious to get out, back out there this afternoon.  I had an appointment here this morning so I left early this morning so, go drink coffee, revive me.  You live in Chicago or where?
+
+DOCTOR S027
+Yeah I do.
+
+PATIENT S027
+You know where Viagra Triangle is?
+
+DOCTOR S027
+Uh yes.
+
+PATIENT S027
+I go down there and drink coffee a lot cause I'm an old man.
+
+DOCTOR S027
+Oh.
+
+PATIENT S027
+I'm looking forward to just stopping by there on the way home and having a cup of coffee out in the sun.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+Catching some sun.  So, how did my tests all come out?
+
+DOCTOR S027
+Sure we can.
+
+PATIENT S027
+Do I have another year?
+
+DOCTOR S027
+I think so, I think so.  Let's get to your latest up.  This is your CBC which is your blood count.
+
+PATIENT S027
+Okay.
+
+DOCTOR S027
+Your infection-fighting cells, white blood cells are normal.  So is your hemoglobin.  Those are your red cells and your platelets, all normal.
+
+PATIENT S027
+Okay.
+
+DOCTOR S027
+Your electrolytes and normal, potassium is on the high end of normal but fine.
+
+PATIENT S027
+It was on the high end of normal?
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+Is that, should be more toward normal or?
+
+DOCTOR S027
+Nope.
+
+PATIENT S027
+Oh okay, alright.
+
+DOCTOR S027
+Normal, fine.  Uh creatinine is uh 1.04, we'll compare that to the last one but that's fine and this is a measure of your liver function, it was within normal limits.
+
+PATIENT S027
+Good.
+
+DOCTOR S027
+And these are the lipid panel.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+For your cholesterol and your triglycerides.  Let’s look at the trend for those so we'll look at your past ones as we look at this.  So today your triglycerides are 293.  Ideally we would like them less than 150, so they're high.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+And in the past they've been better.  The last time it was 160, 180, down to 94 here.
+
+PATIENT S027
+What was that?
+
+DOCTOR S027
+They have been worse.  Back in 2004 you were at 368.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+So.
+
+PATIENT S027
+That was the good life.
+
+DOCTOR S027
+Uh, total cholesterol we only go up to 200, you're at 188.
+
+PATIENT S027
+Uh-huh, okay.
+
+DOCTOR S027
+Good work.  HDL cholesterol, that's the one that's called the good cholesterol.
+
+PATIENT S027
+Yeah they said really it doesn't matter that much anymore.  The news account on it but.
+
+DOCTOR S027
+Well I think.
+
+PATIENT S027
+You know yeah.
+
+DOCTOR S027
+You know it's still not as.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+Especially the ratio between the good and the bad cholesterol.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+In your good the higher the better.  You're at 37; we like to see it above 40.
+
+PATIENT S027
+It's always been a little low on that.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+And on the LDL I've been normal haven't I, or have I been a little?
+
+DOCTOR S027
+Yeah it's still less than 100 is what we consider good.
+
+PATIENT S027
+Yeah okay.
+
+DOCTOR S027
+And you're at 92, so good job.  The last time it was 55 so it was even better.
+
+PATIENT S027
+Uh-huh.
+
+DOCTOR S027
+Down here it was 150 so you weren’t going so good back then but these are pretty good numbers.
+
+PATIENT S027
+Yeah okay.  Alright.  Yeah I never have been able with this uh, is it niacin that I take to get the.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+That thing, it's like I'm going through menopause.  I get hot flashes, I can't take it, I can't handle it.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+I've tried it twice and man I'll be sitting there and I'll just, hot all over, burn.
+
+DOCTOR S027
+Have you taken aspirin with it?
+
+PATIENT S027
+No.
+
+DOCTOR S027
+No.  That's something that can help but I, with this uh, with these tests I wouldn't want to start you on anything new.
+
+PATIENT S027
+Yeah, yeah okay.
+
+DOCTOR S027
+So.  
+
+PATIENT S027
+So uh.  I keep hoping that my elbow here, right elbow.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+And my left shoulder and maybe a little bit of my elbow, really bother me.  I think its arthritis or something.  I sleep on my side and I always have my arm up under my uh hand and can't really do that now because it starts bothering me if I do that so sometimes when I'm just sitting this one will bother me.  The elbow will start aching.  I don't know if there's anything I can take for that or do for that or.
+
+DOCTOR S027
+Yeah so how long has this been going on?
+
+PATIENT S027
+It's probably been going on a couple months now.
+
+DOCTOR S027
+And you notice it at night?
+
+PATIENT S027
+At night and the daytime, when I'm walking or something, sometimes too.  You know it can happen in any position really.  I notice it more at night when I try to put my arm down and put my head on it, it'll go uh no.
+
+DOCTOR S027
+And where exactly on the elbow?
+
+PATIENT S027
+Well about right here.
+
+DOCTOR S027
+Right there.
+
+PATIENT S027
+Yeah, yeah.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+Yeah I can feel it there when you push on that.
+
+DOCTOR S027
+Push on it.
+
+PATIENT S027
+Yeah right there.
+
+DOCTOR S027
+Any new activities?
+
+PATIENT S027
+No, me?  At my age?
+
+DOCTOR S027
+Yeah you.
+
+PATIENT S027
+Yeah I do skydiving and I got a trampoline the other day and I.
+
+DOCTOR S027
+How do.
+
+PATIENT S027
+Um.
+
+DOCTOR S027
+Press down against my, good.
+
+PATIENT S027
+Underwater basket-weaving.
+
+DOCTOR S027
+And then lift your palm up.
+
+PATIENT S027
+I been doing some of that.
+
+DOCTOR S027
+Lift this palm up right here and push up.  Does that aggravate it at all?
+
+PATIENT S027
+No, no, that's fine in that hand.
+
+DOCTOR S027
+Anywhere okay.  How about with movement?
+
+PATIENT S027
+Uh not that way no but if I go to reach to my back.  Like if my belt gets twisted.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+Now it's not doing it now, it's okay now.
+
+DOCTOR S027
+But if you're reaching.
+
+PATIENT S027
+But normally it would be yeah, I wouldn't be able to do that and the same way with this one, I get it right through there.
+
+DOCTOR S027
+Right through here?
+
+PATIENT S027
+Yeah just sort of catawampus when I go to like go back like that uh it bothers me a lot.
+
+DOCTOR S027
+Okay.  Alright.
+
+PATIENT S027
+Amputation?
+
+DOCTOR S027
+No, we'll not do that first, we'll know the reason @@@.  
+
+PATIENT S027
+Okay alright the second.
+
+DOCTOR S027
+We'll do that second.
+
+PATIENT S027
+Give me a shot huh.
+
+DOCTOR S027
+Yeah just a little shot.
+
+PATIENT S027
+Now I uh, I don't know.
+
+DOCTOR S027
+How much is it bothering you?
+
+PATIENT S027
+Uh enough that it's very, very, very annoying and it probably is, I don't know if it's stopped any of my activities.  It may have slowed me down from uh reading some because sometimes when I hold the paper or a book it might bother me slightly.  Right now, cause it squeaked all the way here.  You know when you go to the garage and you get there it doesn't squeak.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+But uh, probably if I had to say on scale of 1 to 10, probably um 4 to 5.  I mean it doesn't, it sort of keeps me from sleeping a little bit but not, if I get tired I'll go to sleep you know.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+I'll sleep through it so yeah.
+
+DOCTOR S027
+Um and then on the, so I think this pain is probably more elbow pain but up through here on the other side.
+
+PATIENT S027
+It's like a shoulder I mean.
+
+DOCTOR S027
+It's more of a shoulder thing?
+
+PATIENT S027
+Yeah uh-huh.
+
+DOCTOR S027
+Okay, okay.  Did they start about the same time?
+
+PATIENT S027
+Yeah they did uh-huh yeah.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+Uh let me see your range of motion, lift both your arms up over your head.
+
+PATIENT S027
+Yeah now this starts hurting when I get up to there.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+This one doesn't.
+
+DOCTOR S027
+And then reach back behind your head that's good, a little less over here, very good.
+
+PATIENT S027
+Uh-huh.
+
+DOCTOR S027
+Stand up for me.  Raise just the uh left arm.
+
+PATIENT S027
+Ooh.  That bothers me like that yeah.
+
+DOCTOR S027
+Up all the way above your head.
+
+PATIENT S027
+Yeah that.
+
+DOCTOR S027
+Now lower it slowly, no problems with that?
+
+PATIENT S027
+No that feels better when I lower it.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+Like when I hold it up yeah.
+
+DOCTOR S027
+What is this scar from?
+
+PATIENT S027
+That's from where they took a vein for my heart.
+
+DOCTOR S027
+Oh, oh okay.  Alright.
+
+PATIENT S027
+Not shrapnel or war wound.
+
+DOCTOR S027
+One or the other.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+Alright.  Any tenderness?
+
+PATIENT S027
+No.
+
+DOCTOR S027
+Let me know.
+
+PATIENT S027
+No, brings up something else that have.  I remember all my ills, I have this @@@ about a years worth of ills.
+
+DOCTOR S027
+Year's worth of what?
+
+PATIENT S027
+Ills, to lay on you.
+
+DOCTOR S027
+Ills?
+
+PATIENT S027
+@@@ oh I ought to mention that to the doc, tell me what that is, yeah, yeah you know.
+
+DOCTOR S027
+Okay.  Alright and the pain goes right through here.
+
+PATIENT S027
+Yeah and it's back, it's sort of on the whole shoulder there yeah.
+
+DOCTOR S027
+Uh-huh.  Any tenderness?
+
+PATIENT S027
+No, no.
+
+DOCTOR S027
+Just gonna have you rotate your arm for me.  So keep the elbow in.
+
+PATIENT S027
+Okay.
+
+DOCTOR S027
+And we're just gonna rotate the shoulder out.
+
+PATIENT S027
+That's okay.
+
+DOCTOR S027
+It's okay.
+
+PATIENT S027
+Uh-huh.
+
+DOCTOR S027
+Okay, let's check on the tendons, good.  Alright just going to feel the shoulder.  Go ahead and have a seat.
+
+PATIENT S027
+Okay.
+
+DOCTOR S027
+So that elbow the spot that you're.
+
+PATIENT S027
+Uh-huh.
+
+DOCTOR S027
+So.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+So that's the.
+
+PATIENT S027
+Right there is where it is.  I can feel it, right there.
+
+DOCTOR S027
+Yeah.  Cause that's the lateral uh point where there's an attachment there um, where your muscles attach to your elbow.
+
+PATIENT S027
+Uh-huh.
+
+DOCTOR S027
+To your arm bone here uh so then they call that tennis elbow.  Have you ever heard that term?
+
+PATIENT S027
+Oh certainly.
+
+DOCTOR S027
+Yeah so, the attachment point just gets inflamed a little bit and I think that's what's going on.
+
+PATIENT S027
+I think that's what both of them are, just some.  But I thought maybe they'd go away and I can't not sleep on my arm.  I just couldn't, try to go to sleep laying straight and it doesn't work.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+But it seems like that might aggravate it I don't know, uh I don't know. 
+
+DOCTOR S027
+It goes.
+
+PATIENT S027
+But I think the arm is just temporary, uh little bits of pains you get you know and discomforts you get as you go through life.
+
+DOCTOR S027
+Yeah so anti-inflammatories can help with that um.  The shoulder is you know a little bit different.  It's not really that one focus you know.
+
+PATIENT S027
+Uh-huh.
+
+DOCTOR S027
+It's the pain here, we're having pain here.
+
+PATIENT S027
+Uh-huh.
+
+DOCTOR S027
+And there are lots of muscles that could be uh involved.  You could have like a minor tear in the shoulder uh.  Both of the injuries though are usually repetitive injuries so um, tennis.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+The repetitive hitting.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+And with older folks and I know you said you're not doing any @@@.
+
+PATIENT S027
+I have a friend that goes out and hits a thousand tennis balls a day and he's 83.
+
+DOCTOR S027
+Wow.
+
+PATIENT S027
+He doesn't like to play tennis with anyone.
+
+DOCTOR S027
+Is this his.
+
+PATIENT S027
+He likes to hit the ball.
+
+DOCTOR S027
+Yeah.  Anything with repetitive motion so.
+
+PATIENT S027
+Sure.
+
+DOCTOR S027
+Writing.
+
+PATIENT S027
+Yeah I don't do.
+
+DOCTOR S027
+Reading.
+
+PATIENT S027
+The only thing I do is type on the keyboard and that's about, maybe reading you know some but.  I don't read the same, I read some newspapers and some books and then some Kindle and you know so, it's nothing where I'm always holding it the same way you know.
+
+DOCTOR S027
+@@@ yeah.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+Uh have you tried Tylenol?
+
+PATIENT S027
+No.  I can do that.  That's not a bad you know.
+
+DOCTOR S027
+I think that would be the first thing that I would try.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+Uh I mean we could give you something stronger.
+
+PATIENT S027
+They gave me a steroid but that would, after a couple weeks it'd probably come back and uh.
+
+DOCTOR S027
+Yeah so.
+
+PATIENT S027
+I don't need that done.  Tylenol is fine.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+If it gets so bad that I need a steroid I'll come back and see you yeah.
+
+DOCTOR S027
+Sounds good.
+
+PATIENT S027
+Alright.
+
+DOCTOR S027
+I like it.  Um any other problems?
+
+PATIENT S027
+Sure.  Now this is gonna seem minor but it is, but I live alone so I have nobody to tell me what is going on with spots I can't see.
+
+DOCTOR S027
+Yes.
+
+PATIENT S027
+And my shoulders just get, for a little while I had a, I get these, still get it on my shoulders, both sides and it doesn't seem to go away.  I guess I just scratch at the scabs.  I don't know if you can see but I can feel it all the way up here.
+
+DOCTOR S027
+Oh there are lots of scratches yeah.
+
+PATIENT S027
+All rough and uh I don't know what I, should I put something on them or should I, is it one of those there where I don't scratch it, you know like a cat.  @@@.
+
+DOCTOR S027
+No let's not do that yet.
+
+PATIENT S027
+But I think it's just something that's irritated and I scratched and then I just kept scratching it.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+But I still, I think, scratch it at night.  Sometimes it’s like a pin prick somewhere you know.
+
+DOCTOR S027
+Uh-huh.  Anywhere else that you.
+
+PATIENT S027
+No, this is the only spot yeah.
+
+DOCTOR S027
+Okay.  It looks like you have some just dry irritated skin that you've been scratching.
+
+PATIENT S027
+Yeah I kind of figured that.
+
+DOCTOR S027
+Scratching that.
+
+PATIENT S027
+Put some cream or something on it?
+
+DOCTOR S027
+Yeah.  You could use some actually uh steroid cream until it goes away and then just some lotion.
+
+PATIENT S027
+Okay.
+
+DOCTOR S027
+If you're able to not scratch it I think these could.
+
+PATIENT S027
+Well I'll certainly try that.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+I hate to bother you with that but I don't have anybody to tell me what it looks like.
+
+DOCTOR S027
+No.
+
+PATIENT S027
+Cause I can't see in the mirror very well.
+
+DOCTOR S027
+@@@.
+
+PATIENT S027
+Right.
+
+DOCTOR S027
+So just have a seat over here, let me take a listen to your heart and lungs and.
+
+PATIENT S027
+Okay.  Take my hat off @@@.
+
+DOCTOR S027
+Oh @@@.  Just breathe normal.  Okay, deep breath in alright breathe alright. I'm going to listen to your arteries.  I'll have you take a deep breath in and hold it okay.  And breathe.  Take a deep breath in and breathe.  Alright.  Just feeling your thyroid.  @@@.  Good.  Any problems with chest pains, pressure?
+
+PATIENT S027
+Uh-huh.  Yeah.  
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+We better go into that when like I sit down, it's a long story.
+
+DOCTOR S027
+It's a long story.
+
+PATIENT S027
+Yeah.  We're not gonna figure it out.  Cardiology says there's nothing wrong with you PATIENT.  I don't know what it is that's doing that but it ain't anything to do with your heart.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+And if I tell you.
+
+DOCTOR S027
+Turns out to be.
+
+PATIENT S027
+If I tell you, you'll mention it to your attending and they'll say well you should go down and have your heart checked you know and do some tests.  I've been that route about three times and open heart surgery and I still got a slight.  I can walk from here to there.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+And I'll get a burning across in my chest.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+Or I could walk from here to I live at Irving Park and Pine Grove and I wouldn't feel anything you know and do perfectly fine.  But walked and the knot it bothers me so I'll have to stop walking a few blocks away.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+I may have to stop twice on the way and just stop for maybe 30 seconds and then you know.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+Sort of let it go down and sort of walk along a little more and then it'll start up again uh after I walk just a little bit. I don't know what it is.  Nobody's been able to determine what it is I have three or four angiograms and open heart surgery and I keep saying I'm gonna lose weight and if it doesn't go away after I've lost my weight then I'm gonna start rattling cages and saying you know we better find out what this is.  Cause it's really debilitating.  I can't, lot of things I can't do.  You know a lot of times I'll just go out and walk.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+But I can't because and I'm sure you’re top notch but I know we're not gonna come up with any solution at Hines right away.
+
+DOCTOR S027
+Let me rephrase my question.
+
+PATIENT S027
+Okay.
+
+DOCTOR S027
+Any changes, any changes in that.
+
+PATIENT S027
+Any trends.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+Uh no, it's pretty much just the same thing.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+And it was there before I had heart surgery.  After I had the surgery it went away for a month and then it came back and uh it comes and goes @@@.  I got to find out some reason for it cause it's just really, disrupts my life.  You know I can't, I like to sail, and I can’t go out and do that.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+But I got to work on that.  When I come back and see you, I'm 160 pounds and I still have it.
+
+DOCTOR S027
+We'll get more aggressive.
+
+PATIENT S027
+Yeah very aggressive but in the meantime I can just say well I got to lose weight you know.
+
+DOCTOR S027
+Hmm.
+
+PATIENT S027
+I don't know, I had a doctor once when I was oh this was back in the @@@.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+Uh, told you're fat, you're overweight.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+You're just fat, right uh and your diaphragm, your stomach and gut won't let you breathe that well so that's why you have no stamina.  Now that wasn't necessarily what would give me this burning across here but what I get is the same as if you were, were out of breath you know when you were running or something.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+So I always thought maybe he was the one that came closest to getting what the real problem was, I don't know.
+
+DOCTOR S027
+Well I want to go over your meds with you.
+
+PATIENT S027
+Yes.  We need, I want to change almost all of those prescriptions that I still am gonna have to Walmart cause I can get them at $4 a month.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+As opposed to $9 a month through the VA.
+
+DOCTOR S027
+Alright.  @@@?
+
+PATIENT S027
+Yep and DOCTOR gave me three for what she thought was her three.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+But I've got you know, do you have a list of my meds there?
+
+DOCTOR S027
+I do.
+
+PATIENT S027
+Okay now bupropion I gave up on it.  
+
+DOCTOR S027
+Discontinuing that.
+
+PATIENT S027
+Yeah I'm not taking that anymore.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+And I'm not seeing Mental Health.
+
+DOCTOR S027
+And you're doing okay?
+
+PATIENT S027
+Uh.
+
+DOCTOR S027
+Mood wise?
+
+PATIENT S027
+Uh yeah I'm doing about the same as before yeah.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+I get, I'm kind of starting to do some stuff now that uh I hope will uh help me a little bit.  You know get out of depression and I haven't been doing anything really at all except sitting around and reading and going to Starbucks and.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+Uh that's probably not good for me you know.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+Maybe if I were 95 but I'm not.
+
+DOCTOR S027
+A little more active.
+
+PATIENT S027
+Yeah so uh I don't know how you've got them listed there.  We've got finasteride and I need that for Walmart.  She did glipizide.
+
+DOCTOR S027
+Hold on, @@@.
+
+PATIENT S027
+Okay, oh okay, yeah I'm sorry.
+
+DOCTOR S027
+You want 90 day supplies or 30 day supplies?
+
+PATIENT S027
+Uh 90, you might as well.
+
+DOCTOR S027
+Okay next.
+
+PATIENT S027
+Um isosorbide mononitrate.
+
+DOCTOR S027
+Okay and these are all ones that you have been taking correct?
+
+PATIENT S027
+Yeah uh-huh, they're down on the list.
+
+DOCTOR S027
+Okay.  Alright next.
+
+PATIENT S027
+Lisinopril.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+I'll tell you a story about all this when we're done and I'm not sure.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+Uh, I don't know if simvastatin is on Wal-Mart's list or not.  I don't, let's see.
+
+DOCTOR S027
+It should be.
+
+PATIENT S027
+Uh.
+
+DOCTOR S027
+No. Hold on.
+
+PATIENT S027
+Anything like that?
+
+DOCTOR S027
+I used to know these.
+
+PATIENT S027
+Oh right?
+
+DOCTOR S027
+Yeah when I did more outpatient medications through the VA.  
+
+PATIENT S027
+Uh-huh.
+
+DOCTOR S027
+The pravastatin is similar to the simvastatin.
+
+PATIENT S027
+Oh okay, well we could, if that's suitable we can do that.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+Let's see how much you were on on simvastatin.
+
+PATIENT S027
+Uh.
+
+DOCTOR S027
+Oh you were on simvastatin 80 um.
+
+PATIENT S027
+And this is what 40?
+
+DOCTOR S027
+Yeah.  So it's not quite equivalent.  Let's stay on the simvastatin if that's okay with you.
+
+PATIENT S027
+Okay yeah we'll keep that at the VA.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+And then uh sitagliptin. 
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+Uh I don't think I see that on here either what's that on, that's diabetes?
+
+DOCTOR S027
+Diabetes yeah.
+
+PATIENT S027
+And that's not, that's not on here.
+
+DOCTOR S027
+I don't think it would be.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+So did you get a script for that already or not?
+
+PATIENT S027
+Uh no I need one for that.
+
+DOCTOR S027
+You need one for that okay.
+
+PATIENT S027
+So you're doing that's VA, VA okay, then there's a couple I want to add.  So I called up.  I got a Walmart Express up by me and I started going there after they opened and then.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+The Pharmacy looked nice so I hey give me your sheet, do you think you can save money for me.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+Yeah here's our sheet, shows you the prices you know.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+Just have your doctor there at the VA call me you know or send it over.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+So I called out here to the Pharmacy and told them what I wanted to do and they said well you have to go to your doctor to get scripts re-written you know and of course my doctor GP was gone and I hadn't seen you.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+But what they did at the Pharmacy, being the nice people they are, they just cancelled all my prescriptions.
+
+DOCTOR S027
+At the VA they did?
+
+PATIENT S027
+Yeah and I came out here they said okay we'll give you ten days you know.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+That'll get you up to where you can see your doctor but they just said you know said okay if you're gonna go to Walmart and your doctor will be writing them we'll just cancel them Jesus, a little harsh.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+But anyway I lived through it.
+
+DOCTOR S027
+You did.
+
+PATIENT S027
+Yeah and I want to add a couple too if I can.
+
+DOCTOR S027
+What do you want to add?
+
+PATIENT S027
+I'd like to add, I used to get Omega 3 through the VA.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+And it's cheaper than uh I can buy it at the store that stuffs getting expensive.  So if you could write that.
+
+DOCTOR S027
+Do you want it through the VA or written at Walmart?
+
+PATIENT S027
+Uh VA.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+And then uh the same with uh.
+
+DOCTOR S027
+Omega 3.
+
+PATIENT S027
+Omega 3 and then well I was on 3000 a day of that.
+
+DOCTOR S027
+I doubt if we'll be able to do 3000 a day here, 2000 a day.
+
+PATIENT S027
+Oh really?
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+Wasn't I on 3 at one time?  You can't tell.
+
+DOCTOR S027
+Um I can look back and see.
+
+PATIENT S027
+I think NAME at Cardiology put me on that.  
+
+DOCTOR S027
+I don't even see that you were on Omega 3 here.
+
+PATIENT S027
+Really?
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+Hmm.
+
+DOCTOR S027
+Omeprazole, @@@.
+
+PATIENT S027
+Omeprazole, what's that now?
+
+DOCTOR S027
+That's your PPI, it looks like did you have like an EGD that showed gastritis?  Yeah, so a PPI for gastritis.
+
+PATIENT S027
+I don't remember that but anyway.
+
+DOCTOR S027
+No problems with heartburn?
+
+PATIENT S027
+Uh well I was getting a little bit at night but it's gone away now.  I think it's you know.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+It comes once in a while.
+
+DOCTOR S027
+Alright.
+
+PATIENT S027
+I just take some Tums and uh, well do the Omega 3.  Do you think 2000 a day would be enough?
+
+DOCTOR S027
+I do.
+
+PATIENT S027
+Okay.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+I'll do that, you're the doctor.
+
+DOCTOR S027
+Okay.  What else?
+
+PATIENT S027
+I think that oh, can you do the vitamins prescription VA?
+
+DOCTOR S027
+Uh do you want a multivitamin or what vitamin?
+
+PATIENT S027
+A multivitamin yeah.
+
+DOCTOR S027
+A multivitamin yeah we have those.
+
+PATIENT S027
+$9 a month is cheaper I think than I can buy them at the store.
+
+DOCTOR S027
+Really.
+
+PATIENT S027
+I think.  Man some of these things that I look at them, they get expensive like 17, 18 bucks for a bottle.
+
+DOCTOR S027
+For just a month though?
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+Whoa, okay.
+
+PATIENT S027
+I don't know, yeah.
+
+DOCTOR S027
+I take a multivitamin and it's.
+
+PATIENT S027
+What do you pay?
+
+DOCTOR S027
+I think.
+
+PATIENT S027
+You just steal them at a pharmacy?
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+You like uh.
+
+DOCTOR S027
+@@@.
+
+PATIENT S027
+You know Nurse Jackie, you never watch that?
+
+DOCTOR S027
+Uh uh.
+
+PATIENT S027
+Oh.
+
+DOCTOR S027
+No I think it's like $10 and it lasts me 2 1/2-3 months.
+
+PATIENT S027
+Oh well don't put it down then.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+I'll just find out where you shop.
+
+DOCTOR S027
+Dominic's.
+
+PATIENT S027
+Dominic's.  Oh that's too expensive for me, I can't afford that stuff.
+
+DOCTOR S027
+Oh, just get generic.
+
+PATIENT S027
+I know.
+
+DOCTOR S027
+I don't get.
+
+PATIENT S027
+No I buy generic everything.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+I look lower shelf you know.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+Alright, I'll find them along with the Omega 3.
+
+DOCTOR S027
+Oh I put the Omega 3 in there.
+
+PATIENT S027
+Oh okay, alright, you have, okay okay that's fine.
+
+DOCTOR S027
+But no vitamins.
+
+PATIENT S027
+That's fine.  Alright now I got into, this is too much for me to keep track of all these different places.  I wish, you know the VA should publicize this a lot more, $4 a month is much better than $9 a month.
+
+DOCTOR S027
+Oh yeah.
+
+PATIENT S027
+I mean and these are $4 a month.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+Well.
+
+DOCTOR S027
+The VA should get more competitive, they should match Wal-Mart's price $4 a month.
+
+PATIENT S027
+All our @@@ tell people go to Walmart and get your drugs you know.
+
+DOCTOR S027
+Well yeah but it's nice to have everything, all your medications from one spot.
+
+PATIENT S027
+It is, that's what's you know getting confused here yeah.
+
+DOCTOR S027
+Yeah like probably scripts should price matching.  If I were in charge that's what we would do.
+
+PATIENT S027
+Yeah I don't know why if Walmart can do that I would think that the VA's probably buying almost as much as Walmart, maybe not quite as much but Wal-Mart's pretty big.
+
+DOCTOR S027
+Yeah, we could see.
+
+PATIENT S027
+Yeah they should be just about the same though.  Anyway they're not gonna change that on account of our suggestion I don't think are they?
+
+DOCTOR S027
+No.  No I don't think so either.
+
+PATIENT S027
+I was thinking I had one other thing that I wanted to lay on you.
+
+DOCTOR S027
+So metformin and okay, 15 mg alright.
+
+PATIENT S027
+I know I hope they take it with that.  Is that what yours says too?
+
+DOCTOR S027
+No, it says two weeks only VA Pharmacy @@@.
+
+PATIENT S027
+I know.
+
+DOCTOR S027
+I don't show what it was.
+
+PATIENT S027
+I know she got crossed that out on one.  If it doesn't work I'll have them call her.
+
+DOCTOR S027
+Okay or you can call me.
+
+PATIENT S027
+Okay.
+
+DOCTOR S027
+And use that @@@.  
+
+PATIENT S027
+Okay.
+
+DOCTOR S027
+Let me just try and enter these.
+
+PATIENT S027
+Yeah sure.
+
+DOCTOR S027
+Anything else you need?
+
+PATIENT S027
+I'm trying to think of uh um can I call you from the bus home cause that's when I'll think of it.  No I think we pretty well covered everything I could lay on you.
+
+DOCTOR S027
+Alright.
+
+PATIENT S027
+I didn't want to keep you laying awake at night wondering about patient PATIENT whether he got.
+
+DOCTOR S027
+I know.
+
+PATIENT S027
+He got, how long you been here?
+
+DOCTOR S027
+A year.
+
+PATIENT S027
+You like it?
+
+DOCTOR S027
+I do, I do.  I do have some reminders that they want me to do with patients every time so.
+
+PATIENT S027
+Sure.
+
+DOCTOR S027
+One of them is.
+
+PATIENT S027
+I don't smoke.
+
+DOCTOR S027
+One of them is falls, have you had a fall?
+
+PATIENT S027
+You know I was talking to the guy there you know the nurse.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+And uh the past, maybe a year or more in six months.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+I seem to stumble once in a while, even if there's just a little uh height difference in the sidewalk, I'll catch on it sometimes.  It's like almost I have dropsy with my feet you know.  I'll be walking along and my foot will sort of you know uh sort of drag my foot.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+Not so someone would but notice, you know I notice it because I'm, I'm doing I don't know I think it may be my glasses as much as anything.  Plus I have a lot of trouble going downstairs.  Not a lot of trouble but I have to be very careful cause I can't really judge.  I don't want to go to therapy though so if that's what you're asking.  Somebody suggested that this morning and I'm not agreeing.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+I'm not a I'll just have to put up with it.
+
+DOCTOR S027
+Alright.
+
+PATIENT S027
+You can't give me some medicine that'll cure that.
+
+DOCTOR S027
+No.
+
+PATIENT S027
+No.  Is that something that's normal?
+
+DOCTOR S027
+You know I wouldn't say normal but I'd say.
+
+PATIENT S027
+Not abnormal.
+
+DOCTOR S027
+It's common with age or when people get less active.
+
+PATIENT S027
+Yeah I need to get.
+
+DOCTOR S027
+Your muscles aren't as strong and they stumble and you know.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+@@@ and have more problems.
+
+PATIENT S027
+Okay yeah.
+
+DOCTOR S027
+Than they were when they were younger.
+
+PATIENT S027
+That's a good thing to tell me when you're not active and yeah I need to hear that.
+
+DOCTOR S027
+It's @@@.
+
+PATIENT S027
+Yeah uh.  I thought of something else I was gonna ask you about, oh memory.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+They didn't give me much help at Mental Health on this; they just said well that's life PATIENT.  I really seem to have a lot of memory problems lately.  They're not long term, they'll be common things that I won't be able to remember at all and that I'll.
+
+DOCTOR S027
+Like what?
+
+PATIENT S027
+Uh the name of a singer or.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+The name of a town or the name of uh, I wouldn't say a close friend but an acquaintance.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+Uh they'll just; you know I can't get it.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+And maybe in five minutes it'll come to me, maybe at night it'll come to me.  But that happens; of course I think about things like this a lot.  I don't know, maybe other people don't but that seems to happen to me a lot and I can be working on the computer and think I've got to do something and I'll look at this on this, I should go to this website or look at this page and I'll put my head down and when I bring it back up I won't remember what it was.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+You know what I'm saying.  What the hell was I gonna look at I can't remember.
+
+DOCTOR S027
+So that's pretty common, those things that you're describing.
+
+PATIENT S027
+You're no fun.
+
+DOCTOR S027
+With aging.
+
+PATIENT S027
+You're supposed to say I've got something.
+
+DOCTOR S027
+No, the ones that are you know the medical reasons.  Like Alzheimer disease, the most common cause of memory problems due to a medical diagnosis uh those people think that they have - they're memory is just fine.  They're doing great.
+
+PATIENT S027
+So
+
+DOCTOR S027
+So you.
+
+PATIENT S027
+If I tell my friends I'm really having you know a day of I don't get a hole, gee I can't remember, I'll say oh I have no trouble with my memory, I'll say ah you're sick.
+
+DOCTOR S027
+Yeah well they don't basically don't feel that their memory but then things start happening like they didn't turn off the stove.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+They can't find their way home.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+So then they won't say that they're lost, they’ll just keep.
+
+PATIENT S027
+Yeah okay.
+
+DOCTOR S027
+I mean I had a patient who was out biking for 16 hours straight because he couldn't find his house but wouldn't say that he couldn't find his house.
+
+PATIENT S027
+God that's sad.
+
+DOCTOR S027
+Those are things that are just red flags.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+I can't remember.
+
+PATIENT S027
+I don't do bicycling.
+
+DOCTOR S027
+So having an acquaintance name that comes to me at night and those things, those things are not worrisome.
+
+PATIENT S027
+Yeah well I suspected that but you still worry.  When it happens to you, you're just gonna worry about it until you know you can say no I know that's common.
+
+DOCTOR S027
+Well no, okay, I'll say I'm glad I realized that I’m forgetting. @@@. So @@@.  And actually HIV screening, would you like to be screened for HIV?
+
+PATIENT S027
+I have no reason to be.
+
+DOCTOR S027
+Alright.
+
+PATIENT S027
+I was seen once in my younger days.  This girl, insisted I be screened.  I got screened and then she laughed well I was just kidding.  Anyway I didn't tell you what I called her.
+
+DOCTOR S027
+Alright.  Well let me, give me a few minutes and I'll be right back.
+
+PATIENT S027
+Okay, alright.
+
+DOCTOR S027
+I'm gonna talk to my attending okay.
+
+PATIENT S027
+Sure.
+
+DOCTOR S027
+Alright.
+
+(DOCTOR OUT:  71:03  DOCTOR IN:  77:02)
+
+PATIENT S027
+Yes.
+
+DOCTOR S027
+Alright. He agrees with the plan.
+
+PATIENT S027
+They okayed it huh, good.  Yeah I had one other thing.
+
+DOCTOR S027
+Okay.
+
+PATIENT S027
+You can just throw me out of here.
+
+DOCTOR S027
+@@@.
+
+PATIENT S027
+Um I call him NAME but that was my other GP.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+He was gonna refer me to some @@@ where the VA wants to mess with this and this thing bothers me, a little skin tag I got here.
+
+DOCTOR S027
+Oh.
+
+PATIENT S027
+It just bothers me, no like there's one, a little one there and one there.
+
+DOCTOR S027
+Uh-huh.
+
+PATIENT S027
+Would the VA do anything about that or should I just go to my Medicare people and say take it off?
+
+DOCTOR S027
+Uh how does it, how does it bother you?
+
+PATIENT S027
+Uh I keep rubbing it and sort of pulling on it and.
+
+DOCTOR S027
+So Derm usually considers things like that just cosmetic.
+
+PATIENT S027
+Okay yeah that's fine.  I understand that yeah.
+
+DOCTOR S027
+So.  
+
+PATIENT S027
+Cause I got, I keep I'm paying a hundred and some dollars a month for Medicare and I never have used it so why not go and have them do it?
+
+DOCTOR S027
+Why not?
+
+PATIENT S027
+Get a breast reduction and some collagen.
+
+DOCTOR S027
+You'll be a whole new man when I see you.
+
+PATIENT S027
+Yeah woman maybe.
+
+DOCTOR S027
+Oh.
+
+PATIENT S027
+Woman or man.  Now uh you got a card with your uh.
+
+DOCTOR S027
+I do.
+
+PATIENT S027
+And if that other, if Walmart says I can't take those other ones, have them call you?
+
+DOCTOR S027
+Yep.
+
+PATIENT S027
+Okay.
+
+DOCTOR S027
+Leave a message with my nurse NURSE best way to reach me.
+
+PATIENT S027
+NURSE.
+
+DOCTOR S027
+Yep it's on there.
+
+PATIENT S027
+Oh okay.
+
+DOCTOR S027
+NURSE.
+
+PATIENT S027
+I don't know why they don't use e-mails.  I did that, I used to go to the @@@ Clinic and the nurse practitioner there and I e-mailed and it was so much easier.  She used e-mail.  I don't think she told them she was doing that but it worked out really well.  Why don't they use it?  Encourage that.
+
+DOCTOR S027
+Uh they do have, it's not really e-mail it's like a website that you can use so.
+
+PATIENT S027
+Yeah.
+
+DOCTOR S027
+They, for health protection information laws, the HIPPA Rule.
+
+PATIENT S027
+Oh I know all that yeah.
+
+DOCTOR S027
+So you can't use e-mail.
+
+PATIENT S027
+See I thought I put the fear of God in them you know.
+
+DOCTOR S027
+Oh me.
+
+PATIENT S027
+I tell my friends, I said I can put a suit on and walk in any hotel and any hospital in the United States at 8 o'clock in the morning and they'll say oh hello, now we'll have an office over here.  My daughter works there in the Media Department so she gave me that.
+
+DOCTOR S027
+Oh.
+
+PATIENT S027
+But I have to try it out you know.
+
+DOCTOR S027
+That's fun.
+
+PATIENT S027
+Well thank you, I'll see you again when, do I need to?
+
+DOCTOR S027
+How about six months.
+
+PATIENT S027
+Six months.
+
+DOCTOR S027
+Or sooner if you need it.
+
+PATIENT S027
+I don't, sooner is probably not you know.
+
+DOCTOR S027
+Yeah.
+
+PATIENT S027
+No if I need it I'll just call you right.
+
+DOCTOR S027
+Yep.
+
+PATIENT S027
+Alright, thank you very much.
+
+DOCTOR S027
+You're welcome.
+
+PATIENT S027
+It was a pleasure meeting you and I hope that uh we can have a long and prosperous relationship.
+
+DOCTOR S027
+Very good.  Check out.
+
+PATIENT S027
+Oh okay where it says check out.
+
+DOCTOR S027
+@@@.
+
+PATIENT S027
+Alright thanks.  Huh.
+
+DOCTOR S027
+Check out is this way.
+
+PATIENT S027
+Oh that check out okay.
+
+PATIENT LEAVES:  80:14
+
+Time is 1:00 p.m.
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255141
+TRANSACTION # 578-10-2-316-0103

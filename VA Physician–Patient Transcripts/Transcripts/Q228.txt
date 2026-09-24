@@ -1,0 +1,703 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@  
+
+
+DOCTOR Q228
+PATIENT?
+
+PATIENT Q228
+How you doing?  Alright.
+
+DOCTOR Q228
+How you doing?  
+
+PATIENT Q228
+I am doing good.
+
+DOCTOR Q228
+Alright.
+
+PATIENT Q228
+@@@.
+
+DOCTOR Q228
+@@@.  
+
+PATIENT Q228
+If I don’t @@@ I am not going to @@@.  Alright.  @@@.
+
+DOCTOR Q228
+@@@.
+
+PATIENT Q228
+I get here on my appointment day, appointment time and it be an hour before I get seen and I got another appointment.
+
+DOCTOR Q228
+Yeah.
+
+PATIENT Q228
+@@@ bitching and I am just @@@.  I missed the appointment. I missed a few appointments.
+
+DOCTOR Q228
+Yeah.
+
+PATIENT Q228
+@@@ I am feeling angry, @@@ but I can’t see straight.
+
+DOCTOR Q228
+Right.
+
+PATIENT Q228
+I need my asthma medicine and some cold medicine.
+
+DOCTOR Q228
+Some cold medicine?  What’s going on?
+
+PATIENT Q228
+Everything.  I am coughing.  I am spitting up green, green and yellow @@@.
+
+DOCTOR Q228
+Okay.  When did all this start?
+
+PATIENT Q228
+A couple of days ago and I know @@@.
+
+DOCTOR Q228
+@@@.  Any fevers at home?
+
+PATIENT Q228
+I been having hot and then I been getting cold.
+
+DOCTOR Q228
+Okay.
+
+PATIENT Q228
+All of this was happening last year when they put me back in.
+
+DOCTOR Q228
+Do you have any problems with breathing at all?
+
+PATIENT Q228
+Yeah, @@@.  It is usually about this time of the year.
+
+DOCTOR Q228
+@@@.
+
+PATIENT Q228
+I can’t move around.  I can’t get around that much without me stopping and I got @@@.
+
+DOCTOR Q228
+@@@.
+
+PATIENT Q228
+Well I hope not.  You see I had pneumonia one time too.
+
+DOCTOR Q228
+Okay.
+
+PATIENT Q228
+And I hope that is not coming back.  @@@ it only happens one time @@@ but they say there is a possibility of me having it again. 
+
+DOCTOR Q228
+Yea, did you get a flu shot this year?
+
+PATIENT Q228
+Yeah she just gave me a flu shot out there.  Yeah, uh huh.  Because the last one I had I don’t remember but it was done here.
+
+DOCTOR Q228
+Okay.  
+
+PATIENT Q228
+Everything should be on my file.  And they were going to put me back on breathing machine and the lung machine and then @@@.  Right now I need some, my inhalers and some cough medicine.
+
+DOCTOR Q228
+Yeah.
+
+PATIENT Q228
+Actually I need that now from the pharmacy. 
+
+DOCTOR Q228
+Hold on there a second.
+
+PATIENT Q228
+@@@ right?  I just @@@.
+
+DOCTOR Q228
+I am checking on a couple of things right now.  @@@.  
+
+PATIENT Q228
+Oh, let me tell you doctor.  Listen here, they put a recording on me.  
+
+DOCTOR Q228
+Oh yeah?
+
+PATIENT Q228
+Yeah.  Now like, they want to know how the doctor patient relationship is going and then I got to turn it back in when I get out of here.
+
+DOCTOR Q228
+Oh.
+
+PATIENT Q228
+I told them I was going to tell the doctors that I got it on me and I may be a little abusive in my language and whatnot, but they want to see how the doctor patient relationship is going and see what you all they are doing @@@.  I told that @@@.  I told him I ain’t going to hide from anybody.  That is not me.  I am going to let him know.@@@
+
+DOCTOR Q228
+@@@.  Okay well this is @@@.  
+
+PATIENT Q228
+Right.
+
+DOCTOR Q228
+@@@ suffering @@@ cold, we’ll address that appropriately. The last time we got the cholesterol done you were high.
+
+PATIENT Q228
+Right and then @@@ blood pressure went up.  I guess I was angry and @@@.
+
+DOCTOR Q228
+It’s actually pretty good though. Your blood pressure is probably better than mine.
+
+PATIENT Q228
+Alright @@@.
+
+DOCTOR Q228
+@@@ right now.  Um, looking at your cholesterol is a little elevated.  I know we didn’t give you any medication last time but I think @@@ remember talking to you about @@@ lowering your cholesterol.
+
+PATIENT Q228
+I was supposed to come back in, but I rescheduled, I cancelled the appointment. I couldn’t down here.
+
+DOCTOR Q228
+Okay.
+
+PATIENT Q228
+@@@.  Sometimes I don’t feel like I can travel that far.  I always be tired.
+
+DOCTOR Q228
+Okay did you change your diet at all?
+
+PATIENT Q228
+Not really.  I will be honest with you, no.
+
+DOCTOR Q228
+@@@.
+
+PATIENT Q228
+Right.  I not supposed to be smoking.  I am not supposed to drink but I am still doing them things.
+
+DOCTOR Q228
+Okay.  How much do you smoke in a week now?
+
+PATIENT Q228
+@@@.  I only smoke a little cigarette.  I only smoke a pack a day.
+
+DOCTOR Q228
+A pack a day?
+
+PATIENT Q228
+I only smoke a pack a week.
+
+DOCTOR Q228
+Okay.  
+
+PATIENT Q228
+I @@@ cut down on that a lot but my voice @@@.
+
+DOCTOR Q228
+Yeah.
+
+PATIENT Q228
+Sometimes I breathe heavy and I can’t get my words out.
+
+DOCTOR Q228
+Yeah.  
+
+PATIENT Q228
+And you know.
+
+DOCTOR Q228
+Are you wheezing at all?
+
+PATIENT Q228
+I been wheezing at nighttime.  I been getting chills again.  From am hot, cold.
+
+DOCTOR Q228
+Right.  Have you @@@ inhalers @@@?
+
+PATIENT Q228
+Well I ran out of all of them.
+
+DOCTOR Q228
+When did you run out?
+
+PATIENT Q228
+Couple of days ago.
+
+DOCTOR Q228
+Okay.  
+
+PATIENT Q228
+Yeah, I need that.  
+
+DOCTOR Q228
+@@@.  
+
+PATIENT Q228
+And I need you know @@@.
+
+DOCTOR Q228
+@@@.
+
+PATIENT Q228
+Right.
+
+DOCTOR Q228
+I am going to give you a year supply on your inhaler.  Okay?
+
+PATIENT Q228
+Okay.
+
+DOCTOR Q228
+@@@.
+
+PATIENT Q228
+Listen I couldn’t get back @@@.
+
+DOCTOR Q228
+Oh I know, I know. Hold on.
+
+PATIENT Q228
+@@@.
+
+DOCTOR Q228
+Yea.  We will give you an appointment to come back and see us @@@.
+
+PATIENT Q228
+Okay.
+
+DOCTOR Q228
+And we will give you a full year on your inhaler because we don’t ever want you running out that okay.  @@@.
+
+PATIENT Q228
+Right. And I @@@ come back though @@@.
+
+DOCTOR Q228
+Yeah.
+
+PATIENT Q228
+@@@. 
+
+DOCTOR Q228
+No, no I understand.  Okay.  Now other than @@@ everything seems to be pretty up to date, colonoscopy @@@.
+
+PATIENT Q228
+Right.  @@@.
+
+DOCTOR Q228
+Um, actually, you didn’t have a colonoscopy last time huh.
+
+PATIENT Q228
+No, I keep cancelling that.
+
+DOCTOR Q228
+Why?
+
+PATIENT Q228
+@@@ up my behind.  I don’t @@@.  Every time they say you have to have somebody come with you.
+
+DOCTOR Q228
+Oh.
+
+PATIENT Q228
+I didn’t have no body to come with me and I @@@.
+
+DOCTOR Q228
+Yeah.
+
+SECOND PERSON Q228
+@@@ wife behind him now. I can @@@
+
+PATIENT Q228
+You can schedule all that. I’ll go through with that.
+
+DOCTOR Q228
+Yeah, we need to have that done.  Everybody got to get that done. @@@.  Have you been losing weight at all?
+
+PATIENT Q228
+Yeah, I been losing a lot of weight.  I just had a @@@ last week.
+
+DOCTOR Q228
+You been trying to lose weight?
+
+PATIENT Q228
+No I want to gain weight.
+
+DOCTOR Q228
+Yeah.  
+
+SECOND PERSON Q228
+@@@
+
+DOCTOR Q228
+Well, the colonoscopy is important for a cancer screening.
+
+PATIENT Q228
+I know.  They told me that before.
+
+DOCTOR Q228
+I am @@@.  You know.
+
+PATIENT Q228
+They said this time @@@.
+
+DOCTOR Q228
+We don’t want you losing 20 years of your life because you didn’t go in for a colon cancer screening.
+
+PATIENT Q228
+I ain’t got that much time  @@@.
+
+DOCTOR Q228
+You got more than that. 
+
+PATIENT Q228
+Alright.  @@@.  
+
+DOCTOR Q228
+@@@.  
+
+PATIENT Q228
+No.
+
+DOCTOR Q228
+Why not?  
+
+PATIENT Q228
+@@@.  
+
+DOCTOR Q228
+@@@ any trouble breathing?
+
+PATIENT Q228	
+Yeah, all the time.
+
+DOCTOR Q228
+Alright.  I don’t think you need to be hospitalized but I definitely think we need to get you @@@.
+ 
+PATIENT Q228
+I been doing that for the last couple of weeks.
+
+DOCTOR Q228
+Yeah.
+  
+PATIENT Q228
+I been doing @@@. She says I stop breathing at night but I think @@@.
+
+DOCTOR Q228
+Let me just tap on your back here. So, when you do breathe, does it hurt anywhere?
+
+PATIENT Q228
+Sometimes in my chest and sometimes, I can’t really catch, my voice been changing and I really can’t catch my breath.
+
+DOCTOR Q228
+Yeah, yeah.
+  
+PATIENT Q228
+She say I quit breathing when I go to sleep at night, but I can’t tell the difference.  She hits me and wakes me up and says you ain’t breathing. 
+
+DOCTOR Q228
+Okay.
+  
+PATIENT Q228
+When she wakes me up. I say, I am breathing.  I am breathing.
+
+DOCTOR Q228
+Has that been going on for a long time?
+  
+SECOND PERSON Q228
+@@@, the last couple of months.  
+
+PATIENT Q228
+Like I said I canceled quite a few appointments.
+
+DOCTOR Q228
+Yeah.
+  
+PATIENT Q228
+I was supposed to come in but I be too weak and tired traveling on the trains and whatnot.  I am just @@@.  I can’t do @@@ no more.
+
+DOCTOR Q228
+You get tired because you feel like your lungs aren’t catching up or like you are going @@@?
+  
+PATIENT Q228
+Yea.  My airway is closing up and, they say I only got a little airway.
+
+DOCTOR Q228
+Yeah.  Let me see if I can pull up you last set of PFTs.  Remember those breathing tests.
+  
+PATIENT Q228
+Yeah they put me on a breathing machine.  They put me on a heart machine, a lung machine.  They said I had irregular heartbeat at one time.
+
+DOCTOR Q228
+So let me write a couple of things down here.  Remember @@@ so
+  
+PATIENT Q228
+You going to put my medication in @@@ I get at the pharmacy right?
+
+DOCTOR Q228
+Absolutely.  And then @@@.
+  
+PATIENT Q228
+Remember I got to go see somebody else.
+
+DOCTOR Q228
+I am not going to let you leave here without your medications.  @@@.  
+  
+PATIENT Q228
+I ran out of all of it.
+
+DOCTOR Q228
+Yea, how much are you taking of it before, though?  You have @@@.
+  
+PATIENT Q228
+It says take one to two puffs?
+
+DOCTOR Q228
+Yea.
+  
+PATIENT Q228
+I been taking eight or nine.
+
+DOCTOR Q228
+Eight or nine puffs every day?  
+  
+PATIENT Q228
+Right.
+
+DOCTOR Q228
+That’s a lot.  
+  
+PATIENT Q228
+Yea, because it don’t help me.  I take one puff and I can’t feel it.  I feel better when I take eight @@@.
+
+DOCTOR Q228
+And your mometasone @@@.
+  
+PATIENT Q228
+I am out of all of that.  Everything they gave me.
+
+DOCTOR Q228
+And you were taking it twice a day.
+  
+PATIENT Q228
+Right. I am out of everything.  
+
+DOCTOR Q228
+And your @@@.
+  
+PATIENT Q228
+Right.  Out of everything.
+
+DOCTOR Q228
+Let me talk to my attending real quick.  Um, seems like you’re not moving air all that much.
+
+PATIENT Q228
+@@@ everything @@@.
+
+DOCTOR Q228
+Um you might have come down with a viral infection that @@@ get some sort of exacerbation so.  The @@@ give you a short course of antibiotic and maybe a short burst of steroids to help you get through all this, okay?  Again, I’m going to talk @@@.
+  
+PATIENT Q228
+When, now?
+
+DOCTOR Q228
+Yea.
+  
+PATIENT Q228
+There going to be a long wait?
+
+DOCTOR Q228
+It won’t be that long.
+  
+PATIENT Q228
+Because I got another appointment I got to go to and I am trying to get everything @@@.  The main thing is my travel pay.  They always close up at 4 o’clock.
+
+DOCTOR Q228
+Yeah.
+  
+PATIENT Q228
+I need money to get back home.
+
+DOCTOR Q228
+We are going to have you come in @@@.
+  
+PATIENT Q228
+Okay.
+
+DOCTOR OUT:  48:55  DOCTOR IN:  58:40
+
+SECOND DOCTOR Q228
+Hey how you doing?
+  
+PATIENT Q228
+@@@.
+
+SECOND DOCTOR Q228
+You ran out of your medicine?
+
+PATIENT Q228
+I ran out of everything.  Now my question is, what are you going to tell me that he couldn’t tell me? (Laughs)
+
+SECOND DOCTOR Q228
+@@@.
+  
+PATIENT Q228
+I don’t mean to be vague with you but I just want to know from one doctor to another doctor @@@.
+
+DOCTOR Q228
+Well he is the boss of the clinic.
+  
+PATIENT Q228
+He is the boss?
+
+DOCTOR Q228
+Yea.  Alright.
+
+SECOND DOCTOR Q228
+So we don’t want you to run out of your medicines, if you’re getting low, you can come over here we can get you refills. You can tell the nurse.
+  
+PATIENT Q228
+Right. I ran out about a couple of weeks ago, about three weeks ago, but I can’t get here @@@ riding on the trains. I couldn’t move @@@.  
+
+SECOND DOCTOR Q228
+You can call us up and we can mail it to you.
+
+PATIENT Q228
+Well I forgot all about that option @@@ about that @@@.
+
+DOCTOR Q228
+We are here around the clock.
+
+PATIENT Q228
+Alright doctor I appreciate it.  I don’t mean to be vagrant but @@@.
+
+DOCTOR Q228
+@@@.  You going to pick everything up today?
+
+PATIENT Q228
+Yes, @@@ pharmacy.  I am not going to come in.  She’s going to make me come in if I feel bad.  @@@.  
+
+DOCTOR Q228
+We are just here to help.  You don’t have to come in if you don’t want to.
+
+PATIENT Q228
+Right.  I keep putting it off. I cancelled a lot of appointments and @@@.
+
+DOCTOR Q228
+Okay.
+
+PATIENT Q228
+I be too weak to travel.
+
+SECOND DOCTOR Q228
+You don’t want to wait until you have to go by ambulance.
+
+PATIENT Q228
+I did that a couple of times already.
+
+SECOND DOCTOR Q228
+You have refills already.
+
+PATIENT Q228
+I ain’t refilled them.
+
+SECOND DOCTOR Q228
+I know but you have them.
+
+PATIENT Q228
+Yeah but I didn’t have a refill.  I never refilled none of them.
+
+DOCTOR Q228
+You have a bunch of refills left.  You can go to the pharmacy and just pick them up.
+
+PATIENT Q228
+Well can you call down there so I can get them?
+
+DOCTOR Q228
+No you don’t need to call.  You just show up.
+
+PATIENT Q228
+I ain’t got no paperwork or nothing.
+
+DOCTOR Q228
+It doesn’t matter.  You just show up and tell them your name and then @@@.
+
+SECOND DOCTOR Q228
+Do you have a computer?
+
+PATIENT Q228
+I don’t have no computer, no.
+
+SECOND DOCTOR Q228
+No?  Okay.
+
+PATIENT Q228
+I was wondering if I can just go from here to the pharmacy. I got to have some paperwork to them.
+
+DOCTOR Q228
+@@@ you don’t need.
+
+PATIENT Q228
+But okay, @@@.
+
+DOCTOR Q228
+@@@ a year @@@.  Order the refills @@@ wants to pick them up.
+
+PATIENT Q228
+@@@.  I don’t have anything going on @@@.
+
+DOCTOR Q228
+@@@ your appointment.  @@@ your medications too alright.
+
+PATIENT Q228
+When I go down there they going to ask me what I need.  I said it supposed to be on the computer because I ain’t got no paperwork.
+
+SECOND DOCTOR Q228
+They are there.
+
+PATIENT Q228
+Okay.  So you going to reschedule me for another appointment?
+
+DOCTOR Q228
+Yeah.  I will see you again @@@ okay?
+
+PATIENT Q228
+Alright we want @@@.
+
+DOCTOR Q228
+I will put it in.
+
+PATIENT Q228
+@@@ on my phone.
+
+DOCTOR Q228
+Yea.
+
+PATIENT Q228
+You got my phone.  @@@ and schedule my appointment.
+
+DOCTOR Q228
+Okay.  Alright buddy.  
+
+PATIENT Q228
+Alright thanks a lot man.
+
+DOCTOR Q228
+Okay.
+
+PATIENT Q228
+Yeah, yeah.
+
+PATIENT LEAVES:  62:40
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800515/JOB#  1300287
+TRANSACTION # 578-10-2-316-0103

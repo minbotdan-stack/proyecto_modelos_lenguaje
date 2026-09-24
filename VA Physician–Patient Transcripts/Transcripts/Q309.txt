@@ -1,0 +1,2305 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@ 
+
+DOCTOR Q309
+PATIENT?
+
+PATIENT Q309
+Yes ma'am that's me.
+ 
+DOCTOR Q309
+Hello.  
+
+PATIENT Q309
+Hello.
+
+DOCTOR Q309
+Hey, I'm DOCTOR.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Come back.  There you go.  You can sit down here.  How you doing today?
+
+PATIENT Q309
+Oh just okay.
+
+DOCTOR Q309
+Just okay.  Come on in.  Nice to meet you.
+
+PATIENT Q309
+Same here.  I kept hearing about DOCTOR and I said.
+
+DOCTOR Q309
+Oh yeah, well that's me.  Alright.
+
+PATIENT Q309
+Finally.
+
+DOCTOR Q309
+So you've never been in this clinic before it looks like.
+
+PATIENT Q309
+Uh yes but I had doctor, can't think of his name, anyway he graduated and went to @@@.
+
+DOCTOR Q309
+Oh okay.  Alright.
+
+PATIENT Q309
+So I've been here before.
+
+DOCTOR Q309
+Okay.  
+
+PATIENT Q309
+But the last time I been here for me was in September when I was going to the Summer Sports Clinic.
+
+DOCTOR Q309
+Oh okay.
+
+PATIENT Q309
+And so all they did was okayed by Occupational.
+
+DOCTOR Q309
+Okay, alright.
+
+PATIENT Q309
+As a matter of fact I got another one.
+
+DOCTOR Q309
+@@@.
+
+PATIENT Q309
+Uh yes this is the wheelchair games.
+
+DOCTOR Q309
+Oh that's why.  Oh yeah this looks long.
+
+PATIENT Q309
+Yeah it's not that much @@@.  Uh actually I'm a patient in the Spinal Cord Clinic too see.
+
+DOCTOR Q309
+I saw that yes.
+
+PATIENT Q309
+Yeah so most of.
+
+DOCTOR Q309
+I see all of the.
+
+PATIENT Q309
+A lot of other things I get them to fill out.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+So whatever part that pertains to my physicality I guess you can put that on.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Most of the parts are in the computer.
+
+DOCTOR Q309
+This part you can fill out.  So this is mainly the physical exam huh?
+
+PATIENT Q309
+Yeah.
+
+DOCTOR Q309
+Okay.  
+
+PATIENT Q309
+I guess you need this.
+
+DOCTOR Q309
+Your med list?  Okay so I'll fill this out at the end after I take a look at you okay.
+
+PATIENT Q309
+Huh?
+
+DOCTOR Q309
+Okay.  So how are you doing, what brings you in today?
+
+PATIENT Q309
+Well just like I say.
+
+DOCTOR Q309
+So you need a follow-up okay.
+
+PATIENT Q309
+Well the first, like I say I haven't seen my primary care doctor since, had to be August or June of last year.
+
+DOCTOR Q309
+Okay, okay.
+
+PATIENT Q309
+And uh.
+
+DOCTOR Q309
+So you're due huh?
+
+PATIENT Q309
+Yeah I'm overdue.
+
+DOCTOR Q309
+Okay, alright.  Well is there anything that you want to talk about today specifically, is something bothering you or that's new?
+
+PATIENT Q309
+Well I got kind of a night cough.  I keep coughing up phlegm.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+So I probably need some type of cough syrup or something.
+
+DOCTOR Q309
+Okay.  And how long have you been coughing for?
+
+PATIENT Q309
+Uh it's been since the winter months.  I guess since about December.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Maybe about November.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And it only usually happens at night for some reason.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And uh other than that uh, I got a letter that's saying they changed from the sildenafil to.
+
+DOCTOR Q309
+Viagra?
+
+PATIENT Q309
+Yeah.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+And uh the dosage is not high enough for me.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+I need that to probably be 100.
+
+DOCTOR Q309
+Okay.  Have you tried it?
+
+PATIENT Q309
+Yeah.
+
+DOCTOR Q309
+The dose that they gave you and it's not working?
+
+PATIENT Q309
+No.
+
+DOCTOR Q309
+Okay.  Okay.  Alright what else?
+
+PATIENT Q309
+And other than that.
+
+DOCTOR Q309
+@@@
+
+PATIENT Q309
+Uh that's about it.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Uh a lot of the medications that they giving me like for my uh bowel movements.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+I don't even basically use those anymore.  I don't know if it's a problem but when I start having a problem I got to use what they call enemas.
+
+DOCTOR Q309
+Enemas?
+
+PATIENT Q309
+Enemas, its a little tube.
+
+DOCTOR Q309
+Yes.
+
+PATIENT Q309
+Okay I don't see it on there.
+
+DOCTOR Q309
+Oh.
+
+PATIENT Q309
+Oh I think it might be on there, its okay.
+
+DOCTOR Q309
+Yeah it's this one.
+
+PATIENT Q309
+How many more prescriptions I got for that?
+
+DOCTOR Q309
+You have two refills.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+I'll give you more.
+
+PATIENT Q309
+Well I mean I'm okay with that.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Cause I see my Baclofen I got one refill left for that.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And I think you're gonna have to order that.
+
+DOCTOR Q309
+You want to some more of that.
+
+PATIENT Q309
+I probably need some more of that.
+
+DOCTOR Q309
+Are you taking this Docusate, the oral medication for your stool or no?
+
+PATIENT Q309
+No.
+
+DOCTOR Q309
+Do you want us to take off your list?
+
+PATIENT Q309
+No, see the reason for that being it's like, it's unpredictable.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+You see what I'm saying it's like.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+I stay on the second floor.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And I stay with my son and my daughter-in-law.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+So I got 16 stairs to my bedroom.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And so it's unpredictable so it'd be like maybe three or four days I don't have the desire to go.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+So I know I have to so that's when I use the enema.  I have one of them in the bathroom I got access to.
+
+DOCTOR Q309
+Okay, so you just use the enemas?
+
+PATIENT Q309
+Yes.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Now like I say I don't know if that's a problem.
+
+DOCTOR Q309
+So I enemas aren’t good to use regularly.
+
+PATIENT Q309
+You see I end up using them anytime I have to go, other than I don't have no.
+
+DOCTOR Q309
+I think maybe what we should do is, so are you able to walk at all?
+
+PATIENT Q309
+Yes.
+
+DOCTOR Q309
+You are.
+
+PATIENT Q309
+Yeah at home I walk with a cane.
+
+DOCTOR Q309
+Oh.
+
+PATIENT Q309
+As long as I hold to something.
+
+DOCTOR Q309
+Oh okay okay.  Um so what I would suggest is that we switch you to another medication.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+And so if you don't like the Docusate, if it doesn’t, if it's not predictable or you just don't like it, there's about 100 other things we can try.
+
+PATIENT Q309
+See the reason why I say this because if I take uh, the Docusate is basically a stool softener.
+
+DOCTOR Q309
+Softener yes.
+
+PATIENT Q309
+Okay so if I take it and I don't know when it's gonna work.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And I might be.
+
+DOCTOR Q309
+You just have to have a bowel movement very suddenly after you take it?
+
+PATIENT Q309
+Uh not the pills but the uh like they gave me, I think it's a laxative too.
+
+DOCTOR Q309
+Yeah that one is unpredictable yeah.
+
+PATIENT Q309
+That one was like for constipation.
+
+DOCTOR Q309
+But the Docusate shouldn't be.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+I mean I don't have a problem as far as my stool being soft or nothing.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+I don't have a problem with that.
+
+DOCTOR Q309
+So why don't you, so what is the problem?  If you want to use the enemas.
+
+PATIENT Q309
+In otherwise the problem is that I don't have a desire to go at all.
+
+DOCTOR Q309
+You don't feel like you have to go?
+
+PATIENT Q309
+I don't have to go at all but I know I've been waiting three or four days without going.
+
+DOCTOR Q309
+Yeah.  Know what I think you should do is start taking Miralax, so I'll prescribe that for you.  So Miralax is uh, it's a powder and you need to take one or two capfuls a day and you just mix it in anything and you can't taste it at all.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+I've used it before; you really can't taste it okay.  Um.
+
+PATIENT Q309
+I mean it doesn't come all of a sudden.
+
+DOCTOR Q309
+No not at all.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+So I think that this will be, you're right the Docusate is just a softener.  It doesn't make you have to go.
+
+PATIENT Q309
+Right.
+
+DOCTOR Q309
+So if that's the problem then Docusate is not the right medicine for you.  Um and the other one that you probably took is uh, is probably Bisacodyl or something like that where a laxative, those make you have to go very suddenly um.
+
+PATIENT Q309
+Right.
+
+DOCTOR Q309
+So Miralax is a really good option.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Because you just take it every day and it should make you have to go every couple days.
+
+PATIENT Q309
+Okay that's something I need.
+
+DOCTOR Q309
+So let's just try that.
+
+PATIENT Q309
+Now see I don't think it's healthy for me to just.
+
+DOCTOR Q309
+I don't think.
+
+PATIENT Q309
+Waiting three or four days.
+
+DOCTOR Q309
+Yeah I don't think it's healthy for you to use enemas that frequently.
+
+PATIENT Q309
+Without going and then I have to keep using the enemas you know.
+
+DOCTOR Q309
+So try the Miralax, take two capfuls a day.  You can put it in, I don't know what you drink but you can put it in your coffee or your water or whatever.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Um and take it every day.  Give it like a week or so to really start doing the job.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Okay then hopefully you can do that instead of the enemas. 
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+You can still use enemas when you need them.
+
+PATIENT Q309
+Right.
+
+DOCTOR Q309
+But using them three or four times a week is too much.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Cause see basically the only, like I said I use them.  I don't have a desire to go, I could be three or four days and I'm constantly eating.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+So then I start feeling bloated.
+
+DOCTOR Q309
+Sure okay.
+
+PATIENT Q309
+And so I know it's a time that I'm at home and I don't have to go out cause I go out enough, Tuesdays, Wednesdays and Thursdays for my different therapies.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And so I don't want to have to just watch it when I'm out and about.
+
+DOCTOR Q309
+Yeah, sure I understand.  
+
+PATIENT Q309
+You know.
+
+DOCTOR Q309
+Okay so let's try that and see if it works okay.
+
+PATIENT Q309
+Okay, okay.
+
+DOCTOR Q309
+Alright.  Um and are you still taking the Norco?
+
+PATIENT Q309
+Yes.
+
+DOCTOR Q309
+The hydrocodone okay.  Uh where do you have pain?
+
+PATIENT Q309
+Well I got scoliosis.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+So I always have pain in my back.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+But sometime I get like a sharp pain since I had the surgery.  I'll have a sharp pain in the back of my head on the left hand side and it's like a, like getting hit in the head with a hammer.
+
+DOCTOR Q309
+Hmm, okay.
+
+PATIENT Q309
+And it just comes all of a sudden.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And so if it don't go away you know I'll take it.
+
+DOCTOR Q309
+You take it okay.
+
+PATIENT Q309
+So basically when I do a lot of physical activity my back will start hurting.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+So before I take a shower in the morning I'll take one.
+
+DOCTOR Q309
+You take that okay.
+
+PATIENT Q309
+And then if I do physical therapy or something I'll take another one.
+
+DOCTOR Q309
+Okay gotcha.  Have you ever tried anything like tramadol or anything else for pain?
+
+PATIENT Q309
+No.
+
+DOCTOR Q309
+No okay.  
+
+PATIENT Q309
+They put me on oxycodone one time but it was kind of, it didn't nothing but put me to sleep.
+
+DOCTOR Q309
+Okay gotcha.  Norco’s not bad, uh we can continue this.  There are other medications that are a little bit easier on your system if they work and I'm not.
+
+PATIENT Q309
+And I think the Norco constipates me.
+
+DOCTOR Q309
+It does yeah.  So that's why I'm saying um but what I can do is give you a prescription for a medication and your kidneys work okay?
+
+PATIENT Q309
+Yeah.
+
+DOCTOR Q309
+Yeah okay.  So there's another medicine that you can try in place of the Norco, called tramadol um and it's not, won't constipate you.  It's not as strong so it might not work but if it does it's a much better option.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Okay so at least try it.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Um.
+
+PATIENT Q309
+I'll try it.
+
+DOCTOR Q309
+Um you haven't tried it in the past.
+
+PATIENT Q309
+I've never tried it.
+
+DOCTOR Q309
+And then it doesn't work then.
+
+PATIENT Q309
+I mean just like right now, it depends on the position I'm in.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+Whether I'm gonna have pain or not.  Pain is a given for me, I mean I accept that.
+
+DOCTOR Q309
+Yes.
+
+PATIENT Q309
+But sometimes it's just more prevalent depending on the activities that I'm doing.
+
+DOCTOR Q309
+Sure.
+
+PATIENT Q309
+You know.
+
+DOCTOR Q309
+Okay.  So what I recommend is the tramadol cause it's not as strong um.  You can take it every day no problem.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+You can even take two a day um, it's not as addicting and it's not constipating.  It's not um not like a controlled substance.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+The way Norco is.  Um so I would take one every morning and then you can take a second one in the afternoon.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Try that for a couple days and if it's not doing anything.
+
+PATIENT Q309
+Without the Norco.
+
+DOCTOR Q309
+Without the Norco.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Um you can take them together; they're not bad together um.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Um so if you have a day that you try the tramadol and all of a sudden you're in a lot of pain, you can still take the Norco.
+
+PATIENT Q309
+Okay, I understand right.
+
+DOCTOR Q309
+Um but if you, if the tramadol works then.
+
+PATIENT Q309
+I could discontinue okay.
+
+DOCTOR Q309
+Go off the Norco or take it less frequently.
+
+PATIENT Q309
+Like I do believe the Norco is what's constipating me.
+
+DOCTOR Q309
+It will, absolutely yes.
+
+PATIENT Q309
+So that causes me to have a problem with my digestive system.
+
+DOCTOR Q309
+Yes, you're exactly right about that okay.  So let's try that and see how you do.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Okay.  Um okay so what other medical problems do you have?  Like you a follow a doctor for, you have scoliosis?
+
+PATIENT Q309
+Right.
+
+DOCTOR Q309
+You had surgery on your scoliosis?
+
+PATIENT Q309
+No, never did.
+
+DOCTOR Q309
+What kind of back surgery have you had?
+
+PATIENT Q309
+I've had surgery; I had a bone in my neck pressing up against my spinal cord.
+
+DOCTOR Q309
+Oh okay.
+
+PATIENT Q309
+And so I had a laminectomy.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And so like I said, @@@ out.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And so sometimes during the day, like say, it depends on my activities.  My neck will get tired and I'll have pain in that too you know.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+I just, then I go take @@@.
+
+DOCTOR Q309
+And um do you have weakness in your lower extremities?
+
+PATIENT Q309
+I got this weakness in my left leg, no in my right leg and my left arm and my left hand is numb.
+
+DOCTOR Q309
+Your right leg and your left arm?
+
+PATIENT Q309
+Right.
+
+DOCTOR Q309
+And what about, tell me about your numbness?
+
+PATIENT Q309
+Okay so, this is how it started.  I had an operation on my hammertoes in the service.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And I ended up with calluses up under the bottom of my right foot.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And so every time I take a step I steps down on the calluses it would hurt.
+
+DOCTOR Q309
+Uh-huh.
+
+PATIENT Q309
+So it caused me to start walking on my tip toe.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+So with me walking on my top toes, so I didn't bend my right leg see.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And so now, the tendons in the back of my leg won't stretch all the way out.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And that in time, it probably had something with me doing twisting my back.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Okay so when I started limping they gave me a cane.
+
+DOCTOR Q309
+Uh-huh.
+
+PATIENT Q309
+Doctor told me to use the cane in my left hand but my left being numb I have no control over it.
+
+DOCTOR Q309
+Oh yeah.
+
+PATIENT Q309
+So I started walking with it in my right hand.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+But still this twisted my spine.
+
+DOCTOR Q309
+Okay, gotcha, okay.
+
+PATIENT Q309
+And that's basically where I'm at today.
+
+DOCTOR Q309
+Okay do you have lower back pain?
+
+PATIENT Q309
+Yes.
+
+DOCTOR Q309
+Yeah okay.
+
+PATIENT Q309
+It's always like on the right hand side.
+
+DOCTOR Q309
+On that side.  Okay what happened with your arm, why is it numb?
+
+PATIENT Q309
+Well my left hand is numb from the.
+
+DOCTOR Q309
+Oh from that surgery?
+
+PATIENT Q309
+Yeah, well no it had been numb for the longest.
+
+DOCTOR Q309
+Oh okay.
+
+PATIENT Q309
+And what actually happened was they took a MRI and uh they saw that a bone was pressing up against my spinal cord.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+And I told them I didn't want to have an operation just for my left hand being numb so I dealt with it.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+I mean I would pick up things and I'd drop them.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+And whatever so as time went on, every time I walked my right foot would start turning inward.
+
+DOCTOR Q309
+Hmm.
+
+PATIENT Q309
+And this was causing me to trip and fall.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And stuff.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+So they gave me a walker.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Then I started walking with the walker and then I had another MRI and the bone pressed up to my spinal cord and started looking like a pancake.
+
+DOCTOR Q309
+Oh okay so then you had to get the surgery.
+
+PATIENT Q309
+So then I had to have the surgery so.  When I had the surgery, the residual from it, my right foot still turns inward.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And I'm taking uh Botox shots in the back of my legs so I can stretch it out.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+But what it is, it's changed the whole way I walk.
+
+DOCTOR Q309
+Yeah, sure okay.
+
+PATIENT Q309
+So I had to try to learn how to walk again basically.
+
+DOCTOR Q309
+Oh okay.
+
+PATIENT Q309
+So I'm still kind of clumsy you know what I'm saying.
+
+DOCTOR Q309
+Okay, gotcha.
+
+PATIENT Q309
+Cause I got 16 stairs at home so.
+
+DOCTOR Q309
+You have to get up those.
+
+PATIENT Q309
+I get up and down the stairs with a cane.
+
+DOCTOR Q309
+Okay, okay.  So besides all this stuff with your joints and your back and everything, do you have any other problems like high blood pressure?
+
+PATIENT Q309
+No.  Now my blood pressure is high today.
+
+DOCTOR Q309
+It was high today, yeah.  You take it at home?
+
+PATIENT Q309
+Never.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Cause I had another.
+
+DOCTOR Q309
+Has it ever been high before?
+
+PATIENT Q309
+No.  Normally it's in the 130s.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And like I told them, when I took physical therapy it was 128 and then I wheeled myself over here.
+
+DOCTOR Q309
+Okay yeah that could be why.
+
+PATIENT Q309
+So that's probably the reason why.
+
+DOCTOR Q309
+Okay, we'll watch it.
+
+PATIENT Q309
+I have never took high blood pressure medication or nothing.
+
+DOCTOR Q309
+Yeah why don't we watch it?  I don't like to start anything just on one reading.
+
+PATIENT Q309
+Right.
+
+DOCTOR Q309
+Since you just got here so if, we'll just make sure it's not continuing to stay high.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Do you have any diabetes?
+
+PATIENT Q309
+No.
+
+DOCTOR Q309
+No okay.  Any cancers?
+
+PATIENT Q309
+No.
+
+DOCTOR Q309
+Any problems with your heart?
+
+PATIENT Q309
+No.  Now they did say I had a irregular heartbeat, the last EKG I took.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+That was in September I think.
+
+DOCTOR Q309
+Let's look at it.  Did they start you on any medication for it?
+
+PATIENT Q309
+No.  I don't even think they recommended any.
+
+DOCTOR Q309
+Okay.  Okay, it looks okay.
+
+PATIENT Q309
+Okay good.  That's good to know.
+
+DOCTOR Q309
+Yes that's true.  Yeah it's good.
+
+PATIENT Q309
+That could have been, at that particular time time cause I was involved in so many physical activities.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+I don't know if that had anything to do with it or not.
+
+DOCTOR Q309
+Okay, okay, yeah that's fine.
+
+PATIENT Q309
+It's a possibility.
+
+DOCTOR Q309
+Sure okay.  Um okay and any medical problems that run in your family?
+
+PATIENT Q309
+Uh my mother was diabetic and my father, he had uh heart problems.
+
+DOCTOR Q309
+At a young age or was he older?
+
+PATIENT Q309
+Yeah well he lived to 90.
+
+DOCTOR Q309
+Oh okay.
+
+PATIENT Q309
+She lived to 79 so.
+
+DOCTOR Q309
+Okay.  Okay.  Alright and are you a smoker?
+
+PATIENT Q309
+Yes.
+
+DOCTOR Q309
+Presently?
+
+PATIENT Q309
+Yes.
+
+DOCTOR Q309
+Why are you still smoking?
+
+PATIENT Q309
+I keep trying to stop but it makes me gain weight so I have got down to no more than five cigarettes a day.
+
+DOCTOR Q309
+Okay how long have you been smoking for?
+
+PATIENT Q309
+Since I was about 12 years old.
+
+DOCTOR Q309
+Now you're almost @@ so okay.
+
+PATIENT Q309
+I mean I have stopped before but I guess I don't smoke as much in the wintertime cause I have to go outside to smoke.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+So I might smoke maybe three cigarettes a day.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Just actually 2 1/2 really.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+It's not, I don't know, it's just I guess that's what it is, just a habit.
+
+DOCTOR Q309
+Okay.  Are you interested in quitting?
+
+PATIENT Q309
+Uh yes.
+
+DOCTOR Q309
+Have you ever, what have you done in the past.
+
+PATIENT Q309
+I've taken uh, what's the little lozenges.
+
+DOCTOR Q309
+Yeah.  Was it gum or the actual lozenges?
+
+PATIENT Q309
+The lozenges.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And I take them and they're so strong that when I take them they would have me gagging.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Coughing and stuff.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+I mean when I'm supposed to take them, I mean.
+
+DOCTOR Q309
+Have you tried the gum?
+
+PATIENT Q309
+Never.
+
+DOCTOR Q309
+Do you chew gum ever?
+
+PATIENT Q309
+Yeah.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+They don't stop me though.
+
+DOCTOR Q309
+So maybe you should try the gum.  Have you used the patches?
+
+PATIENT Q309
+No.
+
+DOCTOR Q309
+Do you want to try the patches too?
+
+PATIENT Q309
+I prefer the gum.
+
+DOCTOR Q309
+Just the gum alone.
+
+PATIENT Q309
+Yeah.
+
+DOCTOR Q309
+Okay.  Let's, we can try the gum and if it doesn't work.
+
+PATIENT Q309
+See the reason why I say that is because I don't want to have the patch on, if I didn't have the urge to smoke that’s double trouble.
+
+DOCTOR Q309
+Yeah.  Well so what you could do is if you ever do use the patches.
+
+PATIENT Q309
+Don't.
+
+DOCTOR Q309
+And you need to smoke; obviously we don't want you to.
+
+PATIENT Q309
+Right.
+
+DOCTOR Q309
+Um so what the most success.  The way people are most successful is that they do the patches and either the gum or the lozenges so that they have some nicotine in their systems.
+
+PATIENT Q309
+And then they.
+
+DOCTOR Q309
+And the way the patches work is you change them every day and the amount of nicotine goes down so over, like two weeks it helps your body to kind of detox from the nicotine.
+
+PATIENT Q309
+Oh okay.
+
+DOCTOR Q309
+And then if you have an urge to smoke you're supposed to take the gum instead of the cigarettes.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+I'll try that.
+
+DOCTOR Q309
+And then if the worst case scenario and you have a really bad day or something and you need to smoke you can take the patch off and then you can smoke.
+
+PATIENT Q309
+Actually I used to buy a carton of cigarettes per month.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+You know and those last me a whole month.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+Cause I had just got, it was a habit of buying a whole carton.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And so now I don't.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+You know what I'm saying.
+
+DOCTOR Q309
+Well that's good.  I'm glad you've cut back.
+
+PATIENT Q309
+Yeah so I'm making it last.
+
+DOCTOR Q309
+Okay, but if you're, you know you're close so.  If you're only smoking three a day maybe we can get down.
+
+PATIENT Q309
+Right, right, right.
+
+DOCTOR Q309
+Yeah and that's the best thing you can do in the world for your health.
+
+PATIENT Q309
+I know.
+
+DOCTOR Q309
+Okay so um.  Do you want to try that?
+
+PATIENT Q309
+Yeah I will.
+
+DOCTOR Q309
+Do you want to try the patches?
+
+PATIENT Q309
+Yeah I will, I will.
+
+DOCTOR Q309
+Okay great, that's good.
+
+PATIENT Q309
+Yeah I'll try it.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Cause I keep saying you know I cut down on my own and then I be paying for the cigarettes.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+You know what I mean.  I take the lozenges and they gag me.
+
+DOCTOR Q309
+And they're bad yeah.
+
+PATIENT Q309
+It's not you know and then I put it out and I'm still paying for the cigarettes.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+Cause I don't want to take another lozenge cause I know the results of that.
+
+DOCTOR Q309
+Sure, sure.
+
+PATIENT Q309
+But then I go down there and I start eating.
+
+DOCTOR Q309
+Okay, okay and honestly it's okay.  I'd rather you eat than smoke.
+
+PATIENT Q309
+And then if I eat, I keep eating and then I get bloated and then I'll have to take an enema.
+
+DOCTOR Q309
+Oh okay, so yeah I see, okay.  Alright well let's try the patches and the gum.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+And see how you do okay.
+
+PATIENT Q309
+Okay, okay.
+
+DOCTOR Q309
+Alright and do you drink any alcohol?
+
+PATIENT Q309
+I drink beer.
+
+DOCTOR Q309
+How often?
+
+PATIENT Q309
+Oh.
+
+DOCTOR Q309
+How many beers a week do you have?
+
+PATIENT Q309
+Well I'd say about a day I might have three beers at the most.
+
+DOCTOR Q309
+A day okay.
+
+PATIENT Q309
+You know.
+
+DOCTOR Q309
+Okay, alright.  That's just on the cusp of too much but that's okay.
+
+PATIENT Q309
+Alright.
+
+DOCTOR Q309
+So try to keep it to one or two a day okay.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Um do you use any illicit drugs like?
+
+PATIENT Q309
+No.
+
+DOCTOR Q309
+No okay.
+
+PATIENT Q309
+Not since 2003, I was at a program at Jesse Brown.
+
+DOCTOR Q309
+Oh good, okay.  Did you ever use any IV drugs in the past?
+
+PATIENT Q309
+Nope never.
+
+DOCTOR Q309
+No, good okay.  Alright and where do you live, you said you live with your son?
+
+PATIENT Q309
+Yes I have a son and daughter-in-law in @@@.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And I'm in the process of moving.
+
+DOCTOR Q309
+Oh okay.  Where are you moving to?
+
+PATIENT Q309
+Well I'm in the Homeless Program so I'm looking for an apartment, actually in the suburbs.  
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+I @@@ want to move to the city.
+
+DOCTOR Q309
+Okay, alright, good.  Okay and so you follow up with Spinal Cord and who else do you see here?
+
+PATIENT Q309
+Uh Podiatry.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Every three months.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And uh I was seeing a neurologist but they're basically were just following up on my operation.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And giving me information on simply the symptoms that I might have.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Like I said, uh I still have spasticity in my right leg.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+And so I take Doxepin for that.
+
+DOCTOR Q309
+Okay good.  Okay.  Alright and what are these games where are these?
+
+PATIENT Q309
+Those are in Richmond, Virginia.
+
+DOCTOR Q309
+Oh yeah.
+
+PATIENT Q309
+Those are the wheelchair games.
+
+DOCTOR Q309
+Oh.
+
+PATIENT Q309
+I got my application in there for the golden @@@.
+
+DOCTOR Q309
+Oh okay.
+
+PATIENT Q309
+And that's actually the same course.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+In March I'm going to Colorado.
+
+DOCTOR Q309
+Wow, so do you go through the VA for all these things?
+
+PATIENT Q309
+Yeah uh-huh.
+
+DOCTOR Q309
+That sounds fun.
+
+PATIENT Q309
+So you have to get points.
+
+DOCTOR Q309
+Oh okay.
+
+PATIENT Q309
+Volunteering for candy sales and sending out letters that solicit for different you know.
+
+DOCTOR Q309
+Okay to qualify to go.
+
+PATIENT Q309
+Yeah so I went in and sold flowers today, @@@.
+
+DOCTOR Q309
+Oh okay for Valentine's Day.
+
+PATIENT Q309
+Yes.
+
+DOCTOR Q309
+Oh I see, good.  Okay so had blood work back in November.  Okay so that's six months ago and let's see what else is there.  Um so your cholesterol six months ago was perfect.  Your kidneys look very good.  Everything looks normal.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+And your blood counts look normal, so all your lab work was normal six months ago.
+
+PATIENT Q309
+That's good to know.
+
+DOCTOR Q309
+Yeah so um, so we won't repeat it today.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+We don't usually do lab work as long as everything is normal once a year.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Okay so the next time I see you before you come in, just don't eat breakfast that morning you need your lab work done fasting.
+
+PATIENT Q309
+Okay right.
+
+DOCTOR Q309
+And then we'll go over it.
+
+PATIENT Q309
+So I was asking about that, when I got the appointment then I had to go do labs and they told me since you're going to have a new doctor go find out first.
+
+DOCTOR Q309
+Yeah, yeah.
+
+PATIENT Q309
+So they checked the computers.
+
+DOCTOR Q309
+Sure.
+
+PATIENT Q309
+Yeah that makes sense.
+
+DOCTOR Q309
+So yeah we'll do, you know if things start popping up abnormal we'll do them more frequently but everything looks perfect.
+
+PATIENT Q309
+Good.
+
+DOCTOR Q309
+So.  Okay, alright good.  So let's go through your meds then.  Do you want to pick up your new medicines today or do you want them to come in the mail?
+
+PATIENT Q309
+You know what I can pick them up today since I'm here.
+
+DOCTOR Q309
+Okay, sounds good.  I'll put those in before you leave.
+
+PATIENT Q309
+Since I got my briefcase, I can put them in there.
+
+DOCTOR Q309
+Okay alright.  Um and have you ever had a colonoscopy?
+
+PATIENT Q309
+Yes.
+
+DOCTOR Q309
+When was your colonoscopy?
+
+PATIENT Q309
+Uh, it would be, I think it should be in there.
+
+DOCTOR Q309
+You had it here?
+
+PATIENT Q309
+Uh.
+
+DOCTOR Q309
+I don't think you did, it doesn't look like it.
+
+PATIENT Q309
+I can't remember if I did.
+
+DOCTOR Q309
+At Jesse Brown?
+
+PATIENT Q309
+Jesse Brown.
+
+DOCTOR Q309
+How long ago approximately?
+
+PATIENT Q309
+Uh, let me see, I might of had it in 2009.
+
+DOCTOR Q309
+Okay, so.
+
+PATIENT Q309
+2008 or 09.
+
+DOCTOR Q309
+Okay, I'll look in the record.  Usually it's done every ten years.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+So it sounds like you're okay.
+
+PATIENT Q309
+Oh I'm all good with that.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Oh it hasn't been ten years so.
+
+DOCTOR Q309
+Yeah definitely less than ten.  Okay, alright let me take a look at you.  Yeah, just that and a little bit.  Wow can you get up here?  Okay, that'd be great.
+
+PATIENT Q309
+Yeah.
+
+DOCTOR Q309
+Let's see what @@@ for.  Just lay back @@@.
+
+PATIENT Q309
+@@@.
+
+DOCTOR Q309
+Wow okay @@@.  Okay look ahead, okay open up say ah.
+
+PATIENT Q309
+Ah.  I was gonna say lately I've been you know if I move my head real fast I see like some uh, like uh a flash.
+
+DOCTOR Q309
+Oh yeah.
+
+PATIENT Q309
+If I look on the left.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Something like stars or something.
+
+DOCTOR Q309
+How long has that been going on?
+
+PATIENT Q309
+I don't know just lately, no more than two weeks.
+
+DOCTOR Q309
+Do you get dizzy at all?  Have you fallen?
+
+PATIENT Q309
+Uh I did fall but.
+
+DOCTOR Q309
+Not because of that.
+
+PATIENT Q309
+No I fell cause I was @@@.
+
+DOCTOR Q309
+Alright, okay.
+
+PATIENT Q309
+And they had me in a bucket with the one speed.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+And I was trying to get to my balance, the reason I fell is I just the other way to the left.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Then they discovered that.  I used the crutches with the tube and @@@.
+
+DOCTOR Q309
+Oh okay.  Alright.
+
+PATIENT Q309
+@@@.
+
+DOCTOR Q309
+We'll keep an eye on it.  If it's still going on we can look into it more closely but I'm not sure exactly what would cause that.  Any pain when I push down on your throat?  Any weight loss or weight gain, are you feeling anything when I press there?
+
+PATIENT Q309
+I think I just gained a little weight.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Probably from trying to stop smoking.
+
+DOCTOR Q309
+Okay.  Breathe normal.  Take a deep breath.  Take a deep breath here, just so I can listen.
+
+PATIENT Q309
+Uh-huh.
+
+DOCTOR Q309
+Take a few more breaths.  Okay.  So you're coughing phlegm up at night?
+
+PATIENT Q309
+Yeah, it's something like a kind of had a little longer.
+
+DOCTOR Q309
+Uh-huh.
+
+PATIENT Q309
+You know I don't know if it's a cold or.
+
+DOCTOR Q309
+Okay.  Well like are you actually coughing it up do you see it?
+
+PATIENT Q309
+Yeah.
+
+DOCTOR Q309
+What color is it?
+
+PATIENT Q309
+Grayish.
+
+DOCTOR Q309
+Any blood in it?
+
+PATIENT Q309
+No.
+
+DOCTOR Q309
+No, oh and you're not coughing at all during the day?
+
+PATIENT Q309
+No @@@ sometimes I can feel a cold in my throat and I'm just coughing.
+
+DOCTOR Q309
+Okay.  Are you short of breath ever?  No okay.  Um so it might be related to your smoking.
+
+PATIENT Q309
+I thought of that.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Like a smoker's cough.
+
+DOCTOR Q309
+Um and this has been going on for how long?  A month?
+
+PATIENT Q309
+Uh I guess.
+
+DOCTOR Q309
+No pain when I push?
+
+PATIENT Q309
+I had appendectomy.
+
+DOCTOR Q309
+Oh okay.  Do you get swelling in the ankles at all?
+
+PATIENT Q309
+No.
+
+DOCTOR Q309
+No okay.  Alright kick out against my hand, same here good.  Kick up against my hand right here, on this side okay and down.  Okay up, okay and down.  Lift up your thigh touch my hand okay.
+
+PATIENT Q309
+Sounds good.
+
+DOCTOR Q309
+Okay, this one.
+
+PATIENT Q309
+Up.
+
+DOCTOR Q309
+@@@.  Okay @@@ into me.  Good, this one now follow in okay.  @@@ try to @@@.  Okay now shrug your shoulder, this one, shrug up, now this one okay.  Now put your hands out like this, turn your hands, okay.  Squeeze my fingers on both sides just as hard as you can good, you’re strong.  Okay.
+
+PATIENT Q309
+You can tell the weakness on one.
+
+DOCTOR Q309
+Yeah I can, yes and this arm is actually pretty strong.  Squeeze my hand again, it's pretty strong.  Do it as hard as you can okay.  Do you do a lot of stuff with this arm?
+
+PATIENT Q309
+Well uh actually like when I do the physical therapy I've been building this arm up but on some of the weights I have to, in order for it to be even I have to put more weight on this one.
+
+DOCTOR Q309
+And @@@.
+
+PATIENT Q309
+Than this one.
+
+DOCTOR Q309
+Okay, okay.
+
+PATIENT Q309
+You know and like I do the weights one at a time.
+
+DOCTOR Q309
+Okay.  Let me see you stand up.  Okay.
+
+PATIENT Q309
+I can't put this leg all the way straight.
+
+DOCTOR Q309
+So you can't take a step with that foot or you'll fall.
+
+PATIENT Q309
+I mean I can take s step but my balance is off.
+
+DOCTOR Q309
+Very difficult yeah.  Okay.  Okay.  This exam form is asking for some details on your strength.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Okay.  Good okay.  You can get back in your chair.
+
+PATIENT Q309
+But like I say at home I use a cane.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+And I hold on to different things.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+I don't know if I can put this back on.
+
+DOCTOR Q309
+Okay, I'm sorry the coughing has been going on for how long?
+
+PATIENT Q309
+Uh I guess maybe about November.
+
+DOCTOR Q309
+Okay.  Is it worse when you're laying down or does it happen at night no matter what position that you're in?  Do you think its worse when you're laying down?
+
+PATIENT Q309
+Yeah.  I guess it's, it's @@@ up at night.
+
+DOCTOR Q309
+Uh-huh.  Okay.  There's a couple of things we can to check.  Your @@@.  Okay let me go talk to one of the other doctors about this and um and I'll fill this form out and I'll be right back.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Okay.
+
+(DOCTOR OUT:  52:56  DOCTOR IN:  64:49)
+
+DOCTOR Q309
+Okay.  Okay.  That's good.  Almost done with this form.  I'll put all your meds in.  Now for your cough, we can try likr Mucinex; this is something to help you break up the mucous.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+A cough suppressant generally isn't a great idea.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Because if you have a lot of mucous in your chest, especially as a smoker, if you don't cough it up you can be more prone to getting a pneumonia or an infection.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Essentially it's good to cough it up.
+
+PATIENT Q309
+Right.
+
+DOCTOR Q309
+Um so.
+
+PATIENT Q309
+I mean the more I'm coughing, if I keep on coughing I can get it to come up.
+
+DOCTOR Q309
+It comes up okay.
+
+PATIENT Q309
+I mean it's not a whole lot.
+
+DOCTOR Q309
+Yeah, yeah.  Have you ever had pulmonary function testing done?  Where you breathe into a machine?
+
+PATIENT Q309
+Yeah I think I did.
+
+DOCTOR Q309
+You did.
+
+PATIENT Q309
+Uh as a matter of fact uh one time, when I was at Jesse Brown they tested me and said I had sarcoidosis, sarcoid or something.
+
+DOCTOR Q309
+Really?
+
+PATIENT Q309
+It was years ago.
+
+DOCTOR Q309
+Hmm.
+
+PATIENT Q309
+And uh they gave me a, this machine that I breathe in and it's got a little ball.
+
+DOCTOR Q309
+Yeah.
+
+PATIENT Q309
+Like it was a plastic thing.
+
+DOCTOR Q309
+Okay.  I'll probably repeat your pulmonary function testing.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Cause I think you have COPD.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Which is lung problems that people that smoke for a long time get um and there's a lot of good medications to treat COPD but we don't know, we don't have a diagnosis for this.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+In order to get one we need to have the pulmonary function testing done.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+So why don't make you, we can repeat your chest x-ray if it doesn't go away.  Um let’s give it another couple weeks.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+And if your cough is no better then then we can get a chest x-ray.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Um and in the meantime we'll get your pulmonary function tests.
+
+PATIENT Q309
+Right in the meantime I need to cut down on the smoking.
+
+DOCTOR Q309
+And you cut back smoking yeah okay.
+
+PATIENT Q309
+Cause I know that's probably part of the problem.
+
+DOCTOR Q309
+I think so.  So give me one second here and I'll just get all this done and then we'll get you on your way.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+So I want you to call me if your cough isn't gone in like three weeks.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Okay.  Cause I can have the nurse call you but sometimes it doesn't actually happen.
+
+PATIENT Q309
+Right, right.
+
+DOCTOR Q309
+So.
+
+PATIENT Q309
+So then.
+
+DOCTOR Q309
+You call me.
+
+PATIENT Q309
+And your extension is?
+
+DOCTOR Q309
+Uh, let's see the number is PHONE NUMBER.  Okay and DOCTOR so you can leave a message with someone.  You probably won't get me directly but that’s okay.  Okay.  And you've never had any surgery on the back, just the neck you said right?
+
+PATIENT Q309
+Right.  Like I said I don't know because of my age or cause I've had it so long would it even be possible, I don't know.
+
+DOCTOR Q309
+Yeah okay.  Have you seen Neurosurgery yet?  No.
+
+PATIENT Q309
+Yes.
+
+DOCTOR Q309
+Oh you did.
+
+PATIENT Q309
+Uh-huh.  I haven't seen them in a while.
+
+DOCTOR Q309
+Okay right here yeah.
+
+PATIENT Q309
+And I know the last time I came here for a operation I ended up coming out of it with a broken rib.
+
+DOCTOR Q309
+Hmm okay.
+
+PATIENT Q309
+I know @@@.
+
+DOCTOR Q309
+Where'd you have your surgery here?
+
+PATIENT Q309
+Yes.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+It was done September @@, @@@@.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+Is that in there?
+
+DOCTOR Q309
+Uh-huh.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Yeah it's in here.
+
+PATIENT Q309
+Did I get the dates right?
+
+DOCTOR Q309
+I don't see the surgery date but I have a clinic note you had in January after you got through the surgery.
+
+PATIENT Q309
+Yeah.
+
+DOCTOR Q309
+Okay.  Okay.  We'll put that up there.  I guess that's it.  Here are your forms.  The rest of it I think you can fill out.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Okay.  You have my number.
+
+PATIENT Q309
+Uh-huh.
+
+DOCTOR Q309
+These are all your meds do you can go down today and get them.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+Okay.  And then don't forget to call me if your cough doesn't get better in a couple of weeks.
+
+PATIENT Q309
+In a couple of weeks.
+
+DOCTOR Q309
+Okay.
+
+PATIENT Q309
+So just the next time I need to visit you will be in?
+
+DOCTOR Q309
+I'll see you back like four months. 
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+What about that, we'll just check in.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+And see how your cough is and the cigarettes are doing.  Hopefully you'll have your pulmonary function tests by then as well.
+
+PATIENT Q309
+Right.  Alright so you going to set up an appointment for that.
+
+DOCTOR Q309
+I'm going to put in for that okay.
+
+PATIENT Q309
+Okay.  Thanks very much.
+
+DOCTOR Q309
+Okay and the next time I see you hopefully you won't be smoking anymore.
+
+PATIENT Q309
+I hope not.
+
+DOCTOR Q309
+And your cough will be gone and you'll have those tests done okay.
+
+PATIENT Q309
+Right okay.
+
+DOCTOR Q309
+Okay, alright.  I'll help you check out.
+
+PATIENT Q309
+Let me turn around and go that way.
+
+DOCTOR Q309
+So again with that pain medicine the new one is called tramadol.
+
+PATIENT Q309
+Tramadol.
+
+DOCTOR Q309
+Okay so try it but you know you can keep taking what you're taking if you need it.
+
+PATIENT Q309
+Okay.
+
+DOCTOR Q309
+But I think it's worth a try.
+
+PATIENT Q309
+Then I can stop the constipation, supposed to.
+
+DOCTOR Q309
+Yeah exactly okay.
+
+PATIENT Q309
+I knew if I kept taking that hydrocodone it's got some side effects to it too cause it's got the morphine in it.
+
+DOCTOR Q309
+Right yeah that's correct.  But yeah I think it's worth a try but um, you know sometimes if you've been taking the other one for a while it can be difficult to get off of it so.
+
+PATIENT Q309
+Oh.
+
+DOCTOR Q309
+I don't want you to feel sick or anything for pain.
+
+PATIENT Q309
+What are some of the side effects of withdrawal?
+
+DOCTOR Q309
+If you still feel shaky or kind of sick to your stomach.
+
+PATIENT Q309
+Oh okay, cause I know some days if I don't, I try to go without taking it.
+
+DOCTOR Q309
+You'll @@@.
+
+PATIENT Q309
+You know I try to deal with the pain if I'm just in the house or laying down or something and I'm not doing much and then I kind of feel sick.  I didn't know what that was.
+
+DOCTOR Q309
+Yeah but the tramadol in place of it might help it.
+
+PATIENT Q309
+Okay, okay.
+
+DOCTOR Q309
+So it’s not quite so bad okay.  Do you know where to check out?  You can check out right here okay.  Okay take care.
+
+PATIENT Q309
+Alright nice meeting you.
+
+DOCTOR Q309
+Yeah you too.
+
+PATIENT LEAVES:  77:47.
+
+Time is 3:35.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249454
+TRANSACTION # 578-10-2-316-0103

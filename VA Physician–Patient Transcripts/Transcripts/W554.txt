@@ -1,0 +1,1135 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@
+
+PATIENT W554
+How you doing today?
+
+DOCTOR W554
+Good, how you doing?
+
+PATIENT W554
+Find.
+
+DOCTOR W554
+Yes.  How's everything going?
+
+PATIENT W554
+Good, good.
+
+DOCTOR W554
+I tried calling you a couple weeks ago, to try to let you know about um the study that you had at Jesse Brown.
+
+PATIENT W554
+Oh yeah.
+
+DOCTOR W554
+Well I guess, I couldn't get an answer.
+
+PATIENT W554
+When did you call?
+
+DOCTOR W554
+Um, last week sometime.
+
+PATIENT W554
+Probably still in Florida because I got back on Sunday.
+
+DOCTOR W554
+Oh okay.  Yeah it was uh the 2nd.
+
+PATIENT W554
+Oh yeah.
+
+DOCTOR W554
+Last week.  Um, so what they saw on the study was that they didn't, they didn't see any source of bleeding at all.
+
+PATIENT W554
+Oh.
+
+DOCTOR W554
+Which was good and no, nothing that, I think from their notes it was a little bit of a bad prep, meaning you weren't totally clean.
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+So they couldn't see everything um but you know the whole reason that we were doing it was because your hemoglobin, cause your red blood cell count was low.
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+And we thought maybe you were bleeding from somewhere.
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+But the most recent labs we have look great.
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+So I don't think that we need anything else more done, we'll just keep watching it.
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+To make sure you don't go down again.  Um and if, you know if that starts to happen again then we could probably get the study done again.
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+So that's good news.
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Okay.  Um any problems today?
+
+PATIENT W554
+No.
+
+DOCTOR W554
+No problems okay.  Are you checking your blood pressure at home?
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+Okay what was it normally at home?
+
+PATIENT W554
+Uh I ain't checked it lately though.
+
+DOCTOR W554
+Okay.  When you last checked it what was it?  Do you remember?
+
+PATIENT W554
+I can't remember.
+
+DOCTOR W554
+Okay.  You don't remember the top number.  Was it ever in the 140s?
+
+PATIENT W554
+Mmm no.
+
+DOCTOR W554
+130s?
+
+PATIENT W554
+The 130s yeah.
+
+DOCTOR W554
+Okay.  So a little bit higher than where we want it to be.  I think we can go up on one of your medications um.  And we need, you're just a half a tablet of the lisinopril is that right?
+
+PATIENT W554
+Half a tab of what?  Blood pressure pills?
+
+DOCTOR W554
+That's one of the blood pressure pills yes.
+
+PATIENT W554
+Yes.
+
+DOCTOR W554
+We just um.
+
+PATIENT W554
+But I need some more of that.
+
+DOCTOR W554
+You need more of which one?
+
+PATIENT W554
+Blood pressure.
+
+DOCTOR W554
+Okay.  Which ones are you out of?
+
+PATIENT W554
+Well I'm only taking one now.
+
+DOCTOR W554
+Okay.  Do you have your list with you?  @@@.
+
+PATIENT W554
+Maybe I should take, I'm only taking one pill, maybe I should get more from.
+
+DOCTOR W554
+Uh-huh.  Cause I have two listed here.
+
+PATIENT W554
+Okay well that's, I take the two then.
+
+DOCTOR W554
+Okay.  Are you taking everything that's on this list?
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+You sure about that?  How many, how many tablets do you first take in the day?
+
+PATIENT W554
+I'm just only taking two.  One for the blood and one more, I'm only taking two.
+
+DOCTOR W554
+Two pills every day?
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+Okay I need to check this list though.  Do you know if the, I know that you're taking the iron right?  That's for the blood, a big pill.
+
+PATIENT W554
+Blue pill?
+
+DOCTOR W554
+It's pretty big.
+
+PATIENT W554
+Yeah, yeah.
+
+DOCTOR W554
+Okay.  So you're taking this um.  See we have three medications for blood pressure on here.
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+Do you know which one you're taking?
+
+PATIENT W554
+No. 
+
+DOCTOR W554
+Okay.
+
+PATIENT W554
+I should of brought em with me.
+
+DOCTOR W554
+Yeah.  So I have three here, are you taking a full tablet or half of one?
+
+PATIENT W554
+Half.
+
+DOCTOR W554
+Half of a tablet and those are the only two pills that you take every day?
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+Okay.  Well it's got to be this one, not taking this, not taking that okay.  Did you just run out of these?
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Okay.  Well it doesn't like you need too much more.
+
+PATIENT W554
+And more I have shingles on my back.
+
+DOCTOR W554
+Uh-huh.
+
+PATIENT W554
+So maybe I need something to rub it down with it or something.
+
+DOCTOR W554
+Okay do you feel, you were using the capsaicin cream right?
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Okay.
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Let's see.  Are you using the eye drops?
+
+PATIENT W554
+Uh-huh, oh yeah.
+
+DOCTOR W554
+Okay.  Both of the eye drops um.  Do you take any pain pills for the shingles?
+
+PATIENT W554
+Uh uh.
+
+DOCTOR W554
+No.  And what about the pill for your stomach?
+
+PATIENT W554
+Uh uh.
+
+DOCTOR W554
+Not taking that anymore either?
+
+PATIENT W554
+No I don't have no problem with my stomach anymore so.
+
+DOCTOR W554
+Okay.  So all we have is, are you taking anything at all for pain?
+
+PATIENT W554
+No.
+
+DOCTOR W554
+No.  Would you rather have your medications mailed to you or do you want to pick them up?
+
+PATIENT W554
+I'll pick it up.
+
+DOCTOR W554
+Okay.  @@@.  Um, how's your appetite now?
+
+PATIENT W554
+Real good.
+
+DOCTOR W554
+Very good.
+
+PATIENT W554
+Yeah too good.
+
+DOCTOR W554
+Okay.  Are you gaining a little bit of weight back?
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Okay.  Um have you eaten today?
+
+PATIENT W554
+Uh yeah.
+
+DOCTOR W554
+You have okay.  Cause I'd like to check your um, your cholesterol.
+
+PATIENT W554
+Okay.
+
+DOCTOR W554
+But I need you to not have eaten for the night before.
+
+PATIENT W554
+Oh okay.
+
+DOCTOR W554
+Do you come back here pretty often?  Is this a big drive for you to come to the VA?
+
+PATIENT W554
+No I live close.
+
+DOCTOR W554
+Okay so you can come back another day in the morning and get it drawn?
+
+PATIENT W554
+Oh yeah, uh-huh.
+
+DOCTOR W554
+Okay good.  And then I can check your blood @@@ just to make sure we're on the same track.
+
+PATIENT W554
+Okay.
+
+DOCTOR W554
+Okay.
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+Um, so you're not having any problems with your stomach anymore?
+
+PATIENT W554
+No.
+
+DOCTOR W554
+Okay.  Um and your eyesight's doing okay?
+
+PATIENT W554
+Well yeah this, this has been getting dimmer every day.
+
+DOCTOR W554
+Uh-huh.
+
+PATIENT W554
+You know.
+
+DOCTOR W554
+Uh-huh.  Do you see your ophthalmologist?  I think you saw him back in July?
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+Are you supposed to see him again soon?
+
+PATIENT W554
+Mmm, I think so.  He want to operate on this eye, but I don't know about this just you know.
+
+DOCTOR W554
+@@@.
+
+PATIENT W554
+I want to wait till the last minute you know.
+
+DOCTOR W554
+Okay.  I see.  You had an appointment with him in January.
+
+PATIENT W554
+Yeah I know.
+
+DOCTOR W554
+I guess you cancelled it?
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Okay, you don't want to see him again?
+
+PATIENT W554
+What you mean the eye doctor?
+
+DOCTOR W554
+Yeah.  Cause this says you had an appointment in January but it was cancelled.
+
+PATIENT W554
+I think, I was there not too long ago.
+
+DOCTOR W554
+Yeah it was back in July.
+
+PATIENT W554
+So he say he gonna send me a letter.
+
+DOCTOR W554
+Uh-huh.
+
+PATIENT W554
+To come back.
+
+DOCTOR W554
+I don't know this says cancelled.  We can check it out, we'll see okay.  
+
+PATIENT W554
+Okay.
+
+DOCTOR W554
+Um and how are your drugs doing, are you having any problems with your drugs?
+
+PATIENT W554
+No.
+
+DOCTOR W554
+Well you're too healthy right?
+
+PATIENT W554
+(Laughter).
+
+DOCTOR W554
+Now that we've got the study done and we know that you're not bleeding from anywhere, I feel pretty good about it okay.
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+Um we just need to get your blood pressure a little better controlled okay.  I, let's see, do you want the capsaicin cream downstairs here too?
+
+PATIENT W554
+Yes.
+
+DOCTOR W554
+The cream for your, are you having a lot of pain? Or is it just uncomfortable.
+
+PATIENT W554
+Uncomfortable.
+
+DOCTOR W554
+Okay.  Alright I've got those two done for you.  They'll be downstairs okay.  You want to hop up here for me?
+
+PATIENT W554
+What you mean the two uh?
+
+DOCTOR W554
+One the blood pressure medication that you'll start taking in a whole tablet instead of a half of one.
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+And then the other one is the cream for your shingles.
+
+PATIENT W554
+Oh okay.
+
+DOCTOR W554
+Okay.  Can you show me where it is on you?  You're all bundled up under there?
+
+PATIENT W554
+Yeah.  This here.
+
+DOCTOR W554
+All the way around to the back.  Does it hurt to touch?
+
+PATIENT W554
+Uh uh.
+
+DOCTOR W554
+This aggravates you?
+
+PATIENT W554
+It's just sore you know.
+
+DOCTOR W554
+Okay.
+
+PATIENT W554
+Yeah sometimes it itch.
+
+DOCTOR W554
+It itches you?  Have you had the shingles vaccine?
+
+PATIENT W554
+Vaccine?
+
+DOCTOR W554
+Uh-huh.
+
+PATIENT W554
+I don't think so.
+
+DOCTOR W554
+Okay.  Cause even though you've had shingles you do have the possibility of getting it again.
+
+PATIENT W554
+I had it once and uh it went away.
+
+DOCTOR W554
+Uh-huh.
+
+PATIENT W554
+But then it came back again.
+
+DOCTOR W554
+You got it again?
+
+PATIENT W554
+Yeah and now I've been like this for about three months now.
+
+DOCTOR W554
+Okay, so we can see if you can get the shingles vaccine today okay.
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+You got your flu vaccine right?
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Okay.  Deep breath for me.  In and out.  Okay.  No chest pain?
+
+PATIENT W554
+No.
+
+DOCTOR W554
+No shortness of breath?
+
+PATIENT W554
+Uh uh.
+
+DOCTOR W554
+Can you lean back for me here.  I just some powder all over my floor.
+
+PATIENT W554
+@@@.
+
+DOCTOR W554
+Any belly pain?
+
+PATIENT W554
+No.
+
+DOCTOR W554
+Okay.  And no swelling in your legs at all?
+
+PATIENT W554
+No.
+
+DOCTOR W554
+Are they under here somewhere?
+
+PATIENT W554
+Uh-huh.  They just hurt you know when I walk or stand up you know.
+
+DOCTOR W554
+What hurts?
+
+PATIENT W554
+My legs.
+
+DOCTOR W554
+Just from your joints or where?
+
+PATIENT W554
+Yeah it starts here.
+
+DOCTOR W554
+In your feet?
+
+PATIENT W554
+No it gets in my ankles.
+
+DOCTOR W554
+In your ankles.
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+Have you had that for a while?
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Okay.  
+
+PATIENT W554
+Well I mean, that was shingles, DOCTOR give me uh some kind of pill I was taking, she said that dries it up.
+
+DOCTOR W554
+It dries it up?
+
+PATIENT W554
+Yeah that what she said.
+
+DOCTOR W554
+I know you were on something for the pain before.
+
+PATIENT W554
+Yeah but I don't have no pain this, it just just sore.
+
+DOCTOR W554
+Okay.  Yeah I mean this doesn't help with the soreness too.
+
+PATIENT W554
+Oh, yeah okay.
+
+DOCTOR W554
+We can try the gabapentin, is that what it was the gabapentin?
+
+PATIENT W554
+I think so.
+
+DOCTOR W554
+Before.
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Yeah we can try it again.  Open up for me.  Say ah.
+
+PATIENT W554
+Ah.
+
+DOCTOR W554
+Okay.  And you don't smoke right?
+
+PATIENT W554
+No.
+
+DOCTOR W554
+Never smoked?
+
+PATIENT W554
+I used to a long time ago.
+
+DOCTOR W554
+Okay.  Deep breath for me.  A deep breath and hold it for me okay?  Okay.  Okay, well I think you're doing great.  We can get you the stuff for the shingles and also for your blood pressure okay.
+
+PATIENT W554
+Uh-huh.
+
+DOCTOR W554
+Uh, let me put that one in too.  This will be a pill that you take three times a day okay.
+
+PATIENT W554
+Three times a day?
+
+DOCTOR W554
+Yeah.
+
+PATIENT W554
+Yeah okay.
+
+DOCTOR W554
+Is that what; is that the one that you were talking about?
+
+PATIENT W554
+Yeah right, yeah.  Well DOCTOR she ain't here any more?
+
+DOCTOR W554
+She's not.  She's working over at Loyola now.
+
+PATIENT W554
+Oh, okay.
+
+DOCTOR W554
+Yeah.  Yeah.  Do you miss her?
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Well I'll take good care of you okay.
+
+PATIENT W554
+(Laughter)  Okay.  (Laughter) So when you been to Georgia?
+
+DOCTOR W554
+I'm going home next Friday.
+
+PATIENT W554
+Oh yeah?
+
+DOCTOR W554
+Yeah.
+
+PATIENT W554
+Well alright.
+
+DOCTOR W554
+I'm very excited; I'm going home for Christmas.
+
+PATIENT W554
+Oh yeah?
+
+DOCTOR W554
+Yeah.
+
+PATIENT W554
+Well oh.
+
+DOCTOR W554
+How long were you in Florida?
+
+PATIENT W554
+Uh I been here about two weeks.
+
+DOCTOR W554
+Uh-huh.  Where'd you go?
+
+PATIENT W554
+Pensacola.
+
+DOCTOR W554
+Very nice.  @@@ there huh.
+
+PATIENT W554
+Oh yeah.
+
+DOCTOR W554
+You go out on the beach?
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Awesome.  Okay.  Um.
+
+PATIENT W554
+So you'd rather be here than be in Georgia, it's pretty warm there.  It's cold here.
+
+DOCTOR W554
+I know.
+
+PATIENT W554
+Then why you'd come here then?
+
+DOCTOR W554
+@@@.
+
+PATIENT W554
+(Laughter).
+
+DOCTOR W554
+You know, I'm chasing some boy.
+
+PATIENT W554
+Oh yeah.
+
+DOCTOR W554
+Yeah.  He lives up here.
+
+PATIENT W554
+Oh yeah.  So you getting married?
+
+DOCTOR W554
+Nope.
+
+PATIENT W554
+Well I don't see why you should have to chase him.
+
+DOCTOR W554
+(Laughter).
+
+PATIENT W554
+That's when.
+
+DOCTOR W554
+He should be chasing me right.
+
+PATIENT W554
+Right that's not good to chase him.
+
+DOCTOR W554
+I know.
+
+PATIENT W554
+No that's no good.
+
+DOCTOR W554
+Hopefully between now and the last time I see you three years from now we'll, we'll be a little further along.  Like I say, well sure I'm getting married, so we'll see.  Gotta put some pressure on him right?
+
+PATIENT W554
+Yeah.
+
+DOCTOR W554
+Okay.  Give me just a second I'm gonna go talk with DOCTOR and then we'll come back in okay.
+
+PATIENT W554
+Okay.
+
+(DOCTOR OUT:  29:50  DOCTOR IN:  37:49
+
+SECOND DOCTOR:  
+Hey how's it going?
+
+PATIENT W554
+Fine and you?
+
+SECOND DOCTOR W554
+Hanging in there.
+
+PATIENT W554
+Hanging in there.
+
+FIRST DOCTOR W554
+Hello.
+
+PATIENT W554
+Hi how ya doing?
+
+FIRST DOCTOR W554
+This is DOCTOR.
+
+SECOND DOCTOR W554
+Hello.
+
+FIRST DOCTOR W554  
+So it looks like all that we're doing is pretty good, is that right?
+
+PATIENT W554
+Yeah, yeah.
+
+SECOND DOCTOR W554
+So you stopped many medications.
+
+PATIENT W554
+Oh yeah?
+
+SECOND DOCTOR W554
+Looks like you take a few but you've not been taking some of the other medicines, is there a reason you stopped taking the gabapentin and these other medicines?
+
+PATIENT W554
+No.
+
+SECOND DOCTOR W554
+Do you have any trouble with memory at all?
+
+PATIENT W554
+Uh-huh.
+
+SECOND DOCTOR W554
+You're able to do your daily activities fine, @@@ lost memory, gotcha.  Now this pain that you get, where you have the shingles.  How often do you get that pain?
+
+PATIENT W554
+Umm, maybe a couple of times a day.
+
+SECOND DOCTOR W554
+So it's every day?
+
+PATIENT W554
+Uh-huh.
+
+SECOND DOCTOR W554
+So when you take the gabapentin and the cream that will help you at that time?
+
+PATIENT W554
+It helps a little bit yeah.
+
+SECOND DOCTOR W554
+It helps you okay.  Well then we'll give those medicines back to you.
+
+PATIENT W554
+Okay.
+
+SECOND DOCTOR W554
+Okay and we'll see how you do.
+
+FIRST DOCTOR W554
+So we'll order the gabapentin?
+
+SECOND DOCTOR W554
+Um, if you go to the medicines, then go to actions and new medications, yeah, then go to criteria @@@.  Here then go to @@@.  Alright sir.
+
+PATIENT W554
+Okay then, thank you.
+
+SECOND DOCTOR W554
+Thank you too.
+
+FIRST DOCTOR W554
+And you said you wanted to pick it up here right?
+
+PATIENT W554
+Yeah.
+
+FIRST DOCTOR W554
+Okay.  (Doctor working on computer)  Um, so I know that you were on the medicine for your stomach before.
+
+PATIENT W554
+Uh-huh.
+
+FIRST DOCTOR W554
+And that was when everything, you know, everything was concerned about bleeding and everything.  So when they did the scope and saw, it looks like you may have had some ulcers in the past.
+
+PATIENT W554
+Uh-huh.
+
+FIRST DOCTOR W554
+So I'd like to keep you on that medication.
+
+PATIENT W554
+Oh okay.
+
+FIRST DOCTOR W554
+Um, I'm gonna circle one here, which one you're gonna be taking um.  As far as the big iron pills.
+
+PATIENT W554
+Uh-huh.
+
+FIRST DOCTOR W554
+You can stop taking those.
+
+PATIENT W554
+I have stopped taking already.  You mean the blue pill?
+
+FIRST DOCTOR W554
+The big one.
+
+PATIENT W554
+Yeah, yeah, yes.
+
+FIRST DOCTOR W554
+Okay so we can stop those.  Um and then, so what's the other pill that you take then?  You said you take two pills.
+
+PATIENT W554
+Yeah a blood pressure pill and uh, a half pill for the headache but that's gone now so.
+
+FIRST DOCTOR W554
+Okay so you're only taking one a day?
+
+PATIENT W554
+One a day.
+
+FIRST DOCTOR W554
+Okay.
+
+PATIENT W554
+And I, them drops I use them twice a day in my eyes.
+
+FIRST DOCTOR W554
+Okay.  So let me get the ones that I want you to take.
+
+PATIENT W554
+Uh-huh.
+
+FIRST DOCTOR W554
+Um the gabapentin is for your, your shingles pain, the lisinopril will be a new one downstairs, it's the same pill that you've been taking but twice the amount.
+
+PATIENT W554
+Uh-huh.
+
+FIRST DOCTOR W554
+Um the pantoprazole was for your stomach; just in case you get an ulcer again we want to keep that from happening.
+
+PATIENT W554
+Okay.
+
+FIRST DOCTOR W554
+Okay.  Um and then the other one is the cream for your shingles okay.
+
+PATIENT W554
+I can get all that at the Pharmacy?
+
+FIRST DOCTOR W554
+Yes.
+
+PATIENT W554
+Yeah okay.  So you going on vacation.
+
+FIRST DOCTOR W554
+I sure am, for a whole week.
+
+PATIENT W554
+Yeah, oh.
+
+FIRST DOCTOR W554
+(Laughter).
+
+PATIENT W554
+The guy you chasing, he going with you?
+
+FIRST DOCTOR W554
+No, he's going to his home.
+
+PATIENT W554
+Where he live?
+
+FIRST DOCTOR W554
+Uh he's actually from South America.
+
+PATIENT W554
+Oh yeah?
+
+FIRST DOCTOR W554
+Yeah, Columbia.
+
+PATIENT W554
+Oh.
+
+FIRST DOCTOR W554
+Pretty far.
+
+PATIENT W554
+Does he speak English good?
+
+FIRST DOCTOR W554
+Yeah.
+
+PATIENT W554
+Oh yeah?
+
+FIRST DOCTOR W554
+Pretty good.  (Laughter)
+
+PATIENT W554
+He a doctor too?
+
+FIRST DOCTOR W554
+He is, sure is.  Okay.  So I want you to get labs done um in about a month.
+
+PATIENT W554
+Uh-huh.
+
+FIRST DOCTOR W554
+And then I'll see you back in about six months, as long as you're doing okay um.
+
+PATIENT W554
+Okay.
+
+FIRST DOCTOR W554
+We can stretch it out a little bit okay?
+
+PATIENT W554
+Yeah.
+
+FIRST DOCTOR W554
+Um and just make sure you haven't eaten when you get your labs done.
+
+PATIENT W554
+Oh okay.
+
+FIRST DOCTOR W554
+Okay.  Sound good?
+
+PATIENT W554
+Uh-huh.
+
+FIRST DOCTOR W554
+Alright.
+
+PATIENT W554
+Okay.
+
+FIRST DOCTOR W554
+I'll let you go.
+
+PATIENT W554
+Alright.  Do I need this?
+
+FIRST DOCTOR W554
+Yeah you can take this with you.  I just circled the ones that you're actually supposed to be taking okay.
+
+PATIENT W554
+Yeah okay.
+
+FIRST DOCTOR W554
+So there'll be three of them by mouth now.
+
+PATIENT W554
+Okay.
+
+FIRST DOCTOR W554
+Okay.
+
+PATIENT W554
+Thank you.
+
+FIRST DOCTOR W554
+Now you just have a Merry Christmas.
+
+PATIENT W554
+Yeah you too.  I'll see you in six months.
+
+FIRST DOCTOR W554
+Have a good afternoon.  Alright.
+
+PATIENT W554
+Yeah and uh, quite chasing that guy okay (laughter).
+
+FIRST DOCTOR W554
+I'll try hard.
+
+PATIENT W554
+Bye bye.
+
+(Patient leaves 43:54)
+
+Time is 10:30.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235296
+TRANSACTION # 578-10-2-316-0103

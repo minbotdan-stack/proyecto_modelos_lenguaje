@@ -1,0 +1,458 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+DOCTOR X607
+PATIENT?  Come on in.  How you doing sir?
+
+PATIENT X607
+Okay.
+ 
+DOCTOR X607
+What brings you in today?
+
+PATIENT X607
+Just my regular appointment.
+
+DOCTOR X607
+Just a regular appointment?
+
+PATIENT X607
+Yeah, yeah.
+
+DOCTOR X607
+Good.  How's everything going at home?
+
+PATIENT X607
+Fine.
+
+DOCTOR X607
+I saw you went and saw the dermatologist.  They removed that little thing @@@.
+
+PATIENT X607
+Yeah.
+
+DOCTOR X607
+Yeah um I was, um so they said just to make sure there was nothing abnormal.
+
+PATIENT X607
+Right.
+
+DOCTOR X607
+About it, no cancer or anything.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+Kind of what they were thinking, so um but um how's everything else going?
+
+PATIENT X607
+Everything is going fine.
+
+DOCTOR X607
+Any chest pain, shortness of breath?
+
+PATIENT X607
+A little bit, sometimes I get tired.
+
+DOCTOR X607
+When do you get tired?
+
+PATIENT X607
+Like on the weekends.  I slept two days. I seem to be tired.
+
+DOCTOR X607
+Okay.  So no @@@?
+
+PATIENT X607
+Yeah maybe so cause I do take a bus ride.
+
+DOCTOR X607
+Okay.
+
+PATIENT X607
+But I slept on the bus too but other than that I'm okay.
+
+DOCTOR X607
+Okay.
+
+PATIENT X607
+I'm still able to be walking @@@.
+
+DOCTOR X607
+Okay.  Your pacemaker hasn't gone off at all?
+
+PATIENT X607
+No.  Uh yeah but it didn't go off but it shocked me or something.  I got a ticket and I went through a red light and the camera's went off and the thing did something.
+
+DOCTOR X607
+Okay.
+
+PATIENT X607
+I don't know if it's just the.
+
+DOCTOR X607
+Have you gone back to see them recently, the cardiologist?
+
+PATIENT X607
+I have an appointment I think in about a month or so.
+
+DOCTOR X607
+Okay.
+
+PATIENT X607
+And they were going to @@@ it.
+
+DOCTOR X607
+Okay.  Huh, I've never heard of that.
+
+PATIENT X607
+Well the two lights went off at the same time, I don't know if it was @@@ or what, the thing did @@@.
+
+DOCTOR X607
+Did you feel?
+
+PATIENT X607
+I felt a little stick, like a stick.
+
+DOCTOR X607
+Okay.
+
+PATIENT X607
+It started feeling like I was having a heart attack, but it might have just been the light cycling.
+
+DOCTOR X607
+Okay.
+
+PATIENT X607
+But other than that, I continued on @@@.
+
+DOCTOR X607
+Um let's see your blood pressure is good today.  Are you taking all your blood pressure medicines regularly?
+
+PATIENT X607
+I haven't taken it yet.
+
+DOCTOR X607
+You haven't?
+
+PATIENT X607
+No.
+
+DOCTOR X607
+Okay.  Your blood pressure was fine uh right now.  You're not on a lot of blood pressure medicines, just the one.
+
+PATIENT X607
+@@@.
+
+DOCTOR X607
+That's fine um let's see.  And we checked your cholesterol back in January and it was okay.  Um when do you see the urology doctors next?  For the prostate?
+
+PATIENT X607
+I don't know.  I don't know.
+
+DOCTOR X607
+And you saw in October.  They just want to see you every uh.
+
+PATIENT X607
+Every six months I think.
+
+DOCTOR X607
+Every year.
+
+PATIENT X607
+Every year, oh that’s great, that's fine.
+
+DOCTOR X607
+So that's good so you're fine for a while.
+
+PATIENT X607
+That’s fine.
+
+DOCTOR X607
+Um let's see.  So we checked, the last time you mentioned that your calcium was high when you had um, you had um gone to a community fair and they test your calcium in your urine or something.  Do you remember talking about that?  They checked um.
+
+PATIENT X607
+Yeah they did and they said it was a little high.
+
+DOCTOR X607
+And it was a little high um here but not too high, um just barely over um.  So they said it's just a tad high um in the blood.
+
+PATIENT X607
+Uh-huh.
+
+DOCTOR X607
+And they checked um a few other things um and it looks like you have what's called hyperparathyroidism.  So you have the thyroid gland here, in your neck, and inside, kind of behind it, it's just there's these four small, they are like this big, they’re real soft.  
+
+PATIENT X607
+Hmm.
+
+DOCTOR X607
+Um there are four little glands behind the thyroid called the parathyroid um and that is something that, that's the gland that regulates the calcium in our bodies.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+Okay and sometimes for whatever reason um this will, it just is overactive okay.  Um we can send you to the endocrine doctors to have them talk to you more to see if you can do something about it.  Do you want to do that?
+
+PATIENT X607
+Is it that severe?  I mean.
+
+DOCTOR X607
+Uh it's not real high.
+
+PATIENT X607
+Is it something I have to look at?
+
+DOCTOR X607
+It's not real high but it might be worth talking to them about it to see if they think.  You know they may just say follow it, there's nothing we could do right now.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+But.
+
+PATIENT X607
+@@@.
+
+DOCTOR X607
+Why don't you have a seat up here?  Other than that I think everything else is pretty good here.  Um, you're not due for anything else right now.
+
+PATIENT X607
+No you know I got a little soreness in there.
+
+DOCTOR X607
+Okay and that's where.
+
+PATIENT X607
+When they put this pacemaker in.
+
+DOCTOR X607
+Okay.
+
+PATIENT X607
+I don't know if it's from the pacemaker.
+
+DOCTOR X607
+It might be.
+
+PATIENT X607
+Or where it's lying or what.
+
+DOCTOR X607
+It may be the way that.
+
+PATIENT X607
+If it's kind of laying on my back.
+
+DOCTOR X607
+You know it may be the way you're lying now and you know if you're kind of.
+
+PATIENT X607
+Yeah cause I'm still concerned about the pacemaker.
+
+DOCTOR X607
+Right in that area?
+
+PATIENT X607
+Yeah oh yeah.
+
+DOCTOR X607
+Have a seat.  No chest pain then?
+
+PATIENT X607
+No.
+
+DOCTOR X607
+@@@.
+
+PATIENT X607
+No.
+
+DOCTOR X607
+Let me just take a listen.  Deep breath good.  No belly pain?
+
+PATIENT X607
+No.
+
+DOCTOR X607
+Okay.  Do your feet swell up at all?
+
+PATIENT X607
+Never.
+
+DOCTOR X607
+Never.
+
+PATIENT X607
+I never notice it.
+
+DOCTOR X607
+Great, alright.  Well um let me talk to DOCTOR real quick and I'll be right back.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+Alright?
+
+PATIENT X607
+Alright thank you.
+
+(DOCTOR OUT:  28:00 DOCTOR IN:  34:50)
+
+DOCTOR X607
+Alright.  Let me make an appointment to the endocrinology doctors.
+
+PATIENT X607
+Uh-huh.
+
+DOCTOR X607
+They'll schedule it for you out at the front desk okay.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+You can sit back over there while I put that in if you want.
+
+PATIENT X607
+Okay, thank you.
+
+DOCTOR X607
+Um.  Um.
+
+PATIENT X607
+I'll pick up the medicine too, also.  
+
+DOCTOR X607
+I'll make sure they're all renewed.
+
+PATIENT X607
+Okay thank you.
+
+DOCTOR X607
+@@@.
+
+PATIENT X607
+Thank you.
+
+DOCTOR X607
+Um and then they want you, before you come to the Endocrine Clinic, they want to have a few more blood tests done.
+
+PATIENT X607
+Before I go where?
+
+DOCTOR X607
+To the Endocrine Clinic so.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+So stop at the Lab today and I'm going to put in your meds first.
+
+PATIENT X607
+Oh go.
+
+DOCTOR X607
+Alright so all your medicines are renewed.
+
+PATIENT X607
+Uh-huh.  Yeah they gave me a salve for my dry skin.  I have real dry feet.
+
+DOCTOR X607
+Uh-huh.
+
+PATIENT X607
+And they gave me a salve and it's, I've used it all up.  I don't know if it's still in the computer or not.
+
+DOCTOR X607
+I can look.
+
+PATIENT X607
+Can you find that please?
+
+DOCTOR X607
+Yeah.
+
+PATIENT X607
+I really need that.
+
+DOCTOR X607
+Let's see here.  I don't see it in here.  How long ago did they give that to you?
+
+PATIENT X607
+It's been quite a while ago.  It's been, oh I've had it about two years.
+
+DOCTOR X607
+Oh here we go.  I put this in.
+
+PATIENT X607
+Okay thanks.
+
+DOCTOR X607
+Alright.  Do you want those mailed out to you or do you want to pick it up today?
+
+PATIENT X607
+Uh probably I can pick it up today.
+
+DOCTOR X607
+Okay.  Alright, so stop by the Lab, two of the tests are a urine test and one of the tests is a blood test.
+
+PATIENT X607
+Uh-huh.
+
+DOCTOR X607
+So go get that done, stop by and pick up your medicines.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+And then give this to the front desk.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+And tell them you need an appointment in the Endocrine Clinic okay.
+
+PATIENT X607
+Okay.  Thank you.
+
+DOCTOR X607
+And they can schedule that up for you.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+You're all set.
+
+PATIENT X607
+Thank you.  Stop first.
+
+DOCTOR X607
+Yeah and I'll put in here for you to come back in oh probably six months.
+
+PATIENT X607
+Okay.
+
+DOCTOR X607
+I think you're doing pretty good.
+
+PATIENT X607
+Alright, thank you.
+
+DOCTOR X607
+Okay.
+
+PATIENT LEAVES:  39:00
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275407
+TRANSACTION # 578-10-2-316-0103

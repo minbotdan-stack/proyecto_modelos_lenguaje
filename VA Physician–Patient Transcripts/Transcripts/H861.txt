@@ -1,0 +1,662 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@@ 
+
+DOCTOR H861
+PATIENT?
+
+PATIENT H861
+Yes. 
+
+DOCTOR H861
+Okay.  How are you?  Hey.
+
+PATIENT H861
+Hi.
+
+DOCTOR H861
+Come this way.  
+
+PATIENT H861
+@@@.
+
+DOCTOR H861
+I did.  I @@@ get-a-way.
+
+PATIENT H861
+Yeah I just saw you.
+
+DOCTOR H861
+Oh yeah I just came in.  Uh how you doing?
+
+PATIENT H861
+Oh pretty good.  What's that, is that a birthmark on your leg?
+
+DOCTOR H861
+Where?
+
+PATIENT H861
+Right there.
+
+DOCTOR H861
+No I get it from you know when I cross my legs.
+
+PATIENT H861
+Oh.
+
+DOCTOR H861
+It's like  bruise, it really never goes away.
+
+PATIENT H861
+Really.  That's all.
+
+DOCTOR H861
+It never completely goes away.
+
+PATIENT H861
+I was gonna ask you if that's a birthmark.
+
+DOCTOR H861
+No I hate it though but if you look right where I cross my legs, it's exactly there.
+
+PATIENT H861
+And it's there forever?
+
+DOCTOR H861
+There forever and I feel like.
+
+PATIENT H861
+Yeah cause that's a habit of yours.
+
+DOCTOR H861
+I know, I know I try not to but, what are you gonna do right.
+
+PATIENT H861
+Right.
+
+DOCTOR H861
+Uh I'm DOCTOR.  I think you normally see um DOCTOR.
+
+PATIENT H861
+Uh-huh.
+
+DOCTOR H861
+He is on call today so he's not going to be here, so I'm filling in for him.  How you doing?
+
+PATIENT H861
+Pretty good.
+
+DOCTOR H861
+Looks like you were just here about a month ago.
+
+PATIENT H861
+Yeah, same thing.  Well it is the same thing that I want to tell you about.
+
+DOCTOR H861
+Sure.
+
+PATIENT H861
+I got kind of like a virus and they've been watching it because of my condition.
+
+DOCTOR H861
+Right.
+
+PATIENT H861
+@@@ lungs.
+
+DOCTOR H861
+@@@ yeah.
+
+PATIENT H861
+I've been through a lot.
+
+DOCTOR H861
+You sure have.  So you're not @@@ at all.
+
+PATIENT H861
+I think I caught, I got wet about three weeks ago in the rain.
+
+DOCTOR H861
+Yes.
+
+PATIENT H861
+And uh I all this was gone, coughing, sneezing everything was gone and they all came back.
+
+DOCTOR H861
+Okay.
+
+PATIENT H861
+And now I hurt, I'm not hurting now.
+
+DOCTOR H861
+Uh-huh.
+
+PATIENT H861
+But when the pain starts you know in this area over here, it hurts and I have to drop a Vicodin and uh my stomach, I been having a lot of problems down in my stomach, I’ve been seen by the GI.
+
+DOCTOR H861
+Yeah.
+
+PATIENT H861
+But uh they said, it's too dangerous to be putting that scope down there.
+
+DOCTOR H861
+Yeah.
+
+PATIENT H861
+But something’s got to be done cause this stomach irritates me every day but I think I caught a virus because it's always growling.
+
+DOCTOR H861
+@@@.
+
+PATIENT H861
+Making noises.
+
+DOCTOR H861
+Alright.
+
+PATIENT H861
+And I got diarrhea and had it for two weeks.
+
+DOCTOR H861
+Uh-huh.
+
+PATIENT H861
+It's not diarrhea, diarrhea but it's not normal.
+
+DOCTOR H861
+Yeah okay.
+
+PATIENT H861
+And they got me on Maalox but I just changed from the @@@ you know my physical lung therapy.
+
+DOCTOR H861
+Uh-huh.
+
+PATIENT H861
+And they said that Maalox will give you irregular bowel movements.
+
+DOCTOR H861
+Let's do this, let’s try to go off the Maalox okay.
+
+PATIENT H861
+Oh, what do we do about the pain?
+
+DOCTOR H861
+Well Maalox, so we can do, you're on a PPI twice a day right?
+
+PATIENT H861
+Uh-huh.
+
+DOCTOR H861
+Try just doing that, at least until the diarrhea subsides cause I don't know if this pain is coming from your lung @@@.
+
+PATIENT H861
+Yeah I'm gonna lose weight by having this diarrhea.
+
+DOCTOR H861
+Yeah, yeah and I think you have to pick which one's worse but I think I don't need you having diarrhea and losing a lot of weight you know.
+
+PATIENT H861
+Yeah.  I just keep up that way you know.
+
+DOCTOR H861
+Uh-huh, uh-huh.
+
+PATIENT H861
+As sick as I was @@@ and I don't want to lose it back.
+
+DOCTOR H861
+No, no, no.  So let's go off the Maalox, at least back off to every other day.
+
+PATIENT H861
+Uh-huh.
+
+DOCTOR H861
+And see if that helps you at all.  Um you're taking.
+
+PATIENT H861
+I forgot, it start with a O.
+
+DOCTOR H861
+Um omeprazole.
+
+PATIENT H861
+Uh-huh.
+
+DOCTOR H861
+And you're taking twice a day right?  @@@ go easy on that, that'll help protect your stomach and then the 5 of Maalox back off to twice a day.  You're not taking the @@@ or the Docusate are you?
+
+PATIENT H861
+What is that?
+
+DOCTOR H861
+There's two medications that are stool softeners, you're not taking them?
+
+PATIENT H861
+Oh no, no.
+
+DOCTOR H861
+Don’t take those @@@.  It happens a lot, in the hospital we wonder why patients have diarrhea and you look at what the medications are @@@.
+
+PATIENT H861
+No, I stopped immediately.
+
+DOCTOR H861
+Okay good, good.
+
+PATIENT H861
+Okay but uh you don't think it's a virus when it keep growling like that?
+
+DOCTOR H861
+No you know it could be a little bit of a  stomach virus but the thing is if you are having diarrhea and it's causing a little bit of virus and you're flushing all your food out of you so you're gonna have a little more like almost a hunger pain.
+
+PATIENT H861
+Oh.
+
+DOCTOR H861
+So that's where the growling could be.
+
+PATIENT H861
+Okay.
+
+DOCTOR H861
+So um I'd say back off the Maalox to every other day for now and just see if that helps the diarrhea at all okay.
+
+PATIENT H861
+I was gonna say maybe I took that infection @@@ again.
+
+DOCTOR H861
+Right.  Now as far as pain on the right, it's you know.
+
+PATIENT H861
+But they say I'll probably have that the rest of my life.
+
+DOCTOR H861
+Rest of your life yeah.
+
+PATIENT H861
+Cause I'm so tore up inside.
+
+DOCTOR H861
+And well you've had quite the experiences um.
+
+PATIENT H861
+Yeah.
+
+DOCTOR H861
+With all @@@ and everything.  I know you had part of a lung taken out.
+
+PATIENT H861
+Yeah.
+
+DOCTOR H861
+So a lot of times that sort of pain doesn't resolve you know for a long time.
+
+PATIENT H861
+Uh-huh.
+
+DOCTOR H861
+Um okay.  Let's see and you saw Pulmonary um, you saw the lung doctors recently.  You've seen lung and GI um and how and then how long have you been on the oxygen.  How long have you had it with you?
+
+PATIENT H861
+Uh I think, now I'm good, I'm all good when I'm sitting down but when I'm walking.
+
+DOCTOR H861
+Yeah.
+
+PATIENT H861
+I got to have it.
+
+DOCTOR H861
+Yeah okay.  Yeah it says this right here you're saturation on room air just while sitting is 95 but you drop down into the 80s and normal is 99 to 100% and you drop down pretty low when you start walking so um yeah.  You know, unfortunately you’re going to have to haul that thing around. They couldn't give you a smaller tank so?
+
+PATIENT H861
+Well they, when I go back next month.
+
+DOCTOR H861
+Uh-huh.
+
+PATIENT H861
+They gonna put the word in.
+
+DOCTOR H861
+How many liters in one?
+
+PATIENT H861
+Huh?
+
+DOCTOR H861
+Just one liter?
+
+PATIENT H861
+Here, I can't go a long ways, from 5, to 3 to 2.
+
+DOCTOR H861
+Wow. 
+
+PATIENT H861
+Done to 1.
+
+DOCTOR H861
+Good for you.  You're heading in the right direction.
+
+PATIENT H861
+But they said I'll probably be dealing with this the rest of my life because I ran out of breath when I'm walking.
+
+DOCTOR H861
+Exactly you know.  Can you tell the difference in your @@@, do you feel better?
+
+PATIENT H861
+Oh yeah.
+
+DOCTOR H861
+Yeah okay.
+
+PATIENT H861
+Yeah.
+
+DOCTOR H861
+Um otherwise I mean that, I know DOCTOR had gotten some lab tests.  Your cholesterol was perfect.  Colonoscopy we're not due until 2012 and then as far as your follow-up with GI @@@ stay hydrated with Gatorade, @@@, that kind of stuff.
+
+PATIENT H861
+Uh-huh.
+
+DOCTOR H861
+Keep the electrolytes on you and then back off the Maalox to every other day.
+
+PATIENT H861
+Okay.
+
+DOCTOR H861
+Um blood pressure looks perfect.  Your prostate looks good as of last July, so things are looking good there.  Um any fevers or chills at home?
+
+PATIENT H861
+No.
+
+DOCTOR H861
+Okay.  And any coughing?
+
+PATIENT H861
+Yeah a little bit.
+
+DOCTOR H861
+Okay.  Um is this typical for you?  Do you normally cough?
+
+PATIENT H861
+Yeah every now and then @@@.
+
+DOCTOR H861
+Yeah, yeah.
+
+PATIENT H861
+It's time summer's coming in now.
+
+DOCTOR H861
+Uh-huh.
+
+PATIENT H861
+The change in the weather it's affecting everybody.
+
+DOCTOR H861
+I was just gonna say it throws everybody off.  Um your diabetes is really well controlled.
+
+PATIENT H861
+Yeah oh I stay up on that.
+
+DOCTOR H861
+@@@ fantastic then the only other thing the glaucoma, do you follow with the?  Do you have glaucoma in the eyes?
+
+PATIENT H861
+Yeah.
+
+DOCTOR H861
+Do you follow with the ophthalmologist, the eye doctors?
+
+PATIENT H861
+Uh-huh.
+
+DOCTOR H861
+Okay.  Just to make sure you're seeing them.
+
+PATIENT H861
+Right, uh-huh.
+
+DOCTOR H861
+It looks like you do a very good job.  You're probably one of the best patients I've seen.
+
+PATIENT H861
+Yeah I don't want to go back.
+
+DOCTOR H861
+You don't want to @@@ no.
+
+PATIENT H861
+I don't want to go backwards, uh uh, I had a rough time, the last since 2007 it's been rough.  You know a patient has to take care of themself, not the doctors; the patient himself has to take care of himself.
+
+DOCTOR H861
+I agree.  It's a team effort.
+
+PATIENT H861
+Yeah that's right.
+
+DOCTOR H861
+Yeah and that's what I walked into a patient's room the other day and I said you know what brings you in here, can't you read my damn chart, I said no and I was like well.
+
+PATIENT H861
+That's why we got a computer.
+
+DOCTOR H861
+And I just said listen I can read your chart all day but you know it's not the same as me talking to you know and he then did calm down a little bit.  @@@.  Um alright uh you look like you're doing a great job.
+
+PATIENT H861
+Uh-huh.
+
+DOCTOR H861
+So let's just back-off on the, do you need any med refills or?
+
+PATIENT H861
+No I just called them in.
+
+DOCTOR H861
+Okay you called them in today.
+
+PATIENT H861
+I just called them in today.
+
+DOCTOR H861
+And you don't need to get labs and you're up-to-date on things.  Let me go run this by DOCTOR and then.  How often do you come back?  Do you come every month or do you come?
+
+PATIENT H861
+No, no he just wanted to see how I'm doing because you know I was feeling kind of bad.
+
+DOCTOR H861
+Right, right.  Well good.  I'll be right back okay.
+
+PATIENT H861
+Okay.
+
+(DOCTOR OUT:  16:57  DOCTOR IN:  20:54)
+
+DOCTOR H861
+Alright sir.  Now are you, okay, so here's what I kind of want to do.  This is sort of difficult so I wanted to send the um stool studies to make sure that there's no infection in your stool.
+
+PATIENT H861
+Uh-huh.
+
+DOCTOR H861
+Um so that would mean you'd have to go over and give them a sample.  Are you actively having diarrhea right now?  You know it's not easy.  It's not like they can just take your blood you know you have to.
+
+PATIENT H861
+Well they can give me that thing.
+
+DOCTOR H861
+Yeah.
+
+PATIENT H861
+And I could bring it back.  I can do that.
+
+DOCTOR H861
+Okay.  Why don't we do that?  Why don’t we do that. It’s better than nothing.  
+
+PATIENT H861
+Yeah.
+
+DOCTOR H861
+Then we'll just make sure there's no infection in there.
+
+PATIENT H861
+Uh-huh.
+
+DOCTOR H861
+Um.
+
+PATIENT H861
+Let me ask you something too.
+
+DOCTOR H861
+Sure.
+
+PATIENT H861
+I know it's from my lungs and all that I've been through but you know I feel tired all the time and I take vitamins every day too.  Is there something I could, is there a vitamin that I could take to make me feel more.
+
+DOCTOR H861
+Um awake - not so much and you know the first thing I think of when somebody says they're tired all the time is anemic you know.
+
+PATIENT H861
+I don't think I'm anemic.
+
+DOCTOR H861
+And you're not. I just look. Now the next thing I look at is do you have a thyroid problem, you know, is there something wrong with your thyroid so that would be tested.  You were just checked in October and your thyroid looks perfect so if anything you know with the oxygenation yeah.
+
+PATIENT H861
+That's it.
+
+DOCTOR H861
+And um that's probably a lot of it you know um your body uses the increased energy source to breathe.
+
+PATIENT H861
+Breathing.
+
+DOCTOR H861
+@@@.  
+
+PATIENT H861
+Something I got to deal with it I guess.
+
+DOCTOR H861
+Yes.  So you basically want me to do that, right you want to.  So we'll do three different stool studies and you bring them in unless you happens and go over there and meet you to go over them.
+
+PATIENT H861
+Right.  I @@@.  Now I do have to go over and get these from them.
+
+DOCTOR H861
+Yeah, yeah.
+
+PATIENT H861
+You put in that now right?
+
+DOCTOR H861
+Yep I just put it in.  Um so how often do you normally, you want to come back in say two months?
+
+PATIENT H861
+Uh yeah, that’s fine @@@.
+
+DOCTOR H861
+And then you know, yeah exactly.
+
+PATIENT H861
+@@@.
+
+DOCTOR H861
+That puts you to see DOCTOR in June.  Just cause of all the stuff going on with you, a lot of times I let patients go a little longer than that but with all the stuff going on with your lungs and stuff I think you should come back in a few weeks. 
+
+PATIENT H861
+Okay.
+
+DOCTOR H861
+Otherwise I think everything's good.  We'll get your stuff ordered, got the cups and then we'll see you in a month.
+
+PATIENT H861
+Okie doke.
+
+DOCTOR H861
+Alright.
+
+PATIENT H861
+Is he all done with me in the computer?
+
+DOCTOR H861
+Yeah oh you mean.
+
+PATIENT H861
+Cause he follow me up cause you know I travel here.
+
+DOCTOR H861
+Yep.
+
+PATIENT H861
+They is strict over there.
+
+DOCTOR H861
+Yeah I know.
+
+PATIENT H861
+Real strict.  Take care.
+
+DOCTOR H861
+Hey one more thing though in the chart it says you are supposed to be on three liters.
+
+PATIENT H861
+No, this here?  This is gives me a migraine.
+
+DOCTOR H861
+Oh okay, okay.
+
+PATIENT H861
+But I don't need it.  Like I told the doctors, the lung doctors.
+
+DOCTOR H861
+Uh-huh.
+
+PATIENT H861
+I got @@@, it give me a headache real good.
+
+DOCTOR H861
+@@@.
+
+PATIENT H861
+But the ones at home, I put on humidify @@@.
+
+DOCTOR H861
+Oh yeah okay.
+
+PATIENT H861
+Now I keep that on too.
+
+DOCTOR H861
+Okay, okay, let me check okay.
+
+PATIENT H861
+It's a little @@@.  And I think @@@.
+
+DOCTOR H861
+@@@.
+
+PATIENT H861
+Okay.
+
+DOCTOR H861
+Bye sir, take care of yourself.
+
+PATIENT H861
+Alright see you.
+
+DOCTOR H861
+Yeah.
+
+PATIENT LEAVES:  24:38
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286131
+TRANSACTION # 578-10-2-316-0103

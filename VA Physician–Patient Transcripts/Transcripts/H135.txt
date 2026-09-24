@@ -1,0 +1,1275 @@
+Date of Encounter:  @@/@@/@@   
+Time of Encounter:  @@@ 
+
+DOCTOR H135 
+PATIENT?
+
+PATIENT H135
+That would be me.
+
+DOCTOR H135
+How you doing?
+
+PATIENT H135
+Okay.
+
+DOCTOR H135
+It's good to meet you, DOCTOR.
+
+PATIENT H135
+DOCTOR.
+
+DOCTOR H135
+Have you been waiting long?
+
+PATIENT H135
+No sir, not really.  I've been sitting @@@ a lot sicker longer than waiting here.
+
+DOCTOR H135
+Right.
+
+PATIENT H135
+Sir, before we start, I would like to here's my full chart for the last four or five years.
+
+DOCTOR H135
+Okay.  Where is this from?
+
+PATIENT H135
+Uh Dupage Medical Group.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+Okay.
+
+DOCTOR H135
+What can we do for you today?
+
+PATIENT H135
+Well, I just, I needed a doctor.  I lost my insurance, my job.  I have some kind of insurance now but it's not good enough so I thought I'd come here.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+That's in a nutshell right there.  I'm not really sick but you know I don't want to take a chance.
+
+DOCTOR H135
+What uh, what medical problems have you had in the past?
+
+PATIENT H135
+Uh diabetic.
+
+DOCTOR H135
+Okay, diabetes.  Any other medical problems?
+
+PATIENT H135
+No sure.
+
+DOCTOR H135
+High blood pressure, high cholesterol or anything like that?
+
+PATIENT H135
+Uh at first.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+But um, if it starts running a little high they throw me on a diet per say uh.
+
+DOCTOR H135
+What you mean by a diet?
+
+PATIENT H135
+Uh, starches, potassium is too high or uh cholesterol.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+I could do this with my diet.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+I just need to know, you know what to do.
+
+DOCTOR H135
+Sure.  What do you take for medication-wise?
+
+PATIENT H135
+Medication I take um, uh glipizide 5 mg once a day at breakfast, half hour before I eat.  I also take metformin 500 mg twice a day after I eat a.m. and p.m.  
+
+DOCTOR H135
+500 and okay.  Do you take any other medications?
+
+PATIENT H135
+No sir.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+I'm not allergic to anything.
+
+DOCTOR H135
+You've been through this drill before I take it.
+
+PATIENT H135
+Well, I want to.
+
+DOCTOR H135
+We always ask the same questions we ask.
+
+PATIENT H135
+Yeah but it's quite alright.
+
+DOCTOR H135
+Yeah @@@.
+
+PATIENT H135
+I want to be upfront with you okay.
+
+DOCTOR H135
+Sure, no problem.
+
+PATIENT H135
+I'm here for you to help me, not you know.  There's no secrets in this.
+
+DOCTOR H135
+Sure, I appreciate it.
+
+PATIENT H135
+Um.  I like my legs, I like my eyesight.
+
+DOCTOR H135
+Well we want to keep it.
+
+PATIENT H135
+That's right.  We want to keep it together.
+
+DOCTOR H135
+Um are you a smoker sir?
+
+PATIENT H135
+No sir.  I quit on Christmas Eve 1999; haven't touched one since.  I don't drink.
+
+DOCTOR H135
+Good.  Uh where do you live right now?
+
+PATIENT H135
+I live in Blue Island, Illinois.
+
+DOCTOR H135
+Do you live with anyone?
+
+PATIENT H135
+Well I own the house.
+
+DOCTOR H135
+Do you live in a house?
+
+PATIENT H135
+Yes with my wife.
+
+DOCTOR H135
+Okay.  Um, any stairs at the house?
+
+PATIENT H135
+Um yes.
+
+DOCTOR H135
+How do you do with the stairs and getting around?
+
+PATIENT H135
+No problem.
+
+DOCTOR H135
+Ambulate okay?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+Uh I work now as a security officer in the hospital ID tags.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+Okay.  So I put in maybe five, six miles a night.  I belong to the Health Club.
+
+DOCTOR H135
+Okay.  You walk five to six miles a night?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Oh excellent.
+
+PATIENT H135
+When I feel frisky I shoot the stairways from floor to floor.  Not often but it has happened.
+
+DOCTOR H135
+What hospital do you work at?
+
+PATIENT H135
+It's R&L a specialty hospital in Hinsdale.
+
+DOCTOR H135
+@@@.
+
+PATIENT H135
+Yes I know.  I haven't seen any Hines passes but I saw a lot of.
+
+DOCTOR H135
+Yeah a lot of the residents work at both, fellows too.  So I know you get a lot of the pulmonary fellows over there doing, to deal with that management stuff.
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Um any family history of any medical problems as far as you know?
+
+PATIENT H135
+Uh, my dad had diabetes but he was 74 when they.
+
+DOCTOR H135
+When they diagnosed it?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+So you know.  Dad's a firm believer on potatoes and gravy for breakfast and dinner and lunch.  That don't happen with me.
+
+DOCTOR H135
+Uh did your mother have any medical problems?
+
+PATIENT H135
+No.  Uh my mother died at childbirth.
+
+DOCTOR H135
+Okay.  Any brothers or sisters?
+
+PATIENT H135
+Uh I have one blood sister, she's 11 years older than I am and she's still living and still kicking.
+
+DOCTOR H135
+Healthy as far as you know?
+
+PATIENT H135
+Yes sir.
+
+DOCTOR H135
+Uh any children?
+
+PATIENT H135
+Yes I do.
+
+DOCTOR H135
+How many children do you have?
+
+PATIENT H135
+I have uh two girls.
+
+DOCTOR H135
+And they're healthy?
+
+PATIENT H135
+Yes.
+
+DOCTOR H135
+Do you ever check your blood pressure at home?
+
+PATIENT H135
+No I don't.  I don't have the equipment for that.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+But I imagine if I talk real nice to somebody at the hospital I'd be able to.
+
+DOCTOR H135
+Well we can get you one here too um, that's always, down in the Prosthetic Lab they have blood pressure cuffs and we can get you.  Your blood pressure is a little bit high today so I was just wondering if you uh if you normally run high or if it's usually pretty good?
+
+PATIENT H135
+Well number one I'm stressful today.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+Um I was late getting here.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+You know I lost my way getting here uh, it started raining and then you know I didn't know where I was going.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+Uh usually I'm in control of.
+
+DOCTOR H135
+Okay.  Well we'll recheck it; maybe it was just the pressure at that moment.  Um, I'll recheck it at the end of the visit.  Have you ever had a colonoscopy done?
+
+PATIENT H135
+No.
+
+DOCTOR H135
+No.  Who was the last primary doctor you saw?
+
+PATIENT H135
+Um DOCTOR.
+
+DOCTOR H135
+Where was he @@@.
+
+PATIENT H135
+DuPage Medical Group.  I don't know if the name is on there or not.  He replaced DOCTOR.
+
+DOCTOR H135
+Oh.
+
+PATIENT H135
+I don't have, I might have a card that's up-to-date.
+
+DOCTOR H135
+That's okay, actually one of the doctors here, her husband is in this group.  Her name is DOCTOR.  I don't know her husband's name to be honest.  I don't, it might be DOCTOR I'm not sure but I don't see it on there.
+
+PATIENT H135
+Well there are so many different areas.
+
+DOCTOR H135
+Yeah there is.
+
+PATIENT H135
+That.
+
+DOCTOR H135
+Yeah.  Um.  As far as vaccinations, do you have the tetanus shot, pneumonia shot, @@@.
+
+PATIENT H135
+Uh I'm good with everything.  I had a swine flu.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+Okay.  The only thing that I'm lacking is the flu shot and he was kind of concerned about um.
+
+DOCTOR H135
+You had the pneumonia vaccine and you're current with tetanus?
+
+PATIENT H135
+Yes.
+
+DOCTOR H135
+Okay.  When did you have the pneumonia vaccine, do you remember?
+
+PATIENT H135
+It was about two or three years ago.
+
+DOCTOR H135
+Okay.  And when was your tetanus, can you remember?
+
+PATIENT H135
+About the same.  The only thing I haven't got is the shingles and uh, everything's current.  I even have a TB shot, they vaccinated me for TB.
+
+DOCTOR H135
+Uh well when was that?
+
+PATIENT H135
+Uh October 20th of last year.
+
+DOCTOR H135
+Is a vaccine or give you the PPD?
+
+PATIENT H135
+They just gave it to me in the arm; they tested me in the arm.
+
+DOCTOR H135
+And they had you go back and they looked at it?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Okay that wasn't a vaccination.
+
+PATIENT H135
+Oh alright oh.
+
+DOCTOR H135
+Just so you know.
+
+PATIENT H135
+No.
+
+DOCTOR H135
+So um that is what they do is they inject, they basically boil down tuberculosis and kill it and then they inject the particles under your skin to see if your body reacts to it.
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Um if it reacts to it then they think that maybe you had it in the past.  The reason I tell you that is that there is a TB vaccine which is almost never used anymore except for in Europe.  Um, it's called BCG vaccine.  They use it over in Europe a lot but it's not used much in America but it can give you a false positive for your TB so, it's a good idea to know if you've ever had that cause they'll put a PPD on you and it'll be positive and then you'll get treatment for TB.
+
+PATIENT H135
+No they did.  I had to go back and they.
+
+DOCTOR H135
+Yeah @@@ fine.
+
+PATIENT H135
+Yeah.  That's how I got the job; I had to pass that to get working in the hospital.
+
+DOCTOR H135
+Oh so yeah that makes sense, that makes sense.
+
+PATIENT H135
+So.  I mean you know.  But the only thing I haven't got is the flu shot and the shingles.
+
+DOCTOR H135
+Okay.  Um do you want to get the shingles?  We can get that for you today.
+
+PATIENT H135
+Alright, @@@ to do this.
+
+DOCTOR H135
+I think it's a good idea, especially working in the hospital @@@.  The shingles is basically the reactivation of chicken pox.  Have you ever had chicken pox before?
+
+PATIENT H135
+I might have, I don't know.
+
+DOCTOR H135
+Okay.  Uh as far as the flu shot we don't have the seasonal flu shot anymore.  That's kind of.
+
+PATIENT H135
+I had the swine flu is what I had.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+I had the opportunity to get that and I did.
+
+DOCTOR H135
+So that's good um, uh so you still need the seasonal flu shot every year.
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Okay.  Uh.
+
+PATIENT H135
+Well when you're working, I can do different things but when I'm not working it's pretty hard I mean you know.  As far as insurance wise you know.
+
+DOCTOR H135
+Oh sure, yeah sure.  Um have you ever smoked?
+
+PATIENT H135
+Yes I have.
+
+DOCTOR H135
+Okay.  Have you ever had an ultrasound of the abdomen done to look for aneurysms or anything?
+
+PATIENT H135
+No.
+
+DOCTOR H135
+Um we generally recommend at the age of 65.  There is some evidence showing that anyone who smoked as many as 10 packs of cigarettes in their entire life um are at an increased risk for an aneurysm in the aorta.  So at the age 65, for anyone that's ever smoked, we recommend a one-time ultrasound just to take a look to see if there are any aneurysm.  If it looks fine then everything's fine you know.  If it is a problem then you know, whatever intervention is necessary is taken.  Um, its pain free, it's quick, takes a couple of minutes.  I think it's a good idea, that's what I tell most of my patients.
+
+PATIENT H135
+Well if my shot records up I'm not running scared.
+
+DOCTOR H135
+Okay. 
+
+PATIENT H135
+Okay.
+
+DOCTOR H135
+Good.  Now as far as the colonoscopy, so you've never had done um, starting at the age of 50 we recommend uh you know starting screening for colorectal cancer um.  Would you be opposed to just seeing our GI doctor about getting a colonoscopy?
+
+PATIENT H135
+Not right away.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+Let's put that on the back burner.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+I have issues with that, but anyway.
+
+DOCTOR H135
+Okay.  I will say you know what you're not the first person I've had issues with.  First when I talked my dad into doing it just a couple years ago, cause he turned 50 like two years ago and um he said the worst part was the prep the night before.  The actual procedure doesn't hurt at all; you're pretty much asleep for the whole thing.  The night before they make you drink a bunch of stuff to clean your bowels out and.
+
+PATIENT H135
+That I could turn my head quick, that'll do the same, no I'm.
+
+DOCTOR H135
+But it's I think, most people who have it done uh in the end say it was much ado about nothing, @@@.  Just a reassurance.
+
+PATIENT H135
+Next time I come in I might ask for it.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+You understand, that's the way I am.
+
+DOCTOR H135
+Sure.
+
+PATIENT H135
+Okay.  Um I have some.
+
+DOCTOR H135
+Double check your labs just to see.  So yeah it looks like everything here hasn't been done that we would use.  Can I have this copy or do you need it back?
+
+PATIENT H135
+You can do anything you want sir.
+
+DOCTOR H135
+Okay so I'm going to put this in our computer.  It looks like these are all current so we don't need to get any lab work on you today.  This was done a month ago, most of the stuff so.  Okay can you sit up here, I want to take a quick listen to you and I want to check your blood pressure.
+
+PATIENT H135
+Okay.  I have some prescriptions of my uh metformin and glipizide and it also has his name and address and phone on there.
+
+DOCTOR H135
+Whose name is it?
+
+PATIENT H135
+The doctor, DOCTOR.
+
+DOCTOR H135
+Oh yeah.
+
+PATIENT H135
+DOCTOR.
+
+DOCTOR H135
+We can get that for you, it's not a problem.  Um the only thing I would say is how much do you pay for it now?
+
+PATIENT H135
+What I done is I was paying just about $33 at Walgreens and I went to, one day I went to Walmart and checked a three months’ supply.
+
+DOCTOR H135
+Uh-huh.
+
+PATIENT H135
+For $20.
+
+DOCTOR H135
+$20 okay.  So I think the VA medications we can get you are $8 a month, I don't know how much for a three month supply but I know some of these medications, like metformin I think, I was just hearing something about, was it Walmart or Target is now offering metformin for free um.  It's a new promotion they're running.  I don't know if it's going to be forever or if it's just kind of a new thing they're doing.
+
+PATIENT H135
+Well alright, I have a three months’ supply for $20 so, that's almost $4 a prescription.
+
+DOCTOR H135
+Three months’ supply of both for $20?
+
+PATIENT H135
+I have 90 days.
+
+DOCTOR H135
+Yeah.
+
+PATIENT H135
+Of glipizide.
+
+DOCTOR H135
+Yeah.
+
+PATIENT H135
+And 180 of metformin.
+
+DOCTOR H135
+And that's $20 total for both medications?
+
+PATIENT H135
+Total.
+
+DOCTOR H135
+Yeah that's going to be cheaper than you're going to get it here I'm pretty sure.
+
+PATIENT H135
+Okay.
+
+DOCTOR H135
+Um I could put it in the computer and I have no problem letting you get your medication from here, from a cost perspective you'd probably save a couple of bucks getting it from Walmart um.  But that's up to you.
+
+PATIENT H135
+But uh, I need a new meter too so what's.
+
+DOCTOR H135
+Yeah we'll get you that.
+
+PATIENT H135
+Okay.  It's, like I said I'm running illegal right now okay.
+
+DOCTOR H135
+Can you give me a couple of deep breaths please?  Can you lay back for me?  Any pain there?
+
+PATIENT H135
+Other than gas.
+
+DOCTOR H135
+Can you open your mouth and say ah?  Okay.  Did you have surgery on your nose?
+
+PATIENT H135
+Yes sir.
+
+DOCTOR H135
+What was that for?
+
+PATIENT H135
+I had a growth there and here, uh four years ago.
+
+DOCTOR H135
+You can sit up.
+
+PATIENT H135
+And I.
+
+DOCTOR H135
+Did they tell you, what was it?
+
+PATIENT H135
+It was uh cancerous.
+
+DOCTOR H135
+Okay.  Take a deep breath for me.
+
+PATIENT H135
+That's fine.  It was cancerous but uh.
+
+DOCTOR H135
+They got all of it?
+
+PATIENT H135
+Yes sir.  I went back for a mole surgery, there was one little spot that came up about right in here, they took that out and I had that a couple years ago.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+That they finally took the second one out.
+
+DOCTOR H135
+Do remember what kind of cancer, squamous cell, basal cell, do you remember?
+
+PATIENT H135
+Basal cell.
+
+DOCTOR H135
+Basal okay.  Any swelling in the feet ever?
+
+PATIENT H135
+No.
+
+DOCTOR H135
+Okay.  Do you mind taking your shoes off for me?
+
+PATIENT H135
+Alright.
+
+DOCTOR H135
+I'm sure that you know with diabetes you get the increased risk of foot ulcers.  So we'll take a quick look at your feet to make sure they look okay.  Um do you have an eye doctor?
+
+PATIENT H135
+I haven't had my eyes checked in a couple of years.
+
+DOCTOR H135
+Okay do you want us to do that for you?
+
+PATIENT H135
+Yes sir.
+
+DOCTOR H135
+With diabetes you should be checking your eyes uh.
+
+PATIENT H135
+I know that I should get them checked.  You want both shoes off?
+
+DOCTOR H135
+Yes.
+
+PATIENT H135
+Okay.  Now is the insurance going to pay this or?
+
+DOCTOR H135
+I'll be honest I don't know anything about how insurance works here.  Um, I just don't do any of that, that side of it.  If you ask up front at the desk they may have a little more information about how insurance works here.
+
+PATIENT H135
+Cause I don't wallets, it's my first time here I have no idea.
+
+DOCTOR H135
+Yeah I know, to be honest with you.
+
+PATIENT H135
+I don't even know how good my insurance is.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+Alright.
+
+DOCTOR H135
+Yeah how the VA does billing, we don't do any of that.  I mean from the medical side.  You know the doctors don't do any of that.
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+So I don't know how that works uh.  Up front they'll either be able to tell you how it works or they can send you to the office that can tell you how that stuff works.
+
+PATIENT H135
+Okay.
+
+DOCTOR H135
+Okay.  Do you have any problems with your eyes?
+
+PATIENT H135
+Well I use bifocals.  Oh I have no problems seeing at night, you know.
+
+DOCTOR H135
+Yeah okay.  But no problems from the diabetes as far as you know?
+
+PATIENT H135
+As far as I know no.
+
+DOCTOR H135
+Have you ever taken an aspirin?
+
+PATIENT H135
+Taken an aspirin?
+
+DOCTOR H135
+Uh like a daily aspirin?
+
+PATIENT H135
+No.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+I do take aspirins when I have a headache.
+
+DOCTOR H135
+Well aspirin um, there's a lot of studies on aspirin and heart disease.  Uh mostly aspirin is really not a great pain medication.  Um stuff like Advil, Tylenol are better but what aspirin does that's nice from a medical standpoint is that it attaches to the platelets and makes platelets from not be able aggregate as much so it makes the blood not clot as much um so that reduces the risk of strokes, heart attacks, all that kind of stuff in people who are at risk.  Uh in a lot of our diabetic patients we recommend a baby aspirin a day, just 81 mg.  When you take aspirin for like pain its 650 mg but a small dose of aspirin, 81 mg a day, uh has been shown to reduce the risk of uh heart attacks, coronary events.
+
+PATIENT H135
+Uh-huh.
+
+DOCTOR H135
+Uh just because that has a platelet property.  Uh it's absolutely indicated for everyone who's had heart attacks or heart disease in the past but there's a lot of evidence saying that it's probably beneficial in patients who have a lot of risk factors like diabetes.
+
+PATIENT H135
+Just a regular baby aspirin right?
+
+DOCTOR H135
+Regular baby aspirin a day yeah.  So I'd probably recommend that to you, it's a loose recommendation but um, probably help you more than it would hurt you.  They look good.  Have you ever had any cuts, bruises, hard time healing?
+
+PATIENT H135
+No not really.
+
+DOCTOR H135
+No okay.
+
+PATIENT H135
+Other than when I whack myself on a bumper or something you know.  But that's usually not long.
+
+DOCTOR H135
+Okay.  But no problems with healing down there?
+
+PATIENT H135
+No.
+
+DOCTOR H135
+Diabetes can cause a problem with the blood vessels in your legs.  Uh it can cause circulation.
+
+PATIENT H135
+Yeah, here's another thing too, I'm also 69 years old.  I can't compete you know.
+
+DOCTOR H135
+Sure.  Okay can you close your eyes for me?  Do you feel this?
+
+PATIENT H135
+I feel you pressing on it.
+
+DOCTOR H135
+Yeah excellent.  Do you feel that?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Do you feel that there?
+
+PATIENT H135
+No.
+
+DOCTOR H135
+Feel that?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Okay, do you feel this?
+
+PATIENT H135
+Well I feel that.
+
+DOCTOR H135
+You feel that?
+
+PATIENT H135
+Yeah, no.
+
+DOCTOR H135
+Do you feel that?
+
+PATIENT H135
+Yeah I feel that.
+
+DOCTOR H135
+How about here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Okay.  I tested you just to check the nerves in the foot.  Diabetes can cause problems with the nerves in the foot but we.  Can you feel that?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Feel that?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Feel that?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Feel that?
+
+PATIENT H135
+Again.  Yeah.
+
+DOCTOR H135
+How about over here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Over here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Okay, same thing, feel that here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+How about here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Here?
+
+PATIENT H135
+No.  There yeah, other toe.
+
+DOCTOR H135
+Here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Right here?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Okay.  That's good.  
+
+PATIENT H135
+I was getting a false reading from you touching my hand.
+
+DOCTOR H135
+Oh yeah.  Just a little test we do to make sure that uh the nerves in the foot are @@@.  I'll check your blood pressure too.
+
+PATIENT H135
+Do you want me to take this off?
+
+DOCTOR H135
+Uh you can pull it up, it's kind of easier.
+
+PATIENT H135
+I asked the nurse that and she said we’ll do whatever.
+
+DOCTOR H135
+Let me check your arm there thanks.  Let me just write this down.  You know @@@ it's the only one I could find in the clinic.  Let's try it again.  It's a little bit too big but @@@.  It's a lot better.  124/64.  Were you a little worked up when I first took it?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+I looked around the room @@@ couldn’t find the building.  Okay, first day visit and late, that's not a good.
+
+DOCTOR H135
+I'm never on time.
+
+PATIENT H135
+Well I'm on old man time, if I’m not here an hour early I'm late.  Should I put my shoes back on?
+
+DOCTOR H135
+Oh yeah.  Singles vaccine @@@ back order, yeah.  I know they keep it in stock at Loyola but I think here, if I remember right, it's frozen or cooled or something like that and they have to thaw it out and send it back out um.  I can't even find it, where is it.  I need to figure out what's going on @@@.  I'll be right back okay.  
+
+PATIENT H135
+Alright.
+
+DOCTOR H135
+I'll be with you in a second.
+
+PATIENT H135
+No that's okay.
+
+(DOCTOR OUT:  70:13  DOCTOR IN:  
+
+DOCTOR H135
+Okay, I figured it up.  I don't work back in this clinic all that often so, you know once every two weeks generally so you kind of have to relearn everything you come here.
+
+PATIENT H135
+Yeah okay.
+
+DOCTOR H135
+But you do have to schedule another appointment.  They don't do it in the clinic um.  So they want me to tell you, @@@.  The only medication that seems to pop up with, herpes vaccine was a randomized controlled trial involving 38,000 patients; the vaccine was shown to reduce the incidence of shingles by 51.3% and the incidence of post herpetic neuralgia which is the chronic pain you get from shingles by almost 2/3.  So it's pretty good data for it.
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Um.  
+
+PATIENT H135
+I got to find out if they're going to pay for this or not you know.  
+
+DOCTOR H135
+The shingles vaccine?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Um if there's a problem with it, I know you can get the shingles vaccine at any Dominick or Walgreens and it's pretty cheap.  I know it's actually, my patients at Loyola, I don't know how much it is at Loyola and I don't know how much it is at Dominick, but I know it's significantly cheaper, but I don't even give it to people at Loyola I just tell them to go to Dominick or Walgreens um but, you can ask them when you sign out uh how much it is and what the insurance benefits are or they can give you someone to call to know and they should be able to tell you.  Uh.
+
+PATIENT H135
+I'll definitely ask that.
+
+DOCTOR H135
+I put those medications in for you.  Um the only thing that I did notice, it wouldn't cause me to change anything on you today um but someone who's a diabetic, our goals for LDL and HDL here generally above 40 and below 70.  Okay HDL is good cholesterol and LDL is the bad cholesterol.  You want your good cholesterol high and your bad cholesterol low.  For diabetics there's a lot of evidence that shows uh you get good cardiac risk prevention if your HDL is greater than 40 or your LDL is less than 70.  So we want to get this number down and this number up.  Best way to do that is through diet and exercise.  Um diet stuff, cholesterol you want to stay away from and I don't know if you've heard this before but stay away from saturated fats and trans fats.  Those are what kills you for cholesterol.  Uh trans fats, anything you read where the package says partially hydrogenated vegetable oils um a lot of your like processed foods, processed cheeses, uh processed peanut butter have partially hydrogenated vegetable oils or trans fats.  Those are bad for making the LDL high.  Best thing to get the LDL low and the HDL high is uh not avoiding fats actually it's just how.
+
+PATIENT H135
+Moderation is.
+
+DOCTOR H135
+Well what kind of fats.  So you want to go after the unsaturated fats.  Unsaturated fats are actually good for you.  The thinking used to be stay away from fats at all costs, don't ever eat any fats. That's kind of changed a little bit.  I mean obviously you don't want to do too much fats because they still have a lot of calories um but in terms of the heart stuff and your cholesterol uh good fats like olive oil, the vegetable oils, actually help, they make your cholesterol profile better.
+
+PATIENT H135
+Uh I cook my breakfast with olive oil.
+
+DOCTOR H135
+Good.
+
+PATIENT H135
+Extra virgin olive oil.
+
+DOCTOR H135
+Yeah good.
+
+PATIENT H135
+And um my breakfast is about a half a cup of onion, half a cup of mushrooms and egg beater.
+
+DOCTOR H135
+Okay, yeah that's good.
+
+PATIENT H135
+With uh.
+
+DOCTOR H135
+The other thing that's good, is I don't know what you eat for dinner and stuff like that, but fish is excellent.
+
+PATIENT H135
+I love fish.
+
+DOCTOR H135
+You love fish?
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+Good.  Eat as much fish as you can.  Better than, it's @@@ than red meat.  I mean I'm not going to tell you, I love steak as much as the next person, I'm not going to tell you I never eat steak but.
+
+PATIENT H135
+Red meat I have maybe once every two weeks and we're talking about 4-5 ounces max.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+Okay.
+
+DOCTOR H135
+Yeah.
+
+PATIENT H135
+Um I eat a lot of chicken, pork, fish.
+
+DOCTOR H135
+Yeah.  Chicken, pork are better than red meat.  Fish in terms of this is better than all of them because it has those Omega 3 fatty acids are unsaturated fats so they help out a lot.  The other thing is exercise and I know you said you walk 5-6 miles a night and that's great but exercise as much as you can um.  We can watch this for now.  If it doesn't go down a little bit we can always maybe try starting you on like fish oil tablets or something like that or there are statins which is a cholesterol medication which a lot of people use and get pretty good results with.
+
+PATIENT H135
+Yeah
+
+DOCTOR H135
+But if we can keep you off of the medication for now we'll try that.
+
+PATIENT H135
+Yeah medication is fine but let's try the pushing away from the table on some of this garbage.
+
+DOCTOR H135
+Sure, let's try that okay.  The hemoglobin A1c looks great.  Uh the PSA looks great. Uh everything else looks fine okay.  I don't see anything else that's worrisome.  Um so when you check out today uh, um.
+
+PATIENT H135
+Here's where he hollered about my potassium.
+
+DOCTOR H135
+Yeah it's a little high here, I noticed that.  I can't explain that but it looks fine um.
+
+PATIENT H135
+Well I put the kibosh on it.
+
+DOCTOR H135
+On what?
+
+PATIENT H135
+I was eating a lot of vegetables okay.
+
+DOCTOR H135
+Yeah.  It's hard to tell what that's from.  It's one isolated.  Potassium isn't like cholesterol where it's kind of a thing that you know um, in the absence of kidney failure, it's hard to say what that was from.  Whether you maybe had a glass of orange juice before you came in or a banana or something like that.
+
+PATIENT H135
+Bananas maybe yeah.
+
+DOCTOR H135
+But um, you know this isn't that worrisome I mean.  The normal level here is 5.2, at the VA its 5.4, so that would still be considered; it's very close to normal.  Um if this was consistently high or if it was going up I'd be a little bit more worried about it um.  I don't think that this lab value is enough cause for concern that you should stop eating vegetables.
+
+PATIENT H135
+No I didn't say I would stop, I cut back.
+
+DOCTOR H135
+You cut back.
+
+PATIENT H135
+I'm a firm believer if I'm hungry I open the icebox and there's a small dish of green beans.
+
+DOCTOR H135
+Well.
+
+PATIENT H135
+That would be it rather than.
+
+DOCTOR H135
+I mean moderation is always what we preach here uh but I'd rather have you eating green beans than eating a pizza or something you know.  You know that's kind of a fine line we walk you know if you're hungry if you're going to, you know crack open some carrots and celery or some green beans, it's a lot better than some of the things you could be doing.
+
+PATIENT H135
+Uh pizza is not one of them.
+
+DOCTOR H135
+Well good.  You'd be surprised how many people don't think the way you think.
+
+PATIENT H135
+Well, like I said I'm more concerned with my eyesight and my legs.
+
+DOCTOR H135
+Yeah.
+
+PATIENT H135
+Okay.
+
+DOCTOR H135
+Yeah.
+
+PATIENT H135
+Cause without wheels you're not going no place.
+
+DOCTOR H135
+Well right, yeah and we want to keep those.
+
+PATIENT H135
+Yeah.
+
+DOCTOR H135
+You know so.  So most of my diabetic patients at least initially I like to see every three months and if we get everything stabilized and you know probably change it out to six months.  Is that okay with you?
+
+PATIENT H135
+@@@.
+
+DOCTOR H135
+Okay.
+
+PATIENT H135
+Am I going to be seeing you or?
+
+DOCTOR H135
+You'll be seeing me okay.  You'll be seeing me.
+
+PATIENT H135
+Alright that'd be good.
+DOCTOR H135
+Okay.  Okay any questions?
+
+PATIENT H135
+No.
+
+DOCTOR H135
+It was nice meeting you.  When you check out ask them about the uh, the shingles vaccine okay.  Cause they have to get you a separate appointment for that.
+
+PATIENT H135
+Okay.  
+
+DOCTOR H135
+It's not an appointment with me, it's a nurse appointment.  You have to actually have the shingles vaccine up.
+
+PATIENT H135
+And walk in and take care of it and go back home.
+
+DOCTOR H135
+Right, right.  Here you go sir.
+
+PATIENT H135
+Alright.
+
+DOCTOR H135
+Nice meeting you.
+
+PATIENT H135
+Nice meeting you sir.
+
+DOCTOR H135
+Take care okay.
+
+PATIENT H135
+Okay, I got the rest of my life to get home.
+
+DOCTOR H135
+Okay bye, bye.
+
+PATIENT LEAVES:  82:50
+
+Time is 3:50.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238114
+TRANSACTION # 578-10-2-316-0103

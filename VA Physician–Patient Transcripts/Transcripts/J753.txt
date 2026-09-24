@@ -1,0 +1,505 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@ 
+
+DOCTOR J753
+PATIENT?
+
+PATIENT J753
+Yes sir.  Little aches and pains.
+
+DOCTOR J753
+Yeah.  @@@ behind you.
+
+PATIENT J753
+Alright.
+
+DOCTOR J753
+Have a seat.
+
+PATIENT J753
+Alright.
+
+DOCTOR J753
+How’s it going?
+
+PATIENT J753
+Uh not too bad.  Where can I put my jacket, over there, okay?
+
+DOCTOR J753
+Okay.  So what is new?  It's been what since October?
+
+PATIENT J753
+Yeah, we had an appointment, they made an earlier appointment but uh somehow it got crossed up or something cause when I came in for the blood tests I asked them about the appointment and they go no, something got criss-crossed so they made me another appointment for now.
+
+DOCTOR J753
+Okay.
+
+PATIENT J753
+Which is alright.
+
+DOCTOR J753
+How you been doing?
+
+PATIENT J753
+Alright.  Last couple days I got a little bit of the chills.  I don't know what the, picked something up.  Well and I'm outside you know, when I'm inside I seem to feel alright.  Usually I'm working outside when I, I drop stuff off at constructions sites, you know materials and stuff like that for the.
+
+DOCTOR J753
+Okay, okay.  Yeah what kind of work do you do?
+
+PATIENT J753
+I drive a delivery truck and mostly right now I'm driving for an electrical company so I'm you know delivering electrical conduit, wiring and stuff like that.
+
+DOCTOR J753
+Alright.  How's your diabetes been doing?
+
+PATIENT J753
+Uh.
+
+DOCTOR J753
+Do you check your blood sugar ever?
+
+PATIENT J753
+No I usually don't do, I usually don't check it myself.  I was in for the blood test last week.  I don't know if the results came back.
+
+DOCTOR J753
+They did.  Yeah I'll go through that with you.  You've been feeling well though as far as not having any trouble with nausea, vomiting?
+
+PATIENT J753
+Uh, I did about a month ago.  I had it for like, I think I must have picked up some kind of a, ate something bad or something cause it was like a 24 hour thing.  But normally I've been doing pretty good and feeling pretty good.  Appetite's good.
+
+DOCTOR J753
+Good.  How's your weight?
+
+PATIENT J753
+Uh it's pretty steady.
+
+DOCTOR J753
+Wow.
+
+PATIENT J753
+Stays pretty much at the.
+
+DOCTOR J753
+That's right, exactly the same.
+
+PATIENT J753
+Yeah, for a long time.
+
+DOCTOR J753
+Good.  I mean I'd like you to lose 10 pounds but as long as you're not going up.
+
+PATIENT J753
+Yeah I should probably lose 20 at least.
+
+DOCTOR J753
+Alright, what medicines are you taking, anything?
+
+PATIENT J753
+Uh yeah I brought some of the stuff uh; well we're taking the metformin.
+
+DOCTOR J753
+Yeah.
+
+PATIENT J753
+They tell me to take two, usually I just take one.  Usually I've been averaging probably one a day.
+
+DOCTOR J753
+So this one you take it twice a day so once in the morning and once at night.
+
+PATIENT J753
+Yeah.
+
+DOCTOR J753
+Alright.  Omeprazole, simvastatin.
+
+PATIENT J753
+Yeah a doctor gave me something.  He said my cholesterol was a little high so he gave me something for the, for the cholesterol I guess.
+
+DOCTOR J753
+Okay.  Do you still take an aspirin every day?
+
+PATIENT J753
+Uh probably every other day.
+
+DOCTOR J753
+Yeah.
+
+PATIENT J753
+You know the low dose one I just take it like uh.
+
+DOCTOR J753
+Any numbness or tingling in your hands or feet?
+
+PATIENT J753
+No, no they're pretty good.
+
+DOCTOR J753
+Okay.
+
+PATIENT J753
+I always make toast in the morning and it always comes, you know it always comes out hot, I feel it when I pull it out.
+
+DOCTOR J753
+@@@.  Well, here's your blood tests, we can go through it.
+
+PATIENT J753
+Okay.
+
+DOCTOR J753
+Prostate test was normal.
+
+PATIENT J753
+Really.
+
+DOCTOR J753
+Yep.  We'll do a.
+
+PATIENT J753
+Terrific.
+
+DOCTOR J753
+Which helps to identify problems with the prostate.
+
+PATIENT J753
+Wow.
+
+DOCTOR J753
+Um kidney function is normal.  Your glucose was right at the borderline for what we could consider diabetes and we already know that was the case for your, so fine.  Liver function is good.  This was back in a little bit, even further back like in October where we had some urine tested for, showed some reflection of diabetes and then the cholesterol which was a little bit high back then.  So the things that we want to do now.  Now do you get your blood checked with that outside doctor?
+
+PATIENT J753
+Uh, when I go to the office I think the last time I was probably there about a month and a half ago or so.
+
+DOCTOR J753
+Okay.
+
+PATIENT J753
+They did a blood test and it was like, I think he said it was like 130 or something like that.  Like my blood count.
+
+DOCTOR J753
+Yeah.  Well, I want to avoid having too many cooks in the kitchen.
+
+PATIENT J753
+Yeah.
+
+DOCTOR J753
+But there's information that we need to share that that doctor and myself or.
+
+PATIENT J753
+Yeah.
+
+DOCTOR J753
+Or we'll have to have you repeat some of the blood tests here.
+
+PATIENT J753
+Okay.
+
+DOCTOR J753
+So if you have any blood work there, bring it into me.
+
+PATIENT J753
+Okay.
+
+DOCTOR J753
+Uh if you're willing though I'll get some blood tests here.
+
+PATIENT J753
+Sure.
+
+DOCTOR J753
+Okay.
+
+PATIENT J753
+Well how did the blood test last week show up for the fasting?
+
+DOCTOR J753
+Yeah that was good.
+
+PATIENT J753
+It did.
+
+DOCTOR J753
+Yeah now they didn't do um a cholesterol.
+
+PATIENT J753
+Oh okay but they did the uh.
+
+DOCTOR J753
+They did the prostate, the kidney and liver and um electrolytes.
+
+PATIENT J753
+Hmm.
+
+DOCTOR J753
+But no cholesterol and @@@ since you started on that medication @@@.
+
+PATIENT J753
+Yeah he said it wasn't, I think he said it was around 202 or maybe it was 220, maybe it was 220.
+
+DOCTOR J753
+It was 208 here.
+
+PATIENT J753
+Oh okay.
+
+DOCTOR J753
+But for you we want it significantly lower than that, particularly the LDL which is the bad cholesterol.
+
+PATIENT J753
+Okay.
+
+DOCTOR J753
+Come on up here, I'll take a listen to you.
+
+PATIENT J753
+Okay.  I got the results of the CAT scan; I had the CAT scan done.
+
+DOCTOR J753
+What for?
+
+PATIENT J753
+Cause when I was here uh, doing an evaluation for the Agent Orange, they wanted me to take a chest x-ray and something showed up on the chest x-ray.
+
+DOCTOR J753
+Oh yeah.
+
+PATIENT J753
+So uh this is like the third CAT scan I've had and they've been pretty much unchanged I guess since the first one.
+
+DOCTOR J753
+Can I make a copy of this?
+
+PATIENT J753
+You can keep that.
+
+DOCTOR J753
+Okay thanks.
+
+PATIENT J753
+Yeah I had them make a copy so I could bring one here.
+
+DOCTOR J753
+Okay.
+
+PATIENT J753
+The other thing the doctor said that I had gallstones.
+
+DOCTOR J753
+Yes you do.  A lot of people do.
+
+PATIENT J753
+So it's you know and they says you know you got gallstones.  I'm like really.  I says you know.
+
+DOCTOR J753
+A lot of people have them and they never have symptoms.
+
+PATIENT J753
+Yeah.
+
+DOCTOR J753
+They never cause problems and so we don't mess with them.  That's the problem you go looking for stuff and find stuff.
+
+PATIENT J753
+Uh-huh.
+
+DOCTOR J753
+Would you be able to roll this up for me?
+
+PATIENT J753
+Sure.  I don't know if I can get it high enough or not.  I could take it off if you want.
+
+DOCTOR J753
+@@@.  
+
+PATIENT J753
+NAME gave me something for a research thing when I saw him today.  You know what I'm going to take this off.
+
+DOCTOR J753
+@@@ the Agent Orange thing.
+
+PATIENT J753
+I've heard @@@.  Something about the @@@ monitor that.
+
+DOCTOR J753
+Yeah.  Often when you have an infection in your lungs, you know you'll have a pneumonia at sometime in your life.
+
+PATIENT J753
+Oh.
+
+DOCTOR J753
+Or you might get some scar tissue in there and it builds up.  It looks funny on the x-ray, so we tell people, I don't know that that is, so we'll going to check, usually it's nothing.
+
+PATIENT J753
+But the prostate was good, that’s something.  It's like you know, sometimes I get that a urinating during a lot of the...
+
+DOCTOR J753
+Hold on a second. So you're telling me you have some urine symptoms?
+
+PATIENT J753
+Yeah like uh, well the last couple of days I kind of had the chills and stuff a little bit and I've been going to the washroom quite a bit in the last couple days and I got uh.
+
+DOCTOR J753
+Is it burning?
+
+PATIENT J753
+No.
+
+DOCTOR J753
+No blood in your urine?
+
+PATIENT J753
+No I don't notice any blood.
+
+DOCTOR J753
+Okay.  We'll do a urine test today.  Deep breath. @@@.  
+
+PATIENT J753
+Whey they took my temperature, they said it was 97, so.
+
+DOCTOR J753
+That’s good. That’s a little bit low, actually.
+
+PATIENT J753
+Yeah that is low.  I figured 96.8 but its 98.6 isn't it?
+
+DOCTOR J753
+Yeah.
+
+PATIENT J753
+There you go, that's why I'm not a doctor.  @@@.
+
+DOCTOR J753
+Uh-huh.  Alright, well your blood tests were very good.  I think @@@ I'll have you come in, the same thing like you did this time, maybe a week before you come in.
+
+PATIENT J753
+Okay.
+
+DOCTOR J753
+And we'll plan on doing that four months from now.
+
+PATIENT J753
+But continue on with the metformin right?
+
+DOCTOR J753
+Uh-huh, yeah.
+
+PATIENT J753
+Like I said I been taking it, generally I'm taking like one a day.
+
+DOCTOR J753
+I think you can stay on it.
+
+PATIENT J753
+Is it working out that way though, doing the one?
+
+DOCTOR J753
+We'll just do one blood test today and then I'll call you if there are any changes.  Do you want to do it on your way out?
+
+PATIENT J753
+Sure.  Cause I remember at one time I think I was taking two of the metformin, I was taking some other medicine, it wasn't metformin it was something else and I was really getting like the sweats and constant urinating and stuff and they told me to stop taking the medicine.
+
+DOCTOR J753
+Okay.  Well, that could be probably because the blood sugar was too high or too low with the sugar.
+
+PATIENT J753
+Uh-huh.
+
+DOCTOR J753
+I'm not quite sure though.   This test that we're going to do today will help us get a sense about that.
+
+PATIENT J753
+Okay.
+
+DOCTOR J753
+Have you seen an eye doctor in the last year?
+
+PATIENT J753
+Yeah as a matter of fact I had the test here.
+
+DOCTOR J753
+Well there you go.
+
+PATIENT J753
+Yeah they said it was, they said it looked pretty good.  That's what she told me, I don't know.
+
+DOCTOR J753
+Yeah it looks likes everything was okay too.
+
+PATIENT J753
+She said, I told her I just use the readers you know for like reading the newspaper or something, small print stuff and she said that's fine.
+
+DOCTOR J753
+Alright I'll be right back.
+
+PATIENT J753
+Alright.
+
+(DOCTOR OUT:  69:02  DOCTOR IN:  82:13)
+
+DOCTOR J753
+Alright sir.  I'm going to get those blood tests today.
+
+PATIENT J753
+Alright.
+
+DOCTOR J753
+And then um four months is when you're going to come see me.  I want you to get a fasting blood test about a week before.
+
+PATIENT J753
+Okay.  I work for T. H. Ryan's Trucking.
+
+DOCTOR J753
+Oh yeah.
+
+PATIENT J753
+You're not related to them are you?
+
+DOCTOR J753
+@@@.
+
+PATIENT J753
+Lot of Ryans.
+
+DOCTOR J753
+Yeah this city's full of them.  So full of Ryans.
+
+PATIENT J753
+Okay so just head down to the Lab?  Okay.
+
+DOCTOR J753
+Check out in front first.
+
+PATIENT J753
+Okay for the appointment?
+
+DOCTOR J753
+They'll help you set that up and then you go down to the Lab and get the blood.
+
+PATIENT J753
+Alright.
+
+DOCTOR J753
+Happy New Year.
+
+PATIENT J753
+Lab and the uh urine too?
+
+DOCTOR J753
+Yeah.
+
+PATIENT J753
+Okay, alright.
+
+DOCTOR J753
+Take care.
+
+PATIENT J753
+See ya now.
+
+PATIENT LEAVES:  83:23
+
+Time is 5:20.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1246967
+TRANSACTION # 578-10-2-316-0103

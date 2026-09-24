@@ -1,0 +1,1329 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR H417
+PATIENT?
+
+PATIENT H417
+How you doing?
+
+DOCTOR H417
+Good.  How are you?
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+How you doing?
+
+PATIENT H417
+Okay, been a little bit.  Sit over here?
+
+DOCTOR H417
+Go ahead have a seat right there.  NAME it is the first time I've seen you or I haven't seen you in a while.
+
+PATIENT H417
+First time I've seen you.
+
+DOCTOR H417
+Alright, alright.  We're uh, who do you normally see?
+
+PATIENT H417
+Uh DOCTOR.
+
+DOCTOR H417
+Okay well that's good.  Well how can we help you today?
+
+PATIENT H417
+Well.
+
+DOCTOR H417
+Since you're coming in for a visit, is there any problem or is it just for a follow-up?
+
+PATIENT H417
+Follow-up and then uh I got some, well I spoke to DOCTOR.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+I told him I was experiencing some wheezing.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+So he had, you know, he did the tests.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+He sent me to have a test done.
+
+DOCTOR H417
+So that's the pulmonary function tests?
+
+PATIENT H417
+Yes.
+
+DOCTOR H417
+Yes.
+
+PATIENT H417
+And the results coming back.
+
+DOCTOR H417
+Oh.
+
+PATIENT H417
+He said he wanted to listen first cause he's been following me, prescribing different things and he wanted to give me the right stuff.
+
+DOCTOR H417
+Alright.
+
+PATIENT H417
+But he wanted to listen to my lungs first.
+
+DOCTOR H417
+Let me check his last note alright.
+
+PATIENT H417
+Hey uh do you guys actually um, do you write prescriptions or do you have to follow the VA process?
+
+DOCTOR H417
+Well we write prescriptions through the um.
+
+PATIENT H417
+Do that through the computer right?
+
+DOCTOR H417
+Yes sir.
+
+PATIENT H417
+But you can't write, hand write?
+
+DOCTOR H417
+No huh uh, why do you ask?
+
+PATIENT H417
+They get expensive, the co-payments that's why.
+
+DOCTOR H417
+Through the VA?
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+Cause the medicines I can get a lot cheaper so that's why I was asking you that you know.
+
+DOCTOR H417
+Well let me, I'll have to ask.
+
+PATIENT H417
+You have to ask DOCTOR?
+
+DOCTOR H417
+Yeah or DOCTOR.
+
+PATIENT H417
+Okay.  I wrote down the prescriptions that I want, written down on a list.
+
+DOCTOR H417
+So to get through here is expensive for you?
+
+PATIENT H417
+Yeah the co-payments.
+
+DOCTOR H417
+Let me see exactly what you're taking first of all.
+
+PATIENT H417
+I can tell you which ones I'm talking about that work right here.  I been taking that @@@.
+
+DOCTOR H417
+@@@.  For the most part your lungs are pretty good.
+
+PATIENT H417
+Yeah @@@.
+
+DOCTOR H417
+Because there may have been a little spot, what we call a mild obstructive defect okay.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Um so obstructive defect, are you a smoker or were you ever a smoker?  Okay, there's no history of asthma or every had a history of asthma?  Do you have a history of reflux or GERD what we call like a burning in your the chest after you eat like at night, stuff like that?
+
+PATIENT H417
+Yeah so I have to stay away from certain foods.
+
+DOCTOR H417
+Okay you do.
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+You're taking medication for that?  No okay.
+
+PATIENT H417
+No.
+
+DOCTOR H417
+Um.
+
+PATIENT H417
+It's just like you know sometimes uh it's kind of like @@@ or uh wheezing when I lay down.
+
+DOCTOR H417
+Okay.  When was the last time you saw DOCTOR?
+
+PATIENT H417
+Uh about a month ago, the last time I was here.
+
+DOCTOR H417
+Cause I just, I see you were here last year in May you saw DOCTOR.
+
+PATIENT H417
+Uh it was I saw DOCTOR and let's see DOCTOR in July.
+
+DOCTOR H417
+In July.
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+July what?
+
+PATIENT H417
+I guess sometime around this time.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+Mid July.
+
+DOCTOR H417
+I have the nurse; I don't see the note from DOCTOR.  I see the PFT Report and that was in July, the function tests.
+
+PATIENT H417
+Okay.  Maybe he didn't add anything.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+Cause uh there wasn't really nothing for them to do.
+
+DOCTOR H417
+Okay.  Okay I see.
+
+PATIENT H417
+You see it?
+
+DOCTOR H417
+Yep.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Okay I see it.  Okay so you have a couple issues.  It looks like the diabetes is also a major issue correct?  Okay.  Let me just @@@.
+
+PATIENT H417
+So far it's been pretty good.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+I been testing myself.
+
+DOCTOR H417
+Now what are you on for your diabetes?
+
+PATIENT H417
+Um I @@@, glypid, glyper, G I don't know how to pronounce it.
+
+DOCTOR H417
+Glipizide?
+
+PATIENT H417
+Glipizide and um, oh the metformin yeah.
+
+DOCTOR H417
+You're on metformin.  Good and I was reading from DOCTOR said you were having some trouble with the metformin?
+
+PATIENT H417
+Yeah I was.
+
+DOCTOR H417
+But.
+
+PATIENT H417
+But it went away.  I was experiencing headaches with it.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+But as it got into my system I wasn't experiencing any more headaches and I been testing myself and uh been pretty good.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+Like when I get up in the morning I test myself and sometimes it's like 95, 115.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+Good.
+
+PATIENT H417
+And I you know I been testing myself like two hours after I eat.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+It's like 140.
+
+DOCTOR H417
+Really?
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+That's not bad.
+
+PATIENT H417
+Yeah I know so.  It's been @@@ .  He had told me to take uh, he told me to take a half a pill, half of it, so I took half.
+
+DOCTOR H417
+So you're taking half of.
+
+PATIENT H417
+No I take a whole one now.
+
+DOCTOR H417
+So you take okay.
+
+PATIENT H417
+I take a whole one.  Well that glipizide I was wondering is that necessary to take along with that metformin?
+
+DOCTOR H417
+It should be and I think the reason they did that was because your sugar wasn't very well controlled.
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+Uh and that's why so last time.
+
+PATIENT H417
+But he no this I was taking the glipizide and he said because my sugar was uncontrolled he added the metformin.
+
+DOCTOR H417
+Yeah.  So you're taking metformin, you're taking glipizide, you're taking 20 twice a day right?  20 mg?
+
+PATIENT H417
+Well actually I'm taking only 10.
+
+DOCTOR H417
+Okay 10 okay.
+
+PATIENT H417
+I'm taking 10.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+Along with the metformin.
+
+DOCTOR H417
+Okay and uh metformin what 500 twice a day okay.
+
+PATIENT H417
+Right, right.
+
+DOCTOR H417
+And then and you're taking that every day?
+
+PATIENT H417
+Yes.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+Every, every day without fail and your blood sugars when you wake up in the morning are around?
+
+PATIENT H417
+They tend to.
+
+DOCTOR H417
+What number?
+
+PATIENT H417
+Fluctuate maybe 95, 115 or so I guess.
+
+DOCTOR H417
+So that's very good.  Is that better than it has been in the past?  A lot better cause it.
+
+PATIENT H417
+Cause when I was waking it was like 150.
+
+DOCTOR H417
+Okay, okay.  Now you said two hours after you eat it's how much?
+
+PATIENT H417
+It's um, it's about 140.
+
+DOCTOR H417
+140 okay.
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+Um that's fine uh any problems with low, low blood sugar?
+
+PATIENT H417
+The lowest I ever went was, I tested myself one time and it was like uh 85.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+That's not, that's not that low is it?
+
+DOCTOR H417
+85 is not that low.
+
+PATIENT H417
+But when I get below 70.
+
+DOCTOR H417
+Then you start feeling it?
+
+PATIENT H417
+Well I haven't got below 70 yet.
+
+DOCTOR H417
+Okay, alright well that's good.  So then you're not going too low.  Um when was your last eye appointment?
+
+PATIENT H417
+I have one coming up.
+
+DOCTOR H417
+You do okay.
+
+PATIENT H417
+Yeah it's September 23rd.
+
+DOCTOR H417
+How about your foot, any foot appointments?
+
+PATIENT H417
+I have to make one but I been taking care of my feet.
+
+DOCTOR H417
+You haven't?
+
+PATIENT H417
+I have.
+
+DOCTOR H417
+Okay good, that's good.  And you do any exercise?
+
+PATIENT H417
+Yes.
+
+DOCTOR H417
+And your dieting?
+
+PATIENT H417
+Yeah I uh eat no white food at all.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+No white you know only whole wheat or whole grain and I exercise too.
+
+DOCTOR H417
+Alright.  Now your last cholesterol was in May as well.  Your good cholesterol was 124 or sorry your bad cholesterol was 124; your good cholesterol was 40.  Now DOCTOR I think changed your cholesterol medication at that time too right?
+
+PATIENT H417
+Uh yeah he did.  He changed it.  Yes.
+
+DOCTOR H417
+Now there are a couple, there are a couple of notes here okay.  First of all the @@@ problems, okay.  Now DOCTOR had increased your glipizide from 10 to 20.  Did that ever happen?  The glipizide to twice a day to 10 mg?
+
+PATIENT H417
+Yeah that's before the uh metformin.
+
+DOCTOR H417
+Okay.  But then you start the metformin and then you just kept on the 10 is that correct?
+
+PATIENT H417
+Uh I started doing 20.  I mean I was going 20 and then I got on the metformin okay and then I found out that I went back down to 10 of the glipizide and did the metformin and my sugar got better.
+
+DOCTOR H417
+Okay.  Alright, alright so what we need to do at this point so and you've been taking your cholesterol medication regularly correct?
+
+PATIENT H417
+Right.
+
+DOCTOR H417
+Okay um and it looks like your cholesterol medication was actually changed at one point.
+
+PATIENT H417
+Well they started what simvastatin, yes simvastatin.
+
+DOCTOR H417
+Yeah so when was that changed?
+
+PATIENT H417
+Oh that was changed when I first, let's see when was it changed; let me think back, it was changed about three or four months ago.
+
+DOCTOR H417
+Okay.  Well if it was changed three or four months ago.
+
+PATIENT H417
+It should be in my chart somewhere.
+
+DOCTOR H417
+Well we need to repeat it okay.  Now this says on 06/10 so it says, this note said you're on simvastatin 20 mg okay.  It says they wanted to increase but they were going to re-discuss it on your visit to the uh pharmacist.
+
+PATIENT H417
+Yeah we were supposed to do some more tests on it.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+I believe before we increased it to see how my, see how my cholesterol is.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+Since I been on the uh the simvastatin.
+
+DOCTOR H417
+You haven't been taking that regularly, were you having trouble not taking that regularly?
+
+PATIENT H417
+I took I uh actually take half of it.
+
+DOCTOR H417
+Okay.  Okay but you're doing that every day?
+
+PATIENT H417
+Yeah I have it every day.
+
+DOCTOR H417
+And but before your cholesterol was last checked in May.  Were you taking it kind of sporadically then like every once in a while or were you taking it consistently?
+
+PATIENT H417
+I take my medicine consistently.
+
+DOCTOR H417
+Okay it's all good.  Well I mean maybe something we do need to increase is.
+
+PATIENT H417
+What?
+
+DOCTOR H417
+The simvastatin.
+
+PATIENT H417
+Why?
+
+DOCTOR H417
+Well because your cholesterol wasn't at goal, so a lot of people with diabetes.  Diabetes have certain goals okay and they're with regard to sugar control okay because we know that blood sugar can affect vessel disease, especially small vessel disease and then we also aim to control a lot of other stuff like blood pressure, cholesterol, smoking okay.
+
+PATIENT H417
+Uh-huh.
+
+DOCTOR H417
+Cause you know that can affect heart disease and it turns out diabetics die most from heart disease, vascular disease so anything we can do to limit that is good.  Now all these studies of people that live over the years tend to show that we're
+being good doctors if we meet these goals and we decrease the risks of these events happening if we meet these goals.  So that's kind of why we have you on it is because we know that if we get your cholesterol to a certain goal, being a diabetic, that will help you live longer.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+So that's why we, that's why we kind of encourage that, we kind of push you to do that stuff.  Um and that's why DOCTOR wanted to increase your simvastatin alright from 20 to 40 cause he wanted to see your bad cholesterol, the LDL, should be around 100.
+
+PATIENT H417
+But should we uh do a test to make sure?
+
+DOCTOR H417
+Well it depends, the last time it was checked was in May right?
+
+PATIENT H417
+I believe so, I can't remember.
+
+DOCTOR H417
+Yeah.
+
+PATIENT H417
+To be honest with you.  Can you see it there?
+
+DOCTOR H417
+Yeah.  So the last time we checked your cholesterol was in May.
+
+PATIENT H417
+Right well that's when I did the blood tests right.
+
+DOCTOR H417
+Yeah.
+
+PATIENT H417
+Okay yeah.
+
+DOCTOR H417
+And it was okay but it wasn't quite, it was 124, it should be around 100.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Okay and that's kind of the same for your A1c wasn't at goal either and that's why we added your metformin so okay.  So.
+
+PATIENT H417
+So that A1c is a actual test, a test over a period of time right?
+
+DOCTOR H417
+Yes.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Yes.  Um yeah and it checks to make sure how well your sugar's controlled.  It should be checked every three months.
+
+PATIENT H417
+Okay so it’s time.
+
+DOCTOR H417
+Yeah.  So how about this?
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Cause why don't we check your cholesterol.
+
+PATIENT H417
+Uh-huh.
+
+DOCTOR H417
+Okay, alright.  If your cholesterol is still elevated let's go increase your medication.
+
+PATIENT H417
+Well okay.
+
+DOCTOR H417
+Alright.
+
+PATIENT H417
+Because I think it's what it is, 25 mg.
+
+DOCTOR H417
+You're at 20 mg.
+
+PATIENT H417
+And I'm doing 10.
+
+DOCTOR H417
+You are doing, at least by this; you're doing 20 mg so you get a 40 mg tablet.
+
+PATIENT H417
+Oh yeah.
+
+DOCTOR H417
+And you're cutting them in half.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Okay.  So by this you're taking 20 mg so we would increase to the 40 mg alright.
+
+PATIENT H417
+That's a whole pill.
+
+DOCTOR H417
+Yeah.
+
+PATIENT H417
+But you're gonna do the test right correct?
+
+DOCTOR H417
+Yeah.  If that's what it takes to get you to increase yeah I'll do that.
+
+PATIENT H417
+Yeah because I want to make sure.
+
+DOCTOR H417
+Alright.  Have you been eating today, you been fasting?
+
+PATIENT H417
+Uh, I had one of those bars, one of those Nature Valley Bars.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+@@@.
+
+DOCTOR H417
+That’s okay.  Deep breaths, again, deep breath.  Your pulse is a little bit fast today.  Is it always a little quick?
+
+PATIENT H417
+Well I'd had been in the gym for about an hour.
+
+DOCTOR H417
+Oh you were in the gym?
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+You were working out okay.
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+I was gonna say.
+
+PATIENT H417
+@@@ yeah.
+
+DOCTOR H417
+Maybe that’s why.
+
+PATIENT H417
+My blood pressure was kind of high I said I had just got done at the gym.
+
+DOCTOR H417
+Okay, alright.
+
+PATIENT H417
+I'd been at the gym about maybe.
+
+DOCTOR H417
+Before you came up here?  Yeah.  And you're gonna set up an eye appointment and a foot appointment?
+
+PATIENT H417
+Oh yes.
+
+DOCTOR H417
+Okay so I think that's what we're gonna do alright.  We'll repeat your cholesterol but you need to be fasting so you have to come back and do it okay.
+
+PATIENT H417
+Okay.  Have to come back?
+
+DOCTOR H417
+Yeah you can do it, I don't know do you come to the gym here or?
+
+PATIENT H417
+No I go to Bally’s.
+
+DOCTOR H417
+Okay close by?
+
+PATIENT H417
+Huh?
+
+DOCTOR H417
+Is it close by?
+
+PATIENT H417
+Close by my home.
+
+DOCTOR H417
+Okay.  How often to get up here?
+
+PATIENT H417
+Not often at all.
+
+DOCTOR H417
+Okay.  We'll repeat your cholesterol.  The next time you can come back and I'll put it in for like in the next week.
+
+PATIENT H417
+Uh-huh.
+
+DOCTOR H417
+For you to come back in okay.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Any time between now and next week should be good.  Uh I'll put it in for tomorrow morning and you can just get it in the morning.
+
+PATIENT H417
+Well what's you gonna do about this wheeze?
+
+DOCTOR H417
+Well right now your lungs sound pretty clear okay.
+
+PATIENT H417
+Cause I think it's in here cause I have to uh sometimes I have to use that albuterol.
+
+DOCTOR H417
+You use the albuterol inhaler?  You really have to avoid certain foods that gives you um.
+
+PATIENT H417
+Well like uh, like if I eat something like pasta with tomato sauce.
+
+DOCTOR H417
+Yeah.
+
+PATIENT H417
+Late at night.
+
+DOCTOR H417
+Yes.
+
+PATIENT H417
+Then I get it, I can't help it.
+
+DOCTOR H417
+Right.
+
+PATIENT H417
+Or really spicy.
+
+DOCTOR H417
+Do you have coffee?
+
+PATIENT H417
+Yeah sometimes in the morning.
+
+DOCTOR H417
+Okay does that set you off?
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+Um sometimes people that have, it’s usually due to reflux or an inflammation in the esophagus from like the stomach acid.
+
+PATIENT H417
+Uh-huh.
+
+DOCTOR H417
+What we can do is you take the albuterol; you get wheezing mostly at night right?
+
+PATIENT H417
+Yeah when I lay down.
+
+DOCTOR H417
+Yeah.
+
+PATIENT H417
+Uh I have shortness of breath.  Now when I get on the treadmill @@@ fine @@@ uh you know I have like shortness of breath.
+
+DOCTOR H417
+You do have shortness of breath?
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+Okay.  Any swelling now?
+
+PATIENT H417
+Any swelling?
+
+DOCTOR H417
+Yeah in your legs or anything like that?
+
+PATIENT H417
+No. Uh uh.
+
+DOCTOR H417
+Um how about when you walk regularly?  No?
+
+PATIENT H417
+No.
+
+DOCTOR H417
+Chest pain?
+
+PATIENT H417
+No.
+
+DOCTOR H417
+Alright um.
+
+PATIENT H417
+You think  you can give me something for this wheezing though?
+
+DOCTOR H417
+What's that?
+
+PATIENT H417
+Can you give me something for this wheezing?
+
+DOCTOR H417
+Depending on what's causing the wheezing.  You know if you're telling me when you're on the treadmill and you’re short of breath do you mean you're not able to exercise as much as you can or?  How many flights of stairs can you go up before you get short of breath?  Or is that a problem for you or not a problem at all?
+
+PATIENT H417
+It depends.
+
+DOCTOR H417
+Do you wheeze when you get on the treadmill?  No.  Do you get short of breath still?
+
+PATIENT H417
+The only time I wheeze is when I'm laying down.
+
+DOCTOR H417
+Okay.  And what's this with the treadmill thing?
+
+PATIENT H417
+Well when I get off the treadmill sometimes I got to like kind of catch my breath but I don't be wheezing.  Like my wife says sometimes when I be talking to her she'd say I hear you wheezing.
+
+DOCTOR H417
+Okay.  It may be that sometimes if it's worse at night, you know this wheezing it could be just the reflux that's maybe causing this uh your.
+
+PATIENT H417
+The wheezing?
+
+DOCTOR H417
+Yeah I mean it could be.  So maybe suppress some of the stomach acid a little bit, that might help it too and we could try it.
+
+PATIENT H417
+Put this on hold again.
+
+DOCTOR H417
+Well I can give you something for it.  I can give you something for it, what do you think?
+
+PATIENT H417
+You say you didn't see any problems with my lungs or anything?
+
+DOCTOR H417
+Your PFT showed you maybe have a mild obstructive defect okay.  Now the albuterol should help that.  Does your albuterol help the wheezing that you have at night?  Have you tried it at night the albuterol?
+
+PATIENT H417
+Yeah sometimes I can try it.
+
+DOCTOR H417
+Sometimes, does it help?
+
+PATIENT H417
+Uh yeah it helps.  But you know I spoke to DOCTOR and he said that the albuterol is not doing any good and that's what he told me.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+Um you’re trying to tell me there's no problems with the lungs.  
+
+DOCTOR H417
+Yeah well right now it doesn't look like there is okay.  What I'm saying is that sometimes if your stomach acid at night, you lay back and that irritates your lungs cause it can.  It can cause a little constriction and can cause that wheezing.  Your lungs sound clear on exam right now, so there's no problem.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+So what if we try and just suppress the stomach acid alright.  You just take the pills, take twice a day, we'll check it, we'll try it for a month, four to eight weeks, see if that helps at all alright.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Especially at night and then if it does we have our answer.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Alright.  I'll be right back.
+
+PATIENT H417
+Can you uh, give me something to enhance my sexual performance?
+
+DOCTOR H417
+(Laughter) You just add it on right at the end don't you?
+
+PATIENT H417
+(Laughter).
+
+DOCTOR H417
+@@@ I'm just kidding.  Um yeah we can talk about that too I mean.  I think getting your blood sugars under control that @@@ is fine.  Can we talk about that when you come in in a month?
+
+PATIENT H417
+I was hoping that you'd give me some today.
+
+DOCTOR H417
+Alright well I'll see what I can do.
+
+PATIENT H417
+(Laughter).
+
+DOCTOR H417
+Next time, don’t wait until the end of the appointment.
+
+PATIENT H417
+Well I want to get the important stuff out first.
+
+DOCTOR H417
+Alright, alright, alright.
+
+(DOCTOR OUT:  35:00  DOCTOR IN:  41:10)
+
+DOCTOR H417
+Alright.  So you're able to actually get an erection?
+
+PATIENT H417
+Uh yes, a little.
+
+DOCTOR H417
+What's the problem?  Is it I mean.
+
+PATIENT H417
+I want it better.
+
+DOCTOR H417
+Okay.  So what do you mean better?  You mean you want harder?
+
+PATIENT H417
+Yes.
+
+DOCTOR H417
+You want it to last longer?
+
+PATIENT H417
+Yeah I want it to last longer and I want it better.
+
+DOCTOR H417
+Okay.  Now are you able to ejaculate?
+
+PATIENT H417
+Yes.
+
+DOCTOR H417
+Okay.  Is it, do you ejaculate too quick?
+
+PATIENT H417
+Sometimes.
+
+DOCTOR H417
+That's a different story okay.  But you are able to achieve an erection?
+
+PATIENT H417
+Yeah but it's not hard enough.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+My wife want it harder.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+Or she’s gonna leave me.
+
+DOCTOR H417
+How's the, how's stuff with your wife, is it alright?
+
+PATIENT H417
+What?
+
+DOCTOR H417
+Here's what I'm saying okay is it, yes Viagra could help you.
+
+PATIENT H417
+But that's kind of dangerous isn't it?  What about Cialis?
+
+DOCTOR H417
+Oh Cialis, Viagra kind of work in the same way okay.  Now both are dangerous if you're on medications that can lower your blood that like a nitrite is what it’s called that lowers your blood pressure if you have heart disease right.
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+And I don't think that you have, you don't have any indication of heart disease right now.  You're not getting chest pains when you run; you're not on any medications like the nitrates okay.  Those are contraindications.  There are a couple of things that are worrisome right that they can cause you know this you know your erections not being so great okay.  So one is vascular disease, so someone who has uncontrolled diabetes.  We always worry about the vessels down there being a affected, alright.  So that's one thing that's the reason you need to control your diabetes right.  The other thing we worry about is just psychological stuff.  Like sex is psychological as everything else is.
+
+PATIENT H417
+Yeah it is.
+
+DOCTOR H417
+Yeah and if you're not as attracted or you've been married a long time, things maybe aren't going as well.
+
+PATIENT H417
+(Laughter) That could be a reason huh?
+
+DOCTOR H417
+Well it could be, I mean you tell me.  I mean do you think is this kind of a tough time right now in the relationship or?
+
+PATIENT H417
+Uh uh.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+No.
+
+DOCTOR H417
+You think there's a psychological component to it?
+
+PATIENT H417
+It's part of the psychological I mean that's part of the physical as well.
+
+DOCTOR H417
+Okay, alright.
+
+PATIENT H417
+So what you're saying that I shouldn't take this stuff?
+
+DOCTOR H417
+What I'm saying is if you want to, I don't know if I can give it to you without, I mean you need to take a couple of tests first.  The VA wants to get like a urine test, get a blood test right, check into your prostate and make sure that's okay, alright.
+
+PATIENT H417
+Oh okay.
+
+DOCTOR H417
+If all that's okay we could probably give it a try, alright.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Um.
+
+PATIENT H417
+I need to have my prostate checked anyway.
+
+DOCTOR H417
+Okay then we'll do it then.  I'm going to put, why don't we do labs that's today okay.
+
+PATIENT H417
+Oh today cause I don't know if I have the time.
+
+DOCTOR H417
+Well when you come back to get your cholesterol checked alright.
+
+PATIENT H417
+How long this gonna be a month from now?
+
+DOCTOR H417
+I can put the cholesterol, when do you want to come back to get your um.
+
+PATIENT H417
+Oh do these tests?
+
+DOCTOR H417
+Yeah.
+
+PATIENT H417
+I can come back tomorrow.
+
+DOCTOR H417
+Okay so come back in the morning.
+
+PATIENT H417
+Oh okay.
+
+DOCTOR H417
+Can you do that?
+
+PATIENT H417
+Yeah.
+
+DOCTOR H417
+Alright then we'll put it in for tomorrow morning at 8 o'clock let's say.
+
+PATIENT H417
+Um put down 9 o'clock.
+
+DOCTOR H417
+9 o'clock is fine alright.
+
+PATIENT H417
+Uh you know that's gonna be good too because you can do all those other tests as well can't you?
+
+DOCTOR H417
+Yep that's what I was, that's what we'll do.  So we'll check your A1c, we'll check your cholesterol okay.
+
+PATIENT H417
+Okay that's fine.
+
+DOCTOR H417
+And we're gonna check your prostate and we just need a urine tests okay.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+And then when you come back, do you want to come back and see me in a couple of months?
+
+PATIENT H417
+Uh.
+
+DOCTOR H417
+You want to come see me in a month?
+
+PATIENT H417
+Well I want to come see you so I can get those pills.
+
+DOCTOR H417
+Alright, so I got to see you in a month then.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Okay.
+
+PATIENT H417
+Do you work nights?
+
+DOCTOR H417
+No I work Monday afternoon.
+
+PATIENT H417
+Let's see, a month from now, a month I'll @@@.
+
+DOCTOR H417
+Alright.
+
+PATIENT H417
+Yeah that's fine.
+
+DOCTOR H417
+Oh they might actually let me give you the Levitra.
+
+PATIENT H417
+What's.
+
+DOCTOR H417
+Yep, they'll let me give it to you okay.  So I'll give you, let's get the PSA checked so, get all the labs checked tomorrow like we talked about.
+
+PATIENT H417
+Right.
+
+DOCTOR H417
+And then you can actually go pick up this.  It's only for twice a month okay.  So I can give you two pills and I can give you a refill.  I'll give you two refills.
+
+PATIENT H417
+So it's twice a month.
+
+DOCTOR H417
+You take it before sexual activity but we can only give you two pills okay with refills.
+
+PATIENT H417
+Oh you have to keep coming back.
+
+DOCTOR H417
+Yes.  Right.
+
+PATIENT H417
+Can you, do you have to take the whole pill or could you uh.
+
+DOCTOR H417
+Take the whole pill.
+
+PATIENT H417
+Oh.  So what does that do, what that do uh enhance your uh?
+
+DOCTOR H417
+It allows blood to flow more freely okay.
+
+PATIENT H417
+Do you get a better erection?
+
+DOCTOR H417
+You got it.  Alright.  Okay uh I guess that's it.
+
+PATIENT H417
+Oh give me uh, I need uh atenolol.  I guess you can't write a prescription, I just got to take the medicine here.
+
+DOCTOR H417
+Right exactly.  What do you need a prescription for?
+
+PATIENT H417
+Atenolol, atenolol.
+
+DOCTOR H417
+I don't see you on atenolol.  You're on the metformin, the nifedipine, the glipizide, the aspirin, simvastatin, hydrochlorothiazide.  I don't see they have you on atenolol, oh here we go okay.  That ones expired.  How long you been taking it?
+
+PATIENT H417
+Uh I been taking long, long, for a long time.  Do I have to take it?
+
+DOCTOR H417
+Yes you should take it.
+
+PATIENT H417
+What is that for exactly?
+
+DOCTOR H417
+It's for your blood pressure.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Okay.  Now I'm just trying to see here.  Okay, alright.  I'm going to refill your atenolol.
+
+PATIENT H417
+Okay.  So I do the tests tomorrow, I have the tests.
+
+DOCTOR H417
+Yep.
+
+PATIENT H417
+And then I see you a month from now.
+
+DOCTOR H417
+You got it.
+
+PATIENT H417
+Then.
+
+DOCTOR H417
+Same bat time.
+
+PATIENT H417
+Okay.
+
+DOCTOR H417
+Alright.  We'll see @@@ alright.
+
+PATIENT H417
+Okay, yeah.
+
+PATIENT LEAVES:  48:08.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1275424
+TRANSACTION # 578-10-2-316-0103

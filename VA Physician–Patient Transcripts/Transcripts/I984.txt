@@ -1,0 +1,577 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR I984 
+PATIENT.
+
+PATIENT I984
+Oh yeah, right here.
+
+DOCTOR I984
+I'm DOCTOR.
+
+PATIENT I984
+Hi.  How are you?  @@@.
+
+DOCTOR I984
+Hmm?
+
+PATIENT I984
+I'm getting over @@@.
+
+DOCTOR I984
+Go ahead and have a seat.  My name is DOCTOR.
+
+PATIENT I984
+Okay.
+
+DOCTOR I984
+Alright so any complaints or anything since your last visit that was like a year ago?  Okay.  Alright so you have diabetes, hypertension.  Do you check your blood sugars at home?  How do they run in the morning?
+
+SECOND PERSON I984
+Well it kind of varies.  Sometimes they're good, sometimes they're @@@.
+
+DOCTOR I984
+What's the lowest it's been?
+
+SECOND PERSON I984
+Is he still, look on the record does he @@@?
+
+DOCTOR I984
+Yeah I've never seen him though.
+
+SECOND PERSON I984
+Oh okay, alright.
+
+PATIENT I984
+Yeah, yeah.
+
+DOCTOR I984
+@@@.
+
+SECOND PERSON I984
+Right I know.
+
+DOCTOR I984
+Um so what's your sugar like in the morning?
+
+SECOND PERSON I984
+Well like I said sometime it's 120 and sometimes it's 180.
+
+DOCTOR I984
+Okay.
+
+SECOND PERSON I984
+It kind of varies.
+
+DOCTOR I984
+Yeah and what about blood pressures?
+
+SECOND PERSON I984
+Blood pressures have been the same yeah.  They go down low and then sometimes they go around high.
+
+DOCTOR I984
+What are the numbers?
+
+SECOND PERSON I984
+Let me see, what are they about, your blood pressure here they are 152 and sometime 170, 180.
+
+DOCTOR I984
+Hmm.  Between 150-180s.  Never less than 150?
+
+SECOND PERSON I984
+Oh yeah it goes down real low @@@.
+
+DOCTOR I984
+Okay these are all kind of all over the place.
+
+SECOND PERSON I984
+Sometime it is yeah.
+
+DOCTOR I984
+What does it mainly do though?  Is it mainly above 150 or below 150?
+
+SECOND PERSON I984
+Let's see all last week @@@.  They ran above 150.
+
+DOCTOR I984
+Okay.
+
+SECOND PERSON I984
+Most of the time.
+
+DOCTOR I984
+Okay um any trouble urinating, blood in the urine?
+
+SECOND PERSON I984
+Daddy?
+
+PATIENT I984
+No.
+
+DOCTOR I984
+Okay.  Any burning in your feet?
+
+SECOND PERSON I984
+No.
+
+DOCTOR I984
+Right and then you sleep with a CPAP machine at night?
+
+PATIENT I984
+Yeah @@@.
+
+DOCTOR I984
+Alright and then um you take.  How's your diet been? Considering your diabetes and your high cholesterol?  Do you eat more vegetables?  Have you been having a lot of sugars or lean meats?
+
+PATIENT I984
+@@@.
+
+DOCTOR I984
+Okay.  We'll check a A1c alright and the medicine you're taking um a long list.
+
+SECOND PERSON I984
+Uh-huh it's a long one.
+
+DOCTOR I984
+Yeah a lot of those medicines can be cut out if you’re you know losing weight, eating better.
+
+PATIENT I984
+If you do what?
+
+DOCTOR I984
+Losing weight, eating better, a lot of medicines can be cut out like cutting back on.
+
+PATIENT I984
+If I could lose weight yeah, yeah.
+
+DOCTOR I984
+Cutting back on the cholesterol medicine.  
+
+PATIENT I984
+Right.
+
+DOCTOR I984
+Um so Tylenol you take every eight hours for pain?  I'm going through making sure the list is up-to-date.
+
+SECOND PERSON I984
+No he doesn't take that.
+
+DOCTOR I984
+You don't take Tylenol okay.  Um what about the bupropion that's for mental health?
+
+PATIENT I984
+Uh.
+
+SECOND PERSON J472
+@@@.  Now that's the one he was on, they took him off of that.
+
+DOCTOR I984
+You're off of that.
+
+SECOND PERSON J472
+The doctor didn't want @@@.
+
+DOCTOR I984
+Okay.  Do you want to go back to the Mental Health Clinic?  Cause they'll only refill mental health meds there.
+
+SECOND PERSON J472
+Yeah.
+
+DOCTOR I984
+Okay.  That's probably good.  Okay and then donepezil?
+
+SECOND PERSON I984
+Yeah now that's the one that replaced it, I thought.
+
+DOCTOR I984
+Okay so he's not taking the bupropion.
+
+SECOND PERSON I984
+No.
+
+DOCTOR I984
+Alright and then dorzolamide it's the eye drops for glaucoma.
+
+PATIENT I984
+Yeah.
+
+DOCTOR I984
+Uh vitamin D once a week @@@.
+
+SECOND PERSON I984
+Yeah they just sent that uh-huh.
+
+DOCTOR I984
+Iron?
+
+SECOND PERSON I984
+Uh-huh.
+
+DOCTOR I984
+Twice a day.
+
+SECOND PERSON I984
+Yeah.
+
+DOCTOR I984
+What about Lasix 40 twice a day?  The furosemide?  The water pill?
+
+SECOND PERSON I984
+Right, right yeah twice a day.
+
+DOCTOR I984
+Hydralazine three times a day?
+
+SECOND PERSON I984
+Right.
+
+DOCTOR I984
+For blood pressure.  Vicodin as needed um insulin Aspart 8 units in the morning 12 at lunch and 12 more at dinner?
+
+SECOND PERSON I984
+Uh-huh.
+
+DOCTOR I984
+Lantus which is Glargine long-acting is he still on 47 units?
+
+SECOND PERSON I984
+47 yeah.
+
+DOCTOR I984
+Alright um Latanoprost eye drops, thyroid medicine, lisinopril 40 mg, metoprolol 100 mg twice a day for blood pressure?
+
+SECOND PERSON I984
+Right.
+
+DOCTOR I984
+Minoxidil for blood pressure 16.5 mg.  Um nifedipine 120 daily does he take that?
+
+SECOND PERSON I984
+He takes that right.
+
+DOCTOR I984
+Omeprazole, simvastatin for cholesterol?
+
+SECOND PERSON I984
+Right.
+
+DOCTOR I984
+And um trihexyphenidyl @@@.  Alright so let me have him just @@@.
+
+SECOND PERSON I984
+Yeah he's taking that.
+
+DOCTOR I984
+Do you help him with his medicines?
+
+SECOND PERSON I984
+Yes I set it up @@@ vacation this week @@@ but I fix it up and leave it there for him to take.
+
+DOCTOR I984
+Alright and um sir do you smoke?
+
+PATIENT I984
+Yes.
+
+DOCTOR I984
+Have you thought about using smoking cessation techniques for using tobacco gum or nicotine patch?
+
+PATIENT I984
+No.
+
+DOCTOR I984
+No.  Are you interested in stopping smoking?  
+
+PATIENT I984
+@@@.
+
+DOCTOR I984
+How much do you smoke?
+
+PATIENT I984
+Oh probably @@@.
+
+DOCTOR I984
+How many cigarettes in a day?
+
+SECOND PERSON I984
+I'm not at home during the day.
+
+DOCTOR I984
+Do you smoke a whole pack or @@@?
+
+PATIENT I984
+@@@ two @@@.
+
+SECOND PERSON J472
+What are you trying to say?  Um I really don't know.
+
+DOCTOR I984
+So um if you can just you know cut back @@@.
+
+SECOND PERSON J472
+Right @@@ him.
+
+DOCTOR I984
+Yeah.  We don’t want him to have a heart attack, stroke. @@@ auorta @@@ smoking.  Um and have you heard about the MOVE Clinic.  It's an exercise weight loss clinic.
+
+SECOND PERSON I984
+Uh-huh.
+
+DOCTOR I984
+Okay.  Would he be interested in it, it's on Mondays um walk-ins at 10:00 a.m. up in the Library um basically they talk about with weight loss, exercise.
+
+SECOND PERSON I984
+If we could do it at night or something.  Cause I'm not there on.
+
+DOCTOR I984
+Okay.  Ever had a foot ulcer or amputation of your foot at all?  No okay.  And if you could I'd ask you to slip your shoes off and have a seat.  
+
+SECOND PERSON I984
+She wanted you to do both of them.  And the socks as well?
+
+PATIENT I984
+Both of them.
+
+DOCTOR I984
+Do you go to a nail clinic? Podiatry?
+
+SECOND PERSON I984
+Yeah he does.
+
+DOCTOR I984
+Okay.  When was the last time?
+
+SECOND PERSON I984
+Probably it was June.
+
+PATIENT I984
+I thought it was June.
+
+DOCTOR I984
+June okay that's fine.  They must have @@@.  
+
+PATIENT I984
+@@@.
+
+SECOND PERSON I984
+@@@?
+
+DOCTOR I984
+Have you ever had studies to test the artery and your foot, they're vascular studies?
+
+PATIENT I984
+No.
+
+SECOND PERSON I984
+I don't know @@@.
+
+DOCTOR I984
+You can just breathe normally.  @@@.  
+
+SECOND PERSON I984
+@@@ pulse @@@.
+
+DOCTOR I984
+Deep breath.  Okay look right up here, follow my finger with your eyes.  Good.  Is he usually sleepy like this all the time?
+
+SECOND PERSON I984
+@@@.
+
+DOCTOR I984
+He does what?
+
+SECOND PERSON I984
+He naps all day.
+
+DOCTOR I984
+Hmm.
+
+SECOND PERSON I984
+He be so long and then he's got to go and lay down @@@ all day long.
+
+DOCTOR I984
+Yeah.  Let me see his last labs here. 
+
+SECOND PERSON I984
+Okay.
+
+DOCTOR I984
+So we'll see @@@.
+
+SECOND PERSON I984
+@@@.
+
+DOCTOR I984
+@@@.
+
+SECOND PERSON I984
+Uh-huh.
+
+DOCTOR I984
+Do you use a cream?
+
+SECOND PERSON I984
+No it seems like there's something else.  @@@.
+
+DOCTOR I984
+Yeah that looks like something @@@.
+
+SECOND PERSON I984
+Yeah that looks like dry skin.  Sometimes @@@.
+
+DOCTOR I984
+Yeah we can give you like a cream like @@@.
+
+SECOND PERSON I984
+Okay.
+
+DOCTOR I984
+That's like Eucerin.
+
+SECOND PERSON I984
+Because he still, you know I'll be sitting there and all of a sudden you he's like you know scratching and he keeps scratghing @@@.
+
+DOCTOR I984
+When was the last time you saw the kidney doctors?
+
+SECOND PERSON I984
+Uh when did we do that uh let's see I can't remember.  It was this year I know but I can't exactly remember when it was you know.
+
+DOCTOR I984
+So it was recent. Okay.  Okay let me go talk to DOCTOR he’s the attending @@@ any refills?
+
+SECOND PERSON I984
+Uh-huh.  Mostly @@@.
+
+PATIENT I984
+Yes.  What.  @@@.
+
+SECOND PERSON I984
+You know what, I ordered the alcohol pads and they never came.
+
+PATIENT I984
+Yeah.
+
+DOCTOR I984
+Okay no problem.  Do you want them mailed?
+
+SECOND PERSON I984
+Yeah you can mail them.  @@@.
+
+PATIENT I984
+@@@.
+
+SECOND PERSON I984
+@@@.
+
+DOCTOR I984
+Really.
+
+SECOND PERSON I984
+Yeah @@@.
+
+DOCTOR I984
+Yeah okay.  Alright I'll be right back.
+
+SECOND PERSON I984
+@@@.
+
+DOCTOR I984
+@@@
+
+PATIENT I984
+Need, syringes yeah.
+
+DOCTOR I984
+Okay you do okay, okay.
+
+SECOND PERSON I984
+Actually I was telling him I got two more boxes of syringes, not syringes the test strips.
+
+DOCTOR OUT:  101:18   DOCTOR IN:  106:48
+
+DOCTOR I984
+And so has he had his labs done recently?
+
+SECOND PERSON I984
+No.
+
+DOCTOR I984
+We'll do them here.
+
+SECOND PERSON I984
+Okay.
+
+DOCTOR I984
+Okay, well the CBC @@@ just had that done and then the A1c um was in May and that was 7.3 so that's good.  So we don't need that so we'll just get a CBC today and I'll refill the alcohol @@@.
+
+SECOND PERSON I984
+Okay.  
+
+DOCTOR I984
+You guys want it mailed to you?
+
+SECOND PERSON I984
+Yes.
+
+DOCTOR I984
+See if there's anything.  Bless you.
+
+SECOND PERSON I984
+Uh-huh.  Thank you.
+
+DOCTOR I984
+That's it.
+
+SECOND PERSON I984
+Could you look at this arm cause he's.
+
+DOCTOR I984
+Sure.
+
+SECOND PERSON I984
+Scratching all the time.  He picks it.  @@@ itch.
+
+DOCTOR I984
+Uh-huh.  It's just very dry skin yeah so that's why I'm gonna give you the cream.
+
+SECOND PERSON I984
+Okay.
+
+DOCTOR I984
+Yeah.  So it will be mailed @@@.
+
+SECOND PERSON I984
+Okay.
+
+DOCTOR I984
+And you're all set.  Um we'll see you like in um let's say six months.
+
+SECOND PERSON I984
+Okay.
+
+DOCTOR I984
+Uh @@@ follow-up appointments @@@.
+
+SECOND PERSON I984
+Okay.  Well I just take, he's @@@.
+
+DOCTOR I984
+Yeah @@@.
+
+SECOND PERSON I984
+Okay thank you very much.
+
+DOCTOR I984
+You need to go to the Lab.
+
+SECOND PERSON I984
+Okay.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  38310
+TRANSACTION # 578-10-2-316-0103

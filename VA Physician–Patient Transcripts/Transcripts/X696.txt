@@ -1,0 +1,291 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+PATIENT X696
+How are you?  Hello doc.
+
+DOCTOR X696
+Hey, I was looking for you.
+
+PATIENT X696
+I uh.
+
+DOCTOR X696
+How do you do.
+
+PATIENT X696
+I'm doing that on Monday, Fridays.
+
+DOCTOR X696
+Alright.  Uh we have @@@ comfortable but.  How are you today?
+
+PATIENT X696
+Doing okay.
+
+DOCTOR X696
+Alright.  Are you here uh for a check-up?
+
+PATIENT X696
+You see I got this thing and I don't know what it is down here.  @@@.
+
+DOCTOR X696
+You got a little bit of a wart; it looks like it's got infected.
+
+PATIENT X696
+I think it's just.
+
+DOCTOR X696
+How long has that been going on for?
+
+PATIENT X696
+It started, it's why they burst, you know I put a Band-Aid on, I put some compression and put a Band-Aid on.
+
+DOCTOR X696
+Yeah that's probably the best thing to do uh I mean there's nothing really you know we can give you here for it other than just advice to keep it clean and dry and you know.
+
+PATIENT X696
+I keep it clean.
+
+DOCTOR X696
+Avoid like you know getting dirt in it.
+
+PATIENT X696
+And that's why I put a Band-Aid on it.
+
+DOCTOR X696
+Yeah, yeah, yeah, you got to wash it, I could say at least three times a day and keep it clean, good.
+
+PATIENT X696
+But I have no more Band-Aids.
+
+DOCTOR X696
+Um so as far as a general uh health maintenance stuff I think that uh the blood pressure is probably a little bit on the high side today uh.  Did you have a chance to take your medicines this morning or?
+
+PATIENT X696
+I forgot to take it today.
+
+DOCTOR X696
+Yeah okay.  Well like do you need a refill on any of them or?
+
+PATIENT X696
+Yeah just mail it to me.
+
+DOCTOR X696
+Just mail it at home to you?  Do you have enough at home @@@.
+
+PATIENT X696
+I have enough you know today but I don't have enough till the next time I come here.
+
+DOCTOR X696
+Okay, okay.  Well the issue is that we think that your uh blood pressure is actually dangerously high, uh at which point it seems as though based on your last blood work a year ago you have, uh the problem is is when people have kind of longstanding high blood pressures they uh, it can actually, it starts to damage other organs because the pressure's so high and the first organ damaged is usually the kidney.  Um based on your blood work which was April @@, @@@@, um your kidney function is less than 50%.  So that's fine, I mean people can live with 50% of their kidneys you know no problem but if it continues to decline and we don't get your blood pressure under control and this is why I’m so concerned about it today, once you get to about 10% that's when people need to go on dialysis.
+
+PATIENT X696
+I know.
+
+DOCTOR X696
+So you're halfway, more than halfway there to needing dialysis.
+
+PATIENT X696
+Uh-huh.
+
+DOCTOR X696
+So it's just um, it's so important.  That's why it's so important and I want you to know dialysis is a miserable lifestyle.
+
+PATIENT X696
+I know.
+
+DOCTOR X696
+You have to go in two times a week.  You have to stay, it's nothing good about it – it’s bad.  Um and you know.
+
+PATIENT X696
+So hey I want to get this under control.
+
+DOCTOR X696
+So that's why, so that's why it's important to you know have, you know for us to talk now and um for you to get your blood pressure under control so we can preserve what you have left because there's no magic pill to regrow your kidneys.
+
+PATIENT X696
+I know.
+
+DOCTOR X696
+Just you know, technically just can't do it.  Um otherwise you know I think that should be the main issue uh for today.  Um.
+
+PATIENT X696
+I guarantee when I come back in here it'll be better.
+
+DOCTOR X696
+Okay, okay.  I mean it's not for me; it's for you you know.
+
+PATIENT X696
+Yeah, yeah.  @@@.
+
+DOCTOR X696
+Well if you'll have a seat I'll take a quick listen to you.  I'd like for you to come back in two weeks.
+
+PATIENT X696
+Alright.
+
+DOCTOR X696
+To make sure your blood pressure is at goal.
+
+PATIENT X696
+Okay.
+
+DOCTOR X696
+And uh I'll @@@.
+
+PATIENT X696
+It fluctuates.
+
+DOCTOR X696
+Yeah.
+
+PATIENT X696
+Sometimes it's high and sometimes it be low.
+
+DOCTOR X696
+Yeah I know.
+
+PATIENT X696
+Like it's always, sometimes it be @@@.
+
+DOCTOR X696
+Yeah well, let's take a look.  Alright night deep breaths, deep breath, deep breath good.  Alright just breathe normal.  Alright.  Um uh let's see any swelling in the legs?
+
+PATIENT X696
+No.
+
+DOCTOR X696
+Good.  Now PATIENT uh how do you feel about weight loss?  Uh going to weight loss class?
+
+PATIENT X696
+I been @@@.  I @@@ lost twelve pounds since the last time I was in here.
+
+DOCTOR X696
+Yeah, yeah.  Let's see.
+
+PATIENT X696
+I'm doing it on my own.  I been losing weight, I lost 12 pounds.  
+
+DOCTOR X696
+Right now, well that's good, that's good, that's good I'm really happy to see that.  It seems like you've been kind of bouncing up and down like the time before that you were 290, then you went up to 302 and now you're 291 today.
+
+PATIENT X696
+Uh-huh.
+
+DOCTOR X696
+So you probably did, how tall are you?
+
+PATIENT X696
+6 3.
+
+DOCTOR X696
+6 3, so you should probably weigh about 225 so you could probably stand to lose about 50 pounds.
+
+PATIENT X696
+Wow.
+
+DOCTOR X696
+Yeah, yeah, yeah and uh you know it's referenced by um, you know the kind of burden it's taken on your body uh that we can see in some of your blood work.  Um you know I'm not here to lecture you.
+
+PATIENT X696
+Oh I know.
+
+DOCTOR X696
+I'm just, you know I'm trying to tell you what studies have shown and you know when you're here at the doctor's office we're gonna tell you what you know we know about the body that uh you know blood pressure control saves kidneys and we know based on how tall people are how much they're supposed to weigh and that preserving you know your cardiovascular functions.
+
+PATIENT X696
+I know.  You got to know where you're at.
+
+DOCTOR X696
+And uh and then uh the diabetes too.  Uh keeping away the diabetes.  When people get overweight they get diabetes.  So I think that's you know, I got to be the man, I mean I see you come in here with uh you know.
+
+PATIENT X696
+@@@ I just read a study this morning you know about my diabetes.
+
+DOCTOR X696
+Yeah.
+
+PATIENT X696
+Where you're napping, your sleeping.
+
+DOCTOR X696
+Alright you're sure you got enough medicine at home?
+
+PATIENT X696
+I got enough yeah.
+
+DOCTOR X696
+I can send some to the window.  Do you want me to send some to the window?
+
+PATIENT X696
+Mail it out to me.  I have enough at home.
+
+DOCTOR X696
+Okay.  Can we get some blood work from you here?  Cholesterol, kidney tests, liver tests, it's needed you're overdo.
+
+PATIENT X696
+Okay.
+
+DOCTOR X696
+Okay, alright uh let me gets some papers together for you.  I'll be right back.
+
+PATIENT X696
+Okay.
+
+DOCTOR X696
+Alright.
+
+(DOCTOR OUT:  14:26  DOCTOR IN:  19:14)
+
+DOCTOR X696
+PATIENT uh you can give this to the secretary on the way out they'll schedule you in two weeks uh with the pharmacist.
+
+PATIENT X696
+Uh-huh.
+
+DOCTOR X696
+And bring in all your medicines.  Like bring in all your pill bottles.
+
+PATIENT X696
+Okay.
+
+DOCTOR X696
+Cause it's like they'll reconcile medications.
+
+PATIENT X696
+Okay.
+
+DOCTOR X696
+So make sure you're on the right stuff and make sure we know what you're on and all that good stuff.
+
+PATIENT X696
+Okay.
+
+DOCTOR X696
+In two weeks bring all your medicines and hey stop by the blood draw on the way out.  We'll check your kidney tests and cholesterol.
+
+PATIENT X696
+Okay.
+
+DOCTOR X696
+Alright.
+
+PATIENT X696
+Okay.
+
+DOCTOR X696
+Alright.  Nice to see you PATIENT.
+
+PATIENT X696
+Okay.
+
+DOCTOR X696
+Alright take care.
+
+PATIENT LEAVES:  19:57
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255189
+TRANSACTION # 578-10-2-316-0103

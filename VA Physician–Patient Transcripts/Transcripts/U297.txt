@@ -1,0 +1,1031 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR U297
+PATIENT?  How you doing?
+
+PATIENT U297
+Pretty good.
+
+DOCTOR U297
+Come on back.  How you doing today?
+
+PATIENT U297
+Uh man, I started using @@@ blood pressure is high today.
+
+DOCTOR U297
+Did take your medications today?
+
+PATIENT U297
+Yeah.
+
+DOCTOR U297
+Have you been checking it at home at all?
+
+PATIENT U297
+It's been pretty good.  I don't know, I got one of them you know, goes down here @@@ cuff @@@
+
+DOCTOR U297
+What numbers have you been getting?
+
+PATIENT U297
+Uh 147 over like 80, 88 you know.  I don't know.  I'm if anything I'm a little nervous because uh.
+
+DOCTOR U297
+Naw, naw.  Come on man you know, there's nothing to be nervous about.
+
+PATIENT U297
+I know that but, you know something I'm really nervous coming here.
+
+DOCTOR U297
+We're not gonna @@@.
+
+PATIENT U297
+All this time I've being @@@.
+
+DOCTOR U297
+It's alright.  I get nervous doing the same thing you know.
+
+PATIENT U297
+But I don't change this cause I don't if its arthritis or whatever it is man this stuff getting to me.
+
+DOCTOR U297
+Have you been going to Physical Therapy?
+
+PATIENT U297
+No because I don't have money anymore to be getting down here all the time like that.
+
+DOCTOR U297
+Let me honest the arthritis, there's very little.
+
+PATIENT U297
+I know y'all done told me, yeah I know it.
+
+DOCTOR U297
+That we can do but the thing that I would try to see is in my, you've seen them before, thought.
+
+PATIENT U297
+Right.
+
+DOCTOR U297
+Okay good.  Have they taught you exercises?  
+
+PATIENT U297
+Yeah I do those exercises.  That was for my arms but uh now you know it's in my back.
+
+DOCTOR U297
+Okay.
+
+PATIENT U297
+And I don't sleep well at night no more cause I'm you know aching and you know I turn over and woke up and I woke @@@.
+
+DOCTOR U297
+So this is the thing that I’m going to say.  So I know your shoulders have been giving you a lot of problems.
+
+PATIENT U297
+Right.  That's, it's still.  You know I ain't got no strength over my head.
+
+DOCTOR U297
+Yeah.
+
+PATIENT U297
+It keeps locking up.
+
+DOCTOR U297
+If you want to consider surgery okay.
+
+PATIENT U297
+Uh.  You talking about cutting on my back?
+
+DOCTOR U297
+Not your back, your shoulder okay.
+
+PATIENT U297
+Well we got to talk about that @@@.
+
+DOCTOR U297
+That's a lot, that's fine and that's pushing it.  So I'm saying.  If you it's getting so bad that you can't do your regular daily things.
+
+PATIENT U297
+Yeah, like shaving, yeah.
+
+DOCTOR U297
+Yeah so then I want you to start thinking about it, in terms of, it's an option.  It's a crappy option but it’s the only other remedy, okay.  But that’s not something you have to answer now.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+@@@.  So to let you know what they would do is they would, you know take a look at your shoulder to see how bad it is.  They might have to replace a joint, with something mechanical and then after that you would have to go to physical therapy anyway to have them get your strength back up.  @@@it’s a pretty tough couple of months, but after that your problem is gone.
+
+PATIENT U297
+It would hurt, but it’d be gone you know, @@@.
+
+DOCTOR U297
+Yeah.
+
+PATIENT U297
+Yeah, ‘cuz you know, the ankles aching, feet swelling. 
+
+
+DOCTOR U297
+Okay the only other thing.  I'm going to be honest so you know we're giving you pain medications, but physical therapy when you can do it and then the only other thing is your weight loss you know.
+
+PATIENT U297
+Is what?.
+
+DOCTOR U297
+Weight loss yeah.  @@@ you weigh.
+
+PATIENT U297
+213.
+
+DOCTOR U297
+213 last time you were here, you weight 194.
+
+PATIENT U297
+Yeah I know I've gained weight.
+
+DOCTOR U297
+Okay.  All that stuff.
+
+PATIENT U297
+Uh-huh.
+
+DOCTOR U297
+And I mean, it's kind of you're your own worst enemy in that sense you know.
+
+PATIENT U297
+What eating?
+
+DOCTOR U297
+Yeah because think about, okay, so think about your back @@@ okay.
+
+PATIENT U297
+Right.
+
+DOCTOR U297
+And in August when I saw you, you weighed 194.
+
+PATIENT U297
+Right.
+
+DOCTOR U297
+Now it's like you're carrying around a 20 pound dumb bells with you.
+
+PATIENT U297
+Yeah, all right here, I gotcha.
+
+DOCTOR U297
+So it's a lot of stress.
+
+PATIENT U297
+But I mean, look I been having, man I been, you know I eat all the time now.  I don't know, you know it start happening.  I'm always hungry.
+
+DOCTOR U297
+You got to control it. There's different ways right.  I'm not telling you not to eat but just eat the right things.
+
+PATIENT U297
+That's right yeah.
+
+DOCTOR U297
+You know, instead of fried foods, no fried foods @@@.  Instead of going and reaching for a snack like a cookie or something, get an apple, just the right thing.  All that stuff makes a difference.
+
+PATIENT U297
+Right, right.
+
+DOCTOR U297
+And you know of course you know try to stay as active as you can you know.  I know that it's hard with the arthritis but walking and doing exercise it actually helps.  That's why we send you to Physical Therapy.
+
+PATIENT U297
+Yeah I know.
+
+DOCTOR U297
+But the thing is, I don't think that hope is lost because we just need to get you to start doing these things you know that'll help you.
+
+PATIENT U297
+Okay I’ll start watching my diet a little better. @@@ you said If I feel a lot better, @@@
+
+DOCTOR U297
+@@@.
+
+PATIENT U297
+I've been you know forgetting a lot too doctor.  Like uh I’ll be doing something and my mind just snap.  You know @@@ kind of scaring me cause I ain't used to this.
+
+DOCTOR U297
+How has your mood been recently, like are you feeling a little bit down?  
+
+PATIENT U297
+Uh yeah because I want to be by myself.  You know I ain't been doing, uh I get up for a morning walk or something.  I'm mad because if I did a bad job shaving so you know I get pissed off that all it is.  
+
+DOCTOR U297
+So you live with your daughter right now?
+
+PATIENT U297
+Yeah I do.
+
+DOCTOR U297
+So that memory stuff, the most common cause alright is depressions, stuff like that.
+
+PATIENT U297
+Oh really @@@.
+
+DOCTOR U297
+Cause when you start getting down like the mind starts not focusing okay.  It's just one of those things that depression does, it causes  you not to focus and causing you, you're in the middle of something and all of a sudden you forget what you're doing.
+
+PATIENT U297
+That's it, that's it.
+
+DOCTOR U297
+Right.  Um.
+
+PATIENT U297
+@@@ you know except she be at work and I'm home by myself, that be the one time she at work but she'll call you know.  @@@ take your medicine, breakfast in the  microwave too.
+
+DOCTOR U297
+Now I think that the thing that's always @@@ connected together, you know.  You're weight gain, you're arthritis, the blood pressure, memory problems, the depression all these things are connected together right.  So what we need to do is kind of make a plan saying these are going to be your goals you know for the next time I see you okay. I’ll write them down, you know we'll make a list.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+You know let's say goal number one, most important goal is weight loss okay.  You know.
+
+PATIENT U297
+Alright I @@@ drinking.
+
+DOCTOR U297
+Good, good.
+
+PATIENT U297
+Maybe a few beers for the holiday, @@@.
+
+DOCTOR U297
+How much are you drinking right now?
+
+PATIENT U297
+Oh man I only had, occasionally, maybe I don't know @@@ I've had maybe six beers and a few glasses of wine, that's it.
+
+DOCTOR U297
+Okay, that’s better.
+
+PATIENT U297
+I know it, but it’s hard for me.
+
+DOCTOR U297
+But you can do it right?
+
+PATIENT U297
+Oh yeah I can do it because uh @@@.
+
+DOCTOR U297
+Yeah, no other choice, too.  So before you leave we're going to make a plan okay.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+And we're gonna kind of, so you know the things that I want to see by the next time you get here and you keep that stuff you know on your wall somewhere where you can see it and every day remember what your goals are the next time.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+And all this stuff, the joint pain and all this other stuff will get better you know but you have to be proactive about it.  You have to remember every day this is your goal.
+
+PATIENT U297
+This is what I got to do.
+
+DOCTOR U297
+Exactly.
+
+PATIENT U297
+Yeah I can do that @@@ nothing else to do.
+
+DOCTOR U297
+Exactly and um how were your holidays?
+
+PATIENT U297
+Uh it was okay.  Went to my sister’s house to celebrate a bit.
+
+DOCTOR U297
+Then your arthritis is mostly in your arm and your shoulder and your back.
+
+PATIENT U297
+Shoulders, back, arm.  You know it goes around like that.  I think @@@ getting hard to raise and it's in my hands.  You know doing this gives me some pain here.
+
+DOCTOR U297
+Oh, what kind of pain?  Does it hurt when I do this?
+
+PATIENT U297
+No it's, try it on this one though.  It might hurt on this one.
+
+DOCTOR U297
+Not hurt but do you still get the same @@@.
+
+PATIENT U297
+@@@.
+
+DOCTOR U297
+Do you get a numbness when I touch them?
+
+PATIENT U297
+No.
+
+DOCTOR U297
+@@@.
+
+PATIENT U297
+Do it a little harder.
+
+DOCTOR U297
+How about this side?
+
+PATIENT U297
+Oh yeah.
+
+DOCTOR U297
+That causes it.
+
+PATIENT U297
+@@@.
+
+DOCTOR U297
+What about your hand.
+
+PATIENT U297
+@@@ got one too.  That's a sharp pain that shoots.
+
+DOCTOR U297
+I'll put in the order to again for the wrist splints.
+
+PATIENT U297
+Oh okay.  Cause I was looking for them and they never did come.
+
+DOCTOR U297
+Carpal tunnel.
+
+PATIENT U297
+Carpal what?
+
+DOCTOR U297
+Carpal tunnel.  What happens is after the years, right.  You have nerves right there.
+
+PATIENT U297
+Yeah.
+
+DOCTOR U297
+And they enervate your hands and the muscle that's right here, it gets thick and it presses down pretty much to this and then it makes you; it presses on the nerve and kind of makes the pain.
+
+PATIENT U297
+Uh-huh.
+
+DOCTOR U297
+And then your back pain, where do you feel it?
+
+PATIENT U297
+Oh, the whole back.
+
+DOCTOR U297
+In the middle?
+
+PATIENT U297
+Yeah.  Right up in here.
+
+DOCTOR U297
+Does it go down your leg or just kind of stay up there?
+
+PATIENT U297
+Uh this moves.  Only @@@ that one leg.
+
+DOCTOR U297
+Is it the left leg?
+
+PATIENT U297
+Right.  And I @@@ you know.  She says I'm having @@@ card, I got a whole bunch of @@@.
+
+DOCTOR U297
+Uh-huh.  Let me ask you; are you drinking water in the day?
+
+PATIENT U297
+It's more in the day and less at night.  Cause I been, you know I been watching @@@ something that might @@@.
+
+DOCTOR U297
+And uh do you ever get periods of getting real sad a lot.
+
+PATIENT U297
+Yeah.  And I don't want to do nothing, you know just a miserable day.  That's what I call it.  My daughter comes in I'm ready to have fun, that's what she wants me to do but she @@@.
+
+DOCTOR U297
+That's probably why you're eating more too right.
+
+PATIENT U297
+Yeah, around the house all the time, I do that.  I do go around eating cookies, cake and.
+
+DOCTOR U297
+Now do you ever think about you know not living anymore or anything like that?
+
+PATIENT U297
+No, no, no.  You know I don't know but that, that's one thing never crossed my mind of killing myself so.
+
+DOCTOR U297
+You know um what year it is?
+
+PATIENT U297
+It's @@@@.
+
+DOCTOR U297
+Do you know what day it is?
+
+PATIENT U297
+@@@.
+
+DOCTOR U297
+Good.  And the month?
+
+PATIENT U297
+12, December.
+
+DOCTOR U297
+Do you know who the president is?
+
+PATIENT U297
+Yeah.  @@@.
+
+DOCTOR U297
+Okay.  
+
+PATIENT U297
+Now this seems like I @@@ you know that I feel uh @@@ do this @@@ you know @@@ to the store and I forgot what to get and I call back.
+
+DOCTOR U297
+Okay so the problem is that like I said the weight gain is causing your blood pressure to go up okay.
+
+PATIENT U297
+Okay.  @@@.
+
+DOCTOR U297
+I'm going to talk about @@@.  I don't want to go up on the medications; I want to keep it the same.
+
+PATIENT U297
+Right.
+
+DOCTOR U297
+As long as you make a plan, you know we'll go over it, as long as you have a plan to lose weight.  You have lose the weight and that'll make your blood pressure go down.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+@@@ okay.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Have you been having any chest pain?
+
+PATIENT U297
+Every now and then.  It scared me about a week ago.
+
+DOCTOR U297
+What is it that you feel?
+
+PATIENT U297
+I uh, it just hurt and I think I done walked too far.  I walked along the.
+
+DOCTOR U297
+So what kind of chest pain did you get?
+
+PATIENT U297
+Uh I feel like throbbing.
+
+DOCTOR U297
+Like a pressure?
+
+PATIENT U297
+Right.
+
+DOCTOR U297
+How long did it stay?
+
+PATIENT U297
+Oh it lasted a long time cause my daughter tried to get me to go to the Emergency Room.
+
+DOCTOR U297
+How long ago, about a week ago?
+
+PATIENT U297
+Yeah about a week ago.
+
+DOCTOR U297
+And you were up and walking a long time?
+
+PATIENT U297
+Right.  I think I over did it on my walk.
+
+DOCTOR U297
+Do you ever have any shortness of breath?
+
+PATIENT U297
+Shortness of breath and so I had been in the house about 45 minutes before my daughter came in and she said what's wrong with you and you know, I could hardly breathe and I said “I’m tired, tired.”
+
+DOCTOR U297
+Did you start sweating?
+
+PATIENT U297
+I don’t remember, I might have.  I might have had a little warmth.  I get warm sometimes then I get cold you know.  I've had that every now and again.
+
+DOCTOR U297
+And you had a stress test a long time ago right but not recently?
+
+PATIENT U297
+Not recently.  That, that's walking I couldn’t do that.  They gave me the shot.
+
+DOCTOR U297
+That was a @@@, that was the shot.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Okay and I see that they did that in 2004.
+
+PATIENT U297
+Has it been that long?
+
+DOCTOR U297
+Yeah it's been a while alright or is there another one?
+
+PATIENT U297
+No that's the only one I had so that's it. That had to be it.
+
+DOCTOR U297
+They wanted you to a get a stress test?
+
+PATIENT U297
+Did they?
+
+DOCTOR U297
+In January 2009, which was normal. I don't know we could maybe try to repeat that, I'm not for sure.  
+
+PATIENT U297
+I @@@ walking, they want you to walk on that thing about a half an hour, I can’t do that now.
+
+DOCTOR U297
+Okay.  So, did you take the nitroglycerin when you had this chest pain?
+
+PATIENT U297
+No.
+
+DOCTOR U297
+What did you do?  You just waited it out?
+
+PATIENT U297
+Yeah.
+
+DOCTOR U297
+How long did it last?  An hour or two?
+
+PATIENT U297
+Yeah, maybe about an hour, hour and a half.  It just seemed like it started easing up as I started to resting a little better.
+
+DOCTOR U297
+Um and you're taking the aspirin every day?
+
+PATIENT U297
+Yeah.  I take all of my medication like I supposed to.
+
+DOCTOR U297
+Okay well I mean in the future, I don't think we're gonna have a stress test; you have to go to the Emergency Room when you get chest pain.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Okay this is the this is reason why, okay.  If you have chest pain and it's a heart attack, you go right to the Emergency Room right.  They can fix it.
+
+PATIENT U297
+Uh-huh.
+
+DOCTOR U297
+Okay.  If you wait, you probably you could die okay.  So if you go in right away and they see you're having a heart attack, we can cure that okay.
+
+PATIENT U297
+Well any kind of like chest pains you know.
+
+DOCTOR U297
+It'll be throbbing chest pain through your chest, a little bit through your arms; you know sweating, weakness, maybe get shortness of breath when you're walking.  All these things together okay.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Like similar to what you just had.
+
+PATIENT U297
+Right.
+
+DOCTOR U297
+You have to go to the Emergency Room.
+
+PATIENT U297
+Alright I'll do that.
+
+DOCTOR U297
+Like I said if it happens, cause if you go, we can fix it.
+
+PATIENT U297
+Right.
+
+DOCTOR U297
+But if you wait, we can't fix it.  Okay.
+
+PATIENT U297
+I won't make that mistake no more.
+
+DOCTOR U297
+Okay.  Okay.  Any coughing?  Wheezing?
+
+PATIENT U297
+No.
+
+DOCTOR U297
+Belly pain?
+
+PATIENT U297
+Just that aching @@@ other than that.
+
+DOCTOR U297
+But other than that you're doing okay?  Okay come have a seat.  I'm going to put in that order for those um.
+
+PATIENT U297
+For the wrists right?
+
+DOCTOR U297
+Yeah.  I’ll put that in real quick.  So these wrist splints, you put them on at night.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Before you sleep, every single night okay.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+And today I need you to go to the Lab too okay.
+
+PATIENT U297
+Blood Lab?
+
+DOCTOR U297
+Yeah Blood Lab.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Have you eaten today?
+
+PATIENT U297
+No I haven't.
+
+DOCTOR U297
+The whole day?
+
+PATIENT U297
+The whole day?
+
+DOCTOR U297
+Not even coffee?
+
+PATIENT U297
+No I didn't even get my coffee this morning.
+
+DOCTOR U297
+So you just had water?
+
+PATIENT U297
+Yeah.  I don't know I had a feeling that you were going to tell me go to the Lab.
+
+DOCTOR U297
+Okay, okay, yeah that's good.  You did the right thing then.  Are you seeing the neurosurgeon anymore?
+
+PATIENT U297
+Uh no.
+
+DOCTOR U297
+Why don't you open your mouth for me, say ah.
+
+PATIENT U297
+Ah.
+
+DOCTOR U297
+Stick out your tongue.  Now you've got to be careful with your drinking because of the hepatitis C okay.
+
+PATIENT U297
+Yeah I know.  I know what about that.
+
+DOCTOR U297
+You can get liver cancer with that.  Take a deep breath, good.  Again, again, breathe normal.  Good.  Lay back for me.  Can you lay like over this way?  Do you ever have a time when your heart starts beating really fast?
+
+PATIENT U297
+Yes.
+
+DOCTOR U297
+Is it when you get anxious?
+
+PATIENT U297
+Do I what?
+
+DOCTOR U297
+Is it when you get anxious or just kind of does it on its own even while you're watching TV?
+
+PATIENT U297
+Uh it does it on it’s own @@@ usually it don't last long and then I sit back and relax and seems to it goes away.
+
+DOCTOR U297
+Any belly pain?
+
+PATIENT U297
+Yeah that hurts.
+
+DOCTOR U297
+Okay.  What if I press lightly?
+
+PATIENT U297
+No.
+
+DOCTOR U297
+Still having swelling in your legs?
+
+PATIENT U297
+No, not lately.
+
+DOCTOR U297
+Oh good @@@.  Good.
+
+PATIENT U297
+@@@.
+
+DOCTOR U297
+@@@ alright.  I'll be right back I'm gonna talk to DOCTOR.
+
+PATIENT U297
+Okay.
+
+(DOCTOR OUT:  34:01  DOCTOR IN:  45:14)
+
+DOCTOR U297
+So um, so @@@ so for your chest pain, we talked about you need to go to the ER if that happens.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+@@@.
+
+PATIENT U297
+Right.
+
+DOCTOR U297
+And you're going to lose some weight, eat better to get your blood pressure down okay.  I'll give you two months.  I want to see you in two months.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+I need to see you lose some weight.
+
+PATIENT U297
+Okay I will.
+
+DOCTOR U297
+But now I'm going to have to go up on your blood pressure medication.
+
+PATIENT U297
+I @@@.
+
+DOCTOR U297
+The main reason is this affects your heart.
+
+PATIENT U297
+Yeah.
+
+DOCTOR U297
+And your arthritis, okay there's a different type of physical therapy called occupational therapy okay.  These people are different types of therapists to help you with problems like um if you're having trouble shaving.
+
+PATIENT U297
+Yeah.
+
+DOCTOR U297
+They're gonna help you with that.  They're gonna teach you.  Okay you don't have to go a lot, you just go once and they'll teach you how to, because you're having problems with your shoulder.
+
+PATIENT U297
+Right.
+
+DOCTOR U297
+They're gonna teach you ways to help you out.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+And I think that is something that'll really help and like I said you only have to go once.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Right.
+
+PATIENT U297
+You going to set me up an appointment?
+
+DOCTOR U297
+I'm going to set you up with an appointment.  And another thing, I want to help, so don't have depression okay but you have almost depression okay.  You have what's called subclinical depression which means you're not, you might not need medication but there's something going on, okay and she's actually here today and we can have you see her and she can just help us out.  She'll just talk to you and try to see what's going on and try to, she's an expert in these things.  Okay it's not Psychiatry okay.
+
+PATIENT U297
+Uh-huh.
+
+DOCTOR U297
+But she's a nurse and she helps us out to try to figure these things out.  Would it be okay if she saw you today?
+
+PATIENT U297
+Yeah, that'd be okay.
+
+DOCTOR U297
+And then um just go to the Lab and get the blood work done okay.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+And then on this paper here, I'm going to write the stuff that I'm talking about so that you can remember.
+
+PATIENT U297
+Alright.
+
+DOCTOR U297
+Okay.  So I'm going to write these things okay, number one okay.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Lose weight and the way you're gonna do that is by eating well okay.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+And number two try and exercise okay.
+
+PATIENT U297
+Right.
+
+DOCTOR U297
+So walking is the best, it could be walking, just walking around the neighborhood anywhere, around the park, 30 minutes.
+
+PATIENT U297
+@@@.
+
+DOCTOR U297
+Three to four times a day now, no three to four times a week.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Okay.  Now this isn't marathon running, it's just walking.
+
+PATIENT U297
+Right just walking.
+
+DOCTOR U297
+Walking okay.  Okay, number two you're gonna take your blood pressure every day like you've been doing.  
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Blood pressure every day.
+
+PATIENT U297
+Do I need to write down that?
+
+DOCTOR U297
+No I'm going to give this to you.
+
+PATIENT U297
+No I'm talking about when I take my blood pressure.
+
+DOCTOR U297
+Yeah you can write it down.
+
+PATIENT U297
+Do I need to write it down.  Oh okay.
+
+DOCTOR U297
+Okay.  Number three no drinking.  I'm going to make this in big letters cause this is going to help you lose weight too okay.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+And so are you still smoking?
+
+PATIENT U297
+No I quit.
+
+DOCTOR U297
+So you're not smoking anymore.  That's about it and if you could take care of these three things okay.
+
+PATIENT U297
+I will.
+
+DOCTOR U297
+And you make it a goal, every day, well not every day because obviously exercise but for the most part every day try to do these things.  I promise you when I see you in two months your blood pressure's gonna get better.  Your mood's going to get better.  You're gonna feel better.  You're gonna be healthier okay.  Overall you're gonna be doing a lot better.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Okay.  Now you hold on to this, this is for you.
+
+PATIENT U297
+Alright.
+
+DOCTOR U297
+I want you to put this on your wall.
+
+PATIENT U297
+I will.
+
+DOCTOR U297
+And remember these things okay.
+
+PATIENT U297
+Alright.
+
+DOCTOR U297
+And um, take the labs today.
+
+PATIENT U297
+Yeah.
+
+DOCTOR U297
+And let me ask if you can talk to DOCTOR quickly @@@ and figure out @@@ okay.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+Okay they'll set you up an appointment.
+
+PATIENT U297
+Oh okay.
+
+DOCTOR U297
+She's not there.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+So the other option to that is to have you on medication.
+
+PATIENT U297
+Okay.  Could I make an appointment with her?
+
+DOCTOR U297
+Yeah I mean @@@.  Yeah we'll make an appointment.
+
+PATIENT U297
+Okay.
+
+DOCTOR U297
+And then I'll see you in a few months.
+
+PATIENT U297
+Right.  Well uh, @@@.
+
+DOCTOR U297
+@@@.
+
+PATIENT U297
+Alright you have a good holiday.  Take care.  @@@ doc you have a good one now.
+
+DOCTOR U297
+You too.
+
+PATIENT LEAVES: 53:12
+
+2:00 o'clock.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255155
+TRANSACTION # 578-10-2-316-0103

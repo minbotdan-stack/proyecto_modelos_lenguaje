@@ -1,0 +1,1537 @@
+Date of Encounter: @@/@@/@@   
+Time of Encounter: @@@   
+ 
+DOCTOR V773
+PATIENT?  How are you sir?
+
+PATIENT V773
+Good how you doing?
+
+DOCTOR V773
+Good.  @@@.
+
+PATIENT V773
+You the doctor?
+
+DOCTOR V773
+Yep.
+
+PATIENT V773
+A new one.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+A new one, every year I come here I get a new doctor.
+
+DOCTOR V773
+Yeah, sorry about that.  I'm going to stay uh.  @@@.  My name is @@@.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+I'm one of the residents here um.  I'm going to stay for three years so.
+
+PATIENT V773
+Oh well I have you a couple more years then huh.
+
+DOCTOR V773
+So, I'll be seeing you a few more times if you come in every year.  Um okay so PATIENT I looked at the chart.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+So that I'll tell you what I know so far.  Uh I see you have hypertension and you have some high sugars; otherwise you're doing fine basically.  Your weight is a little; you're overweight so I think we're working on the weight.  Um yeah so that's all I know so far.
+
+PATIENT V773
+Well this I got from my foot doctor okay.  Every, I don't know four, five, six months I get a little flare-up on the gout.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+And I'm going down to Florida.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+In another couple of months but I don't want to go down without my medicine.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+So I went to her to get the prescription renewed.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+Just so when I get down there I don't have to hunt around for a doctor if I have a flare.
+
+DOCTOR V773
+Okay sure.
+
+PATIENT V773
+And you know try and get the medicine and uh right off she told me to give this to my doc when I go there for my physical and I don't know what, I didn't read it.
+
+DOCTOR V773
+Oh so this is the lab.
+
+PATIENT V773
+This uh.
+
+DOCTOR V773
+It's uh January.
+
+PATIENT V773
+7 uh yeah.
+
+DOCTOR V773
+Recent lab.
+
+PATIENT V773
+Yeah I just went in January.
+
+DOCTOR V773
+Okay so that's, okay.
+
+PATIENT V773
+Anyway and then last time I was here.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+They said my blood pressure was a little bit high so they give me one of these light sort of things and they said to keep track of it.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+Okay so this morning when I took it, it was 125/68.
+
+DOCTOR V773
+Oh great, you have book here?
+
+PATIENT V773
+Oh yeah I got a plan.
+
+DOCTOR V773
+Awesome thank you.
+
+PATIENT V773
+It's high and then it goes low and then they put me on different pills and that doesn't work.
+
+DOCTOR V773
+Yeah it's generally high I would say.  You decided not to take it too much?
+
+PATIENT V773
+No I been taking the same thing.  They keep giving me different pills to take.
+
+DOCTOR V773
+What pill are you taking right now?
+
+PATIENT V773
+I'm taking three of them.
+
+DOCTOR V773
+Okay let me ask which ones.
+
+PATIENT V773
+Well lisinopril here I'll find them.
+
+DOCTOR V773
+Lisinopril 20 mg?
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+Every day?
+
+PATIENT V773
+Every day I take all three of them in the morning.
+
+DOCTOR V773
+And then you take thiazide 25 mg.
+
+PATIENT V773
+Uh yep.
+
+DOCTOR V773
+Okay and amlodipine 10 mg.
+
+PATIENT V773
+Yeah I cut the pill in half.  That one I cut in half.  The 25 uh.
+
+DOCTOR V773
+The @@@ you cut it in half right?
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+Okay.  So your blood pressure is still high a little bit today so.
+
+PATIENT V773
+Yeah but it'll go high just driving over here thinking about coming to this place.
+
+DOCTOR V773
+I know, I know.  So what I am going to do is I'm going to check on my own and check another one.
+
+PATIENT V773
+Let me ask you something.
+
+DOCTOR V773
+Yeah.
+
+PATIENT V773
+Instead of keep, see every doctor I used to get, see I come back here once a year for my physical so every new doctor I get wants to change things.
+
+DOCTOR V773
+Right.
+
+PATIENT V773
+Now the first time I went here, when I go back to 2006 when I first started coming here.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+My blood pressure's just a little bit high.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+I got one pill, works fine and I come in the next year, I got a new doctor, now he says well let's try this, well let's try that, let's tweak this, let's tweak that.  Now he's got me taking two pills.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+The next year I come in, now he's got me taking three pills.
+
+DOCTOR V773
+Yeah.
+
+PATIENT V773
+You know, I don't understand what the hell is going on here to be honest with you.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+So like I say everybody wants to change everything.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+You know the old concern if it ain't broke don't fix it.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+Why did they begin changing my medicine to begin with?
+
+DOCTOR V773
+Okay.  So, it's not because they want to change them or anything.  If they don't need to change them I think they won't change.  So basically your blood pressure when you come in.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+It's uncontrolled.
+
+PATIENT V773
+Right.
+
+DOCTOR V773
+So what that means um and although we add all the medication your blood pressure is not controlled.  So that means your blood pressure has worsened.  Though I think it's in the same range, we're adding the medication and you're still high, that means it's worsening.  That's why they added.
+
+PATIENT V773
+My blood pressure gets high just looking for a place to park out here.
+
+DOCTOR V773
+Uh-huh.
+
+PATIENT V773
+I'm serious.  I mean it's just.  You drive around trying to find a place to park and you can't find a place to park.
+
+DOCTOR V773
+Yeah and then you get angry @@@.
+
+PATIENT V773
+You know and I say Jesus Christ.
+
+DOCTOR V773
+I know what you're saying.
+
+PATIENT V773
+That's uh, I don't know I guess.
+
+DOCTOR V773
+I know what you're saying sir.  Okay.
+
+PATIENT V773
+Well I guess what I'm asking can they condense everything into one pill?
+
+DOCTOR V773
+No.
+
+PATIENT V773
+No.
+
+DOCTOR V773
+They got you on good medications.  If we can do that, we like to do that.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+But no, that's not possible.
+
+PATIENT V773
+Okay.
+
+DOCTOR V773
+There are some combination pills.  Like two of the drugs you are taking.  There's a combination pill that will have both of them.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+But if you're on a good dose, um you need to take three pills and it's not until you get a @@@ dose that we know that this is the right dose.  We can't titrate it if it's a combination pill, so we can't go up on one and we can't go up on one so usually we like to use um like single dose, single medication pills.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+Until we get a good control okay.  And then what I'm seeing right now is that if.
+
+PATIENT V773
+See I can go home and I can do it in another couple hours and take my own blood pressure with the.
+
+DOCTOR V773
+Right.
+
+PATIENT V773
+Machine they gave me and it'd be normal.
+
+DOCTOR V773
+Do you the normal range of the blood pressure?
+
+PATIENT V773
+Yeah they tell me they wanted to keep it down around 140 or below.
+
+DOCTOR V773
+Right.
+
+PATIENT V773
+It’s those I get when I'm at home.
+
+DOCTOR V773
+Well okay, so today your blood pressure initially when we checked was 156 alright and then it came down to 148 when we took again.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+So I'm going to take it again.
+
+PATIENT V773
+Okay.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+It's probably high now.
+
+DOCTOR V773
+Let me see.
+
+PATIENT V773
+Let me take off my shirt.
+
+DOCTOR V773
+Okay.  Do you exercise?  
+
+PATIENT V773
+Do I exercise?  Not really.
+
+DOCTOR V773
+Not really.  So exercise.
+
+PATIENT V773
+This morning I was out shoveling.
+
+DOCTOR V773
+Exercises are good for blood pressure.
+
+PATIENT V773
+I take a walk every day.  So I walk down, I get my.
+
+DOCTOR V773
+About how long do you walk?
+
+PATIENT V773
+20 minutes maybe.
+
+DOCTOR V773
+Yeah that's good.  Every day?
+
+PATIENT V773
+Yeah, yeah.
+
+DOCTOR V773
+Oh that's good.
+
+PATIENT V773
+I walk down and get the paper and oh I still work part-time on and off.
+
+DOCTOR V773
+So if you could put your arms here good.  Just relax.  It is 140/65, a little better.
+
+PATIENT V773
+Going down.
+
+DOCTOR V773
+Yes sir.
+
+PATIENT V773
+@@@.
+
+DOCTOR V773
+So.
+
+PATIENT V773
+I just gotta calm myself down.
+
+DOCTOR V773
+Yeah, try to calm down.  Part of it could be diet and then you exercise 20 minutes a day.
+
+PATIENT V773
+Yeah like I say I go out for a walk every morning.
+
+DOCTOR V773
+Okay.  So and who do you live with?
+
+PATIENT V773
+Pardon?
+
+DOCTOR V773
+Who do you live with?
+
+PATIENT V773
+My son.
+
+DOCTOR V773
+Your son and uh do you have any family members who have had significant medical problems before?
+
+PATIENT V773
+No.
+
+DOCTOR V773
+Stroke, early heart attack, cancer?  Good and you have no allergies to medications?
+
+PATIENT V773
+Nope.
+
+DOCTOR V773
+And these three are the only medications you're taking right now?
+
+PATIENT V773
+That's it.  The only other one, like I say if I get a little flare-up of the gout.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+I take the.
+
+DOCTOR V773
+When did you get the flare-up last time?
+
+PATIENT V773
+Oh it's been a few months.  It's uh probably been four or five months.
+
+DOCTOR V773
+Okay and uh.
+
+PATIENT V773
+Like I say, you know I could go along.
+
+DOCTOR V773
+Where do you get the pain?
+
+PATIENT V773
+On the gout?
+
+DOCTOR V773
+Yeah.
+
+PATIENT V773
+Usually around my ankle you know.  I did get it once in my elbow.
+
+DOCTOR V773
+The ankle or elbow okay and then how many times of flare-ups did you have so far in your life?
+
+PATIENT V773
+In my life since I've, oh I don't know.
+
+DOCTOR V773
+A lot?
+
+PATIENT V773
+No, no.  Like I say.
+
+DOCTOR V773
+More than 10?
+
+PATIENT V773
+No.
+
+DOCTOR V773
+About 5?
+
+PATIENT V773
+Yeah probably around five.
+
+DOCTOR V773
+Okay and uh for the last approximately one year, how many times did you have a flare-up?
+
+PATIENT V773
+Last year, I'd say once.
+
+DOCTOR V773
+Once okay alright.
+
+PATIENT V773
+Like I say and the only reason, I don't know again, without having the bottle with me.  I don't know what, she wrote down what I got on here.
+
+DOCTOR V773
+Uh-huh, okay.
+
+PATIENT V773
+Uh.  I don't know if she wrote it down there, wouldn't know if I seen it anyway.  But it's a little blue-greenish pills.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+You know and like I say, if I get it right away, if I feel it coming and I get it right away.
+
+DOCTOR V773
+It goes uh, goes away.
+
+PATIENT V773
+I take a couple of these pills.
+
+DOCTOR V773
+Yeah.
+
+PATIENT V773
+Before I go to bed or during the day.
+
+DOCTOR V773
+Uh-huh.
+
+PATIENT V773
+Then I take a couple you know.  I take maybe four of them.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+And it's usually gone overnight.
+
+DOCTOR V773
+And uh when you took the blood pressure today, did you eat this morning, you didn't eat yet this morning?
+
+PATIENT V773
+I haven't eaten nothing since last night.  They told me to fast.
+
+DOCTOR V773
+Okay thank you so much.  So for the next time when you come um you can fast and then before you see me.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+You can get labs that's fine.
+
+PATIENT V773
+Oh okay.
+
+DOCTOR V773
+I need the blood pressure readings okay.
+
+PATIENT V773
+Yeah they said I needed blood so don't eat nothing after midnight.
+
+DOCTOR V773
+Yeah.
+
+PATIENT V773
+So.
+
+DOCTOR V773
+So that's, you know I'm sorry about that.  We have to do that when we do your cholesterol level.
+
+PATIENT V773
+Oh that's no big deal.
+
+DOCTOR V773
+But um you can eat lunch after you leave okay.
+
+PATIENT V773
+Alright.
+
+DOCTOR V773
+After we do blood tests.  So it's just for little blood test, it's not to see me.  Okay um and that's, that.  Your lipid levels look fine.  You're not taking any medication and this level is very good. Um your sugar is a little on the high side, that will cause diabetes okay.
+
+PATIENT V773
+How high is high?
+
+DOCTOR V773
+So your sugar is, you didn't eat anything and your sugar was 125, blood sugar.
+
+PATIENT V773
+What's normal?
+
+DOCTOR V773
+So normal if you're fasting I would see around under 100.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+So that means you have a little bit of resistance to the insulin that you give for the sugar so that means that I would say pre-diabetic.  So if you continue to be, continue this lifestyle or to continue the same foods, uh soon you'll become diabetic.  So as your primary care doctor I would like prevent that.
+
+PATIENT V773
+So what do you got to do, lay off the sweets?
+
+DOCTOR V773
+Yeah definitely.  So no sweets um pop, do you drink a lot of pop?
+
+PATIENT V773
+No I don't drink pop.
+
+DOCTOR V773
+How about cola or coke?
+
+PATIENT V773
+No.  I don't drink much pop.  Well once in a great while I'll have a pop.  Mostly, I've been drinking a little of that flavored water.
+
+DOCTOR V773
+Oh okay.
+
+PATIENT V773
+I drink a lot of water.
+
+DOCTOR V773
+Okay that sounds good, that's not too bad.
+
+PATIENT V773
+Uh.
+
+DOCTOR V773
+Um but do you?
+
+PATIENT V773
+Once in a while Gatorade.
+
+DOCTOR V773
+Gatorade um, just once in a while is fine um.  Do you eat a lot of sweet stuff like um I don't know cookies or?
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+So that's definitely something you cut down on.  If you can do that, do you eat it every day?
+
+PATIENT V773
+No not every day.
+
+DOCTOR V773
+So once every few days?
+
+PATIENT V773
+Yeah you know once every few days I.
+
+DOCTOR V773
+Okay well if you could reduce that to once every week and uh what kind of foods do you have?  Do you eat a lot of meats and stuff or?
+
+PATIENT V773
+Well yeah.
+
+DOCTOR V773
+Hamburgers?
+
+PATIENT V773
+Hamburger.
+
+DOCTOR V773
+Yeah, so if you could stop, I mean reduce the, I don't think you can stop it but if you can reduce the amounts maybe you can eat some fish for a change, eat some more vegetables, eat some more fruit, those kinds of diet is something you want to follow.
+
+PATIENT V773
+No candy huh?
+
+DOCTOR V773
+No candy, no candy, no candy and then.
+
+PATIENT V773
+How about peanuts or something like that or?
+
+DOCTOR V773
+Peanuts are good but um, if you eat too much peanuts, they're very salty.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+And that raises your blood pressure.  You have two things, you have to eat @@@ salt and you have to watch out for sugar.  So the salty stuff is like potato chips, um if you eat chips with hamburgers.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+Hamburgers can have a lot of salt in there um, uh let's see, let's see, what else do you eat, I can't think of the salty stuff.
+
+PATIENT V773
+Uh I don't know.  I do put salt on some stuff.  I don't put a lot but just enough to flavor it a little bit.
+
+DOCTOR V773
+Yeah.  So don't put salt.
+
+PATIENT V773
+Don't put salt.
+
+DOCTOR V773
+Or just put a little bit.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+Because that kind of thing can make your blood pressure @@@ definitely.
+
+PATIENT V773
+Yeah, okay.
+
+DOCTOR V773
+Okay and what I see from the blood test is I'd say you're pre-diabetic.  You're not diabetic but your.
+
+PATIENT V773
+I'm borderline?
+
+DOCTOR V773
+Borderline, you're borderline.  You're getting to it.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+And we want to prevent that and uh your kidney function has been a little higher than normal person.  I think you know that?
+
+PATIENT V773
+Yeah well @@@.
+
+DOCTOR V773
+Something called creatinine; we measure it to see your kidney functions.
+
+PATIENT V773
+Through my blood?
+
+DOCTOR V773
+Yeah through your blood.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+And that's been a little high but and it @@@.  That's most likely caused by hypertension in your case.  Usually the two major things that cause kidney issues.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+Is hypertension and diabetes okay and in your case you're not diabetic.  A lot of diabetes people they go onto dialysis, you know that right?
+
+PATIENT V773
+Yeah, yeah.
+
+DOCTOR V773
+So initially we start seeing like a mild elevation of the kidney function, that's the first sign that we're injuring the kidneys and you're having that sign.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+Okay and then the next thing you see is that you start leak some protein from the kidney and those are the bad signs that your kidney's not doing well.  Um your urine test you had today actually showed a little bit of protein so this is not good as well.  So but those things all come down to the um the same things, is good don't be diabetic and have your blood pressure in good control so that's the main kinds of treatment.
+
+PATIENT V773
+Alright.
+
+DOCTOR V773
+So that's why we were worried about your blood pressure.  If the blood pressure runs high all the time that can injury your kidney okay.
+
+PATIENT V773
+Okay.  So in other words now, I'm still on the same medication right?
+
+DOCTOR V773
+You're still on the same medications but I would say um, so keep away from salt definitely because that will raise your um blood pressure.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+And as I said exercise helps.  So if you're walking 20 minutes that's great.  Maybe you can do 30 minutes a day um, yeah I think those things would help and then if you're stressed out, as you said the blood pressure can rise.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+So stay away from stressors and uh have a good sleep, have a good sleep and good cycle of your life.
+
+PATIENT V773
+Good health.
+
+DOCTOR V773
+So I'd say, I recommend that.  Um your blood pressure is borderline high so if I see it, I would like to have it lower than this.  Uh normal range would be 140 and uh 140 is the systolic and the 90 is the diastolic but for people who are having some kidney issues, I would like to have it a little more lower.  So in your case I would like to aim a little lower.  So if I, I didn't know that you were upset about getting all the medication increased.
+
+PATIENT V773
+Oh know I was just curious because as I say every time I come in.
+
+DOCTOR V773
+Uh-huh.
+
+PATIENT V773
+I have a different doctor and he'd want to say well let's tweak this or let's tweak that and.
+
+DOCTOR V773
+Yeah.
+
+PATIENT V773
+You know and I think well shit now I started out on one pill, now I'm on three pills.
+
+DOCTOR V773
+Yeah, that's not because they want to tweak it, it's because it's getting worse okay.  So we have to do something for that.  Let's see.  So the thiazide, I think we can go up.  So you're taking only half a pill of the thiazide right?
+
+PATIENT V773
+The little orange one?
+
+DOCTOR V773
+The orange one yeah.
+
+PATIENT V773
+Yeah I tell you that's the one I'm cutting in half.  Yeah I take a half a pill.
+
+DOCTOR V773
+So let's see, amlodipine you're maxed out.  Lisinopril you're not maxed out.  So we can either increase this one or this one.  Uh I think since you're cutting the pill in half, you can just take that whole pill every day.
+
+PATIENT V773
+Just take the whole pill of it.
+
+DOCTOR V773
+A whole pill every day and then since you're telling me that your blood pressure is high when you come into the hospital, I would like to have it checked for the next two weeks if you don't mind and could you come to the hospital to see my nurse so that we can recheck your blood pressure?
+
+PATIENT V773
+It'll be high.
+
+DOCTOR V773
+Oh you think it'll be high?
+
+PATIENT V773
+Just coming over here yeah, I start thinking about it and uh.
+
+DOCTOR V773
+Or you know you can check at home for two weeks and then show me the records that you have two weeks and we won't check here.
+
+PATIENT V773
+Alright, well like I say it's uh.  I don't care if they check it here and every time I come in here it's, like I say I checked it this morning and it was 126.
+
+DOCTOR V773
+Yeah because I see here, I see that you've been running high for me too.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+Right so probably if we take the average you're on the high side.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+So at home.  So I think that we will increase the medication if you don't mind.
+
+PATIENT V773
+Yeah okay.
+
+DOCTOR V773
+Okay.  
+
+PATIENT V773
+Whatever.
+
+DOCTOR V773
+Alright so, so uh let's see.  I think we can definitely increase this one and then I'm thinking of increasing this one was well.
+
+PATIENT V773
+Which one is that?
+
+DOCTOR V773
+The lisinopril.
+
+PATIENT V773
+The lisinopril okay.
+
+DOCTOR V773
+So you can go up to 80 mg of lisinopril and then you can go up to 25 mg on the thiazide those are all maximum dose.  So and then um let's see and then you can come and see us in a month.
+
+PATIENT V773
+Alright.
+
+DOCTOR V773
+Is that okay?
+
+PATIENT V773
+Yes.
+
+DOCTOR V773
+And uh you can, I don't know, you don't have to see me necessarily so you can just log in your blood pressure and you can come to see my nurse and then you can hand in the log that you have.
+
+PATIENT V773
+Yeah, well this one's full so, I'll have to keep checking on it.
+
+DOCTOR V773
+Right, usually do it for a time.
+
+PATIENT V773
+Alright.
+
+DOCTOR V773
+So if you could give us a copy so that we can um uh, we can leave it in the hospital, one sheet of paper at the hospital that'd be.
+
+PATIENT V773
+Yeah okay yeah.
+
+DOCTOR V773
+That'd be easier for us.
+
+PATIENT V773
+Keep a copy of it.
+
+DOCTOR V773
+Yeah just in case so that we can, if I get that paper, I'll just put that into the computer so we can know where the blood pressure is running.
+
+PATIENT V773
+Alright.
+
+DOCTOR V773
+Okay.  So let's do that in one month.  Um and your blood pressure issue is okay and then the other thing I wanted to ask was, you had a flu shot, your shots are up-to-date.
+
+PATIENT V773
+Well I was gonna stop and get a flu shot on the way out of here.
+
+DOCTOR V773
+Oh yeah, you have that to do, you have a flu shot this year.  So you're going to get a flu shot today and then, how's your colonoscopy?  Have you ever had a colonoscopy?
+
+PATIENT V773
+No.
+
+DOCTOR V773
+Oh never?  So how old are, you're 58.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+So probably you should have one.  Like everybody over 50 it is recommended.
+
+PATIENT V773
+Yeah I know and the last, you know I asked the doctor a couple years ago.  I had a little woman doctor.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+And she says you know I says I just don't really think about having one but she says you know if you get blood in your stool with a lot of blood or if it's black.
+
+DOCTOR V773
+Uh-huh.
+
+PATIENT V773
+And it hasn't been black and I don't, I haven't had any blood in my stools so.
+
+DOCTOR V773
+Okay.  So, but even if you don't have blood in your stools uh, everybody over 50 is recommended to do a scope.
+
+PATIENT V773
+Well I'm not really interested in having one right now.
+
+DOCTOR V773
+So the reason for this colonoscopy, colonoscopy is basically a camera.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+That goes in through the rectum.
+
+PATIENT V773
+Yeah I know.
+
+DOCTOR V773
+Okay so they're going to give you some sedation.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+So that it won't be too painful.  The reason we do this is because you know that colon cancer is very prevalent in the United States, especially people who eat like American diets, high fatty foods and colon cancer, how it starts is like one small polyp, it starts with one small polyp and then as time goes, you know it grows, grows, grows and then it invades.  Invades, so if there's a colon here, it starts out like a tiny polyp.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+And then as time goes it grows, it grows okay and then it grows on this side too so instead of growing this side, there's a blood vessel coming into it.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+So usually when this thing reaches the point that it goes to the blood vessel, you're in trouble because there's a chance of going to the other places in the colon okay.  If you find out the polyp when it's this small, it's going to be a very simple procedure, you're already in the colon with the camera, you just put in some stuff that you can cut off the polyp so you can just cut off the polyp and that's it.  If you find it this big, okay.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+If you find it this big, it's too risky to go with the uh endoscopy procedure so in that case we need surgery.  What kind of surgery we do is that we resect the colon here to get a safe margin.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+If you find it in this stage, when it goes into the bloodstream and goes to the other organs, basically surgery won't cure this.  If it's in the other organ it's going to be chemotherapy and the prognosis is going to be very bad.  So, the reason behind this is that if we find colon cancer in the early stage, it's just staying as a polyp and it's not, it's gonna be a very simple procedure and you won't get recurrence.  If you find, if you find it later, if you find it more later the risk of doing a surgery or not even getting the surgery increases.  So that is the rationale of doing this colonoscopy in everybody over 50 years old.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+So we have a lot of patients that we just find a small polyp and we remove the polyp and every polyp that is removed is sent to the Pathology Lab.  They look in the microscope and they see if it's malignant or not and then there are polyps that we see, okay this has a potential to become malignant, it was great that we found it and we just removed it in a simple procedure and @@@.
+
+PATIENT V773
+I'll have to think about it.
+
+DOCTOR V773
+Okay so if you could think about and you could let me know and uh, um yeah and then I can just schedule it okay.  So that's about it.
+
+PATIENT V773
+Uh could I pick up these medicines, this prescription today?
+
+DOCTOR V773
+Sure, sure, sure.  You have, you're running out of all medications?
+
+PATIENT V773
+Nah, no, see I got them all at different times.
+
+DOCTOR V773
+Uh-huh.
+
+PATIENT V773
+So one's going to run out before the other two.
+
+DOCTOR V773
+Uh-huh.
+
+PATIENT V773
+And then the other one runs out and then.
+
+DOCTOR V773
+@@@.
+
+PATIENT V773
+The orange pills I got all at once.
+
+DOCTOR V773
+So I'm going to refill all the medications okay.
+
+PATIENT V773
+Yeah and it's good for a year?
+
+DOCTOR V773
+Pardon?
+
+PATIENT V773
+How long is this prescription good for now?  How many fill-ups do I get?
+
+DOCTOR V773
+Your prescription?
+
+PATIENT V773
+Yeah.  See they give me enough for, like at 90 at a time so every, whenever I come up, every three months.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+You know I get, I got four refills.
+
+DOCTOR V773
+Sure I can do that.  I'm going to give you like three or four refills so that you won't have to worry.
+
+PATIENT V773
+Uh I'll keep track, I'll keep track of my blood pressure.
+
+DOCTOR V773
+@@@.  Then have you ever talked about an Advanced Directive and stuff?
+
+PATIENT V773
+A what?
+
+DOCTOR V773
+Advanced Directive and a Power of Attorney?
+
+PATIENT V773
+Oh I got that through my kids and that yeah.
+
+DOCTOR V773
+Oh okay.  So you have the paperwork sent to the VA?
+
+PATIENT V773
+Do I have it done through the VA?  No.
+
+DOCTOR V773
+So you should read this, it's like authorization of what you want to do in the future.  
+
+PATIENT V773
+Uh.
+
+DOCTOR V773
+So you don't take any medication outside the VA?
+
+PATIENT V773
+No, like I say, the only thing I take is if I get a little flare-up of the gout.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+But other than that, no I don't take nothing.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+Other than an aspirin once in a while for a headache or something.
+
+DOCTOR V773
+Okay and then um so there's another screening, uh people over 65, have you ever smoked before?
+
+PATIENT V773
+Yeah I quit about 22 years ago.
+
+DOCTOR V773
+So have you ever had a screening of the ultrasound of the abdomen?
+
+PATIENT V773
+Yeah they did that, I think the last time I was in here.
+
+DOCTOR V773
+Okay, they did it last time?
+
+PATIENT V773
+Yeah, I remember they took a ultrasound of my stomach and that.
+
+DOCTOR V773
+Okay and that was normal?
+
+PATIENT V773
+As far as I know, they never said nothing.
+
+DOCTOR V773
+Okay, let's see.
+
+PATIENT V773
+I think it was last year.
+
+DOCTOR V773
+I'll just see it and I'm sure it's going to be uh for it so, oh there is uh okay, so you're good, you're done.
+
+PATIENT V773
+Okay.
+
+DOCTOR V773
+Good.  
+
+PATIENT V773
+So no sugars huh, no sweets?
+
+DOCTOR V773
+No sweets, no salt.
+
+PATIENT V773
+And no salt.
+
+DOCTOR V773
+No salt.
+
+PATIENT V773
+Is pepper okay?
+
+DOCTOR V773
+There's the pneumonia vaccine if you want to do it.
+
+PATIENT V773
+I think I had that last time too.
+
+DOCTOR V773
+Last time too, okay, alrighty, that's good.  Okay so, I'll see you in six months is that okay?  Or is once a year fine with you?
+
+PATIENT V773
+No I think once a year is fine.  I come in to the VA, I spend the whole day here, I got other stuff to do.
+
+DOCTOR V773
+Okay, so @@@ better for you?
+
+PATIENT V773
+Did you want me to make an appointment for that blood pressure thing?
+
+DOCTOR V773
+Oh they're going to make that.
+
+PATIENT V773
+About a month you said.
+
+DOCTOR V773
+When you check out they're gonna make it.
+
+PATIENT V773
+Yeah I mean in about another month?
+
+DOCTOR V773
+Yeah about another month.
+
+PATIENT V773
+Okay.
+
+DOCTOR V773
+Yeah and then at that time you have to bring the records of the blood pressure.
+
+PATIENT V773
+Okay.
+
+DOCTOR V773
+Could you just sit down and I'll listen to your heart and stuff?
+
+PATIENT V773
+Oh.
+
+DOCTOR V773
+And I recommend keep working on your weight because losing your weight can help blood pressure be regular and also the sugar too.
+
+PATIENT V773
+Okay.
+
+DOCTOR V773
+So that's all connected, everything is connected, your food, your lifestyle.
+
+PATIENT V773
+You're taking all the good things away from me though.
+
+DOCTOR V773
+Yeah I know so I have to do that, it's my job so. Deep breath, breathe out, once more, breathe out, that's good.  Okay so okay so I'll talk to my boss.
+
+PATIENT V773
+Okay.
+
+DOCTOR V773
+And then I'll come back here okay.
+
+(DOCTOR OUT: 96:10  DOCTOR IN:  106:24)
+
+DOCTOR V773
+Let me call the Pharmacy.
+
+PATIENT V773
+Do you want me to keep taking this other medicine till I run out that I got now?
+
+DOCTOR V773
+Yeah, I'll talk to you about that.  @@@.  (Doctor makes phone call)  Do you want to pick it up at the Pharmacy?
+
+PATIENT V773
+Yeah I'll pick it up as long as I'm here today.
+
+DOCTOR V773
+Okay.  (Doctor still on phone)  Okay, all the medications are done.
+
+PATIENT V773
+So you're saying no salt at all on anything or?
+
+DOCTOR V773
+@@@ no salt right?
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+If you can do no salt, I mean you put extra salt on the food?
+
+PATIENT V773
+Well like some places, just say McDonald's for instance, I know their fries they use a little packet of salt.
+
+DOCTOR V773
+They use a lot of salt.  They use a lot of salt.  
+
+PATIENT V773
+You know like I say if I order French fries or something, I'll put a little bit of salt on that or.
+
+DOCTOR V773
+No, no, no.
+
+PATIENT V773
+Oh.
+
+DOCTOR V773
+That's very bad.
+
+PATIENT V773
+That's bad.
+
+DOCTOR V773
+Yeah so that's very bad because they already have salt in there.
+
+PATIENT V773
+Alright.
+
+DOCTOR V773
+Then you're adding extra salt in it.
+
+PATIENT V773
+Okay.  No salt, no sugar.
+
+DOCTOR V773
+No salt, no sugar.
+
+PATIENT V773
+No sugar in the coffee or?
+
+DOCTOR V773
+It's possible, it's possible.  I would recommend getting used to no sugar.
+
+PATIENT V773
+No sugar and just milk or.  How about on cereal?
+
+DOCTOR V773
+On cereal, no, no, no, no.
+
+PATIENT V773
+No, no, no, no.  
+
+DOCTOR V773
+No salt or anything.
+
+PATIENT V773
+No sugar.
+
+DOCTOR V773
+No sugar, no sugar, no sugar.
+
+PATIENT V773
+No sugar. 
+
+DOCTOR V773
+So maybe you can work on that first, no sugar, no salt.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+And after a while you can think about decreasing because like I told you, everything down the line is going to be horrible if you have hypertension and diabetes.
+
+PATIENT V773
+What's hypertension?  Is that high blood pressure?
+
+DOCTOR V773
+Yeah.  We see a lot of those patients, initially, it's like you, you're just like having high blood pressure.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+Pre-diabetic and eventually when you end up in the hospital they have all the complications of diabetes so you can name everything and they have it, so if you have diabetes, you can lose your eyesight, can have dialysis because of the kidney problems.
+
+PATIENT V773
+Hmm.
+
+DOCTOR V773
+And then you have neuropathy so you don't feel anything in your legs or your hands and then sometimes that's painful and you get erectile dysfunction, you get difficulty in moving your GI tract after you eat and also because you don't have sensation, good sensation, you're at increased risk of infection and once you get an infection in the foot it's very difficult to treat.  When they go into the bone you have to amputate the foot.
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+So it's horrible, @@@.   So if you can stop here and prevent that from happening, that's gonna be, I think that'll be a great thing so.  So today.
+
+PATIENT V773
+Start eating fish though huh?
+
+DOCTOR V773
+Yeah.  Today, what I changed today is um uh, I said I'm going to go up on lisinopril too but it seems like the Pharmacy won't allow me to go up on the lisinopril.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+So I'm just going to increase the thiazide, the pill that you're cutting into half.
+
+PATIENT V773
+Uh-huh.  So I'll take one of those.
+
+DOCTOR V773
+Just start taking one of those and then the medication you want to pick up today is going to be the same pill.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+But um enough that you can take it every day.
+
+PATIENT V773
+Alright.
+
+DOCTOR V773
+Okay so like I gave you three refills and then you're going to come back in one month with your blood pressure log and if that is high I need to add another medication okay.
+
+PATIENT V773
+Okay.
+
+DOCTOR V773
+Um and then for your gout there's a medication that can prevent gout from happening.
+
+PATIENT V773
+They gave me that once before here but it didn't work.
+
+DOCTOR V773
+Um.
+
+PATIENT V773
+This goes back a few years, maybe three, four years.
+
+DOCTOR V773
+Well maybe, yeah I'm not sure but sometimes it doesn't work.
+
+PATIENT V773
+Is it a pill you gotta take every day?
+
+DOCTOR V773
+Yeah because of treatment, you've done this before or even people who are taking, it doesn't happen.  Um but still it decreases the risk that we know, we know that it decreases the risk.
+
+PATIENT V773
+Uh-huh.
+
+DOCTOR V773
+Of happening so I think it’s reasonable to start that medication again.  We usually start in the lower dose and then we increase the dose as tolerated.  Um I'm going to check, I just added a uric acid level in your blood tests so that when the results come back and if it comes back and if it's high we'll increase the pills you're on.  This pill is only once a day, one tablet a day but you can increase to three pills a day if there's no issues.  Um so I'll let you know, I'll let you know about the results and uh I'll let you know if we're going to increase the medication or not but for now you can just take that one pill.
+
+PATIENT V773
+Well what happens if I get a flare-up of the gout, can I take this with the medicine that I'm taking?
+
+DOCTOR V773
+No this medication will prevent that, so if you get a flare-up this won't help.
+
+PATIENT V773
+So I could take the other pills that I've taken now for it?
+
+DOCTOR V773
+Yeah, yeah, the indomethacin.  Right, I probably, have you gotten indomethacin?
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+You can take that pill and if the pain is still uncontrolled you can call us and we'll give you other medications.
+
+PATIENT V773
+This is what I didn't want is all this medication for this and this cause I really don't understand how I had one pill you know, it's just you take a pill for this, a pill for this and a pill for this.
+
+DOCTOR V773
+So these three pills are for your blood pressure you know that right?
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+And what I'm adding is just one pill; it's for preventing from the gout from happening okay.
+
+PATIENT V773
+Okay.
+
+DOCTOR V773
+Make sense?
+
+PATIENT V773
+I'll give it a try and see what happens.
+
+DOCTOR V773
+For now we'll see what happens okay.  So I'll see you in one year but um we're going to see my nurse in one month.
+
+PATIENT V773
+One month.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+Alrighty.
+
+DOCTOR V773
+Okay so you know how to check out right?
+
+PATIENT V773
+Yeah.
+
+DOCTOR V773
+Okay.
+
+PATIENT V773
+So I got to rid of this.
+
+DOCTOR V773
+Just give this to the check out.
+
+PATIENT V773
+Okay.
+
+DOCTOR V773
+Have a good day now.
+
+PATIENT V773
+You uh, now I can just go down to the Pharmacy and that stuff will be down in the Pharmacy?
+
+DOCTOR V773
+Uh-huh, uh-huh.
+
+PATIENT V773
+Okay.  Alright thank you very much.
+
+DOCTOR V773
+Thank you very much sir.
+
+PATIENT LEAVES:  118:30
+
+Time is 3:20 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255104
+TRANSACTION # 578-10-2-316-0103

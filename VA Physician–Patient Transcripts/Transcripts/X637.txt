@@ -1,0 +1,982 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR X637
+PATIENT?
+
+PATIENT X637
+PATIENT.
+
+DOCTOR X637
+How are you?
+
+PATIENT X637
+How are you too?
+
+DOCTOR X637
+Okay.  Come on in.
+
+PATIENT X637
+Oh.
+
+DOCTOR X637
+How are you?
+
+PATIENT X637
+I have four things.
+
+DOCTOR X637
+Yeah my name is DOCTOR, nice to meet you.
+
+PATIENT X637
+Uh where is my regular doctor?
+
+DOCTOR X637
+Um DOCTOR?
+
+PATIENT X637
+Yeah.
+
+DOCTOR X637
+Yeah she's here.  I'm just working with her right now but she'll come in and say hello to you.
+
+PATIENT X637
+Oh okay.
+
+DOCTOR X637
+You're having a lot of pain, is this usual for you?
+
+PATIENT X637
+Well, the doctor I'm getting in dialysis gave me medicine.
+
+DOCTOR X637
+Uh-huh.
+
+PATIENT X637
+And those do good for me.
+
+DOCTOR X637
+@@@.
+
+PATIENT X637
+The pain is in my legs.
+
+DOCTOR X637
+Uh were you just in the hospital?
+
+PATIENT X637
+Yep.
+
+DOCTOR X637
+And why did you go into the, oh your heartbeat was fast.
+
+PATIENT X637
+Uh-huh.  That's something.  I always sneeze when I come over here.
+
+DOCTOR X637
+What's that.
+
+PATIENT X637
+I live in the North Division, the North Roadside Grays Lake.
+
+DOCTOR X637
+Uh-huh.
+
+PATIENT X637
+And in there all three years ago, it was my last year for the ear and they tell me I was in the borderline but not exactly yet and I think that past the borderline @@@.
+
+DOCTOR X637
+Past the borderline?
+
+PATIENT X637
+I can't hear, correct.
+
+DOCTOR X637
+The problem is you can't hear.
+
+PATIENT X637
+Uh-huh.
+
+DOCTOR X637
+Okay.
+
+PATIENT X637
+So I needed an appointment for.
+
+DOCTOR X637
+Okay.  Now do you have um, do you have, you're on dialysis.  You have high blood pressure, high cholesterol, diabetes.  You have a history of a heart attack and they went in and they put a stent?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+They didn't put in a stent; they just went inside to look?  Do you want, can you sit here?  Can you hear me okay?
+
+PATIENT X637
+Huh?
+
+DOCTOR X637
+Can you hear me okay?
+
+PATIENT X637
+Oh yes.
+
+DOCTOR X637
+So you had, you had a history of a heart attack right?
+
+PATIENT X637
+They say.
+
+DOCTOR X637
+Okay in 2005 and then you had a large prostate.
+
+PATIENT X637
+Uh-huh.
+
+DOCTOR X637
+Is that right?  Anything else?  Any cancers or anything like that?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+Okay.  And then your, what medical problems does your family have?  Your mother has high blood pressure and diabetes?
+
+PATIENT X637
+Uh-huh.
+
+DOCTOR X637
+And what else?  And what about your father.
+
+PATIENT X637
+Yes she died.
+
+DOCTOR X637
+What about your father.  
+
+PATIENT X637
+He died of cancer.
+
+DOCTOR X637
+What kind of cancer?
+
+PATIENT X637
+@@@.
+
+DOCTOR X637
+Anybody else, what about your brothers and sisters?
+
+PATIENT X637
+My sister died of cancer in her head.
+
+DOCTOR X637
+Okay what else?
+
+PATIENT X637
+And the other sister got cancer on her breast.
+
+DOCTOR X637
+Okay what else?
+
+PATIENT X637
+That's it.
+
+DOCTOR X637
+Okay.  Um and then you, you quit smoking 20 years, when did you quit smoking?
+
+PATIENT X637
+About 20 years ago.
+
+DOCTOR X637
+And then how much were you smoking?
+
+PATIENT X637
+Plenty, at least a pack a day.
+
+DOCTOR X637
+For how many years?
+
+PATIENT X637
+I don't know, I was smoking for about 15-20 years.
+
+DOCTOR X637
+And then what about alcohol?
+
+PATIENT X637
+Alcohol, I did used to drink on weekends a lot.
+
+DOCTOR X637
+When did you quit?
+
+PATIENT X637
+Oh 15 years ago.
+
+DOCTOR X637
+Were you a heavy drinker?
+
+PATIENT X637
+Well if you call heavy drinker on weekends.  Never did I during the week no.
+
+DOCTOR X637
+And then what about drugs?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+And then do you work right now?
+
+PATIENT X637
+I'm retired.
+
+DOCTOR X637
+From?
+
+PATIENT X637
+Coca Cola.
+
+DOCTOR X637
+What did you do with Coca Cola?
+
+PATIENT X637
+Service.
+
+DOCTOR X637
+So Coca Cola things?  Do you service the machines?
+
+PATIENT X637
+I used to service the machines.
+
+DOCTOR X637
+I see.  Did you get a lot of free soda?
+
+PATIENT X637
+All I want.
+
+DOCTOR X637
+Really?
+
+PATIENT X637
+But to bring home, I have to buy it.
+
+DOCTOR X637
+Oh really, so you can drink on the job all you want?
+
+PATIENT X637
+Yeah.
+
+DOCTOR X637
+Are you married?
+
+PATIENT X637
+Yes.
+
+DOCTOR X637
+And you live here in Chicago?
+
+PATIENT X637
+Yes.
+
+DOCTOR X637
+And then um, so you said that you feel like.  Sorry.  Have you seen DOCTOR before?
+
+PATIENT X637
+Yeah.
+
+DOCTOR X637
+You have seen her; I just can't bring up her notes.  Hmm.  But at any rate are you feeling?  How are you feeling today?  You said they started you on some new medicines?
+
+PATIENT X637
+Well I just started coughing badly.
+
+DOCTOR X637
+For how many days now?
+
+PATIENT X637
+Oh for I'm not @@@ as severe now, oh for a week.
+
+DOCTOR X637
+Anything coming up?
+
+PATIENT X637
+Yeah, a lot phlegm coming up.  Although with the medicine that I get from the doctor, you can see it over there.  Yeah ever since doctor give it to me.
+
+DOCTOR X637
+Oh, oh.  They gave you Benadryl.  And it's helping you?
+
+PATIENT X637
+Oh yeah.
+
+DOCTOR X637
+What color is the phlegm?
+
+PATIENT X637
+Uh yellowish but it's coming to an end already.
+
+DOCTOR X637
+Okay good.  I've never used that before, that's good.  Any chest pain?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+Shortness of breath?
+
+PATIENT X637
+Shortness of breath it comes because my nose always plug.
+
+DOCTOR X637
+Okay.  But otherwise you can walk around without any problems?
+
+PATIENT X637
+It comes in my legs still.
+
+DOCTOR X637
+Okay.  But it's the pain in your leg that makes you stop but not shortness of breath?
+
+PATIENT X637
+It’s two different pains.
+
+DOCTOR X637
+Okay.
+
+PATIENT X637
+In the same person.
+
+DOCTOR X637
+Okay and then uh so do you.  How far can you walk?
+
+PATIENT X637
+I've never measured it.
+
+DOCTOR X637
+No okay.
+
+PATIENT X637
+But during the home I don't walk that much.
+
+DOCTOR X637
+Okay.
+
+PATIENT X637
+Because after all we're living in three levels and from the first floor to the second floor is 20 steps.
+
+DOCTOR X637
+Oh that's a lot.  That's a lot even for me.  Okay.  Any nausea, vomiting, fevers or chills?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+Any belly pain?  Any black stool, black like this?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+Any bloody stools?
+
+PATIENT X637
+Not that I know.
+
+DOCTOR X637
+And do you still make urine?
+
+PATIENT X637
+Huh?
+
+DOCTOR X637
+Or do you still pee or no?
+
+PATIENT X637
+Oh yeah.
+
+DOCTOR X637
+Okay.  Does it burn when you pee?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+Any blood in your urine?
+
+PATIENT X637
+Not that I know.  No because I can see what it.
+
+DOCTOR X637
+You don't see any okay.  And then, you can see though, you just haven't been looking?
+
+PATIENT X637
+Oh when they did the operation.
+
+DOCTOR X637
+What did they do for that operation?
+
+PATIENT X637
+They changed the pupil.
+
+DOCTOR X637
+Pupil or.
+
+PATIENT X637
+Pupil rather, the part of the eye.  Now I need glasses only for reading.
+
+DOCTOR X637
+Pupil or lens?
+
+PATIENT X637
+Huh?
+
+DOCTOR X637
+Pupil or lens?
+
+PATIENT X637
+The lenses are for reading.
+
+DOCTOR X637
+But they never changed the pupil.  The pupil is just the opening.
+
+PATIENT X637
+There was something, they did something over here.  They put something new and I don't need any glasses.
+
+DOCTOR X637
+Implants.  Uh cataracts.
+
+PATIENT X637
+Yeah they took that out.
+
+DOCTOR X637
+Okay.  And then your fistula, they just put it in November huh?
+
+PATIENT X637
+Yeah, it is right here.
+
+DOCTOR X637
+Okay.  Does it hurt?
+
+PATIENT X637
+Still hurt.
+
+DOCTOR X637
+It hurts?
+
+PATIENT X637
+Yeah.  You can touch it, see.
+
+DOCTOR X637
+Very good.
+
+PATIENT X637
+It's working?
+
+DOCTOR X637
+Yeah, yeah.  So you had in 2007, you had a fistula too.
+
+PATIENT X637
+Here.
+
+DOCTOR X637
+But it's not working anymore huh?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+Okay.
+
+PATIENT X637
+The one that work I have over here.
+
+DOCTOR X637
+What is that?
+
+PATIENT X637
+The two tubes for the dialysis.
+
+DOCTOR X637
+Oh okay and then they took it out.
+
+PATIENT X637
+No it still there.
+
+DOCTOR X637
+Oh it is, can I see?  How come they haven't taken it out?  How come they haven't taken it out?
+
+PATIENT X637
+Cause they're still using it.  Because this is where they use it for blood yet.
+
+DOCTOR X637
+Alright.  Thank you.  It should be getting ready soon.  One month or did they tell you a couple months?
+
+PATIENT X637
+I prayed to the Lord it take a short time about 15 years or 10 or 20.
+
+DOCTOR X637
+You didn't want them to use that?
+
+PATIENT X637
+Look at that.
+
+DOCTOR X637
+They tried @@@ again?
+
+PATIENT X637
+Over here by the elbow here.
+
+DOCTOR X637
+Here did they try that already?
+
+PATIENT X637
+No.  
+
+DOCTOR X637
+What other surgeries have you had?
+
+PATIENT X637
+What other what?
+
+DOCTOR X637
+What other surgeries have you had?
+
+PATIENT X637
+They covered my whole body, what do you want.
+
+DOCTOR X637
+They what?
+
+PATIENT X637
+Oh yeah.
+
+DOCTOR X637
+Yeah no, we don't need your.
+
+PATIENT X637
+What does she want?
+
+DOCTOR X637
+So they put that chest in August.
+
+PATIENT X637
+Something like that, yes.
+
+DOCTOR X637
+Is there anything that you wanted us to address today?
+
+PATIENT X637
+Uh.
+
+DOCTOR X637
+It looks like you're doing pretty good.
+
+PATIENT X637
+Hold on, they took x-rays of my legs.
+
+DOCTOR X637
+Okay.
+
+PATIENT X637
+For the pain.  I don't know what happened to it.  I never heard of it.
+
+DOCTOR X637
+Okay.  Let me renew your medicines.  You're taking all your medicines without any problems?
+
+PATIENT X637
+That’s right, yes.  Oh sometimes I cut them in half and that piece like that but.
+
+DOCTOR X637
+Do you want all these medicines to be sent to you at the house?
+
+PATIENT X637
+Yes.
+
+DOCTOR X637
+You're taking medicines for your prostate too huh?
+
+PATIENT X637
+Yeah.
+
+DOCTOR X637
+And you're taking Viagra and any problems with that?
+
+PATIENT X637
+Yes I'm out of Viagra.
+
+DOCTOR X637
+You can always pick some more up um.  You have.
+
+PATIENT X637
+@@@ Viagra; @@@ over here.  One pill.
+
+DOCTOR X637
+I know. I don't know why they do that.  I'm very sorry.  I don't know why they do that.
+
+PATIENT X637
+Cheaper.
+
+DOCTOR X637
+But that’s the government, right?  Let me see.  I will give you more refills on the Viagra but you can only still pick it up once a month.
+
+PATIENT X637
+Uh-huh.
+
+DOCTOR X637
+Um.  Okay.
+
+PATIENT X637
+What's the other one, the ear exam?
+
+DOCTOR X637
+Yes.  I'm gonna look in the ears but I'm also gonna send you to somebody.
+
+PATIENT X637
+Uh-huh.
+
+DOCTOR X637
+Now you had the chest x-ray right?  Your chest x-ray looks good.
+
+PATIENT X637
+What about my legs.
+
+DOCTOR X637
+And your legs, when did they do your legs?
+
+PATIENT X637
+I don't know @@@.
+
+DOCTOR X637
+They did your, oh they did your bone scan.
+
+PATIENT X637
+Ah that’s what it is.
+
+DOCTOR X637
+Um let's look.  Your bone showed that you have weak bones.  It showed that you have weak bones and do you drink milk or take vitamins, vitamin D or calcium?
+
+PATIENT X637
+I only take whatever they give me here.
+
+DOCTOR X637
+Okay.  So hmm.  Oh @@@.  Hmm.  So I might start you on a vitamin, another vitamin.
+
+PATIENT X637
+Uh-huh.
+
+DOCTOR X637
+Vitamin D for your bones.  Do you, have you been falling at all or anything like that?
+
+PATIENT X637
+Whatever they gave me my wife take care of it, that @@@.
+
+DOCTOR X637
+But you haven't been falling?  Have you fallen?
+
+PATIENT X637
+No I'm very careful.
+
+DOCTOR X637
+Okay.  Do you feel like you're losing your hearing and that's why you want to get it checked?
+
+PATIENT X637
+Well about three years ago the doctors said that I'm the borderline.  @@@ The television huh?
+
+DOCTOR X637
+Which doctors?
+
+PATIENT X637
+In the nerve division.
+
+DOCTOR X637
+Have a seat here, let me look.
+
+PATIENT X637
+Uh I lay down to listen to the television I have to put it at very high volume.
+
+DOCTOR X637
+No ear pain?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+Very good.  Do you clean your ears?
+
+PATIENT X637
+Yes.
+
+DOCTOR X637
+You can stop.  Does that hurt?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+Don't put anything into your ears.
+
+PATIENT X637
+I have to clean because when I take a shower water gets in.
+
+DOCTOR X637
+Oh okay.  You've never used hearing aids before?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+Can you unzip your jacket?  Deep breath in and out.  When are your dialysis days?
+
+PATIENT X637
+Monday, Wednesday and Friday.
+
+DOCTOR X637
+Where do you get dialysis?
+
+PATIENT X637
+Huh?
+
+DOCTOR X637
+You get dialysis here?
+
+PATIENT X637
+Yes.
+
+DOCTOR X637
+Any swelling in your legs?
+
+PATIENT X637
+No, no swelling.  And yes I can feel it.
+
+DOCTOR X637
+What do you take for the pain?
+
+PATIENT X637
+Uh Tylenol.
+
+DOCTOR X637
+So it gets better?
+
+PATIENT X637
+Yeah but I don't take the Tylenol very often.
+
+DOCTOR X637
+Alright.  Okay.  I'll be right back okay.
+
+PATIENT X637
+Okay.
+
+DOCTOR X637
+Anything else, so just the bones and then your cough is getting better right?
+
+PATIENT X637
+Yes, oh yes uh-huh.
+
+DOCTOR X637
+Let me just take a look inside.  Say ah.
+
+PATIENT X637
+Ah.
+
+DOCTOR X637
+Stick out your tongue good.  I'll be right back okay.
+
+(DOCTOR OUT:  51:11  DOCTOR IN:  52:43)
+
+DOCTOR X637
+She's still a little bit busy.  You didn't feel like your heart was racing?
+
+PATIENT X637
+No.  Did you know this?
+
+DOCTOR X637
+The recorder?  Are you recording me?
+
+PATIENT X637
+No somebody is.
+
+DOCTOR X637
+Oh good.  They didn't increase your medicine.  You didn't bring your medicines.  Did you bring your medicines?
+
+PATIENT X637
+No.
+
+DOCTOR X637
+Is this to record your heart though right?  Who gave this to you?
+
+PATIENT X637
+He was taking a census over there.  He said to find out how the doctors behave you know when they're with a patient.
+
+DOCTOR X637
+Oh.
+
+PATIENT X637
+Some type of research.
+
+DOCTOR X637
+Oh okay okay.  I thought it was a machine to, okay.  I'm sorry I thought it was something else for your heart.
+
+PATIENT X637
+No.
+
+DOCTOR X637
+Okay.  That's fine.
+
+PATIENT X637
+Now you got two.
+
+DOCTOR X637
+I don't think so, well maybe.  Well I'll have them explain it to you.  Um I'm sorry um one of your medicines.  One of your medicines they were supposed to increase it but did you bring your medicines with you?
+
+PATIENT X637
+No.  I used to but the only the that I had that.
+
+DOCTOR X637
+It was too many?
+
+PATIENT X637
+They never used it I mean they're white.
+
+DOCTOR X637
+I'm really sorry but one of your medicines they were supposed to increase but on here it looked like they lowered it.  So I would, your blood pressure I mean your blood pressure and your heart rate we can make it better controlled.  So can I change one of your medicines?
+
+PATIENT X637
+Huh?
+
+DOCTOR X637
+Can I change one of your medicines?
+
+PATIENT X637
+Change what?
+
+DOCTOR X637
+Change one of your medicines.
+
+PATIENT X637
+Whatever.  I'm not a doctor.  I’m at your mercy, that's all.
+
+DOCTOR X637
+Okay.  I'm not sure why they.
+
+PATIENT X637
+I know the last time the doctor gave me a piece of paper.
+
+DOCTOR X637
+Right.
+
+PATIENT X637
+And they eliminated two and they cut one in half.
+
+DOCTOR X637
+They eliminated two and cut one in half?
+
+PATIENT X637
+Yeah.
+
+DOCTOR X637
+Yeah I'm not sure why they cut it in.  I wonder why they cut your medicine in half because in your note it says to continue it.  Hmm.
+
+PATIENT X637
+I remember in there in dialysis every month they make a, they take blood and configure whatever the content possibly based from that.
+
+DOCTOR X637
+Okay I'm very sorry it's taking a little bit longer.  Let me go see @@@.
+
+PATIENT X637
+Oh it's okay.
+
+DOCTOR X637
+Alright.  Let me see if I can figure out what your, what your medicine is.
+
+PATIENT X637
+I use the telephone you could call my wife, she tell you.
+
+DOCTOR X637
+What's your wife's telephone number?
+
+PATIENT X637
+Uh NUMBER.
+
+DOCTOR X637
+She's at home right now?
+
+PATIENT X637
+Yeah.
+
+DOCTOR X637
+What's her name?
+
+PATIENT X637
+NAME.  @@@ I call her for her.
+
+DOCTOR X637
+Okay, alright thank you.  Let me see if I can't get a hold of her.  Okay we're gonna check one blood test.  I didn't have to call your and I'm going to send you for the ears.
+
+PATIENT X637
+Uh-huh.
+
+DOCTOR X637
+Okay and we're gonna send you for one blood test that is, we're gonna check for your vitamin D level to see if we need to give you something for your bones.
+
+PATIENT X637
+Uh-huh.
+
+DOCTOR X637
+And then um next time you're gonna see DOCTOR okay.  It was a mistake for you to be seen with us.
+
+PATIENT X637
+What’s the difference?
+
+DOCTOR X637
+Sorry.
+
+PATIENT X637
+For me a doctor is a doctor.
+
+DOCTOR X637
+You better.
+
+PATIENT X637
+A doctor is a doctor, that’s it.
+
+DOCTOR X637
+She has more experience.
+
+PATIENT X637
+Well that may be, but you are younger @@@.
+
+DOCTOR X637
+And then um and then I put in um an order for you to get your ears checked but they'll call you or they'll send you an appointment.
+
+PATIENT X637
+Oh okay.
+
+DOCTOR X637
+Okay.
+
+PATIENT X637
+Okay.
+
+DOCTOR X637
+So then you'll come back and see her in about four months.
+
+PATIENT X637
+Okay.
+
+DOCTOR X637
+Okay.  Okay.
+
+PATIENT X637
+Okay.
+
+DOCTOR X637
+Thank you very much.  It was nice meeting you and you can just give that to the front office.  Thank you.
+
+PATIENT X637
+Okay.
+
+PATIENT LEAVES:  66:36
+
+It is 10:30.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255163
+TRANSACTION # 578-10-2-316-0103

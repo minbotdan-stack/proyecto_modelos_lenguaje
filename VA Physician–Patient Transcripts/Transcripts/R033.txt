@@ -1,0 +1,493 @@
+Date of Encounter:  @@/@@/@@   
+Time of Encounter:  @@@ 
+
+DOCTOR R033
+Do you have an appointment for today?
+
+PATIENT R033
+Yes I do at 4 o'clock.
+
+DOCTOR R033
+Okay well, it's a little bit after 4 so this.
+
+PATIENT R033
+I’m not worried about that I just want to be sure to get seen.
+
+DOCTOR R033
+@@@.
+
+PATIENT R033
+Thank you.
+
+DOCTOR R033
+Hello.
+
+PATIENT R033
+Hi.
+
+DOCTOR R033
+How are you?
+
+PATIENT R033
+Oh I could be better. @@@ arthritis in the neck.
+
+DOCTOR R033
+@@@.
+
+PATIENT R033
+It's good to meet you.  But that's why I @@@.
+
+DOCTOR R033
+Okay.  So you normally go to the North VA?
+
+PATIENT R033
+Yeah North Chicago.
+
+DOCTOR R033
+@@@.
+
+PATIENT R033
+Oh I moved to @@@ so I transferred to the VA.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+@@@.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+All kinds of problems.
+
+DOCTOR R033
+I'm sorry?
+
+PATIENT R033
+I got all kinds of problems.
+
+DOCTOR R033
+Oh.
+
+PATIENT R033
+Yeah.
+
+DOCTOR R033
+(Doctor spoke with someone who came to the door).  What kind of problems do you have?
+
+PATIENT R033
+Diabetes uh seizures.  
+
+DOCTOR R033
+Uh-huh.
+
+PATIENT R033
+I have a cyst on my brain.
+
+DOCTOR R033
+You have a what?
+
+PATIENT R033
+A cyst.
+
+DOCTOR R033
+A cyst.
+
+PATIENT R033
+In my brain.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+Uh.  They told me I had some kind of a thromboembolism on my brain.  Uh I have arthritis in my neck and they believe they did some blood work but I left from there so I never found out @@@ hips too, I have arthritis.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+Um.  I got a little bit of like memory loss.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+I get pretty sick. I get pretty sick. Like, Sunday, my sugar blood dropped to 54 I get these headaches in my neck that's there all the time.  I ran out of my @@@ pills and my seizures have been more.
+
+DOCTOR R033
+So you're not taking your @@@.
+
+PATIENT R033
+No I have run out of them.
+
+DOCTOR R033
+Yeah.
+
+PATIENT R033
+Yeah I ran out Thursday.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+And um I was seeing the neurologist; I had two neurologists the one for my headache pain and he's gave me shots in the back of my neck back here.
+
+DOCTOR R033
+Uh-huh.
+
+PATIENT R033
+And into the @@@ for my brain from my neck and those headaches I get.  My eyes are a little blurry.  I got glasses though.  @@@.
+
+DOCTOR R033
+So that's not you right?
+
+PATIENT R033
+No.  I got my @@@ medication list.
+
+DOCTOR R033
+Okay @@@.
+
+PATIENT R033
+@@@.  I wrote this one down.  These are the medications the doctor gives them to me.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+@@@.
+
+DOCTOR R033
+What are they doing for your headaches?
+
+PATIENT R033
+Um, I was going to DOCTOR right here getting those pain shots.  I'm not sure what kind of shot they were.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+Yeah that one helped with @@@ pain and I was taking uh these tablets right there.  This one right here for pain.
+
+DOCTOR R033
+Uh-huh.
+
+PATIENT R033
+As a matter of fact I have a couple of them but this is the one that helps the most.  @@@
+
+DOCTOR R033
+Looks @@@.  Okay.  So you recently moved?
+
+PATIENT R033
+Yes.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+I have a couple of @@@ to be able to keep an eye on any of them.
+
+DOCTOR R033
+So I'll you see our neurologist here okay.
+
+PATIENT R033
+Okay.
+
+DOCTOR R033
+Your headaches, you said they're getting worse?
+
+PATIENT R033
+Yeah.
+
+DOCTOR R033
+Since you stopped taking the medication.
+
+PATIENT R033
+The Keppra.
+
+DOCTOR R033
+The Keppra.
+
+PATIENT R033
+And once I was getting the shot in the head in the back, it would help keep them away for about a week or so.
+
+DOCTOR R033
+Uh-huh.
+
+PATIENT R033
+When @@@ they would come back @@@.  Now that I ran out of Keppra they seem to come more often @@@.
+
+DOCTOR R033
+No seizures?
+
+PATIENT R033
+No I haven't had any for a while.
+
+DOCTOR R033
+When was the last time you had a seizure?
+
+PATIENT R033
+Well back in January and that was the, I had a couple in January.  @@@ I went to the hospital I guess.  I don't remember too much, only what they told me.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+When I went to the hospital.
+
+DOCTOR R033
+@@@ okay.
+
+PATIENT R033
+Is the insulin in there too?.
+
+DOCTOR R033
+Are you taking insulin?
+
+PATIENT R033
+Uh-huh.
+
+DOCTOR R033
+No you don't have @@@.
+
+PATIENT R033
+Yeah I’m taking that.
+
+DOCTOR R033
+Write that down.
+
+PATIENT R033
+I have to go @@@.
+
+DOCTOR R033
+@@@.
+
+PATIENT R033
+I don't know if it's updated because as you can see some of the medication was upgraded more.
+
+DOCTOR R033
+Okay do you want me to take both of these?
+
+PATIENT R033
+If you want, yeah.  
+
+DOCTOR R033
+Okay yeah.  Do you need this here?
+
+PATIENT R033
+Yeah.
+
+DOCTOR R033
+Do you need this?  Okay let me write this down, write the dose down for this order, the pain medication that you're on.
+
+PATIENT R033
+Oh the ones that say one tablet every 12 hours.
+
+DOCTOR R033
+Yeah, but what’s the dose?  They've got the dose on the sheet here.  It's 160 okay, so I'll keep this and then I'll.
+
+PATIENT R033
+I wrote down on the ones, the new one.
+
+DOCTOR R033
+Okay I'll give you a year's supply of this.
+
+PATIENT R033
+Okay.  Is the insulin in there?
+
+DOCTOR R033
+I'm sorry?
+
+PATIENT R033
+Have you got the insulin in there?  They've been really low at night.
+
+DOCTOR R033
+Yes it is.
+
+PATIENT R033
+Okay.
+
+DOCTOR R033
+So you say your sugars are low sometimes?
+
+PATIENT R033
+Yeah uh.
+
+DOCTOR R033
+Is it a lot or occasionally?
+
+PATIENT R033
+Uh I keep uh, @@@.  They go up and down.  That one gets low on Sunday, that one right there, 54.
+
+DOCTOR R033
+Uh-huh.
+
+PATIENT R033
+And then I brought it back up.
+
+DOCTOR R033
+Okay, so that's @@@ low.
+
+PATIENT R033
+Yeah.
+
+DOCTOR R033
+And @@@.
+
+PATIENT R033
+Yeah and I to really look.  I got like critical when I go low and so.
+
+DOCTOR R033
+At those times are you eating?
+
+PATIENT R033
+Uh I started eating or I'll drink some orange juice.
+
+DOCTOR R033
+But at the times when it was low, had you eaten?
+
+PATIENT R033
+Yeah I've eaten and they still have gone low.  It’s hot in here, I’m sweating. @@@ work tomorrow my toes be hurting @@@. 
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+@@@.  I @@@.
+
+DOCTOR R033
+Give you what?
+
+PATIENT R033
+A new packet @@@.
+
+DOCTOR R033
+@@@.  Were you admitted @@@?
+
+PATIENT R033
+Was I admitted?
+
+DOCTOR R033
+Uh-huh.
+
+PATIENT R033
+Oh I was admitted to the @@@ Hospital because I had my DD214.
+
+DOCTOR R033
+You had your what?
+
+PATIENT R033
+Back in January I was admitted at Good Shepherd Hospital and they examined me.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+That was the first time with seizures and that's when they discovered I was diabetic cause my blood sugars were in the lower 500s.
+
+DOCTOR R033
+Uh-huh.
+
+PATIENT R033
+And then that's when the problem started @@@.
+
+DOCTOR R033
+Your @@@ are a little bit high, and you already have fatty liver disease. Did they ever tell you that?
+
+PATIENT R033
+Oh yeah, @@@. I forgot about that.
+
+DOCTOR R033
+No problem. 
+
+PATIENT R033
+@@@ I forgot.
+
+DOCTOR R033
+Okay so the big thing for you is I want you to restart your, you can have a seat here. @@@ and then I'm going to have you see the neurologist @@@.
+
+PATIENT R033
+Oh okay.
+
+DOCTOR R033
+Deep breath and deep breath.  Deep breath.  @@@.
+
+PATIENT R033
+@@@.  
+
+(DOCTOR OUT:  61:49  DOCTOR IN:  66:10)
+
+DOCTOR R033
+Okay so that's what we'll do okay.  We'll have you come back in one month.
+
+PATIENT R033
+Okay.
+
+DOCTOR R033
+Hopefully. Uh make it two months.  I know you just saw your doctor over there.
+
+PATIENT R033
+Okay.
+
+DOCTOR R033
+Alright so we'll make it two months.  I'll have Neurology see you.
+
+PATIENT R033
+Okay.
+
+DOCTOR R033
+Okay um, I'll have Neurology see you.  Start the injections again and then restart the Keppra.
+
+PATIENT R033
+Okay.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+Alright.
+
+DOCTOR R033
+Alright and then before you come make sure you do labs okay so labs in two months.
+
+PATIENT R033
+When do I have the labs?
+
+DOCTOR R033
+Right before you come.
+
+PATIENT R033
+Okay.
+
+DOCTOR R033
+Okay.
+
+PATIENT R033
+Alright.  Are they going to give me the appointment for the neurologist?
+
+DOCTOR R033
+Yeah you'll get a letter.  Just @@@ here.
+
+PATIENT R033
+Okay.  Alright.  Will I take this yes.
+
+DOCTOR R033
+@@@ um on your right hand side.
+
+PATIENT R033
+Okay.
+
+DOCTOR R033
+You can check out.
+
+PATIENT R033
+Alright thank you.
+
+PATIENT LEAVES:  67:14.
+
+Time is 4:50.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238124
+TRANSACTION # 578-10-2-316-0103

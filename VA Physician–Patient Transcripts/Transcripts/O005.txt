@@ -1,0 +1,692 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@  
+
+DOCTOR O005
+PATIENT?
+
+PATIENT O005
+That's me.
+
+DOCTOR O005
+How you feeling?
+
+PATIENT O005
+Oh so, so doctor.
+
+DOCTOR O005
+So-so, do you remember me?  I saw you once before.
+
+PATIENT O005
+Oh yeah.  
+
+DOCTOR O005
+Oh yeah I saw you over the summer.
+
+PATIENT O005
+Yes sir.
+
+DOCTOR O005
+How you feeling?
+
+PATIENT O005
+Uh just like a pain that's gonna be @@@ but sometimes.
+
+DOCTOR O005
+Is it getting better or getting worse?
+
+PATIENT O005
+Getting worse.
+
+DOCTOR O005
+Okay.  
+
+PATIENT O005
+But it'll @@@ I'm dying to @@@.
+
+DOCTOR O005
+Just walking makes it worse?
+
+PATIENT O005
+Yes and I have to stay out all day.
+
+DOCTOR O005
+Uh-huh.
+
+PATIENT O005
+@@@.
+
+DOCTOR O005
+Uh-huh.
+
+PATIENT O005
+It’s not like when you get home you lay day you know.
+
+DOCTOR O005
+@@@.
+
+PATIENT O005
+Make you feel better.  When I lay down the burning @@@.
+
+DOCTOR O005
+Uh-huh.
+
+PATIENT O005
+Because it's all so much pain that um during the day it gets worse and worse.  After three or four @@@ I would like to lay down but I got to wait till 8:30.
+
+DOCTOR O005
+Uh-huh.
+
+PATIENT O005
+@@@.
+
+DOCTOR O005
+Uh any other problems?
+
+PATIENT O005
+Oh I got, uh not lice, but bed bugs I think.
+
+DOCTOR O005
+You have bed bugs?
+
+PATIENT O005
+Yes, it's really crawling.
+
+DOCTOR O005
+Okay.  Have you taken anything for it?
+
+PATIENT O005
+Uh I washed my hair with NIX.
+
+DOCTOR O005
+Uh-huh.
+
+PATIENT O005
+But I made a mistake; I used the same comb at the same time.
+
+DOCTOR O005
+Uh-huh.
+
+PATIENT O005
+So they back.
+
+DOCTOR O005
+So do you have, do you think you have them right now?
+
+PATIENT O005
+Yes.
+
+DOCTOR O005
+Okay.  Are they in your hair or is it everywhere?
+
+PATIENT O005
+In my hair and my beard.
+
+DOCTOR O005
+Okay what do they look like?  Can you see them?
+
+PATIENT O005
+Uh I have some but I don't think.
+
+DOCTOR O005
+Are they?
+
+PATIENT O005
+@@@ not lice.
+
+DOCTOR O005
+What color are they?
+
+PATIENT O005
+Uh like white or brown.
+
+DOCTOR O005
+White or brown?
+
+PATIENT O005
+Yes sir.
+
+DOCTOR O005
+Okay.  Which one are they white or are they brown?
+
+PATIENT O005
+Well I think like they just both.  They kind of white.
+
+DOCTOR O005
+Okay.
+
+PATIENT O005
+But I have taken uh, I guess @@@ I try to smash it, they don't smash.  The youg ones do but the old ones they have to smash it with your nail.
+
+DOCTOR O005
+Okay.
+
+PATIENT O005
+With your fingernail.
+
+DOCTOR O005
+And you used the NIX shampoo before?
+
+PATIENT O005
+Yes sir.
+
+DOCTOR O005
+And that helped.
+
+PATIENT O005
+Yes sir.
+
+DOCTOR O005
+Okay.  So do you want to try that again?
+
+PATIENT O005
+I'd like to, yes @@@.
+
+DOCTOR O005
+Okay um.
+
+PATIENT O005
+And here on my back here, my low back are painful uh my about right here but it's by the center of the back it's uh.
+
+DOCTOR O005
+It's painful as well.
+
+PATIENT O005
+Yes sir um sometimes it radiates also to my neck.  Thank God it's not every day but sometimes I'm afraid to move.
+
+DOCTOR O005
+Okay.  Uh are you still using the drugs?
+
+PATIENT O005
+Yes sir.
+
+DOCTOR O005
+Okay.  So you know obviously it's gonna be very difficult to get like a surgeon or someone to do something about that if you're still doing that um.  I know we've discussed it in the past.  You maybe doing the Outpatient Treatment Program and then doing the Inpatient Treatment Program.  Do you feel like that's something you want to do right now or no?
+
+PATIENT O005
+I'd like to sir.
+
+DOCTOR O005
+Okay.
+
+PATIENT O005
+I'm tired you know, every day @@@.
+
+DOCTOR O005
+Okay.  Do you know how to get in touch with them?
+
+PATIENT O005
+No sir.
+
+DOCTOR O005
+Okay.  Uh I believe the way it works here is you go to the Outpatient Treatment Program and you kind of have to show up every day, show them you know that you can be reliable to come here every day and then after a while you transition to the Inpatient Treatment Program.
+
+PATIENT O005
+I'd like to, sir.
+
+DOCTOR O005
+Okay.
+
+PATIENT O005
+I'd like to yes.
+
+DOCTOR O005
+Alright.  I can get you some information on somewhere you can go for that uh and you know that's kind of the road you need to start going down and then we can talk about maybe doing something for this back pain okay.
+
+PATIENT O005
+Yes sir.
+
+DOCTOR O005
+Any other problems?
+
+PATIENT O005
+Oh my arms also, especially in my left arm.  I guess because of carrying the suitcase.
+
+DOCTOR O005
+Where does it hurt?
+
+PATIENT O005
+About this part here.
+
+DOCTOR O005
+Right there?
+
+PATIENT O005
+Yes sir.
+
+DOCTOR O005
+Okay.  Anywhere else?
+
+PATIENT O005
+Hmm my leg sometimes um how do I say, like a sharp pain but suddenly you know it doesn't match like the back pain.
+
+DOCTOR O005
+Uh-huh.
+
+PATIENT O005
+Just sometimes I can't tell why you know suddenly what kind of movement that I made it just happens sometimes, I don't know.
+
+DOCTOR O005
+Sometimes.  Um where does this arm hurt?  Point to it for me.
+
+PATIENT O005
+Oh this area here.
+
+DOCTOR O005
+Right here.  Okay can you put this down for a second?
+
+PATIENT O005
+Sure.
+
+DOCTOR O005
+Alright.  Straighten your arm out for me.  Does that hurt?
+
+PATIENT O005
+No.
+
+DOCTOR O005
+No.  Pull it in real tight, does that hurt?
+
+PATIENT O005
+No it doesn't hurt.
+
+DOCTOR O005
+Okay.  Does it hurt when I push?  No it's not hurting right now?
+
+PATIENT O005
+No.
+
+DOCTOR O005
+Okay.  Down here, does it hurt on any of these bones?
+
+PATIENT O005
+No sir.
+
+DOCTOR O005
+Okay.  So it's not hurting much right now?
+
+PATIENT O005
+No.
+
+DOCTOR O005
+Okay.
+
+PATIENT O005
+The second one, when I get @@@ and when I'm walking I'm pulling it.
+
+DOCTOR O005
+Okay.  How do you use your drugs?  You use heroin correct?
+
+PATIENT O005
+Yes sir.
+
+DOCTOR O005
+Do you smoke it, do you inject it?
+
+PATIENT O005
+I inject it.
+
+DOCTOR O005
+You inject it, where do you inject it?  
+
+PATIENT O005
+Here.
+
+DOCTOR O005
+Okay and you don't have any spots that you're worried are infected or anything?
+
+PATIENT O005
+Oh no sir.
+
+DOCTOR O005
+No.
+
+PATIENT O005
+I try to wash it with.
+
+DOCTOR O005
+Okay.
+
+PATIENT O005
+Uh alcohol prior.
+
+DOCTOR O005
+Yeah but this is the only arm?
+
+PATIENT O005
+Well lately yes.
+
+DOCTOR O005
+Okay.
+
+PATIENT O005
+Before I used this one.
+
+DOCTOR O005
+You know how to look to see if it's infected right?
+
+PATIENT O005
+Hmm.
+
+DOCTOR O005
+If it gets like really red and swollen and hot and painful, then you need to come to the ER okay.
+
+PATIENT O005
+I hope that never happens.
+
+DOCTOR O005
+I hope you never do as well.  Alright.  What medications are you taking right now?
+
+PATIENT O005
+Uh I was taking ibuprofen 600.
+
+DOCTOR O005
+Uh-huh.
+
+PATIENT O005
+But they're gone.
+
+DOCTOR O005
+They're gone.
+
+PATIENT O005
+Yes.
+
+DOCTOR O005
+Okay.
+
+PATIENT O005
+And.
+
+DOCTOR O005
+You just ran out or what?
+
+PATIENT O005
+Well uh before run out I was starting stored in my car; I have too many thieves here in Chicago.  When I came back they were already stolen and uh I'm taking uh for the prostate too, they have @@@ I think @@@ mg and multivitamins.
+
+DOCTOR O005
+Okay.  Just were you, are you having indigestion?  Like acid reflux?
+
+PATIENT O005
+Not all the time uh when I go to shit somtimes it's very hard, I push pretty hard.
+
+DOCTOR O005
+Okay.  Uh you may be dehydrated, especially now in the summer.  You're probably outside a lot and you sweat.  You get dehydrated and that's gonna cause that so, plenty of water okay.
+
+PATIENT O005
+Oh, yes sir.
+
+DOCTOR O005
+Um what do you eat?
+
+PATIENT O005
+Oh sometimes I eat lunch and sometimes I have a sister who is up there on Washington, they make very good soup and fruit salads and lettuce salad.
+
+DOCTOR O005
+Uh-huh.
+
+PATIENT O005
+@@@.
+
+DOCTOR O005
+The more fruits and vegetables you eat yet, that's more fiber and that'll make it easier for you to go to the bathroom too.
+
+PATIENT O005
+Oh okay.
+
+DOCTOR O005
+Okay so a lot of that stuff.
+
+PATIENT O005
+Alright sir.
+
+DOCTOR O005
+Alright.  Do you need that prostate pill?
+
+PATIENT O005
+Oh no I, I lost it the other day, I just got it last week.
+
+DOCTOR O005
+Okay so you have some of it still?
+
+PATIENT O005
+Yes sir, I still have some.
+
+DOCTOR O005
+Good, good.  Um so do you want to keep taking the ibuprofen, were they helping you?
+
+PATIENT O005
+Well it helps a little, better than nothing.
+
+DOCTOR O005
+Right so I could get you some more of the ibuprofen.
+
+PATIENT O005
+Alright.
+
+DOCTOR O005
+Uh and then has anyone ever checked your cholesterol?
+
+PATIENT O005
+Well a long time ago.
+
+DOCTOR O005
+Alright so they just checked it last year.  Your cholesterol looks really good.
+
+PATIENT O005
+Thank you.
+
+DOCTOR O005
+You're doing something right.  You probably walk a lot every day don't you?
+
+PATIENT O005
+Well I paint houses.
+
+DOCTOR O005
+You do what?
+
+PATIENT O005
+Paint houses.  You know with a cup.
+
+DOCTOR O005
+Oh you paint, but you're moving a lot right?
+
+PATIENT O005
+Right.
+
+DOCTOR O005
+So you walk around the city quite a bit.
+
+PATIENT O005
+Well yes I @@@.
+
+DOCTOR O005
+That's good for your heart.  That's why your cholesterol looks so good.  Okay.
+
+PATIENT O005
+How, you have the numbers there?
+
+DOCTOR O005
+Yep.  So the most important numbers are the bad cholesterol um.  Did anyone in your family ever die of a heart attack?
+
+PATIENT O005
+Yes sir.
+
+DOCTOR O005
+Who?
+
+PATIENT O005
+My father.
+
+DOCTOR O005
+Your father.  Uh and did anyone, do you uh smoke?
+
+PATIENT O005
+Yes.
+
+DOCTOR O005
+You do, how much?
+
+PATIENT O005
+Um about 8 or 10.
+
+DOCTOR O005
+Okay.
+
+PATIENT O005
+I'm trying to do less sometimes though.
+
+DOCTOR O005
+Um and you don't have diabetes right?
+
+PATIENT O005
+My two, my father and my two grandmothers.
+
+DOCTOR O005
+But you don't have it?
+
+PATIENT O005
+Uh I hope I don't.  I have it in the family.
+
+DOCTOR O005
+I don't think you do.  So yours should be less than 130 and its 111 so you're doing great.
+
+PATIENT O005
+Oh.
+
+DOCTOR O005
+And then your good cholesterol should be greater than 45 and it's 52.
+
+PATIENT O005
+Oh.
+
+DOCTOR O005
+That's also good.  Alright.
+
+PATIENT O005
+And one thing that I always forget and now it's on my mind now about the prostate uh how uh, how do I say this in English uh, what the prognosis uh in the future of if I.
+
+DOCTOR O005
+Right.
+
+PATIENT O005
+That might get cancer?
+
+DOCTOR O005
+So um has anyone in your family ever had prostate cancer?
+
+PATIENT O005
+Not that I know of.
+
+DOCTOR O005
+No.  And you were, so the high-risk rate for having prostate cancer is African-American and you're not African-American.   You have no family history of prostate cancer um so even if we, there's two tests you can do.  There's a blood test and then you can do an exam where you have to stick a finger in your butt to feel your prostate and based on what we find on those sometimes they recommend biopsies but there's a lot of evidence that shows that we end up biopsying too many people and causing more problems than we're actually helping people.
+
+PATIENT O005
+Hmm.
+
+DOCTOR O005
+So I would not recommend we even do that.  I think your prostate problem is very normal for someone your age and you don't have any family history of problems so I wouldn't want to go any further down that road okay.
+
+PATIENT O005
+Okay.  Um @@@ generally in the population.
+
+DOCTOR O005
+Uh-huh.
+
+PATIENT O005
+How, like a percent that you know.
+
+DOCTOR O005
+Right, right.
+
+PATIENT O005
+Give me a statistic.
+
+DOCTOR O005
+So if you um, if everyone so let's do like 90, if you cut them open when they die and looked at their prostate, almost all of them would have prostate cancer.  But in most people it's a very slow growing non-dangerous tumor.
+
+PATIENT O005
+Hmm.
+
+DOCTOR O005
+So if you, if you start drawing the blood tests on people and if you see it looks a little elevated, maybe we should do a biopsy or maybe we should take the prostate out.  You're probably gonna cause more problems with those surgical procedures than you're gonna fix because most of those people would have lived their regular, normal, completely healthy life and never had any problems with that prostate cancer okay.
+
+PATIENT O005
+Oh okay, thank you so much.
+
+DOCTOR O005
+So I think in you I would recommend not even testing it okay.  How many times do you have to get up at night to go to the bathroom?
+
+PATIENT O005
+Before @@@ a bunch of times time but.
+
+DOCTOR O005
+But now that you're on the terazosin you don't?
+
+PATIENT O005
+Mainly about two, three times.  Sometimes I sleep straight.
+
+DOCTOR O005
+Good.
+
+PATIENT O005
+@@@.
+
+DOCTOR O005
+Alright.  Let me go talk to my boss and we'll get you moving okay.
+
+PATIENT O005
+Yes sir.
+
+DOCTOR O005
+Alright I'll see you in a little bit.
+
+PATIENT O005
+Alright sir.  I wait outside?
+
+DOCTOR O005
+You what?  You can wait right here, you're fine.
+
+PATIENT O005
+Oh okay.
+
+(DOCTOR OUT:  56:19  DOCTOR IN:  61:55)
+
+DOCTOR O005
+Alright so here's what we're gonna do today.  When you leave you can schedule your follow-up appointment here um, just go out front and tell them you need to come back in six months right and then whenever you're ready to try the Outpatient Rehab Program, do you know where the PACC is, right across from the ER, you can just walk in there any day.  Okay I'll put the consult in the computer and they'll be ready for you whenever um you want to show up and then you want, we'll get you the ibuprofen, the NIX hair wash and then you need some of the omeprazole for your stomach, for your reflux okay, we'll get that as well.  Alright.
+
+PATIENT O005
+Thank you.
+
+DOCTOR O005
+Anything else?
+
+PATIENT O005
+Not right now, I don't think so.
+
+DOCTOR O005
+Alright.  I'll see you back in six months okay.
+
+PATIENT O005
+Alright sir.
+
+DOCTOR O005
+Alright.  It was good to see you, take care of yourself okay.
+
+PATIENT O005
+Thank you very much.
+
+DOCTOR O005
+You're welcome.  Take care now.
+
+PATIENT O005
+Alright, have a good night now.
+
+DOCTOR O005
+You too.
+
+PATIENT LEAVES:  63:37.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275403
+TRANSACTION # 578-10-2-316-0103

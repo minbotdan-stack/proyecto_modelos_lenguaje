@@ -1,0 +1,807 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR P276
+PATIENT?
+
+PATIENT P276
+How are you today?
+
+DOCTOR P276
+@@@.
+
+PATIENT P276
+Just let me know where I can set my stuff.  @@@.
+
+DOCTOR P276
+I saw that.
+
+PATIENT P276
+I'm 74.
+
+DOCTOR P276
+I saw that.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+@@@.
+
+PATIENT P276
+Ever since I had my knee @@@.
+
+DOCTOR P276
+@@@.  
+
+PATIENT P276
+Yeah.  @@@ many years ago.
+
+DOCTOR P276
+@@@.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+@@@.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Yeah I saw @@@.  Does the tramadol help?  @@@ help?
+
+PATIENT P276
+I've got to pick it up.  I wasn't able to wait for it.
+
+DOCTOR P276
+Oh I see.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Okay.
+
+PATIENT P276
+Cause it's only @@@.
+
+DOCTOR P276
+Okay, so you want to pick it up now.
+
+PATIENT P276
+@@@ one of those questions I had for you.
+
+DOCTOR P276
+Okay.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Woo, @@@.
+
+PATIENT P276
+Okay.  @@@ so I tried to make an appointment in audiology.
+
+DOCTOR P276
+Okay.
+
+PATIENT P276
+I tried @@@, I called for an appointment they said I hadn't been here in over two years so.
+
+DOCTOR P276
+Okay.
+
+PATIENT P276
+They told me @@@ recommended again.
+
+DOCTOR P276
+I will do that @@@.
+
+PATIENT P276
+Okay.  @@@.
+
+DOCTOR P276
+What else?
+
+PATIENT P276
+And uh I've been noticing my pulse rate.
+
+DOCTOR P276
+Yes.  Okay.
+
+PATIENT P276
+You @@@ for the last two weeks.
+
+DOCTOR P276
+How @@@ okay.
+
+PATIENT P276
+So it’s been rising, the one of them.
+
+DOCTOR P276
+Right I see that.  The high, the 100s, what was going on when they're in the 100s.
+
+PATIENT P276
+It doesn't seem to matter.
+
+DOCTOR P276
+Nothing @@@.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Okay.
+
+PATIENT P276
+Sometimes they're up and sometimes they're down.
+
+DOCTOR P276
+Okay.  Um well you've been taking the Digoxin, correct?
+
+PATIENT P276
+Uh.
+
+DOCTOR P276
+Excuse me, you stopped Digoxin @@@ and the atenolol.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+The atenolol.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Are up to 50 millgrams?
+
+PATIENT P276
+No.
+
+DOCTOR P276
+No.
+
+PATIENT P276
+I don't have any pills.
+
+DOCTOR P276
+Okay @@@ your blood pressure is 110/74 okay.  Um, let me think about it because again, I think it’s a good thing that you’re off of the Digoxin.
+
+PATIENT P276
+Uh-huh.
+
+DOCTOR P276
+Okay.  Um and so the question is do we go up on the atenolol a little more, @@@ 37.5.
+
+PATIENT P276
+Uh-huh.
+
+DOCTOR P276
+And just monitor your blood pressure.  Have you been feeling dizzy at all?
+
+PATIENT P276
+No.
+
+DOCTOR P276
+Um because if you were feeling dizzy then I'd be hesitant to raise the dose but if you're not then let's go up on it slowly.
+
+PATIENT P276
+Uh-huh.
+
+DOCTOR P276
+Okay so instead of doubling the dose we'll go up @@@.
+
+PATIENT P276
+Okay @@@.
+
+DOCTOR P276
+Okay, alright sounds good.  Um and the appointment for Audiology is for hearing adis?
+
+PATIENT P276
+For the hearing aid.
+
+DOCTOR P276
+For your hearing aids.
+
+PATIENT P276
+I've been missing things you know.  I don’t know if it’s the hearing aids, my own hearing.  I just need an adjustment.
+
+DOCTOR P276
+Okay.  Could you go today?
+
+PATIENT P276
+No.  Wish I could but I can't.
+
+DOCTOR P276
+Okay.  How long have you been wearing the hearing aids?
+
+PATIENT P276
+A couple of years.  @@@.
+
+DOCTOR P276
+Okay.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+No problem.  Okay.  Besides the pulse, we're gonna go up on the atenolol, the hearing I'm gonna make sure that you get to see Audiology, I'm putting in a consult right now.
+
+PATIENT P276
+Uh-huh.
+
+DOCTOR P276
+Anything else you want to discuss today?
+
+PATIENT P276
+No I just, I can wear @@@.
+
+DOCTOR P276
+Yeah.  @@@.
+
+PATIENT P276
+I @@@.  My wife I’ve been living in Elmhurt for @@@ for @@@ It helps a little, but not much.
+
+DOCTOR P276
+@@@.
+
+PATIENT P276
+You know @@@.
+
+DOCTOR P276
+@@@.  Are you sure that's not for um, have you ever had @@@ before?
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Hmm.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+@@@.  Just keep talking and I'll look it up.
+
+PATIENT P276
+Okay.  Uh.  @@@ and that helps but not much.
+
+DOCTOR P276
+Okay.
+
+PATIENT P276
+And I probably get some my lower back and that's probably contributing too.
+
+DOCTOR P276
+Hmm, yeah.
+
+PATIENT P276
+@@@ recommend it @@@ they have me – 20 minutes .
+
+DOCTOR P276
+@@@.
+
+PATIENT P276
+I feel good for about five minutes after.
+
+DOCTOR P276
+Uh-huh.
+
+PATIENT P276
+And then @@@ all day.
+
+DOCTOR P276
+Right.  So why did @@@ if you feel like this, okay.
+
+PATIENT P276
+Okay.
+
+DOCTOR P276
+Okay.  Um have you tried Icy Hot or Ben Gay?
+
+PATIENT P276
+Uh I used to use Ben Gay many years ago. I’ve never tried Icy Hot.
+
+DOCTOR P276
+I would recommend that.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Yeah.  That can help the muscular pain, if you get that.
+
+PATIENT P276
+@@@ yeah.
+
+DOCTOR P276
+Just use that on your back.  As far as other pain medications, anything @@@.  You know something that, I would try, avoid taking ibuprofen um, Advil and Motrin.
+
+PATIENT P276
+Oh ibuprofen I’m not supposed to take anyway.
+
+DOCTOR P276
+Right because of the other medications.
+
+PATIENT P276
+Because of all the medications.
+
+DOCTOR P276
+Because of the Coumadin that you're on.
+
+PATIENT P276
+Right.
+
+DOCTOR P276
+The Tylenol @@@.  The tramadol that they gave you, you can take that as you need it and your muscles @@@, something right now while you're so sore.
+
+PATIENT P276
+Uh-huh.
+
+DOCTOR P276
+@@@ heating pad or Icy Hot.
+
+PATIENT P276
+Okay, @@@ without any problem.
+
+DOCTOR P276
+Okay great.
+
+PATIENT P276
+@@@.  
+
+DOCTOR P276
+@@@.
+
+PATIENT P276
+Oh my blood pressure and it's going down.
+
+DOCTOR P276
+It is good.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+I'm glad to see that.  I'm glad to see that.  @@@.  How come you still have your?
+
+PATIENT P276
+Cause I check my pulse every now and then and checking that too.
+
+DOCTOR P276
+Absolutely, no it looks good.  I'm happy to see that.  Why don't you have a seat here.
+
+PATIENT P276
+Okay.  @@@.
+
+DOCTOR P276
+@@@.  I'll examine @@@.  Did you have a good holiday?
+
+PATIENT P276
+Yeah it was quiet but good.
+
+DOCTOR P276
+Well quiet @@@ good.
+
+PATIENT P276
+@@@ easy.  @@@.
+
+DOCTOR P276
+Well good.
+
+PATIENT P276
+And we had a very good dinner and.
+
+DOCTOR P276
+Good.  The company @@@.
+
+PATIENT P276
+My daughter @@@.
+
+DOCTOR P276
+@@@.
+
+PATIENT P276
+She @@@.
+
+DOCTOR P276
+Oh my goodness.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Uh-huh.  I can only imagine.  @@@.  Deep breath.  How about you, @@@.
+
+PATIENT P276
+@@@.  I live with my daughter.
+
+DOCTOR P276
+Right.  Let me look at the other one.
+
+PATIENT P276
+12-year-old granddaughter @@@.
+
+DOCTOR P276
+You can put your glasses back on.
+
+PATIENT P276
+Okay.
+
+DOCTOR P276
+Um @@@, push out against me, good.  Face me and we're going to @@@.  Good now on this side good.  Now kick out against me, @@@.  Good, good, good.  Okay can you go up anymore, yeah, okay.  Can you lie back sir?
+
+PATIENT P276
+Oh sure.
+
+DOCTOR P276
+Okay.  Go ahead and @@@.
+
+PATIENT P276
+It hurts to do that.
+
+DOCTOR P276
+It hurts you to lay okay.  Lift this leg up straight, can you do that?  The right leg lift it like this?  Don’t let me push it down.
+
+PATIENT P276
+It hurts a lot.
+
+DOCTOR P276
+Okay.  Can you lift this one?
+
+PATIENT P276
+Yeah it really hurts a lot.
+
+DOCTOR P276
+Okay well I'm going to raise it okay.
+
+PATIENT P276
+Okay.
+
+DOCTOR P276
+So you won't do anything.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Just let me do this okay.  There, is that good.
+
+PATIENT P276
+Uh-huh. That smarts.  Oh.
+
+DOCTOR P276
+That's fine um.  Did they get x-rays of your @@@.
+
+PATIENT P276
+Yeah they took a bunch.
+
+DOCTOR P276
+Okay.  I'm gonna have you sit up and so, so did you go here @@@.
+
+PATIENT P276
+It doesn’t shoot down any more.
+
+DOCTOR P276
+You had them done here.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+@@@ today?
+
+PATIENT P276
+Uh @@@.
+
+DOCTOR P276
+Okay.  I want to see your feet.
+
+PATIENT P276
+Okay.  @@@ but not like this.
+
+DOCTOR P276
+Uh you do have swelling a little bit.  @@@ here?
+
+PATIENT P276
+No @@@.
+
+DOCTOR P276
+Here?
+
+PATIENT P276
+I felt a little.
+
+DOCTOR P276
+Here?
+
+PATIENT P276
+Not really.  @@@.
+
+DOCTOR P276
+Here?
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Here?
+
+PATIENT P276
+Okay now.
+
+DOCTOR P276
+But mostly here.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Do you feel anything here?
+
+PATIENT P276
+@@@ all kinds of things.
+
+DOCTOR P276
+Okay.  @@@.
+
+PATIENT P276
+Huh?
+
+DOCTOR P276
+@@@.
+
+PATIENT P276
+@@@.  Trying to keep myself informed.  @@@.
+
+DOCTOR P276
+Oh.  Well you need to come to the doctor.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Well, so remind me gout wise, when was the last time you had a gout flare?
+
+PATIENT P276
+Oh years.  Uh @@@ I used to take a medicine for gout @@@ I was just on nonsteroidals.
+
+DOCTOR P276
+Right.
+
+PATIENT P276
+So I don't have to take any medicine for gout anymore.
+
+DOCTOR P276
+I see okay.
+
+PATIENT P276
+And I haven't had a flare-up since.
+
+DOCTOR P276
+Uh-huh.  So you're due for some shots, do you know that.
+
+PATIENT P276
+What?
+
+DOCTOR P276
+You're due for some immunizations.
+
+PATIENT P276
+Oh this year yeah.
+
+DOCTOR P276
+Did you get the flu shot?
+
+PATIENT P276
+Oh yes. @@@.  I get them.
+
+DOCTOR P276
+@@@ beautiful.  And your atenolol, can you cut those pills in half?
+
+PATIENT P276
+Sure.
+
+DOCTOR P276
+Okay.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Alright and so the only your only taking 5.
+
+PATIENT P276
+And my eye drops.
+
+DOCTOR P276
+@@@.  I got the Coumadin, @@@ vitamin.
+
+PATIENT P276
+@@@ the vitamin.
+
+DOCTOR P276
+Okay, so for your back pain I would recommend tramadol, the Icy Hot and stretching is gonna help.
+
+PATIENT P276
+Uh-huh.
+
+DOCTOR P276
+And if it doesn't, @@@ call me.
+
+PATIENT P276
+Okay.
+
+DOCTOR P276
+Let me know and then we'll order an MRI of the back.  @@@ looks good.
+
+PATIENT P276
+Uh-huh.  Cause they must have taken at least 16 xrays.
+
+DOCTOR P276
+Yeah @@@.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Yeah.  For your heart rate for your afib.  You have the Coumadin and I see that you follow in the Coumadin Clinic and your INRs @@@ and the @@@.  If you feel lightheaded go back down to 25 mg and give me call and le tme know..
+
+PATIENT P276
+Okay.
+
+DOCTOR P276
+Okay.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+And um Audiology.  They should be calling you for an appointment.
+
+PATIENT P276
+Yeah usually they send a letter.
+
+DOCTOR P276
+Or send a letter.
+
+PATIENT P276
+Yeah.
+
+DOCTOR P276
+And.
+
+PATIENT P276
+For me to call.
+
+DOCTOR P276
+Okay, sounds good.
+
+PATIENT P276
+Okay.
+
+DOCTOR P276
+Alright then, let me step out and I'll be right back okay.
+
+PATIENT P276
+Okay.
+
+DOCTOR P276
+Alright.
+
+(DOCTOR OUT:  25:41  DOCTOR IN:  29:52)
+
+DOCTOR P276
+Alright sir.  So all set.
+
+PATIENT P276
+Okay.  @@@.
+
+DOCTOR P276
+Absolutely.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Oh sure in the Atenolol yeah, 37.5.
+
+PATIENT P276
+Pardon?
+
+DOCTOR P276
+The Atenolol yeah. In half. So in the computer I have that you're taking 50 mg, but you're definitely taking the 25.  Is that correct?
+
+PATIENT P276
+Uh-huh.
+
+DOCTOR P276
+Okay.
+
+PATIENT P276
+I was just taking the @@@.
+
+DOCTOR P276
+The pill is.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+25, not 50.  It's not a 50 pill okay.
+
+PATIENT P276
+Cause I was taking a half pill before, @@@.
+
+DOCTOR P276
+Okay.  
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Yes I did.  @@@.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Uh-huh.
+
+PATIENT P276
+I know I was parked and then I put it into the car and @@@.
+
+DOCTOR P276
+@@@.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+@@@.
+
+PATIENT P276
+@@@ paper.
+
+DOCTOR P276
+Have a great one too.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Oh you need to.  @@@.
+
+PATIENT P276
+@@@ blood work though.
+
+DOCTOR P276
+No problem.  @@@ okay.
+
+PATIENT P276
+@@@.
+
+DOCTOR P276
+Alright sir @@@.
+
+PATIENT P276
+Okay.
+
+DOCTOR P276
+Okay.
+
+PATIENT P276
+Take care now.
+
+Patient leaves at 31:59
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235341
+TRANSACTION # 578-10-2-316-0103

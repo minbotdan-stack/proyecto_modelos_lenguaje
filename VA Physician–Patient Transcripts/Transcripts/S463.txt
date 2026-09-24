@@ -1,0 +1,872 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR S463 
+How is everything going today?
+
+PATIENT S463
+Good, good.
+
+DOCTOR S463
+@@@.
+
+PATIENT S463
+No.
+
+DOCTOR S463
+I don't think so.
+
+PATIENT S463
+I @@@.  I'm here for a follow-up.
+
+DOCTOR S463
+Okay what's going on?
+
+PATIENT S463
+Um.  Last month I had this really bad cough and cold.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+And I was here twice in January and I think it was aggravated by some acid reflux, too.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+@@@ some medication as well.
+
+DOCTOR S463
+And how have you been doing?
+
+PATIENT S463
+A lot better.
+
+DOCTOR S463
+Oh good.
+
+PATIENT S463
+Yeah cause see the cough was horrible the last time I was here so it's improved a lot.
+
+DOCTOR S463
+Oh good.  How's your diet?
+
+PATIENT S463
+Uh good.  Eating now and then.
+
+DOCTOR S463
+How many meals a day?
+
+PATIENT S463
+Three meals a day.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+Trying to uh get through @@@.
+
+DOCTOR S463
+Okay.  @@@ today.
+
+PATIENT S463
+Oh yeah.
+
+DOCTOR S463
+Yeah.
+
+PATIENT S463
+Yeah.
+
+DOCTOR S463
+@@@.
+
+PATIENT S463
+Yeah.
+
+DOCTOR S463
+I expected it to be healthy.  What medication are you on right now?
+
+PATIENT S463
+I'm taking the, excuse me, I added this nasal spray.
+
+DOCTOR S463
+Uh-huh.
+
+PATIENT S463
+I'm taking twice a day, two injections in each nostril.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+And then I'm taking this one pill once a day, I forget the name of it.
+
+DOCTOR S463
+Loratadine?
+
+PATIENT S463
+That could be.
+
+DOCTOR S463
+Uh-huh.
+
+PATIENT S463
+Its 30 pills per month.
+
+DOCTOR S463
+I got it.
+
+PATIENT S463
+Yes.  I'm taking some over-the-counter stuff, Prilosec.
+
+DOCTOR S463
+Prilosec.
+
+PATIENT S463
+Prilosec.
+
+DOCTOR S463
+Is this for your stomach?
+
+PATIENT S463
+Yes.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+I'm taking that.  I'll be done with that Wednesday, I think Wednesday.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+Uh and I was taking some cough syrup earlier.
+
+DOCTOR S463
+So you're done with that now?
+
+PATIENT S463
+Yes.
+
+DOCTOR S463
+Okay.  You're done with the cough syrup and then are you still, @@@?
+
+PATIENT S463
+Yes.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+@@@.
+
+DOCTOR S463
+Are you using the throat lozenges too?  Not really?
+
+PATIENT S463
+Uh I haven't, I haven't gone out and bought any.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+But I had, I had a supply at home and I think I used them all up.  So I need to go out and get some.
+
+DOCTOR S463
+Okay.  Um.  How long have you been on the Prilosec now, two weeks?
+
+PATIENT S463
+Uh about a week and a half.
+
+DOCTOR S463
+About a week and a half.
+
+PATIENT S463
+The instructions say it's a two week course.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+Like once a day.
+
+DOCTOR S463
+And do you feel like it has helped?
+
+PATIENT S463
+Yeah.  I think it has helped.  Because I had real bad vomiting last month.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+And that's gone away.
+
+DOCTOR S463
+Why were you having so much vomiting? From the cough then?
+
+PATIENT S463
+From the cough yeah.  Yeah.  @@@ time I’d eat a meal.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+You know even if I had Gatorade or something, it's enough to cause me to vomit.
+
+DOCTOR S463
+Uh-huh.  Are there any other issues or?
+
+PATIENT S463
+Uh no.
+
+DOCTOR S463
+@@@.
+
+PATIENT S463
+Just uh, I still have the cough you know.
+
+DOCTOR S463
+How often do you, do you find yourself waking up at night when you cough?
+
+PATIENT S463
+No.  Now last month, at times I’d wake up in the middle of the night, I’d be coughing a lot.
+
+DOCTOR S463
+Uh-huh.
+
+PATIENT S463
+I just haven’t had that problem lately.
+
+DOCTOR S463
+@@@.
+
+PATIENT S463
+Really no reason it's a dry hacking cough.
+
+DOCTOR S463
+Any fevers, chills?
+
+PATIENT S463
+No. I may have had some chills last month during the worst part of it but, that hasn't been a factor lately.
+
+DOCTOR S463
+Okay.  How long have you had the cough now?
+
+PATIENT S463
+Uh I've had this cough for weeks now.  In fact my first time I came in was early January but I was diagnosed with acid reflux.  I think it was in 2008.
+
+DOCTOR S463
+So has it been at least one month with the cough?
+
+PATIENT S463
+Uh yes.
+
+DOCTOR S463
+Okay.  Are you a smoker?
+
+PATIENT S463
+No I've never smoked.
+
+DOCTOR S463
+Okay.  @@@ I think we should go ahead and do a chest x-ray.
+
+PATIENT S463
+Okay.
+
+DOCTOR S463
+Um I mean you're right it's probably your reflux I don't want to miss anything.
+
+PATIENT S463
+Uh-huh, right.
+
+DOCTOR S463
+Have a seat up here.  Uh any chest pain, shortness of breath?
+
+PATIENT S463
+No.  Now when the cough is really bad, it's in my chest.
+
+DOCTOR S463
+Chest yeah.
+
+PATIENT S463
+Right.
+
+DOCTOR S463
+Nausea, vomiting, but not recently right?
+
+PATIENT S463
+Not recently.
+
+DOCTOR S463
+Only when you have coughing spells.
+
+PATIENT S463
+Yeah when it got really bad.
+
+DOCTOR S463
+Any diarrhea?
+
+PATIENT S463
+Uh no.
+
+DOCTOR S463
+Have you traveled anywhere recently?
+
+PATIENT S463
+Uh.
+
+DOCTOR S463
+To outside of the country?
+
+PATIENT S463
+I haven't been outside of the country you know since 2008 and that was a cruise.
+
+DOCTOR S463
+Where did you go on the cruise?
+
+PATIENT S463
+Caribbean.
+
+DOCTOR S463
+Caribbean.  @@@.
+
+PATIENT S463
+@@@.
+
+DOCTOR S463
+@@@ okay.  Who do you live with at home?
+
+PATIENT S463
+Just myself.
+
+DOCTOR S463
+Okay.  No kids.
+
+PATIENT S463
+No kids but I work as a teacher.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+@@@.
+
+DOCTOR S463
+@@@.
+
+PATIENT S463
+High school.
+
+DOCTOR S463
+High school okay.  Um sick kids.
+
+PATIENT S463
+Probably. You gotta be real careful. I lot of hand washing.
+
+DOCTOR S463
+@@@.
+
+PATIENT S463
+I have.
+
+DOCTOR S463
+You have to right if you're a teacher.
+
+PATIENT S463
+Yes but I have a tested positive to TB exposure before.
+
+DOCTOR S463
+You have?
+
+PATIENT S463
+Yes.
+
+DOCTOR S463
+When were you treated?
+
+PATIENT S463
+I think it was from @@@.
+
+DOCTOR S463
+Were you given two medications for nine months?
+
+PATIENT S463
+It wasn't that long.  I think this was back in 1995.
+
+DOCTOR S463
+@@@.
+
+PATIENT S463
+And I was non-active. I was doing training with the military back then, so I don't think it would show up in any military records.
+
+DOCTOR S463
+Yeah.
+
+PATIENT S463
+VA records.
+
+DOCTOR S463
+Okay.  Um okay well so we'll that’s something to keep in mind, that you've had some kind of exposure.
+
+PATIENT S463
+Yeah.
+
+DOCTOR S463
+We'll kind of talk to my supervisor and see what we need to do.
+
+PATIENT S463
+Uh-huh.
+
+DOCTOR S463
+Um so, what do you teach?
+
+PATIENT S463
+Uh my area is secondary is social studies, I work as a substitute teacher now.
+
+DOCTOR S463
+Okay.  Um where you in the Army, Navy or?
+
+PATIENT S463
+Army, but I'm still in the Army Reserve.
+
+DOCTOR S463
+Army Reserve and where did they send you around the globe?
+
+PATIENT S463
+Uh I've been to Germany.
+
+DOCTOR S463
+Uh-huh.
+
+PATIENT S463
+Korea and I've been to Iraq too.
+
+DOCTOR S463
+You've been to Iraq okay.
+
+PATIENT S463
+Yeah.
+
+DOCTOR S463
+What about sexual history, how many partners?
+
+PATIENT S463
+Uh I have no.
+
+DOCTOR S463
+You're not sexually active?
+
+PATIENT S463
+Uh uh.
+
+DOCTOR S463
+Okay not recently.  And no fevers or chills.
+
+PATIENT S463
+No.  I probably had some chills like the middle of last month.
+
+DOCTOR S463
+Oh.
+
+PATIENT S463
+When it was bad, but it was probably @@@.
+
+DOCTOR S463
+You've had the reflux disease for how long now?
+
+PATIENT S463
+I was diagnosed with it about 2008, late 2008.
+
+DOCTOR S463
+Late 2008. Have you had coughing fits like this before?
+
+PATIENT S463
+Yeah and some previous years.
+
+DOCTOR S463
+You have.
+
+PATIENT S463
+I've had some really bad coughs.
+
+DOCTOR S463
+Okay.
+
+PATIENT S463
+In 2007 I had a really bad cough and that may have been a negative thing from the flu shot.
+
+DOCTOR S463
+Were you sick before the coughing just started?  I mean did you feel like you got really sick and then you just had the cough that kind of hung around or no?
+
+PATIENT S463
+This cough just kind of, it comes and goes.
+
+DOCTOR S463
+Uh-huh.
+
+PATIENT S463
+So now earlier this month it started uh New Year’s Day I did a 5-K run.
+
+DOCTOR S463
+Oh no.
+
+PATIENT S463
+@@@ and I sweated a lot @@@.
+
+DOCTOR S463
+Cold weather. 
+
+PATIENT S463
+Yeah but then uh.
+
+DOCTOR S463
+And that's what @@@.
+
+PATIENT S463
+Yeah a couple days later, that's when @@@ OTC, some OTC stuff @@@ came here in early January.
+
+DOCTOR S463
+Okay.  Deep breath.  I don't hear any wheezing.  You haven't been having any wheezing?
+
+PATIENT S463
+No, no real wheezing.
+
+DOCTOR S463
+@@@.
+
+PATIENT S463
+No.
+
+DOCTOR S463
+Can you stick your tongue out, say ah.
+
+PATIENT S463
+Ah.
+
+DOCTOR S463
+Ah.  @@@.  Ah.
+
+PATIENT S463
+Ah.
+
+DOCTOR S463
+It doesn’t look really red or anything back there um.  Do you have a lot of stuff coming out your nose?
+
+PATIENT S463
+Yeah I do have a runny nose.
+
+DOCTOR S463
+You did, when was that?
+
+PATIENT S463
+This past month.
+
+DOCTOR S463
+@@@.
+
+PATIENT S463
+And I've taken the nasal spray.
+
+DOCTOR S463
+Is it helping?
+
+PATIENT S463
+I think so, but then when I take it then I start @@@.
+
+DOCTOR S463
+Oh @@@.  Uh any allergies like ice cream?
+
+PATIENT S463
+No I don't have any known allergies.
+
+DOCTOR S463
+No okay.  Do you have any swelling in your legs?
+
+PATIENT S463
+No.
+
+DOCTOR S463
+You haven't noticed it.  You're a fairly healthy one huh.
+
+PATIENT S463
+Yes.
+
+DOCTOR S463
+Okay.  Urinating okay, bowel movements okay, no blood?
+
+PATIENT S463
+No problems.
+
+DOCTOR S463
+In your stools, okay.  Um, go ahead and have a seat down here.  @@@.  
+
+(DOCTOR OUT: 41:11  DOCTOR IN:  50:53)
+
+SECOND DOCTOR S463
+Hi PATIENT.
+
+PATIENT S463
+How you doing?
+
+SECOND DOCTOR S463
+Good, good, good.  I'm DOCTOR, one of the supervising doctors.
+
+PATIENT S463
+Alright.
+
+SECOND DOCTOR S463
+So you are in pretty good health?
+
+PATIENT S463
+Yeah.
+
+SECOND DOCTOR S463
+Cool. But you've been coughing.
+
+PATIENT S463
+Yes.
+
+SECOND DOCTOR S463
+And you teach, you're a teacher?
+
+PATIENT S463
+Yes.
+
+SECOND DOCTOR S463
+Great.  Um where do you teach?
+
+PATIENT S463
+Uh I work as a substitute teacher so uh I go to a lot of different schools.  My area is secondary social studies.
+
+SECOND DOCTOR S463
+Gotcha, gotcha.  Um and um do you live with family or by yourself?
+
+PATIENT S463
+By myself.
+
+SECOND DOCTOR S463
+Alright and um how have you been feeling generally?  I mean do you feel like you're in good health, do you feel like you're?
+
+PATIENT S463
+I feel that I'm in good health.
+
+SECOND DOCTOR S463
+Uh-huh.
+
+PATIENT S463
+But now, for this last month I've been pretty miserable from the cough and it's just uh.
+
+SECOND DOCTOR S463
+And have you had a cold with that?
+
+PATIENT S463
+There was a cold with it as well.
+
+SECOND DOCTOR S463
+Uh-huh.
+
+PATIENT S463
+Besides, I'm probably all healed from the cold.
+
+SECOND DOCTOR S463
+Do you have any allergies?
+
+PATIENT S463
+None that I know of.
+
+SECOND DOCTOR S463
+Okay um and um have you ever had a cough like this before?
+
+PATIENT S463
+Yes.  I was diagnosed with acid reflux.
+
+SECOND DOCTOR S463
+Uh-huh.
+
+PATIENT S463
+In 2008.
+
+SECOND DOCTOR S463
+Uh-huh.
+
+PATIENT S463
+And so @@@ things like that, a dry hacking cough before.
+
+SECOND DOCTOR S463
+Yeah. Do you know what brings it on?  
+
+PATIENT S463
+I'm not sure, I think it’s related to acid reflux.  Um in early 2005 I had a really bad cough.
+
+SECOND DOCTOR S463
+Uh-huh.
+
+PATIENT S463
+Like this.  It could have been a reaction from the flu shot, I'm not entirely sure.
+
+SECOND DOCTOR S463
+@@@ now.
+
+PATIENT S463
+No I'm fine.
+
+SECOND DOCTOR S463
+So you think it was seasonal, does it happen at certain times of the year?
+
+PATIENT S463
+More often in winter than other times.
+
+SECOND DOCTOR S463
+Does cold air bring it on?
+
+PATIENT S463
+It could.  It sure could.
+
+SECOND DOCTOR S463
+Okay.  Um cause I'm wondering some people get a little bit of asthma with the cold air.
+
+PATIENT S463
+And now that I think of it, when I'm exposed to cold air I have a tendency to cough more.
+
+SECOND DOCTOR S463
+Uh-huh, uh-huh.  @@@ Can you lean forward?
+
+PATIENT S463
+Sure.
+
+DOCTOR S463
+Good.  Take a breath in, out, again, out hard, out hard, breathe deep, out, one more time out.  Okay keep going in and out, that's good, again.  Alright that’s good.  I don't hear a wheeze.  @@@.  What I'm really wondering is would he benefit from, could he be having like a mild cough variant to reactive airway disease which people get in the winter.  I know kids get it all the time.  Um have you ever used an inhaler before?
+
+PATIENT S463
+I've tried it yeah before, but it's been a really long time.
+
+SECOND DOCTOR S463
+Okay.
+
+FIRST DOCTOR S463
+Do you want to do the inhaler?
+
+SECOND DOCTOR S463
+Yeah, try that and @@@ prn.  Albuterol with a spacer; basically it's just a dilator, bronchodilator.
+
+PATIENT S463
+Uh-huh,
+
+SECOND DOCTOR S463
+Cause personally I don't think reflux would be causing this particular kind of cough and you know, it just doesn’t seem right.  Um I don't think he's got tuberculosis.  Uh I don't think he's got, it doesn’t really fit for allergies.  It’s been a little bit long for post-viral cough, but you know you could have this pattern of getting this in the wintertime, I would try him with just an inhaler – see if it helps.
+
+FIRST DOCTOR S463
+Uh-huh.
+
+SECOND DOCTOR S463
+Because you know you have to have a very significant amount of you know of bronchospasms before you start to wheeze, it's not from your actual cough.
+
+PATIENT S463
+Uh-huh.
+
+SECOND DOCTOR S463
+So we're going to try you on an inhaler.
+
+PATIENT S463
+Alright.
+
+SECOND DOCTOR S463
+And see if that doesn't actually help.
+
+PATIENT S463
+Okay.
+
+SECOND DOCTOR S463
+And then maybe we'll see you back in a couple weeks and see how you're doing.
+
+PATIENT S463
+Alright.
+
+SECOND DOCTOR S463
+Good luck.
+
+PATIENT S463
+Thank you doctor.
+
+FIRST DOCTOR S463
+@@@.
+
+PATIENT S463
+Um.
+
+FIRST DOCTOR S463
+@@@.
+
+PATIENT S463
+And he's from Internal Medicine?
+
+FIRST DOCTOR S463
+Yeah.
+
+PATIENT S463
+Yeah.  He's really knowledgeable.
+
+FIRST DOCTOR S463
+Yeah.  Can you go down and pick up the medication?
+
+PATIENT S463
+Okay.
+
+FIRST DOCTOR S463
+Um in the Pharmacy and @@@.
+
+PATIENT S463
+Okay.
+
+FIRST DOCTOR S463
+And then we'll have you come back in a month.
+
+PATIENT S463
+Alright.
+
+FIRST DOCTOR S463
+And we can see how your cough is doing.
+
+PATIENT S463
+Do I have an appointment for a chest x-ray?
+
+FIRST DOCTOR S463
+No you don't have to do a chest x-ray.
+
+PATIENT S463
+Okay.
+
+FIRST DOCTOR S463
+Alright.
+
+PATIENT S463
+Alright.
+
+FIRST DOCTOR S463
+@@@.
+
+PATIENT S463
+Okay.
+
+FIRST DOCTOR S463
+@@@.
+
+PATIENT S463
+Alright.  Thank you much.
+
+FIRST DOCTOR S463
+It was really nice talking to you.
+
+PATIENT S463
+@@@ okay, thank you.  Alright.
+
+PATIENT LEAVES:  55:53.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286112
+TRANSACTION # 578-10-2-316-0103

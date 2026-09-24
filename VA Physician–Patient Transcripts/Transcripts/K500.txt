@@ -1,0 +1,965 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR K500
+PATIENT?  So how are you?
+
+PATIENT K500
+Okay and you?
+
+DOCTOR K500
+Good.  Come on back.  @@@.  Go ahead and have a seat there.
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+So I haven't seen you in a little while.  How's everything been going?
+
+PATIENT K500
+Oh no complaints.
+
+DOCTOR K500
+No complaints good.  Um I see you're still going to the MOVE Program.
+
+PATIENT K500
+Yes.
+
+DOCTOR K500
+Good.  How's that going?
+
+PATIENT K500
+Uh I like it.  
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+Eating habits.
+
+DOCTOR K500
+Good.
+
+PATIENT K500
+Uh keeping the weight stabilized, drop a few pounds here and there.
+
+DOCTOR K500
+Good, good.  So you're happy with that.  Let's see what your weight's doing.  Yeah, it looks like you're down.
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+So this is April, this was March so you're down about three pounds from last month and the month before.  That's really good.  I think when I last saw you you were like 190 so that's down.
+
+PATIENT K500
+Yeah, yeah.
+
+DOCTOR K500
+From the last time I saw you yeah.  Good.  That's really good.  Um and then uh you're still following with Mental Health?
+
+PATIENT K500
+Yes.
+
+DOCTOR K500
+How is that going?
+
+PATIENT K500
+Uh they keeping me even keel, up and down.
+
+DOCTOR K500
+Okay yeah, yeah.
+
+PATIENT K500
+Uh you know it helps uh, it helps a lot.
+
+DOCTOR K500
+Okay good and you're still taking the Ambien at night and you're on the bupropion and are you on anything else?
+
+PATIENT K500
+Uh my wife give me the medications.
+
+DOCTOR K500
+Okay.
+
+PATIENT K500
+So I don't fool with them.
+
+DOCTOR K500
+Okay.  How is the PTSD is it okay?
+
+PATIENT K500
+Uh I still have outbursts like I told him; my sleeping is still up and down.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+Uh I get up at night.  Uh noises will make me jumpy.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+The doctor say I'm still patrolling and it always just like I'm in the war.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+But it's, I can try to control it much of the time so it helps.  Coming over here talking to the doctor helps a lot.
+
+DOCTOR K500
+Good, good.  I'm glad that happens.  Um and how about your heart, anything going on, any chest pain, shortness of breath?
+
+PATIENT K500
+Uh sort of shortness of breath when uh you know when I walk.  Now see I got a form I need for you so I can get a disabled sticker for my car.
+
+DOCTOR K500
+Oh okay.  For handicapped parking?
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+Okay.
+
+PATIENT K500
+But uh you know short of breath uh going up and down steps but I'm still going to go up and down steps.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+I have to, that's an exercise for me.
+
+DOCTOR K500
+Yeah.  Is it worse than you were six months ago?
+
+PATIENT K500
+Yes.
+
+DOCTOR K500
+It was.  Okay.  When did you notice that it had gotten a little bit worse?
+
+PATIENT K500
+I don't know uh this uh, I can't say exactly when but I just noticed that just the walking distance like uh walking in the mall or something, across the parking lot.
+
+DOCTOR K500
+How far are you able to walk before you have to stop?
+
+PATIENT K500
+Hmm.  Let's see, I can give you a for instance.  Uh we in this building here.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+Okay where the cafeteria at.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+That door all the way down there.  Say if I walk all the way down to the far end I'd have to start resting.
+
+DOCTOR K500
+Okay.  The last time we did a stress test for you was in 2008 and you got really short of breath and they had to stop it.  Do you ever remember having an echo done at the VA?  An echocardiogram, it's like an ultrasound of your heart.  I don't see one in the file here.
+
+PATIENT K500
+No I didn't have one here.
+
+DOCTOR K500
+Are you followed anywhere else, like at an outside hospital?
+
+PATIENT K500
+Yeah, I forgot to tell you, I did have a heart procedure in March.
+
+DOCTOR K500
+Oh what happened?
+
+PATIENT K500
+Uh they say I had a block artery.
+
+DOCTOR K500
+Oh they did.
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+Did they go in through the groin and put in a stent?
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+Okay.  Where was that done at?
+
+PATIENT K500
+Uh in Gary.  I got medical records.
+
+DOCTOR K500
+Maybe you could fax those over to me so I could take a look at them.
+
+PATIENT K500
+Okay, I'm gonna see do I have, I might have took them out.
+
+DOCTOR K500
+@@@.  Were you having chest pain at that time?
+
+PATIENT K500
+Uh yes, shortness, I was really short of breath and um I was rushed to the hospital.  No, I don't have them at all.
+
+DOCTOR K500
+How many stents did they place in your heart?
+
+PATIENT K500
+I think.
+
+DOCTOR K500
+Just one or?
+
+PATIENT K500
+I think it was one.  See this is the third time they done did something to my heart.
+
+DOCTOR K500
+Hmm.  But you had a heart surgery.
+
+PATIENT K500
+Yeah, uh-huh.
+
+DOCTOR K500
+Back in 2001.
+
+PATIENT K500
+Right.
+
+DOCTOR K500
+Okay.  But since then nothing's happened.
+
+PATIENT K500
+No, 2001 I had the heart surgery.
+
+DOCTOR K500
+Uh-huh.
+
+PATIENT K500
+@@@.
+
+DOCTOR K500
+@@@ last year.
+
+PATIENT K500
+Right.
+
+DOCTOR K500
+So was it last March or this March like a month ago?
+
+PATIENT K500
+No it was this March.
+
+DOCTOR K500
+Oh this March again.  You had one stent placed in March in @@@@ too.
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+Yeah.
+
+DOCTOR K500
+Yeah, so now there's two in there.
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+So March is a bad month one for you.  
+
+PATIENT K500
+What can I say?
+
+DOCTOR K500
+So since they put the stent in, is anything gotten better or worse or is it the same?
+
+PATIENT K500
+Uh I mean, I don't know.  I don't complain.
+
+DOCTOR K500
+Okay.
+
+PATIENT K500
+Same to me.  I mean you know every now and then you feel like uh, discomfort in this area but nothing to cry about.
+
+DOCTOR K500
+Okay.  If it gets bad though, you need to talk to somebody or go to the ED okay.  Cause you do have a lot of cardiac disease that we worry about it.
+
+PATIENT K500
+Right.
+
+DOCTOR K500
+You know.  Okay, yeah definitely fax me those records okay.  I'll tell them to provide you the fax number.  Um and then when was the last time we checked your cholesterol?  Let's take a look.
+
+PATIENT K500
+I had some blood work done, what was it?
+
+DOCTOR K500
+In February.
+
+PATIENT K500
+Uh yes uh, the doctor had me do it.
+
+DOCTOR K500
+They checked everything but the cholesterol.
+
+PATIENT K500
+That wasn't nice.
+
+DOCTOR K500
+So I had checked your cholesterol, let's see that was in August when I saw you and your um LDL was a little bit high.  It was 123, it's your bad cholesterol is high.  We have you on um a statin; let me see if we changed anything since that time.
+
+PATIENT K500
+It should be down with the good diet I'm using.
+
+DOCTOR K500
+Yeah and you, you're doing really well with your MOVE Program.  Are you taking that pill every single day, that statin?
+
+PATIENT K500
+I forget it sometimes but I take it.
+
+DOCTOR K500
+You forget sometimes.  Try to take it as much as you can and take it every day before you go to bed.  Put it by your nightstand and take it every night because if you keep forgetting to take it your cholesterol can go up and then that's what can give you more heart attacks.
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+You know that one's really, really important.  That one and the Plavix are your two most important medications okay.  Alright so we'll recheck, we'll recheck your cholesterol um.  When are you coming back?  Are you going to be back here us any time soon?
+
+PATIENT K500
+Uh yes, I'm gonna be back uh.
+
+DOCTOR K500
+You're here.
+
+PATIENT K500
+The 24th.
+
+DOCTOR K500
+4th, okay.  Can I order a fasting lipid profile for then?
+
+PATIENT K500
+Sure I can do it.
+
+DOCTOR K500
+Can you not eat in the morning and get your lab drawn?
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+Okay.  Oh I see, they didn't collect it last time, your cholesterol because maybe you weren't fasting.  Make sure you don't eat anything for 12 hours before you have the blood draw.
+
+PATIENT K500
+I didn't eat nothing that day.
+
+DOCTOR K500
+Hmm, that's weird cause it was ordered.  I wonder why.  And then let's see, your sugars, let's take a look at that.  Your liver enzymes look good; your kidneys are working really well.  And we checked your hemoglobin A1c which is like your sugars to see how your sugars are well controlled.
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+And it was still good then but I'd like to check it again.  I'm gonna check it on the 24th when you get your labs done okay.
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+And do you know when we last checked your prostate?  Let's take a look at that.  Okay we'll check your prostate level too.  Still not smoking?
+
+PATIENT K500
+No.
+
+DOCTOR K500
+Good for you.  Okay.  And how's your blood pressure been doing?
+
+PATIENT K500
+Uh, I been checking it.  Okay I was hoping that she did this morning, when I just came.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+Okay but I did mine before I came.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+Mine was 112/66, I had that.
+
+DOCTOR K500
+That's really good.
+
+PATIENT K500
+Okay then that was this morning but yesterday was 140/78.
+
+DOCTOR K500
+That's a little high.
+
+PATIENT K500
+Well I got, you know, things going on at home.  I have my mother-in-law who has dementia.
+
+DOCTOR K500
+Oh.
+
+PATIENT K500
+Bad.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+And then my granny is sick in the nursing home.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+I ain't around so that's where my wife said.  She said she surprised it was at the number I was.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+This morning but I, but like I said I get in the car, sit in there, try to calm myself down.
+
+DOCTOR K500
+You bet, as long as long as you kind of have a way to.
+
+PATIENT K500
+Right.
+
+DOCTOR K500
+Take all this.
+
+PATIENT K500
+But that's what we got going on right now.
+
+DOCTOR K500
+So you've got stuff going on.
+
+PATIENT K500
+Right and it's like I'm the oldest one and they all.
+
+DOCTOR K500
+It all falls on you, yeah it's hard.
+
+PATIENT K500
+But I was wondering about that number, the numbers I gave you, you said the one this morning.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+Was okay?
+
+DOCTOR K500
+Yeah so your goal for your blood pressure is to stay below 140 the high number.
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+High number and then below 90 on the bottom.
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+Bottom number.  
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+If you're anywhere below the 130s, I'm really happy.  We don't want you dropping into the low like 90s or anything like that.
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+But your goal is to stay around like 120s I'm really happy with, 110s I'm really happy with for the systolic blood pressure.
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+The top number.
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+That's really what we're focused on.  That prevents your risk of stroke.
+
+PATIENT K500
+That top number is.
+
+DOCTOR K500
+The top number you want it below 140 okay.
+
+PATIENT K500
+Cause I had, you know, even though it's not that active but I do things like when you go to Walgreens and all.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+I always stick my arm in there.
+
+DOCTOR K500
+Yeah, yeah.  What do you usually get?
+
+PATIENT K500
+Uh on the borderline.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+That's when I say you know I try to calm myself down but then all this in the family and.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+It goes up and down.
+
+DOCTOR K500
+If you're consistently getting high blood pressures, like above the 140.
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+We can put you on some medications a little bit.
+
+PATIENT K500
+Right.  But it was like border, like I say, it's been dropping and when I seen that 112.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+I didn't know what to do and you say that was good.
+
+DOCTOR K500
+It's really good.
+
+PATIENT K500
+Okay good.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+I got the machine at home also.
+
+DOCTOR K500
+If you want you can bring it in next time and they can compare our machine to your machine and make sure it's accurate.
+
+PATIENT K500
+Hmm.
+
+DOCTOR K500
+Just to kind of know.  Okay and let's see.  What medications you need refilled.  You have that, you have that.  You have Plavix.  The only refill was your blood pressure medication is the only thing that was running out.  Anything else going on?
+
+PATIENT K500
+Uh, no.  Uh I want to know uh could you make appointments for me for the dentist to get some of these broken tooth out of my mouth?
+
+DOCTOR K500
+What's been happening with your teeth? 
+
+PATIENT K500
+Well believe it or not, even though when I got out I spent money on dentures; most of the ones that's broken off is the ones I got repaired in the service.
+
+DOCTOR K500
+Oh no.
+
+PATIENT K500
+Oh back then they used to put lead in your teeth to fill.
+
+DOCTOR K500
+Oh.
+
+PATIENT K500
+You didn't know that?
+
+DOCTOR K500
+No.
+
+PATIENT K500
+Oh go back to history.
+
+DOCTOR K500
+Ouch.
+
+PATIENT K500
+And they all like you know, even though I spent money I even have what you call uh, put in what they screw it in.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+That didn't work and all of that but I got the pieces in my mouth and I want to get them just pulled out and cleaned out so I can go buy me some uh plates.
+
+DOCTOR K500
+Yeah where are your broken teeth?
+
+PATIENT K500
+Uh up here, over here.
+
+DOCTOR K500
+Does it make it that hard for you to eat?
+
+PATIENT K500
+Oh I survive.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+I know how to work it around.  Yeah I can go get me a plate and I know the VA don't take care of that, that's alright.  They do enough for me.
+
+DOCTOR K500
+We'll see.  They are very picky on who they will actually see in Dental.
+
+PATIENT K500
+Right, I know.
+
+DOCTOR K500
+I'll put the order in and let's see what we can do.
+
+PATIENT K500
+Okay.  That's all we can do.
+
+DOCTOR K500
+Yeah.  Alright and your last colonoscopy was in 2008.
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+It looks pretty clean so the next time that we'll do it is 2018.
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+We do ten years for that.  @@@ on that and your prostate are normal check and you had your flu vaccine this year?
+
+PATIENT K500
+Yeah I had that.
+
+DOCTOR K500
+Good for you.
+
+PATIENT K500
+Oh yes.
+
+DOCTOR K500
+Um have you ever had the shingles vaccine?
+
+PATIENT K500
+What's that?
+
+DOCTOR K500
+You've heard of that?  So did you have chicken pox as a kid?
+
+PATIENT K500
+Yes.
+
+DOCTOR K500
+Okay.  If you had chicken pox as a kid that virus you know stays in your system and when you get older, like above the age of 60, your immune system it starts to kind of go down.
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+And then um it can flare-up and it causes like a very painful rash.  It can cause like neuropathy and stuff.  Usually we just vaccinate so it doesn't kind of kick back in in your later years.
+
+PATIENT K500
+Don't matter, if I need to get it tell me.
+
+DOCTOR K500
+Alright let's do it.  Okay.  Have you ever had a handicapped sticker before?
+
+PATIENT K500
+No.
+
+DOCTOR K500
+This is a new application.
+
+PATIENT K500
+No.  This is new.
+
+DOCTOR K500
+Okay.  They have very strict requirements on who we’re allowed to give that out to so what are your symptoms that you need handicapped parking versus regular parking?
+
+PATIENT K500
+Uh, just short of breath, distance.
+
+DOCTOR K500
+Short of breath.
+
+PATIENT K500
+Uh my leg hurts and uh.
+
+DOCTOR K500
+Were you injured in @@@?
+
+PATIENT K500
+This is what my disability is.
+
+DOCTOR K500
+Oh okay.
+
+PATIENT K500
+I'm on 90% disabled.
+
+DOCTOR K500
+Okay.  What happened to your leg, remind me.
+
+PATIENT K500
+Oh I was wounded.
+
+DOCTOR K500
+Okay.  Are you able to walk without any sort of like assistance, like a walker or a cane?
+
+PATIENT K500
+No I have a cane.
+
+DOCTOR K500
+You have a cane okay.  We can document that.  Is your pain pretty well controlled in that leg?
+
+PATIENT K500
+Well, with me favoring it, both legs hurt.  This leg, the right leg is where the problem's at.
+
+DOCTOR K500
+Uh-huh.
+
+PATIENT K500
+It's the weak leg.
+
+DOCTOR K500
+Uh-huh.
+
+PATIENT K500
+And I'm putting all of the strain on this one.
+
+DOCTOR K500
+Now the other one hurts then.
+
+PATIENT K500
+Right.
+
+DOCTOR K500
+Yeah.
+
+PATIENT K500
+I had therapy on both of them, what, last year?
+
+DOCTOR K500
+Okay.
+
+PATIENT K500
+I think it was last year yes. 
+
+DOCTOR K500
+Well if you ever want to go back to therapy you can you know do that, when you're ready.
+
+PATIENT K500
+Right.
+
+DOCTOR K500
+I know you're in the MOVE Program now.
+
+PATIENT K500
+Yeah they gave me uh; I got my list I go by.
+
+DOCTOR K500
+Oh good.
+
+PATIENT K500
+That they gave me uh in therapy.  They was really nice.  I love them.
+
+DOCTOR K500
+Oh good.
+
+PATIENT K500
+And I got them all; I kept everything they gave me.
+
+DOCTOR K500
+Let's take a look at that.  Where are the notes for the therapy?
+
+PATIENT K500
+@@@.
+
+DOCTOR K500
+Oh here, this is it.
+
+PATIENT K500
+Oh.
+
+DOCTOR K500
+This is all you.  @@@.  What's the date?
+
+PATIENT K500
+Today is the 20th.
+
+DOCTOR K500
+Let me uh ask my attending which one I'm supposed so.  So I'm not in Indiana, I'm wondering if they want me to say I'm part of the VA in order to do this.  So let me just talk to her.
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+Um but this part you fill out, it's just like your license plate number and your social security, all this stuff.
+
+PATIENT K500
+Oh yeah this is my part.
+
+DOCTOR K500
+Yeah, yeah.  And were you a smoker in the past?
+
+PATIENT K500
+Yes uh-huh.
+
+DOCTOR K500
+Okay but not any more?
+
+PATIENT K500
+No.
+
+DOCTOR K500
+Okay.  Next year we'll have to do a ultrasound of your abdomen.  When's your birthday, in May?
+
+PATIENT K500
+May 22nd.
+
+DOCTOR K500
+Maybe we can order it um, if you don't mind we'll just order it now and it's just a screen to make sure you don't have an aneurysm in your aorta.  People that have smoked in the past are at higher risk for an aneurysm and they can rupture and you can bleed internally.
+
+PATIENT K500
+No problem.
+
+DOCTOR K500
+Okay.  I'm going to go ahead and order it.  @@@.
+
+PATIENT K500
+You the doctor.
+
+DOCTOR K500
+Well, I always want to make sure you're okay with what I order.
+
+PATIENT K500
+No if you came in the Post Office, then you ask me for my expertise.
+
+DOCTOR K500
+Right, exactly.  Okay wonderful, I will be right back.
+
+PATIENT K500
+Okay thank you.
+
+(DOCTOR OUT:  66:40  DOCTOR IN:  72:20)
+
+DOCTOR K500
+Alright sir, you're all set.  So we'll do the labs when you come back for the MOVE Program.  I'm also going to put in um uh a consult cause you know the last time we checked your sugars they were like creeping up and they were almost at the level of diabetes and we don't want that to happen.  So I'm just gonna send you to our nutritionist that'll give you just some pre-diabetic stuff to avoid, so we don't ever get to that point.
+
+PATIENT K500
+Uh-huh.
+
+DOCTOR K500
+Okay.  And that's it and then I'll have you follow up with me.  We could do another six months if you prefer we could do I don't know, what do you like, how often do you like to come in?
+
+PATIENT K500
+Well it could be every three, four months, I don't care.
+
+DOCTOR K500
+Okay we'll do that.  We could do four months.  And really try to take your lipid medication, the simvastatin.
+
+PATIENT K500
+Okay.
+
+DOCTOR K500
+And even if you can't remember it at night take it in the morning, you could take it every morning if it doesn't work at night.
+
+PATIENT K500
+That'd probably be the best time.
+
+DOCTOR K500
+Then do that, that's fine.  We really want to make sure you get it okay.  Okay.
+
+PATIENT K500
+Okay what about that other form I gave you?
+
+DOCTOR K500
+Oh yeah, you know what let me just ask her, I totally forgot, one second.  
+
+(DOCTOR OUT:  73:30  DOCTOR IN:  76:37)
+
+DOCTOR K500
+Alright sir, all done.  I have the form filled out for you here.
+
+PATIENT K500
+Thank you.
+
+DOCTOR K500
+Uh-huh.  And then I'll send you here to get your shingles vaccine and then they'll help you check out okay.
+
+PATIENT K500
+Okay um.
+
+DOCTOR K500
+I'll see you again in four months.
+
+PATIENT K500
+Okay, uh you said you wanted that blood test.  Do you want it done today or what?
+
+DOCTOR K500
+No when you come back for MOVE.
+
+PATIENT K500
+Cause I haven't eaten today at all.
+
+DOCTOR K500
+Oh okay, well you can unless you want to come back, whatever you want to do.
+
+PATIENT K500
+It doesn't matter.
+
+DOCTOR K500
+Just when you come back.
+
+PATIENT K500
+Okay then okay.
+
+DOCTOR K500
+You probably want @@@.  Let's have you get the shingles vaccine.
+
+PATIENT K500
+Okay.
+PATIENT LEAVES:  77:53.
+
+Time is  @@@.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255132
+TRANSACTION # 578-10-2-316-0103

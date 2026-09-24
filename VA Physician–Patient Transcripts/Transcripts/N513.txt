@@ -1,0 +1,1015 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR N513
+PATIENT?
+
+PATIENT N513
+PATIENT.
+
+DOCTOR N513
+How you doing?
+
+PATIENT N513
+Real good.
+
+DOCTOR N513
+We're back in here.  You want to reverse back a little bit here?  Can you reverse back into the door a little bit?  That's okay.  Walk behind you here.  Alright so you were here uh just about a month ago, not too long ago.
+
+PATIENT N513
+Yeah.  For about 35 years I been coming here.
+
+DOCTOR N513
+Good.  That's great.  So the last time you were here we were dealing with blood pressure.
+
+PATIENT N513
+Right.
+
+DOCTOR N513
+Last time it was 169/83 but um you had run out of a lot of your medicines, is that right?  Okay so now that you have them, have you been taking the three blood pressure medicines?
+
+PATIENT N513
+Well no.  But they uh, I've never taken that or uh but I was taking that one, but I was taking the @@@.
+
+DOCTOR N513
+What's that?
+
+PATIENT N513
+Well I wasn't taking medication every hour; I was taking it at bedtime.
+
+DOCTOR N513
+Yeah well now what are you taking now, over the last month since we saw you last?
+
+PATIENT N513
+Oh I got it; yeah I just take it regular oh those for a diabetic.
+
+DOCTOR N513
+Uh-huh.
+
+PATIENT N513
+And uh you know I got trouble with it because I was falling asleep when I would in the service and I had trouble with it then.
+
+DOCTOR N513
+Which blood pressure medicine do you take now?
+
+PATIENT N513
+Oh I be taken I got them right in here.
+
+DOCTOR N513
+Oh you got them okay good.  Does someone help you take your medicines?
+
+PATIENT N513
+Not.
+
+DOCTOR N513
+No.  Do you live alone?
+
+PATIENT N513
+No I uh, I got a housekeeper.
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+They come @@@.
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+So.  I got record with the change up on the medicine.
+
+DOCTOR N513
+Okay.  
+
+PATIENT N513
+Now it seems to me that they don't make the same though cause I go through a real kind DOCTOR, but they don't look the same on that.
+
+DOCTOR N513
+Alright.  You usually see DOCTOR don't you?
+
+PATIENT N513
+DOCTOR.
+
+DOCTOR N513
+DOCTOR?
+
+PATIENT N513
+Yeah.
+
+DOCTOR N513
+Oh.  Okay, alright that's for your cholesterol.  So you're out of these.
+
+PATIENT N513
+Yes sir.  They told me that uh that they don’t make a change they wouldn’t give me no more.
+
+DOCTOR N513
+Who told you that?
+
+PATIENT N513
+That's what they told me down at the desk.  I went down yesterday; where you get your medications.
+
+DOCTOR N513
+Pharmacy?
+
+PATIENT N513
+Yeah.  They wouldn't refill these but I was in there last Monday to be sure they gave me enough.  The whole @@@ you know it gets up during the night so they working on that.  I got a appointment now to get my blood checked tomorrow and I'm going to go over there first.  @@@.
+
+DOCTOR N513
+No we didn't change this one.  We wanted you to keep taking this one.
+
+PATIENT N513
+Okay.
+
+DOCTOR N513
+Yeah cause your blood pressure's still high and it's probably because you're not taking it so we'll get you some more of those today.
+
+PATIENT N513
+Oh that's what it is.
+
+DOCTOR N513
+Yeah they wanted you to keep taking the lisinopril.  We need you to keep taking that.  That's for blood pressure.  This one you still have, the metoprolol.
+
+PATIENT N513
+Let me put that one back in here.  The one that.
+
+DOCTOR N513
+This one.
+
+PATIENT N513
+The one that you said I should keep taking.
+
+DOCTOR N513
+No this one you need to keep taking.  This one here um.  Oh here it is, this is the same one.
+
+PATIENT N513
+They're the same one.
+
+DOCTOR N513
+This is the same one.  So you had some of these left.  Same medicine.
+
+PATIENT N513
+That's okay.
+
+DOCTOR N513
+But have you been taking this?
+
+PATIENT N513
+Sure.
+
+DOCTOR N513
+Okay.  And have you been taking this one, the metoprolol?
+
+PATIENT N513
+Yes, yes I have.  @@@.
+
+DOCTOR N513
+What about, there's another one.  There's a third blood pressure medicine.
+
+PATIENT N513
+That's what I got right here.
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+So this one.
+
+DOCTOR N513
+I think you're missing one of them.  This is an old one; you don't take this one anymore.
+
+PATIENT N513
+Hmm okay.
+
+DOCTOR N513
+So we'll throw this one away.  Um.
+
+PATIENT N513
+What different @@@ do it?
+
+DOCTOR N513
+This one you take, yeah this is for your blood pressure.  That one you need.  Alright.  I'm gonna have to send you over to the Pharmacy again today okay.  There's one more blood pressure medicine that you need to take.
+
+PATIENT N513
+Okay.  Well what'd you give me?  You gave me like two back or maybe three.
+
+DOCTOR N513
+Yeah.  This one is empty those you have, so throw this one out.  Your blood pressure one, this is important.  These are your two blood pressure medicines.  You actually have another one that you need to be taking.
+
+PATIENT N513
+Okay.
+
+DOCTOR N513
+But um I don't know where that one is.  It's called amlodipine, does that sound familiar?
+
+PATIENT N513
+I don't know.  It probably got empty and I could have put it down.
+
+DOCTOR N513
+So you've been taking those two then, those two there yeah?  Do you have a family member that lives with you or just the housekeeper that comes?
+
+PATIENT N513
+Well actually I live with my son.
+
+DOCTOR N513
+You live with your son.
+
+PATIENT N513
+But my housekeeper.  Yeah I have a way now to the doctor recommending for the last 15, 20 year that I hire the help somebody to live with me.
+
+DOCTOR N513
+Uh-huh.
+
+PATIENT N513
+So I been living with my son.
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+He had been looking after me @@@.
+
+DOCTOR N513
+@@@.
+
+PATIENT N513
+We live in a house.
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+So but I had been living in an old house for people before I moved over here about a month ago.
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+So they were complaining about how @@@.  It wasn't no problem to do all the work in @@@ business place.  
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+They complain.  I'm weighing about 150 or 153 and I went down to 133 but now it's coming and getting back up now.
+
+DOCTOR N513
+Your weight has picked up?
+
+PATIENT N513
+It's picking up a little bit now cause I wasn't eating enough.
+
+DOCTOR N513
+You weren't eating enough yeah.  Oh yeah it has gone up, that's good.  Alright.  Well can you go down to the Pharmacy today then?
+
+PATIENT N513
+No problem.
+
+DOCTOR N513
+Okay.  Alright.  
+
+PATIENT N513
+I got another appointment at 1 o'clock.
+
+DOCTOR N513
+At 1 o'clock.
+
+PATIENT N513
+Yeah.
+
+DOCTOR N513
+Okay.  Who do you have an appointment with?
+
+PATIENT N513
+The @@@  I got a, I don't know what she said whatever that is @@@.
+
+DOCTOR N513
+Yeah.  You can pick up one medicines.  Do you have your medicines mailed to you?
+
+PATIENT N513
+I think that's what they did.
+
+DOCTOR N513
+Okay good.
+
+PATIENT N513
+They mailed it and then I had some.
+
+DOCTOR N513
+We'll keep you on that then.
+
+PATIENT N513
+I think I got it from DOCTOR.  @@@ two or three days.
+
+DOCTOR N513
+Okay, perfect.  That's good.  Yeah I'll be right back.
+
+PATIENT N513
+Alright.
+
+DOCTOR N513
+You're fine where you're at.  I just want to listen to you here real quick to your heart.  Lean forward. Deep breath, deep breath.  Your lungs sound clear.  Heart sounds good.  Everything else checks out.  It's just; we just want to get that blood pressure under better control, that's all it is.  It's one of those things you don't feel it when it's high but you know over time it can cause problems.
+
+PATIENT N513
+Oh yeah.
+
+DOCTOR N513
+Okay.  So we'll start back that amlodipine again.  I think last month um the doctor you saw last month wanted to start that uh and I agree with it since the blood pressure's still high.  I think it would be a good thing to start that so, it's just a once a day small pill okay.
+
+PATIENT N513
+Okay.
+
+DOCTOR N513
+Is there anything else bothering you today?
+
+PATIENT N513
+No, the only problem that I really have that won't go away.  See I got arthritis and it was over here in my legs and never operate.  I always get pain @@@.  And that goes from right here all the way down to the ankle and that really bother me, came on @@@.
+
+DOCTOR N513
+You have another medicine for nerves that you were on, gabapentin.  Do you know if you were taking that?
+
+PATIENT N513
+I do not.
+
+DOCTOR N513
+Okay.  Your bottle was empty.
+
+PATIENT N513
+Yeah.
+
+DOCTOR N513
+Okay.  So why don't we refill that when you go to the Pharmacy okay cause that really helps with the nerve pain.
+
+PATIENT N513
+Feel free to.
+
+DOCTOR N513
+Okay not a problem.
+
+PATIENT N513
+It bothers me night and day.
+
+DOCTOR N513
+It bothers you night and day okay.  So this one you take, you take the pill twice a day okay.  It's called gabapentin.
+
+PATIENT N513
+And then one day they is cold.
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+Maybe that would help.
+
+DOCTOR N513
+Yeah, yeah.  I know your blood flow isn't too good down here.  Have you noticed any sores or anything here?
+
+PATIENT N513
+No no sore.
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+But I put on stretch socks.
+
+DOCTOR N513
+Uh-huh.
+
+PATIENT N513
+And one time they said they was too tight.
+
+DOCTOR N513
+Uh-huh.
+
+PATIENT N513
+And they didn't want them too tight because it blocks the blood.
+
+DOCTOR N513
+Yeah.  Do you see the Podiatry, the foot doctor?
+
+PATIENT N513
+Yeah.
+
+DOCTOR N513
+You do okay.
+
+PATIENT N513
+On the 7th.
+
+DOCTOR N513
+On the 7th okay good.  Do you check your blood sugars at home?
+
+PATIENT N513
+I don't check anymore.
+
+DOCTOR N513
+What it, or have you been checking it?
+
+PATIENT N513
+I check it.  The last time I checked it was the other day or later on Wednesday.  When I last checked it, it was on Monday morning.
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+Well what I mean I guess I can feel it if my sugars run a bit low or high.
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+And I put a little watch on that.
+
+DOCTOR N513
+Well your labs are showing the same thing, that your sugars have been pretty well controlled.
+
+PATIENT N513
+Right.
+
+DOCTOR N513
+So as long as you're staying in that range of around 100 to 120 in the mornings.
+
+PATIENT N513
+Right.
+
+DOCTOR N513
+Before you eat that's good.
+
+PATIENT N513
+They run around 132.
+
+DOCTOR N513
+Okay.
+
+PATIENT N513
+And whatever that's not too bad.
+
+DOCTOR N513
+That's not too bad, we can work with that.  Okay.  I'm going to go talk to DOCTOR and I'll be right back okay.
+
+PATIENT N513
+Alright.  But you know the only thing, the only thing some big problem I got is some teeth.  They made three sets from here.
+
+DOCTOR N513
+Uh-huh.
+
+PATIENT N513
+And they don't work out.  And you go to the doctor to get you a set @@@ and so but since it high.
+
+DOCTOR N513
+Uh-huh.
+
+PATIENT N513
+And when I there they say they could straighten them out but uh they didn't have, he wouldn't get paid, you know they don't recommend it.
+
+DOCTOR N513
+Oh they don't cover it there?
+
+PATIENT N513
+Don't cover it there.
+
+DOCTOR N513
+At Hines.
+
+PATIENT N513
+At Hines.
+
+DOCTOR N513
+Uh-huh.
+
+PATIENT N513
+But DOCTOR told me she will try to get it because I need those teeth cause that's why I'm losing so much weight.
+
+DOCTOR N513
+Oh because you can't eat without the teeth.
+
+PATIENT N513
+Yes.
+
+DOCTOR N513
+Alright, I'll ask DOCTOR.  I'm not exactly sure what to do with that but um.
+
+PATIENT N513
+They used to having me going to surgery, I go to Hines and so when I got my leg broke on the bus they had the you know they @@@ until I got straightened out so when I got through, when I got through with that they had to call me back and start over here.  We'll just have to see where they go.
+
+DOCTOR N513
+Okay.  Okay.  Let me ask DOCTOR about the false teeth and check on those.
+
+PATIENT N513
+Uh I told DOCTOR about the teeth thing so she said well there wasn't too much she could do about it. 
+
+DOCTOR N513
+Yeah.
+
+PATIENT N513
+Told me to go down to the University on uh.
+
+DOCTOR N513
+Oh right, the dentist school at the University of Illinois.
+
+PATIENT N513
+University yeah.
+
+DOCTOR N513
+That's where we recommend people over there for dentistry actually.  A lot of times the VA doesn't cover very much dental work unless you're very service-connected and most people don't have that much service connection to cover all their dental work so there's a dental school down there that works at a pretty reasonable rate.
+
+PATIENT N513
+Oh I see.
+
+DOCTOR N513
+We can give you the information for that again today, want to try that?
+
+PATIENT N513
+I sure enough need it.  That's what I'm telling you, that's why I lost weight cause I haven't eaten.  I can't chew my food.
+
+DOCTOR N513
+Yeah.
+
+PATIENT N513
+I got to eat @@@ or something like that.
+
+DOCTOR N513
+Uh-huh.
+
+PATIENT N513
+It's @@@ that's the way I eat.  To keep my stomach fill up.
+
+DOCTOR N513
+Yeah.  Alright.  Next time you come in, I want you to bring your uh, is it your son that you live with?  Or your grandson?  
+
+PATIENT N513
+Okay.
+
+DOCTOR N513
+Do you live with your grandson or your son?
+
+PATIENT N513
+I live with my son.
+
+DOCTOR N513
+You live with your son okay.  Ask your son next time if he can come in okay.
+
+PATIENT N513
+Alright.
+
+DOCTOR N513
+Alright.  Let me go talk to DOCTOR and I'll be right back.
+
+PATIENT N513
+Okay.
+
+DOCTOR OUT:  46:23  DOCTOR IN:  51:19)
+
+SECOND DOCTOR N513
+Hey PATIENT, hey nice to see you again.
+
+PATIENT N513
+Hi, alright.
+
+SECOND DOCTOR N513
+Okay PATIENT question for you um you know we're a little bit concerned about your medicines uh because it's not, the computer show that um you know you're getting all the medicines we want you to be on because your blood pressure is high and we're not sure if you're taking.  You are put on three blood pressure medications.
+
+PATIENT N513
+Uh-huh.
+
+SECOND DOCTOR N513
+So you want to have a nurse come to your house and she can arrange a pill box?
+
+PATIENT N513
+Yes she comes twice a week.
+
+SECOND DOCTOR N513
+She does that?  No is that a homemaker or a nurse?
+
+PATIENT N513
+Uh it's a.
+
+SECOND DOCTOR N513
+Does she do cleaning and cooking.
+
+PATIENT N513
+No she don't do cleaning.
+
+SECOND DOCTOR N513
+Oh what does she do?
+
+PATIENT N513
+She show up and kind of check my blood pressure you know and stuff like that for diabetes and stuff.
+
+SECOND DOCTOR N513
+Uh-huh.
+
+PATIENT N513
+And she's a coordinator here in this hospital.
+
+SECOND DOCTOR N513
+Coming to the VA?
+
+PATIENT N513
+Yeah @@@.
+
+SECOND DOCTOR N513
+Let me check and does she look over your medicines?
+
+PATIENT N513
+She just looks at the list and checks that out every week.
+
+SECOND DOCTOR N513
+Because your bottles @@@ old ones, new ones, she should be cleaning up.
+
+PATIENT N513
+Well I got uh, a live-in nurse for three years but that building that I'm in.
+
+SECOND DOCTOR N513
+Uh-huh.
+
+PATIENT N513
+They don't want that no more.
+
+SECOND DOCTOR N513
+Okay that's uh.
+
+PATIENT N513
+@@@/
+
+SECOND DOCTOR N513
+Can you have the nurse call me when she's there then cause I really need to talk to her.
+
+PATIENT N513
+Yes.
+
+SECOND DOCTOR N513
+Because um so why don't we just go over the medicines with her.
+
+PATIENT N513
+Just call.
+
+SECOND DOCTOR N513
+Yeah just have her call me uh and uh review  medicines for me so I can call her back okay.
+
+PATIENT N513
+Okay.
+
+SECOND DOCTOR N513
+Just give me the number uh just like me and I'll call her back.
+
+PATIENT N513
+Okay.
+
+SECOND DOCTOR N513
+Okay, that'll be great.  Uh you don't have her number with you do you?
+
+PATIENT N513
+Sure.
+
+SECOND DOCTOR N513
+You have the number?
+
+PATIENT N513
+I got these all in my house to give her the number.
+
+SECOND DOCTOR N513
+Great.  Call here.
+
+PATIENT N513
+I don't use that phone @@@ keep up with the numbers but I check it.  @@@.
+
+SECOND DOCTOR N513
+So you are thinking of your numbers?
+
+PATIENT N513
+Yeah.
+
+SECOND DOCTOR N513
+Oh.
+
+PATIENT N513
+But she'll be there three days a week.
+
+SECOND DOCTOR N513
+But will she be there now?
+
+PATIENT N513
+She is probably there now.
+
+SECOND DOCTOR N513
+Why would she be there now because you are here?
+
+PATIENT N513
+@@@.  Let me get the number out here for you.
+
+SECOND DOCTOR N513
+Okay.  Are you noticing memory problems PATIENT?
+
+PATIENT N513
+Not really.
+
+SECOND DOCTOR N513
+Any memory problems?
+
+PATIENT N513
+No not, no more than @@@.
+
+SECOND DOCTOR N513
+No memory problems?
+
+PATIENT N513
+No, no, @@@.
+
+SECOND DOCTOR N513
+Okay.
+
+PATIENT N513
+There was a telephone number but I don't know if she wrote it down.
+
+SECOND DOCTOR N513
+Okay I have a number here NUMBER?
+
+PATIENT N513
+No that's not it.
+
+SECOND DOCTOR N513
+Okay there's another number NUMBER?
+
+PATIENT N513
+No, no that one, I got it here, @@@.
+
+SECOND DOCTOR N513
+You want me to help you get it out?
+
+PATIENT N513
+That's it I think.  Hold on.  No that's not it.
+
+SECOND DOCTOR N513
+There is a number here.  Is it here?
+
+PATIENT N513
+No.
+
+SECOND DOCTOR N513
+That's not it then.
+
+PATIENT N513
+That @@@.
+
+SECOND DOCTOR N513
+You have your social security, I don’t think you want to be walking around with that.  Okay, alright um that's fine.  I see that something is right here yes.
+
+PATIENT N513
+@@@.
+
+SECOND DOCTOR N513
+And if you don't find it, if not we'll just go ahead and get a consult then.
+
+PATIENT N513
+Okay.
+
+SECOND DOCTOR N513
+Okay sir because right now um, right now I'm not sure what’s going on with your medicines okay.  So um.
+
+PATIENT N513
+This just might be here.  I'll check the @@@.
+
+SECOND DOCTOR N513
+@@@ number after.
+
+PATIENT N513
+@@@.
+
+FIRST DOCTOR N513
+Yeah it's filled.
+
+SECOND DOCTOR N513
+Okay that's good.
+
+FIRST DOCTOR N513
+But I @@@ filled for sure.
+
+SECOND DOCTOR N513
+@@@.
+
+FIRST DOCTOR N513
+Not helping.
+
+SECOND DOCTOR N513
+Uh maybe you didn't take all of your medicines then huh?
+
+FIRST DOCTOR N513
+Yeah.
+
+SECOND DOCTOR N513
+Sometimes @@@.  Uh so the next time please bring all your medicines okay, okay and if you have the number give it to the doctor okay.
+
+PATIENT N513
+Alright.
+
+FIRST DOCTOR N513
+Alright so, we're actually gonna send you to the Lab instead of the Pharmacy okay.
+
+PATIENT N513
+Okay.
+
+FIRST DOCTOR N513
+Because it looks like you have your, you have that one medicine at home.
+
+PATIENT N513
+Right.
+
+FIRST DOCTOR N513
+We'll just probably talk to your nurse to make sure that you got it here.
+
+PATIENT N513
+Okay.
+
+FIRST DOCTOR N513
+And your meds that you're taking okay.
+
+PATIENT N513
+Okay.
+
+FIRST DOCTOR N513
+Do you know where the Lab is?
+
+PATIENT N513
+Yeah you go there, it's at 11 South.
+
+FIRST DOCTOR N513
+The Lab.
+
+PATIENT N513
+Huh?
+
+FIRST DOCTOR N513
+The Lab, where they draw blood, right across the hallway.
+
+PATIENT N513
+No.  The reason I do I have what?
+
+FIRST DOCTOR N513
+Do you know where the Lab is?
+
+PATIENT N513
+Oh know where they at.
+
+FIRST DOCTOR N513
+Okay yeah right across the hall.
+
+PATIENT N513
+Yeah they’re close.
+
+FIRST DOCTOR N513
+Okay.
+
+PATIENT N513
+So I go down the hall.
+
+FIRST DOCTOR N513
+Okay, alright.  Do you know what the date is today?
+
+PATIENT N513
+Today is the 14th, 13th, today is the 13th.
+
+FIRST DOCTOR N513
+You're right.  Very good, okay.  Okay.  That's it.  I think we just need to; the main thing is we need to figure out what's going on with those medicines.
+
+PATIENT N513
+Yeah.
+
+FIRST DOCTOR N513
+Yeah.  
+
+PATIENT N513
+You know cause the last time I was here they told me that I couldn't get it because they had changed it.
+
+FIRST DOCTOR N513
+Yeah I don't know why.  I'm looking at the notes but that doesn't really, that doesn't make sense.  In fact they gave you this one, this one here I'll circle it for you here.  This is amlodipine.  This is the one that I want you to start taking.
+
+PATIENT N513
+Okay.
+
+FIRST DOCTOR N513
+It's for the blood pressure.
+
+PATIENT N513
+Hmm.
+
+FIRST DOCTOR N513
+Take one tablet every day.
+
+PATIENT N513
+I'll take it.
+
+FIRST DOCTOR N513
+Uh-huh and let me show you this one too, well I'll circle all the blood pressure medicines, lisinopril.
+
+PATIENT N513
+That'll be great.
+
+FIRST DOCTOR N513
+And the metoprolol okay.  And then for your nerves, right here nerves, this is for your leg okay.  This is called gabapentin.
+
+PATIENT N513
+Oh yeah.
+
+FIRST DOCTOR N513
+You had that one in your bag so you can start taking that one again.
+
+PATIENT N513
+Alright.
+
+FIRST DOCTOR N513
+Okay.
+
+PATIENT N513
+Okay.
+
+FIRST DOCTOR N513
+And then this is DOCTOR number okay.  Alright so you can just have your nurse call that number.
+
+PATIENT N513
+Okay.
+
+FIRST DOCTOR N513
+And DOCTOR will discuss the medicines okay.
+
+PATIENT N513
+Okay.
+
+FIRST DOCTOR N513
+So I'll walk you out and we'll get you this appointment with the pharmacist in a month.
+
+PATIENT N513
+Okay now did the regular nurse come twice a week.
+
+FIRST DOCTOR N513
+Uh-huh.
+
+PATIENT N513
+She uh she @@@ won't be there till Friday.
+
+FIRST DOCTOR N513
+Okay that's fine.
+
+PATIENT N513
+Okay.  What do I do with this here, is it what I keep?
+
+FIRST DOCTOR N513
+Yeah this one you give to the front desk, here I'll take, I'll walk you out and we'll get you pointed in the right direction here okay.
+
+PATIENT N513
+Alrighty.
+
+FIRST DOCTOR N513
+Alright.  Yeah I can't help but notice this recording thing.  Do you have a recorder in your bag?
+
+PATIENT N513
+A what?
+
+FIRST DOCTOR N513
+A recorder in your bag.  It looks like there's a recorder on this.
+
+PATIENT N513
+Yeah I don't know about it.
+
+FIRST DOCTOR N513
+What we talk about in this visit is confidential right?
+
+PATIENT N513
+Oh.
+
+FIRST DOCTOR N513
+So if somebody's recording our conversation that's against the rules.
+
+PATIENT N513
+Oh no that ain't nothing anymore.
+
+FIRST DOCTOR N513
+Okay, alright.
+
+PATIENT N513
+I don't blame you.
+
+FIRST DOCTOR N513
+Okay.  I'm gonna walk you out to the front desk okay.
+
+PATIENT N513
+@@@.
+
+FIRST DOCTOR N513
+Step back a little bit, there you go, yeah you got it.  There you go.
+
+PATIENT N513
+There you go.
+
+FIRST DOCTOR N513
+Okay.  Okay let's go out to the front desk okay.  Okay, you take care.  
+
+PATIENT LEAVES:  61:31.
+
+9:30.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255168
+TRANSACTION # 578-10-2-316-0103

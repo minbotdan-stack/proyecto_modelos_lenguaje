@@ -1,0 +1,940 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR H962
+PATIENT? 
+
+PATIENT H962
+Yeah, that was weird.
+
+DOCTOR H962
+How are you doing?
+
+PATIENT H962
+Fine.  I heard my name, I heard my name.
+
+DOCTOR H962
+Yes.
+
+PATIENT H962
+And then I didn't, it went right by me for a minute.
+
+DOCTOR H962
+Okay I'll be back in 30 seconds.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+Okay.  How are you doing today?
+
+PATIENT H962
+I'm hurting.
+
+DOCTOR H962
+What's that?
+
+PATIENT H962
+I'm hurting.
+
+DOCTOR H962
+Where?
+
+PATIENT H962
+On my arm, shoulder, chest and neck. 
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+I fell yesterday.
+
+DOCTOR H962
+Hmm.
+
+PATIENT H962
+Outside over a curb.
+
+DOCTOR H962
+Ooh okay.  Were you just walking or?
+
+PATIENT H962
+Yes, I don't know what it was from, if I tripped over the curb or fell in a hole.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+You know the curb outside where there's just curbs and sometimes there's no pavement.
+
+DOCTOR H962
+Right, right, right.
+
+PATIENT H962
+I remember seeing the curb.
+
+DOCTOR H962
+Uh-huh.
+
+PATIENT H962
+And the next thing I remember I was on the ground in a lot of pain.
+
+DOCTOR H962
+Okay did you lose consciousness?
+
+PATIENT H962
+No.
+
+DOCTOR H962
+Where did you hit yourself?  What part of your body hit the ground?
+
+PATIENT H962
+Um I think the front part.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+Um like the front, left side.
+
+DOCTOR H962
+Did you hit your head?
+
+PATIENT H962
+Um I don't think so but it hurt.
+
+DOCTOR H962
+Your head it hurts?
+
+PATIENT H962
+Yeah from I, you know from hitting the ground.
+
+DOCTOR H962
+Um okay we'll get back to that, just one second.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+Besides for that anything else new, meaning any new hospitalizations since I saw you last which was.
+
+PATIENT H962
+Oh no, no.
+
+DOCTOR H962
+Not very long ago.  I saw you back in June.  Um you have an occasional beer, you don't smoke correct?
+
+PATIENT H962
+Correct.
+
+DOCTOR H962
+And we'll go through your medications in just a second.  Did you get a flu shot already?
+
+PATIENT H962
+Yes I got one yeah.
+
+DOCTOR H962
+Okay her or somewhere else?
+
+PATIENT H962
+Here yeah.
+
+DOCTOR H962
+And you had some labs that you got this morning and they're still pending.
+
+PATIENT H962
+It was just done.
+
+DOCTOR H962
+Yes.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+Yeah, yeah so I'll take a look at that whenever it's back.  Um let's go through your medications first and make sure that you're up-to-date, you have enough refills and you’re taking  what you should be taking.  So the top of the list is cyclobenzaprine, that's the muscle relaxant.
+
+PATIENT H962
+Yeah.
+
+DOCTOR H962
+Are you still taking that?
+
+PATIENT H962
+Yes I am.
+
+DOCTOR H962
+Okay and that helps?
+
+PATIENT H962
+Yes.
+
+DOCTOR H962
+Okay.  Next is enalapril, that's for blood pressure.
+
+PATIENT H962
+Yes I'm taking those.
+
+DOCTOR H962
+Okay you take that twice a day.
+
+PATIENT H962
+Twice a day.
+
+DOCTOR H962
+Okay that also helps protect the kidneys for diabetics.  Your blood pressure is a little high today, 140/82 did you take it this morning.
+
+PATIENT H962
+Yeah, normally when I first come in its high.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+But then when it's checked later in the visit.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+It's back to normal.  
+
+DOCTOR H962
+Okay I will check it again then.  Um then you have insulin for your diabetes.
+
+PATIENT H962
+I wanted to talk to you about my insulin.
+
+DOCTOR H962
+Uh-huh.
+
+PATIENT H962
+It's like it's not even working.
+
+DOCTOR H962
+Why is that?
+
+PATIENT H962
+My um readings are high.
+
+DOCTOR H962
+Okay.  I think last time; let me see what was down here the last time.
+
+PATIENT H962
+And I've been taking 40 units of let's see @@@.
+
+DOCTOR H962
+Of the insulin?  There’s two?
+
+PATIENT H962
+Its 30 Glargine, I take 40 units.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+And the @@@ I take 30 in the evening.
+
+DOCTOR H962
+Glargine you're taking 30?
+
+PATIENT H962
+Yes.
+
+DOCTOR H962
+And at night or in the morning?
+
+PATIENT H962
+Oh at night.
+
+DOCTOR H962
+At night and then the regular.
+
+PATIENT H962
+Regular.
+
+DOCTOR H962
+The Novolin you're taking in the evening.
+
+PATIENT H962
+Yeah 30, no Glargine is 30 and the regular is 20 yeah.
+
+DOCTOR H962
+Okay um.
+
+PATIENT H962
+Now if I take the regular, like after dinner, sometimes I forget to take it.
+
+DOCTOR H962
+Uh-huh.
+
+PATIENT H962
+Then I may get a low about 5 in the morning.
+
+DOCTOR H962
+Yeah.  You have to be careful.  It's not good to take it after dinner cause you're already taking the Glargine in the evening and both of those together will cause you to have low blood sugars.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+So you have to work on that.  You're hemoglobin A1c last time that I saw you was really high and I think I called and tried to leave you a message so that you're gonna have to increase your insulin which you have been slowly doing but it was way too high, it was 10.1, that's not good.
+
+PATIENT H962
+Just.
+
+DOCTOR H962
+Back in June so the one from today is still pending.
+
+PATIENT H962
+Oh okay.
+
+DOCTOR H962
+Sometimes it takes a long time to come back but I don't expect it will be, I mean it might be higher.  I don't expect it will be much lower and I would like to send you to the, unfortunately since I only have clinic once every five weeks I can't follow up with patients that often but I would like to send you to the pharmacist who can help manage diabetic medications.
+
+PATIENT H962
+The Pharm-D.
+
+DOCTOR H962
+Yeah have you done that before?
+
+PATIENT H962
+I tried.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+But um.  I never had a call back.
+
+DOCTOR H962
+They should, I mean I would put in a consult and I would talk with them.  They will call you and sometimes they like to meet you once in person.
+
+PATIENT H962
+Uh-huh.
+
+DOCTOR H962
+But after that you know they can do it over the phone but it usually shows a lot of, I mean it's beneficial because they can follow up with you like once every two weeks.  I can't do that.
+
+PATIENT H962
+Oh @@@.
+
+DOCTOR H962
+And it goes faster and your hemoglobin A1c has been living at too high of levels for too long, that's not good you know and obviously what you're saying you're taking all of this insulin and it's not making much of a difference.  So we have to work on that.
+
+PATIENT H962
+Well that's, would it make sense to use the old insulin that I used to take?
+
+DOCTOR H962
+What did you used to take?
+
+PATIENT H962
+Um NovoLog and.
+
+DOCTOR H962
+NPH.
+
+PATIENT H962
+NPH.
+
+DOCTOR H962
+Um maybe but then you'd be taking it more often.  I like Glargine better cause it lasts in your system longer um but with the Glargine, you're taking it once a day there's room to do it twice a day for people that, your blood sugars are just very high.
+
+PATIENT H962
+Would it um, would it be beneficial to take more than 20 or like 40?
+
+DOCTOR H962
+No you can take as much as you need to.  I mean some people go up to 100 you know.
+
+PATIENT H962
+Okay cause my syringes go to 50.
+
+DOCTOR H962
+Yeah I mean.
+
+PATIENT H962
+So sometimes I can only go down.
+
+DOCTOR H962
+Yeah, no, no, there's room to go up especially if your sugars are really high.  I mean the goal for a fasting glucose in the morning is 80-100.
+
+PATIENT H962
+Oh my.
+
+DOCTOR H962
+You know so you should be at that goal every day.  If you're not that means you don't have enough insulin.  Um but we have to kind of get it under control.  You're only 55, you shouldn't have a hemoglobin A1c that is that high you know.  So if it's okay I would like to send you to the.
+
+PATIENT H962
+Okay sure.
+
+DOCTOR H962
+Pharmacist because they can, I've seen a lot of good results when they work with patients you know and it's not forever it's just until we can get this under control.
+
+PATIENT H962
+Oh yeah, yeah.
+
+DOCTOR H962
+So um do you check your feet every day?
+
+PATIENT H962
+Um not um.
+
+DOCTOR H962
+The bottoms of your feet.
+
+PATIENT H962
+Right, right.
+
+DOCTOR H962
+For blisters and things, okay.
+
+PATIENT H962
+I look at them.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+But not on a regular basis.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+So I can do that I guess.
+
+DOCTOR H962
+Yeah, yeah, regular okay.  Try to do that just because you fell.  Like there's obviously some issues going on in your feet right.  You use the cane, you have some neuropathy because of the diabetes and a lot of other issues so I don't want you falling more than you do.  It's easy to get cuts and sores that you don't realize.
+
+PATIENT H962
+Oh yeah, yeah.
+
+DOCTOR H962
+So you need to check your foot you know.  It's recommended for all diabetics to check their um, the bottoms of their feet every day.  The other thing I wanted to ask you, actually let's sorry keep going through your medications.  Do you still have the lithium that you're taking?
+
+PATIENT H962
+Yes.
+
+DOCTOR H962
+And you're following with Psych for those?
+
+PATIENT H962
+Yeah.
+
+DOCTOR H962
+Okay um okay and next we have the metoprolol 100 twice a day, that's for blood pressure and prostate.
+
+PATIENT H962
+Yes.
+
+DOCTOR H962
+Niacin 500, two tablets every day, that's for cholesterol.
+
+PATIENT H962
+I get that from you right, the niacin?
+
+DOCTOR H962
+Yeah.
+
+PATIENT H962
+That's for the yeah I get that.  Rosuvastatin.
+
+DOCTOR H962
+Rosuvastatin that's for cholesterol as well.  Um triamcinolone cream do you see Dermatology?
+
+PATIENT H962
+Yeah.
+
+DOCTOR H962
+Good.  Um venlafaxine that is also by Psych.
+
+PATIENT H962
+Uh-huh.
+
+DOCTOR H962
+And then you take Coumadin?
+
+PATIENT H962
+Yes.
+
+DOCTOR H962
+And what was the Coumadin again cause you've got a history of clots?
+
+PATIENT H962
+Yeah, Factor 5 Leiden.
+
+DOCTOR H962
+Okay um and Ambien, that's the Zolpidem for sleep.
+
+PATIENT H962
+Yes.
+
+DOCTOR H962
+Okay and then you have uh other medications that you don't take from here but you take fatty acids?
+
+PATIENT H962
+Yes um Omega 3.
+
+DOCTOR H962
+Yep that's fine and then multivitamins?
+
+PATIENT H962
+Yeah.
+
+DOCTOR H962
+And that's it.
+
+PATIENT H962
+Senior formula.
+
+DOCTOR H962
+Do you have any other medications that I missed?  I don't think so.
+
+PATIENT H962
+No.
+
+DOCTOR H962
+Okay I'm sorry; let me return this page really quick.  (Doctor makes phone call)
+
+PATIENT H962
+Um.  I ain't seen them in a while.
+
+DOCTOR H962
+You what?
+
+PATIENT H962
+I haven't seen them in a while.
+
+DOCTOR H962
+Yes you have to go back and see them once a year, all diabetics once a year.  You have to call and make an appointment.  Um I'm @@@.  Actually let me have you sit up here I'm gonna take your blood pressure again.  And you still have to get those records of your colonoscopy from Elmhurst in 2005 otherwise I'm just gonna give you a colonoscopy here.
+
+PATIENT H962
+Yeah.
+
+DOCTOR H962
+Okay open your mouth.
+
+PATIENT H962
+Ah.
+
+DOCTOR H962
+Can you take off your glasses for me?  Look at my nose.  Deep breaths.  Did you get any bruises or anything from when you fell since you're on Coumadin?
+
+PATIENT H962
+Um just the one from my arm, it was only a scrape.
+
+DOCTOR H962
+Have you always had?
+
+PATIENT H962
+Oh it's several years I've had those.
+
+DOCTOR H962
+Okay.  I want to do a few more tests.  Can you raise your eyebrows for me high okay good and then can you close your eyes shut tight, really tight and don't let me open them okay good and then can you smile good.  Can you stick out your tongue; can you move it from side to side?  Good and then one more time say ah.
+
+PATIENT H962
+Ah.
+
+DOCTOR H962
+Put your tongue down.  One more time ah.
+
+PATIENT H962
+Ah.
+
+DOCTOR H962
+Good and then can you feel me touching on both sides of your face?
+
+PATIENT H962
+Yeah.
+
+DOCTOR H962
+Okay I'm gonna make some noises by your ears; tell me which side you hear it on.  Do you hear it?
+
+PATIENT H962
+No.
+
+DOCTOR H962
+Do you hear this?  Has your hearing always been an issue?
+
+PATIENT H962
+Yeah.
+
+DOCTOR H962
+Do you hear this?
+
+PATIENT H962
+Oh I hear you now yeah.
+
+DOCTOR H962
+You can hear okay.  Both sides, one side?
+
+PATIENT H962
+Both sides.
+
+DOCTOR H962
+@@@.
+
+PATIENT H962
+Right now.
+
+DOCTOR H962
+No?
+
+PATIENT H962
+Now it's on the right side.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+Both sides.
+
+DOCTOR H962
+Okay.  Um can you put your glasses back on?  Okay bring your arms up like this, don't let me push, sorry.  Is that too painful on your shoulders?
+
+PATIENT H962
+Yeah.
+
+DOCTOR H962
+Okay, okay.  And remind me again what happened with the shoulders that's why, it was recent or have you always had this?
+
+PATIENT H962
+Um well I had, I had surgery on this side.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+For three, three torn tendons.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+And then the right side was always called diabetic neuropathy.
+
+DOCTOR H962
+Okay.  Can you squeeze my hands as tight as you can with your fingers?  Good.  I'm gonna lift your knee up straight then bend.  You can bend; no you can bend your knee, straing, good.  Great, bend good.  Lift your leg up against my hand, you can't really do that?  You've never been able to do that with me.
+
+PATIENT H962
+I have been trying.  I used to be strong in my legs.
+
+DOCTOR H962
+Okay.  Um let me look at your chart for a minute.  @@@ now?
+
+PATIENT H962
+Um no.
+
+DOCTOR H962
+No.  Okay your only labs that we got, your potassium is a little bit high 5.6 um and your glucose is very high, 546, not good.
+
+PATIENT H962
+What should it be?
+
+DOCTOR H962
+Uh like 100.  You're diabetic so it's gonna be higher.
+
+PATIENT H962
+Right.
+
+DOCTOR H962
+But 546 is really high so I'm expecting your hemoglobin A1c to be even worse today.  No it's not, 9.9.  Let me go quickly talk with my attending and see what we need to do.  I don't think that it's something critical that we have to like keep you here to fix the sugars but I do want you to see the pharmacist soon.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+When you take more insulin at home, so that when you check your sugars it's always less than 200.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+You know.  That's hard to figure out, that's why I'm saying I want you to see the pharmacist cause it's hard to just talk about doing it and after go home then you're gonna have questions about it and I can't see you for five weeks, that's not gonna help.  Um but normally we don't like to just increase tons of it cause we don't want you to have side effects or your sugars will go too low.
+
+PATIENT H962
+Oh sure.
+
+DOCTOR H962
+You know so at 546 you've got a lot of room for your sugars to go down um and you did not eat this morning correct?
+
+PATIENT H962
+Did not eat no.
+
+DOCTOR H962
+Okay.  Um hmm oh your blood pressure.  So it's the same 140/80.  You can sit over here.  You don't have any history of gout do you?
+
+PATIENT H962
+Yeah.
+
+DOCTOR H962
+You do.  You know when was that?
+
+PATIENT H962
+Um 85.
+
+DOCTOR H962
+And it was for sure gout?
+
+PATIENT H962
+Yeah, it was diagnosed yeah as gout and they did that needle@@@.  Is that lactic acid?
+
+DOCTOR H962
+Uric acid.
+
+PATIENT H962
+Uric acid.
+
+DOCTOR H962
+Uh-huh.  Okay.  I'll be right back.  Let me talk with my attending and uh find out what he wants to do.  And you were in a motor vehicle accident back in 1986 correct?
+
+PATIENT H962
+Yeah that's correct.
+
+DOCTOR H962
+Did you have any issues since then because of like has it affected your strength or anything like that?
+
+PATIENT H962
+Um yes.
+
+DOCTOR H962
+Okay.  And then you have that VP shunt correct?
+
+PATIENT H962
+Correct.  
+
+DOCTOR H962
+Okay, I'll be right back.
+
+DOCTOR OUT:  55:25  DOCTOR IN:  66:56
+
+DOCTOR H962
+Okay so a few things.  I'm gonna have the pharmacist call you and they'll try to see you within the next week.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+Okay but in the meantime we're gonna make a few changes to your Glargine, the one you take in the evening.
+
+PATIENT H962
+Uh-huh.
+
+DOCTOR H962
+How much are you taking now, you said 30?
+
+PATIENT H962
+30.
+
+DOCTOR H962
+Okay so you're gonna do 35, 35 units 30 minutes before dinner oh I'm sorry before bedtime and then the regular insulin.
+
+PATIENT H962
+Uh-huh.
+
+DOCTOR H962
+You're only taking it once in the evening correct?
+
+PATIENT H962
+Correct.
+
+DOCTOR H962
+Do you eat regular meals?  Breakfast, lunch, dinner?
+
+PATIENT H962
+Uh usually yeah.
+
+DOCTOR H962
+Okay so this is a shorter acting insulin so we can take it with every meal but you have to take it 30 minutes before your meal.
+
+PATIENT H962
+30 minutes before?
+
+DOCTOR H962
+Yeah.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+Cause it takes a little bit of time to kick in.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+But if you take it right when you start eating it's not really gonna help then you're gonna go low afterwards.  So what I want you to do and I'm gonna update this so they send you enough insulin to your house.  You don't have to pick it up today unless you want to, it's up to you.
+
+PATIENT H962
+Yeah I can sure.
+
+DOCTOR H962
+You want to pick it up today?  Okay so you're gonna take 5 units for breakfast 30 minutes before breakfast.  You're gonna take another 5 units 30 minutes before lunch and then you're gonna take the normal 12 that you take.  You're taking how much before dinner right now?
+
+PATIENT H962
+Um, um 20.
+
+DOCTOR H962
+20.  You can keep doing that, 20 units um.  What are your sugars in the morning when you wake up, what do you think?
+
+PATIENT H962
+Um 170.
+
+DOCTOR H962
+170.
+
+PATIENT H962
+17.
+
+DOCTOR H962
+117.
+
+PATIENT H962
+Hmm.
+
+DOCTOR H962
+You can keep on the 20 units um before dinner.  If you're waking up and you're noticing that your blood sugar is below 100 then obviously you'll have to cut back on some of this insulin.  You can call in, hopefully the pharmacist will see you soon but the point is that you have, your glucose this morning is 546, that's way too high.  So that means that most of the time you're probably in the morning your sugars are like in the 300s so you need a lot more insulin.  But we can’t just pound you with tons.
+
+PATIENT H962
+Right.
+
+DOCTOR H962
+I don't want you to go through that.
+
+PATIENT H962
+Right, right, right.
+
+DOCTOR H962
+So you're gonna do this until you see the pharmacist okay.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+And you need to bring me the records of your colonoscopy so I'm gonna write that on here, bring colonoscopy records along with, the most important part is pathology.  So once you get a colonoscopy done, if they ever remove anything, polyps, they send it down to the Lab, the pathology and they cut it up and look at it under a microscope.  That's what pathology is and that's the most important part.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+You can't tell by the naked eye what the polyp is, there's different kinds of polyps.
+
+PATIENT H962
+Right, right, okay.
+
+DOCTOR H962
+And that tells us when you need to get screened for another colonoscopy okay.  Um I will put all these orders in.  You can go down to the Pharmacy if you want and get the insulin today.  Do you want to pick it up?
+
+PATIENT H962
+Yeah.
+
+DOCTOR H962
+Okay so I will put that in there, picking it up and I'll see you back.  I want to see you sooner just because we have a lot of issues to deal with; mostly the diabetes so I want to make sure it's corrected.  Um so um I'm gonna say three months.
+
+PATIENT H962
+Three months okay.
+
+DOCTOR H962
+Um okay.  So I'll give this to you.  Do you have any other questions?
+
+PATIENT H962
+No.
+
+DOCTOR H962
+Um I didn't check your cholesterol this time cause I didn't need to.  The other thing you can do if you're having pain with the shoulders because you fell.
+
+PATIENT H962
+Uh-huh.
+
+DOCTOR H962
+Let me double check here, um your liver enzymes were a little bit higher so I don't know if you should still be taking Tylenol but you can take something like ibuprofen if you need to or Motrin so avoid Tylenol but um and you're already taking some muscle relaxants.
+
+PATIENT H962
+Hmm.
+
+DOCTOR H962
+You know all that stuff helps.  If you need to you can take one extra and hopefully this pain issue, the soreness will kind of go away okay.  I'm not really worried that you broke any bones or anything like that.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+Unless you tell me you can't breathe because you're having so much pain, but that's not true is it?
+
+PATIENT H962
+No.
+
+DOCTOR H962
+Okay um but if the pain is there, it's not going away, you notice any new bruises or anything like that you have to call and come in.
+
+PATIENT H962
+Okay.
+
+DOCTOR H962
+Potentially come in, you might have to get x-rays or something.
+
+PATIENT H962
+The only time I have um uh pain in my chest when breathing is when I go to the extreme, take a really deep breath.
+
+DOCTOR H962
+Okay.
+
+PATIENT H962
+But when I'm normal breath I don't feel pain.
+
+DOCTOR H962
+Okay is that like when I was asking you to take deep breaths and I was listening to your lungs or anything?  Try to take a deep breath now.
+
+PATIENT H962
+It hurts.
+
+DOCTOR H962
+Where does it hurt?
+
+PATIENT H962
+Like right in here.
+
+DOCTOR H962
+You fell on this side?
+
+PATIENT H962
+Yes.
+
+DOCTOR H962
+Okay.  Maybe we should just go ahead and do an x-ray of the ribs to see if you broke anything.  What do you do for a broken rib, not much.  You just have to handle, manage the pain.
+
+PATIENT H962
+Right.
+
+DOCTOR H962
+And try to make sure that you're breathing normally cause people when they have pain they don't breathe well enough and then your lungs kind of get weaker and it's easier to get infections and things like that.  So we can do an x-ray of the ribs but that would be today so you can go maybe pick up a sticker from Pharmacy and then go get your x-ray and go back to Pharmacy so that they have your medications ready by that time.  So let me put that in, a chest x-ray.
+
+PATIENT H962
+I usually take a walk, after I put in my thing at the Pharmacy, that's the best thing isn't it.  People are always complaining.
+
+DOCTOR H962
+Yeah alright.  I'll give this to you and you can go down to the counter.
+
+PATIENT H962
+Do I take this to the checkout?
+
+DOCTOR H962
+Yep, go around the corner.  You're gonna go down to your x-ray; actually let me write that on here.  They'll take you @@@.
+
+PATIENT H962
+Okay, thank you.
+
+DOCTOR H962
+Okay alright.
+
+PATIENT H962
+Okay, okay.
+
+PATIENT LEAVES:  74:19
+
+Time is 10:54.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  38302
+TRANSACTION # 578-10-2-316-0103

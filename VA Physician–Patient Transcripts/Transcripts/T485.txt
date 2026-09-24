@@ -1,0 +1,611 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR T485
+PATIENT.
+
+PATIENT T485
+PATIENT thank you, okay doc.  
+
+DOCTOR T485
+Hi DOCTOR come on back.
+
+PATIENT T485
+Yeah I know you guys get in trouble keeping my appointments you know.
+
+DOCTOR T485
+Okay, alright, that's good. Alright.  How's everything going today?
+
+PATIENT T485
+What was happening @@@ Chicago. I was out in LA for forty years I came back to Chicago 2008 @@@ West LA. 
+
+DOCTOR T485
+Okay.
+
+PATIENT T485
+So I'm in a slumber house, wake up in the morning and got out of bed and just felt the worst pain that I ever felt in my life.
+
+DOCTOR T485
+Okay.
+
+PATIENT T485
+Come to find out I had two slipped disks, L4 and L5.
+
+DOCTOR T485
+Okay.
+
+PATIENT T485
+Back in Chicago I’ve been back since August 2008 and due to my, I had issues with substance abuse.
+
+DOCTOR T485
+Right.
+
+PATIENT T485
+Uh un stabile lifestyle and I'm gonna, I can be this concise, I can focus but this back is killing me.  I haven't gotten it taken care of yet.
+
+DOCTOR T485
+@@@.
+
+PATIENT T485
+Now.  I had an MRI and a uh some x-rays at West LA VA before I came home in August 2008.  I don’t know if you can pull that up but here I think I've had at least the x-rays done on the back, but didn't get an MRI at Jesse Brown since I've been back in Chicago and I really want to get this taken care of.  It's really bothering me.
+
+DOCTOR T485
+Okay.
+
+PATIENT T485
+It's just, I mean the last.
+
+DOCTOR T485
+Well it sounds like you have arthritis in your back.
+
+PATIENT T485
+You know what, I was @@@.
+
+DOCTOR T485
+And um 
+
+PATIENT T485
+How did you come to this conclusion?  Did you just, just by your knowledge?
+
+DOCTOR T485
+Yeah, yeah just by what you’re telling me.
+
+PATIENT T485
+Yeah.  Someone said that I had an x-ray done at a hospital.
+
+DOCTOR T485
+You know we could still look.
+
+PATIENT T485
+And they said, they pretty much thought it was arthritis too.
+
+DOCTOR T485
+Okay.  Well one thing at a time though and we haven't seen you.
+
+PATIENT T485
+Exactly.
+
+DOCTOR T485
+In a follow-up visit in quite some.
+
+PATIENT T485
+Exactly.
+
+DOCTOR T485
+So today, let's just kind of get you plugged back into the system.
+
+PATIENT T485
+Okay sounds good doc.
+
+DOCTOR T485
+Uh it looks like you're on, you know, a number of medications.
+
+PATIENT T485
+Quite a list.
+
+DOCTOR T485
+For blood pressure, diabetes, asthma uh, probably what we're gonna follow you here in the General Medicine Clinic for.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+What do you take for your blood pressure?
+
+PATIENT T485
+I take uh lisinopril.
+
+DOCTOR T485
+Uh-huh.
+
+PATIENT T485
+I think its 40 mg.
+
+DOCTOR T485
+It is.
+
+PATIENT T485
+Once a day and metoprolol.  I can't pronounce it.
+
+DOCTOR T485
+Metoprolol.
+
+PATIENT T485
+Yeah I take, uh I don't how much is the medicine but it should be in the computer on my.
+
+DOCTOR T485
+Okay.
+
+PATIENT T485
+Yeah.
+
+DOCTOR T485
+How about the diabetes?  What are you taking for it?
+
+PATIENT T485
+They put me on insulin the last time I was here.  The doctor put me on insulin.
+
+DOCTOR T485
+How much do you take?
+
+PATIENT T485
+I take 48 of 70/30 NovoLog.
+
+DOCTOR T485
+Uh-huh.
+
+PATIENT T485
+48 in the morning and 46 at night.
+
+DOCTOR T485
+Okay.  Uh and what have your sugars been running?
+
+PATIENT T485
+My sugar's been running from like 130 to 160, 170, which is a little high but.
+
+DOCTOR T485
+Is that before you eat or after you eat?
+
+PATIENT T485
+This is after I eat.
+
+DOCTOR T485
+Okay.  What are they usually before you eat?
+
+PATIENT T485
+Before I eat they go to 190, 210, 220.
+
+DOCTOR T485
+So before you eat the blood sugars are higher?
+
+PATIENT T485
+Um, okay let me think about this um.
+
+DOCTOR T485
+Do you happen to have blood sugar journal?
+
+PATIENT T485
+I didn't bring it with me, I forgot the glucometer, I left that at home.
+
+DOCTOR T485
+Okay.
+
+PATIENT T485
+But usually the sugars, they're higher before I eat.
+
+DOCTOR T485
+It doesn't make any sense.
+
+PATIENT T485
+In other words, after I, okay when I test my blood sugar before I take the insulin it's usually high 130, 140, its usually out of the normal range.
+
+DOCTOR T485
+Okay.
+
+PATIENT T485
+And so I'm testing basically once twice a day is that good or should I be testing more often?
+
+DOCTOR T485
+Well it depends how stable they are you know.  If your blood sugars are usually stable then you only need to probably check twice a day.
+
+PATIENT T485
+But.
+
+DOCTOR T485
+But if they're kind of up and down you should check more than that.
+
+PATIENT T485
+Uh okay, so maybe I need to do what uh four times a day?
+
+DOCTOR T485
+Well it depends you know.
+
+PATIENT T485
+Well they've been running pretty decent.  In other words, I cut back and you know there's some things I know I can do.  I cut back on the cheating.
+
+DOCTOR T485
+Hang on. Any episodes of low sugars?
+
+PATIENT T485
+No.
+
+DOCTOR T485
+Okay, good.  Alright.  Now asthma wise how's your breathing?
+
+PATIENT T485
+My breathing has been uh it's been good.  I haven't had an asthma attack in a couple of years.
+
+DOCTOR T485
+Uh what are you taking for the asthma?
+
+PATIENT T485
+Asthma, I take the steroid inhaler.
+
+DOCTOR T485
+Okay.
+
+PATIENT T485
+And the Proventil inhaler.  I'm out of my inhaler.
+
+DOCTOR T485
+Sure, no problem.
+
+PATIENT T485
+Yeah I need some med refills.
+
+DOCTOR T485
+Okay we can definitely do that.  Um so like I said you know I was, with this visit, I'd really like to get you plugged back into the system.
+
+PATIENT T485
+Okay.  Okay I understand.
+
+DOCTOR T485
+Let's establish some you know baseline diabetes labs on your.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+Let's check an average sugar level, let's refill your meds.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+Your blood pressure was very good today and I hope you're very happy about that uh and then we need to do some health maintenance things.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+Uh you're over the age of 50 so you need a colonoscopy.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+To check for colon cancer.
+
+PATIENT T485
+Now what does that entail, the colonoscopy?  Is that when they, I know there's a couple of ways they can go but they use the instrument?
+
+DOCTOR T485
+Well they take a fiberoptic camera; it's about the size of a pen.
+
+PATIENT T485
+Uh-huh.
+
+DOCTOR T485
+They put it up your bottom.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+Where we know @@@ colon cancer.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+Cause really, it's a very good test, it saves lots of lives.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+So I would recommend it.
+
+PATIENT T485
+Okay sure.
+
+DOCTOR T485
+Um the other thing is that if you're a diabetic you need an eye exam once a year so I want to schedule you for an eye exam.
+
+PATIENT T485
+Yeah I need it, yeah I need it cause I need new glasses anyway.
+
+DOCTOR T485
+Okay.
+
+PATIENT T485
+So that would be good.
+
+DOCTOR T485
+And then uh the third thing is that uh we'll check the cholesterol today so.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+Alright, alright.  Let's just see if there's anything else that we need.  Now this back pain, I’m happy to do an x-ray.  We don't have one in the system so let's do an x-ray to start out with before we jump to an MRI.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+And then we'll go from there.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+Okay.  Well if you'll have a seat, let me take a look at you here.  Where you living these days?
+
+PATIENT T485
+I'm living in Harvey with my sister.
+
+DOCTOR T485
+Okay.
+
+PATIENT T485
+On 55th and 3rd on @@@.
+
+DOCTOR T485
+@@@ I hear you, I got it.  Alright show me where you're having most of the pain would you say.
+
+PATIENT T485
+Right in this lower area here.
+
+DOCTOR T485
+Is it worse when you walk or sit or stand?
+
+PATIENT T485
+It's um, its worse when I walk.  It's worse when I walk and I had total right hip replacement.
+
+DOCTOR T485
+Hmm.
+
+PATIENT T485
+In 2008 and 2006.
+
+DOCTOR T485
+Some deep breaths, nice deep breaths.  Just breathe normal for me.  Are you able to examine your feet every day?
+
+PATIENT T485
+Uh yeah, yeah.
+
+DOCTOR T485
+Can you take your shoes and socks off so I could see them?  You can sit back down there yeah.  Uh the reason we're so adamant about this is diabetes is the number one cause of amputations in this country.
+
+PATIENT T485
+Right.
+
+DOCTOR T485
+So it's very important for all diabetics to check their feet every day.
+
+PATIENT T485
+Every day.
+
+DOCTOR T485
+To be very careful about any kind of ulcers that develop.
+
+PATIENT T485
+Alright, you want both of them?
+
+DOCTOR T485
+Yeah I want both of them, you gotta check both of them.
+
+PATIENT T485
+I don't know, I had to go check it before I came up to see you.  I need some lotion, they're pretty dry.
+
+DOCTOR T485
+Well lotion is not as important.  You really just.
+
+PATIENT T485
+Check them for sores and.
+
+DOCTOR T485
+You gotta make sure that there's no ulcers.  We see, I see tons of diabetics who've lost feet, legs, all that kind of stuff.
+
+PATIENT T485
+What causes the amputations?
+
+DOCTOR T485
+It's the diabetes.  The high sugar levels.
+
+PATIENT T485
+Yes.
+
+DOCTOR T485
+Gets into the nerves and it destroys the nerves of the feet.
+
+PATIENT T485
+Oh I see okay.
+
+DOCTOR T485
+Okay and that's what, people need some amputations.  How's your feeling over here?
+
+PATIENT T485
+Oh good.  I was getting a little tingling.
+
+DOCTOR T485
+Can you feel this?
+
+PATIENT T485
+Yes.
+
+DOCTOR T485
+Okay how about this side can you feel this?
+
+PATIENT T485
+Yes.
+
+DOCTOR T485
+Alright good, good, good, good.  Alright so PATIENT I think that's our plan for today.  We got our work cut out for us.
+
+PATIENT T485
+Well I got all the time; whatever you want me to do I'll take care of.
+
+DOCTOR T485
+Yeah so we'll schedule you for these tests um and then uh we'll see you back uh you know after all these tests are done and then you know we'll uh you know kind of reconvene, see what they show and go from there.
+
+PATIENT T485
+So how long do you think in terms of a return appointment?
+
+DOCTOR T485
+Oh let's see, you need a colonoscopy, eye exam, these labs and we'll get the x-ray so it's gonna be, by the time you get all these appointments and the tests are done and back in the computer it's gonna be about a couple of months.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+So we'll see you probably back in two months.  In the meantime I'll make sure you got enough medicines.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+Uh do you have a psychiatrist?
+
+PATIENT T485
+Uh I'm hooked up with PACC; they just referred me to someone.
+
+DOCTOR T485
+Good, good, good, good, good.
+
+PATIENT T485
+And they've got me on Depakote and Restoril.
+
+DOCTOR T485
+Yeah, yeah.
+
+PATIENT T485
+I've got to go see somebody over there cause I need some medicine.
+
+DOCTOR T485
+Alright, alright let me get some papers here for you and I'll be right back.
+
+PATIENT T485
+Okay.  So will you be my regular doctor?
+
+DOCTOR T485
+Yes sir.
+
+PATIENT T485
+Okay great.
+
+(DOCTOR OUT:  34:16  DOCTOR IN:  42:50)
+
+DOCTOR T485
+Alright PATIENT I think we can get you set-up for all this stuff today.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+@@@ insulin titration, okay.  You're going to give this to the lady at the front desk, who will give you these appointments.
+
+PATIENT T485
+Okay on my way out.
+
+DOCTOR T485
+Right on the way out.
+
+PATIENT T485
+Okay.
+
+DOCTOR T485
+Uh the Eye Clinic, uh GI Clinic, that's the colonoscopy.
+
+PATIENT T485
+Uh-huh.
+
+DOCTOR T485
+Okay and then I want you to come back and see the Pharm-D, the pharmacist in two weeks and when you come back for this make sure you bring your glucometer, your blood sugar diary so we can titrate your insulin.
+
+PATIENT T485
+Okay.  So come back in two weeks for that.
+
+DOCTOR T485
+Yeah.  They'll give you all these appointments today.
+
+PATIENT T485
+Okay, okay.
+
+DOCTOR T485
+But I'm just kind of letting you know.
+
+PATIENT T485
+And then you got to do the refills.
+
+DOCTOR T485
+I'll refill your stuff.  Uh they won't release your medicine until you get your blood drawn to make sure you're.
+
+PATIENT T485
+Okay I'm gonna go first for the blood draw.
+
+DOCTOR T485
+Yeah okay.
+
+PATIENT T485
+Okay.  @@@.
+
+DOCTOR T485
+DOCTOR @@@ make sure of.  We'll get @@@.
+
+PATIENT T485
+If you're a nice guy. I really appreciate it.
+
+DOCTOR T485
+Oh no problem, my pleasure.  @@@.
+
+PATIENT T485
+I leave it every time.
+
+DOCTOR T485
+Okay.
+
+PATIENT T485
+If I @@@.
+
+DOCTOR T485
+There you go, you need this uh.
+
+PATIENT T485
+So take this to the desk and then go to get the blood drawn and then I can go to Pharmacy.
+
+DOCTOR T485
+Yes sir.
+
+PATIENT T485
+Alright thank you so much.
+
+DOCTOR T485
+Take care.  Get the x-ray, right over here.
+
+PATIENT T485
+Alright.
+
+DOCTOR T485
+Straight up.
+
+PATIENT T485
+Alright thank you.
+
+PATIENT LEAVES:  44:33.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275391
+TRANSACTION # 578-10-2-316-0103

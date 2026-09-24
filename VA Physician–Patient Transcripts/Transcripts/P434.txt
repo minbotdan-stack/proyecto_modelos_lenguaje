@@ -1,0 +1,326 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR P434 
+How are you today?
+
+PATIENT P434
+Hello.
+
+DOCTOR P434
+Never mind the skin @@@.
+
+PATIENT P434
+@@@.
+
+DOCTOR P434
+How you doing?  Alright.  Okay, so how you been since the last time we saw you?  Looks like it's been since February.
+
+PATIENT P434
+Yeah, alright.
+
+DOCTOR P434
+Doing alright?
+
+PATIENT P434
+Yeah.
+
+DOCTOR P434
+Good.  Um yeah I was just looking at the last note uh; we wanted to check a uric acid level in your blood.
+
+PATIENT P434
+Right.
+
+DOCTOR P434
+For your gout and it was a little elevated.  Uh we like to see it around 6 or less.  Yours was at 7.5.  When's the last time, when's the last time you've had a gout flare do you remember?
+
+PATIENT P434
+It was back in the wintertime.
+
+DOCTOR P434
+Back in the wintertime.
+
+PATIENT P434
+Yeah.
+
+DOCTOR P434
+Okay.  How many do you think you have a year, like on bad years, how many gout flares did you think you have?
+
+PATIENT P434
+I have, what I'm finding out now is that uh it all depends on what I eat.  If I half way eat right it don't bother me.
+
+DOCTOR P434
+Okay.
+
+PATIENT P434
+So I would say maybe two.
+
+DOCTOR P434
+Okay.  That's not bad.
+
+PATIENT P434
+Uh uh.
+
+DOCTOR P434
+The reason I ask is that um you know when you start to get to three gout flares a year that's when we start to think about preventative medicines that help reduce the level of uric acid in the blood.
+
+PATIENT P434
+Right.
+
+DOCTOR P434
+Just to prevent but if you think you can manage your gout flares with just diet modification then we may not need to do that.  What do you think?
+
+PATIENT P434
+I think I can.
+
+DOCTOR P434
+You think you can do that?
+
+PATIENT P434
+Okay.  As long as it's taken, what they do is that you know before you gonna flare-up.
+
+DOCTOR P434
+Right, right and you have some colchicine at home?  Do you have some pills if you have a flare to take?  Like just in case?
+
+PATIENT P434
+Uh I don't think so.
+
+DOCTOR P434
+Two pills, 0.6 mg, real small.
+
+PATIENT P434
+I don't think so.
+
+DOCTOR P434
+Okay that might be a good thing.  What did you take the last time you had a flare?
+
+PATIENT P434
+Shit I don't remember.
+
+DOCTOR P434
+Did you go to the ER?
+
+PATIENT P434
+Uh yeah.
+
+DOCTOR P434
+Have you been able to cut back on your smoking at all?
+
+PATIENT P434
+Uh yeah.
+
+DOCTOR P434
+Good what are you back to?
+
+PATIENT P434
+A pack or less than a pack.
+
+DOCTOR P434
+From a half a pack?  That is good and as far as your medications go how are you doing on your medications?
+
+PATIENT P434
+Alright.
+
+DOCTOR P434
+Yeah your blood pressure's really good today.
+
+PATIENT P434
+Yeah.
+
+DOCTOR P434
+So we don’t need to make any changes.  Do you get your meds filled at another hospital or outside?
+
+PATIENT P434
+Walgreens.
+
+DOCTOR P434
+At Walgreens.  Do you have enough refills?
+
+PATIENT P434
+Uh I don't even know.  
+
+DOCTOR P434
+Not sure?
+
+PATIENT P434
+I think I do because they uh, the last doctor put uh.
+
+DOCTOR P434
+A year, good. I like it when they do that.
+
+PATIENT P434
+Yep.
+
+DOCTOR P434
+Alright well, yeah @@@.  How's your knee doing?
+
+PATIENT P434
+Doing great so far.  It hasn't bugged me but I got a question to ask you.
+
+DOCTOR P434
+Sure.
+
+PATIENT P434
+Uh like uh, if I'm having sex or something I don't rise.  If I take Viagra I still don't rise.
+
+DOCTOR P434
+Oh okay.  Uh and you're taking the 100 mg tablets?
+
+PATIENT P434
+Uh-huh.
+
+DOCTOR P434
+Do you want to try a different one like Cialis?
+
+PATIENT P434
+Do you think that would uh?
+
+DOCTOR P434
+Yeah I think people have been having pretty good luck with that one.
+
+PATIENT P434
+Yeah.
+
+DOCTOR P434
+You want to try that instead?
+
+PATIENT P434
+Uh-huh.
+
+DOCTOR P434
+Okay.  We'll try a higher dose of the, you want to get it through the VA or do you want to get it at Walgreens?
+
+PATIENT P434
+Do they fill them here?
+
+DOCTOR P434
+Yeah but they only give you like two a month.  Is that enough for you?  It's free.  They're expensive that's why I asked.  So you could try, you could do the two a month and see if that worked.
+
+PATIENT P434
+Okay.
+
+DOCTOR P434
+And if you want we can get you more.
+
+PATIENT P434
+You said they expensive so I want them from here.
+
+DOCTOR P434
+Yeah.  They're expensive, yeah they're expensive.  I mean I can write you a prescription and you can get as many as you want at Walgreens.
+
+PATIENT P434
+No.
+
+DOCTOR P434
+They’re not.
+
+PATIENT P434
+No.
+
+DOCTOR P434
+They're not cheap.
+
+PATIENT P434
+I know cause the Viagra was real expensive.
+
+DOCTOR P434
+Yeah and don't take, you now don't take the two of them.
+
+PATIENT P434
+No.
+
+DOCTOR P434
+Cause they can drop your blood pressure.
+
+PATIENT P434
+No.
+
+DOCTOR P434
+Just take the one or the other.  Alright.  Its Levitra actually is the one we have and the high dose of it is 20 mg tablet usually works for people so we'll do that okay.
+
+PATIENT P434
+I hope it works so I can enjoy some finally.
+
+DOCTOR P434
+I know, I know.  I got to get you to quit smoking though too, that's gonna make a difference.
+
+PATIENT P434
+Yeah.
+
+DOCTOR P434
+You know.  The blood vessels.  The blood vessels just like they go to the heart you know and they get hardened and clogged they don't, things don't work as well.  Well we'll try this and see.  Most patients have had pretty good luck with the high doses of this.  Alright.  Deep breath.  Okay, very good.  Let me talk to DOCTOR and I'll be right back okay.
+
+PATIENT P434
+Okay.
+
+(DOCTOR OUT:  13:46  DOCTOR IN:  16:46)
+
+DOCTOR P434
+Okay.  So, I'm gonna write you a prescription as well for a medicine that's called colchicine.  It's one of the oldest medications on record.  They've using it to treat gout for centuries so uh the way it works is if you have a flare in your toe, knees, whatever, um you take one of the pills and then you can take another one an hour later but just take a couple of them.  Use it as directed.  Um and that might save you a trip to the Emergency Room if you have a flare.  It's just a nice thing to have.  Now the pill has gone up in price so I'm gonna fill it if you want to get it, get it but I'm not exactly sure what the VA's pharmacy is.  
+
+PATIENT P434
+I don't want to get that from here.
+
+DOCTOR P434
+You want to get that from.
+
+PATIENT P434
+Walgreens.
+
+DOCTOR P434
+From Walgreens.
+
+PATIENT P434
+Yeah.  See my prescriptions is way cheaper at Walgreens than they are here.
+
+DOCTOR P434
+Is that right?
+
+PATIENT P434
+But for Viagra and stuff like that the insurance don’t accept it.  
+
+DOCTOR P434
+What kind of insurance do you have?
+
+PATIENT P434
+Uh Medicaid.
+
+DOCTOR P434
+Oh okay.  So only take three of these tablets, but you can take them once an hour.
+
+PATIENT P434
+Right.
+
+DOCTOR P434
+It usually does the trick.  You'll come back and see us in four months.  Is that okay with you?
+
+PATIENT P434
+Yeah.
+
+DOCTOR P434
+Alright.  That should be all.  Pick them up at the Pharmacy and actually they'll mail those other pills to you and these you can just pick up at the window.  
+
+PATIENT P434
+Yeah, I'm gonna pick them up at the Pharmacy.
+
+DOCTOR P434
+Pick them up there.
+
+PATIENT P434
+Sure yeah.
+
+DOCTOR P434
+It's in the computer, just give me a minute.
+
+PATIENT P434
+Okay.  Thank you.
+
+DOCTOR P434
+Take care.
+
+PATIENT LEAVES:  22:33
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286152
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,567 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR P355
+PATIENT?
+
+PATIENT P355
+How you doing?
+
+DOCTOR P355
+Good.  How are you?
+
+PATIENT P355
+Pretty good.
+
+DOCTOR P355
+@@@.
+
+PATIENT P355
+Well I'm here to see DOCTOR.
+
+DOCTOR P355
+I'll @@@ your doctor.
+
+PATIENT P355
+I got have a letter from here so I get @@@.
+
+DOCTOR P355
+Right.  I'm @@@.
+
+PATIENT P355
+Cause they told me this yesterday.  I need the letter today.
+
+DOCTOR P355
+@@@.
+
+PATIENT P355
+@@@ letter @@@.
+
+DOCTOR P355
+@@@.
+
+PATIENT P355
+But that's the one; I can't be out there in the street.  I got ankle braces on @@@ and you know it's bad out there now.  So what's up?
+
+DOCTOR P355
+Nothing, how you doing?
+
+PATIENT P355
+I'm doing great.
+
+DOCTOR P355
+Good.
+
+PATIENT P355
+Um, podiatry found out I had arthritis in both ankles we shot some cortisone in there.
+
+DOCTOR P355
+When?
+
+PATIENT P355
+Uh last week.
+
+DOCTOR P355
+How do they feel?
+
+PATIENT P355
+Good.  
+
+DOCTOR P355
+Did you get x-rays done?
+
+PATIENT P355
+I got uh the right one done.  I get the left one done today.
+
+DOCTOR P355
+Oh okay.
+
+PATIENT P355
+No um, as far as um I need some alcohol pads.
+
+DOCTOR P355
+Okay.
+
+PATIENT P355
+Cause I'm running low on them.
+
+DOCTOR P355
+No problem.
+
+PATIENT P355
+I'm running low on my um metformin.
+
+DOCTOR P355
+Okay.  So let's see you're taking the Glargine insulin right?
+
+PATIENT P355
+Yes.
+
+DOCTOR P355
+How many units?
+
+PATIENT P355
+125.
+
+DOCTOR P355
+Twice a day?
+
+PATIENT P355
+Twice a day.
+
+DOCTOR P355
+And how much of the Aspart?
+
+PATIENT P355
+Um 40 each.
+
+DOCTOR P355
+40 with each meal?
+
+PATIENT P355
+With each meal right.
+
+DOCTOR P355
+So three times a day.  Alright.  And how are your sugars running?
+
+PATIENT P355
+Ooh man.  I ain't never see them that low.
+
+DOCTOR P355
+How low are they?
+
+PATIENT P355
+80, 90.  One time I had 66 and I had to get me some orange juice.
+
+DOCTOR P355
+That only happen once?
+
+PATIENT P355
+About three times. 
+
+DOCTOR P355
+About three times.
+
+PATIENT P355
+Yeah.
+
+DOCTOR P355
+When were those lows sugars at?
+
+PATIENT P355
+Well you know they got me on this strict diet of vegetables.  I don't eat no red meat.
+
+DOCTOR P355
+Okay.
+
+PATIENT P355
+Chicken, fish, turkey and I know when I eat vegetables my sugars be down but I keep a carton of orange juice just in case.
+
+DOCTOR P355
+Okay.
+
+PATIENT P355
+This morning.
+
+DOCTOR P355
+Do you feel shaky and all that stuff?
+
+PATIENT P355
+Yeah, yeah, yeah.
+
+DOCTOR P355
+And that only happens when you go down to 60?
+
+PATIENT P355
+Yeah.
+
+DOCTOR P355
+Okay.  In 70s, 80s, those are perfect actually but a little,  you know you're gonna get a little, when do these low ones happen?
+
+PATIENT P355
+In the morning.
+
+DOCTOR P355
+First thing in the morning?  Okay.
+
+PATIENT P355
+And last night it was 100 and I was shocked.  
+
+DOCTOR P355
+100 is good, that's where we @@@ good.
+
+PATIENT P355
+Well I been trying.
+
+DOCTOR P355
+But the 66 and it’s all first thing in the morning.
+
+PATIENT P355
+First thing in the morning, never at night.
+
+DOCTOR P355
+Oh okay.  Have you, do you check it other times during the day?
+
+PATIENT P355
+Uh uh.
+
+DOCTOR P355
+Just first thing in the morning.
+
+PATIENT P355
+First thing in the morning.  Sometimes my nurse that I have with this home care, she may come in, she come in once a week and checks it.
+
+DOCTOR P355
+Okay.  Well let's see.  So you need to start, if you can, start checking it some other times so before meals, couple hours after meals, because you're, you're @@@ are still a little too high so.
+
+PATIENT P355
+Okay.
+
+DOCTOR P355
+You might need like, you might need more coverage during your meals okay.
+
+PATIENT P355
+Okay.
+
+DOCTOR P355
+So.
+
+PATIENT P355
+Cause I'm watching what I'm eating.
+
+DOCTOR P355
+Yeah that's good.
+
+PATIENT P355
+And they like, like I day, they been down, I’ve watching that.  I don't my sugars to up no higher than what they been.
+
+DOCTOR P355
+Yeah.
+
+PATIENT P355
+And I'm baking my chicken, boiling, broiling, no fried food.
+
+DOCTOR P355
+Good.
+
+PATIENT P355
+And I feel good.  I exercise this morning, I spend 20 minutes every morning when I wake up I get into my routine, I exercise.  
+
+DOCTOR P355
+And the biggest thing is just you know losing weight I’m sure everyone has told you that already.
+
+PATIENT P355
+Yeah I lost 28 pounds.
+
+DOCTOR P355
+So you're still taking the metformin huh?
+
+PATIENT P355
+Yeah but I'm getting low on it, if they can mail it and mail my alcohol pads, that's all I need.
+
+DOCTOR P355
+Alright.  Your blood pressure today is perfect. 
+
+PATIENT P355
+I'm doing something right ain't I doc?
+
+DOCTOR P355
+Yeah your blood pressure is good.  Let me see.  You're urinating alright?
+
+PATIENT P355
+Uh-huh.
+
+DOCTOR P355
+How's the gout?
+
+PATIENT P355
+Well it's clearing up.  I feel good um, taking that um.
+
+DOCTOR P355
+Allopurinol?
+
+PATIENT P355
+Yes, two tabs, two pills.
+
+DOCTOR P355
+Two pills a day.
+
+PATIENT P355
+Yes sir.
+
+DOCTOR P355
+So is that 100 mg?
+
+PATIENT P355
+Yes.  And it’s helping.
+
+DOCTOR P355
+Okay.  How long have you been taking that?
+
+PATIENT P355
+Ever since I got off the other pills, I don't know the name of it; it's a medication but uh.
+
+DOCTOR P355
+@@@ the prednisone?
+
+PATIENT P355
+Yeah prednisone.
+
+DOCTOR P355
+Okay.  So you've been taking it for like a month?
+
+PATIENT P355
+Uh-huh.
+
+DOCTOR P355
+Allopurinol.
+
+PATIENT P355
+So how long will that take affect?
+
+DOCTOR P355
+Uh, it's already, it should have already, wait so when'd you start taking it like December or January?
+
+PATIENT P355
+I think it was January.
+
+DOCTOR P355
+Started taking in January?
+
+PATIENT P355
+Cause it's almost been a month since I had an attack.
+
+DOCTOR P355
+And yeah it was like, find out, the @@@ were done January 4th so you probably started taking a week after that.  We can recheck the uric acid levels, that's how we test, that's kind of what causes gout and we can tell.  You have to get that down to a certain level so we'll see how much lower it's gone.
+
+PATIENT P355
+What is that, so what they got to do?
+
+DOCTOR P355
+It's just a blood test.
+
+PATIENT P355
+I thought they did that already.
+
+DOCTOR P355
+But you had just started taking right when that last blood test was taken?  We don't have to get it done today, next week if you're around some other time you can get it done.
+
+PATIENT P355
+Well I'm getting here on the 24th.
+
+DOCTOR P355
+Yeah that's fine, there's no hurry.
+
+PATIENT P355
+Okay.
+
+DOCTOR P355
+And uh we can go up on it if we need to on that so we want to prevent any other attacks.
+
+PATIENT P355
+Geez, I don't want to.  You know what, like I told DOCTOR I don't be in that chair.  I only use that chair for extreme purposes and when I couldn't walk and I don't want to have no more gout attacks.  I'm leaving that red meat and shellfish alone.  I'm eating right.
+
+DOCTOR P355
+How’s the breathing going?
+
+PATIENT P355
+Everything’s good.
+
+DOCTOR P355
+And you're using your CPAP every night?
+
+PATIENT P355
+Yes.  I got a sleep study the 24th.
+
+DOCTOR P355
+Oh okay.  And you said you've lost some weight?
+
+PATIENT P355
+28 pounds.
+
+DOCTOR P355
+So you're at 374 today.
+
+PATIENT P355
+That's because I got these shoes on.
+
+DOCTOR P355
+Oh okay.
+
+PATIENT P355
+The diabetic shoes, oh boy.  
+
+DOCTOR P355
+All right, I’ll be right back, okay?
+
+PATIENT P355
+Um yes, @@@.
+
+DOCTOR P355
+Transportation letter.
+
+PATIENT P355
+Yes please.  I know he gonna be glad to hear from me.
+
+DOCTOR P355
+@@@.
+
+PATIENT P355
+Thank you.
+
+DOCTOR P355
+@@@.  I mean did you smoke before?
+
+PATIENT P355
+I quit smoking 23 years ago, I mean 17 years, I quit drinking 23 years ago.
+
+DOCTOR P355
+20 years, smoked a bunch before?
+
+PATIENT P355
+Yes.  November 2nd I quit smoking and December 31st of 88, I quit drinking and drugging.  I just had an anniversary of 22 years.  And 17 years of quit smoking.
+
+DOCTOR P355
+How'd you do it?
+
+PATIENT P355
+The doctor told me, I went in, I was working.  I went to see my medical doctor at the Union Health Clinic and I had a cough and he told me he says PATIENT, he checked me out.  He says you ought to quit smoking cause if you don't, you're gonna die and he scared me.  I got up on the L platform, getting ready to go back to work and threw a whole pack of cigarettes away and I ain't had any since.
+
+DOCTOR P355
+Uh I wish everybody could do that.
+
+PATIENT P355
+Well I'm gonna live doc.
+
+DOCTOR P355
+I'll be right back.
+
+(DOCTOR OUT:  28:40  DOCTOR IN:  46:55)
+
+DOCTOR P355
+@@@ alright.
+
+PATIENT P355
+What'd he say?  Say I'm doing good?
+
+DOCTOR P355
+He, he didn't like how your weight went back up but.
+
+PATIENT P355
+Oh okay.
+
+DOCTOR P355
+Other than that yes.
+
+PATIENT P355
+But that's these shoes.
+
+DOCTOR P355
+Yeah.
+
+PATIENT P355
+But my weight this morning was 368.
+
+DOCTOR P355
+I mean, it sounds like, you're using a scale at home?  You know that's the thing you know.
+
+PATIENT P355
+And I didn't have no clothes on you know.
+
+DOCTOR P355
+Alright.
+
+PATIENT P355
+Pajamas.
+
+DOCTOR P355
+But yeah as long as that one at home, as long as the scale at home and you're losing.
+
+PATIENT P355
+Yesterday was 368.5, in the morning it was 368.
+
+DOCTOR P355
+Keep doing it.
+
+PATIENT P355
+I'm exercising every morning.
+
+DOCTOR P355
+Yes good.  You know its better, the whole other thing is the food part, eat a little.  You know you're eating better it sounds like but, try to eat less now.
+
+PATIENT P355
+Okay.
+
+DOCTOR P355
+So and you know I don't know how big of portions you're eating but then start, you know start having like 3/4 of that.
+
+PATIENT P355
+Okay.
+
+DOCTOR P355
+Then let's say half I mean, buy smaller plates if that helps you psychologically.  There's actually a famous diet called the 9 inch plate diet.
+
+PATIENT P355
+Uh-huh.
+
+DOCTOR P355
+So they have smaller plates and you just fill it up once and you eat what's on the plate and then you're done.
+
+PATIENT P355
+Okay.
+
+DOCTOR P355
+Psychologically, portion control is most of it.
+
+PATIENT P355
+Right, right cause I was you know I'm in the MOVE Program.
+
+DOCTOR P355
+Yeah okay.
+
+PATIENT P355
+So you know.
+
+DOCTOR P355
+And they're telling you everything.
+
+PATIENT P355
+Right.  I.
+
+DOCTOR P355
+Alright so you're good until you come back some other time we'll check your blood and urine.
+
+PATIENT P355
+When you see me again?
+
+DOCTOR P355
+I'll probably see you in about three months.
+
+PATIENT P355
+Cool.
+
+DOCTOR P355
+Alright.
+
+PATIENT P355
+Alright.  Thanks doc.
+
+DOCTOR P355
+Have a good day.
+
+PATIENT P355
+You too.  I'm sure going to try.
+
+DOCTOR P355
+Take care.
+
+PATIENT P355
+Alright thank you.  
+
+PATIENT LEAVES:  48:54.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255185
+TRANSACTION # 578-10-2-316-0103

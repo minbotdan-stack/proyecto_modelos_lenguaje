@@ -1,0 +1,420 @@
+Date of Encounter: @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR H199
+Hi.  
+
+PATIENT H199
+Hi.
+
+DOCTOR H199
+It’s high! Aw come on, you know @@@ blood pressure.
+
+PATIENT H199
+Okay.
+
+DOCTOR H199
+Have you been taking your medicines?
+
+
+PATIENT H199
+Yeah.
+
+
+DOCTOR H199
+Did you take them today?
+
+
+PATIENT H199
+Yes.
+
+
+DOCTOR H199
+Oh.  You look like you've gained some weight.
+
+
+PATIENT H199
+Maybe just.
+
+
+DOCTOR H199
+You look fuller in the face.
+
+
+PATIENT H199
+Yeah?
+
+
+DOCTOR H199
+Yeah.  Let me look at your legs today.  Oh your legs they look good.  I was worried @@@.  Now you look okay. They look the same.  Maybe it's just me, seeing things.  You're okay.  What's up, what's new?
+
+
+PATIENT H199
+Not much.
+
+
+DOCTOR H199
+Nothing?  So you're taking your medicines for sure?
+
+
+PATIENT H199
+Yes.
+
+
+DOCTOR H199
+Oh.  So your weight from the last year.  Yeah I know you were trying to get down to 170 pounds, so that's up good.  Let me recheck your blood pressure.  Can you take off your jacket for me?  Okay, crawl up here.  Anything new at home?
+
+PATIENT H199
+No.  I guess that's the main thing.
+
+
+DOCTOR H199
+Do you have family coming here?  How many pills do you take for your blood pressure a day?
+
+
+PATIENT H199
+One.
+
+
+DOCTOR H199
+Supposed to be taking two, maybe that's why.  Did you run out of one?  You're supposed to be on . . .
+
+
+PATIENT H199
+Lisinopril.
+
+
+DOCTOR H199
+I might have just stopped one of your pills cause your blood pressure was low last time?  No?  Now your blood pressure has been high.  I want to know what happened.  You're supposed to be on two of them.
+
+PATIENT H199
+The one I take is refillable.
+
+
+DOCTOR H199
+Okay.  That is not as bad.  Let me take it on the other arm.  Any headaches, weakness, vision changes or anything like that?
+
+PATIENT H199
+Nope.
+
+
+DOCTOR H199
+Okay.  So they used to have you on uh two pills.
+
+
+PATIENT H199
+Yeah.
+
+
+DOCTOR H199
+And then I guess they took one of them off probably because you were low and you were dizzy too.  But, if you're, if it's really this high again I might have to start a new one.  Just relax your arm, relax it.  Cause actually that hydrochlorothiazide they now have a combo pill so I can give you one now that has a combination of two so, maybe that's a good option.  Okay.  Not bad.  Not as bad as too low yeah, better than.  Have you been eating high salt food or anything?  Let’s see, I’ll listen to your heart and lungs.  High salt foods or anything like that?
+
+PATIENT H199
+Not that I know of.
+
+
+DOCTOR H199
+Swelling in your legs or anything like that?
+
+
+PATIENT H199
+No.
+
+DOCTOR H199
+Heart sounds good.  Deep breath, now deep breaths.  Deep breath, deep breath.  Okay.  Not having any bad thoughts of wanting to hurt yourself or anything right?  Okay good.
+
+
+PATIENT H199
+I have to keep my @@@.
+
+
+DOCTOR H199
+It's cold out there huh.
+
+
+PATIENT H199
+Yes.
+
+
+DOCTOR H199
+There you go.  Yeah it's on the little high side.  Let's um, let's do that combo pill, what'd think?
+
+
+PATIENT H199
+Okay.
+
+
+DOCTOR H199
+Okay.  Is everything else okay?  Nothing else you want to talk about today?  Everything is doing well?
+
+
+PATIENT H199
+Yes.
+
+DOCTOR H199
+I mean, except for your home [situation] . . .
+
+
+PATIENT H199
+Yeah.
+
+
+DOCTOR H199
+Always talk about that, ad nausem right.
+
+
+PATIENT H199
+Yep.
+
+DOCTOR H199
+You're visiting with your son?
+
+
+PATIENT H199
+Yes.
+
+
+DOCTOR H199
+So I know they watch out for you.
+
+
+PATIENT H199
+I had a visit from the county.
+
+
+DOCTOR H199
+Oh yeah.
+
+
+PATIENT H199
+Uh-huh.
+
+DOCTOR H199
+Um by who?
+
+
+PATIENT H199
+His name?
+
+
+DOCTOR H199
+Yeah like what do you mean the county?
+
+
+PATIENT H199
+Human Service.
+
+
+DOCTOR H199
+Okay, that's the Department of Aging?
+
+
+PATIENT H199
+Yes.
+
+
+DOCTOR H199
+Okay.  Did they come up with anything new?
+
+
+PATIENT H199
+No, just turned the situation over to another group.
+
+
+DOCTOR H199
+Yeah.
+
+
+PATIENT H199
+Who hasn't contacted me yet.
+
+
+DOCTOR H199
+Oh, okay.  Evaluating what's going on at home?
+
+
+PATIENT H199
+Yes.
+
+
+DOCTOR H199
+Um do you want to pick it up today or you want a mail it at home?
+
+
+PATIENT H199
+Whatever you want.
+
+
+DOCTOR H199
+You can, let's just mail it.  Just continue what you're taking now and then you can stop it and take the new one okay.  And I'll have you come back in a month to get your blood pressure checked again.  Alrighty then.  Were you hiking up a storm coming up here?
+
+PATIENT H199
+No.
+
+
+DOCTOR H199
+No okay.  Yeah we'll mail it to your house and then when you come here in a month we'll get some blood work done okay?  So we'll do it all at once then.  Are you doing anything fun for the holidays?
+
+
+PATIENT H199
+No.
+
+
+DOCTOR H199
+Going anywhere?
+
+
+PATIENT H199
+Nope, nope.
+
+
+DOCTOR H199
+No.  Do you and your family celebrate Thanksgiving pretty good?
+
+
+PATIENT H199
+No.
+
+
+DOCTOR H199
+No, not really.  And you got your flu shot right?  Good.  And you're taking your aspirin every day right?
+
+
+PATIENT H199
+Yes.
+
+
+DOCTOR H199
+Good.  And alright, I don't think there's anything new I want to add at this time um.
+
+
+PATIENT H199
+When this new one comes then I should discontinue the one that I'm.
+
+
+DOCTOR H199
+Yes, just stop it and um I'll get some uh cholesterol too in a month.
+
+
+PATIENT H199
+Okay.
+
+
+DOCTOR H199
+Okay and that way um, just make sure you fast the night before okay.  But don't do like that one time, remember.  Where you didn't eat for like two days.
+
+PATIENT H199
+(Laughs)
+
+DOCTOR H199
+I mean if you run off you drink water, I'm okay you know.  Don't dehydrate yourself.
+
+PATIENT H199
+Okay.
+
+DOCTOR H199
+But after you have dinner that night, just so you know, have some water and that's okay alright.  Don't, don't do that anymore.  Remember that was bad.
+
+PATIENT H199
+(Laughs)
+
+
+DOCTOR H199
+That was bad.  Okay, and that will take us right before Christmas. You’re doing really well so.  I'll see you again in six months, what'd think, yeah?  So you don't have to come back too much and we'll check your blood pressure in a month.
+
+PATIENT H199
+Okay.
+
+DOCTOR H199
+And that will be the last time you see me I think, let's see November, December, January, February, March, yeah.  That'll be the last time cause I'm done next year and you'll get another resident so.  Alright, I'll be right back okay PATIENT.
+
+PATIENT H199
+Yep.
+
+DOCTOR H199
+You're 77 huh?  You're doing good.
+
+
+PATIENT H199
+(Laughs)
+
+
+DOCTOR H199
+You're doing good.
+
+(DOCTOR OUT: 36:19  DOCTOR IN:  40:51)
+
+DOCTOR H199
+Hi PATIENT.  We're all done.  So I'll see again in six months okay?  No @@@ again if I don't call you okay?  Cholesterol, you don't need a refill?
+
+
+PATIENT H199
+No, no.
+
+
+DOCTOR H199
+Cholesterol.
+
+
+PATIENT H199
+Yeah and that's not the one that you.
+
+
+DOCTOR H199
+No, so it's this one that you stopped here, yeah, your blood pressure medicine.  Stop after new one arrives.
+
+
+PATIENT H199
+New arrival.
+
+
+DOCTOR H199
+Alright?
+
+PATIENT H199
+Okay.
+
+
+DOCTOR H199
+Well so you take care.  You have a great holiday okay.
+
+
+PATIENT H199
+Okay.
+
+DOCTOR H199
+Alright, you take care.
+
+PATIENT H199
+Okay.
+
+
+(Laughter from both)
+
+DOCTOR H199
+@@@.  There you go.
+
+PATIENT H199
+Okay.
+
+DOCTOR H199
+I'll see you later okay, stay warm.
+
+PATIENT H199
+You too.
+
+
+DOCTOR H199
+@@@
+
+PATIENT H199
+Yeah.
+
+DOCTOR OUT:  42:15
+
+The time is 1 o'clock.
+
+DD: @@/@@/@@
+DT: 0@@/@@/@@   
+INFOPRO/JOB#  1235288
+TRANSACTION # 578-10-2-316-0103

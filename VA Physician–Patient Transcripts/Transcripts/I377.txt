@@ -1,0 +1,1125 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR I377
+Hey PATIENT how are you today?
+
+PATIENT I377
+How you doing doc?
+
+DOCTOR I377
+How you doing?
+
+PATIENT I377
+Fine thanks.
+
+DOCTOR I377
+Good.  I'm good.
+
+PATIENT I377
+How you doing?
+
+DOCTOR I377
+I'm doing okay.
+
+PATIENT I377
+Good.
+
+DOCTOR I377
+Not as cold out as I was worrying it would be so I'm happy.
+
+PATIENT I377
+Oh yeah.
+
+DOCTOR I377
+Come on in here.
+
+PATIENT I377
+Oh shoot.
+
+DOCTOR I377
+So, last time I saw you back in September you were feeling pretty good.
+
+PATIENT I377
+Yeah, yeah nothing much changed.
+
+DOCTOR I377
+Nothing much has changed.  Still feeling pretty good?
+
+PATIENT I377
+Yeah.  I still have that same problem though with my uh.
+
+DOCTOR I377
+With your back?
+
+PATIENT I377
+Uh knee.
+
+DOCTOR I377
+Or your knee I mean.
+
+PATIENT I377
+That um, spasm type thing.
+
+DOCTOR I377
+Yeah.
+
+PATIENT I377
+In my uh and I had the MRI.
+
+DOCTOR I377
+Alright let me look it up.
+
+PATIENT I377
+So um they made me an appointment with the doctor and everything to the CT or whatever you needed.
+
+DOCTOR I377
+Let's see what it shows.  MRI done in September.
+
+PATIENT I377
+Uh-huh.
+
+DOCTOR I377
+DOCTOR, no.
+
+PATIENT I377
+How do you pronounce it?
+
+DOCTOR I377
+DOCTOR I don't know.  Alright.  So it's showing some osteopenia which is like uh some bone loss and you had surgery on your back so didn't you?
+
+PATIENT I377
+Yeah, yeah over to the @@@.
+
+DOCTOR I377
+Right.
+
+PATIENT I377
+Uh-huh.
+
+DOCTOR I377
+So.
+
+PATIENT I377
+But that was uh a kind of a @@@ here.
+
+DOCTOR I377
+Right.  When I saw you in November you had a spine MRI, you didn't know.  Yeah the last thing you were going to have is the MRI of your C spine, your neck.
+
+PATIENT I377
+Yes.
+
+DOCTOR I377
+Did you get other imaging done too?
+
+PATIENT I377
+I don't know I went through the machine, whatever happens.
+
+DOCTOR I377
+Yeah it looks like they just did your neck.
+
+PATIENT I377
+Because uh the uh especially at night, when I go to bed.
+
+DOCTOR I377
+Yeah.
+
+PATIENT I377
+Cause it's @@@ leg.
+
+DOCTOR I377
+Uh-huh is it bothers the knee?
+
+PATIENT I377
+Yeah no it's spasming.
+
+DOCTOR I377
+Spasming.
+
+PATIENT I377
+Uh you know.
+
+DOCTOR I377
+I don't see anything where we talked about your knee last time.  Huh.  The MRI scheduled for your knee in October, I'm not seeing it in here.  
+
+PATIENT I377
+I went through the MRI, I went @@@.
+
+DOCTOR I377
+Yeah I know I believe you.  They're showing an MRI of your cervical spine in November but I'm not seeing an MRI of your knee but I know you've had it done.
+
+PATIENT I377
+No, it's not for the knee.  They @@@ that.
+
+DOCTOR I377
+That might be making your spasms.
+
+PATIENT I377
+Right.
+
+DOCTOR I377
+DOCTOR.
+
+PATIENT I377
+Right.
+
+DOCTOR I377
+Yeah but I ordered one hmm.  You still using your cane?
+
+PATIENT I377
+Beg your pardon?
+
+DOCTOR I377
+You were using a cane the last time I saw you.  So are you using your cane?
+
+PATIENT I377
+No, not really, usually I don't use it.
+
+DOCTOR I377
+Okay and you haven't seen anyone since you saw me last in September right?
+
+PATIENT I377
+No except for DOCTOR, for the MRI.
+
+DOCTOR I377
+For the MRI you're right.  Alright so you missed your appointment in October and never came back huh.  So you missed your MRI back in October and then they rescheduled it.  That's yeah, that's what happened.
+
+PATIENT I377
+Right okay.
+
+DOCTOR I377
+Okay.  Alright now we got that taken care of.  So you've been having spasms with your knee and it's not getting any better.
+
+PATIENT I377
+No.
+
+DOCTOR I377
+Has it gotten any worse?
+
+PATIENT I377
+No, no.
+
+DOCTOR I377
+Okay are you having any numbness or tingling?
+
+PATIENT I377
+No.
+
+DOCTOR I377
+No.
+
+PATIENT I377
+The only thing happened; the only thing that really happened is that I have to position myself a certain way in bed, especially when I relax okay.
+
+DOCTOR I377
+Right.
+
+PATIENT I377
+And then if I don't what happens is that it seems like, it seem like there's a press.
+
+DOCTOR I377
+Okay.
+
+PATIENT I377
+That comes not just in one space.
+
+DOCTOR I377
+Right.
+
+PATIENT I377
+And then when I lay it goes up.
+
+DOCTOR I377
+Alright, right cause that's what we were talking about last time.
+
+PATIENT I377
+Right.
+
+DOCTOR I377
+But you aren't having any falls or anything right?
+
+PATIENT I377
+No uh uh no.
+
+DOCTOR I377
+Okay.
+
+PATIENT I377
+And it happens in both legs.
+
+DOCTOR I377
+Okay.  The last time I saw you did it just happened in the one?  Or does it move at all cause last time it was just your right knee.
+
+PATIENT I377
+No it's both the knees.
+
+DOCTOR I377
+It's in both yeah.
+
+PATIENT I377
+It's just that the right knee was worse.
+
+DOCTOR I377
+Okay than the left.
+
+PATIENT I377
+Yeah.
+
+DOCTOR I377
+Okay and your blood pressure's in really good control so that's good and you had your colonoscopy and we’re just going through everything to make sure we’re covered and you're still following with the urologist.
+
+PATIENT I377
+Yes.
+
+DOCTOR I377
+Okay.  Uh have you had your flu shot this year?
+
+PATIENT I377
+Yes.
+
+DOCTOR I377
+Did you get your H1N1 shot too?
+
+PATIENT I377
+I'm not going to take that.
+
+DOCTOR I377
+Not gonna take that huh.
+
+PATIENT I377
+No.
+
+DOCTOR I377
+Okay.  I've heard some mixed reviews about it.  A lot of my patients want to take it and some people absolutely not.
+
+PATIENT I377
+I'm not gonna get it.
+
+DOCTOR I377
+Okay and then you need another colonoscopy but you wanted to wait until next year.
+
+PATIENT I377
+Yes.
+
+DOCTOR I377
+Okay so we can schedule you for that next year, cause it's almost @@@@.
+
+PATIENT I377
+Right.
+
+DOCTOR I377
+Um let's see if your lipids.
+
+PATIENT I377
+I want you to look at something here.
+
+DOCTOR I377
+Sure.
+
+PATIENT I377
+My neck, lift that up.  My wife keeps telling me that behind my neck here.
+
+DOCTOR I377
+Uh-huh.
+
+PATIENT I377
+Right here, there's a knot, I feel that there's a knot right there.
+
+DOCTOR I377
+Well there's one right here.
+
+PATIENT I377
+Now I'm not talking about the uh mole.
+
+DOCTOR I377
+The thing on your, right cause that's been there for a while.
+
+PATIENT I377
+Yeah.
+
+DOCTOR I377
+Alright take your jacket off cause you’re taller than I am and I can’t see that high.  Sit over here.
+
+PATIENT I377
+Okay.
+
+DOCTOR I377
+You haven't been having any chest pain, trouble breathing, nausea, vomiting, blood in your stool?  
+
+PATIENT I377
+No.
+
+DOCTOR I377
+I'm gonna look at you.  Where’s she seeing one?
+
+PATIENT I377
+@@@ I think I'm @@@ right.
+
+DOCTOR I377
+Let me see.  Oh it's right there.
+
+PATIENT I377
+I guess that's where it's at.  I can't see behind me.
+
+DOCTOR I377
+No that's actually your skull.  Cause you've got such thin, cause you're bald up here essentially.
+
+PATIENT I377
+Uh-huh.
+
+DOCTOR I377
+You don't have enough hair so it's the same on both sides.
+
+PATIENT I377
+Uh-huh.
+
+DOCTOR I377
+You've got it symmetrical when we start getting concerned is when you like let's say you had a bump over here but you didn't over here.
+
+PATIENT I377
+Uh-huh.
+
+DOCTOR I377
+Then I may be concerned but they're both exactly the same size.  They're the same as far as depth.  They're not tender right?
+
+PATIENT I377
+No.
+
+DOCTOR I377
+And you know they're not nodules they're just like the outline of your skull.
+
+PATIENT I377
+Oh okay.
+
+DOCTOR I377
+Okay.  She you can tell her that  you asked a doctor and it's not anything to be concerned about okay.
+
+PATIENT I377
+Okay.
+
+DOCTOR I377
+Let me examine you real quick while you’re up here.
+
+PATIENT I377
+I can do that.
+
+DOCTOR I377
+Okay look straight ahead for me.  Open your mouth, stick out your tongue and say ah.
+
+PATIENT I377
+Ah.
+
+DOCTOR I377
+No pain there, right?
+
+PATIENT I377
+Uh-huh.
+
+DOCTOR I377
+Take a big deep breath in and out through your mouth.  One more, last one.  Did we ever have you go see Orthopedic Surgery or anything for your knee for the spasms that you’re having, or physical therapy or anything like that?  No.  Cause that might be the next best step that because you're having trouble.  You haven't lost your balance or fallen or anything so right?  You just kind of like when you're laying in bed you've got to lay in a certain position and it feels like it jerks back.
+
+PATIENT I377
+It does jerk back.
+
+DOCTOR I377
+Yeah.
+
+PATIENT I377
+It spasms.
+
+DOCTOR I377
+It spasms.
+
+PATIENT I377
+It's like the same thing that I had here in my neck.
+
+DOCTOR I377
+With your neck.
+
+PATIENT I377
+And when I had that my whole shoulder @@@.
+
+DOCTOR I377
+Yeah.
+
+PATIENT I377
+And that's the way it is right here um.
+
+DOCTOR I377
+Does it hurt when I'm pushing right here?
+
+PATIENT I377
+No, no, no.
+
+DOCTOR I377
+It doesn't hurt at all.
+
+PATIENT I377
+No.
+
+DOCTOR I377
+It spasms.
+
+PATIENT I377
+That's all.
+
+DOCTOR I377
+Any leg swelling?
+
+PATIENT I377
+No.
+
+DOCTOR I377
+Does it happen like at a certain of day or it kind of can happen at any time?
+
+PATIENT I377
+If one goes up, nothing I'm doing.
+
+DOCTOR I377
+It doesn't wake you up at night does it?
+
+PATIENT I377
+Yeah.
+
+DOCTOR I377
+It does.
+
+PATIENT I377
+Yes.
+
+DOCTOR I377
+Sometimes you wake up having leg spasms.
+
+PATIENT I377
+Oh man, it just, I've had it come up my legs going back to my back.
+
+DOCTOR I377
+Uh-huh.
+
+PATIENT I377
+And my wife sometime has to get up.
+
+DOCTOR I377
+@@@ and help you out?
+
+PATIENT I377
+And pull my legs.
+
+DOCTOR I377
+Okay.
+
+PATIENT I377
+Pull my legs apart you know.
+
+DOCTOR I377
+Yeah.
+
+PATIENT I377
+And the only thing that helps me.
+
+DOCTOR I377
+Uh-huh.
+
+PATIENT I377
+@@@.
+
+DOCTOR I377
+That helps with the spasms?
+
+PATIENT I377
+Yeah it releases, releases it.
+
+DOCTOR I377
+Okay, okay.  So lay down for me.  Cause it doesn't sound like you're really having pain, it sounds more like you're just having spasms.
+
+PATIENT I377
+That's what it is.
+
+DOCTOR I377
+Alright.  I'm gonna lift your leg up, you tell me if it hurts anywhere.
+
+PATIENT I377
+No.
+
+DOCTOR I377
+No.
+
+PATIENT I377
+Uh uh.
+
+DOCTOR I377
+No.  Now can you bend your knee for me?
+
+PATIENT I377
+Uh-huh.
+
+DOCTOR I377
+Put your foot down.  I'm just gonna push a little bit.  You tell me if you feel any pain.
+
+PATIENT I377
+Just pressure.
+
+DOCTOR I377
+Just pressure.  Go ahead and sit back up.  You need some help?
+
+PATIENT I377
+Why?
+
+DOCTOR I377
+I need some help, there we go.  Let me see what else we mentioned.  And you said you haven't ever had trauma to that knee or anything like that?
+
+PATIENT I377
+Uh uh.
+
+DOCTOR I377
+Alright, well let me go talk to DOCTOR, see what she thinks um and we'll go from there.
+
+PATIENT I377
+Uh-huh.
+
+DOCTOR I377
+Okay.
+
+PATIENT I377
+Okay.
+
+DOCTOR I377
+Um and the last time I saw you, you had a UTI, a urinary tract infection.
+
+PATIENT I377
+Right.
+
+DOCTOR I377
+Do you uh.
+
+PATIENT I377
+That's cleared.
+
+DOCTOR I377
+That's cleared up.  You haven't had another one since then right?
+
+PATIENT I377
+Right.
+
+DOCTOR I377
+And you're still, so last time we talked about your prostate cancer screening and you said you don't want to get screened anymore because?
+
+PATIENT I377
+No.
+
+DOCTOR I377
+If you found it you didn't want to do anything about it right?
+
+PATIENT I377
+No I didn't say that.
+
+DOCTOR I377
+You didn't say that okay.  That was one of the notes from before I saw you so um; do you want to get screened?
+
+PATIENT I377
+I don't need to get screened for the prostate.
+
+DOCTOR I377
+Okay.  Um I just wanted to make sure.  Cause some of my patients also say well I'm not gonna do anything about it so I don't want to be screened and I say okay, it's up to you.  Um I had one other question oh, your blood pressure.  You don't have a blood pressure cuff at home do you or do you have one?
+
+PATIENT I377
+I have, you know what I dropped it.
+
+DOCTOR I377
+You dropped it.  Do you need a new one?
+
+PATIENT I377
+Will it cost me?
+
+DOCTOR I377
+I do not know.  That I do not know.  I can put in the order and you can find out cause they can give it to you at Prosthetics and you can ask them if it's gonna cost anything.
+
+PATIENT I377
+Cause I dropped it and uh.
+
+DOCTOR I377
+Well the other thing you can do if you dropped it you can bring it back in, they might be able to exchange it for another one.
+
+PATIENT I377
+Okay.
+
+DOCTOR I377
+If you still have it unless you threw it away.
+
+PATIENT I377
+I haven't been using it too much now.
+
+DOCTOR I377
+Yeah.
+
+PATIENT I377
+@@@.
+
+DOCTOR I377
+Well your blood pressure's good today so that's good.  The other thing is there's free blood pressure cuffs and things like Walgreens and Meyers and things like that so you could potentially go there and get it done but if you have one at home I'd like you to you know, especially if you get lightheaded, dizzy or anything like that I want you to check your blood pressure and make sure it's not too low okay.  And you're still taking your amlodipine?
+
+PATIENT I377
+Yes uh-huh.
+
+DOCTOR I377
+And that's the only medication we have you on.  And the aspirin?
+
+PATIENT I377
+Uh I don't take the aspirins every day.
+
+DOCTOR I377
+Okay.  Okay.  Yeah actually it was in the Urology Note, the urologist you saw said that you mentioned to them that you, if they, if it was elevated, you probably wouldn't want further intervention.
+
+PATIENT I377
+@@@ list.
+
+DOCTOR I377
+Perfect.  I will move that off my note.
+
+PATIENT I377
+Yeah.
+
+DOCTOR I377
+Um when was the last time you saw Urology?  Do remember?
+
+PATIENT I377
+In the computer.
+
+DOCTOR I377
+(Laughter) Uh it looks like it was September of this year.
+
+PATIENT I377
+September yeah.
+
+DOCTOR I377
+Yeah right before you saw me.
+
+PATIENT I377
+Right.  I wanted to say that but I wasn't sure.
+
+DOCTOR I377
+Okay.  Alright.  Give me a minute and I'll go talk to DOCTOR and you need refills today?
+
+PATIENT I377
+I only take that one blood pressure medication from you and that's not.
+
+DOCTOR I377
+And the aspirin.
+
+PATIENT I377
+To and that I go through CVS.
+
+DOCTOR I377
+Do you get the aspirin?
+
+PATIENT I377
+No just uh, I got it all.
+
+DOCTOR I377
+Okay.
+
+PATIENT I377
+And it only costs me $7 a prescription.
+
+DOCTOR I377
+Really.
+
+PATIENT I377
+And it costs the same thing here.
+
+DOCTOR I377
+Alright.
+
+PATIENT I377
+There's uh, I would like to have though a prescription for ibuprofen but what they gave me for @@@.
+
+DOCTOR I377
+Motrin?
+
+PATIENT I377
+I think it was the biggest milligrams.
+
+DOCTOR I377
+The biggest milligrams of ibuprofen?
+
+PATIENT I377
+Yeah.
+
+DOCTOR I377
+Well the maximum dose of ibuprofen.
+
+PATIENT I377
+Yeah what is the maximum dose?
+
+DOCTOR I377
+We wouldn't recommend.  I don't recommend.
+
+PATIENT I377
+What do you recommend?  What do you all have?
+
+DOCTOR I377
+So well, though you're, what do you want to do.  You want the ibuprofen for your knee but you said your knee is not getting any pain it's just the.
+
+PATIENT I377
+What’s your max and minimum?
+DOCTOR I377
+The max and the minimum?
+
+PATIENT I377
+Yes.
+
+DOCTOR I377
+Well it depends on your kidney function.  I'm going to have to look into your labs and things.  It could relieve and you want it for your knee?
+
+PATIENT I377
+Yes.
+
+DOCTOR I377
+Are you having pain anywhere else?
+
+PATIENT I377
+Sometimes in the back.
+
+DOCTOR I377
+Sometimes in your back.
+
+PATIENT I377
+Right now I got pain in my back when I lay down there at night.
+
+DOCTOR I377
+Okay cause ibuprofen you can buy over-the-counter.
+
+PATIENT I377
+Yes but I want to get the full milligrams @@@.
+
+DOCTOR I377
+Right, right.
+
+PATIENT I377
+I'm doing that.
+
+DOCTOR I377
+So because I just have a hard time with you taking too much of it either.
+
+PATIENT I377
+I don't take too much of it either.
+
+DOCTOR I377
+Okay, okay.  I can give you a prescription for ibuprofen.
+
+PATIENT I377
+But what milligram?
+
+DOCTOR I377
+Well I'll give you; I'll give you a prescription for a lower dose and then you can increase it and I'll put on there what the maximum dose is.
+
+PATIENT I377
+What's the maximum dose you're gonna give me?
+
+DOCTOR I377
+Let me look and see what the maximum dose of ibuprofen would be through the VA okay.  8, eight pills or 800?
+
+PATIENT I377
+800.
+
+DOCTOR I377
+800, I don't know.
+
+PATIENT I377
+I take them.
+
+DOCTOR I377
+You take them.  Is that how much you've been taking, that's 800 a day?
+
+PATIENT I377
+No.
+
+DOCTOR I377
+800 sometimes or?
+
+PATIENT I377
+@@@
+
+DOCTOR I377
+Oh.
+
+PATIENT I377
+I take @@@.
+
+DOCTOR I377
+One once a week for your back and for your knee?  Well I guess I could do that for you.
+
+PATIENT I377
+@@@.
+
+DOCTOR I377
+Okay.  Give me a minute I'll visit with DOCTOR.
+
+(DOCTOR OUT:  84:41  DOCTOR IN 89:00)
+
+SECOND DOCTOR I377
+Hey PATIENT.
+
+PATIENT I377
+How you doing DOCTOR?
+
+SECOND DOCTOR I377
+How are you?
+
+PATIENT I377
+Doing good thank you.
+
+SECOND DOCTOR I377
+Alright so um uh how's your breathing?
+
+PATIENT I377
+Better.
+
+SECOND DOCTOR I377
+You don't use any inhalers anymore?  You don't smoke anymore either?
+
+PATIENT I377
+I ain't smoked in 25 years.
+
+SECOND DOCTOR I377
+Alright.  So.
+
+PATIENT I377
+@@@.
+
+SECOND DOCTOR I377
+In terms of the okay so I don't know what happened to the order we made for the knee.  You got the MRI of your neck but not the knee so we'll make that order again, have you make an appointment and see the orthopedic doctors.
+
+PATIENT I377
+Hmm.
+
+SECOND DOCTOR I377
+Alright.
+
+PATIENT I377
+When that’s going to be?
+
+SECOND DOCTOR I377
+Well you can go up today and make an appointment for the MRI.
+
+PATIENT I377
+Okay.
+
+DOCTOR I377
+But you should see the orthopedic doctors after the MRI is done.
+
+PATIENT I377
+Uh-huh, alright.
+
+SECOND DOCTOR I377
+And then we'll just.
+
+PATIENT I377
+What do I do right now?
+
+FIRST DOCTOR I377
+That's what we'll tell you.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+Alright sir.  So here's what we're gonna do right now.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+I want you to do three things for me.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+I want you to go up front when you leave here, schedule an appointment with Orthopedics.  I want you to schedule it, well actually you know what, before you do that, I take it back I'll refill your meds.  So what I want you to do, the first thing I want you to go across the hall to the MRI um place where they schedule the MRIs, schedule your MRI because the order, that's why I was getting confused cause the MRI I put in is not in there anymore because it got cancelled and never got rescheduled.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+So I want you to get an MRI of your knees so you need @@@ for both knees okay.  After you get that date of that MRI I want you to come back up here to the front and ask them up front to schedule you for an appointment with the orthopedic surgeons for an appointment after your MRI.  Does that make sense?
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+And then also I want you to follow up with the urologist because you haven't been there in a while and from their last note it seems like there's some confusion about what they wanted and what you want to do so I want you to go talk to them about what exactly the plan should be that fits best with what you want and with what they want okay.  And yeah I'll write it all down for you so you know what to do in what order.  Um also you have, you wanted the ibuprofen.  There's another medication I want you to try as well called salsalate.  
+
+PATIENT I377
+I'm not a medication man.
+
+FIRST DOCTOR I377
+I know you're not, I know you're not.  I want you to try this instead of the ibuprofen.  I'll give you a prescriptions for both but I want you to try the salsalate first cause I think it might work a little bit better.
+
+PATIENT I377
+@@@?
+
+FIRST DOCTOR I377
+Salsalate okay and if that doesn't work then you try the ibuprofen.  I'll give you prescriptions for both okay.
+
+PATIENT I377
+Same price?
+
+FIRST DOCTOR I377
+It's VA meds I have no idea.  Ask the Pharmacy when you get over there.  If it's a problem you come back here and ask me okay.  Um let me write down the order of things that you need to do.  @@@.
+
+PATIENT I377
+@@@.
+
+FIRST DOCTOR I377
+Okay.  Go do the MRI, schedule these appointments and then I will see you.  When do you want to see me again?
+
+PATIENT I377
+Hmm, well let's find out what dates.
+
+FIRST DOCTOR I377
+I want to see you after all these are done.
+
+PATIENT I377
+That's what I say just wait until we see the dates.
+
+FIRST DOCTOR I377
+So I'm gonna give you, I'm gonna give you 30 tablets of ibuprofen.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+Without many refills but I don't want you taking too many of them.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+And then the salsalate I gave you.
+
+PATIENT I377
+Now what is this?
+
+FIRST DOCTOR I377
+It's a pain medication as well and make sure you take it with food or with milk or something cause it can cause @@@.
+
+PATIENT I377
+But I can't take it too.
+
+FIRST DOCTOR I377
+Don't take both of them at the same time.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+Okay um but see if that, see if that helps as well okay.
+
+PATIENT I377
+Alright.
+
+FIRST DOCTOR I377
+Just for pain.  I mean if you're having pain occasionally, like I said I don't like giving you that many medications, either.  I don't want you to be taking pain meds cause they all have side effects.  They can cause ulcers and things like that and I don't want that so.  What I'd like for you to do is only take them if you absolutely need them and these aren't working you come back and hopefully we'll get some more information with the MRI and then we'll go from there.  Okay.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+And then I will, I won't reschedule you for the next few months cause I think you @@@.
+
+PATIENT I377
+@@@.
+
+FIRST DOCTOR I377
+This is December so like March?
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+Then we can see you in March @@@.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+And if something really abnormal comes up with this MRI, if something really abnormal comes with the MRI I'll give you a call so I want to give you the phone number, let me put this in first.  Alright give me one second I just want to schedule this before you go because it's not in the computer.
+
+PATIENT I377
+I'm not in a hurry, just take your time.
+
+FIRST DOCTOR I377
+Alright.  And we'll put in the consult cause you've never seen the orthopedic surgeons before have you?
+
+PATIENT I377
+No.
+
+FIRST DOCTOR I377
+Okay I'll put in that consult and they'll schedule it for you.  Okay so the consult is in for your appointment with the orthopedic surgeon. You’ve already seen neurology so they should be able to schedule that for you and MRI appointment, the order is in so they should be able to schedule that as well.
+
+PATIENT I377
+So get the MRI.
+
+FIRST DOCTOR I377
+Uh-huh.  Schedule it, here's what you're gonna do.  Schedule MRI and then schedule your appointment okay.  I want to get your phone number real quick.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+Just in case I need to call you, okay is it PHONE NUMBER?
+
+PATIENT I377
+That's it.
+
+FIRST DOCTOR I377
+Lovely.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+Alright well I will see you back in three months.
+
+PATIENT I377
+Okay.
+
+FIRST DOCTOR I377
+Okay.
+
+PATIENT I377
+Alright.
+
+FIRST DOCTOR I377
+Alright.  It was good to see you.
+
+PATIENT I377
+Thank you very much.
+
+FIRST DOCTOR I377
+Happy holidays.
+
+PATIENT I377
+You too.
+
+FIRST DOCTOR I377
+Good to see you.
+
+PATIENT I377
+Yeah you take care.
+
+FIRST DOCTOR I377
+I'm gonna try.  Alright we'll see you later.
+
+PATIENT I377
+@@@.
+
+PATIENT LEAVES:  96:21
+
+11:20.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255159
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,1264 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@@  
+ 
+DOCTOR T382
+PATIENT?
+
+PATIENT T382
+Who?  Who'd you call?
+
+DOCTOR T382
+PATIENT?
+
+PATIENT T382
+PATIENT.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+I'll be with you in a second.  So yeah I'm feeling, alright?
+
+DOCTOR T382
+I'm feeling alright.  
+
+PATIENT T382
+Oh I see you, I see you.  Alright, so you're new, you're my doctor how huh?
+
+DOCTOR T382
+Yep.
+
+PATIENT T382
+Alright.
+
+DOCTOR T382
+So my name is DOCTOR.  I'm one of the residents.
+
+PATIENT T382
+What do they call you?
+
+DOCTOR T382
+Hey?
+
+PATIENT T382
+What do your patients call you, doctor?
+
+DOCTOR T382
+@@@.
+
+PATIENT T382
+So I'll call you DOCTOR.
+
+DOCTOR T382
+Alright.  Okay um so.  @@@ So last time you came to see us in December @@@@, so it's been almost more than a year.
+
+PATIENT T382
+Right yeah.  So, cause I was doing so well they kicked me around.
+
+DOCTOR T382
+Oh okay, okay.  So you were doing great.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+And in the meantime, so the only thing I see here is hypertension for you?
+
+PATIENT T382
+Right but I've had it all my life.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+I've had it basically all my life.  I've had hypertension.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+Um, my parents have had hypertension.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+So pretty most of my family have hypertension.
+
+DOCTOR T382
+Okay how medications do you take for that?
+
+PATIENT T382
+Uh I take two, I take uh, I take the hydrochlorothiazide two a day.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+And then I take a cholesterol pill at night.
+
+DOCTOR T382
+Okay.  So here's the hydrochlorothiazide.  I don't see any cholesterol pills here.  @@@.  So it looks like the last time @@@.
+
+PATIENT T382
+Oh okay.
+
+DOCTOR T382
+Okay.  So you take how many blood pressure medications do you take?
+
+PATIENT T382
+Two, I think I take two.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+Two.
+
+DOCTOR T382
+What's that with?
+
+PATIENT T382
+Uh the lipids, this one here.
+
+DOCTOR T382
+Okay.  Lisinopril.
+
+PATIENT T382
+And then I get hydrochlorothiazide.
+
+DOCTOR T382
+Right.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+Okay, okay.  And it seemed like at one time that you were taking uh three medications.
+
+PATIENT T382
+Right, it was stopped right.
+
+DOCTOR T382
+@@@.
+
+PATIENT T382
+It was getting better, it was a lot better.
+
+DOCTOR T382
+Okay, okay, okay.  And for your cholesterol, I'll try to get the computer to get back here.
+
+PATIENT T382
+@@@ about that.
+
+DOCTOR T382
+Yeah.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+And uh so I'll just go with the other things.  So did you get a flu shot this year?
+
+PATIENT T382
+I don't do flu shots.
+
+DOCTOR T382
+You don't do flu shots okay.
+
+PATIENT T382
+I don't believe in them.
+
+DOCTOR T382
+It shows you got one in 2007 though.
+
+PATIENT T382
+No, if it says that, it's not telling the truth.  I haven't had it before.
+
+DOCTOR T382
+Oh okay.
+
+PATIENT T382
+And I've never ever gonna take a flu shot.
+
+DOCTOR T382
+Okay.  
+
+PATIENT T382
+If I did it was only because the doctor I had, he was so emphatic.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+And I liked him so much that I did it that one time.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+With some series I took when I took them, but normally I never, ever, never get the flu shot.
+
+DOCTOR T382
+Oh okay, okay.
+
+PATIENT T382
+I don't believe in the theory because I was born in the generation that we've been inoculated, vaccines, this and that.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+So one more thing that my body has to fight and it might just put me in a place that I don't want to be.
+
+DOCTOR T382
+Okay, okay.
+
+PATIENT T382
+But that's why I don't.  There's enough germs floating around and I already have enough antibodies I believe that.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+I don't need anymore.
+
+DOCTOR T382
+Well that's good that you think that.  I don't see any cholesterol @@@.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+So that's a good thing.  
+
+SECOND PERSON T382
+@@@ cholesterol is a good thing?
+
+PATIENT T382
+Actually, I still have some left.
+
+DOCTOR T382
+Do you know which one?
+
+SECOND PERSON T382
+Not off the top of my head I don't.
+
+PATIENT T382
+Well it should be on there from prior.
+
+DOCTOR T382
+Prior notes?
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+Okay.  Okay so you're taking simvastatin 80 mg.  Are you still taking this @@@?
+
+PATIENT T382
+Yes.
+
+DOCTOR T382
+You sure?
+
+PATIENT T382
+Yes.
+
+DOCTOR T382
+Okay.  So your blood tested fine.  Uh so you're taking simvastatin.  It seems that you were taking 80 mg.
+
+PATIENT T382
+Uh-huh.
+
+DOCTOR T382
+Do you think that’s still true?
+
+PATIENT T382
+Well you know how I was taking 80 and you told me to break it in half and take 40, that's probably why I still have all that.
+
+DOCTOR T382
+Oh you take 40 okay.  Let me correct this, so you were taking 40.  And your kidney function is a little bit lower than the usual person.  I think you've heard that before.
+
+PATIENT T382
+Right I've heard that before.
+
+DOCTOR T382
+Yeah but it's been stable.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+So that's good.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+So basically your blood tests look good.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+And cholesterol looks good too.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+So you can continue to take your statin.  I'll order that today so that if you run out.  Do you want them to send it to your home?
+
+PATIENT T382
+Yes.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+I have one other problem.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+I have a hernia, oh well I had a hernia.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+But I don't know if it has, because I didn't have no surgery or if just kind of healed on its own.
+
+DOCTOR T382
+Okay uh so let me examine you and then I can see.
+
+PATIENT T382
+Yeah.
+
+DOCTOR T382
+Uh so you had this for a long time?
+
+PATIENT T382
+No.
+
+DOCTOR T382
+Just started?
+
+PATIENT T382
+No um it was I did some heavy lifting at a job.
+
+DOCTOR T382
+Oh.
+
+PATIENT T382
+Over the Christmas holidays.
+
+DOCTOR T382
+Over the Christmas holidays was that it?
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+So that job ended in probably first or second week of January, so eventually it went down.  @@@ research.  So I knew what the surgery looks like, but but I never knew what a hernia was cause I'd never had one so I looked it up.
+
+DOCTOR T382
+Yeah so those things, you know, you don't have it done when @@@.  Well did say you developed it?
+
+PATIENT T382
+You know um @@@.
+
+DOCTOR T382
+You know um @@@ can affect that.  So it's not something really but I can assess that.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+Yeah.  But it's nothing urgent.  Do you have any severe belly pain or difficulty sleeping?
+
+PATIENT T382
+No.
+
+DOCTOR T382
+Nausea?
+
+PATIENT T382
+No.
+
+DOCTOR T382
+Vomiting?
+
+PATIENT T382
+No.  I would a came in.
+
+DOCTOR T382
+Because you don’t have those symptoms, it means it’s not urgent.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+And is it bothering you a lot?
+
+PATIENT T382
+No.
+
+DOCTOR T382
+Not bothering at all?
+
+PATIENT T382
+No it's not bothering me at all.
+
+DOCTOR T382
+So that's going to be basically an elective surgery.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+So if you want to do it, if you want to fix it, I just refer you to the Surgery surgeon.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+Because if it's not bothering you at all right now.
+
+PATIENT T382
+Just leave it alone.
+
+DOCTOR T382
+And if you want to wait, you could just leave it alone.
+
+PATIENT T382
+No there's no pain or anything, no discomfort.
+
+DOCTOR T382
+Yeah.  Um if you have a pain in a hernia, that's kind of an emergency so you have to come.
+
+PATIENT T382
+Right okay.
+
+DOCTOR T382
+But you don't have any pain right now.
+
+PATIENT T382
+No.
+
+DOCTOR T382
+Then uh you can wait, it's up to you.
+
+PATIENT T382
+No it wasn't, well actually the only thing there was a little bit of swelling.  There wasn't no active pain that even occurred.
+
+DOCTOR T382
+Okay let me take a look okay.  Alright so your blood pressure medicines and you still have the blood pressure medicines or do you need refills?
+
+PATIENT T382
+No I think I'm okay @@@ today.  I think a couple of these.  Look at the, I mean I have that and basically I think it's good till March or April of 2007, @@@ I don't know what the number is.
+
+DOCTOR T382
+So, it's only April @@@@ so I'll refill this one.
+
+PATIENT T382
+Right you have to refill that one.
+
+DOCTOR T382
+And this one's going to be on May.  I'll have to go refill both of them.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+And you have some drops for the eyes.
+
+PATIENT T382
+Right but I'm in the Eye Clinic.
+
+DOCTOR T382
+Oh okay so they can refill that.
+
+PATIENT T382
+Right, right.
+
+DOCTOR T382
+On your eyes.  Have you had an ultrasound of your kidneys before?  Do you remember?
+
+PATIENT T382
+Uh I don't remember.  More than likely yes but that's why I think they said it was just something we have to watch.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+I think I have.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+Because I've been on hydrochlorothiazide for so many years.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+Uh, I don't know, how many years.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+So.
+
+DOCTOR T382
+So hydrochlorothiazide you get 60 pills at a time, I'll change it so you can get 90 pills at a time and then three refills that'll last you for one year.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+I'll send you this.  And what time do you take the blood pressure pills?
+
+PATIENT T382
+In the morning.
+
+DOCTOR T382
+In the morning.  Morning is fine but I actually.  Do you check your blood pressure at home?
+
+PATIENT T382
+I can.
+
+DOCTOR T382
+You can, you have a machine there?
+
+PATIENT T382
+Yes.
+
+DOCTOR T382
+Okay so I actually recommend um taking it at night.  The reason is because when you take it in the morning.
+
+PATIENT T382
+Uh-huh.
+
+DOCTOR T382
+It seems in the daytime you have good blood pressure, so when you take it you have a good blood pressure.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+Uh but some people have higher blood pressure when they're sleeping.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+And then those are the times that we have more risks of having some kind of event like you know.
+
+PATIENT T382
+Yeah but if you take it at night you're going to have to get up in the night and go to the bathroom right?
+
+DOCTOR T382
+With @@@?  To you pee more with the @@@?
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+Okay then we can do this.
+
+PATIENT T382
+Right so if I know exactly what you're saying but if you take it at night then you take it, you know you'll have to get up at 4 o'clock in the morning to go to the bathroom.
+
+DOCTOR T382
+Okay so @@@ there is more peeing?
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+So we can keep that in the morning and how about taking the other one, lisinopril at night?
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+Does that make sense?
+
+PATIENT T382
+Yeah.
+
+DOCTOR T382
+But you know, if you take both in the morning, in the daytime you have a good blood pressure and you say okay I'm fine.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+But at night time you may have a high blood pressure and we don't know.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+So if you sleep at night then in the daytime you'll see you know your higher blood pressures.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+And if that's controlled I would say don't lower it.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+Do you see what I am saying?
+
+PATIENT T382
+I know exactly what you're saying.  No I understand completely.  I've been coming here to the doctors for, no, no I understand.
+
+DOCTOR T382
+Yeah.
+
+PATIENT T382
+Exactly what you're saying.
+
+DOCTOR T382
+Yeah.
+
+PATIENT T382
+That makes all the sense in the world.
+
+DOCTOR T382
+Okay.  So let's do that.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+And then there's one shot called Dtap.  I don't know if you've had that before um tetanus, diphtheria, pertussis.  I don't think you had that before.  It prevents from three diseases, tetanus, diphtheria, pertussis.
+
+PATIENT T382
+Have I ever had it before?
+
+DOCTOR T382
+You had one called tetanus D.
+
+PATIENT T382
+Yes, yes.
+
+DOCTOR T382
+To prevent tetanus and diphtheria.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+That didn't cover pertussis.
+
+PATIENT T382
+What is pertussis?
+
+DOCTOR T382
+That's what's called uh.
+
+PATIENT T382
+Whooping cough?
+
+DOCTOR T382
+Whooping cough yes and so right now we have this new vaccine so the recommendation from the top is that.
+
+PATIENT T382
+You ask the patient do they want it?
+
+DOCTOR T382
+Yeah we have to ask.
+
+PATIENT T382
+@@@.
+
+DOCTOR T382
+And if the patient is younger than 65.
+
+PATIENT T382
+Uh-huh.
+
+DOCTOR T382
+We recommended everybody to get those um vaccines.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+So if you don't mind we can do that today.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+Okay let's do that.
+
+PATIENT T382
+I'm doing it because you're new and I like you.
+
+DOCTOR T382
+Then you had a polyp when they did the colonoscopy in 2007.
+
+PATIENT T382
+Right I had a polyp right.
+
+DOCTOR T382
+So the recommendation for you is to repeat the colonoscopy in five to seven years.
+
+PATIENT T382
+That's right.
+
+DOCTOR T382
+So five years is going to be 2012.
+
+PATIENT T382
+That's this year?
+
+DOCTOR T382
+It's this year.
+
+PATIENT T382
+Has it been that long?
+
+DOCTOR T382
+And seven years is going to be uh 2014.
+
+PATIENT T382
+Right.  So I need to be scheduled for a colonoscopy this year.
+
+DOCTOR T382
+Yeah I think if you want to schedule, we can schedule this year.
+
+PATIENT T382
+Yep.
+
+DOCTOR T382
+Okay.  
+
+PATIENT T382
+No problem.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+Sounds good.
+
+DOCTOR T382
+Okay.  And uh labs, we'll get all the labs we need.  So I was thinking that you might do that so I ordered the lab tests that we need, yeah @@@ great.  So I'll just schedule it.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+I'll just schedule it and you get the colonoscopy.
+
+PATIENT T382
+Okay.  Yeah they'll call me and say @@@ they don't tell you the reserve day.  @@@.
+
+DOCTOR T382
+Okay.  You had the ultrasound I can't see it here.
+
+PATIENT T382
+And that had to be quite a while ago um when I was in Arizona and it might have been oh six or seven years ago now.  It might need to be repeated if you want another one.
+
+DOCTOR T382
+Oh okay.  Do you remember having one?
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+A renal ultrasound and they said it was normal?
+
+PATIENT T382
+Right.  Okay now it had to be during the summer in maybe 2000.
+
+DOCTOR T382
+Okay, okay.  So let's see what you got on your hermia, okay.  Do you smoke sir?
+
+PATIENT T382
+No never have.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+Not one cigarette in my whole life.
+
+DOCTOR T382
+Do you drink?
+
+PATIENT T382
+No.
+
+DOCTOR T382
+Okay.  Um how's your weight doing?
+
+PATIENT T382
+Uh I might have gained about 10-15 pounds.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+In the last year.
+
+DOCTOR T382
+Okay are you watching your diet?
+
+PATIENT T382
+No.
+
+DOCTOR T382
+Okay, take a deep breath.
+
+PATIENT T382
+Uh no, am I watching my diet, uh try to eat normal.  I don't eat, I don't eat, real good food and vegetables and stuff like that but.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+Yeah so this is a, yeah you're right, this is a hernia.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+Um, @@@.  So it's up to you.  If it's bothering you and you think you want a surgery, you can be referred to Surgery.  I can refer you to Surgery if you want to talk to them um but if you think it's not bothering you right now, unless.
+
+PATIENT T382
+It's bothering me in pain right.
+
+DOCTOR T382
+Right, right, right.
+
+PATIENT T382
+No there's no pain.
+
+DOCTOR T382
+Or does it feel like something's hanging and it's feeling ordinary or no?
+
+PATIENT T382
+I just know it's a true @@@.  But see the thing is, sometimes when I urinate it makes a sound.
+
+DOCTOR T382
+Uh-huh.
+
+PATIENT T382
+Cause you know the opening there so it makes a sound.
+
+DOCTOR T382
+Uh-huh.
+
+PATIENT T382
+That's the only thing that I've noticed.  Other than that there's really no pain or anything.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+So is the surgery outpatient?  @@@.
+
+DOCTOR T382
+Um I'm not sure.  I come from other countries.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+So where I did my training we used to um have people stay for three or four days um but I don't know how they do, I can ask.
+
+PATIENT T382
+Yeah right, ask them, ask somebody.  Do they do it.
+
+DOCTOR T382
+If it is an outpatient do you want to do it?
+
+PATIENT T382
+Yeah.
+
+DOCTOR T382
+If it's an outpatient.  
+
+PATIENT T382
+And so mostly what I would do is go on the internet and they will show the surgery because they actually show the whole physical surgery on the internet and this was back in 2000 and they were saying it wasn't outpatient then so I was thinking this is 2012, it ought to be outpatient now.
+ 
+DOCTOR T382
+After all this time, with shorter stays in the hospital.
+
+PATIENT T382
+Yeah right, right, so you can ask yeah.
+
+DOCTOR T382
+If it's an outpatient you want the surgery.
+
+PATIENT T382
+The surgery right.
+
+DOCTOR T382
+Alright.  Do you ming getting up?
+
+PATIENT T382
+I don’t mind.
+
+DOCTOR T382
+@@@.  Take a deep breath, breathe out, deep breath, breathe out good.  Okay so uh do you work sir?  What do you do for work?
+
+PATIENT T382
+Uh I'm a tutor.  I tutor English and Math in the Chicago Public Schools.
+
+DOCTOR T382
+Oh okay.  How old do you teach?
+
+PATIENT T382
+Huh?  Oh fifth graders.
+
+DOCTOR T382
+Fifth graders.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+Do you have any family member that had a major illness, cancer or early heart attack?
+
+PATIENT T382
+No.  My father had a stroke but that was like 25 years ago.
+
+DOCTOR T382
+How old was he?
+
+PATIENT T382
+He is 88 next week, 88 no 89 next week.
+
+DOCTOR T382
+So he was like 64 then.
+
+PATIENT T382
+Right, right.
+
+DOCTOR T382
+Okay, alright, sounds good.
+
+PATIENT T382
+Both my parents are still living.
+
+DOCTOR T382
+That's great.  Do you have a, who do live with?
+
+PATIENT T382
+Huh?
+
+DOCTOR T382
+Who do you live with?
+
+PATIENT T382
+Oh I live with my wife.
+
+DOCTOR T382
+Oh, do you have any children?
+
+PATIENT T382
+I have two sons but they're both out on their own, uh an 18-year-old.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+He'll be graduating and @@@ western suburbs.
+
+DOCTOR T382
+Oh I see, I see.  And you have never had surgery before right?
+
+PATIENT T382
+No. Other than, uh no. No, you don’t consider the scope as surgery no that's just a procedure. 
+
+DOCTOR T382
+That's just a procedure.
+
+PATIENT T382
+No, uh uh.  No no major surgery or anything like that.
+
+DOCTOR T382
+Okay.  And then um okay.  You don't want to do the flu shot.
+
+PATIENT T382
+Yeah I refuse the flu shot but I'll take the other shot because you're the new guy in the neighborhood.
+
+DOCTOR T382
+Okay, okay.  Do you take any other um?
+
+PATIENT T382
+Do I take any supplements?
+
+DOCTOR T382
+Yeah.
+
+PATIENT T382
+No, no, no.
+
+DOCTOR T382
+Nothing okay.
+
+PATIENT T382
+No, no. 
+
+DOCTOR T382
+Alright and have you ever talked about an Advanced Directive and stuff?
+
+PATIENT T382
+Talked about what?
+
+DOCTOR T382
+Advanced Directive or Living Will, Power of Attorney?
+
+PATIENT T382
+Yeah I think I have that all in place.
+
+DOCTOR T382
+And they have it here?
+
+PATIENT T382
+Yes.
+
+DOCTOR T382
+So you have a Power of Attorney right?
+
+PATIENT T382
+Yes.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+It would be my wife or my sister; I don't remember what I put on the paper.
+
+DOCTOR T382
+Oh okay.
+
+PATIENT T382
+But it's in place.  I think it was my sister because I haven't been married that long.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+A little over a year.
+
+DOCTOR T382
+Well that's it, so the only thing I have to ask is if the hernia repair is an outpatient @@@.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+Alright.
+
+DOCTOR T382
+Okay, you sit here; I'll just come back okay.
+
+PATIENT T382
+Okay I'll be here.
+
+(DOCTOR OUT:  49:31  DOCTOR IN:  53:29)
+
+DOCTOR T382
+Okay sir.  So I asked about the hernia and you see like in the private sector they do it as a one day outpatient procedure, but here at the VA we usually keep you overnight.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+So it's going to be @@@ procedure but if you want to do that I can refer you to Surgery.
+
+PATIENT T382
+No overnight is one day.  
+
+DOCTOR T382
+So I'll just refer you to the Surgery.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+And uh.
+
+PATIENT T382
+They're gonna call me.
+
+DOCTOR T382
+Yeah they're gonna call you.  Okay.
+
+PATIENT T382
+Okay, alright.
+
+DOCTOR T382
+So @@@ you're doing great.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+I think I'll see you in one year.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+Is that okay or do you want to see more?
+
+PATIENT T382
+No.
+
+DOCTOR T382
+Fine.
+
+PATIENT T382
+No that's good.  I'll be back in a couple of months with the hernia surgery and you'll probably be here anyway.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+Alright.
+
+DOCTOR T382
+And uh yeah.  And the only think I would say, you need to lose a little more weight.
+
+PATIENT T382
+Right.
+
+DOCTOR T382
+Definitely so you can watch your diet.
+
+PATIENT T382
+Right well the summer is coming so.
+
+DOCTOR T382
+Are you exercising?
+
+PATIENT T382
+Yeah in the summer.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+In the winter it's kind of hard.
+
+DOCTOR T382
+I know.
+
+PATIENT T382
+I've put on some weight.  Cause I've been locked in.
+
+DOCTOR T382
+Yeah.
+
+PATIENT T382
+Yeah.
+
+DOCTOR T382
+So exercise you know.  It's difficult to be working, if you have time.
+
+PATIENT T382
+Yeah in the @@@ walking.
+
+DOCTOR T382
+Oh okay.
+
+PATIENT T382
+@@@.
+
+DOCTOR T382
+Yeah usually reducing what you eat is the most effective way.
+
+PATIENT T382
+I tell wife my all the time.  @@@.
+
+DOCTOR T382
+Okay, okay.
+
+PATIENT T382
+That's enough amount and @@@.
+
+DOCTOR T382
+Okay @@@.
+
+PATIENT T382
+But I know what you're saying.  Alright so where @@@.
+
+DOCTOR T382
+So you're going to get the Pharmacy.
+
+PATIENT T382
+Yeah, right, right, so go out. Welcome aboard. @@@ over here or somebody's going to call me and I get @@@ and have it removed.
+
+DOCTOR T382
+Yeah so let's see.  @@@.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+Oh my nurse wasn't there but any nurse can do it.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+So this is where you can check out and they'll direct you to the Pharmacy.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+Okay.
+
+PATIENT T382
+Alright good @@@.
+
+DOCTOR T382
+Now I think the Surgery is right here.
+
+PATIENT T382
+Okay.
+
+DOCTOR T382
+Take care.
+
+PATIENT T382
+Thank you, you have a good one.
+
+DOCTOR T382
+Thank you.  Take care.
+
+PATIENT LEAVES:  56:00
+
+Time is @@@.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255103
+TRANSACTION # 578-10-2-316-0103

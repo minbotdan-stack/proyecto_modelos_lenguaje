@@ -1,0 +1,779 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+ 
+DOCTOR P230
+PATIENT?
+
+PATIENT P230
+How are you doctor?
+
+DOCTOR P230
+Good, how are you sir?
+
+PATIENT P230
+Fine.  It's been a while since I've been here.
+
+DOCTOR P230
+It's been a while, sorry to keep you waiting.
+
+PATIENT P230
+Well I had to cancel twice before so I'm kind of running out of prescriptions.
+
+DOCTOR P230
+Oh sure.  No problem.
+
+PATIENT P230
+I made it a point to make it for this one.
+
+DOCTOR P230
+Well thanks and I'm sorry but we had some add-ons today.  One of the other doctors had to cancel their clinic so it backed me up just a little bit.
+
+PATIENT P230
+Okay.
+
+DOCTOR P230
+Let me get your chart over here.
+
+PATIENT P230
+Okay.
+
+DOCTOR P230
+How have you been?
+
+PATIENT P230
+I've been fine so far.
+
+DOCTOR P230
+Good.
+
+PATIENT P230
+So far so good.  Putting a lot of hours as a bank guard.  Averaging anywhere from 55-60 hours a week so.
+
+DOCTOR P230
+Wow, that's a lot.
+
+PATIENT P230
+A lot of standing.  Yeah.
+
+DOCTOR P230
+But it's nice to have a job.
+
+PATIENT P230
+That's true.
+
+DOCTOR P230
+Um cause you uh, that's a lot of work for a retired.
+
+PATIENT P230
+Yeah well twice I did retire.
+
+DOCTOR P230
+Yeah.
+
+PATIENT P230
+But I went back to work.  I got tired of sitting around.  Only so much painting and fishing you could do.
+
+DOCTOR P230
+Well you probably, you know people that have things to do live longer.
+
+PATIENT P230
+That's true.  If you're going to be a couch potato you're going to be dead in a year.  You got to keep moving.
+
+DOCTOR P230
+Alright.  So I saw you last February is that right?
+
+PATIENT P230
+Correct.
+
+DOCTOR P230
+Alright and let's see what we did for you then.
+
+PATIENT P230
+Oh you gave me a flu shot and I got another one today.
+
+DOCTOR P230
+Good.  And you had your eyes checked?
+
+PATIENT P230
+Yep.  @@@.
+
+DOCTOR P230
+Every thing’s okay?
+
+PATIENT P230
+Every thing’s fine so far.  I got an appointment to see him February the 23rd.
+
+DOCTOR P230
+Okay good.  Alright and let's see here.  So you've had bypass surgery.
+
+PATIENT P230
+Yes.
+
+DOCTOR P230
+Uh high blood pressure?
+
+PATIENT P230
+Yes.
+
+DOCTOR P230
+That's about it.
+
+PATIENT P230
+That's it.
+
+DOCTOR P230
+About right?
+
+PATIENT P230
+Right no heart attacks, uh no strokes that I'm aware of.
+
+DOCTOR P230
+Good.  Good, alright.
+
+PATIENT P230
+I'm pushing the big 78 come September.
+
+DOCTOR P230
+Good deal.  When did you have your bypass, how old were you?
+
+PATIENT P230
+Uh 98, I was in my 60s I believe, 65.
+
+DOCTOR P230
+Did you have a heart attack?
+
+PATIENT P230
+Nope.  Never had a heart attack.
+
+DOCTOR P230
+Good.
+
+PATIENT P230
+No stroke that I'm aware of.
+
+DOCTOR P230
+Right you just told me that.
+
+PATIENT P230
+Yeah.
+
+DOCTOR P230
+Alright and your blood pressure is a little high today it looks like.
+
+PATIENT P230
+Yes.  Uh I have a monitor at home and I've been getting, like I said anywhere between 160 and 180.  Uh sometimes it'll drop down to 150/60, you know so it depends.
+
+DOCTOR P230
+Hmm.  And we have you taking four medications?
+
+PATIENT P230
+Yes.  I've got them all listed here, simvastatin, @@@, hydrochlorothiazide, metoprolol and losartan.
+
+DOCTOR P230
+Losartan yeah.
+
+PATIENT P230
+Uh the one that I don't need and I got plenty of is gemfibrozil.
+
+DOCTOR P230
+Gemfibrozil?
+
+PATIENT P230
+Yeah.  I got two of them but right now I'm low on simvastatin @@@.
+
+DOCTOR P230
+Okay.
+
+PATIENT P230
+But we can order them I guess through the.
+
+DOCTOR P230
+You want them through the mail?
+
+PATIENT P230
+Yeah you can go through the mail or either I can pick them up tonight if you want.
+
+DOCTOR P230
+Whatever you want.
+
+PATIENT P230
+Well I'll pick them up tonight if they have them ready.  How long will it take them, about an hour?
+
+DOCTOR P230
+I don't know, it depends on how many people are down there.  Whatever is most convenient for you.
+
+PATIENT P230
+Well I have nothing to do so I can sit down there and wait I guess.  But since I met with you, my son one went down to @@@ in March my son had a slight heart attack.
+
+DOCTOR P230
+Oh I'm sorry to hear that.
+
+PATIENT P230
+They did a bypass and what do you call those stents, put two stents in.
+
+DOCTOR P230
+That's good.
+
+PATIENT P230
+Two stents, yeah he's doing fine now.
+
+DOCTOR P230
+Oh that's good.
+
+PATIENT P230
+But he's on the same blood pressure medication and the whole bit.
+
+DOCTOR P230
+How old is he?
+
+PATIENT P230
+The youngest son is 50.
+
+DOCTOR P230
+That's early to have a heart attack.
+
+PATIENT P230
+Right.  Right, it runs in the family yeah.
+
+DOCTOR P230
+Yeah, yeah.  Alright let's see what we got for you.
+
+PATIENT P230
+See my brother had one; of course he's passed away now what six years, seven years.  
+
+DOCTOR P230
+So your cholesterol looks good.
+
+PATIENT P230
+Uh-huh.
+
+DOCTOR P230
+Um.
+
+PATIENT P230
+What's the cholesterol reading?
+
+DOCTOR P230
+Well that was a year ago so I may need to repeat that soon.  I don't think we need to today.  Um you've probably eaten, you've eaten today?
+
+PATIENT P230
+Yeah well I cheated today, I had a hot dog and uh tamale, which I shouldn't have, I know.
+
+DOCTOR P230
+What I'll do is I'm going to order a fasting cholesterol test for you.  You can come back anytime to do it, there's no rush okay.  Your cholesterol looks great.
+
+PATIENT P230
+Okay.
+
+DOCTOR P230
+Um and when you do come back and get the other lab I'm going to order as well.  
+
+PATIENT P230
+Okay.
+
+DOCTOR P230
+This just checks on your kidney functions.
+
+PATIENT P230
+Oh okay.
+
+DOCTOR P230
+Which we need to keep an eye on because of your blood pressure.
+
+PATIENT P230
+Right.
+
+DOCTOR P230
+Well I'll have you sit over there.
+
+PATIENT P230
+Alright.
+
+DOCTOR P230
+Okay.  Check your blood pressure there.
+
+PATIENT P230
+Okay, what's with the.
+
+DOCTOR P230
+We'll try it.
+
+PATIENT P230
+Alright.
+
+DOCTOR P230
+We'll try it.
+
+PATIENT P230
+She did the last time.
+
+DOCTOR P230
+We'll be consistent then.
+
+PATIENT P230
+Yeah.
+
+DOCTOR P230
+Are you a Bears fan?
+
+PATIENT P230
+Not really.
+
+DOCTOR P230
+Yeah.
+
+PATIENT P230
+But if they make it past this one then they deserve it.
+
+DOCTOR P230
+There you go.  If they can beat Seattle right?
+
+PATIENT P230
+Right.  I've been betting against them all year.  At the time I bet with them they lost.
+
+DOCTOR P230
+That's right.  Lift up on the elbow a little bit.
+
+PATIENT P230
+Okay.
+
+DOCTOR P230
+There you go.  If you're flexed it'll make it seem higher.
+
+PATIENT P230
+Yeah.
+
+DOCTOR P230
+Okay that's better.  It says 130.
+
+PATIENT P230
+130 yeah it came down quite a bit.
+
+DOCTOR P230
+Yeah.
+
+PATIENT P230
+Yeah.
+
+DOCTOR P230
+But at home though, at home it's 150s you said?
+
+PATIENT P230
+Well I usually take it at night and I shouldn't do that, I should take it earlier in the day but I'm working during the day and these hours are something like 10 1/2 hours at the bank.
+
+DOCTOR P230
+That's a lot.
+
+PATIENT P230
+Right and by the time I get home, that's the only time I can take it is at night.
+
+DOCTOR P230
+Yeah it's probably not the best time to read it.
+
+PATIENT P230
+Right and it's at night so.
+
+DOCTOR P230
+What time do you get up in the morning?
+
+PATIENT P230
+I get up at 5 in the morning.
+
+DOCTOR P230
+What time do you go to work?
+
+PATIENT P230
+I'll be there before 8.
+
+DOCTOR P230
+Could you take it before you leave for work?
+
+PATIENT P230
+I could take that in the morning yeah sure.
+
+DOCTOR P230
+I wouldn't do it the first time.
+
+PATIENT P230
+No I wouldn't either because you got to get the blood circulating.
+
+DOCTOR P230
+So do you have breakfast?
+
+PATIENT P230
+Well I have a banana usually, I don't eat too much for breakfast.
+
+DOCTOR P230
+Okay, so get up, have your banana and coffee, whatever.  Do you take coffee?
+
+PATIENT P230
+Yeah.
+
+DOCTOR P230
+Caffeine?
+
+PATIENT P230
+Uh yeah regular coffee black.
+
+DOCTOR P230
+How early do you have that after getting up?  First thing or?
+
+PATIENT P230
+Oh maybe about 5:10, maybe 5:15, we got the timer on the coffee pot so if it's not on I'll turn it on.  @@@.
+
+DOCTOR P230
+So why don't you get up in the morning um.
+
+PATIENT P230
+Yeah.
+
+DOCTOR P230
+Wash your face or whatever you do and then uh take your blood pressure and then have your coffee.
+
+PATIENT P230
+Alright, sounds good.
+
+DOCTOR P230
+Hang tight for me; um I'll be right back okay.
+
+PATIENT P230
+Alright.  I won't have to take a number down there for the prescriptions will I?
+
+DOCTOR P230
+I don't think so.
+
+PATIENT P230
+@@@.
+
+DOCTOR P230
+I've already put the order in and I will send them down there.
+
+PATIENT P230
+Alright.
+
+DOCTOR P230
+Um and when was your last colonoscopy?  Do you know?
+
+PATIENT P230
+Hmm maybe three years ago.
+
+DOCTOR P230
+Here?
+
+PATIENT P230
+No, I got it at a doctor's office.  They had a doctor and I can't remember his name now.
+
+DOCTOR P230
+Do you smoke?
+
+PATIENT P230
+No I quit in '94.  '84, I'm sorry.
+
+DOCTOR P230
+What about alcohol, do you use alcohol?
+
+PATIENT P230
+I have a drink maybe occasionally once a week, a beer or maybe a highball or something.
+
+DOCTOR P230
+Uh-huh.
+
+PATIENT P230
+But nothing daily.
+
+DOCTOR P230
+Uh-huh.  Okay.  And then let's see, did they do the neck exam?  It's ENT.
+
+PATIENT P230
+Uh they did it here I believe.
+
+DOCTOR P230
+Let's see here.  Yeah.
+
+PATIENT P230
+They said something about it was going the other way cause I had one of the arteries was done on the right side and I think it's working good I guess.  The other side I guess is blocked.
+
+DOCTOR P230
+And you saw the Peripheral Vascular surgeons?
+
+PATIENT P230
+Uh-huh.
+
+DOCTOR P230
+And they wanted to see you in one year, do you have an appointment with them, let's see.  Hmmm  You're just supposed to follow up with the vascular surgeon within the next couple months.
+
+PATIENT P230
+Okay.
+
+DOCTOR P230
+Okay.
+
+PATIENT P230
+That's that uh sound test again?
+
+DOCTOR P230
+Yeah I think they're going to check to make sure they don't need to do anything because it was.
+
+PATIENT P230
+They said there was nothing they could do.
+
+DOCTOR P230
+Huh.
+
+PATIENT P230
+That's what he told me the last time, so that's why I didn't.  I figured well it was working on one side, it's good enough.  When I that shuts down it's through.
+
+DOCTOR P230
+Okay.  
+
+PATIENT P230
+But he said he got a good sound on my right side so.
+
+DOCTOR P230
+Good deal.  Almost done, I just got to look up.
+
+PATIENT P230
+Uh-huh oh yeah.
+
+DOCTOR P230
+I got a new warning on gemfibrozil.  I want to make sure I don't miss something on that.
+
+PATIENT P230
+Uh-huh.  Well I'm just taking a half a tablet every night before bed along with the other uh simvastatin.
+
+DOCTOR P230
+Uh-huh.
+
+PATIENT P230
+I have to take a tablet and one half at bedtime.
+
+DOCTOR P230
+Okay.  I just want to make sure I get this warning here.  Okay.  Alright.  I'm going to have you get some labs in a month like we talked about.
+
+PATIENT P230
+Uh-huh.
+
+DOCTOR P230
+Uh and actually let me take a listen to your heart and lungs here.
+
+PATIENT P230
+You want this off?
+
+DOCTOR P230
+Yeah it's probably a good idea.  Snow coming down at all today?
+Any snow coming down?
+
+PATIENT P230
+No snow today @@@
+
+DOCTOR P230
+@@@. What bank do you work at?
+
+PATIENT P230
+Uh Fifth Third.
+
+DOCTOR P230
+Oh.
+
+PATIENT P230
+I'm what they call a rover, well it's not just one bank it's a lot of banks that go through.
+
+DOCTOR P230
+Sure.  You can leave that on, that's fine.
+
+PATIENT P230
+Alright.
+
+DOCTOR P230
+Okay.
+
+PATIENT P230
+A banks and uh @@@ Avenue @@@.
+
+DOCTOR P230
+Uh-huh.
+
+PATIENT P230
+I'm at that one and the one at Oak Lawn, @@@.
+
+DOCTOR P230
+Hmm.
+
+PATIENT P230
+@@@ Park I'm there two days a week.  @@@.
+
+DOCTOR P230
+Can you breathe in?  Deep breath for me, good.  Deep breath, deep breath, good.  Do one more.  Okay.  Any pain in your abdomen at all?
+
+PATIENT P230
+No.
+
+DOCTOR P230
+Any muscle pains or aches?
+
+PATIENT P230
+No.
+
+DOCTOR P230
+Okay.  Do you have any swelling?  Are you swollen by the end of the day?
+
+PATIENT P230
+No, not usually.
+
+DOCTOR P230
+How's your fatigue and stress levels with uh all that work?
+
+PATIENT P230
+Not too bad.  Well the feet get tired you know.
+
+DOCTOR P230
+Yeah.
+
+PATIENT P230
+I'm standing all the time.
+
+DOCTOR P230
+Yeah.
+
+PATIENT P230
+But outside of that.
+
+DOCTOR P230
+And you're not too stressed?
+
+PATIENT P230
+No.
+
+DOCTOR P230
+Good.  Hang tight for me and I'll be right back.
+
+PATIENT P230
+Okay will do.  Shirt back on?
+
+DOCTOR P230
+Yeah, you're fine.
+
+(DOCTOR OUT:  73:00  DOCTOR IN:  77:45)
+
+DOCTOR P230
+Alright.  I'm going to go up on one of your medications today.  I'm going to increase one of your medications, the amlodipine.
+
+PATIENT P230
+The little one?
+
+DOCTOR P230
+Yeah from 5 to 10.
+
+PATIENT P230
+Okay.
+
+DOCTOR P230
+Your pressures, you know if they're in the 150s and I get only 130s today but we probably need yours lower given how the extensive disease you've had.
+
+PATIENT P230
+Right.
+
+DOCTOR P230
+Just to keep those pressures safer for you.
+
+PATIENT P230
+Okay.
+
+DOCTOR P230
+And then in a month when you come back um we'll check your blood pressures to see how it's going and we'll have you get those labs, some fasting labs first and then we can see how you're cholesterol is doing and see how your kidney function is doing as well.
+
+PATIENT P230
+Alright.
+
+DOCTOR P230
+Okay.
+
+PATIENT P230
+Sounds good doc.
+
+DOCTOR P230
+Okay.  Let me get those medications refilled for you.  I'm going to change that one.  Okay.  Okay, you're all set.
+
+PATIENT P230
+Okay doc.
+
+DOCTOR P230
+See you in a month.
+
+PATIENT P230
+Yes sir.
+
+DOCTOR P230
+Stop in sometime before that and get your blood drawn.
+
+PATIENT P230
+Okay I'll do that. Uh just anywhere downstairs in the clinic or?
+
+DOCTOR P230
+Um yeah you can do it on the first floor.
+
+PATIENT P230
+On the first floor?
+
+DOCTOR P230
+Yep, I don't know their hours but if you come early enough um.
+
+PATIENT P230
+I'll be here at 8 o'clock, if I get it early enough.
+
+DOCTOR P230
+Yeah and now you can just grab breakfast afterwards that way.
+
+PATIENT P230
+Okay, sound good.
+
+DOCTOR P230
+That way @@@.
+
+PATIENT P230
+Sounds good.
+
+DOCTOR P230
+So um.  Okay stay warm out there.
+
+PATIENT P230
+I try.
+
+DOCTOR P230
+And um take this with you to check out.
+
+PATIENT P230
+Oh okay.
+
+DOCTOR P230
+Just hand that to them out front.
+
+PATIENT P230
+Okay.
+
+DOCTOR P230
+Good to see you sir.
+
+PATIENT P230
+Have a good one sir.
+
+DOCTOR P230
+Happy New Year.
+
+PATIENT P230
+Yeah same to you and many more.
+
+DOCTOR P230
+To you as well.
+
+PATIENT P230
+Yes sir.
+
+PATIENT LEAVES:  81:16
+
+Time is 3:54.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1246972
+TRANSACTION # 578-10-2-316-0103

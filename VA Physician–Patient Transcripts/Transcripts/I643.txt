@@ -1,0 +1,1385 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR I643 
+How are you today?
+ 
+PATIENT I643
+Oh you're the doc, okay.
+
+DOCTOR I643
+Hi DOCTOR.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Nice to meet you.
+
+PATIENT I643
+Alright thank you, alrighty.
+
+DOCTOR I643
+How you doing today?
+
+PATIENT I643
+I'm doing pretty hi, okay doctor.
+
+DOCTOR I643
+Right in here.
+
+PATIENT I643
+Right in here.
+
+DOCTOR I643
+@@@ blood pressure.
+
+PATIENT I643
+Uh yes.
+
+DOCTOR I643
+Let me pull up your chart here.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Order @@@ sent to you?
+
+PATIENT I643
+Yes uh-huh.
+
+DOCTOR I643
+Okay you can stop by there.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Um we used to be able to send it to your house but now they're requiring that you go pick it up so they can show you how to use it.
+
+PATIENT I643
+Okay.  Okay.
+
+DOCTOR I643
+So I guess a lot of them were being sent out and then they think that people either don't know how to use it or don't use it.
+
+PATIENT I643
+Uh-huh.  Or don't use it right.
+
+DOCTOR I643
+To make sure you know how to use it and you actually want to use it.
+
+PATIENT I643
+Yeah and if you know how to use it then you most likely will use it.
+
+DOCTOR I643
+Yeah.
+
+PATIENT I643
+Right.
+
+DOCTOR I643
+Yeah hopefully so.
+
+PATIENT I643
+Okay right uh-huh.
+
+DOCTOR I643
+Any problems right now?
+
+PATIENT I643
+No, but I have been going through nausea.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+I'm taking medicine for it and I have a @@@ heart valve.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+And um I'm finding out that if I take the medicines the way I supposed to.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+You have to take it twice a day, take it twice a day.
+
+DOCTOR I643
+@@@.
+
+PATIENT I643
+Whether you need it.  Whether you're having heart pain or not.
+
+DOCTOR I643
+Yeah.  That's right.
+
+PATIENT I643
+And DOCTOR, @@@ every day.
+
+DOCTOR I643
+Good.
+
+PATIENT I643
+She said no matter how good you feel.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+Even if you haven't eaten anything.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+@@@ take it anyway.
+
+DOCTOR I643
+Yeah, yeah.  So it is keeping it under control.
+
+PATIENT I643
+A lot better.
+
+DOCTOR I643
+Good and the nausea too?
+
+PATIENT I643
+The nausea is a lot better also.
+
+DOCTOR I643
+Okay, that's good.
+
+PATIENT I643
+Now they put me on a medicine called ondansetron.
+
+DOCTOR I643
+Ondansetron.
+
+PATIENT I643
+Ondansetron.
+
+DOCTOR I643
+Zofran @@@ .
+
+PATIENT I643
+Right.
+
+DOCTOR I643
+They gave you.
+
+PATIENT I643
+And then the one uh, one more cause I might have a prescription on it but that worked pretty good too.
+
+DOCTOR I643
+Oh it's something you might need a refill on.
+
+PATIENT I643
+Yes.
+
+DOCTOR I643
+Let's see.  You got it from here?
+
+PATIENT I643
+Yes uh-huh.
+
+DOCTOR I643
+Um let's see.  So the ondansetron or Zofran, that's for your nausea.
+
+PATIENT I643
+That's what he was saying.
+
+DOCTOR I643
+How often are you using that?
+
+PATIENT I643
+I try not to use it unless I really need it.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+Like I soe, I might take one like every three or four days or whenever I need it.
+
+DOCTOR I643
+Okay, okay.
+
+PATIENT I643
+Alright.
+
+DOCTOR I643
+Um and then the other medicine, what was it given to you for?
+
+PATIENT I643
+Uh just for the nauseated.  Because I have a lot of drainage you know.  You know cause my sinuses.
+
+DOCTOR I643
+Yeah, yeah.
+
+PATIENT I643
+With drainage and I take, that made me, that makes me sick.
+
+DOCTOR I643
+From all the drainage?
+
+PATIENT I643
+Right.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+Right and it won't make me feel sick.  
+
+DOCTOR I643
+Let's see.  Let's go through your medicine list.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+So amlodipine?  @@@.
+
+PATIENT I643
+Yeah I take that.
+
+DOCTOR I643
+So you're taking that okay.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Some eye drops are you still using those?
+
+PATIENT I643
+Artificial tears, right yes I use those.
+
+DOCTOR I643
+You use those okay.  Um a baby aspirin 81 mg.
+
+PATIENT I643
+81 right uh-huh.
+
+DOCTOR I643
+Okay.  Do you take cetirizine every day?   That's for the allergies, it's a pill.
+
+PATIENT I643
+Uh that one really wasn't working.
+
+DOCTOR I643
+It wasn't working alright.
+
+PATIENT I643
+Alright yeah.
+
+DOCTOR I643
+You had to be off the medicine.
+
+PATIENT I643
+Right.
+
+DOCTOR I643
+And you're not using it at all.
+
+PATIENT I643
+Uh-huh.
+
+DOCTOR I643
+Um doxazosin for your prostate.
+
+PATIENT I643
+Uh the prostate I take that every night yeah.
+
+DOCTOR I643
+Are you using any of those um nasal sprays anymore?
+
+PATIENT I643
+Yes, yes.
+
+DOCTOR I643
+Are you using both of them cause I think you have a couple of them.  You have flunisolide you have, you have some saline ones and you have um pseudoephedrine.  But no the pseudoephedrine is a tablet, excuse me.
+
+PATIENT I643
+Yeah right okay.
+
+DOCTOR I643
+You have two nasal sprays, are you using both of them?
+
+PATIENT I643
+I'm just using one of them.
+
+DOCTOR I643
+Do you know which one you're using?  Are you using flunisolide or the sodium chloride?
+
+PATIENT I643
+The sodium chloride.
+
+DOCTOR I643
+You're using it okay so I can take that one off then.
+
+PATIENT I643
+Right, right.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+Yeah the sodium chloride.
+
+DOCTOR I643
+Um are you using guaifenesin anymore?  That's like a kind uh, kind of like Robitussin, like a liquid form for your cough.
+
+PATIENT I643
+Yes I want this but I came out here and I didn't have a prescription of it.
+
+DOCTOR I643
+Okay, so that one you wanted a refill for?
+
+PATIENT I643
+Yes, yes, right yes uh-huh.
+
+DOCTOR I643
+So we'll do that.
+
+PATIENT I643
+And uh.
+
+DOCTOR I643
+Do you usually like to pick up your medicines or do you want it mailed to you?
+
+PATIENT I643
+I usually wait on it, I wait on it.  Now I'm out of potassium, I think I have two pills left.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Okay.  Potassium you're running out of.
+
+PATIENT I643
+Right.  You know I get a lot of like pain up in my chest area.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+And so they have checked it, you know the only thing that will really help me would be uh not Tylenol but the other pill.
+
+DOCTOR I643
+Um.
+
+PATIENT I643
+Ibuprofen.
+
+DOCTOR I643
+Ibuprofen.
+
+PATIENT I643
+Ibuprofen would be the only thing and they told me that, it's what he told me years ago, that I had something that they called @@@ arthritis.
+
+DOCTOR I643
+Osteoarthritis?
+
+PATIENT I643
+Well he used skeletonarion, skeletary arthritis.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+And he told me, a couple of doctors said that and I do have a hernia on this side.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+That they used to tape.
+
+DOCTOR I643
+Do you need more ibuprofen?
+
+PATIENT I643
+Yes, right, yes, uh-huh.  Cause Tylenol really don't work too much.
+
+DOCTOR I643
+Sure.  Let's see what else is in the notes.  Um the lansoprazole?  That's @@@.
+
+PATIENT I643
+Uh yes, that's one I take for the heart valve right.
+
+DOCTOR I643
+Uh loratadine, are you using that?
+
+PATIENT I643
+Yes I use that too.
+
+DOCTOR I643
+Oh you use it okay.
+
+PATIENT I643
+I just take one @@@ at bedtime time.
+
+DOCTOR I643
+Um the ondansetron, you're using that every now and then.
+
+PATIENT I643
+Yes uh-huh.
+
+DOCTOR I643
+How many times a day would you say you're using it?
+
+PATIENT I643
+@@@ once a day.
+
+DOCTOR I643
+Once a day.
+
+PATIENT I643
+And if I'm feeling I'll take it in the morning and at times I have to take it maybe about 11 o'clock if I feel sort of nauseated.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+Then I'll take it and that's in the morning.  I never take it at night.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+Uh-huh.
+
+DOCTOR I643
+Uh potassium you're taking, you’re good on that one.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Pseudoephedrine, do you take that every day?
+
+PATIENT I643
+Pseudo?
+
+DOCTOR I643
+It's kind of for congestion.  Usually I don't suggest people take that for long.
+
+PATIENT I643
+No @@@.
+
+DOCTOR I643
+@@@ let’s get ride of that.
+
+PATIENT I643
+I don't take that no.
+
+DOCTOR I643
+Okay.  Now you take the ranitidine as well?
+
+PATIENT I643
+Ranitidine, is that one also for.
+
+DOCTOR I643
+Yeah.
+
+PATIENT I643
+For the heartburn?
+
+DOCTOR I643
+For the heartburn.
+
+PATIENT I643
+Okay what they told me is that they wanted me to take the, the @@@.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+Twice a day.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+And then they said at night you can also take that @@@.
+
+DOCTOR I643
+So leave that in case you need additional coverage.
+
+PATIENT I643
+Right, right.
+
+DOCTOR I643
+Okay.  This is a @@@.
+
+PATIENT I643
+Right yeah, yeah, yeah.
+
+DOCTOR I643
+Okay, okay, alright so I'll leave that one on there.  Um sertraline are you taking that?
+
+PATIENT I643
+Sertraline I'm not taking that.
+
+DOCTOR I643
+You're not taking that anymore?
+
+PATIENT I643
+I'm not.
+
+DOCTOR I643
+Why'd you stop that?
+
+PATIENT I643
+Well you know something I think, this is the one the psychiatrist gave me.
+
+DOCTOR I643
+Yeah.
+
+PATIENT I643
+They gave me.  
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+And I said I got to tell her, it's just that I'm taking so much other medication.
+
+DOCTOR I643
+Yeah, yeah.
+
+PATIENT I643
+I got to tell her, is there @@@ and uh do other things without that medication.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+That makes, I used to have anxiety.
+
+DOCTOR I643
+Yeah.
+
+PATIENT I643
+Attacks all the time.
+
+DOCTOR I643
+Yeah.
+
+PATIENT I643
+Well I found out that if I relax.
+
+DOCTOR I643
+Yeah.
+
+PATIENT I643
+If I relax.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+That anxiety, my thoughts and as quick as it came.
+
+DOCTOR I643
+Yeah.
+
+PATIENT I643
+It's.
+
+DOCTOR I643
+You can relax.
+
+PATIENT I643
+It's gone. @@@ I'm gonna die.
+
+DOCTOR I643
+Sure.
+
+PATIENT I643
+Or I couldn't breathe.
+
+DOCTOR I643
+Sure.
+
+PATIENT I643
+But now, a paramedic came to the house.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+And I told him then I said sir I need some oxygen, I can't breathe, I feel like I'm dying.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+He said well I got oxygen right here.  He says it's so easy to give it to you.
+
+DOCTOR I643
+Yeah.
+
+PATIENT I643
+He said but if I give it to you I be doing you more harm.
+
+DOCTOR I643
+Right yeah.
+
+PATIENT I643
+He said you don't need the oxygen but I'm looking at you and you're not getting ready to die.
+
+DOCTOR I643
+Yeah.
+
+PATIENT I643
+The only reason why your blood pressure is maybe up some is because you're letting it.
+
+DOCTOR I643
+Sure.
+
+PATIENT I643
+You know, cause all that he did was sit there and he said I'm there with you, calm down.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+And I promise you without anything.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+If you think it's gonna happen, it’s not gonna happen.
+
+DOCTOR I643
+Good.
+
+PATIENT I643
+And I couldn't believe it that within a few minutes.
+
+DOCTOR I643
+Yeah.
+
+PATIENT I643
+I can't believe I was the same person.
+
+DOCTOR I643
+Yeah those, I mean anxiety has @@@ weird that you know we don't think that you’re an anxious person, but.
+
+PATIENT I643
+I can't.
+
+DOCTOR I643
+Then it just kind of passes over.
+
+PATIENT I643
+They can tell you.
+
+DOCTOR I643
+Yeah.
+
+PATIENT I643
+And I haven't had, in my mind, I haven't had one now in a year and a half.
+
+DOCTOR I643
+Good, good.
+
+PATIENT I643
+Uh-huh.
+
+DOCTOR I643
+Okay.  So you were on the medicine just for anxiety not for like depression or anything else.
+
+PATIENT I643
+Depression was there but the depression, because I kind have @@@ same way.
+
+DOCTOR I643
+Sure okay.
+
+PATIENT I643
+Realize what I'm depressed doesn't make sense.
+
+DOCTOR I643
+Good, awesome.
+
+PATIENT I643
+Alright.
+
+DOCTOR I643
+I'm glad to hear that then.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Um okay, what else, the simvastatin for the cholesterol?
+
+PATIENT I643
+I take that uh-huh.
+
+DOCTOR I643
+Okay.  The @@@ nasal sprays you said you were taking.
+
+PATIENT I643
+@@@.
+
+DOCTOR I643
+Are you taking the trazodone for sleep?
+
+PATIENT I643
+For the first time last night uh I used one.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+I haven't used one, used it in like.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+Yeah.
+
+DOCTOR I643
+So barely but still sometimes.
+
+PATIENT I643
+Right, right, I was getting 30 and I had 20 left.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+So I took it.  You know I'm okay with that.
+
+DOCTOR I643
+Alright.  Um stool softeners are you taking the dulcosate?
+
+PATIENT I643
+Every once in a while I'm use it.
+
+DOCTOR I643
+Ibuprofen, I’m going to refill, okay.
+
+PATIENT I643
+@@@.
+
+DOCTOR I643
+Um now you told me the anxiety attacks are over so you're not using the @@@ anymore then right?
+
+PATIENT I643
+No, no, no, no, right.
+
+DOCTOR I643
+Um Naproxen are you using that?
+
+PATIENT I643
+Naproxen that's the pain pill?
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+Okay uh not using it that much.
+
+DOCTOR I643
+Okay but every now and then?
+
+PATIENT I643
+Every now and then right.
+
+DOCTOR I643
+And it’s for this pain here?
+
+PATIENT I643
+Right, yeah, yeah.
+
+DOCTOR I643
+Okay, okay.  Alright good.
+
+PATIENT I643
+Uh-huh.
+
+DOCTOR I643
+So.
+
+PATIENT I643
+But the x-ray they did not too long ago.
+
+DOCTOR I643
+Uh-huh.
+
+PATIENT I643
+And it showed, that the letter that I received stated that they didn't see anything else abnormal.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+With it.
+
+DOCTOR I643
+Sure.  Alright um.  Oh you know @@@.
+
+PATIENT I643
+Uh I can't @@@.
+
+DOCTOR I643
+@@@.
+
+PATIENT I643
+@@@.  Yeah.
+
+DOCTOR I643
+That's good.  Let me @@@.  So the ones you're picking up today is the guaifenesin is for the cough.
+
+PATIENT I643
+Yes uh-huh.
+
+DOCTOR I643
+The potassium and the ibuprofen.
+
+PATIENT I643
+And ibuprofen right.
+
+DOCTOR I643
+Anything that you need today?
+
+PATIENT I643
+No I think that's it.  Yeah, uh-huh.
+
+DOCTOR I643
+I think we need to get some lab work on you since it's been quite some time.
+
+PATIENT I643
+Hmm.
+
+DOCTOR I643
+Um let's see @@@ so your cholesterol is going to be @@@.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Uh your prostate, your PSA.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Now that's kind of up to you cause.
+
+PATIENT I643
+Uh-huh.
+
+DOCTOR I643
+So now they’ve made a recommendation to us to just offer it but not to require it.
+
+PATIENT I643
+Alright.
+
+DOCTOR I643
+So it's up to you as a patient whether you want us to check it or not.
+
+PATIENT I643
+What's the prostate?
+
+DOCTOR I643
+The prostate, basically it's a blood test.
+
+PATIENT I643
+Right.  Uh-huh.
+
+DOCTOR I643
+And we monitor @@@.
+
+PATIENT I643
+Right, right.
+
+DOCTOR I643
+So it's kind of up to you whether or not you want me to check it.
+
+PATIENT I643
+Yeah, yeah.  @@@ I think I've had one.  Cause I'm still going to the bathroom a lot so.
+
+DOCTOR I643
+Oh are you?
+
+PATIENT I643
+Yeah, yeah.  Still going to the bathroom a lot.
+
+DOCTOR I643
+How many times a night?
+
+PATIENT I643
+Maybe, maybe like maybe four or five times now and I've been taking that pill.
+
+DOCTOR I643
+In the night?
+
+PATIENT I643
+At night right.
+
+DOCTOR I643
+Okay.  Do you want.  We can, why don't we increase the doxazosin dose then?
+
+PATIENT I643
+Uh if I'm taking it, I'm going to the bathroom a lot.
+
+DOCTOR I643
+Right, why don't you.
+
+PATIENT I643
+I don't have no problem using the bathroom or nothing like that.
+
+DOCTOR I643
+Sure.  You're just going.
+
+PATIENT I643
+I'm just going right.
+
+DOCTOR I643
+Do you um, do you feel that you're really thirsty or really hungry all the time or not?
+
+PATIENT I643
+No, no.
+
+DOCTOR I643
+You @@@ lot at night.
+
+PATIENT I643
+Right, right.
+
+DOCTOR I643
+What about during the day?
+
+PATIENT I643
+I also go during the day @@@.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+But I drink a lot of water now.  I didn’t used to drink a lot of water but I drink a lot of water and I'm was thinking that maybe would be it and I do drink my share of beer.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+Not a lot of beer but a little bit more than what I should.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+But nothing else, no drugs, no cigarettes, no nothing like that uh-huh.
+
+DOCTOR I643
+Well let's increase the dose then.
+
+PATIENT I643
+Okay and I think that's the reason why yeah, yeah.  Cause I was gonna mention that if we could increase @@@.  @@@.
+
+DOCTOR I643
+Okay, you still have a bunch of them left.
+
+PATIENT I643
+Which one are those?
+
+DOCTOR I643
+Of the doxazosin.
+
+PATIENT I643
+Uh yes uh-huh.
+
+DOCTOR I643
+So essentially what I'm doing is doubling the dose.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+So um right now you're taking half a tablet.
+
+PATIENT I643
+Taking half right.
+
+DOCTOR I643
+Okay why don't you start taking a full tablet?
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Okay.  I went ahead and put a new order in here though cause that means you'll run out of it before your refill is due.
+
+PATIENT I643
+Okay, right.
+
+DOCTOR I643
+So I went ahead and changed the order in the computer okay.
+
+PATIENT I643
+Okay, okay.
+
+DOCTOR I643
+So let's see if that helps a little bit.
+
+PATIENT I643
+Okay, alrighty.
+
+DOCTOR I643
+Are you seen in the GU Clinic here?  It doesn't look like you are.  Well why don't we try that change.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+If that change doesn't work then we'll send you to the urinary doctors.
+
+PATIENT I643
+Oh okay.
+
+DOCTOR I643
+They're the specialists.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Cause they have access to more medicines and they can order more stuff than us.
+
+PATIENT I643
+Okay, so instead of just taking a half at night.
+
+DOCTOR I643
+Take a full tablet.
+
+PATIENT I643
+I take a full tablet okay.
+
+DOCTOR I643
+Yeah, yeah and then when your, when you run out then the next prescription will reflect the whole tablet.
+
+PATIENT I643
+Oh okay, alrighty.
+
+DOCTOR I643
+Um let's see what else.  I think that's everything for you.  So you had a colonoscopy in @@@@ so we'll need to repeat that next year.
+
+PATIENT I643
+Okay, alright, okay.
+
+DOCTOR I643
+Um and you say you're not using, you’re not smoking now, did you ever smoke in the past?
+
+PATIENT I643
+Never.
+
+DOCTOR I643
+Oh that's good, okay.  I think that's everything unless there's anything you need.
+
+PATIENT I643
+No you've really explained everything quite well for me and I appreciate it.
+
+DOCTOR I643
+No, right, good and your sinuses are good and everything?
+
+PATIENT I643
+They're @@@.
+
+DOCTOR I643
+Okay good, alright.  Let me go run this by my attending okay.
+
+PATIENT I643
+Okay, alright, okay, thank you.
+
+DOCTOR I643
+Alright, no problem.
+
+(DOCTOR OUT:  43:17  DOCTOR IN:  54:38)
+
+DOCTOR I643
+Alright.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Just one little thing um.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+So for the nausea that you're having.
+
+PATIENT I643
+Right.
+
+DOCTOR I643
+You're telling me you are having it every morning right?
+
+PATIENT I643
+Yes uh-huh.
+
+DOCTOR I643
+And you're taking the @@@ in the morning.
+
+PATIENT I643
+Right uh-huh.
+
+DOCTOR I643
+And it usually goes away.
+
+PATIENT I643
+Right uh-huh.
+
+DOCTOR I643
+So since it's only in the morning or you notice it in the morning when you wake up.
+
+PATIENT I643
+Uh-huh.
+
+DOCTOR I643
+It might be reflux because you’re lying down.
+
+PATIENT I643
+Oh okay.
+
+DOCTOR I643
+Up a little bit.
+
+PATIENT I643
+Uh-huh.
+
+DOCTOR I643
+So I know you're taking the lansoprazole twice a day already.
+
+PATIENT I643
+Right, right.
+
+DOCTOR I643
+And I know they told you to do ranitidine only if you need it.
+
+PATIENT I643
+Right.
+
+DOCTOR I643
+But perhaps you should try, keep taking the lansoprazole twice a day.
+
+PATIENT I643
+Right okay.
+
+DOCTOR I643
+And take the ranitidine right before you go to bed every night.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Irregardless of whether or not you feel the reflux cause sometimes you don't feel the reflux pain but you actually do have reflux so.
+
+PATIENT I643
+Oh.
+
+DOCTOR I643
+It may be the reason you have nausea in the morning, who knows.
+
+PATIENT I643
+Oh okay right, okay.
+
+DOCTOR I643
+We'll see if that works.
+
+PATIENT I643
+Uh-huh.
+
+DOCTOR I643
+Um if you, you know if you keep having symptoms and the reflux doesn't get better there's always a surgical option.  I don't know if anyone's talked to you about that or maybe you just didn't want it or anything cause you've got that hernia.
+
+PATIENT I643
+Right, right.
+
+DOCTOR I643
+Cause you do have the reflux because of the hernia.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Some people have reflux just because they do and we don't know why.
+
+PATIENT I643
+Right.
+
+DOCTOR I643
+You actually have a reason to have reflux.
+
+PATIENT I643
+Right okay.
+
+DOCTOR I643
+So we'll try that.  Try scheduling it at night, the ranitidine.  Take it at night even if you don't think you do.
+
+PATIENT I643
+Even okay.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+And then um.
+
+PATIENT I643
+Uh-huh.
+
+DOCTOR I643
+And then we'll see how it goes and we can follow up with the stomach doctors, the GI doctors.
+
+PATIENT I643
+Right okay.
+
+DOCTOR I643
+In a couple months.
+
+PATIENT I643
+Uh-huh.
+
+DOCTOR I643
+Then you can let them know how you're doing and.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Cause they would be the ones who say you know you should do the surgery, now they won't do the surgery.
+
+PATIENT I643
+Right.
+
+DOCTOR I643
+But they can make a suggestion as to whether you need it.
+
+PATIENT I643
+Okay right.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+So the lansoprazole take two in the morning, two in the evening and also, whether I think I need it or not, to take the ranitidine.
+
+DOCTOR I643
+Yes.
+
+PATIENT I643
+I will do that.
+
+DOCTOR I643
+Start doing that.  Okay.
+
+PATIENT I643
+Right, I will do that.
+
+DOCTOR I643
+Alright.  
+
+PATIENT I643
+Uh-huh.
+
+DOCTOR I643
+So the medicines will be in the Pharmacy.
+
+PATIENT I643
+Pharmacy.
+
+DOCTOR I643
+And then in Prosthetics.
+
+PATIENT I643
+Right.
+
+DOCTOR I643
+You can pick up your blood pressure cuff.
+
+PATIENT I643
+Well thank you.  You have been great.
+
+DOCTOR I643
+Okay.
+
+PATIENT I643
+You have relaxed me.  You have explained everything so perfectly to me and I really appreciate it.
+
+DOCTOR I643
+Alright, alright.  We'll send you a letter when you need to come back to me.
+
+PATIENT I643
+Okay.
+
+DOCTOR I643
+Okay alright.
+
+PATIENT I643
+Alright, okay and thank you again now.
+
+DOCTOR I643
+Have a good night.
+
+PATIENT I643
+Alrighty.
+
+DOCTOR I643
+Alright.
+
+PATIENT I643
+Oh right here.
+
+DOCTOR I643
+Oh yeah.
+
+PATIENT I643
+You're not from Japan are you?
+
+DOCTOR I643
+No uh uh.
+
+PATIENT I643
+Okay I was gonna say cause I wasn't actually @@@.
+
+DOCTOR I643
+Oh gotcha yeah no, no.
+
+PATIENT I643
+Okay alright.  Okay have a good day.
+
+DOCTOR I643
+Sure, no problem.
+
+PATIENT I643
+Alright bye bye.
+
+DOCTOR I643
+Bye.
+
+PATIENT LEAVES:  57:12
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286124
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,347 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR M412
+PATIENT.
+
+PATIENT M412 
+Right here.
+
+DOCTOR M412
+How are you?
+
+PATIENT M412
+I'm doing pretty good.
+
+DOCTOR M412
+Your blood pressure is a little high today.
+
+PATIENT M412
+Yeah.
+
+DOCTOR M412
+Are you taking your meds?
+
+PATIENT M412
+Uh-huh.  I mean it's always high.  Every time I come it's just always high and I take my meds regularly, every day.
+
+DOCTOR M412
+Okay.  How's everything else going?
+
+PATIENT M412
+Everything's going good.
+
+DOCTOR M412
+Yeah.  It's been a while.  Let me take a look now.  And you took your medications today?
+
+PATIENT M412
+Uh-huh.  I take it every morning around 6 o'clock in the morning.
+
+DOCTOR M412
+Okay.  Alright.  Okay, alright any problems?
+
+PATIENT M412
+No other than I was just telling her about my hand that's about it.
+
+DOCTOR M412
+What's going on with your hand?
+
+PATIENT M412
+I hurt it one day at work.
+
+DOCTOR M412
+Okay.
+
+PATIENT M412
+It's been a couple weeks ago and it still bothers me a little bit.
+
+DOCTOR M412
+Okay.  Are you taking anything for it?
+
+PATIENT M412
+No.  
+
+DOCTOR M412
+Any more problems with chest pain or anything?
+
+PATIENT M412
+No, no.
+
+DOCTOR M412
+Any more headaches?  @@@.
+
+PATIENT M412
+I still get you know the muscle tension in my neck and my back.  Right across the shoulder blades and in my neck, I still get that.
+
+DOCTOR M412
+Yeah.  Okay any problems with seeing double vision, blurry vision, lightheadedness?
+
+PATIENT M412
+No.
+
+DOCTOR M412
+No dizziness?
+
+PATIENT M412
+No.
+
+DOCTOR M412
+And you had a colonoscopy.  It looks @@@.  Did you get a flu shot?
+
+PATIENT M412
+Yes.
+
+DOCTOR M412
+Looks like hemoglobin A1c came down to 6.7 and it was like 8 something before so that's good.  This was in July, yeah in July um.  Cholesterol is still high.  Did she go up on your, did they adjust any of your medications when you saw the other doctor at all?
+
+PATIENT M412
+Um I think so.
+
+DOCTOR M412
+@@@.  Um yes they went up on that.  Yes you're on a higher dose of the cholesterol medicine.  Did you ever see a pharmacist?
+
+PATIENT M412
+For what?
+
+DOCTOR M412
+Just to follow up with uh your, you know your high blood pressure and um.
+
+PATIENT M412
+No.  I mean I know when I go down there to pick up my prescriptions I talk to them but I @@@.
+
+DOCTOR M412
+No, no I put in a special thing for the pharmacist to see her in clinic basically.
+
+PATIENT M412
+No I haven't.
+
+DOCTOR M412
+Um and the blood pressure I don't know I see you were hospitalized for this over the summer too?
+
+PATIENT M412
+Yes.
+
+DOCTOR M412
+Okay so hmm.  And so currently you're on 100 of the metoprolol, 40 of lisinopril, amlodipine is 5, so you're on four blood pressure medicines right?
+
+PATIENT M412
+Hmm.
+
+DOCTOR M412
+Wow and you're young.  You know that's gonna really be um.
+
+PATIENT M412
+I mean and I don't understand it either.  But like I said I've been, I take my medicine every day, same time every day.
+
+DOCTOR M412
+Uh-huh.
+
+PATIENT M412
+When I get up in the morning before I go to work and I try to eat something at home and I try to eat like oatmeal or something like that with it before I go to work and even after that you know I can get to work and you know be there like an hour or two and check my blood pressure and it'll still be high.  
+
+DOCTOR M412
+And you're not having any chest pain?
+
+PATIENT M412
+No.
+
+DOCTOR M412
+Um and you were hospitalized once over the summer?
+
+PATIENT M412
+I believe I was in there twice.  I believe I was in there twice.  And then the hospital that I work in I was there for a day.  Like I had a, I went to the health nurse to have my blood pressure checked, it was high.
+
+DOCTOR M412
+When you were admitted at the time right?
+
+PATIENT M412
+Right they admitted me.  I was only there for a day.  This was on a Sunday, they released me that Monday around 6 o'clock that evening.  And again that was even after I had taken my blood pressure medicine.
+
+DOCTOR M412
+And you take your blood pressure at home right?
+
+PATIENT M412
+Uh-huh.
+
+DOCTOR M412
+What is it at home?
+
+PATIENT M412
+Basically like the same thing like she just, like I got here you know 150 something over 100 or.
+
+DOCTOR M412
+What it is usually.
+
+PATIENT M412
+Yeah.
+
+DOCTOR M412
+No nausea, vomiting, dizziness right?
+
+PATIENT M412
+No.
+
+DOCTOR M412
+Take a seat up here.
+
+PATIENT M412
+@@@.
+
+DOCTOR M412
+Sure.  So you're on the metformin and glipizide right?
+
+PATIENT M412
+Yes.
+
+DOCTOR M412
+Alright.  Are you exercising at all?
+
+PATIENT M412
+A little bit, probably not as much as I can.  @@@.
+
+DOCTOR M412
+@@@.  
+
+PATIENT M412
+Yeah.
+
+DOCTOR M412
+@@@.
+
+PATIENT M412
+@@@.
+
+DOCTOR M412
+Same it's like 160 but your diastolic is high, it's over 100.  How about some deep breaths for me.  Big deep breaths.  Well you know I mean you're not really overweight.  I mean everyone can afford to lose a little bit of weight. And you’re so young.  Can you lie back for me?  Any belly pain? 
+
+PATIENT M412
+No.
+
+DOCTOR M412
+Lift up your leg for me.
+
+PATIENT M412
+Like that?
+
+DOCTOR M412
+Yep.  Okay now this way good okay.  You can go ahead and sit up.  Okay I'll be right back.  Do you mind if I just go talk with my attending?  
+
+DOCTOR OUT:  47:40  DOCTOR IN:  66:02
+
+DOCTOR M412
+There’s a few things we should do to make sure there's nothing else going on with your blood pressure okay.  I want to check a bunch of tests.  Do you think um sometimes when you're, when the arteries going to the kidney are small that can cause that.  Sometimes different levels of hormones can cause it um.  So the most accurate way to do some of this stuff is to get actually a 24 hour urine collection.  Do you think you could do that?
+
+PATIENT M412
+Yeah.
+
+DOCTOR M412
+Okay.  The other thing I want to get is um well I'm gonna increase what you're on right now, the amlodipine I'm gonna increase to 10.  And then we need to get some labs today are you okay with that?
+
+PATIENT M412
+Yeah.
+
+DOCTOR M412
+Okay. And then I'm gonna get um a, we'll get some urine tests today and then we'll @@@.  And the other thing the only way I really see if your renal arteries are smaller is to get a CAT scan.
+
+PATIENT M412
+Uh-huh.  
+
+DOCTOR M412
+So I'm gonna order that.  Okay and then just make sure all these labs are put in.  And just we have to ask you, you don't use any drugs, no cocaine or anything like that?
+
+PATIENT M412
+No.
+
+DOCTOR M412
+You can get these labs today and then I think you should follow up with the pharmacist.  I'm gonna put in another order but you can, sometimes if you can't see me you know.
+
+PATIENT M412
+Yeah.
+
+DOCTOR M412
+Um if you can't see me you can see her and she can manage this stuff really well and I think it's important cause your blood pressure is so high and you're so young that can really have consequences.  Um so I think you should definitely follow up with her.  She should call you uh but I think the last time I don't think you showed up for the appointment.  So do follow up with her and then the other thing is um, you saw the eye doctor um, alright.  So for now what we'll do is I'm increasing your amlodipine to 10 mg and I'm gonna have that mailed to you.  I'm increasing your metoprolol to take a full tablet instead of a half tablet.
+
+PATIENT M412
+Okay.
+
+DOCTOR M412
+So 200 mg daily, this is gonna be 10 mg daily and then I would have those labs done today and then I also ordered a CAT scan.
+
+PATIENT M412
+Okay.
+
+DOCTOR M412
+Okay.  So come back and see me in three months um.  I would see the pharmacist in between.
+
+PATIENT M412
+The CAT scan, they  make an appointment out here?
+
+DOCTOR M412
+Yeah.
+
+PATIENT M412
+Okay.
+
+DOCTOR M412
+CT scan and then labs today okay.
+
+PATIENT M412
+The CT today also or?
+
+DOCTOR M412
+No, no, no you can come back to get that.  Just make sure you get the labs today so I can look at them.
+
+PATIENT M412
+Okay.
+
+DOCTOR M412
+Okay.
+
+PATIENT M412
+Now this, the metoprolol so starting tomorrow morning just take 200?
+
+DOCTOR M412
+Yeah.
+
+PATIENT M412
+Just take a whole tablet.
+
+DOCTOR M412
+Yeah.
+
+PATIENT M412
+Okay can you uh have that sent?
+
+DOCTOR M412
+Everything's already being sent.
+
+PATIENT M412
+Okay.
+
+DOCTOR M412
+Yep.  And then the 24 hour urine, they'll tell you how to do that.  You'll have to send it back.
+
+PATIENT M412
+Okay.  So when I do that.
+
+DOCTOR M412
+Yeah they’ll tell you when to do it, they'll explain that.
+
+PATIENT M412
+Okay.
+
+DOCTOR M412
+Okay.
+
+PATIENT M412
+Alright.
+
+DOCTOR M412
+Alright.  And obviously if you have problems, you have a headache or dizziness @@@.  Okay.
+
+Time is @@@.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  38305
+TRANSACTION # 578-10-2-316-0103

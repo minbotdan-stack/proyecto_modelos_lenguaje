@@ -1,0 +1,1374 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR Q587 
+Patient?
+
+PATIENT Q587
+Yes.
+
+DOCTOR Q587
+Hi.
+
+PATIENT Q587
+How you doing?
+
+DOCTOR Q587
+Good.  How are you patient?
+
+PATIENT Q587
+I'm doing fine.
+
+DOCTOR Q587
+Good.  You had a bit of a sun burn huh?
+
+PATIENT Q587
+Right.  Oh I play a lot of golf yeah.
+
+DOCTOR Q587
+Were you outside?  Oh, do you put sunscreen on?
+
+PATIENT Q587
+Yes I do.
+
+DOCTOR Q587
+Oh good.  Your skin is fair so you should probably put sunscreen on, lots of it.
+
+PATIENT Q587
+Yeah.
+
+DOCTOR Q587
+What SPF do you use?  Have a seat for me.  Have a seat.
+
+PATIENT Q587
+Okay.
+
+DOCTOR Q587
+SPF, do you use 30 or 15 or what?
+
+PATIENT Q587
+I don't know what it is; it's called Sports Block or something.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+I see a dermatologist here too.
+
+DOCTOR Q587
+Oh good.
+
+PATIENT Q587
+I go in this month too.
+
+DOCTOR Q587
+Oh good, alright.
+
+PATIENT Q587
+It's on.
+
+DOCTOR Q587
+What can I help you with today sir?
+
+PATIENT Q587
+Uh let's see well uh, um, I wanted to check on my medications.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+You know what I've been having trouble with my back and my shoulder and my wife takes Celebrex so we tried, I used some Celebrex and it went away and then I quit taking it and it came back and then I used a few more and it went away.
+
+DOCTOR Q587
+Celebrex huh.
+
+PATIENT Q587
+Yeah.
+
+DOCTOR Q587
+You're not taking that here?
+
+PATIENT Q587
+No I'm not.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+And so I wanted to find out if I could, if I could get my own Celebrex.
+
+DOCTOR Q587
+Sure um.
+
+PATIENT Q587
+And.
+
+DOCTOR Q587
+Is it arthritis pain or just.
+
+PATIENT Q587
+Well it must, it must be.
+
+DOCTOR Q587
+Is it a new kind of pain?
+
+PATIENT Q587
+Well.
+
+DOCTOR Q587
+Is it a new kind of pain or just like before?
+
+PATIENT Q587
+I used to take it occasionally, I mean I would take Aleve before I'd play golf and it would help.
+
+DOCTOR Q587
+It would help?
+
+PATIENT Q587
+And now I haven't taken any Aleve since I take the Celebrex.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+So it has to, my shoulder and my back it must be and I do see a chiropractor.
+DOCTOR Q587
+Uh-huh.
+
+PATIENT Q587
+On a regular basis, every six to eight weeks and so I wanted to find out about that and you know a lot of times my blood pressure's still high and it probably, let's see today it was like 140 I think and uh.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+And in the afternoons my ankles have been swollen up.
+
+DOCTOR Q587
+Are you on your ankle, are you on your feet every day or?
+
+PATIENT Q587
+I walk.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+I walk every morning about a mile and a half.
+
+DOCTOR Q587
+Is it worse at the end of the day?
+
+PATIENT Q587
+I play golf.  I'm on my feet a lot.
+
+DOCTOR Q587
+Okay.  Do you, have you tried elevating them?
+
+PATIENT Q587
+I put my feet up in the evenings and it.
+
+DOCTOR Q587
+So does it help?
+
+PATIENT Q587
+It seems to go away.
+
+DOCTOR Q587
+Oh good.
+
+PATIENT Q587
+And when I wake up in the morning they're normal but I've been sitting a lot now out there.  I've been here since 8 o'clock.
+
+DOCTOR Q587
+Okay.  Any numbness, tingling?  Your appointment is 10:30 though.
+
+PATIENT Q587
+I know but they called and told me to go to the Lab very early.
+
+DOCTOR Q587
+Okay, okay.
+
+PATIENT Q587
+And uh traffic wasn't as bad as I thought it would be.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+So I know since I, well I got to the Lab about 20 to 9.
+
+DOCTOR Q587
+Okay, okay.  Any numbness, any tingling, any weakness in the legs?
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+Or is it just the swelling?
+
+PATIENT Q587
+No it's just, it started happening I think in January we noticed it started happening.
+
+DOCTOR Q587
+Uh-huh.
+
+PATIENT Q587
+And I was looking at my list of medications and I don't, I don't know what this one is.  I don't think I have any of that.
+
+DOCTOR Q587
+Lisinopril?
+
+PATIENT Q587
+Yeah what is that?
+
+DOCTOR Q587
+It's for blood pressure.  Do you still take it?
+
+PATIENT Q587
+I take uh; I take the pink one in the morning which is hydro something.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+And um and then a half of meta something.
+
+DOCTOR Q587
+Metoprolol?
+
+PATIENT Q587
+Yeah.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+Yeah I take a half of that and then at lunch I take here I didn't take them today cause I'm fasting.  Uh I take this pill which is nifedipine.
+
+DOCTOR Q587
+Nifedipine yeah.
+
+PATIENT Q587
+Yeah at lunch.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+This is the one I take at breakfast along with the half of that and then and then at night I take another half of the meto.
+
+DOCTOR Q587
+Metoprolol.
+
+PATIENT Q587
+Yeah, yes.
+
+DOCTOR Q587
+Yeah so.
+
+PATIENT Q587
+Along with the simvastatin.
+
+DOCTOR Q587
+Yeah it would be good um, it would be good for you to bring the bottle cause I don't, cause when you bring it like that I'm not sure.
+
+PATIENT Q587
+Well I know what they are but yeah.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+But this one I haven't been taking this one.
+
+DOCTOR Q587
+You haven't?
+
+PATIENT Q587
+No I don't know what it is.
+
+DOCTOR Q587
+It's for blood pressure.
+
+PATIENT Q587
+Okay so.
+
+DOCTOR Q587
+Lisinopril yeah.
+
+PATIENT Q587
+For some reason they haven't been.
+
+DOCTOR Q587
+Oh you still have refills on it.  Have you been calling them and ask them to. (Someone knocks on the door and the doctor visits with another person for a few minutes)  Sorry about that sir.
+
+PATIENT Q587
+Oh that's no problem.  Um so the lisinopril I probably should be taking that and I don't.
+
+DOCTOR Q587
+Yeah, right, right.
+
+PATIENT Q587
+I don't even know what it looks like.
+
+DOCTOR Q587
+Oh.  Okay it looks like you have two refills left so it must have been that when you called them to ask them to ship your, maybe you didn't ask for that.
+
+PATIENT Q587
+Uh some of them they automatically come.
+
+DOCTOR Q587
+@@@.
+
+PATIENT Q587
+And then if I running low and I'm gonna go out of town or something I call and order it.
+
+DOCTOR Q587
+Okay hmm.  I wonder what happened.
+
+PATIENT Q587
+So I have to order that lisinopril uh-huh.
+
+DOCTOR Q587
+Yeah.  Do you still take cetirizine?
+
+PATIENT Q587
+I'm sorry?
+
+DOCTOR Q587
+For allergies?
+
+PATIENT Q587
+Yeah, yeah I do, yeah.
+
+DOCTOR Q587
+Okay.  How long have you been on the hydrochlorothiazide?
+
+PATIENT Q587
+Hydro oh the pink pill?
+
+DOCTOR Q587
+Yeah the blood pressure pill.
+
+PATIENT Q587
+Since the beginning.
+
+DOCTOR Q587
+So a long time.
+
+PATIENT Q587
+Yes.
+
+DOCTOR Q587
+Years?
+
+PATIENT Q587
+Well you're the first person I've seen.
+
+DOCTOR Q587
+For almost a year.
+
+PATIENT Q587
+Well I mean it's worth taking.  @@@ or something before.
+
+DOCTOR Q587
+Oh yes.
+
+PATIENT Q587
+It was all in one?
+
+DOCTOR Q587
+I remember.
+
+PATIENT Q587
+And then we split it to the hydro and the metro or whatever they call it.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+I can't, metoprolol tartrate, they split with that and uh hydrochlorazine.
+
+DOCTOR Q587
+No leg cramps, muscle cramps or anything?
+
+PATIENT Q587
+I get a, uh once in a while I get a muscle cramp you know in here but I don't think it uh.
+
+DOCTOR Q587
+No okay.
+
+PATIENT Q587
+It's nothing that happens all the time.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+You know it's like.
+
+DOCTOR Q587
+And you're taking the um, you're taking doxycycline.  Is that for the rosacea?
+
+PATIENT Q587
+Yes.
+
+DOCTOR Q587
+Okay.  You see Dermatology here correct?
+
+PATIENT Q587
+Yes I see her in about another ten days.
+
+DOCTOR Q587
+Okay and you let's see, you're not doing any, do you still see DOCTOR for the lung problems?
+
+PATIENT Q587
+Uh yes.  Actually my lungs are getting a little better.
+
+DOCTOR Q587
+Great, great.
+
+PATIENT Q587
+The last time it was about 15% better.
+
+DOCTOR Q587
+Great, great.  Um what about your heartburn is that better or the same?
+
+PATIENT Q587
+I don't have heartburn ever since I started taking a pill.
+
+DOCTOR Q587
+Omeprazole?  Great.
+
+PATIENT Q587
+Well I take uh; I started off with actually years and years and years ago when it first came out, the Prilosec.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+And now I take the omeprazole which is cheaper.
+
+DOCTOR Q587
+Yeah and it works better.
+
+PATIENT Q587
+And it works just as fine, actually every three years I have a scope done with my.
+
+DOCTOR Q587
+Outside doctors.
+
+PATIENT Q587
+Uh outside doctor.
+
+DOCTOR Q587
+Looks like you're due in @@@@ so next year you'll get that.
+
+PATIENT Q587
+Yeah he'll probably call me and I put it off for a while.
+
+DOCTOR Q587
+Yeah.  No weight loss?
+
+PATIENT Q587
+It's getting better.
+
+DOCTOR Q587
+It's getting better.  No weight loss, no fevers, no chills, no night sweats?
+
+PATIENT Q587
+No night sweats or anything, no nothing.
+
+DOCTOR Q587
+Nausea, no vomiting, no belly pain?
+
+PATIENT Q587
+No.  I just, I'm still concerned about my blood pressure though because like I take it at home.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+And I have a machine.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+This morning I took it, it was 140 something over 66.
+
+DOCTOR Q587
+So you didn't take your meds yet right?
+
+PATIENT Q587
+No I hadn't taken any meds but I took it this morning just to compare with what would happen here.
+
+DOCTOR Q587
+Uh-huh.
+
+PATIENT Q587
+You know it's 139/70.
+
+DOCTOR Q587
+Uh-huh.
+
+PATIENT Q587
+And uh you know.
+
+DOCTOR Q587
+That's, that's borderline.  You don't have heart disease, you don't have diabetes right?
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+So what's the goal for you.  The goal for you is to be less than 140/80.  You're borderline.
+
+PATIENT Q587
+Yeah I want to be.
+
+DOCTOR Q587
+Right so I would rather you be in the 130s.
+
+PATIENT Q587
+So would I.
+
+DOCTOR Q587
+So the fact that you didn't take your medicine today.
+
+PATIENT Q587
+Yeah but.
+
+DOCTOR Q587
+And if that's the.
+
+PATIENT Q587
+I don't usually take my blood pressure early.  I usually take it in the afternoon.
+
+DOCTOR Q587
+Right, right and the fact that you haven't been taking the lisinopril, cause the lisinopril will drop your blood pressure too.  
+
+PATIENT Q587
+Okay.
+
+DOCTOR Q587
+So that could be the reason.
+
+PATIENT Q587
+When should I take, when should I take the lisinopril?
+
+DOCTOR Q587
+In the morning, take it in the morning.
+
+PATIENT Q587
+With the other pill too?
+
+DOCTOR Q587
+Uh-huh.  Take the lisinopril and if you feel lightheaded or dizzy check your blood pressure and if it's too low like too low.
+
+PATIENT Q587
+But it'll never be low.
+
+DOCTOR Q587
+Less than 100s then you can call me and I'll have you come back in about two weeks okay uh for blood pressure checks and we'll see where we are.
+
+PATIENT Q587
+Uh can I do that on the 19th?
+
+DOCTOR Q587
+Sure.  Do you have an appointment then?
+
+PATIENT Q587
+Cause I have an appointment with the dermatologist.
+
+DOCTOR Q587
+Why don't you, fine.  You come on the 19th uh for a blood pressure check and then get your labs too.  I want to check one more thing.  I know you had it this morning.  Your cholesterol was fine.
+
+PATIENT Q587
+Everything's fine?  Blood sugar.
+
+DOCTOR Q587
+Your cholesterol was fine.  Your blood sugar is okay.  The only thing is I need to know your BNP, your kidney function and everything which was not checked today.  So you'll come back the 19th, you'll get lab draws.
+
+PATIENT Q587
+Oh okay.
+
+DOCTOR Q587
+Now do you see a primary care doctor on the outside too or is it just the chiropractor?
+
+PATIENT Q587
+No I mean, no I haven't needed to, I could if I wanted to but I.
+
+DOCTOR Q587
+Ah.
+
+PATIENT Q587
+Ah, ah.
+
+DOCTOR Q587
+No cough, no postnasal drip?
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+No.  Your hearing is okay?
+
+PATIENT Q587
+With my hearing aids.
+
+DOCTOR Q587
+Alright.
+
+PATIENT Q587
+Hearing is fine.
+
+DOCTOR Q587
+With the hearing aids.
+
+PATIENT Q587
+Yeah.
+
+DOCTOR Q587
+Okay.  Do you think the rosacea is better with the cream?
+
+PATIENT Q587
+Yes.
+
+DOCTOR Q587
+@@@
+
+PATIENT Q587
+Yes.  I don't use the cream.
+
+DOCTOR Q587
+You don't use the cream.
+
+PATIENT Q587
+I haven't had to.  I only take one pill.
+
+DOCTOR Q587
+Okay.  Deep breath in and out.  Do you have pain?
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+Pain?
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+Any constipation, diarrhea?  Go ahead and lay down for me.
+
+PATIENT Q587
+Lay down?
+
+DOCTOR Q587
+Diarrhea, constipation?
+
+PATIENT Q587
+No thank God.
+
+DOCTOR Q587
+Black tarry stools, blood in your stools?
+
+PATIENT Q587
+What was the first one?
+
+DOCTOR Q587
+Black stools, black diarrhea.
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+No.  Any pain?
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+Oh no, well how did you scrape yourself?  
+
+PATIENT Q587
+Oh.
+
+DOCTOR Q587
+Your knee is bleeding.
+
+PATIENT Q587
+Oh I uh, I scratched something on it, it’s okay.
+
+DOCTOR Q587
+Oh dear.
+
+PATIENT Q587
+It'll quit.
+
+DOCTOR Q587
+Now do you think your swelling is getting worse to the point that you want some stockings?
+
+PATIENT Q587
+Uh no.
+
+DOCTOR Q587
+No?  No numbness right?
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+Alright.  Go ahead and sit up.  Your strength is pretty good?
+
+PATIENT Q587
+Yes.
+
+DOCTOR Q587
+You said you have back pain huh and your hips?
+
+PATIENT Q587
+Well I had some pain, every once.  I got hurt when I was a kid and I got uh, um, so I go to the chiropractor uh quite often.
+
+DOCTOR Q587
+Does it help?
+
+PATIENT Q587
+And I think it's getting a little arthritic.
+
+DOCTOR Q587
+Uh-huh.
+
+PATIENT Q587
+So I was trying to um keep my golf game going.
+
+DOCTOR Q587
+Uh-huh.
+
+PATIENT Q587
+And then I uh and I got uh to where I've had to take Aleve.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+Oh I scratched a thing there.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+There was a little spot there and I was sitting here and I scratched it.
+
+DOCTOR Q587
+Yeah, go ahead and sit up.
+
+PATIENT Q587
+So I did the um so I, my wife said why don't you try one of my Celebrex.
+
+DOCTOR Q587
+Uh-huh.
+
+PATIENT Q587
+So I took.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+I took it for two days.
+
+DOCTOR Q587
+And it really helped you?
+
+PATIENT Q587
+And it helped so then I thought well, so I went off.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+And then it came back.
+
+DOCTOR Q587
+Yeah right.
+
+PATIENT Q587
+And then I took it again and it went away.
+
+DOCTOR Q587
+Okay.  So we have the hip pain right here, where is it?
+
+PATIENT Q587
+It's back in here, back here, right about in here.
+
+DOCTOR Q587
+Okay alright.  Does it go anywhere or does it stay there?
+
+PATIENT Q587
+It stays there.
+
+DOCTOR Q587
+Okay.  No numbness, no tingling in the legs?
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+No pain traveling down your legs?
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+No weight loss?
+
+PATIENT Q587
+Well you know I used to drive a lot when I was in uh when I was working.  I had, I worked a lot in the car.
+
+DOCTOR Q587
+Uh-huh.
+
+PATIENT Q587
+So my leg would get sore.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+So I, this might all be related you know but uh when I gave up my sales, I had to drive for sales and when I stopped doing that it kind of went away.
+
+DOCTOR Q587
+Okay.  No bowel, no bladder incontinence like trouble, no nothing like that.
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+No um kind of numbness in the genital area, nothing like that?
+
+PATIENT Q587
+No.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+No I'm good.
+
+DOCTOR Q587
+Okay alright.  So it's the same kind of pain that you've had for years but it's just like you were taking Aleve.
+
+PATIENT Q587
+I was taking Aleve or um Advil.
+
+DOCTOR Q587
+But @@@ more.
+
+PATIENT Q587
+That kind of stuff and.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+And uh.
+
+DOCTOR Q587
+Alright.
+
+PATIENT Q587
+Now I haven't been taking any Aleve, no Advil.
+
+DOCTOR Q587
+Have you, have you been checking um or has anyone gotten like an x-ray of that area?
+
+PATIENT Q587
+Well my chiropractor.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+Oh yeah, yeah cause he works on it.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+I think it's something that uh um when I was a kid I had a bout with some railroad ties, lifting railroad ties and that part of my back went out.
+
+DOCTOR Q587
+Umm okay.
+
+PATIENT Q587
+And every once in a while if I turn the wrong way I can hurt it.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+I mean it's just like if you're off balance and you lean some way, you know and it goes right back to that same spot.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+You know.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+But I think that because of all this, it's probably become arthritic.
+
+DOCTOR Q587
+Hmm.
+
+PATIENT Q587
+So you think the uh, this lisinopril or whatever might, might help the swelling down too?
+
+DOCTOR Q587
+The what, the lisinopril?
+
+PATIENT Q587
+Yeah.
+
+DOCTOR Q587
+No, no.
+
+PATIENT Q587
+What's causing the swelling in the ankles?
+
+DOCTOR Q587
+You know um I don't, I mean.  Sometimes one of your medicines can, the nifedipine can do it, nifedipine might do it.
+
+PATIENT Q587
+It just seems like it didn't start for uh till about I don't know.
+
+DOCTOR Q587
+It's new.
+
+PATIENT Q587
+Last December or January.
+
+DOCTOR Q587
+You know it should not, I don't know, it shouldn't.
+
+PATIENT Q587
+Okay.
+
+DOCTOR Q587
+Yeah um.  Alright what else do you need, so we'll get labs?
+
+PATIENT Q587
+You need one more lab huh?
+
+DOCTOR Q587
+Yeah June 19th you can come back for a blood pressure check to when you're taking the lisinopril okay.
+
+PATIENT Q587
+Okay.
+
+DOCTOR Q587
+Do you want to pick up the lisinopril today in the Pharmacy so you can start taking it?
+
+PATIENT Q587
+Will they have it ready for me or?
+
+DOCTOR Q587
+I'm not sure, I'm not sure.  Are you in a hurry today?  If you are.
+
+PATIENT Q587
+I'm not in that big of a hurry I mean.  I mean we can just, you can just.
+
+DOCTOR Q587
+Send it to you.
+
+PATIENT Q587
+Or it could be sent to me.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+You know I mean it's not like that critical I don't think.
+
+DOCTOR Q587
+Yeah.  No, no, it should be okay.
+
+PATIENT Q587
+Just have it, you're gonna have it sent to me then okay.
+
+DOCTOR Q587
+I'll have it sent to you.
+
+PATIENT Q587
+Can we try some?
+
+DOCTOR Q587
+And you come back on the 19th.
+
+PATIENT Q587
+Could we try some uh?
+
+DOCTOR Q587
+Yeah we can try some Celebrex.
+
+PATIENT Q587
+Uh are you gonna get me a prescription for that?
+
+DOCTOR Q587
+Yes.  Do you want me to send it to you to?
+
+PATIENT Q587
+Yeah have them send that to me.
+
+DOCTOR Q587
+How often are you using it?
+
+PATIENT Q587
+I wouldn't take more than one a day and I probably wouldn't take one every day if I didn't have to.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+You know I mean.
+
+DOCTOR Q587
+Right.
+
+PATIENT Q587
+I would probably take it.
+
+DOCTOR Q587
+It's worse when you move around right?  When you walk and you move around when you're golfing?
+
+PATIENT Q587
+Um mostly golfing or uh then my, you know I do a lot of, I do a lot of woodworking and I keep very busy.  I do painting, I do all kinds of stuff so uh my shoulder was bothering me and then I had a shot last year um, a cortisone shot.
+
+DOCTOR Q587
+And it helped?
+
+PATIENT Q587
+And it helped.
+
+DOCTOR Q587
+Good.
+
+PATIENT Q587
+And then all of a sudden it come back and then I started taking the Celebrex and it went away.
+
+DOCTOR Q587
+Where did you have that shot?  Was it on the outside that you had it?
+
+PATIENT Q587
+Outside yeah.
+
+DOCTOR Q587
+Oh okay.
+
+PATIENT Q587
+DOCTOR I think his names is DOCTOR or something like that.
+
+DOCTOR Q587
+Yeah okay.
+
+PATIENT Q587
+And my wife has uh osteoarthritis so she's had joints replaced, two knees, a shoulder and two thumbs.
+
+DOCTOR Q587
+Umm okay.
+
+PATIENT Q587
+And she's ready for another shoulder.
+
+DOCTOR Q587
+Okay, sorry to hear that.  Let me go get stuff for you.
+
+PATIENT Q587
+What are we getting?
+
+DOCTOR Q587
+Um I'm going to get an appointment, next time appointment for you, get labs for you when you come on the 19th.
+
+PATIENT Q587
+Okay.
+
+DOCTOR Q587
+And hopefully you'll get that medicine.
+
+PATIENT Q587
+I think my appointment on the 19th is.
+
+DOCTOR Q587
+Dermatology right?
+
+PATIENT Q587
+Around 10:30.
+
+DOCTOR Q587
+Okay you can do it after or before, whichever you prefer.
+
+PATIENT Q587
+Okay fine, fine.
+
+DOCTOR Q587
+I'll be right back.
+
+DOCTOR OUT:  118:58   DOCTOR IN:  129:49
+
+DOCTOR Q587
+Alright.
+
+PATIENT Q587
+I got to remember not to wear shorts when I come back.  It's too cold in here.
+
+DOCTOR Q587
+Yeah.  Um, um so one thing is um, I'll send you the lisinopril.  Unfortunately I was asking one of the doctors who's worked here for a longer time than I did.  I am um; they say that Celebrex we have to get special approval because it's expensive and you know how.
+
+PATIENT Q587
+Okay.
+
+DOCTOR Q587
+Especially at the VA.  So let me, let me try to get that for you okay.  I can put in a consult through the system.  They'll review it and they'll let me know if you can get it for you.  Some patients are on it, I can make sure that you know.
+
+PATIENT Q587
+Yeah.
+
+DOCTOR Q587
+In your case it's indicated which I think it is, but I'll let you know but if not you can always ask your outside doctor to prescribe it for you too.  But I'll let you know though.
+
+PATIENT Q587
+Yeah I'd rather get it through.
+
+DOCTOR Q587
+I know.
+
+PATIENT Q587
+The VA because its.
+
+DOCTOR Q587
+Yeah let me, let me work on that for you.
+
+PATIENT Q587
+Okay.
+
+DOCTOR Q587
+I want to get you and come back on the 19th for a blood pressure check okay.
+
+PATIENT Q587
+Blood pressure check yeah.
+
+DOCTOR Q587
+And then lab.
+
+PATIENT Q587
+And then lab.
+
+DOCTOR Q587
+Yeah so that would.
+
+PATIENT Q587
+Now that's for the kidney right?  Does that also test liver functions too?
+
+DOCTOR Q587
+I can get yeah; I'll check liver function at that time too.
+
+PATIENT Q587
+Yeah.
+
+DOCTOR Q587
+So I'm gonna yeah I'm gonna do, this is June 19th okay.
+
+PATIENT Q587
+Yes.
+
+DOCTOR Q587
+I'll put in the labs and then you can see me in six months.  Obviously if you @@@ need to.
+
+PATIENT Q587
+Uh-huh.
+
+DOCTOR Q587
+And then.
+
+PATIENT Q587
+So what I shouldn't worry about my ankles then unless they've started getting numb or something?
+
+DOCTOR Q587
+Yeah if you start, again if you start, if you start to feel that you know propping them up isn't helping as much or if you have any numbness or tingling and you think it's getting bigger, call me and let me know.  I think it's a little bit of that medicine that you're on.  Nifedipine, it can give you a little bit of swelling so.
+
+PATIENT Q587
+The one I take after lunch?
+
+DOCTOR Q587
+I just don't know which one, nifedipine that's the and uh.
+
+PATIENT Q587
+It's uh yeah it's uh.
+
+DOCTOR Q587
+The calcium channel blocker.
+
+PATIENT Q587
+Yeah I have the.
+
+DOCTOR Q587
+So let me, I mean let me know, I mean since the medicine is working for you let's continue it but if it's getting to the point where it's getting worse and you want to switch medicines, then we can do that too.
+
+PATIENT Q587
+Okay.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+Yeah.  I mean um you know they, I was only taking a half dose of the nifedipine.
+
+DOCTOR Q587
+Nifedipine 60 mg.
+
+PATIENT Q587
+Yeah and now they doubled that.
+
+DOCTOR Q587
+60?
+
+PATIENT Q587
+Yeah to 60.  It was 30.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+And they went to.
+
+DOCTOR Q587
+That might have been why.
+
+PATIENT Q587
+Maybe that's when it started.
+
+DOCTOR Q587
+Well we can maybe, well did I do that?  I doubled it to 60 right when you saw me?
+
+PATIENT Q587
+Yeah I saw the uh, your assistant, what's the name?
+
+DOCTOR Q587
+Oh okay.
+
+PATIENT Q587
+The young lady.
+
+DOCTOR Q587
+NAME?
+
+PATIENT Q587
+NAME.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+Yeah NAME yeah.  I saw her and one time after I saw you and then.
+
+DOCTOR Q587
+Okay.
+
+PATIENT Q587
+I told her, they said my blood pressure is still too high so they doubled it.  Maybe that's when that started, I'm not.
+
+DOCTOR Q587
+I think yeah it might have been, so let's take the lisinopril.  If the lisinopril is controlling your blood pressure.
+
+PATIENT Q587
+Uh-huh.
+
+DOCTOR Q587
+Then we'll go easy on the nifedipine, how's that?
+
+PATIENT Q587
+It's a deal.
+
+DOCTOR Q587
+Okay.  Lab on the 19th okay?
+
+PATIENT Q587
+Lab on the 19th and I can come anytime I want?
+
+DOCTOR Q587
+Yes, yes.
+
+PATIENT Q587
+Okay.
+
+DOCTOR Q587
+I'll put in the order and you should not need to call for your set-up here okay.
+
+PATIENT Q587
+And you're gonna check the kidney and liver?
+
+DOCTOR Q587
+I'm gonna check your kidneys, your liver and your blood cells.
+
+PATIENT Q587
+Okay.
+
+DOCTOR Q587
+And your blood.
+
+PATIENT Q587
+I think I asked what nationality you were.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+What are you?
+
+DOCTOR Q587
+You don't remember?
+
+PATIENT Q587
+No I don't.
+
+DOCTOR Q587
+I'm Vietnamese.
+
+PATIENT Q587
+Oh okay.
+
+DOCTOR Q587
+So.
+
+PATIENT Q587
+I'm here now huh.
+
+DOCTOR Q587
+Yeah.
+
+PATIENT Q587
+What do I do here?
+
+DOCTOR Q587
+Yeah or you know I'll just come here and they'll help you.
+
+PATIENT Q587
+Okay.
+
+DOCTOR Q587
+Alright we'll see you in six months alright.  
+
+Patient leaves:  134:10.
+
+Time is 11:17.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  38216
+TRANSACTION # 578-10-2-316-0103

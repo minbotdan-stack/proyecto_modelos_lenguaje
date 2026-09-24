@@ -1,0 +1,1307 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR H267
+PATIENT.
+
+PATIENT H267
+How are you today?  @@@.  It takes me a little while, it's my hip.
+
+DOCTOR H267
+Oh that's okay.
+
+PATIENT H267
+My hip is.  How are you today?
+
+DOCTOR H267
+Good how are you?  Fair enough.  @@@.
+
+PATIENT H267
+Sure. 
+
+DOCTOR H267
+How are you doing?
+
+PATIENT H267
+Oh pretty good I think.
+
+SECOND PERSON H267
+How are you today?
+
+DOCTOR H267
+Uh I'm actually doing pretty good myself.  Getting kind of tired but.
+
+SECOND PERSON H267
+Yeah.
+
+PATIENT H267
+I think I'm pretty good cause I'm still breathing.
+
+DOCTOR H267
+I saw that you saw the Hematology doctors.
+
+PATIENT H267
+The what?
+
+DOCTOR H267
+The doctors about your blood.
+
+PATIENT H267
+Yeah I saw them.  I just had the blood drawn today.
+
+DOCTOR H267
+Yeah I already checked, it wasn’t back.
+
+PATIENT H267
+Yeah I just had it.
+
+DOCTOR H267
+Yeah.
+
+PATIENT H267
+I just had it drawn uh about 12:30.
+
+DOCTOR H267
+About 12:30 so it probably won't come back till a little bit later.  Right and how have your blood sugars been at home?
+
+PATIENT H267
+Blood sugar, it was 137 today, it's been pretty good.
+
+DOCTOR H267
+So you're checking every day?
+
+PATIENT H267
+Yes.
+
+DOCTOR H267
+What time do you check it?
+
+PATIENT H267
+Uh this morning.  You got uh, I wake up late.
+
+DOCTOR H267
+Okay.  I'm just going to be typing as we talk okay.
+
+PATIENT H267
+Okay I wake up late so it varies because I stay up late.  Uh most of the time it'd be around 2 o'clock when I take it.
+
+DOCTOR H267
+Is this after you've eaten something?
+
+PATIENT H267
+Uh only coffee.
+
+DOCTOR H267
+So only after coffee?
+
+PATIENT H267
+Right uh-huh, after I've had my cup of coffee.
+
+DOCTOR H267
+Do you have any low sugars?
+
+PATIENT H267
+No it's never low.
+
+DOCTOR H267
+What's it range from?
+
+PATIENT H267
+It ranges between 100 and sometimes it'll get up around 190.
+
+DOCTOR H267
+Okay that's the highest it goes?
+
+PATIENT H267
+Yeah that's about as high as it goes.
+
+DOCTOR H267
+Okay because you're hemoglobin A1c which is the measure of how tightly controlled your blood sugars are, when we checked it the last time it was a little bit elevated.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+So uh I think we're gonna have to probably go up on your medicine.
+
+PATIENT H267
+Again?
+
+DOCTOR H267
+Yeah because well let's see, so I saw you back in February, oh no you know because I think I had seen you back in October.
+
+PATIENT H267
+I seen a letter about the.
+
+DOCTOR H267
+You saw DOCTOR.
+
+PATIENT H267
+I saw DOCTOR then I saw someone else too.
+
+DOCTOR H267
+The blood doctor right?
+
+PATIENT H267
+Right and I saw them yeah.
+
+DOCTOR H267
+Yeah so we had cut back on it but we need to go up on it.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+Um back in October.
+
+PATIENT H267
+Yeah.
+
+DOCTOR H267
+And you're on 40 units right?
+
+PATIENT H267
+Right that's the same amount I'm taking now, 40.
+
+DOCTOR H267
+We can actually go up to 45.
+
+PATIENT H267
+Uh no.
+
+DOCTOR H267
+Uh-huh.
+
+PATIENT H267
+But okay.
+
+DOCTOR H267
+How do you feel about that?
+
+PATIENT H267
+Well if you think its necessary I mean.
+
+DOCTOR H267
+The only thing is as long as your blood sugars aren't running low.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+On either number.
+
+PATIENT H267
+They're never running low.
+
+DOCTOR H267
+Never lower than 100?
+
+PATIENT H267
+The only time is if I miss a meal, then I might run low.
+
+DOCTOR H267
+Okay.
+
+PATIENT H267
+But generally they never run low.
+
+DOCTOR H267
+Alright.
+
+PATIENT H267
+Okay.
+
+DOCTOR H267
+So if that's the case then we'll go up a little bit more.
+
+PATIENT H267
+Okay.  I was thinking all along, she’s probably going to raise it.
+
+DOCTOR H267
+I know.
+
+PATIENT H267
+@@@.
+
+SECOND PERSON H267
+He was just high.
+
+DOCTOR H267
+So you know we want the goal of your A1c below 7.  Yours is 8.3.
+
+SECOND PERSON H267
+That's the same as was back then.
+
+PATIENT H267
+I thought, well what was it last time?
+
+DOCTOR H267
+Before it was actually better, it was 7. something.
+
+PATIENT H267
+It was 7 @@@.
+
+DOCTOR H267
+Yeah.  Now it will happen, it could be that your eating habits have changed but elevated or not @@@ little bit more insulin.
+
+PATIENT H267
+But it could be so if I'm not getting along as well since it's been cold.
+
+DOCTOR H267
+Uh-huh.
+
+PATIENT H267
+And when it's cold my hip is bothering me and I don't move as much as when it's warm.
+
+DOCTOR H267
+So why don't we go up by 5 units.  If you start getting anything below 100.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+Then you just cut it down to just say 43 units.
+
+PATIENT H267
+Oh okay.
+
+DOCTOR H267
+Okay.
+
+PATIENT H267
+Right.
+
+DOCTOR H267
+Uh but keep it in the 40s and then if, like I said, if you do it at 45, if you suddenly have lower readings below 100.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+Then cut it back down so it would be 43 units.  If you're still getting low readings then cut it down to 40.
+
+PATIENT H267
+Oh okay.
+
+DOCTOR H267
+Okay.
+
+PATIENT H267
+Yeah, I just have to bring it back down if it's low, I get it okay.
+
+DOCTOR H267
+Yeah.
+
+PATIENT H267
+Right, okay.
+
+DOCTOR H267
+And um this.
+
+PATIENT H267
+There's something I need to see, it's one of the things I need you to see.
+
+DOCTOR H267
+Oh okay.
+
+PATIENT H267
+They wanted me to see @@@ doctor.  It's about my vitamin D.
+
+DOCTOR H267
+Oh you're vitamin D levels?
+
+PATIENT H267
+Right.
+
+DOCTOR H267
+Let's see.  Yeah so this is actually pretty low.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+And we can actually; we can probably set you up for a supplementation for your vitamin D.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+And it's one pill that you'll take every week.
+
+PATIENT H267
+It's once a day?
+
+DOCTOR H267
+It's once a week.
+
+PATIENT H267
+Oh okay.
+
+DOCTOR H267
+And you'll take it for about you know a few months.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+And then we'll recheck your levels.
+
+PATIENT H267
+Okay.
+
+DOCTOR H267
+Okay, let me see.  Oh this is from last year.
+
+PATIENT H267
+Right.
+
+DOCTOR H267
+Do you take any vitamin D supplements were you given anything?
+
+PATIENT H267
+No they didn't give me anything.  They placed me on that, I know the last time I was in, they forgot to give it to me, DOCTOR when I saw DOCTOR and uh but I told him that I was going to go back on it so to get it for me.
+
+DOCTOR H267
+Okay, well yeah last time you didn't get started taking anything so it's probably still low.
+
+PATIENT H267
+Right and tell me what does that vitamin D do?
+
+DOCTOR H267
+Well it actually helps; the higher your vitamin D is the better it is for your bones.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+And uh the lower your vitamin D, you are at an increased risk of when you fall of having your bones break.
+
+PATIENT H267
+Right.
+
+DOCTOR H267
+Yeah so.
+
+PATIENT H267
+I don’t want that.  Then let's um.
+
+DOCTOR H267
+And how's your breathing been?
+
+PATIENT H267
+Breathing is about the same. 
+
+DOCTOR H267
+About the same.
+
+PATIENT H267
+It's still bad.  I get out of breath easily.
+
+DOCTOR H267
+So you haven't been using the CPAP?
+
+PATIENT H267
+The CPAP, what is that?
+
+DOCTOR H267
+The CPAP do you use that?
+
+PATIENT H267
+If you mean the breathing machine?
+
+DOCTOR H267
+Uh-huh.
+
+PATIENT H267
+I don't have a breathing machine; I have a sleep apnea machine.
+
+DOCTOR H267
+Yeah that's what I meant by it.
+
+PATIENT H267
+Hmm.
+
+DOCTOR H267
+Do you use it?
+
+PATIENT H267
+Hmm sometimes, not like I should.
+
+DOCTOR H267
+How come?
+
+PATIENT H267
+It's uncomfortable, I'm scared of it.
+
+DOCTOR H267
+You could maybe try to get it re-fitted.
+
+PATIENT H267
+Okay.
+
+DOCTOR H267
+So maybe that's why it's, because it's uncomfortable for you.
+
+PATIENT H267
+Hmm, we tried uh you know the stick in your nose.
+
+DOCTOR H267
+Uh-huh.
+
+PATIENT H267
+Tried that and then we tried the mask and it still.
+
+DOCTOR H267
+Still uncomfortable.
+
+PATIENT H267
+Still uncomfortable.  I'm going to, what I'm gonna do is start using it regularly and uh see how if I can get used to it.  If I can just get used to it being on my face.  I'm not used to anything covering my nose and face so I'm gonna try it and see how that works.
+
+DOCTOR H267
+Yeah.
+
+SECOND PERSON H267
+Um, is it true that they had found something new uh that you don't have to use the mask?
+
+DOCTOR H267
+For the CPAP?
+
+SECOND PERSON H267
+Uh for the CPAP treatment.
+
+DOCTOR H267
+No, do you know what um.
+
+SECOND PERSON H267
+Somewhere I saw or heard about it on the TV or something.  It's a medication I think instead of the machine.
+
+DOCTOR H267
+Hmm for sleep apnea, not that I know of.
+
+SECOND PERSON H267
+Well maybe it's not, maybe it's new.
+
+DOCTOR H267
+Because you know the reason why the medication is not @@@.  So I don't know, I don't think there's any medications that actually change this – change that.  @@@.
+
+PATIENT H267
+Uh-huh.
+
+SECOND PERSON H267
+Well you, it's probably not just kind of pills, sometimes he gets aggravated with me because I wake him up.
+
+DOCTOR H267
+Yeah.  And the other problem is the longer you don't use the CPAP the higher your risk of developing high blood pressure of the arteries of your lungs.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+And that can be very dangerous.
+
+PATIENT H267
+Yes.
+
+DOCTOR H267
+Uh and that's why it's really important for you to.
+
+PATIENT H267
+To use that machine.
+
+SECOND PERSON H267
+So what do you mean about high blood pressure from the arteries of your lungs?
+
+DOCTOR H267
+Uh you can, just probably over time and you develop what's called pulmonary hypertension.
+
+SECOND PERSON H267
+Oh.
+
+DOCTOR H267
+And that uh.
+
+PATIENT H267
+What you say, that means what?
+
+DOCTOR H267
+Like how you have high blood pressure of, we give medication for, for your arteries.
+
+PATIENT H267
+Uh-huh @@@.
+
+DOCTOR H267
+No you can actually get that of the blood vessels of your lungs, uh the blood vessels of your heart that kind of leads to your lungs.
+
+PATIENT H267
+Oh okay.
+
+DOCTOR H267
+And um and that's much harder to treat.
+
+PATIENT H267
+Oh okay.
+
+SECOND PERSON H267
+But it is treatable?
+
+DOCTOR H267
+Well not really.
+
+SECOND PERSON H267
+Not successfully?
+
+DOCTOR H267
+Uh sometimes if the pressure gets so high you can be on home oxygen.
+
+PATIENT H267
+Uh-huh @@@.
+
+SECOND PERSON H267
+What is a really dangerous blood pressure?
+
+DOCTOR H267
+Uh for the lungs?
+
+SECOND PERSON H267
+For anything.
+
+DOCTOR H267
+Well I mean, usually our goal blood pressures for you, when you come in here and we want your blood pressure to be about 130/80.
+
+PATIENT H267
+Hmm.  Well today my blood pressure was 112/73.
+
+DOCTOR H267
+Yeah actually that's good.
+
+PATIENT H267
+So I could take off, stay on my blood pressure medicines?
+
+DOCTOR H267
+Yeah that's actually great; it's good that you should stay there.
+
+PATIENT H267
+Oh okay, alright.  Cause I thought it was too low.
+
+DOCTOR H267
+No it's actually normal.  Less than 120/80 is normal.
+
+PATIENT H267
+Oh is that, okay.
+
+DOCTOR H267
+Yeah so.  Um do you need any refills today?
+
+PATIENT H267
+Yes I do.  I need refills on um uh all of my uh, like the insulin, the insulin uh the syringes I don't have any refills on the syringes and my testing strips.
+
+DOCTOR H267
+Okay.
+
+SECOND PERSON H267
+Nothing else?
+
+PATIENT H267
+Yeah I have a one more and my uh I need a refill on the Cialis.
+
+DOCTOR H267
+Okay.  Anything else?
+
+PATIENT H267
+That's all.  Cause I have refills on the rest of them.  DOCTOR gave me refills on most of them the last time.
+
+SECOND PERSON H267
+Last time you were here?
+
+PATIENT H267
+Yeah.
+
+SECOND PERSON H267
+Okay.
+
+DOCTOR H267
+So do you want to get those, pick them up while you're here?
+
+PATIENT H267
+Uh you can have them mailed to me.
+
+DOCTOR H267
+Mailed to you.
+
+PATIENT H267
+Cause I have enough to last me for a couple of weeks.
+
+DOCTOR H267
+Okay.  Let me have you sit down so we can listen to you.
+
+PATIENT H267
+Do you need me to take my coat off?
+
+DOCTOR H267
+Yes.
+
+PATIENT H267
+Okay.  Oh you know something else, I almost forgot, my um my right leg it keeps swelling up.
+
+DOCTOR H267
+When?
+
+PATIENT H267
+Oh this last week it swelled up, it's about every day.  I don't know if something's cutting off my circulation or what.
+
+DOCTOR H267
+So do you have any pain when you walk?
+
+PATIENT H267
+Yes I do.
+
+DOCTOR H267
+In your legs?
+
+PATIENT H267
+Yes uh, I contribute that to -  you know I need a hip replacement and I don't want to do that but the swelling, that shouldn't cause the swelling though right?
+
+DOCTOR H267
+So, do you try putting your feet up?  Have you been on your feet a lot?
+
+PATIENT H267
+Well I'm not on it a whole lot but uh.
+
+DOCTOR H267
+I'm gonna have you um roll up your pants.
+
+PATIENT H267
+See I think uh it's swelled right now.
+
+DOCTOR H267
+So let me see the other one too.  And it kind of swells up then goes down?
+
+PATIENT H267
+It swells up and then it, both of them are swelling now.
+
+SECOND PERSON H267
+But I know your feet have swelled for the last.
+
+PATIENT H267
+Yeah the swelling in my leg.
+
+SECOND PERSON H267
+Your right leg.
+
+PATIENT H267
+Yeah it's mostly the right one.
+
+SECOND PERSON H267
+Uh-huh.
+
+DOCTOR H267
+@@@.
+
+PATIENT H267
+@@@.
+
+DOCTOR H267
+I'll press it.  
+
+SECOND PERSON H267
+You want them both up?
+
+DOCTOR H267
+Yes and do you take a water pill at all?
+
+PATIENT H267
+Yes I take that for my blood pressure.  I think that's what blood.
+
+SECOND PERSON H267
+Yeah it's a water pill for your blood pressure.
+
+PATIENT H267
+She wants the sock off too?
+
+SECOND PERSON H267
+Do you want the sock off?
+
+DOCTOR H267
+Yeah.  @@@.
+
+PATIENT H267
+@@@ socks.
+
+SECOND PERSON H267
+It's swollen.
+
+DOCTOR H267
+And you didn't hurt yourself?
+
+PATIENT H267
+Not that I know of.  They just, I was watching TV.
+
+DOCTOR H267
+And how often do you get this?
+
+PATIENT H267
+Well, looks like all last week it's been swelling.
+
+DOCTOR H267
+And then the swelling goes down?
+
+PATIENT H267
+When I lay down and wake up it goes down.  But when I'm up and moving around it swells up.
+
+DOCTOR H267
+So one of the things that um.
+
+SECOND PERSON H267
+She wants this up.
+
+DOCTOR H267
+Is it right here?
+
+PATIENT H267
+Right in there, where you just had.
+
+DOCTOR H267
+Yeah.  And you didn't hurt yourself right?
+
+PATIENT H267
+No I don't remember.
+
+SECOND PERSON H267
+No.
+
+PATIENT H267
+No I don't feel any real pain in it.
+
+DOCTOR H267
+So why don't you, it this okay when I'm pressing?
+
+PATIENT H267
+It's okay.
+
+DOCTOR H267
+It's okay.
+
+PATIENT H267
+Right.
+
+DOCTOR H267
+Can you move your ankle for me, there's no pain there?
+
+PATIENT H267
+No it's, that's the way it was.
+
+SECOND PERSON H267
+Uh-huh.
+
+PATIENT H267
+I'm just thinking it had something to do with the circulation or something.
+
+DOCTOR H267
+Well you know I think they tested your circulation when you were in Podiatry.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+And the circulation of blood to your legs is okay.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+Uh.
+
+PATIENT H267
+But there's got to be something for it to swell up like that.  We'll let you know, next time it swell up maybe I take a picture of it and let you see.
+
+SECOND PERSON H267
+That one is swollen now.
+
+PATIENT H267
+Well this one is @@@.
+
+DOCTOR H267
+So it looks like your ankle here is swollen here.
+
+SECOND PERSON H267
+Okay.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+So.
+
+PATIENT H267
+I don't know.
+
+DOCTOR H267
+It could just because this is your bad hip right?
+
+PATIENT H267
+It is.
+
+DOCTOR H267
+So that you might actually be um using your, to compensate for your hip.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+You might be putting more pressure on your.
+
+PATIENT H267
+Yeah I do do that.
+
+DOCTOR H267
+On the joints and that would cause you swelling.  It's, I don't think it's anything to be worried about right now.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+But the thing is if it gets swollen and it stays swollen.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+And it becomes red and hot uh that's when we need to think about there's maybe clot in your leg or if you have an infection in your leg.
+
+PATIENT H267
+Alright.
+
+DOCTOR H267
+That doesn't seem to be the case.
+
+PATIENT H267
+Well then at night if I lay down, if I go to sleep when I wake up then it's down.
+
+DOCTOR H267
+Yeah that's another thing too is you could be putting a lot of pressure on that.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+But you're gonna naturally have a little bit more swelling.
+
+PATIENT H267
+Should I just, kind of keep @@@.
+
+DOCTOR H267
+Yeah.
+
+PATIENT H267
+@@@.
+
+DOCTOR H267
+Let me just listen to you okay.  
+
+PATIENT H267
+@@@.
+
+SECOND PERSON H267
+Okay.
+
+PATIENT H267
+Yeah.
+
+DOCTOR H267
+Deep breaths, another one.  Do you smoke?
+
+PATIENT H267
+Yes I do.
+
+DOCTOR H267
+Are you going to quit smoking soon?
+
+PATIENT H267
+Well I'm trying, I'm trying.
+
+DOCTOR H267
+Are you really trying?
+
+PATIENT H267
+Not real real hard uh.
+
+DOCTOR H267
+Because you've got some wheezing.
+
+PATIENT H267
+Hmm.  @@@.
+
+SECOND PERSON H267
+@@@.
+
+DOCTOR H267
+So you've got to stop smoking.
+
+PATIENT H267
+Right I know.
+
+DOCTOR H267
+Okay.  
+
+PATIENT H267
+I know all my doctors tell me.
+
+SECOND PERSON H267
+He's got to @@@ trying.
+
+PATIENT H267
+All of my doctors tell me.
+
+SECOND PERSON H267
+He's @@@.
+
+DOCTOR H267
+I just need to talk to DOCTOR and I'll be right back okay.
+
+PATIENT H267
+Oh okay.
+
+(DOCTOR OUT:  19:24  DOCTOR IN:  27:50)
+
+DOCTOR H267
+Okay.  So I talked to DOCTOR.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+And he actually recommends going up on your insulin to 50 units.
+
+PATIENT H267
+50?
+
+DOCTOR H267
+Yeah.  But you know cause it's up to you if you feel comfortable going up that many units.
+
+PATIENT H267
+Well if he thinks it's best I'll do it.
+
+DOCTOR H267
+And then if your blood sugars ever run low then you should.
+
+PATIENT H267
+Then cut back.
+
+DOCTOR H267
+Um cut back and then call here.
+
+PATIENT H267
+Okay.
+
+DOCTOR H267
+Okay and let him know.
+
+PATIENT H267
+Alright uh so a lot of times that if I call then I don't get through.
+
+DOCTOR H267
+I think sometimes they tell you to go to the Urgent Care.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+I don't know when DOCTOR is available here.
+
+PATIENT H267
+Uh-huh.  Yeah I know he's got a lot of patients.
+
+DOCTOR H267
+Yeah.
+
+PATIENT H267
+Oh.  So I it would probably be better just to call at his old clinic and ask for him?
+
+DOCTOR H267
+Yeah that's probably the best way.
+
+PATIENT H267
+Just call okay.  Uh one more thing I wanted to ask you and then uh you know a couple things, you send in for my syringes and stuff, you ordered those for me right?
+
+DOCTOR H267
+I'm going, yeah I'm actually ordering them right now.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+But we're going to have the come to you through the mail.
+
+PATIENT H267
+Yeah that's the syringes, the test strips and the insulin.
+
+DOCTOR H267
+Yeah.
+
+PATIENT H267
+Okay.  And the Cialis I need a refill on that.
+
+DOCTOR H267
+Yeah and then I'm going to send, you're getting some vitamin D in the mail.
+
+PATIENT H267
+Oh okay.
+
+DOCTOR H267
+Okay.
+
+PATIENT H267
+Alright.
+
+DOCTOR H267
+And then we'll see you back here in about two months.
+
+PATIENT H267
+That's what I was wanting to ask you, not to schedule any appointments till after May.
+
+DOCTOR H267
+Oh that's.
+
+PATIENT H267
+Because my granddaughter is going to school.
+
+DOCTOR H267
+Uh-huh.
+
+PATIENT H267
+And she needs somebody to keep her baby.
+
+DOCTOR H267
+Okay.
+
+PATIENT H267
+She had to miss today because I had to come, but I had to come, I need the supplies and stuff.
+
+DOCTOR H267
+Okay.
+
+PATIENT H267
+Uh and I want to ask you one more question and then I'll be out of here.
+
+DOCTOR H267
+Uh-huh.
+
+PATIENT H267
+Uh if you were to tell me that uh I need, my activities were restricted to control my blood sugar what would you be telling me?
+
+DOCTOR H267
+What makes you think you uh restrict your activities?
+
+PATIENT H267
+I'm not under that?
+
+DOCTOR H267
+Uh uh.
+
+PATIENT H267
+No restrictions, I see.
+
+DOCTOR H267
+No you should actually try to walk around as much as you can.
+
+PATIENT H267
+Oh okay, that's what I was just @@@.
+
+DOCTOR H267
+Okay and this is the sheet you gave me earlier about the vitamin D levels.
+
+SECOND PERSON H267
+Well what about the shortness of his breath?
+
+DOCTOR H267
+So as much as you can tolerate.
+
+SECOND PERSON H267
+But um he gets out of breath quick.
+
+DOCTOR H267
+Yeah so the thing is that that we actually don't have any control over because part of it's his COPD.
+
+SECOND PERSON H267
+When they gonna check his lungs?
+
+DOCTOR H267
+Uh check his lungs for?
+
+SECOND PERSON H267
+You know @@@.
+
+PATIENT H267
+What?
+
+SECOND PERSON H267
+You know um they were checking your lungs to make there was a problem in there.
+
+PATIENT H267
+But I didn't go back for that appointment.
+
+SECOND PERSON H267
+But you should.
+
+PATIENT H267
+But there wasn't no need in going back until I quit smoking.
+
+DOCTOR H267
+So.
+
+PATIENT H267
+Cause she said basically is my problem is smoking.
+
+DOCTOR H267
+The problem is smoking.
+
+PATIENT H267
+Right.
+
+DOCTOR H267
+And it's only gonna get worse.
+
+PATIENT H267
+Right.
+
+DOCTOR H267
+So what I recommend is for you to, I mean.
+
+PATIENT H267
+Right, I'm gonna stop smoking.
+
+DOCTOR H267
+Stop smoking, start using a breathing machine and then you're gonna start feeling much better.  You're gonna be able to walk further, you'll be less short of breath.
+
+PATIENT H267
+We have uh, once I quit smoking will my lungs clear up then or?
+
+DOCTOR H267
+It takes a, it'll take a while.  A lot damage has been done to your lungs.
+
+PATIENT H267
+Uh-huh.
+
+DOCTOR H267
+Can't be reversed.
+
+PATIENT H267
+Right.
+
+DOCTOR H267
+But at least you won't damage it any further.
+
+PATIENT H267
+Right and when I, one I stop it that the damage should stop.
+
+DOCTOR H267
+The damage should stop.
+
+PATIENT H267
+Oh okay.
+
+DOCTOR H267
+So.
+
+SECOND PERSON H267
+Okay doctor.
+
+DOCTOR H267
+Okay. 
+
+SECOND PERSON H267
+@@@.
+
+PATIENT H267
+She’s so tired @@@ sleep.
+
+DOCTOR H267
+Well don't give her any reason for @@@.
+
+PATIENT H267
+Right, it's not me.  It's my great granddaughter.
+
+SECOND PERSON H267
+@@@.
+
+PATIENT H267
+Okay doctor.
+
+DOCTOR H267
+Okay.
+
+PATIENT H267
+So you gonna give me that appointment in the mail?
+
+DOCTOR H267
+Yeah they'll come in the mail.
+
+PATIENT H267
+I don't have to stop at the desk when we leave?
+
+DOCTOR H267
+No.
+
+SECOND PERSON H267
+And his prescriptions will come in the mail?
+
+DOCTOR H267
+Actually yeah, I'm putting those in right now.
+
+PATIENT H267
+Okay.
+
+DOCTOR H267
+And then before you come back you'll need to stop at the Lab next time and @@@.
+
+PATIENT H267
+Okay.
+
+DOCTOR H267
+Okay.
+
+PATIENT H267
+Alright you don't want me to do it?
+
+DOCTOR H267
+No because I think you just had stuff done.
+
+PATIENT H267
+Yeah I did a lot of @@@.  
+
+SECOND PERSON H267
+Okay, you have a good day.
+
+PATIENT H267
+Okay thank you doctor and take care of that little one.
+
+DOCTOR H267
+Oh thank you.
+
+PATIENT H267
+What they say, it's gonna be a girl or boy?
+
+DOCTOR H267
+Boy.
+
+PATIENT H267
+Wow.
+
+DOCTOR H267
+A little boy.
+
+PATIENT H267
+Wow, @@@.
+
+DOCTOR H267
+Thank you.
+
+PATIENT H267
+Pharmacy.  Actually I'm going to the Lab.
+
+PATIENT LEAVES:  33:11.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255200
+TRANSACTION # 578-10-2-316-0103

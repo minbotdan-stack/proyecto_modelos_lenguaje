@@ -1,0 +1,1430 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR N198
+PATIENT?
+
+PATIENT N198
+How are you?
+
+DOCTOR N198
+Good how are you?
+
+PATIENT N198
+Oh, yeah, hurting but come here.
+
+DOCTOR N198
+Okay, just give me one second to bring things up okay.
+
+PATIENT N198
+No problem.
+
+DOCTOR N198
+(Doctor working on computer from 9:39 - 12:17)  Okay, one second.
+
+PATIENT N198
+Take your time.
+
+DOCTOR N198
+(Doctor working on computer from 12:25 - 13:23, takes a phone call from 13:23 to 16:16)  Okay, so PATIENT what's going on?
+
+PATIENT N198
+AS far as the diabetes goes; I think I'm feeling a little better.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+I'm not going to say great but.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+I had my hopes so.
+
+DOCTOR N198
+Good.
+
+PATIENT N198
+But uh.
+
+DOCTOR N198
+So how are your sugars?
+
+PATIENT N198
+Um, of course I bring you this.
+
+DOCTOR N198
+Good.
+
+PATIENT N198
+Paperwork to let you see.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+It seems like it's a slow process but it has gotten better I think anyway.
+
+DOCTOR N198
+Okay.  Let's see, so you're taking 15 of Glargine at night now, is that right?
+
+PATIENT N198
+Correct.
+
+DOCTOR N198
+Okay.  Okay and no one's called you from the Pharmacy still?  None of the pharmacists have called you yet?
+
+PATIENT N198
+No.
+
+DOCTOR N198
+I wonder what the deal is, let's see.
+
+PATIENT N198
+I remember you mentioning that someone.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+Is supposed to call me from the Pharmacy.
+
+DOCTOR N198
+Yeah, I @@@ anyway, let's see.  Okay, well.  I know it @@@, so uh the reason I wants you to get involved with the pharmacist is that you know I'm only here every so often.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Uh and they can, they'll call you like once a week at least.
+
+PATIENT N198
+Uh-huh.
+
+DOCTOR N198
+And they can adjust your medications much more frequently than I can.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Um and so I think it'll be good to have them involved too so we can get you exactly where we want you with your sugars.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Okay and in the meantime we'll have to do it ourselves, I'm happy to do it, I want someone who can even be more involved with you, you know every single week and touch base.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Okay.  Um so how are you feeling on the insulin, you doing okay?
+
+PATIENT N198
+Um I think so um.  Like I say it's.
+
+DOCTOR N198
+@@@ yeah.
+
+PATIENT N198
+It seems like I definitely monitor it, but it seems like it might be a slow process but um.
+
+DOCTOR N198
+But no numbers in the 300s anymore.
+
+PATIENT N198
+I know.
+
+DOCTOR N198
+But okay.
+
+PATIENT N198
+No, no.  I mean I had a couple of 400s too.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+That's when I really, really got concerned cause.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+I felt maybe the first time I got a 400 you know it was just a bad day you know.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+But after I got a couple of them.
+
+DOCTOR N198
+Yeah you had.
+
+PATIENT N198
+Yeah this is way too high.
+
+DOCTOR N198
+Yeah.  Are you feeling any better?
+
+PATIENT N198
+A little bit.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+A little bit.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+You know um I'm still having problems with blurry vision but um I'm hoping that it's going to get a little better you know.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+But uh as far as how I was feeling before.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+You started the insulin.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+Uh I definitely feel a little better than that.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+You know because it got so bad that um, I just didn't want to do anything.
+
+DOCTOR N198
+Yeah.  You were real @@@ the last time you were here.
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+So uh I do appreciate that cause.
+
+DOCTOR N198
+Oh no problem.
+
+PATIENT N198
+I was trying to stay away from the insulin as long as I could too so.
+
+DOCTOR N198
+Yes, yes.
+
+PATIENT N198
+I completely understood that but uh it just seemed like the pills weren't helping at all.
+
+DOCTOR N198
+Right, yeah.  It was getting a little out of control so.  Well okay.  Uh what about, are you still urinating a lot or is that kind of doing a little better?
+
+PATIENT N198
+Um it's been a little bit better.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+As a matter of fact a couple of times I almost had some serious rest.
+
+DOCTOR N198
+Oh okay.
+
+PATIENT N198
+Um because I wasn't jumping up.  I mean there were nights when I was getting up five, six times.
+
+DOCTOR N198
+Yeah, when your sugars are up that that high, it's like a diuretic so.
+
+PATIENT N198
+Yeah so uh.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+I think I've been getting up like two or three times.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+And that's definitely a improvement so.
+
+DOCTOR N198
+Good.
+
+PATIENT N198
+Um.
+
+DOCTOR N198
+That's good.
+
+PATIENT N198
+Like I say, I'm just hoping that you know as time goes on it gets a little better and a little better.
+
+DOCTOR N198
+Yeah, yeah. 
+
+PATIENT N198
+And a little better.
+
+DOCTOR N198
+Absolutely.  Now so I wonder if you've seen an eye doctor, yeah it was in the summer of 2011 was the last time?
+
+PATIENT N198
+Yeah I think they told me that you can go once a year I think it is.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+So I think I'm not due to go back to see them until September.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+2012.
+
+DOCTOR N198
+When did you notice that your vision was getting blurry?
+
+PATIENT N198
+Oh way before um my sugar went up.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+It just, it wasn't continuous then alright.  I would have a few days where they seemed to be blurry and.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+I would put some uh Visine in them.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+You know and uh cold compresses on my eyes that.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+And that would seem to clear it up a little bit.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+But um as time has gone on and when my sugars went up so high, seemed like they got blurry and uh they didn't want to clear up.
+
+DOCTOR N198
+Okay, okay.  Um I do think it'll get better as your sugars go down.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+So um, we could see if we could get you in a little earlier with the opticians and that would be a good thing too.  So I'll put in a consult in for them okay.
+
+PATIENT N198
+Yeah, they gave me um a pair of glasses and you know Hines wasn't doing that at first so I was more than appreciative for that.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+You know so.
+
+DOCTOR N198
+Yeah. 
+
+PATIENT N198
+Um.
+
+DOCTOR N198
+That's good also if they want to change I think we could do that.
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+And have them check you out as well.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Okay.  @@@.  And I'm looking at your thyroid here.
+
+PATIENT N198
+Yeah I just had the test this month.
+
+DOCTOR N198
+Uh-huh.  Now you don't have any, um you don't notice that your heart was beating quickly or anything have you?
+
+PATIENT N198
+Uh it's.
+
+DOCTOR N198
+@@@.
+
+PATIENT N198
+As a matter of fact, it's, to me it's an undescribable feeling um, I'm not necessarily sure if it's that my heart is beating fast but uh it's a funny feeling.  It's hard to describe um.  Kind of feels like gas but it's not, it's like, I can't describe it.  I really tried to put my finger on it but um.
+
+DOCTOR N198
+Hmm.  Like someone is sitting on your chest kind of?
+
+PATIENT N198
+Yeah, it's I don't know if it's respiratory or what because I've been having problems with my sinuses, I was going to ask you about that too but.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+Um, I can't really describe what it is and that's unusual for me but.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+But um I want to say like a flushed feeling but it's in the chest area and it's um.
+
+DOCTOR N198
+Hmm, how long has this been going on for?
+
+PATIENT N198
+Oh um maybe the last couple of weeks I think you know and it's not continuous, it's just.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+Some mornings or some afternoons uh, I thought possibly it could be gas cause I've been trying to eat a little more.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+Cause the weight loss has been unbearable you know.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+Although I think I've gained a pound or two.
+
+DOCTOR N198
+Oh good.
+
+PATIENT N198
+Uh.
+
+DOCTOR N198
+Your sugars too, if they're better controlled you should be able to gain weight a little better.
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+So having them higher.
+
+PATIENT N198
+I think they told me it was 140 something the last time I was here.
+
+DOCTOR N198
+Yeah.  145 today so that's a little.
+
+PATIENT N198
+Yeah she told me it was 153 today.
+
+DOCTOR N198
+Oh good.
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+That's awesome.
+
+PATIENT N198
+Well I've been eating like a little pig so.
+
+DOCTOR N198
+Oh yeah that's a good.
+
+PATIENT N198
+Even when I didn't want it you know cause I got a sister who tells me that I need to eat.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+It's chemistry but um I don't know if it was the sugar but I really, really didn't have, it's the pain too so, but I really didn't have the desire to eat a whole lot so.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+I mean I was missing meals and not even care so.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+I think it's gotten a little better.
+
+DOCTOR N198
+Okay.  What's going on with your pain?
+
+PATIENT N198
+Oh, well the um, I got the plate and screws in the front of my neck.
+
+DOCTOR N198
+Yeah, yeah.
+
+PATIENT N198
+And screws in the back.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+And I forgot about the screw in my hip and.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+The weather's been.
+
+DOCTOR N198
+It's been acting up.
+
+PATIENT N198
+So yeah it's been going back and forth, back and forth and I've been trying to cut back on the um Vicodin.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+You know because I've been taking it a long time.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+Um and the pain has been rough.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+It really has but um if I'm in pain I'm trying not to.
+
+DOCTOR N198
+Take the Vicodin.
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+Do you have enough?
+
+PATIENT N198
+Uh yeah because I haven't been taking it.
+
+DOCTOR N198
+You haven't been taking it.
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+So, if I didn't @@@ I would be sure to listen.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+You know I've had pills in my hand a couple of times and I put them up because I said no.
+
+DOCTOR N198
+It's probably not worth it yeah, okay.
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+Well we don't want you to be miserable so let's you know.
+
+PATIENT N198
+Too late.
+
+DOCTOR N198
+Oh, well you can take that.
+
+PATIENT N198
+I know my sis told me the same thing.
+
+DOCTOR N198
+Take it you need it.
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+She said the same thing but you know you got to take them.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+So I also think it might have affected my appetite so.
+
+DOCTOR N198
+The pills?
+
+PATIENT N198
+Yeah that's one of the reasons.
+
+DOCTOR N198
+Yeah pain can affect the appetite too so.
+
+PATIENT N198
+Yeah so.
+
+DOCTOR N198
+You know yourself the best so you shouldn't be living in horrible pain because the pain medicine is there when you need it okay.
+
+PATIENT N198
+I will.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+Believe me.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+Definitely after I eat I'll.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+I'll take it cause I will not take it on an empty stomach.
+
+DOCTOR N198
+Okay.  Well, I want to go up on your insulin again.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Uh now your thyroid, so they did the ultrasound.
+
+PATIENT N198
+Uh-huh.
+
+DOCTOR N198
+So we kind of picked this up incidentally so we did the scan of your tests and they said there's nothing going on with your weight loss or anything.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+And they noticed that you have what they're calling like a multi-nodule goiter um that they thought you may need a CT scan but that's not the best test to look at it so.
+
+PATIENT N198
+Oh don't tell me that cause I had uh, a aunt who had a goiter.  I was thinking that my mother had one too but my aunt was way out of control.
+
+DOCTOR N198
+Was it big?
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+Oh okay, so that sort of thing shouldn't happen anymore uh nowadays we don't let it get that bad.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+Well she was intense, she older, much different generation.
+
+DOCTOR N198
+Oh okay.
+
+PATIENT N198
+Definitely tried to have her, um I think doctors had suggested surgery and she refused.
+
+DOCTOR N198
+Oh okay.
+
+PATIENT N198
+All kind of ways, she just would not have it.
+
+DOCTOR N198
+It just kind of got out of control huh.
+
+PATIENT N198
+Oh it was big.
+
+DOCTOR N198
+Oh okay, well you don’t have to worry about it's getting big.
+
+PATIENT N198
+Yeah okay.
+
+DOCTOR N198
+We've got lots of medicine for it if you need it nowadays.
+
+PATIENT N198
+Good.
+
+DOCTOR N198
+Uh but I don't, it's a little, it's a little interesting so do you have an enlarged thyroid and you do have some nodules in it.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+But the biggest one is 1.7 cm which is small um and your thyroid function tests are normal.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Um so and I need to look this up actually, I don't remember what the @@@.  I do think we should probably just have you see Endocrinology who are thyroid doctors um particularly because of you know your weight loss and everything.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+The thyroid is kind of intimately involved with weight.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Um and so I'd probably like to get their opinion just to make sure um see what they think about this.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Okay um I think that we're some progress with your sugars and everything.  Actually I think then we'll be really good.  Have you ever seen Endocrine here with us?
+
+PATIENT N198
+Possibly um, probably when I first started coming over I'm not sure.
+
+DOCTOR N198
+Okay, I'm going to look back because Endocrinology, let's see.
+Yeah I don't see anything about your thyroid so yeah so they’re the thyroid experts um.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+So let me go talk to one of the other doctors real quick too about this.
+
+PATIENT N198
+I know what your, I think about three or four years ago.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+One of the doctors had given me some medicine for sinuses and I'm hoping that you can find.
+
+DOCTOR N198
+Your sinuses have been bothering you?
+
+PATIENT N198
+Oh.
+
+DOCTOR N198
+Okay remind me before you leave okay.
+
+PATIENT N198
+I shall do that.
+
+DOCTOR N198
+Before you go okay, I'll be right back.
+
+PATIENT N198
+Okie dokie.
+
+(DOCTOR OUT:  31:15  DOCTOR IN:  36:34)
+
+DOCTOR N198
+Alright.  So I talked with one of the other doctors.  He agrees you should probably see the endocrinologist about this nodule.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Especially with your family history and stuff so I'll have you set you up okay.
+
+PATIENT N198
+Yeah.  I think my mom's had one too but uh hers was not as pronounced as the one.
+
+DOCTOR N198
+As your aunt.
+
+PATIENT N198
+Aunt yeah.
+
+DOCTOR N198
+Okay.  Um okay so in terms of your Glargine I want you to go up to 20 units.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+You're at 15 right now okay.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Um and then so @@@ I said that you could get in touch with the pharmacist who would kind of talk to you every week.
+
+PATIENT N198
+Uh-huh.
+
+DOCTOR N198
+Um.
+
+PATIENT N198
+Well maybe they tried to call and.
+
+DOCTOR N198
+I don't think so because it wasn't registered yet on the @@@.
+
+PATIENT N198
+Okay so.  I got a bad habit of screening the salespeople who be trying to get.
+
+DOCTOR N198
+Oh yeah.
+
+PATIENT N198
+To sell you stuff all the time.
+
+DOCTOR N198
+Yeah we all do that, that's alright.  What you can do is  go up to 20 for the next week.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+And if your numbers are still above 120.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+You can go up another 2 units okay, so you can go to like 22.
+
+PATIENT N198
+So how long are we talking about uh for a week?
+
+DOCTOR N198
+Yeah do 20 for a week.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+See how you do um and then if it's still, if your numbers are still consistently above 120, they're still in the high 100s or even 200s.
+
+PATIENT N198
+Uh-huh.
+
+DOCTOR N198
+Then go up to 22 for the next week.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+And then call me and let me know how you're doing.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+And we'll just keep going up until we get your numbers where we want them but slowly.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Does that make sense?
+
+PATIENT N198
+Sure.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+I mean you've been right so far, you know why would I challenge you, no way.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+No, I was so happy for it to come down I just.
+
+DOCTOR N198
+Yeah no this is great, it looks like, especially the last two days or so, yes the 22nd looks good.
+
+PATIENT N198
+I was wondering because I been having so much orthopedic surgery alright.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+Cause usually when I get up in the morning uh, generally the first thing I do is brush the teeth and stuff and then I do a little exercise and I was wondering was the exercise causing it to.
+
+DOCTOR N198
+Your sugars no.
+
+PATIENT N198
+I mean the blood glucose, not necessarily my sugar but.
+
+DOCTOR N198
+Oh, no I think that's actually supposed to do the opposite.
+
+PATIENT N198
+That's what I thought.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+You know yeah but I started um exercising after I did the blood glucose cause I'm saying I need to check everything.
+
+DOCTOR N198
+Oh.
+
+PATIENT N198
+I'm not sure so.
+
+DOCTOR N198
+Uh-huh yeah, no it shouldn’t have a negative affect on your sugars but so what's going on with your sinuses?
+
+PATIENT N198
+Um like I said about three or four years ago the doctor I had at the time had told me I needed this medicine for my sinuses and.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+Um I took it for, I don't know two months or so and it seemed like my sinuses got better and of course just like most men I stopped taking the medicine.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+All of a sudden now it just seems like they're giving me the blues and I think I've had quite a few sinus headaches too with uh, so I was just wondering if there's something you can't find.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+You can't find what they was giving me, it was a little teeny weeny white pill that they were giving me.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+Um and what kind of symptoms are you having?  Are you having like a runny nose?
+
+PATIENT N198
+Runny nose um, a little mucous and it doesn't seem like cold mucous.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+It's uh it's hard to describe.  I know that uh because I been cutting back on smoking.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+I noticed though when I smoke a regular cigarettes.
+
+DOCTOR N198
+Uh-huh.
+
+PATIENT N198
+It seemed to dry them up a little bit so.
+
+DOCTOR N198
+Do you think it's all coming from your nose and then you're having problems with it dripping down your throat and @@@.
+
+PATIENT N198
+I haven't had, I haven't had a whole lot dripping down the throat.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+I have to be honest but I definitely know that it gets to the point sometime where I can't breathe.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+You know through my nose.
+
+DOCTOR N198
+Yeah, do you have a lot of pain like in your @@@.
+
+PATIENT N198
+A little bit in the cheeks and mostly up in here.
+
+DOCTOR N198
+Yeah okay.
+
+PATIENT N198
+So I'm, I'm.
+
+DOCTOR N198
+Do you have any itching in your eyes or watery that you notice?
+
+PATIENT N198
+Oh, you know cause I'm blurry-eyed half the time anyway so.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+Yeah but I think the Visine probably help a little bit with that too.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+So um.
+
+DOCTOR N198
+Well there's lots of different sinus medications so we need to decide what would be best for you.  Um, one of the, easiest medications, well all of the sinus medicines have some side effects but um.
+
+PATIENT N198
+Like what?
+
+DOCTOR N198
+Um like a lot of them are antihistamines.
+
+PATIENT N198
+Uh-huh.
+
+DOCTOR N198
+So they can make you tired and they can, if you're on them for too long you know.
+
+PATIENT N198
+Well we don't need to be.
+
+DOCTOR N198
+When you go off of them, so one of safest things for sinuses is nasal steroids um.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+And it gets rid of all that kind of congestion.
+
+PATIENT N198
+I think I had um years ago um I had the doctor give me something that was nasal and I had to squirt it up.
+
+DOCTOR N198
+Put it in your nose a couple of times.
+
+PATIENT N198
+Yeah.  Was that, I think was that um what's the word I'm looking for steroid?
+
+DOCTOR N198
+Yeah so, yeah.
+
+PATIENT N198
+Right.
+
+DOCTOR N198
+Something I would give you is the steroid.  I forget which one you had here at the VA.
+
+PATIENT N198
+Now would that react the same way as the um the steroid oral medicine?
+
+DOCTOR N198
+No.
+
+PATIENT N198
+Okay cause.
+
+DOCTOR N198
+No yeah steroids orally you can't take for a long time they have a lot of side effects.
+
+PATIENT N198
+I couldn't take it at all.
+
+DOCTOR N198
+Yeah.
+
+PATIENT N198
+That's what originally popped my.
+
+DOCTOR N198
+Sugars up yeah.
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+No this is just you definitely no this is just locally.
+
+PATIENT N198
+Yeah.
+
+DOCTOR N198
+So yeah you'll be fine with your sugars, it won't make it.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+So let's start with that.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Cause the other ones I don't really like that much you know these are the ones we can start on.
+
+PATIENT N198
+Like I said.
+
+DOCTOR N198
+So let's start with the nasal spray okay.
+
+PATIENT N198
+You've been right so far why would I.
+
+DOCTOR N198
+You're trying to convince me here.
+
+PATIENT N198
+No I'm not, no I'm not.
+
+DOCTOR N198
+So let me see what kind you had here in your chart.  Okay so you had it looks like flunisolide, that's the brand that they have here.  You're going to do two sprays in each nostril twice a day.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+First thing when you wake up in the morning and then sometime you know halfway through the day so.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Now you just want to have them mail it or do you want to pick it up?
+
+PATIENT N198
+Yeah please.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+I did the other one your way, the um the insulin.
+
+DOCTOR N198
+Did it take a long time?
+
+PATIENT N198
+Oh brother.
+
+DOCTOR N198
+Oh yeah, did you have to wait down there.
+
+PATIENT N198
+Oh right.  But I remember that's the way it's always been.
+
+DOCTOR N198
+Oh okay.
+
+PATIENT N198
+@@@.
+
+DOCTOR N198
+Yeah @@@.
+
+PATIENT N198
+I'd rather do the mail cause I'm saying God, Jesus.
+
+DOCTOR N198
+Yeah gotcha.  Okay so try your Glargine, we'll send the nasal steroids.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+And then a week from now you can come in too.
+
+PATIENT N198
+You mean I just stick it on my envelope to make sure that the old man don't forget.
+
+DOCTOR N198
+Okay.  And that's that.
+
+PATIENT N198
+Uh-huh.
+
+DOCTOR N198
+Okay and then if you're at 22 and your sugars are still higher than 120.
+
+PATIENT N198
+Uh-huh.
+
+DOCTOR N198
+Then just call me and we'll go definitely go up but we'll talk first.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+And then the Endocrinology people will call you and they can get you in for your thyroid.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Um and it's not anything you know emergent so.
+
+PATIENT N198
+Okay.  Now that wouldn't because I got those plate and screws in my neck.
+
+DOCTOR N198
+No, no.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+The CT scan they did was overall clear but the ultrasound was specifically looking right at the thyroid and you definitely have some nodules.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Um so the question is if they need to be biopsied or not so, your thyroid function is normal.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+So I know you're not hyperthyroid or hypothyroid um, there are people that have that problem.
+
+PATIENT N198
+When you say hypo what is it?
+
+DOCTOR N198
+Hyperthyroid is when you have too much thyroid hormones.
+
+PATIENT N198
+Uh-huh.
+
+DOCTOR N198
+So some people will be um, it can cause weight loss, it can cause people to be a little bit hyper and agitated and stuff and so then sometimes we have to get rid of it either surgically or with medicine get rid of the thyroid.  More times in older people are hypothyroid which means they don't make enough thyroid hormones.
+
+PATIENT N198
+Uh-huh.
+
+DOCTOR N198
+And usually you're tired and you put on weight and stuff like that and so we just give them that kind of a hormone.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Your thyroid function test you actually looked like they were normal.  So your thyroid is working correctly.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+You just have these little nodules in it.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+And so a lot of times we just biopsy them to make sure that they’re you know not cancerous or anything.
+
+PATIENT N198
+Now it's just @@@ alright.  If they have to be biopsies that mean they have to go in through my throat?
+
+DOCTOR N198
+It's a @@@, I don't deal with that, it's pretty easy they will use that ultrasound probe again.
+
+PATIENT N198
+Uh-huh.
+
+DOCTOR N198
+And it's just a needle, it's a needle biopsy so it's in your throat but it's not like cutting your throat or anything, they just stick a needle into it and they would numb up the whole area and stuff.
+
+PATIENT N198
+That's the optimum word numb @@@.  Yeah yeah and then definitely they would pay attention to the plate and screws right?
+
+DOCTOR N198
+Sure, yeah, yeah, yeah.  They do this all the time so but can remind them, of course.
+
+PATIENT N198
+Oh I will.
+
+DOCTOR N198
+Yeah but the thyroid actually is right here, right up front.
+
+PATIENT N198
+Uh-huh.
+
+DOCTOR N198
+So yeah it's sort of @@@ and they will use the imaging so they can see exactly where they're going.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Okay.  Um I'm not sure the size of yours is kind on the border where they might just want to watch it or they may biopsy it right off the bat.  If it's greater than 2 centimeters they would definitely biopsy it and yours was like 1.7 so you're kind of in that grey zone of you know, not totally sure what they'll do.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Okay.
+
+PATIENT N198
+Alright.
+
+DOCTOR N198
+Alright good to see you again.
+
+PATIENT N198
+Same here.
+
+DOCTOR N198
+I think we'll see you in a little longer this time.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Let's go like 4-6 months.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+So we'll talk on the phone about your sugars okay.
+
+PATIENT N198
+Alrighty.
+
+DOCTOR N198
+Alright.
+
+PATIENT N198
+Thank you doc I appreciate it.
+
+DOCTOR N198
+You take care, no problem have a good weekend.
+
+PATIENT N198
+You do the same.
+
+DOCTOR N198
+Do know where to check out?
+
+PATIENT N198
+Uh always at the desk.
+
+DOCTOR N198
+Yeah just right here so they'll help you with that.
+
+PATIENT N198
+Okay.
+
+DOCTOR N198
+Okay, alright you take care.
+
+PATIENT N198
+Uh-huh.
+
+PATIENT LEAVES:  47:45
+
+Time is 12:05 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255135
+TRANSACTION # 578-10-2-316-0103

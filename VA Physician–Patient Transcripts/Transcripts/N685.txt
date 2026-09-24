@@ -1,0 +1,738 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@ 
+
+DOCTOR N685
+PATIENT?  Hi.
+
+PATIENT N685
+How’s it going?
+
+DOCTOR N685
+Sorry, it is a little hot in here.  My name is DOCTOR.
+
+PATIENT N685
+Okay.
+
+DOCTOR N685
+Nice to meet you.  What brings you in today?
+
+PATIENT N685
+I was supposed to be be going to Podiatry.  That is what they told me at the @@@.
+
+DOCTOR N685
+Okay.
+
+PATIENT N685
+They said I had to go to somebody in the Red Clinic.
+
+DOCTOR N685
+Okay.  So do you need a referral? 
+
+PATIENT N685
+I guess so. @@@.
+
+DOCTOR N685
+Okay.  No problem.  Let me open up the note okay if you don’t mind.  Any problems since the last time you were here? 
+
+PATIENT N685
+Hmm, nothing to get excited about.
+
+DOCTOR N685
+Nothing @@@.
+
+PATIENT N685
+I am still going to therapy.
+
+DOCTOR N685
+Okay.  
+
+PATIENT N685
+I want to continue that.  See, when I was in therapy she says that my feet keep swelling up.
+
+DOCTOR N685
+Okay.
+
+PATIENT N685
+And she said somebody to see about it, she think I shouldn’t come back because she might mess it up some more.
+
+DOCTOR N685
+I see so was it the swelling that caused this problem.
+
+PATIENT N685
+I don’t know.  @@@ swelling keeps staying there.
+
+DOCTOR N685
+Have you been seeing anyone outside the VA?
+
+PATIENT N685
+Um, from you?
+
+DOCTOR N685
+Yeah.  I have a big medication list from previous notes @@@.
+
+PATIENT N685
+That’s it @@@.
+
+DOCTOR N685
+That’s it? That’s all you’re taking? 
+
+PATIENT N685
+From you?  Yes.
+
+DOCTOR N685
+You got another doctor?
+
+PATIENT N685
+Yea, I got a doctor at the nursing home.
+
+DOCTOR N685
+I see.  Okay.  So how have you been doing since the stroke?
+
+PATIENT N685
+I am ready to go home.  
+
+DOCTOR N685
+Did they say when you could go home?
+
+PATIENT N685
+I am doing something called access living.  They ain’t showing me a place @@@ look at places. @@@
+
+DOCTOR N685
+Any pain?
+
+PATIENT N685
+@@@.  I am doing pretty good.  
+
+DOCTOR N685
+Alright.  
+
+PATIENT N685
+I got to get @@@.  Mostly @@@.
+
+DOCTOR N685
+Do you have an appointment? For @@@?
+
+PATIENT N685
+No.  
+
+DOCTOR N685
+Do you take the lactulose to help move your bowels?
+
+PATIENT N685
+Yes.  
+
+DOCTOR N685
+And the clonidine for blood pressure?
+
+PATIENT N685
+Yes.
+
+DOCTOR N685
+Do you take anything else for blood pressure?
+
+PATIENT N685
+Not that I know of.
+
+DOCTOR N685
+@@@.  
+
+PATIENT N685
+Nothing that I know of.
+
+DOCTOR N685
+Nothing that you know of?  Okay.
+
+PATIENT N685
+My @@@ start to @@@ cramp up.  This was by itself, it swells.  
+
+DOCTOR N685
+Are any of these medications new?
+
+PATIENT N685
+@@@
+
+DOCTOR N685
+Yeah, there is a medication on here, that I see right here, oh, it’s stopped.  Okay.  Medication stopped.  Okay.  This one is stopped.  @@@?
+
+PATIENT N685
+Yeah, @@@. 
+
+DOCTOR N685
+Okay.  And what are all of these?  You have ibuprofen, albuterol, acetic acid, @@@.  Okay.  And then you used to be on Nexium and now you are on ranitidine?  
+
+PATIENT N685
+What is that for?
+
+DOCTOR N685
+It is for acid reflux.
+
+PATIENT N685
+Yeah.
+
+DOCTOR N685
+Okay.  Is it hard to take care of @@@?
+
+PATIENT N685
+I don’t know.
+
+DOCTOR N685
+Okay.
+
+PATIENT N685
+The green pill?  Yeah.
+
+DOCTOR N685
+Yeah.  You stopped that right?
+
+PATIENT N685
+No I just started the green pill.
+
+DOCTOR N685
+Okay but they had a previous pill right?  
+
+PATIENT N685
+Oh.  
+
+DOCTOR N685
+So what can I help you out with today?
+
+PATIENT N685
+Well with my foot.
+
+DOCTOR N685
+Okay.  What do you want me to do for your foot?  Send you to a podiatrist?
+
+PATIENT N685
+Yes please.
+
+DOCTOR N685
+Okay.  Have you ever seen the podiatrist here before?
+
+PATIENT N685
+Yeah.  
+
+DOCTOR N685
+Okay.  Let’s see.  The last time you went to the podiatrist was 2006. 
+
+PATIENT N685
+Hmm hmm.  
+
+DOCTOR N685
+I see.  So you need me to put in another consult?  
+
+PATIENT N685
+Please. 
+
+DOCTOR N685
+No problem.  What is going on with your foot?
+
+PATIENT N685
+It is swollen right there on the top.
+
+DOCTOR N685
+Okay.
+
+PATIENT N685
+Here.
+
+DOCTOR N685
+Is it painful?
+
+PATIENT N685
+Yes.  
+
+DOCTOR N685
+Alright.  How long has this been going on?
+
+PATIENT N685
+This has been going on for at least a month, but it will go down and come back up @@@. 
+
+DOCTOR N685
+Okay.  Any numbness or tingling?
+
+PATIENT N685
+No.  I don’t know @@@ on my toe.
+
+DOCTOR N685
+Is this one swollen?
+
+PATIENT N685
+Nope.  
+
+DOCTOR N685
+Do @@@ off your socks?  When was the stroke?
+
+PATIENT N685
+Ah, August 26 of last year.
+
+DOCTOR N685
+Okay.  Was the stroke because of high blood pressure?  
+
+PATIENT N685
+Last one, I don’t know.  A lot of things.
+
+DOCTOR N685
+Okay.  Any drugs involved? 
+
+PATIENT N685
+Yes and drinking.
+
+DOCTOR N685
+Drinking.  Have you been staying away from all of that now?
+
+PATIENT N685
+Yes sir.
+
+DOCTOR N685
+Good, good.  
+
+PATIENT N685
+No cigarettes.  No nothing.  
+
+DOCTOR N685
+Excellent.  So is your primary care doctor one at the @@@?
+
+PATIENT N685
+DOCTOR.  
+
+DOCTOR N685
+DOCTOR is your primary doctor? To make sure everything’s up to date.
+
+PATIENT N685
+Yeah, but I only seen him twice since I been there.
+
+DOCTOR N685
+Twice, all right.  Okay.  No problem.  Let me just make sure everything else is up to date.  
+
+PATIENT N685
+Now after I see a podiatrist then I get to go back to physical therapy?  
+
+DOCTOR N685
+Yeah, I don’t think there should be any problem for you to go to physical therapy.
+
+PATIENT N685
+@@@ my cane because my walker is not going @@@.
+
+DOCTOR N685
+Your blood pressure looks great.
+
+PATIENT N685
+Okay.
+
+DOCTOR N685
+Your pulse is a little fast.  @@@.  Were you rushing to get @@@?  Do you feel your heart racing?
+
+PATIENT N685
+Just from moving around.
+
+DOCTOR N685
+Any fevers or chills?  No?  @@@ a little bit about it.
+
+PATIENT N685
+Oh it is just a @@@ comfortable to eat.
+
+DOCTOR N685
+Okay.  So you saw Podiatry last time.  What was it for?  Do you remember?
+
+PATIENT N685
+Nope.  
+
+DOCTOR N685
+Okay.  
+
+PATIENT N685
+I was @@@, I don’t know.  
+
+DOCTOR N685
+Okay.  
+
+PATIENT N685
+Does it say?
+
+DOCTOR N685
+What is that?
+
+PATIENT N685
+Does it say what it was for?
+
+DOCTOR N685
+Yea, let me check.  For bilateral ankle pain from a motor vehicle accident.  Okay.  I will put that order in now okay?
+
+PATIENT N685
+For the foot?
+
+DOCTOR N685
+Sure.  You want feet right?  Surgical @@@.  Okay.  Have you had x-rays of your foot?
+
+PATIENT N685
+Not recently.
+
+DOCTOR N685
+Okay because they might want that before you go to the clinic.  
+
+PATIENT N685
+Okay.  
+
+DOCTOR N685
+Do you feel sick at all?  Nauseous?  
+
+PATIENT N685
+No.
+
+DOCTOR N685
+No?  Is your heart always this fast?  Heart rate running this fast?
+
+PATIENT N685
+I don’t know why.
+
+DOCTOR N685
+Okay.  Are you having a lot of pain?  
+
+PATIENT N685
+Yes from my foot.
+
+DOCTOR N685
+Mostly your foot?  
+
+PATIENT N685
+Yeah.
+
+DOCTOR N685
+Okay.  What do you take for the pain?  
+
+PATIENT N685
+@@@.
+
+DOCTOR N685
+Does it seem to help?
+
+PATIENT N685
+No, not really.  
+
+DOCTOR N685
+Okay.
+
+PATIENT N685
+It really don’t.  It hurts my @@@.
+
+DOCTOR N685
+Okay.  Have you had any recent blood work?  Cholesterol?  Thyroid?  Okay, that looks okay.  Your liver enzymes.  From February of this year.  
+
+PATIENT N685
+Yes.
+
+DOCTOR N685
+Okay.  And your blood count, everything was done in February.  It is about six months, okay.  Let’s @@@.  Alright.  Is there anything else I can do for you today?  
+
+PATIENT N685
+No.
+
+DOCTOR N685
+Alright I will be right back.  
+
+PATIENT N685
+Put my socks back on?
+
+DOCTOR N685
+Um, leave them off for now.  Okay?
+
+DOCTOR OUT:  28:05  DOCTOR IN:  31:53
+
+SECOND DOCTOR N685
+Hi DOCTOR said you are having foot pain?  So did you hurt it in any way @@@?
+
+PATIENT N685
+@@@
+
+SECOND DOCTOR N685
+@@@.  How many days has it been hurting you?  
+
+PATIENT N685
+It was over a month now.
+
+SECOND DOCTOR N685
+@@@.  Oh, okay.  @@@.  Okay.  Maybe you @@@ for coughing or @@@?
+
+PATIENT N685
+Nope.  
+
+SECOND DOCTOR N685
+Okay.  Do you feel your heart racing at all?  @@@?  You are eating and drinking okay?  Not throwing up?
+
+PATIENT N685
+No.
+
+SECOND DOCTOR N685
+No burning when you urinate?
+
+PATIENT N685
+No.
+
+SECOND DOCTOR N685
+@@@.  Is it here?  Where is the pain?
+
+PATIENT N685
+@@@.  There is more here.  When I put my foot down.
+
+SECOND DOCTOR N685
+Uh huh.  @@@.  Oh, okay.  @@@.
+
+PATIENT N685
+@@@.
+
+SECOND DOCTOR N685
+Okay.  I am going to get some x-rays today @@@ make sure there is no broken bone.
+
+PATIENT N685
+Yes ma’am.
+
+SECOND DOCTOR N685
+@@@ stand @@@ So get an x-ray right across the corridor, okay?
+
+PATIENT N685
+Okay.  
+
+SECOND DOCTOR N685
+So wait for the results @@@.
+
+PATIENT N685
+Why is my color in my foot like blood?
+
+SECOND DOCTOR N685
+You have strong pulses.  There is no circulation problem.  So this is normal for this. @@@.
+
+PATIENT N685
+Okay.
+
+SECOND DOCTOR N685
+@@@ Are you with the nursing home a long time?
+
+PATIENT N685
+Yeah, I been there since Christmas Eve.
+
+SECOND DOCTOR N685
+Oh, are you going to be there for @@@?
+
+PATIENT N685
+No.  I have @@@ released in maybe two weeks to a month.
+
+SECOND DOCTOR N685
+Okay, and then you will be going home?
+
+PATIENT N685
+Yeah.
+
+SECOND DOCTOR N685
+Okay.  But you are getting physical therapy there?
+
+PATIENT N685
+Yea, they stopped physical therapy so they could see about my feet.  
+
+SECOND DOCTOR N685
+Okay so you will be x-rayed, and @@@ Podiatry and Podiatry may take a few weeks to get in.
+
+PATIENT N685
+Really?
+
+SECOND DOCTOR N685
+Yeah.  So the x-ray you can do to make sure there is no broken bone.
+
+PATIENT N685
+@@@ so I can go back to physical therapy.
+
+SECOND DOCTOR N685
+And what exactly are they doing physical therapy wise?
+
+PATIENT N685
+Well they have me on the treadmill, and you know, they want me to do @@@ my feet swollen up like that.
+
+SECOND DOCTOR N685
+Okay.  @@@.  Well you can still do upper extremity exercises.  We can call upstairs to see how soon we can get you in.  Okay?  And @@@ for now.
+
+PATIENT N685
+@@@.
+
+SECOND DOCTOR N685
+@@@.  Deep breath.  Deep breath.  Now breath normal.  Now so, you don’t smoke?  No coughing?  Nothing like that?
+
+PATIENT N685
+No.
+
+SECOND DOCTOR N685
+@@@.  No burning when you urinate?
+
+PATIENT N685
+Nope.
+
+SECOND DOCTOR N685
+Are you having a lot of pain right now in your foot?
+
+PATIENT N685
+Just with the foot.
+
+SECOND DOCTOR N685
+Okay, right now when you’re sitting @@@. 
+
+PATIENT N685
+@@@.
+
+SECOND DOCTOR N685
+@@@.
+
+PATIENT N685
+I have to wait on that tooth?
+
+SECOND DOCTOR N685
+@@@.
+
+DOCTOR N685
+There is no pus or anything coming from that right?
+
+PATIENT N685
+No.
+
+SECOND DOCTOR N685
+Okay @@@.
+
+PATIENT N685
+There was an infection before, she gave me mouthwash.
+
+SECOND DOCTOR N685
+And your lower @@@?
+
+PATIENT N685
+@@@.
+
+SECOND DOCTOR N685
+Is it painful there?
+
+PATIENT N685
+Hm hmm.
+
+SECOND DOCTOR N685
+And how many weeks has it been hurting?
+
+PATIENT N685
+Until now because that @@@.  It has been over a few weeks since they sent me with the blood pressure, that is why they won’t take it out.
+
+SECOND DOCTOR N685
+Okay.  @@@.  The lower jaw.  
+
+PATIENT N685
+@@@. 
+
+SECOND DOCTOR N685
+@@@ over there.  You need @@@.  Should probably do @@@.  Any pain here?
+
+PATIENT N685
+No.
+
+SECOND DOCTOR N685
+No pain.  No pain here?
+
+PATIENT N685
+No.
+
+SECOND DOCTOR N685
+@@@ llose.  Is that right @@@ now?
+
+PATIENT N685
+Yes.
+
+SECOND DOCTOR N685
+Okay.  Now the dentists here, they don’t do, unless you are service connected.  What is your service-connection? @@@.
+
+PATIENT N685
+She is going to take it out she told me.
+
+SECOND DOCTOR N685
+Here? 
+
+PATIENT N685
+Yeah.
+
+SECOND DOCTOR N685
+Oh, okay then we can put the consult in.  Have you seen them?  
+
+PATIENT N685
+Yeah. 
+
+SECOND DOCTOR N685
+When did you see them?
+
+PATIENT N685
+Before @@@ take this one out.
+
+SECOND DOCTOR N685
+Okay.
+
+PATIENT N685
+But I had took the blood pressure pills.
+
+SECOND DOCTOR N685
+Okay so do you want us to put the consult in?  You want to go there?
+
+PATIENT N685
+Yeah.
+
+SECOND DOCTOR N685
+Okay.  I guess we can loose @@@ the patient was told that this would be @@@ extract @@@.  So I am sorry now, I don’t understand it, she said the filling is loose and she said she would fill it or she said she would pull it out?
+
+PATIENT N685
+Pull it out.
+
+SECOND DOCTOR N685
+Okay.  So because your tooth is hurting.
+
+PATIENT N685
+Yeah.
+
+SECOND DOCTOR N685
+Okay. Tooth pain @@@ extraction @@@ (speaks with other doctor)  Now no trouble breathing?
+
+PATIENT N685
+No.
+
+SECOND DOCTOR N685
+Okay, so go do the x-ray now and then do the blood work.  You want to go to the dentist on the 4th floor @@@.  So first do the x-ray.  @@@.
+
+PATIENT N685
+Okay.  After I do the x-ray what do I do? 
+
+SECOND DOCTOR N685
+Go to the lab.  We want to take some blood work on you.  Blood and urine.  And then go to the 4th floor to the Dental Clinic.
+
+PATIENT N685
+Okay.  After I do that I can go home?
+
+SECOND DOCTOR N685
+No, no.  First do the x-ray, then stop by the lab to have blood drawn, and then 4th floor Dental to have the teeth looked at.
+
+PATIENT N685
+Okay.
+
+SECOND DOCTOR N685
+And then come back down.  I just want to make sure your x-rays before we let you go.
+
+PATIENT N685
+Okay.
+
+SECOND DOCTOR N685
+We are going to make you a foot doctor appointment.
+
+PATIENT N685
+Alright.
+
+SECOND DOCTOR N685
+@@@.
+
+PATIENT N685
+Thank you.
+
+PATIENT LEAVES:  39:38
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800515/JOB#  1300286
+TRANSACTION # 578-10-2-316-0103

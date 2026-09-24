@@ -1,0 +1,1195 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR X745
+PATIENT?
+ 
+PATIENT X745
+Yes sir.  Hey.
+
+DOCTOR X745
+Hi I'm DOCTOR.
+
+PATIENT X745
+DOCTOR.  Do you remember seeing me? You helped me out a whole doc.
+
+DOCTOR X745
+What's that?
+
+PATIENT X745
+You helped me out a whole lot.
+
+DOCTOR X745
+Yeah when was that?
+
+PATIENT X745
+@@@ I came here and talked with you.  What does that do?
+
+DOCTOR X745
+I'm not sure @@@.
+
+PATIENT X745
+Oh but I didn't go in that office, I didn't go way back there.  I was up in.  
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+You've just been assigned my doctor.
+
+DOCTOR X745
+Right.
+
+PATIENT X745
+That's what it is.
+
+DOCTOR X745
+Right.
+
+PATIENT X745
+How are you?
+
+DOCTOR X745
+I'm okay, what about you?
+
+PATIENT X745
+Blessed.
+
+DOCTOR X745
+Blessed.
+
+PATIENT X745
+But doc when you're finished I got to show you something.
+
+DOCTOR X745
+Alright fine.
+
+PATIENT X745
+Where do you want me to sit?
+
+DOCTOR X745
+Oh right there is fine.
+
+PATIENT X745
+Thank you sir.  Okay.
+
+DOCTOR X745
+What do you want to tell me?
+
+PATIENT X745
+I need a referral for this.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+That's all.  And they got on that, I did the @@@ doc two, three weeks ago @@@.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+I know before I take the test I was non-reactive.
+
+DOCTOR X745
+Good.
+
+PATIENT X745
+And man I was thinking I had @@@ this morning.  I'm keeping it real with you and me.
+
+DOCTOR X745
+No I understand.
+
+PATIENT X745
+And now man, I don't know if you got any.
+
+DOCTOR X745
+Wonderful, let's hope.
+
+PATIENT X745
+We got the hope, hope.  If not I'm gonna be celibate.  Cause God blessed me with a wife.
+
+DOCTOR X745
+So I'm happy to do the test.  Would you like me also to do, I know you have a history of hepatitis C right?
+
+PATIENT X745
+That's correct.
+
+DOCTOR X745
+Um do you want us to test for hepatitis B just to make sure that everything @@@ with that too?
+
+PATIENT X745
+I sure will.
+
+DOCTOR X745
+Okay.  Um and there's something I have to explain to everybody um when we offer these tests that if you are interested there's counseling that we can give you before or after the test with the results.  Um we cannot call you with these results.  We must, positive or negative, we must have you in personally.
+
+PATIENT X745
+I ain't got no problem with that.  I'd rather for it to be that way.
+
+DOCTOR X745
+Absolutely, absolutely but I just have to be sure.
+
+PATIENT X745
+No problem, I'd rather for it to be that way doctor.
+
+DOCTOR X745
+How have you been feeling since you got out of the hospital?
+
+PATIENT X745
+Doc, I been doing great.  I been doing pretty good.  I had to come to myself.  I was going through a crisis.  That's what made me; it did make me but things happen the way it happened.
+
+DOCTOR X745
+Yes exactly.
+
+PATIENT X745
+And it, okay @@@ but it's no more.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+And I'm doing great.
+
+DOCTOR X745
+Good, good.
+
+PATIENT X745
+Except like I say my feet.  I got bad feet and I know that.
+
+DOCTOR X745
+Well what's going on with your feet?
+
+PATIENT X745
+Uh you know what calluses, corns; I have that and pretty much over uh.  They didn't give me no product, they gave me, I don't know what they gave me but it seem like it's not working.  It's in the thing what they gave me.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+Look at that name and see what they gave me, some powder or something.  What is that stuff they gave me?  I want to say Tinactin but that stuff don't seem to be working cause it's, they go away and when I go get Tinactin it’s working.  I say now why these people are prescribing me this and it's not working.  And doc, another thing, you see I'm taking, you see they giving me that now that one pill.  Is it up there, they gave me one pill.
+
+DOCTOR X745
+One pill for what?
+
+PATIENT X745
+Sex.
+
+DOCTOR X745
+For blood pressure or?
+
+PATIENT X745
+No, no, my enhancement.
+
+DOCTOR X745
+Yes.
+
+PATIENT X745
+Its there.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+Is it time for me to get it cause I need to get me some enhancement.
+
+DOCTOR X745
+Yeah you're due for a refill.
+
+PATIENT X745
+Can I get one?
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+I wanted to ask you, I need me some of them. I use protection yes.
+
+DOCTOR X745
+I can give you condoms as well.
+
+PATIENT X745
+I thank you very much.  I'm gonna keep them in my pocket.
+
+DOCTOR X745
+We don't want that to be an issue.
+
+PATIENT X745
+No, so.  I'm gonna correct that now and that's why I'm talking with you.
+
+DOCTOR X745
+Now you been taking the blood pressure medicine?
+
+PATIENT X745
+Yes sir, faithfully.  Faithful, lisinopril and I take 10 though.  I cut the 20's in half.  They told me to take 10.
+
+DOCTOR X745
+That's exactly right.
+
+PATIENT X745
+I cut those in half and.
+
+DOCTOR X745
+And the water pill.
+
+PATIENT X745
+And the water pill and the vitamin.
+
+DOCTOR X745
+You do.
+
+PATIENT X745
+Yes sir every day.
+
+DOCTOR X745
+And have you ever had a colonoscopy?
+
+PATIENT X745
+Yes I have.  When they did this hernia repair.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+They gave me a colonoscopy.
+
+DOCTOR X745
+And what did they tell you about it?
+
+PATIENT X745
+They said I was good.
+
+DOCTOR X745
+That's fine.
+
+PATIENT X745
+See I'm 55.
+
+DOCTOR X745
+That’s right.
+
+PATIENT X745
+So I don't need another one do I?
+
+DOCTOR X745
+You'll need one, if it was normal, you would need one every ten years.
+
+PATIENT X745
+So I'm cool?
+
+DOCTOR X745
+Depending on when the last one was.
+
+PATIENT X745
+I had a hernia repair February 9th.
+
+DOCTOR X745
+Of this year?
+
+PATIENT X745
+And I came in with problems and the doctor rather went up, with gloves, I don't know what he was doing.
+
+DOCTOR X745
+Oh that's not a colonoscopy.
+
+PATIENT X745
+That's not?
+
+DOCTOR X745
+No.  So I mean that's just a.
+
+PATIENT X745
+Well maybe I need one then.
+
+DOCTOR X745
+But a colonoscopy still this is, pardon my crude drawing, if this is your anus down here.
+
+PATIENT X745
+Uh-huh.
+
+DOCTOR X745
+This is your whole colon.
+
+PATIENT X745
+Hmm.
+
+DOCTOR X745
+When we do a rectal exam.
+
+PATIENT X745
+Hmm.
+
+DOCTOR X745
+We're feeling that part right there.
+
+PATIENT X745
+Oh.
+
+DOCTOR X745
+With our fingers.
+
+PATIENT X745
+Oh.
+
+DOCTOR X745
+We need to put a camera and we need to go in.
+
+PATIENT X745
+They didn't do that.
+
+DOCTOR X745
+This whole part.
+
+PATIENT X745
+I didn't do that.  I would like to have it cause I'm at that age, that's uh most certainly.
+
+DOCTOR X745
+You are.  Right.
+
+PATIENT X745
+I would like to.
+
+DOCTOR X745
+Alright um.  Did you have a flu shot this year?
+
+PATIENT X745
+I did, here when I was upstairs, when I was upstairs.
+
+DOCTOR X745
+Alright.  Um other than that, are you allergic to any medications?
+
+PATIENT X745
+Not that I know of.
+
+DOCTOR X745
+Besides the hernia have you had any other surgeries?
+
+PATIENT X745
+No.  I thank God for that, nothing but that.  At my age I've been blessed.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+That's it.
+
+DOCTOR X745
+Any diseases run in your family?
+
+PATIENT X745
+High blood pressure ain't no disease is it?  Well that's the only thing.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+Other than diabetes and none of that, I don't have any of that in my family.
+
+DOCTOR X745
+That's good.
+
+PATIENT X745
+Cancer, I don't have any of that.  So my mother is 81, still living, doing great.
+
+DOCTOR X745
+That's good.
+
+PATIENT X745
+So.
+
+DOCTOR X745
+That's good.  It's been a while since we checked your cholesterol.
+
+PATIENT X745
+I needed that checked.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+I'm not going to do all this today am I doc?
+
+DOCTOR X745
+Uh no, no, no.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+Yeah so now that we're establishing this relationship when you're gonna be coming in.
+
+PATIENT X745
+Um you're gonna be my doctor?
+
+DOCTOR X745
+That’s right.
+
+PATIENT X745
+Doctor, how you pronounce it?
+
+DOCTOR X745
+DOCTOR.
+
+PATIENT X745
+DOCTOR, gotcha.
+
+DOCTOR X745
+So you know you'll come back in for the results.  We'll get you set up for the colonoscopy.  Um for the foot doctors.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+And before the next time you come to see me we'll have you draw your blood.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+And then we can see what the cholesterol is.
+
+PATIENT X745
+No problem, I can work with that.
+
+DOCTOR X745
+Um, let's see what else.  Do you smoke?
+
+PATIENT X745
+@@@, I do.
+
+DOCTOR X745
+Do you want to stop?
+
+PATIENT X745
+I'm trying.  I smoke maybe a half a pack a day?
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+I need to quit.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+Cause it's not good for my high blood pressure.
+
+DOCTOR X745
+It's not good period.
+
+PATIENT X745
+Period.  I got to take heed, doc, as of this day I'm gonna.  I don't want no gum.  What you think?  They gave me some gum but.
+
+DOCTOR X745
+I think every person is different.
+
+PATIENT X745
+I know, I uh.
+
+DOCTOR X745
+And your, let's just lay it all out and let's be perfectly honest with you.
+
+PATIENT X745
+Thank you, I would like to be.
+
+DOCTOR X745
+So smoking has probably been the least of your issues as far as substance abuse in general.
+
+PATIENT X745
+That's correct.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+That's correct.
+
+DOCTOR X745
+Um so if you are still smoking a little bit, but you are no longer using cocaine?
+
+PATIENT X745
+Doing heroin no.
+
+DOCTOR X745
+Heroin.
+
+PATIENT X745
+No sir, no sir.
+
+DOCTOR X745
+What about alcohol?
+
+PATIENT X745
+No sir, never been a drinker.
+
+DOCTOR X745
+Good.
+
+PATIENT X745
+That, if I drink a beer, that lead me to get into heroin.  That's a gateway to go get that.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+Alcohol I have all day but I go get heroin.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+So I don't.
+
+DOCTOR X745
+So I mean in the short term, if smoking is a way for you to not use coke and not use heroin.
+
+PATIENT X745
+Uh-huh.
+
+DOCTOR X745
+Then so be it but if you are done with that, it's over and it's no longer something that ever crosses your mind once in a while.
+
+PATIENT X745
+That doesn't cross, I was going through that crisis and that point, but wasn't no excuse for that cause the problem was still there.  We would have had to go through but I said what am I doing, so now I just, abstain, don't go around no people place and things and I been doing good doctor.  I been doing good.
+
+DOCTOR X745
+Now do you feel that that's where you're at then absolutely you should work on the smoking.  Um and you know it's different.  Some people they can just stop.
+
+PATIENT X745
+I know.  My sister stopped.
+
+DOCTOR X745
+But some people you know, the gum works, there are patches that work, there's you know just kind of drawing a line in the sand saying January 1st 2011 will be the day I quit.  I mean you're gonna have to find what that is for you.
+
+PATIENT X745
+And you know what doc, I'm gonna try.  I tried the gum but I was psyching myself out.  That gum helped me listen, I chewed two pieces, three pieces I put in my mouth.
+
+DOCTOR X745
+Uh-huh.
+
+PATIENT X745
+And that whole day I didn't smoke until later on that night.  I went about nine hours so it must be working to get my mind to say don’t get one.  I smoked a couple puffs and it didn't taste right.
+
+DOCTOR X745
+Good.
+
+PATIENT X745
+So see I think that gum might work for me.
+
+DOCTOR X745
+Well that's good.  I mean.
+
+PATIENT X745
+Yeah so we gonna work together doctor cause I got to quit.  I'm 55; I'll be 56 next year.  I'm not getting any younger.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+And that's when the body needs to stop drinking and drugging.  I drug, but things start happening if you take it and I haven't used since that day and I thank God, just for the day now, one day at a time, you know how it go.  So doctor I'm doing great and I really think me being of service to my country is helping me cause if not I don't know what I would be.  I smoke though, this is it.  You know this is my start and I'm doing something for me.  I'm making the initial steps, you all are helping me, willing to help me but I got a.  I'm my worst enemy so I realize that.
+
+DOCTOR X745
+And best friend.
+
+PATIENT X745
+And best friend, so now I'm my best friend.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+So I want to live.  I'm honest with you doc I want to live.
+
+DOCTOR X745
+What's your living situation right now?
+
+PATIENT X745
+Um right now doc I'm up north.  I'm in a recovery home.  I'm keeping me regular, you see I got tell you I'm in a recovery home.  I leave the 14th of December.
+
+DOCTOR X745
+Hmm.
+
+PATIENT X745
+They supposed to be working on another place for me but I'm in same place trying to get me an apartment from the VA.  They got a fix or something.  I got to go through these people.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+So it's a process but I want to be able to go from point A to point B not being in the streets.
+
+DOCTOR X745
+Absolutely.
+
+PATIENT X745
+Them streets will do something to you and I know that.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+And I don't want to go back so, I'm working on that now and it's just a matter of time.
+
+DOCTOR X745
+Are you pretty well plugged in with the social workers here?
+
+PATIENT X745
+Yes I am, oh yeah they know me.
+
+DOCTOR X745
+Good.
+
+PATIENT X745
+Oh yeah.
+
+DOCTOR X745
+Cause they can you know.
+
+PATIENT X745
+Yeah.
+
+DOCTOR X745
+Use them to uh.
+
+PATIENT X745
+To step in.
+
+DOCTOR X745
+Yes.  Use them to get in with housing um.
+
+PATIENT X745
+Yeah.  Um it's going to work, cause I'll say doc, I'm doing the foot work.
+
+DOCTOR X745
+It sounds like yeah, one month ahead and you're already.
+
+PATIENT X745
+What do you want me to take my jacket to my?
+
+DOCTOR X745
+Oh that's okay.  Take a deep breath.  One more, good.  You can breathe normally.
+
+PATIENT X745
+How is my heart doc?  Cause see my son had an irregular heartbeat.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+And I don't know where it come from.  Mine's not irregular.
+
+DOCTOR X745
+No it's not, let me just listen.  No, it’s good and regular.  How’s that spot on your hand?
+
+PATIENT X745
+You know what, you know what, the doctor told me to not worry about it and listen, I showed them the one on my leg, too. They say @@@ don't worry about it now.  See now if it get any bigger I'm gonna come back.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+They say don't worry about it so.  What you want me to raise my shirt a minute?
+
+DOCTOR X745
+No belly pain?
+
+PATIENT X745
+No.
+
+DOCTOR X745
+No fevers?
+
+PATIENT X745
+No, no and you know doc down here when I had that hernia repair.
+
+DOCTOR X745
+Hmm.
+
+PATIENT X745
+Why at times, I'm doing a @@@, I walk a lot, exercise. It hurts, what is it. You see if I slow them all the way down, they did @@@.  They say the size of one of them is bigger but I just remember @@@ anyway the veins in one of my scrotum sac is bigger and one is bigger than the other.  They say that ain't no problem.  As long as they aren’t I huge like that.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+They think it won't be no problem.
+
+DOCTOR X745
+No.
+
+PATIENT X745
+And at times it hurt but it goes away.
+
+DOCTOR X745
+So is it when you're walking?
+
+PATIENT X745
+Yeah a long time.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+I thought it was from that hernia but they say the hernia repair is good.
+
+DOCTOR X745
+Yeah, yeah I mean it could be because sometimes when they do that they get into the, the wall of your abdominal muscles.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+You know, a six-pack? 
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+Well it goes down all the way down into your hip bones.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+And so sometimes just from cutting that, you know the more you walk, the more you stretch.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+It every time you walk.
+
+PATIENT X745
+Yeah other than that I'm good doc.  Except my feet, now when my feet get right and then they got to take time with it cause I been having, even in the military.
+
+DOCTOR X745
+So it's been ongoing thing?
+
+PATIENT X745
+Oh yeah.
+
+DOCTOR X745
+Well I'll see if I can put in a better cream, like a cream or spray or something for your foot.
+
+PATIENT X745
+Yeah.
+
+DOCTOR X745
+Do you prefer to pick things up here or do you want them mailed?
+
+PATIENT X745
+No pick them up here.
+
+DOCTOR X745
+Alright.
+
+PATIENT X745
+Yeah I get them here, that way I get them here.
+
+DOCTOR X745
+Let me go talk real quick with the doctor I'm working with and I'll be right back.
+
+PATIENT X745
+Do you want me to stay here?
+
+DOCTOR X745
+If you would yeah, I'll be right back.
+
+PATIENT X745
+Okay.
+
+(DOCTOR OUT:  21:08  DOCTOR IN:  28:28)
+
+Knock on door.
+
+PATIENT X745
+Yes.
+
+DOCTOR X745
+Okay, so I will put in, what we'll do I'll give you this and the clerk should actually be able to make you an appointment to the foot doctor.
+
+PATIENT X745
+They said I need a referral.
+
+DOCTOR X745
+And that's I'm gonna, I'm gonna put in one.
+
+PATIENT X745
+Okay, okay.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+Okay.  Doc let me ask you, the only thing they give you for uh sexual enhancement, is them pills, is that the only the VA prescribes to you is what I get?
+
+DOCTOR X745
+And.
+
+PATIENT X745
+They don't have Viagra or Cialis?  That's what I'm asking.
+
+DOCTOR X745
+Right just what.
+
+PATIENT X745
+That's it okay.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+Levitra okay.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+Um you said it was Tinactin was the one that works for you.
+
+PATIENT X745
+That worked good.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+Yes sir.
+
+DOCTOR X745
+We have it here in a powder form.
+
+PATIENT X745
+That's great.
+
+DOCTOR X745
+Is that the one?
+
+PATIENT X745
+That'd be perfect.  That's what I be getting yeah.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+That'd be great.
+
+DOCTOR X745
+Yeah I looked it up and we've got the same one here.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+Um and I'll set that up for you to pick up at the window.
+
+PATIENT X745
+Yeah.
+
+DOCTOR X745
+Um.
+
+PATIENT X745
+And my pill, can I get it?
+
+DOCTOR X745
+Yeah, yeah.
+
+PATIENT X745
+That’s the only thing I’m getting there, is that, the Tinactin and the pill.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+Cause I got enough lisinopril and the water pill, hydro I think I have that, I'm alright on that.
+
+DOCTOR X745
+Um if you want to get your blood drawn today they'll draw the blood for the HIV test.
+
+PATIENT X745
+I can do that today?
+
+DOCTOR X745
+You can do that today if you want.
+
+PATIENT X745
+Where would I have to go?
+
+DOCTOR X745
+So you know the main hallway.
+
+PATIENT X745
+I know this place pretty good.
+
+DOCTOR X745
+So it's the main hallway like you're walking towards Admitting, it's just on the left.
+
+PATIENT X745
+Up in there where they take the blood and everything.
+
+DOCTOR X745
+That's where you go to get the blood drawn, that's where.
+
+PATIENT X745
+Yeah and you take the piss test and all that, that place.
+
+DOCTOR X745
+Yep.
+
+PATIENT X745
+So I know where it's at.
+
+DOCTOR X745
+Yes.
+
+PATIENT X745
+That where I go for the AIDS test.
+
+DOCTOR X745
+If you go in there they'll do the blood test in there.
+
+PATIENT X745
+Okay and I tell them AIDS.
+
+DOCTOR X745
+You don't tell them.
+
+PATIENT X745
+Oh they know.
+
+DOCTOR X745
+They'll know.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+The order.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+Just say my doctor wants me to get my blood drawn.
+
+PATIENT X745
+Okay, I sure will, no okay doc.
+
+DOCTOR X745
+And they'll draw your blood.
+
+PATIENT X745
+I sure will.
+
+DOCTOR X745
+Um and that's it and um you know as long as nothing changes, there are no issues, we would see you back in six months.
+
+PATIENT X745
+Okay.  Great, that's perfect.
+
+DOCTOR X745
+Alright.
+
+PATIENT X745
+That's great.
+
+DOCTOR X745
+And if there's anything between now and then you just call in, tell them that I'm your doctor and they'll make an appointment.
+
+PATIENT X745
+I sure will.
+
+DOCTOR X745
+Alright.
+
+PATIENT X745
+Now.
+
+DOCTOR X745
+Nice to meet you.
+
+PATIENT X745
+Okay doc now, the uh, the uh, you say the hepatitis B.
+
+DOCTOR X745
+Uh-huh.
+
+PATIENT X745
+You want to test and the uh.
+
+DOCTOR X745
+@@@.
+
+PATIENT X745
+The colonoscopy and the uh foot doctor and a new appointment scheduled for six months now, I'm gonna get.
+
+DOCTOR X745
+Oh yeah.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+All of these are gonna be before six months.
+
+PATIENT X745
+Okay I just won't have an appointment with you for six more months.
+
+DOCTOR X745
+Exactly.
+
+PATIENT X745
+Great, great.  Okay.
+
+DOCTOR X745
+After all that we'll kind of in the background.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+And then we'll see you.
+
+PATIENT X745
+Okay, fantastic, fantastic.  You just set me up whenever you feel, however you feel like it, that's the way I know I have another appointment.
+
+DOCTOR X745
+Uh-huh and the foot doctors they'll make for you right now.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+The um, the uh colonoscopy they'll call you to schedule that.  Do you have a phone number they can reach you at?
+
+PATIENT X745
+I'm gonna give it to them.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+I'll give it to them.  I'm gonna give them my number.
+
+DOCTOR X745
+Okay.
+
+PATIENT X745
+Oh you forgot my gum.
+
+DOCTOR X745
+All of that will be put in at the window.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+It'll be the powder, the gum, the Levitra, the condoms.
+
+PATIENT X745
+That's it.
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+They can do it.
+
+DOCTOR X745
+And you said the blood pressure pills you have enough of.
+
+PATIENT X745
+I do. I have plenty of those.
+
+DOCTOR X745
+Alright, so if I give you this, they'll make the appointment for you.  I just put in that request.
+
+PATIENT X745
+They keep this?
+
+DOCTOR X745
+They'll keep it yeah.
+
+PATIENT X745
+Okay.
+
+DOCTOR X745
+And they'll give a slip here with your appointments on it.
+
+PATIENT X745
+Now doc close this off so when I do go get my test see I got to go up north.  They can give me my travel pay.  Close me off.
+
+DOCTOR X745
+Yeah.  That yeah, I'll put that in.
+
+PATIENT X745
+Yes, yes.  So I can go now?
+
+DOCTOR X745
+You can go now.
+
+PATIENT X745
+Thank you doc, you know I have to wait and everything by that time everything should be in.
+
+DOCTOR X745
+Yes.
+
+PATIENT X745
+Thank you very much doctor.  I'm pleased to meet you.  You know what doc, couldn't have a better doctor.
+
+DOCTOR X745
+Alright thanks.
+
+PATIENT X745
+I couldn't have a better doctor and I thank you.  Not trying to be funny but you very helpful because see I need help doctor and the thing is I wasn't helping myself.  Now I come to my sense I say by the way you're doing, I be talking to myself but I ain't gonna answer myself.  I say what do you want, so I went through some change, went to prison, I'm keeping it real, went to ask me what am I doing.  I did what I did; I took my wait, now it's in the past.  I'm not gonna let the records of my past dictate my future.
+
+DOCTOR X745
+Good.
+
+PATIENT X745
+That’s a concept that stays with you.
+
+DOCTOR X745
+Good.
+
+PATIENT X745
+And I got God in my life, not preaching to you, I'm preaching to me, to do what's right today.  That's just how I do it doc.
+
+DOCTOR X745
+Good.
+
+PATIENT X745
+In six months, you’re going to see, my apartment.  I'm gonna continue to walk by faith.  All I got to do is do what's right.  If I do what's right doc, God put people in your path, they help you.  I realize now.  Thank you doc.
+
+DOCTOR X745
+Okay.  See you later.
+
+PATIENT X745
+I'll see you again.
+
+DOCTOR X745
+Alright.
+
+PATIENT X745
+Thank you very much.  Leave the door open?
+
+DOCTOR X745
+Yeah.
+
+PATIENT X745
+Alright.  Where you gotta go, okay.
+
+DOCTOR X745
+Okay have a good day.
+
+PATIENT LEAVES:  33:40
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286092
+TRANSACTION # 578-10-2-316-0103

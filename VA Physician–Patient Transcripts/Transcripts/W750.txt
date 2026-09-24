@@ -1,0 +1,844 @@
+Date of Encounter:    @@/@@/@@
+Time of Encounter:    @@@
+
+DOCTOR W750
+PATIENT?
+
+PATIENT W750
+Yes sir.
+
+DOCTOR W750
+Right this way.
+
+PATIENT W750
+Thank you.  
+
+SECOND PERSON W750
+@@@
+
+PATIENT W750
+Yes.
+
+DOCTOR W750
+How are you today?
+
+PATIENT W750
+Good.  How are you doctor?
+
+DOCTOR W750
+Good to see you, nice to see you here.
+
+PATIENT W750
+Nice to see you, thank you.
+
+DOCTOR W750
+On your right, hi there.
+
+PATIENT W750
+On the right?
+
+DOCTOR W750
+Yes.  Alright I think we've got room for both of you.  There and right there.
+
+SECOND PERSON W750
+Okay.
+
+DOCTOR W750
+Great so let's see 143/72, pretty good.
+
+PATIENT W750
+That's great.
+
+DOCTOR W750
+Yeah.  Alright, how are things going?
+
+PATIENT W750
+Well doctor, I have to tell you that uh you apparently found a magic pill.
+
+DOCTOR W750
+Did I really?
+
+PATIENT W750
+Yes.  I'm feeling much better these days.
+
+DOCTOR W750
+Good.
+
+PATIENT W750
+And I've eliminated some of the problems that we talked to about in our previous meeting.
+
+SECOND PERSON W750
+Except for me.
+
+DOCTOR W750
+(Laughter).
+
+PATIENT W750
+And when you figure that one out.
+
+DOCTOR W750
+Better she said it than you.
+
+PATIENT W750
+(Laughter).
+
+DOCTOR W750
+Um so feeling pretty good.
+
+PATIENT W750
+Yes, believe it or not.
+
+DOCTOR W750
+How are the blood pressures doing?
+
+PATIENT W750
+The blood pressures are doing pretty good uh.  I would have to tell you that from time to time I do get a spike uh when the lady of the house breaks something or something along those lines.
+
+SECOND PERSON W750
+I do that to keep him busy and healthy.
+
+PATIENT W750
+Uh but behind like.
+
+DOCTOR W750
+That gives him something to do huh.
+
+SECOND PERSON W750
+Uh-huh, uh-huh.
+
+PATIENT W750
+I wish you hadn't said that.
+
+SECOND PERSON W750
+(Laughter)
+
+DOCTOR W750
+(Laughter)  So when you check it at home, what's the range?
+
+PATIENT W750
+The range will be probably in the uh mid 140s.  One day it hit 96, I don't know.
+
+DOCTOR W750
+196?
+
+PATIENT W750
+No, no, 96.
+
+DOCTOR W750
+Okay.
+
+PATIENT W750
+And I'm not sure why that happened.  I hate to speculate on that possibility but uh I have to tell you about it in case it's something that.
+
+DOCTOR W750
+You mean the bottom number was 96.
+
+PATIENT W750
+No the first number was 96.
+
+DOCTOR W750
+Alright.  So usually it's in the 140s?
+
+PATIENT W750
+140s, 130s.
+
+DOCTOR W750
+Over?
+
+PATIENT W750
+Uh it'll be 69, 76, sometimes it's 69, sometimes it's 76 and sometimes it's even less.  There seems to be a variable.  It varies.  There doesn't seem to be any consistency.
+
+DOCTOR W750
+Okay.
+
+PATIENT W750
+And I think we discussed that earlier, I think probably the reason is there's something in the background that is just causing it.  
+
+DOCTOR W750
+Are you having any problems uh with an irregular heartbeat, feeling your heart skipping, racing, fluttering, any of that stuff?
+
+PATIENT W750
+Not really no.
+
+DOCTOR W750
+Okay.  Are you having lightheadedness, dizziness?
+
+PATIENT W750
+Not anymore.  You seemed to correct that with the adjustment in the medications.
+
+DOCTOR W750
+Good.  Chest pain?
+
+PATIENT W750
+None.
+
+DOCTOR W750
+Are you having trouble with your breathing, filling up with fluid um, swelling in the feet?
+
+PATIENT W750
+No the swelling has gone away as a matter of fact.
+
+DOCTOR W750
+Good.  Alright and uh let's see how are we doing with the uh diabetes?
+
+PATIENT W750
+The diabetes, like the heart, vacillates.  Sometimes it spikes uh I'm assuming if I engage in some social activities uh every once in a while um, maybe I forget or maybe I do something that I'm not supposed to, it'll spike and uh most of the time it's been under control.  When I say under control uh, it's in, it'll go anywhere from um 130, to once in a while it'll go to 169 and then there are times when it goes below 100.
+
+DOCTOR W750
+Okay.  Alright.  Do you check it every day or?
+
+PATIENT W750
+No you suggested that I do it every couple of days.
+
+DOCTOR W750
+Okay.
+
+PATIENT W750
+Uh excuse me; I thought it was you that suggested I did that.
+
+DOCTOR W750
+@@@.  You really don't need to be doing it every day.
+
+PATIENT W750
+According to the um the prescriptions that I receive, the instruction was every couple of days.  Maybe not in those terms but that's my conclusion.
+
+DOCTOR W750
+Let's see, I think it's been a while since we've done some blood work on you huh.  It's been a little bit uh.
+
+PATIENT W750
+I figured it was because it wasn't blue; you didn't need to take it anymore.
+
+DOCTOR W750
+(Laughter).  We may need to get an idea of like how the blood sugars have been and how, to make sure the cholesterol is still under good control and that sort of thing and uh.  Let's see, I think the last time you were here we actually ordered a couple blood tests, yeah.
+
+PATIENT W750
+Last time?
+
+DOCTOR W750
+Yeah.
+
+PATIENT W750
+No you didn't order any blood tests.  I haven't received anything.
+
+DOCTOR W750
+Okay.
+
+PATIENT W750
+Or I wasn't.
+
+DOCTOR W750
+They're in there but uh I don't know, I guess they didn't let you know so.  How's your urinating?
+
+PATIENT W750
+That sometimes is a problem.
+
+DOCTOR W750
+How often are you waking up at night?
+
+PATIENT W750
+Sometimes when I first go to bed about uh the first hour or so, I have to relieve myself and then maybe another hour and then usually it goes from 2-3 hours.  During the daytime I don't seem to have as much problem.  I try to watch my intake.  I don't know if it's my intake or, if I.  I've avoided carbonated beverages.  Carbonated beverages seem to aggravate it.
+
+DOCTOR W750
+Okay.  We switched up to this medicine Flomax.
+
+PATIENT W750
+What's Flomax, I don't remember that?
+
+DOCTOR W750
+We put you on it for urinate.
+
+PATIENT W750
+Yeah but it's called something else I think.
+
+DOCTOR W750
+Tamsulosin?
+
+PATIENT W750
+Say again.
+
+DOCTOR W750
+Tamsulosin?
+
+PATIENT W750
+Yes.
+
+DOCTOR W750
+Yeah.
+
+PATIENT W750
+Yes.
+
+DOCTOR W750
+Is that one working any better?
+
+PATIENT W750
+No I wouldn't say its working any better.
+
+DOCTOR W750
+Okay.  
+
+PATIENT W750
+I think I was on uh terazosin ahead of that.
+
+DOCTOR W750
+Yeah we switched it and you're not noticing much of an improvement?
+
+PATIENT W750
+No.
+
+DOCTOR W750
+Okay.  Hmm.
+
+PATIENT W750
+Should that be addressed?
+
+DOCTOR W750
+Um.  Well we already have you on two pills you know to help with your urinating.
+
+PATIENT W750
+Finasteride and
+
+DOCTOR W750
+Yeah.  So we're definitely addressing it.  I just, I don't know if there is much else that we can do beyond what we're doing.  If it's a big problem you know we could send you to Urology and uh you know they could discuss some other things that they're, but I mean now we're probably talking more about like a procedure or something to uh so it would have to be something that's really bothering you before we went down that road.  
+
+PATIENT W750
+Well.
+
+DOCTOR W750
+If you can live with it, then I'd probably recommend just living with it.
+
+PATIENT W750
+Yeah, for once you get to be 39 years old, you don't want to.
+
+SECOND PATIENT W750
+Once or twice a night.
+
+PATIENT W750
+Go too far.
+
+DOCTOR W750
+Yes and uh, the last time you said that you were feeling tired all the time.
+
+PATIENT W750
+Well, I haven't had that experience.  Is that because of the change in medication or how do you address that?
+
+DOCTOR W750
+Uh.  It may be.  I mean if you're feeling better than.
+
+PATIENT W750
+I am feeling better.
+
+DOCTOR W750
+You may be getting better.  Uh the last time I thought it may have had to do with you waking up so much at night to urinate and that's what it was, thought you probably want to try uh.
+
+PATIENT W750
+He had a pizza in his hand.
+
+DOCTOR W750
+Did he?
+
+SECOND PERSON W750
+(Laughter)
+
+PATIENT W750
+Wasn't that a pizza?
+
+SECOND PERSON W750
+No, stop it.
+
+PATIENT W750
+The Budweiser guys.
+
+DOCTOR W750
+(Laughter) And uh what about uh shots and all these things?
+
+PATIENT W750
+Um doctor I think, I don't expect you to remember but uh.
+
+DOCTOR W750
+I know you aren't interested.
+
+PATIENT W750
+No, I'm still not.  If I were in a activity where I was intermingling with the public on a steady regular basis then I would take another look at it.  But since I've kind of withdrawn both my social activities and other things similar to that, I'm not out with people like I used to be so I'm.
+
+DOCTOR W750
+And why do you think you've withdrawn like that?
+
+PATIENT W750
+From, because I'm no longer in business.  I used to be.
+
+DOCTOR W750
+Okay it's because you're retired.
+
+PATIENT W750
+I was an active person yeah.  Did you say retarded?
+
+DOCTOR W750
+(Laughter).
+
+PATIENT W750
+Oh, I thought you were talking to her I'm sorry.
+
+SECOND PERSON W750
+Ooh, kid you're gonna get in trouble.
+
+DOCTOR W750
+You'd better be careful (laughter).
+
+PATIENT W750
+(Laughter).  I have selective hearing.
+
+SECOND PERSON W750
+I'll vouch for that.
+
+DOCTOR W750
+Alright, so let's see you're on the metoprolol, finasteride, tamsulosin.  Are you taking the baby aspirin?
+
+PATIENT W750
+Yes.
+
+DOCTOR W750
+Hydrochlorothiazide, Imdur, lisinopril.
+
+PATIENT W750
+What's the last one?
+
+DOCTOR W750
+Isosorbide mononitrate.
+
+PATIENT W750
+Yeah what is it?
+
+DOCTOR W750
+Lisinopril, glipizide, lubricating eye ointment.
+
+PATIENT W750
+I haven't used that.  That, that scares me.
+
+DOCTOR W750
+Uh some glucose or some strips for your machine, simvastatin and that about does it okay.
+
+PATIENT W750
+Okay.
+
+DOCTOR W750
+Now what happened with this medicine the amlodipine?  Why did they take you off of that, do you remember?  Did you get swelling in your legs or?
+
+PATIENT W750
+Yes, quite a bit of swelling.  As a matter of fact I had to uh.
+
+DOCTOR W750
+That's the main problem people have with that pill.
+
+PATIENT W750
+Oh okay.
+
+DOCTOR W750
+So, well I'm trying to come up with you know a reason to stick a needle in you or do something.
+
+PATIENT W750
+My customer used to do that to me on a regular basis.
+
+DOCTOR W750
+And I'm having trouble coming up with something here.
+
+SECOND PERSON W750
+(Laughter)
+
+DOCTOR W750
+Um, okay can you have a seat up here for me; I'll look you over here.
+
+PATIENT W750
+Could I, in case I forget, and I not the best memory in the world these days, would you be able to renew my uh prescriptions for me?
+
+DOCTOR W750
+Oh yeah, we'll renew them.  You get them in the mail right?
+
+PATIENT W750
+Yes.
+
+DOCTOR W750
+It makes it pretty easy doesn't it?
+
+PATIENT W750
+Yes it does except with the uh finasteride and the tamsulosin.
+
+DOCTOR W750
+Yeah.
+
+PATIENT W750
+They will only send me a one month supply and that gets kind of scary from time to time.
+
+DOCTOR W750
+Huh.
+
+PATIENT W750
+Maybe that's what's driving my blood pressure up huh?
+
+DOCTOR W750
+(Laughter).  Well if that's your biggest problem there I think we're okay.
+
+PATIENT W750
+You think so, okay.
+
+DOCTOR W750
+(Laughter)
+
+SECOND PERSON W750
+(Laughter) @@@.
+
+DOCTOR W750
+Alright take some big breaths here.  Good.  Alright and just relax here.  
+
+PATIENT W750
+Big breath again?
+
+DOCTOR W750
+Just breathe normal.  Breathing sounds good.  Let's see down here, no fluid right?
+
+PATIENT W750
+Not that I know of.  I check that on a regular basis.
+
+DOCTOR W750
+It looks pretty good and uh you're lying flat at night when you sleep?
+
+PATIENT W750
+I use two pillows.
+
+DOCTOR W750
+Okay, do you always do that?
+
+PATIENT W750
+Yes.
+
+DOCTOR W750
+How come?
+
+PATIENT W750
+Uh because when I had my cataract surgery they recommended that I do that.
+
+DOCTOR W750
+Alright.
+
+PATIENT W750
+Should I change that?
+
+DOCTOR W750
+I'm just curious if it's because you can't breathe if you.
+
+PATIENT W750
+No.
+
+DOCTOR W750
+Lay on one or.
+
+PATIENT W750
+No, at that time I was having trouble with my eyes and uh they thought that maybe that would be of some help to me, I presume.
+
+DOCTOR W750
+Okay.  Alright.  You can go ahead and wait down or sitting in that chair there.  I'm going to run back and talk to one of my bosses.
+
+PATIENT W750
+Okay.
+
+DOCTOR W750
+And I'll be right back.
+
+PATIENT W750
+Okay thank you doctor.
+
+DOCTOR W750
+You're welcome.
+
+(DOCTOR OUT:  66:05  DOCTOR IN:  76:24)
+
+DOCTOR W750
+Alright so I don't think there's too much that we need to change.  Uh it sounds like everything's going along pretty well.  Uh I was talking to my boss out there about this urinating thing and outside of Urology for like a procedure, there's not much else pill-wise that we can do for that.  So if you get to the point where you want there, where they get a line and do kind of a roto rooter job on the prostate uh.  I mean that would probably be the next step but uh I don't think you really want to go forward with that uh at this point.  So what I'm gonna do is um order some blood work that you can have drawn before the next visit uh which will be like in six months or so unless you need to come sooner.  Uh just to check the diabetes and the cholesterol and make sure that we're doing okay uh with that stuff.
+
+PATIENT W750
+Will I get a notice of that doctor?
+
+DOCTOR W750
+No you'll get a notice with the appointment.  You won't necessarily get a notice that you need to get the blood done.
+
+PATIENT W750
+So I'll have to do that on my own?
+
+DOCTOR W750
+Yeah.  I put the orders in and then you can go whenever you want.  It's helpful if you come before the visit uh.
+
+PATIENT W750
+I would imagine.
+
+DOCTOR W750
+Because then we have the results but if it's too much of a hassle, I mean I understand that too if you can't.
+
+PATIENT W750
+No.
+
+DOCTOR W750
+But I mean if you get it done within a week or so before the appointment that's the best way to do it.
+
+PATIENT W750
+Did you make a note of that babe please?
+
+SECOND PERSON W750
+Nope.
+
+PATIENT W750
+I have to have, I have to have blood work done, that means going downstairs.
+
+DOCTOR W750
+Yeah.
+
+SECOND PERSON W750
+Not, not today.
+
+DOCTOR W750
+Not today.
+
+PATIENT W750
+No before the next appointment.
+
+SECOND PERSON W750
+@@@.  Okay I will do that.
+
+DOCTOR W750
+So I think that's about it.  I think everything else looks okay unless you want us to start giving the shots or something like that.  I don't have much else to do for you.  I think everything looks good.
+
+PATIENT W750
+I can renew my magazine subscription?
+
+DOCTOR W750
+You can go right ahead.  I think it'll be worth it for you.
+
+PATIENT W750
+I just want to make sure I get my moneys worth.
+
+DOCTOR W750
+I refilled all your pills for you.
+
+PATIENT W750
+Oh that was my next question.
+
+DOCTOR W750
+I'll take care of that.
+
+PATIENT W750
+And will I get them automatically now?
+
+DOCTOR W750
+They should come in the mail.
+
+PATIENT W750
+Okay.
+
+DOCTOR W750
+Yep.  So that's about it.
+
+PATIENT W750
+That's it.
+
+DOCTOR W750
+I think we're doing good.
+
+PATIENT W750
+Thank you.  I appreciate it and uh if I could ask you, do you expect to be on the scene here for a while or are you terminating your?
+
+DOCTOR W750
+I'm gonna be here for a year and a half.
+
+PATIENT W750
+Okay and if I live that long I'll get to see you then.
+
+DOCTOR W750
+(Laughter).  Oh you better be careful with those, all those comments.
+
+SECOND PERSON W750
+I @@@ too much stuff you got to take care of at home.  Don't talk like that.
+
+DOCTOR W750
+You've got too many things for you to fix.
+
+PATIENT W750
+She's been talking to you again huh?
+
+DOCTOR W750
+Yeah she's making sure I keep you around at least for a while.
+
+PATIENT W750
+At least long enough huh.
+
+DOCTOR W750
+At least so you get all the housework done.
+
+PATIENT W750
+Okay.  We're through doctor?
+
+DOCTOR W750
+We're through.
+
+PATIENT W750
+Okay, thank you very much.
+
+SECOND PATIENT W750
+We get to go in the country, never mind.
+
+DOCTOR W750
+You remember where to check out?
+
+PATIENT W750
+Uh yes.  When will my next appointment?  Oh six months?
+
+DOCTOR W750
+This way and then down the hall.  Yeah six months and uh blood work before and I'll make sure that all your medications are at the right levels.
+
+PATIENT W750
+Okay um and I won't, excuse me for repeating myself.  
+
+DOCTOR W750
+That's okay.
+
+PATIENT W750
+I understand I will not be notified regarding the blood work, that's on my own.
+
+DOCTOR W750
+Right.
+
+PATIENT W750
+Well how will they know?
+
+DOCTOR W750
+So if you just go to the Lab on the first floor they know what to do.
+
+PATIENT W750
+Okay.
+
+DOCTOR W750
+So it's not an appointment it's just you go whenever it's convenient for you.
+
+PATIENT W750
+Okay.
+
+DOCTOR W750
+And they know what to do.
+
+PATIENT W750
+Okay what would be uh your suggested time?  Monday, Tuesday, Wednesday, a.m. or p.m.
+
+DOCTOR W750
+I would, it's more helpful if you are fasting so if you haven't eaten, so that when they do the blood work, uh so most people like to do it in the morning.
+
+SECOND PERSON W750
+That's fine.
+
+PATIENT W750
+And what time do they open up?
+
+DOCTOR W750
+8:00.
+
+PATIENT W750
+They open at 8 okay.  Any particular day better than others?
+
+DOCTOR W750
+No just as long as it's a few days or so before the appointment, the day of the week, it doesn't matter.
+
+PATIENT W750
+Okay.  Doctor thank you very much.
+
+SECOND PERSON W750
+@@@.
+
+DOCTOR W750
+Good to see you?
+
+PATIENT W750
+Oh my gosh.
+
+DOCTOR W750
+Don't worry about it.
+
+PATIENT W750
+It's a monthly expense.
+
+DOCTOR W750
+Is this yours here?
+
+PATIENT W750
+Yes sir it is.
+
+DOCTOR W750
+Now don't forget that.
+
+SECOND PERSON W750
+See @@@.
+
+PATIENT W750
+Well I got that at the Crete Claim Shop.
+
+DOCTOR W750
+Right.
+
+PATIENT W750
+So I don't think anybody's gonna take that one but oh God.  Now you know why I @@@.
+
+DOCTOR W750
+@@@.  You have a good afternoon.  Hopefully it'll be spring next time I see you.
+
+SECOND PERSON W750
+Oh God any time, any month.
+
+PATIENT W750
+Thank you.
+
+SECOND PERSON W750
+We go to the right
+
+PATIENT W750
+Is this the way?
+
+SECOND PERSON W750
+Another right right?
+
+DOCTOR W750
+To go where?
+
+PATIENT W750
+Out.
+
+SECOND PERSON W750
+Out.
+
+DOCTOR W750
+Uh I would go this way.
+
+PATIENT W750
+Okay thank you.
+
+DOCTOR W750
+Shorter walking.  The very very farthest @@@ is probably on the right.
+
+SECOND PERSON W750
+Okay.
+
+DOCTOR W750
+But the elevator is right along this corner here.
+
+SECOND PERSON W750
+Thank you.
+
+PATIENT W750
+Thank you.
+
+DOCTOR W750
+You're welcome.
+
+PATIENT LEAVES:  82:00
+
+Time is 2:50 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238086
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,1216 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR M432
+PATIENT?
+
+PATIENT M432
+Yep.  
+
+DOCTOR M432
+Pleased to meet you.  I’m DOCTOR. Who is your primary, I'm filling in comments.
+
+PATIENT M432
+DOCTOR.
+
+DOCTOR M432
+What happened?
+
+PATIENT M432
+I needed to have an emergency @@@.
+
+DOCTOR M432
+Oh okay, so what brings you in today?
+
+PATIENT M432
+Well actually it's several things.
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+The main one is my breathing pattern. I need some antibiotics and some prednisone @@@.
+
+DOCTOR M432
+Oh, okay.
+
+PATIENT M432
+The last several times @@@.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+But I also had some blood in my stool.
+
+DOCTOR M432
+Today?
+
+PATIENT M432
+Not today, Sunday.
+
+DOCTOR M432
+Okay how much blood is in it. 
+
+PATIENT M432
+Serious amounts, it's about the color of that switch right there where that help is.
+
+DOCTOR M432
+How many times have you had happen?
+
+PATIENT M432
+Just that one time.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+But it scared me to see it was all clotted up and bright red like that.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+And I knew I hadn't eaten anything that would cause that.
+
+DOCTOR M432
+Right.
+
+PATIENT M432
+Uh there's a possibility that you know a hemorrhoid popped or something.
+
+DOCTOR M432
+Yeah.
+
+PATIENT M432
+I guess that's a possibility that I would have thought.
+
+DOCTOR M432
+Did you have rectal pain?
+
+PATIENT M432
+No.
+
+DOCTOR M432
+No pain when you were wiping?
+
+PATIENT M432
+No, but there was blood.
+
+DOCTOR M432
+So did you see blood when you were wiping?
+
+PATIENT M432
+Right.
+
+DOCTOR M432
+Without even wiping?
+
+PATIENT M432
+Oh no, I looked in the bowl.  You know, I could tell something wasn't right because the stool was a little bit loose.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+And so I was looking down and oh my God, there was a lot of blood.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+And uh I'm gonna guess, if I were measuring it probably a quarter cup of.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+Of serious uh blood.  Now I also noticed that here lately my urine has been darkening up quite a bit.
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+Which in the olden days that would have been indicating my rheumatic fever was acting up uh; however, I don't think I that's the case any more.  There's a real heavy odor to it.
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+Uh, I'm concerned.  I tell you what, I take a product called @@@ uh Humira. 
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+For RA and I know that it masks the symptoms of cancer.
+
+DOCTOR M432
+Hmm.
+
+PATIENT M432
+And that's my main concern, to be honest with you.
+
+DOCTOR M432
+Is that, do you have bladder cancer?
+
+PATIENT M432
+Well I don't know it could be liver, it could be kidney or anything.  It could be a lot of different kinds.
+
+DOCTOR M432
+Uh-huh.  Okay.
+
+PATIENT M432
+Uh could I have rectal cancer?  Is that a possibility?  That’s what my dad passed away from.
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+So uh, so I'm more than a little concerned about the blood so.
+
+DOCTOR M432
+Right.
+
+PATIENT M432
+And I'm hoping that you send me downstairs and get a series of tests done.
+
+DOCTOR M432
+Yeah the only problem is, well let's see.  Just to have things come back faster.
+
+PATIENT M432
+Uh-huh, well you don't have to do it faster.
+
+DOCTOR M432
+You may...  How's your breathing?
+
+PATIENT M432
+My breathing right now is uh; let me put it this way, its worse if I lay down.
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+I've got mucous so I need a mucolytic of some sort.
+
+DOCTOR M432
+You're coughing up a lot? @@@
+
+PATIENT M432
+In the morning I cough up a hairball, I mean a really hard knot of snot.
+
+DOCTOR M432
+Okay.  Does it feel like your COPD?
+
+PATIENT M432
+I'm sure that the COPD is uh being uh fed by the uh drainage.  You know I'm sure that it's causing the COPD to react.
+
+DOCTOR M432
+Uh-huh.  Postnasal drainage?
+
+PATIENT M432
+Yeah.
+
+DOCTOR M432
+Okay when did all of this start?
+
+PATIENT M432
+Oh God it's been going on for awhile if you look in your notes, you’ll see the last couple times I've been in.
+
+DOCTOR M432
+I mean is @@@ coming and going?
+
+PATIENT M432
+Well actually it never seems to go away.  It lightens up a while when I'm taking the antibiotics and the prednisone.
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+And almost two, three, days later I'm right back where I was.  They’ve done this a number of times now so I don't, they're pretty sure it's an exacerbation of COPD, probably being caused by the postnasal drainage and the fact that, you know when the stuff blocks your throat, it makes it a little harder to get a breath in to begin with and then you start you know @@@.
+
+DOCTOR M432
+So when were your last @@@ 
+
+PATIENT M432
+Well about four weeks ago.  No two weeks ago cause I was in Florida when I took the next dose.
+
+DOCTOR M432
+Okay and when are you going to see DOCTOR again?
+
+PATIENT M432
+I think that's the end of next week.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+I could be wrong but you can check that.  I think possibly next Thursday I see him.
+
+DOCTOR M432
+Um have you been treated off and on with prednisone and antibiotics.
+
+PATIENT M432
+Yeah.
+
+DOCTOR M432
+For a year?
+
+PATIENT M432
+Probably even longer than that.
+
+DOCTOR M432
+Off and on?
+
+PATIENT M432
+Off and on.  Since I came back from Arizona two years ago I've felt, at first they saw stuff in my lungs and x-rays and CAT scans that they couldn't figure out and uh they thought that maybe you know there was a possibility I had some kind of a disease or a fungal disease cause I'd been out in the southwest.  
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+It turned out that wasn't the case.  They tested for I can't tell you how many different types of things and they know I've got COPD.  They know that I have some kind of issue that's causing the drainage so.  And eventually @@@ breathing problems.
+
+DOCTOR M432
+Do you feel like your breathing is more labored?
+
+PATIENT M432
+Oh yeah.
+
+DOCTOR M432
+Are you wheezing more or?
+
+PATIENT M432
+Well actually I do wheeze but then it's more labored breathing.  It's hard really to know to say which one was worse; it's the fact that it's hard to get a breath.
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+Or sometimes @@@.
+
+DOCTOR M432
+Do you have a neb machine at home?
+
+PATIENT M432
+Yes I do and it's actually in my car.  I have a converter in my car.
+
+DOCTOR M432
+Okay.  Have you given yourself a breathing treatment today?
+
+PATIENT M432
+Uh I may have taken about three.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+One on the way here and two before I left @@@.  
+
+DOCTOR M432
+And you're coughing up more sputum.  What color is it?
+
+PATIENT M432
+Green.  The infection is pretty rampant at this point.
+
+DOCTOR M432
+Fevers, chills?  You've had a fever today?
+
+PATIENT M432
+I got a fever right now.  Uh I was at 98 something she said.
+
+DOCTOR M432
+98.9 
+
+PATIENT M432
+I'm normally at 97.6, 97.4.
+
+DOCTOR M432
+Have you felt warm at home?
+
+PATIENT M432
+Yeah, I'll actually take off my top start dripping wet.  So if I have a cold or something to go along with all those issues, that's a problem too.  I don’t want to take any cold medicine at this point in time.
+
+DOCTOR M432
+Any chills?
+
+PATIENT M432
+Well, actually what happens is you take your shirt off cause you're just soaking wet and oh I try to dry off as best I can.
+
+DOCTOR M432
+Yeah.
+
+PATIENT M432
+But then yeah eventually I start being like chill blanes.
+
+DOCTOR M432
+Okay.  So kind of warm and chilled for how long now?
+
+PATIENT M432
+That's been going on for at least a week.
+
+DOCTOR M432
+Okay.  Have you been tested for tuberculosis?
+
+PATIENT M432
+Yes.
+
+DOCTOR M432
+Okay when did you have that?
+
+PATIENT M432
+About 500 times.  Well the first time has been about ten years or eight years ago when they started me on Humira but as I told you, two years ago or three years ago when I went off to Arizona and when I came back, that was one of the top things on the list that they were worried about so they went ahead and gave me the scratch test and uh I think theyI've done it two or three times subsequently.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+Just in case.  And that’s great, I love the fact taht prevention is a couple of things here but do I think that's the problem no, uh probably not.  Now I'll be happy to take a stress test if you want it but my concern is possible cancer and uh I mean I could probably get by until next week and see DOCTOR to get the prednisone and the antibiotics.
+
+DOCTOR M432
+When was your last chest x-ray?  October.
+
+PATIENT M432
+Uh.
+
+DOCTOR M432
+You had a CT in April.
+
+PATIENT M432
+Yep.
+
+DOCTOR M432
+You had a chest x-ray before then.
+
+PATIENT M432
+Yeah I think I've got another CT coming up next Thursday.
+
+DOCTOR M432
+Uh-huh.  Uh you're kinda right in the middle where you look fine but some of your symptoms are concerning and you need the breathing treatments @@@ and of course you have fevers.
+
+PATIENT M432
+Yeah.
+
+DOCTOR M432
+Uh I want to talk with my attending about you going home with the treatment that you had before or maybe going to the Emergency Room so that you can have a chest x-ray and get it read, you get your antibiotics, you get a treatment@@@, we get everything that you need @@@ you know.  Uh we'll see let me talk to my attending.
+
+PATIENT M432
+Okay.  Whatever.
+
+DOCTOR M432
+And then the blood in the stool, so that happened how many times?
+
+PATIENT M432
+It's happened more than once but this one was scary because of the amount.
+
+DOCTOR M432
+So how long has that been going on?
+
+PATIENT M432
+Wasn't the same.
+
+DOCTOR M432
+The blood in the stool?
+
+PATIENT M432
+Uh probably several months but that's, you know I attributed it probably to the hemorrhoids it was never in this large of amount.  You know I would go back and wipe and you know there's a little blood or something like that it's uh.
+
+DOCTOR M432
+When was your last colonoscopy?
+
+PATIENT M432
+Uh I want to say two years, three years ago.
+
+DOCTOR M432
+Was that here?
+
+PATIENT M432
+Yeah.  Yeah I've had a couple of them actually.
+
+DOCTOR M432
+@@@.
+
+PATIENT M432
+@@@
+
+DOCTOR M432
+I don't see where it was done.
+
+PATIENT M432
+Pardon?
+
+DOCTOR M432
+I don't see that it was done.
+
+PATIENT M432
+You don't see that it was done.
+
+DOCTOR M432
+I see that they put the consult in for it.
+
+PATIENT M432
+Oh no, I've had two of them.
+
+DOCTOR M432
+@@@.  
+
+PATIENT M432
+Yeah I've the results were all negative.
+
+DOCTOR M432
+Okay did you feel dizzy or like you were going to pass out?
+
+PATIENT M432
+When they did it?
+
+DOCTOR M432
+When you had the blood in your stool on Sunday?
+
+PATIENT M432
+Actually yeah I did feel a little bit lightheaded.
+
+DOCTOR M432
+Okay.  Did you… diverticulosis. That’s all. Diverticulosis, little pockets, but they didn’t say they’re hemorrhoids. How did you find out about hemorrhoids?
+
+PATIENT M432
+Well uh I guess time or another, @@@ normally prostate @@@ mentioned.  Not that they were serious or anything.
+
+DOCTOR M432
+Uh-huh.  Okay.
+
+PATIENT M432
+Usually once a year somebody's does a prostate exam you know they were problem inflamed one time.
+
+DOCTOR M432
+Well how often were you having this blood in your stool before?
+
+PATIENT M432
+It's not like it was that often and it certainly was never that red.
+
+DOCTOR M432
+Every other month?  Every day or every week?
+
+PATIENT M432
+Oh no, no.
+
+DOCTOR M432
+Every week?
+
+PATIENT M432
+No nothing like that and when I could see it I'd put Prep H on that and you know pretty much.
+
+DOCTOR M432
+Are you constipated?  Do you strain for a bowel movement?
+
+PATIENT M432
+No.
+
+DOCTOR M432
+So how often was it happening?
+
+PATIENT M432
+You know it was infrequent let's put it that way.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+Did it happen with any regularity, no.  Uh did it occur, in a large amount like this before, no.  Usually it's just a trace amount.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+And uh like I said in this case it was totally loose stool so then you've got no straining, no cause for a rupture of a hemorrhoid.
+
+DOCTOR M432
+And the blood was mixed with the stool?
+
+PATIENT M432
+Yes.
+
+DOCTOR M432
+Did you pass out?
+
+PATIENT M432
+No.
+
+DOCTOR M432
+Did you feel like your heart was racing?
+
+PATIENT M432
+No.
+
+DOCTOR M432
+Any chest pain?
+
+PATIENT M432
+No.  I just have a little amount of pain every once in a while.
+
+DOCTOR M432
+@@@.
+
+PATIENT M432
+Yes.
+
+DOCTOR M432
+Okay.  And your urine is dark?
+
+PATIENT M432
+Very dark, about the color of that box here.
+
+DOCTOR M432
+Okay.  @@@.
+
+PATIENT M432
+And sulfurous and odor.
+
+DOCTOR M432
+Okay.  How long has it been like that?
+
+PATIENT M432
+Uh a while.  I can't give you a specific time that it started, three months.
+
+DOCTOR M432
+Two or three months?
+
+PATIENT M432
+Yeah.  
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+And @@@.
+
+DOCTOR M432
+Any pain or burning when you urinate?
+
+PATIENT M432
+No.
+
+DOCTOR M432
+No blood that you can see in the urine?
+
+PATIENT M432
+What's that?
+
+DOCTOR M432
+Can you see blood in the urine?
+
+PATIENT M432
+You know it could be blood that's causing it to darken @@@.
+
+DOCTOR M432
+Have you seen blood?
+
+PATIENT M432
+Specifically, no.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+But I mean I know that if blood mixes with urine that it darkens it.
+
+DOCTOR M432
+Right.
+
+PATIENT M432
+Now that could be the cause, it's possible and like I say it's got that real sulfurous @@@ like the whoosh of those matches. (Laughs)
+
+DOCTOR M432
+Okay, alright.  So your other medical illnesses are diabetes, diet controlled?  You have diabetes?
+
+PATIENT M432
+Yes.
+
+DOCTOR M432
+Okay.  Rheumatoid arthritis.
+
+PATIENT M432
+Yeah.
+
+DOCTOR M432
+Reflux.
+
+PATIENT M432
+Acid reflux.
+
+DOCTOR M432
+Okay so have you got belly pain?
+
+PATIENT M432
+No.
+
+DOCTOR M432
+Okay and how about burning?
+
+PATIENT M432
+No.
+
+DOCTOR M432
+@@@?
+
+PATIENT M432
+Yes.
+
+DOCTOR M432
+High blood pressure.
+
+PATIENT M432
+No.
+
+DOCTOR M432
+You don't have high blood pressure?
+
+PATIENT M432
+No.  No in fact my blood pressure is one of the good things about me.  I think it was 120/59 today.
+
+DOCTOR M432
+Do you drink alcohol?
+
+PATIENT M432
+No.
+
+DOCTOR M432
+Or take Advil?
+
+PATIENT M432
+Uh no, I cant.  My hematologist said that’s a no-no for me.
+
+DOCTOR M432
+Smoking?
+
+PATIENT M432
+Let's see, I guess it was three years ago in January.
+
+DOCTOR M432
+Did you quit or started?
+
+PATIENT M432
+Yeah I quit.
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+@@@.
+
+DOCTOR M432
+Okay.  Are you having any problems with @@@.  
+
+PATIENT M432
+@@@ urine test, whatever.
+
+DOCTOR M432
+Okay, alrighty.  I'll have you sit here and we'll take a quick listen to you.
+
+PATIENT M432
+Shirt off?
+
+DOCTOR M432
+Uh-huh.  So are you taking the omeprazole every day?
+
+PATIENT M432
+Yep.  
+
+DOCTOR M432
+Okay.
+
+PATIENT M432
+Twice a day.
+
+DOCTOR M432
+How often are you using your Combivent?
+
+PATIENT M432
+Twice a day, two puffs.
+
+DOCTOR M432
+Formoterol?
+
+PATIENT M432
+Uh I want to say that's two capsules a day, one in the morning and one in the evening.  There’s also a pink one, or is that the formoterol.
+
+DOCTOR M432
+That's your um twist inhaler?
+
+PATIENT M432
+Yeah I twist it.
+
+DOCTOR M432
+That's the mometasone.
+
+PATIENT M432
+Okay.  I take that twice a day as well.  Two puffs.
+
+DOCTOR M432
+Okay, it's the pink one that you.
+
+PATIENT M432
+The twisting haler.
+
+DOCTOR M432
+That may be your, I think that's the mometasone.
+
+PATIENT M432
+The mometasone I think is the one in the capsule when you put in the little grey thing.
+
+DOCTOR M432
+I can't remember what they look like.
+
+PATIENT M432
+I think the pink one starts with an A.
+
+DOCTOR M432
+Deep breath.  Breath out, deep breath in and out.  Deep breath in and out.  Okay.  You can breathe normally.  Can you lie back?  @@@.
+
+PATIENT M432
+Sure. @@@ hold on.
+
+DOCTOR M432
+Oh okay.  Tell me if you have any pain here.  Can you bend your knees.  Can you bring your legs up and your knees.
+
+PATIENT M432
+Both of them?
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+@@@.
+
+DOCTOR M432
+Alright, okay you can stand up.  Let's do a quick wrestle.  You know I'm leaning to send you to the Emergency Room.
+
+PATIENT M432
+For.
+
+DOCTOR M432
+A breathing treatment and @@@.
+
+PATIENT M432
+I've got a breathing treatment down in the car so there's no real need for that.  I mean there's nothing that they can give me that I don't already have.
+
+DOCTOR M432
+Yeah they can give you IV steroids.  You can't give yourself that.
+
+PATIENT M432
+Nope.  That's true but I don't think we need to do that do we?
+
+DOCTOR M432
+We may need to.
+
+PATIENT M432
+Okay.
+
+DOCTOR M432
+Okay.  Let me uh, @@@.  
+
+PATIENT M432
+Okay.
+
+DOCTOR M432
+@@@.  They do.
+
+PATIENT M432
+Oh well.
+
+DOCTOR M432
+Alright, let me put the table up for the little, okay alright.  Now lean forward, it'll be fast, this is my hand, okay.  Are you squeezing?  
+
+PATIENT M432
+No.
+
+DOCTOR M432
+Okay, alright cold lubricant.
+
+PATIENT M432
+Ohh.
+
+DOCTOR M432
+Alright all done.
+
+PATIENT M432
+Ah.
+
+DOCTOR M432
+I don't see any bright red blood from there.
+
+PATIENT M432
+You don't see what?
+
+DOCTOR M432
+No bright red blood.
+
+PATIENT M432
+Yeah I, like I said it was just that one day.
+
+DOCTOR M432
+Do you feel dizzy today?
+
+PATIENT M432
+No.  Not at all.
+
+DOCTOR M432
+Okay.  Just standing like that, I'm going to check your blood pressure.
+
+PATIENT M432
+Oh okay.  Which arm do you want?
+
+DOCTOR M432
+That one is fine.  
+
+PATIENT M432
+You should probably do that before the rectal.
+
+DOCTOR M432
+Oh.  I think you're right.  Cause it's going to be high.
+
+PATIENT M432
+It won't do anything.
+
+DOCTOR M432
+132/82.
+
+PATIENT M432
+So it's higher than a few minutes ago.
+
+DOCTOR M432
+Yeah, yeah.
+
+PATIENT M432
+Just like I figured.
+
+DOCTOR M432
+Okay, oh wow, it’s late.
+
+PATIENT M432
+Yeah I know.  So.
+
+DOCTOR M432
+Okay, let's have you sit.  Just sit for like one minute.
+
+PATIENT M432
+Oh you're going to do it again?
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+So am I going to be able to get meds?
+
+DOCTOR M432
+Uh medications today?
+
+PATIENT M432
+Yeah.
+
+DOCTOR M432
+What kind of medicines do you need?
+
+PATIENT M432
+Well whatever you're going to give me I assume.
+
+DOCTOR M432
+Well.
+
+PATIENT M432
+Are you going to give me something?
+
+DOCTOR M432
+I don't know just yet.
+
+PATIENT M432
+Okay.  The reason I ask is its quarter to five and I think they close at five so.
+
+DOCTOR M432
+Yeah you may not, I don't know yet.  Okay, let's recheck it.  
+
+PATIENT M432
+What are you going to do when you get out of here?
+
+DOCTOR M432
+Hold on.  118/70.
+
+PATIENT M432
+Oh yes.  When you get out of Loyola what are you going to do?
+
+DOCTOR M432
+Um primary care.
+
+PATIENT M432
+Where at, local?
+
+DOCTOR M432
+I'm not sure yet, yeah local.
+
+PATIENT M432
+Are you from the Chicago land area?  You're not going to hang out at the VA huh?
+
+DOCTOR M432
+No.
+
+PATIENT M432
+They aren't paying you enough for that huh?
+
+DOCTOR M432
+Okay.  Alright, let me just talk with my attending briefly.
+
+PATIENT M432
+Okay.
+
+DOCTOR M432
+And um I will be back shortly.
+
+PATIENT M432
+Alright.
+
+DOCTOR M432
+When were your last pulmonary function tests?
+
+PATIENT M432
+Oh you'd have to look it up because I don't remember to be honest with you.  I remember being in the booth, it was probably a year ago.
+
+DOCTOR M432
+I'll be back shortly.
+
+PATIENT M432
+@@@.
+
+DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+Thank you.
+
+(DOCTOR OUT:  152:00  DOCTOR IN:  158:20)
+
+SECOND DOCTOR M432
+Hi PATIENT, how are you?
+
+PATIENT M432
+How you doing?
+
+SECOND DOCTOR M432
+Not too bad, yourself?
+
+PATIENT M432
+Not bad.
+
+SECOND DOCTOR M432
+So uh DOCTOR was just telling me what's going on here.  You're coughing more and uh you know.  Let me just listen to your lungs here.  Can you take a deep breath, out, again.  Okay and you're also having um bloody stools?  Okay.  So you know it's fairly complex history and there is some wheezing in your lungs.
+
+PATIENT M432
+That's been going on for a while though, they know about that.
+
+SECOND DOCTOR M432
+Yeah, yeah, no I mean most of your wheezing that’s not a big issue but you’re coughing and you're producing, you need a chest x-ray and things like that alright.
+
+PATIENT M432
+I have no problem with that.
+
+SECOND DOCTOR M432
+And the stool we need to follow up at the Emergency Room.
+
+PATIENT M432
+@@@ get it here.
+
+SECOND DOCTOR M432
+We can't do it out of here in this clinic.  You need to go to the Emergency Room.
+
+PATIENT M432
+Oh, you can't give me, have me go downstairs?
+
+SECOND DOCTOR M432
+No you need to go to the Emergency Room to follow up with that okay.  Because it's going to take hours for a routine test to be read by the radiologist, the radiologist has to read it, we can't read the films.  So the only facility here after hours is the Emergency Room.
+
+PATIENT M432
+Okay, I never want to go there so.
+
+SECOND DOCTOR M432
+Yeah.
+
+PATIENT M432
+That's why I came here to begin with.
+
+SECOND DOCTOR M432
+No I know.
+
+PATIENT M432
+If I wanted to go straight there I'd of done that and I.
+
+SECOND DOCTOR M432
+Yeah.
+
+PATIENT M432
+I don't feel like sitting around for ten hours.
+
+SECOND DOCTOR M432
+But you know you have uh.
+
+PATIENT M432
+I've got a machine in the car.
+
+SECOND DOCTOR M432
+Blood in your stool and things like that, they're going to need to check your.
+
+PATIENT M432
+Well that's why I came here.
+
+SECOND DOCTOR M432
+Yeah.
+
+PATIENT M432
+You guys would write a thing, I'd go downstairs to the Lab and they'd run whatever tests you need.
+
+SECOND DOCTOR M432
+Yeah we can do that but we need to follow up with that.  If there's been emergency stuff then.  How long have you been having bloody stools @@@?
+
+PATIENT M432
+Well like I told her one time.
+
+FIRST DOCTOR M432
+On Sunday.
+
+SECOND DOCTOR M432
+Uh-huh.
+
+PATIENT M432
+Sunday I had blood and like I was telling her a quarter cup probably a quarter cup @@@ dark @@@.
+
+SECOND DOCTOR M432
+Do you have hemorrhoids?
+
+PATIENT M432
+I've been told I had some but she couldn't see any so.
+
+FIRST DOCTOR M432
+He's had a colonoscopy before @@@.
+
+SECOND DOCTOR M432
+Okay what we can do is just the original plan, the Z-Pak, uh blood work.
+
+FIRST DOCTOR M432
+Okay.
+
+SECOND DOCTOR M432
+Blood work.
+
+FIRST DOCTOR M432
+Okay.
+
+SECOND DOCTOR M432
+The steroids and then you can follow up with your pulmonologist.
+
+PATIENT M432
+I'll see him next Thursday anyway.
+
+SECOND DOCTOR M432
+And after that we'll see if his medications need to be changed.  I don't think we need to @@@ the medications.
+
+FIRST DOCTOR M432
+No.
+
+SECOND DOCTOR M432
+Just the steroid, Z-Pak and then the blood work.
+
+FIRST DOCTOR M432
+Okay.
+
+SECOND DOCTOR M432
+CBC And a chest x-ray.
+
+PATIENT M432
+Can they get a mucolytic to cut down on the amount of the secretions?
+
+SECOND DOCTOR M432
+No, the antibiotics should help with that okay.
+
+PATIENT M432
+Okay.
+
+SECOND DOCTOR M432
+We don't want that @@@
+
+PATIENT M432
+Okay.
+
+FIRST DOCTOR M432
+Okay.  Alright.
+
+SECOND DOCTOR M432
+Okay, take care.
+
+FIRST DOCTOR M432
+I'll put that in for your blood work at the Lab and your antibiotics and steroids.
+
+SECOND DOCTOR M432
+Yeah if you get worse you need to come to the Emergency Room.
+
+PATIENT M432
+I will.  Thank you.
+
+FIRST DOCTOR M432
+No problem.
+
+PATIENT M432
+You've been @@@.  Now what about a urine test for fecal matter?
+
+SECOND DOCTOR M432
+Yeah she can order all that.  @@@.
+
+FIRST DOCTOR M432
+@@@.
+
+SECOND DOCTOR M432
+So that's the thing, I mean you probably should have been evaluated in the Emergency Room.  They can follow up with all of these things but.
+
+PATIENT M432
+But you can do the tests here I mean.
+
+FIRST DOCTOR M432
+Not after hours we can’t.
+
+PATIENT M432
+Oh I see what you're saying.
+
+SECOND DOCTOR M432
+It's going to take and it's going to delay, overnight.
+
+PATIENT M432
+Well I'm not going to die in the next 24 hours.  If something gets worse @@@.
+
+SECOND DOCTOR M432
+That's what I'm talking about, overnight if something happens you need to come to the Emergency Room.
+
+PATIENT M432
+Right.
+
+SECOND DOCTOR M432
+Okay.
+
+PATIENT M432
+That's fine.
+
+FIRST DOCTOR M432
+Okay.
+
+SECOND DOCTOR M432
+Thanks DOCTOR.
+
+PATIENT M432
+Thank you doc.
+
+SECOND DOCTOR M432
+Thank you take care.
+
+PATIENT LEAVES:  162:3
+
+Time is 4:58.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1246964
+TRANSACTION # 578-10-2-316-0103

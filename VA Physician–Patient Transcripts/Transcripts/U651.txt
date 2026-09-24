@@ -1,0 +1,1584 @@
+
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@@  
+
+DOCTOR U651
+PATIENT Its been a while.
+
+PATIENT U651
+Oh yeah.
+
+DOCTOR U651
+How you doing?
+
+PATIENT U651
+Fine.
+
+DOCTOR U651
+Come on back.  You've got a new resident.  I checked security before @@@.
+
+PATIENT U651
+Oh right.
+
+DOCTOR U651
+The second door here on the right.  Oh here we go.
+
+PATIENT U651
+@@@ new right.  Alright.  How are you?
+
+DOCTOR U651
+I'm DOCTOR, how you been PATIENT?
+
+PATIENT U651
+Uh so, so.  I got a pain in my knee.
+
+DOCTOR U651
+Tell me about it.
+
+PATIENT U651
+And my chest pain still hurts.
+
+DOCTOR U651
+Yeah.
+
+PATIENT U651
+That's from my aorta he said, I don't know @@@.  The knee pain it hurts like 1, to 6-7 right here.
+
+DOCTOR U651
+Okay.  Let's talk about the knee first.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Knee first.  When did this start?
+
+PATIENT U651
+Oh it started, well I've always had bad knees.  It always comes and goes you know.
+
+DOCTOR U651
+Uh-huh.
+
+PATIENT U651
+My leg swells up sometimes cause I tore the ligaments and stuff in it.  @@@.  It was never @@@ or nothing.
+
+DOCTOR U651
+Yep and when did this start getting worse?
+
+PATIENT U651
+Uh about a month and a half ago, something like that.  About a month ago, that's when I seen you, a month ago.  Anyway.
+
+DOCTOR U651
+Oh no you saw me back in August.
+
+PATIENT U651
+Okay uh August?
+
+DOCTOR U651
+Yeah you saw me in August.  But you've seen other people since then.
+
+PATIENT U651
+Oh okay.
+
+DOCTOR U651
+Yeah um and you actually were seen by some cardiologists.
+
+PATIENT U651
+Oh yeah.
+
+DOCTOR U651
+In December and they were very happy with how your heart was doing.
+
+PATIENT U651
+Oh yeah.
+
+DOCTOR U651
+So what when we get to the chest uh we'll look at some of that.
+
+PATIENT U651
+Okay, okay.
+
+DOCTOR U651
+It’s been a minute since you've seen me.
+
+PATIENT U651
+Alright.
+
+DOCTOR U651
+You've been seen by a lot of the psychiatrists.
+
+PATIENT U651
+Right.
+
+DOCTOR U651
+Um sometimes you're missing appointments but um.
+
+PATIENT U651
+I missed one appointment cause I didn't get @@@, just one.
+
+DOCTOR U651
+Okay, okay.  So did you injure the knee?
+
+PATIENT U651
+This knee always hurts.
+
+DOCTOR U651
+Always hurts.
+
+PATIENT U651
+Always hurts.
+
+DOCTOR U651
+For a long time.
+
+PATIENT U651
+Right, right.
+
+DOCTOR U651
+When did it get worse?
+
+PATIENT U651
+Last yeah really well it hurts you know what I mean.
+
+DOCTOR U651
+Okay it just hurts.  What are you taking for pain?
+
+PATIENT U651
+I take aspirin or Excedrin.
+
+DOCTOR U651
+You take aspirin or Excedrin?
+
+PATIENT U651
+Yeah, yeah.
+
+DOCTOR U651
+And how much does that help?
+
+PATIENT U651
+It numbs it a little bit but it don't last that long.
+
+DOCTOR U651
+Doesn't last long enough?
+
+PATIENT U651
+No, no.
+
+DOCTOR U651
+Okay uh.
+
+PATIENT U651
+Sometime I.
+
+DOCTOR U651
+Anything make it worse?
+
+PATIENT U651
+No I guess I walk too much or something like that.  I don't walk that much cause I can't walk that much with my breathing so I was working too much.  I know some time that pain came out of the blue you know.
+
+DOCTOR U651
+Okay.  Show me how well you can move it.  Can you kick your leg out straight?
+
+PATIENT U651
+@@@.
+
+DOCTOR U651
+Where does it hurt, point.
+
+PATIENT U651
+Right here.
+
+DOCTOR U651
+Hurts all around.
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+Okay um okay.  Now with a little bit of resistance I want you to do that same thing.  Okay I'm just gonna just resist you a little bit.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+Does that cause the pain to be worse?
+
+PATIENT U651
+Yeah it when you do it uh-huh.
+
+DOCTOR U651
+That makes it worse?
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+And where is it the worst?  It is.
+
+PATIENT U651
+Right at the joint you know what I mean.
+
+DOCTOR U651
+Okay.  Can I roll up your pants?
+
+PATIENT U651
+Yeah I tried to roll them up myself but.
+
+DOCTOR U651
+We can do it.
+
+PATIENT U651
+There it's out of the way.  Sometimes it swells in there doc.
+
+DOCTOR U651
+Okay.  Sometimes it swells.
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+And you think this has been going on for years?
+
+PATIENT U651
+Years since I was in the service or somthing like that.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+Um what about if I move your leg like this?
+
+PATIENT U651
+No. @@@.
+
+DOCTOR U651
+Oh okay.  Now what if I do it this way?
+
+PATIENT U651
+There a little pain.
+
+DOCTOR U651
+Little bit.  Does it hurt on this side?
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+When I do this?
+
+PATIENT U651
+Yeah I’m feeling that.
+
+DOCTOR U651
+Okay.  I'm not trying to torture you.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+Um okay.  Well you know what this most likely is, it's just osteoarthritis okay which is when, in between all of our joint we have.
+
+PATIENT U651
+Can I put it down?
+
+DOCTOR U651
+Yeah you can put that down now.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+There's no swelling in there.  I don't think it's infected.  I don't think there's.
+
+PATIENT U651
+No.  There's no actual swelling in there.
+
+DOCTOR U651
+No.
+
+PATIENT U651
+But it swells up and goes down you know.
+
+DOCTOR U651
+Okay.  When that happens, if it does swell up you can always put ice on it.
+
+PATIENT U651
+Right.
+
+DOCTOR U651
+Okay.  You can always put a bag of ice or a bag of cold peas or whatever.
+
+PATIENT U651
+Something like that.
+
+DOCTOR U651
+Something like that.  Um but what I'm gonna do is maybe get an x-ray of this.
+
+PATIENT U651
+Oh wow.
+
+DOCTOR U651
+Okay because I want to see if you have osteoarthritis.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.  Osteoarthritis is when the space in between two bones shrinks.
+
+PATIENT U651
+Right.
+
+DOCTOR U651
+When you get bone on bone.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+Okay.  That's very painful for people okay.  Um and it's painful kind of all the time, anytime you move.
+
+PATIENT U651
+Right @@@.
+
+DOCTOR U651
+Yeah I mean it doesn't seem like there is one particular thing that makes this a lot worse uh it just kind of bothers you.
+
+PATIENT U651
+Okay yeah.
+
+DOCTOR U651
+Okay.  Um it's a tough thing to treat, I'll just tell you.  It's a tough thing to treat because there isn't a good surgery for this.
+
+PATIENT U651
+No.
+
+DOCTOR U651
+Uh you know so the thing that I need to make sure is that your bones, the health of your bones overall.
+
+PATIENT U651
+Right.
+
+DOCTOR U651
+Is okay.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Uh let me just look at your last set of labs that we got for you okay.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Yeah so your kidney function is perfect.
+
+PATIENT U651
+Hmm.
+
+DOCTOR U651
+Um which is very good.  
+
+PATIENT U651
+Must have got lucky with that, @@@.
+
+DOCTOR U651
+Yeah.
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+So that's good.
+
+PATIENT U651
+(Coughs) Excuse me.
+
+DOCTOR U651
+Alright.  How's your appetite doing?
+
+PATIENT U651
+I stay hungry doc.
+
+DOCTOR U651
+Good.  No changes, no weight loss?
+
+PATIENT U651
+No.  I need some vitamins doc.
+
+DOCTOR U651
+What kind of vitamins?
+
+PATIENT U651
+Some vitamins the nurse wanted me to get, like @@@ some kind of vitamin I need so.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+Alright.
+
+DOCTOR U651
+I'm okay with that.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Um you know you can get that stuff anywhere but I can, I mean I can do that too through the VA.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Now, PATIENT let's talk about the chest pain.
+
+PATIENT U651
+Okay good.
+
+DOCTOR U651
+Okay because the chest pain is not from your heart.
+
+PATIENT U651
+@@@
+
+DOCTOR U651
+Well you've got an aneurysm but that that doesn't cause chest pain.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.  We're gonna continue to monitor that.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay probably with you know maybe we'll get a picture about every year.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+And follow you for that.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Um but there's nothing to do right now.
+
+PATIENT U651
+Right.
+
+DOCTOR U651
+And that's not the cause of this pain.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+So but you're still having pain.  I believe you.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+So we've got to figure out what.
+
+PATIENT U651
+What it is?
+
+DOCTOR U651
+Uh what is that pain and what can we do about it.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Now I need you to think really hard.  Does the pain that you get in the chest is it ever related to food ever?
+
+PATIENT U651
+No.
+
+DOCTOR U651
+Never.
+
+PATIENT U651
+No.
+
+DOCTOR U651
+And when I mean that, I mean.
+
+PATIENT U651
+@@@ pain.
+
+DOCTOR U651
+Is there pain with particular kinds of food?
+
+PATIENT U651
+No.
+
+DOCTOR U651
+Okay.  Are there, is there any relation like you eat a meal and between 30 minutes or an hour later you have pain.
+
+PATIENT U651
+You mean do I get gas or something like that?
+
+DOCTOR U651
+Yeah.
+
+PATIENT U651
+No I don't get gas.
+
+DOCTOR U651
+Well it's not just gas.  There's something called acid reflux.
+
+PATIENT U651
+Let me tell you what it is.  Sharp pain.
+
+DOCTOR U651
+It's sharp pain.
+
+PATIENT U651
+Right in here.
+
+DOCTOR U651
+And how long does it last?
+
+PATIENT U651
+Well sometimes it lasts four, five hours.  Sometimes it can come @@@ it will cause me to take aspirin every once in a while.  I took them up but it still hurts.  The aspirin don't do anything you know, like when I'm just about really go do it, @@@stronger than that, you know what I'm saying.
+
+DOCTOR U651
+You don't okay.  Um not, no spicy foods, it makes this worse?
+
+PATIENT U651
+No, no.
+
+DOCTOR U651
+Okay.  Coffee.
+
+PATIENT U651
+Well I drink a lot of coffee.  I don't know what's been making it going on.
+
+DOCTOR U651
+How much coffee do you drink?
+
+PATIENT U651
+About two cups a day.
+
+DOCTOR U651
+Oh that's not too bad.
+
+PATIENT U651
+Hmm.
+
+DOCTOR U651
+I thought you were gonna say like ten.
+
+PATIENT U651
+No. No.
+
+DOCTOR U651
+Okay so two cups of coffee is okay.
+
+PATIENT U651
+Maybe two big cups, you know I only take it to try to get up in the morning you know.
+
+DOCTOR U651
+Yeah okay.  Um and you smoke.
+
+PATIENT U651
+Right, right.
+
+DOCTOR U651
+Okay um.
+
+PATIENT U651
+About ten cigarettes a day.  Uh 10-12 cigarettes a day that's about it.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+Or those I don't give away.
+
+DOCTOR U651
+What's that?
+
+PATIENT U651
+I would say how many I give away.  My son's always asking me for a cigarette cause he don't buy some.
+
+DOCTOR U651
+Well any chance you're gonna quit?
+
+PATIENT U651
+No, no.
+
+DOCTOR U651
+Okay.  Are you drinking at all?
+
+PATIENT U651
+Huh?
+
+DOCTOR U651
+Do you drink alcohol?
+
+PATIENT U651
+No.
+
+DOCTOR U651
+Ever?
+
+PATIENT U651
+Now I had a beer about two, three days ago yeah.
+
+DOCTOR U651
+Okay so just rarely?
+
+PATIENT U651
+Rarely, very rarely cause I don't want to drink nothing I my son and his wife and there's gonna be a birth of a baby coming up.  I could give you one thing and that's what I'm saying.
+
+DOCTOR U651
+Uh cocaine, marijuana anything @@@.
+
+PATIENT U651
+No, that stuff will kill me.  No.
+
+DOCTOR U651
+No, no.
+
+PATIENT U651
+When I was a kid I used to have marijuana you know.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+Ever since I was over 21, @@@ I'm not like that no more.
+
+DOCTOR U651
+Okay and uh how's life at home?  How you doing?
+
+PATIENT U651
+Well right now I'm trying @@@ moving, @@@ making doctor's appointments uh @@@ going to the doctor when I can't pay them right away but uh.
+
+DOCTOR U651
+Where are you moving to?  Why are you moving?
+
+PATIENT U651
+Why am I moving?  The house was, the place I was living ADDRESS, man the roaches and little bitty mices running all over the place you know man.
+
+DOCTOR U651
+Got get out of there.
+
+PATIENT U651
+I'm tired of that you know.
+
+DOCTOR U651
+Yeah.
+
+PATIENT U651
+Then I laid down in the bed and I got robbed one time @@@.
+
+DOCTOR U651
+Okay that sounds like it's a good idea for you to get out of there.
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+Okay um let me see.  Does it hurt when I press?
+
+PATIENT U651
+No it hurts when you press it here.
+
+DOCTOR U651
+It does hurt there.
+
+PATIENT U651
+Right there yeah.
+
+DOCTOR U651
+Okay.  I want you to move your shoulder.
+
+PATIENT U651
+Oh man.
+
+DOCTOR U651
+And I'll have you move your shoulder; I want you to go out like this.  Go up and as far as you can go.  Does that cause pain?
+
+PATIENT U651
+Yeah and it's got me coughing too.
+
+DOCTOR U651
+That causes pain right there?
+
+PATIENT U651
+A sharp pain right over here.
+
+DOCTOR U651
+Okay.  Now I want you to go forward, I want you to go up.
+
+PATIENT U651
+Going up.
+
+DOCTOR U651
+Does that cause the pain?
+
+PATIENT U651
+A little pain, but not much.
+
+DOCTOR U651
+Okay.  Well.
+
+PATIENT U651
+It sure is not gas was it.
+
+DOCTOR U651
+No I think it's a muscle.
+
+PATIENT U651
+Hmm.
+
+DOCTOR U651
+That, just doing that motion and it causes pain.
+
+PATIENT U651
+No not this one over here does.
+
+DOCTOR U651
+That one over there?
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+Okay.  Okay.  Um what do you do with that arm?
+
+PATIENT U651
+What do I do with that arm?
+
+DOCTOR U651
+Yeah.
+
+PATIENT U651
+Sleep on it.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+@@@ I'll catch it @@@.
+
+DOCTOR U651
+You do, do you do you know kind of activities like lifting a lot with that arm?
+
+PATIENT U651
+Yeah a book.
+
+DOCTOR U651
+You.
+
+PATIENT U651
+@@@ book, reading.
+
+DOCTOR U651
+Okay like do you like, do you have you know small children or anything you have to pick up?
+
+PATIENT U651
+Oh yeah, yeah, my grandson's he's at least six months so I tell her I can't hold him too long, you know what I mean.
+
+DOCTOR U651
+Yeah.
+
+PATIENT U651
+That's why, he weighs about 20 pounds, 25 pounds, something like that.
+
+DOCTOR U651
+Okay.  My friend, I think that this is a muscle pain.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+So what I want you to do is rest and ice it.
+
+PATIENT U651
+Hmm.
+
+DOCTOR U651
+I want you to stick something cold on there.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+20 minutes at night.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+Hmm.
+
+DOCTOR U651
+This is gonna get better.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+Okay.  If it persists then maybe it is something like gas.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+But I'm not gonna give you another medicine right now cause I'm less suspicious that this is gas.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+I'm more suspicious that this is a muscle.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+I do think it might be worth getting a picture of the knee just to see that there isn't anything that is really abnormal and to see if this could be osteoarthritis.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.  Um and again this has been a long term pain issue for you.
+
+PATIENT U651
+Right this has been long term.
+
+DOCTOR U651
+I mean has it gotten very worse?
+
+PATIENT U651
+No not worse it's just the pain @@@.  But I'm trying not to walk too far every day but I still have @@@ you know stuff like that.
+
+DOCTOR U651
+Okay.  I think that you moving is a great idea because being around lots of cockroaches and mice.
+
+PATIENT U651
+Yeah, yeah, yeah.
+
+DOCTOR U651
+Might affect how well you can breathe.
+
+PATIENT U651
+Yes @@@ down there.
+
+DOCTOR U651
+Okay.  So um we will do those things.  Anything else that you want to talk about?
+
+PATIENT U651
+Yes a headaches, what do we do about that?
+
+DOCTOR U651
+How often do you get headaches?
+
+PATIENT U651
+I get migraine headaches @@@ and I get pain from here all the way back, you know what I mean.  Migraines.
+
+DOCTOR U651
+Do you ever get nauseous or vomit with the headaches?
+
+PATIENT U651
+Yeah I get nauseous, you understand me, you know.  Yeah I get nauseous and I passed out a couple of times, cause sometimes I'm walking, you know stop, looks like my head is a boom! You know a couple times when I walk and stop I pass out and I feel like I'm going down you know what I mean.
+
+DOCTOR U651
+Yeah.  I mean is it on both sides of your head that you have the pain?
+
+PATIENT U651
+Yes, @@@ right here.
+
+DOCTOR U651
+Okay.  The pain does it feel like it pulses or is it just constant?
+
+PATIENT U651
+It's a pulsating thing.
+
+DOCTOR U651
+Okay and you do sometimes get nauseous?
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+Okay.  Do you notice any improvement in the headache if you take a medicine like acetaminophen or Tylenol?
+
+PATIENT U651
+Do it improve it?
+
+DOCTOR U651
+Yeah.
+
+PATIENT U651
+No way @@@.
+
+DOCTOR U651
+It doesn't.
+
+PATIENT U651
+No.  I feel like sometimes I have to go to sleep you know cause it's @@@.
+
+DOCTOR U651
+Okay and does that help?
+
+PATIENT U651
+Yeah you know seem like at 9 o'clock in the morning, going back to sleep come on, like I got to sleep good at night but I don't think @@@ wake up at 6 o'clock in the morning and go back to sleep at 9 you know.
+
+DOCTOR U651
+Uh-huh.
+
+PATIENT U651
+@@@ mostly the proper.  What do you think @@@.
+
+DOCTOR U651
+Well it could be migraine.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+How often do you get this?
+
+PATIENT U651
+@@@.
+
+DOCTOR U651
+Over a month, how many times?
+
+PATIENT U651
+Oh I keep having it, man I keep having it.  Like I @@@ sometimes it get better, sometime it get worse.  Right now I got one of those headaches now but it hurts me right here see.
+
+DOCTOR U651
+Uh-huh.
+
+PATIENT U651
+That's what it is, not all over.
+
+DOCTOR U651
+Okay well it could be a headache.  But I mean it could be migraines.
+
+PATIENT U651
+Hmm.
+
+DOCTOR U651
+Um there are medicines that are available that you can take once the headache starts.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Um I haven't prescribed it to people yet here at the VA cause I haven't had too many folks that have true migraines.
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+This could be true migraines um, let me see if they have them.  
+
+PATIENT U651
+And I hate to tell you this but before you gave me some Viagra.
+
+DOCTOR U651
+Yeah.
+
+PATIENT U651
+One pill for a month! Come on I had the only one pill, one pill?
+
+DOCTOR U651
+I didn't give you just one.  Now listen the VA restricts me.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+Okay.  I'm only allowed to give you two pills a month.  If it was only one that was a mistake.  It was meant to be two.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Um but the issue, here I'm changing this right now.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Um I don't know why the VA does this.  You know you were in the Army you know or some service and now they want to control every part of your life.  I don't know what the story is behind that but they only let me prescribe two pills a month.
+
+PATIENT U651
+I only got one.  Now you see what I'm saying, one pill.
+
+DOCTOR U651
+Yeah.
+
+PATIENT U651
+One pill, one pill you know get your girlfriend or something, you know what I mean and she want to do some more.
+
+DOCTOR U651
+Yeah.  Okay my friend.  Um when I look at this uh the medicine that I was thinking I wanted to give you.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+It turns out I can only give to you if I'm a neurologist.
+
+PATIENT U651
+Uh-huh.  Well is the fact that @@@ well you the doctor, @@@ what do you think about that?
+
+DOCTOR U651
+We talked about that.  They want to monitor that in a year.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+There's nothing to do.  There's no problem related to your heart.
+
+PATIENT U651
+Right.
+
+DOCTOR U651
+You're heart's healthy but you do have a little bit of dilation of the aorta.
+
+PATIENT U651
+Right.
+
+DOCTOR U651
+And there's nothing to do about it.  We're just gonna monitor it.
+
+PATIENT U651
+Oh okay.
+
+DOCTOR U651
+To make sure that it doesn't, if it gets bigger, eventually you might have to have a surgery.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+But right now there isn't any indication to have to do that okay.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+I can uh you know, I can refer you to the neurologist.
+
+PATIENT U651
+No, no.
+
+DOCTOR U651
+For the headache and they can prescribe you the medicine for, specific for migraines.  From the sound of it, it could be migraines.
+
+PATIENT U651
+Hmm.  Let's hope it is cause I don't want to take @@@.  I can't come over here, I got to stay all the way.
+
+DOCTOR U651
+Right, right, right @@@.
+
+PATIENT U651
+Hospital @@@.
+
+DOCTOR U651
+You're not taking the right medicine for migraine.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+I want to give you something but the VA is limiting me.  I can't give you this medicine unless I'm a neurologist so I can send you to the neurologist and they can assess your headaches.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+And see if they will do it.
+
+PATIENT U651
+Alright, alright, alright, alright.  @@@.
+
+DOCTOR U651
+Okay.  So that's what we'll do.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Let me uh just go run this past DOCTOR okay.
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+And I'll be back in a moment.
+
+PATIENT U651
+Take your time.
+
+DOCTOR U651
+Okay.  Okay good to see you.
+
+PATIENT U651
+Okay.
+
+(DOCTOR OUT:  41:59  DOCTOR IN:  48:28)
+
+DOCTOR U651
+Okay you ready.  You know I got to say that I think quitting smoking would help; I was actually able to figure out how I can get you this medicine for headaches.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+Okay.  So when you start to get a headache okay.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+I want you to take this medicine.  I'm giving you uh 30 days’ worth.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+With a couple of refills.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Do you want to pick this up at the window or?
+
+PATIENT U651
+Yes.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+Could you get it sent in @@@ cane @@@?
+
+DOCTOR U651
+Yeah, you could, yeah.
+
+PATIENT U651
+Uh give it to me @@@s.
+
+DOCTOR U651
+You could go up there today actually.  Um I'll send you to Prosthetics.
+
+PATIENT U651
+Where's that?
+
+DOCTOR U651
+Do you know where that is?
+
+PATIENT U651
+No @@@.
+
+DOCTOR U651
+Um it is uh I believe you go to the Damon Center and it's in the Damon Center but I would have you, what I'd have you do is ask the folks at the desk and they'll be able to tell you exactly where it is.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+I'm pretty sure that's where it is.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.  Yeah I'm glad that you asked that. I neglected to say that.  Okay.
+
+PATIENT U651
+I would probably do that for the others ones cause I had one once before you know and after I was done I just didn't get another one, you know what I mean.  You want me to get a flu shot while I'm here too?
+
+DOCTOR U651
+Yeah well it's kind of you're getting to the end of the flu season but do you need a flu shot?
+
+PATIENT U651
+Oh is it the end of the flu season oh okay.
+
+DOCTOR U651
+@@@.  Okay.  Got that and then um yeah we're kind of getting to the end of the flu shot season.  I want to get this x-ray okay.
+
+PATIENT U651
+The what?
+
+DOCTOR U651
+Of the knee yeah.  We can get it today.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.  So um do you know where that is?
+
+PATIENT U651
+No just tell me what you want, it's one of those things I just walk around here you know what I'm saying.
+
+DOCTOR U651
+Okay we're just gonna get it of the right knee.
+
+PATIENT U651
+Alright.
+
+DOCTOR U651
+Okay um let's see.  They're on the first floor.  This one I do know where it is okay.  You go down as though you're walking all the way over to the Damon Center.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+Uh the Damon Pavilion, whatever it's called.
+
+PATIENT U651
+Hmm.
+
+DOCTOR U651
+And then when you dead end into that wall, kind of where the wall turns an orange color, you take a left.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+I'll find it.
+
+DOCTOR U651
+Yeah.  Um do this today.
+
+PATIENT U651
+Right.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+That's for the right knee right?
+
+DOCTOR U651
+Right knee.
+
+PATIENT U651
+Right.
+
+DOCTOR U651
+Okay.  You're gonna go to Prosthetics.
+
+PATIENT U651
+What's at Prosthetics.
+
+DOCTOR U651
+That's what we’re going to find out.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+And you're gonna ask them where Prosthetics is.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+Better get me to write it down ‘cuz I’m going to forget it.
+
+DOCTOR U651
+Okay I will.  I'm gonna write it down right now.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.  This is your sheet that says number one, Prosthetics.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+Number two X-Ray and number three meds.  You're gonna pick up your medicines.  The two medicines you're gonna pick up are this medicine for headaches.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Called sumatriptan.
+
+PATIENT U651
+Hmm.
+
+DOCTOR U651
+Remember triptan.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+Okay and you're gonna take this at the start of your headache.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay when you start to feel it come on, that's when you take it.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.  Um for the leg I want you to not take aspirin for pain.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+I want you to take a different medicine that I'm gonna prescribe for you and pick it up at the window and it is called acetaminophen.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Or Tylenol.
+
+PATIENT U651
+So.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+We don’t want no Tylenol.
+
+DOCTOR U651
+You don’t want any more?
+
+PATIENT U651
+Not Tylenol, no what's @@@ Tylenol, don’t you think.
+
+DOCTOR U651
+Well I mean I can give you a different type of medicine.  I can give you a medicine called Naproxen.
+
+PATIENT U651
+Okay and would it stop the pain or something?
+
+DOCTOR U651
+Yeah it's a good medicine for osteoarthritis.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay but I only want you to take it when it's bothering you.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.  Um don't take uh, don't take it all the time okay, like around-the-clock kind of thing.
+
+PATIENT U651
+Oh don't take it like three or four times a day you know.
+
+DOCTOR U651
+No.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+I think you should just take it you know twice a day at the most.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+That's the same as @@@ what is it?
+
+DOCTOR U651
+Naproxen.
+
+PATIENT U651
+Naproxen okay.
+
+DOCTOR U651
+Naproxen.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+That's good for headaches too?
+
+DOCTOR U651
+Not as good as the triptan.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.  It can work on headaches but not as good as the triptan.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+So I'm giving you two medicines today, one for headaches.
+
+PATIENT U651
+Uh-huh.
+
+DOCTOR U651
+And one for the knees.
+
+PATIENT U651
+Right.
+
+DOCTOR U651
+And when we'll get the x-ray and we'll get the cane.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.  Sound good?
+
+PATIENT U651
+Yeah.  Oh I forgot to tell you, I got a little rising right here, a little knot you know what I mean and I had one on this side but it got kind of big but it burst on its own so what do I do about that?  Cause it's a little knot, you know, about that big around and then uh I had one on this side that big and @@@.
+
+DOCTOR U651
+Did it go away?
+
+PATIENT U651
+It busted.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+It busted.
+
+DOCTOR U651
+I mean is it a boil?
+
+PATIENT U651
+Yeah it was a rubbing boil.
+
+DOCTOR U651
+It might go away so use a warm compress.  Don't try to stick it with a needle or something cause you could get a bad infection.
+
+PATIENT U651
+Okay I know what to do.
+
+DOCTOR U651
+You know and that's a sensitive area to get a bad infection.
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+Okay.
+
+PATIENT U651
+Yeah.
+
+DOCTOR U651
+Alright.  Good to see you again and just use warm compresses.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay and it'll burst on its own.
+
+PATIENT U651
+Okay, alright.
+
+DOCTOR U651
+Be well.
+
+PATIENT U651
+Oh what did you say for the dizziness?  @@@.
+
+DOCTOR U651
+I can't just give you something for dizziness, as you’re walking out the door.
+
+PATIENT U651
+No what I'm saying, never mind I'll survive.  I'll see you next time.
+
+DOCTOR U651
+Okay we will see each other again, let's look, when do I need to see you, let me see when your last labs were.  Um let's see each other in the fall.
+
+PATIENT U651
+Okay.
+
+DOCTOR U651
+Okay.  I'll put in a follow-up appointment for you for the fall.
+
+PATIENT U651
+Alright.
+
+DOCTOR U651
+Okay you'll get a letter.
+
+PATIENT U651
+Okay thank you.
+
+DOCTOR U651
+Take care.
+
+PATIENT U651
+Uh-huh.
+
+PATIENT LEAVES:  55:24
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300325
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,870 @@
+AUDIO NAME:		R996
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@@
+
+DR ENTERS:		36:29 
+
+DOCTOR R996
+I'm DOCTOR.  Nice to meet ya.
+
+PATIENT R996
+I'm PATIENT.
+
+DOCTOR R996
+Okay.
+
+PATIENT R996
+Out there by the door. Huh?
+
+DOCTOR R996
+Yeah.  Short walk.
+
+PATIENT R996
+Yeah.
+
+DOCTOR R996
+Just give me any findings you have.  @@@.  
+
+PATIENT'S BROTHER R996
+Permission to check his medical records.
+
+DOCTOR R996
+Are you staying in here or …
+
+PATIENT'S BROTHER R996
+No I don't have to stay in.  I just wanted you to know.
+
+DOCTOR R996
+If you stay, I think it might be easier.
+
+PATIENT'S BROTHER 416
+Okay.
+
+DOCTOR R996
+I can answer any questions that you all have. As long as he is comfortable if you stay in the room.
+
+PATIENT'S BROTHER 416
+That's fine. Okay.
+
+DOCTOR R996
+Is that okay if I talk to your brother.  
+
+PATIENT R996
+Okay.  No problem.
+
+DOCTOR R996
+Okay.  Not a problem.  Okay.  So the first question is - Why have you been away for so long?  
+
+PATIENT R996
+Have I been away that long?
+
+DOCTOR R996
+Yeah.
+
+PATIENT R996
+@@@.
+
+DOCTOR R996
+The last time you were here was in 2009 and you saw DOCTOR. I don't know if you remember him.
+
+PATIENT R996
+Yeah.  I forgot his name.  I just haven't had @@@.
+
+DOCTOR R996
+Yeah.
+
+PATIENT R996
+When.  I was in here not too long ago.  @@@.
+
+DOCTOR R996
+At the kidney doctors.  DOCTOR, DOCTOR ?
+
+PATIENT R996
+I don't know his name.
+
+DOCTOR R996
+What were you to see him for?
+
+PATIENT R996
+The same thing that I see DOCTOR for.
+
+DOCTOR R996
+Okay.
+
+PATIENT R996
+What was her name?  The lady doctor?
+
+DOCTOR R996
+DOCTOR.
+
+PATIENT R996
+Yeah, DOCTOR.  I was here not too long ago to see her.
+
+DOCTOR R996
+How long ago was that?
+
+PATIENT'S BROTHER R996
+That was August.
+
+DOCTOR R996
+August, oh okay.  That wasn't too long ago.
+
+PATIENT R996
+Hmm, Hmm.
+
+DOCTOR R996
+Did they give you new medications and everything?
+
+PATIENT R996
+No they didn't give me nothing new.
+
+DOCTOR R996
+Okay.
+
+PATIENT R996
+He said I was doing all right with what I had.
+
+DOCTOR R996
+Your blood pressure is not where it we want it to be.
+
+PATIENT R996
+Right, we were talking about why it is up so high.
+
+DOCTOR R996
+Um.  So you are otherwise you are looking okay.
+
+PATIENT R996
+Hum. Hum.  That is the main thing.
+
+DOCTOR R996
+I am going to check @@@ cholesterol.
+
+PATIENT'S BROTHER 416
+They did a blood draw.  Did they do a blood draw?
+
+DOCTOR R996
+Yeah, they did.  It is higher than where we want it to be.  Have you been having any chest pains?
+
+PATIENT R996
+No chest pains.
+
+DOCTOR R996
+Give me one second.
+
+PATIENT R996
+Nothing but Twinkies.  @@@.
+
+DOCTOR R996
+Cholesterol is up.
+
+PATIENT R996
+That is because I ain't had nothing to eat, but Twinkies.
+
+DOCTOR R996
+(DOCTOR ON PHONE WITH LAB) 
+
+PATIENT R996 AND PATIENT'S BROTHER R996
+talking while DOCTOR is on phone with Lab): 
+@@@.
+
+PATIENT R996
+My cholesterol is up.
+
+PATIENT'S BROTHER R996
+@@@.
+
+PATIENT R996
+Oh yeah, we can do that.  
+
+PATIENT'S BROTHER 416
+@@@.
+
+PATIENT R996
+Oh yeah, the Twinkies are for my blood sugar.  There ain't no cholesterol.
+
+PATIENT'S BROTHER R996
+The Twinkies @@@.
+
+PATIENT R996
+Yeah, but I need it for my blood sugar.  
+
+PATIENT'S BROTHER R996
+The cholesterol needs to be checked. @@@.
+
+PATIENT R996
+Hum, hum.  Yeah, @@@.  @@@.  No I don't think they stay open long last week.  
+
+DOCTOR R996
+PHONE CALL ENDED 49:33)
+
+PATIENT'S BROTHER R996
+Cholesterol kinda high huh? @@@ Twinkies, cupcakes.
+
+DOCTOR R996
+Which you should not be doing. Yeah.  We are going to get you to join the MOVE program.  
+
+PATIENT R996
+Oh yeah.
+	
+DOCTOR R996
+We will do that straight away.  We are going to put you on medications for your cholesterol. What’s the deal with your medications? You had medications that you were on before, but are no longer on your medication list.
+
+PATIENT R996
+I don't know why they stopped them?
+
+DOCTOR R996
+When you run out, you can call in and we can reorder them and renew them.  But you are supposed to be taking lisinopril and it is not on your med list.
+
+PATIENT R996
+What's that?
+
+DOCTOR R996
+Lisinopril.
+
+PATIENT R996
+I never had of that before.
+
+DOCTOR R996
+You had it many times in the past.
+
+PATIENT R996
+Oh yea.
+
+DOCTOR R996
+You saw DOCTOR, you should have been taking the lisinopril.
+
+PATIENT R996
+Hum hum.
+
+DOCTOR 416
+Are you taking your blood pressure medications now?
+
+PATIENT R996
+The ones I got now yep.
+
+DOCTOR R996
+Do you know what you are taking?
+
+PATIENT R996
+Yeah, glipizide.
+
+DOCTOR R996
+How much?
+
+PATIENT R996
+A dry med?  
+
+DOCTOR R996
+How much of glipizide are you taking?
+
+PATIENT R996
+I don't know the ounce of it.
+
+DOCTOR R996
+How many times a day are you taking it?
+
+PATIENT R996
+Three times a day.  I take one and a half a day.
+
+DOCTOR R996
+You take 1-1/2 three times a day?
+
+PATIENT R996
+No, just one time a day.
+
+DOCTOR R996
+1-1/2 once a day.
+
+PATIENT R996
+Yeah.
+
+DOCTOR R996
+When do you take it?
+
+PATIENT R996
+I usually take it when I get up before I eat my first breakfast.
+
+DOCTOR R996
+You don't take anything at night?
+
+PATIENT R996
+Un Uh.
+
+DOCTOR R996
+As far as the blood pressure medications.  What are you taking?
+
+PATIENT R996
+@@@, whatever they call it.  I take it one time a day.
+
+DOCTOR R996
+In the morning?
+
+PATIENT R996
+Yup.
+
+DOCTOR R996
+That's fine.
+
+PATIENT R996
+I don't take none at night though.  I used to take that, what's its name?  But I don't take that no more.  They don't fit.  @@@.  What they call it?
+
+PATIENT'S BROTHER R996
+He is taking them daily like he is supposed to.
+
+PATIENT R996
+Yeah, the one dose two by day.  
+
+DOCTOR R996
+Now we are going to add two more medications.
+
+PATIENT R996
+Oh you’re adding two more?
+
+DOCTOR R996
+One of them is a blood pressure medication which you can take in the morning, and the other one is going to be the cholesterol medication that you can take at night.
+
+PATIENT R996
+Um.
+
+DOCTOR R996
+Very important.  Do you check your blood sugars at home?
+
+PATIENT R996
+Oh sure.
+
+DOCTOR R996
+How often do you check them?
+
+PATIENT R996
+I do that, check them about three times a week.  I got a nurse that comes down on Wednesdays and she checks it too.
+
+DOCTOR R996
+Three times a week?
+
+PATIENT R996
+Yup.
+
+PATIENT'S BROTHER R996
+Strangely, it turns out his blood sugars are always pretty good.
+
+PATIENT R996
+Yeah, you are getting to be pretty good.
+
+DOCTOR R996
+Do you get any chest pains?
+
+PATIENT R996
+Nope.
+
+DOCTOR R996
+Shortness of breath?
+
+PATIENT R996
+Nope.
+
+DOCTOR R996
+Are you able to move around without that?
+
+PATIENT R996
+Without this?  Yup.
+
+DOCTOR R996
+What do you do?
+
+PATIENT R996
+I move around.  I do a little.  I go outside and walk back in.
+
+DOCTOR R996
+How often do you do that?
+
+PATIENT R996
+That would be all right.
+
+DOCTOR R996
+Why do you use that?
+
+PATIENT R996
+You know I get used to it.  You know how people get when they get something new.  They use it.  I paid for it.   I may as well use it.
+
+DOCTOR R996
+Is there any blood in your stool?  Or black in your stool?
+
+PATIENT R996
+Nope.
+
+DOCTOR R996
+When was the last time you saw an eye doctor?
+
+PATIENT R996
+I want to talk to you about that too.  I want to see one, not today but as soon as possible, because I want to get these fixed and they tells me that I need to get an appointment with the eye doctor.  But they can’t do nothin for me right now.  I had to wait and get an okay from my eye doctor, my primary doctor and they could do it for me.
+
+PATIENT'S BROTHER 416
+His glasses are old.
+
+PATIENT R996
+Yeah, these are old.  These are over 10 years old.
+
+PATIENT'S BROTHER 416
+Yup, need an update. @@@.
+
+PATIENT R996
+Yup, need an eye check anyway.
+
+DOCTOR R996
+Do you get numbness or tingling anywhere?
+
+PATIENT R996
+Nope.
+
+DOCTOR R996
+Any lightheadedness.
+
+PATIENT R996
+Nope.
+
+DOCTOR R996
+Headaches.
+
+PATIENT R996
+Nope.
+
+DOCTOR R996
+Cough at all?
+
+PATIENT R996
+No, nothing unusual.  No.
+
+DOCTOR R996
+Any weight loss or weight gain?
+
+PATIENT R996
+No, talking about that I think I have added weight though.
+
+DOCTOR R996
+How much weight?
+
+PATIENT R996
+I don't know, but the last time I weighed one week I was at 214 and the next week I was down to 207.
+
+DOCTOR R996
+Are you trying to lose weight?
+
+PATIENT R996
+No.  I wasn't trying.  I was walking around and stuff.  I could see losing weight.  But I just do the normal routine.
+
+DOCTOR R996
+Do you need your glasses for near vision or distance vision?
+
+PATIENT R996
+I need them for everything.  Near and distance.
+
+DOCTOR R996
+Let me take a listen to you.
+
+PATIENT R996
+What?
+
+DOCTOR R996
+To listen to you.  Do you eat a lot of salty foods?
+
+PATIENT R996
+No I wouldn't say salty, no.
+
+DOCTOR R996
+Can you breathe normal?  Can you lean forward?  A few deep breaths through your mouth.  Real deep.  Okay.  Are you able to come over this way so I can check your blood pressure?  
+
+PATIENT R996
+Did something drop?
+
+DOCTOR R996
+What?
+
+PATIENT R996
+I was asking if something dropped?
+
+DOCTOR R996
+Oh. No.
+
+PATIENT R996
+I was thinking that maybe I need to take me some water, may be that will have my blood pressure go down.
+
+DOCTOR R996
+Sit all the way on there.  You need @@@ still?
+
+PATIENT R996
+I need it now.
+
+DOCTOR R996
+Any falls that you have had at all?
+
+PATIENT R996
+Any falls?
+
+DOCTOR R996
+Yeah.
+
+PATIENT R996
+Nope.  I ain't had no serious falls or nothing.  Nope.
+
+DOCTOR R996
+Do you smoke at all?
+
+PATIENT R996
+Yep.
+
+DOCTOR R996
+How much do you smoke?  
+
+PATIENT R996
+Probably about a pack every week.
+
+DOCTOR R996
+Why are you smoking?  
+
+PATIENT R996
+Because I enjoy it, Doctor. 
+
+DOCTOR R996
+Are you going to quit?
+
+PATIENT R996
+I don't want to quit now if I don't have to.
+
+DOCTOR R996
+You should quit.
+
+PATIENT R996
+Yep.
+
+DOCTOR R996
+I think you have to quit.
+
+PATIENT R996
+Oh yeah.  I've been smoking over 50 years now.  It is hard to give up something just like that.
+
+DOCTOR R996
+It is possible and it is only for your benefit.
+
+PATIENT R996
+Yeah, like I said, as long as it ain't killing me yet.
+
+DOCTOR R996
+It is going to.
+
+PATIENT R996
+Yeah, eventually.  Yeah I’m going to kick that bucket.
+
+DOCTOR R996
+@@@ this arm.  I'll hold it up.  Hold on.
+
+PATIENT R996
+All right.
+
+DOCTOR R996
+Don't fall.  I want you to hold it.  I will hold it up.  Okay.
+
+PATIENT R996
+Okay.
+
+PATIENT'S BROTHER R996
+All the way, just let it go.  
+
+DOCTOR R996
+Just let it fall.  Just like that.  
+
+DOCTOR R996
+180/90.
+
+PATIENT R996
+180?
+
+DOCTOR R996
+Yea.  It is supposed to be 130.
+
+PATIENT R996
+Yep.
+
+DOCTOR R996
+It has a long way to go. Have a seat.  Do you get any swelling in your legs?
+
+PATIENT R996
+They have been all right.
+
+DOCTOR R996
+How many pillows do you sleep on at night?
+
+PATIENT R996
+I used to use two pillows, now I have to sleep on three.
+
+DOCTOR R996
+Okay.  Do you snore at all?
+
+PATIENT R996
+I don't think I snore.
+
+PATIENT'S BROTHER R996
+He does.
+
+DOCTOR R996
+Have you ever had a sleep study?  Do you take naps during the day?
+
+PATIENT R996
+Nope.
+
+DOCTOR R996
+Do you feel refreshed when you wake up?
+
+PATIENT R996
+When I wake up I feel refreshed.  Yes.
+
+DOCTOR R996
+Okay.
+
+PATIENT R996
+Yeah, usually when I get up I will be all right.  I walk outside.  I smoke me a cigarette right quick and then come back in and I feel pretty good for the rest of the day.
+
+DOCTOR R996
+Okay.  Well I am going to talk with one of the other doctors.  I'll be back in after that.  Do you guys have any questions right now?
+
+PATIENT R996
+Yeah.  What about the eye glasses?
+
+DOCTOR R996
+Yeah, I'll get you in to see the eye doctor.  
+
+PATIENT'S BROTHER R996
+What about that MOVE Clinic?  What is that about?  Would he be more ambulatory @@@?
+
+DOCTOR R996
+He will be seeing Physical Therapy too.  Those will be two different things.  Physical Therapy to get him walking more.  The MOVE Clinic is to help him lose weight tell him the right foods to eat @@@ and it can help with his blood pressure, anxiety.  Do you have any ulcers in your feet?  Do you get numbness and tingling in your feet?
+
+PATIENT R996
+Hun huh.  The feet are pretty good.
+
+DOCTOR R996
+What is the reason you haven't seen the doctor in almost 3 years?
+
+PATIENT R996
+I don’t know.  I never had an appointment.
+
+DOCTOR R996
+But you weren't seeing any other doctors?  
+
+PATIENT R996
+Un Un.  @@@.
+
+DOCTOR R996
+Did you have someone who was ah…   At any time did you need to go into the hospital?
+
+PATIENT R996
+@@@ I don’t need a doctor then. He just comes back and makes sure everything is okay.
+
+DOCTOR R996
+And your blood sugar.  When you check them what is the lowest number that you got?
+
+PATIENT R996
+Oh the lowest number I got was, I got it written down in a journal from the nurse.
+
+DOCTOR R996
+Oh okay.  Bring it in.
+
+PATIENT R996
+Yeah, I'll bring it in.  Yup.  @@@.  I see him on Wednesday, but the doctor wants to see @@@.
+
+DOCTOR R996
+I am going to have you come back in a month to see the nurse and get your blood pressure checked again.  Do you have a blood pressure cuff at home?
+
+PATIENT R996
+Yeah I got a machine at home.
+
+DOCTOR R996
+Does it work?
+
+PATIENT R996
+Yes it do.
+
+DOCTOR R996
+Okay.  I want you to bring that in when you come back in a month as well.
+
+PATIENT R996
+All right.
+	
+DOCTOR R996
+I'll be back in a little bit.  Okay?
+
+PATIENT R996
+Okay.
+
+DOCTOR OUT:  65:32  DOCTOR IN:  68:51
+
+DOCTOR R996
+Instead of the nurse, we are going to do a pharmacist visit.  
+
+PATIENT R996
+Pharmacist?  
+
+DOCTOR R996
+Yeah.  They will be able to get you correct on the medications.  Continue to take your meds all the time.
+
+PATIENT R996
+Yeah.
+
+DOCTOR R996
+Not sporadically.  They need to be taken daily.  Like you were saying, some of these meds, I don't know if you have them at home or not.  But it looks like you don't.
+
+PATIENT R996
+Right.
+
+PATIENT BROTHER R996
+You don't have any more?
+
+PATIENT R996
+Yeah, I got some at the house, but not all them.
+
+PATIENT BROTHER R996
+I know you don’t have the one for the cholesterol.  I know you don't have that because it's a new one, the one for the blood pressure.
+
+PATIENT R996
+I got those pills.
+
+DOCTOR R996
+How old are they?
+
+PATIENT R996
+They are old.  They are about, oh boy, they are about two months old.  Almost two months old.  @@@.
+
+DOCTOR R996
+Any time you run out, you can always call and they can send you more medications.
+
+PATIENT R996
+Right. @@@ How many days?
+
+PATIENT BROTHER R996
+A month's supply.
+
+PATIENT R996
+At least a month.  Yeah.  
+
+PATIENT BROTHER R996
+Okay. @@@.
+
+PATIENT R996
+Oh yeah.
+
+PATIENT BROTHER R996
+Okay. @@@.
+
+PATIENT R996
+Oh yeah. 
+ 
+PATIENT BROTHER R996
+@@@ broken.
+
+PATIENT R996
+@@@ one side is over here .
+
+PATIENT BROTHER R996
+@@@.
+
+PATIENT R996
+They were a little bit different.  They were definitely different than this.
+
+PATIENT BROTHER R996
+Not the same prescription.
+
+PATIENT R996
+@@@.  Lay down to watch TV.  I use them.  I can still see them.
+
+PATIENT BROTHER R996
+Not as well?
+
+PATIENT R996
+No.
+
+DOCTOR R996
+Okay.  So I will see you back here in three months and then the pharmacist should get a hold of you.  I will also put in for the MOVE Clinic and the ophthalmologist.
+
+PATIENT R996
+I will get a letter, right?
+
+DOCTOR R996
+Or someone will call you.
+
+PATIENT R996
+Oh yeah.
+
+DOCTOR R996
+Okay.
+
+PATIENT R996
+All right.
+
+DOCTOR R996
+When you do these labs, they are fasting labs for one month and for three months.
+
+PATIENT R996
+Fasting?  Oh okay.
+
+DOCTOR R996
+Okay.
+
+PATIENT R996
+All right.
+
+PATIENT'S BROTHER R996
+One month and three months?
+
+DOCTOR R996
+Yeah.
+
+PATIENT R996
+Well let me go down there and put the needle to the work.
+
+DOCTOR R996
+Okay.  They will mail you out these medications.  Okay.
+
+PATIENT R996
+All right doc.
+
+PATIENT'S BROTHER R996
+The MOVE Program stuff.  He’ll get that mailed out to him also?  
+
+DOCTOR R996
+Yeah.
+
+PATIENT'S BROTHER R996
+Okay.
+
+DOCTOR R996
+Yeah I will call ahead.  Okay.  
+
+PATIENT R996
+Yup.
+
+DOCTOR R996
+Okay, see you in a while.
+
+PATIENT R996
+Okay, doctor.
+
+DOCTOR R996
+Okay. Check out over here.
+
+PATIENT R996
+All right.  Okay.  You got that all squared away?
+
+DOCTOR R996
+Pharm D @@@.  So in three months I will send you a letter. Okay.
+
+PATIENT R996
+All right.  Thanks a lot.  I need to get me some water before I go down there.  Yeah Okay.  Be right there.  
+
+
+Times is 2:50.
+
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1255114
+TRANSACTION # 578-10-2-316-0103

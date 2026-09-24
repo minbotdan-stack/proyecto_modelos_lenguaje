@@ -1,0 +1,1100 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR V472
+PATIENT?
+
+PATIENT V472
+Yes.
+
+DOCTOR V472
+Hello.
+ 
+PATIENT V472
+Hi how are you?
+
+DOCTOR V472
+I'm DOCTOR, nice to meet you.
+
+PATIENT V472
+Nice to meet you.
+
+DOCTOR V472
+How are you doing today?
+
+PATIENT V472
+Okay a little hungry.
+
+DOCTOR V472
+Yeah I'm hungry too so.  No lunch?
+
+PATIENT V472
+I haven't had anything since 10 o'clock last night.
+
+DOCTOR V472
+Oh gosh.
+
+PATIENT V472
+Peanuts.
+
+DOCTOR V472
+Oh no, why is that?
+
+PATIENT V472
+Well I had to fast for my blood tests and then I went to eat and there was nothing I could eat.
+
+DOCTOR V472
+Oh.
+
+PATIENT V472
+Everything's you know, closed up downstairs.
+
+DOCTOR V472
+Oh.
+
+PATIENT V472
+Other than stuff I didn't want to eat.
+
+DOCTOR V472
+Right.  I'm sorry about that, so we need to take care of you and at the hospital here.  Now I haven't seen you before.  I know you've been seen by DOCTOR previously.
+
+PATIENT V472
+I get a different doctor every time I come so I got.
+
+DOCTOR V472
+I know, I know.  We'll they're trying to change things so I'm gonna be here for at least another two more years so it's a little bit better than getting a different doctor every time.
+
+PATIENT V472
+Now I haven't had my diabetes medicine since yesterday morning so.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+I mean that's any difference in my blood tests here.  I can't take them without some food.
+
+DOCTOR V472
+Right.  Okay so let's just kind of start from the beginning.  Um let's go through your medical problems.  So you have diabetes.
+
+PATIENT V472
+Yes.
+
+DOCTOR V472
+How long have you had it?
+
+PATIENT V472
+Uh I don't even know anymore.
+
+DOCTOR V472
+A long time?
+
+PATIENT V472
+Uh yeah.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+Probably uh five or six years.  Five years let's say.
+
+DOCTOR V472
+Okay and before we get into each of your problems I want to try and go through your medications and some other things.  Uh do you take glipizide for your diabetes?
+
+PATIENT V472
+They just changed my one medication from Actos.  I was on Actos for years but I talked to the doctor last time and I told her, you know everything I hear is something about bladder cancer with Actos so she changed it recently, so I take the metformin.  Well I was taking three different kinds of medicine.  Well she got me off the glyburide I think yeah.  I take well geez I don't know the name of the new one she gave, I just got that recently.
+
+DOCTOR V472
+Who gave that to you?  Was it someone from here?
+
+PATIENT V472
+I don't know her name.
+
+DOCTOR V472
+Oh DOCTOR.
+
+PATIENT V472
+Right.
+
+DOCTOR V472
+But let's see what she did for you.
+
+PATIENT V472
+I was concerned about the Actos so she changed me.
+
+DOCTOR V472
+Right.  
+
+PATIENT V472
+So instead of taking three different kinds of medicine a day, I'm taking two.
+
+DOCTOR V472
+Right so you're on metformin one tablet twice a day.
+
+PATIENT V472
+Right, right.
+
+DOCTOR V472
+And then uh glipizide.
+
+PATIENT V472
+Glipizide is that what it is?
+
+DOCTOR V472
+Yeah you were supposed, you were on 5 mg and then she's gonna increase you.
+
+PATIENT V472
+I don't know.
+
+DOCTOR V472
+To 10.
+
+PATIENT V472
+I take two of those a day.
+
+DOCTOR V472
+Right and she was going to increase you to 10 if your um 2 hour post meal sugars are not less than 140 um.
+
+PATIENT V472
+Okay I've been having trouble with my meter lately so I haven't really been checking myself.  I'm waiting for a new one.
+
+DOCTOR V472
+Okay.  
+
+PATIENT V472
+So she's looking for 40s, 140s two hours after I eat?
+
+DOCTOR V472
+Yeah.
+
+PATIENT V472
+Alright I'll keep that in mind.  And I couldn't take a urine test today because I just got, when I walked in I went to the bathroom cause they usually don't ask me for that.  They just usually ask me for the blood work.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+So I didn't uh, I didn't do that part of the test or lab work.  Plus I was on the uh Levitra and they changed it to Viagra.
+
+DOCTOR V472
+Viagra yeah.
+
+PATIENT V472
+That's another thing I want to talk to you about because I got to keep calling this in.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+Every month and they gotta ask the doctor to refill the prescription.
+
+DOCTOR V472
+Right.
+
+PATIENT V472
+I want that prescription refilled so I don't have to keep doing that.
+
+DOCTOR V472
+Sure.
+
+PATIENT V472
+If you would do that for me please.
+
+DOCTOR V472
+Yeah sure.
+
+PATIENT V472
+Every time I call they say it's not refillable and I want it to be refillable.
+
+DOCTOR V472
+Understandable.  And you're um.
+
+PATIENT V472
+100 mg.
+
+DOCTOR V472
+And your metformin I'm gonna renew that that since that has expired.
+
+PATIENT V472
+Please.
+
+DOCTOR V472
+Um your glipizide needs a refill and the @@@.
+
+PATIENT V472
+Oh yeah plus I'm taking the thyroid medication too.
+
+DOCTOR V472
+Uh-huh.
+
+PATIENT V472
+How's that looking on my blood work?
+
+DOCTOR V472
+Lets take a look.  So your, actually it looks pretty good.  Your TSH is actually a little bit low which means the thyroid hormone may be a little higher than it needs to be but I'm going to let DOCTOR manage that.
+
+PATIENT V472
+And how about my diabetes?  How is that going?
+
+DOCTOR V472
+Diabetes not looking so good.  So your glycosylated hemoglobin is 9, let's see what it was in the past.  So it was 7.2 just as early as January.  7.2 is actually not bad.  The goal is less than 7.  9 is really high.  So let me ask you, have you been able to take all of your medications?
+
+PATIENT V472
+Yeah, well because I was on the Actos before.
+
+DOCTOR V472
+Okay. 
+
+PATIENT V472
+That's probably the problem.  She might have to up the uh, that new one she's giving me.
+
+DOCTOR V472
+Right.  So you were on Actos.
+
+PATIENT V472
+Metformin and.
+
+DOCTOR V472
+So the only thing she did was she stopped Actos.
+
+PATIENT V472
+And gave me the new medicine but I was taking three different medicines.
+
+DOCTOR V472
+Sure.
+
+PATIENT V472
+Now I'm taking two.
+
+DOCTOR V472
+Alright let me just look.
+
+PATIENT V472
+So apparently the change is not good.  Cause I was consistently around 7 before on my on that, with the Actos.
+
+DOCTOR V472
+Right.  
+
+PATIENT V472
+I was just a little, little high before with the Actos and I don't think I've been that high for a long time.  Maybe I better go back to the Actos.
+
+DOCTOR V472
+Yeah let's see.  So, let me look at her note and see.  Right so she stopped your Actos and switched your glyburide to glipizide okay.  So really, the total effect is that you have a little bit less medication on board now.  Um let's see when your next appointment with her is.  You know, you're supposed to see her three months from your last appointment which was January 26th and you don't have one scheduled so I would actually call her clinic and try to schedule an appointment.
+
+PATIENT V472
+Yeah but when I call it's gonna take probably at least two months to get in.  I'd like to do something about this medication now.
+
+DOCTOR V472
+We can probably increase your glipizide to 10 and I'll check with my attending too.  Cause you're already on that metformin 1000, we can also increase that as well but uh.
+
+PATIENT V472
+Well she told me that it was a low dosage of the new medication she was giving me.
+
+DOCTOR V472
+Right, right.
+
+PATIENT V472
+And if there was a problem she would increase it but obviously something is not good.
+
+DOCTOR V472
+Right.  
+
+PATIENT V472
+Oh maybe I should have just stayed on the Actos I don't know.
+
+DOCTOR V472
+Okay well I wouldn't get too stressed about it just yet um.  You know we can increase the one medication and see how that does.  There's a lot of other medications out there so you don't have to take Actos, although it does work well.  Um let me ask you a few more questions.  So and the @@@ you take 5 mg every day right?
+
+PATIENT V472
+I take uh.
+
+DOCTOR V472
+One tab.
+
+PATIENT V472
+Two of the metformin.
+
+DOCTOR V472
+Uh-huh.
+
+PATIENT V472
+Two of the other one, whatever that is, two of the other diabetes medicines.
+
+DOCTOR V472
+Right.
+
+PATIENT V472
+And the one thyroid pill.
+
+DOCTOR V472
+Uh and let me just ask you some history questions because I've never met you before.  Uh do you smoke cigarettes?
+
+PATIENT V472
+No I quit 3 1/2 years ago.
+
+DOCTOR V472
+Good.  Um how much did you used to smoke?
+
+PATIENT V472
+Two packs a day.
+
+DOCTOR V472
+Okay. (Doctor sneezed)
+
+PATIENT V472h
+Bless you.
+
+DOCTOR V472
+Thank you.  Uh any use of illicits like uh marijuana, cocaine?
+
+PATIENT V472
+In my youth yes, not for many years.
+
+DOCTOR V472
+Okay.  And are you working?
+
+PATIENT V472
+No I'm retired.
+
+DOCTOR V472
+Okay.  What did you used to do?
+
+PATIENT V472
+I was a surveyor.
+
+DOCTOR V472
+Alright and who lives with you at home?
+
+PATIENT V472
+Nobody.
+
+DOCTOR V472
+Now do you do your own cooking or do you eat out?
+
+PATIENT V472
+Yes I do my own cooking.
+
+DOCTOR V472
+So you feel like your diet is pretty good?
+
+PATIENT V472
+Yeah I was a cook in the Marine Corps for three years.
+
+DOCTOR V472
+Oh really.
+
+PATIENT V472
+So I'm a pretty good cook.
+
+DOCTOR V472
+Awesome.  Alright and how about exercise?  What kind of exercise do you do?
+
+PATIENT V472
+Yeah I walk, but I'm not, just lately, within the last year probably I've kind of slacked off more than I should.  I'm gonna get back with it here pretty soon now that the weather's warming up.  I was riding a bike and walking every day.  Of course as a surveyor that's all I did, I walked all day so.  When I was working.
+
+DOCTOR V472
+So you retired recently?
+
+PATIENT V472
+Uh a couple years ago yeah.
+
+DOCTOR V472
+Okay.  Okay and any alcohol use?
+
+PATIENT V472
+Yeah I have probably 6-8 beers a week, something like that.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+That's all, no hard liquor.
+
+DOCTOR V472
+Have you ever had periods in your life where you were drinking a lot more than that?
+
+PATIENT V472
+Oh yeah.
+
+DOCTOR V472
+Yeah.
+
+PATIENT V472
+When I was younger yeah.
+
+DOCTOR V472
+Okay.  Alright any family history of any cancers?
+
+PATIENT V472
+My grandfather died of lung cancer.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+My father died of emphysema.  My mother heart disease.  I'm the only person in my family with diabetes.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+I get a little money from the VA for the Agent Orange from Vietnam.
+
+DOCTOR V472
+Gotcha.  Now for your diabetes do you follow with a foot doctor at all?
+
+PATIENT V472
+No.  I had a claim in for neuropathy in my feet and they gave me 10% of the one big toe.
+
+DOCTOR V472
+Uh-huh.
+
+PATIENT V472
+But I broke my foot at work years ago and it's, the VA's claiming that that's why I have pain in my other foot which is a bunch of crap but they don't want to pay me so that's why they say that.
+
+DOCTOR V472
+And the eye doctor, have you ever had any eye tests done?
+
+PATIENT V472
+Eh…Before my insurance lapsed after I retired I had a prescription for glasses.  My eyes are getting weaker too.  I don't know about the VA's policy on glasses cause I can't afford to go to an eye doctor right now so.
+
+DOCTOR V472
+Right.
+
+PATIENT V472
+I need, I wear reading glasses.
+
+DOCTOR V472
+Let me look at your last one.  So we basically with any patient with diabetes we screen for retinopathy.
+
+PATIENT V472
+Right.
+
+DOCTOR V472
+So let me see, you did have a test done in 2010 um.  And it basically said that you did not have diabetic retinopathy but your exam was abnormal cause you might have macular changes.  Does that ring a bell @@@?
+
+PATIENT V472
+No.
+
+DOCTOR V472
+Okay.  And you were supposed to be sent to Optometry.
+
+PATIENT V472
+I never heard anything more about it after that test.
+
+DOCTOR V472
+Okay so maybe I'll put in a consult um.
+
+PATIENT V472
+I need a new prescription for my glasses and you know they gave me, I went to you know a regular eye doctor before because I still had insurance till a year after I retired.
+
+DOCTOR V472
+Uh-huh.
+
+PATIENT V472
+And they gave me bifocals and I can't wear them.  I can't stand them.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+So I need uh, I probably need glasses.  I need some new glasses and uh not bifocals.
+
+DOCTOR V472
+Right okay.
+
+PATIENT V472
+But yes definitely, my eyes are getting weaker I can tell just by sitting at the computer or reading.
+
+DOCTOR V472
+Right.  Now have you ever been on medication for your blood pressure?
+
+PATIENT V472
+No.  My blood pressure's always been pretty decent.
+
+DOCTOR V472
+Okay.  Um.
+
+PATIENT V472
+But I would like to bring that back down closer to 7 than 9 on my diabetes you know.
+
+DOCTOR V472
+Sure.
+
+PATIENT V472
+That's not good news.  I'm not used to hearing that.  
+
+DOCTOR V472
+Alright do you get flu shots yearly?
+
+PATIENT V472
+No.
+
+DOCTOR V472
+You choose not to?
+
+PATIENT V472
+I choose not to.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+I got one and I got sick one time, that was it for me.  
+
+DOCTOR V472
+Alright.
+
+PATIENT V472
+I had a bad case of the flu probably oh three or four years ago.  I had it real bad, was really sick for a week.  Five days I was in bed.  
+
+DOCTOR V472
+Now have you ever had the shingles shot?
+
+PATIENT V472
+No.
+
+DOCTOR V472
+Is that something you are interested in?
+
+PATIENT V472
+Yes.  My mother had the shingles and I certainly don’t want that. 
+
+DOCTOR V472
+Okay. I can order that for you today.
+
+PATIENT V472
+How often do you have to get a booster for that?
+
+DOCTOR V472
+You just get it once.
+
+PATIENT V472
+That is it?  You’re done?
+
+DOCTOR V472
+Hm hmm.
+
+PATIENT V472
+Lifetime shot?
+
+DOCTOR V472
+Well because we don’t give it to people until they are older anyway.
+
+PATIENT V472
+Wait a minute.  How old do you think I am?
+
+DOCTOR H43
+When you’re younger you have immunity from chicken pox.  Have you had chicken pox?
+
+PATIENT V472
+Yea I had everything.  German measles, measles, chicken pox.  You name it I had it all.
+
+DOCTOR V472
+There is also something called PSA; that is the prostate enzyme and you had one done in 2010 and it was normal at 0.88.  So it is up to you if you would like to follow that.  I would not recommend it unless you are having symptoms of you know problems urinating or 
+
+PATIENT V472
+I have a weak stream sometimes.  I don’t know if that is from the diabetes.
+
+DOCTOR V472
+It is probably from the diabetes but it could also be from prostate enlargement.  
+
+PATIENT V472
+I don’t have any prostate problems are far as I know.  I have erection problems because of diabetes.
+
+DOCTOR V472
+Sure.
+
+PATIENT V472
+That is why I want to make sure you give me the prescription for the @@@.
+
+DOCTOR V472
+So if you want we can follow it, the PSA as well.
+
+PATIENT V472
+Well that is up to you.  I mean what do you think @@@?
+
+DOCTOR V472
+I can order it for the next time you come in @@@ and we will make sure it is not rising.
+
+PATIENT V472
+Well right, right. I mean I take a blood test anyways so I don’t see any harm in it.  Also I will take the urine test the next time I come in too.
+
+DOCTOR V472
+Alright, and do you know if you have ever been screened for abdominal aortic aneurysm?
+
+PATIENT V472
+No.
+
+DOCTOR V472
+No you have not or @@@.
+
+PATIENT V472
+I don’t think that I have.
+
+DOCTOR V472
+Okay.  So for anybody who is a previous smoker and male, we do one screening test after the age of 65.  Basically it shows us an aneurysm in your belly.
+
+PATIENT V472
+I am 63.
+
+DOCTOR V472
+Right.  We have to document that we talked to you about this and that you’d be willing to do it at some point.
+
+PATIENT V472
+I am going to do it yes.
+
+DOCTOR V472
+Okay.
+
+DOCTOR V472
+Now um okay, so I'm going to have to talk to my attending about a couple of things in terms of your eyeglasses um and then getting you in to see the eye doctor and then your diabetes medications.
+
+PATIENT V472
+Yeah.
+
+DOCTOR V472
+Um and then I'll order your shingles shot as well.
+
+PATIENT V472
+Like I said here, if they have to, I know just by phone to get in to see the doctor it takes at least a couple of months and I don't want to wait that long for the diabetes medicine you know.
+
+DOCTOR V472
+Right.
+
+PATIENT V472
+If that's worse.
+
+DOCTOR V472
+Right.  Alright, let me have you sit up here for me and I'll get you examined.  I'll listen to your neck first okay.  Just going to listen to your heart.  Alright deep breaths in and out, through your mouth.  Alright can you open your mouth and stick out your tongue.  Okay.  I’m just going to feel your pulse.  Okay do you mind taking your shoes and socks off for me?
+
+PATIENT V472
+No.
+
+DOCTOR V472
+We'll do a quick foot exam.  Have you ever had one of these tests done?  Monofilament?  Basically what I'm gonna do, I'm going to have you close your eyes and I'm going to poke you in six spots and you need to tell me which toe you feel it in.
+
+PATIENT V472
+Oh yeah I've it done several times.
+
+DOCTOR V472
+Yeah I'm sure you have.  Anybody with diabetes needs to do this, especially if you're not seeing a foot doctor we do it at least.
+
+PATIENT V472
+I had a lot of, I have some numbness.
+
+DOCTOR V472
+Okay relax your leg for me completely.  Relax it.
+
+PATIENT V472
+It's relaxed.
+
+DOCTOR V472
+Okay.  Alright close your eyes and tell me if you can feel this.
+
+PATIENT V472
+I can feel it.
+
+DOCTOR V472
+Where?
+
+PATIENT V472
+Bottom of my foot.
+
+DOCTOR V472
+Well you got to tell me which toe.
+
+PATIENT V472
+It doesn't feel like my toe, it feels like my foot.
+
+DOCTOR V472
+So below which foot?
+
+PATIENT V472
+Below my, I don't know I mean I can't tell.
+
+DOCTOR V472
+Can you tell where this one is?
+
+PATIENT V472
+The little one I think.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+Big one.  Below the bigger one or second one I don't know.
+
+DOCTOR V472
+Okay is this usually where you have your numbness in this area?
+
+PATIENT V472
+No it's on this foot.
+
+DOCTOR V472
+Okay.  Right direction.
+
+PATIENT V472
+Well yeah I got it on the big toe on here, on this one.
+
+DOCTOR V472
+Yes.  Okay, relax your foot, your left.  Don't look.  Can you feel this?
+
+PATIENT V472
+A little.  I don't know which toe, second toe, I don't.
+
+DOCTOR V472
+You feel it but you can't tell me where?
+
+PATIENT V472
+Yeah.
+
+DOCTOR V472
+Okay.  
+
+PATIENT V472
+This is the one I got crushed.  This foot was completely crushed.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+I had a four inch steel pin through my big toe I had no joint in that toe.
+
+DOCTOR V472
+Oh boy.
+
+PATIENT V472
+Okay I got it completely crushed.  I cut the, severed the tendons in between my first two toes there.  I had a puncture wound on top of it.
+
+DOCTOR V472
+Oh boy.
+
+PATIENT V472
+And my whole foot is.
+
+DOCTOR V472
+Yeah can you feel my fingers here?
+
+PATIENT V472
+Yeah.
+
+DOCTOR V472
+And here?
+
+PATIENT V472
+Yeah.  Here's the numb part is right here.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+I was run over by a machine that weighed tons.
+
+DOCTOR V472
+Oh my goodness.  Okay.
+
+PATIENT V472
+Yeah the big toe on the right foot is the problem.  But the circulation seems to be okay I don't know.  Are you finished?
+
+DOCTOR V472
+Yes.  I'm going to go talk to my attending and then I'll be back.
+
+PATIENT V472
+Okay.  Yeah like I say you're gonna give me the prescription for the Viagra so I don't have to keep calling in?
+
+DOCTOR V472
+Yes I just put it in.  They don't let you pick it up unfortunately.
+
+PATIENT V472
+No they mail it to me.
+
+DOCTOR V472
+They'll send it through the mail yeah.
+
+PATIENT V472
+Oh that's fine.  It's just that every month that I call they tell me it's not refillable.
+
+DOCTOR V472
+Right.
+
+PATIENT V472
+I just want it to be refillable so I don't have to go through that, plus I'd like to get my diabetes medicine straightened out as soon as possible too.
+
+DOCTOR V472
+Absolutely.
+
+(DOCTOR OUT:  109:20  DOCTOR IN:  118:25)
+
+DOCTOR V472
+Hey okay a few things, so um I'm going to put in a referral to the Eye Clinic for you.  I don't know what they can or can't do but we'll see.  Um and then for you're feet, I'm actually going to put in a referral to Podiatry as well, even though some of the abnormalities on your exam may just from the history of you know the trauma to your feet.  But I do want them to take a look just to make sure.  Um and then also you're um, for your diabetes, call the Clinic today and tell them you were supposed to be seen in three months and hopefully they can get you in sooner but in the meantime I will increase your glipizide to 7.5 twice a day.  The reason for that is because we don't, you haven't been checking your blood sugars at home right?  So what's the story with the glucometer cause I'm looking in the notes and it looks like two months ago she had given you a phone number to call.
+
+PATIENT V472
+Yeah I called them and I'm still waiting.
+
+DOCTOR V472
+Oh really.  Do you want that number again?  Maybe you should.
+
+PATIENT V472
+Yeah I'll call them again.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+What now, the medicine that I'm taking, should I take more of those than I already have?
+
+DOCTOR V472
+Right, so I'm going to do, I'm going to change it to 7.5 um so you can actually pick that up maybe at the Pharmacy today um.
+
+PATIENT V472
+Just have them mail it to me because I have it at home now.
+
+DOCTOR V472
+Oh sure.
+
+PATIENT V472
+Can I just take more of what I have?
+
+DOCTOR V472
+Sure, sure.  You are allowed to do that.  And then the other thing um.
+
+PATIENT V472
+Yeah because I just got a new prescription for that.
+
+DOCTOR V472
+Right, okay.  That's not a problem.
+
+PATIENT V472
+How much do I take?
+
+DOCTOR V472
+7.5.
+
+PATIENT V472
+Which is what?
+
+DOCTOR V472
+So you are taking.
+
+PATIENT V472
+How many pills?
+
+DOCTOR V472
+Right now you're taking 5 mg twice a day.
+
+PATIENT V472
+Two pills I take.
+
+DOCTOR V472
+So you take one pill twice a day right?
+
+PATIENT V472
+Yeah.
+
+DOCTOR V472
+Right.  So you would take 1 1/2 twice a day.
+
+PATIENT V472
+One and a half.
+
+DOCTOR V472
+Or you could wait for five or six days until you get the new medication sent to you so there's no confusion.
+
+PATIENT V472
+I don't take four of them, three of them?
+
+DOCTOR V472
+Well because you've had.
+
+PATIENT V472
+How many do I take?
+
+DOCTOR V472
+The dose already, once I give you the 7 1/2, let me see what happens when I do that one.
+
+PATIENT V472
+If I take three of those a day it'll be the same thing right?
+
+DOCTOR V472
+Uh kind of.  You're supposed to uh, you're supposed to take it twice a day because of the way it works so I would not recommend you taking it that way but let me, when I order it um okay 7.5.
+
+PATIENT V472
+Or I could take two in the morning and one later on during the day maybe, something like that?
+
+DOCTOR V472
+So yeah it's going to make you take 1 1/2 tabs twice a day.  That's the only way, they don't have 7.5 tabs.
+
+PATIENT V472
+Three total for the day.
+
+DOCTOR V472
+Yeah so you cut one in half and take half in the morning and half in the evening.  You have to take it that way because of the way the medication works.  You can't take too much at once and a little bit you know at night because your sugar is going to change and vary as well.
+
+PATIENT V472
+In the meantime you're going to add, you're going to give me a different prescription right?
+
+DOCTOR V472
+Yeah I just ordered it.  So even the different ones they're gonna make you take one and a half cause there's no such thing as a 7.5 pill here at the VA.  Um, now I wanted to ask if you'd be interested in talking to the MOVE Clinic.  I don't know if you've ever done that before.
+
+PATIENT V472
+What's that's about?
+
+DOCTOR V472
+So basically um it's a clinic where they discuss, it's kind of like an exercise program but they also discuss diet and.
+
+PATIENT V472
+No I know what to do.  I just got to get off my butt and do it.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+I think I had a, I cancelled that one time a long time ago.
+
+DOCTOR V472
+Sure.
+
+PATIENT V472
+No I know what I have to do.
+
+DOCTOR V472
+And then the other thing I wanted to talk to you too about is that your liver enzymes are slightly elevated and it looks like, if I go back.
+
+PATIENT V472
+They were before too I think and I think.
+
+DOCTOR V472
+They, they’ve always been elevated but not this high so they're kind of going up a little bit.
+
+PATIENT V472
+Okay and the doctor told me that that thyroid medicine.
+
+DOCTOR V472
+Will do that.
+
+PATIENT V472
+Could be a problem.
+
+DOCTOR V472
+Yeah.  So it could be from that and the other thing we can do is do a liver ultrasound to make sure there is no abnormalities on that, any cysts or masses or um any fibrosis.
+
+PATIENT V472
+Let's do it.
+
+DOCTOR V472
+Okay.  So I will order that for you as well.  
+
+PATIENT V472
+She told me if I had any pains in my side.
+
+DOCTOR V472
+Uh-huh.
+
+PATIENT V472
+That to stop taking that thyroid medicine.
+
+DOCTOR V472
+Have you had any pains?
+
+PATIENT V472
+I had a little bit when I first started taking it, nothing real serious but.
+
+DOCTOR V472
+Okay.
+
+PATIENT V472
+I've never had any trouble with my liver before as far as I know.
+
+DOCTOR V472
+Let me order your shingles shot as well.  
+
+PATIENT V472
+Okay so I can go ahead and increase this, the diabetes medicine.
+
+DOCTOR V472
+You can do that today.
+
+PATIENT V472
+And you're going to order me a different dosage right?
+
+DOCTOR V472
+Correct.  You should have that within a week.
+
+PATIENT V472
+Okay.
+
+DOCTOR V472
+And I want you to call that number to get another glucometer and if you have any problems call back here and we can try to work on that.  Um.
+
+PATIENT V472
+Okay.  Now the new prescription what, that'll still be 1 1/2, that'll still be 1 1/2.
+
+DOCTOR V472
+It'll be the same exact thing that you're gonna take starting today.
+
+PATIENT V472
+Okay.
+
+DOCTOR V472
+But it'll say on the bottle 1 1/2.
+
+PATIENT V472
+Okay.  I don't like to hear that, you know I thought I was getting the diabetes pretty much under control here because I was always right around 7.
+
+DOCTOR V472
+Uh-huh.
+
+PATIENT V472
+That doesn't make me too happy to hear that it's up to 9, even though I don't really know what I'm talking about with these numbers but it's.
+
+DOCTOR V472
+Alright I'm going to order this uh.
+
+PATIENT V472
+I had my heart checked and I had an ultrasound done on my chest and all that stuff before.
+
+DOCTOR V472
+Uh-huh.
+
+PATIENT V472
+Not my liver.  Now I never really have any pain.  Like I said when I first started taking it, thyroid medicine, I thought I felt a little dull pain a few times but nothing severe and I haven't had it for a while so.  
+
+DOCTOR V472
+Alright, so let me see if I can find a nurse who can give you the zoster shot.  I'm actually going to have you walk out here with me.
+
+PATIENT V472
+Okay.  Oops, I forgot think I dropped my glasses.  I got my glasses here.  
+
+DOCTOR V472
+Alright she's going to help you out with the shot you get today and then she'll get you scheduled with your ultrasound for you.
+
+PATIENT V472
+And the glasses and the whole business.
+
+DOCTOR V472
+I'll do all of that, there's a clinic who will call you and can get you in.
+
+PATIENT V472
+Thank you very much.
+
+DOCTOR V472
+Alright take care.
+
+PATIENT V472
+Nice to meet you thank you.
+
+DOCTOR V472
+I'll see you in a few months okay.
+
+PATIENT V472
+Thank you.
+
+PATIENT LEAVES:  126:4
+
+Time is 4:40.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255124
+TRANSACTION # 578-10-2-316-0103

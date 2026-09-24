@@ -1,0 +1,1194 @@
+Date of Encounter:   @@/@@/@@  
+Time of Encounter:   @@@
+
+DOCTOR K343
+PATIENT?
+
+PATIENT K343
+Yes.
+
+DOCTOR K343
+How are you sir?
+
+PATIENT K343
+Fine.
+
+DOCTOR K343
+Nice to see you again.
+
+PATIENT K343
+You too.
+
+DOCTOR K343
+It's been a while.  Come on back here.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+How you doing today?
+
+PATIENT K343
+Hmm the same.
+
+DOCTOR K343
+Hanging in there?
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+Trying to figure out @@@ huh.
+
+PATIENT K343
+Uh, yeah two of @@@ now.
+
+DOCTOR K343
+Oh it looks like the sun's coming out.
+
+PATIENT K343
+Yeah.  It was raining when I first got here.
+
+DOCTOR K343
+Oh yeah, it was raining when I left the house at 6 something this morning.  Yeah it was really coming down.  So we'll go over a few things, go ahead and take a seat.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Run through your medicines and what not.
+
+PATIENT K343
+I need to have some of my medicine refilled I guess.
+
+DOCTOR K343
+Sure, well not a problem.  We'll take good care by all means. Um let's see, no I don't know that I've seen you before.  This may be the first time I'm meeting you.
+
+PATIENT K343
+I think so.
+
+DOCTOR K343
+I'm going to take a look.  Oh no last year I saw you in August.
+
+PATIENT K343
+Oh last year.
+
+DOCTOR K343
+Yeah.
+
+PATIENT K343
+So that could be that I don't remember everybody's face you know.
+
+DOCTOR K343
+That's alright @@@.  I thought I recognized you.  So today you're here for medication review, anything is new or any other complaints?
+
+PATIENT K343
+Uh not really uh.
+
+DOCTOR K343
+Okay.
+
+PATIENT K343
+I'm going to get my knee replaced sometime.
+
+DOCTOR K343
+Sure.
+
+PATIENT K343
+But I don't know when.
+
+DOCTOR K343
+Have you already seen the doctor about that?
+
+PATIENT K343
+Well yeah but I can't get it done until um probably in late fall or maybe early spring.
+
+DOCTOR K343
+And that's because?
+
+PATIENT K343
+Because my wife is sick and all that.
+
+DOCTOR K343
+Oh, oh okay.
+
+PATIENT K343
+You know that's, but I need a bunch of the medicine refilled.  I don't know what some of this stuff is.  @@@.
+
+DOCTOR K343
+@@@ by all means, sometimes if you don't know what it is that means you won't take it.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+So we better make sure you know uh exactly what's going on with your health.
+
+PATIENT K343
+Well I know what some of them are.
+
+DOCTOR K343
+How are you, okay let's go through them.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+You tell the names they are, I have them in front of me as we go through them I'll tell you what they're for.
+
+PATIENT K343
+Okay, yeah, this one has got 11 refills, this has got 3 refills.  
+
+DOCTOR K343
+Albuterol, allopurinol.  This one's for breathing.
+
+PATIENT K343
+Right.
+
+DOCTOR K343
+That one's for gout.
+
+PATIENT K343
+Right.
+
+DOCTOR K343
+Let me see if you have enough refills on that.  Three refills on the allopurinol so that's nine months.
+
+PATIENT K343
+Yeah I know, I don't need that one.
+
+DOCTOR K343
+Good.
+
+PATIENT K343
+But the uh.
+
+DOCTOR K343
+Allopurinol you're good.
+
+PATIENT K343
+Yeah.  The other one is the.
+
+DOCTOR K343
+Amlodipine.
+
+PATIENT K343
+Yeah, what's that?
+
+DOCTOR K343
+That one's for your blood pressure.
+
+PATIENT K343
+Okay and there's no refills left on that.
+
+DOCTOR K343
+Okay.  I will renew it.  Do you want me to send it to you in the mail?
+
+PATIENT K343
+Well I think I have it at home.
+
+DOCTOR K343
+Do you have enough for a week or so?
+
+PATIENT K343
+Oh yeah, yeah I'm sure I do.
+
+DOCTOR K343
+These are some we'll send in the mail then.
+
+PATIENT K343
+Yes.
+
+DOCTOR K343
+Will that work out okay for you?
+
+PATIENT K343
+Yeah that's fine, that's fine.
+
+DOCTOR K343
+Okay.
+
+PATIENT K343
+And uh calcium that's going to expire too but I filled that.
+
+DOCTOR K343
+Calcium, looks like you have one refill left.
+
+PATIENT K343
+Right.
+
+DOCTOR K343
+That's the calcium vitamin D yeah.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+Do you want me to give you some new refills?
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+Let's do that.  I'll give you three more refills for that.
+
+PATIENT K343
+Okay.  Coricidin I don't need, that's four.
+
+DOCTOR K343
+Okay.
+
+PATIENT K343
+And uh flunisolide or whatever that is, that's what I get.
+
+DOCTOR K343
+Flunisolide, that's for the spray in the nose.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+I see you have fluticasone, you have two of them.  We probably don't need both.  One's a steroid; they're both steroid-like.  Do you use both of them?
+
+PATIENT K343
+What uh, yes I do.
+
+DOCTOR K343
+You use both.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+Okay.  So you need a refill on the fluticasone.  The flunisolide looks like you have five refills left.
+
+PATIENT K343
+Yeah the other one I don't need that one.
+
+DOCTOR K343
+So you just need this one.
+
+PATIENT K343
+Right, okay.  
+
+DOCTOR K343
+That we can do.
+
+PATIENT K343
+Okay and the flunisolide has three refills.  Okay what is this thing?
+
+DOCTOR K343
+Oh let me see.
+
+PATIENT K343
+Oh that's my injection thing.
+
+DOCTOR K343
+Yep.
+
+PATIENT K343
+It says no refills but I don’t know.
+
+DOCTOR K343
+I'm not going to refill that.  That's the implant that they put in there, you know what I mean, for your, that's from the Urology Clinic.
+
+PATIENT K343
+Right.
+
+DOCTOR K343
+So that's not something that I would do.
+
+PATIENT K343
+Okay that's fine.
+
+DOCTOR K343
+Yeah.
+
+PATIENT K343
+Uh because I don't have, they’ll let me know.  I have 84 days before I can jump. 
+DOCTOR K343
+Yeah.
+
+PATIENT K343
+But the indomethacin that's gone.
+
+DOCTOR K343
+That's for the gout.
+
+PATIENT K343
+Right.
+
+DOCTOR K343
+Uh do not until you finish the prednisone, so when did that get refilled?  Did you have a gout attack recently?
+
+PATIENT K343
+No but that keeps it away.
+
+DOCTOR K343
+Do you take that all the time?
+
+PATIENT K343
+Yep.
+
+DOCTOR K343
+Well you just need to be careful, that one can be dangerous to your kidneys.
+
+PATIENT K343
+I know that what's they said.
+
+DOCTOR K343
+Yeah.
+
+PATIENT K343
+But I've been on it so long and I don't have any kidney problems.
+
+DOCTOR K343
+Well I don't want to just blindly refill it.  Let me uh; let me look at it closely here.
+
+PATIENT K343
+Cause I've been taking @@@ too.
+
+DOCTOR K343
+Yeah you're taking a lot of things for your gout and has been troublesome for you before?
+
+PATIENT K343
+Oh it can.
+
+DOCTOR K343
+Uh-huh.
+
+PATIENT K343
+When I had the surgery on my knee they took me off that.  Three days later the underneath swelled up.
+
+DOCTOR K343
+Oh yeah.
+
+PATIENT K343
+And it hurt worse than surgery did.  But the indomethacin I've actually for, I bet you 15 years or more.
+
+DOCTOR K343
+Yeah.  Well your kidneys are not entirely normal last time they were checked.
+
+PATIENT K343
+Well he put me on another one that I don't know, I don't two capfuls a day, I only take one because they put me on some other things that supposedly easier.  I don't know what the name of it is.
+
+DOCTOR K343
+Allopurinol?
+
+PATIENT K343
+What is that?
+
+DOCTOR K343
+And colchicine.  You take a lot of medicines for gout.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+I don't know, I don't know that I feel very comfortable giving you the indomethacin.  Let me talk it over with my attending.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Your renal function here is not great.  Normally for you it probably would be about 1 and that's the creatinine I look at.  The last time it was checked was about a year ago and it was 1.7, so what I want to do is probably check it again today before I refill that.
+
+PATIENT K343
+Okay, that's fine.
+
+DOCTOR K343
+To make sure your kidneys are doing okay cause we don't want to put you into kidney failure.
+
+PATIENT K343
+No.
+
+DOCTOR K343
+I think we'll hold off on refilling that one for now, until we get your blood work back okay.
+
+PATIENT K343
+Okay.  I was going to ask you, do I have to go downstairs to get the blood work?
+
+DOCTOR K343
+Yeah you're going to have to.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Looks like you had your PSA drawn not long ago.
+
+PATIENT K343
+Yeah the other day.  I think Monday or so I think it was, it whatever.
+
+DOCTOR K343
+Yeah.  @@@.
+
+PATIENT K343
+@@@ omeprazole.
+
+DOCTOR K343
+Omeprazole that's for your stomach.
+
+PATIENT K343
+Oh there's no refills up on that.
+
+DOCTOR K343
+Do you have, did they give it for you for GERD?  Let's take a look.
+
+PATIENT K343
+I don't know what they gave it to me for.
+
+DOCTOR K343
+Yeah I remember this.  We talked about this before.  I'm looking at my note from August and in this note I said encouraged to titrate off indomethacin due to chronic renal insufficiency but you were very hesitant.
+
+PATIENT K343
+I was and I think I still am.
+
+DOCTOR K343
+Yeah.  Would like to see improvement 20% @@@.  Yeah that's right we gave you the allopurinol at a renal dose.  Yeah and we started colchicine.  I remembered all this now, it's all coming back.  It's all coming back.  It's been a while.  Hmm and hold off on knee replacement due to medical illness of wife.  Yeah I remember all that.  I'm just reading through my previous notes.  Um what I think would be reasonable is to see what happens if we stop the indomethacin because we now started a new medicine the colchicine.  Have you been taking that pretty regularly?
+
+PATIENT K343
+Yeah I take one tablet a day or whatever it is.
+
+DOCTOR K343
+Yeah.  It's one tablet every day.
+
+PATIENT K343
+Yeah one tablet in the morning every day.
+
+DOCTOR K343
+Let me talk with my boss and we'll get repeat labs too and uh it may be worthwhile.  The reason I said is we don't want to hurt your kidneys.  
+
+PATIENT K343
+Well I know I understand that.
+
+DOCTOR K343
+Yeah that's the only reason.  We talked about that last time.
+
+PATIENT K343
+Right.
+
+DOCTOR K343
+Uh the omeprazole I can refill, that's not a problem and I'll send you that in the mail.  Let me advise him about the colchicine.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+I'm sorry the indomethacin.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Okay other question, other @@@ on the medicine?
+
+PATIENT K343
+No I think that's everything.  Make sure we’re on the same page.
+
+DOCTOR K343
+How about the metoprolol do you still take that?
+
+PATIENT K343
+Uh, I take a half tablet by mouth yeah.  I do take that.
+
+DOCTOR K343
+You've got two refills so I'm going to give you some more.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+And the other one that we need to talk about is your, is the two medicines that are expired.  One is the simvastatin, that's your cholesterol medicine.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+You're only taking a half a tablet at bedtime?
+
+PATIENT K343
+Yeah @@@.
+
+DOCTOR K343
+Do you still have it?
+
+PATIENT K343
+Yeah they still had some.
+
+DOCTOR K343
+You still have some but it looked like it expired already.  I'm going to refill then okay.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+And then they'll send you some in the mail.  @@@ seven days @@@.
+
+PATIENT K343
+That's right you went to Michigan State didn't you?
+
+DOCTOR K343
+I did, I did.  I think we talked about this last time.
+
+PATIENT K343
+Yeah, I think we did.
+
+DOCTOR K343
+You went to uh you had a daughter or you had somebody that went to Michigan right?
+
+PATIENT K343
+Oh my uh my wife's husband went to Michigan State and then one of the daughters went there.
+
+DOCTOR K343
+Okay.
+
+PATIENT K343
+But the other daughter went to the University of Michigan.
+
+DOCTOR K343
+Gotcha, so there was a little bit of a battling.
+
+PATIENT K343
+Just somewhat.
+
+DOCTOR K343
+Just somewhat.
+
+PATIENT K343
+(Laughter)
+
+DOCTOR K343
+And you're from Michigan originally right?
+
+PATIENT K343
+Right, right.
+
+DOCTOR K343
+We'll give you @@@ okay, I'm going to reorder that.  I reordered that medicine yeah so, we'll see, it should be an interesting year this year for Michigan State.
+
+PATIENT K343
+Uh-huh.
+
+DOCTOR K343
+You think the football season's going to go okay?
+
+PATIENT K343
+I would think so.  Well they've changed one of the coaches and all that so.  You know how that goes; if you don't win they get rid of you.
+
+DOCTOR K343
+@@@.  Okay I'm going to send you a refill on the statin medicine.
+
+PATIENT K343
+But really check on the indomethacin because.
+
+DOCTOR K343
+I will yeah.
+
+PATIENT K343
+Uh I've been taking that so long and I haven't had any problems.
+
+DOCTOR K343
+Yeah.  I know it's a good medicine for your knee and it'll work well both with your knee pain but we definitely have to be careful with that kidney.
+
+PATIENT K343
+Yeah I know, I know.
+
+DOCTOR K343
+You don't want.
+
+PATIENT K343
+I think they check my kidney stuff all the time.
+
+DOCTOR K343
+The last time it was checked was uh, I just looked at them, see it was May, May of last year.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+So it's been a year.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+Unless are you following in a different hospital for it?
+
+PATIENT K343
+No, no.
+
+DOCTOR K343
+Only here right?
+
+PATIENT K343
+I don't follow with anyone outside.
+
+DOCTOR K343
+Yeah the last time it's been checked was May so for sure we need to get some more blood work.
+
+PATIENT K343
+Okay, yeah @@@.
+
+DOCTOR K343
+We'll need to check your cholesterol and make sure that's okay.  You don't take any diabetic, you don't have diabetes right.
+
+PATIENT K343
+No, no.
+
+DOCTOR K343
+So we're not going to check that.  How about your last colonoscopy?  When did you have a colonoscopy last do you remember?  That's where they go and they use a camera and they look up from behind to see if there's any.
+
+PATIENT K343
+Oh God I don't remember now but it's been quite a while.
+
+DOCTOR K343
+I'll look.  You've gotten all your care here at Hines.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+Okay, well I'll look into it when I go talk to the boss.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Just make sure that everything else is squared away.  Blood pressure today was a little on the higher side.
+
+PATIENT K343
+Right.
+
+DOCTOR K343
+A little on the higher side.
+
+PATIENT K343
+Well I walked a long ways too.
+
+DOCTOR K343
+Right.  Why don't we have you go sit up there and I'll let you sit down about five minutes, calm down then I'll recheck your blood pressure and we'll see how it goes.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Now let me just look at the rest of the things here.  Heart rate's good.  Let's see, how about the prostate?
+
+PATIENT K343
+Uh as far as I know everything is fine.
+
+DOCTOR K343
+When was the last time you saw those guys?
+
+PATIENT K343
+Uh I seen the doctor I don't know, I think it was a week or so ago.  I'd have to check my calendar.
+
+DOCTOR K343
+You saw the prostate guy?
+
+PATIENT K343
+Yeah.  He interviewed me again and they took my, they gave me my shot and then they interviewed me after that.
+
+DOCTOR K343
+The knee guy, not the knee guys right?
+
+PATIENT K343
+No, no.
+
+DOCTOR K343
+You came to the clinic before oh I see, here's something.  You were taking the valsartan before right?
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+And that ran out so you stopped it.  That's probably why and you came in to see DOCTOR because of a runny nose too right?
+
+PATIENT K343
+Yeah right and that stuff's been really good.  I think basically the runny nose is caused by some of these; I could be allergic to some of the new plants that come up.
+
+DOCTOR K343
+Gotcha.
+
+PATIENT K343
+You know.
+
+DOCTOR K343
+How's your skin been doing?
+
+PATIENT K343
+Fine.
+
+DOCTOR K343
+Is it dry still or no?
+
+PATIENT K343
+Well it's a little dry.
+
+DOCTOR K343
+Okay.  And you're taking the valsartan at home is that right or is that one been stopped?
+
+PATIENT K343
+Which one is that?
+
+DOCTOR K343
+That expired.  That's the blood pressure medicine.  I don't think it's on your list.
+
+PATIENT K343
+No it's not.  I probably don't take that anymore; they probably put me on something else.
+
+DOCTOR K343
+@@@ squared away here.  How about your thyroid medicine?
+
+PATIENT K343
+It's fine.  Uh the last time I seen you everything was fine.
+
+DOCTOR K343
+Your thyroid level was really high though.
+
+PATIENT K343
+Well, what happened I think when I had my thyroid removed in 77, they only took part of it and the other part continued to work and then it started to whatever elevate or whatever, whatever it does and that's when they changed my medicine and they been adjusting that but I, I don't know I think I see him in December and I don't think he changed anything then.  
+
+DOCTOR K343
+Hmm.  This says it's markedly elevated but informed him it was no different than last year.  I'm trying to figure out if they decided that you're supposed to be taking thyroid medicine or @@@.  Okay.  So you should be taking the Synthroid, your thyroid medicine.
+
+PATIENT K343
+Yeah.  I think I do.  Is that on my list?
+
+DOCTOR K343
+It's not on your list here.  Oh it is on your list, I'm sorry.  @@@.  Yeah you have two more refills.  You have enough for six more months.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+Okay that's good.  Alright.  I'm sorry I got a little nervous there.
+
+PATIENT K343
+That's alright.  What would you guys do without those computers?
+
+DOCTOR K343
+We'd have to write everything down.  Just like we used to do, yeah just like we used to do.  Could you take that sweatshirt off so I can check your blood pressure?
+
+PATIENT K343
+Oh sure.  Here let me take my lid off.
+
+DOCTOR K343
+Alright.
+
+PATIENT K343
+There you go.  You want both arms?
+
+DOCTOR K343
+No one arm is okay.  Let's see if there's anything we need to do about your blood pressure.  Looks like they got you @@@.
+
+PATIENT K343
+Yeah that was the uh the thing I came in and gave blood on me.
+
+DOCTOR K343
+Monday?
+
+PATIENT K343
+Monday and that's unusual cause normally I don't bruise but whatever day she dug around in there.
+
+DOCTOR K343
+Gotcha.
+
+PATIENT K343
+And then they got me.
+
+DOCTOR K343
+The vampire got you.
+
+PATIENT K343
+Yep.
+
+DOCTOR K343
+Just relax your arm for me, let me hold it up, @@@.  It'll squeeze on the arm.  Perfect.  I got 118/65.
+
+PATIENT K343
+See cause I walked the whole way so.
+
+DOCTOR K343
+Perfect.
+
+PATIENT K343
+They make me walk a long ways and wonder why you're blood pressure goes up.
+
+DOCTOR K343
+Hey it's normal.  Of course they go up.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+Let me just document that.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Alright.  Before you slide that all the way down, I'm okay, you're okay.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Just take some deep breaths.  Good again, again, again, again.  Now let me just listen here.  I'll have you lay back for me.
+
+PATIENT K343
+Oh.
+
+DOCTOR K343
+Be on your belly a little bit.
+
+PATIENT K343
+Okay.  I can do that.
+
+DOCTOR K343
+That's something to support your leg.
+
+PATIENT K343
+Okay thanks.
+
+DOCTOR K343
+Any belly pain?
+
+PATIENT K343
+Nope.
+
+DOCTOR K343
+Nausea, vomiting?
+
+PATIENT K343
+Nope.
+
+DOCTOR K343
+Diarrhea, constipation?
+
+PATIENT K343
+Nope.
+
+DOCTOR K343
+You can sit up.  You been urinating okay?
+
+PATIENT K343
+Yes.  Ain't no problems.
+
+DOCTOR K343
+No trouble with starting and stopping?
+
+PATIENT K343
+Nope.
+
+DOCTOR K343
+You got some dry skin here?
+
+PATIENT K343
+Yeah I know.
+
+DOCTOR K343
+Is that normal for you?
+
+PATIENT K343
+Yeah it's kind of normal.
+
+DOCTOR K343
+It could be related to your thyroid but they just increased the medicine not long ago so we'll check a bunch of labs today actually.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+It looks like the last PSA was just fine and that was just Monday.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+Uh and your thyroid level was checked in March and that actually was normal.  So it's pretty fluctuant.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+Wow, hmm, it was 127 in December and then it was 0.02 in March, really interesting.  Okay let me go talk to the boss.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+I'll be back in to see you in a second.
+
+PATIENT K343
+Okay that's fine.
+
+DOCTOR K343
+I've got most of your medications refilled, everything you need today.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Um we're going to have to get labs done and I'll look and make sure there's nothing else we're missing.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Thanks.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+@@@
+
+PATIENT K343
+Okay.
+
+(DOCTOR OUT:  69:26  DOCTOR IN:  80:20)
+
+DOCTOR K343
+Okay, so here's what we came up with as far as the indomethacin.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+You're taking it twice a day now?
+
+PATIENT K343
+No, no just once.
+
+DOCTOR K343
+Just once a day.
+
+PATIENT K343
+Once a day cause I take that other one.
+
+DOCTOR K343
+Yeah, the other one, the allopurinol and the colchicine.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+One uh, one thing that I think I need to continue stressing with you is if you keep going on this medicine particularly it will continue to harm your kidneys.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+And eventually just because of that medicine you may need to go on dialysis.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+That's something that you need to think about down the road.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+One thing I would consider and encourage to you is to prove to yourself that you may not need it now because we've given you these other medicines.
+
+PATIENT K343
+I will try to take.
+
+DOCTOR K343
+Could you take it every other day?
+
+PATIENT K343
+I'll try to take it every other day.
+
+DOCTOR K343
+And see what happens.
+
+PATIENT K343
+And see what happens.
+
+DOCTOR K343
+I'd like to give it a shot.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+If you can take it every other day and you're doing good and you do it for a month, maybe try taking every third day.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+Cause that medicine, I'm okay with you taking it but every day or more frequently it's going to continue to hurt your kidneys.
+
+PATIENT K343
+Okay.  Alright.
+
+DOCTOR K343
+Eventually I'd like to get you off of it completely.
+
+PATIENT K343
+Well I can, I'll just, when I do my pill thing.
+
+DOCTOR K343
+Uh-huh.
+
+PATIENT K343
+I'll just put, just put it every other day and then if that works then I'll go every other two days you know.
+
+DOCTOR K343
+@@@.
+
+PATIENT K343
+And then if it uh, I don't have any problems then I'll go every four days.
+
+DOCTOR K343
+@@@ and eventually what the medicine will be good for is you don't take it unless you have a flare.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Then if you have a flare-up then you take it every day for a week or two.
+
+PATIENT K343
+Yeah.
+
+DOCTOR K343
+That's what I'd like you to do.
+
+PATIENT K343
+Okay.  I can do that.
+
+DOCTOR K343
+So we'll give it to you by mail again every other day so you'll get uh four refills but you have to promise that you're gonna do that.
+
+PATIENT K343
+I will.
+
+DOCTOR K343
+Uh the rest of them we refilled I think, is that right?
+
+PATIENT K343
+As far as I know.
+
+DOCTOR K343
+Labs today that are going to be important for you.
+
+PATIENT K343
+Uh-huh.
+
+DOCTOR K343
+It looks like your CBC which is the blood that you have.
+
+PATIENT K343
+Uh-huh.
+
+DOCTOR K343
+@@@ blood in there.  We'll check your urine, I'm sorry we'll check your kidneys.  We don't need to check your urine.
+
+PATIENT K343
+Uh-huh.
+
+DOCTOR K343
+I also want to check your uric acid level; that sort of tells us how the gout's doing.  Last time it was really high.  We'll check and see how that's going and I'm going to also check your thyroid okay.
+
+PATIENT K343
+Okay.  Did you need blood for all that?
+
+DOCTOR K343
+Blood is all of that.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+That's alright and they just checked your prostate so we don't really need to check that.
+
+PATIENT K343
+Uh uh.
+
+DOCTOR K343
+Alright and then I'll see you back in uh, oh nine months?
+
+PATIENT K343
+Uh-huh.
+
+DOCTOR K343
+You're doing pretty good otherwise.
+
+PATIENT K343
+Well otherwise I'm fine.  But I just want a gout attack.
+
+DOCTOR K343
+I don’t blame you.  I mean you have to think about no gout attack versus we don't want it to continue to bottom out your kidneys.
+
+PATIENT K343
+Do I have to take this with me?
+
+DOCTOR K343
+Yeah you can just take it up to the front and give it to them.
+
+PATIENT K343
+Oh I see.
+
+DOCTOR K343
+Check out okay.  Alright.
+
+PATIENT K343
+I'll check this.
+
+DOCTOR K343
+And for right now you won't need to take that, losartan the other medicine for your blood pressure, the one that you don't have on your list.
+
+PATIENT K343
+Oh yeah I probably haven't taken it.
+
+DOCTOR K343
+Right that's why I say we'll hold it for now.
+
+PATIENT K343
+Okay, @@@.
+
+DOCTOR K343
+Don't forget to go down to the Lab.
+
+PATIENT K343
+I won't.
+
+DOCTOR K343
+Have the blood work done.
+
+PATIENT K343
+I won't.  
+
+DOCTOR K343
+If there's any problems or any changes I'll call you.
+
+PATIENT K343
+Okay.
+
+DOCTOR K343
+Okay.
+
+PATIENT K343
+That's fine.
+
+DOCTOR K343
+Take care, nice to see you again.
+
+PATIENT K343
+Nice to see you.
+
+PATIENT LEAVES:  84:22
+
+Time is @@@
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238110
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,790 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@ 
+
+DOCTOR Y914
+Hi PATIENT.
+
+PATIENT Y914
+Hello.
+
+DOCTOR Y914
+I'm DOCTOR.  Nice to meet you.
+
+PATIENT Y914
+Okay nice to meet you.  Oh your shoes look nice.
+
+DOCTOR Y914
+Thank you.  How are you today?
+
+PATIENT Y914
+I'm getting there.
+
+DOCTOR Y914
+Good.  I know you usually see DOCTOR in the past but.
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+He went over to Hines so he's no longer here.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+So um it looks like you follow with the urologist pretty regularly.
+
+PATIENT Y914
+Yeah I do uh-huh.
+
+DOCTOR Y914
+And then you also have seen the endocrinologist in the past.
+
+PATIENT Y914
+Yes.
+
+DOCTOR Y914
+For the osteoporosis.  Okay.  Are you, you're just on the calcium and vitamin D for now?
+
+PATIENT Y914
+Well I take the vitamin D and then I take a multiple vitamin also.
+
+DOCTOR Y914
+Multivitamin too okay.  Um are you having any bone aches or pains?
+
+PATIENT Y914
+I get aches in my legs.
+
+DOCTOR Y914
+In your legs?
+
+PATIENT Y914
+Yeah when I'm trying to sleep.  It happens mostly at night when I'm going to sleep or trying to go to sleep, it'll start over here, then goes over here.
+
+DOCTOR Y914
+Okay.
+
+PATIENT Y914
+And then it'll stop and it'll move over here and here and uh.
+
+DOCTOR Y914
+Anything in your feet?  Any pain in your feet?
+
+PATIENT Y914
+Yeah, uh-huh, yeah but it feels like toe was turning back.
+
+DOCTOR Y914
+Oh that's not a good feeling.  How long has that been going on?
+
+PATIENT Y914
+Been going on for let's say the better part of this year.
+
+DOCTOR Y914
+For so over six months?
+
+PATIENT Y914
+Yes uh-huh.
+
+DOCTOR Y914
+Okay.  Uh it only occurs at night?
+
+PATIENT Y914
+Pretty much yeah.
+
+DOCTOR Y914
+Okay.  Do you have any back pain?
+
+PATIENT Y914
+Uh uh.
+
+DOCTOR Y914
+Okay.  Um have you had issues with your back in the past?
+
+PATIENT Y914
+No uh uh.
+
+DOCTOR Y914
+No.  Let me see if there's been any imaging of your back before cause sometimes what can happen is um if you have some nerves being pinched in your back then that can cause the pain and the numbness in your lower legs.
+
+PATIENT Y914
+Oh really, uh-huh.
+
+DOCTOR Y914
+Yeah and sometimes that can happen the most when you're sleeping at night because of the way you are lying on your back.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+So it looks like you've never really had imaging of your back before.  So I think it'd be worthwhile to least start off with an x-ray if not an MRI of the back to see if you're having any nerve issues back there.
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+Um do you take anything for pain?
+
+PATIENT Y914
+No.
+
+DOCTOR Y914
+Now are you still on the methadone?
+
+PATIENT Y914
+No.
+
+DOCTOR Y914
+Or you stopped a while ago huh?
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+Okay.  Alright.  Good, so now you're only, you're getting the Zoladex from the GU Clinic.
+
+PATIENT Y914
+Yes uh-huh.
+
+DOCTOR Y914
+Do you still take the Megace?
+
+PATIENT Y914
+Yes.
+
+DOCTOR Y914
+For the hot flashes okay.
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+And is that helping you?
+
+PATIENT Y914
+Yes it does.
+
+DOCTOR Y914
+Okay.  That's good, most people I ask they say it's not helping.
+
+PATIENT Y914
+And you have to keep taking them and that's what I found out anyway so when I first started taking them I think it was, I don't know if it was last year or the year before last, I can't remember but anyway uh it didn't have an effect on me at first.
+
+DOCTOR Y914
+Okay.
+
+PATIENT Y914
+And then after about a week of taking them constantly all of a sudden I was having a @@@.
+
+DOCTOR Y914
+Okay well that's good.  Is your appetite good?
+
+PATIENT Y914
+My what?
+
+DOCTOR Y914
+Your appetite?
+
+PATIENT Y914
+Oh my appetite.  Appetite's great.
+
+DOCTOR Y914
+Yeah.  You're not losing weight or anything?
+
+PATIENT Y914
+No.
+
+DOCTOR Y914
+Okay.
+
+PATIENT Y914
+No.
+
+DOCTOR Y914
+Any fevers, chills or anything like that?
+
+PATIENT Y914
+Um let's see now um I could say that you know I have chills but I uh, let's just say when it was real hot in July.
+
+DOCTOR Y914
+Uh-huh.
+
+PATIENT Y914
+So I can always put the air conditioner on in my house or my apartment for only a short period of time because when I leave it on too long I can get really cold.
+
+DOCTOR Y914
+Really cold okay.
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+Alright.  Any other issues or concerns today?
+
+PATIENT Y914
+No, uh uh.
+
+DOCTOR Y914
+Uh I was just looking back and DOCTOR's note I guess you had talked about constipation with him at some point.  Is that still an issue?
+
+PATIENT Y914
+Uh it's uh, it starts and it stops you know just now and then.
+
+DOCTOR Y914
+Do you take any stool softeners or anything like that?
+
+PATIENT Y914
+Not anymore.
+
+DOCTOR Y914
+Okay.  Did those help when you were on them?
+
+PATIENT Y914
+They may have helped a little bit.
+
+DOCTOR Y914
+Okay.  Um do you want, uh, a prescription for them again?
+
+PATIENT Y914
+Sure, why not?
+
+DOCTOR Y914
+So you're drinking water?
+
+PATIENT Y914
+I drink plenty of water.
+
+DOCTOR Y914
+Okay and do you have fiber in your diet?
+
+PATIENT Y914
+Fiber in my diet?
+
+DOCTOR Y914
+A lot of grains?
+
+PATIENT Y914
+Uh.
+
+DOCTOR Y914
+Not really?
+
+PATIENT Y914
+Not a whole lot, not a lot of the time.  Every once in a while I get a really good grain diet @@@ and I have it for dinner for about four or five days and then there won't be any more for a while.
+
+DOCTOR Y914
+Oh.
+
+PATIENT Y914
+Unless you count uh Cheerios.
+
+DOCTOR Y914
+A little bit.  Um okay and how's your breathing?  You have, it looks like very mild COPD.
+
+PATIENT Y914
+Uh yeah, uh as long as I don't try to do too much hustling.  If I try to walk fast get a @@@ fast because if I do I have to stop.
+
+DOCTOR Y914
+Okay.  How far can you walk on a flat surface?
+
+PATIENT Y914
+How far can I walk?
+
+DOCTOR Y914
+Yeah before you get short of breath?
+
+PATIENT Y914
+Um I might be able to walk a mile or two.
+
+DOCTOR Y914
+Okay and you don't have any issues?
+
+PATIENT Y914
+No uh uh.
+
+DOCTOR Y914
+Any chest pain with that?
+
+PATIENT Y914
+No, no.
+
+DOCTOR Y914
+And you don't have any inhalers right now?
+
+PATIENT Y914
+No uh uh.
+
+DOCTOR Y914
+No have you ever used inhalers?
+
+PATIENT Y914
+Uh uh.
+
+DOCTOR Y914
+Okay.  Alright and I know DOCTOR had talked to you in the past about getting um a colonoscopy.
+
+PATIENT Y914
+And I said no.
+
+DOCTOR Y914
+@@@, you still don't want to do that okay.
+
+PATIENT Y914
+Uh uh.
+
+DOCTOR Y914
+Okay any blood in your stool?
+
+PATIENT Y914
+No uh uh.
+
+DOCTOR Y914
+Alright.  Um have you had a follow up with the endocrinologist at all?
+
+PATIENT Y914
+I haven't seen @@@.
+
+DOCTOR Y914
+@@@
+
+PATIENT Y914
+I haven't seen Endo since @@@.
+
+DOCTOR Y914
+Okay.  So I'd like to see you back and see them cause you know the repeat DEXA scan that you did in May still shows that you have osteoporosis.
+
+PATIENT Y914
+Yeah.
+
+DOCTOR Y914
+So I think we need to start you on something called Fosamax which is a pill that you take once a week.  Um it helps with the bones.
+
+PATIENT Y914
+Okay that's fine.  
+
+DOCTOR Y914
+Uh @@@.
+
+PATIENT Y914
+I may have had something like that or similar to that uh when I uh had, when I had the appointments with Endo.
+
+DOCTOR Y914
+Uh-huh.
+
+PATIENT Y914
+Uh one doctor gave it to me and it lasted for a week and they stopped.  I came back the following week I think.  Oh no that's not true, that's not true but you take it once a week.
+
+DOCTOR Y914
+Yeah.
+
+PATIENT Y914
+Yeah so uh I can't remember how many pills it was.
+
+DOCTOR Y914
+Was that for the vitamin D?
+
+PATIENT Y914
+Huh?
+
+DOCTOR Y914
+Was that for the vitamin D ergocalciferol?
+
+PATIENT Y914
+Yeah, yeah, uh-huh.
+
+DOCTOR Y914
+Yeah so you did that so that's the initial treatment we would do just to see if building up your vitamin D levels will help to kind of correct that osteoporosis.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+But that's why they tried you on that and that's why you were on the calcium vitamin D. 
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+Um but on the repeat DEXA scan it still shows that your numbers are still within the osteoporosis range.
+
+PATIENT Y914
+Right, right.
+
+DOCTOR Y914
+And at this point we would actually treat you for osteoporosis.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+With Fosamax, it's once a week and it's a little bit of a pain it's a medication you take only because you have to take it and you have to sit upright for 30 minutes.  You can still move around and stuff but you need to remain sitting upright cause one of the major risks with that medication is if it gets caught in your esophagus it can cause ulcerations in your esophagus.  Doesn't happen very often if you're taking it appropriately mainly you take it with plenty of water, you sit upright for 30 minutes and kind of let it go down in its own then you'll be fine.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+Um and so do you have any teeth, dental work that needs to be done.
+
+PATIENT Y914
+Yes, yeah.
+
+DOCTOR Y914
+You do.
+
+PATIENT Y914
+Yes.  I start it, they need to finish.  I had started it uh before I found out that I had prostate cancer.
+
+DOCTOR Y914
+Okay.
+
+PATIENT Y914
+And they took out four teeth, they were starting this way and they were to come around here I think.
+
+DOCTOR Y914
+So you have more teeth to be pulled?
+
+PATIENT Y914
+Yeah, yeah, I have @@@.
+
+DOCTOR Y914
+Okay so that should be done first before you start the Fosamax because the other side effect with the Fosamax is, it's rare and it doesn't happen very often but when it does it can be pretty detrimental.  You can get necrosis of your jawbone.
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+Um but that only tends to happen when somebody's already been on the Fosamax for a while and then you go in and do you know extensive dental work which means you're pulling out multiple teeth.  It just gives you an increased risk for developing that.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+But that doesn't mean that you'll necessarily get it but there is a risk.
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+Um so if you ask any dentists or the oral surgeons will say you know we need to have all of this stuff done first before we can put you on the medication.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+So what, are you going to be seeing the dentist soon to get the rest of the work done?
+
+PATIENT Y914
+I haven't, yes I want to make an appointment but I recently went up to the eye doctors.
+
+DOCTOR Y914
+Uh-huh.
+
+PATIENT Y914
+And uh I tried to make an appointment there and when I talked to the person that I talked to they told me and I hadn't been there in two years so I needed to talk to my doctor and have him or her uh okay it.
+
+DOCTOR Y914
+You have to get an appointment.
+
+PATIENT Y914
+To get an appointment to go back to the Optical.
+
+DOCTOR Y914
+Do you get it here?
+
+PATIENT Y914
+Yes uh-huh.
+
+DOCTOR Y914
+Okay.  That's weird cause usually we don't put in dental.  Oh let's see let me see if I can get into it cause typically I don't put in a dental consult.
+
+PATIENT Y914
+Okay well but I was going to ask you about okaying an appointment for the eye doctor anyway cause I think it's time for me to change my prescription.
+
+DOCTOR Y914
+The eye doctors.
+
+PATIENT Y914
+Yeah uh-huh.
+
+DOCTOR Y914
+Okay.  It's the bottom teeth that need to be extracted?
+
+PATIENT Y914
+No it's the top, all the top.
+
+DOCTOR Y914
+Are you getting dentures?
+
+PATIENT Y914
+I plan to yes.
+
+DOCTOR Y914
+Oh okay.
+
+PATIENT Y914
+Yes uh-huh.
+
+DOCTOR Y914
+And then you need an eye appointment you said.
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+Just for routine.
+
+PATIENT Y914
+Routine check yeah.
+
+DOCTOR Y914
+Okay.
+
+PATIENT Y914
+And possible prescription change.
+
+DOCTOR Y914
+And are you nearsighted or farsighted, your glasses for distance?
+
+PATIENT Y914
+Uh I think probably farsighted.
+
+DOCTOR Y914
+Okay.  Alright the other thing we need to do is update your labs.  It's been over a year so we need to check your cholesterol, your sugars, your kidney function and all of that stuff so um did you eat breakfast this morning?
+
+PATIENT Y914
+No I didn't.
+
+DOCTOR Y914
+Okay perfect.  Do you mind going to the Lab today?
+
+PATIENT Y914
+Uh.
+
+DOCTOR Y914
+It depends.
+
+PATIENT Y914
+Uh now how long is that going to take?
+
+DOCTOR Y914
+Not long, you don't need an appointment or anything.
+
+PATIENT Y914
+Um okay.
+
+DOCTOR Y914
+Do you need refills on your vitamins or anything like that?
+
+PATIENT Y914
+No they're okay, they're okay right now.
+
+DOCTOR Y914
+@@@ okay.  Alright and you want your TDAP shot today?
+
+PATIENT Y914
+Sure uh-huh.
+
+DOCTOR Y914
+Okay.  You can just sit up there for me and I'll take a listen to you.  Any smoking?
+
+PATIENT Y914
+Yeah.
+
+DOCTOR Y914
+Okay.  Have you thought about quitting?
+
+PATIENT Y914
+Yeah uh-huh.
+
+DOCTOR Y914
+What's stopping you?
+
+PATIENT Y914
+What's stopping me?
+
+DOCTOR Y914
+Uh-huh.
+
+PATIENT Y914
+I don't know, I couldn't answer that question.  It's just something that I do.
+
+DOCTOR Y914
+Are you interested in quitting?
+
+PATIENT Y914
+Well I'm working on it because see I used to drink and smoke more than a pack a day and then so now I'm down to about a half a pack so.
+
+DOCTOR Y914
+You're still @@@ then?
+
+PATIENT Y914
+Yeah.
+
+DOCTOR Y914
+Have you ever tried the gum or lozenges?
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+Doesn't work for you?
+
+PATIENT Y914
+Uh I especially don't like the lozenges because it takes them too long to dissolve.
+
+DOCTOR Y914
+Okay.
+
+PATIENT Y914
+And I'm like holding them under my tongue.
+
+DOCTOR Y914
+Oh I see okay.  Well the reason why I'm really pushing for it is because it doesn't help with your osteoporosis, two it's really bad for your lungs since you already have this mild COPD, it just makes it worse.
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+Over the years and it looks like you're at risk for other type of cancer since you already have prostate cancer but it could put you at risk for other types um and it puts you at increased risk for heart disease and it's bad all the way around and you're @@@ so.  Right now you're doing well without any inhalers and you don't require anything but.
+
+PATIENT Y914
+Yeah I know, it could happen.
+
+DOCTOR Y914
+Yeah and soon enough, you could get to the point where it's really bad COPD then you're having four or five inhalers that you need to take every single day.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+Can you take your glasses off for me?
+
+PATIENT Y914
+Uh my what?
+
+DOCTOR Y914
+Your glasses.
+
+PATIENT Y914
+Glasses oh.
+
+DOCTOR Y914
+Look straight at me.  Say ah.  Open up your mouth.  No weakness are anything like that?  @@@
+
+PATIENT Y914
+Uh uh.
+
+DOCTOR Y914
+Deep breaths.  You do have a little bit of wheezing in your lungs.
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+Any pain when I press on your back?
+
+PATIENT Y914
+Uh uh.
+
+DOCTOR Y914
+Here?
+
+PATIENT Y914
+Uh uh.
+
+DOCTOR Y914
+Okay.  Let me have you actually lay down for me.  Hold on a second.  Alright I'm going to manipulate your legs a little bit here okay.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+I'm going to lift here, any pain?
+
+PATIENT Y914
+No.
+DOCTOR Y914
+Here?  Any pain?
+
+PATIENT Y914
+No but I could feel that a little bit.
+
+DOCTOR Y914
+A little bit.
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+Okay.  Alright go ahead and sit up.  Alright give me just a minute; I'll put in your medicine.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+Thank you.
+
+(DOCTOR OUT:  32:02  DOCTOR IN:  35:40)
+
+DOCTOR Y914
+Alright.  Okay so what I would like for you to do is make an appointment with the Endocrinology doctors in about a month or so.
+
+PATIENT Y914
+Uh-huh.
+
+DOCTOR Y914
+You should also be able to see the dentist before then; do you think you'll be able to?
+
+PATIENT Y914
+Sure I can go and make an appointment.  I can go up there and ask for an appointment today.
+
+DOCTOR Y914
+Okay.  So do that and come down here to see Endocrine in the next four to six weeks because I want you to have all that dental work done before you see them cause they're gonna start you on that Fosamax that I was taking about.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+So you should have that stuff done before you see them.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+So we'll get that here and then I'll have them make you an appointment with the Eye Clinic.  Yeah the other thing is um the back x-ray um I don't know if you'll have time to do it today.  You don't have to but um I can put the order in and you could get it done when you have time.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+Prior to the next appointment or something.  I just want to see if you have any herniated disks or any narrowing in the disks that could possibly explain your lower extremity issue.  Okay and then you can come back and see me in about five or six months okay.  In the meantime you should see the endocrinologist @@@.
+
+PATIENT Y914
+@@@ okay.
+
+DOCTOR Y914
+Okay.  Sounds good, so they can get you these appointments up front at the reception.  Any other questions today?
+
+PATIENT Y914
+Uh let's see, I think that's it.  I think I asked the questions that I wanted answered.  Um @@@.
+
+DOCTOR Y914
+Yes.  Alright.
+
+PATIENT Y914
+Okay.
+
+DOCTOR Y914
+Okay no problem.  Don't forget your bag @@@.
+
+PATIENT Y914
+See you.
+
+DOCTOR Y914
+Bye bye.
+
+PATIENT LEAVES:  38:13
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286157
+TRANSACTION # 578-10-2-316-0103

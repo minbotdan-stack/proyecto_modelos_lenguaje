@@ -1,0 +1,698 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR N532
+Yeah come back.  How you doing?
+
+PATIENT N532
+How do you do?
+
+DOCTOR N532
+Pretty well today sir.  We're a little farther down.
+
+PATIENT N532
+Oh.
+
+DOCTOR N532
+How you doing today?
+
+PATIENT N532
+What?
+
+DOCTOR N532
+Right here to the right, right here.
+
+PATIENT N532
+Right here, oh yeah that's the old room.  Will you hang my jacket?
+
+DOCTOR N532
+Um behind the door yes.  How have you been?
+
+PATIENT N532
+Fine.
+
+DOCTOR N532
+Last time I saw you in August.  Anything bothering you since then?
+
+PATIENT N532
+No.
+
+DOCTOR N532
+Good.  You taking that cholesterol medicine?
+
+PATIENT N532
+Yes.
+
+DOCTOR N532
+Good.  Any problems with it?  Any problems with it?
+
+PATIENT N532
+And I'm also taking one per day.
+
+DOCTOR N532
+A multivitamin.
+
+PATIENT N532
+A multivitamin and one of the clonidine. 
+
+DOCTOR N532
+Perfect.
+
+PATIENT N532
+So.
+
+DOCTOR N532
+What kinds of foods are you eating?
+
+PATIENT N532
+Well I'm trying to have mixture of vegetables, meat.
+
+DOCTOR N532
+Okay good.  You're eating well.
+
+PATIENT N532
+@@@  I don't eat past six o’clock - uh occasionally.
+
+DOCTOR N532
+That's okay.
+
+PATIENT N532
+But I only buy like.
+
+DOCTOR N532
+Yeah you don't want to start; you don't have a lot of it at home and things like that.
+
+PATIENT N532
+I don’t have any of it at home.
+
+DOCTOR N532
+Have you lost a lot of weight?
+
+PATIENT N532
+I don't know.  They just weighed me today.
+
+DOCTOR N532
+Yeah.  They said you're 60 pounds lighter.
+
+PATIENT N532
+How can I be 60 pounds lighter?
+
+DOCTOR N532
+That's what I'm asking you.  Do you think you lost that much weight?
+
+PATIENT N532
+No.
+
+DOCTOR N532
+Okay.
+
+PATIENT N532
+Someone must have made a mistake.
+
+DOCTOR N532
+Maybe it's a mistake.  But you don't know whether you lost 60 pounds.
+
+PATIENT N532
+I don't think I lost 60 pounds.
+
+DOCTOR N532
+I'm going to @@@, yeah, yeah.
+
+PATIENT N532
+I look like.
+
+DOCTOR N532
+You look the same.
+
+PATIENT N532
+What?
+
+DOCTOR N532
+You look the same.
+
+PATIENT N532
+Yeah.
+
+DOCTOR N532
+You look good.  Um good.  Have you gotten the flu shot this year?
+
+PATIENT N532
+Yes.
+
+DOCTOR N532
+Perfect.  When did you get it?
+
+PATIENT N532
+Uh last Sunday in uh @@@.
+
+DOCTOR N532
+Perfect, great.  Well I'm glad you're feeling better.  Your blood pressure looks great today.
+
+PATIENT N532
+Yeah.  But I can't be 60 pounds lighter.
+
+DOCTOR N532
+No it's a mistake.
+
+PATIENT N532
+Yeah.
+
+DOCTOR N532
+It has to be a mistake.
+
+PATIENT N532
+You think I look thinner?
+
+DOCTOR N532
+No, maybe a little thinner but not that much.
+
+PATIENT N532
+Oh you do think I do look @@@ a few pounds.
+
+DOCTOR N532
+I don't think, I think maybe you lost a few pounds but not 60.
+
+PATIENT N532
+No.
+
+DOCTOR N532
+Not six zero.
+
+PATIENT N532
+So when she weighed me.
+
+DOCTOR N532
+I think it was incorrect.
+
+PATIENT N532
+Which was incorrect, do I have to go back and get weighed or?
+
+DOCTOR N532
+No, no, it's okay.  We'll get a new weight from here next time to make sure.
+
+PATIENT N532
+Uh-huh.
+
+DOCTOR N532
+Otherwise you seem to be doing pretty well.
+
+PATIENT N532
+I think it was 120 pounds, that's why @@@.
+
+DOCTOR N532
+Yeah 220, 220.
+
+PATIENT N532
+I mean 220.
+
+DOCTOR N532
+220, yeah, yeah.
+
+PATIENT N532
+220.
+
+DOCTOR N532
+Yeah, yeah.
+
+PATIENT N532
+What was it last time?
+
+DOCTOR N532
+280.
+
+PATIENT N532
+No I pretty much weighed the last time.  I've been over 2, 2, I think it was 2 @@@.
+
+DOCTOR N532
+Yeah I think the last one was wrong.  The last time it was 237, now it's 229.
+
+PATIENT N532
+Oh.
+
+DOCTOR N532
+Yeah, 237 and 229, maybe you lost eight pounds.
+
+PATIENT N532
+That's probably right.
+
+DOCTOR N532
+Yeah.  That’s a good thing.
+
+PATIENT N532
+And you said it wasn't up last time and.
+
+DOCTOR N532
+Yeah.
+
+PATIENT N532
+So where do you get that 280?
+
+DOCTOR N532
+I think it was incorrectly put in here.
+
+PATIENT N532
+Oh.  So that's what the VA is @@@.
+
+DOCTOR N532
+No, no.
+
+PATIENT N532
+For the last time.
+
+DOCTOR N532
+Last time yeah.
+
+PATIENT N532
+Oh.
+
+DOCTOR N532
+You walking okay?  No chest pain, shortness of breath?
+
+PATIENT N532
+No.
+
+DOCTOR N532
+Good.  No swelling in your legs?
+
+PATIENT N532
+So how is my weight compared to two times ago?
+
+DOCTOR N532
+Let's see.  You're five pounds, at that time it was 226 and you're 229, about the same.
+
+PATIENT N532
+226.
+
+DOCTOR N532
+Yeah.
+
+PATIENT N532
+Yeah probably had more clothes on.
+
+DOCTOR N532
+That's also true with the winter.
+
+PATIENT N532
+It was really hot the other day.
+
+DOCTOR N532
+No it's nice yeah.
+
+PATIENT N532
+I mean two uh two times ago.
+
+DOCTOR N532
+Yeah.
+
+PATIENT N532
+Now not the last time but that would be the same huh.
+
+DOCTOR N532
+Oh okay.
+
+PATIENT N532
+So I think less clothes on.
+
+DOCTOR N532
+That's probably true. 
+
+PATIENT N532
+Yeah.
+
+DOCTOR N532
+Alright, so I'm glad you're feeling better.  Let me take a listen to you.  We'll probably gonna recheck a cholesterol panel.
+
+PATIENT N532
+What?
+
+DOCTOR N532
+We're gonna recheck a cholesterol panel now that we started you on this new medicine.
+
+PATIENT N532
+Yeah.
+
+DOCTOR N532
+Last time we checked was back in March.
+
+PATIENT N532
+Yeah.
+
+DOCTOR N532
+Did you eat breakfast today and lunch?
+
+PATIENT N532
+Yeah.
+
+DOCTOR N532
+Okay.  So I want you to come back here sometime when you haven't eaten anything.
+
+PATIENT N532
+Hmm.
+
+DOCTOR N532
+Okay.
+
+PATIENT N532
+Yeah.  How many hours do you think?
+
+DOCTOR N532
+Just like six to eight hours is okay.
+
+PATIENT N532
+I can come more than that.
+
+DOCTOR N532
+Yes in the morning.
+
+PATIENT N532
+When the.
+
+DOCTOR N532
+8:00 am is when the building opens.
+
+PATIENT N532
+Alright, opens at 8:00 am.
+
+DOCTOR N532
+Correct yeah.
+
+PATIENT N532
+Oh that's something I can get used to.
+
+DOCTOR N532
+You can ask them on the way out.
+
+PATIENT N532
+Oh.
+
+DOCTOR N532
+But I think it's 8:00 am.
+
+PATIENT N532
+Oh I'll look at the door.
+
+DOCTOR N532
+Yeah.
+
+PATIENT N532
+So I can get it anytime?
+
+DOCTOR N532
+Yeah.  Have a seat up here.  So you seem to be doing quite well.
+
+PATIENT N532
+So.
+
+DOCTOR N532
+Yeah you can sit up, yeah that's perfect.
+
+PATIENT N532
+So when's the deadline on taking that test?
+
+DOCTOR N532
+Before next time I see you.
+
+PATIENT N532
+Alright so in other words it's pretty open-ended.
+
+DOCTOR N532
+It is pretty open-ended.
+
+PATIENT N532
+So no rush.
+
+DOCTOR N532
+Correct.  No emergency yes.
+
+PATIENT N532
+Hmm.
+
+DOCTOR N532
+Take some deep breaths.  
+
+PATIENT N532
+So when I feel like taking it.
+
+DOCTOR N532
+Exactly.
+
+PATIENT N532
+I don't feel like it tomorrow.
+
+DOCTOR N532
+That's okay.  A couple more.
+
+PATIENT N532
+Yeah.  Well it could be closer to the next appointment.
+
+DOCTOR N532
+It really doesn't matter.
+
+PATIENT N532
+@@@.
+
+DOCTOR N532
+Do it, yeah.  As long as you're taking your medicine I don't mind.
+
+PATIENT N532
+Right.  As long as it's before the next appointment.
+
+DOCTOR N532
+Correct, yeah.
+
+PATIENT N532
+Do you think it'd be best to have it as close to the next appointment as possible?
+
+DOCTOR N532
+I will get it whenever you get it done.
+
+PATIENT N532
+Right.
+
+DOCTOR N532
+If you get it done sooner, I'll take a look at it.  You want to be in the record before the next visit, I'll look at it then.
+
+PATIENT N532
+Yes.
+
+DOCTOR N532
+You see what I'm saying?
+
+PATIENT N532
+Yes.
+
+DOCTOR N532
+So either way I'll take a look at it.
+
+PATIENT N532
+And so it doesn't make any difference really.
+
+DOCTOR N532
+Right.
+
+PATIENT N532
+As long as it's before the next appointment.
+
+DOCTOR N532
+Correct.
+
+PATIENT N532
+Yeah.
+
+DOCTOR N532
+So you seem to be doing well.
+
+PATIENT N532
+@@@.
+
+DOCTOR N532
+You seem to be doing well.  I'm going to visit with my attending and I'll be back okay.
+
+PATIENT N532
+What?
+
+DOCTOR N532
+Let me go talk with the attending outside and I'll be back.
+
+PATIENT N532
+Alright.
+
+DOCTOR N532
+You can have a seat wherever you would like.
+
+PATIENT N532
+Hmm.
+
+(DOCTOR OUT:  31:41  DOCTOR IN:  36:50)
+
+DOCTOR N532
+Alright sir.  @@@.  
+
+PATIENT N532
+@@@.
+
+DOCTOR N532
+You know your weight has been stable.
+
+PATIENT N532
+Yes.
+
+DOCTOR N532
+You're still overweight.
+
+PATIENT N532
+Yeah.
+
+DOCTOR N532
+So I want you to go to this program we have called TeleMove.
+
+PATIENT N532
+@@@.
+
+DOCTOR N532
+Do you have a phone at home?
+
+PATIENT N532
+Yeah.
+
+DOCTOR N532
+So what you can do is you can call this number here.
+
+PATIENT N532
+Yeah.
+
+DOCTOR N532
+And this is a program that we offer through the VA and it helps individuals to lose weight and to stay on track.
+
+PATIENT N532
+@@@.
+
+DOCTOR N532
+Helping people with diet and exercise.
+
+PATIENT N532
+Yeah.
+
+DOCTOR N532
+And it's something that kind of, you know keep talking to you about this and keeping an eye on it.  Are you interested in this?  I can give this to you.
+
+PATIENT N532
+Uh-huh, yeah.
+
+DOCTOR N532
+Okay.
+
+PATIENT N532
+Okay.  So I'm overweight.
+
+DOCTOR N532
+Yeah.
+
+PATIENT N532
+I'm not losing weight but I'm not gaining it.
+
+DOCTOR N532
+Correct and I think that it'll help your cholesterol and help with the other medicine if we'll try to see that you get a couple pounds off.
+
+PATIENT N532
+Right.
+
+DOCTOR N532
+And the wintertime is really a hard time for people to lose weight just because you're indoors a lot, all of the holidays, things like that.
+
+PATIENT N532
+Right, good.  Maybe I shouldn't eat as much hmm.
+
+DOCTOR N532
+Well I think it's not what you eat, it's just to watch the portion size.
+
+PATIENT N532
+Right.
+
+DOCTOR N532
+So.
+
+PATIENT N532
+And I don't want to be on those exercise machines.
+
+DOCTOR N532
+Well are you definitely, that’s why this is a really good resource cause they give you a lot of different options.
+
+PATIENT N532
+Hmm.
+
+DOCTOR N532
+And so they'll go through with you all of the things that you can do.
+
+PATIENT N532
+Right.
+
+DOCTOR N532
+So if you say oh no I don't want to exercise, she'll talk with you and help you out with that.
+
+PATIENT N532
+Right.
+
+DOCTOR N532
+Okay.
+
+PATIENT N532
+Okay.
+
+DOCTOR N532
+I will see you back in a couple of months.  We get a cholesterol drawn before you come in okay.
+
+PATIENT N532
+Right.
+
+DOCTOR N532
+So no rush on that.
+
+PATIENT N532
+Right. Cholesterol.  So you already ordered it so.
+
+DOCTOR N532
+I'm putting it in right now.
+
+PATIENT N532
+Right.
+
+DOCTOR N532
+Alright sir, take care.
+
+PATIENT N532
+Thank you.  The main thing is my cholesterol huh?
+
+DOCTOR N532
+Yes sir.
+
+PATIENT N532
+Alright.
+
+DOCTOR N532
+Take care.
+
+PATIENT N532
+And I think those pills are working.
+
+DOCTOR N532
+That's good.
+
+PATIENT N532
+Oh I only have one more refill don't I.
+
+DOCTOR N532
+I'll make sure @@@ mailed to you.
+
+PATIENT N532
+Alright.
+
+DOCTOR N532
+Yeah.
+
+PATIENT LEAVES:  38:55
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300277
+TRANSACTION # 578-10-2-316-0103

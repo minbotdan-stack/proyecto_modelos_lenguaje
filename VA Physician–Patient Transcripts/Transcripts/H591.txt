@@ -1,0 +1,865 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR H591 
+PATIENT?
+
+PATIENT H591
+There's something wrong with my knee.  Where at?  Here?
+
+DOCTOR H591
+Yep you got it.
+
+PATIENT H591
+I sort of feel sleepy.  I didn't get enough sleep last night.
+
+DOCTOR H591
+Oh really, what happened?
+
+PATIENT H591
+Uh kids come over and stuff like that.  Oh.
+
+DOCTOR H591
+@@@.
+
+PATIENT H591
+Uh huh?
+
+DOCTOR H591
+Were you partying?
+
+PATIENT H591
+No, kept me awake.
+
+DOCTOR H591
+So anyway it's been a while.
+
+PATIENT H591
+Yeah it has.
+
+DOCTOR H591
+So what's new?
+
+PATIENT H591
+My leg is hurting.  My arthritis is real bad.  I ran out of those patches.  You're not the one that gave me those patches are you?  The testosterone?
+
+DOCTOR H591
+Uh @@@ Endocrinology doctors.
+
+PATIENT H591
+Oh okay.
+
+DOCTOR H591
+Yeah.  And you're working?
+
+PATIENT H591
+Yeah.
+
+DOCTOR H591
+How's that?
+
+PATIENT H591
+Um I'm making it.  I'm going through with the pain but that's alright.
+
+DOCTOR H591
+Works good.
+
+PATIENT H591
+Yeah it's working out okay.  It’s only for six months.  I couldn't work out in the private sector, I can forget about that.
+
+DOCTOR H591
+Okay.
+
+PATIENT H591
+I wouldn't make it.  Here they don't bother you, you know what I mean.
+
+DOCTOR H591
+Yeah.
+
+PATIENT H591
+They don't bother you.  Yeah I make mistakes and stuff but I go back and do it again, you know what I mean.  But I haven't been.
+
+DOCTOR H591
+Where are you working again?
+
+PATIENT H591
+Uh housekeeping.
+
+DOCTOR H591
+Okay.
+
+PATIENT H591
+Yeah.  So it doesn't really call for much you know.  But my knee gets hurting real bad, my knee gets puffed up.
+
+DOCTOR H591
+Uh-huh.  Um, where are you living right now?
+
+PATIENT H591
+Uh my apartment, it's just by the Midway Airport.
+
+DOCTOR H591
+Good and did you drive here or how did you get here?
+
+PATIENT H591
+I got a license yeah.
+
+DOCTOR H591
+You have your own transportation?
+
+PATIENT H591
+Yeah.  The train takes me though, right here.
+
+DOCTOR H591
+Right here.
+
+PATIENT H591
+Yeah Forest Park.
+
+DOCTOR H591
+Uh-huh.
+
+PATIENT H591
+I catch the 308 and the 308 comes right in front of the building.
+
+DOCTOR H591
+Um, overall any major changes in your health since I last saw you?
+
+PATIENT H591
+I've been having them damn sweats all the time.
+
+DOCTOR H591
+Sweats, what do you mean?
+
+PATIENT H591
+I mean all of a sudden I just start to sweat you know.
+
+DOCTOR H591
+Like night sweats or?
+
+PATIENT H591
+Yeah, I wake up and my whole body's all wet, sweating and everything.  And my pillow's all wet you know.  Like now look I'm sweating right now.
+
+DOCTOR H591
+Are you hot?
+
+PATIENT H591
+@@@ you I'll be sitting real cool and then all of a sudden I can feel it coming.
+
+DOCTOR H591
+Hmm.
+
+PATIENT H591
+Like it’s inside just comes out and then I start sweating.  Everybody on the bus is real cool and I'm over there sweating like a pig, all wet and everything you know.  It's embarrassing.  @@@ like that, try to cool off.
+
+DOCTOR H591
+Hmm.
+
+PATIENT H591
+I don't know what this is from.  But it sure is bothering me.
+
+DOCTOR H591
+Have you had any um, any problems with managing your diabetes?
+
+PATIENT H591
+No.
+
+DOCTOR H591
+No okay.  Um any fevers or chills?
+
+PATIENT H591
+No.
+
+DOCTOR H591
+Chest discomfort?
+
+PATIENT H591
+No.
+
+DOCTOR H591
+Shortness of breath?
+
+PATIENT H591
+I don't think so.
+
+DOCTOR H591
+How about chest pain when you exert yourself?
+
+PATIENT H591
+Not that I know of.
+
+DOCTOR H591
+Any body pains?
+
+PATIENT H591
+No.
+
+DOCTOR H591
+Nausea or vomiting?
+
+PATIENT H591
+No.
+
+DOCTOR H591
+Okay.  How about um problems with your legs?
+
+PATIENT H591
+Like what?
+
+DOCTOR H591
+I don’t know, any problems.  Pain?
+
+PATIENT H591
+My knee.
+
+DOCTOR H591
+When did the knee start bothering you?
+
+PATIENT H591
+A while back, about maybe three weeks ago.
+
+DOCTOR H591
+Did you injure it at all?
+
+PATIENT H591
+I don't know, I think I might have just got up you know, thought I was young again you know, just started doing something that I shouldn't have done and it hurt, you know like something happened and now it's really stiff.
+
+DOCTOR H591
+You didn't have like a sudden pop or?
+
+PATIENT H591
+No I don't think so.  Except when I get up it creaks and now days.
+
+DOCTOR H591
+Swollen?
+
+PATIENT H591
+Yeah I think it is.
+
+DOCTOR H591
+Okay, let's take a look at it.
+
+PATIENT H591
+Okay, do I have to take my pants off?
+
+DOCTOR H591
+Yeah.  Are you having a problem getting around?
+
+PATIENT H591
+Yeah.  I have problems sometimes putting on my own God damn shoes.
+
+DOCTOR H591
+Okay.
+
+PATIENT H591
+You know.  It's rough.  See how big it is there.
+
+DOCTOR H591
+Let's take a look.
+
+PATIENT H591
+Okay.
+
+DOCTOR H591
+Just look straight ahead, stand up straight.
+
+PATIENT H591
+Okay.
+
+DOCTOR H591
+Then just stand up straight.
+
+PATIENT H591
+Okay, trying to.
+
+DOCTOR H591
+Uh-huh.  Now I'll take a look at it.
+
+PATIENT H591
+Okay.
+
+DOCTOR H591
+Why don't you hobble over there?
+
+PATIENT H591
+Hobble?
+
+DOCTOR H591
+Yeah.
+
+PATIENT H591
+Okay.  Uh.
+
+DOCTOR H591
+Does it hurt when you walk?
+
+PATIENT H591
+Yeah.
+
+DOCTOR H591
+How about is it worse when you walk up stairs or down?
+
+PATIENT H591
+Well when I'm walking down I have to you know use this one more and I try to stay off of this, cause I might buckle and that'd make me fall.
+
+DOCTOR H591
+Uh-huh.
+
+PATIENT H591
+You know.  
+
+DOCTOR H591
+Keep it straight.
+
+PATIENT H591
+Sure.
+
+DOCTOR H591
+Any pain?
+
+PATIENT H591
+No.
+
+DOCTOR H591
+No.  Okay, let's see this one.  Can you lay down all the way?
+
+PATIENT H591
+Sure, ah.
+
+DOCTOR H591
+Actually why don't you take off your pants.
+
+PATIENT H591
+@@@.
+
+DOCTOR H591
+@@@.  I'll have you take off your socks and your shoes I need to check your feet.
+
+PATIENT H591
+Uh-huh, I haven't even cut my nails because of that too.
+
+DOCTOR H591
+@@@.
+
+PATIENT H591
+Because I couldn't reach @@@.
+
+DOCTOR H591
+Okay.
+
+PATIENT H591
+You know and they look gross.
+
+DOCTOR H591
+Yeah.
+
+PATIENT H591
+Ooh I'm sorry, shouldn't have dropped my stuff.
+
+DOCTOR H591
+It's okay.
+
+PATIENT H591
+Oh shit, excuse me.  Oh damn it.  Okay.
+
+DOCTOR H591
+Why don't you lie down flat?
+
+PATIENT H591
+Flat?
+
+DOCTOR H591
+Yep.
+
+PATIENT H591
+Alright.  Thank you.  Okay.  Ah, ah, ah.
+
+DOCTOR H591
+Pain in here?
+
+PATIENT H591
+No.  It's not that one; you know I don't think you know, it's the other one, sure.
+
+DOCTOR H591
+Does that hurt?
+
+PATIENT H591
+Yeah a little.
+
+DOCTOR H591
+Hurt?
+
+PATIENT H591
+Uh uh.
+
+DOCTOR H591
+No.
+
+PATIENT H591
+No.  Um.
+
+DOCTOR H591
+No.
+
+PATIENT H591
+Uh uh.
+
+DOCTOR H591
+Okay.  @@@.
+
+PATIENT H591
+Uh.
+
+DOCTOR H591
+In your hip?
+
+PATIENT H591
+Yeah right here.
+
+DOCTOR H591
+Uh-huh.
+
+PATIENT H591
+Uh-huh, it hurt.
+
+DOCTOR H591
+Does that hurt?
+
+PATIENT H591
+No, not at all.
+
+DOCTOR H591
+Does the pain shoot down your leg or is it just localized over the kneecap?
+
+PATIENT H591
+It's more just in the kneecap, inside, like I feel like it's in the bone.
+
+DOCTOR H591
+Uh-huh.
+
+PATIENT H591
+You know.
+
+DOCTOR H591
+I think you've got a little bit of fluid around there.
+
+PATIENT H591
+What'd I do injure it or something?
+
+DOCTOR H591
+Um, I think you've got some arthritis.
+
+PATIENT H591
+Yeah.  Around my elbows hurt a lot too.  They've been hurting.
+
+DOCTOR H591
+@@@ overall.
+
+PATIENT H591
+Oh.  @@@ work I do @@@.  I don't pick up nothing I can't pick up.  I won't even try it.
+
+DOCTOR H591
+Can you take off your socks for me?
+
+PATIENT H591
+Sure, I'm sorry I should do it before.
+
+DOCTOR H591
+That's okay, no problem.
+
+PATIENT H591
+Here's the other thing I do, I forget.  You know it's a bad thing from doing drugs all my life I guess, stupid me.
+
+DOCTOR H591
+You're not using anymore, totally clean?
+
+PATIENT H591
+Well I do the methadone only but other than I've been totally legal.
+
+DOCTOR H591
+Good.
+
+PATIENT H591
+That is for the last couple years.
+
+DOCTOR H591
+Smoking?
+
+PATIENT H591
+Yeah about five cigarettes.  
+
+DOCTOR H591
+A day?
+
+PATIENT H591
+Yeah, it's good but still I want to get off.
+
+DOCTOR H591
+Uh-huh.
+
+PATIENT H591
+Because you know it's awful.
+
+DOCTOR H591
+Okay.
+
+PATIENT H591
+You know.  My feet are gross.
+
+DOCTOR H591
+Deep breath for me.  Breathe out, deep breath, deep breath.  @@@.
+
+PATIENT H591
+@@@.
+
+DOCTOR H591
+@@@.  Nothing?
+
+PATIENT H591
+No I don't think so.
+
+DOCTOR H591
+Any pain?
+
+PATIENT H591
+No, no.
+
+DOCTOR H591
+Any lumps or bumps on the rest of the part of your body?
+
+PATIENT H591
+Not that I know, I don't think so.
+
+DOCTOR H591
+Good.  @@@.
+
+PATIENT H591
+Okay.
+
+DOCTOR H591
+Can you feel that?
+
+PATIENT H591
+Yeah.
+
+DOCTOR H591
+Feel that?
+
+PATIENT H591
+I feel it.
+
+DOCTOR H591
+Good.  You can put back on your socks and shoes; we're all done with that.
+
+PATIENT H591
+Okay.  Pants too?
+
+DOCTOR H591
+Yep.
+
+PATIENT H591
+Alright.  In other words get dressed.
+
+DOCTOR H591
+You got it.
+
+PATIENT H591
+Okay, thank you.  Do you think that's what it is then because you know like before, @@@ and I can't do it no more.  @@@.
+
+DOCTOR H591
+@@@.
+
+PATIENT H591
+@@@.  See that is another thing, I don't have a chair in my room, I got a bed.
+
+DOCTOR H591
+Uh-huh.
+
+PATIENT H591
+And you know it's not really made for getting dressed.
+
+DOCTOR H591
+Yeah.
+
+PATIENT H591
+You know.  I have a small apartment and things are hard to do uh.  Oh shit.  Oh, ah, ah.  Hmm.
+
+DOCTOR H591
+Is the pain persistent @@@?
+
+PATIENT H591
+Yeah.  It could be longer too, you know, there's some pain close to where it was.
+
+DOCTOR H591
+Is it right over the top of it or in the inside, on the outside?
+
+PATIENT H591
+What the pain?
+
+DOCTOR H591
+Yeah.
+
+PATIENT H591
+In the inside, the bone.  That's what it feels like to me.
+
+DOCTOR H591
+But @@@ inside.
+
+PATIENT H591
+Oh yeah out here, right here.
+
+DOCTOR H591
+Okay, I gotcha.
+
+PATIENT H591
+Hmm.
+
+DOCTOR H591
+Do you take anything to help the pain?
+
+PATIENT H591
+I've been taking arthritis pills only.
+
+DOCTOR H591
+Like Tylenol Arthritis?
+
+PATIENT H591
+Uh, the other one, Aleve.
+
+DOCTOR H591
+Aleve.
+
+PATIENT H591
+Yeah Aleve.
+
+DOCTOR H591
+Does it help?
+
+PATIENT H591
+It helps for the rest of the body, you know what I mean but the stiffness, you know what I mean.
+
+DOCTOR H591
+Give me a couple of minutes okay.
+
+PATIENT H591
+Uh-huh.
+
+DOCTOR H591
+Okay.  Anything else we need to do?  Have you had any constipation, diarrhea?
+
+PATIENT H591
+Yeah.
+
+DOCTOR H591
+Constipation?
+
+PATIENT H591
+But I want to tell you about that too, can you give me something for the loosening up, cause that's been hard.  I've been having a hard time going potty.
+
+DOCTOR H591
+Yeah.
+
+PATIENT H591
+You know I mean real bad and it's really bothering me.
+
+DOCTOR H591
+How many times do you go per week?
+
+PATIENT H591
+@@@ per week, I go like twice a day or something.  I go normal, but it just hurts, you know what I mean and it trickles out, @@@.
+
+DOCTOR H591
+Okay and then the other thing is.
+
+PATIENT H591
+Huh.
+
+DOCTOR H591
+Um any um fatigue?
+
+PATIENT H591
+Yeah.
+
+DOCTOR H591
+You do you find it hard to get out of bed?
+
+PATIENT H591
+Yeah.
+
+DOCTOR H591
+@@@.
+
+PATIENT H591
+I've been feeling sleepy and everything and I get to sleep and I still feel sleepy.
+
+DOCTOR H591
+Yeah.
+
+PATIENT H591
+Yeah right now I was falling asleep over there; you know what I'm saying.
+
+DOCTOR H591
+I gotcha.
+
+PATIENT H591
+And uh.
+
+DOCTOR H591
+And you're not on any of the hormone patches just yet?
+
+PATIENT H591
+Yeah I got one on right now but it's the last one.
+
+DOCTOR H591
+Okay.  Well are you going to see the endocrinologist soon?
+
+PATIENT H591
+I don't know, I hope so.
+
+DOCTOR H591
+I'll take a look.
+
+PATIENT H591
+Okay.
+
+DOCTOR H591
+Give me a couple of minutes okay.
+
+PATIENT H591
+Okie doke.
+
+(DOCTOR OUT:  65:04  DOCTOR IN:  72:40)
+
+DOCTOR H591
+Almost done.
+
+PATIENT H591
+Okay.
+
+DOCTOR H591
+I just have a few things for you alright.
+
+PATIENT H591
+Uh-huh.  Okay.
+
+DOCTOR H591
+Okay I gave you a stool softener and your medications should be all squared away.  Let's see do you need any refills, looks like you do.
+
+PATIENT H591
+Uh-huh.
+
+DOCTOR H591
+@@@, simvastatin, uh.  We'll just keep everything as is.  I'm also adding a stool softener and I gave you a cream that you can apply over your knees when you have pain.
+
+PATIENT H591
+Uh-huh.
+
+DOCTOR H591
+Apply it once a day when you have pain there, you can just see how it goes.  You know you can take Aleve you know periodically for the pain as well.
+
+PATIENT H591
+Uh-huh.
+
+DOCTOR H591
+I wouldn't take it more than two or three times a day though.
+
+PATIENT H591
+I only take it every 12 hours.
+
+DOCTOR H591
+Good and then um, so today I want to repeat some labs and I want to get an x-ray of this okay.
+
+PATIENT H591
+When.
+
+DOCTOR H591
+Any time.
+
+PATIENT H591
+Any chance I could go over there the X-Ray.
+
+DOCTOR H591
+Uh-huh.
+
+PATIENT H591
+Alright, I'll try to do it tomorrow morning is that okay?
+
+DOCTOR H591
+That's good.
+
+PATIENT H591
+Thank you very much I appreciate it.
+
+DOCTOR H591
+Okay so let me give you your papers.
+
+PATIENT H591
+Okay.
+
+DOCTOR H591
+Um.
+
+PATIENT H591
+Do I uh go downstairs and uh, I mean what is this thing, see I forget, what I gonna tell you.
+
+DOCTOR H591
+Oh you need to check out.
+
+PATIENT H591
+Okay.
+
+DOCTOR H591
+@@@.
+
+PATIENT H591
+I'll see you again?
+
+DOCTOR H591
+You'll see me again.
+
+PATIENT H591
+Oh that's what I was thinking, the medicine do I go pick it up?
+
+DOCTOR H591
+Oh yeah it's gonna come to your house.
+
+PATIENT H591
+Oh okay.
+
+DOCTOR H591
+Is that perfect?
+
+PATIENT H591
+Yeah.
+
+DOCTOR H591
+Good.
+
+PATIENT H591
+Thank you very much, take care.
+
+DOCTOR H591
+@@@.
+
+PATIENT H591
+I'll see you again though?
+
+DOCTOR H591
+You will, four months.
+
+PATIENT H591
+Four.
+
+DOCTOR H591
+Yep.
+
+PATIENT H591
+Alright thank you.
+
+PATIENT LEAVES:  77:19
+
+Time is 10:45.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238097
+TRANSACTION # 578-10-2-316-0103

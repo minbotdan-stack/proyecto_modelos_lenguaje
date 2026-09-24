@@ -1,0 +1,514 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR M483
+Nice to see you.
+
+PATIENT M483
+How you been?
+
+DOCTOR M483
+Good, how are you?  Take a seat.
+
+PATIENT M483
+Thanks.
+
+DOCTOR M483
+How was your holiday?
+
+PATIENT M483
+Uh uneventful which is good.
+
+DOCTOR M483
+Um how have you been, anything new going on, anything different?
+
+PATIENT M483
+Uh no.  Uh, probably just a little cold and uh, so I just had to use some medicine and you know I get rid of the phlegm and pretty much.
+
+DOCTOR M483
+Uh-huh.
+
+PATIENT M483
+@@@ nothing new @@@.
+
+DOCTOR M483
+How about uh the Waldenstrom stuff is that all on the back burner?
+
+PATIENT M483
+Uh well, I'm being monitored uh I haven't uh.
+
+DOCTOR M483
+@@@.
+
+PATIENT M483
+Yeah I had, I went over there to get my port @@@ uh get the labs from them cause they did the labs so they should be coming through.
+
+DOCTOR M483
+Yeah I'm looking at them now.  They're pretty good.  Nothing abnormal in the labs.
+
+PATIENT M483
+Okay.  Good.  Uh the one thing that I was wondering about and uh I think I talked to you last time over the phone is uh, uh, I went for a chiropractic um, I can't without my teeth I guess, I don't know I'm not sure.
+
+DOCTOR M483
+Yeah.
+
+PATIENT M483
+But uh and I initiated that uh on my own because I was having trouble uh with my back sleeping and stuff like that so uh, that has been a burden to me uh but I was wondering am I in any way eligible for uh reimbursement for those uh.
+
+DOCTOR M483
+I don't think that the VA does anything with chiropractic services.
+
+PATIENT M483
+Okay.
+
+DOCTOR M483
+What about physical therapy through the VA would you be interested in trying that?
+
+PATIENT M483
+Uh I don't know if that's the same thing?
+
+DOCTOR M483
+It's not but it's the best thing that they offer.
+
+PATIENT M483
+Alright.
+
+DOCTOR M483
+So what it would be is I would send you to see a physical rehabilitation doctor and he would do an exam on you.  He would figure out, you know you have certain limitations or certain weaknesses, he would send you to a therapist and they would help to work on strengthening those.  Um for a lot of people it's very helpful.
+
+PATIENT M483
+Okay.
+
+DOCTOR M483
+You could always go and see if you don't like it, you don't have to do it anymore.  You know it's not gonna, it's not going to bind you in to anything.
+
+PATIENT M483
+Alrighty.
+
+DOCTOR M483
+Uh, would you like me to, I could put in a consult so they would see you.
+
+PATIENT M483
+Okay that's fine.
+
+DOCTOR M483
+And then it's up to you know what time you want to do it but.
+
+PATIENT M483
+Yeah right now I'm two months into the chiropractor.
+
+DOCTOR M483
+Okay.
+
+PATIENT M483
+And then again it's helped me out uh and I'm uh up tight you might say.
+
+DOCTOR M483
+All in the back?
+
+PATIENT M483
+Yeah, well I've got arthritis in the small back, small of the back anyway.  That was something that was uh found in an MRI or x-ray.
+
+DOCTOR M483
+Did you hurt your back at any point?
+
+PATIENT M483
+Years ago uh, as a bakery salesman I threw it out so it has been tender.
+
+DOCTOR M483
+I'm telling them what's wrong with you. (Doctor typing on keyboard)
+
+PATIENT M483
+But uh the x-ray or the MRI uh showed uh arthritis in the small of the back.  
+
+DOCTOR M483
+Um do you know @@@.  Okay that'd be for a colonoscopy @@@.  Did you get your shots, it looks like you did.  You got your immunization on November 5th.
+
+PATIENT M483
+Yeah, 2002, I need a colonoscopy, that was the last time.  
+
+DOCTOR M483
+@@@ follow-up.
+
+PATIENT M483
+So it's every ten years.
+
+DOCTOR M483
+Every ten years cause yours was negative.  Are you going to see the hematologist in the clinic, @@@ where he is?
+
+PATIENT M483
+Uh I got @@@.
+
+DOCTOR M483
+Yeah.
+
+PATIENT M483
+Uh and that's gonna be coming up soon, I think it's the 8th.  The 6th or the 8th.
+
+DOCTOR M483
+Okay, DOCTOR is a good friend.
+
+PATIENT M483
+Okay.
+
+DOCTOR M483
+She's a very nice girl.
+
+PATIENT M483
+Yeah.
+
+DOCTOR M483
+We worked in med school together.
+
+PATIENT M483
+Oh great.
+
+DOCTOR M483
+I know her and her husband pretty well.  Alright you're also due for some blood work.  Now your due for a PSA check.  Your last PSA was elevated, so I'm going to put um.
+
+PATIENT M483
+I've got to be here Monday so I can do it then.
+
+DOCTOR M483
+Let's do it then.  Let's just do it then.
+
+PATIENT M483
+Would I go back to uh.
+
+DOCTOR M483
+Where you got it today.
+
+PATIENT M483
+In the, okay back to Oncology.
+
+DOCTOR M483
+Oh no, no, no I didn't know that's what they're going to do; it's the first floor regular laboratory.
+
+PATIENT M483
+Hmm, first floor.
+
+DOCTOR M483
+Yeah I forgot, I forgot that you go upstairs to the special one.
+
+PATIENT M483
+Right.
+
+DOCTOR M483
+And then uh your cholesterol is fantastic, you know a little bit, but not bad at all, I mean it's pretty good.  Well let's see what you got you.  But you take no medications right?
+
+PATIENT M483
+Nothing, no.  Other than Tylenol and Advil and stuff like that to help alleviate some of the unpleasantness of the back.
+
+DOCTOR M483
+Were you ever a smoker?
+
+PATIENT M483
+At one time yes I was.
+
+DOCTOR M483
+How long were you a smoker?
+
+PATIENT M483
+Uh, I'd say from about my 16th birthday to probably my 30th, probably about 15 years.
+
+DOCTOR M483
+Yeah.
+
+PATIENT M483
+At least.
+
+DOCTOR M483
+But then you quit 30 years ago.
+
+PATIENT M483
+Yes, yeah but I had it and I wish I could have convinced my sister to do it.  She's got emphysema.
+
+DOCTOR M483
+Yeah that's when it gets tough.
+
+PATIENT M483
+I had an uncle that died from emphysema and I and believe me there's nothing worse than to go to reposition your uncle who was 6' 3" 250 pounds and then he's probably 90 pounds then and uh he tells you to get the hell out of the room.
+
+DOCTOR M483
+Oh I know it's hard.
+
+PATIENT M483
+Because that's what I was thinking you know.
+
+DOCTOR M483
+How is your mood?
+
+PATIENT M483
+Uh generally okay.  Uh I have uh problems being estranged from my uh family.
+
+DOCTOR M483
+I remember you told me about that.
+
+PATIENT M483
+Yeah and uh it's really.  I tried to investigate as many avenues as I can but it seems like nobody wants to withdraw the.
+
+DOCTOR M483
+Is there anyone in your family you still talk to?
+
+PATIENT M483
+Uh my mother and my two sisters no.  Uh I don't try to communicate with the cousin, who is now taking care of his mother.  I don't want to cause anybody any.
+
+DOCTOR M483
+More problems?
+
+PATIENT M483
+Yeah no, that's not what I want.  I wanted uh visitation rights to my mother and my sister denied me that.  She is my mother's caretaker.  I have two sisters and the one that's the caretaker is.
+
+DOCTOR M483
+But they live close by?
+
+PATIENT M483
+Uh, what my mother's house is in Chicago, I live in Overland Park.
+
+DOCTOR M483
+Okay.
+
+PATIENT M483
+So that's not really that far away.
+
+DOCTOR M483
+Yeah @@@.  Um every time you come in here, we need to look @@@.  This time your blood pressure is a little elevated and have they ever tried you on blood pressure medications or ever talked to you about this?
+
+PATIENT M483
+Years ago.
+
+DOCTOR M483
+Yeah how did you tolerate those?
+
+PATIENT M483
+Uh, it was okay but since I went through the chemo and the plasmapheresis uh they took me off the blood pressure medications so now, I feel comfortable about it really.
+
+DOCTOR M483
+You feel you wish you had some or you don't want any?
+
+PATIENT M483
+No I don't really want any.
+
+DOCTOR M483
+Okay, well then we'll just pull them off.  Your blood pressure is not terrible but uh, we'll hold off for now and if it gets worse in the future we might have to reconsider.
+
+PATIENT M483
+Hmm.
+
+DOCTOR M483
+Okay, everything else looks good.  I mean your numbers are good.  Your labs are fantastic.  Your @@@ seems to be very under control um.  There's not much else um.  You'll know we'll have @@@ in the summer but there's not much else other than we'll get that toxic value checked tomorrow.
+
+PATIENT M483
+If you could, uh well you said and there's no chiropractic uh uh.
+
+DOCTOR M483
+It was a physical rehab guy, I put that one out.
+
+PATIENT M483
+Okay, we'll work towards that and see what happens there because uh I noticed that uh with uh the chiropractor there's two parts, one is muscle and one is bones and uh it seems to be uh working.  I mean I feel better, this is over two months.  Now I feel uh a lot more comfortable.  I still ache in the morning when I get up but.
+
+DOCTOR M483
+They might be able; the rehab doctor might be able to help you with that.  That's what their whole area is.  I know you prefer seeing a chiropractor but they're very good with specific exercises and stretching to help out bones and muscle pains.
+
+PATIENT M483
+Uh-huh.
+
+DOCTOR M483
+So we're gonna get you in to see them and see what they have to offer but I think that that would be helpful to you as well.
+
+PATIENT M483
+Okay and uh I just worry about the other things, uh the vision as far as at the Waldenstrom.
+
+DOCTOR M483
+Yeah.
+
+PATIENT M483
+And also I still have the tinnitus in my ears and uh the one ear is particularly deaf but uh the tinnitus it bothers me that it's going to be with me the rest of my life, I understand?
+
+DOCTOR M483
+I think some of those are side effects as part of the Waldenstrom spectrum.
+
+PATIENT M483
+@@@ yeah.  Uh is Waldenstrom an organization or uh that has a track record and Waldenstrom patients uh they are more or less people that have it and go through it and what their experiences are?
+
+DOCTOR M483
+@@@.  Yeah I'll have to look.  I know DOCTOR might know that too because that's more of her area.
+
+PATIENT M483
+Alright.
+
+DOCTOR M483
+But I @@@.  Do you have access to a computer?
+
+PATIENT M483
+Yeah.
+
+DOCTOR M483
+Yeah I would check out the internet, if you type in Waldenstrom, I'm sure you'll find a group of people living with this.
+
+PATIENT M483
+Uh-huh.
+
+DOCTOR M483
+They kind of describe some of their symptoms and what they go through.
+
+PATIENT M483
+Uh-huh.  I would like to be @@@.
+
+DOCTOR M483
+Up-to-date.
+
+PATIENT M483
+Yeah and prepare for, I live alone and I have to prepare for some sort of uh, uh long term uh care that I can provide for myself and have the foresight.
+
+DOCTOR M483
+To take care of that.
+
+PATIENT M483
+Yeah.  
+
+DOCTOR M483
+Okay, ask her.  I'll look through; I haven't really looked for it.  You're actually the only patient I've ever taken care of with Waldenstrom.
+
+PATIENT M483
+After all my life, to finally become unique.  There's only about 300 million a year but.
+
+DOCTOR M483
+Right.  I don't know anybody else like you.
+
+PATIENT M483
+Well, actually thank you (laughter).
+
+DOCTOR M483
+Well let me talk to my boss and I'll be right back and we'll take a listen to you.
+
+PATIENT M483
+Alright.
+
+DOCTOR M483
+@@@.
+
+PATIENT M483
+Thank you.
+
+DOCTOR M483
+I'll be right back, relax.
+
+(DOCTOR OUT: 24:36  DOCTOR IN: 26:29)
+
+DOCTOR M483
+Okay, I'll take a peek, I'll take a listen to you and then I think we can do six months.  Um, you'll probably see DOCTOR in the meantime.
+
+PATIENT M483
+Right.  Uh that's next week.
+
+DOCTOR M483
+Oh fantastic.
+
+PATIENT M483
+Yeah.  Everything will @@@.
+
+DOCTOR M483
+I'm going to take a listen to your breathing okay?
+
+PATIENT M483
+Okay.
+
+DOCTOR M483
+There you go.  Oh you got your warm pants on underneath @@@.
+
+PATIENT M483
+Well, @@@ short under @@@.  Don't have the full length.
+
+DOCTOR M483
+Big breath.  Good.  Good.  Take a listen now.  @@@.  Any trouble going to the bathroom?
+
+PATIENT M483
+No.
+
+DOCTOR M483
+No pains, change in your stool, dark stool, light stool?
+
+PATIENT M483
+No.
+
+DOCTOR M483
+Nothing like that.  Uh, I forget did we, let me check my notes cause.  Um you're due for your once a year rectal exam, are you okay?
+
+PATIENT M483
+Yeah, is it up to you.
+
+DOCTOR M483
+It's just the digital one where I check the size of your prostate.
+
+PATIENT M483
+Okay.
+
+DOCTOR M483
+It's up to you. Uh we can do just the blood test and if the blood test is elevated then we can talk about further testing.
+
+PATIENT M483
+Alright.
+
+DOCTOR M483
+Would you prefer to do it that way?
+
+PATIENT M483
+Yeah.
+
+DOCTOR M483
+Okay, so otherwise I'm gonna take you over to see the nurse and then I'm gonna have you come see me in six months.  Uh I'll talk to DOCTOR and let her know about what's kind of going on and then she, we'll kind of communicate back and forth uh but otherwise everything looks pretty good.
+
+PATIENT M483
+Okay.
+
+DOCTOR M483
+@@@ and then I'm gonna take you over to see the nurse.
+
+PATIENT M483
+Oh okay.  @@@.  Yeah these armor alls are great, especially the short ones, they come up just above your knees and.
+
+DOCTOR M483
+The probably keep you warm.
+
+PATIENT M483
+Oh, you need something @@@ in the winter and if I get a cold for a long time then sometimes it's a little bit too hot @@@.  As long as I'm outside @@@.
+
+DOCTOR M483
+It's cold out there now.  
+
+PATIENT M483
+I have been in colder weather than this.  One time I was on @@@ trip and it was 28 below zero.
+
+DOCTOR M483
+Where were you?
+
+PATIENT M483
+I was up in Wisconsin.
+
+DOCTOR M483
+I grew up in Minnesota.
+
+PATIENT M483
+Oh.
+
+DOCTOR M483
+So I'm used to it.
+
+PATIENT M483
+Okay @@@ yeah.
+
+DOCTOR M483
+Um let me take you to see the nurse  @@@.
+
+PATIENT M483
+Thank you.
+
+PATIENT LEAVES 30:02.
+
+Time is 2:15.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1235335
+TRANSACTION # 578-10-2-316-0103

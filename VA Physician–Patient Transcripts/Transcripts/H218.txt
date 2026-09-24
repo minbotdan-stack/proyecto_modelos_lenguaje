@@ -1,0 +1,865 @@
+
+
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+PATIENT H218
+How you doing?
+
+DOCTOR H218
+I feel a little weird @@@.  Yeah let me see if I can move some chairs though.
+
+SECOND PERSON H218
+Okay.
+
+DOCTOR H218
+Give me a sec.  @@@.  Right from here.
+
+SECOND PERSON H218
+Okay.
+
+DOCTOR H218
+Are we gonna fit?
+
+PATIENT H218
+Yeah.  Uh-huh.
+
+DOCTOR H218
+Okay.
+
+PATIENT H218
+You want me to get up there?
+
+DOCTOR H218
+No, you can sit here.
+
+PATIENT H218
+Um okay.
+
+DOCTOR H218
+Don’t worry.  We'll turn it this way.  You can have a seat here.
+
+SECOND PERSON H218
+Okay.
+
+DOCTOR H218
+Close the door.
+
+SECOND PERSON H218
+Okay.
+
+DOCTOR H218
+And that way we can.
+
+SECOND PERSON H218
+Oh.
+
+DOCTOR H218
+Move you back a little bit.  This, there you go and we're all in the room so that's good.  I'm DOCTOR, nice to meet both of you.
+
+SECOND PERSON H218
+Nice to meet you.
+
+PATIENT H218
+@@@.
+
+DOCTOR H218
+Uh how are you doing today?
+
+PATIENT H218
+Superb.
+
+DOCTOR H218
+Well that's excellent.  You are one of the first person today who say he's superb.  You win the superb award.  Alright, so we haven't seen you in this clinic for a while.
+
+PATIENT H218
+Right.
+
+DOCTOR H218
+Cause you have been in and out of the hospital.
+
+PATIENT H218
+Continuously.
+
+DOCTOR H218
+@@@ more times than I can tell.
+
+PATIENT H218
+Right.
+
+DOCTOR H218
+Alright so since the last time you saw us, about a year ago, a few things have happened right.  You've had surgery up here.  You got surgery on your foot.  You had that cardiac catheterization done.
+
+PATIENT H218
+That's right.
+
+DOCTOR H218
+You were seen at Hines, you're like uh we'll just manage you with your medicines right, is that what they decided?
+
+PATIENT H218
+Uh-huh.
+
+DOCTOR H218
+Okay and then recently you were just hospitalized because you were having nausea and vomiting.
+
+PATIENT H218
+Yeah.
+
+DOCTOR H218
+So @@@.
+
+PATIENT H218
+And also I had uh amputation.
+
+DOCTOR H218
+Yep, yep.  That's a lot, that's enough for you.
+
+PATIENT H218
+Yeah.
+
+DOCTOR H218
+You don't get any more for the rest of the year.
+
+PATIENT H218
+(Laughter)
+
+DOCTOR H218
+Um how are you, how's the nausea and the vomiting?
+
+PATIENT H218
+Um right now it's relatively cool.  I haven't had much of it.
+
+DOCTOR H218
+Okay.  Um those pills they sent you home with, that Reglan and metoclopramide, it's that one you take before you eat, is that helping?
+
+PATIENT H218
+I don't know tell me.  I mean I take the medicine so maybe it is.
+
+DOCTOR H218
+So it is cause it's not coming back right.
+
+PATIENT H218
+Right.
+
+DOCTOR H218
+We just keep going with it okay.  We don't want to mess up a good thing alright, okay.  And then that other stomach acid medicine, the ranitidine, has that been helping you?
+
+PATIENT H218
+That's the one for the gut?
+
+DOCTOR H218
+Yeah.
+
+SECOND PERSON H218
+No the gut is the one you take before the meal.
+
+DOCTOR H218
+Okay.  The other one is uh.
+
+SECOND PERSON H218
+It's that half a pill that you take.
+
+DOCTOR H218
+Twice a day?
+
+SECOND PERSON H218
+Twice a day for the stomach.
+
+DOCTOR H218
+Okay, okay.
+
+SECOND PERSON H218
+So he's been taking that.
+
+DOCTOR H218
+Okay.  So tell me what you're taking for your diabetes?
+
+PATIENT H218
+Uh 10 cc.
+
+DOCTOR H218
+Uh-huh.
+
+PATIENT H218
+Every evening.
+
+DOCTOR H218
+Okay and do you check your sugars?
+
+PATIENT H218
+Every now and then.
+
+DOCTOR H218
+Okay.  So um I would like for you to check your sugars more regularly.  Anytime anybody's on insulin we got to just check them a little bit more frequently.
+
+PATIENT H218
+Uh-huh.
+
+DOCTOR H218
+Okay.  Um when you do check them what do you think they run?
+
+PATIENT H218
+You was gonna say something.  Oh well anywhere from uh 140, 150, up to maybe 160, or 70.
+
+DOCTOR H218
+Okay.  Any lows, have you felt low?
+
+PATIENT H218
+Uh when I first got out of the hospital I was getting some 80s and 70s.
+
+DOCTOR H218
+Okay and you felt it then huh.
+
+PATIENT H218
+Uh-huh.
+
+DOCTOR H218
+Okay, okay, the 140s to 150s, low 70s, alrighty.  Okay now the last number we had on you, do you know what an A1c is?
+
+PATIENT H218
+No.
+
+DOCTOR H218
+Okay so instead of, so what an A1c is this new measure that we have for the last couple of years uh to check on patients with diabetes.  It's a test that we check in your blood and they checked it in your blood when you were in the hospital and it gives you kind of like an average reading over the three months.
+
+PATIENT H218
+Uh-huh.
+
+DOCTOR H218
+When you just prick your finger it's just really.
+
+PATIENT H218
+Right.
+
+DOCTOR H218
+What you just age, what time of day it is, what medicines you're on but this one gives us an average for over three months okay and for every diabetic their goal is less than 7 okay.  For you, yours was 7.3.  So close but not close yeah.
+
+PATIENT H218
+Still a little bit high.
+
+DOCTOR H218
+Yeah so um I think since they put you on that regimen of insulin we have to just wait a couple of months right, to see if it's really taking effect.  Which is fine you know.
+
+PATIENT H218
+Uh-huh.
+
+DOCTOR H218
+Which is okay so we'll just have you check in a couple of months and see how that's going.  Now um issue number two is you had a history of high blood pressure right.  Yes.
+
+PATIENT H218
+Well I didn't have a history but I did develop a history.
+
+DOCTOR H218
+Okay @@@. Um and right now we have you on metoprolol 75 mg a day right?
+
+PATIENT H218
+Uh-huh.
+
+DOCTOR H218
+Um the lisinopril 10 mg a day okay.
+
+PATIENT H218
+Uh-huh.
+
+DOCTOR H218
+And you're taking all those?  You don't miss a dose?
+
+PATIENT H218
+Right.
+
+DOCTOR H218
+Okay good, you're close enough to where I wouldn't change anything about it.  You're 134, 133 so that's good enough for me.  Um do you check your blood pressure at home?  Do you have a blood pressure cuff?
+
+PATIENT H218
+I have one.  I haven't been using it cause I'm in the hospital.
+
+DOCTOR H218
+You didn't do it yourself cause we're checking it for you.
+
+PATIENT H218
+And plus every, there's a woman who comes in and she does it.
+
+DOCTOR H218
+Oh good.  What has it been running when she does it?
+
+PATIENT H218
+Uh 160, 120s, 130s.
+
+DOCTOR H218
+So that kind ranges in the low one okay, okay.  We're okay now so I don't want to do too much so that's okay and then last week we started you on a medicine for your cholesterol right?
+
+PATIENT H218
+Yeah.
+
+DOCTOR H218
+The simvastatin.
+
+PATIENT H218
+Uh-huh.
+
+DOCTOR H218
+Okay good so let's keep going with that.  You're not having any muscle pain.
+
+SECOND PERSON H218
+I think he needs some more of the cholesterol.
+
+DOCTOR H218
+Okay, sure. We’ll refill it all.
+
+SECOND PERSON H218
+Okay.
+
+DOCTOR H218
+And then are you taking a baby aspirin?
+
+PATIENT H218
+Yes.
+
+SECOND PERSON H218
+Yeah.
+
+DOCTOR H218
+A baby aspirin.  Okay, um so a couple people we got to get you hooked up with okay.  Um one is our cardiologist okay.
+
+PATIENT H218
+The cardiovascular people?
+
+DOCTOR H218
+Not the vascular people but the.
+
+PATIENT H218
+Oh I'm saying that because the Podiatry people.
+
+DOCTOR H218
+Uh-huh.
+
+PATIENT H218
+Say I need to.
+
+DOCTOR H218
+If you need to see the Vascular Clinic yes.
+
+PATIENT H218
+I need to see them.
+
+DOCTOR H218
+Yes you do and we can get you in to see them too okay and when was the last time you checked your eyes to see if the diabetes?
+
+PATIENT H218
+It's uh.
+
+DOCTOR H218
+Has it been a while?
+
+PATIENT H218
+Several months.
+
+DOCTOR H218
+Okay fine, we can get you in to see them.
+
+PATIENT H218
+And they started giving me those laser.
+
+DOCTOR H218
+Uh-huh, uh-huh.
+
+PATIENT H218
+It hurt so bad.
+
+DOCTOR H218
+Oh.
+
+PATIENT H218
+So I stopped it.
+
+DOCTOR H218
+Oh no, we can see if there's something else we can do.  Um and then just a second, next is your colonoscopy.  Do you remember having one of those done?
+
+PATIENT H218
+Oh I've had a lot of those done in the past.
+
+DOCTOR H218
+In the past and when was the last one do you think?
+
+PATIENT H218
+Oh it's been quite a while.
+
+DOCTOR H218
+Okay.
+
+PATIENT H218
+I haven't ever had it done here.
+
+DOCTOR H218
+Yeah.  I think we said in our last note that you had it done about eight years ago.
+
+PATIENT H218
+Uh-huh.
+
+DOCTOR H218
+About a year ago so about nine years ago and then we tried to bring up some records from Mercy.
+
+PATIENT H218
+Yeah now Mercy, I went by there.  Mercy said after ten years they get rid of all their records.
+
+DOCTOR H218
+Okay, well is a colonoscopy something you want, well we recommend it for anybody between the age of 50 and 75 we recommend you get a colonoscopy and if it's been that long.
+
+PATIENT H218
+Okay.
+
+DOCTOR H218
+It would probably be about time again, is that okay?
+
+PATIENT H218
+I can do it yeah.
+
+DOCTOR H218
+Okay.  Alrighty.  Okay well, anything that's bothering you today?
+
+PATIENT H218
+Um yeah I've I have been - applied for my veterans benefits.
+
+DOCTOR H218
+Uh-huh.
+
+PATIENT H218
+And they came back with a 20%.
+
+DOCTOR H218
+Uh-huh.
+
+PATIENT H218
+Well when I checked on them half the stuff that's happened with me they didn't have no records of.
+
+DOCTOR H218
+Oh.
+
+PATIENT H218
+So.
+
+DOCTOR H218
+Uh so I think we're gonna have you go through our social worker for that.  I'll be honest with you I don't know what @@@.
+
+PATIENT H218
+Oh okay.
+
+DOCTOR H218
+We'll go along with that but when you go up front to the desk to check out just ask them where you can go to ask somebody about the veterans benefits.
+
+PATIENT H218
+Uh-huh.
+
+DOCTOR H218
+And they'll point you in the right direction.
+
+PATIENT H218
+Okay.
+
+DOCTOR H218
+Okay.  Alright.  Let's take a listen to you.
+
+PATIENT H218
+Was there any other issues?
+
+SECOND PERSON H218
+Not that I can remember.
+
+DOCTOR H218
+Okay.  Big deep breaths.  Again.  Again and again and again.  Good.  Go ahead and lie back.  Okay good.  Let me check one other thing.
+
+PATIENT H218
+Uh-huh.
+
+DOCTOR H218
+How are your kidneys doing, let's see.  Okay, not bad, not bad.  Alrighty, so you said you want me to fill everything?
+
+PATIENT H218
+Yes.
+
+DOCTOR H218
+Okay good.  Let me talk it over with my boss and I'll be right back okay.
+
+PATIENT H218
+Okay.
+
+DOCTOR H218
+Okay.
+
+(DOCTOR OUT:  13:45  DOCTOR IN:  23:09)
+
+FIRST DOCTOR H218
+PATIENT this is my boss DOCTOR.
+
+SECOND DOCTOR H218
+Hi there.  How are you?
+
+PATIENT H218
+Hi there.
+
+SECOND DOCTOR H218
+Nice to meet you guys.
+
+PATIENT H218
+How you doing?
+
+SECOND DOCTOR H218
+My you've been through a lot lately huh.
+
+PATIENT H218
+Uh yeah.
+
+SECOND DOCTOR H218
+But you're looking great though.  You don't seem any worse for the wear I would say.
+
+PATIENT H218
+Well that's good.
+
+SECOND DOCTOR H218
+Looks like you're doing everything right.
+
+PATIENT H218
+Hmm.
+
+SECOND DOCTOR H218
+Um okay well good.  So how are you feeling?
+
+PATIENT H218
+I'm feeling alright.
+
+SECOND DOCTOR H218
+Good.  Both doing well?  Okay well I just wanted to make I introduced myself because uh you'll be seeing me around.  You may occasionally see me too in addition to DOCTOR.
+
+PATIENT H218
+Okay.
+
+SECOND DOCTOR H218
+So I wanted you to, if you saw me you could recognize that uh I'm one of the attendings here but uh she's got a plan all set for you.  Now are you getting therapy at all at home or?
+
+PATIENT H218
+I haven't begun therapy yet because I can't really put pressure on it.
+
+SECOND DOCTOR H218
+Okay.
+
+PATIENT H218
+And I think I have a appointment in a month or so.
+
+SECOND DOCTOR H218
+For the therapy?
+FIRST DOCTOR H218
+@@@.
+
+SECOND DOCTOR H218
+Okay perfect.
+
+FIRST DOCTOR H218
+@@@ get better.
+
+PATIENT H218
+Right.
+
+SECOND DOCTOR H218
+So they don't want you to bear any weight yet.
+
+PATIENT H218
+Right.
+
+SECOND DOCTOR H218
+Okay that's fine um we just wanted to make sure that that was being looked at but.
+
+PATIENT H218
+Uh-huh.
+
+SECOND DOCTOR H218
+But sounds like they're on top of it.  So we'll just do some fine tuning and you'll be, you know, before long you'll be getting back to the point where you're able to.
+
+PATIENT H218
+Do some therapy.
+
+SECOND DOCTOR H218
+Yeah do therapy and bear weight on that leg.
+
+PATIENT H218
+Uh-huh.
+
+SECOND DOCTOR H218
+Get up and around.  Well good luck to you and I'll be seeing, I'm sure I'll see you soon.
+
+PATIENT H218
+Okay.
+
+SECOND DOCTOR H218
+Okay take care, alright.
+
+PATIENT H218
+Thank you for stopping in.
+
+SECOND DOCTOR H218
+Okay sure.
+
+PATIENT H218
+Alright.
+
+FIRST DOCTOR H218
+So a couple of changes we're gonna make.  So for the diabetes, uh we think that you're actually overall doing pretty good.  I think we could just fine tune it just a little bit.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+So instead of taking the 10 units, if you want to bump it up just a little bit to the 12 okay.
+
+PATIENT H218
+12 okay.
+
+FIRST DOCTOR H218
+And we'll see how it is.  You can check your sugars.  I want you to start checking your sugars more regularly at home okay.  So if you want to check it up, you know, mostly like five times out of the week you check it before.
+
+PATIENT H218
+Uh-huh.
+
+FIRST DOCTOR H218
+In the mornings or something you know before you eat anything and then a couple of times a week check it uh about an hour or so or two hours after you eat okay.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+So that we can see both what those are and in three months when you come back to see me, I want you to tell me how your sugars have been doing, okay.
+
+PATIENT H218
+Has done, okay.
+
+FIRST DOCTOR H218
+Now if you find that you're going to low, cut back you know, try 11 units.  If that's not helping then go back to 10 okay.
+
+PATIENT H218
+Right and it's such a small difference.
+
+FIRST DOCTOR H218
+I know.  I know.  But its, but for you it might be a bigger difference.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+Because you're not that heavy you know.
+
+PATIENT H218
+Uh-huh.
+
+FIRST DOCTOR H218
+So that makes a little bit more of a fine tuning okay.
+
+PATIENT H218
+Yeah.
+
+FIRST DOCTOR H218
+And we'll get you back in to see our eye doctor.  Let's see when the last time we had you see them last um.
+
+PATIENT H218
+I know it's been at least four months, five months.
+
+SECOND PERSON H218
+Almost a year.
+
+PATIENT H218
+No that's too long isn't it?
+
+SECOND PERSON H218
+No it's been almost a year.  It was in the summertime when you had it done.
+
+PATIENT H218
+Where at?
+
+SECOND PERSON H218
+@@@.
+
+PATIENT H218
+Time really flies when you're having fun.
+
+FIRST DOCTOR H218
+Well I'm glad you think that was fun.  I don't know about that.  But yeah we'll get you back in to see them.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+And we'll get you back to see the Eye Clinic so let's do that.  We're going to increase that to 12 okay and that's it for the diabetes okay.  So next is for your heart and your blood pressure.  So with your heart condition that we were talking about your blood pressure could be just a little bit lower and it would be better okay.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+Not too crazy but just a little lower so we wanted to you know that lisinopril that you're on, so you're taking like half a tablet right?
+
+SECOND PERSON H218
+Uh-huh.
+
+FIRST DOCTOR H218
+We want you to go ahead and take a full tablet of it okay.  so, it'll be one tablet.
+
+PATIENT H218
+That's one tablet, one full on that one.
+
+FIRST DOCTOR H218
+Yes a full one.
+
+PATIENT H218
+And for the other one I'm already taking 1 1/2.
+
+FIRST DOCTOR H218
+Yeah.  That one you leave just as it.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+You leave that one just as is okay.  So we'll increase that one to 20 and then next is we want to get you in to see our cardiologist, okay.
+
+PATIENT H218
+Uh-huh.
+
+FIRST DOCTOR H218
+So let me see about that we'll put in a new.
+
+PATIENT H218
+And this is vascular?
+
+FIRST DOCTOR H218
+So one is just for the heart and one is for everything else.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+Okay so we'll get you in to see both of them okay.  Let me just make this order for it okay.  So you have one for vascular, they're gonna send you a letter in the mail like for this month or so.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+And we'll get you in to see our heart doctors too.
+
+PATIENT H218
+I think the vascular people said I need to get in there to see them quickly.
+
+SECOND PERSON H218
+Yeah.  The vascular people
+
+PATIENT H218
+For vascular.
+
+FIRST DOCTOR H218
+Oh no, no, no, we can put it in here.
+
+PATIENT H218
+Vascular.
+
+FIRST DOCTOR H218
+Let's just see.
+
+PATIENT H218
+Cause they want to check the blood flow and all of that.
+
+FIRST DOCTOR H218
+Vascular Clinic and we'll say two weeks okay.  Let's do that.
+
+PATIENT H218
+Unless you can do it in one week cause I'll be back at Podiatry next week.
+
+FIRST DOCTOR H218
+Okay, it's up to them.  I don't know what they have.  Let me put one to two weeks.
+
+PATIENT H218
+Uh-huh.
+
+SECOND PERSON H218
+You go back for your @@@.
+
+PATIENT H218
+On Tuesday.  @@@.
+
+FIRST DOCTOR H218
+Okay.  And the cardiologist you'll see and then the colonoscopy we'll do next time okay.  So I want you to see all these people first okay.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+So that's it.  So you come and see me in three months.  Up front they'll make you a clinic appointment to Vascular Surgery and for the heart doctors okay.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+Um and then they'll also make you a clinic for the eye appointment as well okay um and then you come and see me in three months and at that time we'll check your sugars again and the blood, the A1c that I was talking about.
+
+PATIENT H218
+Uh-huh.
+
+FIRST DOCTOR H218
+And we'll take it from there sound okay.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+Let me go through and refill all the rest of your medicines okay.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+Okay.  You're all set.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+So go ahead and give this to them up front.
+
+PATIENT H218
+Okay.
+
+FIRST DOCTOR H218
+So I'll give this to you.
+
+PATIENT H218
+Yeah uh-huh.
+
+FIRST DOCTOR H218
+Alright I'll help you get you out of here.  Just open the door first and bring him in and I maybe back you out huh.
+
+PATIENT H218
+If it's get to wherever I was.
+
+FIRST DOCTOR H218
+Yeah.
+
+SECOND PERSON H218
+Yeah.
+
+PATIENT H218
+What's all this on the chair?  You can hold all this.
+
+FIRST DOCTOR H218
+I'll open the door.  Alright.  Let me open this.
+
+PATIENT H218
+Alright.  Okay.
+
+FIRST DOCTOR H218
+Take care.
+
+SECOND PERSON H218
+Alright, take care.
+
+PATIENT H218
+Do I deliver this to the desk?
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275404
+TRANSACTION # 578-10-2-316-0103

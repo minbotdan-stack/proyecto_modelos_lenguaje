@@ -1,0 +1,1477 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR X012
+PATIENT?
+
+PATIENT X012
+Yes.
+
+DOCTOR X012
+Hi.
+
+PATIENT X012
+Hi how are you?
+
+DOCTOR X012
+Come on back sir.  How you doing?
+
+PATIENT X012
+Oh I'm doing alright.  The arthritis, it's a little @@@ to walk after.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+It's just that I had a little thing that occurred within the last 24 hours with my ankle.
+
+DOCTOR X012
+Okay.  @@@.
+
+PATIENT X012
+Yes.
+
+DOCTOR X012
+@@@.
+
+PATIENT X012
+The swelling has gone, basically gone down.
+
+DOCTOR X012
+Great.
+
+PATIENT X012
+Yeah, do I sit here or there?
+
+DOCTOR X012
+Oh it doesn't matter.
+
+PATIENT X012
+If I just take that shoe off, then I got to sit over here.
+
+DOCTOR X012
+Okay, that’s fine.
+
+PATIENT X012
+It that's the deal.  Uh, let’s see now.  Basically, you could see @@@ actually.  This one here is normal and this one is a little bit wider.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Do you want to see my feet or?
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Well I have a pain still though in my toe.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+Alright, these are socks @@@.  Anytime I'm walking I need and these are a little bit swollen right now.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+Well that's one half.
+
+DOCTOR X012
+So that's the spot in here huh?
+
+PATIENT X012
+Right here, it's focusing right up in here somewhere when I walk.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+I get pain in  here.  Now in the morning just right in here it'll be thinner in the morning that it is now.
+
+DOCTOR X012
+Sort of like swelling yeah.
+
+PATIENT X012
+Okay.
+
+DOCTOR X012
+Have you gone to Podiatry, I forget?
+
+PATIENT X012
+Podiatry?
+
+DOCTOR X012
+Yeah the foot doctors.
+
+PATIENT X012
+No, not at all.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+If you can just give me a hand and pull that up, it did swell on me my foot over here on walking because of what happened to me this morning, oh here, my ankles.
+
+DOCTOR X012
+What happened to you?
+
+PATIENT X012
+You tell me.  I’m just trying to get the initial stuff first.  Okay now this one here.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+You can see the difference here.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+And this is the way it is, usually at the end of the day, kind of still swollen like that.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+And in the morning this will not be like this, it’ll be...
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Down a lot.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+Okay, now a week and a half ago I got a @@@, should I put these on.
+
+DOCTOR X012
+You leave them off now if you like @@@.
+
+PATIENT X012
+Oh okay, okay, good.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Uh I got a virus, bad virus a week and a half ago.  I was in the Emergency Room.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+@@@ get antibiotics for it.  Its congestion and I'm sitting at home for three days on my back, laying on my back.
+
+DOCTOR X012
+Uh-huh.
+
+PATIENT X012
+And I don't know if it had something to do with my intake of the amount of juice that I had but I guess I drank 3 1/2 gallons of orange juice and lemonade and I didn't know it has a lot of acid in it and if that's just part of the gout or something.  Maybe I'm wrong about it.
+
+DOCTOR X012
+Uh-huh.
+
+PATIENT X012
+And maybe I am so anyhow I get this great pain right in here right through my ankles when I walk, it's like pins.  It just occurred this morning and then also getting a little stiffness in my knees.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+And it just occurred.  It started like yesterday.  I started sitting at my kitchen table, I felt a little stiffness and then tonight, last night I felt more and then this morning I was like walking like this pins and needles.
+
+DOCTOR X012
+Okay.  Now why were you laying down for so long?
+
+PATIENT X012
+Because of the virus I had, I was lying down.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+I was told @@@ that I shouldn't have done, but I didn’t know the difference.
+
+DOCTOR X012
+Okay, alright so how is your breathing doing?
+
+PATIENT X012
+Alright.
+
+DOCTOR X012
+Do you feel better?
+
+PATIENT X012
+Well my breathing is a little bit heavier now cause I got this virus now, it's just something that occurred.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+In my lungs.
+
+DOCTOR X012
+But are you definitely getting better with that virus you think?
+
+PATIENT X012
+Well I hope so yeah because it was terrible.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+I mean I was coughing up phlegm 50 times a day and now I've coughed up maybe a few times, that's all.
+
+DOCTOR X012
+Okay, no fevers or chills?
+
+PATIENT X012
+Uh no.
+
+DOCTOR X012
+Okay, okay.  You're not feeling real short of breath?
+
+PATIENT X012
+No.
+
+DOCTOR X012
+Except when you really exert yourself?
+
+PATIENT X012
+No, well I could sometimes you know if I go from the second floor of steps.  It's just I get the pain.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Cause when you have pain you have exhaustion so you cough.
+
+DOCTOR X012
+Are you still taking the doxycycline, the antibiotic they gave you?
+
+PATIENT X012
+The what?
+
+DOCTOR X012
+The antibiotic they gave you?
+
+PATIENT X012
+Oh yeah, I got to go four more days on it.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+I got four more pills.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+Now I stopped taking the water pills about three days ago.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+I don't know if I should have done that or not.
+
+DOCTOR X012
+Well how do you think you've been doing since you stopped it?
+
+PATIENT X012
+Well since I stopped it you know, like I said, in the mornings they're thinner than what they are now but you know this stuff's come back every night and it's kind of like this.
+
+DOCTOR X012
+Yeah, yeah.
+
+PATIENT X012
+So I don't know what to do and how long is it going on for you what I'm saying you know.
+
+DOCTOR X012
+Yeah.  Well I think I'd probably keep you on something.  Um you're taking two tabs by mouth every morning and you were getting 80 twice a day.  I'd probably keep you on, so I think there's a couple of things.  Um you know I think you probably did have some gout which is why you got better with the steroids.  Um and now we have you on colchicine which is another treatment for gout but the thing.
+
+PATIENT X012
+Uh-huh.
+
+DOCTOR X012
+With steroids is you can only go on it for a short period of time cause it's really bad for you to be on.
+
+PATIENT X012
+Colchicine.
+
+DOCTOR X012
+Colchicine, you're on that now.
+
+PATIENT X012
+Yeah, I got about maybe about eight more tablets, ten more tablets.
+
+DOCTOR X012
+Yeah so.
+
+PATIENT X012
+I shouldn’t use that?
+
+DOCTOR X012
+No I'm saying the steroids.  The prednisone is what you can't be on for a long time.
+
+PATIENT X012
+I don't have no more steroids.
+
+DOCTOR X012
+Yeah so we gave you that for a short period.
+
+PATIENT X012
+Yeah.
+
+DOCTOR X012
+Now we have you on colchicine.
+
+PATIENT X012
+Yeah.
+
+DOCTOR X012
+Um and the question is should we continue you on that for a little while and switched it to a different medicine for the gout.
+
+PATIENT X012
+Uh-huh.
+
+DOCTOR X012
+You're saying this toe here is still hurting you a little?
+
+PATIENT X012
+Yeah, uh-huh, yeah.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+If I bend it like this you'll feel it, when I do one of these here.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+You can feel it kind of from and it goes right up in here.  It's the main bone @@@ from the foot you know and it's kind of the same right here also.
+
+DOCTOR X012
+Okay.  
+
+PATIENT X012
+Alright.
+
+DOCTOR X012
+Does it hurt you like just to touch it?
+
+PATIENT X012
+No.
+
+DOCTOR X012
+No.
+
+PATIENT X012
+Uh no, no.  A little bit yeah right here.  Now if I press down on this part I will get pain.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Right here uh this one here a little bit.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+Not much.
+
+DOCTOR X012
+Okay.  Well I think what we could probably do today is stop the colchicine and switch you to something that you could take.  I think you know it looks like you may have a problem with gout you know over time.
+
+PATIENT X012
+Uh-huh.
+
+DOCTOR X012
+So I think allopurinol is the medicine that you can stay on forever to prevent the gout from flaring up again.
+
+PATIENT X012
+Oh.
+
+DOCTOR X012
+Okay.  The prednisone and the colchicine are kind of short-term medications to use when things are really bad but the allopurinol you can stay on, it should keep that uric acid level down and it should prevent you from getting the flare-ups of your gout.
+
+PATIENT X012
+Uh-huh.
+
+DOCTOR X012
+Okay.  So I think we should probably do that today.
+
+PATIENT X012
+Uh, okay now getting back to the second matter though, this recent thing and like I say in my ankle.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+What causes this?
+
+DOCTOR X012
+Well I don't know but maybe it was because you were not moving around very much for a couple of days and now you're kind of up on your feet again.
+
+PATIENT X012
+Really?
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Because um see I was moving around in the hospital Tuesday, I had to go to different departments.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+It was Tuesday, yeah I think it was Tuesday, I think it was Tuesday.
+
+DOCTOR X012
+Uh-huh.
+
+PATIENT X012
+Tuesday, Wednesday, Thursday, Thursday.
+
+DOCTOR X012
+Uh-huh.
+
+PATIENT X012
+Yeah and when I went home I was real tired out in my legs.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Uh fatigued and they were in pain from walking, just walking in the hospital here.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+I don't think, should that have been because according to my therapist I should be walking more and look at this now you know.
+
+DOCTOR X012
+Yeah, yeah, well you know it takes some time to get into it so I think you know you should be pushing yourself a little at a time to get back if you can uh but it's not surprising that when you first really get into it that you might have some pain at the end of the day either okay.  So what you want to do is stay active and you know every day kind of push yourself a little bit more but you have to be kind of patient with this okay.  Um I think we should definitely get you into Podiatry because you, despiste, you know even once we get your gout completely taken care of and the fluid, you have pretty beat up feet.
+
+PATIENT X012
+Oh yes.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Okay sorry about that.
+
+DOCTOR X012
+So, no it's fine.
+
+PATIENT X012
+This is uh due to a sport, I know my toes @@@ and it's kind of taking up the parking place.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+In the other toes and this one is coming in.
+
+DOCTOR X012
+Yeah.  So some of the pain I think may be just related to your, the way your feet are.
+
+PATIENT X012
+And my right one is the bad one.  I have this over here holding cause the toe kind of reaches over the first toe.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Over the big toe.
+
+DOCTOR X012
+Yeah, yeah.  So they may be able to help just with some special shoes and.
+
+PATIENT X012
+Oh I've gone to foot doctors before and it's pretty painful what they give you.  I know I was walking on cardboard at one time and it was awful.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+I mean, what I need is surgical where the toe is brought back @@@ this one is.
+
+DOCTOR X012
+I was going to say.
+
+PATIENT X012
+And do this you know.
+
+DOCTOR X012
+Yeah they're the ones that do the surgery too so.
+
+PATIENT X012
+Yeah.
+
+DOCTOR X012
+You know.
+
+PATIENT X012
+I went there one time and I did ask about my feet and I did.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+And they kind of said no they can't do it.
+
+DOCTOR X012
+Let's send you back and see what they think now okay.
+
+PATIENT X012
+Okay.
+
+DOCTOR X012
+It's not going to hurt anything.
+
+PATIENT X012
+Yeah.  It's just that since the 4th of February I am just up to my neck with going to Hines hospital, coming here so much.  I just came out of a PTSD class.
+
+DOCTOR X012
+Oh.
+
+PATIENT X012
+Which I was taking for like uh two weeks now.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+And I've been coming here and that was out of the medical part and now the mental thing.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+And then now.
+
+DOCTOR X012
+Yeah you've had a lot going on lately.
+
+PATIENT X012
+@@@.
+
+DOCTOR X012
+Yeah.  Well okay.
+
+PATIENT X012
+And I'd of course like to get something done.
+
+DOCTOR X012
+Yeah, yeah.  Well even if, it will take a while for them to get you in.
+
+PATIENT X012
+Alright.
+
+DOCTOR X012
+I think the next time they see you we'll at least @@@.
+
+PATIENT X012
+Alright oh I see.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+Uh but can you tell me what I have, cause like still with that, it just happened this morning.
+
+DOCTOR X012
+That feeling of the numbness kind of @@@.
+
+PATIENT X012
+The pins in here and I can't, in my ankles, ankles when I walk.
+
+DOCTOR X012
+Has it been there continuously all day?
+
+PATIENT X012
+Yes uh-huh.
+
+DOCTOR X012
+Yeah and do you have numbness and tingling on the bottom of your feet usually?
+
+PATIENT X012
+No.
+
+DOCTOR X012
+No pain?
+
+PATIENT X012
+No.
+
+DOCTOR X012
+No okay.  So are you having much pain in general anymore or no?
+
+PATIENT X012
+Uh I get a little stiffness in the knees. When I get going and they loosen up and I got more power in my right leg, the operating knee is better @@@ and power but not recently in the last 24 hours, not since I got this stiffness cause this stiffness also affected my knees too.
+
+DOCTOR X012
+Okay, okay, okay.  I don't know exactly.
+
+PATIENT X012
+I don't know I just thought that maybe three gallons of orange juice had something to do with it.
+
+DOCTOR X012
+Well that's a lot of; I wouldn't drink that much orange juice.
+
+PATIENT X012
+Yeah I know that now.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Yeah and it does have acid in there right?
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+Is it part of this I don't know?
+
+DOCTOR X012
+Uh it's hard to say.
+
+PATIENT X012
+Oh I see.
+
+DOCTOR X012
+But I would kind of; it's good to drink water but not so much juice okay.
+
+PATIENT X012
+Uh-huh.
+
+DOCTOR X012
+Try to drink more just regular water.  You can have a little orange juice but no more than one or two glasses a day okay.
+
+PATIENT X012
+Yeah but I was sick when I was at the house all day.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+So.
+
+DOCTOR X012
+But yeah I don't know what would cause.  If you have continuous numbness and tingling in your feet then we need to know about it but let's see if it goes away.  I mean I don't know what caused it.
+
+PATIENT X012
+It just occurred now, this thing on the ankle.
+
+DOCTOR X012
+Yeah.  So I think we just need to understand what you were doing with the water pills.  So you were taking 80 mg in the morning and 80 at night right?
+
+PATIENT X012
+Yeah I was taking it in the morning and at night.
+
+DOCTOR X012
+And now you're not taking anything?
+
+PATIENT X012
+I didn't take it in the last three days.  One of the reason is cause I got so sick with this virus.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+I just couldn't handle all the pills you know.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+I wanted to get this out of me you know so I don't know if that had anything to do with the swelling right now.
+
+DOCTOR X012
+I think what I'd like to do is have, keep you on a small dose of the water pill, less than what you were taking just once a day.
+
+PATIENT X012
+Yeah.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+Because you know the urination part is irritating after a while you know what I mean.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+It's quite abundant.
+
+DOCTOR X012
+Sure, sure, okay.  Um okay let me talk to DOCTOR cause I know he was interested with what's going on with your feet last time you were here okay.  So let me listen to your lungs first.
+
+PATIENT X012
+Yeah.  I might need to get something here cause I still got congestion.
+
+DOCTOR X012
+Yeah, take a deep breath.  Okay, you're not a smoker right?
+
+PATIENT X012
+No.
+
+DOCTOR X012
+They didn't do an x-ray of your chest when you went in no?
+
+PATIENT X012
+Oh they took many x-rays of my chest, I think before the operation.
+
+DOCTOR X012
+But not when you were just in the Emergency Room?
+
+PATIENT X012
+Oh no, none.
+
+DOCTOR X012
+Okay let me @@@ DOCTOR take a look at your feet okay.
+
+PATIENT X012
+Yeah.
+
+DOCTOR X012
+I’ll be right back.
+
+PATIENT X012
+I think that the bursitis in my left arm is getting worse and worse so I'm just kind of living with it.  It's in my left arm right up in here.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+It bothers me when I'm at rest you know.
+
+DOCTOR X012
+Okay.
+
+PATIENT X012
+Yeah.  I'll take a look at it when I come back in okay.
+
+(DOCTOR OUT:  19:15  DOCTOR IN:  28:31)
+
+DOCTOR X012
+@@@.
+
+PATIENT X012
+How been doing there doc?
+
+SECOND DOCTOR X012
+I'm well and how are you?  We talked on the phone and DOCTOR told me that you get better but then bounce back.
+
+PATIENT X012
+Exactly, that’s what it seems like.
+
+SECOND DOCTOR X012
+@@@ Yeah these are pretty worn, I agree.  Yeah I think it's that gout's come back.  I was hoping to keep you off that prednisone but uh we were talking about that.  I think we're going to be putting you back on it uh, so this is going to be a little bit difference however and DOCTOR is going to explain more but uh I do think that this is pretty much gout that's basically causing all these problems.  There are medicines that can help you keep gout flares, gouty flares away and hopefully you won't have to worry about this again but we have to try to go through this stepwise process.
+
+PATIENT X012
+Yeah and it goes with you all your life.  I never had gout since this operation you know eight weeks ago.  What the heck caused it though?
+
+SECOND DOCTOR X012
+You know sometimes it does happen where people are predisposed but have never had problems, then something happens, a stressful situation uh whatever that would be uh emotional stress, physical stress, surgery and it kind of flares up so that's a possibility.
+
+PATIENT X012
+And explain to me about the initial thing that happened over the last 24 hours, my ankle right here, oh my God, it's like walking on pins again.
+
+SECOND DOCTOR X012
+Yeah.
+
+PATIENT X012
+It was like when I those feet blown up real big before.
+
+SECOND DOCTOR X012
+Yeah I remember what they were before.
+
+PATIENT X012
+Yeah but this is in the ankle right here and it just happened though, it started last night in the evening.
+
+SECOND DOCTOR X012
+Yeah.
+
+PATIENT X012
+Is that gout or?
+
+SECOND DOCTOR X012
+Well we think it's a combination of gout and fluid in the ankles.
+
+PATIENT X012
+Yeah.
+
+SECOND DOCTOR X012
+Okay so DOCTOR is going to talk to you a little bit about a couple of medicines that we're going to be putting you on.  Uh you've been on them before albeit now that we kind of have a better idea of what we're dealing with I think we have a better direction of how we're going to handle these medicines so she's going to give you instructions on them.
+
+PATIENT X012
+Uh-huh.
+
+SECOND DOCTOR X012
+Okay.
+
+PATIENT X012
+I see and would you guys maybe follow up on it in a week and a half or so, I can call you.
+
+SECOND DOCTOR X012
+Yeah. You can give me a call.
+
+PATIENT X012
+‘cause I know it's like a month maybe if I see you in between, you know I'm just seeing you.  I mean I don't mind as long as it goes down.
+
+SECOND DOCTOR X012
+Yeah.
+
+PATIENT X012
+Uh but it seems like you know they go down in the morning and then in the evening they blow-up again.
+
+SECOND DOCTOR X012
+Yeah.
+
+PATIENT X012
+Cause I'm just walking.  I'm walking daily but not that much at all.
+
+SECOND DOCTOR X012
+I understand.
+
+PATIENT X012
+I mean what does it take for these things to go away?
+
+SECOND DOCTOR X012
+We kind of.
+
+PATIENT X012
+I have a question like that you know.
+
+SECOND DOCTOR X012
+Well gout is because you have too much of a substance in the body called uric acid, it's a natural substance and some people have more of it than others.  When you have too much of it it tends to crystallize out and it crystallizes out in your feet, especially in your toes and your ankles and that causes inflammation, swelling and pain.  So certain medicines can help drop that uric acid level and that's what DOCTOR is going to talk to you more about.
+
+PATIENT X012
+Yeah.  Alright and then other thing is my injections I used to take, the cortisone in my knee, this one her, I won’t be using that any more because it's new.
+
+SECOND DOCTOR X012
+Yeah.
+
+PATIENT X012
+But my old knee, I don't know who I talk to about that, Orthopedics or?
+
+SECOND DOCTOR X012
+Ortho yeah.
+
+PATIENT X012
+Yeah you do.
+
+SECOND DOCTOR X012
+I'd send you to @@@ Ortho.
+
+FIRST DOCTOR X012
+Yeah.
+
+PATIENT X012
+Really.
+
+SECOND DOCTOR X012
+She will make a referral for you to see somebody.
+
+PATIENT X012
+Cause they used to give me injections three times a year and it helped me out walking.
+
+SECOND DOCTOR X012
+Actually, yeah so the rheumatologist is who we're going to have you be seen for your gout and also help you with your knee.
+
+FIRST DOCTOR X012
+Okay, yeah.
+
+SECOND DOCTOR X012
+But uh.
+
+FIRST DOCTOR X012
+Yeah.
+
+SECOND DOCTOR X012
+@@@.
+
+FIRST DOCTOR X012
+Yeah okay.  Okay.
+
+SECOND DOCTOR X012
+Alright.
+
+PATIENT X012
+Yeah this thing flared up because I was here just two days ago I was walking up and down the corridor, I went home and my feet and legs were very tired.  I put them up, it was overnight and this is when they started to get stiff and stiffness in the last 24 hours.
+
+SECOND DOCTOR X012
+I think we're to go ahead and give you some medicine top pick up today @@@.
+
+FIRST DOCTOR X012
+I have another question @@@.
+
+SECOND DOCTOR X012
+Well that's the thing; we probably would do it to keep it going.
+
+FIRST DOCTOR X012
+Yeah.
+
+SECOND DOCTOR X012
+Until we get the.
+
+FIRST DOCTOR H44
+Just a couple months.
+
+SECOND DOCTOR X012
+Yeah.
+
+FIRST DOCTOR X012
+Okay.
+
+SECOND DOCTOR X012
+And even if you want to bring him back in a month or so.
+
+FIRST DOCTOR X012
+Yeah.
+
+SECOND DOCTOR X012
+You know to check his uric acid and you could certainly test it in another month.
+
+FIRST DOCTOR X012
+Yeah.
+
+SECOND DOCTOR X012
+In order to keep it simple and then prednisone and back next month.
+
+FIRST DOCTOR X012
+And then start the allopurinol?
+
+SECOND DOCTOR X012
+No I thought we'd go send him home with that since he's been.
+
+FIRST DOCTOR X012
+Start right now.
+
+SECOND DOCTOR X012
+Yeah have him start it in two weeks.
+
+FIRST DOCTOR X012
+Yeah.
+
+SECOND DOCTOR X012
+Check a uric acid level you know and @@@.
+
+FIRST DOCTOR X012
+Yeah, yeah.
+
+SECOND DOCTOR X012
+I think @@@.
+
+FIRST DOCTOR X012
+Okay, sounds good.
+
+SECOND DOCTOR X012
+Alright.
+
+FIRST DOCTOR X012
+Okay thank you.  Alright so we're gonna make some changes to your medications okay.  I'm going to write it down for you so you don't get confused.
+
+PATIENT X012
+Alright.
+
+FIRST DOCTOR X012
+Okay.  This is what we're gonna do, we're gonna stop the colchicine.
+
+PATIENT X012
+See this here, if I bend my knee right now it feels stiff right in here.
+
+FIRST DOCTOR X012
+Yeah.
+
+PATIENT X012
+Is that also affecting the @@@?
+
+FIRST DOCTOR X012
+No the gout's probably, I don't know if any.
+
+PATIENT X012
+Why is the knee getting stiff all of a sudden?
+
+FIRST DOCTOR X012
+I don't know.  Let's do one thing at once okay.
+
+PATIENT X012
+Yeah.
+
+FIRST DOCTOR X012
+Let's try to deal with this gout okay.  
+
+PATIENT X012
+Thinking of what I used to do.  I can still take a hot bath or something.
+
+FIRST DOCTOR X012
+Yeah.  So the prednisone will probably help with your knee too okay.  And what we're going to do is we're going to, take prednisone, do you want pick it up today or do you want it to come in the mail?
+
+PATIENT X012
+Oh God, oh what time is it now, @@@.
+
+FIRST DOCTOR X012
+It's 3:40.
+
+PATIENT X012
+Yeah, I got to make it to a meeting?
+
+FIRST DOCTOR X012
+Well you'd probably @@@.
+
+PATIENT X012
+Well I thought they were open until around 4:30 or 5, like I say.
+
+FIRST DOCTOR X012
+So what do you think do you want to get it at the window?
+
+PATIENT X012
+Yeah I guess so.
+
+FIRST DOCTOR X012
+Okay.
+
+PATIENT X012
+That's all I can do if I don't fall asleep, I'm so tired right now.
+
+FIRST DOCTOR X012
+Yeah.
+
+PATIENT X012
+Got up this morning, running around before I come here, oh boy, I gave myself a little time you know but when you called and came back just sitting.
+
+FIRST DOCTOR X012
+Yeah okay.
+
+PATIENT X012
+It seems like I'm losing energy, somewhat I don't know why.
+
+FIRST DOCTOR X012
+Yeah.
+
+PATIENT X012
+Cause when I get up, it's like there's a biochemistry that changed me since this operation.  And I had never been operated on in my whole life and never had anything cut open.
+
+FIRST DOCTOR X012
+Uh-huh.
+
+PATIENT X012
+My body's rejecting this cut open and this was like I didn't even know this was major surgery anyhow.
+
+FIRST DOCTOR X012
+Yeah.
+
+PATIENT X012
+A knee replaced.
+
+FIRST DOCTOR X012
+Yeah, well we'll get you taken care of.  I think you just have really bad gout and that's probably been a lot of your problems okay.  And a lot of people actually have it and you have a bad case but we'll get it under control so.
+
+PATIENT X012
+Bad case oh.  What about diet, I mean I don't know.  You supposed to, I can't eat red meat or nothing, is this true? Or, 
+
+FIRST DOCTOR X012
+You know I think.
+
+PATIENT X012
+I had to do with raw meat or something.
+
+FIRST DOCTOR X012
+Yeah.  One second, okay?
+
+PATIENT X012
+I might be running out of hydrocodone.
+
+FIRST DOCTOR X012
+Okay.
+
+PATIENT X012
+Probably, I got about ten tablets left and I think I'm having them every three to four hours so I don't know if I should have you – should I still be on it?
+
+FIRST DOCTOR X012
+If you need it, that's a pain medicine.
+
+PATIENT X012
+Yeah now I use it, but I think I need it yeah.  I hope I can get any of these, if I can get them at this time and.
+
+FIRST DOCTOR X012
+Okay.  Yeah I can refill that for you okay.  So this is, I want to go over the plan okay, one second.  Let me write it down for you so you don't forget.
+
+PATIENT X012
+And then are you going to put in something for me with the foot people, what do you call them, and I'll hear from them in the future.
+
+FIRST DOCTOR X012
+Yeah, the podiatrist.
+
+PATIENT X012
+Podiatrist yeah, podiatrist.  They were operated on, I want you to know this, by the other doctor, just the right foot. They just came with the hammertoe
+
+FIRST DOCTOR X012
+Oh.
+
+PATIENT X012
+And everything else got screwed up after him.
+
+FIRST DOCTOR X012
+Oh.
+
+PATIENT X012
+You know, like I'm not going to mention the names.  I mean he's a private doctor in Park Ridge who did it.
+
+FIRST DOCTOR X012
+Oh really.
+
+PATIENT X012
+And uh it all happened after him operating on it.
+
+FIRST DOCTOR X012
+Hmm.
+
+PATIENT X012
+He used to numb your foot and then I don't know what he did to it, it was numb, right there, you know, you walk off.
+
+FIRST DOCTOR X012
+Uh-huh.
+
+PATIENT X012
+And @@@ first move @@@ NAME.
+
+FIRST DOCTOR X012
+No it isn't.
+
+PATIENT X012
+Oh I don't see how.  I thought you'd said @@@ NAME.
+
+FIRST DOCTOR X012
+That's okay.
+
+PATIENT X012
+I called a couple of times.
+
+FIRST DOCTOR X012
+Oh okay.
+
+PATIENT X012
+Over the years okay.
+
+FIRST DOCTOR X012
+Okay this is what I want you to do, okay.  You're gonna take prednisone, you're gonna pick it up right now.
+
+PATIENT X012
+Yeah.
+
+FIRST DOCTOR X012
+40 mg daily for five days.
+
+PATIENT X012
+For five days.
+
+FIRST DOCTOR X012
+Which is what you did last time.  The difference is after that we're going to continue you on it.
+
+PATIENT X012
+Yeah.
+
+FIRST DOCTOR X012
+But at 20 mg daily okay.  So then.
+
+PATIENT X012
+I'm now going to be picking both of them up, 40 mg up now?
+
+FIRST DOCTOR X012
+It's all going to be 20 mg tabs so for five days you're gonna take two of them.
+
+PATIENT X012
+Oh okay.
+
+FIRST DOCTOR X012
+And then after that just take one every day.
+
+PATIENT X012
+Oh I see.
+
+FIRST DOCTOR X012
+Okay.
+
+PATIENT X012
+Yeah.
+
+FIRST DOCTOR X012
+We're going to start with new medicine called allopurinol but not for two weeks, okay.
+
+PATIENT X012
+Oh.
+
+FIRST DOCTOR X012
+So I want you to start it around May 10th.
+
+PATIENT X012
+May 10th yeah.
+
+FIRST DOCTOR X012
+Okay.
+
+PATIENT X012
+Take this first, these two and then take that.
+
+FIRST DOCTOR X012
+Continue them you don't stop this one so.
+
+PATIENT X012
+Right yeah.
+
+FIRST DOCTOR X012
+But um then start the allopurinol.
+
+PATIENT X012
+I see.
+
+FIRST DOCTOR X012
+Okay.  Um and then the Lasix or furosemide, that's that water pill.
+
+PATIENT X012
+Well I’ve got so many those left.
+
+FIRST DOCTOR X012
+I'm not going to give you a new one but I want you to start taking 20 mg daily.
+
+PATIENT X012
+Just one tablet a day.
+
+FIRST DOCTOR X012
+One tablet a day.
+
+PATIENT X012
+When's the best time to take it, in the morning or?
+
+FIRST DOCTOR X012
+Yeah just morning probably so you don't have to wake up in the night to urinate.
+
+PATIENT X012
+Oh I see.
+
+FIRST DOCTOR X012
+Okay.
+
+PATIENT X012
+Yeah.
+
+FIRST DOCTOR X012
+And I want you to stop the colchicine.
+
+PATIENT X012
+Yeah I'm taking an antibiotic pill too.
+
+FIRST DOCTOR X012
+That's okay.
+
+PATIENT X012
+I take one a day.
+
+FIRST DOCTOR X012
+That'll be done in a few days okay.
+
+PATIENT X012
+I never took so many pills in my life in one day, and I've got such pills.
+
+FIRST DOCTOR X012
+That's the plan okay.
+
+PATIENT X012
+Yeah thank you.
+
+FIRST DOCTOR X012
+And call me if you have any questions.
+
+PATIENT X012
+Uh-huh.
+
+FIRST DOCTOR X012
+Okay.
+
+PATIENT X012
+Thank you.
+
+FIRST DOCTOR X012
+And I think you're going to feel a lot better in this next week.
+
+PATIENT X012
+Well the last time you gave me those other ones it did clear up quite fast.
+
+FIRST DOCTOR X012
+Yeah and you'll feel it again and this time we'll be keeping you on that medicine for a while okay.
+
+PATIENT X012
+Well.
+
+FIRST DOCTOR X012
+And then what we're going to do is uh we're going to send you to the gout specialists okay.
+
+PATIENT X012
+Oh there is a gout specialist?  Oh I see.
+
+FIRST DOCTOR X012
+You're going to graduate from me to someone who only deals with really gout.
+
+PATIENT X012
+Oh, what's your percentage healed if this is gout right now?
+
+FIRST DOCTOR X012
+It's pretty bad.
+
+PATIENT X012
+Oh yeah.
+
+FIRST DOCTOR X012
+Yeah.
+
+PATIENT X012
+So like 90%.
+
+DOCTOR X012
+Yeah.
+
+PATIENT X012
+@@@.
+
+FIRST DOCTOR X012
+Yeah.
+
+PATIENT X012
+So when will I see them?
+
+FIRST DOCTOR X012
+Probably in a couple weeks.
+
+PATIENT X012
+Oh I see.
+
+FIRST DOCTOR X012
+So we're going to keep you on that.
+
+PATIENT X012
+Right.
+
+FIRST DOCTOR X012
+And they're going to see you and @@@.
+
+PATIENT X012
+You know what that department's called?
+
+FIRST DOCTOR X012
+Rheumatology.
+
+PATIENT X012
+Oh Rheumatology, yeah I used to know a doctor, who used to give me injections.
+
+FIRST DOCTOR X012
+DOCTOR?  Yeah he's part of that group.
+
+PATIENT X012
+Yeah.
+
+FIRST DOCTOR X012
+Okay and I'll see you back in five weeks the next time and then we'll see how you're doing then okay.
+
+PATIENT X012
+Okay.  Well thank you doc.
+
+FIRST DOCTOR X012
+We're making progress, it's slow but we're getting there huh.
+
+PATIENT X012
+Well I hope so.  Yeah it was just this flare-up that got me.  It wasn't for the ankle, the flare-up that got me this morning.
+
+FIRST DOCTOR X012
+Yeah.
+
+PATIENT X012
+I'd be alright; I talked to a companion of mine this morning and I said oh my God what's happening to me now.
+
+FIRST DOCTOR X012
+Yeah.
+
+PATIENT X012
+You know I said here I said I'm walking like this and I'm feeling kind of pins in it you know.
+
+FIRST DOCTOR X012
+Yeah this time we'll get it cleared up for you okay.  Do you know where to check out?
+
+PATIENT X012
+Uh.
+
+FIRST DOCTOR X012
+Right here, oh I'll check you out; you can just sit down here okay.
+
+PATIENT X012
+I got to get travel too I'm supposed to get.  Am I supposed to tell them about travels uh?
+
+FIRST DOCTOR X012
+Yeah you do.
+
+PATIENT X012
+For travel pay?
+
+FIRST DOCTOR X012
+Yeah, yeah, so why don't you check out.
+
+PATIENT X012
+@@@ because of the gas.
+
+FIRST DOCTOR X012
+Why don't you check out with them okay?
+
+PATIENT X012
+Okay, alright.
+
+FIRST DOCTOR X012
+Okay.
+
+PATIENT X012
+If I have any questions I can call you.
+
+FIRST DOCTOR X012
+Yes.
+
+PATIENT X012
+Are you usually here every week and I can just get a hold of you?
+
+FIRST DOCTOR X012
+Uh I'm around here.  I'm at Loyola, but I'll call you back if I get a message from you okay.
+
+PATIENT X012
+Yeah.
+
+FIRST DOCTOR X012
+Okay, it's good to see you again sir, take care.
+
+PATIENT X012
+You bet.
+
+PATIENT LEAVES:  40:32.
+
+Time is 3:50 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255134
+TRANSACTION # 578-10-2-316-0103

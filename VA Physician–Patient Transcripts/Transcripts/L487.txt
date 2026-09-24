@@ -1,0 +1,1103 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@@ 
+
+DOCTOR L487
+PATIENT?
+
+PATIENT L487
+Here.
+
+DOCTOR L487	 
+How are you?
+
+PATIENT L487
+I'm okay.  How are you?
+
+DOCTOR L487
+I'm good thank you.  Go ahead and have a seat.  
+
+PATIENT L487
+I just called on Monday so I'm glad to, so I got to see you in two days.
+
+DOCTOR L487
+Oh, nice.  Um so is there a reason that you wanted to come for a visit.
+
+PATIENT L487
+I got a wart.
+
+DOCTOR L487
+You got a wart okay.
+
+PATIENT L487
+And they said I need a referral to go to Dermatology.
+
+DOCTOR L487
+Dermatology.  Okay yeah and they'll freeze it.
+
+PATIENT L487
+Right.
+
+DOCTOR L487
+Do you get warts often or?
+
+PATIENT L487
+No that's the first one in, since I was.
+
+DOCTOR L487
+Little?
+
+PATIENT L487
+Yeah.
+
+DOCTOR L487
+Okay, Dermatology referral.
+
+PATIENT L487
+And two other follow up things that I’ll share with you because you work with doctor.
+
+DOCTOR L487
+Right.  Dermatology referral.
+
+PATIENT L487
+That's the name.
+
+DOCTOR L487
+Yeah and @@@, I'll put it in there.  @@@.  Is it painful?
+
+PATIENT L487
+Uh sometimes because it'll, right now it's all flat.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+But sometimes it'll kind of pop up you know like a mushroom and it'll get caught on thread or string or whatever.
+
+DOCTOR L487
+Oh okay.  Does it ever bleed?
+
+PATIENT L487
+Um yes.
+
+DOCTOR L487
+Okay.  When did it first appear?
+
+PATIENT L487
+Uh probably a year and a half ago.
+
+DOCTOR L487
+Wow, it's been there that long.
+
+PATIENT L487
+Yeah.  Actually they hit it once before with nitrogen, whatever.
+
+DOCTOR L487
+Oh, they did. And it came back.
+
+PATIENT L487
+Yes, well, you know it was really gone completely.  I should have, in fact that's what I'd like to do this time.
+
+DOCTOR L487
+Alright.
+
+PATIENT L487
+If they can hit it and then I would come back in like a month and don't wait that long.
+
+DOCTOR L487
+Well, they'll tell you what they think and if you need to come back you know later.  Okay so um your blood pressure was a little bit high last time but today actually it was normal okay. That’s good.
+
+PATIENT L487
+Uh-huh.
+
+DOCTOR L487
+So have you been on a low salt diet or have you been eating less, did you lose weight? Or you don't know.
+
+PATIENT L487
+No honestly I really didn't change anything.
+
+DOCTOR L487
+Okay.
+
+PATIENT L487
+I know that it was.
+
+DOCTOR L487
+Yeah I guess it fluctuates your blood pressure sometimes.  
+
+PATIENT L487
+It does but the last time I came in it was high.
+
+DOCTOR L487
+Yeah.
+
+PATIENT L487
+It was a real concern.
+
+DOCTOR L487
+Well we'll keep monitoring.
+
+PATIENT L487
+Uh-huh.
+
+DOCTOR L487
+And @@@.  No need to start you on medications but I still recommend exercise you know uh and you know a sensible diet, low salt, low cholesterol.
+
+PATIENT L487
+Right.  Um you're gonna tell me not to eat cheeseburgers and.
+
+DOCTOR L487
+Well I'm also gonna say not do something @@@.
+
+PATIENT L487
+I don't know about that.
+
+DOCTOR L487
+Once in a while you can.
+
+PATIENT L487
+I know right.
+
+DOCTOR L487
+Yeah.  But you know portion control I think is the main thing.  Alright um how's the acid reflux?
+
+PATIENT L487
+Fine.
+
+DOCTOR L487
+Okay you're taking the medicine?
+
+PATIENT L487
+Yes.
+
+DOCTOR L487
+Good.
+
+PATIENT L487
+Every day.
+
+DOCTOR L487
+Good.
+
+PATIENT L487
+Once in a while I forget and I can tell.
+
+DOCTOR L487
+Oh really.
+
+PATIENT L487
+Later on that day I'll feel it more so the medicine definitely works.
+
+DOCTOR L487
+Okay.  And your cholesterol was done in March um.
+
+PATIENT L487
+I think the triglycerides were a little bit high.
+
+DOCTOR L487
+Yeah and uh you know you can take some over-the-counter fish oil.
+
+PATIENT L487
+I do.
+
+DOCTOR L487
+You do?
+
+PATIENT L487
+I have for years.
+
+DOCTOR L487
+Okay.
+
+PATIENT L487
+I take fish oil, flax seed and primrose.
+
+DOCTOR L487
+Okay, so keep doing that.
+
+PATIENT L487
+Uh-huh.
+
+DOCTOR L487
+And uh definitely limit the fat in your diet.
+
+PATIENT L487
+Uh-huh.
+
+DOCTOR L487
+And we'll check it next year in March.  Oh this was March @@@ oh we'll check it sometime next year.
+
+PATIENT L487
+Okay.
+
+DOCTOR L487
+Um or the end of this year.  How's the headaches, have you been having them @@@?
+
+PATIENT L487
+Yes it's been better yeah.
+
+DOCTOR L487
+Good.
+
+PATIENT L487
+And that was like it was the same time that the blood pressure was up so I went through a month, before I came on that last visit, I had headaches every day and I believe it was related to that but you know once in a while.  You know what I think I have borderline apnea because.
+
+DOCTOR L487
+Sleep apnea.
+
+PATIENT L487
+Right.
+
+DOCTOR L487
+Have you ever taken a sleep test?  So why do you think?
+
+PATIENT L487
+Because the headache is, I mean a symptom of you know carbon dioxide so there's times where I'll wake up and I'll be so, so you know heavy, you know sleepy and that's when I have the headache so I always, I can't prove it.
+
+DOCTOR L487
+Right, right.
+
+PATIENT L487
+It's just how I feel when I wake up.
+
+DOCTOR L487
+Do you snore?
+
+PATIENT L487
+Oh I don't know.
+
+DOCTOR L487
+Okay uh do you ever wake up like gasping for air or anything?
+
+PATIENT L487
+No.
+
+DOCTOR L487
+Can you open your mouth and say ah?
+
+PATIENT L487
+Ah.
+
+DOCTOR L487
+Okay. Looks good. If it keeps happening let me know okay.
+
+PATIENT L487
+Hmm.
+
+DOCTOR L487
+Well sometimes you know people can kind of blockages in the neck and if you do have sleep apnea and the way to find that out is to do a sleep test.  
+
+PATIENT L487
+Well, let me tell you about, that was the next thing I was gonna follow up on, is that probably for ten years.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+Or more, a little more, I once in a while, you know depending on what I'm eating.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+You know it'll kind of get stuck and most of the time I can drink anything and push it out of the way.  Two years ago as I was eating chicken at lunch and it got stuck and I had to go to the ER so they knocked me out to get that.
+
+DOCTOR L487
+Oh the chicken bone or?
+
+PATIENT L487
+No, meat but they said that well you know it doesn't matter.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+They said well they see a lot of this it's because chicken is relatively dry.
+
+DOCTOR L487
+Hmm.  Had that ever happened again?
+
+PATIENT L487
+No.
+
+DOCTOR L487
+Okay.
+
+PATIENT L487
+But um I'm more mindful of you know eating so I drink regularly while eating.  Um and I don't know if this is related to that but one other thing is once in a while I would get a little uh piece of food stuck in the back of my throat.  Kind of what you just did but if it's right back there I can see it so I would like stick a straw back there and kind of knock it out of the way and it usually @@@ in okay, I know about that.  But in the last six months say, even today right now, I can feel there's just like a little bit of you know, there's something right below there.
+
+DOCTOR L487
+Okay.
+
+PATIENT L487
+I know you're.
+
+DOCTOR L487
+Do you ever like food gets stuck in your throat?
+
+PATIENT L487
+It doesn't get stuck where it won't pass.
+
+DOCTOR L487
+Uh-huh.  So you feel like it's kind of hard to swallow?
+
+PATIENT L487
+No I feel like, you know I'm just sitting here you know I'm not eating and I kind of move my throat around it feels like there's a little you know food or something.
+
+DOCTOR L487
+Right, kind of staying, staying in there.
+
+PATIENT L487
+Stuck, yes.
+
+DOCTOR L487
+Hmm.
+
+PATIENT L487
+And I brush and floss you know twice a day.  I gargle probably six times a day and I make sure you know it gets all the way back there and clean it out but that's kind of a newer thing so I would.
+
+DOCTOR L487
+When did this start, the sensation of that?
+
+PATIENT L487
+Definitely more often in the last year.
+
+DOCTOR L487
+Okay.
+
+PATIENT L487
+I'm more aware of it.
+
+DOCTOR L487
+Okay, okay and you never had a study or anything done right?
+
+PATIENT L487
+No.
+
+DOCTOR L487
+Okay are you a smoker?
+
+PATIENT L487
+No.
+
+DOCTOR L487
+Have you ever smoked before?
+
+PATIENT L487
+Yeah but just for a short time when I was in my 20s.
+
+DOCTOR L487
+How long?
+
+PATIENT L487
+Uh two years.
+
+DOCTOR L487
+Oh okay.  How about alcohol?
+
+PATIENT L487
+Rarely.
+
+DOCTOR L487
+Rarely okay any.
+
+PATIENT L487
+Drugs.
+
+DOCTOR L487
+Drugs or anything.
+
+PATIENT L487
+No.
+
+DOCTOR L487
+Okay.
+
+PATIENT L487
+I'm too healthy to have any major problems.
+
+DOCTOR L487
+That's good, that's great okay.  Um hmm, so I mean sometimes people have a little bit of stricture here that they can feel it and sometimes can get stuck and um it is possible but then you're having this on and off right?  It's not happening all the time?
+
+PATIENT L487
+Uh well maybe because I'm more aware of it now.
+
+DOCTOR L487
+Okay.  Okay.
+
+PATIENT L487
+But.
+
+DOCTOR L487
+Alright uh I mean I could have you see you know the GI doctors to see if you have something in your esophagus or your throat.
+
+PATIENT L487
+And do they have something where they could put like a camera back there?
+
+DOCTOR L487
+Yeah.
+
+PATIENT L487
+They do.
+
+DOCTOR L487
+Yeah and see if they have anything in there that might be.
+
+PATIENT L487
+Why don't we do that?
+
+DOCTOR L487
+So um we'll probably start like an x-ray.
+
+PATIENT L487
+Hmm.
+
+DOCTOR L487
+Yeah have you drink something sort of and see what's going on in there okay.
+
+PATIENT L487
+Yeah.
+
+DOCTOR L487
+So yeah we'll do that um and you need a colonoscopy um so do you want to schedule that?
+
+PATIENT L487
+You know that I'm not real crazy about it but go ahead and tell me why I should have it.
+
+DOCTOR L487
+Alright so colonoscopy.
+
+PATIENT L487
+I know what it is.
+
+DOCTOR L487
+It is, it is the purpose of it.
+
+PATIENT L487
+Is to look for polyps, the cancer.
+
+DOCTOR L487
+Colon cancer.
+
+PATIENT L487
+Right.
+
+DOCTOR L487
+And the reason is colon cancer once you have it is a very deadly disease.  Um I've seen many people; once they get diagnosed they don't have that many years.
+
+PATIENT L487
+Okay.  You're not.
+
+DOCTOR L487
+But it's a very preventable.
+
+PATIENT L487
+Curable, preventable.
+
+DOCTOR L487
+It's not curable once you find it but preventable.  So that's what a colonoscopy is for.  You find a polyp, they're not cancer yet, you remove them and you're free of cancer but if you don’t look for them and then later on.
+
+PATIENT L487
+They're cancer.
+
+DOCTOR L487
+They find you with cancer then there is only so much you can do.  So that's why screening is important.  Um so what you do is what @@@ basically they put a camera through your rectum, go through all the length of your colon, look for any kind of polyps or any tumors.
+
+PATIENT L487
+Uh-huh.
+
+DOCTOR L487
+The hardest thing is the night, the day before, you have to drink, fasting is only one part.
+
+PATIENT L487
+I know.
+
+DOCTOR L487
+You have to drink this thing called Go-LYTELY, probably about half a gallon I think and then it'll just make you run all @@@ yeah, so it'll clean your colon so that the doctor, you know the GI doctors will be able to visualize the colon.
+
+PATIENT L487
+Right.
+
+DOCTOR L487
+So that's the right thing really, you know.  You have to make sure that you're very close to the bathroom and um yeah @@@.  Um that's pretty much it yeah and then once they find something they'll remove it.
+
+PATIENT L487
+@@@.
+
+DOCTOR L487
+If they don't find anything then you don't have to take the test for another ten years.  What else do you want to know?
+
+PATIENT L487
+I'm aware of the procedure.
+
+DOCTOR L487
+Okay.
+
+PATIENT L487
+The only reason that I'm reticent is because I've also heard, I believe you because you're a professional but I've also heard that the studies are not always.
+
+DOCTOR L487
+100% accurate.
+
+PATIENT L487
+Right.
+
+DOCTOR L487
+It's pretty good though.  Nothing's 100%.
+
+PATIENT L487
+Right, I know.
+
+DOCTOR L487
+Oh but.
+
+PATIENT L487
+But it definitely outweighs, the good outweighs the bad.
+
+DOCTOR L487
+Yeah I mean I've seen very sad results on people with colon cancer so that's why I recommend it and it's totally up to you um but I just don't want you to go through all the things that you, @@@ fully unnecessary if you don’t have this screening.
+
+PATIENT L487
+Well the uh, what's the other um, there's a gland or something.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+That men have.
+
+DOCTOR L487
+Uh-huh prostate.
+
+PATIENT L487
+Yeah the prostate.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+Maybe I'm confusing the two things.  Is the prostate exam the same as this?
+
+DOCTOR L487
+No.  Prostate exam is just kind of like a rectal exam.  Have you ever had a rectal exam?
+
+PATIENT L487
+Uh uh.
+
+DOCTOR L487
+So basically.
+
+PATIENT L487
+I mean just kind of feels around.
+
+DOCTOR L487
+Yeah, yeah you feel around the rectum and the prostate's very close to the rectum.
+
+PATIENT L487
+Right.
+
+DOCTOR L487
+And you feel for any nodules.
+
+PATIENT L487
+Right.
+
+DOCTOR L487
+Yeah.  So.
+
+PATIENT L487
+So that's a different procedure than the colonoscopy.
+
+DOCTOR L487
+Oh yeah the colonoscopy is actually a much more complicated procedure.  They will sedate you.  There's a camera that goes in all the way.
+
+PATIENT L487
+Right.
+
+DOCTOR L487
+To your colon.
+
+PATIENT L487
+Am I conscious?
+
+DOCTOR L487
+You're probably not gonna be conscious you know.  I've heard some patients say that the anesthesiologist didn't give them enough sedation and they kind of woke up which is kind of a bad experience for them.  But usually they give you sedation, they say count back from three to one and you fall asleep.
+
+PATIENT L487
+You know what, when I had this thing.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+They said that and they said you're gonna be conscious but you won't be able to do anything.  That wasn't true, I counted back and the next thing I knew they're waking me up.  I was out when they were doing.
+
+DOCTOR L487
+What?
+
+PATIENT L487
+That sounds like what I had the throat blockage, two years ago the chicken thing.
+
+DOCTOR L487
+Oh okay.
+
+PATIENT L487
+I was definitely knocked out so.  I was happy about that.
+
+DOCTOR L487
+Yep, yeah.  The procedure itself is, yeah you're gonna be asleep so I think the hard part is the night before.
+
+PATIENT L487
+The day, it's a day right, you can't you have to pass for an entire.
+
+DOCTOR L487
+Yes.
+
+PATIENT L487
+A day.
+
+DOCTOR L487
+Exactly, starting in the morning you start drinking.  Yeah that has to start early so then you can actually sleep at night and you don't have to run to the.
+
+PATIENT L487
+Right.
+
+DOCTOR L487
+Yes.  So why don't we schedule you for that.  Um, what about the flu shot?
+
+PATIENT L487
+Don't want it.
+
+DOCTOR L487
+Okay.  Did you get a bad reaction from it before?
+
+PATIENT L487
+In recent years I had to get shots, I was in the guard, the military 2007 so um that was more shots I think that I had in my life.
+
+DOCTOR L487
+Okay.
+
+PATIENT L487
+And um I'm.
+
+DOCTOR L487
+Just be careful okay.  You know stay away from sick people.  I can't really, I usually recommend a flu shot but you know, if you don't want it that's fine.  Um I mean it's not fine but you have you know increased @@@.  Um is said you had the tetanus shot, do you remember when?
+
+PATIENT L487
+No not exactly but it was sometime.
+
+DOCTOR L487
+Just give approximate, three to four years ago?
+
+PATIENT L487
+Uh no, definitely before 06 so probably between 03 and 06.
+
+DOCTOR L487
+Okay.  The tetanus you get it every ten years.
+
+PATIENT L487
+Uh-huh.
+
+DOCTOR L487
+So you'll probably need it in @@@@ then okay.  Um alright and that's good.
+
+PATIENT L487
+I need to share one thing with you.
+
+DOCTOR L487
+Yeah.
+
+PATIENT L487
+What's the stuff that they uh, can't think of the name of it, it's a chemical cousin to what is in anti-freeze used in a car.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+The.
+
+DOCTOR L487
+Methanol?
+
+PATIENT L487
+No the stuff that makes you go.
+
+DOCTOR L487
+Oh.
+
+PATIENT L487
+But they sell it over-the-counter.
+
+DOCTOR L487
+MiraLAX.
+
+PATIENT L487
+Yeah MiraLAX whatever and I bought that.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+Let's say like in the last three months and I didn't even, I didn't drink the whole thing or all day like this would be but I took double dose.
+
+DOCTOR L487
+Okay.  MiraLAX.
+
+PATIENT L487
+And it didn't do anything; I mean not even a movement.
+
+DOCTOR L487
+You're having constipation right?
+
+PATIENT L487
+Well I'm not totally you know but that way but it's not moving like it should and I take psyllium and fruit you know.  I have at least a medium amount of fiber daily.
+
+DOCTOR L487
+Uh-huh and then you also tried some MiraLAX and it didn't work.
+
+PATIENT L487
+Yeah.
+
+DOCTOR L487
+Okay.
+
+PATIENT L487
+Yes.
+
+DOCTOR L487
+How often do you go?
+
+PATIENT L487
+Well once a day in the morning.
+
+DOCTOR L487
+Okay so you do go daily.
+
+PATIENT L487
+Right but it seems to me that what is you know by taking psyllium, in addition to if I'm eating beans and spinach and other things that are you know real high fiber then that should just fly out but there like today it was.
+
+DOCTOR L487
+Do you have to strain a lot?
+
+PATIENT L487
+Yah, I mean not a lot.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+But often enough.
+
+DOCTOR L487
+Is like your stool very hard?
+
+PATIENT L487
+When it's like that it is.
+
+DOCTOR L487
+Okay.  Do you drink enough water?
+
+PATIENT L487
+Yeah.
+
+DOCTOR L487
+Okay.  Have you tried like Colace?
+
+PATIENT L487
+What?
+
+DOCTOR L487
+Colace, something that softens your stools.
+
+PATIENT L487
+Uh, no.
+
+DOCTOR L487
+Would you like to give that a try?
+
+PATIENT L487
+Yeah.
+
+DOCTOR L487
+Okay.
+
+PATIENT L487
+Oh the newest one that I tried is um, it begins with an S.
+
+DOCTOR L487
+Senna.
+
+PATIENT L487
+Yes.
+
+DOCTOR L487
+Yeah.
+
+PATIENT L487
+And that.
+
+DOCTOR L487
+That's a different kind yeah.
+
+PATIENT L487
+Right.
+
+DOCTOR L487
+So I'm gonna give you a stool softener which will make your stools soft so.
+
+PATIENT L487
+That's different from Ex-Lax?
+
+DOCTOR L487
+Yes so the other ones are kind of like.
+
+PATIENT L487
+Oh.
+
+DOCTOR L487
+Um.
+
+PATIENT L487
+@@@.
+
+DOCTOR L487
+Uh they kind of like stimulate your intestines to make them move so that you go.
+
+PATIENT L487
+Uh-huh.
+
+DOCTOR L487
+This one it softens up your stool so you don't have to strain @@@.  It looks like you're taking the other stuff.
+
+PATIENT L487
+Uh-huh.
+
+DOCTOR L487
+So why don't we um try this one since this acts in a different way and you can take it daily um and if it's still not working then you can take it twice a day okay.
+
+PATIENT L487
+Hmm, I appreciate that.  Cause I told the doc, I told DOCTOR that.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+And he kind of blew me off; he said, “Ah, don’t worry about that.”
+
+DOCTOR L487
+Yeah the only reason he said @@@.  Did you want to pick it up or do you want it to be mailed?
+
+PATIENT L487
+Uh pick it up today?
+
+DOCTOR L487
+Uh-huh.  Do you want to pick it up today?
+
+PATIENT L487
+Uh how does that work over there?
+
+DOCTOR L487
+You wait at the Pharmacy and you pick it up.  Either that or um they would mail it to you and it would take about a week or so.  Do you want to pick it up?
+
+PATIENT L487
+Let me pick it up because I got to go do the means test anyway so that'll give me time to go through the system.
+
+DOCTOR L487
+Alright. @@@ window @@@  And um.
+
+PATIENT L487
+Years ago you know I ate a lot of fruit but used to be if I took prune juice guaranteed, an hour later, it would just fly out.
+
+DOCTOR L487
+Uh-huh.
+
+PATIENT L487
+And that doesn't work anymore.  I'll take both prune juice and eat prunes and nothing.
+
+DOCTOR L487
+Oh, do you also take verapamil for your blood pressure?  It looks like DOCTOR gave you that last time.  You haven't been taking that?
+
+PATIENT L487
+Um I have it but I've probably taken it you know four times cause.
+
+DOCTOR L487
+Okay I'm just gonna discontinue that then.
+
+PATIENT L487
+Right.  No I just got the first one in the mail and.
+
+DOCTOR L487
+Okay.
+
+PATIENT L487
+It was a couple of times so I had a headache and I thought well maybe it's related to that.
+
+DOCTOR L487
+You got a headache?
+
+PATIENT L487
+But I'm not taking it regularly.
+
+DOCTOR L487
+Alright.  Let me take a listen to your heart.
+
+PATIENT L487
+You want me up there?
+
+DOCTOR L487
+That's fine.  Deep breaths in and out, again.  Again.  Good, they sound good.
+
+PATIENT L487
+Keep breathing?
+
+DOCTOR L487
+One more time, you can breathe normally now.  Any pain when I press here?
+
+PATIENT L487
+Uh uh.  I should get rid of it.
+
+DOCTOR L487
+Oh the belly.
+
+PATIENT L487
+No I'm okay.
+
+DOCTOR L487
+You could start working on your diet, low salt.  Any swelling?
+
+PATIENT L487
+No.
+
+DOCTOR L487
+Good, good.
+
+PATIENT L487
+@@@.
+
+DOCTOR L487
+Alright looks good.  So you can pick up your medicines today.  I'll make an appointment with Dermatology uh let me talk with DOCTOR and I'll be right back.
+
+PATIENT L487
+So Dermatology is just the desk up front?
+
+DOCTOR L487
+Well I think.
+
+PATIENT L487
+@@@.
+
+DOCTOR L487
+They should, yeah the front desk should be able to give you an appointment.  If not they'll give you like a phone number or something or they’ll direct you to where you can actually get an appointment. 
+
+PATIENT L487
+Uh when I leave here?
+
+DOCTOR L487
+Yes.  I'll be right back.
+
+PATIENT L487
+Okay.
+
+(DOCTOR OUT:  27:26  DOCTOR IN:  33:35)
+
+DOCTOR L487
+Okay.  
+
+PATIENT L487
+Hmm.
+
+DOCTOR L487
+I just talked with DOCTOR.  Actually uh it's more like up here right?
+
+PATIENT L487
+Uh-huh.
+
+DOCTOR L487
+Okay in that case the Ear, Nose and Throat doctors um I'm gonna refer you to them.
+
+PATIENT L487
+Hmm.
+
+DOCTOR L487
+They'll do a scope and see if there's anything in there.
+
+PATIENT L487
+Hmm.
+
+DOCTOR L487
+So ENT @@@, so they should be able to schedule you up front alright and then pick this up and Docusate, stool softner okay.  Start with um taking it once daily, if necessary.
+
+PATIENT L487
+Uh-huh.
+
+DOCTOR L487
+And then kick it up to twice daily if it's necessary.  Drink tons of water and just keep an eye on your blood pressure.  Right now it looks good.  We’ll see how it is next time. And then for the colonoscopy they'll be contacting you to schedule you and make you an appointment.  Alright.
+
+PATIENT L487
+You know what I still have the stuff, the powder.
+
+DOCTOR L487
+Oh you do.
+
+PATIENT L487
+They wanted me to do it about a year ago and I cancelled it but, but they're gonna call me.
+
+DOCTOR L487
+Yes.
+
+PATIENT L487
+To set up a time.
+
+DOCTOR L487
+Yes.  And let me put in a referral for ENT.  So we'll refer to, you’re pretty much done. In the meanwhile what you can do is yeah go up to the front desk and make an appointment and um pick up your meds.
+
+PATIENT L487
+Right, right.
+
+DOCTOR L487
+Alright and I'll see you back in like four months or so or you can always see me earlier if something comes up.  I'm here on Wednesday afternoons.
+
+PATIENT L487
+Okay.
+
+DOCTOR L487
+Do you have any other questions?
+
+PATIENT L487
+No.  I'll probably be back for one of these before then but I'll.
+
+DOCTOR L487
+Yeah you can see me earlier @@@.
+
+PATIENT L487
+DOCTOR is nice but @@@.
+
+DOCTOR L487
+Yeah DOCTOR is great.  He's very experienced.
+
+PATIENT L487
+Yeah I know, I know but it's…
+
+DOCTOR L487
+Okay so I'll see you later.
+
+PATIENT L487
+Alright.
+
+DOCTOR L487
+Take care.  Stay healthy.
+
+PATIENT L487
+Yes.  I will.  Thank you doctor.
+
+DOCTOR L487
+You're welcome.
+
+PATIENT L487
+See you next time.
+
+PATIENT LEAVES:  36:44.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300314
+TRANSACTION # 578-10-2-316-0103

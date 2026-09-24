@@ -1,0 +1,1170 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter: @@@ 
+
+DOCTOR Z196
+PATIENT?  How are you today?
+
+PATIENT Z196
+Fine, fine.  Better.
+
+DOCTOR Z196
+It is.  We need to go down this way.  @@@ Is it raining outside?
+
+PATIENT Z196
+Uh it was a little bit.
+
+DOCTOR Z196
+Little bit.  Well it's clearing up.
+
+PATIENT Z196
+Yeah uh-huh.  It's going to come later.
+
+DOCTOR Z196
+Oh yeah.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+How are things going?
+
+PATIENT Z196
+Uh fine.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+Uh no complaints.
+
+DOCTOR Z196
+Good.
+
+PATIENT Z196
+I'm feeling very well.
+
+DOCTOR Z196
+Good.
+
+PATIENT Z196
+Uh I need uh.
+
+DOCTOR Z196
+Some refills.
+
+PATIENT Z196
+Some refills yeah.
+
+DOCTOR Z196
+Yep.
+
+PATIENT Z196
+And I brought a list of my medications.
+
+DOCTOR Z196
+Sure, let's take a look.
+
+PATIENT Z196
+And I have one question.
+
+DOCTOR Z196
+Uh-huh.
+
+PATIENT Z196
+On one of them.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+I'm uh you know daily on the lovastatin.
+
+DOCTOR Z196
+Right.
+
+PATIENT Z196
+Triamterene.
+
+DOCTOR Z196
+Uh-huh.
+
+PATIENT Z196
+And the potassium supplements.
+
+DOCTOR Z196
+Uh-huh.  Yep.
+
+PATIENT Z196
+However, when my prescription comes they have a warning.
+
+DOCTOR Z196
+Yep.
+
+PATIENT Z196
+For people who take triamterene.
+
+DOCTOR Z196
+Uh-huh.
+
+PATIENT Z196
+Uh saying that it can raise your body's potassium level.
+
+DOCTOR Z196
+Uh-huh.
+
+PATIENT Z196
+And do not use potassium supplements if you're taking triamterene.
+
+DOCTOR Z196
+Right and that is something that it causes normally but your potassium, even with the supplement is low.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+So we're watching that.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+We have our eye out for it.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+But we, if your potassium drops too low it's bad for your heart.
+
+PATIENT Z196
+Yeah.
+
+DOCTOR Z196
+So we have to keep an eye on it.
+
+PATIENT Z196
+Uh I.
+
+DOCTOR Z196
+So we do check it with every lab we do with you but so far this is working so we're gonna stay on it.
+
+PATIENT Z196
+And I eat a banana every day.
+
+DOCTOR Z196
+Good.
+
+PATIENT Z196
+@@@.
+
+DOCTOR Z196
+That's fine.  Just don't eat like 12 yeah.  Cause that would be bad.  Yeah a banana every day is perfect.
+
+PATIENT Z196
+Uh.
+
+DOCTOR Z196
+And then what else is going on?
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+The aspirin you're taking low dose.  Do you get it through us?
+
+PATIENT Z196
+Uh no.
+
+DOCTOR Z196
+Do you want to?  I don't know what the cost difference would be but we could try if you want.  I can write this for you and I can write the multivitamin for you.
+
+PATIENT Z196
+Uh.
+
+DOCTOR Z196
+Or do you prefer to get them yourself?
+
+PATIENT Z196
+I can get them myself.
+
+DOCTOR Z196
+Okay, that's fine.
+
+PATIENT Z196
+Uh I will need the lovastatin renewed.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+Because I have about ten tablets let.
+
+DOCTOR Z196
+Okay.  Do you want to pick it up downstairs or do you want us to mail to you.
+
+PATIENT Z196
+Um you can send it in the mail.
+
+DOCTOR Z196
+Okay let's do that now so we don't forget.  Now what's the dose you're taking now?
+
+PATIENT Z196
+Uh the lovastatin.
+
+DOCTOR Z196
+Do you take 40?
+
+PATIENT Z196
+40 mg.
+
+DOCTOR Z196
+Okay.  You want 90-day supply?
+
+PATIENT Z196
+A 90-day supply yeah.
+
+DOCTOR Z196
+Wonderful.  
+
+PATIENT Z196
+Uh but my cholesterol is in good shape?
+
+DOCTOR Z196
+Yeah I was just looking at that before you walked in.  So your cholesterol, your total cholesterol is 195 uh your good cholesterol is 50 so that's really good and we want it above 40.  So diet, exercise, that kind of stuff.
+
+PATIENT Z196
+Right.
+
+DOCTOR Z196
+And then your LDL is 103 and you're not a diabetic and so a man your age with high blood pressure should be below 100 cause you're right at that cusp.
+
+PATIENT Z196
+Right.
+
+DOCTOR Z196
+At 100.  So I mean we're kind of sitting where we need to at this point.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+So it's good okay.  Um and then I was looking at your other labs so your potassium, like I told you, it's even on like the low end of normal even with the supplement.
+
+PATIENT Z196
+Right.
+
+DOCTOR Z196
+So we're okay with staying with what we're doing.  The kidney function is good.  Your fasting glucose was really good.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+That means you're not like pre-diabetic or anything like that.
+
+PATIENT Z196
+Right every time it's been tested it's at 90 so.
+
+DOCTOR Z196
+Yes.
+
+PATIENT Z196
+So what did it do this time?
+
+DOCTOR Z196
+It was 95.
+
+PATIENT Z196
+95.
+
+DOCTOR Z196
+Yes, yes and then um and then I checked your liver enzymes cause people that are on statin for a long time you just want to monitor.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+To see how the liver is doing and those are totally normal.  Um and then.
+
+PATIENT Z196
+And then uh last year I took the uh oral anti-fungal for 90 days.
+
+DOCTOR Z196
+Oh yeah, yeah.
+
+PATIENT Z196
+So there was concern that that would uh.
+
+DOCTOR Z196
+Damage your liver.
+
+PATIENT Z196
+…danage the liver yeah.
+
+DOCTOR Z196
+Yeah no so those are perfect.  Uh-huh.
+
+PATIENT Z196
+Uh that resulted in all the toenails look perfect.
+
+DOCTOR Z196
+Oh good.  Good and we're done with that right?
+
+PATIENT Z196
+Right, right.
+
+DOCTOR Z196
+You're done with the whole, okay good.  Good and then we also checked your, what we call a CBC which is like the white blood cell count, the hemoglobin and your platelets and those are all normal.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+So we don't have to worry about anemia or anything like that.
+
+PATIENT Z196
+Right but before I had high levels of triglycerides, is that?
+
+DOCTOR Z196
+Yeah so your triglycerides are pretty high but we want you around 150 and you're at 200.  Um have you ever taken like niacin?
+
+PATIENT Z196
+Uh well I take a multivitamin.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+And that has niacin in it.
+
+DOCTOR Z196
+Yeah but niacin itself is probably a little bit stronger.  We can try niacin and see how you respond to it and recheck them in like three months um.
+
+PATIENT Z196
+What causes the triglycerides to be so high?
+
+DOCTOR Z196
+A lot of it is genetics and then some of its diet so you know a high fat diet can cause you to have a lot of triglycerides.
+
+PATIENT Z196
+I'm on a low fat diet.
+
+DOCTOR Z196
+Yeah, yeah.  Sometimes it's genetic so kind of take care of it.
+
+PATIENT Z196
+Uh but alcohol would elevate it?
+
+DOCTOR Z196
+Alcohol can absolutely.  Let me see where they were before.  Yeah I mean you were at 219 before, you're 209 now.  You've always been around 200.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+So I'm guessing it's more of a, yeah it's more of a genetic component.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+Cause your diet seems like it's pretty good, from the last time we talked.  So good.  So yeah I mean you can try niacin.  I can give it to you through the VA.  Is this a B vitamin?
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+And the side effects of that is some people get flushing.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+Like they just feel very hot and red.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+And then the answer to that would be a slow-release niacin.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+You know a slower acting for your systems, kind of a tablet that's slower.  Do you want to try it?
+
+PATIENT Z196
+I'll try that uh-huh.
+
+DOCTOR Z196
+Okay.  Let's go ahead and do that and then we'll recheck everything in a couple of months.  90-day supply, see how you tolerate it.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+I'd say about maybe 15% of people have that reaction so, hopefully you won't.  Okay um and what about your other medicines, the cholesterol pill?
+
+PATIENT Z196
+Uh my potassium supplement I got a 60-day supply left.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+And no refills.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+So maybe I need it.
+
+DOCTOR Z196
+We'll do that and then I'll give you enough refills.  How's your blood pressure been doing in the last year?
+
+PATIENT Z196
+Uh it's been fine.  I have uh a device I use on my wrist to measure it.
+
+DOCTOR Z196
+Uh-huh.
+
+PATIENT Z196
+But uh it gives me fairly high readings and the device is inaccurate.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+Uh when they tested the blood pressure I was about 112/72.
+
+DOCTOR Z196
+Yeah this number is really good.
+
+PATIENT Z196
+Which is.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+I'm getting 145/90.
+
+DOCTOR Z196
+Oh really.
+
+PATIENT Z196
+When I test at home.
+
+DOCTOR Z196
+Do you want a different um monitor?  I can order you one from the VA.
+
+PATIENT Z196
+How much is that gonna cost?
+
+DOCTOR Z196
+I don't think it costs very much at all and you just pick it up downstairs in the Prosthetics Department.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+On your way out.  Do you want that?
+
+PATIENT Z196
+I bought this thing and I paid 90 some dollars for it.
+
+DOCTOR Z196
+It's definitely less than that.  I feel the wrist ones can be pretty inaccurate.
+
+PATIENT Z196
+I think so.
+
+DOCTOR Z196
+Yeah so I mean you can go pick up one at Walgreens.  I prefer you get the cuff or I can order one through the VA which is probably cheaper for you.  I'm not exactly sure how much they charge but.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+When you go pick it up you can ask them and if you don't want it.
+
+PATIENT Z196
+Right.
+
+DOCTOR Z196
+Then don't take it.
+
+PATIENT Z196
+Right, right.
+
+DOCTOR Z196
+Do you want to do that at least?
+
+PATIENT Z196
+I'll try that.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+Alright because I repeat the tests on the wrist and a couple of minutes later the figure is all different.
+
+DOCTOR Z196
+Yeah.  Doesn’t seem reliable.
+
+PATIENT Z196
+It's a general estimation though.
+
+DOCTOR Z196
+Yes.  The potassium needed some refills too.  This was followed up in November.  You were just taking potassium and chloride okay.  So we also this time around checked your prostate.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+To see what your prostate hormone was doing and it's a little bit elevated.  Has anyone ever told you that before?
+
+PATIENT Z196
+Uh no.
+
+DOCTOR Z196
+Okay.  Cause I know you, let's see you started following here at the VA a couple of years ago or was it how long ago?
+
+PATIENT Z196
+Uh it's almost two years.
+
+DOCTOR Z196
+Two years okay.  No one's ever checked here at the VA so I don't know what your records were on the outside.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+Um but it's a little bit elevated so it's a little concerning.  It could be many different things and most likely it's probably the gland itself just gets bigger as you age.
+
+PATIENT Z196
+Uh-huh, uh-huh.
+
+DOCTOR Z196
+Um and that's what most people you know end up having a high PSA.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+It can also be, if it's really, really high, it can also be prostate cancer um but yours isn't to that level at this point.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+But I still want to keep an eye on it and probably send you to see the urology doctors.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+Okay, just for them to kind of keep an eye on things.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+To watch it a little bit closer.  Are you having any urinary symptoms at home like when you wake up at night and have to go to the bathroom?
+
+PATIENT Z196
+Uh I've had uh you know frequent and urgent urination for a long time.
+
+DOCTOR Z196
+Uh-huh.
+
+PATIENT Z196
+Uh I think probably it's due to the blood pressure medication.
+
+DOCTOR Z196
+Okay yeah since it's a diuretic.
+
+PATIENT Z196
+It's a diuretic.
+
+DOCTOR Z196
+Right, right.
+
+PATIENT Z196
+Uh I take the blood pressure medications in the morning.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+Not at night, if I take it at night I have to get up.
+
+DOCTOR Z196
+Get up.
+
+PATIENT Z196
+In the night.
+
+DOCTOR Z196
+If you take it in the morning how often do you get up at night to go to the bathroom?
+
+PATIENT Z196
+Uh I don't have to get up at night.
+
+DOCTOR Z196
+You don't have to get up.  Do you ever have to um kind of go to the bathroom multiple times in a row to empty your bladder fully?
+
+PATIENT Z196
+Not really no.
+
+DOCTOR Z196
+Okay.  Do you ever feel like it takes a while for you to start a urine stream or it just won't come out?
+
+PATIENT Z196
+No, no.
+
+DOCTOR Z196
+Okay, okay, so yeah we'll just you know, we'll have you go to the urology doctors and have them kind of take a look at it okay.
+
+PATIENT Z196
+Yeah.
+
+DOCTOR Z196
+It's a good thing to catch early.
+
+PATIENT Z196
+Yeah.
+
+DOCTOR Z196
+For sure, in case anything is going on.
+
+PATIENT Z196
+And I also see a dermatologist.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+She's very good.
+
+DOCTOR Z196
+Uh-huh.
+
+PATIENT Z196
+Uh she has tried to do something for my lip.  Uh the first that she wanted me to try.
+
+DOCTOR Z196
+Like a prescription.
+
+PATIENT Z196
+Is a 2.5% cream.
+
+DOCTOR Z196
+Uh.
+
+PATIENT Z196
+It really has no effect.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+My lip won't heal.
+
+DOCTOR Z196
+Yeah.  What happened there?
+
+PATIENT Z196
+Uh I had surgery to remove a very large growth.
+
+DOCTOR Z196
+Oh okay.
+
+PATIENT Z196
+Under my left.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+The one on my back of my neck was basal cell carcinoma.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+This one was like a large tumor due to sun damage.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+But it was not basal cell.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+Uh it's never healed properly and my lip was numb and for eight years the skin peeled off my lips.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+Every other day.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+Uh she wanted me to try this one.
+
+DOCTOR Z196
+Uh-huh.
+
+PATIENT Z196
+And I haven't been back to talk to her since she wanted me to try but this doesn't do anything.
+
+DOCTOR Z196
+Isn't helping either.
+
+PATIENT Z196
+No.
+
+DOCTOR Z196
+When did you last see her?
+
+PATIENT Z196
+Uh I saw her um maybe three or four months ago.
+
+DOCTOR Z196
+Okay and that's when she gave you the last cream?
+
+PATIENT Z196
+She gave me the last one yeah.
+
+DOCTOR Z196
+And that's not working.
+
+PATIENT Z196
+She said to see if it would work.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+Uh I still have plenty of it left.  I stopped taking it.
+
+DOCTOR Z196
+But it's not working.  How long did you try it before you kind of?
+
+PATIENT Z196
+Uh I used it for uh almost two months.
+
+DOCTOR Z196
+Okay.  Yeah, that's a good try.  So you're supposed to go back and seen them in June, June 11th it looks like.
+
+PATIENT Z196
+Uh-huh, uh-huh.
+
+DOCTOR Z196
+Okay, no it's July, July 11th.
+
+PATIENT Z196
+Right.
+
+DOCTOR Z196
+Do you want to see if we can get you in earlier?
+
+PATIENT Z196
+Uh.
+
+DOCTOR Z196
+Is it really bothering you or are you just kind of.
+
+PATIENT Z196
+It doesn't really bother me.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+But uh, it's slightly sore.
+
+DOCTOR Z196
+Uh-huh.
+
+PATIENT Z196
+And the skin peels off of it every other day.  It's been doing that for eight years.
+
+DOCTOR Z196
+You can't seem to get it under control huh.  Yeah.  So you're like what's going on yeah.  I'll let them deal with that department since I usually don't do that.
+
+PATIENT Z196
+Well during the surgery they pulled the skin from the inside of my mouth.
+
+DOCTOR Z196
+Out.
+
+PATIENT Z196
+To form a lip.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+And that skin, it cannot be exposed.
+
+DOCTOR Z196
+Yeah.  Maybe that's why yeah.
+
+PATIENT Z196
+It has something to do with it.
+
+DOCTOR Z196
+Yeah, definitely.  It's not made to be outside the mouth so.
+
+PATIENT Z196
+Right.
+
+DOCTOR Z196
+Yeah.  Well it looks great; it looks really good though you know as you said it was a pretty big mass.
+
+PATIENT Z196
+Uh it was very large under my lip.
+
+DOCTOR Z196
+Yeah, alright.
+
+PATIENT Z196
+And they did two surgeries.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+And at the first surgery.
+
+DOCTOR Z196
+Where was that done?
+
+PATIENT Z196
+Uh it was done by a plastic surgeon.
+
+DOCTOR Z196
+Uh-huh.
+
+PATIENT Z196
+Uh.
+
+DOCTOR Z196
+Was it at Hines?
+
+PATIENT Z196
+No Rush, Oak Park.
+
+DOCTOR Z196
+Okay.  Uh and then your ears, how's that going?  You're following with Audiology.
+
+PATIENT Z196
+Uh yes the hearing aids are working very well.
+
+DOCTOR Z196
+Perfect, perfect.
+
+PATIENT Z196
+I have a device for the telephone also so I'm now able to hear on the phone calls.
+
+DOCTOR Z196
+Oh good, that's good.  Alright.  Okay I was just putting in your Urology referral.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+For you to go see them.  Okay.  Anything else going on?
+
+PATIENT Z196
+Uh not that I can think of.
+
+DOCTOR Z196
+How's your weight been doing?  Are you up, down?
+
+PATIENT Z196
+I'm probably gaining a little weight.
+
+DOCTOR Z196
+Okay.
+
+PATIENT Z196
+Uh after I left the hospital I lost 10 pounds.
+
+DOCTOR Z196
+Uh-huh.
+
+PATIENT Z196
+But now I've gained it all back again.
+
+DOCTOR Z196
+You gained it all back huh.  Yeah it looks like you were.
+
+PATIENT Z196
+I went down to 180.
+
+DOCTOR Z196
+Yeah, about this time last year you were about the same.
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+Around like 190.
+
+PATIENT Z196
+Right.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+Uh that's really too heavy for.
+
+DOCTOR Z196
+Yeah, they have um, they have different programs here you know for like exercise and new programs, like the MOVE program where they kind of teach you different exercise things to do and also like diet.
+
+PATIENT Z196
+Hmm.
+
+DOCTOR Z196
+If you're interested I mean its more trips to the VA if you can and if not I mean.
+
+PATIENT Z196
+No because I can really do everything on my own.
+
+DOCTOR Z196
+Okay, that's fine.
+
+PATIENT Z196
+I’m trying follow the best possible diet, low fat, high fiber.
+
+DOCTOR Z196
+Yeah good for you.
+
+PATIENT Z196
+And I'm getting good exercise.  I don't drive so I'm walking.
+
+DOCTOR Z196
+Good.
+
+PATIENT Z196
+Like every day.
+
+DOCTOR Z196
+Good, good.  Uh good.  Anything else going on?
+
+PATIENT Z196
+Uh not that I can think of.
+
+DOCTOR Z196
+Okay good.  Wonderful.  Let's have you sit up there.  I'll listen to your @@@.  Take a deep breath for me.  Take a deep breath for me.  Good.  A couple more like that.  Good.  And how have your bowels been?
+
+PATIENT Z196
+Uh fine.
+
+DOCTOR Z196
+Are you regular?
+
+PATIENT Z196
+Uh-huh.
+
+DOCTOR Z196
+Okay no blood in the stool?
+
+PATIENT Z196
+No.
+
+DOCTOR Z196
+Or any dark stool or anything like that?
+
+PATIENT Z196
+No.
+
+DOCTOR Z196
+I'm going to take a look at your legs.  You haven't noticed any more swelling than usual?
+
+PATIENT Z196
+Uh not really.  I get eczema.
+
+DOCTOR Z196
+Eczema.
+
+PATIENT Z196
+You can pull my socks down and I'll show you where it's at.
+
+DOCTOR Z196
+Yeah, down here?  
+
+PATIENT Z196
+Yeah.  @@@.
+
+DOCTOR Z196
+Looks a little @@@ here.
+
+PATIENT Z196
+And @@@.
+
+DOCTOR Z196
+Oh yeah.
+
+PATIENT Z196
+Almost.
+
+DOCTOR Z196
+Yeah.
+
+PATIENT Z196
+Eczema.
+
+DOCTOR Z196
+Do you scratch it pretty bad?
+
+PATIENT Z196
+Uh yes.
+
+DOCTOR Z196
+Yes.
+
+PATIENT Z196
+Uh but the eczema season is almost over.
+
+DOCTOR Z196
+Yeah.  Do you have it on your chest too?
+
+PATIENT Z196
+On my low chest.
+
+DOCTOR Z196
+Do you put that cream that they gave you?
+
+PATIENT Z196
+Uh I use the hydrocortisone.
+
+DOCTOR Z196
+Okay.  Does that work?
+
+PATIENT Z196
+Uh yes it does.
+
+DOCTOR Z196
+Stops the itching at least?
+
+PATIENT Z196
+Yeah.
+
+DOCTOR Z196
+Okay wonderful.  Alright just give me a couple of minutes; I'll be right back okay.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+I want to check real quick.  Are we up-to-date on your um colonoscopy?  Yeah.
+
+PATIENT Z196
+Uh yes.  I'm not scheduled to get it @@@.
+
+DOCTOR Z196
+Okay.  I just want to make sure your vaccines are up-to-date.
+
+PATIENT Z196
+Over 80 so.
+
+DOCTOR Z196
+Okay.  Yeah that's right.  So you're all done.  Alright, have a seat right there I'll be right back.
+
+PATIENT Z196
+Okay.
+
+(DOCTOR OUT:  44:48  DOCTOR IN:  49:34)
+
+DOCTOR Z196
+Okay sir you're all set.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+So the blood pressure cuff is free.
+
+PATIENT Z196
+Oh okay.
+
+DOCTOR Z196
+So you could just go to Prosthetics and pick it up, my nurse can point you in the right direction.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+@@@.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+@@@  Follow me.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+Uh is there any way you can give us a urine sample?
+
+PATIENT Z196
+Uh right now, yes.
+
+DOCTOR Z196
+Okay right over here.  We just need a little urine sample before you go see the Urology doctor.
+
+PATIENT Z196
+Okay, okay.
+
+DOCTOR Z196
+And we want to get it so I'm going to have you just take @@@ they'll do it here.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+Instead of sending you back to the Lab.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+Then after that they'll set you up to come back and see me in about six months okay.  They'll do that.
+
+PATIENT Z196
+Okay.  @@@.
+
+DOCTOR Z196
+Go over here and have a seat okay.
+
+PATIENT Z196
+Okay.
+
+DOCTOR Z196
+I'll see you later sir okay take care now.
+
+PATIENT Z196
+Okay thanks.
+
+PATIENT LEAVES:  50:21.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255130
+TRANSACTION # 578-10-2-316-0103

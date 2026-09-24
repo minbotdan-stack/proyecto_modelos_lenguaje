@@ -1,0 +1,976 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@
+
+DOCTOR I279 
+PATIENT?  How you been?
+
+PATIENT I279
+I'm okay.
+
+DOCTOR I279
+Just have a seat here, wherever it's most comfortable for you.  
+
+PATIENT I279
+Alright.
+
+DOCTOR I279
+So I went ahead and refilled some of your meds, I saw that you were out of refills.
+
+PATIENT I279
+Yeah.
+
+DOCTOR I279
+So I went ahead and refilled those.  Um are you having any problems?  Are you still having problems with the urination?
+
+PATIENT I279
+Yes.
+
+DOCTOR I279
+Still going on?
+
+PATIENT I279
+Yeah they gave me uh instead of this one, but it's not on here I don't think.  For today, is that's the oxybutynin?
+
+DOCTOR I279
+Oxybutynin yeah, it's on this one.
+
+PATIENT I279
+Yeah that's that little blue one I think.  If it is that little blue twice a day yeah okay.  
+
+DOCTOR I279
+Uh and then also the doxazosin is for the prostate.
+
+PATIENT I279
+Yeah.  Yeah okay it may be working and may not I don't know.  I still get up in the nighttime but it seems like I'm lasting longer in the daytime.
+
+DOCTOR I279
+Oh good.  Which one's the new one, the oxybutynin?
+
+PATIENT I279
+It looks like oxybutynin.
+
+DOCTOR I279
+Alright.
+
+PATIENT I279
+Is that one the little blue, the little blue pill, uh it was prescribed by the guy, the doctor downstairs, what's it used for?
+
+DOCTOR I279
+It's used for like bladder stuff.
+
+PATIENT I279
+That's it.
+
+DOCTOR I279
+Okay, okay.
+
+PATIENT I279
+But there was one I didn't agree with or wasn't going to use.
+
+DOCTOR I279
+Yeah finasteride.
+
+PATIENT I279
+Yeah so that one I'm not taking that at all.  I called them up and told them I'm not even you know.
+
+DOCTOR I279
+Sure.
+
+PATIENT I279
+So don't renew it.
+
+DOCTOR I279
+Okay.  Uh and you just saw the urologist back at the end of January, looks like everything is okay.
+
+PATIENT I279
+Yeah, so I go see him in six months.
+
+DOCTOR I279
+Okay.  Are you having any shortness of breath still?
+
+PATIENT I279
+No.
+
+DOCTOR I279
+Cause I think last time you were having some shortness of breath and you were using your wife's inhaler.
+
+PATIENT I279
+Yeah that's the, every once I had that has that, where I start to wheeze and I can't catch my breath.  That hasn't happened since before Christmas.
+
+DOCTOR I279
+Oh okay good. I was curious about that.
+
+PATIENT I279
+So that's pretty much gone now.  Uh what I did, I'm having some teeth problems.  I had a tooth pulled and a tooth filled and this was at about Christmas time so I didn't go to the dentist and I was taking aspirin every night.
+
+DOCTOR I279
+Uh-huh.
+
+PATIENT I279
+And I wound up with uh acid reflux.
+
+DOCTOR I279
+Uh, uh okay.
+
+PATIENT I279
+So I stopped the aspirin and then I'm taking, because of the tooth infection, hopefully that will go away, but the dentist gave me erythromycin.
+
+DOCTOR I279
+Oh okay.  How long were on that for?
+
+PATIENT I279
+Oh I'm just finishing up.
+
+DOCTOR I279
+Oh you're finishing okay.
+
+PATIENT I279
+Yeah I still have another tooth to get filled or I meant to get pulled, yeah, yeah on there so I'm going to have that one before I go again so for infection.  But since I got the erythromycin and I stopped the aspirin I haven't had any acid reflux episodes.
+
+DOCTOR I279
+Have not had any more?
+
+PATIENT I279
+Right.
+
+DOCTOR I279
+Good.
+
+PATIENT I279
+But then I haven't had cabbage for a while either.  I will today because they're making vegetable soup.  As a matter of fact I was taking Tums and then I took that, what's that, omeprazole?
+
+DOCTOR I279
+Omeprazole?
+
+PATIENT I279
+Yeah.
+
+DOCTOR I279
+Uh-huh.
+
+PATIENT I279
+Instead of taking it a nighttime I took it right after supper.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+That helped.  And then.
+
+DOCTOR I279
+Any other problems going on besides the teeth issue?
+
+PATIENT I279
+Okay uh I got a 25-pound barbell that I.
+
+DOCTOR I279
+Uh-huh.
+
+PATIENT I279
+That I go like this you know.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+And when I do the way up ones then every once in a while when I get around 15 of them, I got right here, but then it goes away and only when I do that.
+
+DOCTOR I279
+Okay.  Do you walk; do you ever walk for any distance?
+
+PATIENT I279
+I haven't been walking because the wife doesn't go to the pool anymore and so while she was in the pool I'd go take a walk.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+So.
+
+DOCTOR I279
+Have you been doing any other kind of exertion other than the weights?
+
+PATIENT I279
+Yeah I got uh I built a step for her.
+
+DOCTOR I279
+Uh-huh.
+
+PATIENT I279
+And I use it for stuff and so forth.  Two handles up here and it's about that far off the ground and I jump on and off of it.
+
+DOCTOR I279
+Do you ever get chest pain when you do that?
+
+PATIENT I279
+No.
+
+DOCTOR I279
+No.
+
+PATIENT I279
+Just pulse goes up to 120, no 100 about 110-120.
+
+DOCTOR I279
+Okay as long as you're exercising.
+
+PATIENT I279
+Yeah.
+
+DOCTOR I279
+And as long as you're not getting chest pain.  You know when you're doing this you're probably pulled a muscle yeah.
+
+PATIENT I279
+Yeah.
+
+DOCTOR I279
+If it was happening at any time you were exerting yourself then it might be a little bit more worrisome.
+
+PATIENT I279
+@@@.
+
+DOCTOR I279
+Okay.
+
+PATIENT I279
+Uh when I go downstairs once in a while my right knee bothers me but that's off and on, nothing no where it happens all the time, doesn't do that.
+
+DOCTOR I279
+Okay.  Your blood pressure is a little bit low today.  Does it normally run that low?
+
+PATIENT I279
+No.
+
+DOCTOR I279
+Like in the 90s.
+
+PATIENT I279
+Yeah I never have a 90.
+
+DOCTOR I279
+Okay.  
+
+PATIENT I279
+It's always 100 something over 70 or something.
+
+DOCTOR I279
+Was it in the like 100s or one teens or 120s?
+
+PATIENT I279
+It's usually 110 or something like that.  Low, nothing high.
+
+DOCTOR I279
+I mean do you ever get lightheaded, dizzy, pass out?  Okay.  You know the lower the blood pressure the better as a rule.
+
+PATIENT I279
+Yeah but not too low.
+
+DOCTOR I279
+Yeah it can get too low so that's why we try to make sure you don't get too low.  You're not getting lightheaded, dizzy; uh you know that kind of stuff.
+
+PATIENT I279
+No.
+
+DOCTOR I279
+I see you had some labs done at the end of January too.
+
+PATIENT I279
+Yeah.
+
+DOCTOR I279
+I don't know if your urologist went over them with you.
+
+PATIENT I279
+No.
+
+DOCTOR I279
+Basically your kidney function looks normal.  Uh your cholesterol.
+
+PATIENT I279
+Wait, wait a minute.
+
+DOCTOR I279
+Sure.
+
+PATIENT I279
+Okay.
+
+DOCTOR I279
+Uh the cholesterol looks good.  Uh the bad cholesterol is pretty low, its 94 and we like to see that below 100.
+
+PATIENT I279
+So it was 94, so it's below 100.
+
+DOCTOR I279
+Yeah exactly, so good.
+
+PATIENT I279
+What's the triglyceride?
+
+DOCTOR I279
+The triglycerides are 109 which is perfect.
+
+PATIENT I279
+Yeah that's getting down.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+So that niacin I guess is working.
+
+DOCTOR I279
+Yeah, yeah probably um and also the simvastatin is pretty good about doing that.
+
+PATIENT I279
+Yeah well I been taking the simvastatin for a long time.
+
+DOCTOR I279
+Your triglycerides are still a little bit of a problem.
+
+PATIENT I279
+So they, what are the triglycerides supposed to be?
+
+DOCTOR I279
+Uh you know we shoot for less than 150.
+
+PATIENT I279
+Well then I'm good.
+
+DOCTOR I279
+Yeah but even if you're a little bit above 150 we don't normally do too much.
+
+PATIENT I279
+So the niacin is working.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+And did the tests for that, pulmonary test, say anything?
+
+DOCTOR I279
+Uh let me see if they have already commented on it.
+
+PATIENT I279
+But that was done early.
+
+DOCTOR I279
+That was done the same day you were here right?  The same day you saw me?
+
+PATIENT I279
+I think so.  No it was after I saw you.
+
+DOCTOR I279
+Okay.  It was normal, it was completely normal. 
+
+PATIENT I279
+It’s a good the test.
+
+DOCTOR I279
+You know we use that specific test uh to see if people have like emphysema or asthma, something like that and you know, it was normal.
+
+PATIENT I279
+What about sugar?
+
+DOCTOR I279
+Your sugar was normal, it was 93.  We shoot for less than 100.  Well we shoot for less than 126 really.  
+
+PATIENT I279
+And I guess I still have my hernia.
+
+DOCTOR I279
+Yeah.  Are you doing the MOVE Program still or?
+
+PATIENT I279
+I go there once a month.  I haven't been going to exercise cause I can't get the schedule in there.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+Can't leave my wife alone that's enough.  So far she fell eight times.
+
+DOCTOR I279
+Oh really.
+
+PATIENT I279
+Yeah, over a couple years.
+
+DOCTOR I279
+Yeah.  I thought that we had switched the simvastatin to rosuvastatin.
+
+PATIENT I279
+No I didn't get that.  Well we talked about something different I think but I still got the, I didn't get anything new.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+The only thing I got new was the niacin.
+
+DOCTOR I279
+Yeah well I mean your cholesterol is perfect so I don't think we need to make any changes today. We’ll continue…  So you're still taking the simvastatin right?
+
+PATIENT I279
+Yeah.
+
+DOCTOR I279
+And that's got 0 refill, okay I'll refill that.  So you're taking the half a tablet of that right?
+
+PATIENT I279
+Yeah.
+
+DOCTOR I279
+Okay and you're doing the niacin and you're just taking that once a day?
+
+PATIENT I279
+Yeah nighttime.
+
+DOCTOR I279
+Okay.  Okay yeah, so I think we'll stick with that.  Whatever seems to be working.  I don't know if it's your diet or the medication but something.
+
+PATIENT I279
+Well I lost weight.
+
+DOCTOR I279
+Oh good.
+
+PATIENT I279
+That's cause she's not eating and I'm not eating so then, until she gives me her half of the hamburger, things like that.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+“Do want to finish this?”
+
+DOCTOR I279
+Are you.
+
+PATIENT I279
+But she goes, she lost 40 pounds.
+
+DOCTOR I279
+Oh good so you guys are trying to lose weight?  Oh okay, okay.  I just want to make sure you're not dropping weight accidentally.  Alright.
+
+PATIENT I279
+I feel I got five more to go and then I'm gonna stop.
+
+DOCTOR I279
+Okay.  Yeah I don't think, it wouldn't hurt.  It'll help your cholesterol; probably help your blood pressure.  But your blood pressure's great now yeah.
+
+PATIENT I279
+Yeah.
+
+DOCTOR I279
+Are you having any pain with your hernias?
+
+PATIENT I279
+No.
+
+DOCTOR I279
+Okay.
+
+PATIENT I279
+As a matter of fact when I lay in the bed and try to pick my feet up I hold the stomach.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+And it's not red.  I know when it's gone.
+
+DOCTOR I279
+You're still not wanting surgery or anything.  You're okay with them?
+
+PATIENT I279
+Yeah.
+
+DOCTOR I279
+Okay.
+
+PATIENT I279
+Cause nothing's happening.
+
+DOCTOR I279
+Alright.
+
+PATIENT I279
+No news good news.
+
+DOCTOR I279
+Alright and then they checked your, they checked the PSA again in November.
+
+PATIENT I279
+Yeah what's that?
+
+DOCTOR I279
+It was 0.7 so it was.
+
+PATIENT I279
+Didn't I have another PSA this last blood test?
+
+DOCTOR I279
+Yeah that was in November.
+
+PATIENT I279
+No I just had a blood test in January.
+
+DOCTOR I279
+Oh no, no we don't check it that often.
+
+PATIENT I279
+Oh.  So it wasn't on that list.
+
+DOCTOR I279
+No it was back in November.
+
+PATIENT I279
+Oh.
+
+DOCTOR I279
+It was 0.7.  The time before that was like 1.5 yeah.  The one before that was in May and it was 1.6 actually.
+
+PATIENT I279
+That went down then?
+
+DOCTOR I279
+It went down yeah.
+
+PATIENT I279
+Why would that be?
+
+DOCTOR I279
+Oh so it could be the urologists are kind of shrinking your prostate so you can kind of follow that number sometimes.  It'll tell you how big the prostate is getting so the bigger the prostate the bigger that number.
+
+PATIENT I279
+Oh.
+
+DOCTOR I279
+So it means your prostate's down.
+
+PATIENT I279
+So then I shouldn't be peeing as often.  
+
+DOCTOR I279
+Yeah I think that was the thought of the urologists.  If we can get your prostate shrunk down a little bit you wouldn't have as much symptoms.
+
+PATIENT I279
+And @@@ wouldn’t need that @@@.
+
+DOCTOR I279
+Yeah, yeah cause I know they had talked about that as a possibility.
+
+PATIENT I279
+Yeah if it ain't broke don't fix it.
+
+DOCTOR I279
+And your liver looks good.  We checked the liver enzymes and they look good.
+
+PATIENT I279
+That's because of the prostate medicine or because of the simvastatin?
+
+DOCTOR I279
+Uh probably just diet.
+
+PATIENT I279
+Oh.
+
+DOCTOR I279
+And stuff.
+
+PATIENT I279
+No okay.  But one of the medications affects the liver right?
+
+DOCTOR I279
+Yeah so sometimes the simvastatin can but it normally affects it in a bad way.
+
+PATIENT I279
+Oh yeah.
+
+DOCTOR I279
+So it's not doing that, you're not having that kind of affect on it.  And you do sound like you're having less urinary episodes during the day.
+
+PATIENT I279
+Yeah.
+
+DOCTOR I279
+So maybe, see it's kind of a slow process.  It takes a while to build up in your system.  And when was your last colonoscopy?
+
+PATIENT I279
+Years back.
+
+DOCTOR I279
+Yeah @@@@, so you're due this year.
+
+PATIENT I279
+Oh yeah?
+
+DOCTOR I279
+Yeah every ten years so if the last one was in @@@@ so.
+
+PATIENT I279
+Oh.
+
+DOCTOR I279
+You know.
+
+PATIENT I279
+Can we get the colonoscopy and the endoscopic at the same time right?
+
+DOCTOR I279
+Uh.
+
+PATIENT I279
+This way and that way.
+
+DOCTOR I279
+No they usually just do the bottom.
+
+PATIENT I279
+No they both at that time on me.
+
+DOCTOR I279
+Why did they do both?
+
+PATIENT I279
+Because of GERD.
+
+DOCTOR I279
+The Barrett's.
+
+PATIENT I279
+Because of the what do you call it?  The acid reflux.
+
+DOCTOR I279
+Oh okay.
+
+PATIENT I279
+Yeah he did both.  Doctor said I think the doctor was, oh something @@@ name too.  He said might as well do both and I said okay.  He asked me if I ever had one, nope alright.  He says we got you up here so.  I guess it.
+
+DOCTOR I279
+And let's see and it was normal.  Okay.  So you know I don't think that they'll want to do one in the top again um.  I would be surprised.
+
+PATIENT I279
+It don't bother me cause I'm out.
+
+DOCTOR I279
+Yeah exactly.  Okay.  Are you still taking an aspirin a day?
+
+PATIENT I279
+Yeah the 80 mg.
+
+DOCTOR I279
+Okay.
+
+PATIENT I279
+That's in the morning.  I take the stool softener and I take a fish pill.
+
+DOCTOR I279
+The fish oil okay.
+
+PATIENT I279
+Yeah and the aspirin and vitamin.
+
+DOCTOR I279
+Anybody in your family ever had colon cancer that you know of?
+
+PATIENT I279
+No they all have heart troubles.
+
+DOCTOR I279
+Heart trouble.
+
+PATIENT I279
+And diabetes.  My mom, my brothers, my sister but their hearts seems to be @@@.
+
+DOCTOR I279
+Okay.  Uh you don't have any prosthetic heart valves or anything like that?  I don't see you've had a heart valve replaced.  You don't have a pacemaker, no stents.  No.  You're not taking insulin.  You're not diabetic are you?
+
+PATIENT I279
+Right no.
+
+DOCTOR I279
+Alright.  
+
+PATIENT I279
+The gal in the MOVE, NAME.
+
+DOCTOR I279
+Uh-huh.
+
+PATIENT I279
+She took my uh body mass thing and says it's about 50, 54%.  I don't know much about it but it's kind of high.
+
+DOCTOR I279
+What was the 54%?
+
+PATIENT I279
+My body mass.  I think I'm over the limit.
+
+DOCTOR I279
+Your BMI?  It shouldn't be that high.
+
+PATIENT I279
+Well.  I wonder did she put it on the computer, would that be in there.  Have them put it in.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+Didn't write it down.  I wrote it down on the other, my weight thing that I take.  No 30 some, oh wait, they want it above 30 some percent, so I was okay, that 30 sounds I remember she said you can't have 0.  I says no, 0 would be skin and bones.  Alright 35.
+
+DOCTOR I279
+Yeah.  So yeah the labs are great so we won't make any changes today um.  Do you ever check your blood pressure at home?
+
+PATIENT I279
+No.
+
+DOCTOR I279
+Okay.  Just make sure if you're getting lightheaded or dizzy, you know.  ‘Cuz sometimes those prostate medications they've got you on can lower your blood pressure.  That doxazosin.
+
+PATIENT I279
+Oh, well that never happened before and I've been taking it for so many years.
+
+DOCTOR I279
+Yeah, yeah it's fine.  As long as you, and you know if you feel like you're lightheaded, dizzy and you're gonna pass out, I wouldn't take, I would off that day on the medication you know.
+
+PATIENT I279
+Well that's never happened so it's good.  
+
+DOCTOR I279
+Alright you already got your flu shot back in November.
+
+PATIENT I279
+Yeah.  We get that every year.
+
+DOCTOR I279
+Okay.  I'm gonna take a listen to you.  Can you take this outer shirt off?  Big deep breath in and out.  Good.  Noticed any lumps or bumps in your neck or in your armpit or your groin?
+
+PATIENT I279
+Uh right over here and I took it as the way the dentist was yanking trying to pull, put his finger in my.
+
+DOCTOR I279
+Yeah I wouldn't be surprised, especially if you had an infection there too, an infected tooth or anything.  No changes in your vision or hearing recently?
+
+PATIENT I279
+I think like, I don't see as good, I need new glasses.  And every once in a while.
+
+DOCTOR I279
+Do you see the eye doctor too?
+
+PATIENT I279
+I have.  On this side, on the left side, every once in a while I'll get a sharp thing like something's in there but it isn't and it's always this left eye and it's always you know I thought something's in there and I rub it.
+
+DOCTOR I279
+And it goes away?
+
+PATIENT I279
+Yeah it does.  It may be dust but it's always in the left eye, not the right eye you know and any time of the day.  It doesn't make any difference.
+
+DOCTOR I279
+Yeah can you open up real wide?  Lift your tongue up for me, straight up.  Is that the tooth they pulled out on the left?
+
+PATIENT I279
+This one.
+
+DOCTOR I279
+Oh okay yeah I see.
+
+PATIENT I279
+And then they got this one to get.
+
+DOCTOR I279
+Okay.
+
+PATIENT I279
+But, I want to get a second opinion.  I called up the dentist over here and he says I'm not qualified.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+He said the only time is an emergency and then they charge you $300 and I said well that's more than my dentist.
+
+DOCTOR I279
+Can you lay back for me?  Yeah I think it only covers you like for the first three months or something.
+
+PATIENT I279
+One shot they says and.
+
+DOCTOR I279
+You have to be less than three years out of the service or something like that.
+
+PATIENT I279
+Yeah and what it says about.
+
+DOCTOR I279
+Let me check the left side.
+
+PATIENT I279
+If I was wounded or something like that or, anyway I didn't qualify.
+
+DOCTOR I279
+I think like the last time, this hernia it's alright now but if you ever notice it gets really painful or red and hot or like blue.
+
+PATIENT I279
+Yeah.
+
+DOCTOR I279
+Purple, cold and that kind of stuff, you should probably go to the ER, Emergency Room, cause it's always a possibility.  Notice any swelling in your hands or feet?
+
+PATIENT I279
+No.
+
+DOCTOR I279
+Alright you can sit up now.  Alright.
+
+PATIENT I279
+Can I put my shirt on?
+
+DOCTOR I279
+Sure.
+
+PATIENT I279
+Okay.  It's been a year since I had the eyes checked.
+
+DOCTOR I279
+Is that right?
+
+PATIENT I279
+I think so.
+
+DOCTOR I279
+Do you have an appointment with them?
+
+PATIENT I279
+No.  I could just make an appointment with them?
+
+DOCTOR I279
+Yeah if they've seen you within the past, I think two years.
+
+PATIENT I279
+Oh well I'll check with them then.
+
+DOCTOR I279
+You can just call and set up an eye exam you know to make sure that your prescription lenses are right and everything like that.  Uh let me go, let me talk with my boss real quick.
+
+PATIENT I279
+Okay.
+
+DOCTOR I279
+Just let him know what we're doing and then uh.
+
+PATIENT I279
+Okay.
+
+DOCTOR I279
+I'll be back in about five minutes alright.
+
+PATIENT I279
+Alright, I have my book.
+
+DOCTOR I279
+Alright.  Yeah you can sit wherever is comfortable.
+
+PATIENT I279
+I'll just have to go.
+
+DOCTOR I279
+I can’t drink it when it’s real hot.
+
+PATIENT I279
+That's my tea is at work.
+
+DOCTOR I279
+Yeah.
+
+PATIENT I279
+That's the power of this.  Okay.
+
+DOCTOR I279
+Five minutes.
+
+(DOCTOR OUT:  48:00  DOCTOR IN:  54:35)
+
+DOCTOR I279
+Alright, everything sounds good.  I went ahead and refilled your medications.  Oh I put in an order for a colonoscopy.  @@@.
+
+PATIENT I279
+Your pen.
+
+DOCTOR I279
+From my pocket. Uh when you come back to see me in six months you can just get the labs then and we'll wait.  We'll wait and put the order in then.
+
+PATIENT I279
+Order in then.
+
+DOCTOR I279
+Instead of you have them you know getting your blood drawn today and six months, let’s just do it all at one time alright.
+
+PATIENT I279
+You mean I get them to draw blood the day I come to see you?
+
+DOCTOR I279
+Well.
+
+PATIENT I279
+Or a week before?
+
+DOCTOR I279
+A week before.
+
+PATIENT I279
+A week before yeah.
+
+DOCTOR I279
+Yes.  It's usually I'll leave it up to the patient, whatever is most convenient for them.
+
+PATIENT I279
+A week before then that way, that's on there.
+
+DOCTOR I279
+It worked well for me.  Alright.  Anything else?
+
+PATIENT I279
+I think we got it covered.
+
+DOCTOR I279
+Yeah I'm pleased that the cholesterol took a nice jump forward.  It was good.  It sounds like the prostate, the PSA is going down too so, you know I think we're making strides across the board.  Alright then, we'll plan on six months then and we'll set up your, we'll set up your colonoscopy at that time.
+
+PATIENT I279
+Okay.
+
+DOCTOR I279
+Alright.  Alright.
+
+PATIENT I279
+Okay.
+
+DOCTOR I279
+It's good to see you.
+
+PATIENT I279
+Same here I guess.
+
+DOCTOR I279
+Yeah.  Looking good.  Just across the hallway here.
+
+PATIENT I279
+Okay.
+
+DOCTOR I279
+Alright.  
+
+PATIENT I279
+See you in six months.
+
+PATIENT LEAVES:  56:48
+
+Time is 2:20 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249456
+TRANSACTION # 578-10-2-316-0103

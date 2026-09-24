@@ -1,0 +1,771 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@ 
+
+DOCTOR V282
+Alright sir, you can take a seat over here.  Have you ever been to this clinic before?
+
+PATIENT V282
+Yes.
+
+DOCTOR V282
+You have.  How long ago?
+
+PATIENT V282
+About some time last year I think.
+ 
+DOCTOR V282
+Sometime last year, I don't have any documents of you.  Maybe I'm looking in the wrong place.
+
+PATIENT V282
+I believe you are.  In the Red Clinic?
+
+DOCTOR V282
+Let me just check this.  Oh, 2009.  Yeah I found you.
+
+PATIENT V282
+I see that.
+
+DOCTOR V282
+Okay how are you doing today sir?
+
+PATIENT V282
+Pretty good.
+
+DOCTOR V282
+Good, good.  Anything bothering you today?
+
+PATIENT V282
+No I'm okay.
+
+DOCTOR V282
+Okay.  Are you here just for a follow-up appointment?
+
+PATIENT V282
+Yes.
+
+DOCTOR V282
+Okay.
+
+PATIENT V282
+No I need you to set a appointment so I can uh see a toe doctor.
+
+DOCTOR V282
+The toe, the foot doctor?
+
+PATIENT V282
+Yes.
+
+DOCTOR V282
+Okay.  What's wrong with your foot?
+
+PATIENT V282
+I have a toenail I want cut off.
+
+DOCTOR V282
+You want it cut, okay sure.
+
+PATIENT V282
+You can take a look at it.  It's real ugly.  But you got to @@@ or something to take it off.  See.  
+
+DOCTOR V282
+Oh yeah you definitely need to see the foot doctor for that.  How long has your toe been like that?
+
+PATIENT V282
+Since about 2001.
+
+DOCTOR V282
+Does it hurt?
+
+PATIENT V282
+No it don't hurt.
+
+DOCTOR V282
+Okay.  Did you hurt your toe before?
+
+PATIENT V282
+No, it's just one morning I woke it was like that.
+
+DOCTOR V282
+@@@ okay.
+
+PATIENT V282
+I been putting some Vick's on it.
+
+DOCTOR V282
+I see.  And you're taking um hydrochlorothiazide?  Is that from somewhere else?  Your medication for blood pressure?
+
+PATIENT V282
+Yes uh I live in a nursing home.
+
+DOCTOR V282
+I see, okay and you get all the medicines from there?
+
+PATIENT V282
+Yes.
+
+DOCTOR V282
+Okay.  Do you need any of your cholesterol medicine from here or you don't need that?
+
+PATIENT V282
+Yeah I can get it from here.
+
+DOCTOR V282
+You can get it from here okay.
+
+PATIENT V282
+What's the name of it, what's the name of the cholesterol medication?
+
+DOCTOR V282
+Simvastatin.
+
+PATIENT V282
+I'm taking that, I'm already getting that at the nursing home.
+
+DOCTOR V282
+You do get that.
+
+PATIENT V282
+Uh-huh.  I'm on the medication yep.  Now since I'll be now, I'm moving out of the nursing home on the 10th.
+
+DOCTOR V282
+Oh you are, oh congratulations.
+
+PATIENT V282
+So I could get my medications from here.
+
+DOCTOR V282
+Okay.  Um why were you in the nursing home to begin with?
+
+PATIENT V282
+I became homeless.
+
+DOCTOR V282
+I see okay and then you're moving out.  Do you have a place to go to now?
+
+PATIENT V282
+Yes ADDRESS.
+
+DOCTOR V282
+Oh great, great.  And you want your medicines.  Um so how will that work, will it get mailed to you?  Do you want to pick them up today then?
+
+PATIENT V282
+No.  I'm gonna wait till the 10th.
+
+DOCTOR V282
+You want to wait for the 10th.
+
+PATIENT V282
+@@@.
+
+DOCTOR V282
+I could have them available for pick-up.  They're gonna be, if I order it now it'll be available for pick up for one month.  Do you want me to do it like that so you can come here and pick it up.  Cause if I mail it right now, it's gonna, I don't know where it's gonna end up okay.  So how about I'll order it for pick-up.
+
+PATIENT V282
+Okay let's do that then.
+
+DOCTOR V282
+And then um you can pick it up on the 10th.
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+Okay.
+
+PATIENT V282
+They'll call me and let me know right?
+
+DOCTOR V282
+No you don't need to; you can just walk in and pick it up.
+
+PATIENT V282
+Somebody you guys want to call me and let me know when my medication so I can pick it up?
+
+DOCTOR V282
+Oh no you can pick it up starting today.
+
+PATIENT V282
+I can pick it up today?
+
+DOCTOR V282
+I'm gonna order it today.  It's valid for one month.  So you can pick it up any time from today until December 22nd.
+
+PATIENT V282
+Gotcha.
+
+DOCTOR V282
+So you just come in and pull a number and pick it up.  If I were you I'd come early cause if you come early you don't have to wait.  If you come around 9 you'd probably have to wait an hour okay.
+
+PATIENT V282
+Gotcha.  So what medications you ordering for me?
+
+DOCTOR V282
+Um I'm gonna give you aspirin and your blood pressure medicine and your cholesterol medicine.
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+Okay.
+
+PATIENT V282
+No Risperdal or trazodone?
+
+DOCTOR V282
+I can do, I don't know if I can give you that, to be honest with you.
+
+PATIENT V282
+I got to see, I got to see, I got to see @@@ later so.
+
+DOCTOR V282
+Oh yeah perfect.  Ask him to do that one okay.
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+Cause I don't think I can do those.
+
+PATIENT V282
+Alright well do what you can do.  You know one thing about you, you're gorgeous.
+
+DOCTOR V282
+Oh thank you.
+
+PATIENT V282
+You married?
+
+DOCTOR V282
+No.
+
+PATIENT V282
+Looking forward to getting married one day?
+
+DOCTOR V282
+Hopefully yes.
+
+PATIENT V282
+You engaged?
+
+DOCTOR V282
+No I'm seeing someone though.
+
+PATIENT V282
+So you happily.
+
+DOCTOR V282
+(Laughter) Um anything bothering you today?  No headaches, dizziness, fever, chills?  Did you get a flu shot?
+
+PATIENT V282
+I got that about ten minutes ago.
+
+DOCTOR V282
+Oh good.  No cough, no stomachache, no black stool, bloody stools.
+
+PATIENT V282
+Uh-uh.
+
+DOCTOR V282
+No pain when you pee, no blood in your urine?
+
+PATIENT V282
+No.
+
+DOCTOR V282
+No swelling in your leg, no rashes?
+
+PATIENT V282
+No.
+
+DOCTOR V282
+Okay.  And your blood pressure looks great.  I found your labs and you can actually take a seat up here for me.  
+
+PATIENT V282
+So you'll get me set up for an appointment for the toe doctor?
+
+DOCTOR V282
+Uh-huh.
+
+PATIENT V282
+The podiatrist.
+
+DOCTOR V282
+Yeah.
+
+PATIENT V282
+They'll send it to me in the mail right?
+
+DOCTOR V282
+Yep.  I can schedule it for you for today.  I can schedule you today and they can um let you know what time and date your appointment is.
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+No smoking?
+
+PATIENT V282
+Yeah I smoke.
+
+DOCTOR V282
+You smoke.  Are you interested in quitting?
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+Do want any nicotine gum or any patches?  Sit up here.
+
+PATIENT V282
+I'd try some gum.
+
+DOCTOR V282
+You want to try some gum okay.
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+Nice deep breaths, again.  How much, um how many cigarettes do you smoke a day?
+
+PATIENT V282
+About half a pack.
+
+DOCTOR V282
+Half a pack.  And how long have you been smoking for?
+
+PATIENT V282
+38 years.
+
+DOCTOR V282
+38 years okay.  Okay so the thing about the gum is that um you can't chew it and smoke at the same time.  So if you're gonna smoke, then you spit it out.
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+What you do is you take the gum; you chew it a little bit when you get the urge and then you park it in the back of the mouth.  You don't keep chewing it cause this is going to keep releasing nicotine.  Once that urge goes away then you park it and then you chew it again if you have another urge.  If you have to have a smoke then spit it out.  Be careful @@@ okay.
+
+PATIENT V282
+Okay.
+
+DOCTOR V282
+Let me order that for a pick-up.  Do you want to pick that up today?
+
+PATIENT V282
+Yes.
+
+DOCTOR V282
+Or do you want to pick, okay sure.
+
+PATIENT V282
+I'll pick it up all at once.
+
+DOCTOR V282
+All at once?  You want me to just order all your medications for pick-up today?
+
+PATIENT V282
+Yes.
+
+DOCTOR V282
+Okay.
+
+PATIENT V282
+So you said I got 30 days to get it right?
+
+DOCTOR V282
+Uh-huh.  Do you know how much hydrochlorothiazide you're on?  Is it 12.5 or 25 mg?
+
+PATIENT V282
+I don't know.
+
+DOCTOR V282
+You don't know um hmm.  How do I order this then for you?  Do you want to call back or how do you want this done because I don't know what dose you're on.
+
+PATIENT V282
+The lowest dosage.
+
+DOCTOR V282
+It's the lowest dosage?
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+Okay.  Do you take half a pill or a whole pill?
+
+PATIENT V282
+Whole pill.
+
+DOCTOR V282
+You take a whole one then I think its 25 mg then okay.
+
+PATIENT V282
+Uh-huh.  Sound about right, 25 mg that sound about right.
+
+DOCTOR V282
+Yeah cause half a pill would be 12.5.
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+I'm gonna have these all available for pick-up okay.
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+Whenever you want to come get them.
+
+PATIENT V282
+Any time between today and 30 more days?
+
+DOCTOR V282
+Yeah, any time between today and 30 days.
+
+PATIENT V282
+Probably get it Wednesday or today.
+
+DOCTOR V282
+Sure.
+
+PATIENT V282
+Don't forget to sign me out so I get travel pay.
+
+DOCTOR V282
+Sure.  
+
+PATIENT V282
+I think I have another appointment December 7th, could you check that out for me?
+
+DOCTOR V282
+Sure.
+
+PATIENT V282
+Eye doctor or something like that.
+
+DOCTOR V282
+Yes an eye doctor appointment at 2:30.
+
+PATIENT V282
+On the 7th?
+
+DOCTOR V282
+Uh-huh on the 7th.  Okay.  Okay I will be right back okay.
+
+PATIENT V282
+Uh-huh.
+
+(DOCTOR OUT:  18:53  DOCTOR IN:  21:45)
+
+DOCTOR V282
+Have you had a colonoscopy?
+
+PATIENT V282
+No.
+
+DOCTOR V282
+Are you interested in having one?
+
+PATIENT V282
+I don't know, it depends on how long will it take?
+
+DOCTOR V282
+Um you've got to prep so you have diarrhea for about a day and then the procedure so when you go in it's uh kind of wait a little bit, they prep you and then they go in.  Actually it's a 30-40 minute procedure but there are, there's a time period where you do have to wait while you're there.  Um mainly because they give you stuff to sedate you and then you need someone to drive you home.
+
+PATIENT V282
+Well maybe next year.
+
+DOCTOR V282
+Maybe next year okay.  Did you get your flu shot this year?
+
+PATIENT V282
+Around January.  @@@ yes, yes.
+
+DOCTOR V282
+You did get your flu shot okay great.
+
+PATIENT V282
+As a matter of fact your nurses gave them to me.
+
+DOCTOR V282
+Oh yeah you said that.
+
+PATIENT V282
+About that colonoscopy, what are you guys looking for?
+
+DOCTOR V282
+We're looking for cancer.
+
+PATIENT V282
+Colon cancer?
+
+DOCTOR V282
+Uh-huh.  So the reason why we um screen for colon cancer early, starting at the age of 50 is because uh colon cancer is asymptomatic so a lot of times when you have it you don't even know you have it.  If we catch it early while it's still in the asymptomatic stage.
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+Then it's easier to treat than if we catch later and it spreads everywhere.
+
+PATIENT V282
+If I had colon cancer what would some of the symptoms be?
+
+DOCTOR V282
+Um you might have some bleeding from below, you might have some weight loss but sometimes you can be completely asymptomatic so you don't know.
+
+PATIENT V282
+Uh-huh.  If you schedule it it's got to be for January.
+
+DOCTOR V282
+Yeah I mean, so I mean do you want me to set you up for it or not right now?
+
+PATIENT V282
+Not right now.
+
+DOCTOR V282
+Not right now okay.
+
+PATIENT V282
+Why did you guys stop sending me my ED pills?
+
+DOCTOR V282
+You're what?
+
+PATIENT V282
+Erection dysfunctional pills?
+
+DOCTOR V282
+Hold on let me see.  I don't know.
+
+PATIENT V282
+Could you have them send them back to me?
+
+DOCTOR V282
+Sure I can ask, that's a question for DOCTOR, you can ask her when she comes in here okay.
+
+PATIENT V282
+Uh-huh.
+
+DOCTOR V282
+Were they working for you?
+
+PATIENT V282
+Yes they were.  I miss them too.
+
+DOCTOR V282
+So these actually have to be mailed to you.
+
+PATIENT V282
+And I want to know why they stopped, what happened, how come they stopped mailing them to me.
+
+DOCTOR V282
+I'm not sure why they stopped.  I'm going to give you some more of those though.
+
+PATIENT V282
+So @@@ 
+
+DOCTOR V282
+No thoughts of um hurting yourself, hurting others?
+
+PATIENT V282
+No, no, no, no.
+
+DOCTOR V282
+Great.  Alright, I don't know what's taking so long for this.  
+
+SECOND DOCTOR V282
+Did you page me?
+
+FIRST DOCTOR V282
+Oh yeah sorry, can you take your shoe off again so she can look at your toe?
+
+SECOND DOCTOR V282
+How long has it been bothering you? 
+
+PATIENT V282
+It's not bothering me, its ugly looking.
+
+SECOND DOCTOR V282
+Oh okay.  So how long has it been going on?
+ 
+PATIENT V282
+About ten years.  Every time I cut it off it grows back the same way.
+
+SECOND DOCTOR V282
+Looks like an ingrown toenail.  And it doesn't hurt at the base of your toe at all?
+
+PATIENT V282
+No.
+
+SECOND DOCTOR V282
+Oh uh-huh.  Lay back for me sir.  Never hurts you at all?
+
+PATIENT V282
+Uh uh.
+
+(Doctors discuss between themselves)
+
+PATIENT V282
+Should it be hurting?
+
+SECOND DOCTOR V282
+No it's good that it's not hurting.  I'm just surprised that it's not hurting at all @@@.  Um there's no liver disease or anything?
+
+PATIENT V282
+No liver disease.
+
+SECOND DOCTOR V282
+Do you drink sir?
+
+PATIENT V282
+I was @@@, I been clean 20 months.
+
+SECOND DOCTOR V282
+Good.  You're not drinking at all?
+
+PATIENT V282
+No.
+
+SECOND DOCTOR V282
+Excellent.
+
+(Doctors talk among themselves)
+
+SECOND DOCTOR V282
+So uh you definitely have a fungal infection in your toenail.  Um I want you to see the foot doctors and we'll see what they think would be like an option for you but cutting it, with just starting you on a fungal medication and taking it for a while, seeing what happens to your toe and if it gets better then I think in the end you're still going to need to get part of the toenail cut off and hopefully it'll re-grow normally.
+
+PATIENT V282
+Uh-huh.
+
+SECOND DOCTOR V282
+But I think they're probably going to say you need to take a fungal medication for quite some time, months in fact, before they'll cut it okay.  Cause this will probably control this infection.  Uh when you have a fungal infection in your toenails it doesn't cause a blood infection.  It's not going to go into a bloodstream and cause you know sickness.
+
+PATIENT V282
+Uh-huh.
+
+SECOND DOCTOR V282
+Uh it is cosmetic, actually this is quite severe uh.  In order for a fungal medication to work you have to take it the entire time your toenail is growing.  So you can imagine how slow your toenail grows, you have to take this medicine for 2-3 months sometimes while the toenail is growing so all the new growth does not have fungus in it. Fungal medications can cause, you can sit up, can cause liver problems and that's why we were asking you about hepatitis prevention and stuff.
+
+PATIENT V282
+Uh-huh.
+
+SECOND DOCTOR V282
+So you have to come in every one month to two months to get uh blood tests to make sure your liver is okay.
+
+PATIENT V282
+Uh-huh.
+
+(Doctors talk among themselves)
+
+SECOND DOCTOR V282
+So uh it is an option.  I want you to talk to the foot doctors first and then we'll go from there.
+
+PATIENT V282
+Gotcha.
+
+SECOND DOCTOR V282
+Okay.  So you can make an appointment up front with the foot doctors um.  I do want you to know because this is not painful, it is in some ways cosmetic, so if you decide you don't want to do any of these things because you're worried about hurting your liver or whatever, then that's an option too because this is not going to cause a blood borne infection.
+
+PATIENT V282
+Okay.
+
+SECOND DOCTOR V282
+And this is @@@ so you have to decide if you're willing to take that risk.
+
+PATIENT V282
+Uh-huh.
+
+SECOND DOCTOR V282
+I can't decide that for you.
+
+PATIENT V282
+Right.
+
+SECOND DOCTOR V282
+Okay, questions?
+
+PATIENT V282
+Uh uh.
+
+SECOND DOCTOR V282
+Okay.  So why don't you put your shoes and socks back on.  I'll put in the Podiatry consult and you can make an appointment up front okay.
+
+PATIENT V282
+I have to make the appointment for the foot doctor?
+
+SECOND DOCTOR V282
+Yeah they'll make it right up front.
+
+PATIENT V282
+They can do that?
+
+SECOND DOCTOR V282
+Yeah.
+
+PATIENT V282
+Can you do it in the computer?
+
+FIRST DOCTOR V282
+No I don't do that; they can do it up front though.
+
+SECOND DOCTOR V282
+Of course they can.  Okay but we'll put the order in the computer for you today.
+
+FIRST DOCTOR V282
+Alright for this is for you, take it out to the front desk and I'm gonna you to go to the Lab to check your liver profile, to get the liver labs.  You haven't had one in over a year okay.  So @@@ medicines @@@ hurt your liver.
+
+PATIENT V282
+Uh-huh.
+
+FIRST DOCTOR V282
+It's something that you could consider, @@@ talk to the podiatrist okay.
+
+PATIENT V282
+Uh-huh.
+
+FIRST DOCTOR V282
+They can see if they can possibly treat it, um after they cut it out and stuff and that is also an option but we're not the foot specialist and I'm not really sure what I can offer you.
+ 
+PATIENT V282
+Uh-huh.
+
+FIRST DOCTOR V282
+Other than the medicine okay.  Go ahead and put your shoe on.
+
+PATIENT V282
+Do you know what's @@@.
+
+FIRST DOCTOR V282
+Uh-huh.
+
+PATIENT V282
+You can tell me, I was @@@ 80%, 60%, 30% of health care here?
+
+FIRST DOCTOR V282
+I’m not sure how much you are covered if you like.  It should say on this piece of paper.
+
+PATIENT V282
+Uh-huh.
+
+FIRST DOCTOR V282
+I do believe but it doesn't.  You can ask them up front how much, what percent you are but it doesn't say right here and I'm not really sure where I would find it @@@.
+
+PATIENT V282
+Uh-huh.
+
+FIRST DOCTOR V282
+Oh you're free to go.  All you have to do is go up to the front and schedule your foot doctor appointment, tell them as soon as possible but they schedule it cause it's written on that piece of paper, then go to the Lab and get your labs done and @@@ back here.  Feel free to pick up your medicines whenever @@@.
+
+PATIENT V282
+Uh-huh.
+
+Patient leaves 38:25.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO800511/JOB#  1286091
+TRANSACTION # 578-10-2-316-0103

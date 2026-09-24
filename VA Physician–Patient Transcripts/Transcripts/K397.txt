@@ -1,0 +1,545 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@ 
+
+DOCTOR K397
+PATIENT.
+
+PATIENT K397 
+Yeah.
+
+DOCTOR K397
+I'm DOCTOR nice to meet you.
+
+PATIENT K397
+@@@.
+
+DOCTOR K397
+How are you?
+
+PATIENT K397
+@@@.  
+
+DOCTOR K397
+How are you doing today?
+
+PATIENT K397
+I'm alright.
+
+DOCTOR K397
+Alright.  I know you were seeing DOCTOR before, but he's no longer here um.
+
+PATIENT K397
+Any particular reason?
+
+DOCTOR K397
+Why he's not here, he was just here for a year.  He's actually doing a fellowship. Specialized training, so he was only here for a year and a half.
+
+PATIENT K397
+Okay.
+
+DOCTOR K397
+So I'll be taking care of you.  Um so I see in his notes before he was treating you for knee pain and some headaches that you were having?
+
+PATIENT K397
+He never treated me.  I told him about it.
+
+DOCTOR K397
+Okay.  So what happened with the knees, I know he ordered some x-rays of the knees.
+
+PATIENT K397
+Um I hurt myself when I was out in Iraq.  I'm not sure how I did it but at one time I was like doing a PT test and I did a two mile run and after that it kind of like buckled on me.
+
+DOCTOR K397
+Which one is it?
+
+PATIENT K397
+My right knee.
+
+DOCTOR K397
+The right knee okay.
+
+PATIENT K397
+But since then it’s gotten worse and I don't know if it's just like my left knee is compensating for it or whatever that my left knee is actually worse than my right knee now.
+
+DOCTOR K397
+Okay.
+
+PATIENT K397
+And uh all that's for the knee and uh the headaches, I don't get them as often.
+
+DOCTOR K397
+Okay.
+
+PATIENT K397
+I try to change things like my eating habits.
+
+DOCTOR K397
+Okay.
+
+PATIENT K397
+I was smoking pot before and I stopped that too so.
+
+DOCTOR K397
+Okay.
+
+PATIENT K397
+I don't know if that helped or anything.
+
+DOCTOR K397
+Okay.  Now do both of your knees give out on you or?
+
+PATIENT K397
+My right knee's the one that’s been doing it @@@.
+
+DOCTOR K397
+Okay.
+
+PATIENT K397
+But the pain is more in the left knee.
+
+DOCTOR K397
+Okay.  What about your hips, do you have any problems with the hips?
+
+PATIENT K397
+No.
+
+DOCTOR K397
+Are you still active?  Do you exercise regularly?
+
+PATIENT K397
+Every day.
+
+DOCTOR K397
+You do okay.  Are you taking anything for the pain?
+
+PATIENT K397
+No.
+
+DOCTOR K397
+No.
+
+PATIENT K397
+That's what the pot was for.
+
+DOCTOR K397
+Oh okay.
+
+PATIENT K397
+I do a lot of running and I know that that's bad for the knee.  I was doing the elliptical for a while but I kind of got bored with it so I started running again um and at work I work at, I'm carpenter at a high rise so I'm always going up and down the stairs and I know that takes a toll on it.
+
+DOCTOR K397
+Yeah that probably does.  I mean if you ask the arthritis doctors for cardio they recommend @@@ stationary bike cause it works to increase your quads but it doesn't put a lot of strain on your joints @@@ but you know you can't really do much about that at work.
+
+PATIENT K397
+Well you know, when I come and seen the other doctor I told him about it and I wanted to see if I could get x-rays but he didn't do anything for me so I went to my own personal doctor at Rush.
+
+DOCTOR K397
+Uh-huh.
+
+PATIENT K397
+And they took x-rays and they told me that I had a slight tendinitis.
+
+DOCTOR K397
+Uh-huh.
+
+PATIENT K397
+And uh since then it has gotten worse.
+
+DOCTOR K397
+So the best way to treat tendinitis is to give you like ibuprofen or Naproxen because that takes down the inflammation.  Um did they tell you anything once you got your x-rays there, like what they want to do to treat you or?
+
+PATIENT K397
+I uh had insurance at the time.
+
+DOCTOR K397
+Right.
+
+PATIENT K397
+But then ran out so I didn't really go back.  They had suggested PT but uh like I said my insurance ended so I didn't get a chance to see them.
+
+DOCTOR K397
+And then you're already exercising on  your own, so I don't know how much more.
+
+PATIENT K397
+Right that's what I thought too.
+
+DOCTOR K397
+How much @@@ would add.  The only thing is to not do such high impact exercises cause the point is to just have you keep as much stress off the knee as possible while your tendons get better.  Um so the one thing to do would be to ice it um whenever you're not using it and then also to take NSAID pretty much daily for about a week or two until the inflammation can go down.  So um let's see your kidneys looked fine the last time we checked.  So your kidneys can tolerate ibuprofen and you take it you know three times a day for about two weeks, this should help with inflammation.  Uh are limping now because of the pain, is that why you think your left knee's compensating?
+
+PATIENT K397
+Yes.
+
+DOCTOR K397
+Okay.  Did they do both knees?
+
+PATIENT K397
+Yes.
+
+DOCTOR K397
+Alright and both knees have tendinitis or just the right one?
+
+PATIENT K397
+The right one.
+
+DOCTOR K397
+Um do you think there's any way for me to get those x-rays from there?
+
+PATIENT K397
+I could call and try and see @@@.
+
+DOCTOR K397
+Okay cause the only other thing would be um you know we could probably get some x-rays from here since you're gonna be, you're gonna be transferring all our care here now is that right or no?
+
+PATIENT K397
+I don't even know how I got this appointment.
+
+DOCTOR K397
+Okay, well okay.  So you don't have insurance otherwise is that correct?
+
+PATIENT K397
+Not at the moment.  It should be kicking in anytime soon.
+
+DOCTOR K397
+I see.  So you may not be following up here?
+
+PATIENT K397
+Probably not.
+
+DOCTOR K397
+Probably not okay.  So wherever you're gonna end up going, you could have the x-rays with you so that they don't need to be repeated.
+
+PATIENT K397
+Okay.
+
+DOCTOR K397
+Um if you get worse then the next step would be to get a MRI to see if there's any like um, like a ACL tear or PCL tear.
+
+PATIENT K397
+Well I mean it has gotten worse.  Would there be any way to get the MRI done?
+
+DOCTOR K397
+Um let me examine you first and see if I feel there’s any laxity in your joints there.  Cause I mean if you're going down the route of a MRI then the next step would be if you wanted to get surgery done for it to repair it, so that would be the next step to consider.
+
+PATIENT K397
+Oh you're asking me?
+
+DOCTOR K397
+Yes, no I'm asking you is that something you would consider?
+
+PATIENT K397
+Yes I would.
+
+DOCTOR K397
+You would, okay.
+
+PATIENT K397
+And um one of my friends tore his ACL and he got operated and everything and he was going to the PT but he was telling me like stretches and stuff just to try to like @@@ with it and I started stretching cause before I wouldn't stretch when I was at the gym and I started and I hadn't really noticed a difference on the knee then.
+
+DOCTOR K397
+Okay.
+
+PATIENT K397
+But then again, I guess that it could be from work cause we go up 20 something flights of stairs and I got my pouches I don't know how many pounds of weight that's on my hip.
+
+DOCTOR K397
+Yeah.  And you don't have a choice.
+
+PATIENT K397
+No.
+
+DOCTOR K397
+Not at work.
+
+PATIENT K397
+Well I do now, there's a noise ordinance that just went into effect.  It's just like one of those @@@ so we could take the elevator now instead of taking the stairs.
+
+DOCTOR K397
+Oh okay.
+
+PATIENT K397
+But I still have to take the stairs sometimes.
+
+DOCTOR K397
+Right.
+
+PATIENT K397
+So it's a better than before though.
+
+DOCTOR K397
+It's better to use the elevator.
+
+PATIENT K397
+Right.
+
+DOCTOR K397
+Okay.  Come over here.  Deep breath.  Do you know where you're gonna be transferring your care?
+
+PATIENT K397
+@@@
+
+DOCTOR K397
+Okay cause the only thing is um actually if you're gonna get Ortho stuff done, if you can go back to Rush that would be good @@@.
+
+PATIENT K397
+Right.
+
+DOCTOR K397
+Um the only thing I would say about doing an MRI now is that wherever you end up going, they're going to refer you to Orthopedics you have to see a General Medicine doctor then we'll send you to Ortho.  Ortho likes to have MRIs done within the last 30 to 60 days of them seeing you so it would be a waste to get it done now if your insurance doesn't kick in for another couple of months, then it's just gonna be a waste um and then you're gonna have to repeat it again anyway.  So what I would say for you, if you know for sure you're not gonna be staying here that we don't get the MRI now, we get it done when you establish care wherever you're gonna end up going.  Do you know when your insurance kicks in?
+
+PATIENT K397
+I don't know.
+
+DOCTOR K397
+Okay.  So you know it's something to consider.  If it’s not going to for another year then you know by all means we can at least get that done now and you can see Ortho here cause the Orthopedics here are from Northwestern.  Um but um if you know like for sure you're gonna be getting it in the next several months then I don't think it's very cost effective to do one now and then have to repeat it again.
+
+PATIENT K397
+Right.
+
+DOCTOR K397
+@@@ so, something to consider.  Let me take a look at the knee and I'll look at that one too.  Okay.  No swelling.  Okay can you lay back for me?  Bend this knee, any pain when I do that?  No.  No pain in here huh?  When I'm pushing?
+
+PATIENT K397
+Um not like extreme pain but.
+
+DOCTOR K397
+You can feel it in here?
+
+PATIENT K397
+Yeah.
+
+DOCTOR K397
+Okay.  Yeah the knee doesn't look like it's um, like the knee joint itself doesn't look like it's relaxed.  Let me try this one.  Maybe a little bit right there.  Yeah this knee actually doesn't look bad in terms of the ACL and the PCL cause you should be able to keep the knee joint moving when I'm putting all the different stresses on there and it doesn't look like it was doing that.  So why don't you think about that for a second.  I have to go talk to my attending um but um.
+
+PATIENT K397
+Think about what part?
+
+DOCTOR K397
+About the MRI.
+
+PATIENT K397
+Okay.
+
+DOCTOR K397
+Whether or not you're gonna be staying here at least for the next six months.
+
+PATIENT K397
+The reason was, like I said, I don't know how I got this appointment.  Um but the reason that I didn't want to stay was because of the previous doctor.
+
+DOCTOR K397
+Okay.
+
+PATIENT K397
+I asked, like I had just gotten back from Iraq and you know I was about to go back into the dating scene and everything cause I came back single.
+
+DOCTOR K397
+Uh-huh.
+
+PATIENT K397
+And uh I asked to get checked for STDs and everything and he said okay we'll take care of it in a couple of months but what’s to point of taking care of it in a couple of months @@@ I had already caught something.
+
+DOCTOR K397
+Yeah.
+
+PATIENT K397
+And that's when I lost interest in the VA.
+
+DOCTOR K397
+I see.
+
+PATIENT K397
+Cause I also asked for x-rays or whatever.
+
+DOCTOR K397
+Okay.
+
+PATIENT K397
+And he didn't do anything about so that's my reason.
+
+DOCTOR K397
+Okay.  Yeah I can understand that.  Um so I'll be here until June.  I graduate in June and then another physician will take over.  Um DOCTOR is my attending.  She kind of like oversees the residents.  She'll still be here so she kind oversees your care.  You will be seeing me until June in the clinic and then somebody else will take over so that's just sort of how it goes with the VA being like a teaching hospital.
+
+PATIENT K397
+Right.
+
+DOCTOR K397
+So there are residents here for the physicians but if you would like to stay here I have no problem with ordering an MRI of the knees.
+
+PATIENT K397
+I could stay here, like I said, it was just for that certain doctor.
+
+DOCTOR K397
+Okay for that reason okay.  Um so we can go ahead and proceed with that and see if there's anything um that is surgical um.  It may not be, it could be just inflammation of the tendons but just plan to use the ibuprofen for a couple of weeks and ice it and try to do the quad exercises and try to do low impact.
+
+PATIENT K397
+I was in Kuwait; I'm not sure what it's called.  They gave me some pills, glu.
+
+DOCTOR K397
+Glucosamine?
+
+PATIENT K397
+Yes.  They gave me that but it, I'm not, I tried to.  Like I said started them but then I forgot and they said I had to take it for so long and I just.
+
+DOCTOR K397
+So the other thing that they do here to, if the NSAIDs don't work, the ibuprofen doesn't work and the pain persists then another options would be just to do an injection of your knee, it's a steroid injection that helps you calm down the inflammation.  Um we do that a lot for people that have arthritis or osteoarthritis of the knees and it helps.
+
+PATIENT K397
+Okay.
+
+DOCTOR K397
+Um now for some people it helps for several months, some people it helps just like a couple weeks, it just sort of depends on you.  Um after you've tried a trial of the steroid injections and these still don't work, there's something else called it's kind of like the glucosamine but it's an injection called Synvisc.  And what you'd need to do, you'd actually have to go to the Arthritis Clinic for this but they inject your knee once a week for a total of like maybe six injections and that, for some people it really helps.  It's kind of creates a gel-like thing for the artificial cartilage.
+
+PATIENT K397
+Okay.
+
+DOCTOR K397
+Kind of thing that they can inject and that has helped.  It kind of helps to um bathe the knee joint a little bit.
+
+PATIENT K397
+Is that a big needle?
+
+DOCTOR K397
+It's not, it's like a 22 gauge, it's not that bad.  I did a lot of it last month cause I was in the Arthritis Clinic and I mean, I'm not gonna lie it hurts when the needle goes in but it literally lasts like ten seconds.  One of the things to consider but we'll do other stuff @@@ try the medications first and if that doesn't work we can think about injections.
+
+PATIENT K397
+Okay.
+
+DOCTOR K397
+Okay.  I'll be right back.
+
+(DOCTOR OUT:  33:41  DOCTOR IN:  37:54)
+
+DOCTOR K397
+Alright.  So should I order the MRIs?
+
+PATIENT K397
+Let’s go with yes.
+
+DOCTOR K397
+Yes okay.  So we'll do that.  I'll give you some ibuprofen, extra-strenght. We’ll go with that. I wonder if these labs, um you're gonna need some labs again, only because they need your kidney numbers from the last 30 days and that was back in March.
+
+PATIENT K397
+Uh-huh.
+
+DOCTOR K397
+So you need that lab work.  Okay.
+
+PATIENT K397
+You're out of UIC?
+
+DOCTOR K397
+Yeah UIC, yeah.  Any allergies?
+
+PATIENT K397
+No.
+
+DOCTOR K397
+No surgeries on the brain or heart or anything like that?
+
+PATIENT K397
+No.
+
+DOCTOR K397
+Do you have any problems with PTSD?
+
+PATIENT K397
+I was told I do.(Patient sounds as though he doesn’t believe the diagnosis.)
+
+DOCTOR K397
+Okay.  Do they think it would cause you to have any issues with you being in an MRI machine for an hour?
+
+PATIENT K397
+No.
+
+DOCTOR K397
+No.  You're not claustrophobic or anything?
+
+PATIENT K397
+No.
+
+DOCTOR K397
+Have you ever had allergies to contrast before @@@?
+
+PATIENT K397
+No.  
+
+DOCTOR K397
+Then you can try to go and make the appointment for the MRI um its right across from the clinic so if you know where the Ogden elevators are, the elevator bank, they're right across from the clinic, you'll see a set of elevators @@@.
+
+PATIENT K397
+Where we at right now?
+
+DOCTOR K397
+We are in Gold Clinic.  If you walk down to the clinic then it would be.
+
+PATIENT K397
+At the corner okay.
+
+DOCTOR K397
+Yeah there's like a little, so there's like the Lab, there's the Canteen it's the cafeteria and in the middle is a set of elevators and if you go past the elevators that's where Radiology is, the MRI.
+
+PATIENT K397
+Okay.
+
+DOCTOR K397
+And you can go there to make the appointment.  Yep.  They probably won't be able to do it today but they will probably just set you up.  And since we’re doing both knees um it'll probably take a couple of hours.
+
+PATIENT K397
+Uh-huh.
+
+DOCTOR K397
+And then you can get the ibuprofen from the Pharmacy, so again when you go to the gym just do low impact exercises.
+
+PATIENT K397
+You suggest I could just do more bikes.
+
+DOCTOR K397
+Yeah.
+
+PATIENT K397
+Okay.
+
+DOCTOR K397
+Don’t do the treadmill, even the elliptical can be hard on your knees so just do the bike um for a cardio work-out and then focus on um building your quad muscles.  Nothing crazy like 100 pounds.  You know it's just something to tone your, I'm sure you already are but just to kind of make maintain that.
+
+PATIENT K397
+Okay.
+
+DOCTOR K397
+Okay.  And I actually want you to come back and see me in a month just to go over the MRIs um and if we need to refer you to Orthopedics I'll do that at that time.
+
+PATIENT K397
+Okay.
+
+DOCTOR K397
+Alright, so you can pick up, do you know where the Pharmacy is?
+
+PATIENT K397
+Yes.
+
+DOCTOR K397
+Okay then you can go pick up your ibuprofen from there okay.
+
+PATIENT K397
+Okay, thank you very much.
+
+DOCTOR K397
+You're welcome.
+
+PATIENT K397
+Have a good weekend.
+
+DOCTOR K397
+Thank you, you too.
+
+PATIENT K397
+Thank you.
+
+DOCTOR K397
+That's okay.
+
+PATIENT LEAVES:  42:56.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300283
+TRANSACTION # 578-10-2-316-0103

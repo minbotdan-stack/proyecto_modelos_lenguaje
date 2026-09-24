@@ -1,0 +1,1837 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+PATIENT J539
+Good morning.
+
+DOCTOR J539
+Hi.
+
+PATIENT J539
+Are you looking for me?
+
+DOCTOR J539
+Are you PATIENT?
+
+PATIENT J539
+Yes I am.
+
+DOCTOR J539
+Hi, nice to see you again.
+
+PATIENT J539
+Nice to see you too.
+
+DOCTOR J539
+Come on back.
+
+PATIENT J539
+Come on NAME, I'll take the coffee.
+
+SECOND PERSON J539
+Yeah.
+
+PATIENT J539
+And your book.
+
+SECOND PERSON J539
+Yeah.
+
+DOCTOR J539
+So let's go here.
+
+PATIENT J539
+How you doing today?
+
+DOCTOR J539
+I'm doing well, how are you doing today?
+
+PATIENT J539
+Not too bad.
+
+DOCTOR J539
+@@@, you look pretty good.
+
+PATIENT J539
+@@@.
+
+DOCTOR J539
+Come on in.  
+
+PATIENT J539
+Wow they keep it so cool in here.
+
+DOCTOR J539
+It is cool in here yes.  It's better than it was in the winter though I'll tell you that.
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+Um how are things going?
+
+PATIENT J539
+Well you know, as good as could be expected.
+
+DOCTOR J539
+Okay.  I think the last time I saw you was in November in the fall.  Anything new for me, you concerned that needs to be. Any ussies?
+
+PATIENT J539
+Well you know you uh prescribed me that magnesium pills didn't you?
+
+DOCTOR J539
+I did.
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+Everything looks better.
+
+PATIENT J539
+I know but then they sent me another bottle.
+
+DOCTOR J539
+Oh they did.  You can stop taking that.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+Okay that's something I wanted to ask you because I been taking them.
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+And I'm almost done with the second bottle.
+
+DOCTOR J539
+Yeah.  Well let's look at your labs.  You just had labs done in March.
+
+PATIENT J539
+Right.  I had, my primary doctor said everything was perfect.
+
+DOCTOR J539
+Everything looks fine.  Your magnesium came back up to normal so no more pills, we'll just keep an eye on it.  But don't throw them away.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+Because if we do labs say in six months and you're a little low again then I'll have you restart them so you need to keep those ones but for now don't take those anymore.
+
+PATIENT J539
+Now I got a question for you.
+
+DOCTOR J539
+Go ahead.
+
+PATIENT J539
+You know I have pleurisy, pleurisy.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+And you know when I check @@@ it acts up.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+Now when I was taking the Advil it would, it would take care of the foot.
+
+DOCTOR J539
+Uh-huh, uh-huh.
+
+PATIENT J539
+Now that you got me on the Tylenol.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+It doesn't do such a good of job.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+So would it be okay if I bought some Advil and just take them when I get the pleurisy?
+
+DOCTOR J539
+Here's the problem Advil is a medicine that affects your kidneys.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+And you already have a little bit of kidney dysfunction.
+
+SECOND PERSON J539
+Not supposed to take Advil.
+
+DOCTOR J539
+So no Advil.
+
+PATIENT J539
+Oh alright.
+
+DOCTOR J539
+But we can try something else if the Tylenol's not working.
+
+PATIENT J539
+Well it works but I have to you know, like I can take them when I @@@ now you know.
+
+DOCTOR J539
+Okay.  Uh.
+
+PATIENT J539
+I mean I don't know if that's good or not.
+
+DOCTOR J539
+I mean it's not, you take one Tylenol pill?
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+Okay you take.
+
+PATIENT J539
+But when I have the pleurisy then I take two.
+
+DOCTOR J539
+And what type of Tylenol are you taking, the regulars or the extra strengths?
+
+PATIENT J539
+I don't know.
+
+DOCTOR J539
+Okay.  Um it's probably okay.  I mean you haven't had any issues with your liver but.
+
+PATIENT J539
+No the liver they say is good.
+
+DOCTOR J539
+@@@ yeah, no problems with the liver um and that would be the only reason to cut back on Tylenol.  But if the Tylenol's not working very well we could try you on something a little stronger for the pain.  Is it still that pain when you take a deep breath?
+
+PATIENT J539
+Yes and it shoots from my back to my front you know.
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+It's terrible and plus you know we're having a hard time breathing with the asthma and emphysema, I'm really between a rock and a hard place when I get that flare-up with the um, what do you call it the, emphysema.
+
+DOCTOR J539
+The emphysema.
+
+PATIENT J539
+Not the emphysema.
+
+DOCTOR J539
+The gout?
+
+PATIENT J539
+Pleurisy.
+
+DOCTOR J539
+Oh the pleurisy okay.  Well so you take one Tylenol per night @@@.  I mean but it's working, the Tylenol's working okay?
+
+PATIENT J539
+Not as good as the Advil did though, see that's.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+But I'm not, you know I haven't, I didn't want to do nothing with the Advil till I talked to you.
+
+DOCTOR J539
+I'd prefer that you don't take the Advil.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+I mean cause I don't want your kidneys to get worse.
+
+PATIENT J539
+Yeah is there another kind of pill that you could prescribe for me?
+
+DOCTOR J539
+Well I think we should try to find something a little stronger that maybe will help with the pain when you need it.  Have you ever tried a medicine called tramadol?
+
+PATIENT J539
+No.
+
+DOCTOR J539
+So that one's a little bit stronger.
+
+PATIENT J539
+Actually I never had anything; don't think I've ever taken any medication for the pleurisy.
+
+DOCTOR J539
+Okay yeah.
+
+PATIENT J539
+I think uh when I first got it they gave me a penicillin shot or something.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+I got it when I was 20 years old; I mean I've had this thing for 50 years.
+
+DOCTOR J539
+Yeah, yeah.  Well we can try something a little stronger than Tylenol, uh being aware that trying a stronger pain medication can make you feel sleepy.  You're taking it when you're using the Tylenol.
+
+PATIENT J539
+I take yes.
+
+DOCTOR J539
+I was worried about that.
+
+PATIENT J539
+If you do give me one.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+I'll only take it at night.
+
+DOCTOR J539
+Which I think is fair.
+
+PATIENT J539
+You know cause I have a hard time sleeping anyway.
+
+DOCTOR J539
+So that might be one thing we can do and then if you have pain during the day I might stick with the Tylenol or try like a half a pill of the tramadol.  So I think that that might be a good way to.
+
+PATIENT J539
+So are you gonna give me a prescription?
+
+DOCTOR J539
+I will yeah, yeah.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+Um.
+
+PATIENT J539
+And if you could would you check and see if I need any prescriptions renewed? 
+
+DOCTOR J539
+Of course.  We'll go over all your medicines.
+
+PATIENT J539
+Well you write tiny.
+
+DOCTOR J539
+Well I have to fit four people on one page.
+
+PATIENT J539
+Oh they won't give you another pad?
+
+DOCTOR J539
+Well I had a lot of sheets but I just like to save paper.  Any other issues going on?
+
+PATIENT J539
+No not really.
+
+DOCTOR J539
+Still not smoking?
+
+PATIENT J539
+Oh you're kidding me?
+
+DOCTOR J539
+Good, good.  Any changes in the living situation?
+
+PATIENT J539
+No.
+
+DOCTOR J539
+Home life alright?
+
+PATIENT J539
+No everything's fine.
+
+DOCTOR J539
+You're medication now; we've got down the Combivent inhaler, the albuterol ipratropium as needed.  I have you on the allopurinol for the gout.
+
+PATIENT J539
+Right.
+
+DOCTOR J539
+One pill a day.  Um and there's a azithromycin prescription in here, did you have an infection, a Z-pack?  Did they give you antibiotics any time?
+
+PATIENT J539
+Yeah you know, see what happens is this, with my asthma and emphysema and also I have bronchitis.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+When I catch a cold.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+It turns into pneumonia.
+
+DOCTOR J539
+Pneumonia okay.
+
+PATIENT J539
+So every time that happens, three times I had to come to the hospital.
+
+DOCTOR J539
+Right.
+
+PATIENT J539
+So I told my primary doctor I said you know whenever I'm in the hospital for pneumonia when I go home they give me prednisone.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+And antibiotics to bring me down from what I'm taking here.
+
+DOCTOR J539
+Uh-huh, uh-huh.
+
+PATIENT J539
+So I asked her to give me a prescription for at home.
+
+DOCTOR J539
+Gotcha.
+
+PATIENT J539
+So when I start feeling.
+
+DOCTOR J539
+In case you get a cold.
+
+PATIENT J539
+Yeah when I start breathing like when I know that I'm having a problem.
+
+DOCTOR J539
+Right.
+
+PATIENT J539
+As a matter of fact, today I'm taking my last prednisone because uh about two weeks ago I had an attack.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+And it took me like almost a half hour to recuperate.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+So right away I start taking my.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+You know and then I don't have to be coming here because it's a hassle to come here.
+
+DOCTOR J539
+I know and then you get admitted and it's.
+
+PATIENT J539
+Yeah and you know for me it's so hard because I don't get around very well.
+
+DOCTOR J539
+Right, right.  No I think that's a good plan.  @@@ off and on board.
+
+PATIENT J539
+Yeah.  I only those every once in a while though.
+
+DOCTOR J539
+That's fine and then you have the formoterol inhaler um the one formoterol you only take once a day.
+
+PATIENT J539
+Because.
+
+DOCTOR J539
+Oh I'm sorry.
+
+PATIENT J539
+Yeah the formoterol and Asthmanex.
+
+DOCTOR J539
+And then the guaifenesin you take twice a day?
+
+PATIENT J539
+The guaifenesin?
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+Yeah they're really good.
+
+DOCTOR J539
+Okay and then the hydrochlorothiazide for blood pressure once a day.
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+Then lisinopril for blood pressure once per day.
+
+PATIENT J539
+Right.
+
+DOCTOR J539
+And you have the mometasone inhaler, with the formoterol and the okay, okay and then the omeprazole.
+
+PATIENT J539
+Spiriva?
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+It's the tiotropium. 
+
+DOCTOR J539
+Yeah that's this one you've got there.
+
+PATIENT J539
+The tiotropium.
+
+DOCTOR J539
+The tiotropium is Spiriva.
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+So you should have four inhalers actually.
+
+PATIENT J539
+No, three.  Now I get that Combivent.
+
+DOCTOR J539
+Oh but yeah.
+
+PATIENT J539
+But the Combivent see.
+
+DOCTOR J539
+But that's as needed.
+
+PATIENT J539
+Right because see what I was told is I take the Spiriva once a day.
+
+DOCTOR J539
+Right.
+
+PATIENT J539
+And if I need any additional assistance then I take the Combivent.
+
+DOCTOR J539
+Right.
+
+PATIENT J539
+But only if I need it.
+
+DOCTOR J539
+Okay good.
+
+PATIENT J539
+And I have an, I told them to put that on hold you know because I don't use it all the time.
+
+DOCTOR J539
+Okay that's good.
+
+PATIENT J539
+So you know those last a long time.
+
+DOCTOR J539
+Yeah right.
+
+PATIENT J539
+So I told them when I need it you know.
+
+DOCTOR J539
+Then you can call for a.
+
+PATIENT J539
+Then I'll call for a.
+
+DOCTOR J539
+Good idea.  And then omeprazole you take it twice a day for acid reflux.
+
+PATIENT J539
+I take it once a day.
+
+DOCTOR J539
+Once a day.
+
+PATIENT J539
+It says twice a day but I take it once a day.
+
+DOCTOR J539
+That's fine and then the simvastatin you take one tablet at bedtime.
+
+PATIENT J539
+Simvastatin yes.
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+That's for the cholesterol.
+
+DOCTOR J539
+And they have you on @@@ and a baby aspirin.
+
+PATIENT J539
+Right.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+81 mg.
+
+DOCTOR J539
+Right.  Okay.  Your vitals look good.  Blood pressure's fine.  Have you taking the blood pressure at home?
+
+PATIENT J539
+No.
+
+DOCTOR J539
+No.  
+
+PATIENT J539
+I just take my pills every day.
+
+DOCTOR J539
+Okay well everything looks well controlled.  I can get you a cuff if you want to take it at home.
+
+PATIENT J539
+A what?
+
+DOCTOR J539
+A blood pressure cuff.
+
+PATIENT J539
+Naw.
+
+DOCTOR J539
+No, okay.  Well we'll just keep an eye on things here since it looks good.  Um and in terms of your lab tests, you know the only thing that I don't have.  Your cholesterol looks great um.
+
+PATIENT J539
+Yeah the good and the bad she says was good.
+
+DOCTOR J539
+Yeah both of them were good.  The liver we talked about was fine.  The electrolytes look better and then your kidney function's stable um.  The only thing we don't have for a while is your blood count um.  Let me see when the last time we did a blood panel was.
+
+PATIENT J539
+What does that mean?
+
+DOCTOR J539
+So we measure the red blood cells and see if you have anemia.  We measure the platelets to make sure everything's stable.  It looks like you had one done in November and everything was fine so I'm okay with waiting and getting one next time I see you.
+
+PATIENT J539
+Is that one if it's bad I have to take a iron pill?
+
+DOCTOR J539
+Right yeah.
+
+PATIENT J539
+Yeah I was taking those a couple years ago and then they told me to stop.
+
+DOCTOR J539
+Yeah I mean everything looked real good in the last, report.  Everything was totally normal.
+
+PATIENT J539
+And that the reason.
+
+DOCTOR J539
+In December.
+
+PATIENT J539
+They told me to stop after I just got a new prescription sent to my house.
+
+DOCTOR J539
+Okay.  Well keep those too.
+
+PATIENT J539
+I threw them out.
+
+DOCTOR J539
+Oh you did okay that's okay.  Okay well I need you to hop up on the table.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+And we'll do an exam.  
+
+PATIENT J539
+Now will you be my doctor?
+
+DOCTOR J539
+I'm here for a total of three years.
+
+PATIENT J539
+Oh.
+
+DOCTOR J539
+So I'll probably see you a few more times.
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+So we get rotated around a lot.
+
+PATIENT J539
+I know.  That's when I get out of breath, any time I have to deal with moving around.
+
+DOCTOR J539
+Do you mostly use a wheelchair at home?
+
+PATIENT J539
+No.
+
+DOCTOR J539
+No.  What do you use at home to get around?
+
+PATIENT J539
+I walk.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+But you know I do a few steps then I have to stop.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+You know I have to do them.
+
+DOCTOR J539
+Well the last time I thought we talked about the possibility of getting you a scooter.
+
+PATIENT J539
+Yeah you know what, I had one.
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+That's @@@.
+
+DOCTOR J539
+Right.
+
+PATIENT J539
+She called me up too soon.
+
+DOCTOR J539
+What do you mean too soon?
+
+PATIENT J539
+I didn’t want to do it as early as…and then I tried calling her back and she doesn't call me back.
+
+DOCTOR J539
+Oh.  Well do you want me to put in another request for one or do you want to wait a little while?
+
+PATIENT J539
+Well let's wait a while.
+
+DOCTOR J539
+Okay.  Let me just take a peek in here, say ah.
+
+PATIENT J539
+Ah.
+
+DOCTOR J539
+Now you've got a little bit of white on your tongue here.  That might be something because of the steroids.
+
+PATIENT J539
+Yeah I'm on my last one today.
+
+DOCTOR J539
+Let me take a peek at the tongue.
+
+PATIENT J539
+Ah.
+
+DOCTOR J539
+Just the tongue.  Now maybe that's thrush from the tongue okay.  Do you have any pain in the tongue?
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+I have some medicine at home for that.
+
+DOCTOR J539
+You do, the mouthwash stuff?
+
+PATIENT J539
+Yeah the yellow stuff.
+
+DOCTOR J539
+That you swish around and spit out?
+
+PATIENT J539
+No I swallow it.
+
+DOCTOR J539
+You just swallow it okay.  How much do you have at home?
+
+PATIENT J539
+I have about three bottles.
+
+DOCTOR J539
+Is it called Nystatin, does that ring a bell?  Nystatin?
+
+PATIENT J539
+I don't know.
+
+DOCTOR J539
+Okay when is it from?  Is it old?
+
+PATIENT J539
+No maybe, maybe I would say less than a year.
+
+DOCTOR J539
+Okay why don’t you use it again for a few days.
+
+PATIENT J539
+Really?
+
+DOCTOR J539
+Yeah.  You have some thrush here on your tongue.
+
+PATIENT J539
+I did some @@@, you kind of.
+
+DOCTOR J539
+Yeah it could be the inhaler, I mean you're also taking the oral steroids and that can cause.
+
+PATIENT J539
+Oh okay.
+
+DOCTOR J539
+So maybe the combination of both.
+
+PATIENT J539
+I see.
+
+DOCTOR J539
+So I would do it the next week or two, @@@ and take a peek at your own tongue and see if it's getting better okay.  If it's not then call and let me know cause you need a prescription for Nystatin.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+Okay.  Let me take a peek at your eyes.  Good.  Let me put this @@@ back on.  Just breathe normal.  @@@. Now some deep breaths for me.  Good, good breath sounds throughout.  It doesn't look like I hear anything.  You are following with our pulmonologist right?
+
+PATIENT J539
+That feels good.
+
+DOCTOR J539
+Back here.
+
+PATIENT J539
+Scratch my back.
+
+DOCTOR J539
+No pain in your spine or lower back?
+
+PATIENT J539
+No, no pain.  No pain whatsoever.
+
+DOCTOR J539
+We're gonna have you lay back and I'm going to take a peek at your belly.
+
+PATIENT J539
+Ah.
+
+DOCTOR J539
+And bowel movements have been okay with your stool softeners?  With the stool softeners?
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+You do okay with that okay.  Nothing black or tarry or bright red?
+
+PATIENT J539
+What's that?
+
+DOCTOR J539
+When your stool no black or tarry.
+
+PATIENT J539
+No.
+
+DOCTOR J539
+Put your head up for me, just your head.  A little bit of a hernia here.
+
+PATIENT J539
+Yeah, I know.
+
+DOCTOR J539
+Just relax.  Any pain?
+
+PATIENT J539
+No.
+
+DOCTOR J539
+Okay.  A little one at your belly button too.
+
+PATIENT J539
+Uh-huh.
+
+DOCTOR J539
+Yeah okay.
+
+PATIENT J539
+But they told me that’s nothing.
+
+DOCTOR J539
+Yeah it's okay.  Let me know if you ever get, I'm sorry is there pain there?
+
+PATIENT J539
+@@@
+
+DOCTOR J539
+Hmm.  Up in this area?
+
+PATIENT J539
+Yeah there’s a slight.
+
+DOCTOR J539
+Okay have you had pain there before?
+
+PATIENT J539
+No.  I mean now that you're pressing there's something.
+
+DOCTOR J539
+Take a breath in for me and out okay.  Have you had a with an ulcer?
+
+PATIENT J539
+No.
+
+DOCTOR J539
+Peptic ulcer?  @@@.
+
+PATIENT J539
+No it's my appendix.
+
+DOCTOR J539
+You had your appendix out okay.  Okay good.  I'll have you sit up.  Now look over towards the door here.  Hold your breath for me and let it out.
+
+PATIENT J539
+Okay I can't hold my breath too long.
+
+DOCTOR J539
+Okay look over towards me and just one breath in for me.  Good okay.  Alright come on back and have a seat.
+
+PATIENT J539
+I don't want to have a seat.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+Cause you see all that moving around just.
+
+DOCTOR J539
+Makes you a little bit short of breath.
+
+PATIENT J539
+Yeah wears me out.  That's one of the reasons why I have the wheelchair you know cause I can't walk.
+
+DOCTOR J539
+Right I mean it's a long way in from the parking lot too.
+
+PATIENT J539
+So everything is pretty good?
+
+DOCTOR J539
+Yeah everything looks good.  Um are you still using oxygen at home?
+
+PATIENT J539
+Oh yeah.
+
+DOCTOR J539
+How much are you on now?
+
+PATIENT J539
+Uh three units.
+
+DOCTOR J539
+All the time or at night?
+
+PATIENT J539
+Uh well most of the time.  Sometimes I don't use it.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+You know I'm okay with or without it.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+Cause you see here I don't use it.
+
+DOCTOR J539
+Right.
+
+PATIENT J539
+But I usually use at home when I make something to eat for myself.
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+Well even a cup of coffee, I just get winded, any movement you know.
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+Even with the oxygen on.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+But they told me even though I think it ain’t helping, it does, so.
+
+DOCTOR J539
+Yeah.  Well, uh especially at night it's probably good you know.
+
+PATIENT J539
+Well they told me make sure I sleep with you know, with the oxygen and I do do that.
+
+DOCTOR J539
+Good.
+
+PATIENT J539
+They told me when I'm just sitting watching TV that I don't, you know if I don't need it I don't have to use it.
+
+DOCTOR J539
+Yeah I agree with that, if you're sitting around during the day and you don't feel like you need it then just.  Sometimes your lungs do a little better if you work and breathe on your own.
+
+PATIENT J539
+Yeah, you know cause I don't want to really get hooked on it.
+
+DOCTOR J539
+Right.
+
+PATIENT J539
+But they told me that you can't so I don't know.
+
+DOCTOR J539
+You can become more dependent on it.
+
+PATIENT J539
+Do I need any prescriptions renewed there?
+
+DOCTOR J539
+Let me, let me take a look.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+@@@.
+
+PATIENT J539
+You know the other problem is that I have is that like if I need something to call you but it's too hard to get hold of you doctors.
+
+DOCTOR J539
+Yeah I know but you can always call the Medicine Clinic and say I'd like to leave a message.
+
+PATIENT J539
+Is it the 2 - 800 number?
+
+DOCTOR J539
+Yeah cause I need to leave a message um for my doctor and they'll be able to, if you don't remember my name like you say DOCTOR then they'll send me a little message and then we'll, I check my messages usually once every few days even if I'm working over at Loyola and so I'll be able to call you back in a few days.  It's not always immediate, like I may not call you back the same day you call but it should be within about a week.
+
+PATIENT J539
+Well what happens if it's important?
+
+DOCTOR J539
+Well if it's really important, it it’s something really acute then they'll probably just tell you to come in.  Cause the problem is that I'm not here every single day and I work intermittently over at Loyola or here.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+So usually within a few days I'll be able to see any message you leave.  If you have something acute going on like you call and say hey I'm really having trouble breathing can I come in and see someone they'll set you up with a different doctor.
+
+PATIENT J539
+Yeah see, that wouldn’t be you, that would be @@@.
+
+DOCTOR J539
+Well @@@ at least call.  But let's say it's something else, okay you had some diarrhea or something and you wanted to be checked out, they can set you up with another doctor but it wouldn't necessarily be me.
+
+PATIENT J539
+Yeah at the Emergency Room.
+
+DOCTOR J539
+Right.  If you want to you could come in for what we call an acute care visit and then you come in the clinic here but you'll see someone who's not me.
+
+PATIENT J539
+Oh up here?
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+So I don't have to go to the Emergency Room?
+
+DOCTOR J539
+Right, right and they'll set you up probably sometime, usually in a spot that same week and they'll say okay we'll put you in a slot tomorrow or Thursday or whatever it is and we're gonna have you see doctor so and so and you'll come in and all you'll tell doctor so and so is whatever's going on, hey.
+
+PATIENT J539
+Now see if I have to make that trip I'd just rather go to the Emergency Room.
+
+DOCTOR J539
+We just encourage people not to go to the Emergency Room as much just because it overloads the Emergency Room if it's something that's not an emergency.
+
+PATIENT J539
+Oh I see.
+
+DOCTOR J539
+So by all means if you're having an emergency don't hesitate to come but if you're having like say three or four episodes of diarrhea a day for the last couple of days and you want to be checked out.
+
+PATIENT J539
+I'll take some Imodium AD.
+
+DOCTOR J539
+Well you could try that too.
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+But if you want to be checked out, like if you're having belly pain, whatever it is or you're getting headaches or something.
+
+PATIENT J539
+Right.
+
+DOCTOR J539
+That's not an acute emergency, it's better to come to the clinic and get checked out in the clinic than to show up in the Emergency Room.  You tend to get, you know more complete care, we can deal with it as an outpatient, it's not putting so much cost in the system so it's better to come here if it's not a true emergency.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+You know cause we can get you all the same things up here.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+You have no refills of your antibiotics and your prednisone?. Do you want me to renew those in case you need to order more?
+
+PATIENT J539
+I called my nurse upstairs.
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+NURSE.  See my pulmonary doctor, she's having a baby.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+She's on maternity leave until June 1st.
+
+DOCTOR J539
+Oh I see okay.
+
+PATIENT J539
+And when I called she said that she would have her orders in but if you can order it for me go ahead and do it.
+
+DOCTOR J539
+I could put in for some refills.
+
+PATIENT J539
+Yeah do it then.
+
+DOCTOR J539
+Um.
+
+PATIENT J539
+Because uh like I said I'm gonna be taking my last pill today.
+
+DOCTOR J539
+So do they send this to you automatically?
+
+PATIENT J539
+Yeah they'll mail them to my house.
+
+DOCTOR J539
+And that's what you want?  You want it sent even when you're not sick you want it sent to your house?
+
+PATIENT J539
+So if I do start getting a cough I start taking it then.
+
+DOCTOR J539
+So let's get you some refills.
+
+PATIENT J539
+That's the prednisone and the antibiotics.
+
+DOCTOR J539
+Yeah, just only take it when you need it.
+
+PATIENT J539
+No uh yeah.
+
+DOCTOR J539
+Okay but.
+
+PATIENT J539
+Oh yeah I wouldn't take it if I don't need them, naturally.
+
+DOCTOR J539
+And if you need it, I don't know if you're gonna need to call the Pharmacy and let them know that they only can, have them only send one at a time cause you have one prescription.
+
+PATIENT J539
+They only.
+
+DOCTOR J539
+So they know that.
+
+PATIENT J539
+They put a non-refillable on the label.
+
+DOCTOR J539
+Okay, okay.  Oh well I'm just putting refills in then, so do you want refills?
+
+PATIENT J539
+No you have to order it, it's not a refill.  You have to order me the prednisone and the antibiotics.
+
+DOCTOR J539
+Well I have that, no I have it in but I put it in as refills and my concern is that they're going to just keep sending it to you.
+
+PATIENT J539
+No they won't.
+
+DOCTOR J539
+They won't okay.
+
+PATIENT J539
+So no because it's a non-refillable prescription.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+I only can get it when the doctor orders it for me.
+
+DOCTOR J539
+Oh I see okay.  Alright.  Well if they do send you too much just call them and say I don't want.
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+I don't want anymore.
+
+PATIENT J539
+I will.
+
+DOCTOR J539
+Um okay, just a quick screening here.  Looks like the colonoscopy is not until June.
+
+PATIENT J539
+I don't want another one.
+
+DOCTOR J539
+You don't want another one.
+
+PATIENT J539
+No.
+
+DOCTOR J539
+Well it's not due yet anyway so you won't have to worry about it.  PSA was already checked.  We talked about smoking.  So you did have, what looks like a dilation of the aorta.  They did an ultrasound at some point and they saw that the aorta was a little bit dilated, now let me see the last report.
+
+PATIENT J539
+I don't want no more CAT scans.
+
+DOCTOR J539
+It's not a CAT scan, this is an ultrasound.
+
+PATIENT J539
+I'm sick of them.
+
+DOCTOR J539
+Um this one is might be here, let me see here.  It was done in 2010, let me see here.  Here we go.  Okay I think we might want to at least re-look at the aorta.  It's not a CAT scan; you don't go through any machines.  We'll schedule you for an appointment and they'll come and it's just that, it's like what they give to pregnant women, with the little gel and the stick and they go like this.
+
+PATIENT J539
+So what's that for?
+
+DOCTOR J539
+Um so the aorta, which is the largest vessel that runs down the middle of your body, sometimes, especially in men who have any history of smoking at all, it can become a little bit enlarged and the problem with that is that if it becomes enlarged it's a little bit increased risk for the wall being thin and it potentially tearing.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+Um and because it carries a lot of blood that would be very dangerous when that happens, so we screen all men who have any kind of history of smoking in their past and see if it's enlarged and if it is we keep an eye on it.  It looks like yours was a little bit enlarged in 2009.  I'm trying to see if we did another one um but I don't see it on record.  So I think it might be a good idea to get another one and see where it's at.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+If everything's stable we can just watch it.  If it's getting any bigger I'll probably have you see a vascular doctor, someone who deals especially with the blood vessels.
+
+PATIENT J539
+And what do they have to do?
+
+DOCTOR J539
+Well they may do nothing.  They may just watch it for us.  But if it's really big they may have some intervention which you may or may not decide you want but that's something that you could discuss with them.  But it's good to have a specialist take a look at it if it is enlarged just so they're aware of it and we all know about it and they can tell us how often we need to take a look at it.  Okay, it's a very easy test initially that's going to do that.
+
+PATIENT J539
+Yeah I know yeah.
+
+DOCTOR J539
+And then we'll see what it looks like.
+
+PATIENT J539
+They do that in Room 109 right?
+
+DOCTOR J539
+Okay I'm not sure.
+
+PATIENT J539
+Pretty.
+
+DOCTOR J539
+So let me get that ordered for you and they'll schedule that for you in the next, probably next couple weeks, let me see @@@.
+
+PATIENT J539
+Try to make it for like an early afternoon.
+
+DOCTOR J539
+They'll ask you when you want it.  I don't have any control over the schedule but they'll ask you when would be good for you.  And then let's see here, the magnesium is better so we'll take that one off.
+
+PATIENT J539
+So I can stop taking the pills but don't throw them away.
+
+DOCTOR J539
+Correct and we'll get another check in about six months and see where you're at.
+
+PATIENT J539
+Yeah I only have about 20 left.
+
+DOCTOR J539
+@@@ look fine; let's just see if we've got any other reminders in the computer here.  Okay did we talk last time about a Living Will and Advanced Directives?
+
+PATIENT J539
+Well I'm going to leave everything to @@@.
+
+DOCTOR J539
+Okay, okay.
+
+PATIENT J539
+Cause.
+
+DOCTOR J539
+Well it's more so.
+
+PATIENT J539
+I don't have.
+
+DOCTOR J539
+But it's more that a Living Will actually designates what you would want done for yourself in case of a medical emergency.  So if your heart were to stop or your breathing were to stop.
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+Do you want aggressive measures to bring you back?
+
+PATIENT J539
+No.
+
+DOCTOR J539
+Okay.  So in that case it's actually very important that somebody, not only does someone know about this, so someone close to you, who is considered your Power of Attorney, know your wishes but also you keep a written record that you have said you don't want aggressive measures done because otherwise our default is we do everything to keep someone alive.  We don't want to go against anyone's wishes.
+
+PATIENT J539
+Yeah well you know, in my condition if something drastic happens.
+
+DOCTOR J539
+Sure.
+
+PATIENT J539
+You know.  Just hope I go to heaven and don't go the other way.
+
+DOCTOR J539
+So it's just yeah, it's just important that um, it's just important that we know what your wishes are.  So it's good to have it written out.  It's good to bring a copy of that so we can put it in your computer records.
+
+PATIENT J539
+I thought I sent something out one time.
+
+DOCTOR J539
+Maybe you did, I'll look back and see if we've got a form in here, let's see let me check.  The other thing that we are now recommending for all vets is an HIV test if you don't have one on record already.  We recommend them now for people with or without risk factors so you have a baseline.
+
+PATIENT J539
+Yeah with all the blood tests they take.
+
+DOCTOR J539
+Well we would need to draw another little; a separate test to test is specifically for HIV so it'd be a little bit more blood.  It's not an urgent matter so if you, if you accept this and you want to do it I can put it in for your next blood work.  You also are welcome to decline it if you don't want it.
+
+PATIENT J539
+No we can do it, I don't, you know.
+
+DOCTOR J539
+Okay.  So let me put it in.
+
+PATIENT J539
+Well what does it hurt?
+
+DOCTOR J539
+It doesn't hurt anything.
+
+PATIENT J539
+Right.
+
+DOCTOR J539
+Um why don't you, do you want to just do it the next time we draw blood from you?
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+Yeah, no I don't want to go down there now.
+
+DOCTOR J539
+Yeah let's do it just the next time we get some blood from you.  Alright.
+
+PATIENT J539
+Then this way, you know once they stick me then they could do whatever they want.
+
+DOCTOR J539
+I'm going to put everything in for November and I'll see you back here then.
+
+PATIENT J539
+Alright.
+
+DOCTOR J539
+Alright.
+
+PATIENT J539
+I thought they would check all that with all the blood they take.
+
+DOCTOR J539
+So I have to put in an order to check it.  They don't automatically.
+
+PATIENT J539
+Oh.
+
+DOCTOR J539
+I put in all the orders for all that blood and when you have tests they don't automatically do it.
+
+PATIENT J539
+Oh.
+
+DOCTOR J539
+So I have to put in a specific order and they'll draw special little tubes.
+
+PATIENT J539
+Uh-huh.
+
+DOCTOR J539
+So they can send it to the right place um.  Okay, well let me just go run everything by my attending and see if she has any other suggestions for us but we'll definitely talk about potentially getting you on something that's a little bit better for the pain, the pleurisy pain.
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+To make you a little bit more comfortable.
+
+PATIENT J539
+Yeah, because it's terrible when I get that.
+
+DOCTOR J539
+Yeah, yeah.
+
+PATIENT J539
+Because you know, struggling to breathe to begin with.
+
+DOCTOR J539
+Right.
+
+PATIENT J539
+And when I have the pleurisy.
+
+DOCTOR J539
+It makes it worse.
+
+PATIENT J539
+It makes you breathe hard.
+
+DOCTOR J539
+Yeah I know.
+
+PATIENT J539
+And then I'm between a rock and a hard place.
+
+DOCTOR J539
+I know.  I know.  Okay just stick tight for just a minute; I'll be back in a few minutes okay.
+
+PATIENT J539
+Thank you.
+
+DOCTOR J539
+You're welcome.
+
+(DOCTOR OUT:  50:54  DOCTOR IN:  61:00)
+
+PATIENT J539
+@@@.
+
+DOCTOR J539
+It's me, I'm back.  Okay.  So here's what we're gonna do, we're gonna give you some tramadol for your pain.
+
+PATIENT J539
+Well only when I get the pleurisy right?
+
+DOCTOR J539
+Only when you get the pain.  It'll make you a little bit sleepy so the first time you take it, you're gonna take it in the evening and make sure you're not going anywhere.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+I'm just gonna give you, I'm gonna give you 50 mg pills but try first cutting them in half okay and take just 25 mg and see if that helps your pain.  If not, feel free to take the whole pill.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+Okay.  So we're gonna do um, you can take them up to every eight hours as needed but if you only need it at nighttime, just take it at nighttime.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+Okay and I'm gonna give you, I'm gonna give you a 30 day supply which will be 90 pills.
+
+PATIENT J539
+Yeah because you know I'm not gonna be taking them every day.
+
+DOCTOR J539
+That's what I figured.  You want them to be mailed or do you want to pick them up?
+
+PATIENT J539
+No, mailed.
+
+DOCTOR J539
+Fine.
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+Yeah just send them to my PO box.
+
+DOCTOR J539
+Then um so.
+
+PATIENT J539
+Cause you know I don't live close.  I live like about 15 miles away.
+
+DOCTOR J539
+Okay so let's see.
+
+PATIENT J539
+I'm in Wooddale.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+I don't know if you know where that's at, that's near O'Hare Airport.
+
+DOCTOR J539
+Oh okay yeah sure I know where it is.  Alright, here’s what we’re going to do about about the prednisone and the azithromycin, I'm gonna give you one more, maybe one more refill of them.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+And then after that, I want you, by then hopefully you won't you know need it any time soon, you just took it.  But after that I'm gonna have you call the pulmonary doctor and just double check everything with her and the other thing that I think might be sensible is if you feel like you're getting a viral infection or if you feel like you're getting a bad cough, if you feel like your COPD is acting up, you can come into the GMC Clinic, right here on the third floor without an appointment and be heard by one of the nurses, they can just see you and they can decide if you're wheezing that you really do need to take the prednisone or you need the azithromycin.  So it might be a good idea next time you start getting that cough, like when you have that coughing fit just to come in.
+
+PATIENT J539
+It's not a cough.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+It's just uh; I have a tremendous hard time breathing.
+
+DOCTOR J539
+So I think in that case then.
+
+PATIENT J539
+So I can't recuperate in a reasonable amount of time.  It's not a cough or anything.
+
+DOCTOR J539
+So in that case I think, when you have that problem again you should come in.  Come in to GMC or come in the Pulmonary Clinic and just have somebody listen to your lungs okay.  So that we kind of know what's going on and we can help you out if you, you know if you need more medicine or anything like that.  Just so that somebody's listening to the lungs and in terms of.
+
+PATIENT J539
+Yeah but then that defeats the purpose of me having the pills at home.
+
+DOCTOR J539
+Well that's, you know honestly I'd like to; I'd like to know when you're having the problem.  Cause I don't want to just keep having you take prednisone and.
+
+PATIENT J539
+I don't, I don't, I only take it.
+
+DOCTOR J539
+No, no, I know wait listen to me for just a second.  I don't want to have you just keep dosing for yourself when think that you’re having an attack because you may not be.  It may be just a short-lived thing that you don't need to take a whole prednisone course for because these antibiotics and the prednisone have lots of side effects themselves.  So if you don't need them I don't want you to take them but it's easier for a nurse or a doctor to assess whether you really do need to take the full course.  Do you see what I mean?  So I understand having the preventative medicines at home and I'm not saying we're not going to do that anymore.  I think it's been a good way to keep you out of the hospital but I think it'd just be a good idea for you to come in and be evaluated by either a nurse or a doctor, have someone listen to your lungs and make sure you're okay and then make a decision about whether you can take the antibiotics and the prednisone that you have at home.
+
+PATIENT J539
+See the only problem with that, I mean I don't have a problem with that.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+The only thing is that you know, in order for me to come here I need help.
+
+DOCTOR J539
+Right.
+
+PATIENT J539
+I can't just come here on my own and come in here you know.
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+And I've always had the help, that's what I'm saying.
+
+DOCTOR J539
+I see what you mean.  Well if at all possible, my suggestion would be to be seen.
+
+PATIENT J539
+Yeah if it's possible I will do that definitely.  Cause I don't want to keep taking them if I don't need them either.
+
+DOCTOR J539
+Right exactly.
+
+PATIENT J539
+I just uh would rather do that than to come to the Emergency Room all the time.
+
+DOCTOR J539
+No and I think that that’s a great idea but rather than come in to the Emergency Room which you'll need help getting to anyway, have that person who would drive you here drive you to the clinic and someone can just listen to your lungs and that way you won't automatically be admitted to the hospital for potential pneumonia which is often what happens in the Emergency Room.
+
+PATIENT J539
+So I could just go right up to Pulmonary?
+
+DOCTOR J539
+Go right up to either Pulmonary Clinic or 3rd floor, General Medicine like right here.
+
+PATIENT J539
+They won't tell me to go to the Emergency Room then?
+
+DOCTOR J539
+They might if they see you sound really bad but they might not.
+
+PATIENT J539
+I mean without kicking me out.
+
+DOCTOR J539
+Right.  Somebody will listen to you at clinic and they may be like okay you sound a little wheezy why don't you go ahead and take your Zithromax and go home but they might say oh you sound terrible, your breathing is awful, we're going to send you down to the Emergency Room but at least then you have a doctor checking you out or a nurse checking you out before you proceed straight to the Emergency Room.  I just want to decrease the number of times you have to go to the Emergency Room.
+
+PATIENT J539
+Yeah that's been my concern too.
+
+DOCTOR J539
+So that's what I want you to do when you start feeling sick.
+
+PATIENT J539
+Cause it's not easy when I'm having an attack you're right.
+
+DOCTOR J539
+Okay.
+
+PATIENT J539
+Cause sometimes, sometimes it's hard for me to get from the house to the car when I'm having an attack.
+
+DOCTOR J539
+Right and all I'm saying is that I think that it would be good for a doctor to evaluate you and better assess how your lungs sound.
+
+PATIENT J539
+I see.
+
+DOCTOR J539
+So I think the last thing I want to do is we're gonna get another EKG on you next time you come to clinic.
+
+PATIENT J539
+EKG?
+
+DOCTOR J539
+Yeah just take a look at the heart.  Sometimes the azithromycin is a medicine that can affect the heart a little bit.  You have one on record that looks okay but next time you come I want to do one periodically to make sure everything's stable okay.
+
+PATIENT J539
+And when is that gonna happen?
+
+DOCTOR J539
+So the next time you come to clinic in the fall um I want you to come, first stop on the 1st Floor, you'll see signs and you can ask somebody where the EKG Department is and they'll do a quick EKG and then they'll send it up here so I can take a look at it before I see you.
+
+PATIENT J539
+Oh okay.
+
+DOCTOR J539
+Okay.  So the next time you come you're gonna get some lab work done and you're gonna stop by and get the EKG done.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+Okay, make sense?
+
+PATIENT J539
+Now can you schedule me with a later appointment than 8 or 9 o'clock in the morning?
+
+DOCTOR J539
+So the latest I have is like 11.
+
+PATIENT J539
+That's fine.
+
+DOCTOR J539
+So just request from the folks at the desk, I don't schedule the appointments, they just schedule them for me.  So just request the clerk, when you check out at the desk.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+That you want one that's later in the morning.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+Okay and they'll try to get you in like an 11 slot.
+
+PATIENT J539
+So I'll tell them you know next appointment make it for around 11.
+
+DOCTOR J539
+Right.
+
+PATIENT J539
+That's great because 8 or 9 is too early.
+
+DOCTOR J539
+Yeah.
+
+PATIENT J539
+I have something.
+
+DOCTOR J539
+Yeah I can't guarantee but they can do their best to get you in like at 11-ish okay.
+
+PATIENT J539
+Yeah.
+
+DOCTOR J539
+Alright.  So you're gonna come back in six months and then you're also gonna be scheduling you for that ultrasound of the aorta.
+
+PATIENT J539
+Okay.
+
+DOCTOR J539
+Okay and they'll let you know the date for that; they'll find something that works for you.
+
+PATIENT J539
+Good.
+
+DOCTOR J539
+Okay.  Well it's good to see you again.
+
+PATIENT J539
+Thank you.
+
+DOCTOR J539
+You take that and so don't forget to stop at the check out desk and they can make sure you get scheduled to see me again.
+
+PATIENT J539
+Okie dokey.  @@@ right?
+
+DOCTOR J539
+Yes @@@.
+
+PATIENT J539
+@@@ okay.
+
+DOCTOR J539
+Uh-huh.
+
+PATIENT J539
+Have a good day.
+
+DOCTOR J539
+You too.
+
+PATIENT J539
+Have a nice holiday too.
+
+DOCTOR J539
+Thank you so much, you too.
+
+PATIENT J539
+He's my driver cause I ain't got a license.
+
+PATIENT LEAVES 68:55
+
+Time is 10 o'clock.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255140
+TRANSACTION # 578-10-2-316-0103

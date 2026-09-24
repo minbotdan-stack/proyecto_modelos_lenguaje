@@ -1,0 +1,651 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@
+
+DOCTOR L687
+PATIENT?
+
+PATIENT L687 
+How you doing?
+
+DOCTOR L687
+Alright thank you.  @@@.
+
+PATIENT L687
+Uh DOCTOR.  I don't care.
+
+DOCTOR L687
+So what's going on?  What brings you in today?
+
+PATIENT L687
+Okay uh, I was here I think the 6th and the reason I came in, well let me backtrack.  In September I had bladder surgery for removal of the bladder because of uh cancer, tumor, and then I noticed this was starting to get swelled up.
+
+DOCTOR L687
+Okay.
+
+PATIENT L687
+Just the left, this one here okay.
+
+DOCTOR L687
+Alright.
+
+PATIENT L687
+Now um after surgery when I was in Recovery it swelled up.  They had that machine on there to do the pumping.
+
+DOCTOR L687
+Yeah.
+
+PATIENT L687
+And then I don't know why it's swelling up.
+
+DOCTOR L687
+So you had surgery when did you say?
+
+PATIENT L687
+September 6th.
+
+DOCTOR L687
+It swelled up then, following surgery.
+
+PATIENT L687
+Right.
+
+DOCTOR L687
+Was it both sides or just the left?
+
+PATIENT L687
+Just the left.
+
+DOCTOR L687
+Did it slowly go away then after surgery or has it been there since then?
+
+PATIENT L687
+No, it went away um.  I had a month's supply of injections I was giving to myself for clots.
+
+DOCTOR L687
+Okay.  Have you ever had a clot, blood clot before?
+
+PATIENT L687
+No not that I'm aware of.
+
+DOCTOR L687
+So when did you first notice that it was starting to swell again?
+
+PATIENT L687
+Um probably maybe a month ago.
+
+DOCTOR L687
+Okay.  Has it gotten worse or is it just about the same from when you noticed it?
+
+PATIENT L687
+No it was worse but then it went down.
+
+DOCTOR L687
+So it went down a little bit.
+
+PATIENT L687
+But it's still swollen.
+
+DOCTOR L687
+Swollen still.
+
+PATIENT L687
+Oh wait a minute, survey, I don't know if NAME gave it to me.
+
+DOCTOR L687
+Oh for the thing.
+
+PATIENT L687
+Oh it must. 
+
+DOCTOR L687
+Yeah I think so.
+
+PATIENT L687
+Can I leave it right here?
+
+DOCTOR L687
+Yeah that's okay.
+
+PATIENT L687
+(Laughter)  
+
+DOCTOR L687
+So it got more swollen, let's see and now it's went down.  Alright.  Any pain associated with it?  Any redness?
+
+PATIENT L687
+Just the way it is now.
+
+DOCTOR L687
+Prior to this all starting back in September, had you ever had uh swelling like that before, in this leg at all?
+
+PATIENT L687
+No, nothing.
+
+DOCTOR L687
+You don't have any history of this before.  Any other medical issues, high blood pressure.  You don't have any problem with heart disease or heart attack or heart failure? 
+
+PATIENT L687
+Uh they discovered I have a fib.
+
+DOCTOR L687
+A fib.  Are you on Coumadin?
+
+PATIENT L687
+No.
+
+DOCTOR L687
+No.  Let's see your medications, you have an albuterol inhaler.
+
+PATIENT L687
+Which I really do not use that often at all.
+
+DOCTOR L687
+Okay.  They have you on Digoxin is that for the a fib I assume?
+
+PATIENT L687
+Yeah it's for the heart.
+
+DOCTOR L687
+Okay.
+
+PATIENT L687
+Once a day. Taking that.
+
+DOCTOR L687
+You're on the metoprolol?
+
+PATIENT L687
+Right twice a day.
+
+DOCTOR L687
+Sildenafil?
+
+PATIENT L687
+Yeah the reason um they uh prescribed that is because before I had the uh surgery to remove the bladder at the same time they removed the prostate because it was high PSA.
+
+DOCTOR L687
+I see.
+
+PATIENT L687
+So while they were there they might as well take it and prior to that surgery um my wife and I enjoyed a very good sexual active life in the 44 years we've been married.
+
+DOCTOR L687
+Sure.
+
+PATIENT L687
+Now after the surgery I cannot get an erection uh.  They told me that they would do all they could with the nerve-sparing.
+
+DOCTOR L687
+Hmm.
+
+PATIENT L687
+Okay so what they uh started out doing is um giving me the uh sildenafil which is I guess Viagra.
+
+DOCTOR L687
+Viagra.
+
+PATIENT L687
+And uh that is not working.
+
+DOCTOR L687
+Hmm.
+
+PATIENT L687
+They got me a pump.
+
+DOCTOR L687
+Uh-huh.
+
+PATIENT L687
+And I've been using that but I stopped using that because I can, it'll get hard but as soon as I take the pump away, even with the rings on the penis.
+
+DOCTOR L687
+Hmm.
+
+PATIENT L687
+It just.
+
+DOCTOR L687
+Goes away.
+
+PATIENT L687
+Goes away and then uh what else.  I'll be coming back here on the 25th I believe where they will either give me an injection in the penis with some medicine or put it right down the urethra.
+
+DOCTOR L687
+Yeah, yeah.
+
+PATIENT L687
+Okay and we'll see if that works so.
+
+DOCTOR L687
+Yeah.
+
+PATIENT L687
+I'm fucked.  Excuse me.
+
+DOCTOR L687
+Yeah that's a difficult thing and unfortunately that's one of the concerns with taking out the prostate and you see sometimes there'll be erectile dysfunction afterwards.
+
+PATIENT L687
+And like I said you know prior to the surgery you know I didn't have any problems at all.  You know I didn't have any ED at all but then they warned me.  They also said that it might take up until a year for it to come back where I'll be able to get an erection again but if none of this therapy, so-called therapy doesn't work, will it come back naturally? I don't know.
+
+DOCTOR L687
+Yeah.
+
+PATIENT L687
+Nobody knows.
+
+DOCTOR L687
+Um how about, have you been having shortness of breath at all or problems breathing since you've had the swelling?
+
+PATIENT L687
+No not really.
+
+DOCTOR L687
+No chest pain at all?
+
+PATIENT L687
+No and you know I, I'm a smoker and unfortunately I still smoke uh.  They asked me if I needed help quitting and they said you know if I quit you know I'll do it on my own.
+
+DOCTOR L687
+Okay.
+
+PATIENT L687
+But I drastically cut down you know from what I was smoking before the surgery.
+
+DOCTOR L687
+Sure.  Yeah I mean if you would like to quit smoking, if you need any help at that time whenever you decide you're are ready.
+
+PATIENT L687
+Yeah they all say these things here.
+
+DOCTOR L687
+Um it looks like that was normal.  The echocardiogram, just looking at some of your stuff that was normal.  Your heart function was relatively normal back in August.  I don't know if you remember them doing that.
+
+PATIENT L687
+Uh-huh.
+
+DOCTOR L687
+So yeah, let me have a look at you here.  Have a seat over here.  Take a moment to wash my hands.  I'm going to listen to your heart and lungs here.
+
+PATIENT L687
+Want the jacket off?
+
+DOCTOR L687
+No I'll just slide down here no problem.  Take some deep breaths for me.  @@@, a little bright light in the eyes.  So never any swelling in this one at all?
+
+PATIENT L687
+No.
+
+DOCTOR L687
+No pain there, you don't have anything there.  How much would you say it was at one point?  Quite a bit worse from what it is now?
+
+PATIENT L687
+You know just maybe 10 or 15% more than it is now.
+
+DOCTOR L687
+Yeah.  
+
+PATIENT L687
+And in the back it's swollen.
+
+DOCTOR L687
+How about the thigh at all, do you notice it in the thigh at all?
+
+PATIENT L687
+No.
+
+DOCTOR L687
+It stops at the knee?
+
+PATIENT L687
+Yeah.
+
+DOCTOR L687
+No pain on pushing here.  No pain when I'm doing the anything there at all?
+
+PATIENT L687
+No.
+
+DOCTOR L687
+Okay.  I'm going to have you lay back down.  Let's see your pouch over here.
+
+PATIENT L687
+Right here.
+
+DOCTOR L687
+You haven't had any issues with that; it's been draining fine and everything?
+
+PATIENT L687
+Yes.
+
+DOCTOR L687
+Okay.  No pain in the belly here.
+
+PATIENT L687
+No.
+
+DOCTOR L687
+When I'm pushing around anywhere.
+
+PATIENT L687
+No.
+
+DOCTOR L687
+Or anything like that.  Alright. Let me sit you back up here.
+
+PATIENT L687
+Can I uh put my socks back on?
+
+DOCTOR L687
+Yeah, yeah that's fine.
+
+PATIENT L687
+And after I was here I saw the last time, the NURSE.
+
+DOCTOR L687
+Yeah.
+
+PATIENT L687
+And she said that DOCTOR would probably call.  Well he never called but she called saying that he wanted me to come in here.
+
+DOCTOR L687
+Today yeah.
+
+PATIENT L687
+Sooner than the 25th.
+
+DOCTOR L687
+Yeah to see me yeah.
+
+PATIENT L687
+Because of the possibility of maybe a clot.
+
+DOCTOR L687
+Blood clot.
+
+PATIENT L687
+Yeah.
+
+DOCTOR L687
+That's what we're probably concerned about.  So, yeah sometimes blood clots can cause swelling in the leg.  I think we should, I'm going to talk to my attending but I think we should probably check.  I'm not really convinced about there being a blood clot in there because usually when you have a blood clot in there patients have a lot of pain associated with it in the calf or they'll even have some redness and swelling um which you told me you have not had an issue with.
+
+PATIENT L687
+Right.
+
+DOCTOR L687
+But you are at an increased risk of blood clots just because you have had surgery here in the past and the tests they do is pretty easy, it's just some jelly on the leg and they do a Doppler ultrasound, similar to an ultrasound.
+
+PATIENT L687
+Yeah that's what she had mentioned.
+
+DOCTOR L687
+Like on a pregnant woman.
+
+PATIENT L687
+Now I might mention this, now I've never been diagnosed but when the weather is cold.
+
+DOCTOR L687
+Uh-huh.
+
+PATIENT L687
+My fingers on both hands, not at the same time, might turn white and uh I think it's something called Raynaud.
+
+DOCTOR L687
+Raynaud's phenomenon yeah.
+
+PATIENT L687
+But then after a while, you know they warm up and it goes away but it happens quite often.
+
+DOCTOR L687
+Okay.  Yeah that's another one of those things that's common.
+
+PATIENT L687
+Hmm.
+
+DOCTOR L687
+And unless it causes you a lot of disability and pain there are medications you can take for it but they don't work that well.
+
+PATIENT L687
+No.
+
+DOCTOR L687
+Usually our thing is, wear gloves when you're gonna be outside.
+
+PATIENT L687
+I don't want to take any more medication.  I'm taking enough now.
+
+DOCTOR L687
+Yeah.
+
+PATIENT L687
+And I just don't like to take any pills whatsoever but what are you gonna do as you get older.
+
+DOCTOR L687
+Yeah, that's just part of the process.  Um let me go chat with the other doc, with the attending doctor and talk about if there's anything else you know we'll want to do or think about and then I'll come back on in and let you know okay.
+
+PATIENT L687
+Okay.
+
+DOCTOR L687
+Be back with you shortly.
+
+(DOCTOR OUT:  61:27  DOCTOR IN:  69:44)
+
+(Knock on door)
+
+PATIENT L687
+Hello.
+
+DOCTOR L687
+Alright, sorry for the delay.
+
+PATIENT L687
+Doctor how do you spell your name?
+
+DOCTOR L687
+DOCTOR.
+
+PATIENT L687
+And your first name?
+
+DOCTOR L687
+DOCTOR.
+
+PATIENT L687
+Yeah okay, thank you.
+
+DOCTOR L687
+So I called the Vascular Lab and actually I'll send you up to the fifth floor to have them do that test right now.
+
+PATIENT L687
+Oh okay.
+
+DOCTOR L687
+Just to make sure that that's not what's going on cause that's requires treatment if it is.  
+
+PATIENT L687
+What could it be if isn't a clot?
+
+DOCTOR L687
+If it's not a clot I'm not exactly sure what is causing it um and if it bothers you, we can try like some TED hose type things which is just compression, type of compression stocking.
+
+PATIENT L687
+Oh.
+
+DOCTOR L687
+Um but otherwise we can, I was going to just have you follow back up with DOCTOR cause you're scheduled to see him on the 28th of this month here so in a few weeks.
+
+PATIENT L687
+Uh-huh.
+
+DOCTOR L687
+Um and the other thing you can do is sometimes people just have some difficulties with maintaining their fluid balance and they lose fluid and usually it's bilateral which is kind of like.
+
+PATIENT L687
+Well I drink a lot of liquids.
+
+DOCTOR L687
+Uh-huh.
+
+PATIENT L687
+All day long.  Not only fruit juices but water, coffee, tea, diet soda.
+
+DOCTOR L687
+Yeah.
+
+PATIENT L687
+I'm constantly emptying the bag.
+
+DOCTOR L687
+The bag.  You could cut down, try cutting.  How much are you drinking in a full day?  Would you say how many you know how much would you say 8 ounce?
+
+PATIENT L687
+Uh I might have like a beer before dinner but not every day.
+
+DOCTOR L687
+Okay.
+
+PATIENT L687
+Or like uh the other night we had lamb chops and I had a glass this much of wine.
+
+DOCTOR L687
+Okay.
+
+PATIENT L687
+Dark or red wine.  What would drinking have to do with the swelling?
+
+DOCTOR L687
+So this fluid is what, @@@ sometimes.
+
+PATIENT L687
+So that's fluid?
+
+DOCTOR L687
+Yeah I mean that's fluid, that's what is swollen that's actually fluid, you know.
+
+PATIENT L687
+Really.
+
+DOCTOR L687
+That went out of your blood vessels and into the tissue which is why I think.  I mean initially you had this in the hospital and a lot of times when you're in the hospital having surgery you get a lot of fluid.  Do you remember, they probably gave you IV fluids and you know things and that's very common in patients you know who get, are in the hospital and have uh get a lot of intravenous fluids that sometimes they'll get swelling particularly in the legs.
+
+PATIENT L687
+From the IVs?
+
+DOCTOR L687
+Just from, more fluid, so your body, you only have so much space inside the blood vessels to put fluid and if you're, you know you should get rid of fluid or urinating or you get rid of through sweating and stuff like that but generally it's urinating out and sometimes if you're getting too much fluid, you get more fluid than actually the kidneys can keep up with cause all fluid has to be filtered out through the kidneys and it kind of builds up and it has to go somewhere um because you know fluid is something that's not compressible and only so much can fit in the blood vessels and when the blood vessels get too full it kind of leaks out and will go into the tissues.
+
+PATIENT L687
+Hmm.
+
+DOCTOR L687
+And then that's where you end up getting the swelling and the edema and the legs are a real common site for that to happen.  It's just a little concerning cause you never have problems with the right leg it's only ever in the left leg.
+
+PATIENT L687
+Just the left one yeah.
+
+DOCTOR L687
+We'll see what this shows and if you, are you interested in trying some TED hose type thing, stockings, would you wear that?
+
+PATIENT L687
+Well my wife can get them at her work, she works at Walmart.
+
+DOCTOR L687
+Okay.  You can try that and then come back and is it is still really bothering the only other thing we can do just to see if it is a big fluid imbalance we can give you a diuretic which will just remove a little bit.
+
+PATIENT L687
+Is that like a water pill?
+
+DOCTOR L687
+Yeah um a water pill.
+
+PATIENT L687
+Uh no, no like I said nothing hurts.
+
+DOCTOR L687
+Yeah but I mean it's also a matter of what becomes a bother.  If it bothers you if this was you know.  We worry about things that can cause concern, big problems.
+
+PATIENT L687
+Well am I drinking too much during the day based on what I told you, like I said.
+
+DOCTOR L687
+Well I mean it's not like you're drinking a tone, you're getting some but you don't seem to be drinking a ton of fluids throughout the day.  But if you want to cut back a few days and see if that effects the swelling, I mean see if that makes any difference.
+
+PATIENT L687
+Yeah I can try that; I can experiment with that sure.
+
+DOCTOR L687
+I mean sort of drink some fluid, obviously throughout the day but first things first, make sure that there's not a blood clot in here.
+
+PATIENT L687
+Right.
+
+DOCTOR L687
+Causing all this um so I'll sign that and I will forward my notes to DOCTOR and if there is a blood clot I'll of course get the results you know will be back later today but call me and we'll start you on a blood thinner, something like what you were on before like the Lovenox, the shots.
+
+PATIENT L687
+It was something else.  What'd you call it?
+
+DOCTOR L687
+Lovenox or enoxaparin, was that what you were on?  Was it a blood thinner shot?
+
+PATIENT L687
+You know, all I know is just like I put it in and it just, when I pushed the needle went in and came right out.
+
+DOCTOR L687
+Hmm.  Maybe we're @@@.
+
+PATIENT L687
+I can't think of the name.  But I had a 30 day supply of it and they told me to use it all.
+
+DOCTOR L687
+@@@.  Alright.
+
+PATIENT L687
+Okay so where do I go now?
+
+DOCTOR L687
+Fifth floor, just go to the check-in desk on the fifth floor.
+
+PATIENT L687
+Okay.  That's all I have to do?
+
+DOCTOR L687
+Yep.
+
+PATIENT L687
+Okie doke.
+
+DOCTOR L687
+And they'll do the test real quick to be sure.  If it's positive they'll give me a call.
+
+PATIENT L687
+Yeah let me know uh how late are you gonna be here today?
+
+DOCTOR L687
+They'll, if it's positive they'll have you stay there and give me a call.
+
+PATIENT L687
+Oh I see okay.
+
+DOCTOR L687
+Just check out here.  He's already scheduled to follow up with DOCTOR but if he needs anything he can also be with me.
+
+PATIENT L687
+Okay thanks doctor.
+
+DOCTOR L687
+Nice meeting you, take care.
+
+PATIENT L687
+Take care.
+
+PATIENT LEAVES:  76:59
+
+Time is 11:35.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249453
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,316 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:   @@@ 
+
+DOCTOR N112
+PATIENT?
+
+PATIENT N112
+Yea, you ready?  I am ready.
+
+DOCTOR N112
+@@@.
+
+PATIENT N112
+@@@ standing here I was hoping I was next.
+
+DOCTOR N112
+Yea, yeah, no it @@@.
+
+PATIENT N112
+@@@.
+
+DOCTOR N112
+Oh yeah.  @@@.
+
+PATIENT N112
+@@@ what do you @@@?
+
+DOCTOR N112
+@@@.  Yea I know, I mean, I appreciate it.  @@@ show up on time @@@ hour and a half @@@ last few weeks and @@@.
+
+PATIENT N112
+Really.
+
+DOCTOR N112
+@@@. 
+
+PATIENT N112
+@@@.  
+
+DOCTOR N112
+@@@ last half hour block @@@.  Umm how are things going?
+
+PATIENT N112
+Good, good.
+
+DOCTOR N112
+Yea?
+
+PATIENT N112
+Um, is this just a follow-up?
+
+DOCTOR N112
+Follow-up, yeah.  Um, when did I last see you? Back in September.  @@@ usually back every six months.
+
+PATIENT N112
+Okay.
+
+DOCTOR N112
+That’s why I @@@.  It hasn’t been that long.
+
+PATIENT N112
+Wow.
+
+DOCTOR N112
+And one @@@, it’s only been four months.  They scheduled you a little early.  I don’t know why.
+
+PATIENT N112
+@@@.
+
+DOCTOR N112
+I told them a six month follow-up or a year follow-up.
+
+PATIENT N112
+Yea.
+
+DOCTOR N112
+@@@.  
+
+PATIENT N112
+Yea because nothing, nothing
+
+DOCTOR N112
+I even put in a year.  I said for you to come back to see me September @@@@.  So ah, maybe this will be nice and quick then.
+
+PATIENT N112
+Oh, yeah, yeah, it will be.
+
+DOCTOR N112
+And @@@ you see the dermatologist and @@@.
+
+PATIENT N112
+Everything is good.  
+
+DOCTOR N112
+@@@.  Okay.
+
+PATIENT N112
+@@@ put it on for a few weeks and then I got to go back up there and see them in a couple more weeks.  @@@.  But everything really seems good.
+
+DOCTOR N112
+Everything is good?  Okay.  Um, so @@@ Iron Man.
+
+PATIENT N112
+@@@.  Yea.  No, no, no.  I did @@@.
+
+DOCTOR N112
+Yea.
+
+PATIENT N112
+It always seems like a long run.
+
+DOCTOR N112
+Right, yeah.  It always has been.  Either that or you must be running all the time.  I don’t know.
+
+PATIENT N112
+No, I really don’t.  Because in the wintertime I have to be at work at a certain time, it’s really tough.
+
+DOCTOR N112
+Yea.
+
+PATIENT N112
+It’s um, @@@.  Picked up some orthotics.
+
+DOCTOR N112
+Okay.  Yea, I saw that.  @@@.
+
+PATIENT N112
+@@@.  
+
+DOCTOR N112
+Have you had anymore issues with this Achilles or anything?
+
+PATIENT N112
+Nope, no.  @@@ had it since @@@.
+
+DOCTOR N112
+Okay.
+
+PATIENT N112
+Everything looks good @@@.
+
+DOCTOR N112
+Um, okay.  @@@ everything looks fine.  Ah, let’s see @@@.  Did they, ah, freeze off some of these things?
+
+PATIENT N112
+Not yet.  I think it will be the next time, after the cream, they’re going to see how it looks and then @@@.  It looks a lot better than it did.
+
+DOCTOR N112
+Okay.  I know that your blood pressure, @@@ borderline.  It looks a lot better today compared to the last time.  It was like 130 last time and 125 today.  Looks good.
+
+PATIENT N112
+Okay.
+
+DOCTOR N112
+@@@.  Um, kind of right where you want to be.  And, then I don’t think there was anything else.  Um, you had a tetanus shot last time I think right?  
+
+PATIENT N112
+Yup.
+
+DOCTOR N112
+And, @@@.
+
+PATIENT N112
+How do I get a copy of that saying that I?
+
+DOCTOR N112
+That you got the vaccine?
+
+PATIENT N112
+Yea.  @@@ in a couple of weeks and they tell me @@@.  Supposedly  it’s in a tetanus shot so
+
+DOCTOR N112
+Oh, tetanus, diphtheria, pertussis @@@.  @@@.
+
+PATIENT N112
+Is that in @@@.
+
+DOCTOR N112
+Yea, you should have gotten this.  Um, yeah, TDAP.  You already got this.
+
+PATIENT N112
+Okay.
+
+DOCTOR N112
+Um, you also @@@.  You got it September 22 @@@.
+
+PATIENT N112
+Okay.
+
+DOCTOR N112
+So @@@.  Who is @@@, they, the doctors are complaining?
+
+PATIENT N112
+Yea, they just @@@.  Plus my civilian doctor would like a copy of it.
+
+DOCTOR N112
+Oh, okay.  
+
+PATIENT N112
+Just to make an up-to-date record. 
+
+DOCTOR N112
+Yeah.  Okay.  @@@.
+
+PATIENT N112
+Yeah, that’s fine.  
+
+DOCTOR N112
+@@@.  Um, alright colonoscopy we have already talked about you doing in a couple of years again.  Um, checked your prostate before I remember right?
+
+PATIENT N112
+Um hmm.
+
+DOCTOR N112
+@@@.  Alright.  Um.
+
+PATIENT N112
+Anything special to do when you turn 55 @@@?
+
+DOCTOR N112
+Not anything for 55.
+
+PATIENT N112
+Okay, good.
+
+DOCTOR N112
+Just @@@.  You were never a smoker right?
+
+PATIENT N112
+No.
+
+DOCTOR N112
+So 50 and 65 if you were a smoker @@@.
+
+PATIENT N112
+Oh.
+
+DOCTOR N112
+For you it is just going to be getting your prostate checked, @@@ colonoscopy, every five to ten years based on what they find.
+
+PATIENT N112
+Okay.
+
+DOCTOR N112
+Okay, clean bill of health. We checked you for diabetes @@@.
+
+PATIENT N112
+Good.  I try.  
+
+DOCTOR N112
+Yeah.  @@@.  Alright?  Sorry you had to come in again.
+
+PATIENT N112
+No, no, no, that is fine.  I mean, @@@.  Doing what they tell me, make the appointment.
+
+DOCTOR N112
+Yeah, yeah.
+
+PATIENT N112
+Okay.
+
+DOCTOR N112
+I am going to see you back you know summer, early fall.
+
+PATIENT N112
+Okay.
+
+DOCTOR N112
+@@@ if anything comes up you can you can @@@.
+
+PATIENT N112
+Yea, unless I have issues.
+
+DOCTOR N112
+Yea.
+
+PATIENT N112
+@@@ but I should be good.  @@@.  Um where did that print @@@?
+
+DOCTOR N112
+Yeah, @@@.  @@@ a lot of necessary information @@@.
+
+PATIENT N112
+No, no, no, that’s fine.  
+
+DOCTOR N112
+@@@.  
+
+PATIENT N112
+Okay.
+
+DOCTOR N112
+@@@ your appointment list.  I am sure you already know but @@@.
+
+PATIENT N112
+@@@.
+
+DOCTOR N112
+Yea.  @@@.
+
+PATIENT N112
+Good, glad it was short.  Time to get caught up?
+
+DOCTOR N112
+Yea.  Okay. Thanks.
+
+PATIENT N112
+Thanks.
+
+PATIENT LEAVES:  46:30
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800515/JOB#  1300310
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,949 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@
+
+DOCTOR M191
+PATIENT?
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+How are you sir?
+
+PATIENT M191
+Good, how are you DOCTOR?
+
+DOCTOR M191
+Did you get your blood pressure checked?  
+
+PATIENT M191
+Yeah, go ahead.  @@@ escort.  @@@.  Yeah I wanted ask you @@@.  Some of these medications I got, I don't even know what it is anymore.  Yeah I went for the colonoscopy and I got the results of it and it was fine.  So don't ask me to again.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+Tube up your butt @@@.
+
+DOCTOR M191
+@@@.  Right?
+
+PATIENT M191
+Oh no.  I already thought about doc.
+
+DOCTOR M191
+Well thanks for doing that.  I know it's not that much fun.  @@@.
+
+PATIENT M191
+No.
+
+DOCTOR M191
+I think @@@.  
+
+PATIENT M191
+Oh yeah it was just fine.  You know I seem to have a problem with this, I don't know what this medication is.  I'm out of Plavix okay.
+
+DOCTOR M191
+Okay.
+
+PATIENT M191
+Can you get @@@ rush @@@.
+
+DOCTOR M191
+Okay.
+
+PATIENT M191
+@@@ a rush @@@.
+
+DOCTOR M191
+Ok.  You can get it @@@ today.
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+Are you totally out or?
+
+PATIENT M191
+Well, the @@@ I am out of, @@@ I'm out, @@@ I believe.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+Yeah.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+It was for that time I had that bleeding and you give it to me.
+
+DOCTOR M191
+Yeah, yeah.  Um so what do we need to accomplish today?  @@@ any questions.
+
+PATIENT M191
+I don't know, @@@ to get a check-up.
+
+DOCTOR M191
+Very good.  Um, any basic complaints?
+
+PATIENT M191
+No, no.
+
+DOCTOR M191
+Any changes in your health?
+
+PATIENT M191
+No, no, no.
+
+DOCTOR M191
+Things doing okay at home?
+
+PATIENT M191
+Oh, no I'm not at home anymore.  That's why I had to change the address on you.
+
+DOCTOR M191
+What happened?
+
+PATIENT M191
+Uh, @@@ group here.  I have no idea.  I had to smoke and I had to you know stop @@@ stuff like that.
+
+DOCTOR M191
+What happened?
+
+PATIENT M191
+She uh, just I don't know she been just kind of weepy or something.  I have no idea what's going on with her and she asked me to leave.  I'm like, well why do I got to leave?  So anyway I found me a place to stay so it's no big deal you know.  You know I am on disability.
+
+DOCTOR M191
+Uh-huh.
+
+PATIENT M191
+You know, oh yeah I have a new phone number too.  I have to give you.  @@@ I believe.
+
+DOCTOR M191
+It's been @@@.
+
+PATIENT M191
+Right.
+
+DOCTOR M191
+@@@ new one?
+
+PATIENT M191
+That's what I want yeah.
+
+DOCTOR M191
+I'm going to update the phone numbers and your number is @@@.
+
+PATIENT M191
+No, no.
+
+DOCTOR M191
+They'll change it up front.
+
+PATIENT M191
+Oh okay.
+
+DOCTOR M191
+So, there was a marital problems?  @@@.
+
+PATIENT M191
+Yeah.
+
+DOCTOR M191
+I mean all of a sudden she asked you to leave kind of out of the blue or?
+
+PATIENT M191
+Yeah out of the blue.  She was out in the @@@ with my grandkids for about five weeks and @@@ around long you know.  Things were all fine I thought and I thought the next thing I know there's a deputy sheriff coming to my door.
+
+DOCTOR M191
+Did you get a deposition?
+
+PATIENT M191
+A deputy sheriff.
+
+DOCTOR M191
+Oh deputy sheriff?
+
+PATIENT M191
+Yeah, what uh for you know physical abuse, sexual abuse, taking her car without permission.  I'm like what is she going off the wall, what are you talking about, you.  It totally threw me.  You know and I had to show up, I had a colonoscopy that day.  @@@.  This is for what, it's all BS.  So anyway, the next thing I know I get an order for eviction.  I'm like what you doing now.  You know my kids were all so out of it, they were like they don't know what's going on.
+
+DOCTOR M191
+Hmm.
+
+PATIENT M191
+Unbelievable, so that's why I'm having problems with insurance cause they won't take Blue Cross/Blue Shield because she cut me off of that you know.  So that's why I talked to a counselor or just something for right now.  @@@.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+Well the only thing I got now is Medicare, I might have supplement plan, I have a co-pay here @@@ you know.
+
+DOCTOR M191
+Yeah um.
+
+PATIENT M191
+If I have to be, yeah I'll be up on it.
+
+DOCTOR M191
+Was that recently?
+
+PATIENT M191
+Yeah @@@.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+Yeah it was kind of, it was rough on kids.  I got four kids and I got 10 grandkids.
+
+DOCTOR M191
+How old is your youngest son?
+
+PATIENT M191
+27.
+
+DOCTOR M191
+Wow.
+
+PATIENT M191
+@@@ my oldest is 39 and the youngest is 27.
+
+DOCTOR M191
+Um.
+
+PATIENT M191
+It's a weird world.
+
+DOCTOR M191
+Wow.  Uh, at any rate though, is everything else doing okay?
+
+PATIENT M191
+Yeah I have no problem.
+
+DOCTOR M191
+No chest pain?
+
+PATIENT M191
+No.
+
+DOCTOR M191
+Chest discomfort when you exert yourself.
+
+PATIENT M191
+No.
+
+DOCTOR M191
+Shortness of breath?
+
+PATIENT M191
+No.
+
+DOCTOR M191
+Problem with @@@.
+
+PATIENT M191
+@@@ I been smoking @@@ pack a day.
+
+DOCTOR M191
+Yeah 3/4.
+
+PATIENT M191
+So.
+
+DOCTOR M191
+When do you think you'll quit?
+
+PATIENT M191
+Going to quit?
+
+DOCTOR M191
+Are you weaning yourself off?
+
+PATIENT M191
+I'm weaning myself off yeah.
+
+DOCTOR M191
+Okay.
+
+PATIENT M191
+I think that's the best way to go.  Now I'm also @@@ Plavix.  Do I have to still take it or not?  
+
+DOCTOR M191
+Yeah.
+
+PATIENT M191
+I do.
+
+DOCTOR M191
+Yeah.
+
+PATIENT M191
+Oh okay.
+
+DOCTOR M191
+Absolutely.
+
+PATIENT M191
+I’ve been out a month.
+
+DOCTOR M191
+Life long.
+
+PATIENT M191
+Life long?
+
+DOCTOR M191
+Yeah, well at least another month, but if you can take it life long you should um.
+
+PATIENT M191
+Alright.
+
+DOCTOR M191
+Like if there are other things we need to discuss @@@ today and I'm going to call the GI back and just make sure it’s okay from their end.
+
+PATIENT M191
+No and there's another one for this?
+
+DOCTOR M191
+Glipizide?
+
+PATIENT M191
+Yeah.
+
+DOCTOR M191
+Okay.
+
+PATIENT M191
+And then this.
+
+DOCTOR M191
+You need to take the @@@. You basically need refills on everything.
+
+PATIENT M191
+Basically yeah.  See with all my stuff of moving out of the house, everything got screwed up.  And also @@@ is not from here, it's from DOCTOR for Plavix.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+Yeah that's what I mean.
+
+DOCTOR M191
+Which doctor prescribed this for you?
+
+PATIENT M191
+No that's for psychiatrist for my uh disability.
+
+DOCTOR M191
+Okay.  I'm going to let this doctor refill this medicine for you because he has all your records from your psychiatric @@@.
+
+PATIENT M191
+Oh, okay, alright, alright.
+
+DOCTOR M191
+I feel more comfortable asking him.
+
+PATIENT M191
+Okay.
+
+DOCTOR M191
+Refill this medicine.  I'm not a psychiatrist.  I can give you @@@ but he has been following you for that.
+
+PATIENT M191
+Uh-huh.
+
+DOCTOR M191
+I want to leave it up to him.
+
+PATIENT M191
+Okay.
+
+DOCTOR M191
+If he wants to speak to me anytime for other medicines that @@@ I'm totally fine with that.
+
+PATIENT M191
+Okay, fine, alright, uh-huh, gotcha.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+Are you checking your blood pressure at all home?
+
+PATIENT M191
+No.
+
+DOCTOR M191
+You're not.  Are you checking um blood sugars?
+
+PATIENT M191
+I'm not having any problem with it.
+
+DOCTOR M191
+Okay.  Um.
+
+PATIENT M191
+Really it's been low, it's not been high.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+Oh, okay.
+
+DOCTOR M191
+Has it been low.
+
+PATIENT M191
+Yeah @@@.
+
+DOCTOR M191
+Okay.
+
+PATIENT M191
+I can feel it when it gets real low like about 60.  I don't like it that low.
+
+DOCTOR M191
+Like when does that happen?
+
+PATIENT M191
+I don't know, @@@ it just goes low.
+
+DOCTOR M191
+You're not eating and that's what happens or?
+
+PATIENT M191
+I think when I'm not eating.
+
+DOCTOR M191
+When you're not eating.
+
+PATIENT M191
+Right, right.
+
+DOCTOR M191
+You got to be sure to eat three meals a day @@@.
+
+PATIENT M191
+Right, right, right, right.
+
+DOCTOR M191
+How long @@@.
+
+PATIENT M191
+Uh, it depends you know.  It's all different.  I don't know.  I keep track of it and I don't you know.  I really @@@.
+
+DOCTOR M191
+Once a week, twice a week?
+
+PATIENT M191
+Yeah something like that.  Once a week.
+
+DOCTOR M191
+Um, have you been sweating, @@@ dizzy.
+
+PATIENT M191
+Yeah, I @@@ that's when it's low.
+
+DOCTOR M191
+Um.
+
+PATIENT M191
+So then I find a piece of candy here something to boost it up you know.
+
+DOCTOR M191
+Passing out at all?
+
+PATIENT M191
+No, @@@.
+
+DOCTOR M191
+Um, you couldn’t tolerate the metformin @@@.
+
+PATIENT M191
+Oh yeah.
+
+DOCTOR M191
+@@@ right?
+
+PATIENT M191
+Right.
+
+DOCTOR M191
+Is that it?
+
+PATIENT M191
+Right.
+
+DOCTOR M191
+Um.
+
+PATIENT M191
+But that could have been from the ulcer that was there already, I don't know.  But here @@@ GI doctor @@@ but I don't know.  But you know I didn't know it had to be coated.  Said regular aspirin are not good you have to have it coated but I never had it coated.
+
+DOCTOR M191
+Okay.
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+I am trying to remember what happened with the metformin, the diabetes medicine.
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+Yeah I didn't like it.
+
+DOCTOR M191
+Okay.  
+
+PATIENT M191
+They send it out.  See some @@@ won't even tell you the doses.  They tell you, you know what it's for.
+
+DOCTOR M191
+Yeah.
+
+PATIENT M191
+@@@ I don’t know what it’s for. What is it?
+
+DOCTOR M191
+Piroxicam, you take for depression um, @@@ imbalance.
+
+PATIENT M191
+Really?
+
+DOCTOR M191
+Yeah. 
+
+PATIENT M191
+I didn't know that.
+
+DOCTOR M191
+Do you see a psychiatrist on the outside?
+
+PATIENT M191
+Yeah, yeah.  I see him like once every four months.
+
+DOCTOR M191
+Why do you see him?
+
+PATIENT M191
+Because I have uh, what you call agoraphobia.
+
+DOCTOR M191
+Yeah.
+
+PATIENT M191
+Yeah that's why.  He keeps track of it.
+
+DOCTOR M191
+Okay um why don't you sit up here and let's take a look at you @@@.
+
+PATIENT M191
+Those rattle.  @@@.  It's starting to get warm out.
+
+DOCTOR M191
+Um.  
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+What'd you say?
+
+PATIENT M191
+It's good I came @@@.
+
+DOCTOR M191
+Yeah.  I'm going to lift your shirt.  Deep breath.  Can you lie down for me?  Can you sit up?  @@@ take off your shoes and socks so I can take a look at your feet.
+
+PATIENT M191
+@@@.  
+
+DOCTOR M191
+@@@ call on the GI doctor as well.
+
+PATIENT M191
+Okay.  And also I got to make an appointment with the heart - cardiologist.
+
+DOCTOR M191
+You got one coming up?
+
+PATIENT M191
+Yeah I had one and they said the letter too late and I forgot all about it.
+
+DOCTOR M191
+Hmm.
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+(Doctor makes phone call to GI.)  So we'll figure out the aspirin.
+
+PATIENT M191
+Uh-huh.
+
+DOCTOR M191
+Um okay.  Oh let me take a look at your feet.  @@@  Okay.  Do you feel that?
+
+PATIENT M191
+Yeah I feel something.
+
+DOCTOR M191
+On the left?
+
+PATIENT M191
+Oh yeah.
+
+DOCTOR M191
+And there?
+
+PATIENT M191
+Yes.
+
+DOCTOR M191
+Now I just want to let you know, right here yeah.  The big thing is smoking um.  
+
+PATIENT M191
+Yeah.
+
+DOCTOR M191
+I can't stress to you know how important it is to quit.
+
+PATIENT M191
+I know, I know.
+
+DOCTOR M191
+We don’t know why you had a stroke.
+
+PATIENT M191
+Right.
+
+DOCTOR M191
+And on top of that you also had sensation in your chest pain @@@ cause a heart attack.
+
+PATIENT M191
+Yeah.  When was the @@@.
+
+DOCTOR M191
+No it was @@@ coronary arteries.
+
+PATIENT M191
+Oh okay.  @@@ stop smoking right.
+
+DOCTOR M191
+It's, so you have a bunch of arteries that run through your heart and it's inside of heart @@@.
+
+PATIENT M191
+Right.
+
+DOCTOR M191
+Blood, @@@ heart muscle.
+
+PATIENT M191
+Right.
+
+DOCTOR M191
+After a heart attack if you have some plaque within those coronary arteries or cholesterol.
+
+PATIENT M191
+Right.
+
+DOCTOR M191
+And @@@ weakening vessel wall and what happens is your smoking can cause clotting of the artery.
+
+PATIENT M191
+Uh-huh.
+
+DOCTOR M191
+Causes a heart attack and kills the heart muscle.
+
+PATIENT M191
+Oh.
+
+DOCTOR M191
+Around it.
+
+PATIENT M191
+That’s interesting.
+
+DOCTOR M191
+We caught yours before.
+
+PATIENT M191
+Yeah right, @@@.
+
+DOCTOR M191
+Before it causes the clot.
+
+PATIENT M191
+Yeah.
+
+DOCTOR M191
+And it's a good thing we did, but one of the reasons you had that is because you smoke.
+
+PATIENT M191
+Okay.
+
+DOCTOR M191
+So.
+
+PATIENT M191
+I'm not @@@ ready for that yet.
+
+DOCTOR M191
+You're at risk for another heart attack; you're also at risk for another stroke.
+
+PATIENT M191
+Oh okay.
+
+DOCTOR M191
+Um it increases your risk tremendously just by smoking.
+
+PATIENT M191
+Okay.
+
+DOCTOR M191
+On top of that your lungs, you know, 5-10 years down the road.
+
+PATIENT M191
+Yeah.
+
+DOCTOR M191
+That also have what is called emphysema.
+
+PATIENT M191
+Yeah I know.
+
+DOCTOR M191
+COPD.  If you don't already have a little bit.  Now if you continue to smoke that'll just get worse.
+
+PATIENT M191
+I understand.
+
+DOCTOR M191
+If you stop smoking, any lethal damage to your lungs.
+
+PATIENT M191
+Will heal that right?
+
+DOCTOR M191
+It might not heal but the lungs won't get worse.  Does that make sense?
+
+PATIENT M191
+Yeah.
+
+DOCTOR M191
+And you're setting yourself for some major problems if you continue to smoke.
+
+PATIENT M191
+Okay.  I will quit entirely.  It's not worth that.
+
+DOCTOR M191
+Yeah, um.  Give me a couple of minutes and I will be back okay.
+
+PATIENT M191
+Okay.  @@@ back in the single life @@@.
+
+DOCTOR M191
+@@@ look at Viagra.
+
+PATIENT M191
+Yeah @@@.
+
+DOCTOR M191
+Are you sexually active any more at all?
+
+PATIENT M191
+Well.
+
+DOCTOR M191
+Um okay.  Are you having problems with erections?
+
+PATIENT M191
+Oh once in a while yeah.
+
+DOCTOR M191
+Is it sustaining an erection or getting an erection?
+
+PATIENT M191
+Sustaining.
+
+DOCTOR M191
+Cause the Viagra won't help with sustaining it.
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+It will help with getting an erection.
+
+PATIENT M191
+Okay.
+
+DOCTOR M191
+Again, I think.
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+I would ask the cardiologist and just have him @@@.
+
+PATIENT M191
+Okay.
+
+DOCTOR M191
+Um @@@ blood pressure can affect the heart and I don't think you know that it's a problem @@@ something that the Viagra would help.
+
+PATIENT M191
+Alright, no problem.
+
+DOCTOR M191
+Um and I’m trying to think of what else @@@.  We can do labs today and @@@.  Okay give me a couple of minutes.  @@@.
+
+PATIENT M191
+No problem.
+
+(DOCTOR OUT 37:11  DOCTOR IN:  48:40)
+
+DOCTOR M191
+Okay.
+
+PATIENT M191
+@@@ what's going on out there?
+
+DOCTOR M191
+@@@ change a couple of the medicines a little bit.
+
+PATIENT M191
+Okay.  @@@.
+
+DOCTOR M191
+@@@. (doctor working on computer)  
+
+PATIENT M191
+Alright.  @@@.
+
+DOCTOR M191
+Uh let me see.  @@@ You're all set.  This is omeprazole; I'm going to change it to something called pantoprazole.  @@@ Plavix.
+
+PATIENT M191
+Right.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+Oh.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+Okay.
+
+DOCTOR M191
+Um and then the other thing too @@@.
+
+PATIENT M191
+Uh-huh.
+
+DOCTOR M191
+So I'm going to put @@@.
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+Okay.
+
+PATIENT M191
+@@@.  Okay.
+
+DOCTOR M191
+Um let me see here.
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+When's your date of birth?
+
+PATIENT M191
+09/20/47.
+
+DOCTOR M191
+Okay.  Alright and then @@@.  Have you seen the eye doctor recently?
+
+PATIENT M191
+No.
+
+DOCTOR M191
+@@@ you have to see the eye doctor @@@ okay.
+
+PATIENT M191
+Okay.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+Oh okay.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+@@@ You got it.  Take care.  @@@ I'll see you in four months.
+
+PATIENT M191
+Okay.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+@@@ for me?
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+@@@.
+
+DOCTOR M191
+I don’t have control over that.
+
+PATIENT M191
+@@@.  Very nice meeting you. @@@.
+
+DOCTOR M191
+@@@.
+
+PATIENT M191
+@@@ alright, no problem.  Take care.
+
+PATIENT LEAVES  56:06
+
+Time is @@@
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238096
+TRANSACTION # 578-10-2-316-0103

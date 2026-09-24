@@ -1,0 +1,760 @@
+Date of Encounter:    @@/@@/@@
+Time of Encounter:    @@@
+
+DOCTOR J581
+PATIENT?  
+
+PATIENT J581
+How you doing? 
+
+DOCTOR J581
+Doing fine.  How are you?
+
+PATIENT J581
+Good morning.
+
+DOCTOR J581
+Good morning sir.
+
+PATIENT J581
+Alright.
+
+DOCTOR J581
+Good to see you.
+
+PATIENT J581
+Good to be seen.
+
+DOCTOR J581
+Come on back.
+
+PATIENT J581
+Uh.  So you're not way in back anymore?
+
+DOCTOR J581
+Yeah there's, you know, moving and shaking it.
+
+PATIENT J581
+Okay, where do you want me?
+
+DOCTOR J581
+Right here is fine.
+
+PATIENT J581
+Okay.
+
+DOCTOR J581
+How are you?
+
+PATIENT J581
+Alright.
+
+DOCTOR J581
+How you been doing?
+
+PATIENT J581
+Good.
+
+DOCTOR J581
+Good.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+So let's see, what's new?
+
+PATIENT J581
+Not too much.  No problems, no pain, no aches.
+
+DOCTOR J581
+Good.  So um, let's see I wanted to get some labs um this morning to check the.
+
+PATIENT J581
+I know I've been down there.
+
+DOCTOR J581
+I saw that.  So, yeah I know where it is, okay it's a little lower than before, 2.05, the last one was 2.48.
+
+PATIENT J581
+Okay.
+
+DOCTOR J581
+Uh so it's still therapeutic.  Um did you eat this morning?
+
+PATIENT J581
+Yeah, well I've had some small rolls.
+
+DOCTOR J581
+Some rolls.
+
+PATIENT J581
+Uh with cinnamon and nut you know.
+
+DOCTOR J581
+So.
+
+PATIENT J581
+But uh.
+
+DOCTOR J581
+Your sugar today was 226 which is not very good.  But you ate this morning.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+And you got send a fasting specimen.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+I’d like to see it less.  The problem is the number that I really wanted was this glycosylated hemoglobin, that's the hemoglobin A1c number.  The drew it, but it's still running in lab because that's the number that tells us how you've been doing with your sugars over a three months span.
+
+PATIENT J581
+Hmm.  Oh.
+
+DOCTOR J581
+So it's our best way to see you know where you're at.
+
+PATIENT J581
+Uh-huh.
+
+DOCTOR J581
+Your last one, cause when did I see you last?
+
+PATIENT J581
+Couple months ago.
+
+DOCTOR J581
+Was it in February?
+
+PATIENT J581
+I think.
+
+DOCTOR J581
+It was 9.9, which is high and you want to be below 7.
+
+PATIENT J581
+Okay.
+
+DOCTOR J581
+And your last one was 8.7 so depending on how you've been doing; we may have to change up some of your medications uh today, because you weren't taking the metformin right?
+
+PATIENT J581
+Right.
+
+DOCTOR J581
+So we switched you to the longer acting, just the one dose but 1000 mg right?
+
+PATIENT J581
+I guess.
+
+DOCTOR J581
+Have you been taking it?
+
+PATIENT J581
+No.
+
+DOCTOR J581
+No.  Why?
+
+PATIENT J581
+Uh I don't know.  I was still getting the diarrhea.
+
+DOCTOR J581
+Even this one?
+
+PATIENT J581
+No I haven't taken this one yet.
+
+DOCTOR J581
+So I thought we talked about this last time that the reason we switched this one.
+
+PATIENT J581
+I didn't know we switched, I thought I was still doing the regular metformin.
+
+DOCTOR J581
+No this one, remember we said we were gonna give you the one that was one pill 1000 mg because it has been shown to have less GI side effects, less diarrhea than the other one.
+
+PATIENT J581
+Oh okay.  Alright.
+
+DOCTOR J581
+So did they send those to you?
+
+PATIENT J581
+Yeah I got them.
+
+DOCTOR J581
+Yeah and you just didn't take them.
+
+PATIENT J581
+Right.
+
+DOCTOR J581
+Okay.  So we definitely want to try that.
+
+PATIENT J581
+Okay.  Oh I got confused.  I guess I wasn't aware of that.
+
+DOCTOR J581
+Yeah.
+
+PATIENT J581
+That you changed the pill.
+
+DOCTOR J581
+Right.  So uh you know I.
+
+PATIENT J581
+Okay.
+
+DOCTOR J581
+You definitely want to try that.
+
+PATIENT J581
+Alright.
+
+DOCTOR J581
+Because I'm guessing since you are not taking it, your hemoglobin level, the sugar levels going to be real high.  
+
+PATIENT J581
+Okay.
+
+DOCTOR J581
+And you're still taking the glyburide right?
+
+PATIENT J581
+Right.
+
+DOCTOR J581
+10 twice a day and what else, that's it right?
+
+PATIENT J581
+No.  Carvedilol or whatever.
+
+DOCTOR J581
+Well no for diabetes, just the.
+
+PATIENT J581
+Oh.
+
+DOCTOR J581
+The carvedilol.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+The aspirin, the albuterol when you need it, the inhaler.
+
+PATIENT J581
+Uh yeah.
+
+DOCTOR J581
+The Combivent medicine or Combivent inhaler.  The metformin, the lisinopril, you take the simvastatin and the Coumadin.
+
+PATIENT J581
+Right.
+
+DOCTOR J581
+And the Coumadin.
+
+PATIENT J581
+Right.
+
+DOCTOR J581
+Okay.  Otherwise how you been doing?
+
+PATIENT J581
+Fine, no problems.
+
+DOCTOR J581
+Another thing that we had to do was the Sleep Clinic.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+Just because we had talked about that, but you cancelled your appointment and said you didn't want to be seen.
+
+PATIENT J581
+Yeah I, I don't.
+
+DOCTOR J581
+So what happened?
+
+PATIENT J581
+Uh well I wasn't sure you know.  Like I say um I can't see where that's gonna be any benefit to me.  I mean I'm you know, I sleep fine.
+
+DOCTOR J581
+Well yeah, you do sleep fine but uh the problem is that the last sleep study that you had showed concern for a type of sleep apnea that we call central sleep apnea which could be a result of the previous strokes, cause you've had strokes in the past right?
+
+PATIENT J581
+In 2002 I had two strokes, that's the only strokes I've had.
+
+DOCTOR J581
+So you know that's what is very important for your future health.  We want to make sure that you in fact need it and that's why I wanted to do the sleep study test.  You know what I'm saying?
+
+PATIENT J581
+Yeah.  Well like I said I know a lot of people that have CPAPs and that uh, they don't use them anymore.  They put it aside.
+
+DOCTOR J581
+But that's that could be fine for them.
+
+PATIENT J581
+And uh.
+
+DOCTOR J581
+But you have different reasons why you need it.
+
+PATIENT J581
+Well also too uh one reason was the guy said it costs me $1000 and I ate got that kind of money.
+
+DOCTOR J581
+That's what he told you?
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+Okay.  Well I'm sure there are ways that we could subsidize that through the VA or something.  I'll have to look into that.
+
+PATIENT J581
+Right, well that's what the guy told me and that's why I said.
+
+DOCTOR J581
+I still think it, I still think it'd be worthwhile for you to be seen in that clinic but you're not interested at all?
+
+PATIENT J581
+No I'm not.  I'm not really interested in it.
+
+DOCTOR J581
+Okay.  Um because you know just so you know the danger of sleep apnea is you know increased blood pressure and um it can have effects on your lungs and your heart that can be, you know and given your diabetes and you're already uh history of heart failure and things like that, those are.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+You know what I mean it's uh; it will worsen those things if not treated.  So I just want you to be aware of that.
+
+PATIENT J581
+Yeah right, I know.
+
+DOCTOR J581
+And it's, you know, it's ultimately your decision what you do.
+
+PATIENT J581
+Right.
+
+DOCTOR J581
+But I just want you to know.
+
+PATIENT J581
+I just as soon forget it.
+
+DOCTOR J581
+Okay.  Um and I saw that you saw the uh, you were seen in the Podiatry Clinic.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+Did they fix up your toes a little bit better?
+
+PATIENT J581
+Yeah, yeah.  I go to go back to them.
+
+DOCTOR J581
+Three months.
+
+PATIENT J581
+Oh three months from then.
+
+DOCTOR J581
+Oh from when they saw you.
+
+PATIENT J581
+From when they saw me.
+
+DOCTOR J581
+So um the only other thing is a colonoscopy.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+And uh they wanted me to let you know that you are at a little bit higher risk for that procedure um because of the sleep apnea, because of your COPD.  When they sedate you, uh sometimes it's just a little bit more dangerous um in those people because of your previous heart condition and your previous lung @@@.
+
+PATIENT J581
+Uh-huh, yeah.
+
+DOCTOR J581
+But they monitor all those things.
+
+PATIENT J581
+Right.
+
+DOCTOR J581
+They just want you to be aware of that.
+
+PATIENT J581
+Right.
+
+DOCTOR J581
+They wanted me to document that I talked to you about that.
+
+PATIENT J581
+Right.  Well when you say um a risk or whatever uh, I've never heard that before on a colonoscopy about being uh.
+
+DOCTOR J581
+Well because, it's because of the medicines that they give you to sedate you.  Um you know because you have the previous stroke and the atrial fibrillation and the COPD and the heart failure and the sleep apnea, you know it sometimes, the sedation is dangerous, it can depress your drive to breathe and sometimes will require people to be intubated you know.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+And that's the danger with that and so um, you know I wanted to make you aware of that and uh.
+
+PATIENT J581
+Well when you think about the risk.
+
+DOCTOR J581
+Right it's definitely increased because of your uh, you know underlying conditions.  I'm going to talk with my attending about it today and see.
+
+PATIENT J581
+Well.
+
+DOCTOR J581
+What he thinks but I.
+
+PATIENT J581
+Yeah well if I don't have a colonoscopy I mean there's a risk too.
+
+DOCTOR J581
+There's a risk of that too obviously.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+So I mean unfortunately you're a little bit between a rock and a hard place.  I think that, I think you'd probably be fine.  They like to be sure uh that we're comfortable with that.  So that's the only problem.
+
+PATIENT J581
+Well you'd be a better judge of that than I am.
+
+DOCTOR J581
+No absolutely.  Um and that's the only problem with the sleep apnea too is the fact that you're not using the CPAP at all so it puts you at a higher risk than someone.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+Someone that you know what I mean so, so.
+
+PATIENT J581
+I'll take a shot what the hell.  If I die, I die.
+
+DOCTOR J581
+Okay.  Well I don't.
+
+PATIENT J581
+I'm a Catholic, I that's just the beginning.
+
+DOCTOR J581
+Fair enough but uh I think we would obviously want to prevent that.
+
+PATIENT J581
+I know I would like to prevent it too.
+
+DOCTOR J581
+And I don't think that it will, I don't think it would come to that but uh.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+I'll ask my attending to make sure he's comfortable with it, but I think.
+
+PATIENT J581
+Okay.
+
+DOCTOR J581
+It should be okay.
+
+PATIENT J581
+Alright.
+
+DOCTOR J581
+Otherwise you're good on your meds?
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+You have all your refills and things?
+
+PATIENT J581
+Yeah, yeah.
+
+DOCTOR J581
+Any recent weight changes, headaches, vision changes, fevers, chills, chest pain, shortness of breath, things like that?
+
+PATIENT J581
+No.
+
+DOCTOR J581
+Doing okay otherwise?
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+Okay.  Um cause the last time you said that your energy level had been down over the past six months to a year, do you still feel that way?
+
+PATIENT J581
+Yeah I'm 63.  I mean that's the problem with getting older.  You don't know, something happens and you don't know, is this something to be concerned about or is this just part of the aging process?
+
+DOCTOR J581
+Yeah.
+
+PATIENT J581
+I mean there's no book on aging.
+
+DOCTOR J581
+Right.  I definitely think that some of your uh fatigue is probably caused from the sleep apnea.
+
+PATIENT J581
+Uh.
+
+DOCTOR J581
+And so you know you can expect to be a little tired because you know, understand again what happens is that your throat closes when you're sleeping.
+
+PATIENT J581
+Oh.
+
+DOCTOR J581
+Because of the tissue in your neck.
+
+PATIENT J581
+Uh-huh.
+
+DOCTOR J581
+You stop breathing.
+
+PATIENT J581
+Uh-huh.
+
+DOCTOR J581
+But your body wakes you up enough that it allows you to take a deep breath but it doesn't actually wake you up so you don't know this is happening.  So um, so you never get into the dream state of sleep and so you wake up real tired.
+
+PATIENT J581
+Oh.
+
+DOCTOR J581
+The only way, unfortunately, to correct that is to use the CPAP machine.
+
+PATIENT J581
+Yeah well.
+
+DOCTOR J581
+And you're not interested in that.
+
+PATIENT J581
+No.
+
+DOCTOR J581
+So then there will be a component of fatigue.
+
+PATIENT J581
+Right.
+
+DOCTOR J581
+And uh but um no shortness of breath, no sore throats, no weakness in your legs, you know urinating, moving your bowels okay, no problems?
+
+PATIENT J581
+Oh yeah.
+
+DOCTOR J581
+Your vision's okay?
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+Good.  Well have a seat up here I'm just going to take a quick listen to you and then have a seat.  What else is new, anything?
+
+PATIENT J581
+Nothing really.
+
+DOCTOR J581
+What'd you give up for Lent?
+
+PATIENT J581
+Nothing (laughter).  I didn't tell you I was a devout Catholic.
+
+DOCTOR J581
+Yeah.  Deep breaths.  Again, again, one more.  Okay.  Are you losing any weight at all?
+
+PATIENT J581
+Uh no.
+
+DOCTOR J581
+No, are you trying?
+
+PATIENT J581
+No.  I'm was back when I had my stroke @@@.
+
+DOCTOR J581
+How much do you weigh now?
+
+PATIENT J581
+250.  I tell you, I don't eat a lot uh you know.
+
+DOCTOR J581
+Yeah.  Alright uh yeah, so the glycosylated hemoglobin number is 10, up from 9.9 so you're headed in the wrong direction.  But if you haven't been taking the metformin.
+
+PATIENT J581
+I'll start taking it.
+
+DOCTOR J581
+Cause the problem is that if you don't take the metformin, the next thing to do is insulin shots.
+
+PATIENT J581
+Right.
+
+DOCTOR J581
+And uh do you want me to just switch to that now?
+
+PATIENT J581
+No.
+
+DOCTOR J581
+Cause that's where we're heading.  The problem is that if we don't get your sugars under control, um we're going to put you on insulin.
+
+PATIENT J581
+Okay.
+
+DOCTOR J581
+You know what I mean so.  We really need to get the metformin going but.
+
+PATIENT J581
+Uh no like I said I'll do a better job of my sugar intakes.
+
+DOCTOR J581
+Okay.  But you're also; I think your body is just to the point where it needs medicine anyway.  It's not, I mean you still need to monitor your sugar intake, you know low carbs, no; you know less bread, less pastas all that stuff.
+
+PATIENT J581
+Right, right.
+
+DOCTOR J581
+Um but um your body needs help now because your pancreas is kind of shot at this point and so uh we need to give you these medicines to help.  So it's really important that you do take that metformin.
+
+PATIENT J581
+Okay, I'll take it when I get home.
+
+DOCTOR J581
+And let me know, if it's still not working.  You know and you're still getting the diarrhea.
+
+PATIENT J581
+Uh-huh.
+
+DOCTOR J581
+And things like that then we may have to switch you to the insulin.
+
+PATIENT J581
+Alright.
+
+DOCTOR J581
+Okay.
+
+PATIENT J581
+Okay.
+
+DOCTOR J581
+Alright.  Let me chat with them real quick and I'll be right back.
+
+PATIENT J581
+Okay, okay.
+
+(DOCTOR OUT:  58:16  DOCTOR IN:  67:24)
+
+DOCTOR J581
+Okay, well you know I spoke to my attending and looking back at you know.  The reason we were doing colonoscopy is because you've never had it before.
+
+PATIENT J581
+Yeah.
+
+DOCTOR J581
+The truth is that the stool cards you've had uh in the past were negative.  You do have a lot of risks.  I don't want to mess with it so let's do the stool cards like you did before.
+
+PATIENT J581
+Alright.
+
+DOCTOR J581
+You know how to do these and everything?
+
+PATIENT J581
+Oh yeah.
+
+DOCTOR J581
+Okay.
+
+PATIENT J581
+Okay.
+
+DOCTOR J581
+And then uh I would like you to follow up in 3-4 weeks with one of our pharmacists here, just to make sure that the medications working okay, that metformin.
+
+PATIENT J581
+Okay.
+
+DOCTOR J581
+Um uh because I don't want you to go and not be taking…
+
+PATIENT J581
+Right.
+
+DOCTOR J581
+Just because of the side effects.
+
+PATIENT J581
+Alright.  Okie doke.
+
+DOCTOR J581
+And then um you know uh that's about it and I'll see you in three months.
+
+PATIENT J581
+Okay.  Take it easy doc.
+
+DOCTOR J581
+Alrighty.  This is for you.
+
+PATIENT J581
+Oh.
+
+DOCTOR J581
+It's something for when you check out.
+
+PATIENT J581
+Oh yeah.
+
+DOCTOR J581
+Okay.
+
+PATIENT J581
+Yeah take it easy.
+
+DOCTOR J581
+Thanks.
+
+PATIENT LEAVES:  68:52
+
+Time is 9:25.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249442
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,358 @@
+Date of Encounter:  @@/@@/@@   
+Time of Encounter:  @@@ 
+
+DOCTOR N372
+PATIENT?
+
+PATIENT N372
+Over here.
+
+DOCTOR N372
+Oh sorry, I'm so sorry hi.
+
+PATIENT N372
+How you doing?
+
+DOCTOR N372
+How are you?  Good to see you again, both of you.  Come on back.  @@@such a rush.
+
+PATIENT N372
+Why don't you push that, maybe it would.
+
+DOCTOR N372
+How are you doing today?
+
+PATIENT N372
+Alright.
+
+DOCTOR N372
+Have a seat.
+
+PATIENT N372
+I called for uh; renew that one prescription, pravastatin.  
+
+DOCTOR N372
+Oh.
+
+PATIENT N372
+And they said I got to talk to a doctor.  Now I looked on my printout, not on there no more anyway.
+
+DOCTOR N372
+Hmm.
+
+PATIENT N372
+I don't take that no more?
+
+DOCTOR N372
+Uh I don't think I got, I didn't get any note saying that you needed more.  I'll check on that.
+
+PATIENT N372
+I just got a printout today.
+
+DOCTOR N372
+Right, yeah.
+
+PATIENT N372
+And it's not on there.
+
+DOCTOR N372
+Have you been taking every day though? Or are you out?
+
+PATIENT N372
+Yes. Yes, I'm out.
+
+DOCTOR N372
+When was the last time you took it?
+
+PATIENT N372
+Oh, I take it at night and it'd be tonight, otherwise it'd be last night or this morning.
+
+DOCTOR N372
+Okay.
+
+PATIENT N372
+Uh it's at nighttime so.  I took it last night.  Why isn't it on my list?
+
+DOCTOR N372
+Um it's expired so.
+
+PATIENT N372
+Oh I get it.
+
+DOCTOR N372
+Let's see.  Would you like it sent to you by mail?
+
+PATIENT N372
+Yeah.
+
+DOCTOR N372
+And then you're levothyroxine or your Synthroid that looks like it's been expired as well.
+
+PATIENT N372
+What is it?
+
+DOCTOR N372
+Your Synthroid, thyroid hormones.
+
+PATIENT N372
+Oh.  No I think that was there, wasn't it?
+
+DOCTOR N372
+Yeah it's called levothyroxine.  Synthroid is the trade name.
+
+PATIENT N372
+Oh.
+
+DOCTOR N372
+Same thing.  So we need to renew that for you.  
+
+PATIENT N372
+Looks like I still got some left on that one, I don't know, whatever.
+
+DOCTOR N372
+Okay.
+
+PATIENT N372
+DOCTOR wants me to keep taking that.
+
+SECOND PERSON N372
+For what reason?  The thyroid?
+
+PATIENT N372
+Yeah.
+
+DOCTOR N372
+Now let's go through medications.  Okay, so overall you've been okay though since the last time I saw you a few months ago?
+
+PATIENT N372
+Now what?
+
+DOCTOR N372
+You've been doing okay since I saw you last?
+
+PATIENT N372
+Yeah.  That's how I play.
+
+DOCTOR N372
+Okay um.
+
+SECOND PERSON N372
+It's amazing how you young people can do that.
+
+DOCTOR N372
+You know, but it takes a lot of practice you have to learn it in school and train your mind.
+
+SECOND PERSON N372
+Yeah, I mean they're training little kids in preschool and that's you know.
+
+DOCTOR N372
+Yeah when I was growing up we learned it when we were in middle school.
+
+SECOND PERSON N372
+Yeah.
+
+DOCTOR N372
+And we didn't, there were no computers @@@.
+
+SECOND PERSON N372
+Oh my God, just when I see your fingers move and I see my little grandkids come over and start just typing away like crazy on the computer.
+
+DOCTOR N372
+Yeah, yeah.  Um okay so you're still taking your Coreg 12.5 twice a day for your heart?
+
+PATIENT N372
+Oh yeah.
+
+DOCTOR N372
+You don't have them memorized, your medications?
+
+PATIENT N372
+Yeah that's like a half a tablet yeah.
+
+DOCTOR N372
+And then the water pill you only take when your foot swells right?
+
+PATIENT N372
+I been taking it every day.
+
+SECOND PERSON N372
+No.
+
+DOCTOR N372
+Did you have it.
+
+SECOND PERSON N372
+Every day, I don't know why cause he keeps going to the bathroom all the time.  Is it necessary for him to take it every day?
+
+DOCTOR N372
+It's um it's not necessary but it helps control your blood pressure and takes like the fluid off.
+
+SECOND PERSON N372
+Oh.
+
+DOCTOR N372
+It's not a bad thing if you're doing both and your blood pressure today was great.
+
+SECOND PERSON N372
+Yeah.
+
+DOCTOR N372
+Um, let's see and then um you're on the pravastatin 40 mg which has been reordered now.  Um and you saw Cardiology.  I had you go see them @@@.
+
+PATIENT N372
+They added and he.
+
+DOCTOR N372
+They started the lisinopril.
+
+PATIENT N372
+Uh-huh.
+
+DOCTOR N372
+Um then they stopped the Plavix.
+
+PATIENT N372
+Right.
+
+DOCTOR N372
+Alright.
+
+SECOND PERSON N372
+Is that a good thing?
+
+DOCTOR N372
+Yeah I mean the Plavix you don't need forever.  It's only for you know a time for a bypass or heart attack or something.  Um and then they also, you still follow with the Coumadin Clinic right?  Your INR today was 2.66 which is good.  Um and then I saw you walk in with a cane, you looked like you were doing fine.  How's that going, any falls or?
+
+PATIENT N372
+I didn't fall.
+
+DOCTOR N372
+No falls.  That's always good.  No falls.
+
+PATIENT N372
+Next spring.
+
+DOCTOR N372
+Um alright and then we're continuing your Synthroid and you did say that DOCTOR already talked to you about that.  Um and in terms of a health maintenance there's really not a whole lot, right now, you know given your age you kind of already had all the shots that you needed and you don't need any more colonoscopies, your last one's normal.  Um and then we talked the last time about following your abdominal aortic aneurysm.  Uh you didn't really have one; it was 2.9 centimeters which may be a little bit more than normal but not quite an aneurysm.  Uh that was seen on CT last summer and then we talked and you didn't really want to follow it every year.  Um so it looks like you're doing pretty well um.
+
+PATIENT N372
+Does it say what my blood test today and Coumadin does it way what it was?  Yeah it was 2. uh actually no, yeah 2.66 today.
+
+DOCTOR N372
+Oh that's good.  Yep.  And I didn't really need you to do any labs this time, but maybe next time. If you wouldn't mind actually now that you're up here, just having a seat on the table.  And I'll just take a quick listen to your heart and lungs.  
+
+PATIENT N372
+Can you pull that out?
+
+DOCTOR N372
+Oh sure, there you go.
+
+DOCTOR N372
+Let me see if I can get it to work, no I don't think it's going to work, sorry.  Sometimes it.
+
+PATIENT N372
+Alright.
+
+DOCTOR N372
+Do I need to help you?
+
+PATIENT N372
+No.
+
+DOCTOR N372
+Okay.  Alright.  Take a quick listen to your neck and then your heart and lungs.  Take deep breaths in and out.  Can you open your mouth for me?  Tongue, okay.  I'm just checking your pulse.  I want to take a look at your legs.  Okay you have just a tiny bit of swelling.  Do you feel like this gets worse when you've been on your feet?
+
+PATIENT N372
+Oh I don't even pay attention, I don't know.
+
+DOCTOR N372
+It's just barely anything but the water pill is good for that so you're okay if you don't have it every day.
+
+PATIENT N372
+That's what I take them for.
+
+DOCTOR N372
+Yeah.  Okay.  Alright I'm going to run over and talk with my attending really quick and I'll be right back okay.
+
+PATIENT N372
+Uh-huh.
+
+DOCTOR N372
+We have to do that unfortunately.
+
+(DOCTOR OUT:  54:11  DOCTOR IN:  56:56)
+
+DOCTOR N372
+Alright.  You're actually good to go um.  I put in all of your refills to be mailed to you.
+
+PATIENT N372
+Okay.
+
+DOCTOR N372
+And then if you need any labs I'll take care of that before and they'll just have the nurse call you but I don't really need to see you back for six months.
+
+PATIENT N372
+Good.
+
+DOCTOR N372
+You're doing pretty good um.  You know the main thing last time was having you see Cardiology and managing your medications and your blood pressure is controlled, that looks perfect.
+
+SECOND PERSON N372
+He's going for eye surgery in June.
+
+DOCTOR N372
+Okay.
+
+PATIENT N372
+Cataracts.
+
+DOCTOR N372
+Oh I see okay good.  Um but besides you know the things we already talked about there's really nothing left for me to do.
+
+SECOND PERSON N372
+Okay.
+
+DOCTOR N372
+So you're doing good.
+
+PATIENT N372
+The only reason I use that wheelchair is cause it's a long walk to the parking lot.
+
+DOCTOR N372
+I know, that's why they're available.  But I watched you walk, you're walking very well.
+
+PATIENT N372
+Yeah.
+
+DOCTOR N372
+With the cane so that's good.
+
+SECOND PERSON N372
+Thank you.
+
+DOCTOR N372
+You're very welcome.  Let me walk you over to this.  Alright sir.
+
+PATIENT N372
+Okay.
+
+DOCTOR N372
+Nice seeing you again, take care.
+
+PATIENT N372
+Take care.
+
+DOCTOR N372
+Take care.
+
+SECOND PERSON N372
+Yeah thank you.
+
+PATIENT LEAVES:  58:10.
+
+Time is 3:50 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255126
+TRANSACTION # 578-10-2-316-0103

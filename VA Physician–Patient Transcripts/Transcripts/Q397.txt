@@ -1,0 +1,1322 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR Q397
+How you doing PATIENT?
+
+PATIENT Q397
+Uh not real well.  
+
+DOCTOR Q397
+Why not?
+
+PATIENT Q397
+Well my blood pressure has been dipping up.
+
+DOCTOR Q397
+What's going on with your blood pressure yeah.
+
+PATIENT Q397
+You know it's getting pretty bad.  I haven't been exercising for about three months.
+
+DOCTOR Q397
+Why not?
+
+PATIENT Q397
+Well because I'm lazy and stupid, that's why but I'll start again okay.
+
+DOCTOR Q397
+Actually, remember we talked about the insulin?
+
+PATIENT Q397
+Yeah.
+
+DOCTOR Q397
+And uh you.
+
+PATIENT Q397
+Yeah.
+
+DOCTOR Q397
+Have a seat.
+
+PATIENT Q397
+Right.  Uh these refills expired.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+You can check on my other ones too to make sure they're not about ready to expire.
+
+DOCTOR Q397
+I read about all involved the urology stuff so uh they're gonna go ahead and uh, they're gonna wait and take a look later right?  As far as the biopsy.
+
+PATIENT Q397
+Uh-huh.
+
+DOCTOR Q397
+Right?
+
+PATIENT Q397
+Okay I had a biopsy on my prostate then I had.
+
+DOCTOR Q397
+And I read all that.
+
+PATIENT Q397
+Okay.  Uh I had an echocardiogram on my heart then I had an echo something on my kidneys and bladders.  How'd those come out?
+
+DOCTOR Q397
+Still looking, one second.  You're taking the glipizide.  I just pulled everything okay.
+
+PATIENT Q397
+Okay good.  
+
+DOCTOR Q397
+Were there other papers with this.  But there's a couple other sheets.
+
+PATIENT Q397
+For what?
+
+DOCTOR Q397
+@@@.  Do you have your med list with you?
+
+PATIENT Q397
+Oh yeah, yeah.
+
+DOCTOR Q397
+@@@.
+
+PATIENT Q397
+Let's see here.
+
+DOCTOR Q397
+We got the ultrasound of your kidneys, it looked okay, alright.  You have a little bit of medical renal disease okay.  We call it medical renal disease so um but and you knew that remember.
+
+PATIENT Q397
+Oh yeah right yeah.
+
+DOCTOR Q397
+Now uh that hasn't changed okay.
+
+PATIENT Q397
+That hasn't changed now?
+
+DOCTOR Q397
+Not the version we have so, it's not bad but it's just, what it's telling me is you know your kidneys look like they've had a little bit of damage to it.
+
+PATIENT Q397
+Yeah.
+
+DOCTOR Q397
+I can tell that just by looking at your labs.
+
+PATIENT Q397
+Right.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+Okay, but it's not real serious or anything?
+
+DOCTOR Q397
+Not yet.
+
+PATIENT Q397
+Alright.
+
+DOCTOR Q397
+The numbers gonna get worse.  It's gonna get worse um just by having the diseases that you do.
+
+PATIENT Q397
+Oh.
+
+DOCTOR Q397
+And your prostate looks a little better.  Those numbers @@@ got a little better since the last time so.
+
+PATIENT Q397
+Yeah.
+
+DOCTOR Q397
+We're going to just follow that.
+
+PATIENT Q397
+Okay.
+
+DOCTOR Q397
+That is what you decided.
+
+PATIENT Q397
+Right.
+
+DOCTOR Q397
+Right?
+
+PATIENT Q397
+Yeah.
+
+DOCTOR Q397
+Follow up on this.
+
+PATIENT Q397
+How about the bladder, they also checked out the bladder.
+
+DOCTOR Q397
+I don't have anything for the bladder.
+
+PATIENT Q397
+Oh.
+
+DOCTOR Q397
+Oh the pelvis yeah.  The bladder was fine.
+
+PATIENT Q397
+Okay that's good, alright.
+
+DOCTOR Q397
+Alright.
+
+PATIENT Q397
+But the kidneys are so so.  The bladder is fine?
+
+DOCTOR Q397
+Bladder is okay.  Kidneys are not normal okay.
+
+PATIENT Q397
+Oh.
+
+DOCTOR Q397
+They're about, they're functioning actually 50% to 60% of normal.
+
+PATIENT Q397
+Alright, okay, alright.
+
+DOCTOR Q397
+Your last hemoglobin A1c was fantastic.  We're gonna recheck it today cause you know.  What have your blood sugars been running at?
+
+PATIENT Q397
+Oh I think yesterday morning was 112, this morning was 135.
+
+DOCTOR Q397
+And your weight, you're still.  You're 180 which is a far improvement from the 190s that you were.
+
+PATIENT Q397
+Right.
+
+DOCTOR Q397
+We're still doing okay there.
+
+PATIENT Q397
+Alright.
+
+DOCTOR Q397
+It looks like you lost four pounds since the last time you saw me.
+
+PATIENT Q397
+Okay.  I uh, yeah I got to get back to the gym you know.
+
+DOCTOR Q397
+Yeah, don't we all.  How are you doing otherwise?
+
+PATIENT Q397
+Well let me see uh about, okay last month I wrenched my back pretty bad okay.
+
+DOCTOR Q397
+Okay.  You need to be careful.
+
+PATIENT Q397
+Yeah I had, it pains like right there but @@@.  I had a pain halfway up the back on this side, on this side okay.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+Uh when I lay on my back or lay down on my side for a while, all of a sudden you know you've got centered.  So I figured well I probably tore a ligament you know and after about three or four weeks it went away.
+
+DOCTOR Q397
+Good.
+
+PATIENT Q397
+And it was fine okay.  Then uh, once in a while I get a little blockage in my uh you know right here, okay.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+No but uh I usually take stool softeners and after a couple of days you know it cleared up okay.
+
+DOCTOR Q397
+Yeah.
+
+PATIENT Q397
+And maybe I have a kidney stone or something you know.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+But uh it cleared up and everything.  Since then everything's been fine okay.
+
+DOCTOR Q397
+Good.
+
+PATIENT Q397
+Like uh today I spent two hours shoveling snow but you know I don't have any aches or pains.
+
+DOCTOR Q397
+Excellent.
+
+PATIENT Q397
+Okay.  Uh.
+
+DOCTOR Q397
+You're not short of breath or anything?
+
+PATIENT Q397
+Uh I always get short of breath you know, cause I don't exercise so you know.  If I'm shoveling for.
+
+DOCTOR Q397
+You don't have any pain @@@.
+
+PATIENT Q397
+Oh no, no, no, no I'd be shoveling for about 20 minutes and then you now I'd have to rest for a while but.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+No pain.  Uh but uh.
+
+DOCTOR Q397
+Um, @@@ here about the colonoscopy.
+
+PATIENT Q397
+Right yeah I'm ready for that you know.  Uh I thought I'd come in today to get the date and everything.
+
+DOCTOR Q397
+Right so I'll order it today, perfect.
+
+PATIENT Q397
+Okay, alright.
+
+DOCTOR Q397
+So I will order it, they'll schedule it but you need to have labs done.  They require a whole bunch of labs before you get the colonoscopy.
+
+PATIENT Q397
+Okay, alright.
+
+DOCTOR Q397
+Do you want to do those today or do you want to come back?
+
+PATIENT Q397
+Well I can come back in a couple of weeks, you know, okay.
+
+DOCTOR Q397
+The problem is um, okay, couple weeks; can we do it sooner than that?
+
+PATIENT Q397
+Uh, okay how about next Friday.
+
+DOCTOR Q397
+You want to come back next Friday?
+
+PATIENT Q397
+Right.
+
+DOCTOR Q397
+Okay, um we'll do that.
+
+PATIENT Q397
+Okay alright.
+
+DOCTOR Q397
+Alright, next Friday I'll order.
+
+PATIENT Q397
+Sure, next Friday, okay.  Alright and I'll come back we’ll take the test and anything.
+
+DOCTOR Q397
+They won't do the test right there, they'll schedule it cause you need to take this prep and everything and they usually schedule it for like a month or so okay.  But they won't do the test right away.  They need to look at these labs and there's a bureaucratic way of doing it.
+
+PATIENT Q397
+Okay, alright.
+
+DOCTOR Q397
+You have to schedule it.  Just because they have a bunch and they need to schedule them.
+
+PATIENT Q397
+Okay, so next Friday.
+
+DOCTOR Q397
+You have labs.
+
+PATIENT Q397
+Oh okay, I'll labs next Friday.
+
+DOCTOR Q397
+Right and then they'll call you to schedule it.
+
+PATIENT Q397
+But they uh.
+
+DOCTOR Q397
+But I put in an order.
+
+PATIENT Q397
+Right.
+
+DOCTOR Q397
+And then they'll call you to schedule it.
+
+PATIENT Q397
+Okay, alright.  Will they just, I mean they do it.  They'll schedule me for the date to do the colonoscopy?
+
+DOCTOR Q397
+Correct.
+
+PATIENT Q397
+Okay alright good.
+
+DOCTOR Q397
+They'll just schedule you to come in and get the information and then uh they'll, at that time give you a date.
+
+PATIENT Q397
+Alright, okay.
+
+DOCTOR Q397
+Then you'll come have the test done.
+
+PATIENT Q397
+Okay the problem I have is my sister usually comes to the house for me but she's in her 70s and she's kind of unreliable.
+
+DOCTOR Q397
+Okay, so what you can do is maybe request a certain day.  Are certain days better?
+
+PATIENT Q397
+No, no uh I'm just wondering who's going to drive me here and take me home.
+
+DOCTOR Q397
+Right someone has to drive you here.
+
+PATIENT Q397
+So.
+
+DOCTOR Q397
+But you'll know like a couple weeks in advance but.
+
+PATIENT Q397
+Okay, well that's what I'm asking, is he gonna get a nurse to do it?
+
+DOCTOR Q397
+Drive you here?
+
+PATIENT Q397
+Yeah, to pick me up and take me home or not?
+
+DOCTOR Q397
+No I don't think someone will do that.  How close, how far away do you live?
+
+PATIENT Q397
+In Cicero.
+
+DOCTOR Q397
+Can you take a bus?
+
+PATIENT Q397
+Uh, well I would drive here, the question is can I get home.
+
+DOCTOR Q397
+You can't drive home after the anesthesia; they just don't want you to.
+
+PATIENT Q397
+Okay.
+
+DOCTOR Q397
+You're not gonna be like snoring and sleeping but you might be a just a little drowsy.  That's why they prefer you take like @@@.
+
+PATIENT Q397
+Ah I see.
+
+DOCTOR Q397
+@@@.
+
+PATIENT Q397
+Alright then.  Oh so there's no uh service at the hospital that would drive me home?
+
+DOCTOR Q397
+Uh no there isn't.  I don't think there is.  I'm not entirely sure.
+
+PATIENT Q397
+Oh.
+
+DOCTOR Q397
+You could ask the travel people about that.
+
+PATIENT Q397
+Okay, I'll talk to my landlady.  Well she brings her son here okay; I'll ask her if she'll do it for me.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+Okay, good enough.  So I'll here Friday, then Friday they'll give me a day for uh.
+
+DOCTOR Q397
+Correct.  I'll put the order in with the labs and then once you get those labs then they will uh they'll take care of it.  Okay.
+
+PATIENT Q397
+Okay good.  Alright, that sounds good.
+
+DOCTOR Q397
+Have taken all of your blood pressure medication?
+
+PATIENT Q397
+Uh yeah, yeah, I'm taking everything religiously every day.
+
+DOCTOR Q397
+I heard you do you uh, definitely, yeah I can tell by how you fill these.
+
+PATIENT Q397
+No it's just I'm not exercising okay.  You know I'm laying in bed, I'm tired and I lay in bed all day you know.  That's what does it.  I'm telling myself I'm being lazy and stupid.
+
+DOCTOR Q397
+How about your medicines.  @@@?
+
+PATIENT Q397
+Okay, uh.
+
+DOCTOR Q397
+Before you @@@.  I might have to add another medication.  I'm gonna check your blood pressure and we're going to try to add one more okay.
+
+PATIENT Q397
+Alright.  Uh, here's my list again.
+
+DOCTOR Q397
+Right, no I saw that.
+
+PATIENT Q397
+Okay, alright.  
+
+DOCTOR Q397
+@@@ What I'm gonna do is kind of a quick listen today.  You saw the eye doctor recently?
+
+PATIENT Q397
+Uh.
+
+DOCTOR Q397
+Last July.
+
+PATIENT Q397
+Yeah and as a matter of fact.
+
+DOCTOR Q397
+@@@.
+
+PATIENT Q397
+They haven't contacted me for the next appointment.  
+
+DOCTOR Q397
+It'll be once a year usually.
+
+PATIENT Q397
+Oh usually once a year okay, oh I thought it was every six months okay alright.  Uh so how did the eye test come out?
+
+DOCTOR Q397
+That looks fine.
+
+PATIENT Q397
+Looks fine okay good, alright, okay.  Glaucoma is under control and you know.  Or macular degeneration yeah or some big mess.
+
+DOCTOR Q397
+Why don't you just hop up there, if your not getting @@@ today I'll order @@@ and you can just head out of here.
+
+PATIENT Q397
+Okay good.  @@@ shoveling snow.  It was tiring you know but, cause I didn't sleep last night @@@ I'm a nervous nelly.
+
+DOCTOR Q397
+Deep breath.  Breathe out; breathe in and out, in and out.  Breathe through your mouth, there you go.  Drink, smoke?
+
+PATIENT Q397
+Uh I have mabye one beer a week and that's it.  No smoking
+
+DOCTOR Q397
+And you don't smoke?  Say ah.
+
+PATIENT Q397
+Ah.
+
+DOCTOR Q397
+Stick your tongue out for me.  Good.
+
+PATIENT Q397
+The only problem I have is with postnasal drip.  Is there anything you can you do about that?
+
+DOCTOR Q397
+@@@.  Do you have a lot of postnasal drip?
+
+PATIENT Q397
+Uh yeah, yeah uh you know.  It used to make me cough a lot sometime, especially in bad weather and stuff like that you know.  I would cough a lot.  It's just like when I lay down, all of a sudden I you know I start coughing.
+
+DOCTOR Q397
+You start coughing when you lay down?
+
+PATIENT Q397
+Well uh yeah.
+
+DOCTOR Q397
+You're legs ever swell up?
+
+PATIENT Q397
+Well.
+
+DOCTOR Q397
+Do your legs ever swell up?
+
+PATIENT Q397
+No.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+They're a little swollen when I get up.
+
+DOCTOR Q397
+Do you cough more after you eat or no?
+
+PATIENT Q397
+Uh.
+
+DOCTOR Q397
+Relax.  Let's keep it palm up, there you go.
+
+PATIENT Q397
+I have a problem with, I can’t switch my palms up.
+
+DOCTOR Q397
+What?
+
+PATIENT Q397
+I can’t switch my palms up.
+
+DOCTOR Q397
+Oh really?
+
+PATIENT Q397
+Yeah, yeah my wrist, look at that.  I've got so many problems.
+
+DOCTOR Q397
+No you don't.  My uh, three o’clock has a lot of problems.  It can always be worse, trust me.  Do the best you can with what you have and you can't sit on the couch all day.  You're gonna have to; you have to want to be healthy alright.  
+
+PATIENT Q397
+@@@.
+
+DOCTOR Q397
+No you're fine.  I'm getting a much lower number; I just want to make sure.
+
+PATIENT Q397
+Okay.
+
+DOCTOR Q397
+I'm getting like a 125/75.
+
+PATIENT Q397
+How can there be that much of a difference in 12 minutes?
+
+DOCTOR Q397
+Um sometimes those manual cuffs don't work very well.
+
+PATIENT Q397
+Alright then, alright.
+
+DOCTOR Q397
+Do you check this at home?
+
+PATIENT Q397
+Uh yeah, yeah.
+
+DOCTOR Q397
+What are they at home?
+
+PATIENT Q397
+Uh it's slowly been trending up, you know for a while it was in the 120s over 60s.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+And then it started to trend up into the 140s, 150s over 80s.
+
+DOCTOR Q397
+Okay so it's 140s 150s over 80s right now?
+
+PATIENT Q397
+Yeah.
+
+DOCTOR Q397
+That's what it's been at home?
+
+PATIENT Q397
+Uh yeah, yeah.  You know it just runs between 120s.  I mean it hardly ever goes over 80 but once in a while it will go over 80.
+
+DOCTOR Q397
+So how about the high number.
+
+PATIENT Q397
+Uh the high number isn't more than about 150s so.
+
+DOCTOR Q397
+So it has been 150?
+
+PATIENT Q397
+Yeah, yeah, right yeah, yeah.
+
+DOCTOR Q397
+So will add this pill.  We'll add the low dose pill.
+
+PATIENT Q397
+Okay.
+
+DOCTOR Q397
+It's called amlodipine.
+
+PATIENT Q397
+What does it do?
+
+DOCTOR Q397
+It's a blood pressure pill.
+
+PATIENT Q397
+Is in an A block, an alpha blocker?
+
+DOCTOR Q397
+It's not an alpha blocker.
+
+PATIENT Q397
+Okay good.
+
+DOCTOR Q397
+It's a calcium channel blocker.
+
+PATIENT Q397
+Calcium channel.
+
+DOCTOR Q397
+Yeah.  It's, I don't want to get all technical on you.
+
+PATIENT Q397
+No, no.
+
+DOCTOR Q397
+But, have a seat.
+
+PATIENT Q397
+Oh yeah but no.
+
+DOCTOR Q397
+But it reduces the blood pressure @@@ level of your blood vessels essentially.
+
+PATIENT Q397
+Alright well no, see the problem I have is uh I've got a problem with leg cramps. And the one thing that really helps me is a pill, an over-the-counter pill called @@@. It’s two types of calcium.  
+
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+If I get a cramp I take that and within a few minutes the cramp was gone and no soreness.
+
+DOCTOR Q397
+Try this pill.  If you get any cramps we'll stop it.
+
+PATIENT Q397
+Okay good.
+
+DOCTOR Q397
+We'll start it at a dose of like 5 mg.
+
+PATIENT Q397
+Right and then you know.
+
+DOCTOR Q397
+Then we'll see what happens.
+
+PATIENT Q397
+But you know @@@.
+
+DOCTOR Q397
+I want you to come back for a blood pressure check in like uh two weeks.
+
+PATIENT Q397
+How about next Friday, I'll come in Friday right.
+
+DOCTOR Q397
+But you’re not going to have it.  Can you pick it up today then?
+
+PATIENT Q397
+Uh where?
+
+DOCTOR Q397
+The Pharmacy.
+
+PATIENT Q397
+Yeah if @@@.
+
+DOCTOR Q397
+If you're taking the pill for a week then we can check it @@@.
+
+PATIENT Q397
+As long as it's ready for me.
+
+DOCTOR Q397
+So come in one week and I'll say @@@.
+
+PATIENT Q397
+Uh-huh.
+
+DOCTOR Q397
+So that way you can get the labs in the morning too.
+
+PATIENT Q397
+@@@
+
+DOCTOR Q397
+Walk-in.
+
+PATIENT Q397
+How often do I take this pill?
+
+DOCTOR Q397
+One time a day.
+
+PATIENT Q397
+So I take them in the morning with all the other pills?
+
+DOCTOR Q397
+Yeah, you take it in the morning; you can do whatever you want.
+
+PATIENT Q397
+Okay, cool.
+
+DOCTOR Q397
+You okay?
+
+PATIENT Q397
+Yeah.  Yeah, I'm gonna go back to the gym again.  Especially since I to pay for it at the Y you know.
+
+DOCTOR Q397
+I like the Y.
+
+PATIENT Q397
+Me too, it's very nice you know and you can scream at people.
+
+DOCTOR Q397
+@@@ 30 day supply with three refills.
+
+PATIENT Q397
+Okay.
+
+DOCTOR Q397
+Pick it up here today.
+
+PATIENT Q397
+Yeah.
+
+DOCTOR Q397
+And then I want to get your blood pressure done to know whether we need to increase the dose or not.  Then, I’ll extended it long-term.
+
+PATIENT Q397
+Okay.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+Okay.
+
+DOCTOR Q397
+Alright give me one second, I'll have you out of here and I'll do your labs and your orders for next week and then like I said we'll order that colonoscopy and all those labs and everything as well.
+
+PATIENT Q397
+Alright.
+
+DOCTOR Q397
+Okay.  Hang tight for a second and we'll have you on your way.
+
+PATIENT Q397
+Alright.  Now I'm gonna get a colonoscopy right doc?
+
+DOCTOR Q397
+Right that's one that I have to, there's a couple of stages, you have to put the order in, you have to get the labs, then they'll contact you and set it up.
+
+PATIENT Q397
+Alright good.
+
+DOCTOR Q397
+Just hang tight for a few minutes.
+
+PATIENT Q397
+Alright.
+
+(DOCTOR OUT:  39:05  DOCTOR IN:  40:21
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+@@@ now.
+
+DOCTOR Q397
+Pick that one up today.
+
+PATIENT Q397
+Alright okay good.  Uh now okay, the kidneys now.  Uh are they getting worse or are they staying about the same.
+
+DOCTOR Q397
+We'll find out next week.
+
+PATIENT Q397
+Oh okay.
+
+DOCTOR Q397
+With the lab tests.
+
+PATIENT Q397
+Alright.
+
+DOCTOR Q397
+The problem with the kidneys is you really don't know if they're really bad until they're really bad usually what happens is that when you feel it.
+
+PATIENT Q397
+Alright, okay.
+
+DOCTOR Q397
+Um your kidneys, like I said they're working 50% to 60% of what they should.  The best way to prevent them from getting worse is keep controlling the blood pressure which is why I'm being aggressive your blood pressure.
+
+PATIENT Q397
+Good.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+@@@.
+
+DOCTOR Q397
+You know even though I got a lower value here and that cuff was a little bigger you know, if you check it at home daily and it's running 140 to 150, that leads me to want to treat it more aggressively.
+
+PATIENT Q397
+Okay @@@.
+
+DOCTOR Q397
+You know so all the data shows that if you keep your sugar under the control, but more so the blood pressure in diabetics, you can perhaps slow down the progression of the kidney disease.  You can't stop it per se but you can really slow it down okay.
+
+PATIENT Q397
+Well.
+
+DOCTOR Q397
+And I do know people who have been at like 2, 2.2, 2.5 which is about 30%, 35% of normal kidney function um for years.
+
+PATIENT Q397
+Alright and I'm at what?.
+
+DOCTOR Q397
+Your numbers not important.
+
+PATIENT Q397
+Alright yeah.
+
+DOCTOR Q397
+You're at 1.8.
+
+PATIENT Q397
+Okay alright.
+
+DOCTOR Q397
+Alright so don't worry about the number you, don't worry about the numbers, we’ll worry about the number if they become an issue.
+
+PATIENT Q397
+Okay.
+
+DOCTOR Q397
+Once again, do the best you can.  These little things like cutting down on the salt um, just little little things like that.
+
+PATIENT Q397
+Cut down on the sodium?
+
+DOCTOR Q397
+@@@.  
+
+PATIENT Q397
+They look pretty good.
+
+DOCTOR Q397
+Yeah.
+
+PATIENT Q397
+Okay.
+
+DOCTOR Q397
+Little things like that.  Do you put salt on your @@@?
+
+PATIENT Q397
+Uh, I never use @@@.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+@@@.
+
+DOCTOR Q397
+Yeah, sometimes it can be a lot.
+
+PATIENT Q397
+I don't eat potato chips or it's not like that.
+
+DOCTOR Q397
+Do you eat a lot of soups?
+
+PATIENT Q397
+No, no.
+
+DOCTOR Q397
+Okay do you eat a lot of fried foods?
+
+PATIENT Q397
+Uh no, I do have a cheeseburger once in a while.
+
+DOCTOR Q397
+@@@ right.
+
+PATIENT Q397
+But not on a regular basis.
+
+DOCTOR Q397
+Um what do you normally eat?
+
+PATIENT Q397
+Okay uh well if I stay on my diet I eat mostly chicken although a lot of it is the frozen chicken.  Its chicken nuggets and stuff like that you know uh.
+
+DOCTOR Q397
+There's a lot of salt in that.
+
+PATIENT Q397
+Yeah, I know that uh.
+
+DOCTOR Q397
+Why don't you eat the boneless chicken and stuff like that.
+
+PATIENT Q397
+Yeah, uh I have that in my freezer, I just haven’t eaten it yet.
+
+DOCTOR Q397
+@@@.
+
+PATIENT Q397
+Right okay.
+
+DOCTOR Q397
+@@@ is astronomically better for you.
+
+PATIENT Q397
+Oh yeah.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+Uh.
+
+DOCTOR Q397
+I don't eat that either.  I want something convenient because it tastes good.
+
+PATIENT Q397
+Yeah, okay yeah.
+
+DOCTOR Q397
+But it's absolute garbage you know.
+
+PATIENT Q397
+Right.  @@@.
+
+DOCTOR Q397
+@@@.
+
+PATIENT Q397
+Not in @@@.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+Uh.
+
+DOCTOR Q397
+Prepared food has a lot of sodium in it.
+
+PATIENT Q397
+Uh now.  The ketchup I use is the no salt added.
+
+DOCTOR Q397
+That's okay.
+
+PATIENT Q397
+Okay.  Uh, I drink a lot of uh cranberry juice.  Its 2 grams of sugar, @@@.
+
+DOCTOR Q397
+@@@ sugars.
+
+PATIENT Q397
+Oh let me see here, oh you know maybe about once a week I treat myself and @@@.
+
+DOCTOR Q397
+Okay. @@@  Just be diligent.
+
+PATIENT Q397
+Okay right yeah okay.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+Okay I'll try to eat more um unbreaded chicken uh.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+Yeah uh.
+
+DOCTOR Q397
+I want to make sure you get this appointments next week.  Make sure you hand it to a live person.  @@@.
+
+PATIENT Q397
+Okay at the Pharmacy.
+
+DOCTOR Q397
+Yeah at the front the front.
+
+PATIENT Q397
+Well uh, @@@ something.
+
+DOCTOR Q397
+Pick up the pills at the Pharmacy.
+
+PATIENT Q397
+@@@ at the Pharmacy.
+
+DOCTOR Q397
+Alright?
+
+PATIENT Q397
+Alright.  Have a good afternoon.  @@@.
+
+DOCTOR Q397
+Yeah, you have a good weekend okay.
+
+PATIENT Q397
+Yeah I'll try to be better okay, alright.
+
+DOCTOR Q397
+@@@ it's worth it.  You're not trying to do better for me okay.
+
+PATIENT Q397
+No.
+
+DOCTOR Q397
+@@@.  Fried chicken.
+
+PATIENT Q397
+@@@.  No, no, no.
+
+DOCTOR Q397
+It's not gonna hurt me, it's gonna hurt you.
+
+PATIENT Q397
+Yeah I know yeah, yeah.
+
+DOCTOR Q397
+So I'm grateful that patients, you guys say you know I'll do, you know I'll do it for you, I'll do it for you but @@@.
+
+PATIENT Q397
+Yeah I know, I know.
+
+DOCTOR Q397
+But remember you're really doing it for you.
+
+PATIENT Q397
+@@@.
+
+DOCTOR Q397
+Cause you don't want to be on dialysis.
+
+PATIENT Q397
+Right, right.
+
+DOCTOR Q397
+Believe me, it's not fun.
+
+PATIENT Q397
+Right.
+
+DOCTOR Q397
+Um it's, it's not.
+
+PATIENT Q397
+Oh yeah.  But you're the one who tells me how I'm doing okay.
+
+DOCTOR Q397
+I’m going to be a dialysis doctor and I'm telling you right now.
+
+PATIENT Q397
+Yeah.
+
+DOCTOR Q397
+Although I'd appreciate the business you know.
+
+PATIENT Q397
+Yeah I know.
+
+DOCTOR Q397
+I'm saying the @@@. 
+
+PATIENT Q397
+Yeah I know.
+
+DOCTOR Q397
+As a joke.
+
+PATIENT Q397
+I, I.
+
+DOCTOR Q397
+@@@ not that type of business.
+
+PATIENT Q397
+Normally people yeah.
+
+DOCTOR Q397
+@@@ okay.
+
+PATIENT Q397
+I've known people on dialysis and I don't want to be that.  Okay but I'm going to try to live till 70, @@@.
+
+DOCTOR Q397
+You could do better than that.
+
+PATIENT Q397
+I @@@ financially okay.
+
+DOCTOR Q397
+Alright.
+
+PATIENT Q397
+But yeah okay.  If I make it to 70 I'll be happy okay.
+
+DOCTOR Q397
+@@@.
+
+PATIENT Q397
+Alright okay, uh, uh but everything else @@@ okay.
+
+DOCTOR Q397
+Yeah.
+
+PATIENT Q397
+I've got very few aches and pains you know.
+
+DOCTOR Q397
+You're doing fine.  You just need to change @@@.
+
+PATIENT Q397
+Oh.  Okay, uh I take a lot of supplements like glucosamine chondroitin.  
+
+DOCTOR Q397
+That's fine.
+
+PATIENT Q397
+Okay uh, the fish oil @@@.
+
+DOCTOR Q397
+Fish oil.
+
+PATIENT Q397
+A low dosage cause @@@.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+Uh okay I take the B vitamin, vitamin C.
+
+DOCTOR Q397
+How much B vitamin do you take?
+
+PATIENT Q397
+Uh.
+
+DOCTOR Q397
+Cause don't take more than you should.
+
+PATIENT Q397
+Well.
+
+DOCTOR Q397
+A little’s okay.
+
+PATIENT Q397
+Uh okay, well.
+
+DOCTOR Q397
+Just bring it in next time.
+
+PATIENT Q397
+Uh okay, alright.  Uh let me see I take vitamin A and B.
+
+DOCTOR Q397
+That's fine.  Just bring that in cause don't take more than you should.
+
+PATIENT Q397
+Okay I'm fine.  Okay, uh I think that's about all I'm taking.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+Alright.  @@@.
+
+DOCTOR Q397
+Okay.
+
+PATIENT Q397
+Alright, okay, let me see I can't think there was anything else I was gonna ask you about.
+
+DOCTOR Q397
+Don't worry about it.  You can always.
+
+PATIENT Q397
+I know, I'll come back next Friday you know so if I forget anything I'll ask.
+
+DOCTOR Q397
+Yeah I'll be around; I'll be here at the VA just in case.  I'll come down and say hi okay.
+
+PATIENT Q397
+Alright, good enough.
+
+DOCTOR Q397
+Take care.
+
+PATIENT Q397
+Alright bye.
+
+PATIENT LEAVES 47:12.
+
+TIME IS 6:05
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1235340
+TRANSACTION # 578-10-2-316-0103

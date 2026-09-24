@@ -1,0 +1,1142 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR W102
+PATIENT?  How you doing today?
+
+PATIENT W102
+Will @@@.
+
+DOCTOR W102
+@@@.  @@@ came from.  Perfect, exactly.  Well nice to meet you.
+
+PATIENT W102
+Yeah nice to meet you too.
+
+DOCTOR W102
+Good job.  I haven't been to the VA too much in the past but uh.
+
+PATIENT W102
+Oh really.
+
+DOCTOR W102
+Yeah.
+
+PATIENT W102
+Wow, man I just.
+
+DOCTOR W102
+You spent some time in 228?
+
+PATIENT W102
+Uh I spent more time in ATC.
+
+DOCTOR W102
+Oh really.
+
+PATIENT W102
+I was in ATC.
+
+DOCTOR W102
+Oh really.  Op.  Where are you in uptown?
+
+PATIENT W102
+I had snapped a tendon.
+
+DOCTOR W102
+Oh yeah.
+
+PATIENT W102
+In my ankle with it and had that all reattached and everything else.
+
+DOCTOR W102
+Yeah.
+
+PATIENT W102
+Uh but eventually uh one of the screws backed out.
+
+DOCTOR W102
+Oh really.
+
+PATIENT W102
+So they had to go back in and take all the hardware out.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+You know but yeah that's what that was all about.
+
+DOCTOR W102
+Okay.  Alrighty uh well let's see.  Let me pull up your record here.  Um it doesn't look like you've ever really established care with anybody here at the VA before right?
+
+PATIENT W102
+Well I was.
+
+DOCTOR W102
+In the Medicine Department.
+
+PATIENT W102
+Well I was with DOCTOR for quite some time.
+
+DOCTOR W102
+Okay, alright.
+
+PATIENT W102
+Uh after my stroke.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+But now the last @@@
+
+DOCTOR W102
+But when was that stroke again?
+
+PATIENT W102
+Uh 06/06, I think it was.
+
+DOCTOR W102
+Okay and then also you have heart disease?
+
+PATIENT W102
+I had a heart attack.
+
+DOCTOR W102
+You had a heart attack.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+Do you remember when that was?
+
+PATIENT W102
+That was in October of 98.
+
+DOCTOR W102
+Okay and did they do anything like a bypass, did you have a stent?
+
+PATIENT W102
+I have a stent.
+
+DOCTOR W102
+You have a stent.
+
+PATIENT W102
+In my left descending.
+
+DOCTOR W102
+Okay.  Uh and did you take Plavix after.
+
+PATIENT W102
+Uh I take lovastatin.
+
+DOCTOR W102
+Lovastatin.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+Okay were you ever on a medicine called clopidogrel or Plavix for that?  No.
+
+PATIENT W102
+I don't think so.
+
+DOCTOR W102
+That's alright.
+
+PATIENT W102
+I may have.
+
+DOCTOR W102
+You may not have been back then but that's okay, that's fine.  Um let's see.
+
+PATIENT W102
+Now I took, at one point, let me see what.  I keep calling it metoprolol.
+
+DOCTOR W102
+Yeah, yeah @@@.
+
+PATIENT W102
+Is that right?
+
+DOCTOR W102
+Yeah.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+What medicines are you taking right now though?
+
+PATIENT W102
+Right now lovastatin uh, fluoxetine, trazodone.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+Aspirin.
+
+DOCTOR W102
+Okay.  Do you remember what doses you're on?
+
+PATIENT W102
+No.
+
+DOCTOR W102
+Okay.  Um and where do you get that medicine from?
+
+PATIENT W102
+Here.
+
+DOCTOR W102
+Um okay.  So we have our records as actually taking simvastatin.  Does that, does that?
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+Okay so the records show you get all your medicines here.
+
+PATIENT W102
+Yeah my medicines come from here.
+
+DOCTOR W102
+That would be accurate okay good.
+
+PATIENT W102
+I've got like stockpiles of them in the last couple days.  Not that, in the past couple weeks uh.
+
+DOCTOR W102
+Yeah you've just been getting more of them.
+
+PATIENT W102
+Yeah and so.
+
+DOCTOR W102
+@@@ needing it.
+
+PATIENT W102
+All of a sudden I got all these uh.
+
+DOCTOR W102
+Yeah.
+
+PATIENT W102
+Pharmaceuticals coming in you know.
+
+DOCTOR W102
+Yeah @@@.  Okay.
+
+PATIENT W102
+Uh it's straightened out, I mean I know it's hard but.
+
+DOCTOR W102
+How have you been feeling lately?
+
+PATIENT W102
+Right now my allergies are beating me up.
+
+DOCTOR W102
+Do you get allergies every year around this time?
+
+PATIENT W102
+No.
+
+DOCTOR W102
+So this is kind of new.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+What type of problems are you having?
+
+PATIENT W102
+Oh just uh sneezing and sore throat and headache.  You know my sinuses are of course all clogged up.
+
+DOCTOR W102
+Okay and are you taking any over-the-counter medicines for that?
+
+PATIENT W102
+Yeah I've been taking Zyrtec is that right?
+
+DOCTOR W102
+Yeah.  Is that working for you?
+
+PATIENT W102
+Eh.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+No.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+You know.  But that's not the only problem I; at the house we redid the kitchen.
+
+DOCTOR W102
+Yeah.
+
+PATIENT W102
+So there's no dry wall.
+
+DOCTOR W102
+Right, right, right.
+
+PATIENT W102
+Demo, yeah.
+
+DOCTOR W102
+You tore it up a lot.
+
+PATIENT W102
+Right, on top of the allergies it's you know so.
+
+DOCTOR W102
+Alright um, sounds good.  We can see if we can do anything for that.  We have a medicine I think would be a little stronger that Zyrtec you could maybe try.
+
+PATIENT W102
+Yeah I talked to the pharmacist there at Walgreen’s.
+
+DOCTOR W102
+Yeah.
+
+PATIENT W102
+And I told him what I was taking.
+
+DOCTOR W102
+Yeah.
+
+PATIENT W102
+And he said here, try the Zyrtec.
+
+DOCTOR W102
+Yeah.  We can just keep going on that then; hopefully it will get better once the dust settles.
+
+PATIENT W102
+But like I said if I could get something stronger I'd sure @@@.
+
+DOCTOR W102
+It's the same medicine.  You don't know dose your taking do you?
+
+PATIENT W102
+Uh I'm taking one every 24 hours so.
+
+DOCTOR W102
+So probably @@@ would change is what we can offer for now so keep you going with what your doing.
+
+PATIENT W102
+Yeah that's fine.  If you're not going to change it.
+
+DOCTOR W102
+Yeah.
+
+PATIENT W102
+There’s no sense in it.
+
+DOCTOR W102
+Okay um just because this is required that you see me; I got a couple questions for you.
+
+PATIENT W102
+Uh-huh.
+
+DOCTOR W102
+Um previous surgeries you had your foot surgery in 2008 anything else?
+
+PATIENT W102
+Heart.
+
+DOCTOR W102
+Oh then you had a heart surgery stent okay.  Okay.
+
+PATIENT W102
+And I had a cancer taken off my back.
+
+DOCTOR W102
+Okay what; I don't have any record but what was done there?
+
+PATIENT W102
+No it was done here.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+Uh it's kind of @@@ cancer you know like.
+
+DOCTOR W102
+It was like a @@@.
+
+PATIENT W102
+Yeah, yeah.
+
+DOCTOR W102
+A mole or something?
+
+PATIENT W102
+It was more like a pimple.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+That just wouldn't heal.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+And uh, yeah but it was like a kids cancer.
+
+DOCTOR W102
+And when was that removed?
+
+PATIENT W102
+Uh a couple years ago, last year I think, maybe the year before.
+
+DOCTOR W102
+Okay.  Alright.
+
+PATIENT W102
+But that was nothing, it was all outpatient.
+
+DOCTOR W102
+Okay.  2007.
+
+PATIENT W102
+Right.
+
+DOCTOR W102
+Right yeah.
+
+PATIENT W102
+And uh yeah I was in and out of Hematology for quite a while too.  Uh my red blood platelets were like off the charts.
+
+DOCTOR W102
+Platelets were off yeah.
+
+PATIENT W102
+Okay you got that.
+
+DOCTOR W102
+Right, got that.  And now they're doing okay as far as you know?
+
+PATIENT W102
+As far as I know yeah.
+
+DOCTOR W102
+Okay.  Do you remember when the last time you had it checked was?
+
+PATIENT W102
+Uh my understanding it's every time they draw blood uh they get it.
+
+DOCTOR W102
+So it was back in December they took a look at it.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+It looked good okay, good.  Alright that's it.  Um I'm looking through your chart.  It looks like family history wise your mother had a stroke?  
+
+PATIENT W102
+My mother had a heart attack.
+
+DOCTOR W102
+She had a heart attack.
+
+PATIENT W102
+Numerous.
+
+DOCTOR W102
+Yeah.
+
+PATIENT W102
+Three or four.
+
+DOCTOR W102
+Did she not have a stroke then?
+
+PATIENT W102
+No my mom never had a stroke.
+
+DOCTOR W102
+Okay, alright.
+
+PATIENT W102
+And my dad either died of a heart attack or a stroke, they don't know what.
+
+DOCTOR W102
+And then your brother has hypertension and high blood pressure?
+
+PATIENT W102
+Uh one of my brothers.
+
+DOCTOR W102
+One of your brothers does.
+
+PATIENT W102
+Well it's not hypertension, its more cholesterol related.
+
+DOCTOR W102
+Anything else run in the family, cancers or anything like that?
+
+PATIENT W102
+No uh it's all like heart.  They all drop dead.
+
+DOCTOR W102
+Do you know how old your parents were when they had heart attacks?
+
+PATIENT W102
+Oh my mother was young uh, probably in her late 40s her first one and she's had like three or four.  I think she's had three bypasses, separate you know.
+
+DOCTOR W102
+Okay.  Then your dad.
+
+PATIENT W102
+He never saw a doctor in his life but he died at 52 of either a heart attack or a stroke; they don't know what killed him.  But he got that taking his pants off.  
+
+DOCTOR W102
+Um I have also in the records that you are currently smoking.  Are you still smoking?  Okay.
+
+PATIENT W102
+Yeah and it's less.
+
+DOCTOR W102
+About one pack a day?
+
+PATIENT W102
+You know I kind of laid off.
+
+DOCTOR W102
+Great.
+
+PATIENT W102
+Okay uh.
+
+DOCTOR W102
+But previously you were a lot more, about two packs a day?
+
+PATIENT W102
+Yeah I was way up there.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+I was a smoking fool.
+
+DOCTOR W102
+And then you've had problems with alcohol in the past too?
+
+PATIENT W102
+Yes.
+
+DOCTOR W102
+And have you quit?
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+When did you quit?
+
+PATIENT W102
+Oh, in the last ten years I've been sober a lot more than I've been drunk really but uh.  I haven't had a drink since January now.
+
+DOCTOR W102
+Okay.  Alright great.  Um let's see and what branch of the military were you?
+
+PATIENT W102
+I was in the Navy.  I was a heavy equipment operator in the Seabees.  
+
+DOCTOR W102
+Alright.  Um are you living with anybody right now?
+
+PATIENT W102
+I live with my sister.
+
+DOCTOR W102
+You do okay.  Anything else bothering you besides the allergies we need to talk about?
+
+PATIENT W102
+My ankle right now, it's not the ankle itself, so much - everyday aches and pains.  But the skin.
+
+DOCTOR W102
+Yeah.
+
+PATIENT W102
+Okay and that’s where, sometimes okay but now @@@ that’s where there we're doing all that digging.
+
+DOCTOR W102
+Okay.  What's the specific symptom that you have a complaint about today?  Is it like itchiness, dryness?
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+Of the skin or is it something else?
+
+PATIENT W102
+No it does hurt from time to time.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+I mean it'll get so dry it'll bleed.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+Uh I don't know like once a month.
+
+DOCTOR W102
+Okay.  You know it looks; it does look definitely really dried out down there.
+
+PATIENT W102
+Yes.
+
+DOCTOR W102
+And kind of where it is, it's in a bad spot and you tend to rub it up against @@@.
+
+PATIENT W102
+Right.
+
+DOCTOR W102
+I'd try just having some lotion on it.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+But um, that @@@ stuff or something.  Probably a jar like a emollient or whatever you can get at Walgreen’s or something.  It's kind of like a moisturizer but it's not, it doesn't come in a bottle, a can of it almost.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+Like an oil product.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+Try that. Apply that twice a day.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+Uh it should help.  @@@ will help you out a lot.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+A lot of times for a scars too, it seems to be like having a lot of problems, it helps healing, helps it really to stay like stay healthy so.
+
+PATIENT W102
+Yeah that's kind of been a small concern.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+You know.
+
+DOCTOR W102
+Okay.  Your blood pressure is a little bit low today.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+Is that normal for you?
+
+PATIENT W102
+Yep.
+
+DOCTOR W102
+Okay, sounds good.  And otherwise um.  Like I told you before your platelets all looked fine.  The rest of your electrolytes back in December when we looked at them all looked fine.
+
+PATIENT W102
+Uh-huh.
+
+DOCTOR W102
+Um I don't know if there's a whole lot more to talk about outside of having getting down to uh making sure that you're as healthy as you can be and it looks like you're doing pretty good right now.
+
+PATIENT W102
+Yeah I think I you now.  Beside the allergies I feel fine.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+You know.
+
+DOCTOR W102
+Alright.  Let's see you had a colonoscopy back in 2007.
+
+PATIENT W102
+Uh-huh.
+
+DOCTOR W102
+Make this look a little prettier um and they didn't find anything?
+
+PATIENT W102
+As far as I know.  I never heard anything.
+
+DOCTOR W102
+No polyps or anything.  @@@.  It showed they found some hemorrhoids but.
+
+PATIENT W102
+Oh.
+
+DOCTOR W102
+But that's nothing to be concerned about obviously okay.
+
+PATIENT W102
+Uh-huh.
+
+DOCTOR W102
+Alright.
+
+PATIENT W102
+That turned out to be expensive if that's all that fine; in some ways I could have told them there were hemorrhoids.
+
+DOCTOR W102
+Have you ever had your prostate levels checked?
+
+PATIENT W102
+Uh no.
+
+DOCTOR W102
+Um it is a test that we can do for you.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+So you have had the test before whether you know it or not.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+It’s bascially, it's a blood test that uh that we can look to see if there is any elevation in it we can be a little more aggressive to see if there's any prostate cancer.
+
+PATIENT W102
+Right.
+
+DOCTOR W102
+Your tests have been normal in the past; we don't need to repeat anything.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+If you want to, it's just something that's followed yearly.
+
+PATIENT W102
+Uh you're in charge here alright so.
+
+DOCTOR W102
+I will tell you there are pros and cons to checking the prostate levels, sometimes it can elevate for no reason whatsoever.
+
+PATIENT W102
+Uh-huh.
+
+DOCTOR W102
+It’ll lead to down the road getting a biopsy.
+
+PATIENT W102
+Uh-huh.
+
+DOCTOR W102
+That has its own complications.
+
+PATIENT W102
+Right.
+
+DOCTOR W102
+Um but then you don't get the, if we're not checking it you don't get the benefits of early detection so.
+
+PATIENT W102
+Hmm.
+
+DOCTOR W102
+Uh but no prostate cancer in your family history, I could go either way.  I would say if.
+
+PATIENT W102
+You're calling the shots.
+
+DOCTOR W102
+If you're the kind of guy that would be really concerned about that, otherwise if uh we want to check it then we can go ahead and check it.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+If you really don't care too much or.
+
+PATIENT W102
+Right now I'm not worried about it.
+
+DOCTOR W102
+Okay, so we'll hold off on checking it.
+
+PATIENT W102
+Alright.
+
+DOCTOR W102
+Okay.  Okay and then cholesterol.  Have you had that checked?
+
+PATIENT W102
+Oh yeah.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+And it goes up and down I mean.
+
+DOCTOR W102
+It looks like you're doing pretty good actually so.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+Uh your.
+
+PATIENT W102
+Is that something to check?
+
+DOCTOR W102
+Your last cholesterol test was back in February.  I think you're probably due for another check.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+As well as the thiamine and the blood sugars, making sure those all look good as well.
+
+PATIENT W102
+Uh-huh.
+
+DOCTOR W102
+You've never had a problem with those before.
+
+PATIENT W102
+No.
+
+DOCTOR W102
+I don’t expect there to be a problem.  Do you remember when your last tetanus shot was?
+
+PATIENT W102
+Um it was a few years back but it was here, it should be on record.
+
+DOCTOR W102
+Yeah 2007, good.  Alright.  @@@
+
+PATIENT W102
+Whatever you got to do buddy.
+
+DOCTOR W102
+Alright um, also you're taking the fluoxetine for depression is that right?
+
+PATIENT W102
+Uh-huh.
+
+DOCTOR W102
+How's that going?  Are you having any symptoms?
+
+PATIENT W102
+No I'm doing alright.
+
+DOCTOR W102
+@@@.
+
+PATIENT W102
+Yeah I'm doing okay with it you know.  Knock on wood.
+
+DOCTOR W102
+Sounds good.
+
+PATIENT W102
+You know.
+
+DOCTOR W102
+Um some of the things they ask us to ask you about are about risk factors for sexually transmitted infections um, you're not having any unprotected sex or anything?
+
+PATIENT W102
+I'm not having any sex period so.
+
+DOCTOR W102
+Oh you're not, alright.  Um and then do you have any tattoos?
+
+PATIENT W102
+Yeah I have a tattoo.
+
+DOCTOR W102
+Have you ever been checked for hepatitis C before?
+
+PATIENT W102
+I don't know, I don't think so.  Uh but actually that's something we probably should look at.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+Cause the last uh partner I had uh she died of Hep C.
+
+DOCTOR W102
+Yeah that's been tested; it looks like back in 2007.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+Uh and it was normal.
+
+PATIENT W102
+And she died, when did she die, shortly after my stroke.
+
+DOCTOR W102
+Let me see, have you ever had the HIV test done?
+
+PATIENT W102
+Yeah, yeah, more than one occasion yeah.
+
+DOCTOR W102
+Great well, it appears to me that you're a pretty healthy fellow right now um.  I'd say keep taking that Zyrtec for the allergies and do the moisturizer on your ankle.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+We'll make sure everything else is doing well.  We'll check some blood tests.  I'm assuming you've eaten today?
+
+PATIENT W102
+Yes.
+
+DOCTOR W102
+So uh when you get a chance to get some fasting blood draw for us, just stop down at the first floor Laboratory.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+Um we'll check your cholesterol, we'll check your electrolytes and check your platelets again to make sure everything looks okay uh and then following that, you've got my clearance for doing whatever you have been doing.
+
+PATIENT W102
+Well I want this @@@.
+
+DOCTOR W102
+Hop up here.
+
+PATIENT W102
+Alright.
+
+DOCTOR W102
+@@@.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+And what I need, is a little help with a @@@ back there.
+
+DOCTOR W102
+Okay.  Take a look up here.
+
+PATIENT W102
+Uh-huh.
+
+DOCTOR W102
+Couple deep breaths.  Good, again, good.  Again, good, one more, alright.  Breathe normal.  Deep breathe in and hold it.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+Lift that chest, again deep breath in and hold it.  Great.  It sounds very good.  Now you've never had any chest pain or any trouble breathing?
+
+PATIENT W102
+I didn't have any uh chest pains even with my heart attack.
+
+DOCTOR W102
+What kind of symptoms were you having then?
+
+PATIENT W102
+That was right through here.
+
+DOCTOR W102
+You had an arm pain?
+
+PATIENT W102
+Oh yeah.  I mean it's like, kind of like you cut it off okay.  You know.  Okay here's what it is.  This is, okay this was what I received from the VA.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+For my non-service-connected.
+
+DOCTOR W102
+Right.
+
+PATIENT W102
+Which is 100%.
+
+DOCTOR W102
+Okay.
+
+PATIENT W102
+But the state needs, if you could just fill this out.
+
+DOCTOR W102
+Um so.  You can fill this part out.
+
+PATIENT W102
+Oh I can fill that out.
+
+DOCTOR W102
+Um, so actually just the physical part. I know there are classes.  If I'm not mistaken here for the form I fill out, I think you'd be a 1 or a 1A.  Let's see here.  Um let's see.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+I think that should do it.
+
+PATIENT W102
+Alright thank you doctor.
+
+DOCTOR W102
+Alright this should do it.  Alright.
+
+PATIENT W102
+I turn off; when you say just go down to the lab uh, like I'm going to be here Tuesday.
+
+DOCTOR W102
+Great.  Tuesday morning.
+
+PATIENT W102
+Just swing in the lab and.
+
+DOCTOR W102
+Before you eat anything.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+Just go down to the first floor and Lab has the orders @@@ computer systems.
+
+PATIENT W102
+Uh-huh.
+
+DOCTOR W102
+@@@ and uh they'll be able to do a quick blood draw and @@@.
+
+PATIENT W102
+Yeah.
+
+DOCTOR W102
+Okay, I will call you with the results, good or bad.
+
+PATIENT W102
+Alright.
+
+DOCTOR W102
+And if it changes then I will uh, I'll let you know when I call you but I don't think I need to see you probably unless any thing’s off for another year or so okay.  Um why don't you wait in here for a little bit.  I have to talk to one of my supervisors for the clinic real quick.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+But we'll get you out of here soon okay.
+
+PATIENT W102
+Uh-huh.
+
+DOCTOR W102
+Alright.
+
+PATIENT W102
+Alright.
+
+DOCTOR W102
+Wait right here I'll be right back.
+
+PATIENT W102
+Yeah sure.
+
+(DOCTOR OUT:  32:54  DOCTOR IN:  41:31)
+
+DOCTOR W102
+Okay, so you're good to go okay.  Nothing new.  Stop by and get those labs for us.
+
+PATIENT W102
+Uh-huh.  Like I say I'll be here Tuesday.
+
+DOCTOR W102
+Should be good.
+
+PATIENT W102
+Okay doctor alright.
+
+DOCTOR W102
+Pleasure to meet you.  Let me do that.
+
+PATIENT W102
+Yeah, okay I was going to say @@@  Like next time I'm walking around @@@.
+
+DOCTOR W102
+Got it.  Holler if you need anything okay.
+
+PATIENT W102
+Okay thank you doctor.
+
+DOCTOR W102
+Drop those off up front.
+
+PATIENT W102
+Okay.
+
+DOCTOR W102
+I'll see you later alright, take care.
+
+PATIENT W102
+Thanks man.  Alright.  To the left alright.
+
+
+DOCTOR W102
+Yeah to the left and then take a right then all the way out.
+
+PATIENT W102
+Alright thanks doctor.
+
+PATIENT LEAVES:  42:11
+
+Time is 12:56.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238107
+TRANSACTION # 578-10-2-316-0103

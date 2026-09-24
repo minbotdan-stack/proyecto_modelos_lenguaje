@@ -1,0 +1,844 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR R846
+PATIENT.
+
+PATIENT R846
+Right here.
+
+DOCTOR R846
+How are you?
+
+PATIENT R846
+How you doing? 
+
+DOCTOR R846
+Come on in.  @@@.
+
+PATIENT R846
+Alright.  I was here before 2.
+
+DOCTOR R846
+Yeah, they are running late today.
+
+PATIENT R846
+You take their time.
+
+DOCTOR R846
+I'm sorry, I became behind because I ran @@@.
+
+PATIENT R846
+No, no problem.
+
+DOCTOR R846
+I'm so sorry that you had to wait.
+
+PATIENT R846
+Really I'm not.
+
+DOCTOR R846
+I apologize.
+
+PATIENT R846
+I just have to get travel pay back to get home.
+
+DOCTOR R846
+I can check you out, is that what you need?
+
+PATIENT R846
+Yeah.
+
+DOCTOR R846
+Oh absolutely I'll check you out today okay.
+
+PATIENT R846
+Yeah, that's the only problem I be having.
+
+DOCTOR R846
+I'll take care of you.  Alright, just give me a second um I'm just gonna look at one thing.  I saw you saw the liver doctor and you're gonna have a biopsy?
+
+PATIENT R846
+Yes, I don't know when.
+
+DOCTOR R846
+Yeah I couldn't find it either so.
+
+PATIENT R846
+I bet they've gotta @@@.  I'm doing everything you asked me to do.
+
+DOCTOR R846
+Huh?
+
+PATIENT R846
+I did everything you asked me to do.
+
+DOCTOR R846
+I really appreciate it.  It makes a big difference.
+
+PATIENT R846
+You prescribed my HIV medicine and guess what?
+
+DOCTOR R846
+What?
+
+PATIENT R846
+It ran out on me.
+
+DOCTOR R846
+What happened?  I gave you a month.
+
+PATIENT R846
+I know and see that's when.
+
+DOCTOR R846
+When you see, I saw you October 4th.
+
+PATIENT R846
+Yeah, I've had to take my own @@@ to come up here, @@@, go in to the doctor's office and late getting into the appointment and getting to it.
+
+DOCTOR R846
+Oh no.  I make sure you had enough that day, what happened?
+
+PATIENT R846
+They didn't do it.
+
+DOCTOR R846
+I am so sorry.
+
+PATIENT R846
+And people @@@ HIV if you miss the medicine.
+
+DOCTOR R846
+I am so sorry.
+
+PATIENT R846
+Then your body could become immune.
+
+DOCTOR R846
+Oh my God I'm sorry.
+
+PATIENT R846
+So.
+
+DOCTOR R846
+I truly apologize.
+
+PATIENT R846
+No it's not you, it's the office.
+
+DOCTOR R846
+I know.
+
+PATIENT R846
+Down there.  They supposed to schedule me, reschedule me and they didn't.
+
+DOCTOR R846
+Absolutely, it's important oh.
+
+PATIENT R846
+So I went and told them that @@@.
+
+DOCTOR R846
+Okay, well let's do that first before we do anything else.
+
+PATIENT R846
+Well they just gave me some.
+
+DOCTOR R846
+Oh you got your medications too?
+
+PATIENT R846
+I got the medication, I came in on the day and got.
+
+DOCTOR R846
+Oh.
+
+PATIENT R846
+See they wouldn't let me take my blood tests and so you know what I did, you know I just can't go in there and say yeah let them take blood so I can get my medicine.
+
+DOCTOR R846
+No, I know, I know.
+
+PATIENT R846
+So they told me they'd wait, but everything else was, they was nice enough.
+
+DOCTOR R846
+Thank you for taking care of yourself like that it's.
+
+PATIENT R846
+I didn't know what to do.  I just figured I'd just come in here on Tuesday when you opened.  The security guard grabbed me just go in, got them up and keep going no I'm just.
+
+DOCTOR R846
+I will tell you a trick.
+
+PATIENT R846
+That's good.
+
+DOCTOR R846
+A trick to get right in.
+
+PATIENT R846
+Uh-huh.
+
+DOCTOR R846
+You can come in on a weekend.
+
+PATIENT R846
+Only emergency.
+
+DOCTOR R846
+Yeah.  I hate to say the @@@.
+
+PATIENT R846
+You're right, you're right.
+
+DOCTOR R846
+If you don't have your medications, I'm only here on Monday afternoons so if you need to reach me.
+
+PATIENT R846
+Uh-huh.  You are right.
+
+DOCTOR R846
+I'm really sorry that you had to get it yourself.
+
+PATIENT R846
+Yes but guess what, don't you see all the good you do?  When you're doing, I'm willing to wait until the next day and came in on a weekday, on Tuesday.  On Tuesday and so, fortunately you made it for a new prescription or I would have been out of medications for a month.
+
+DOCTOR R846
+I'm glad you worked it out.
+
+PATIENT R846
+And I'm think.
+
+DOCTOR R846
+I'm so glad you're gonna see them and I'm sorry that it was like that and hopefully we can kind of get it all in a better, you know.
+
+PATIENT R846
+Uh-huh.
+
+DOCTOR R846
+And it can all be better now.
+
+PATIENT R846
+I’ve got another ordeal.
+
+DOCTOR R846
+Sure, sure.
+
+PATIENT R846
+You know the VA is very slow.
+
+DOCTOR R846
+Uh-huh.
+
+PATIENT R846
+They've taken 25 years to get me on disability.  I was already collecting uh pension from the Air Force.  I went to the VA because I almost died.
+
+DOCTOR R846
+Okay.
+
+PATIENT R846
+And of course I had to seen in the hospital and I developed infection in my body and so what I did is transferred from, you know with the VA, see when you plan @@@, they are not doing anything about clothing allowance for me.
+
+DOCTOR R846
+What can I do?
+
+PATIENT R846
+I want you to fill the form out.  My legs.
+
+DOCTOR R846
+@@@.
+
+PATIENT R846
+No I'll go up and get it then bring it down.
+
+DOCTOR R846
+Um yeah.  I won't be able to fill it until like probably the end of my day today.
+
+PATIENT R846
+I don't mind, I don't mind.  No what I'm telling @@@ I filled it out and they're not going to do anything about it.  I be dead and all that before they do anything.
+
+DOCTOR R846
+But I remember you telling me.
+
+PATIENT R846
+Yeah my leg drains.
+
+DOCTOR R846
+Yeah I know that.
+
+PATIENT R846
+@@@.
+
+DOCTOR R846
+And you see the foot doctor for this right?
+
+PATIENT R846
+Yes, yeah.  But I got to go see them again, I got several appointments with the VA.
+
+DOCTOR R846
+When do you see them?
+
+PATIENT R846
+I don't know next month sometime.
+
+DOCTOR R846
+Okay.  Um yeah no I, just bring me the form.  I'm happy to help you.
+
+PATIENT R846
+Okay, yeah.  They can look in the medical record and see that the doctors are saying that he has ulcers.
+
+DOCTOR R846
+@@@.
+
+PATIENT R846
+Right.  The only time, every time I'm seeing them I got ulcers, they prescribe medication for it and so it should be, actually I'd say I have to get a doctor to fill me, all they got to do is look at the paperwork @@@.
+
+DOCTOR R846
+No I'm happy to do it.  It's okay.
+
+PATIENT R846
+Okay.  I.
+
+DOCTOR R846
+No really, it's no big deal.
+
+PATIENT R846
+I thank you.  I been to a, what you call it.
+
+DOCTOR R846
+Primary doctor.
+
+PATIENT R846
+My primary doctor.
+
+DOCTOR R846
+No that's what I'm here for.
+
+PATIENT R846
+And you know I almost died about three times since I been just after surgery.
+
+DOCTOR R846
+We got to take care of ourselves and so we'll take care of you okay.
+
+PATIENT R846
+Okay.
+
+DOCTOR R846
+We'll get your things and hopefully we might have some bumps in the road but hopefully we can.
+
+PATIENT R846
+Right.
+
+DOCTOR R846
+Get there, okay.
+
+PATIENT R846
+I'm pretty sure.
+
+DOCTOR R846
+Uh do you have enough supplies?  I know I renewed them all the last time.
+
+PATIENT R846
+The only thing I don't have is Bacitracin but I can get that.  I been getting stuff at Walgreen’s anyway.
+
+DOCTOR R846
+Okay and it's still draining just like what it was draining the last time huh.
+
+PATIENT R846
+Yes.
+
+DOCTOR R846
+Okay and you're taking, what medications are you taking by mouth?  Just the HIV's?
+
+PATIENT R846
+HIV, ibuprofen.
+
+DOCTOR R846
+For the pain?
+
+PATIENT R846
+Yeah, they gave me some, the doctor didn't tell me to take it but I been taking it because I have this infection on my neck.
+
+DOCTOR R846
+Who gave you that?
+
+PATIENT R846
+The doctor gave me some supplements, sulfa some kind of name or something.
+
+DOCTOR R846
+@@@?
+
+PATIENT R846
+Yeah, anyway I been taking it and they told me to stop.  I started like taking it and it almost cleared this stuff up, it's a bacteria.
+
+DOCTOR R846
+Okay.  @@@ what do you put on it?
+
+PATIENT R846
+I put calamine lotion on it, you can barely see it, if you look last month when I came to see you, it was bad.  It was a hole in my neck.
+
+DOCTOR R846
+Okay.
+
+PATIENT R846
+It was a hole there and it was almost through the skin so you could see the bone in my throat but it's closing up now and so.  It's the @@@ core infection where it feels like something is crawling beneath the skin, it's not contagious or anything.  The dermatologist is not seeing anything.
+
+DOCTOR R846
+Oh I remember this, I remember it now.
+
+PATIENT R846
+Yeah what's happening is things crawling on my skin, they like hairs but they white and they crawl through my skin and I, I have to have that and it's starting to clear up.
+
+DOCTOR R846
+I remember you were seeing a dermatologist about it.
+
+PATIENT R846
+Yes and it's clearing up.  They tried to tell me it was eczema and I don't have no eczema that radical.
+
+DOCTOR R846
+Yeah.  Have a seat up here.  I am really sorry this would happen with the medications @@@?
+
+PATIENT R846
+Oh, @@@ I just didn't know.
+
+DOCTOR R846
+No it's good for me to know because it's important just to make sure.
+
+PATIENT R846
+He done told me that my HIV is non-detectable now.
+
+DOCTOR R846
+Yeah your HIV, so you got labs done, it looks on the 14th.
+
+PATIENT R846
+Uh-huh.
+
+DOCTOR R846
+Right now it's pending but we're gonna have your CD4 count, which is your cell count and hopefully and your viral loads, the virus in your blood looks really good.
+
+PATIENT R846
+Uh-huh.
+
+DOCTOR R846
+So it's good you're taking your medications.  It's ideal so you're not as prone to complications with the HIV.
+
+PATIENT R846
+What I'm thinking is that if I could stay on it, my health will improve.
+
+DOCTOR R846
+Yeah.  I'm just trying to see, I can't remember where.
+
+PATIENT R846
+It's one of those things you know it's draining now.
+
+DOCTOR R846
+I remember.
+
+PATIENT R846
+It might get bigger.
+
+DOCTOR R846
+Oh right here.
+
+PATIENT R846
+It's small, it's about right here.
+
+DOCTOR R846
+Ah. @@@ remember all this?
+
+PATIENT R846
+Yeah, it's @@@.
+
+DOCTOR R846
+I don’t see. So did you just change this? Nothing’s draining.
+
+PATIENT R846
+It's draining, it's draining, it's draining but it's not big.  @@@.
+
+DOCTOR R846
+Okay.
+
+PATIENT R846
+So what I'm saying is that everything is okay, but wait until it gets cold, then what's gonna happen, my legs is, all the skin is gonna break down on my legs again.  As long as I keep this going on.
+
+DOCTOR R846
+When do you see Podiatry?
+
+PATIENT R846
+Oh in about another two weeks is when it is.
+
+DOCTOR R846
+Okay, deep breath.  Okay look up.  Alright, have a seat.  
+
+PATIENT R846
+Okay.
+
+DOCTOR R846
+Um so you have enough of your supplies.  They already sent your medications.
+
+PATIENT R846
+I did get them yeah.
+
+DOCTOR R846
+So you're good right now.
+
+PATIENT R846
+The only @@@ if I'm gonna have the medication @@@ gotta go to Walgreen’s, the reason I'm saying that is.
+
+DOCTOR R846
+I can give the bacitracin.
+
+PATIENT R846
+Yeah.
+
+DOCTOR R846
+Absolutely. Definitely.
+
+PATIENT R846
+Definitely.
+
+DOCTOR R846
+@@@.
+
+PATIENT R846
+Cause I'm trying to keep the infection down.
+
+DOCTOR R846
+That I can do.
+
+PATIENT R846
+Anyway, the office and the forms @@@Damen Building, pretty soon we'll have to have you @@@.  I don't have no @@@.  You hear what I'm saying, I'm waiting for this to stop draining before I @@@.
+
+DOCTOR R846
+Uh-huh.
+
+PATIENT R846
+Then in the meantime with this much gauze and compressed on it.
+
+DOCTOR R846
+Yeah.
+
+PATIENT R846
+It's keeping the swelling down.
+
+DOCTOR R846
+Okay.
+
+PATIENT R846
+So they wasn't complaining about me putting that on there.
+
+DOCTOR R846
+Well I'm going to refill your bacitracin.
+
+PATIENT R846
+Okay.
+
+DOCTOR R846
+There's no point @@@.
+
+PATIENT R846
+So, now what do I do when I pick the form up today?  Just drop it here?
+
+DOCTOR R846
+You can drop it off with my nurse and I'll just get it to them within the week okay.
+
+PATIENT R846
+Okay.
+
+DOCTOR R846
+Only because today for some reason other than @@@.
+
+PATIENT R846
+Oh no, I'm not even worrying about it.
+
+DOCTOR R846
+Um.
+
+PATIENT R846
+I'm just happy that I was able to have an appointment with you.
+
+DOCTOR R846
+Yeah I'm glad to see you.
+
+PATIENT R846
+Cause actually I'm trying to stick with the VA.
+
+DOCTOR R846
+Yeah.
+
+PATIENT R846
+Before I die.
+
+DOCTOR R846
+Don't say things like that.
+
+PATIENT R846
+They told me that if I made it another hour, see I was bad when I had that bad infection in my neck.
+
+DOCTOR R846
+It's scary with infections.
+
+PATIENT R846
+And so what I'm saying is the VA are the ones that saved my life because still with the Air Force, if I had gone to to a hospital with the Air Force I would've died because I wouldn't have gotten medical care in time.  If something happens I can come to the VA Hospital.
+
+DOCTOR R846
+Uh-huh.
+
+PATIENT R846
+Emergency Room and things do happen in life, know what I'm saying so that's why I did that you know.  But I need to get more of the medical insurance which I'm attempting to do now.
+
+DOCTOR R846
+Okay.
+
+PATIENT R846
+I don't know lately if the HIV, it kind of feels like @@@.
+
+DOCTOR R846
+What do you mean like?
+
+PATIENT R846
+Why my leg does that.  They say I have osteomyelitis in my legs.
+
+DOCTOR R846
+It's in the legs yeah.  That could be.
+
+PATIENT R846
+And the veins in the leg and all that.
+
+DOCTOR R846
+Um, we'll probably gonna have you get a MRI but I want the doctor, the IV doctors to see you for that okay.
+
+PATIENT R846
+Okay.
+
+DOCTOR R846
+I'll be right back @@@.
+
+PATIENT R846
+Okay.
+
+(DOCTOR OUT:  17:21  DOCTOR IN:  18:42)
+
+DOCTOR R846
+One more second, I'm sorry.  You have a lot of appointments coming up huh.
+
+PATIENT R846
+Uh-huh.
+
+DOCTOR R846
+I set you up for a colonoscopy last time, what happened with that?
+
+PATIENT R846
+Maybe I didn't, maybe I didn't do it yet.
+
+DOCTOR R846
+I'm gonna do it again.
+
+PATIENT R846
+That's what @@@.
+
+DOCTOR R846
+I'm going to keep bothering you.
+
+PATIENT R846
+I'm gonna, I go to my appointments.
+
+DOCTOR R846
+I know, I see you do and I appreciate it.
+
+PATIENT R846
+@@@.
+
+DOCTOR R846
+We appreciate it.
+
+PATIENT R846
+They given me ten years when you get done, follow-up is the next @@@.
+
+DOCTOR R846
+Do you smoke?
+
+PATIENT R846
+Yes.
+
+DOCTOR R846
+Drink?
+
+PATIENT R846
+No.  That's what I did, I quit drinking, going on three years in December.
+
+DOCTOR R846
+That's excellent.
+
+PATIENT R846
+I try to be.  Now see that's what @@@ really got me.  They told me I got hepatitis C.
+
+DOCTOR R846
+You do.
+
+PATIENT R846
+Now why would they let me run around with hepatitis?
+
+DOCTOR R846
+Remember I sent you to the doctors.  I did tell you.
+
+PATIENT R846
+I know but if I had hepatitis C since 2000, why you just telling me now?
+
+DOCTOR R846
+Well you know, we've been rechecking everything to make sure you do, but it looks like you do.
+
+PATIENT R846
+Now I wondered could somebody get infected from it?
+
+DOCTOR R846
+Yes, that's the something you also need to worry about.
+
+PATIENT R846
+Hepatitis C is highly contagious isn't it?
+
+DOCTOR R846
+Um sexually, otherwise not really and through blood.
+
+PATIENT R846
+Okay.
+
+DOCTOR R846
+I'm really sorry; I know you're a little frustrated.
+
+PATIENT R846
+And I don’t know how, you know how I even catch hepatitis C.
+
+DOCTOR R846
+Um did you ever do IV drugs or anything?
+
+PATIENT R846
+No.
+
+DOCTOR R846
+No drugs.
+
+PATIENT R846
+I don't do nothing like that.
+
+DOCTOR R846
+Are you up to getting your tetanus today?
+
+PATIENT R846
+Huh?
+
+DOCTOR R846
+Can you get your tetanus today?
+
+PATIENT R846
+What's that?
+
+DOCTOR R846
+The shot for in case you get, like you hit a nail, it's actually very dangerous.  It's a really bad infection.
+
+PATIENT R846
+@@@ when? @@@
+
+DOCTOR R846
+Today, our nurse will do that. Are you okay with that? I'll put it in?
+
+PATIENT R846
+Uh-huh.
+
+DOCTOR R846
+Okay.  Good.  Then I'll be back.
+
+PATIENT R846
+And then I need you to take me out too.
+
+DOCTOR R846
+Yeah I'll take you out sir.
+
+(DOCTOR OUT:  21:00  DOCTOR IN:  24:21)
+
+DOCTOR R846
+@@@.
+
+PATIENT R846
+Yes.
+
+DOCTOR R846
+@@@ um, I want but we're not going to anything else today.  I want you to get your tetanus and then bring the forms back to the nurse today.
+
+PATIENT R846
+Okay.
+
+DOCTOR R846
+Because I am only here on Mondays.
+
+PATIENT R846
+Alright.
+
+DOCTOR R846
+So if I don't get it today I won't get till next Monday.
+
+PATIENT R846
+I see, I thank you.
+
+DOCTOR R846
+You're welcome.  Anything to make @@@ a little easier for you.
+
+PATIENT R846
+Okay.
+
+DOCTOR R846
+Come with me okay.
+
+PATIENT R846
+I gotta get this, @@@.  Prosthetics.
+
+DOCTOR R846
+Prosthetics oh yeah, it's the @@@ floor of this building.
+
+PATIENT R846
+So this building here right?
+
+DOCTOR R846
+Uh-huh.  The Ogden Building.
+
+PATIENT R846
+Okay.
+
+DOCTOR R846
+Okay.  @@@.  We'll see you next time.
+
+PATIENT R846
+Okay.
+
+DOCTOR R846
+Okay.  So go up and just bring the forms back and I'll fill them.
+
+PATIENT R846
+@@@.
+
+DOCTOR R846
+Okay.  @@@.
+
+PATIENT R846
+Alright.
+
+DOCTOR R846
+See you later sir.
+
+PATIENT R846
+I'm gonna go to @@@ first.
+
+DOCTOR R846
+Okay, they'll set you up.
+
+
+
+PATIENT LEAVES:  25:44
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286094
+TRANSACTION # 578-10-2-316-0103

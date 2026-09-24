@@ -1,0 +1,742 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR T497
+PATIENT?
+
+PATIENT T497
+I'm here.  @@@.
+
+DOCTOR T497
+@@@.  How you doing?
+
+PATIENT T497
+I'm better.
+
+DOCTOR T497
+You're doing good, doing bad?
+
+PATIENT T497
+@@@.
+
+DOCTOR T497
+Good.  Any more pain after you left the hospital?
+
+PATIENT T497
+Pardon?
+
+DOCTOR T497
+Did you have any more pain after you left the hospital?
+
+PATIENT T497
+I haven't uh, @@@ all of my medicine.
+
+DOCTOR T497
+You've been taking all of them?
+
+PATIENT T497
+@@@.  I feel better in the stomach.
+
+DOCTOR T497
+In the stomach good.
+
+PATIENT T497
+Yeah I feel better.
+
+DOCTOR T497
+Good.
+
+PATIENT T497
+That's what I was @@@.
+
+DOCTOR T497
+Yeah, okay.  Well we were just asked to follow up on a few things.  I think your blood pressure medications are @@@ high when you were in the hospital.
+
+PATIENT T497
+Uh.
+
+DOCTOR T497
+They stopped one of the medications.
+
+PATIENT T497
+One medicine was.
+
+DOCTOR T497
+Yeah so but your blood pressure looks good, so whatever you’re doing is good so we just have to check a blood test on you today just to make sure that the medication isn't affecting anything.
+
+PATIENT T497
+Hmm.
+
+DOCTOR T497
+Okay.  Um.
+
+PATIENT T497
+Am I taking too much medicine?
+
+DOCTOR T497
+Um you're taking a lot but unfortunately you need all of them so.
+
+PATIENT T497
+Now the pill @@@, is about to come home @@@.  She called on me I think and chatted with my doctor.
+
+DOCTOR T497
+DOCTOR is your doctor right?
+
+PATIENT T497
+Uh-huh.
+
+DOCTOR T497
+Yeah so uh @@@ we'll have you see her.  She's actually person @@@.  So I think I'll just talk to her.  How's your blood sugars running?
+
+PATIENT T497
+It’s running pretty good.  It was 96 this morning.
+
+DOCTOR T497
+@@@ running pretty good at home?
+
+PATIENT T497
+It’s running pretty good.
+
+DOCTOR T497
+Good.  Um do you think you could get some blood tests done today?
+
+PATIENT T497
+What?
+
+DOCTOR T497
+Do you think you could get some blood tests done today?
+
+PATIENT T497
+Yeah I can go over there.
+
+DOCTOR T497
+Okay.
+
+PATIENT T497
+My @@@ supposed to be @@@my cab.
+
+DOCTOR T497
+Uh-huh.
+
+PATIENT T497
+Not until 2, @@@ 12 o'clock.
+
+DOCTOR T497
+Good you've got some time.
+
+PATIENT T497
+Uh-huh.  My legs is going down but the pain.
+
+DOCTOR T497
+Uh-huh.
+
+PATIENT T497
+The pain is more.  I wanted to give it a full look.
+
+DOCTOR T497
+Which one?
+
+PATIENT T497
+Both them.
+
+DOCTOR T497
+Both of them are swollen?  Well they said your less swollen.
+
+PATIENT T497
+Right.
+
+DOCTOR T497
+Are they less swollen or more swollen?
+
+PATIENT T497
+No they going down.
+
+DOCTOR T497
+Okay.
+
+PATIENT T497
+The swelling is going but the pain was @@@.
+
+DOCTOR T497
+Both of them are @@@.  Oh no.  Do both of them hurt or none of them?
+
+PATIENT T497
+Both, both, both.
+
+DOCTOR T497
+Both of them hurt.
+
+PATIENT T497
+Yeah.
+
+DOCTOR T497
+Okay.  Where does it hurt?
+
+PATIENT T497
+Right there at the knee.
+
+DOCTOR T497
+Can I look at your knee?  @@@.
+
+PATIENT T497
+Yeah.
+
+DOCTOR T497
+@@@ stuff on.
+
+PATIENT T497
+Yeah.
+
+DOCTOR T497
+So your knee's not swollen though I don't think.
+
+PATIENT T497
+No it isn't.
+
+DOCTOR T497
+Okay.  Your knee looks okay.  Um any other problems?  Any chest pain?  Shortness of breath?
+
+PATIENT T497
+@@@ with my eye, know I gots to go see the eye place.
+
+DOCTOR T497
+Yeah.  How often do you see the eye doctors?
+
+PATIENT T497
+You know the last the appointment that I had with the eye doctor.
+
+DOCTOR T497
+Uh-huh.
+
+PATIENT T497
+I was in the hospital.  I got to do.
+
+DOCTOR T497
+Oh okay so you're gonna go back and see them?
+
+PATIENT T497
+I got to @@@ another appointment.
+
+DOCTOR T497
+Okay.
+
+PATIENT T497
+But this right eye is bothering me.
+
+DOCTOR T497
+What's bothering you?
+
+PATIENT T497
+I have some pain.
+
+DOCTOR T497
+It looks like you're @@@ OK so we probably want to check a, uh we're just going to do one test @@@ bone strength.
+
+PATIENT T497
+Pardon.
+
+DOCTOR T497
+They were gonna do uh um test to look at your bone strength.  Sometimes when we get older your bones get weaker.
+
+PATIENT T497
+Yeah I had a @@@.
+
+DOCTOR T497
+You did.  Yeah so we should check it.  So what it is, is I'll order it and.
+
+PATIENT T497
+It's @@@.
+
+DOCTOR T497
+Your bone strength or the x-ray?
+
+PATIENT T497
+Uh I've done x-rays, I don’t want it.
+
+DOCTOR T497
+Yeah this isn't an x-ray this is to look at the calcium levels in your bone.
+
+PATIENT T497
+Calcium.
+
+DOCTOR T497
+Yeah calcium levels in your bone to see how strong they are.
+
+PATIENT T497
+@@@.
+
+DOCTOR T497
+Because if they're not strong enough we can give you medications to build up the strength of your bone.
+
+PATIENT T497
+Oh okay.
+
+DOCTOR T497
+So I'll order that and then whenever, they'll contact you as to when that can get done. 
+
+PATIENT T497
+Oh you'll put it in?
+
+DOCTOR T497
+Yes.
+
+PATIENT T497
+Okay.  @@@.
+
+DOCTOR T497
+Yeah.
+
+PATIENT T497
+Okay.
+
+DOCTOR T497
+Uh you want to sit up here so I can check your heart and lungs?
+
+PATIENT T497
+I need a little help.
+
+DOCTOR T497
+@@@.
+
+PATIENT T497
+My balance is getting bad.
+
+DOCTOR T497
+When did your balance start getting bad?
+
+PATIENT T497
+I said my balance.
+
+DOCTOR T497
+Yeah is that something new, or something old?  Something new?  Was that something that's been going on for a while or?  Problems with your balance?
+
+PATIENT T497
+It's something new.
+
+DOCTOR T497
+When did that start.
+
+PATIENT T497
+I’m getting older.
+
+DOCTOR T497
+You're getting older, you say?
+
+PATIENT T497
+Yeah it used to hurt.  I mean that's what I.
+
+DOCTOR T497
+Down here right?
+
+PATIENT T497
+Yeah.
+
+DOCTOR T497
+@@@ one?
+
+PATIENT T497
+@@@.
+
+DOCTOR T497
+Okay, good.
+
+PATIENT T497
+That's what I was in the hospital for, when I was in the hospital.
+
+DOCTOR T497
+Yeah.
+
+PATIENT T497
+They said it sounds like I got Parkinson @@@.
+
+DOCTOR T497
+Have you able to walk with a cane or do you need something a little better?
+
+PATIENT T497
+No I can walk with a cane.
+
+DOCTOR T497
+Okay.  Do you want to sit up?  Take a deep breath.  Again.  Okay.  Can you stand up for me.  Check out your balance. 
+
+PATIENT T497
+@@@.
+
+DOCTOR T497
+@@@.
+
+PATIENT T497
+These shoes.
+
+DOCTOR T497
+Okay good.  Can you just walk over there for me?
+
+PATIENT T497
+Yeah just started.
+
+DOCTOR T497
+Okay.  So it's not terrible.
+
+PATIENT T497
+For a time I've been walking in these shoes.
+
+DOCTOR T497
+Uh-huh.
+
+PATIENT T497
+It's special.
+
+DOCTOR T497
+Oh good.  Okay you can take a seat.
+
+PATIENT T497
+And that's why.
+
+DOCTOR T497
+That's why.
+
+PATIENT T497
+That's why I think I'm walking kind of funny.  I got to get used to new shoes.
+
+DOCTOR T497
+Oh okay.  When did you get the shoes?
+
+PATIENT T497
+Oh they came from about two weeks ago.
+
+DOCTOR T497
+Okay.
+
+PATIENT T497
+They made them up for me.
+
+DOCTOR T497
+I need to talk to DOCTOR for a minute and I'll be right back okay.
+
+PATIENT T497
+Okay.
+
+DOCTOR T497
+@@@.
+
+PATIENT T497
+Okay.
+
+(DOCTOR OUT:  91:28 DOCTOR IN:  108:26)
+
+SECOND DOCTOR T497
+Hey PATIENT.
+
+PATIENT T497
+Hi.
+
+SECOND DOCTOR T497
+Alright let me get @@@.
+
+PATIENT T497
+But they feeling fine but they think, but they hurt.
+
+SECOND DOCTOR T497
+Oh I know.  I'm sending him down to the um.
+
+PATIENT T497
+Alright.
+
+SECOND DOCTOR T497
+@@@ I think you're doing much better on the higher dose of how you doing.
+
+PATIENT T497
+Pardon.
+
+SECOND DOCTOR T497
+Do you think you're doing better on the higher dose of the water pill?
+
+PATIENT T497
+Oh it's good.
+
+SECOND DOCTOR T497
+@@@.
+
+PATIENT T497
+I'm really doing better.
+
+SECOND DOCTOR T497
+Okay.  Um.
+
+PATIENT T497
+I'm taking a double dose.
+
+SECOND DOCTOR T497
+Yeah.
+
+PATIENT T497
+Twice a day.
+
+SECOND DOCTOR T497
+Yeah you were taking it twice a day before also right, there's just one pill.  I think its one pill twice a day @@@ isn't it?
+
+PATIENT T497
+Two twice a day.
+
+SECOND DOCTOR T497
+No.
+
+PATIENT T497
+Now @@@.
+
+SECOND DOCTOR T497
+Once twice a day you'll remember.  But um let's do @@@ blood work.
+
+PATIENT T497
+Okay.
+
+SECOND DOCTOR T497
+Um and then um @@@ that medicine the atenolol um to just keep an eye on the blood pressure okay.
+
+PATIENT T497
+Okay but you said @@@ that @@@ doctor come by the house to visit me?
+
+SECOND DOCTOR T497
+Oh no I @@@ need the one for the hospital, you were hospitalized in the another hospital, that's what you gave me.
+
+PATIENT T497
+I think I left one @@@.
+
+SECOND DOCTOR T497
+Oh @@@ but you have, I'm sorry I don't know which hospital.  What hospital were you admitted to last time?
+
+PATIENT T497
+@@@ uh South Shore.
+
+SECOND DOCTOR T497
+South Shore Hospital.
+
+PATIENT T497
+Uh-huh.
+
+SECOND DOCTOR T497
+Um I, I.
+
+PATIENT T497
+I got the discharge papers.
+
+SECOND DOCTOR T497
+@@@ small paper?
+
+PATIENT T497
+I guess the discharge.
+
+SECOND DOCTOR T497
+Oh, that doesn’t tell us much.  Okay.
+
+PATIENT T497
+Now they gave me a prescription and they gave me some prescriptions.
+
+SECOND DOCTOR T497
+Okay.
+
+PATIENT T497
+But it was $1100 and I couldn’t afford it.
+
+SECOND DOCTOR T497
+That was a while back, right.
+
+PATIENT T497
+I couldn’t afford it.
+
+SECOND DOCTOR T497
+That was awhile back.
+
+PATIENT T497
+@@@.
+
+SECOND DOCTOR T497
+Awhile back.  That was not recently.  @@@.
+
+PATIENT T497
+@@@.
+
+SECOND DOCTOR T497
+@@@ admitted to hospital right.
+
+PATIENT T497
+No.
+
+SECOND DOCTOR T497
+Did you have bleeding, blood in your stools that you remember?
+
+PATIENT T497
+Yes.
+
+SECOND DOCTOR T497
+Oh okay.  Let me give you another @@@ here so I will sign it and @@@.
+
+PATIENT T497
+Okay.
+
+SECOND DOCTOR T497
+Give me five minutes okay.
+
+PATIENT T497
+Okay.
+
+SECOND DOCTOR T497
+I need to go @@@.
+
+PATIENT T497
+Yeah, @@@.
+
+SECOND DOCTOR T497
+@@@.
+
+PATIENT T497
+How does that marrow test go?
+
+FIRST DOCTOR T497
+This test?
+
+PATIENT T497
+Do they get marrow from your bones?
+
+FIRST DOCTOR T497
+Yeah no, no.  It's not painful.  They just scan you.  It's like a scanner test.
+
+PATIENT T497
+That's for the marrow?
+
+FIRST DOCTOR T497
+For your bone marrow?
+
+PATIENT T497
+Yes.
+
+FIRST DOCTOR T497
+When did they do that?
+
+PATIENT T497
+I thought you said @@@.
+
+FIRST DOCTOR T497
+No I'm gonna check a bone density test.  That's not the marrow test where they use a needle to go in your bones and take out marrow.  This is not like that.  This is just like a CT scan that you had before, but it's done a little differently, it's like the strength of your bone.
+
+PATIENT T497
+Hmm.
+
+FIRST DOCTOR T497
+To see how much calcium is in them.  Because if you don't have enough calcium, your bones are more liable to break.
+
+PATIENT T497
+Oh.
+
+FIRST DOCTOR T497
+So we can give you medication to fix that if @@@.
+
+PATIENT T497
+So you're going to put it in so we can get it scheduled.
+
+FIRST DOCTOR T497
+Yeah I'm gonna put it in.  They'll contact you about when to get it and then otherwise we'll just get those blood tests and I think we'll be set.
+
+PATIENT T497
+Okay.  
+
+FIRST DOCTOR T497
+Did you eat today?
+
+PATIENT T497
+Yeah I just ate a little while ago.
+
+FIRST DOCTOR T497
+Okay.
+
+PATIENT T497
+Cause I'm a diabetic you know.
+
+FIRST DOCTOR T497
+Yeah uh-huh, okay.
+
+PATIENT T497
+@@@.
+
+FIRST DOCTOR T497
+Yeah I know, no you should be eating.  Good.  Alright sir, PATIENT, @@@.
+
+PATIENT T497
+@@@.
+
+SECOND DOCTOR T497
+Uh you know, I signed this @@@ again so @@@ hospital.  
+
+PATIENT T497
+You never did hear from him?
+
+SECOND DOCTOR T497
+@@@ Uh @@@@ I send it to them. South Shore Hospital, Chicago.
+
+PATIENT T497
+Yeah uh-huh.
+
+SECOND DOCTOR T497
+Alright.
+
+PATIENT T497
+I don't know the address offhand.
+
+SECOND DOCTOR T497
+@@@.
+
+PATIENT T497
+Yeah.
+
+SECOND DOCTOR T497
+@@@.  (Doctors talking between themselves.)
+
+FIRST DOCTOR T497
+So @@@ plenty of refills on everything. @@@ we'll have you come back in a two months to see DOCTOR.
+
+PATIENT T497
+Okay.
+
+FIRST DOCTOR T497
+Okay so you can just get your blood tests today and all the appointments that we need to make alright?
+
+PATIENT T497
+Oh okay.
+
+FIRST DOCTOR T497
+So @@@.
+
+PATIENT T497
+Okay.  @@@.
+
+FIRST DOCTOR T497
+Yeah and then they'll contact you about that one bone test.
+
+PATIENT T497
+Oh okay.
+
+FIRST DOCTOR T497
+Your blood tests are already in there.  I just refilled your aspirin cause you were running low on that and you have plenty of refills on everything else.
+
+PATIENT T497
+Okay.
+
+FIRST DOCTOR T497
+Alright.
+
+PATIENT T497
+Okay.
+
+FIRST DOCTOR T497
+Bye.
+
+PATIENT T497
+Bye bye.
+
+PATIENT LEAVES:  114:2
+
+11:45
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255150
+TRANSACTION # 578-10-2-316-0103

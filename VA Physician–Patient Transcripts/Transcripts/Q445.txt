@@ -1,0 +1,872 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR Q445 
+PATIENT?
+
+PATIENT Q445
+Yes.
+
+DOCTOR Q445
+Hello.  I'm DOCTOR, I'm glad to meet you.
+
+PATIENT Q445
+Glad to meet you.
+
+DOCTOR Q445
+Just have a seat here.
+
+PATIENT Q445
+Okay.
+
+DOCTOR Q445
+@@@ a little bit more, sounds like they @@@ today.
+
+PATIENT Q445
+If I could feel it.
+
+DOCTOR Q445
+Yeah I know.
+
+PATIENT Q445
+I can feel it on the right hand.
+
+DOCTOR Q445
+Right there where your leg is, @@@.
+
+PATIENT Q445
+Yes.
+
+DOCTOR Q445
+@@@.
+
+PATIENT Q445
+Okay.  Is there a hangar, a coat rack uh?  Is this @@@ here.
+
+DOCTOR Q445
+Alright so you last saw me in April.  Um at that time you were decreasing salt from your diet and you were having some problems with your sleep uh how are you doing now?
+
+PATIENT Q445
+Okay the sleep is good.  I found out, I found out what the problem was.
+
+DOCTOR Q445
+What was the problem?
+
+PATIENT Q445
+I inadvertently would fall asleep on the sofa while watching TV and if I should fall asleep for 20-30 minutes, that would interfere with my sleep cycle.
+
+DOCTOR Q445
+Yeah.
+
+PATIENT Q445
+And I wasn't able to sleep fully you see.
+
+DOCTOR Q445
+Sure.
+
+PATIENT Q445
+So I guarded against, I purposely guarded against falling asleep for uh you know a week or so and because there was no interruption in the sleep cycle I slept straight through.
+
+DOCTOR Q445
+Okay.
+
+PATIENT Q445
+Perhaps maybe 6, 8 hours, no problem yes.  Now in regards to the elevated blood pressure.
+
+DOCTOR Q445
+Uh-huh.
+
+PATIENT Q445
+I've been concerned about it being increased in the last several visits so when I was here in April, I went, I was scheduled to see the nutritionist, which I did.  We had a long talk about diet and such and she gave me a three page document with the do's and don'ts on it.  Foods to eat, foods to avoid etc.
+
+DOCTOR Q445
+Uh-huh.  Good.
+
+PATIENT Q445
+Now I've been following that list, not religiously.
+
+DOCTOR Q445
+Okay.
+
+PATIENT Q445
+But I've been, I'm doing the best I can in following that list.
+
+DOCTOR Q445
+That's very good.
+
+PATIENT Q445
+As long as I do all my own cooking, I limit my carry outs because it's on kind of the no no’s in them.
+
+DOCTOR Q445
+Sure.
+
+PATIENT Q445
+And I eat fruits, vegetables; drink water all the time, fiber, the works you see.  I come here this morning and the blood pressure's elevated again.  Last time she said, the nurse said the blood pressure was 128 over something or other and today the second reading, first reading was 159 and the second reading was 155.
+
+DOCTOR Q445
+Right.
+
+PATIENT Q445
+I just don't know what else to do.
+
+DOCTOR Q445
+Well it might not be anything that you do; it might just be that you need another medicine to help you out okay.  And you know most patients do require more than one after age 60, 65 so that wouldn't be uncalled for.  You're taking lisinopril 40 right now and you don't miss any doses or anything right?
+
+PATIENT Q445
+Right I take it once a day, in the morning.
+
+DOCTOR Q445
+Yeah, yeah.  Would you be opposed to starting a new medication to help with your blood pressure and have you come and see us and check your blood pressure and see how that's working.
+
+PATIENT Q445
+A new one?
+
+DOCTOR Q445
+Yeah so it'd be one more pill a day but I do think that you're probably gonna need that.
+
+PATIENT Q445
+Uh uh yeah.  Also one item I heard in the news, uh about a month ago and I haven't had a chance to sit down and research it.  It said something about, it was just a blurb on the news and I know for the full story you have to either read the newspaper, go online, etc., but anyway it said it was a result of a study that said that sodium intake didn't necessarily contribute to high blood pressure.
+
+DOCTOR Q445
+Right.
+
+PATIENT Q445
+Now I was waiting for some follow-up, you know some news follow-up that says we know that heart disease has passed cancer as the number one killer in this country.
+
+DOCTOR Q445
+Right.
+
+PATIENT Q445
+So you would think that there would have been some kind of follow-up with an important finding like that you see.  But nothing, nothing.  They would put all kind of other nonsense repeatedly on the news.  You'd think something like that would have prominence, wouldn't you think?
+
+DOCTOR Q445
+You would think yeah.
+
+PATIENT Q445
+But no it doesn't.  So I was gonna go to Web MD, see what they did on it, I was gonna try to do a Google search to see what they did on it but every time I think about doing that I get a sidetrack on doing something else and I haven't gotten to it and this has been about a month ago.
+
+DOCTOR Q445
+Hmm.
+
+PATIENT Q445
+Have you heard anything?
+
+DOCTOR Q445
+Well I was always taught that you know sodium in patients that already have established hypertension which is known to be idiopathic so they don't know what the etiology is for causing that okay.
+
+PATIENT Q445
+Uh-huh.
+
+DOCTOR Q445
+If you have that diagnosis, decreasing your salt intake will help your blood pressure.
+
+PATIENT Q445
+Uh-huh.
+
+DOCTOR Q445
+If you don't have hypertension, increasing your salt intake doesn't cause hypertension, if that makes sense to you.
+
+PATIENT Q445
+Uh-huh.
+
+DOCTOR Q445
+But in your specific case you have a known diagnosis of high blood pressure, so by decreasing salt it should help your blood pressure.
+
+PATIENT Q445
+Yes.
+
+DOCTOR Q445
+Or at least not worsen it.
+
+PATIENT Q445
+Yes.
+
+DOCTOR Q445
+We know that way if you have hypertension and you do eat a lot of salt it will worsen it.
+
+PATIENT Q445
+Uh-huh.
+
+DOCTOR Q445
+Okay but now you're saying you're decreasing the salt and it's not necessarily getting better uh studies don't show that it's necessarily gonna get better, they just show it's not gonna get worse.
+
+PATIENT Q445
+I get it.
+
+DOCTOR Q445
+If that makes sense.
+
+PATIENT Q445
+Yes.
+
+DOCTOR Q445
+But we don't want it to get worse.
+
+PATIENT Q445
+Yes.
+
+DOCTOR Q445
+Now if it's significantly a little bit elevated what that tells me is that your body might need another medication to help control the blood pressure.
+
+PATIENT Q445
+Uh-huh.
+
+DOCTOR Q445
+That one medication is not doing that.
+
+PATIENT Q445
+Yeah.
+
+DOCTOR Q445
+Okay cause that medication is at its max.
+
+PATIENT Q445
+Because what happened was, as I mentioned, in April the pressure was elevated.
+
+DOCTOR Q445
+Uh-huh.
+
+PATIENT Q445
+When I came back several days later in June.
+
+DOCTOR Q445
+Yeah.
+
+PATIENT Q445
+It was like 128 over some number which was what you wanted to see, you see.
+
+DOCTOR Q445
+Yeah.
+
+PATIENT Q445
+Now what over the last six months it has gone up again.  Let me ask you this, um since my pressure is so unstable as it is, what about monitoring at home?
+
+DOCTOR Q445
+You could.  We could get you a monitor um but how much vision do you have after the macular degeneration.
+
+PATIENT Q445
+Uh none.
+
+DOCTOR Q445
+@@@ so it might be, do you have someone at home with you?
+
+PATIENT Q445
+No.
+
+DOCTOR Q445
+Someone to check it for you.
+
+PATIENT Q445
+No.  So it's not audible?
+
+DOCTOR Q445
+No.
+
+PATIENT Q445
+Then it wouldn't help that.
+
+DOCTOR Q445
+Yeah so we would just need you to come in to the clinic to get a blood pressure check.  Um let me ask you a few more questions.  So in the past you didn't want a colonoscopy um or screening for prostate cancer.
+
+PATIENT Q445
+Yeah.
+
+DOCTOR Q445
+Okay is that the same?
+
+PATIENT Q445
+That's the same and I'll tell you what.
+
+DOCTOR Q445
+What about vaccinations?  Are you?
+
+PATIENT Q445
+Vaccinations for what?
+
+DOCTOR Q445
+For tetanus, diphtheria, the flu shot, pneumonia.
+
+PATIENT Q445
+No, not those.  Although, although the pneumonia yes.  DOCTOR, two years ago.
+
+DOCTOR Q445
+So you've already had that one actually.
+
+PATIENT Q445
+Yeah she said for all her patients 55 years or older she recommend a pneumonia shot.
+
+DOCTOR Q445
+Right.
+
+PATIENT Q445
+And with that I got it.
+
+DOCTOR Q445
+Good.
+
+PATIENT Q445
+That's the only inoculation I got.
+
+DOCTOR Q445
+Okay, that's fine.  So I'll just document that.  
+
+PATIENT Q445
+Yeah.  Now this colonoscopy, uh I don't do that screening.
+
+DOCTOR Q445
+Uh-huh.
+
+PATIENT Q445
+And I don't do the PSA as well because if something was found to be abnormal.
+
+DOCTOR Q445
+You don't want it; yeah we documented that that you wouldn't want any further.
+
+PATIENT Q445
+Yeah, uh if something's there see I don't want to know if it's abnormal cause the reason I don't want to know is I wouldn't do it, go for the treatment.
+
+DOCTOR Q445
+I have more questions for you.  Do you smoke or did you smoke in the past?
+
+PATIENT Q445
+Uh I smoked in the past but oh it's been years since I've stopped.
+
+DOCTOR Q445
+Okay.  So the main thing we need um to I guess get under better control is your blood pressure. Have you been urinating okay?
+
+PATIENT Q445
+Oh yes.  
+
+DOCTOR Q445
+Do you have a lot of allergies to things?  No?
+
+PATIENT Q445
+Uh no because I uh I take this uh, this allergy medication every day.
+
+DOCTOR Q445
+Okay.
+
+PATIENT Q445
+Uh what is it 25 mg Benadryl.
+
+DOCTOR Q445
+Loratadine, you take 10 mg of Loratadine.
+
+PATIENT Q445
+Well actually see I stopped taking that.
+
+DOCTOR Q445
+Oh you did.
+
+PATIENT Q445
+Yeah and I just uh.
+
+DOCTOR Q445
+Took Benadryl?
+
+PATIENT Q445
+I just take Benadryl.
+
+DOCTOR Q445
+Okay.
+
+PATIENT Q445
+Once a day.
+
+DOCTOR Q445
+Okay and that controls it?
+
+PATIENT Q445
+Yes.
+
+DOCTOR Q445
+Do you need refills on anything?
+
+PATIENT Q445
+Uh the I'm sure the statin uh it's the what is it simvastatin.
+
+DOCTOR Q445
+Yeah.
+
+PATIENT Q445
+And also the pressure medication lisinopril now you said you might want to add.
+
+DOCTOR Q445
+Uh-huh.
+
+PATIENT Q445
+Another.  
+
+DOCTOR Q445
+Yeah we'll talk to DOCTOR about it.
+
+PATIENT Q445
+Yes.
+
+DOCTOR Q445
+Okay let me go get her. I’ll listen to your heart and lungs really quickly.
+
+PATIENT Q445
+Okay.
+
+DOCTOR Q445
+Deep breath.  Again.  Do you have swelling in your legs at all?
+
+PATIENT Q445
+Uh no.
+
+DOCTOR Q445
+Okay that's good.  Let me go talk to DOCTOR and I'll be right back.
+
+PATIENT Q445
+Okay and we're gonna ask about a blood test?
+
+DOCTOR Q445
+Yeah.
+
+PATIENT Q445
+The lab work that measures the cholesterol.
+
+DOCTOR Q445
+Yeah you haven't eaten today right?
+
+PATIENT Q445
+No I didn't.  Purposely, every December we do the blood.
+
+DOCTOR Q445
+Okay yeah, so we'll get it today then.
+
+PATIENT Q445
+Yeah and I purposefully don't eat @@@.
+
+DOCTOR Q445
+You know the rules.
+
+PATIENT Q445
+Yeah.
+
+DOCTOR Q445
+Good.  
+
+(DOCTOR OUT:  30:50  DOCTOR IN:  33:28)
+
+SECOND DOCTOR Q445
+Hey PATIENT.
+
+PATIENT Q445
+DOCTOR.
+
+SECOND DOCTOR Q445
+How are you?
+
+PATIENT Q445
+I feel good thank you.
+
+SECOND DOCTOR Q445
+You look good.  So you are all settled in your new place?
+
+PATIENT Q445
+Beg your pardon?
+
+SECOND DOCTOR Q445
+You are settled in that new apartment you were trying to move into last time we saw you?
+
+PATIENT Q445
+Uh yes I'm settled.
+
+SECOND DOCTOR Q445
+Okay.
+
+PATIENT Q445
+Uh yes uh so now I'm trying to stay healthy.
+
+SECOND DOCTOR Q445
+Okay.
+
+PATIENT Q445
+But it's hard.  It's hard.  You know this blood pressure business; I don't know what to do.  You know when I was here before you increased the lisinopril from 20 to 40.
+
+SECOND DOCTOR Q445
+Oh.
+
+PATIENT Q445
+Now and as a result of doing that I came back 30 days later, you checked the pressure and it was 128.
+
+SECOND DOCTOR Q445
+Okay.
+
+PATIENT Q445
+Just what you wanted to see.
+
+SECOND DOCTOR Q445
+Are you checking it at home?
+
+FIRST DOCTOR Q445
+@@@.
+
+PATIENT Q445
+There's no way I could check it at home because.
+
+SECOND DOCTOR Q445
+I wonder if they have like anything @@@.
+
+PATIENT Q445
+Yeah that's what I would need, something that would talk.
+
+SECOND DOCTOR Q445
+But I don't know that we have it but I can put in the request and see what they have.
+
+PATIENT Q445
+Yes okay.  But see when I was here uh in April I was so concerned about the salty things.
+
+SECOND DOCTOR Q445
+You are watching your diet right?
+
+PATIENT Q445
+Absolutely.  When I was here in April I talked to the dietician.
+
+SECOND DOCTOR Q445
+Okay alright.  So in that case, two ways we can do, we um, A we can go ahead and start you on a new medication today; B we can have you come back with another visit with the nurse, to see if it's still elevated then we can start at that point so since we didn't have any readings in between but that's what we can do.  Which one do you prefer?
+
+PATIENT Q445
+Well with no change in medications starting today I'm sure it's gonna be the same results.
+
+SECOND DOCTOR Q445
+That's right.  So you would go ahead and start the new medication right now then?
+
+PATIENT Q445
+Would it be a new one or an addition to?
+
+SECOND DOCTOR Q445
+That's correct because you are already on the maximum dose on the one that you are taking.
+
+PATIENT Q445
+I see.  Yeah, yeah okay.  Oh the new one yes.
+
+SECOND DOCTOR Q445
+Okay.
+
+PATIENT Q445
+You know I'm just.
+
+SECOND DOCTOR Q445
+Were you ever on a water pill before?
+
+PATIENT Q445
+Uh yes, zestoretic is that a drug? 
+
+SECOND DOCTOR Q445
+Hydrochlorothiazide.
+
+PATIENT Q445
+Is that the chemical for zestoretic?
+
+SECOND DOCTOR Q445
+Dyazide, no I don't know about that.
+
+PATIENT Q445
+Uh I'm not sure of the chemical but before I came, before I was coming to the VA, the zestoretic I believe had a water component to it.
+
+SECOND DOCTOR Q445
+Alright so we'll go ahead and do that, half a dose only, very small dose.
+
+PATIENT Q445
+Tell me which one?
+
+SECOND DOCTOR Q445
+Water pill.
+
+PATIENT Q445
+The water pill.
+
+SECOND DOCTOR Q445
+Yeah and then we'll have your blood pressure checked in one month with the pharmacist uh and at that time we'll see.
+
+PATIENT Q445
+No you said, now this will be what would be a combination of the anti-hypertensive plus a water pill combined?
+
+SECOND DOCTOR Q445
+No you're not on combination only on one tablet of medication.  The lisinopril is by itself.
+
+PATIENT Q445
+Yeah.
+
+SECOND DOCTOR Q445
+So this is in addition to those meds okay.
+
+PATIENT Q445
+Oh so continue with the.
+
+SECOND DOCTOR Q445
+The lisinopril and you take an additional medicine because one medicine is not controlling your blood pressure.
+
+PATIENT Q445
+Is that that water pill?
+
+SECOND DOCTOR Q445
+That's correct hydrochlorothiazide.
+
+PATIENT Q445
+I see, I see.  Okay one item, I've been reading about this chemical probiotics.
+
+SECOND DOCTOR Q445
+No you don't need it.
+
+PATIENT Q445
+Don't need it.
+
+SECOND DOCTOR Q445
+Oh probiotics are when you're on long term antibiotics or you're in the hospital, you're on big time antibiotics, no you don't need them.
+
+PATIENT Q445
+I see yeah.
+
+SECOND DOCTOR Q445
+Alright.
+
+PATIENT Q445
+Okay thank you.
+
+FIRST DOCTOR Q445
+You want to pick this up at the window?
+
+PATIENT Q445
+Oh, oh, oh, oh, the lab work.
+
+FIRST DOCTOR Q445
+Yeah I already ordered it; you can just go get it now.
+
+PATIENT Q445
+Oh, oh, okay now you said here about the medicine, I'll pick it up.
+
+FIRST DOCTOR Q445
+Or we could send it in the mail.
+
+PATIENT Q445
+I'd rather pick it up.
+
+FIRST DOCTOR Q445
+Yeah okay let me put it in, that's a lower one.
+
+PATIENT Q445
+Okay.
+
+FIRST DOCTOR Q445
+Alright you can pick it up at the window okay.
+
+PATIENT Q445
+Okay.
+
+FIRST DOCTOR Q445
+And then you can go to the Lab, I already ordered that for you, okay.
+
+PATIENT Q445
+Okay um.
+
+FIRST DOCTOR Q445
+You're all set.
+
+PATIENT Q445
+Um.
+
+FIRST DOCTOR Q445
+We'll have you check in with the Pharmacy in one month okay.
+
+PATIENT Q445
+Okay can I ask you something?  Take a look at this; I'm feeling here and here. Is that a rash.
+
+FIRST DOCTOR Q445
+Nope there's no rash.
+
+PATIENT Q445
+Because it was here, here on my.
+
+FIRST DOCTOR Q445
+I think it's just dry on this one side.
+
+PATIENT Q445
+Dry.
+
+FIRST DOCTOR Q445
+You can just maybe moisturize it.
+
+PATIENT Q445
+I see.
+
+FIRST DOCTOR Q445
+Uh-huh.
+
+PATIENT Q445
+I should.
+
+FIRST DOCTOR Q445
+Let me you walk out here and then um you'll need to get some @@@ for it to help you get into the Lab or.
+
+PATIENT Q445
+I guess the uh people from uh, what is the department that it is uh, it's the Escort.
+
+FIRST DOCTOR Q445
+Okay let's go get one.
+
+PATIENT Q445
+Okay so again uh this is the water pill.
+
+FIRST DOCTOR Q445
+You take the water pill once a day okay and um you pick it up at the window and then I refilled your lisinopril. Here you go, here’s your jacket.
+
+PATIENT Q445
+Okay now, now the name of that again that water?
+
+FIRST DOCTOR Q445
+It's called hydrochlorothiazide.
+
+PATIENT Q445
+Yeah.
+
+FIRST DOCTOR Q445
+It's a diuretic so it will make you go to the bathroom more okay.
+
+PATIENT Q445
+Yes.
+
+FIRST DOCTOR Q445
+So we can cut it, that would be for your blood pressure okay.
+
+PATIENT Q445
+I see.
+
+FIRST DOCTOR Q445
+And we think that this one will help so we have you on a smaller dose of it, we might need to increase it but that's how we do it, we start at a smaller dose and then we increase it okay.
+
+PATIENT Q445
+I see, I see.
+
+DOCTOR Q445
+Okay I'll take you out to the window so you want to grab my arm?
+
+PATIENT Q445
+Uh yes.  Okay.  Yeah I need to come in for the lab work but @@@?
+
+FIRST DOCTOR Q445
+So.
+
+PATIENT Q445
+Because I wanted the results and you'll let me know @@@.
+
+FIRST DOCTOR Q445
+Okay @@@ ask DOCTOR but you'll be back @@@.
+
+PATIENT Q445
+@@@.
+
+FIRST DOCTOR Q445
+Um so if @@@ then I'll just call you back and @@@.  But you can always give her a call um if you needed the results and also they can send you a letter to let you know @@@.
+
+PATIENT Q445
+I get it.
+
+FIRST DOCTOR Q445
+Okay.
+
+PATIENT Q445
+Can I get it in a letter?
+
+FIRST DOCTOR Q445
+No problem, I will do that for you.
+
+PATIENT Q445
+See the letter; does it give all the details?
+
+FIRST DOCTOR Q445
+It will tell you if they're normal, abnormal or @@@ and if you want an actual copy of it @@@ if that makes sense.
+
+PATIENT Q445
+When you say, what are you gonna measure and give it to me in the letter.
+
+FIRST DOCTOR Q445
+It tells you kind of like your blood counts are normal or your blood count was abnormal and your hemoglobin was low like that.  That's what the letter does, it's like a quick.
+
+PATIENT Q445
+Okay now what about.
+
+FIRST DOCTOR Q445
+It can identify what has happened.
+
+PATIENT Q445
+Now the cholesterol levels.
+
+FIRST DOCTOR Q445
+We write that in for you, no problem.
+
+PATIENT Q445
+@@@.
+
+FIRST DOCTOR Q445
+I'm gonna get you; there's a line to wait in.
+
+PATIENT Q445
+Uh yes uh.
+
+FIRST DOCTOR Q445
+@@@.
+
+PATIENT Q445
+So what do I do uh, how do I @@@?  Do I do it now?
+
+FIRST DOCTOR Q445
+Yeah they do it @@@.  Okay.
+
+PATIENT Q445
+Okay.  But I can't wait @@@.
+
+FIRST DOCTOR Q445
+You can always call and get it @@@.
+
+PATIENT Q445
+Yes.
+
+FIRST DOCTOR Q445
+@@@.
+
+PATIENT Q445
+So what do they order on the labs?
+
+FIRST DOCTOR Q445
+I'm ordering everything, your blood counts, cholesterol, @@@ everything.
+
+PATIENT Q445
+Okay.
+
+FIRST DOCTOR Q445
+You'll get your labs drawn okay.
+
+PATIENT Q445
+Yes.
+
+FIRST DOCTOR Q445
+You'll have to wait in line so just tell them, ask the clerk you can give her this.
+
+PATIENT Q445
+Yes.
+
+FIRST DOCTOR Q445
+That you need a parking ticket and you'll probably need an escort @@@.
+
+PATIENT Q445
+Yes, yes and you'll put in a request so @@@.
+
+FIRST DOCTOR Q445
+Yes I will.  Okay.
+
+PATIENT Q445
+Okay thank you.
+
+FIRST DOCTOR Q445
+@@@.
+
+PATIENT LEAVES:  41:41.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300298
+TRANSACTION # 578-10-2-316-0103

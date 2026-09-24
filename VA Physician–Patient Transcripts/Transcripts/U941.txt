@@ -1,0 +1,697 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR U941
+PATIENT?
+
+PATIENT U941
+Yes sir.
+
+DOCTOR U941
+I'm DOCTOR, nice to see you.
+
+PATIENT U941
+You too sir.
+
+DOCTOR U941
+How are you?
+
+PATIENT U941
+Fine.
+
+DOCTOR U941
+Come on in.  How have you been since I last saw you.  I saw you when you got back from Puerto Rico.
+
+PATIENT U941
+Yep.
+
+DOCTOR U941
+How's everything going?  @@@ better?
+
+PATIENT U941
+Much much better.
+
+DOCTOR U941
+So when I saw you you were having trouble @@@.
+
+PATIENT U941
+I got these from @@@ like a survey.
+
+DOCTOR U941
+Oh it's okay.  Its part of the @@@ program, you can leave it there, it's no big deal.
+
+PATIENT U941
+But what I mean, nobody’s going to @@@.
+
+DOCTOR U941
+I don't know what happens.  I don't know, they're supposed to record our interactions to see what's going on.
+
+PATIENT U941
+Yeah.
+
+DOCTOR U941
+We'll just leave it there cause I don't want to touch it cause I don't know what to do with it.  Um, so since I last saw you you had come back from Puerto Rico and you were having trouble finding housing and employment.  How is that stuff going?
+
+PATIENT U941
+Okay, I you see me the 19th November.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+On the next day I get uh, I was admitted in Cook Manor.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+@@@.
+
+DOCTOR U941
+Is that, so that's for housing.
+
+PATIENT U941
+For housing and it looks like I got a job.
+
+DOCTOR U941
+Where?
+
+PATIENT U941
+In the Menlo Park.  I'm going to be working for Titan Security Service.
+
+DOCTOR U941
+Do you have a way you can get there, transportation; do you have a way to get there?
+
+PATIENT U941
+Si, si.
+
+DOCTOR U941
+Probably just take the Metro or the L.
+
+PATIENT U941
+I take the 308 from here.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+To Forest Park.
+
+DOCTOR U941
+Yeah the Blue Line.
+
+PATIENT U941
+And then the Blue Line from Forest Park to Monroe.
+
+DOCTOR U941
+When do you start?
+
+PATIENT U941
+I am waiting for their call cause uh last week, they took my fingerprint and they sent it to the FBI.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+And they're waiting for.
+
+DOCTOR U941
+Clearance.
+
+PATIENT U941
+They said that it could take from 5-10 @@@ day.  I gonna call them tomorrow to follow up on that but.
+
+DOCTOR U941
+Is there any, do you think they're gonna find anything that's concerning?
+
+PATIENT U941
+No, no, no.  I don't have no felony or anything.  I know anything ruining my record but as a matter of fact I don't @@@ stay from Puerto Rico.
+
+DOCTOR U941
+Right.
+
+PATIENT U941
+I don't have nothing from there neither.
+
+DOCTOR U941
+Great, great.  Are you excited about all this?
+
+PATIENT U941
+Oh yes I am.
+
+DOCTOR U941
+And then, if I remember right, your family, your only family here is a sister-in-law.
+
+PATIENT U941
+Uh-huh.
+
+DOCTOR U941
+Do you still see them at all?
+
+PATIENT U941
+I saw her about one or two, twice a month.
+
+DOCTOR U941
+And you have a wife and children in Puerto Rico.
+
+PATIENT U941
+Yes.
+
+DOCTOR U941
+Do you talk to them still?
+
+PATIENT U941
+Every day.
+
+DOCTOR U941
+How is it?
+
+PATIENT U941
+They're doing good.
+
+DOCTOR U941
+And the relationship is okay.
+
+PATIENT U941
+Oh yeah.
+
+DOCTOR U941
+You guys get along okay good.  How is everything else going, all your medications are okay?
+
+PATIENT U941
+Uh-huh.
+
+DOCTOR U941
+I know you see, I read that you completed the ATP Program.
+
+PATIENT U941
+Yes.
+
+DOCTOR U941
+And then uh they now have you seeing one of the physicians over there.
+
+PATIENT U941
+DOCTOR.
+
+DOCTOR U941
+And he gives you all your medications.  Is everything, you're okay with the way everything's going with your medications?
+
+PATIENT U941
+Well, I got a refill from the DOCTOR.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+@@@ see, I don't know the number like DOCTOR.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+Uh if it's Chinese or I don't know.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+But I @@@ not talked to her yet but I have medications.
+
+DOCTOR U941
+Okay.  Do you have an appointment with him coming up?
+
+PATIENT U941
+I think that I have uh; I think that it's for May.  Of course in April I have.
+
+DOCTOR U941
+Colonoscopy.
+
+PATIENT U941
+The colonoscopy.
+
+DOCTOR U941
+Good we'll do that.  I'm glad that they have that April 23rd.
+
+PATIENT U941
+Yeah.
+
+DOCTOR U941
+It looks like they're doing the colonoscopy.
+
+PATIENT U941
+Uh-huh.
+
+DOCTOR U941
+Okay and then um and anything else that's bothering you or anything else going on?
+
+PATIENT U941
+No remember I have that thing in my knee?
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+It's getting better.  I know that it could take more, like six more months, but it don't bother me no more.
+
+DOCTOR U941
+@@@.
+
+PATIENT U941
+I can walk.
+
+DOCTOR U941
+Are you losing any weight?
+
+PATIENT U941
+I need to weigh.
+
+DOCTOR U941
+That will help.  That will definitely help.
+
+PATIENT U941
+Cause I was 230.
+
+DOCTOR U941
+Yeah now it's at 225.
+
+PATIENT U941
+I don't know @@@.
+
+DOCTOR U941
+Yeah standing but you @@@ in June I don't know is this right, in June of 2000 well you were 172.
+
+PATIENT U941
+When I came here, I came here in June.
+
+DOCTOR U941
+Cause you were working.
+
+PATIENT U941
+No I wasn't.  I came here from Puerto Rico cause I was dying and they sent me for treatment.
+
+DOCTOR U941
+Here from alcohol.
+
+PATIENT U941
+Alcohol.
+
+DOCTOR U941
+Is that why your weight was so low cause you weren't eating?
+
+PATIENT U941
+Oh it was no.  I drink and I did not eat nothing for weeks.
+
+DOCTOR U941
+Yeah look at how much your weight went up.  Your weight went up from you were 172 and then you went up to 215 and then you kind of were stable so hopefully when you start working again your weight will come down.
+
+PATIENT U941
+Cause I need to work over there @@@.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+There are 25 acres.
+
+DOCTOR U941
+Well that's fantastic so I'm very happy that.  So how long can you stay in Cook Manor for?
+
+PATIENT U941
+Two years.
+
+DOCTOR U941
+Oh great so you have some time to get some money built up, get an apartment, two years.  Do you mind if I take a look at you?
+
+PATIENT U941
+Okay.
+
+DOCTOR U941
+Yeah let me take a peak.  I'm gonna wash my hands.  
+
+PATIENT U941
+Now I want to see, I don't know if it was you or the other doctor.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+Cause I have, my feet were sweating big time.
+
+DOCTOR U941
+Yeah, yeah.
+
+PATIENT U941
+And he said that was cause I was taking the high blood pressure pills and he gave me some water pills and they helped.
+
+DOCTOR U941
+I don't know how are your feet?
+
+PATIENT U941
+I take a the pills and I continue to @@@.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+And to be honest with you, he gave me like a 25 mg pill to have me take half pills.
+
+DOCTOR U941
+Yeah, right.
+
+PATIENT U941
+I've been taking the whole pill.
+
+DOCTOR U941
+Okay fine.
+
+PATIENT U941
+Because it is so tiny.
+
+DOCTOR U941
+Well your blood pressure, it's not for your blood pressure control.  Your blood pressure's good.
+
+PATIENT U941
+Well the only thing that I am always concerned, being my concern is besides the high blood pressure is the heart @@@.
+
+DOCTOR U941
+Oh yeah.
+
+PATIENT U941
+I know, when I came to the states.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+I used to have 120, 145.
+
+DOCTOR U941
+So that can be due to the alcohol.  People that have alcohol they can go into withdrawals or when they're drinking can get heart rates that are fast and I know that you were drinking and not drinking and your body was probably.  Did you used to get the shakes a lot?
+
+PATIENT U941
+I know, it's gone.
+
+DOCTOR U941
+Okay.
+
+PATIENT U941
+But when you see me, when I came here uh.
+
+DOCTOR U941
+You were clean when I saw you in November.
+
+PATIENT U941
+I was.
+
+DOCTOR U941
+Yeah you told me.
+
+PATIENT U941
+I was clean from drugs.
+
+DOCTOR U941
+You told me you would drink a little bit in Puerto Rico, that's why you left.
+
+PATIENT U941
+Uh that was bullshit, I was drinking lots.
+
+DOCTOR U941
+Oh I knew.  Don't worry, @@@ its okay.  Keep breathing.
+
+PATIENT U941
+As a matter of fact when you see me in the last time in November I was stop drinking for one day and I was shaking, my hand was shaking cause I was.
+
+DOCTOR U941
+Well I was trying to figure out why you left Puerto Rico, you came all the way up here just to see me, I didn't think I was that important so I was trying to figure out why you came here and left your family and I know you say that you can get a better job here so I think that that's fantastic but I know also you said that.  You go to the bathroom okay?  Well you told me that if you stayed around Puerto Rico you'd get in trouble.  You know you told me you were hanging out with the wrong guys and that.  
+
+PATIENT U941
+Uh-huh.
+
+DOCTOR U941
+Your legs look good, they look real good.  There's no swelling at all.  Um so I think you're doing fantastic.  I'm very glad that uh you were able to get a job and you were able to get somewhere to live.  I applaud you for stopping alcohol and drugs.  I think that whatever you have to do to stay away from it do it.  I think that your health will get better as you start working more.  You will feel more motivated.  You'll have a real reason to get up in the morning and after a while you'll feel more empowered and you'll have more money and you can get an apartment and then you know hopefully you can get back with your family and get everything the way you want it again.
+
+PATIENT U941
+Yeah.  I'm applying for some job here in the hospital.
+
+DOCTOR U941
+Good.  Apply for everything you know we can do for you.
+
+PATIENT U941
+Yeah I get that job for @@@ you know.
+
+DOCTOR U941
+Hey anything, any extra money is helpful.  It'll help you get back on your feet and help you get out of here.  And just keep the colonoscopy appointment.  Uh I don't think we're gonna change any medications today and it looks like you have DOCTOR in May, early May he's gonna see you.  So let me go, I'll talk to my boss but I like the way everything's going.  I'm going to see you in the summer.
+
+PATIENT U941
+Let's see, March, April, yeah.  Cause I need the refills.
+
+DOCTOR U941
+Which ones.
+
+PATIENT U941
+For what I am taking until that day cause uh.
+
+DOCTOR U941
+Are you.
+
+PATIENT U941
+Do you know that I want to start, folic acid@@@ to be honest with you I was thinking I have thiamine.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+But I don't have, I not have for now @@@.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+And Omega 3.  
+
+DOCTOR U941
+I'll renew all that for you.
+
+PATIENT U941
+And all the other stuff.
+
+DOCTOR U941
+Sure.
+
+PATIENT U941
+I think you can cancel the supositories.
+
+DOCTOR U941
+Good.
+
+PATIENT U941
+I don't need it now.
+
+DOCTOR U941
+How about are you still smoking?
+
+PATIENT U941
+Yes.
+
+DOCTOR U941
+Are you using nicotine.
+
+PATIENT U941
+I @@@ yesterday the patch.  @@@ using it cause when I start working I not gonna be able to smoke you know.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+In the park.  I'm gonna put my patch and it will help me both in my health and my @@@.
+
+DOCTOR U941
+Do you have the, the things to drink before your colonoscopy?
+
+PATIENT U941
+Uh-huh.
+
+DOCTOR U941
+Did they give you those.  You have those?
+
+PATIENT U941
+Yeah.
+
+DOCTOR U941
+Okay.  You take those as directed.  So I'm going to renew the folic acid, the Omega 3 and the thiamine.
+
+PATIENT U941
+That mouth thing, the water pills.  Are you increasing to 25 mg.
+
+DOCTOR U941
+I'll note it the way you're taking it yeah, cause I think that you need it at 25 so we'll keep it.  These are all going to be mailed and then how about the multivitamin?
+
+PATIENT U941
+Yeah I need that.
+
+DOCTOR U941
+And then your psychiatric medications I'm going to let DOCTOR do cause I don't usually do those, especially since you're going to see him.  Call them and if you need those refilled cause I don't know if those are the doses they want you to stay on.
+
+PATIENT U941
+Yeah I am using @@@ 300 mg.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+And @@@.
+
+DOCTOR U941
+Citalopram.
+
+PATIENT U941
+Citalopram 60 mg.
+
+DOCTOR U941
+Bupropion.
+
+PATIENT U941
+Uh-huh.
+
+DOCTOR U941
+When you come back, let me say I'm happy you're doing very well.
+
+PATIENT U941
+Are you leaving for?
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+I would like you to see me because I am having some kind of problems listening.
+
+DOCTOR U941
+Yeah let me take a look in your ears.  So what's been going on.
+
+PATIENT U941
+See @@@ but @@@ taking the courses.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+For the @@@ security card, whatever, blue card @@@.
+
+DOCTOR U941
+Yeah.
+
+PATIENT U941
+And I already talked to the instructor to right the volume cause I can't hear.
+
+DOCTOR U941
+I can have your hearing looked at.  You know let me take a look.  I have to look in your ears and make sure there's nothing in there that's worrisome.  Let me check this ear.
+
+PATIENT U941
+I mean.
+
+DOCTOR U941
+Which ear is worse than the other?
+
+PATIENT U941
+I don't know.
+
+DOCTOR U941
+They're the same?
+
+PATIENT U941
+I don't know @@@.
+
+DOCTOR U941
+Did you have a lot of loud sounds with your jobs in the past?  Did you work next to heavy machinery?
+
+PATIENT U941
+Oh yes.
+
+DOCTOR U941
+Okay we can get your hearing evaluated here.  I'll send you down to the people downstairs and they can see if you need any hearing help okay.
+
+PATIENT U941
+Okay @@@.
+
+DOCTOR U941
+We could at least have it checked.  You might as well.  I'll be right back.
+
+PATIENT U941
+Okay.
+
+(DOCTOR OUT:  21:23  DOCTOR IN:  23:29)
+
+DOCTOR U941
+Alright PATIENT.  I am very happy with how you're doing.  Um I'm going to keep seeing you.  I want to see you in the fall and we'll make sure everything's okay.  But please call in if you ever have any trouble or if you feel like you're going to start drinking again cause I think you're going in the right direction.
+
+PATIENT U941
+Oh no, no, no.
+
+DOCTOR U941
+You're going in the right direction.
+
+PATIENT U941
+I don't like no cravings.
+
+DOCTOR U941
+And I think that once we get you in your own place and everything you will be very very happy.  So anything else I can do today for you?
+
+PATIENT U941
+When are you see me, in the fall?
+
+DOCTOR U941
+Fall.
+
+PATIENT U941
+I mean what month?
+
+DOCTOR U941
+You pick.  You can tell them any month you want when you go up front there.  You can take September, October, November, doesn't matter to me.
+
+PATIENT U941
+Okay good, good, cause I will have my medications?
+
+DOCTOR U941
+Yeah.  I just refilled everything too.
+
+PATIENT U941
+So what day?
+
+DOCTOR U941
+Uh well at least through the summer.  I gave you four months and five months on all of them. but you can always call in and I'll refill them over the phone.
+
+PATIENT U941
+Okay.
+
+DOCTOR U941
+Yeah and you don't always have to come in for meds.
+
+PATIENT U941
+Sounds great.
+
+DOCTOR U941
+Okay alright sir.  Nice to see you again.
+
+PATIENT U941
+And it will be for November.  @@@ If I need something or I feel bad I'll call you.
+
+DOCTOR U941
+Yeah just call me and we'll take care of it.  Alright I'll see you.
+
+PATIENT U941
+@@@.  
+
+DOCTOR U941
+Thank you see ya.
+
+PATIENT U941
+Thank you.
+
+PATIENT LEAVES 24:47
+
+Time is 3:45.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1238098
+TRANSACTION # 578-10-2-316-0103

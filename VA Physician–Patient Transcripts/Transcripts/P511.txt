@@ -1,0 +1,341 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@
+
+DOCTOR P511 
+PATIENT?  Have a seat.  I haven't see you before, DOCTOR sees you usually right?
+
+PATIENT P511
+Yes.
+
+DOCTOR P511
+Okay.  But I see from the notes here that you've had some weight loss and they did some scopes on you from above and below and they found some ulcer in the stomach and they found an infection in the ulcer too so they gave you some medicine and they told you to @@@ here.  Does this all sound familiar?
+
+PATIENT P511
+Yes.
+
+DOCTOR P511
+Okay.  So did you get @@@follow up, that's probably about two weeks or something.
+
+PATIENT P511
+Yeah @@@.
+
+DOCTOR P511
+@@@ Oh, I see, it was last year but they sent you to get a biopsy on June @@, @@@@, that was like a year ago.
+
+PATIENT P511
+Uh-huh.
+
+DOCTOR P511
+@@@ okay but you still don't feel that you're um weight and all that is getting better now?
+
+PATIENT P511
+No I still feel like I'm losing.
+
+DOCTOR P511
+You still feel like you're losing weight.  What made you go in to see them before the scope that you got, um did you have pain or?
+
+PATIENT P511
+Oh it was my weight loss.
+
+DOCTOR P511
+It was just weight loss.  So you didn't have stomach pain.
+
+PATIENT P511
+Uh uh.
+
+DOCTOR P511
+Or bleeding from anywhere@@@.
+
+PATIENT P511
+Uh uh.
+
+DOCTOR P511
+Okay so but now, but you think, @@@ finished all those medicines.
+
+PATIENT P511
+I've had some @@@ in the last two weeks.
+
+DOCTOR P511
+You've been @@@ for two weeks.
+
+PATIENT P511
+Last two weeks.
+
+DOCTOR P511
+Okay.  Okay.  Um so you're still losing weight.
+
+PATIENT P511
+Uh-huh.
+
+DOCTOR P511
+Okay and.
+
+PATIENT P511
+And that's why I went to the doctors.  I didn't know I was going to go through those things.
+
+DOCTOR P511
+Oh well I @@@ office she’s still @@@.
+
+PATIENT P511
+And then she knows what's happening.
+
+DOCTOR P511
+Right.  Well she's gonna hear about you anyway just @@@.
+
+PATIENT P511
+Okay.
+
+DOCTOR P511
+She's still behind everything, she's behind the scenes.
+
+PATIENT P511
+Okay.
+
+DOCTOR P511
+Um but so what else is going on?
+
+PATIENT P511
+Well I need to get all of my medicine that I usually get from her.
+
+DOCTOR P511
+Okay what medicine is it, I don't have a list @@@.
+
+PATIENT P511
+Well I need.
+
+DOCTOR P511
+Do want me to @@@ your medicines?
+
+PATIENT P511
+I missed my uh, just a minute, the @@@ need some of that.
+
+DOCTOR P511
+Okay.
+
+PATIENT P511
+And the @@@.
+
+DOCTOR P511
+Do you take water pill?
+
+PATIENT P511
+@@@ vitamin.
+
+DOCTOR P511
+Or a blood pressure pill?
+
+PATIENT P511
+Yeah I @@@ vitamin.
+
+DOCTOR P511
+It doesn’t look like you have any more of your blood pressure pills either. How was your blood pressure today? Oh, it was okay. @@@  Have you been taking this?
+
+PATIENT P511
+Well I'm taking all of the medicines.
+
+DOCTOR P511
+Aspirin @@@.
+
+PATIENT P511
+Yeah.
+
+DOCTOR P511
+Do you need @@@.  
+
+PATIENT P511
+@@@.
+
+DOCTOR P511
+The water pill.
+
+PATIENT P511
+The water pills.
+
+DOCTOR P511
+Hydralazine, yeah I see that you've @@@.  Hydralazine 25 twice a day and lisinopril 20 once a day.  Cholesterol medicine, are you taking that?
+
+PATIENT P511
+What's that?
+
+DOCTOR P511
+The cholesterol medicine.
+
+PATIENT P511
+Oh yes I do.
+
+DOCTOR P511
+Okay.  And then there's the medicine for the prostate.
+
+PATIENT P511
+Uh-huh.
+
+DOCTOR P511
+5 mg of terazosin.  I'll give you a copy of this.  Do you want to pick up today or do you want them mailed to you?
+
+PATIENT P511
+They can be mailed to me. @@@.
+
+DOCTOR P511
+Okay. Do you have ankle swelling? No? Because you used to be on a water pill are you still taking it?
+
+PATIENT P511
+Is there a pill that I can take to give me an appetite.
+
+DOCTOR P511
+Yeah, there is an appetite stimulant that also helps with depression and it looks @@@ to stimulate your appetite.
+
+PATIENT P511
+@@@.
+
+DOCTOR P511
+Yeah right.  You want to try that?  @@@.
+
+PATIENT P511
+Uh-huh.
+
+DOCTOR P511
+You just don’t feel like you want to eat @@@.
+
+PATIENT P511
+@@@.
+
+DOCTOR P511
+Hmm.  You @@@ normally taken, @@@.  Um you want to just keep taking it now, it can help with sleep your appetite and it can help with all different things. You don’t have to have all those things to take it, bu.
+
+PATIENT P511
+Uh-huh.
+
+DOCTOR P511
+@@@.  I wonder when the last time was that you had blood tests done.  Do you remember?
+
+PATIENT P511
+Uh, I think the last time I was here DOCTOR @@@.
+
+DOCTOR P511
+@@@  So it's been a long time, so you're due for some blood tests.
+
+PATIENT P511
+Yeah.
+
+DOCTOR P511
+@@@ So I'll get those done.  Uh the best would be if you could get it done when you're fasting.  Do you live around here, could you come back sometime when you haven't eaten anything?
+
+PATIENT P511
+Yes.
+
+DOCTOR P511
+Okay so I'll order it and you can probably just come back in the morning when you haven't eaten to get your blood tests done.
+
+PATIENT P511
+Okay.
+
+DOCTOR P511
+Okay.
+
+PATIENT P511
+Um I have an appointment in here Friday.
+
+DOCTOR P511
+Okay, just come on Friday then.
+
+PATIENT P511
+Okay.  @@@.
+
+DOCTOR P511
+That's okay you can come, you can do it before or after, whenever you want.
+
+PATIENT P511
+After everything?
+
+DOCTOR P511
+Yeah as long as you're okay being hungry until afterwards, you can't eat anything.
+
+PATIENT P511
+Oh okay.
+
+DOCTOR P511
+So if you want, I think the lab opens at 7 if you want to do it like before your appointment that way you can eat something.
+
+PATIENT P511
+Oh yeah okay.
+
+DOCTOR P511
+Otherwise you'll get pretty hungry.
+
+PATIENT P511
+Okay.  @@@.
+
+DOCTOR P511
+What's that?
+
+PATIENT P511
+The Blood Lab is open.
+
+DOCTOR P511
+Yeah I think they open at 7 o'clock or something. 
+
+PATIENT P511
+Go in.
+
+DOCTOR P511
+Yeah.  @@@ see if we can get some urine, too, okay.
+
+PATIENT P511
+Uh-huh.  Urine.
+
+DOCTOR P511
+Uh-huh.  Did @@@ some of your medicines until get some of the blood tests, that way you can get some of them today and then come back and get the rest of them on Friday because @@@.  But we could probably give you most of them but there were a couple of them maybe one or two @@@.
+
+PATIENT P511
+Hmm.
+
+DOCTOR P511
+@@@ okay.  Um @@@ okay.  Deep breath again, breath in and out okay.  Okay.  @@@ I'll be right back.
+
+(DOCTOR OUT:  60:37  DOCTOR IN:  62:45)
+
+DOCTOR P511
+@@@.  So your vitamin D, your vitamin D level is low so there is a vitamin D that you take once a week.
+
+PATIENT P511
+Uh-huh.
+
+DOCTOR P511
+Okay, you take it once a week for three months and we'll check your level to see how you're doing to see if we can get it up to where it's supposed to be okay.
+
+PATIENT P511
+@@@.
+
+DOCTOR P511
+@@@.  So get all these blood tests done and then @@@.  Um and then we're gonna also get a chest x-ray to see @@@.  Okay @@@.
+
+PATIENT P511
+Okay.
+
+DOCTOR P511
+@@@.
+
+PATIENT P511
+@@@.
+
+DOCTOR P511
+@@@.  Okay @@@ and I'll put in for you to come back in three months @@@ okay.
+
+PATIENT P511
+Do I need to give this to the front?
+
+DOCTOR P511
+And the Pharmacy should have these in the computer.  @@@, it's all in the computer so @@@ okay.  You're all set.
+
+PATIENT P511
+@@@.
+
+DOCTOR P511
+Yep @@@.
+
+PATIENT LEAVES:  66:50.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275409
+TRANSACTION # 578-10-2-316-0103

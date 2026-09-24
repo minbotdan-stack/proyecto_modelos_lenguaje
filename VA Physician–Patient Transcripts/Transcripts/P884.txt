@@ -1,0 +1,458 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@ 
+
+DOCTOR P884
+So I see you saw the eye doctors today.
+
+PATIENT P884
+Yeah.
+
+DOCTOR P884
+Uh so far.
+
+PATIENT P884
+@@@.
+ 
+DOCTOR P884
+Yeah what do you think is @@@.
+
+PATIENT P884
+@@@.
+
+DOCTOR P884
+Okay, perfect @@@.
+
+PATIENT P884
+Yes.  The reason @@@.
+
+DOCTOR P884
+I'm sorry.
+
+PATIENT P884
+I say that's the @@@.
+
+DOCTOR P884
+You’re still having the diarrhea?  You can have a seat.
+
+PATIENT P884
+@@@
+
+DOCTOR P884
+How often are you having it?
+
+PATIENT P884
+Quite often.
+
+DOCTOR P884
+What’s “quite often?”
+
+PATIENT P884
+It’s like all day long, non-stop.  It's like.
+
+DOCTOR P884
+How many episodes a day?
+
+PATIENT P884
+Something like, usually one before I go to work, probably once or twice, get to work, I have to use it twice, when I get home usually and when I go to bed I have to use it.  The other morning like 3 or 4 I have to go to the bathroom.
+ 
+DOCTOR P884
+@@@ times?
+
+PATIENT P884
+It’s like constantly. It’s like I’m never @@@
+
+DOCTOR P884
+Is it watery?
+
+PATIENT P884
+Yeah.  It's watery and uh real hard.
+
+DOCTOR P884
+Okay.
+
+PATIENT P884
+Like I'm never, I never feel the relief like I can't just go once and I'm done.  It's like more in there.  I expect, they had checked my colon.
+
+DOCTOR P884
+Yeah it was all normal.
+
+PATIENT P884
+Well I think it's in my intestines.
+
+DOCTOR P884
+Well it's the same thing, colon is the intestines.  They look at your entire intestines with a colonoscopy.
+
+PATIENT P884
+They got these, so I think I got @@@ that's all or a tapeworm or something. Something ain't right.
+
+DOCTOR P884
+Are you losing any weight or gaining weight?
+
+PATIENT P884
+No.  Still the same size.
+
+DOCTOR P884
+Okay.  Any nausea or vomiting?
+
+PATIENT P884
+Well when I use it there is so much that come out at once.
+
+DOCTOR P884
+Uh-huh.
+
+PATIENT P884
+It's a lot.
+
+DOCTOR P884
+I know it's hard, absolutely.  Do you feel anxious at all?  Do you feel like you're stressed out or anything like that or?  No, okay.  Your blood pressure looks good today.  You're taking your two medicines correct.
+
+PATIENT P884
+Uh-huh.
+
+DOCTOR P884
+Perfect and at home it's been looking okay?
+
+PATIENT P884
+I really haven't been checking.
+
+DOCTOR P884
+That's okay it looks good today, that's fine and are you taking the psyllium powder?
+
+PATIENT P884
+Yeah, not that often but I take it.
+
+DOCTOR P884
+Try to take it as often as you can, daily or something like that.  I don't know if it'll help but.
+
+PATIENT P884
+No it ain't no help.
+
+DOCTOR P884
+Try that.
+
+PATIENT P884
+I had surgery on my groin.
+
+DOCTOR P884
+Yeah, you have a…
+
+PATIENT P884
+Yeah I have another one, it's like not in the groin area.  It's like up under my scrotum.
+
+DOCTOR P884
+Oh yeah, when did you first notice that?
+
+PATIENT P884
+About a month ago.
+
+DOCTOR P884
+Okay and has it gotten bigger?
+
+PATIENT P884
+It was, it went down now but.
+
+DOCTOR P884
+It's okay.
+
+PATIENT P884
+It keeps coming and going though.  
+
+DOCTOR P884
+Um do you want to go see surgery again?  Do you want to get it drained or just going down, what do you want to do?
+
+PATIENT P884
+Uh I could get it looked at, see if they could drain.
+
+DOCTOR P884
+Okay.  What did they do for it or does it just go down?  Did you do anything?
+
+PATIENT P884
+Keeping it clean.
+
+DOCTOR P884
+Okay.  Any burning when you urinate? Any penile discharge?
+
+PATIENT P884
+No.  It gets really hard, like a knot.
+
+DOCTOR P884
+Yeah and does it ever have any pus come out of it or anything like that?
+
+PATIENT P884
+No.  Well I mean, do you know where that come from?  Why I keep getting them?
+
+DOCTOR P884
+Well some people just have a certain bacteria and they are prone to get what's called furuncle they're little abscesses and they tend to be in areas that are more moist, so the groin area.
+
+PATIENT P884
+Uh-huh.
+
+DOCTOR P884
+@@@ sometimes in the armpits and they tend to do that.  So you know keeping it clean and that'll go a long way and help out and know some people are prone to get it because they have what's called @@@ a certain bacteria in their body; from one source or another, who knows and then for some reason some people are more prone to develop these little abscesses, they just have to keep getting drained.
+
+PATIENT P884
+Okay.
+
+DOCTOR P884
+It's annoying.  When was the last time that you saw the surgeons?
+
+PATIENT P884
+Um it's been a while.
+
+DOCTOR P884
+It's been a while.
+
+PATIENT P884
+@@@.
+
+DOCTOR P884
+Well when was the last time you got it drained?
+
+PATIENT P884
+Hmm February.
+
+DOCTOR P884
+February.
+
+PATIENT P884
+February, March.
+
+DOCTOR P884
+Okay.  Do you smoke?
+
+PATIENT P884
+No.
+
+DOCTOR P884
+Okay very good.  I'm gonna take a listen to you.  @@@.  Did you get your flu shot this year?
+
+PATIENT P884
+Uh yeah I got it at my job.
+
+DOCTOR P884
+Okay, perfect.  Do you need any refills on your blood pressure medicine?
+
+PATIENT P884
+Uh yeah you can.
+
+DOCTOR P884
+Okay. Want to get it mailed to you?
+
+PATIENT P884
+Yeah.
+
+DOCTOR P884
+Take some deep breaths.  One more, good.  Breathe normally.  No belly pain or anything like that?
+
+PATIENT P884
+Just be feeling light.
+
+DOCTOR P884
+Does it feel full, like fluid or?
+
+PATIENT P884
+I just feel like almost it's uh @@@.
+
+DOCTOR P884
+Okay.
+
+PATIENT P884
+I'm not sure I be feeling like that but then it puffed out again.
+
+DOCTOR P884
+Do you feel fuller, is it painful?
+
+PATIENT P884
+No I ain't full.
+
+DOCTOR P884
+Okay.
+
+PATIENT P884
+It's still, like maybe it's like my stomach gets to growling @@@.
+
+DOCTOR P884
+Uh-huh.  Any swelling in your legs?
+
+PATIENT P884
+No.  That's a little, like @@@.
+
+DOCTOR P884
+Just a little @@@.
+
+PATIENT P884
+Yeah I think.  
+
+DOCTOR P884
+Let me go check a couple of things and I'll be back okay.
+
+PATIENT P884
+You want to take a look at the uh?
+
+DOCTOR P884
+Yeah I @@@ take a look at it.  Go ahead @@@@.  Has it gotten bigger do you think?
+
+PATIENT P884
+It was hard, it’s still big like, but not as high as it was. It’s right here.
+
+DOCTOR P884
+Right there?
+
+PATIENT P884
+Yeah.
+
+DOCTOR P884
+Okay.  You don't have any other ones that you're aware of?
+
+PATIENT P884
+Well I usually get them like in here.
+
+DOCTOR P884
+Up in the groin.  Yeah right in here, right.
+
+PATIENT P884
+Yeah, yeah.
+
+DOCTOR P884
+You don't have anything there.
+
+PATIENT P884
+Just this thing here.
+
+DOCTOR P884
+There’s no lesion on your penis? You never had a lesion or anything like that.
+
+PATIENT P884
+I got little bumps on the tip like that.
+
+DOCTOR P884
+Let me see.  Have you always had that?
+
+PATIENT P884
+Yeah.
+
+DOCTOR P884
+Is that, that's not new.
+
+PATIENT P884
+Uh uh.
+
+DOCTOR P884
+Yeah if it’s going back down @@@ Surgery to go look at it or um just wait for it to go down, whatever you want.  Uh that area is a little bit harder to drain if it's that small.
+
+PATIENT P884
+Uh-huh.
+
+DOCTOR P884
+You know what I mean.
+
+PATIENT P884
+Uh-huh.
+
+DOCTOR P884
+It's a little bit harder if it's that small but um it's something I can refer you @@@, no problem.  Or we can wait and see if it goes down @@@ about it.  
+
+PATIENT P884
+Okay.
+
+DOCTOR P884
+What do you want to do?  
+
+PATIENT P884
+I can wait.
+
+DOCTOR P884
+Yeah so @@@ it seems pretty superficial.
+
+PATIENT P884
+Okay.
+
+DOCTOR P884
+They just have to be careful when they drain it.
+
+PATIENT P884
+Yeah.
+
+DOCTOR P884
+And if it's going down, maybe not mess with it right now.  It's a pretty invasive procedure and that's a pretty @@@ area.  I'll be right back.
+
+(DOCTOR OUT:  19:44  DOCTOR IN:  27:20)
+
+DOCTOR P884
+Alright sir.  So in terms of constant diarrhea I'm not quite sure what else you can do from the General Medicine Clinic other than reinforce the fiber, things that we’ve told you before so I know you’re going back to the GI doctors too so um.  @@@ back to the Surgery Clinic and maybe have them take a look at it and see if it does get bigger, to have it at least looked at you know and they can compare it and then uh for your blood pressure, let's see.  One of the numbers is a little bit high today and I was wondering if we should go up on one of your medicines.  Yeah, cause even the lower number has been a little bit on the higher side and so the metoprolol you take 25 mg twice a day?
+
+PATIENT P884
+Yeah half pills.
+
+DOCTOR P884
+Yeah why don't go to a whole pill?
+
+PATIENT P884
+Okay.
+
+DOCTOR P884
+Okay and then if it makes you dizzy then drop back to a half a pill and then come back in.
+
+PATIENT P884
+Okay.
+
+DOCTOR P884
+Okay I need to put it into the system for you and you have two refills of the hydrochlorothiazide so I'll go ahead and refill it as well.  And then, other than that I think that's everything.  You got your flu shot and everything.
+
+PATIENT P884
+Uh-huh.
+
+DOCTOR P884
+So I'll have you go back up there and make an appointment with the General Surgery Clinic, the door to where you check in.
+
+PATIENT P884
+Alright.
+
+DOCTOR P884
+And then you'll go there.  The next time I see you um, which will probably be in three or four months or so, go ahead and go to the Lab before you come in and get a cholesterol panel done.
+
+PATIENT P884
+Cholesterol panel?
+
+DOCTOR P884
+Yeah it's a cholesterol level, you just do it once a year.  You had it in November of last year and did you eat lunch or breakfast today?
+
+PATIENT P884
+No.
+
+DOCTOR P884
+Well we can do then today if you want; if you don't want to we'll have you do it when you come back, whichever one you would prefer.
+
+PATIENT P884
+Uh I'll get it cause I'm here.
+
+DOCTOR P884
+Okay, I'll put in to do that do that today.  
+
+PATIENT P884
+Okay. 
+
+DOCTOR P884
+@@@.
+
+PATIENT P884
+So where do I go to get those done?
+
+DOCTOR P884
+Right across the hall here.  Right across the hall, go to the Lab.
+
+PATIENT P884
+Oh the Lab okay.
+
+DOCTOR P884
+@@@ you have a nice day.
+
+PATIENT P884
+Alright thanks.
+
+PATIENT LEAVES:  29:48.
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1300276
+TRANSACTION # 578-10-2-316-0103

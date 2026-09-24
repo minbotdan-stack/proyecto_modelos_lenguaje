@@ -1,0 +1,2508 @@
+{
+  "categoria": "Consult - History and Phy.",
+  "semilla": 42,
+  "total_candidatos": 520,
+  "cantidad_seleccionada": 500,
+  "casos": [
+    {
+      "id": "578",
+      "titulo": "Orthopedic Consult - 5",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=578-Orthopedic Consult - 5"
+    },
+    {
+      "id": "204",
+      "titulo": "Nephrology Consultation - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=204-Nephrology Consultation - 1"
+    },
+    {
+      "id": "1474",
+      "titulo": "Chronic Otitis Media",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1474-Chronic Otitis Media"
+    },
+    {
+      "id": "1281",
+      "titulo": "Rectal Bleeding - 1-year-old",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1281-Rectal Bleeding - 1-year-old"
+    },
+    {
+      "id": "1228",
+      "titulo": "Asbestos Exposure - Hemoptysis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1228-Asbestos Exposure - Hemoptysis"
+    },
+    {
+      "id": "775",
+      "titulo": "H&P - Cardio (Angina)",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=775-H&P - Cardio (Angina)"
+    },
+    {
+      "id": "557",
+      "titulo": "Limbic Encephalitis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=557-Limbic Encephalitis"
+    },
+    {
+      "id": "449",
+      "titulo": "Gen Med Consult - 22",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=449-Gen Med Consult - 22"
+    },
+    {
+      "id": "2218",
+      "titulo": "Gen Med Consult - 52",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2218-Gen Med Consult - 52"
+    },
+    {
+      "id": "98",
+      "titulo": "Psych Consult - Anxiety",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=98-Psych Consult - Anxiety"
+    },
+    {
+      "id": "97",
+      "titulo": "Psych Consult - Altered Mental Status",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=97-Psych Consult - Altered Mental Status"
+    },
+    {
+      "id": "347",
+      "titulo": "Well-Child Check - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=347-Well-Child Check - 2"
+    },
+    {
+      "id": "575",
+      "titulo": "Gen Med Consult - 26",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=575-Gen Med Consult - 26"
+    },
+    {
+      "id": "619",
+      "titulo": "Chest discomfort & palpitations - Consult.",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=619-Chest discomfort & palpitations - Consult."
+    },
+    {
+      "id": "1301",
+      "titulo": "Supraventricular Tachycardia - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1301-Supraventricular Tachycardia - Consult"
+    },
+    {
+      "id": "1594",
+      "titulo": "Consult - Atrial Fibrillation - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1594-Consult - Atrial Fibrillation - 1"
+    },
+    {
+      "id": "95",
+      "titulo": "Psych Consult - Lethargy",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=95-Psych Consult - Lethargy"
+    },
+    {
+      "id": "1496",
+      "titulo": "Antibiotic Therapy Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1496-Antibiotic Therapy Consult"
+    },
+    {
+      "id": "536",
+      "titulo": "Meningioma",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=536-Meningioma"
+    },
+    {
+      "id": "1928",
+      "titulo": "Syncope - ER Visit - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1928-Syncope - ER Visit - 1"
+    },
+    {
+      "id": "1684",
+      "titulo": "Supraclavicular Lymphadenopathy",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1684-Supraclavicular Lymphadenopathy"
+    },
+    {
+      "id": "1867",
+      "titulo": "Airway Compromise & Foreign Body - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1867-Airway Compromise & Foreign Body - ER Visit"
+    },
+    {
+      "id": "1463",
+      "titulo": "ENT Consult - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1463-ENT Consult - 1"
+    },
+    {
+      "id": "1201",
+      "titulo": "Consult - Seizures",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1201-Consult - Seizures"
+    },
+    {
+      "id": "576",
+      "titulo": "Gen Med Consult - 38",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=576-Gen Med Consult - 38"
+    },
+    {
+      "id": "1232",
+      "titulo": "Consult - Alzheimer disease",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1232-Consult - Alzheimer disease "
+    },
+    {
+      "id": "1552",
+      "titulo": "Psych Consult - Psychosis - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1552-Psych Consult - Psychosis - 1"
+    },
+    {
+      "id": "2793",
+      "titulo": "Colon Cancer Screening",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2793-Colon Cancer Screening"
+    },
+    {
+      "id": "2146",
+      "titulo": "Normal Male Exam Template - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2146-Normal Male Exam Template - 4"
+    },
+    {
+      "id": "2292",
+      "titulo": "Bladder Cancer",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2292-Bladder Cancer"
+    },
+    {
+      "id": "57",
+      "titulo": "Wrist Pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=57-Wrist Pain"
+    },
+    {
+      "id": "2036",
+      "titulo": "Thyroid Mass Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2036-Thyroid Mass Consult"
+    },
+    {
+      "id": "2127",
+      "titulo": "Rheumatoid Arthritis - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2127-Rheumatoid Arthritis - Consult"
+    },
+    {
+      "id": "440",
+      "titulo": "Well-Child Check - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=440-Well-Child Check - 1"
+    },
+    {
+      "id": "1863",
+      "titulo": "Cardiac Consultation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1863-Cardiac Consultation"
+    },
+    {
+      "id": "1203",
+      "titulo": "Consult - Cerebral Peduncle Infarction",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1203-Consult - Cerebral Peduncle Infarction"
+    },
+    {
+      "id": "990",
+      "titulo": "Cancer of the nasopharynx",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=990-Cancer of the nasopharynx"
+    },
+    {
+      "id": "2748",
+      "titulo": "Jaw Pain - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2748-Jaw Pain - ER Visit"
+    },
+    {
+      "id": "438",
+      "titulo": "Sports Physical - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=438-Sports Physical - 2"
+    },
+    {
+      "id": "573",
+      "titulo": "Gen Med Consult - 25",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=573-Gen Med Consult - 25"
+    },
+    {
+      "id": "2043",
+      "titulo": "Occupational Medicine Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2043-Occupational Medicine Consult"
+    },
+    {
+      "id": "981",
+      "titulo": "Pulmonary Consultation - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=981-Pulmonary Consultation - 2"
+    },
+    {
+      "id": "364",
+      "titulo": "Physical Exam and Pap -2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=364-Physical Exam and Pap -2"
+    },
+    {
+      "id": "2777",
+      "titulo": "Foul-Smelling Urine",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2777-Foul-Smelling Urine"
+    },
+    {
+      "id": "1141",
+      "titulo": "Neuropsychological Evaluation - 5",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1141-Neuropsychological Evaluation - 5"
+    },
+    {
+      "id": "356",
+      "titulo": "Well-Child Check - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=356-Well-Child Check - 4"
+    },
+    {
+      "id": "1067",
+      "titulo": "Laparoscopic Gastric Bypass Consult - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1067-Laparoscopic Gastric Bypass Consult - 2"
+    },
+    {
+      "id": "2220",
+      "titulo": "Hip Fracture - ER Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2220-Hip Fracture - ER Consult"
+    },
+    {
+      "id": "1040",
+      "titulo": "Neurologic Consultation - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1040-Neurologic Consultation - 1"
+    },
+    {
+      "id": "1595",
+      "titulo": "Consult - Congestive Heart Failure",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1595-Consult - Congestive Heart Failure"
+    },
+    {
+      "id": "645",
+      "titulo": "Consult - Weankness & Polymyositis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=645-Consult - Weankness & Polymyositis"
+    },
+    {
+      "id": "2145",
+      "titulo": "Normal Female Exam Template - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2145-Normal Female Exam Template - 2"
+    },
+    {
+      "id": "185",
+      "titulo": "OB/GYN Consultation - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=185-OB/GYN Consultation - 2"
+    },
+    {
+      "id": "1960",
+      "titulo": "Normal Male Exam Template",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1960-Normal Male Exam Template"
+    },
+    {
+      "id": "1243",
+      "titulo": "Gastric Bypass Discussion - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1243-Gastric Bypass Discussion - 2"
+    },
+    {
+      "id": "1444",
+      "titulo": "Hematuria - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1444-Hematuria - Consult"
+    },
+    {
+      "id": "397",
+      "titulo": "Sports Physical - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=397-Sports Physical - 1"
+    },
+    {
+      "id": "1140",
+      "titulo": "Pseudotumor Cerebri",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1140-Pseudotumor Cerebri"
+    },
+    {
+      "id": "296",
+      "titulo": "Dietary Consult - Weight Reduction",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=296-Dietary Consult - Weight Reduction"
+    },
+    {
+      "id": "1482",
+      "titulo": "Flank Pain - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1482-Flank Pain - Consult"
+    },
+    {
+      "id": "914",
+      "titulo": "Rotator cuff syndrome - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=914-Rotator cuff syndrome - H&P"
+    },
+    {
+      "id": "2191",
+      "titulo": "Kyphoplasty - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2191-Kyphoplasty - Consult"
+    },
+    {
+      "id": "1652",
+      "titulo": "Left Lower Quadrant Pain - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1652-Left Lower Quadrant Pain - ER Visit"
+    },
+    {
+      "id": "1620",
+      "titulo": "Consult - Stasis Ulcer",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1620-Consult - Stasis Ulcer"
+    },
+    {
+      "id": "2391",
+      "titulo": "Hip Fracture - Rehab Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2391-Hip Fracture - Rehab Consult"
+    },
+    {
+      "id": "2274",
+      "titulo": "Hypertension & Cardiomyopathy",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2274-Hypertension & Cardiomyopathy"
+    },
+    {
+      "id": "1074",
+      "titulo": "Gen Med Consult - 28",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1074-Gen Med Consult - 28"
+    },
+    {
+      "id": "1541",
+      "titulo": "Hematuria & Urinary Retention",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1541-Hematuria & Urinary Retention"
+    },
+    {
+      "id": "532",
+      "titulo": "Epidural Fluid Collection",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=532-Epidural Fluid Collection"
+    },
+    {
+      "id": "1871",
+      "titulo": "Colon Polyps - Genetic Counseling",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1871-Colon Polyps - Genetic Counseling"
+    },
+    {
+      "id": "291",
+      "titulo": "Dietary Consult - Diabetes - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=291-Dietary Consult - Diabetes - 1"
+    },
+    {
+      "id": "186",
+      "titulo": "OB/GYN Consultation - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=186-OB/GYN Consultation - 3"
+    },
+    {
+      "id": "1695",
+      "titulo": "Adult Hydrocephalus",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1695-Adult Hydrocephalus"
+    },
+    {
+      "id": "580",
+      "titulo": "Gen Med Consult - 35",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=580-Gen Med Consult - 35"
+    },
+    {
+      "id": "2048",
+      "titulo": "Records Review - Epicondylitis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2048-Records Review - Epicondylitis"
+    },
+    {
+      "id": "909",
+      "titulo": "OB/GYN - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=909-OB/GYN - H&P"
+    },
+    {
+      "id": "2513",
+      "titulo": "Vertigo Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2513-Vertigo Consult"
+    },
+    {
+      "id": "2239",
+      "titulo": "Gen Med Consult - 53",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2239-Gen Med Consult - 53"
+    },
+    {
+      "id": "2770",
+      "titulo": "Glioma - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2770-Glioma - Consult"
+    },
+    {
+      "id": "359",
+      "titulo": "Well-Child Check - 6",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=359-Well-Child Check - 6"
+    },
+    {
+      "id": "2609",
+      "titulo": "Decreased Vision Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2609-Decreased Vision Consult"
+    },
+    {
+      "id": "2633",
+      "titulo": "Bipolar Affective Disorder - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2633-Bipolar Affective Disorder - Consult"
+    },
+    {
+      "id": "1239",
+      "titulo": "Gen Med Consult - 42",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1239-Gen Med Consult - 42"
+    },
+    {
+      "id": "1675",
+      "titulo": "Multiple Neurological Symptoms",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1675-Multiple Neurological Symptoms"
+    },
+    {
+      "id": "2210",
+      "titulo": "Sepsis - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2210-Sepsis - Consult"
+    },
+    {
+      "id": "1075",
+      "titulo": "Gen Med Consult - 29",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1075-Gen Med Consult - 29"
+    },
+    {
+      "id": "443",
+      "titulo": "Gen Med Consult - 18",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=443-Gen Med Consult - 18"
+    },
+    {
+      "id": "1133",
+      "titulo": "Gen Med Consult - 33",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1133-Gen Med Consult - 33"
+    },
+    {
+      "id": "1064",
+      "titulo": "Laparoscopic Gastric Bypass Consult - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1064-Laparoscopic Gastric Bypass Consult - 1"
+    },
+    {
+      "id": "565",
+      "titulo": "Huntington's Disease",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=565-Huntington's Disease"
+    },
+    {
+      "id": "1780",
+      "titulo": "Ventricular Ectopy - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1780-Ventricular Ectopy - Consult"
+    },
+    {
+      "id": "661",
+      "titulo": "Gen Med H&P - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=661-Gen Med H&P - 1"
+    },
+    {
+      "id": "2754",
+      "titulo": "Detox from Heroin",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2754-Detox from Heroin"
+    },
+    {
+      "id": "1841",
+      "titulo": "Gastrointestinal Bleed - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1841-Gastrointestinal Bleed - ER Visit"
+    },
+    {
+      "id": "1681",
+      "titulo": "Cervical Spondylosis - Neuro Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1681-Cervical Spondylosis - Neuro Consult"
+    },
+    {
+      "id": "292",
+      "titulo": "Dietary Consult - Hyperlipidemia",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=292-Dietary Consult - Hyperlipidemia"
+    },
+    {
+      "id": "1597",
+      "titulo": "Abnormal Echocardiogram",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1597-Abnormal Echocardiogram"
+    },
+    {
+      "id": "2235",
+      "titulo": "Azotemia Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2235-Azotemia Consult"
+    },
+    {
+      "id": "447",
+      "titulo": "Gen Med Consult - 20",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=447-Gen Med Consult - 20"
+    },
+    {
+      "id": "1443",
+      "titulo": "Exudative Tonsillitis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1443-Exudative Tonsillitis"
+    },
+    {
+      "id": "2535",
+      "titulo": "Dysphagia & Hematemesis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2535-Dysphagia & Hematemesis"
+    },
+    {
+      "id": "627",
+      "titulo": "Pain Management Consult - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=627-Pain Management Consult - 2"
+    },
+    {
+      "id": "2560",
+      "titulo": "Normal Newborn H&P Template",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2560-Normal Newborn H&P Template"
+    },
+    {
+      "id": "1244",
+      "titulo": "Gastric Bypass Discussion - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1244-Gastric Bypass Discussion - 3"
+    },
+    {
+      "id": "2241",
+      "titulo": "Gen Med Consult - 7",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2241-Gen Med Consult - 7"
+    },
+    {
+      "id": "663",
+      "titulo": "Gen Med Consult - 40",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=663-Gen Med Consult - 40"
+    },
+    {
+      "id": "1677",
+      "titulo": "Diplopia",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1677-Diplopia"
+    },
+    {
+      "id": "1844",
+      "titulo": "Gen Med Consult - 46",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1844-Gen Med Consult - 46"
+    },
+    {
+      "id": "1494",
+      "titulo": "Antibiotic Management Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1494-Antibiotic Management Consult"
+    },
+    {
+      "id": "2751",
+      "titulo": "Toothache - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2751-Toothache - ER Visit"
+    },
+    {
+      "id": "1842",
+      "titulo": "Congestion & Cough - 5-month-Old",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1842-Congestion & Cough - 5-month-Old"
+    },
+    {
+      "id": "939",
+      "titulo": "Burn - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=939-Burn - Consult"
+    },
+    {
+      "id": "2046",
+      "titulo": "Occupational Medicine Consult - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2046-Occupational Medicine Consult - 3"
+    },
+    {
+      "id": "2053",
+      "titulo": "Normal Physical Exam Template - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2053-Normal Physical Exam Template - 4"
+    },
+    {
+      "id": "220",
+      "titulo": "GI Consultation - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=220-GI Consultation - 2"
+    },
+    {
+      "id": "582",
+      "titulo": "Gen Med Consult - 36",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=582-Gen Med Consult - 36"
+    },
+    {
+      "id": "2781",
+      "titulo": "Dog Bite",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2781-Dog Bite"
+    },
+    {
+      "id": "934",
+      "titulo": "Bunion & Pes Planovalgus Deformity",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=934-Bunion & Pes Planovalgus Deformity"
+    },
+    {
+      "id": "1165",
+      "titulo": "Comprehensive Neurological Evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1165-Comprehensive Neurological Evaluation"
+    },
+    {
+      "id": "662",
+      "titulo": "H&P - Weakness",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=662-H&P - Weakness"
+    },
+    {
+      "id": "283",
+      "titulo": "Consult - Prostate Cancer",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=283-Consult - Prostate Cancer"
+    },
+    {
+      "id": "568",
+      "titulo": "Iliopsoas Hematoma - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=568-Iliopsoas Hematoma - 1"
+    },
+    {
+      "id": "1502",
+      "titulo": "Orthopedic Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1502-Orthopedic Consult"
+    },
+    {
+      "id": "1934",
+      "titulo": "Breast Calcifications - Preop Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1934-Breast Calcifications - Preop Consult "
+    },
+    {
+      "id": "2061",
+      "titulo": "Cardiac Consultation - 7",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2061-Cardiac Consultation - 7"
+    },
+    {
+      "id": "2054",
+      "titulo": "Normal Newborn Infant Physical Exam",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2054-Normal Newborn Infant Physical Exam"
+    },
+    {
+      "id": "1691",
+      "titulo": "Guillain-Barre Syndrome",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1691-Guillain-Barre Syndrome"
+    },
+    {
+      "id": "1291",
+      "titulo": "Adjustment Disorder & Encopresis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1291-Adjustment Disorder & Encopresis"
+    },
+    {
+      "id": "1159",
+      "titulo": "Consult - CHF & Lymphedema",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1159-Consult - CHF & Lymphedema"
+    },
+    {
+      "id": "1679",
+      "titulo": "TIA & Lumbar Stenosis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1679-TIA & Lumbar Stenosis"
+    },
+    {
+      "id": "1242",
+      "titulo": "Weight Loss Evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1242-Weight Loss Evaluation"
+    },
+    {
+      "id": "430",
+      "titulo": "Well-woman checkup",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=430-Well-woman checkup"
+    },
+    {
+      "id": "2538",
+      "titulo": "Blood In Toilet",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2538-Blood In Toilet"
+    },
+    {
+      "id": "421",
+      "titulo": "Normal Male ROS Template - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=421-Normal Male ROS Template - 1"
+    },
+    {
+      "id": "629",
+      "titulo": "GI Consultation - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=629-GI Consultation - 4"
+    },
+    {
+      "id": "1988",
+      "titulo": "Preop Cardiac Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1988-Preop Cardiac Consult"
+    },
+    {
+      "id": "2758",
+      "titulo": "Agitation - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2758-Agitation - ER Visit"
+    },
+    {
+      "id": "1449",
+      "titulo": "Consult - Jaw Pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1449-Consult - Jaw Pain"
+    },
+    {
+      "id": "644",
+      "titulo": "Cardiac Consultation - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=644-Cardiac Consultation - 3"
+    },
+    {
+      "id": "1550",
+      "titulo": "Psych Consult - Assaultive Behavior",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1550-Psych Consult - Assaultive Behavior"
+    },
+    {
+      "id": "1206",
+      "titulo": "Oligoarticular Arthritis - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1206-Oligoarticular Arthritis - 1"
+    },
+    {
+      "id": "1549",
+      "titulo": "Psych Consult - Schizophrenia",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1549-Psych Consult - Schizophrenia"
+    },
+    {
+      "id": "1161",
+      "titulo": "Neuro Consult - Depression & Dementia",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1161-Neuro Consult - Depression & Dementia"
+    },
+    {
+      "id": "2427",
+      "titulo": "Pulmonary Edema - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2427-Pulmonary Edema - Consult"
+    },
+    {
+      "id": "2121",
+      "titulo": "Elevated BNP - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2121-Elevated BNP - Consult"
+    },
+    {
+      "id": "420",
+      "titulo": "Normal Male Exam Template - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=420-Normal Male Exam Template - 2"
+    },
+    {
+      "id": "1311",
+      "titulo": "Status Epilepticus",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1311-Status Epilepticus"
+    },
+    {
+      "id": "1283",
+      "titulo": "Congestion & Fever - 2-month-old",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1283-Congestion & Fever - 2-month-old"
+    },
+    {
+      "id": "303",
+      "titulo": "Dietary Consult - Diabetes - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=303-Dietary Consult - Diabetes - 2"
+    },
+    {
+      "id": "201",
+      "titulo": "Nephrology Consultation - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=201-Nephrology Consultation - 2"
+    },
+    {
+      "id": "383",
+      "titulo": "Physical Exam and Pap - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=383-Physical Exam and Pap - 1"
+    },
+    {
+      "id": "437",
+      "titulo": "Ear Pain - Drainage",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=437-Ear Pain - Drainage"
+    },
+    {
+      "id": "2490",
+      "titulo": "Non-Small Cell Lung Cancer - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2490-Non-Small Cell Lung Cancer - Consult"
+    },
+    {
+      "id": "2673",
+      "titulo": "Lower back pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2673-Lower back pain"
+    },
+    {
+      "id": "1840",
+      "titulo": "CVA Consult - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1840-CVA Consult - ER Visit"
+    },
+    {
+      "id": "2635",
+      "titulo": "Attempted Suicide - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2635-Attempted Suicide - Consult"
+    },
+    {
+      "id": "1591",
+      "titulo": "Consult - Coronary Artery Disease",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1591-Consult - Coronary Artery Disease"
+    },
+    {
+      "id": "226",
+      "titulo": "Gen Med Consult - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=226-Gen Med Consult - 3"
+    },
+    {
+      "id": "1147",
+      "titulo": "Cardiac Consultation - 5",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1147-Cardiac Consultation - 5"
+    },
+    {
+      "id": "1144",
+      "titulo": "Uveitis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1144-Uveitis"
+    },
+    {
+      "id": "1876",
+      "titulo": "T-Cell Lymphoma Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1876-T-Cell Lymphoma Consult"
+    },
+    {
+      "id": "1250",
+      "titulo": "Lymphoblastic Leukemia - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1250-Lymphoblastic Leukemia - Consult"
+    },
+    {
+      "id": "1429",
+      "titulo": "Tracheostomy Tube Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1429-Tracheostomy Tube Consult"
+    },
+    {
+      "id": "631",
+      "titulo": "Urology Consut - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=631-Urology Consut - 1"
+    },
+    {
+      "id": "1489",
+      "titulo": "Malignant Meningioma - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1489-Malignant Meningioma - Consult"
+    },
+    {
+      "id": "61",
+      "titulo": "Pain Management Consult - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=61-Pain Management Consult - 1"
+    },
+    {
+      "id": "1921",
+      "titulo": "Abdominal Pain - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1921-Abdominal Pain - Consult"
+    },
+    {
+      "id": "391",
+      "titulo": "Gen Med Consult - 9",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=391-Gen Med Consult - 9"
+    },
+    {
+      "id": "2208",
+      "titulo": "Rectal Bleeding - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2208-Rectal Bleeding - Consult"
+    },
+    {
+      "id": "2516",
+      "titulo": "Psychiatric Consult - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2516-Psychiatric Consult - 1"
+    },
+    {
+      "id": "2212",
+      "titulo": "Gen Med Consult - 50",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2212-Gen Med Consult - 50"
+    },
+    {
+      "id": "1678",
+      "titulo": "Dizziness - Recurrent",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1678-Dizziness - Recurrent"
+    },
+    {
+      "id": "2634",
+      "titulo": "Revocation Admission",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2634-Revocation Admission"
+    },
+    {
+      "id": "390",
+      "titulo": "Gen Med Consult - 8",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=390-Gen Med Consult - 8"
+    },
+    {
+      "id": "2492",
+      "titulo": "Pain from Hernia - ER Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2492-Pain from Hernia - ER Consult"
+    },
+    {
+      "id": "1209",
+      "titulo": "A 5-month-old boy with cough",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1209-A 5-month-old boy with cough"
+    },
+    {
+      "id": "439",
+      "titulo": "Gen Med Consult - 17",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=439-Gen Med Consult - 17"
+    },
+    {
+      "id": "2282",
+      "titulo": "Atrial Fibrillation Management",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2282-Atrial Fibrillation Management"
+    },
+    {
+      "id": "50",
+      "titulo": "Cardiac Consultation - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=50-Cardiac Consultation - 1"
+    },
+    {
+      "id": "1996",
+      "titulo": "Cardiac Consult & Cardioversion",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1996-Cardiac Consult & Cardioversion"
+    },
+    {
+      "id": "1292",
+      "titulo": "Conversion Disorder",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1292-Conversion Disorder"
+    },
+    {
+      "id": "476",
+      "titulo": "Consult - Hypertension",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=476-Consult - Hypertension"
+    },
+    {
+      "id": "1310",
+      "titulo": "Intractable Epilepsy",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1310-Intractable Epilepsy"
+    },
+    {
+      "id": "377",
+      "titulo": "Consult - Chest Pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=377-Consult - Chest Pain"
+    },
+    {
+      "id": "1645",
+      "titulo": "Penile Discharge",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1645-Penile Discharge"
+    },
+    {
+      "id": "923",
+      "titulo": "Elevated PSA - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=923-Elevated PSA - H&P"
+    },
+    {
+      "id": "2537",
+      "titulo": "Foreign Body - Right Nose",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2537-Foreign Body - Right Nose"
+    },
+    {
+      "id": "1693",
+      "titulo": "Neuropsychological Evaluation - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1693-Neuropsychological Evaluation - 4"
+    },
+    {
+      "id": "2173",
+      "titulo": "Knee DJD - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2173-Knee DJD - Consult"
+    },
+    {
+      "id": "2757",
+      "titulo": "Ant Bait Exposure - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2757-Ant Bait Exposure - ER Visit"
+    },
+    {
+      "id": "1943",
+      "titulo": "Iron deficiency anemia",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1943-Iron deficiency anemia"
+    },
+    {
+      "id": "1138",
+      "titulo": "Neuropsychological Evaluation - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1138-Neuropsychological Evaluation - 2"
+    },
+    {
+      "id": "441",
+      "titulo": "School Physical - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=441-School Physical - 2"
+    },
+    {
+      "id": "1450",
+      "titulo": "Consult - Pulsatile Tinnitus",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1450-Consult - Pulsatile Tinnitus"
+    },
+    {
+      "id": "1435",
+      "titulo": "Neurogenic Bladder - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1435-Neurogenic Bladder - Consult"
+    },
+    {
+      "id": "34",
+      "titulo": "Pulmonary Consultation - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=34-Pulmonary Consultation - 1"
+    },
+    {
+      "id": "1592",
+      "titulo": "Consult - Syncope",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1592-Consult - Syncope"
+    },
+    {
+      "id": "938",
+      "titulo": "Lymphoma - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=938-Lymphoma - Consult"
+    },
+    {
+      "id": "2801",
+      "titulo": "Cardiology Consultation Chest Pain Hypertension",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2801-Cardiology Consultation Chest Pain Hypertension"
+    },
+    {
+      "id": "91",
+      "titulo": "Psych H&P - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=91-Psych H&P - 1"
+    },
+    {
+      "id": "1794",
+      "titulo": "Barium Swallow Study & Speech Evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1794-Barium Swallow Study & Speech Evaluation"
+    },
+    {
+      "id": "1963",
+      "titulo": "Normal Female Exam Template - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1963-Normal Female Exam Template - 1"
+    },
+    {
+      "id": "930",
+      "titulo": "Cough & Abdominal Pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=930-Cough & Abdominal Pain"
+    },
+    {
+      "id": "624",
+      "titulo": "Migraine without Aura - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=624-Migraine without Aura - Consult"
+    },
+    {
+      "id": "221",
+      "titulo": "GI Consultation - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=221-GI Consultation - 3"
+    },
+    {
+      "id": "625",
+      "titulo": "Neck & Lower Back Pain - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=625-Neck & Lower Back Pain - Consult"
+    },
+    {
+      "id": "2079",
+      "titulo": "Tethered Cord Evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2079-Tethered Cord Evaluation"
+    },
+    {
+      "id": "2288",
+      "titulo": "Essential Tremor & Torticollis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2288-Essential Tremor & Torticollis"
+    },
+    {
+      "id": "299",
+      "titulo": "Dietary Consult - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=299-Dietary Consult - 2"
+    },
+    {
+      "id": "1272",
+      "titulo": "Pulmonary Embolism",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1272-Pulmonary Embolism"
+    },
+    {
+      "id": "2341",
+      "titulo": "HPV Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2341-HPV Consult"
+    },
+    {
+      "id": "1436",
+      "titulo": "Microhematuria - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1436-Microhematuria - Consult"
+    },
+    {
+      "id": "398",
+      "titulo": "Gen Med Consult - 12",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=398-Gen Med Consult - 12"
+    },
+    {
+      "id": "400",
+      "titulo": "Gen Med Consult - 13",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=400-Gen Med Consult - 13"
+    },
+    {
+      "id": "1267",
+      "titulo": "Consult for New Wheelchair",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1267-Consult for New Wheelchair"
+    },
+    {
+      "id": "2802",
+      "titulo": "Breast Cancer Oncology Consultation Chemotherapy Note",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2802-Breast Cancer Oncology Consultation Chemotherapy Note"
+    },
+    {
+      "id": "444",
+      "titulo": "Sports Physical - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=444-Sports Physical - 3"
+    },
+    {
+      "id": "2026",
+      "titulo": "ER Report - Rib Cage Pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2026-ER Report - Rib Cage Pain"
+    },
+    {
+      "id": "2672",
+      "titulo": "Foreign Body - Fingernail",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2672-Foreign Body - Fingernail"
+    },
+    {
+      "id": "1892",
+      "titulo": "Gen Med Consult - 48",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1892-Gen Med Consult - 48"
+    },
+    {
+      "id": "2047",
+      "titulo": "Records Review - Orthopedic",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2047-Records Review - Orthopedic"
+    },
+    {
+      "id": "1676",
+      "titulo": "Feet & Hand Cramping",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1676-Feet & Hand Cramping"
+    },
+    {
+      "id": "542",
+      "titulo": "Multiple Meningiomas",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=542-Multiple Meningiomas"
+    },
+    {
+      "id": "932",
+      "titulo": "Ankle Pain - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=932-Ankle Pain - Consult"
+    },
+    {
+      "id": "1967",
+      "titulo": "Normal ENT Exam - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1967-Normal ENT Exam - 1"
+    },
+    {
+      "id": "1845",
+      "titulo": "Disseminated Intravascular Coagulation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1845-Disseminated Intravascular Coagulation"
+    },
+    {
+      "id": "1221",
+      "titulo": "Consult - Vomiting & Nausea",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1221-Consult - Vomiting & Nausea"
+    },
+    {
+      "id": "1330",
+      "titulo": "Pubic Cellulitis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1330-Pubic Cellulitis"
+    },
+    {
+      "id": "1235",
+      "titulo": "Consult - Knee Pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1235-Consult - Knee Pain"
+    },
+    {
+      "id": "395",
+      "titulo": "Gen Med Consult - 41",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=395-Gen Med Consult - 41"
+    },
+    {
+      "id": "1998",
+      "titulo": "Multilobar Pneumonia",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1998-Multilobar Pneumonia"
+    },
+    {
+      "id": "579",
+      "titulo": "Gen Med Consult - 34",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=579-Gen Med Consult - 34"
+    },
+    {
+      "id": "1875",
+      "titulo": "Cholangiocarcinoma Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1875-Cholangiocarcinoma Consult"
+    },
+    {
+      "id": "987",
+      "titulo": "Cardiac Consultation - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=987-Cardiac Consultation - 4"
+    },
+    {
+      "id": "92",
+      "titulo": "Psych Consult - Depression - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=92-Psych Consult - Depression - 2"
+    },
+    {
+      "id": "1851",
+      "titulo": "Speech Therapy Evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1851-Speech Therapy Evaluation"
+    },
+    {
+      "id": "2063",
+      "titulo": "Gen Med Consult - 49",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2063-Gen Med Consult - 49"
+    },
+    {
+      "id": "1962",
+      "titulo": "Normal Male Exam Template - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1962-Normal Male Exam Template - 3"
+    },
+    {
+      "id": "2676",
+      "titulo": "Viral Gastroenteritis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2676-Viral Gastroenteritis"
+    },
+    {
+      "id": "2491",
+      "titulo": "Metastatic Ovarian Cancer - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2491-Metastatic Ovarian Cancer - Consult"
+    },
+    {
+      "id": "223",
+      "titulo": "Gen Med Consult - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=223-Gen Med Consult - 1"
+    },
+    {
+      "id": "1492",
+      "titulo": "Gen Med Consult - 43",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1492-Gen Med Consult - 43"
+    },
+    {
+      "id": "287",
+      "titulo": "Hyperesthesia",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=287-Hyperesthesia"
+    },
+    {
+      "id": "2062",
+      "titulo": "Buttock Abscess",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2062-Buttock Abscess"
+    },
+    {
+      "id": "952",
+      "titulo": "Major Depressive Disorder - IME Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=952-Major Depressive Disorder - IME Consult"
+    },
+    {
+      "id": "1471",
+      "titulo": "Bladder Tumor",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1471-Bladder Tumor"
+    },
+    {
+      "id": "1329",
+      "titulo": "Cystic Fibrosis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1329-Cystic Fibrosis"
+    },
+    {
+      "id": "622",
+      "titulo": "Consult - Breast Cancer",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=622-Consult - Breast Cancer"
+    },
+    {
+      "id": "2240",
+      "titulo": "Gen Med Consult - 54",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2240-Gen Med Consult - 54"
+    },
+    {
+      "id": "1596",
+      "titulo": "Lightheaded & Dizziness",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1596-Lightheaded & Dizziness"
+    },
+    {
+      "id": "572",
+      "titulo": "Gen Med Consult - 24",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=572-Gen Med Consult - 24"
+    },
+    {
+      "id": "403",
+      "titulo": "Gen Med Consult - 15",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=403-Gen Med Consult - 15"
+    },
+    {
+      "id": "1266",
+      "titulo": "Murmur & Bacteremia.",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1266-Murmur & Bacteremia."
+    },
+    {
+      "id": "626",
+      "titulo": "OB/GYN Consultation - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=626-OB/GYN Consultation - 4"
+    },
+    {
+      "id": "1419",
+      "titulo": "Flank Pain - Consult - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1419-Flank Pain - Consult - 1"
+    },
+    {
+      "id": "1171",
+      "titulo": "Neuro Consult - Leg Weakness",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1171-Neuro Consult - Leg Weakness"
+    },
+    {
+      "id": "531",
+      "titulo": "Epidural Hematoma",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=531-Epidural Hematoma"
+    },
+    {
+      "id": "355",
+      "titulo": "Well-Child Check - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=355-Well-Child Check - 3"
+    },
+    {
+      "id": "2607",
+      "titulo": "Connective Tissue Disorder",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2607-Connective Tissue Disorder"
+    },
+    {
+      "id": "1207",
+      "titulo": "Oligoarticular Arthritis - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1207-Oligoarticular Arthritis - 2"
+    },
+    {
+      "id": "2217",
+      "titulo": "Sleepiness - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2217-Sleepiness - Consult"
+    },
+    {
+      "id": "1551",
+      "titulo": "Psych Consult - Psychosis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1551-Psych Consult - Psychosis "
+    },
+    {
+      "id": "1186",
+      "titulo": "Consult - Atrial Fibrillation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1186-Consult - Atrial Fibrillation"
+    },
+    {
+      "id": "1865",
+      "titulo": "Gen Med Consult - 47",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1865-Gen Med Consult - 47"
+    },
+    {
+      "id": "218",
+      "titulo": "GI Consultation - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=218-GI Consultation - 1"
+    },
+    {
+      "id": "2620",
+      "titulo": "Elbow Pain - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2620-Elbow Pain - Consult"
+    },
+    {
+      "id": "945",
+      "titulo": "Hyperthyroidism Following Pregnancy",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=945-Hyperthyroidism Following Pregnancy"
+    },
+    {
+      "id": "1282",
+      "titulo": "Gagging - 3-year-old",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1282-Gagging - 3-year-old"
+    },
+    {
+      "id": "1658",
+      "titulo": "Chronic Kidney Disease - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1658-Chronic Kidney Disease - Consult"
+    },
+    {
+      "id": "2803",
+      "titulo": "Acute Ischemic Stroke and Thrombolytic Therapy Evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2803-Acute Ischemic Stroke and Thrombolytic Therapy Evaluation "
+    },
+    {
+      "id": "2780",
+      "titulo": "Lesions - Adrenal and Pancreatic",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2780-Lesions - Adrenal and Pancreatic"
+    },
+    {
+      "id": "548",
+      "titulo": "Glioma - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=548-Glioma - 1"
+    },
+    {
+      "id": "2224",
+      "titulo": "Prostate Adenocarcinoma",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2224-Prostate Adenocarcinoma"
+    },
+    {
+      "id": "446",
+      "titulo": "Well-Child Check - 7",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=446-Well-Child Check - 7"
+    },
+    {
+      "id": "2390",
+      "titulo": "Neurologic Examination",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2390-Neurologic Examination"
+    },
+    {
+      "id": "2155",
+      "titulo": "Brain Tumor - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2155-Brain Tumor - Consult"
+    },
+    {
+      "id": "2045",
+      "titulo": "Occupational Medicine Consult - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2045-Occupational Medicine Consult - 2"
+    },
+    {
+      "id": "2515",
+      "titulo": "Psychiatric Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2515-Psychiatric Consult"
+    },
+    {
+      "id": "1315",
+      "titulo": "Neurologic Consultation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1315-Neurologic Consultation"
+    },
+    {
+      "id": "1316",
+      "titulo": "Neurologic Consultation - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1316-Neurologic Consultation - 3"
+    },
+    {
+      "id": "2058",
+      "titulo": "Cholestasis Of Pregnancy",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2058-Cholestasis Of Pregnancy "
+    },
+    {
+      "id": "2806",
+      "titulo": "Uncontrolled Type 2 Diabetes and Hypothyroidism Management",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2806-Uncontrolled Type 2 Diabetes and Hypothyroidism Management"
+    },
+    {
+      "id": "2555",
+      "titulo": "Normal Child Exam Template",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2555-Normal Child Exam Template"
+    },
+    {
+      "id": "1987",
+      "titulo": "Atrial Fibrillation - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1987-Atrial Fibrillation - Consult"
+    },
+    {
+      "id": "1955",
+      "titulo": "Knee Injury",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1955-Knee Injury"
+    },
+    {
+      "id": "2025",
+      "titulo": "Neonatal Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2025-Neonatal Consult"
+    },
+    {
+      "id": "583",
+      "titulo": "Gen Med Consult - 37",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=583-Gen Med Consult - 37"
+    },
+    {
+      "id": "1352",
+      "titulo": "Penile Cellulitis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1352-Penile Cellulitis"
+    },
+    {
+      "id": "1210",
+      "titulo": "Spinal fluid evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1210-Spinal fluid evaluation"
+    },
+    {
+      "id": "101",
+      "titulo": "Psych H&P - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=101-Psych H&P - 2"
+    },
+    {
+      "id": "577",
+      "titulo": "Gen Med Consult - 39",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=577-Gen Med Consult - 39"
+    },
+    {
+      "id": "1166",
+      "titulo": "Consult - Normal Pressure Hydrocephalus",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1166-Consult - Normal Pressure Hydrocephalus"
+    },
+    {
+      "id": "1268",
+      "titulo": "Huntington's Disease - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1268-Huntington's Disease - Consult"
+    },
+    {
+      "id": "1986",
+      "titulo": "Hypertension - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1986-Hypertension - Consult"
+    },
+    {
+      "id": "665",
+      "titulo": "H&P - Infant with fever",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=665-H&P - Infant with fever"
+    },
+    {
+      "id": "2050",
+      "titulo": "Normal ROS Template - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2050-Normal ROS Template - 2"
+    },
+    {
+      "id": "94",
+      "titulo": "Psych Consult - Pain Meds",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=94-Psych Consult - Pain Meds"
+    },
+    {
+      "id": "2096",
+      "titulo": "Neuroblastoma - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2096-Neuroblastoma - Consult"
+    },
+    {
+      "id": "2747",
+      "titulo": "Cut on Foot - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2747-Cut on Foot - ER Visit"
+    },
+    {
+      "id": "2752",
+      "titulo": "Leaking Nephrostomy Tube",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2752-Leaking Nephrostomy Tube"
+    },
+    {
+      "id": "1590",
+      "titulo": "Consult - Chest Pain - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1590-Consult - Chest Pain - 1"
+    },
+    {
+      "id": "2329",
+      "titulo": "Lower Quadrant Pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2329-Lower Quadrant Pain"
+    },
+    {
+      "id": "1139",
+      "titulo": "Lightheadedness",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1139-Lightheadedness"
+    },
+    {
+      "id": "394",
+      "titulo": "Gen Med Consult - 11",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=394-Gen Med Consult - 11"
+    },
+    {
+      "id": "298",
+      "titulo": "Dietary Consult - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=298-Dietary Consult - 1"
+    },
+    {
+      "id": "2785",
+      "titulo": "Weight Gain and Edema",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2785-Weight Gain and Edema"
+    },
+    {
+      "id": "1379",
+      "titulo": "Infant Not Gaining Weight",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1379-Infant Not Gaining Weight"
+    },
+    {
+      "id": "1600",
+      "titulo": "Preeclampsia",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1600-Preeclampsia"
+    },
+    {
+      "id": "1692",
+      "titulo": "Neuropsychological Evaluation - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1692-Neuropsychological Evaluation - 3"
+    },
+    {
+      "id": "1547",
+      "titulo": "Psych Consult - Paranoia",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1547-Psych Consult - Paranoia"
+    },
+    {
+      "id": "1273",
+      "titulo": "Paroxysmal Atrial Fibrillation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1273-Paroxysmal Atrial Fibrillation"
+    },
+    {
+      "id": "1202",
+      "titulo": "First Followup - Shunt Surgery",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1202-First Followup - Shunt Surgery"
+    },
+    {
+      "id": "2160",
+      "titulo": "Ureteral Calculus - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2160-Ureteral Calculus - Consult"
+    },
+    {
+      "id": "1674",
+      "titulo": "Arm Pain - Neuro Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1674-Arm Pain - Neuro Consult"
+    },
+    {
+      "id": "534",
+      "titulo": "Head Trauma",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=534-Head Trauma"
+    },
+    {
+      "id": "1427",
+      "titulo": "Chronic Sinusitis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1427-Chronic Sinusitis"
+    },
+    {
+      "id": "1152",
+      "titulo": "Admission History & Physical - Nausea",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1152-Admission History & Physical - Nausea"
+    },
+    {
+      "id": "1160",
+      "titulo": "Consult - Back & Leg Pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1160-Consult - Back & Leg Pain"
+    },
+    {
+      "id": "2294",
+      "titulo": "Abrasions & Lacerations - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2294-Abrasions & Lacerations - ER Visit"
+    },
+    {
+      "id": "2675",
+      "titulo": "Insect Sting",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2675-Insect Sting"
+    },
+    {
+      "id": "2148",
+      "titulo": "Normal ROS Template - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2148-Normal ROS Template - 3"
+    },
+    {
+      "id": "1061",
+      "titulo": "Bariatric Consult - Surgical Weight Loss - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1061-Bariatric Consult - Surgical Weight Loss - 1"
+    },
+    {
+      "id": "1076",
+      "titulo": "Gen Med Consult - 30",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1076-Gen Med Consult - 30"
+    },
+    {
+      "id": "2167",
+      "titulo": "Ischemic Cecum - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2167-Ischemic Cecum - Consult"
+    },
+    {
+      "id": "1989",
+      "titulo": "Abnormal Stress Test",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1989-Abnormal Stress Test"
+    },
+    {
+      "id": "2570",
+      "titulo": "Therapeutic Recreation Initial Evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2570-Therapeutic Recreation Initial Evaluation"
+    },
+    {
+      "id": "1199",
+      "titulo": "Consult for Colostomy Reversal",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1199-Consult for Colostomy Reversal"
+    },
+    {
+      "id": "295",
+      "titulo": "Dietary Consultation - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=295-Dietary Consultation - 1"
+    },
+    {
+      "id": "1255",
+      "titulo": "Foot Infection Management",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1255-Foot Infection Management"
+    },
+    {
+      "id": "433",
+      "titulo": "Orthopedic Consult - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=433-Orthopedic Consult - 1"
+    },
+    {
+      "id": "379",
+      "titulo": "Worker's Compensation Injury",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=379-Worker's Compensation Injury"
+    },
+    {
+      "id": "96",
+      "titulo": "Gen Med Consult - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=96-Gen Med Consult - 4"
+    },
+    {
+      "id": "2289",
+      "titulo": "Urinary Retention",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2289-Urinary Retention"
+    },
+    {
+      "id": "1208",
+      "titulo": "Discoid Lupus",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1208-Discoid Lupus"
+    },
+    {
+      "id": "1185",
+      "titulo": "Consult - Screening Colonoscopy",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1185-Consult - Screening Colonoscopy"
+    },
+    {
+      "id": "2214",
+      "titulo": "Gen Med Consult - 51",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2214-Gen Med Consult - 51"
+    },
+    {
+      "id": "1077",
+      "titulo": "Gen Med Consult - 31",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1077-Gen Med Consult - 31"
+    },
+    {
+      "id": "1503",
+      "titulo": "Gen Med Consult - 45",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1503-Gen Med Consult - 45"
+    },
+    {
+      "id": "911",
+      "titulo": "Eye Examination - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=911-Eye Examination - H&P"
+    },
+    {
+      "id": "2445",
+      "titulo": "Pulmonary Hypertension - Pediatric Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2445-Pulmonary Hypertension - Pediatric Consult"
+    },
+    {
+      "id": "1852",
+      "titulo": "Speech Therapy Evaluation - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1852-Speech Therapy Evaluation - 1"
+    },
+    {
+      "id": "1560",
+      "titulo": "Normal Physical Exam Template",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1560-Normal Physical Exam Template"
+    },
+    {
+      "id": "1598",
+      "titulo": "Pericardial Effusion",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1598-Pericardial Effusion"
+    },
+    {
+      "id": "2147",
+      "titulo": "Normal Physical Exam Template - 5",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2147-Normal Physical Exam Template - 5"
+    },
+    {
+      "id": "640",
+      "titulo": "Renal Failure - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=640-Renal Failure - Consult"
+    },
+    {
+      "id": "102",
+      "titulo": "Consult - ICU Management",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=102-Consult - ICU Management"
+    },
+    {
+      "id": "2612",
+      "titulo": "Kyphosis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2612-Kyphosis"
+    },
+    {
+      "id": "99",
+      "titulo": "Psych Consult - Substance abuse",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=99-Psych Consult - Substance abuse"
+    },
+    {
+      "id": "1690",
+      "titulo": "Neurologic Consultation - 5",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1690-Neurologic Consultation - 5"
+    },
+    {
+      "id": "1285",
+      "titulo": "Infantile Spasms",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1285-Infantile Spasms"
+    },
+    {
+      "id": "2769",
+      "titulo": "Mantle Cell Lymphoma - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2769-Mantle Cell Lymphoma - Consult"
+    },
+    {
+      "id": "2749",
+      "titulo": "Ecstasy Ingestion - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2749-Ecstasy Ingestion - ER Visit"
+    },
+    {
+      "id": "2753",
+      "titulo": "Normal Physical Exam Template - 7",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2753-Normal Physical Exam Template - 7"
+    },
+    {
+      "id": "790",
+      "titulo": "Rheumatoid Arthritis - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=790-Rheumatoid Arthritis - H&P"
+    },
+    {
+      "id": "1733",
+      "titulo": "Normal Physical Exam Template - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1733-Normal Physical Exam Template - 3"
+    },
+    {
+      "id": "1874",
+      "titulo": "Head & Neck Cancer Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1874-Head & Neck Cancer Consult"
+    },
+    {
+      "id": "963",
+      "titulo": "Acute Cystitis & Diabetes Type II",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=963-Acute Cystitis & Diabetes Type II"
+    },
+    {
+      "id": "2125",
+      "titulo": "Consult - Seizures - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2125-Consult - Seizures - 1"
+    },
+    {
+      "id": "931",
+      "titulo": "Thrombocytopenia - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=931-Thrombocytopenia - Consult"
+    },
+    {
+      "id": "1795",
+      "titulo": "Barium Swallow Study Evaluation - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1795-Barium Swallow Study Evaluation - 1"
+    },
+    {
+      "id": "2215",
+      "titulo": "C. Diff Colitis Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2215-C. Diff Colitis Consult"
+    },
+    {
+      "id": "2755",
+      "titulo": "Itchy Rash - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2755-Itchy Rash - ER Visit"
+    },
+    {
+      "id": "787",
+      "titulo": "Tinea Pedis - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=787-Tinea Pedis - H&P"
+    },
+    {
+      "id": "643",
+      "titulo": "Cervical Cord Lesion - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=643-Cervical Cord Lesion - Consult"
+    },
+    {
+      "id": "1070",
+      "titulo": "Gen Med Consult - 27",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1070-Gen Med Consult - 27"
+    },
+    {
+      "id": "402",
+      "titulo": "Gen Med Consult - 14",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=402-Gen Med Consult - 14"
+    },
+    {
+      "id": "2615",
+      "titulo": "Difficulty Distance Vision & Fine Print at Near",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2615-Difficulty Distance Vision & Fine Print at Near"
+    },
+    {
+      "id": "927",
+      "titulo": "Lumbar Radiculopathy - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=927-Lumbar Radiculopathy - Consult"
+    },
+    {
+      "id": "1599",
+      "titulo": "Elevated Cardiac Enzymes",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1599-Elevated Cardiac Enzymes"
+    },
+    {
+      "id": "1269",
+      "titulo": "Breast Augmentation Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1269-Breast Augmentation Consult"
+    },
+    {
+      "id": "1680",
+      "titulo": "Neurologic Consultation - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1680-Neurologic Consultation - 4"
+    },
+    {
+      "id": "2057",
+      "titulo": "Normal Female ROS Template",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2057-Normal Female ROS Template"
+    },
+    {
+      "id": "434",
+      "titulo": "Orthopedic Consult - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=434-Orthopedic Consult - 2"
+    },
+    {
+      "id": "1452",
+      "titulo": "Consult - Enlarged Tonsils",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1452-Consult - Enlarged Tonsils"
+    },
+    {
+      "id": "936",
+      "titulo": "Gen Med H&P - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=936-Gen Med H&P - 2"
+    },
+    {
+      "id": "100",
+      "titulo": "Psych Consult - Alcohol Withdrawal",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=100-Psych Consult - Alcohol Withdrawal"
+    },
+    {
+      "id": "51",
+      "titulo": "Cardiac Consultation - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=51-Cardiac Consultation - 2"
+    },
+    {
+      "id": "792",
+      "titulo": "Acne Vulgaris - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=792-Acne Vulgaris - H&P"
+    },
+    {
+      "id": "1506",
+      "titulo": "Perioperative Elevated Blood Pressure",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1506-Perioperative Elevated Blood Pressure"
+    },
+    {
+      "id": "1622",
+      "titulo": "Organic Brain Syndrome",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1622-Organic Brain Syndrome"
+    },
+    {
+      "id": "1727",
+      "titulo": "Normal ROS Template",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1727-Normal ROS Template"
+    },
+    {
+      "id": "1190",
+      "titulo": "Neurologic Consultation - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1190-Neurologic Consultation - 2"
+    },
+    {
+      "id": "632",
+      "titulo": "H&P - Nausea & Vomiting",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=632-H&P - Nausea & Vomiting"
+    },
+    {
+      "id": "1792",
+      "titulo": "Barium Swallow Study Evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1792-Barium Swallow Study Evaluation"
+    },
+    {
+      "id": "937",
+      "titulo": "Ear pain - Pediatric Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=937-Ear pain - Pediatric Consult"
+    },
+    {
+      "id": "2784",
+      "titulo": "Hematuria - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2784-Hematuria - ER Visit"
+    },
+    {
+      "id": "962",
+      "titulo": "Acute Inferior Myocardial Infarction",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=962-Acute Inferior Myocardial Infarction"
+    },
+    {
+      "id": "396",
+      "titulo": "School Physical - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=396-School Physical - 1"
+    },
+    {
+      "id": "494",
+      "titulo": "MCA Aneurysm",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=494-MCA Aneurysm"
+    },
+    {
+      "id": "429",
+      "titulo": "First Pap smear.",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=429-First Pap smear."
+    },
+    {
+      "id": "1057",
+      "titulo": "Consult/ER Report - OB/GYN",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1057-Consult/ER Report - OB/GYN"
+    },
+    {
+      "id": "2503",
+      "titulo": "Normal ROS Template - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2503-Normal ROS Template - 4"
+    },
+    {
+      "id": "435",
+      "titulo": "Orthopedic Consult - 3",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=435-Orthopedic Consult - 3"
+    },
+    {
+      "id": "2622",
+      "titulo": "Sick Sinus Syndrome",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2622-Sick Sinus Syndrome"
+    },
+    {
+      "id": "2154",
+      "titulo": "Glioblastoma Multiforme - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2154-Glioblastoma Multiforme - Consult"
+    },
+    {
+      "id": "950",
+      "titulo": "TIA - Cosult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=950-TIA - Cosult"
+    },
+    {
+      "id": "2149",
+      "titulo": "Normal Physical Exam Template - 6",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2149-Normal Physical Exam Template - 6"
+    },
+    {
+      "id": "1843",
+      "titulo": "Anemia - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1843-Anemia - Consult"
+    },
+    {
+      "id": "1732",
+      "titulo": "Normal ROS Template - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1732-Normal ROS Template - 1"
+    },
+    {
+      "id": "445",
+      "titulo": "Gen Med Consult - 19",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=445-Gen Med Consult - 19"
+    },
+    {
+      "id": "1227",
+      "titulo": "Nephrology Consultation - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1227-Nephrology Consultation - 4"
+    },
+    {
+      "id": "1961",
+      "titulo": "Normal ENT Exam",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1961-Normal ENT Exam"
+    },
+    {
+      "id": "294",
+      "titulo": "Dietary Consultation - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=294-Dietary Consultation - 2"
+    },
+    {
+      "id": "1561",
+      "titulo": "Normal Physical Exam Template - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1561-Normal Physical Exam Template - 1"
+    },
+    {
+      "id": "2767",
+      "titulo": "Hematology Consult - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2767-Hematology Consult - 1"
+    },
+    {
+      "id": "1062",
+      "titulo": "Bariatric Consult - Surgical Weight Loss - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1062-Bariatric Consult - Surgical Weight Loss - 2"
+    },
+    {
+      "id": "928",
+      "titulo": "Pneumothorax & Subcutaneous Emphysema",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=928-Pneumothorax & Subcutaneous Emphysema"
+    },
+    {
+      "id": "1149",
+      "titulo": "Consult - Multiple Colon Polyps",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1149-Consult - Multiple Colon Polyps"
+    },
+    {
+      "id": "2557",
+      "titulo": "Normal ROS Template - 5",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2557-Normal ROS Template - 5"
+    },
+    {
+      "id": "1497",
+      "titulo": "Pneumoconiosis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1497-Pneumoconiosis"
+    },
+    {
+      "id": "496",
+      "titulo": "Dural AVM",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=496-Dural AVM"
+    },
+    {
+      "id": "1241",
+      "titulo": "Gastric Bypass Discussion - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1241-Gastric Bypass Discussion - 1"
+    },
+    {
+      "id": "1234",
+      "titulo": "Mesothelioma - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1234-Mesothelioma - Consult"
+    },
+    {
+      "id": "1451",
+      "titulo": "ENT Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1451-ENT Consult"
+    },
+    {
+      "id": "2120",
+      "titulo": "Peripheral Effusion - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2120-Peripheral Effusion - Consult"
+    },
+    {
+      "id": "630",
+      "titulo": "Lumbar Spine HNP - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=630-Lumbar Spine HNP - Consult"
+    },
+    {
+      "id": "215",
+      "titulo": "Psych Consult - Depression - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=215-Psych Consult - Depression - 1"
+    },
+    {
+      "id": "2310",
+      "titulo": "Chest Wall Lump - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2310-Chest Wall Lump - Consult"
+    },
+    {
+      "id": "2198",
+      "titulo": "Hematology Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2198-Hematology Consult"
+    },
+    {
+      "id": "2514",
+      "titulo": "Vertigo Consult - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2514-Vertigo Consult - 1"
+    },
+    {
+      "id": "2166",
+      "titulo": "Air Under Diaphragm - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2166-Air Under Diaphragm - Consult"
+    },
+    {
+      "id": "2756",
+      "titulo": "Dental Pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2756-Dental Pain"
+    },
+    {
+      "id": "1248",
+      "titulo": "Recurrent Abscesses - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1248-Recurrent Abscesses - Consult"
+    },
+    {
+      "id": "1593",
+      "titulo": "Consult - Abnormal EKG",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1593-Consult - Abnormal EKG"
+    },
+    {
+      "id": "642",
+      "titulo": "Renal Insufficiency - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=642-Renal Insufficiency - Consult"
+    },
+    {
+      "id": "1991",
+      "titulo": "Lung Cancer & MI - Hospice Cosult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1991-Lung Cancer & MI - Hospice Cosult"
+    },
+    {
+      "id": "63",
+      "titulo": "Foot pain Consultation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=63-Foot pain Consultation"
+    },
+    {
+      "id": "93",
+      "titulo": "Psych Consult - Dementia",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=93-Psych Consult - Dementia"
+    },
+    {
+      "id": "2365",
+      "titulo": "Clogged AV Shunt - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2365-Clogged AV Shunt - Consult"
+    },
+    {
+      "id": "1271",
+      "titulo": "Syncope - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1271-Syncope - ER Visit"
+    },
+    {
+      "id": "1247",
+      "titulo": "Bariatric Consult - Surgical Weight Loss - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1247-Bariatric Consult - Surgical Weight Loss - 4"
+    },
+    {
+      "id": "1850",
+      "titulo": "Barium Swallow Study & Speech Evaluation - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1850-Barium Swallow Study & Speech Evaluation - 1"
+    },
+    {
+      "id": "2800",
+      "titulo": "Chest Pain Evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2800-Chest Pain Evaluation"
+    },
+    {
+      "id": "1504",
+      "titulo": "Postop Medical Management",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1504-Postop Medical Management"
+    },
+    {
+      "id": "1985",
+      "titulo": "Angina - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1985-Angina - Consult"
+    },
+    {
+      "id": "1293",
+      "titulo": "Pseudoseizures",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1293-Pseudoseizures"
+    },
+    {
+      "id": "1170",
+      "titulo": "Consult - Hydronephrosis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1170-Consult - Hydronephrosis"
+    },
+    {
+      "id": "933",
+      "titulo": "Ankle Sprain - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=933-Ankle Sprain - H&P"
+    },
+    {
+      "id": "1944",
+      "titulo": "Marginal Zone Lymphoma",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1944-Marginal Zone Lymphoma"
+    },
+    {
+      "id": "1151",
+      "titulo": "Consult - Rectal Bleeding",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1151-Consult - Rectal Bleeding"
+    },
+    {
+      "id": "451",
+      "titulo": "Gen Med Consult - 23",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=451-Gen Med Consult - 23"
+    },
+    {
+      "id": "2041",
+      "titulo": "Pediatric Rheumatology Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2041-Pediatric Rheumatology Consult"
+    },
+    {
+      "id": "2768",
+      "titulo": "Colon Cancer Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2768-Colon Cancer Consult"
+    },
+    {
+      "id": "2773",
+      "titulo": "Breast Reconstruction",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2773-Breast Reconstruction"
+    },
+    {
+      "id": "2084",
+      "titulo": "Hand Pain - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2084-Hand Pain - Consult"
+    },
+    {
+      "id": "1546",
+      "titulo": "Psych Consult - Bipolar Affective Disorder",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1546-Psych Consult - Bipolar Affective Disorder"
+    },
+    {
+      "id": "419",
+      "titulo": "Normal Male Exam Template - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=419-Normal Male Exam Template - 1"
+    },
+    {
+      "id": "58",
+      "titulo": "Shoulder Pain Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=58-Shoulder Pain Consult"
+    },
+    {
+      "id": "1495",
+      "titulo": "Gen Med Consult - 44",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1495-Gen Med Consult - 44"
+    },
+    {
+      "id": "1783",
+      "titulo": "Cardiomyopathy & Hypotension - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1783-Cardiomyopathy & Hypotension - Consult"
+    },
+    {
+      "id": "1222",
+      "titulo": "Consult - Breast Cancer - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1222-Consult - Breast Cancer - 1"
+    },
+    {
+      "id": "2783",
+      "titulo": "Hypergranulation - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2783-Hypergranulation - Consult"
+    },
+    {
+      "id": "621",
+      "titulo": "Sinus problems - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=621-Sinus problems - Consult"
+    },
+    {
+      "id": "448",
+      "titulo": "Gen Med Consult - 21",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=448-Gen Med Consult - 21"
+    },
+    {
+      "id": "1204",
+      "titulo": "Neuropsychological Evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1204-Neuropsychological Evaluation"
+    },
+    {
+      "id": "2517",
+      "titulo": "Psychiatric Consult - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2517-Psychiatric Consult - 2"
+    },
+    {
+      "id": "926",
+      "titulo": "Low Back Pain - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=926-Low Back Pain - Consult"
+    },
+    {
+      "id": "1631",
+      "titulo": "End Stage Renal Disease - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1631-End Stage Renal Disease - Consult"
+    },
+    {
+      "id": "2536",
+      "titulo": "Mental Status Changes - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2536-Mental Status Changes - Consult"
+    },
+    {
+      "id": "2631",
+      "titulo": "Chronic Atrial Fibrillation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2631-Chronic Atrial Fibrillation"
+    },
+    {
+      "id": "2746",
+      "titulo": "Not Feeling Well - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2746-Not Feeling Well - ER Visit"
+    },
+    {
+      "id": "1623",
+      "titulo": "Consult - Migraine",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1623-Consult - Migraine"
+    },
+    {
+      "id": "1270",
+      "titulo": "Erythema Nodosum - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1270-Erythema Nodosum - Consult"
+    },
+    {
+      "id": "487",
+      "titulo": "Request For Consultation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=487-Request For Consultation"
+    },
+    {
+      "id": "916",
+      "titulo": "Otitis Media - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=916-Otitis Media - H&P"
+    },
+    {
+      "id": "1264",
+      "titulo": "Hypersensitivity to Coumadin",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1264-Hypersensitivity to Coumadin"
+    },
+    {
+      "id": "1729",
+      "titulo": "Normal Physical Exam Template - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1729-Normal Physical Exam Template - 2"
+    },
+    {
+      "id": "535",
+      "titulo": "Glioma - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=535-Glioma - 2"
+    },
+    {
+      "id": "1671",
+      "titulo": "Chest Pain - Cardiac Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1671-Chest Pain - Cardiac Consult"
+    },
+    {
+      "id": "1498",
+      "titulo": "Wound Care Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1498-Wound Care Consult"
+    },
+    {
+      "id": "1137",
+      "titulo": "Gen Med Consult - 32",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1137-Gen Med Consult - 32"
+    },
+    {
+      "id": "2674",
+      "titulo": "URI & Eustachian Congestion",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2674-URI & Eustachian Congestion"
+    },
+    {
+      "id": "935",
+      "titulo": "Small Bowel Obstruction",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=935-Small Bowel Obstruction"
+    },
+    {
+      "id": "485",
+      "titulo": "Gen Med Consult - 5",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=485-Gen Med Consult - 5"
+    },
+    {
+      "id": "924",
+      "titulo": "Trouble Breathing - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=924-Trouble Breathing - H&P "
+    },
+    {
+      "id": "2392",
+      "titulo": "Encephalopathy  - Rehab Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2392-Encephalopathy  - Rehab Consult "
+    },
+    {
+      "id": "505",
+      "titulo": "Lobar Holoprosencephaly",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=505-Lobar Holoprosencephaly"
+    },
+    {
+      "id": "184",
+      "titulo": "OB/GYN Consultation - 1",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=184-OB/GYN Consultation - 1"
+    },
+    {
+      "id": "301",
+      "titulo": "Dietary Consult - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=301-Dietary Consult - 4"
+    },
+    {
+      "id": "1509",
+      "titulo": "Tongue Swelling",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1509-Tongue Swelling"
+    },
+    {
+      "id": "2750",
+      "titulo": "Blood in Urine - ER Visit",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2750-Blood in Urine - ER Visit"
+    },
+    {
+      "id": "358",
+      "titulo": "Well-Child Check - 5",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=358-Well-Child Check - 5"
+    },
+    {
+      "id": "1153",
+      "titulo": "Consult - Palpitations & Presyncope",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1153-Consult - Palpitations & Presyncope"
+    },
+    {
+      "id": "1954",
+      "titulo": "Bilateral Hip Pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1954-Bilateral Hip Pain"
+    },
+    {
+      "id": "786",
+      "titulo": "Onychomycosis - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=786-Onychomycosis - H&P"
+    },
+    {
+      "id": "1284",
+      "titulo": "Congestion - 21-day-old",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1284-Congestion - 21-day-old"
+    },
+    {
+      "id": "906",
+      "titulo": "Prostate Adenocarcinoma - H&P",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=906-Prostate Adenocarcinoma - H&P"
+    },
+    {
+      "id": "1065",
+      "titulo": "Consult - Laparoscopic Cholecystectomy",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1065-Consult - Laparoscopic Cholecystectomy "
+    },
+    {
+      "id": "1619",
+      "titulo": "Consult - Sepsis",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1619-Consult - Sepsis"
+    },
+    {
+      "id": "393",
+      "titulo": "Gen Med Consult - 10",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=393-Gen Med Consult - 10"
+    },
+    {
+      "id": "2632",
+      "titulo": "Dilated Cardiomyopathy - Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2632-Dilated Cardiomyopathy - Consult"
+    },
+    {
+      "id": "297",
+      "titulo": "Dietary Consult - Gestational Diabetes",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=297-Dietary Consult - Gestational Diabetes"
+    },
+    {
+      "id": "666",
+      "titulo": "H&P - Gen Med - 2",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=666-H&P - Gen Med - 2"
+    },
+    {
+      "id": "65",
+      "titulo": "Neck & Back Pain",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=65-Neck & Back Pain"
+    },
+    {
+      "id": "2070",
+      "titulo": "New Onset Seizure",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2070-New Onset Seizure"
+    },
+    {
+      "id": "2060",
+      "titulo": "Renal Failure Evaluation",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=2060-Renal Failure Evaluation"
+    },
+    {
+      "id": "1428",
+      "titulo": "Allergy Evaluation Consult",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1428-Allergy Evaluation Consult"
+    },
+    {
+      "id": "293",
+      "titulo": "Carbohydrate Counting",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=293-Carbohydrate Counting"
+    },
+    {
+      "id": "641",
+      "titulo": "Medical Management Consult Request",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=641-Medical Management Consult Request"
+    },
+    {
+      "id": "1145",
+      "titulo": "Orthopedic Consult - 4",
+      "url": "https://www.mtsamples.com/site/pages/sample.asp?Type=97-Consult - History and Phy.&Sample=1145-Orthopedic Consult - 4"
+    }
+  ]
+}

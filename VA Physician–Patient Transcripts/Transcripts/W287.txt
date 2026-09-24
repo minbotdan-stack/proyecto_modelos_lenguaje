@@ -1,0 +1,758 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR W287
+PATIENT.  Yeah.  @@@ sir.
+ 
+PATIENT W287
+Hello.
+
+DOCTOR W287
+How's everything going?
+
+PATIENT W287
+I guess so.  I can put it over here.
+
+DOCTOR W287
+Good.
+
+PATIENT W287
+One good sign, I’m still here.
+
+DOCTOR W287
+Yeah, that's right, that's always a good sign.
+
+PATIENT W287
+Yeah.
+
+DOCTOR W287
+How was your summer?
+
+PATIENT W287
+So far, so good.
+
+DOCTOR W287
+Well it's over now.
+
+SECOND PERSON W287
+Yeah.  
+
+DOCTOR W287
+Which is too bad.  What's new?  Are you still doing well?
+
+PATIENT W287
+No I'm just doing great.
+
+DOCTOR W287
+Good.  So still exercising, because the last time you came in.
+
+PATIENT W287
+Well I exercise because I'm working doing visits you always doing something up and down the stairs.  We got a real big yard so.
+
+DOCTOR W287
+Yeah.
+
+PATIENT W287
+Cutting the grass and everything.
+
+DOCTOR W287
+Good.  How you feeling, anything new?  It looks like you just went to the Emergency Room?
+
+PATIENT W287
+Yeah I had a, they found out I had bronchitis I think it was.  Um, I was feeling really bad for a few days.
+
+DOCTOR W287
+Uh-huh.
+
+PATIENT W287
+And then I went to the Emergency Room because it was hard of breathing.
+
+DOCTOR W287
+Oh.
+
+PATIENT W287
+And then they found out I had that so.
+
+DOCTOR W287
+The bronchitis?
+
+PATIENT W287
+Yeah.  Bronchitis wasn't it?
+
+SECOND PERSON W287
+Uh-huh.
+
+PATIENT W287
+Yes.
+
+DOCTOR W287
+Okay now how are you feeling now?
+
+PATIENT W287
+I'm feeling good.
+
+DOCTOR W287
+Did they give you antibiotics?
+
+PATIENT W287
+They gave.
+
+SECOND PERSON W287
+They gave him like an inhaler.
+
+PATIENT W287
+Yeah an inhaler.  They told me to drink a lot of liquids and to rest you know, not to do too much.
+
+DOCTOR W287
+Yeah.
+
+PATIENT W287
+Which I did.
+
+DOCTOR W287
+Uh-huh.  That was yeah that was almost a month ago.
+
+PATIENT W287
+Yeah.
+
+DOCTOR W287
+And has it gone away completely?  You still sound a little hoarse.
+
+PATIENT W287
+I don't know.  I don't.
+
+SECOND PERSON W287
+It's his cough.
+
+PATIENT W287
+Yeah I don't um, every now and then I get a coughing spell but nothing like before but they said it was gonna take like about a month before I'm 100%.
+
+DOCTOR W287
+Okay.  And you got a chest x-ray.  And you said the inhaler is helping or not really?
+
+PATIENT W287
+It did help when I was using it yeah.
+
+DOCTOR W287
+Yeah.  Are you still using it or no?
+
+PATIENT W287
+No.
+
+DOCTOR W287
+No.
+
+PATIENT W287
+No they just gave me one.
+
+DOCTOR W287
+Okay.
+
+PATIENT W287
+And they told me just to when it's done that was it.
+
+DOCTOR W287
+Okay.
+
+PATIENT W287
+No when I was using it, it helped a lot.
+
+DOCTOR W287
+It did good.  Any other problems?  How are your blood sugars?
+
+PATIENT W287
+It's alright, you know, 130.
+
+DOCTOR W287
+130 when you're fasting?
+
+PATIENT W287
+Well no, you know it actually got down to I think it was in the 120s and then I had ate and once, I had ate and I went to the Emergency Room, I think it was only 127 I think she said.  She said that that's good considering that I had ate something.
+
+DOCTOR W287
+Yeah.  Okay.
+
+PATIENT W287
+I take my shot every day.
+
+DOCTOR W287
+And you're still taking uh the, so you're taking 15 units of Lantus at night?
+
+PATIENT W287
+Yeah.
+
+DOCTOR W287
+And then um that's it?
+
+PATIENT W287
+Yeah, plus the pills that I take you know.
+
+DOCTOR W287
+Yeah.  But no other stuff with this.
+
+SECOND PERSON W287
+The glipizide you gave us.
+
+DOCTOR W287
+@@@ metformin?
+
+PATIENT W287
+Yeah.
+
+DOCTOR W287
+Okay and your @@@.  Remember I know you were having problems with the chest pain before.
+
+PATIENT W287
+That's when I was, when I was getting sick.
+
+DOCTOR W287
+Yeah, yeah, no I know but before when I saw you, you remember he was having like the chest pain.
+
+PATIENT W287
+Oh I don't know.
+
+DOCTOR W287
+Is that better?
+
+PATIENT W287
+Yeah.
+
+DOCTOR W287
+Good.
+
+PATIENT W287
+I don't know what happened but I'm feeling pretty good.
+
+DOCTOR W287
+Good, good.  Glad to hear it.
+
+PATIENT W287
+Let me see that now.  I'm looking at some of these, do you think you could give me refills.
+
+DOCTOR W287
+Yeah, yeah.
+
+PATIENT W287
+On the ones that I need.
+
+DOCTOR W287
+Absolutely.  What do you need refills?  Some of them oh yeah the atenolol.
+
+PATIENT W287
+Yeah I could use refills on anything you could give.
+
+DOCTOR W287
+No I can give you refills on everything.
+
+PATIENT W287
+Yeah if you could do that.  Even the insulin if you want to order that.
+
+DOCTOR W287
+Yeah.  You need the, do you have reflux?  The acid reflux?
+
+PATIENT W287
+No.
+
+DOCTOR W287
+Do you need that pill still cause one of your medications are?
+
+PATIENT W287
+No, for the acid no, no.
+
+DOCTOR W287
+Yeah.  Maybe we can take you off that then.
+
+PATIENT W287
+I think we did already right?
+
+DOCTOR W287
+No it's still on your medication list.
+
+PATIENT W287
+Okay.  
+
+DOCTOR W287
+Should probably get, since your hemoglobin A1c, February, about @@@ months ago.  Yeah maybe we should get one.  Do you see that pharmacist?
+
+PATIENT W287
+The.
+
+DOCTOR W287
+You don't ever see the pharmacist?
+
+PATIENT W287
+No.
+
+DOCTOR W287
+So you're not having any more episodes of the chest pain?
+
+PATIENT W287
+No.
+
+DOCTOR W287
+Good.  So your breathing is at baseline now?  Do you think you're back to normal?
+
+PATIENT W287
+Yeah, yeah.
+
+DOCTOR W287
+You're sounding still hoarse though.
+
+SECOND PERSON W287
+It doesn't go away.
+
+PATIENT W287
+Yeah I know.  @@@
+
+DOCTOR W287
+Okay good.  Any other problems?  You eating okay, going to the bathroom okay?
+
+PATIENT W287
+Yeah, no everything's good.
+
+DOCTOR W287
+Good.  Uh, oh you need to see the eye doctor.
+
+PATIENT W287
+I got an appointment I think its next month sometime.  I got it on my calendar.
+
+DOCTOR W287
+Okay.
+
+PATIENT W287
+Yeah.
+
+DOCTOR W287
+Oh yeah uh in October you go to see them.  October 12th is your appointment.  How's your diet?  Did you improve it?
+
+PATIENT W287
+Oh, I knew you were gonna ask that.  Well I weigh 238 right now.
+
+DOCTOR W287
+Yeah.
+
+PATIENT W287
+Did I lose anything?
+
+DOCTOR W287
+No.
+
+PATIENT W287
+The same?  Well then that's half good.  I'm not gaining anything.
+
+DOCTOR W287
+Well it's not good.
+
+PATIENT W287
+Yeah I know.  You know what I.
+
+DOCTOR W287
+Still eating the cakes?
+
+PATIENT W287
+And I have tried but uh I don't know I'm a good cook.
+
+DOCTOR W287
+Alright.  You're a good cook, what did you eat for breakfast today?
+
+PATIENT W287
+Oh well today I had oatmeal, some toast and some fruit, that's all I had for breakfast.
+
+DOCTOR W287
+What did you eat for dinner last night?
+
+PATIENT W287
+Dinner, what did we have for dinner?  @@@.  Hmm I have no idea.  We went out to eat didn't we?
+
+SECOND PERSON W287
+Yeah but do you know where?
+
+DOCTOR W287
+@@@.  And maybe we should get an A1c today.  So your blood pressure looks good and.
+
+PATIENT W287
+That's the only thing that's hard for me to do is to lose the weight.
+
+DOCTOR W287
+Well it's hard for everyone to lose weight.
+
+PATIENT W287
+Huh?
+
+DOCTOR W287
+But it's hard for everyone to lose weight.
+
+PATIENT W287
+Oh yeah and then you know what's really been, my granddaughter's party and everything else and I have no excuse.
+
+DOCTOR W287
+No excuse is right.  .  Hopefully your diabetes is under better control.  Do you feel like your sugars are lower than they usually are?
+
+PATIENT W287
+Yeah @@@ every now and then, because, you know, sometimes I give that shot after I'm done eating and it's high.
+
+DOCTOR W287
+Uh-huh.
+
+PATIENT W287
+Well then I'll, if I wait at night it's alright.
+
+DOCTOR W287
+Yeah.  
+
+SECOND PERSON W287
+Oh we had BLTs for dinner.
+
+PATIENT W287
+Oh that's right, I had a BLT.
+
+DOCTOR W287
+Okay.
+
+SECOND PERSON W287
+Took me a minute.
+
+PATIENT W287
+Yeah that's right.  
+
+DOCTOR W287
+Let me get this. (Doctor answers a page).  
+
+PATIENT W287
+Is this what they gave me when I was in the Emergency Room?
+
+DOCTOR W287
+Yeah that's what they gave you.
+
+PATIENT W287
+Okay, okay.
+
+DOCTOR W287
+Does that help you?
+
+PATIENT W287
+No it did yeah.
+
+DOCTOR W287
+Do you want more of it?  I know they didn't give you any.
+
+PATIENT W287
+Uh I don't know.  Maybe I could do one more and what do I do just take it every day or when I need it?
+
+DOCTOR W287
+Uh when you need it yeah.  You don't need it if you don't need it.
+
+PATIENT W287
+Yeah no.
+
+DOCTOR W287
+Then don't do it.  
+
+PATIENT W287
+And I could use some um, some of them needles.
+
+DOCTOR W287
+The needles?
+
+PATIENT W287
+Yeah.  What's up on here?
+
+DOCTOR W287
+Oh you ran out of your amlodipine?
+
+PATIENT W287
+What is it?
+
+DOCTOR W287
+Amlodipine, one of your blood pressure medicines.
+
+PATIENT W287
+I'm out yeah.
+
+DOCTOR W287
+What kind of needles do you use, do you know?
+
+SECOND PERSON W287
+It was like @@@.
+
+PATIENT W287
+No.
+
+DOCTOR W287
+Do you want to just call me and let me know?
+
+PATIENT W287
+You know what I could call them in then.
+
+DOCTOR W287
+Yeah just because I can order one but they might be the wrong ones.
+
+PATIENT W287
+Yeah I'll order it.
+
+DOCTOR W287
+Look at the label and let me know, just tell the nurse and I'll order it.
+
+PATIENT W287
+Okay.
+
+DOCTOR W287
+Okay.
+
+PATIENT W287
+Alright.  
+
+DOCTOR W287
+And sir are you still drinking?
+
+PATIENT W287
+Yeah.
+
+DOCTOR W287
+Beers? You are?
+
+PATIENT W287
+Yeah.
+
+DOCTOR W287
+Come on.
+
+PATIENT W287
+Well like.
+
+DOCTOR W287
+@@@.
+
+PATIENT W287
+Well I'm still drinking but believe me not.
+
+DOCTOR W287
+How much are you drinking a day?
+
+PATIENT W287
+Half of what I used to.
+
+DOCTOR W287
+Well what was that?
+
+PATIENT W287
+Well.  Oh I'd say, about a six-pack and sometimes I drink three beers.
+
+DOCTOR W287
+That's about the same as you were before.
+
+PATIENT W287
+Yeah you know maybe four beers sometimes.  It all depends you know.  Sometimes I drink and sometimes I don't you know.
+
+DOCTOR W287
+Yeah.
+
+PATIENT W287
+It's kind of I don't know I just.  When I was sick I didn't drink for like three weeks and I wasn't going through any changes or anything.
+
+DOCTOR W287
+Uh-huh.
+
+PATIENT W287
+So.
+
+DOCTOR W287
+Well you should hold off.
+
+PATIENT W287
+Hmm.
+
+DOCTOR W287
+Any numbness or tingling in your feet?
+
+PATIENT W287
+She won't let me.
+
+SECOND PERSON W287
+Don't blame me.
+
+PATIENT W287
+I gotta blame somebody, may as well be you.
+
+DOCTOR W287
+Are you still smoking marijuana now and then?
+
+PATIENT W287
+Yeah every now and then, whenever somebody gives it to me.  I don't buy it.
+
+DOCTOR W287
+You haven't changed anything yet.
+
+PATIENT W287
+I know.
+
+DOCTOR W287
+No.
+
+PATIENT W287
+That I, believe this or not, it doesn't, it's not as much as people would think because nobody gives it to me and when they do I'm like yeah I'll take it.  But it relaxes me, it really does.  It says it's bad for the blood pressure?
+
+DOCTOR W287
+Yeah.
+
+PATIENT W287
+I feel that I can sleep.
+
+DOCTOR W287
+And you had, everything else looks like its up-to-date right?
+
+PATIENT W287
+Uh-huh and I got my flu shot just now.
+
+DOCTOR W287
+Uh-huh.  Good and you smoked when you were really young right?
+
+PATIENT W287
+When I was younger yeah.
+
+DOCTOR W287
+Yeah.
+
+PATIENT W287
+Well I stopped cold; I was about 25 years old.
+
+DOCTOR W287
+Uh-huh.
+
+PATIENT W287
+About 40 years ago.
+
+DOCTOR W287
+Good.  2005, your colonoscopy, that's good everything else is essentially done.  Let me take a quick look at you.  Lean forward for me, big deep breaths.  So deep breath, deep breath, deep breath okay and one more.  Any belly pain at all?
+
+PATIENT W287
+Uh uh.
+
+DOCTOR W287
+Let me see your legs.
+
+PATIENT W287
+I massage my feet almost every day.
+
+DOCTOR W287
+You do.
+
+PATIENT W287
+Yeah I take off my shoes and I use the, you know the massager, look at them, you know make sure everything's alright.
+
+DOCTOR W287
+@@@.
+
+PATIENT W287
+Okay.
+
+DOCTOR W287
+Um, @@@ increased your Lantus.
+
+PATIENT W287
+I got to go upstairs right?
+
+DOCTOR W287
+They might be able to do them up here.  I'll be right back.
+
+PATIENT W287
+Okay.
+
+DOCTOR W287
+I'll go talk with one of the doctors.
+
+PATIENT W287
+You put in my medicine and everything?
+
+DOCTOR W287
+Yeah I put in your medicine @@@.
+
+PATIENT W287
+Okay.
+
+DOCTOR OUT:  33:33  DOCTOR IN:  38:31
+
+DOCTOR W287
+Sorry, yeah they just totally do labs up here.  We can just recheck your A1c.  Your last labs were yeah.  Now I'm gonna, you haven't seen the pharmacist before?
+
+PATIENT W287
+Hmm.  What do you like uh?
+
+DOCTOR W287
+Well her name is NAME and like she's really, really good so like if you're diabetes medicines need tweaking she can see you in the interim and change up things, like if you can't see me cause I'm here not that often.  So I'm gonna put in a consult for you to see her.  We'll see what your A1c is today and if it's better we can keep going on what we are but I want you to follow up with her and to be seeing her for your diabetes medications.
+
+PATIENT W287
+Okay.
+
+DOCTOR W287
+Um so we'll do that and check the A1c.  You got your flu shot.
+
+PATIENT W287
+Did I get it?
+
+DOCTOR W287
+Yeah.
+
+PATIENT W287
+Yes.
+
+DOCTOR W287
+Good.  I'll put in that consult.  You can make an appointment with her and I'm gonna get labs today.  They can probably do them up here so you don't have to go downstairs okay.
+
+PATIENT W287
+Uh-huh.
+
+DOCTOR W287
+Come back and see me in about six months or sooner if you have any problems.
+
+PATIENT W287
+I will.  That's it?
+
+DOCTOR W287
+That's it.  I think everything; I've renewed all your meds.
+
+SECOND PERSON W287
+So we'll see that one nurse?
+
+DOCTOR W287
+Yeah they can probably do them up here.  Okay I'll come out with you.
+
+SECOND PERSON W287
+And what about the other one downstairs do we need him to see them too?
+
+PATIENT W287
+The labs?
+
+DOCTOR W287
+No I'm going to see if they’ll do your labs for you.
+
+PATIENT W287
+Okay.  Can you do this one over here?
+
+DOCTOR W287
+Yeah, yeah.  Alrighty, nice to meet you guys.
+
+PATIENT W287
+Yeah okay then bye, bye.
+
+DOCTOR W287
+Okay, so you go down for labs today.
+
+PATIENT W287
+Yeah.
+
+DOCTOR W287
+You'll get a Pharmacy consult, they'll give you a call for that and then you'll get a letter in the mail for an additional follow-up.
+
+SECOND PERSON W287
+He has to get blood work up here?
+
+PATIENT W287
+Yeah she said something about up here.  She said nothing here.
+
+Time is 3:40.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  38300
+TRANSACTION # 578-10-2-316-0103

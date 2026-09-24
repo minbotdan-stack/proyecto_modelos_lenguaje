@@ -1,0 +1,597 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@
+
+DOCTOR Q463
+PATIENT?
+
+PATIENT Q463
+Yep.
+
+DOCTOR Q463
+Hi how you doing?
+
+PATIENT Q463
+Fine how are you?
+
+DOCTOR Q463
+Alright.  I didn't know that they were doing the surgery that quick.
+
+PATIENT Q463
+Surprised huh? 
+
+DOCTOR Q463
+Yeah and I know that they were talking about you had a follow-up @@@.
+
+PATIENT Q463
+Yeah they uh, well there was confusion cause actually in October I said let's go forward with it.
+
+DOCTOR Q463
+Uh-huh.
+
+PATIENT Q463
+And somehow it got screwed up and it didn't actually end up when I wanted to do it cause I wanted to do it in December.  They were telling me it was gonna be two months worth of therapy and whatever and I just figured.
+
+DOCTOR Q463
+Do it during the winter.
+
+PATIENT Q463
+Yeah.
+
+DOCTOR Q463
+Yeah.
+
+PATIENT Q463
+But there wasn't that much weather, we didn't have a winter.
+
+DOCTOR Q463
+Yeah, that's right.  So you were up doing on the Rehab Floor for a little while too?
+
+PATIENT Q463
+Yeah.
+
+DOCTOR Q463
+Okay.  Uh how are things going, for instance are you able to walk around?
+
+PATIENT Q463
+Yeah.
+
+DOCTOR Q463
+Okay.
+
+PATIENT Q463
+The only reason I'm using the walker is between downstairs and the Rehab, up here and back down and whatever @@@ here but um yeah I'm not up to walking that much yet.
+
+DOCTOR Q463
+Yeah.  When do you have follow up with the surgeons?
+
+PATIENT Q463
+Uh the 6th of April I believe it is.
+
+DOCTOR Q463
+Okay that's like a couple of weeks.
+
+PATIENT Q463
+Yeah.
+
+DOCTOR Q463
+Okay.  Alright and I also saw you were in the ER just last week.
+
+PATIENT Q463
+Yep urinary tract infection, which they said was probably due to the catheter @@@ while I was in the service.
+
+DOCTOR Q463
+Yeah, probably.  @@@.
+
+PATIENT Q463
+@@@.
+
+DOCTOR Q463
+Are you still taking the antibiotics yet?
+
+PATIENT Q463
+Uh yeah I got four more pills.
+
+DOCTOR Q463
+Okay.  Your blood pressure looks good today.  It's been you know, our main concern was the aneurysm.
+
+PATIENT Q463
+Right.
+
+DOCTOR Q463
+So you're still going to have good blood pressure.
+
+PATIENT Q463
+Sure.
+
+DOCTOR Q463
+It still looks good today.
+
+PATIENT Q463
+And uh the other thing that I am taking as far as the medications that they’ve got me listed for, I'm taking the amlodipine.
+
+DOCTOR Q463
+10 mg?
+
+PATIENT Q463
+Yep.  The metoprolol.
+
+DOCTOR Q463
+100 twice a day?
+
+PATIENT Q463
+Yep.
+
+DOCTOR Q463
+Good.
+
+PATIENT Q463
+And uh the calcium.
+
+DOCTOR Q463
+Okay.
+
+PATIENT Q463
+And then I'm finishing out the antibiotics.  I'm not taking any of the other medications.
+
+DOCTOR Q463
+Okay.  So you're not taking the lisinopril?
+
+PATIENT Q463
+Nope.
+
+DOCTOR Q463
+Okay and you're not taking simvastatin?
+
+PATIENT Q463
+Nope.
+
+DOCTOR Q463
+Okay.
+
+PATIENT Q463
+Changed my diet, I'm eating less than, staying off of the red meat, four or five times a week at the most.  I'm eating mostly fish and chicken and a lot of nuts and grains and stuff generally to watch the cholesterol that way.  I just don't want to be on the cholesterol medications.
+
+DOCTOR Q463
+Okay.  Was your cholesterol pretty bad before?
+
+PATIENT Q463
+No.  Everything you gave me was just to reduce the blood pressure.
+
+DOCTOR Q463
+Yeah.  Are you still having problems with your vision in the left eye?
+
+PATIENT Q463
+Oh a little.
+
+DOCTOR Q463
+Okay.
+
+PATIENT Q463
+Nothing.
+
+DOCTOR Q463
+Are you still seeing the eye doc?
+
+PATIENT Q463
+I'm probably due to for another appointment, he told me to come back in the spring of this year so, I'm probably due.
+
+DOCTOR Q463
+You know I wonder if it's not, let me see what the surgeon said.  You're blood pressure's not bad but your pulse is a little bit low, 56 cause before it would have been ideal.  Uh do you ever feel like you get pauses in your, like do you ever get lightheaded or dizzy?
+
+PATIENT Q463
+I'm @@@ today but that seemed like when I work out and they're trying to get me straightened out.
+
+DOCTOR Q463
+Okay.
+
+PATIENT Q463
+Other than that no.
+
+DOCTOR Q463
+Okay.  
+
+PATIENT Q463
+And the, I'm gonna say the metoprolol um if I end up taking it within a 12 hour span, my uh pulse seems to be much more stronger and I think increased in rate as well.
+
+DOCTOR Q463
+Okay.  Did you ever do those cards?
+
+PATIENT Q463
+Yeah I sent them in.
+
+DOCTOR Q463
+The cards I sent, @@@.
+
+PATIENT Q463
+I figured no news was good news.
+
+DOCTOR Q463
+Yeah.  I don't see it at all.
+
+PATIENT Q463
+Oh.
+
+DOCTOR Q463
+How are you feeling in terms of @@@ urination with the prostate?
+
+PATIENT Q463
+Fine.  I mean I'm probably up a little more often than usual.  At night I'm probably up twice during the night but I don't have any problem going or anything like that.
+
+DOCTOR Q463
+Well it looks like your PSA has been up a little bit, the numbers that we check the prostate with.  @@@.  When was the last time I saw you?
+
+PATIENT Q463
+Uh I believe it was in October, probably I think the 7th.
+
+DOCTOR Q463
+Yeah.  This February your PSA was a 7, up from 5 back in 2010.  That's not a huge jump.
+
+PATIENT Q463
+Uh also when they put me on a mostly regimented medication, I stop taking my saw palmetto.
+
+DOCTOR Q463
+Okay.  Were you ever, did we ever have you on finasteride or Flomax?
+
+PATIENT Q463
+Uh no I was on Flomax with my other doctor for a while.
+
+DOCTOR Q463
+How many times in the night do you get up and use the bathroom?
+
+PATIENT Q463
+Usually once.
+
+DOCTOR Q463
+No weak stream or hesitancy?
+
+PATIENT Q463
+No.
+
+DOCTOR Q463
+Do ever feel like your bladder is full and you can’t empty it?
+
+PATIENT Q463
+Never.  When I gotta go, I gotta go and it's over.
+
+DOCTOR Q463
+Yeah.  Did you ever see the urologist? 
+
+PATIENT Q463
+Yeah @@@.
+
+DOCTOR Q463
+They were supposed to do that chest CT some time around now to see if that mass has changed.
+
+PATIENT Q463
+They did a CT just prior to the surgery.
+
+DOCTOR Q463
+Oh.
+
+PATIENT Q463
+And they said that they basically should be able to see if from that.  I believe it would've been February 10th.
+
+DOCTOR Q463
+I see one January 13th, preop, so that was for the preop work-up.  Okay it looks like it was unchanged.  Well maybe they called that one mass at the outside hospital at a centimeter and a half and then when we rechecked it, it was down to 5 millimeters, it was about a third of the size and then now it's down to 3-4 millimeters so it's probably something we'd want to check again.  It's certainly not getting bigger, if anything it's getting smaller so.  Are you still taking the aspirin?
+
+PATIENT Q463
+I haven't been, they didn't want me to take it before surgery and I haven't started taking it again.  
+
+DOCTOR Q463
+What about that bacteria that grew out of your urine was susceptible to the antibiotic @@@.  And you didn't have fevers, chills or anything like that, any back, low back pain?
+
+PATIENT Q463
+Yeah after therapy.
+
+DOCTOR Q463
+After therapy alright, okay.  How are you doing with your medicines, do you have plenty of refills?
+
+PATIENT Q463
+Yeah and just when I went to the hospital they gave me another pile of them plus I had them at home so I'm good for a couple of three months.  
+
+DOCTOR Q463
+I'll take a look at you.  Have you been having any chest pain or trouble breathing?
+
+PATIENT Q463
+Nope.
+
+DOCTOR Q463
+You can have a seat right there.
+
+PATIENT Q463
+Okay.
+
+DOCTOR Q463
+Big, deep breath.  Any swelling in your hands or feet?
+
+PATIENT Q463
+No.
+
+DOCTOR Q463
+Is there still a surgical scar?
+
+PATIENT Q463
+Yeah, come on now. You don’t need to ask that, do  you?
+
+DOCTOR Q463
+Oh gee that's healing nice.  Got those stitches already out, already healed up. So you haven't noticed any drainage or anything like that out of it?
+
+PATIENT Q463
+Um a couple times there was a little but once the stitches were it seemed like it was all over but that was the way it was @@@.
+
+DOCTOR Q463
+No it looks good.  Well you know, it's probably not a terrible pain that you quit taking the lisinopril.  The only thing I worry about is the metoprolol is what's called beta blockers and actually we use that to slow down people's heart rate and the blood pressure so we were @@@ pretty high for you.
+
+PATIENT Q463
+Oh.
+
+DOCTOR Q463
+So my question becomes maybe the lisinopril would be better than metoprolol because, it’s only once a day because it slows your heart down a bit.  It's probably good to cut back on the dose of @@@.  I'll kind of run that by my boss today.
+
+PATIENT Q463
+Oh.
+
+DOCTOR Q463
+Let's see @@@.
+
+PATIENT Q463
+Now the um metoprolol um like you say if I go taking it as an unusual problem or something I end up like 14 hours between the pills then uh I mean I noticed my heartbeat significantly different.
+
+DOCTOR Q463
+Really.
+
+PATIENT Q463
+Is there a um a point where that would back off, I mean.
+
+DOCTOR Q463
+Is it painful?
+
+PATIENT Q463
+No because it's, I mean I can feel it.
+
+DOCTOR Q463
+Hmm.
+
+PATIENT Q463
+Rather than, the when the @@@ like right now I don't even feel it, but like I say if I go 14 or 15 hours without it, uh I mean I have gone uh like on a trip or something and gone 18 hours then obviously it doesn't seem to get any worse or I just, I don't know what that it gets any better, I never really paid any attention.
+
+DOCTOR Q463
+Hmm.  When was the last time you saw Cardiology?
+
+PATIENT Q463
+I’m not sure, it’s been a year. 
+
+DOCTOR Q463
+Alright give me about five minutes so I can go chat with my boss real quick.
+
+PATIENT Q463
+Okay.
+
+DOCTOR Q463
+I'll be right back.
+
+PATIENT Q463
+No problem.
+
+(DOCTOR OUT:  43:25  DOCTOR IN:  51:00)
+
+DOCTOR Q463
+Alright.  Well here's what I want to do.  Blood pressure is really good.  We're shooting for less than 130 and we certainly got that on the top number.  The bottom number is actually a little bit low.  But if you don't have any symptoms, it's probably not a huge deal but kind of like this low number and your pulse rate being a little bit low, you're just kind of on the fence so.  We'll just stick with this.  You're not taking lisinopril right?
+
+PATIENT Q463
+Right.
+
+DOCTOR Q463
+So thinking about maybe just cutting back on the metoprolol.  So you're taking 100.
+
+PATIENT Q463
+It's a split pill, just got to break it in half.
+
+DOCTOR Q463
+Are you asking me?  Yeah.
+
+PATIENT Q463
+Okay.
+
+DOCTOR Q463
+So yeah, right now you're taking a pill twice a day so just take a half pill twice a day.
+
+PATIENT Q463
+Yeah.
+
+DOCTOR Q463
+Should be 12 hours though.
+
+PATIENT Q463
+Sure.
+
+DOCTOR Q463
+Uh so we'll monitor you after that.  And the simvastatin if you don't want to take it and you want to try the diet and exercise I think that's okay.
+
+PATIENT Q463
+The exercise is definitely gonna help because I didn't exercise at all before and now at least I'm back to.
+
+DOCTOR Q463
+And you're right on the borderline of your goal cholesterol so you know I don't think there's any problem.
+
+PATIENT Q463
+How's my good cholesterol?
+
+DOCTOR Q463
+We haven't, we didn't check it.  We'll probably check it next time because you're on the borderline.  You know I honestly would like to see you on the medication but with diet and exercise it may come down but the next time you come back we'll check it.
+
+PATIENT Q463
+Okay.
+
+DOCTOR Q463
+Okay.
+
+PATIENT Q463
+That’s fair. Next time, I'll see if I can't do it with diet and exercise then I'm okay with it.  Cause I used to be on it and still it was up cause then you will know.  You don’t know if diet and exercise aren't doing it, the pills are doing it.
+
+DOCTOR Q463
+Um and then @@@.
+
+PATIENT Q463
+@@@ 55 miles.
+
+DOCTOR Q463
+@@@
+
+PATIENT Q463
+@@@ up near the Wisconsin border.
+
+DOCTOR Q463
+Okay.  Um so I don't need to see you back for maybe about three months.  I would like for you to come back in the next two or three weeks to take a blood pressure.
+
+PATIENT Q463
+Okay, that might work cause I'm coming in twice a week for therapy.
+
+DOCTOR Q463
+Oh okay, alright good.  So you'll be here next week?
+
+PATIENT Q463
+Yep.
+
+DOCTOR Q463
+So we'll check it next week.  @@@ you can get it done before you go to therapy just come up here and tell the nurses you're here for a blood pressure check and she'll take your blood pressure and you go and you won't have to wait.
+
+PATIENT Q463
+Okay yeah.
+
+DOCTOR Q463
+@@@.  We're basically cutting the metoprolol in half so I want to make sure it doesn't go high now you know.  I don't think it will but we'll check it and I think it'll be fine but.
+
+PATIENT Q463
+Oh if I notice any really change in the heart rate or anything I guess I'll call and tell you.
+
+DOCTOR Q463
+Yeah.  Yeah, tell me if you have any symptoms.  So those stool cards, I don't know what happened.  I think there's @@@ because your blood count was so low that and @@@, they probably wouldn't accept them anyway and that may be what happened but you actually need the actual colonoscopy so.  @@@.
+
+PATIENT Q463
+Let's wait till I get straightened out a little bit here first.
+
+DOCTOR Q463
+Yeah, yeah, we will wait on that for a few months okay.
+
+PATIENT Q463
+Okay.
+
+DOCTOR Q463
+Okay, let me, give me just a couple more minutes.
+
+PATIENT Q463
+Pardon?
+
+(DOCTOR OUT:  56:02  DOCTOR IN:  60:16)
+
+DOCTOR Q463
+Alright.  The only real change we’re making is the half a pill.
+
+PATIENT Q463
+Okay.
+
+DOCTOR Q463
+Otherwise, I'll see you back in about four months and you've got a follow-up with the surgeons right?
+
+PATIENT Q463
+Right.
+
+DOCTOR Q463
+@@@.  And plenty of physical therapy.
+
+PATIENT Q463
+Yep.  That's my goal.  My goal is to not run a marathon, not to go square dancing, just to get to stand up and walk again.
+
+DOCTOR Q463
+Yeah.
+
+PATIENT Q463
+And I'm getting there.
+
+DOCTOR Q463
+Um next time you come in we'll check, we'll check your cholesterol and we'll check your blood count.  You know your blood count's low.  It's probably because you had the surgery and you lose blood whenever you have a surgery and that can make it low.
+
+PATIENT Q463
+I actually got a transfusion and iron because it was low.
+
+DOCTOR Q463
+Yeah so um, it probably was a little bit low but we'll see where it's at compared to today um.
+
+PATIENT Q463
+And they took four vials of blood on Saturday in the Emergency Room I don't know what they were checking for but you should have some information.
+
+DOCTOR Q463
+These are going to be four months from now so uh, yeah you don't have to worry about this before the next appointment and we'll be able to do some labs.  Uh you know, we're going to check it, PSA @@@ it didn’t go up high, it is pretty pretty high but.
+
+PATIENT Q463
+It's always been high.
+
+DOCTOR Q463
+Exactly so I mean, it could be prostate cancer but given you've had no BPH.
+
+PATIENT Q463
+My original position.
+
+DOCTOR Q463
+Uh-huh.
+
+PATIENT Q463
+I was at 9.8.
+
+DOCTOR Q463
+That's what I mean, I mean sometimes we can see a bump because you had other, @@@ in February you were in the hospital so if you had a catheter in that trauma can raise your @@@ so we'll check your PSA again when you come back in four months and that should give your prostate some time to settle down.
+
+PATIENT Q463
+And I'll go back on the saw palmetto and see what.
+
+DOCTOR Q463
+Right.
+
+PATIENT Q463
+Now it was 9.8, that would have been probably maybe 12 years ago, I went on saw palmetto then and it dropped it from 9.8 to 3.4.
+
+DOCTOR Q463
+Oh is that right?  Well we'll see what happens then.  Alright I think everything is fine.  Alright so we'll see you back in four months.  Good luck with the uh with the therapy.
+
+PATIENT Q463
+Yeah, I’ll be walking by then, next time I won’t be using the chair. Well I said maybe, I'll definitely be doing it, can @@@ maybe.
+
+DOCTOR Q463
+Alright, do you want me to show you the way out?
+
+PATIENT Q463
+Yeah if you don't mind, I don't want to tear your doors up and everything else.
+
+DOCTOR Q463
+Sure.  I'm going to see you now.
+
+PATIENT Q463
+And check out at this.
+
+DOCTOR Q463
+Yeah.
+
+PATIENT Q463
+Okay.  Forward I can do pretty good.  Backwards I don't have a rearview mirror.
+
+DOCTOR Q463
+Alright, will you be okay from here?
+
+PATIENT Q463
+Yeah thanks doctor.
+
+DOCTOR Q463
+Alright no problem.  We'll see you later okay.
+
+PATIENT Q463
+Yep.
+
+PATIENT LEAVES:  64:04.
+
+Time is 1:35.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255122
+TRANSACTION # 578-10-2-316-0103

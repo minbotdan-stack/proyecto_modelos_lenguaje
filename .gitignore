@@ -1,0 +1,22 @@
+# Informes descargados
+scraping_medico/informes_*.json
+scraping_medico/informes_*.zip
+scraping_medico/informes_exportados/
+scraping_medico/*.html
+scraping_medico/informe.txt
+scraping_medico/prueba_*.txt
+
+# Datasets locales
+final_dataset_v4_to_publish/
+mtsamples.csv
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Configuración privada
+.env
+.env.*
+!.env.example

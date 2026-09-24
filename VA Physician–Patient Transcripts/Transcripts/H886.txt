@@ -1,0 +1,862 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@   
+
+DOCTOR H886
+PATIENT?  
+
+PATIENT H886
+PATIENT.
+
+DOCTOR H886
+I knew it was that.  How are you sir?
+
+PATIENT H886
+How do you do?
+
+DOCTOR H886
+I'll take your jacket for you.
+
+PATIENT H886
+Thank you.
+
+DOCTOR H886
+You're early, were you worried about the snow?
+
+PATIENT H886
+Yes.
+
+DOCTOR H886
+And how was your drive?
+
+PATIENT H886
+Pardon?
+
+DOCTOR H886
+How was your drive?
+
+PATIENT H886
+Oh I'm only ten minutes away.
+
+DOCTOR H886
+Ten minutes away so no problem getting here?
+
+PATIENT H886
+But oh, the state or whoever's in charge of all the roads should be complimented on what a wonderful job they do.
+
+DOCTOR H886
+I'm gonna grab another chair that we put your coat on it.  I think they really scared us so.
+
+PATIENT H886
+Pardon?
+
+DOCTOR H886
+They really scared us and everybody said you know they're working really hard.  Why don't you have a seat.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+How are you feeling?
+
+PATIENT H886
+Fine, fine.
+
+DOCTOR H886
+Okay.
+
+PATIENT H886
+Uh I brought this for you because I got this from the last time I got this medicine.
+
+DOCTOR H886
+Okay.
+
+PATIENT H886
+And then here's the letter I got.
+
+DOCTOR H886
+Okay.
+
+PATIENT H886
+But this one they said there's no refills.
+
+DOCTOR H886
+Okay we can do that for you.  Yeah so, this medicine that you're on is for helping with cholesterol.
+
+PATIENT H886
+Yeah.
+
+DOCTOR H886
+I think your cholesterol is really good.  They’re doing a test to see how you are doing off of this medication so you're on two other medicines for your cholesterol.
+
+PATIENT H886
+I mean I'm glad to see this.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+I just.
+
+DOCTOR H886
+Yes I understand.
+
+PATIENT H886
+Just so you know about this.
+
+DOCTOR H886
+I understand, yeah.
+
+PATIENT H886
+Oh.
+
+DOCTOR H886
+So you're taking the simvastatin still, which is for your cholesterol and also the niacin will help.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+You still taking those two?
+
+PATIENT H886
+Yeah I take my pills religiously, I never miss that.
+
+DOCTOR H886
+Okay.  Um okay that should come up.  Any other problems with other medications.
+
+PATIENT H886
+No, no.  Everything's fine.
+
+DOCTOR H886
+Uh-huh.  Um the last time I saw you was in July, what's been going on or how have you been feeling since we saw you last?
+
+PATIENT H886
+Well I feel fine.  Everything's going well.
+
+DOCTOR H886
+Uh-huh.  
+
+PATIENT H886
+My one concern, what if I uh wanted to see you before a scheduled visit, do I just call and.
+
+DOCTOR H886
+Uh-huh.
+
+PATIENT H886
+Talk to the nurse or there's a line to talk to somebody.
+
+DOCTOR H886
+Yes.
+
+PATIENT H886
+So I can get to you.
+
+DOCTOR H886
+Uh-huh is there's something that you were concerned about or you are concerned about?
+
+PATIENT H886
+Well I'm just concerned about; I'm going to a doctor for my PSA.
+
+DOCTOR H886
+Uh-huh.
+
+PATIENT H886
+I do that once a year.
+
+DOCTOR H886
+Yes.
+
+PATIENT H886
+And if anything turns up on that.
+
+DOCTOR H886
+Uh-huh.
+
+PATIENT H886
+Then I'm gonna leave him and come over here.
+
+DOCTOR H886
+Okay.  Um so in that case, that would be a urologist that you would see.  So what you could do is you could do one of two options.  I work at Loyola and here so I'm only here every other week so sometimes it's hard getting in but usually I have an opening.  We also have an Acute Care Clinic that you can come see anybody at any time so you can get in right away.  Um, but if it's something that you're concerned about your PSA all you need to do is give me a call and I can set up a referral to our urologist so I can get you right there too.
+
+PATIENT H886
+I can call you?
+
+DOCTOR H886
+So the front desk can give you a number to call for the nurses and the nurses give me the message when you call.
+
+PATIENT H886
+I have that number for nurses.
+
+DOCTOR H886
+Yeah, yep.  So they give me the message through the computer and I'll either call you right away or do whatever you need done.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+Refill your medicine.
+
+PATIENT H886
+Okay, I just, I don't care if it's a week or ten days or whatever.
+
+DOCTOR H886
+No, no.
+
+PATIENT H886
+If I call you I can.
+
+DOCTOR H886
+If you call me and say.
+
+PATIENT H886
+I'll get a hold of the nurse number.
+
+DOCTOR H886
+Yes any day.
+
+PATIENT H886
+And tell her I'd like to hear from you.
+
+DOCTOR H886
+Say you just tell her my PSA is high and I want to see either my primary care doctor or a urologist and I'll make that happen.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+Okay.
+
+PATIENT H886
+That's good.
+
+DOCTOR H886
+So yeah but we'll do whatever we can to do the best guess for you what we need to do okay.  When is the last time you saw your urologist?
+
+PATIENT H886
+Uh a few weeks ago but I have to go back May 1st for another blood test and another check-up.
+
+DOCTOR H886
+Okay.  Um.  Any problems or pains that you've been having?
+
+PATIENT H886
+No I feel good.
+
+DOCTOR H886
+Okay.  Um just making sure all of your medicines here are renewed.  Okay.  So have you been checking your blood pressure at home?  No, you never check your blood pressures?
+
+PATIENT H886
+Once in a while but not very often.
+
+DOCTOR H886
+It's well controlled today.
+
+PATIENT H886
+About every time, every place I go it's always so good that.
+
+DOCTOR H886
+Uh-huh.
+
+PATIENT H886
+I have the little machine.
+
+DOCTOR H886
+That's okay.  You don't have to.  If you're feeling sick or whatever, it's good to kind of check it out.
+
+PATIENT H886
+And I've been losing weight.
+
+DOCTOR H886
+Good.
+
+PATIENT H886
+Of course I've been trying to do.
+
+DOCTOR H886
+Good.  Are you checking your blood sugars at home?
+
+PATIENT H886
+Pardon?
+
+DOCTOR H886
+Have you been checking your blood sugars at home?
+
+PATIENT H886
+Once in a while.
+
+DOCTOR H886
+Okay what kind of numbers are you getting at home?
+
+PATIENT H886
+Uh I don't even remember.
+
+DOCTOR H886
+100s, 200s, 300s?
+
+PATIENT H886
+Oh I don't get up to 300, oh heavens no.
+
+DOCTOR H886
+Yeah.  The last time we checked you're um hemoglobin A1c what we look for on average it looks well controlled so everything seems to be okay with that okay.  And I see you saw the dermatologist for the lesions on your back and uh they did some scraping of some lesions @@@.
+
+PATIENT H886
+Why did we go there, we went there for.
+
+DOCTOR H886
+You had uh, there was a rash that we're concerned about and.
+
+PATIENT H886
+Oh that's right for the rash yes.
+
+DOCTOR H886
+Yeah, yeah.  
+
+PATIENT H886
+He was very good and then he took some little uh cancer cells off my face with a little hot however, whatever he put on there.
+
+DOCTOR H886
+Yes.
+
+PATIENT H886
+That worked very well.
+
+DOCTOR H886
+Okay good.
+
+PATIENT H886
+And he prescribed a couple salves that worked well.
+
+DOCTOR H886
+Uh-huh.  So good.
+
+PATIENT H886
+Yeah I don't know what caused that, that was.
+
+DOCTOR H886
+Do you know what kind of blood test you're going to be getting,  soon you said?
+
+PATIENT H886
+With my urologist?
+
+DOCTOR H886
+Yeah.  Is he going to do like a whole work-up do you know or?
+
+PATIENT H886
+I don't know what they do.
+
+DOCTOR H886
+Okay.
+
+PATIENT H886
+Then he comes up with what the PSA number is.
+
+DOCTOR H886
+Yeah okay.  I looked this morning and we don't need any lab work right now but if they're gonna do something that I can look at, you know like, uh like your kidneys and liver and all that, maybe you can get a copy or have them fax it over to us.
+
+PATIENT H886
+Well he'll be very happy to give me a copy.
+
+DOCTOR H886
+Yeah so that way you don't have to repeat stuff here.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+And we can put that in the system.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+Okay.  The last time we did blood work everything was really good so I'm not concerned about anything but like I said I don't want to repeat things that they're already doing.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+So why don't you just get that.  Okay.  Um any chest pain, trouble breathing?
+
+PATIENT H886
+No.
+
+DOCTOR H886
+Appetite's been good?  Did you try to eat healthier and, how are you losing the weight?
+
+PATIENT H886
+By eating.
+
+DOCTOR H886
+Eating okay.  Doing any activity or exercises?
+
+PATIENT H886
+Well I certainly don't consider golfing exercise but I walk.
+
+DOCTOR H886
+You walk, that's good.
+
+PATIENT H886
+Yeah.
+
+DOCTOR H886
+You're not walking I mean you're not golfing right now are you?
+
+PATIENT H886
+Well a couple days a week we go hit balls over in the golf dome but you know.
+
+DOCTOR H886
+Oh, kind of bad weather to start right now.
+
+PATIENT H886
+Yeah.
+
+DOCTOR H886
+Um any problems with urinating or bowel movements?
+
+PATIENT H886
+No, no.
+
+DOCTOR H886
+Not that you've noticed okay.
+
+PATIENT H886
+No I feel good.
+
+DOCTOR H886
+Sleeping, how are you sleeping?
+
+PATIENT H886
+Pardon?
+
+DOCTOR H886
+Sleeping okay at night?
+
+PATIENT H886
+Oh, yeah well no I dream a little bit but that's you know normal.
+
+DOCTOR H886
+Did you hear, feel the earthquake last night?
+
+PATIENT H886
+No but my wife did.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+She told me she said my God I heard a terrible noise.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+Like a train.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+And then the bed shook.  I said well that's good.
+
+DOCTOR H886
+(Laughter)
+
+PATIENT H886
+Well right then she had the TV on.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+And they then talk about the earthquake.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+I said that was an earthquake you felt, well then and there also was a major train accident over in Hinsdale.
+
+DOCTOR H886
+Really.
+
+PATIENT H886
+So.
+
+DOCTOR H886
+They always say I thought that it'd feel like a train or a truck was driving by so they're not sure what's going on.
+
+PATIENT H886
+Okay.  Yeah I've been in a couple earthquakes in Japan.
+
+DOCTOR H886
+Oh really.
+
+PATIENT H886
+But I was too dumb and drunk to know the difference and the Japanese are running out of buildings like.
+
+DOCTOR H886
+(Laughter).  Um it wasn't as bad as like in Haiti.  They said that was 500 times worse.
+
+PATIENT H886
+Well this one they only said was 3 something.
+
+DOCTOR H886
+Yeah.  How's your vision, your eyes doing?
+
+PATIENT H886
+Great I go to the doctor once a year.
+
+DOCTOR H886
+And when was the last time you went?
+
+PATIENT H886
+I think I'm due to go to him again in three months or so.  I go the same time every year.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+And uh if you want I can bring a, a report but I've gone two years now with the same glasses.
+
+DOCTOR H886
+Great.  Not seeing any spots or blurriness?
+
+PATIENT H886
+No he said my eyes are great. Well, not great, but…
+
+DOCTOR H886
+@@@.  Good open your mouth ah.
+
+PATIENT H886
+Ah.
+
+DOCTOR H886
+Okay.  And how's the hearing been doing? @@@
+
+PATIENT H886
+Fine.
+
+DOCTOR H886
+Any fevers or chills?
+
+PATIENT H886
+No.
+
+DOCTOR H886
+No.  Okay that looks good.  Let me grab my stethoscope and I'll be right back.
+
+(DOCTOR OUT: 34:56  DOCTOR IN:  35:37)
+
+DOCTOR H886
+Sorry about that.  I'll take a listen to your heart.  Take a few breaths for me, in and then out.  Okay.  I'm gonna have you lie back for me.  Any trouble laying flat?
+
+PATIENT H886
+No.
+
+DOCTOR H886
+No.  Do you have any stairs at home?
+
+PATIENT H886
+Any stairs?
+
+DOCTOR H886
+Uh-huh.
+
+PATIENT H886
+Oh yeah we have a two story house, I'm up and down the stairs all the time.
+
+DOCTOR H886
+Any trouble, no problems though okay.
+
+PATIENT H886
+I think that's a good way to work-out.
+
+DOCTOR H886
+It is.  Let me help you sit up.  So how's the swelling doing?
+
+PATIENT H886
+I got my comb in the way.
+
+DOCTOR H886
+That's okay.  Is the swelling doing okay?  Do you get more water in the legs or trouble?
+
+PATIENT H886
+Yeah only once did you notice that.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+I never, you know I.
+
+DOCTOR H886
+Okay.  And the way you take the furosemide you're taking that once a day, still, that's the water pill, this one right here.
+
+PATIENT H886
+I don't even know what my pills are for. I take them religiously.
+
+DOCTOR H886
+Yeah okay.  Okay.  Squeeze my fingers; let me see how strong you are.  Squeeze.  Noticing any weakness in your arms or legs, no okay.  Alright.
+
+PATIENT H886
+Do I pass the strength test?
+
+DOCTOR H886
+You do, you do.
+
+PATIENT H886
+I could have squeezed harder.
+
+DOCTOR H886
+I'd say you were at 65.
+
+PATIENT H886
+Pardon?
+
+DOCTOR H886
+I'd say you were at 65 or maybe 70. You don’t look like youre.
+
+PATIENT H886
+Oh.
+
+DOCTOR H886
+No okay, so I don't think we need to change of your medications.  Everything seems to be doing well from half the blood work and the blood pressure today.  Um when you do go see your urologist, you know grab a copy or just have them fax them over.
+
+PATIENT H886
+Well if he says everything's okay.
+
+DOCTOR H886
+Yes.
+
+PATIENT H886
+I won't call you.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+But if he has some concerns.
+
+DOCTOR H886
+Sure.
+
+PATIENT H886
+Well what he did, in fact last year he told me you know I don't know why you're really coming anymore.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+He said if we found anything at this stage.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+He said we might even let it go because the cure is worse than the…
+
+DOCTOR H886
+It is.
+
+PATIENT H886
+And uh so but this time he did a finger examination.
+
+DOCTOR H886
+Hmm.
+
+PATIENT H886
+And he said it still, there's no hardness and your prostate feels good.
+
+DOCTOR H886
+Uh-huh.
+
+PATIENT H886
+But I'd like to do the blood test again.
+
+DOCTOR H886
+Most men die with prostate cancer, not of prostate cancer.
+
+PATIENT H886
+Yeah.
+
+DOCTOR H886
+So you're right the surgery and the treatment is much worse and as long as you're feeling okay.
+
+PATIENT H886
+Right. I don't have any.
+
+DOCTOR H886
+There's not complications then we wouldn't mess with it.
+
+PATIENT H886
+No.
+
+DOCTOR H886
+Most of the people say that at age 80 or even 75 they would stop even testing for that.
+
+PATIENT H886
+Well that's what he told me.
+
+DOCTOR H886
+Yeah.
+
+PATIENT H886
+And I said well let me come back one more year.
+
+DOCTOR H886
+Uh-huh.
+
+PATIENT H886
+This was gonna be my last visit this year.
+
+DOCTOR H886
+Yeah okay.  Well you've seen the eye doctor in the last three months.  You're gonna see your urologist.
+
+PATIENT H886
+Those are the only two outside doctors I go to.
+
+DOCTOR H886
+Okay.  So what I can do is I still need to see a copy of those blood tests just so we don't have to repeat anything here.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+And if you don't get everything you need then the next time we see you we'll do some blood work for you.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+Make sure everything's doing okay.
+
+PATIENT H886
+Yeah if he says I'm alright I let you know.
+
+DOCTOR H886
+Okay, okay.
+
+PATIENT H886
+But if there's any concern I'd just as soon come back here.
+
+DOCTOR H886
+Okay.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+Do have any specific questions or anything else that we didn't talk about?
+
+PATIENT H886
+No you took care of this.
+
+DOCTOR H886
+Yep, I renewed that and all the other medications.
+
+PATIENT H886
+This is @@@.
+
+DOCTOR H886
+Okay.
+
+PATIENT H886
+This one, I'm glad this is one less pill.
+
+DOCTOR H886
+Yep it is.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+I'm gonna say six months right here but I can see you sooner or later if we need to, does that sound okay?
+
+PATIENT H886
+Right.  And I'll call the nurse.
+
+DOCTOR H886
+Yep.
+
+PATIENT H886
+And then she'll get a hold of you.
+
+DOCTOR H886
+And they can give you the number if you don't have it up front okay.
+
+PATIENT H886
+Okay and you'll be around for another?
+
+DOCTOR H886
+For a little bit longer, not much longer so.
+
+PATIENT H886
+How long?
+
+DOCTOR H886
+So I'll probably see you one more time and that's it.
+
+PATIENT H886
+So where are you heading?
+
+DOCTOR H886
+I'm going to be working at Loyola full-time.
+
+PATIENT H886
+Oh okay.  You're not going out-of-town.
+
+DOCTOR H886
+Uh out-of-town.  I'll be at Loyola.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+I'll be working in the ER here at Hines once in a while but I won't be in the clinic any longer.  So I'm at Loyola three years and @@@.
+
+PATIENT H886
+Has it been that long?
+
+DOCTOR H886
+Yeah it has been.  But you're such an easy patient, you know you don't cause any trouble that it's been nice having you.
+
+PATIENT H886
+Well then I should get a little sick.
+
+DOCTOR H886
+Alright.
+
+PATIENT H886
+Okay.
+
+DOCTOR H886
+I'll have you check out up front so they can put you on the list for appointments and if you need anything you just let me know.
+
+PATIENT H886
+I will.  I'll be glad when we can hang.
+
+DOCTOR H886
+Be careful in the snow okay.
+
+PATIENT H886
+When we can hang these clothes up.
+
+DOCTOR H886
+Be careful with the snow out there.
+
+PATIENT H886
+I will and thank you very much.
+
+DOCTOR H886
+You're gonna take a left and then a right.
+
+PATIENT H886
+Okay left and right.
+
+PATIENT LEAVES:  40:35
+
+Time is 9 o'clock.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238080
+TRANSACTION # 578-10-2-316-0103

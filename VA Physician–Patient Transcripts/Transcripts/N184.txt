@@ -1,0 +1,436 @@
+Date of Encounter:    @@/@@/@@
+Time of Encounter:    @@@
+
+DOCTOR N184
+PATIENT?
+
+PATIENT N184 
+Yes.
+
+DOCTOR N184
+Hi.
+
+PATIENT N184
+Hi.
+
+DOCTOR N184
+How are you?
+
+PATIENT N184
+Fine how are you?
+
+DOCTOR N184
+I'm okay, @@@.  How you feeling?
+
+PATIENT N184
+Pretty good @@@.
+
+DOCTOR N184
+Any problems recently?
+
+PATIENT N184
+No um, no problems, no pain.
+
+DOCTOR N184
+Good.
+
+PATIENT N184
+The nasal spray has been working.
+
+DOCTOR N184
+Good.
+
+PATIENT N184
+Um I mean, we’ll see if we have a concern about the hepatitis thing.  I don't know you know.
+
+DOCTOR N184
+Right.  Well last time you were here we ordered a bunch of labs.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+For you to get done and then they haven't been done yet so um it's all in there and it's something that I think we should try to do today if we can.  Um was there any reason why you weren't able to get your labs done the last time I saw you?
+
+PATIENT N184
+I don't know, you know I don't know what the procedure was or.
+
+DOCTOR N184
+Oh okay, alright.  Well have you eaten today?
+
+PATIENT N184
+I had a cup of coffee and two peanut butter crackers.
+
+DOCTOR N184
+Okay.  Alright so we won't be able to check your cholesterol today um, let me see here.  So all you have to do is go down to the Lab on the first floor, all the orders are in the computer so they'll be able to draw the labs and before you leave here we might be able to just draw them up here.  So the nasal spray is working.
+
+PATIENT N184
+Yes.
+
+DOCTOR N184
+And then are you still taking the loratadine pill?
+
+PATIENT N184
+Yes.
+
+DOCTOR N184
+Okay.  Good.  How you doing on the smoking?
+
+PATIENT N184
+I took one of the patches.
+
+DOCTOR N184
+Uh-huh.
+
+PATIENT N184
+Because well I didn't smoke you know and I just put the patch on for two days and I took the patch off and didn't put another one on because I was still smoking so.
+
+DOCTOR N184
+Okay.
+
+PATIENT N184
+You know I still have all the patches though.
+
+DOCTOR N184
+Okay.
+
+PATIENT N184
+Um, well I've got another concern.
+
+DOCTOR N184
+Uh-huh.
+
+PATIENT N184
+And it concerns my toes uh.
+
+DOCTOR N184
+Okay.
+
+PATIENT N184
+I don't know I guess it's just fungus under my toes, it's been really bad the last few months and I mean, you know when I shower or whatever, I cut the toenails down to the lowest point but like the big toe, oh God its.
+
+DOCTOR N184
+Okay.  You want to take off your shoes and socks so I can just take a look?  I’ll get you a towel. Pick your feet up off the floor.  Is it painful, itching.
+
+PATIENT N184
+@@@ see.
+
+DOCTOR N184
+Uh-huh.
+
+PATIENT N184
+Its, I mean fungus under there or whatever and just.  It's like the small toes are the only one I could really get ahold of.
+
+DOCTOR N184
+Okay, so you're having trouble cutting them.
+
+PATIENT N184
+Yeah this is just.
+
+DOCTOR N184
+Well I can send you to our podiatrists, who are specialists in the foot.  They can cut toenails and give you some cream to try to get the fungus out of there but that's a hard thing to treat.
+
+PATIENT N184
+Yeah.
+
+DOCTOR N184
+So let me see if we have.  Actually, probably try a pill.  Get rid of that @@@.  So um the only thing is with the smoking, would you like a referral to our Smoking Cessation Clinic?  They have other tricks up their sleeves besides just the patches.
+
+PATIENT N184
+Sure.
+
+DOCTOR N184
+Okay, let's do that cause that, I think might be your best bet.  Eating okay?
+
+PATIENT N184
+Yeah, I eat pretty regular and uh but it's, I don't know it seems like I can't put any weight on though, you know.  I don't know.  It's just, I eat pretty regular and I can't put any weight on though.
+
+DOCTOR N184
+Alright but you're still smoking.
+
+PATIENT N184
+Uh-huh.
+
+DOCTOR N184
+(Doctor makes a phone call)  Alright so, I think what we should do is maybe try the pills to get rid of the fungus first.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+And then we'll consider sending you to a podiatrist okay.
+
+PATIENT N184
+Alright.
+
+DOCTOR N184
+So it takes a while for this to actually work okay?
+
+PATIENT N184
+Yeah.
+
+DOCTOR N184
+You can also use over-the-counter Lamisil cream, it's called Lamisil.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+It's an anti-fungal.  I would use the cream actually.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+And what you want to do is when you're showering; make sure that afterwards you dry it very, very well.
+
+PATIENT N184
+Uh-huh.
+
+DOCTOR N184
+And then um I would leave it open to the air so if you shower at night, that's probably the best so that when you go to bed you leave it open to the air and then you could put the cream on, maybe once or twice a day.  Um it is just hard cause then you have to you know sit there with cream on your feet as opposed to you know being able to wear.
+
+PATIENT N184
+Yeah.
+
+DOCTOR N184
+Shoes and socks so um.  As much as you can use it but then only use it, you know you want to wash it off after a few hours.  Well we'll get those labs today, take a look at all your hepatitis counts okay, see what the viral burden is, how much of the virus you have in your blood and then we'll consider sending you over to the Liver Clinic okay.
+
+PATIENT N184
+Uh-huh.
+
+DOCTOR N184
+Big deep breaths in and out.  Your lungs sound good.  Okay.  And you got your flu shot the last time you were here right?
+
+PATIENT N184
+Yes.  You know, in my mind, I could never relate high cholesterol or even high blood pressure with being small.
+
+DOCTOR N184
+Uh-huh.
+
+PATIENT N184
+You know but I have been known to have high cholesterol some years ago.
+
+DOCTOR N184
+Okay.
+
+PATIENT N184
+And.
+
+DOCTOR N184
+Well that's something I'd like to check on you so.
+
+PATIENT N184
+Yeah.
+
+DOCTOR N184
+Um technically we need to have you fasting for that lab so um, I don't know what would be easier for you, if you want to just wait and hold off on checking all your labs until you can come back in the next couple days and be fasting for a lab draw, is that feasible or would you rather?
+
+PATIENT N184
+Like don't eat anything for like.
+
+DOCTOR N184
+So yeah so like when you go to bed that night until when you get here.
+
+PATIENT N184
+Yeah.
+
+DOCTOR N184
+Yeah just only water, with whatever medicine you need to take.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+Um and then just come in first thing in the morning, get your lab done and you can go to the canteen or to the cafe downstairs to eat something for breakfast.
+
+PATIENT N184
+Alright.
+
+DOCTOR N184
+Would that be feasible?  When do you think you'd be able to come back?
+
+PATIENT N184
+Maybe what like Friday or?
+
+DOCTOR N184
+Yeah, yeah anytime within the next couple weeks would probably be fine.
+
+PATIENT N184
+Friday, Monday or @@@.
+
+DOCTOR N184
+Alright so it's in the system all you need to do is go to the Lab on the first floor downstairs okay.
+
+PATIENT N184
+When I come to the hospital just go to the Lab?
+
+DOCTOR N184
+Yep.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+Yeah and they should just have them in the computer.
+
+PATIENT N184
+Um the intake clerk, well he gave me the, I don't know I guess these are.
+
+DOCTOR N184
+Yeah, I have that.  That's for you to keep so that you know the medicines you're on okay.
+
+PATIENT N184
+Alright.
+
+DOCTOR N184
+And do you need refills?
+
+PATIENT N184
+No I think I still have at least, half a box, yeah I'm good until.
+
+DOCTOR N184
+I'll just refill everything.  Alright give me just a couple minutes here, let me go run this by my boss, I'll be right back.
+
+PATIENT N184
+Alright.
+
+DOCTOR N184
+That can go in that.
+
+(DOCTOR OUT:  36:52  DOCTOR IN:  43:39)
+
+DOCTOR N184
+Alright so, here's what we're gonna do.  We will get you the labs um and I get the results back, I'll probably put in the um order for the Liver Clinic to have you follow up with them okay.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+About the hepatitis.  They can explain to you all the treatments that's out there, what's available and we'll kind of go from there okay.
+
+PATIENT N184
+Alright.
+
+DOCTOR N184
+And then the, I'm going to order you actually some ointment to put on your toes okay.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+I don't want to give you the pill right now because of your liver issues.  Let me order that right now and this, I mean you may be using it for.
+
+PATIENT N184
+Quite a long time.
+
+DOCTOR N184
+Like years okay, to try to get rid of this.  
+
+PATIENT N184
+Uh-huh.
+
+DOCTOR N184
+Cause the way the toes grow and everything.
+
+PATIENT N184
+Yeah.
+
+DOCTOR N184
+That fungus it takes a long time to treat.  So just be aware of that okay.
+
+PATIENT N184
+Alright.
+
+DOCTOR N184
+So when you get out of the shower, this is an ointment or it's a solution, it's not an actual ointment so when you get out of the shower dry your feet really really well and then you put this around the nail bed and on the top of the nail okay.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+And do that every day.  I'm going to give you a whole year's worth of refills on it.  Okay.  So then you'll come back on Friday and get all the um labs drawn.
+
+PATIENT N184
+You now when I was here last; we were going to touch bases on maybe the possibility of me seeing a dentist.
+
+DOCTOR N184
+Uh-huh.  Yeah, let me just take a look.  Are you service-connected here?
+
+PATIENT N184
+Uh no.
+
+DOCTOR N184
+So they won't do the dental, unfortunately.
+
+PATIENT N184
+Alright.
+
+DOCTOR N184
+If you want to, you can go down to the Patient Advocate Office and I think they could get service connection for you but otherwise it's impossible to get see at dental if you're not service-connected unfortunately.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+Um.
+
+PATIENT N184
+I could possibly speak with the.
+
+DOCTOR N184
+Yeah with the Patient Advocate Office I think it's almost over by the Building 228 um.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+So when you go down to the first floor you could ask them where to go where the Patient Advocate Office is and they can help.  Oh and the last time we talked about getting a colonoscopy, do you remember that?
+
+PATIENT N184
+Yeah, yeah.
+
+DOCTOR N184
+Um, so we need you to get labs for that as well, that's kind of why they didn't do it before.  So let me put in for that refill again and then you'll need to get the labs drawn again okay.  So Friday you'll come back and get your labs done okay.
+
+PATIENT N184
+Alrighty.
+
+DOCTOR N184
+And then um I'll see you again in three months okay.  In the meantime, you'll probably get a phone call from the GI doctors and the liver doctors okay.
+
+PATIENT N184
+Alright.
+
+DOCTOR N184
+About scheduling a colonoscopy.
+
+PATIENT N184
+Okay.
+
+DOCTOR N184
+And then your other meds will be mailed to you.
+
+PATIENT N184
+Alright.
+
+DOCTOR N184
+Okay.
+
+PATIENT N184
+Thanks.  Have a good day.
+
+DOCTOR N184
+Nice to see you okay, alright take care.
+
+PATIENT N184
+Thanks.
+
+PATIENT LEAVES:  49:42
+
+Time is 10:43.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249432
+TRANSACTION # 578-10-2-316-0103

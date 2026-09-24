@@ -1,0 +1,345 @@
+Date of Encounter: @@/@@/@@  
+Time of Encounter: @@@   
+
+DOCTOR Z708
+How you doing sir?
+
+PATIENT Z708
+Uh pretty good.
+
+DOCTOR Z708
+Any problems?
+
+PATIENT Z708
+No.
+
+DOCTOR Z708
+No.
+
+PATIENT Z708
+Not that I'm aware of.
+
+DOCTOR Z708
+No okay good.  How you doing?
+
+PATIENT Z708
+Oh pretty good.
+
+DOCTOR Z708
+Okay.  Anything you want to talk about today that's bothering you?
+
+PATIENT Z708
+Oh nothing's bothering me.
+
+DOCTOR Z708
+Okay.
+
+PATIENT Z708
+I just got to get some refills.
+
+DOCTOR Z708
+Okay.  No problem.  Going over your meds here.
+
+PATIENT Z708
+Okay.
+
+DOCTOR Z708
+And your last labs.  That's the stuff from December, looks pretty good.  Okay.  Um your blood pressure looks really good.
+
+PATIENT Z708
+Uh-huh.
+
+DOCTOR Z708
+Your cholesterol we checked a year ago it looked really good but you're probably due for a repeat checking.  
+
+PATIENT Z708
+Oh.
+
+DOCTOR Z708
+Uh you still seeing the urologist?
+
+PATIENT Z708
+Hmm?
+
+DOCTOR Z708
+You're still seeing the urologist for those injections for the prostate cancer?
+
+PATIENT Z708
+Oh yeah.
+
+DOCTOR Z708
+Yeah.  Are you still getting your calcium and your vitamin D?
+
+PATIENT Z708
+Yes uh-huh.
+
+DOCTOR Z708
+Okay.  Oh your cholesterol looked good.  You taking your aspirin?
+
+PATIENT Z708
+Yes ma'am.
+
+DOCTOR Z708
+Yeah okay.  And no more swelling in the legs?
+
+PATIENT Z708
+They're still swollen.
+
+DOCTOR Z708
+But not more than usual?
+
+PATIENT Z708
+No uh uh.
+
+DOCTOR Z708
+Okay.  Alright.  Well we need to get you your meds right?  The medications.
+
+PATIENT Z708
+Uh-huh.
+
+DOCTOR Z708
+Alright let me just give you a quick listen.  How are you liking the hot day out today?
+
+PATIENT Z708
+Oh I don't mind, paying it too much attention.
+
+DOCTOR Z708
+@@@.  Deep breath, one more alright.  There you go.  Alright.  No shortness of breath or chest pain?
+
+PATIENT Z708
+No chest pain.
+
+DOCTOR Z708
+Yeah.  Eating okay, moving your bowels okay?
+
+PATIENT Z708
+Oh yeah my bowels don't move that very good now.
+
+DOCTOR Z708
+They do or don't?
+
+PATIENT Z708
+They don't.
+
+DOCTOR Z708
+They don't.
+
+PATIENT Z708
+Uh uh.
+
+DOCTOR Z708
+How often do you move your bowels?
+
+PATIENT Z708
+I move them about every three or four days.
+
+DOCTOR Z708
+Are you taking anything to soften your stools?
+
+PATIENT Z708
+Yeah I take that every day.
+
+DOCTOR Z708
+Let's see that's Docusate.
+
+PATIENT Z708
+Hmm?
+
+DOCTOR Z708
+We got some medicine here for you to move your bowels but, do you want some additional medicines to help out?
+
+PATIENT Z708
+Yeah I think I need some.
+
+DOCTOR Z708
+Yeah we'll get you a powder to put in the water to make your bowels move a little better okay.
+
+PATIENT Z708
+Okay.
+
+DOCTOR Z708
+Alright.  Okay sir I'll be back in a little bit alright.
+
+PATIENT Z708
+Alright.
+
+DOCTOR Z708
+Okay.  Let me just open the door because it’s hot in here.  
+
+(DOCTOR OUT:  17:54  DOCTOR IN:  21:00)
+
+DOCTOR Z708
+Alright.  Let me must just put in are the refills for the medicines and I'll give you like some powder to put in water for you to drink and it'll help your bowels move.
+
+PATIENT Z708
+Okay.
+
+DOCTOR Z708
+I think I beeped, didn’t I?  Something in here beeped loudly.
+
+PATIENT Z708
+Uh-huh.
+
+DOCTOR Z708
+(Beep) Yeah, I heard you.  Sorry about that. alright.  Do you still take your aspirin though?
+
+PATIENT Z708
+Huh?
+
+DOCTOR Z708
+Do you still take your aspirin?
+
+PATIENT Z708
+Yes uh-huh.
+
+DOCTOR Z708
+And do you take the prostate medicine the @@@.
+
+PATIENT Z708
+Yeah uh-huh.
+
+DOCTOR Z708
+Alright I just put all the stuff to get mailed to you okay.
+
+PATIENT Z708
+Oh good.
+
+DOCTOR Z708
+Unless you want to go pick it up today.
+
+PATIENT Z708
+Okay.
+
+DOCTOR Z708
+And alright and okay.  So I've renewed your medicines, all of them, including this one yeah and this one yeah.
+
+PATIENT Z708
+This one too okay.
+
+DOCTOR Z708
+Yeah both of them including all of your medicine.
+
+PATIENT Z708
+Alright.
+
+DOCTOR Z708
+Um could you get some blood drawn for us today?  You're due for a cholesterol check.
+
+PATIENT Z708
+Oh okay.
+
+DOCTOR Z708
+Okay and then do you remember the test you had um about a year ago for your bone strength, it was like an x-ray for your bones?
+
+PATIENT Z708
+Hmm okay.
+
+DOCTOR Z708
+I don't know if you remember but we checked how strong your bones are.
+
+PATIENT Z708
+Uh-huh.
+
+DOCTOR Z708
+Um and so I want to just repeat that cause it's been a year and previously it showed that your bones were getting kind of weak okay.
+
+PATIENT Z708
+Okay.
+
+DOCTOR Z708
+So um you said uh okay so they'll give you a call to schedule your bone test okay.
+
+PATIENT Z708
+Uh-huh.
+
+DOCTOR Z708
+That number.
+
+PATIENT Z708
+Oh.
+
+DOCTOR Z708
+To schedule the bone test.
+
+PATIENT Z708
+Oh okay.
+
+DOCTOR Z708
+Okay.  They'll tell you when you should come in to do it okay.
+
+PATIENT Z708
+Okay.
+
+DOCTOR Z708
+And we'll see you back here in about six months.
+
+PATIENT Z708
+Six months.
+
+DOCTOR Z708
+Yeah.
+
+PATIENT Z708
+Now I'll be back before then?
+
+DOCTOR Z708
+No, I gave you enough medicines for six months.
+
+PATIENT Z708
+Oh okay.
+
+DOCTOR Z708
+Yeah.  So you can uh.
+
+PATIENT Z708
+I have to come back in that's be June for @@@.
+
+DOCTOR Z708
+It'll be more like October.
+
+PATIENT Z708
+Uh-huh.
+
+DOCTOR Z708
+Alright you're all set sir.
+
+PATIENT Z708
+Okay.
+
+DOCTOR Z708
+Alright.  Have a nice day.  You're all set.
+
+PATIENT Z708
+Alright.
+
+DOCTOR Z708
+I'll help you get out of here.
+
+PATIENT Z708
+So when do I get the?
+
+DOCTOR Z708
+Right now.
+
+PATIENT Z708
+Right now?
+
+DOCTOR Z708
+You can go right now, yeah.
+
+PATIENT Z708
+Okay.
+
+DOCTOR Z708
+There you go sir.
+
+PATIENT Z708
+Alright.  Alright thank you.
+
+PATIENT LEAVES:  28:18
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275382
+TRANSACTION # 578-10-2-316-0103

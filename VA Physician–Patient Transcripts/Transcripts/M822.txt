@@ -1,0 +1,954 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@   
+ 
+DOCTOR M822
+PATIENT?  Okay.  How are you today?
+
+PATIENT M822
+Right here.  Well how are you?
+
+DOCTOR M822
+Alright.  How are you?
+
+PATIENT M822
+I don't know man.
+
+DOCTOR M822
+@@@.  Alright.  How can I help you today?
+
+PATIENT M822
+Well you guys scheduled me for an appointment now.
+
+DOCTOR M822
+Well, I know.
+
+PATIENT M822
+Yes you did.
+
+DOCTOR M822
+You did, did you get a letter saying that to schedule this appointment or who scheduled it?
+
+PATIENT M822
+I got a letter that say you know to call them for appointment.
+
+DOCTOR M822
+We saw you in January and I put it in that you know, we probably didn't need to see you for another six months and that's in here.  I'm not sure who.
+
+PATIENT M822
+I don't know but you know maybe it was because I had like a little incident that happened.
+
+DOCTOR M822
+Yeah.
+
+PATIENT M822
+Well you know I have you know epilepsy.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+And then I had some seizures and they had to kind of be rushed to the hospital.  In fact, intensive care a couple of days.
+
+DOCTOR M822
+Now when was this?
+
+PATIENT M822
+That was June or July 16th actually.
+
+DOCTOR M822
+Oh.
+
+PATIENT M822
+So that's probably good cause I wrote down a bunch of questions I've got actually.
+
+DOCTOR M822
+But I just saw you in January.
+
+PATIENT M822
+January of what?
+
+DOCTOR M822
+A couple months ago.
+
+PATIENT M822
+January.
+
+DOCTOR M822
+January 13th.
+
+PATIENT M822
+Right, it was right after that.
+
+DOCTOR M822
+Which hospital did you go to?
+
+PATIENT M822
+Little Company of Mary.
+
+DOCTOR M822
+Oh okay, that's why it's not in here.  Okay.  Alright.
+
+PATIENT M822
+Yeah cause I seen, I talked to the Billing Department and all that stuff anyway but yeah that was, actually that was good but otherwise, @@@.  So that probably worked out good anyway.
+
+DOCTOR M822
+So did they increase your Keppra dose?
+
+PATIENT M822
+My what?
+
+DOCTOR M822
+Your seizure medication, did they increase that?
+
+PATIENT M822
+No they left it the same.
+
+DOCTOR M822
+Okay.
+
+PATIENT M822
+Actually but I'm on my last bottle cause they sent this, I just got this earlier today, for the, yeah yesterday as a matter of fact and they was telling me what's gonna be coming up in the future but it didn't have this on there, that's the main one I need.
+
+DOCTOR M822
+I can refill it.
+
+PATIENT M822
+Yeah that's good; out of all of them, that's the most important one.
+
+DOCTOR M822
+So did they give you any like information after discharging you from there, from being in the ICU?
+
+PATIENT M822
+Yeah well you know just, you know you check in with the VA and stuff.
+
+DOCTOR M822
+Yeah, so whenever you get admitted to other hospitals, you should bring in the paperwork.
+
+PATIENT M822
+Oh I did as a matter of fact.  I did bring it, yes I am glad you said.  I did bring it in cause I, at the time I was still kind of recovering myself and I brought in some paperwork.
+
+DOCTOR M822
+Did you bring it in last time I saw you?
+
+PATIENT M822
+No it was after that.
+
+DOCTOR M822
+So who did you bring it in to?
+
+PATIENT M822
+I gave it to the D Clinic, I mean the Red Clinic here, they said yeah okay we'll take it and put it in your file or something cause I was gonna ask if I could get a copy of it actually cause I didn't, you know I wasn't even thinking about that.
+
+DOCTOR M822
+We have nothing in here.
+
+PATIENT M822
+Cause yeah, cause I sure brought it in to them and I should have kept a copy of it myself but at that time I was still coming back to my own you know senses.
+
+DOCTOR M822
+So what day exactly were you admitted to Little Company of Mary?
+
+PATIENT M822
+Um January 16th.
+
+DOCTOR M822
+16th.  When were you discharged?
+
+PATIENT M822
+The 18th.
+
+DOCTOR M822
+Okay.  Hmm.
+
+PATIENT M822
+Uh-huh.
+
+DOCTOR M822
+Alright.  Well if you are able to get those, the paperwork or your records from Little Company of Mary, just bring it to your appointment so I can actually take a look at it.
+
+PATIENT M822
+I mean it’s here now somewhere.
+
+DOCTOR M822
+It's not in the computer so I'm not entirely sure.
+
+PATIENT M822
+I mean you know, I gave it to the personnel, that was at the desk which the person I don’t recall now you know but I certainly handed it in cause they said to be sure to hand it in, that's why I made it a point to bring it.
+
+DOCTOR M822
+When did you bring it, because since the last time I saw you this is your next appointment, you haven't been seen in between.
+
+PATIENT M822
+So I know, I just dropped off the paperwork.
+
+DOCTOR M822
+You just dropped off the paperwork?
+
+PATIENT M822
+Cause I had to go, yeah, because I went up to the Billing to find out you know cause they saying you know they'd take care of the cost of it so I actually went up to the Billing and I dropped that off as well.
+
+DOCTOR M822
+Okay.  Well I mean, I don't really know what to say.  It's just that it's not in the computer so I'm not really sure where it went.
+
+PATIENT M822
+I don't know what to say either but I know I brought it here.
+
+DOCTOR M822
+Okay that's fine.
+
+PATIENT M822
+Okay.  But anyway, I did have, cause after that happened I was pretty scared, actually, yeah so.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+Let's see, oh yeah the pill thing, we talked about that.
+
+DOCTOR M822
+I'll refill it.
+
+PATIENT M822
+For the seizures, yeah cause I'm like on the last bottle.
+
+DOCTOR M822
+I'll fill the refills for you.
+
+PATIENT M822
+Yeah and then uh I have to come, oh that was the thing what it was too, I had to come to get a cholesterol test.  I did that also and I wanted to see what my cholesterol level was cause I've been having blood @@@.
+
+DOCTOR M822
+Yeah.  Your bad cholesterol is 110, so your LDL is 110.  Your good cholesterol, which is your HDL is 78.
+
+PATIENT M822
+110.  The good is what?
+
+DOCTOR M822
+78.
+
+PATIENT M822
+Okay now what exactly does that mean?
+
+DOCTOR M822
+So, let me see you don't have any heart disease or diabetes so your cholesterol is fine.  We don't need to do anything with it.
+
+PATIENT M822
+Okay so then.
+
+DOCTOR M822
+Perfect.
+
+PATIENT M822
+So no problems with that okay.
+
+DOCTOR M822
+Right.
+
+PATIENT M822
+Good, 100 bad and good.  What does that mean bad and good exactly.
+
+DOCTOR M822
+Oh.
+
+PATIENT M822
+I didn't really understood that.
+
+DOCTOR M822
+So there's a form.  There's just two forms of cholesterol in our body.  So the bad one, the LDL we want to get that lower usually uh and the good form we want it above 45.
+
+PATIENT M822
+Oh okay.
+
+DOCTOR M822
+So it's um, they just do different things to your arteries.
+
+PATIENT M822
+Right.
+
+DOCTOR M822
+So the bad ones make your arteries harder.
+
+PATIENT M822
+Hard, right.  So mine's pretty good.
+
+DOCTOR M822
+Yours is fine.
+
+PATIENT M822
+Okay.  Now okay, well now some of this I was writing stuff, like I said write stuff but by the time you come for your appointment.
+
+DOCTOR M822
+Yeah.
+
+PATIENT M822
+Then you forget a lot of stuff.
+
+DOCTOR M822
+Yeah, yeah.
+
+PATIENT M822
+So it's really not as much as it looks like here on this paper.  Now let's see, like fasting stuff, you know like I guess I'm trying to you know really try to come to terms with this epilepsy thing.
+
+DOCTOR M822
+Okay.
+
+PATIENT M822
+So I know that’s pretty life-changing for me,so like I said now at the most I have five seizures in a row.  They had to call like the ambulance.
+
+DOCTOR M822
+Yeah.
+
+PATIENT M822
+Yeah, you know, I do admit to not taking the medication the way I should have.
+
+DOCTOR M822
+Yeah you have to take that Keppra.
+
+PATIENT M822
+Well you say yeah.
+
+DOCTOR M822
+So you missed a couple doses is that why, is that why?
+
+PATIENT M822
+Yeah, that's the only thing I could figure out.  You know but I don't have any memories or anything.  I have memories waking up in the hospital.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+So but since that time, what's happening whether I eat or not then kind of like these semi-constant, mild headaches you know.  Like even now they just never seem to go away.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+And I find myself taking like maybe between four and six aspirin you know daily you know.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+So I'm like, I got an appointment.
+
+DOCTOR M822
+Appointment with Neurology.
+
+PATIENT M822
+Yeah.
+
+DOCTOR M822
+For follow-up okay yeah I would definitely address that.
+
+PATIENT M822
+Yeah and they don't just seem to want to leave so uh and then I guess, now how I think somebody was telling me this, it was a friend of mine, said I don't know it looks like @@@ and on your liver, you got liver disease or some stuck.  That's when I says let me write that down too. @@@
+
+DOCTOR M822
+No.  That's, just because you have a large stomach doesn't mean you have liver disease.
+
+PATIENT M822
+Right.
+
+DOCTOR M822
+Your labs don't.
+
+PATIENT M822
+Right cause I say cause your skin you took with your stomach so that mean there must be something going with your liver or something.  No.
+
+DOCTOR M822
+No your liver is fine.  I'm just looking at your labs and there's nothing wrong with your liver.
+
+PATIENT M822
+Okay that's good, good, good, good.  Okay now okay doc I got this, no I just you know I need some advice, I’m working at the Heritage you know with their @@@ so we know that puts a lot of, you know, kind of I don't know if it’s that carpal tunnel stuff.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+Now what is you could kind of do for it? I mean me, you know it's like some kind of exercises.
+
+DOCTOR M822
+For carpal tunnel?
+
+PATIENT M822
+Well to prevent I guess.  Say.
+
+DOCTOR M822
+I don't know.
+
+PATIENT M822
+I don't think I got it, but I don't want to get it either.  Cause sometime you know you get this kind of sore right in this area.
+
+DOCTOR M822
+Yeah.
+
+PATIENT M822
+You know come all the way here and bend it.
+
+DOCTOR M822
+Right.
+
+PATIENT M822
+@@@ in the process.  Uh-huh.
+
+DOCTOR M822
+Um there's not really anything to prevent carpal tunnel.  Um there are like splints that you can wear when you go to sleep but usually that's when people get carpal tunnel.
+
+PATIENT M822
+Right.
+
+DOCTOR M822
+When we have them wear the splints.  Um and then it keeps it from hurting so much.  Um but really there isn't anything to you know, people that sit at computers you know we tell them to rest their hand on something.
+
+PATIENT M822
+Uh-huh.
+
+DOCTOR M822
+Sometimes it's just not possible.
+
+PATIENT M822
+Right, right.
+
+DOCTOR M822
+Unless you change their job to something different.
+
+PATIENT M822
+Right so the doctor gives them something where they squeeze like a tennis ball, cause I don't know if that would even do nothing first thing.
+
+DOCTOR M822
+Yeah I mean it can't hurt you so, you know.
+
+PATIENT M822
+But do it help it?
+
+DOCTOR M822
+Not as far as I know.
+
+PATIENT M822
+Yeah right, okay.  And let's see okay, this thing I got this thing and I guess I hadn't even thought about it, something I just read.  Maybe I save this till the last week, but it seems like my heart has a real, like kind of a @@@ feeling you know.
+
+DOCTOR M822
+A what feeling?
+
+PATIENT M822
+Like labored,maybe I guess.  I don't know I guess that's the only term I can use to describe it.  It's a pain like you just, saying you know how it usually pump the blood.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+Now you @@@ I don't want to say like strain or nothing.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+But it just, it didn’t seem @@@ feel okay you know.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+The @@@ is up but a lot of them have to do with rebounding back from the you know the little incident I had.
+
+DOCTOR M822
+Right.
+
+PATIENT M822
+So I feel like I'm doing okay now.
+
+DOCTOR M822
+Okay, okay.
+
+PATIENT M822
+So and you know I guess you know maybe @@@ especially first just feeling real tired.  You know.
+
+DOCTOR M822
+Yeah, so that can happen after you've had a seizure.
+
+PATIENT M822
+Yes, I understand, like back-to-back, you know so.  But yeah but that seem to be coming out okay I guess.  I figured it would probably take three of four months to come back to normal.
+
+DOCTOR M822
+It depends on the person.
+
+PATIENT M822
+Yeah.
+
+DOCTOR M822
+It varies so.
+
+PATIENT M822
+Yeah, that’s true.  Now this is one of the things I mean like I like @@@ for this too.  This what I really find is kind of concerning me is uh I been having like you know the memory loss, short term and like long term memory loss.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+Like what I did, a perfect example, like yesterday I was on the train you know and ran into my you know I know this person “oh yeah how you doing?”  I know him good but I don't know where I know him from.
+
+DOCTOR M822
+Yeah, yeah.
+
+PATIENT M822
+You know what I mean and, “don't you remember NAME?” Well no I really don't remember actually.
+
+DOCTOR M822
+Yeah.
+
+PATIENT M822
+You @@@ stuff that I probably should be able to but I don't seem to be able to do that.
+
+DOCTOR M822
+Yeah, yeah.
+
+PATIENT M822
+So that's like short term stuff and long term stuff.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+That's the kind you know bug me a little bit you know.
+
+DOCTOR M822
+I, I'm not 100% sure; the epilepsy sure could cause memory problems.
+
+PATIENT M822
+Yes.
+
+DOCTOR M822
+Um but uh the neurologist would probably have a better idea.
+
+PATIENT M822
+Yeah, probably @@@.  Yeah cause like I say I want to lose the weight and regain that thing.  Oh yeah and here's one too, on the refills I noticed on that, they were gonna send me the aspirin and there was, that's not on there either.  I supposed to had got it restarted sending I think on day one or two and then that's what it said and it said no more refills on it so.
+
+DOCTOR M822
+For the aspirin.
+
+PATIENT M822
+Uh-huh.
+
+DOCTOR M822
+Okay.  You were taking 81?
+
+PATIENT M822
+Yeah cause when I call in and they said, well maybe I can @@@ and so they called me over they said like no more refills, got to see the doctor on that and actually I just restarted it back up.  Cause.
+
+DOCTOR M822
+Okay.
+
+PATIENT M822
+That was one thing, plus the thing for seizure.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+Okay @@@ you get all like your lab results in here so you know.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+You say the cholesterol's good.  No problem with the liver and none of that.
+
+DOCTOR M822
+Yeah, your labs all look fine.
+
+PATIENT M822
+And then I took a TB test not long ago, I guess that was good.
+
+DOCTOR M822
+Yeah.
+
+PATIENT M822
+Okay.  So the next appointment I got to worry about that.  Okay also now you know after I got the you know the script for the Levitra or vardenafil.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+And then when I was at the Walmart, hell they got the generic version of that, you know the same thing and I was saying I wonder if that would be just as good as the regular stuff.  I know it sure is a lot less expensive.
+
+DOCTOR M822
+Yeah it's the same thing.
+
+PATIENT M822
+Yeah good, cause I went to price it at Osco they were like $120 some bucks.  I mean at Walmart $54, that's less than half the amount.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+So if it's still, the same or just as good huh, okay.  Good.  I got a eye appointment coming up in May but uh, like for me I'm farsighted, I just need glasses and the last appointment like 200 you know, so I @@@ for me cause I only wear them to read you know so that's why I already told them they got like reading glasses at the Dollar Store and all that and they just as good.
+
+DOCTOR M822
+@@@ prescription.
+
+PATIENT M822
+So I didn't know, it was $5.  I never really wear any except for to read.
+
+DOCTOR M822
+Yeah.
+
+PATIENT M822
+So.  Guess so, I you know just as long as you get the correct.
+
+DOCTOR M822
+Right.
+
+PATIENT M822
+Okay so we're gonna do, hmm, got that.  Oh okay, now here's one, now I got another question so let's just sign off you know for a while, you know AARP card.
+
+DOCTOR M822
+Okay.
+
+PATIENT M822
+Being over 50.
+
+DOCTOR M822
+Okay.
+
+PATIENT M822
+And they got like the insurance plan that so I say well I'll check with you guys say like I get the supplemental insurance and the reason being cause this that you got I see all these @@@ my eyes, all the extra eyes all big under there.
+
+DOCTOR M822
+Okay.
+
+PATIENT M822
+You know I'd like the @@@ the other day and I'd rather come here so it's not, you know, nothing to do with military related I mean you know you do that, but that was a while ago when I asked that so I don't know if they changed the procedure.
+
+DOCTOR M822
+I don't know anything about insurance.
+
+PATIENT M822
+Oh who would know?  Who do I talk to about that?
+
+DOCTOR M822
+Um probably the um, I don't know where you'd go.
+
+PATIENT M822
+Maybe the billing?
+
+DOCTOR M822
+Billing or means test.
+
+PATIENT M822
+Well I got to go to Billing anyway.
+
+DOCTOR M822
+Yeah, because I honestly I don't know about the insurance policies.
+
+PATIENT M822
+Okay.  Let's see, is that everything, yes sir, they wrote me and that's where they said come on in.  Now there is something else you know I been, you know on this side I'm barely able to eat, I don't really eat a lot.  One time I might go like the whole 24 hour period without really eating much and uh if I'm running behind and I'm like well, I say do I need to like kind of I don't know, I don’t know how to explain this exactly.
+
+DOCTOR M822
+Oh your weight's been pretty stable.
+
+PATIENT M822
+Yes, it stays pretty stable by and large you know.
+
+DOCTOR M822
+You know what I'm not worried about it.  If you were losing a ton of weight then I'd be worried about you not eating but.
+
+PATIENT M822
+Yeah you know, doctors don't like the whole 24 hour I might eat something like I eat something in the morning, it might be the next morning by the time that I might eat something again you know.
+
+DOCTOR M822
+Hmm.
+
+PATIENT M822
+You know I'm like well I make sure it ain't no cause for concern or anything.  I know everybody's body is different you know.
+
+DOCTOR M822
+Yeah I mean if you're not losing weight I wouldn't worry about it too much.
+
+PATIENT M822
+I don't seem to be.  Okay, let's see.  Oh this thing is kind of the size @@@ for a while I was having like nausea or stuff.  It's all gone after that episode, you know with the.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+So.
+
+DOCTOR M822
+So it's gotten better?
+
+PATIENT M822
+Yeah, it's like you say I never even thought about it till I just read it.
+
+DOCTOR M822
+Okay.
+
+PATIENT M822
+But I’d say that this was maybe up to last week or something.  Okay, cross that one off.  Okay oh yeah now here's the other thing and I know with the, you know with me with this epilepsy, you know trying to come to grips with that thing and I know it can take a toll on the brain.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+And stuff and you know the Chicago Bears dude just died, they probably got a CTE or something.  I don't know whether he got it from too many collisions to the head or something.
+
+DOCTOR M822
+Oh okay.
+
+PATIENT M822
+Damaged his brain.
+
+DOCTOR M822
+Yeah.
+
+PATIENT M822
+And I saying well maybe about me, like I say with this constant headache, such that even now it never really leaves.
+
+DOCTOR M822
+Yeah.
+
+PATIENT M822
+Just sometimes it’s maybe more, you know more hurtful or painful at other times but it never leaves.
+
+DOCTOR M822
+This is different than hitting his head.
+
+PATIENT M822
+Yeah.
+
+DOCTOR M822
+I believe so.
+
+PATIENT M822
+Yeah that's true but I guess like you know having the seizures now it's got to be something with the.
+
+DOCTOR M822
+Neurology.
+
+PATIENT M822
+Right, that's it.  You know what I mean and then uh seizures is those like you know kind of like mini-strokes or something, is that what that is?
+
+DOCTOR M822
+No.  So strokes are when you don't get enough blood flow to the brain.
+
+PATIENT M822
+Okay.
+
+DOCTOR M822
+Seizures are when um your brain fires signals kind of erratically.
+
+PATIENT M822
+Yeah okay.
+
+DOCTOR M822
+So it is different.
+
+PATIENT M822
+Fires signals erratically.
+
+DOCTOR M822
+Yeah.  So you know when, when we want to move our hand our brain sends signals to our arms.
+
+PATIENT M822
+Yeah I know.
+
+DOCTOR M822
+And our hands and when you have a seizures all these signals are going off, which is why people shake and have and people have different reactions to the seizures but because the brain is firing signals, kind of erratically, that's the way I can put it.
+
+PATIENT M822
+Right okay, okay.  That would be something to go with the neurology or something. Okay oh yeah, and then I had a thing with that paperwork so I don't know I'm fine I mean after I turned it in, right into the desk.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+I mean it got to be somewhere.
+
+DOCTOR M822
+I mean they may put it in the computer eventually um.
+
+PATIENT M822
+Eventually.
+
+DOCTOR M822
+Uh I mean I have no idea.
+
+PATIENT M822
+Yeah.
+
+DOCTOR M822
+But I don't know where, who has it or who rather did it but you know next time just bring it to the appointment so I see it and I can put it in my notes.
+
+PATIENT M822
+Yeah well I actually like, if I go I'll probably go over to the hospital, they probably got it, they probably give me a copy of it.
+
+DOCTOR M822
+Yeah you could get a copy of your medical records and then just bring it in when you get here.
+
+PATIENT M822
+Uh-huh.  Or what about when I come for my Neurology appointment.
+
+DOCTOR M822
+I wouldn't drop it off again.  Just bring it when you see me.
+
+PATIENT M822
+Okay.  Oh this is when I brought it in, I got it wrote down.  I brought it in on January 24th.
+
+DOCTOR M822
+Okay.
+
+PATIENT M822
+So that was like what, maybe like a couple weeks ago I don't know.  I know I just dropped it off.
+
+DOCTOR M822
+Okay.
+
+PATIENT M822
+And um I guess that sums it up actually.
+
+DOCTOR M822
+Okay good.  Um so I refilled your medications.
+
+PATIENT M822
+Okay.
+
+DOCTOR M822
+Um do you want to pick them up or do you want them mailed to you?
+
+PATIENT M822
+Uh just you can mail them all, I gotta get to my ride.
+
+DOCTOR M822
+Alright so they'll be in the mail.  Let me go talk to the supervising doctor real quick and I'll be right back.
+
+PATIENT M822
+Do they have things in there with like the appointments cause I got another appointment today, I think I got see the @@@.
+
+DOCTOR M822
+They uh, @@@.
+
+PATIENT M822
+What time is it now?
+
+DOCTOR M822
+It's almost 3.
+
+PATIENT M822
+Oh okay, that's good.
+
+DOCTOR M822
+We'll be done in time.
+
+PATIENT M822
+Alright.
+
+DOCTOR M822
+Let me go talk to my supervising doctor.
+
+PATIENT M822
+Uh-huh, alright.
+
+(DOCTOR OUT:  27:40  DOCTOR IN:  39:04)
+
+DOCTOR M822
+Alright, you're good to go.
+
+PATIENT M822
+Alright.
+
+DOCTOR M822
+I put in the refills okay.
+
+PATIENT M822
+Okay yeah.  You know I did have one more question.  I reckon that's like the different milligram things on here.
+
+DOCTOR M822
+Uh-huh.
+
+PATIENT M822
+And it was for the seizures but that's like 500 milligrams.
+
+DOCTOR M822
+Yep.
+
+PATIENT M822
+So that's twice a day.
+
+DOCTOR M822
+It’s twice a day?
+
+PATIENT M822
+Yeah.
+
+DOCTOR M822
+I think its daily.
+
+PATIENT M822
+No, well it'll probably say on there, yes.  Cause that's why I I said, man does that seem like a lot?  I mean I don't really know what's a lot and what isn't you know.
+
+DOCTOR M822
+That's what they had you on then that’s was fine.
+
+PATIENT M822
+Yeah but I mean its 500, yeah let's make sure, when you put it that way.
+
+DOCTOR M822
+It is twice a day.
+
+PATIENT M822
+Right, so that's like 1000 mg per day.  Is that a high amount?
+
+DOCTOR M822
+It depends on whatever controls your seizures is right for you.
+
+PATIENT M822
+Well yeah, I understand that, I understand that. But I'm just saying that I'm just saying in general is that considered to be a large dosage.
+
+DOCTOR M822
+It's a pretty standard dose for people who have seizures.
+
+PATIENT M822
+But being once a day mostly?
+
+DOCTOR M822
+You know I'm not, between once a day and twice a day I'm not entirely sure, the 500 mg is kind of where we start people off on and we test people on up to 1000 twice a day.
+
+PATIENT M822
+Uh-huh.
+
+DOCTOR M822
+1500 twice a day even so it just depends on what controls your seizures.
+
+PATIENT M822
+Right yeah, absolutely.  I said well I don't know if that's what it was but you know mild or normal or what kind of thing.
+
+DOCTOR M822
+Yeah.
+
+PATIENT M822
+So well okay then.
+
+DOCTOR M822
+Okay so we'll see you back in a couple months then.
+
+PATIENT M822
+Okay, you guys gonna send me a.
+
+DOCTOR M822
+Yep they'll send you a letter.
+
+PATIENT M822
+They'll send me yeah okay.  See here okay.  Alright thanks a lot doc.
+
+DOCTOR M822
+Oh no problem.
+
+PATIENT M822
+Go to the next appointment.  Uh-huh.
+
+PATIENT LEAVES:  41:47
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO8500511/JOB#  1286119
+TRANSACTION # 578-10-2-316-0103

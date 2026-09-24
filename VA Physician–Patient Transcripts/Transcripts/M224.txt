@@ -1,0 +1,2485 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+DOCTOR M224
+PATIENT?
+
+PATIENT M224
+Yes, yes.
+
+DOCTOR M224
+I thought I recognized you downstairs.  @@@.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Follow me this way.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+We're going to slide your card on the way here just so.
+
+PATIENT M224
+Sure @@@.
+
+DOCTOR M224
+We're here to serve.  Alright I'll just have you stand here.
+
+PATIENT M224
+Okay, there's room.
+
+DOCTOR M224
+You want to go up in there in the Waiting Room.
+
+PATIENT M224
+Okay.  @@@ get through.
+
+DOCTOR M224
+Do you mind pushing the door closed for me, thank you?
+
+PATIENT M224
+It's been a while since I've seen you.
+
+DOCTOR M224
+I know, it's been a while.
+
+PATIENT M224
+Well I got my scooter.
+
+DOCTOR M224
+I noticed that, that's great.  So how do you like that?
+
+PATIENT M224
+Oh it's great.
+
+DOCTOR M224
+Great, good, good, good.
+
+PATIENT M224
+I don't have to try and push the wheelchair no more.
+
+DOCTOR M224
+Excellent.  I knew, I saw you downstairs.  I don't know if you saw, when I was coming in.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+And I saw you scoot by and I was thinking am I going to see him I think so!
+
+PATIENT M224
+I got my @@@.
+
+DOCTOR M224
+I have a name with a face, here we go.
+
+PATIENT M224
+I got uh my dentures too.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+I got them just before Christmas.
+
+DOCTOR M224
+Great, alright.  So last time we talked about a lot of things.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+Um anything that you want to make sure that we talk about here today?  Your medicines.
+
+PATIENT M224
+You know a lot zeros.
+
+DOCTOR M224
+Lot of zeros.  So we'll get you your medication refills so that's the thing any issues or concerns? 
+
+PATIENT M224
+Uh.
+
+DOCTOR M224
+None really actually that we saw.
+
+PATIENT M224
+My back and my uh.
+
+DOCTOR M224
+It's hurting you?
+
+PATIENT M224
+Well my shoulder and my neck remember?
+
+DOCTOR M224
+Okay yeah.
+
+PATIENT M224
+Well I started out putting heat on it and DOCTOR, he's my neuro what you call right.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+Doctor and he said uh if I put some ice on.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+You know, some packs of vegetables.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+Until it turns numb.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+And I used to do that too.
+
+DOCTOR M224
+Yeah did that help?
+
+PATIENT M224
+Yeah somewhat.
+
+DOCTOR M224
+Yeah okay.
+
+PATIENT M224
+Then I got Trianol I know.
+
+DOCTOR M224
+Tramadol or Tylenol?
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+Oh tramadol okay.
+
+PATIENT M224
+Yeah from the hospital here.
+
+DOCTOR M224
+Okay, okay.
+
+PATIENT M224
+Now two tablets won't do it so I've increased sometimes to three and four.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+Now that'll do it.
+
+DOCTOR M224
+Okay.  So like what dose, let me see what dose you're getting.  I just, I'm trying to remember when the last time was that we saw each other.  It was a while; it was way back in August huh.
+
+PATIENT M224
+Yeah last year.
+
+DOCTOR M224
+Yeah last August. Um, service connection, had some chest pain, wanted the wheelchair.
+
+PATIENT M224
+Oh.
+
+DOCTOR M224
+@@@.
+
+PATIENT M224
+Oh since I've seen you yes I've had three more stents put in.  I got four stents total in my heart now.
+
+DOCTOR M224
+Four stents total now huh?
+
+PATIENT M224
+Yes, yes.
+
+DOCTOR M224
+Were those stents placed here?
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+They were okay.
+
+PATIENT M224
+Yes, it was.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+And also they've confirmed that I do have Agent Orange.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+Uh what's it called, some kind coronary disease in my heart.
+
+DOCTOR M224
+Uh-huh, okay.
+
+PATIENT M224
+Herbacide from Agent Orange from Vietnam.
+
+DOCTOR M224
+Oh okay.  So they @@@.
+
+PATIENT M224
+It's from that yes.
+
+DOCTOR M224
+That you are service-connected through that?
+
+PATIENT M224
+At 100%.
+
+DOCTOR M224
+At 100% okay.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+Good, well, not that you have it, but good that they found out it was service connection and everything.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+Worked out.
+
+PATIENT M224
+Yeah, yeah.
+
+DOCTOR M224
+Okay so main issues today, medication refills, getting your meds taken care of.  We'll talk about your pain and see you know what else, if there's anything else we can do.  I want to look at your tramadol dose cause I want to make sure that.
+
+PATIENT M224
+I spoke to somebody one other time about it and we were halfway home and they even called on the cell phone and told me no I couldn't do the rest of the pills, I could only do two at one time.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+But she still won't do it at one time.
+
+DOCTOR M224
+Yeah.  Well let me look.  I'm going to look and see what the maximum dose of that is because.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+What we all want is for you know.
+
+PATIENT M224
+Oh @@@.
+
+DOCTOR M224
+For the pain to go away but then have you know.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+Some other issues so, let me just see what the maximum dose for that is okay.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+What would we do without, let's see so you're taking three or four.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Pills how many times a day?
+
+PATIENT M224
+Sometimes two and three times a day.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+A lot of times it's up through the night.  I get up out of bed at night.  Now DOCTOR gave me some other pills now.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+Put me back on amitriptyline, I think that's what you call it.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+And uh started me on two of them every night now and then we were going increase to three and then we can increase it to four.
+
+DOCTOR M224
+The amitriptyline.
+
+PATIENT M224
+Yeah and he took away the Depakote.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+The Depakote.
+
+SECOND PERSON M224
+What was that actually for?
+
+DOCTOR M224
+Amitriptyline?
+
+SECOND PERSON M224
+Yeah.
+
+DOCTOR M224
+Amitriptyline is a, it's a type of antidepressant but it's one of those medicines that helps with pain as well so it's sort of a.
+
+PATIENT M224
+Helps you sleep.
+
+DOCTOR M224
+Sort of helps with sleep, it helps with pain.  It's general class is that it's a type of antidepressant.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Um but it helps with, helps with sleep and pain um which is what it seems like its being used for here.  So the issue is the maximum dose is not to exceed 400 mg of the tramadol per day and it sounds like you're exceeding that.  You're getting, you're getting probably at least 600 if not 800 it sounds like per day.  So, we gotta do something with your pain to try to adjust this okay.  So we'll talk about, we'll talk about that.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Um alright so you've got three additional stents placed in the intervening time yeah huh?
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+How are you doing, any chest pain, shortness of breath?
+
+PATIENT M224
+Well yes I have once in a while but they told me that's the best they can do is.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+See I got my nitro in my pocket.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+I live with my nitro.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+So once in a while I've had to use it but not all the time.
+
+DOCTOR M224
+Cardiology basically said they can't stent anything else or @@@.
+
+PATIENT M224
+Right.  Well I got to see them the 31st again this month.
+
+DOCTOR M224
+Okay.  Okay good.
+
+PATIENT M224
+I was in here not too long ago and uh the wife brought me to the Emergency Room, well they made me stay overnight.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+They gave me a stress test the next day.
+
+DOCTOR M224
+Stress test.
+
+PATIENT M224
+And I went one through it with flying colors.
+
+DOCTOR M224
+You said you did well with the stress test good.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+Good okay.  And then we need to talk about your medications and.
+
+PATIENT M224
+Of course we got a lot of stress at home.  We got uh little ones.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+We got dogs.  We got a lot of stuff we shouldn't have but we have.
+
+DOCTOR M224
+Lots of uh stress at home.
+
+PATIENT M224
+Yeah our daughter's living with us.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+And our granddaughter's living with us.
+
+DOCTOR M224
+Hmm.
+
+PATIENT M224
+And her son is living with us once in awhile.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+And you know, I should call them all brats but they’re not.  The grandchildren, but geez you know.
+
+DOCTOR M224
+So a lot of stress at home huh.
+
+PATIENT M224
+And the house is a total mess all the time.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+The wife it gets her and when it gets her she gets on me.
+
+DOCTOR M224
+So your wife lives at home, wife, daughter, grandchildren, how many grandchildren?
+
+SECOND PERSON M224
+Two.
+
+PATIENT M224
+Two.  Cause.
+
+SECOND PERSON M224
+@@@.
+
+PATIENT M224
+It would be nice you know.  The wife and me we get along fine.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+But we've taken on, you know what are you gonna do you know, we can't kick them out on the street.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+I tried that Sunday but they wouldn't let me.
+
+DOCTOR M224
+Um, let me real quick just ask you a few questions just to make sure, um what did you do for work?  You were driving a truck right?
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+And some maintenance work in the past?
+
+PATIENT M224
+Yeah I been a mechanic and a truck driver.
+
+DOCTOR M224
+Okay.  Okay and uh you were in the Army is that right?
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+And you served in Vietnam.
+
+PATIENT M224
+Yes.  I got 10 years, 7 months, 3 days in the Army.  Three hitches.
+
+DOCTOR M224
+What was your job in the Army, were you infantry?
+
+PATIENT M224
+Maintenance.
+
+DOCTOR M224
+Maintenance okay.
+
+PATIENT M224
+Maintenance in six different styled units.  Airborne mechanics.
+
+DOCTOR M224
+Wow.
+
+PATIENT M224
+Alpha 3 in Calvary.
+
+DOCTOR M224
+@@@.
+
+PATIENT M224
+Logistics you know.
+
+SECOND PERSON M224
+@@@.
+
+PATIENT M224
+Oh yes.
+
+DOCTOR M224
+Lots of stuff.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+And you had Agent Orange exposure we know that.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Uh any alcohol use?
+
+SECOND PERSON M224
+@@@.
+
+PATIENT M224
+Uh yes.
+
+DOCTOR M224
+Yeah about how much do you think you in a given week?
+
+PATIENT M224
+Oh I haven't drank, I haven't drank in like 20 years now.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+But in Vietnam I didn't use drugs I used alcohol.
+
+DOCTOR M224
+Okay.  So you quit maybe let's see in the 90s, early 90s okay.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+Okay but prior to that.
+
+PATIENT M224
+Well Vietnam was the worst.  You pickle yourself see.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+That way you already, you know you, you what what you do in the hospital, they sterilized you, well you're already sterilized inside and out.
+
+SECOND PERSON M224
+@@@.
+
+DOCTOR M224
+Okay.  Alright and then tobacco use, so you're still smoking a few cigarettes a day?
+
+PATIENT M224
+Yes I am.
+
+DOCTOR M224
+Is it one to, the last time I wrote down 1-2 cigarettes per day.
+
+PATIENT M224
+Yes that's all, that's all.
+
+DOCTOR M224
+Alright.
+
+PATIENT M224
+Now the wife is going to try to get set up out there in Elgin to try to take that smoking cessation class.  I would like myself; I would like me and my wife both to do it at the same time right there in Elgin where we both go to the same class.
+
+DOCTOR M224
+Uh-huh.  Yeah.
+
+PATIENT M224
+Alright we'll get to quit.
+
+DOCTOR M224
+So I don't know anything about that program.  All the resources that I have would be for you.  There is a smoking cessation you know group here through the VA that I could set you up with but if you want to look into doing one in Elgin together I would highly encourage it but I don't have any way to set you up with it.
+
+PATIENT M224
+Right.  Well see we got another problem too, our daughter, they repoed her car.
+
+DOCTOR M224
+Hmm.
+
+PATIENT M224
+And she's not living with her husband no more, they're kind of semi-separated.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+Then she's using our Bravado all the time.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+She uses our truck.
+
+DOCTOR M224
+Your car okay.  So you have a transportation issue.
+
+SECOND PERSON M224
+Uh-huh.
+
+PATIENT M224
+Yes.
+
+SECOND PERSON M224
+That's what we have.
+
+DOCTOR M224
+Yeah.  Um hmm.
+
+PATIENT M224
+And we don't have enough money to buy a car for her.
+
+DOCTOR M224
+Yeah.  Tough situation it sounds like.  As far as other family history I have that you're estranged from your other family members.  Do you know much about family history from your mom and dad?
+
+PATIENT M224
+My mother died from hardening of the arteries.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+My dad I don't know what he died from.
+
+DOCTOR M224
+Do you know how old she was?
+
+PATIENT M224
+Yes 92.
+
+DOCTOR M224
+Okay.
+
+SECOND PERSON M224
+I'm thinking that's wrong.
+
+PATIENT M224
+She was fairly young @@@.  No.
+
+DOCTOR M224
+So your father you're uncertain.
+
+PATIENT M224
+Yeah he died from, no dad was 72, 73.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+I know he had half a stomach and he had some other stuff wrong. I mean he drank.  He was an alcoholic.  Plus he was married four or five times and we were worst so.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+And he also ran a nightclub so I don't know.
+
+DOCTOR M224
+Okay.  Um alright.  So that's sort of your background stuff, now and your allergies.  I have you have an allergy to aspirin?
+
+PATIENT M224
+Yes, but they're overlooking it because I got to take an aspirin and Plavix every day.
+
+DOCTOR M224
+Every day you have.
+
+PATIENT M224
+Every morning.
+
+DOCTOR M224
+Yeah because of the stents yeah.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+What was the allergy?
+
+PATIENT M224
+The aspirin, well I was on 325, well they took me off 325 and gave me 81.
+
+DOCTOR M224
+Okay.  Okay.
+
+PATIENT M224
+Which is lighter, saying that it'll work.
+
+DOCTOR M224
+And then alright so we have, let's see.  @@@.  Do you know month they were placed in?
+
+PATIENT M224
+Yes they were placed in let's see it was September we went to St. Joes and @@@ it was in October.
+
+DOCTOR M224
+October.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+You alright.
+
+SECOND PERSON M224
+Yeah.
+
+PATIENT M224
+Uh that's her history.
+
+SECOND PERSON M224
+It's not serious.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+And her doctor's mad at her too but she won't listen.
+
+DOCTOR M224
+Okay.  And you saw DOCTOR.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+In the Hem/Onc Clinic.
+
+PATIENT M224
+Yes and I got something offset in my blood that they haven't figured out what it is and we don't know what to do, just leave it alone.
+
+DOCTOR M224
+Yeah kind of watchful waiting it sounds.  They're keeping an eye on things.
+
+PATIENT M224
+Yeah, yeah.
+
+DOCTOR M224
+And they're waiting.  They wanted some labs today.  Did you stop at the Lab yet?
+
+PATIENT M224
+I sure did this morning.  Early this morning 9 o'clock this morning, geez.
+
+DOCTOR M224
+Okay great so I'll take a look at those too.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Things are looking pretty good from my standpoint.  I mean I know you've got the stents placed.  Your blood pressure looks great.  Your pulse is great so it's sort of your pain.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+And getting your medications taken care of.
+
+PATIENT M224
+Yes, yes.
+
+DOCTOR M224
+Uh.
+
+SECOND PERSON M224
+He goes through the nitro.
+
+DOCTOR M224
+The nitro.
+
+SECOND PERSON M224
+Well every pill.
+
+PATIENT M224
+She knows, she's got it on the computer.
+
+DOCTOR M224
+Yeah I'll take a look.  And this is kind of what your weight's been doing here in the last couple of years.
+
+PATIENT M224
+Yeah going way down.
+
+DOCTOR M224
+So it went down to 200.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+And it looks like now you're back up to 225.
+
+PATIENT M224
+Yeah at the same time when I was at 200, I spent the same night here.  Now it was 200 on that one scale they gave me and upstairs it read 220 so.
+
+DOCTOR M224
+Yeah so that was probably the.
+
+PATIENT M224
+The scale was.
+
+DOCTOR M224
+The scales are notoriously bad.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+So um we, the weight loss is something that you can do to help with all of your joint pain, legs, back, shoulder.  All this stuff you can find a way to get rid of some weight that helps relieve a lot of your joints.
+
+PATIENT M224
+I eat a lot of salads.  I like a lot of salads.
+
+DOCTOR M224
+That's good okay.  And how much activity do you get?  I know you have scooter to help you get around.
+
+PATIENT M224
+Oh uh I uh we do different things.  I get out around as much as I can.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+But I.
+
+SECOND PERSON M224
+@@@ is just like.
+
+PATIENT M224
+I sit in front of my computer a lot.
+
+DOCTOR M224
+Yeah.  Uh-huh.
+
+SECOND PERSON M224
+Around the house.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+I walk around the house.
+
+DOCTOR M224
+Let's take a look at your labs.  I can send you a letter.  These labs are the ones that the Hematology doctors uh ordered so I'm going to let them interpret those for you because they know what they're specifically looking for.
+
+PATIENT M224
+Alright.  Okay.
+
+DOCTOR M224
+They were checking some vitamin levels and those are looking normal.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+So those are good and these are back in March.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+Alright let me see.
+
+PATIENT M224
+I'm also hooked up on My HealthyEVet.
+
+DOCTOR M224
+Your a healthy vet okay.
+
+PATIENT M224
+Yes and I'm upgraded.  I can go up there and see all the labs, all the stuff that you've got you know.
+
+DOCTOR M224
+Good okay.
+
+PATIENT M224
+Which is nice, so you can keep track of it.
+
+DOCTOR M224
+Yeah.  @@@.  I was just checking to see when you had your last kind of.  Oh you just had them in March.  So you had a cholesterol panel in March.
+
+PATIENT M224
+And that's good right.
+
+DOCTOR M224
+Looks pretty good.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Looks pretty good.  Um and.
+
+PATIENT M224
+The diabetes is pretty well under control.
+
+DOCTOR M224
+Your diabetes yeah let’s double check where you're at with that.  Let's see where you're at there.  So it looked really good back in September.  We don't have a newer one since then.  Do you have, do you have to get labs drawn for any of your other appointments?
+
+PATIENT M224
+No.
+
+DOCTOR M224
+For DOCTOR.  Do you mind maybe next time you come to see DOCTOR at the end of May, the cardiologist, if we could get just to touch base with your diabetes.
+
+PATIENT M224
+Sure.
+
+DOCTOR M224
+Cause that lab didn't get checked today so.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Next time you come back, you don't have to get it today but I'll order some labs.
+
+PATIENT M224
+On the 31st?
+
+DOCTOR M224
+Yep on the 31st.
+
+PATIENT M224
+Okay, okay.
+
+DOCTOR M224
+You can just stop in sometime.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+But your cholesterol looks good.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+So let's look at your medicines here.  Okay do you have your list?  I want to, I want to go through them with you and uh.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+See where we're at yeah.
+
+SECOND PERSON M224
+Here you go.
+
+DOCTOR M224
+Okay.  So we have your inhaler, the albuterol, ipratropium inhaler.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+Uh we have your Maalox.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+And sometimes it seems like they change, they had a nice cherry flavor and now you get the white crap.
+
+DOCTOR M224
+Do you prefer, I can try and see if they can do the cherry?
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+Uh okay.
+
+PATIENT M224
+I been drinking a lot of milk lately too.
+
+DOCTOR M224
+Okay.  Well that's good for calcium, it's good for calcium.
+
+PATIENT M224
+Uh for my stomach.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+You know I take the pills.
+
+DOCTOR M224
+Yeah, is that helping?
+
+PATIENT M224
+I drink milk.
+
+DOCTOR M224
+Okay good.
+
+PATIENT M224
+Tastes a lot better taking the Maalox with them.
+
+DOCTOR M224
+Yeah taking the Maalox with it.  Okay so then you had the amitriptyline which you take for the pain.  You have the baby aspirin, that one looks like it needs to be refilled.
+
+PATIENT M224
+I had zero.
+
+DOCTOR M224
+So the capsaicin cream, that's the cream you put on your joints.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+When they're hurting you.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+Both creams is 0.
+
+DOCTOR M224
+Okay.  And now you have the eardrop solution, are you still using that?
+
+PATIENT M224
+No.
+
+DOCTOR M224
+No.  So I'm going to take that off your list.
+
+PATIENT M224
+Okay.  I got the @@@, what is this?
+
+DOCTOR M224
+Bupropion that one is not on my list.  Let me get, yeah that one's at the bottom.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+@@@ is at the bottom.
+
+PATIENT M224
+Okay sorry.
+
+DOCTOR M224
+That’s okay, keep an eye on it, the clopidogrel and the Plavix you need so I'll refill that.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+Um you have another inhaler the formoterol.  I forgot, do you see one of the lung doctors, one of the pulmonologists?
+
+PATIENT M224
+Oh yes.
+
+DOCTOR M224
+Okay.  They usually prescribe the inhalers for you?
+
+PATIENT M224
+Yes but I haven't seen them for a while.  I mean they'll send me a thing when I gotta see them.
+
+DOCTOR M224
+When you've got to see them okay.  So I'm going to let them fill your inhalers but if there's a problem and you run out and they don't give them to you, let me know and I'll fill them for you.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+Okay but I'll, just in case they want to adjust it after seeing you.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+You still have at least one refill left on both of those so.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+You should be okay for a while yet.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Alright the furosemide is your water pill.
+
+PATIENT M224
+Yeah I need that.
+
+DOCTOR M224
+Yep you're out of that.  Your lancets or your testing strips are the things to test your blood sugars.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Do you need more of those?
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+The lisinopril 5 mg for your blood pressure.
+
+PATIENT M224
+Yep.
+
+DOCTOR M224
+The metoprolol you take half a tab twice a day.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Okay and then the niacin.
+
+PATIENT M224
+Yes.  Niacin, I ain’t had that in a week, two weeks.
+
+DOCTOR M224
+Okay.  Your nitro, you're nitroglycerin.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+So refill all that.  Your test strips you need.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+Ranitidine.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Okay.  Simvastatin that's for your cholesterol.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+And your tramadol we talked about.
+
+PATIENT M224
+Yes and uh glipizide.  I always run short on that.
+
+DOCTOR M224
+So that one's at the bottom of my list here too so.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+I don't know why those would show up at the bottom but.  Um the B vitamin.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+We'll renew.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Now the bupropion you take.  The glipizide you take and the metformin.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Half a tablet three times a day.  Do you know why you take that one three times a day?
+
+PATIENT M224
+Uh.
+
+DOCTOR M224
+You know did you ever try that one twice a day?
+
+PATIENT M224
+Which one?
+
+SECOND PERSON M224
+Metformin.
+
+DOCTOR M224
+The metformin.
+
+PATIENT M224
+Yeah but the metformin is for diabetes.
+
+DOCTOR M224
+Yes it's for diabetes.  Normally it's a twice a day medicine so I'm just trying to think of why.
+
+PATIENT M224
+Yeah but I think it's probably because they got me cutting them in half.
+
+DOCTOR M224
+You're cutting them in half okay.
+
+PATIENT M224
+So.
+
+DOCTOR M224
+Alright so let me get these ones taken care of for you.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Okay so we're going to give you the venlafaxine.  Uh-huh.  So all these refills, we’ll get them all.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+This one right here.  Capsaicin cream.  The computer's running pretty slow today.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+That happens usually. Anything else going on that?
+
+PATIENT M224
+Oh I uh.
+
+DOCTOR M224
+You think I need to know about?
+
+PATIENT M224
+Now you already checked that, the x-rays of my foot?  My left foot?
+
+DOCTOR M224
+Yeah I'll take a look at them again but I think we looked at them.
+
+PATIENT M224
+I tripped on a gate, getting over a gate and I almost broke my foot.  It hurt all the way to my hip.
+
+DOCTOR M224
+Huh.
+
+PATIENT M224
+And when, that was because of the gate it got locked from the dining room to the kitchen.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+Because they’re little, she's only 1-year-old now.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+Cause she'll get in the dog water and the cat box.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+Everything she's not supposed to.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+So you got to put gates up.
+
+DOCTOR M224
+Yeah, when they're at that age when they get into everything.
+
+PATIENT M224
+And now she's starting to climb up the steps and she's already been up on the third one.  Going up stairs now, we got 16 steps so.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+So that gives me exercise too, going up and down.
+
+DOCTOR M224
+Yeah, uh-huh.
+
+PATIENT M224
+Which is good.
+
+DOCTOR M224
+Alright, okay.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+I just want to double check your creatinine.
+
+PATIENT M224
+Yeah.  And then if I can get your phone number just in case I need to call.
+
+DOCTOR M224
+Yeah, yeah.
+
+PATIENT M224
+Because otherwise you call the main hospital they send you through this way and that way and wait a minute I'll see if I can't and pretty soon you’re lost.
+
+DOCTOR M224
+Yeah.  You know let me check, I think I forgot them at home today.  I have the number, I have a card and then I left the box at home unfortunately.  So I don't have the cards today but I'll give you the number to call.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+And we'll go from there okay.  I'll need to sign all these medicines to get them refilled for you.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+So here are all the medicines.
+
+PATIENT M224
+Let @@@ portion and put the phone number on there.
+
+SECOND PERSON M224
+@@@.
+
+DOCTOR M224
+Okay so.
+
+PATIENT M224
+I didn't mean that turkey @@@.
+
+SECOND PERSON M224
+@@@.
+
+PATIENT M224
+I figure what I take, the kind of medicine we take for @@@ they make it out of turkeys.
+
+SECOND M224
+@@@.
+
+PATIENT M224
+No.
+
+DOCTOR M224
+Alright.
+
+THIRD PERSON M224
+@@@ a lot.
+
+DOCTOR M224
+Uh-huh.
+
+THIRD PERSON M224
+@@@.
+
+DOCTOR M224
+Alright.
+
+SECOND PERSON M224
+That's usually @@@.
+
+THIRD PERSON M224
+@@@.
+
+SECOND PERSON M224
+@@@.
+
+THIRD PERSON M224
+@@@.
+
+PATIENT M224
+This one is not for water, the furosemind is right?
+
+DOCTOR M224
+Well the furosemide is the water pill.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+That makes you pee and the lisinopril is a blood pressure medicine and it helps protect your kidneys when you have diabetes and you have diabetes so it's good for that too.
+
+PATIENT M224
+Okay.
+
+THIRD PERSON M224
+All these medicines, @@@.
+
+DOCTOR M224
+Now that one make sure you're on the service connection things.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+Okay.  Alright so your medications are all done.
+
+PATIENT M224
+I ordered them on the internet too which is cool.
+
+DOCTOR M224
+Oh good yeah that's cool.  Now the last thing I wanted to figure out is what we're gonna do about your pain because it's just not good to take so much of that tramadol.
+
+PATIENT M224
+Okay.  Now the other thing I follow which is pretty weird I have diabetes.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+Uh man I was really runny low.  I was getting down on my blood sugar count was down in the 50s and 60s.
+
+DOCTOR M224
+Oh okay.
+
+PATIENT M224
+But the wife give me some hard candy to eat.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+These little sucker things.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+They're all in a wrapper.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+And you take and you, I got in the habit now of sticking about eight of them at a time.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+And then I feel really good and then I don't even take that pain medicine so much.  I don't know where it works together at.
+
+DOCTOR M224
+Hmm.
+
+PATIENT M224
+Because you know it don't make any sense right?
+
+DOCTOR M224
+Yeah.  Yeah how often are you having real lows with your sugars?
+
+PATIENT M224
+Oh not too often just very seldom.
+
+DOCTOR M224
+Very seldom okay.
+
+PATIENT M224
+Yeah when I run out of candy I suck a lot of that candy all the time.
+
+DOCTOR M224
+Okay, so you don't have, you don't take insulin do you?
+
+PATIENT M224
+No I just take the pills, the glipizide and the metformin.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+That's what it's for right?
+
+DOCTOR M224
+Okay so yeah this is my thought then okay.  When we get your labs done, if your blood sugar is still as controlled as it has been in the past maybe we'll try to take the glipizide off and just do the metformin.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Because the metformin works in a little bit different way and doesn't cause any lows.
+
+PATIENT M224
+Oh okay.
+
+DOCTOR M224
+Glipizide can cause some lows.
+
+PATIENT M224
+Okay, okay.
+
+DOCTOR M224
+And if you're still well controlled like you have been in the past.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+Maybe we can stop the glipizide and then check you again.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+You know in a little bit okay.
+
+PATIENT M224
+And that'll be another pill off the list right?
+
+DOCTOR M224
+Yeah and so then we just want to make sure though with the glipizide that you're eating on a regular basis.
+
+PATIENT M224
+Right, right.
+
+DOCTOR M224
+You know, eat regular meals.
+
+PATIENT M224
+Right, right.
+
+DOCTOR M224
+And things like that okay.
+
+PATIENT M224
+Right, right.  Okay.
+
+THIRD PERSON M224
+@@@.
+
+DOCTOR M224
+Have you seen the physical therapist um.
+
+PATIENT M224
+Yeah that's how I got my.
+
+DOCTOR M224
+That's how you got your new scooter.
+
+PATIENT M224
+They were going to hook me up for an @@@ for that therapist had a thing for my neck and my shoulders, but I never heard anything back from him so.
+
+DOCTOR M224
+Let's, let me see cause I @@@.
+
+PATIENT M224
+Yeah it hurts like uh, it feels like a burning at times.  You know it'll hurt; that ache and pain, it feels like it's burning every once in a while, light burning so I don't know what that is.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+What it's got to do with that but I used to think it was my shirts once in a while but it's got to be the uh, I don't know of course then I got arthritis.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+What kind of arthritis I got, I got some other crap.
+
+DOCTOR M224
+So let's see what they thought they were gonna do.  Okay alright well maybe we'll talk about hooking you up with the physical therapist again to see if they can give you any exercises that help your pain because we're, you're not getting very good control here with the tramadol and you can't take as much of it regularly as you are.
+
+PATIENT M224
+Well the tramadol is not only for my neck and shoulders; it's for my back and my legs.
+
+DOCTOR M224
+Yeah, yeah.
+
+PATIENT M224
+Straighten the whole body out.
+
+DOCTOR M224
+Right.  So okay.  Can you take a seat up here so I can take a listen to you?
+
+PATIENT M224
+Absolutely.  Here baby.
+
+SECOND PERSON M224
+Alright.
+
+PATIENT M224
+You want me to take my jacket off?
+
+DOCTOR M224
+Uh yes please.
+
+PATIENT M224
+@@@.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+Is this good?
+
+DOCTOR M224
+Yep you're good.  Actually can you swing around so your legs are down there?  And when was the last time you got your eyes checked?
+
+PATIENT M224
+My eyes?
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+Uh I don't know they got to call me up again.
+
+DOCTOR M224
+Okay.  But you're once a year right.  You go once a year to get your eyes checked?
+
+PATIENT M224
+Yeah, they check. The main thing is for diabetes.
+
+DOCTOR M224
+Yep you want look for the diabetes.
+
+PATIENT M224
+But my eyes are so messed up.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+There's things that they should do but they're not going to do it, they're gonna leave me alone.
+
+DOCTOR M224
+Okay.
+
+SECOND PERSON M224
+If I'd brought my inhaler I wouldn't be in this predicament.
+
+DOCTOR M224
+Deep breaths in and out.  Can you lay back for me so I can take a look?  Your cough doesn't sound good.
+
+SECOND PERSON M224
+I know.
+
+PATIENT M224
+It's really bad and @@@.  She does that at night when we're sleeping.
+
+SECOND PERSON M224
+Oh be quiet.
+
+PATIENT M224
+It wakes me up when I'm asleep.
+
+SECOND PERSON M224
+Oh boo hoo.
+
+PATIENT M224
+It's like being in a combat zone.
+
+SECOND PERSON M224
+Boo hoo.
+
+DOCTOR M224
+Any belly pain?
+
+PATIENT M224
+Uh no not right now.  Oh yeah right there was one.
+
+DOCTOR M224
+Any pain that’s new?
+
+PATIENT M224
+I think @@@ telling you what's wrong.  It feels like really weird here.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+Of course I got a little pain down there where @@@ I think that's where the stich was when they went in.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+And you know it's just.
+
+DOCTOR M224
+@@@ your stuff.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+Any swelling in your legs at all?
+
+PATIENT M224
+No.
+
+DOCTOR M224
+No.
+
+PATIENT M224
+Now this one I had a @@@ one and that's where I tripped, its turning purple, yellow.
+
+DOCTOR M224
+Is it getting better now?
+
+PATIENT M224
+Oh yes much better.  You can hardly see it now.
+
+DOCTOR M224
+Okay good.  Okay alright you can sit back up and I'm going to push that in.  Alright you can come on down here.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Hmm.  Alright so a few things @@@.  So screening things it looks like you would be due for an ultrasound of your abdomen.  Have you ever had one of those?
+
+PATIENT M224
+Uh maybe.  I don't know I've had different things done up here.  Sometimes multi-times but it's always good to have just in case.
+
+DOCTOR M224
+Yeah.  So we recommend that once you turn 65 years old, if you smoked more than a pack of cigarettes in your entire life you should get an ultrasound of your belly to look at your aorta down in your belly to make sure that it's not dilated at all.
+
+PATIENT M224
+Oh they've already run that thing down my throat to come to find out that I have a hiatal hernia.
+
+DOCTOR M224
+Hiatal hernia.
+
+PATIENT M224
+They gave me a purple pill one time and they took it away I don't know why.
+
+DOCTOR M224
+Nexium probably.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+So that will look into your stomach.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Um and this is a little bit different so I think if you don't have any objections I'll just order that study.
+
+PATIENT M224
+Oh that thing that they run around your stomach with uh.
+
+DOCTOR M224
+Yeah it's like an ultrasound like they're looking for a baby in.
+
+PATIENT M224
+Yeah they put this goop on your.
+
+DOCTOR M224
+Like the same as yeah.
+
+SECOND PERSON M224
+You've already had this?
+
+THIRD PERSON M224
+Yeah of the heart.
+
+DOCTOR M224
+Yeah so you've had an ultrasound of your kidneys before.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+That's the same thing.
+
+PATIENT M224
+Not too long ago.
+
+DOCTOR M224
+The same they they just look at your aorta.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Okay um so we'll do, I'll put in the order for that.  They'll call you to set it up.
+
+PATIENT M224
+Okay.  Now instead of having that uh colonoscopy again.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+I know you’re supposed to.  They did it twice up here a while back.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+But instead of doing that isn't there something else they can do?
+
+DOCTOR M224
+Um.
+
+PATIENT M224
+That accomplishes the same deal?
+
+DOCTOR M224
+They can do um, we can do cards.  Let me see what your last colonoscopy showed and when you need to do it again.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+Um do you remember ever having polyps?
+
+PATIENT M224
+Uh.
+
+DOCTOR M224
+Or when you had your colonoscopy did they take any samples out or tell you anything?
+
+PATIENT M224
+I'm not sure of any of that.  Yeah cause they must have because the first time they said some @@@.
+
+DOCTOR M224
+Okay.  In 2006 it looks like.
+
+PATIENT M224
+Yeah see we cheated because it was a whole two days, that's tough before you did the thing and then they did it in a different way when you drink that junk.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+And you didn't have to do the @@@ a big white bottle, they changed all that so you only did the white bottle.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+And they come to find out I guess what in the first eight inches or something like this and ask her, they got to go over something.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+They could go on up, they had a problem.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+And it hurt like a sucker.
+
+DOCTOR M224
+So it looks like, from what I can tell uh they took some biopsies but there was nothing uh.
+
+PATIENT M224
+It was clean and green.  I understand that they said I didn't have any cancer.
+
+DOCTOR M224
+Yes.  Yep.
+
+PATIENT M224
+Cancer clean.
+
+DOCTOR M224
+Yep no cancers, no cancer.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+So um they're looking no polyps, nothing in the colon so they didn't even find any polyps.  They actually just took a few biopsies cause you had been having some abdominal pain or something.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+So you had a clean colonoscopy in 2006 which means you're not due again until 2016.
+
+PATIENT M224
+Oh great!
+
+DOCTOR M224
+So you don't have to worry about that.
+
+PATIENT M224
+Thank you.
+
+DOCTOR M224
+Quite yet okay.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+So that's good and then the final um.
+
+PATIENT M224
+Cause the worse thing about the colonoscopy is drinking the white crap.
+
+DOCTOR M224
+You have to drink the white stuff.
+
+PATIENT M224
+And @@@.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+And you know your tushy gets so sick after drinking that crap.
+
+DOCTOR M224
+Yeah.
+
+PATIENT M224
+You know toilet paper, I don't know if the toilet paper even works right but.
+
+DOCTOR M224
+Okay.  So we're almost done here.  Um the only other thing.  So there are two things left, one is that I have to tell you I recommend highly that you stop smoking and you stop smoking and if you stop smoking and no smoking in the house, that's just for your health and everything that we know.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+It's very important.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+So if there's anything that I can do to help you with that, including setting you up with the Smoking Cessation Clinic here for uh if you are interested in nicotine patches you know I can and will provide those to you.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Um so do you want me to set any of those up for you?
+
+PATIENT M224
+Nicotine patches?
+
+DOCTOR M224
+Nicotine patch. 
+
+PATIENT M224
+Can you do that yes.
+
+DOCTOR M224
+I can.  You smoke very few cigarettes.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+So you don't.
+
+PATIENT M224
+So yeah.
+
+DOCTOR M224
+I can set you up with the lowest.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Dose.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Of the nicotine patches.
+
+PATIENT M224
+Cause the last time I was here, the night they made me stay over.
+
+DOCTOR M224
+Uh-huh.
+
+PATIENT M224
+Yeah they put nicotine patches on me too.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+I think they switched one, you know but I know that yeah they used them over here.
+
+DOCTOR M224
+Yeah okay.  So I'll do that for you.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Okay so that'll be good.
+
+PATIENT M224
+Now the wife may not successfully quit but I have to.
+
+DOCTOR M224
+Yep.
+
+PATIENT M224
+I've had two strokes.
+
+DOCTOR M224
+Yep.
+
+PATIENT M224
+Two heart attacks.
+
+DOCTOR M224
+Yes.
+
+PATIENT M224
+I got four stents.
+
+DOCTOR M224
+Yep you got to quit smoking.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+You gotta quit smoking.
+
+PATIENT M224
+Okay doc.
+
+DOCTOR M224
+Okay cause you've got a lot of issues that are related.  Especially with your Agent Orange history with both of those combined.
+
+PATIENT M224
+Yeah.
+
+DOCTOR M224
+You gotta quit smoking um and then the last uh screening thing is that the VA recommends that every veteran between the ages of 18 and 120 get screened at least one time for HIV so I can order that blood test for you for the next time you come in and get labs done.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+If you don't mind.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+That'll be the 31st.
+
+DOCTOR M224
+That'll be the 31st and we'll get some labs done then.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+And I think you're up-to-date, let me check your immunizations to make sure.  You had the flu shot, you got the pneumonia shot.  Um the only other thing is for your tetanus shot, you had the tetanus shot in 2010 and those last in and of themselves 10 years before you need another booster so technically you're not due for the tetanus part until 2020 but the new tetanus vaccinations also protect against whooping cough.
+
+PATIENT M224
+Okay I'll take it.
+
+DOCTOR M224
+So I'll get you that today before you leave okay.
+
+PATIENT M224
+Okay.  Okay.
+
+DOCTOR M224
+Alright so we'll do that.  Alright so I'm just gonna go talk to my supervisor quick but I think your blood pressure's well controlled.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Hopefully your diabetes is as well controlled as it was back the last time it was checked but we'll check it again at the end of the month.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+If that's still okay we'll talk about going down on that glipizide.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+To make sure you know stop you from having those lows.  Um we'll get you set up with the nicotine patches, with the tetanus shot and with the triple A screen and then we'll see you back sometime soon okay.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+So let me just uh, let me just go talk to them and I'll be back okay.
+
+PATIENT M224
+Okay doc.
+
+DOCTOR M224
+I think I'm also going to try to get you hooked up with the physical therapist again cause I want to see what, if anything, they can do to help with your pain.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Alright.  Any more questions right now?
+
+PATIENT M224
+No.
+
+DOCTOR M224
+Okay.  I'll be right back okay.
+
+PATIENT M224
+Okay doc.
+
+DOCTOR M224
+Alright.  @@@.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Do we need to talk about @@@.
+
+(DOCTOR OUT:  87:37  DOCTOR IN:  95:55)
+
+DOCTOR M224
+Okay so.  Alright just like I said we're gonna do what we talked about so I'm going to order you the ultrasound of your abdomen and they'll call you to set that up.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Okay.  They might be able to set it up for you before you leave so let me put the order in right now and see.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Um.
+
+SECOND PERSON M224
+Where does he get that shot at?
+
+DOCTOR M224
+He gets it right here before he leaves so I will put in the order okay.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+Uh if you could do it on the 31st, would you want to do it all on one day and just have?
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+Everything, let's see if they can do that.
+
+PATIENT M224
+Sure would.
+
+DOCTOR M224
+Okay so we'll do that, let me do.
+
+PATIENT M224
+So I think my appointment is at 1:30 or 2 in the afternoon.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+On the 31st.
+
+DOCTOR M224
+Okay we'll order your tetanus.  Okay and the nicotine patches.  Do you want to pick up the nicotine patches or do you want them mailed to you?
+
+PATIENT M224
+You can mail them to me.
+
+DOCTOR M224
+Mail them to you okay then I'll do that so you won't have to wait for that.  So we'll get some labs done at the end of the month when you come back.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+We'll get this triple A screen, we'll get you the tetanus shot and we'll get you the patches um and okay.
+
+PATIENT M224
+Yes.
+
+DOCTOR M224
+We refilled all of your medicines so you should be set there um how about now I'm trying to think when I want to see you back.  So how about in the next 3-4 months.
+
+PATIENT M224
+Okay that'd be fine.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+That'll be fine yes.
+
+DOCTOR M224
+And then next time I'll have my card with me and I'll give you my card but I can give you the number if you want.
+
+PATIENT M224
+Okay.  Okay.
+
+DOCTOR M224
+Okay.  There's the phone number.
+
+PATIENT M224
+Excellent, alright.
+
+DOCTOR M224
+Alright and for your pain I'm going to set you up with PT again.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+Okay the Physical Therapy.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+And I want you to really try to take the tramadol as prescribed.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+I don't want to just throw medicine at you because medicines cause you know, they're not and they have other problems and so I don't want to keep just adding things to all of your pills.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+That you're already taking.
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+So if you can do your best to take the tramadol as prescribed and I'll get the physical therapy set up and then maybe they'll have some recommendations for you know stretches or treatment or something.
+
+PATIENT M224
+They've already done that twice, they come out to the house.
+
+DOCTOR M224
+Yeah and it looks like from what I could see when they came out to the house it was mostly to kind of evaluate for the scooter and that type of thing.
+
+PATIENT M224
+No I was, I had a stroke and heart attacks that's why they did it.
+
+DOCTOR M224
+Okay so they came out for that.
+
+PATIENT M224
+Now they assessed for the scooter right downstairs here.
+
+DOCTOR M224
+Yeah okay, okay.
+
+PATIENT M224
+Cause we only wanted a simple wheelchair but they wouldn't give me one.
+
+DOCTOR M224
+They wouldn't give you one yeah.  I think they thought it would have been too hard with all your cardiac issues I think they said.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Um so we'll keep working on that okay.  
+
+PATIENT M224
+Right.
+
+DOCTOR M224
+We'll work on your pain.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+And it'll kind of be what we talk about okay.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+And see what else we can do.
+
+PATIENT M224
+Alright.
+
+DOCTOR M224
+Okay.
+
+PATIENT M224
+Okay now I will limit the use of them things.
+
+DOCTOR M224
+Okay and at the risk of making NAME and your wife mad at me, you should both really stop smoking okay.
+
+PATIENT M224
+I will, I'm going to.
+
+DOCTOR M224
+Okay and that's fantastic and it'll really help you but the secondhand smoke is still gonna be a problem to you as well.  If your wife can stop smoking too I know it's tough, it's a big commitment and it's really hard but it you can work on it that'll be @@@.
+
+PATIENT M224
+Well if she sees your doctor I think the doctor told them, they're gonna set her up for.
+
+SECOND PERSON M224
+@@@.
+
+DOCTOR M224
+Okay, great okay.
+
+PATIENT M224
+Okay doc.
+
+DOCTOR M224
+Nice to see you again.
+
+PATIENT M224
+Take care.
+
+SECOND PERSON M224
+Nice to see you take care.
+
+DOCTOR M224
+Same to you.  I hope your cough gets better.  I'll hand you this, you come right out here.
+
+PATIENT M224
+Oh they did that.
+
+SECOND PERSON M224
+@@@.
+
+DOCTOR M224
+Don't forget your scooter cause if it's still here I might use it at the end of the day.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+I'll just fire it on the way home.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+I almost forget in here okay.  They have a room for you right here.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Alright, follow her right around the corner okay.
+
+PATIENT M224
+Okay.
+
+DOCTOR M224
+Alright good to see you guys, take care.
+
+PATIENT M224
+Yeah thank you doc.
+
+Time is 2:35.
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255137
+TRANSACTION # 578-10-2-316-0103

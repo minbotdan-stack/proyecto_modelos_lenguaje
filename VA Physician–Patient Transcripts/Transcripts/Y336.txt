@@ -1,0 +1,810 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@
+
+DOCTOR Y336
+PATIENT?
+
+PATIENT Y336
+You're harder to get an appointment than the pope.
+
+DOCTOR Y336
+What's that? 
+
+PATIENT Y336
+You're harder to get an appointment than the pope.
+
+DOCTOR Y336
+Oh really.  @@@.  How are you doing?
+
+PATIENT Y336
+Uh not too good.
+
+DOCTOR Y336
+What's going on?  I don't like to see @@@.
+
+PATIENT Y336
+Let me get my list out.
+
+DOCTOR Y336
+Okay, headaches @@@.
+
+PATIENT Y336
+I have an appointment Monday to have this wisdom tooth pulled out and I'm thinking the earache and the headache is from the wisdom tooth.
+
+DOCTOR Y336
+Is it a throbbing ache that you have in the tooth?
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+Yeah.
+
+PATIENT Y336
+They gave me ibuprofen but all that does it make me urinate a lot.
+DOCTOR Y336
+Ibuprofen’s not good for this.
+
+PATIENT Y336
+Oh she said I have to see my primary physician.
+
+DOCTOR Y336
+Oh good.  Nobody wants to take responsibility.
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+Alright um so @@@ let's see what it is today.
+
+PATIENT Y336
+I used to see an oral surgeon.
+
+DOCTOR Y336
+Well you have um.
+
+PATIENT Y336
+Hmm.
+
+DOCTOR Y336
+Retinopathy.
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+I'll get you scheduled.
+
+PATIENT Y336
+Oh good.
+
+DOCTOR Y336
+@@@.
+
+PATIENT Y336
+Messed up my left eye and I still can't see straight.
+
+DOCTOR Y336
+@@@, it didn't say in the note.
+
+PATIENT Y336
+I don't have cataracts.
+
+DOCTOR Y336
+That's why there's nothing in there.
+
+PATIENT Y336
+No.
+
+DOCTOR Y336
+No.  Neuro.
+
+PATIENT Y336
+I seen her.
+
+DOCTOR Y336
+You saw Neuro.
+
+PATIENT Y336
+I don't have to see her for eight months.
+
+DOCTOR Y336
+Okay and amitriptyline, what are you taking amitriptyline for?
+
+PATIENT Y336
+I don't know.
+
+DOCTOR Y336
+Was it um, was it for depression or was it for um pain?
+
+PATIENT Y336
+No I don't, well whatever it is.
+
+DOCTOR Y336
+You stopped it?
+
+PATIENT Y336
+Yeah cause I was forgetting a lot.
+
+DOCTOR Y336
+Alright.  Do you feel better after you stopped this?
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+Let's see what's in their last note.  And @@@ you stopped as well?
+
+PATIENT Y336
+Yes.
+
+DOCTOR Y336
+That's fine because it's been at least a year.
+
+PATIENT Y336
+Good, thank you, thank you.
+
+DOCTOR Y336
+I mean sometimes we have to do two years, private doctors try to push it for like forever for some people.
+
+PATIENT Y336
+Oh.
+
+DOCTOR Y336
+But um, it's been at least a year now.
+
+PATIENT Y336
+Cause my wife put an initial on my stomach with just her finger.  She was joking and says it'll be here tomorrow.  I woke up the next day, there it was so that's when I stopped taking it.
+
+DOCTOR Y336
+Oh.  And the @@@ you were taking for nerapothy.
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+@@@ And the numbness is where?
+
+PATIENT Y336
+Oh numbness, that was the amitriptyline.
+
+DOCTOR Y336
+Oh.  Weight loss?
+
+PATIENT Y336
+Yeah I do.
+
+DOCTOR Y336
+How much have you lost?  
+
+PATIENT 270
+I'm down to, naked 150 pounds.  
+
+DOCTOR Y336
+You’ve lost 30 pounds since April.  Do you have, did you notice any blood in your stools?
+
+PATIENT Y336
+No.
+
+DOCTOR Y336
+Um blood stools, are you coughing more than usual?
+
+PATIENT Y336
+Uh no I don't cough.
+
+DOCTOR Y336
+So you don't cough.
+
+PATIENT Y336
+Hmm.
+
+DOCTOR Y336
+No blood anywhere?
+
+PATIENT Y336
+No everything is okay yeah.
+
+DOCTOR Y336
+And you're still smoking?
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+Okay um, with the weight loss.  Let's do this, let's do a basic set of labs.
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+We'll do the uh chest x-ray.
+
+PATIENT Y336
+For that spot on my uh lung?
+
+DOCTOR Y336
+Uh-huh.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+Chest x-ray um.
+
+PATIENT Y336
+Vampires.
+
+DOCTOR Y336
+And let's see, have you had a colonoscopy?
+
+PATIENT Y336
+No, no, no, no.  I'm not going to go steady with nobody.
+
+DOCTOR Y336
+But your weight loss, I mean it's really important to figure out why you're losing it and it's like one of the easiest things that we can do.
+
+PATIENT Y336
+Let's check the other ones first.
+
+DOCTOR Y336
+They might not be as telling as the colonoscopy.
+
+PATIENT Y336
+What?
+
+DOCTOR Y336
+They might not be as telling as colonoscopy.
+
+PATIENT Y336
+Well.
+
+DOCTOR Y336
+You had imaging at the end of May.  Let's see.  Maybe if they CT of the chest. @@@ not just x-rays but you know, get multiple slices.
+
+PATIENT Y336
+Okay, not today though right?
+
+DOCTOR Y336
+No.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+So how's the kidney function.
+
+PATIENT Y336
+Kidney.
+
+DOCTOR Y336
+@@@.  Need some pills for that?
+
+PATIENT Y336
+@@@.  He's been like that for a long time, trying to wake him up.
+
+DOCTOR Y336
+Okay gotcha.  @@@.
+
+PATIENT Y336
+They don’t work.
+
+DOCTOR Y336
+Which one the.
+
+PATIENT Y336
+The Ambien.
+
+DOCTOR Y336
+Ambien doesn't work?
+
+PATIENT Y336
+No cause I used to take one a night that puts me to sleep for maybe about two hours.  Then I take another one, maybe another two hours.  I only get about maybe five hours sleep now.
+
+DOCTOR Y336
+So the Chantix did not work for you?
+
+PATIENT Y336
+No it didn't even slow me down.
+
+DOCTOR Y336
+Okay.  Hang on.
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+Okay.  
+
+PATIENT Y336
+These are the medications.  You can probably get it on the computer.  So you don't need this.
+
+DOCTOR Y336
+You want to pick them up here?
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+Today.
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+Okay.  
+
+PATIENT Y336
+Uh plus I've been under a lot of stress because of my mother.  I'm trying to get her into a home and she's giving me a hard time.  Maybe that's why my hair is falling out, I don't know.
+
+DOCTOR Y336
+@@@.  We'll do this without contrast?
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+For the kidneys.
+
+PATIENT Y336
+Okay yeah.
+
+DOCTOR Y336
+Alright and see what they can see from it.
+
+PATIENT Y336
+Okay and then I have to get something next month and they're going to see how bad the neuropathy is on my feet.  Stick needles in me.
+
+DOCTOR Y336
+Neurology is going to do that?
+
+PATIENT Y336
+Yeah I already got an appointment and everything for that.
+
+DOCTOR Y336
+When do you want the @@@ I can't put the dates of but @@@.
+
+PATIENT Y336
+Well when do I have the appointment with the, when are they going to do my feet?
+
+DOCTOR Y336
+Oh that, I'd have to get out of the whole thing here I think.
+
+PATIENT Y336
+Oh then don't worry about it.
+
+DOCTOR Y336
+Let's do the labs, they probably won't be able to.
+
+PATIENT Y336
+This week.
+
+DOCTOR Y336
+This week, how about this week.
+
+PATIENT Y336
+Yeah okay.
+
+DOCTOR Y336
+@@@ no we can't wait that long.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+@@@.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+Open.
+
+PATIENT Y336
+Ah.
+
+DOCTOR Y336
+@@@.
+
+PATIENT Y336
+No @@@ this.
+
+DOCTOR Y336
+Alright.
+
+PATIENT Y336
+Okay, I got to be there by, when it is going to be?
+
+DOCTOR Y336
+December 27th.
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+December 27th, about a week.
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+Okay I'll @@@ tomorrow.
+
+PATIENT Y336
+Yeah I got to get my tooth pulled @@@ okay.  @@@.
+
+DOCTOR Y336
+Take a deep breath.  Okay.  Um do you have any trouble swallowing?
+
+PATIENT Y336
+No.
+
+DOCTOR Y336
+No.  Okay just breathe normal.  Does it hurt there?
+
+PATIENT Y336
+No.
+
+DOCTOR Y336
+No.
+
+PATIENT Y336
+Is that from that tooth too?
+
+DOCTOR Y336
+It's like uh, @@@ little bit.  It could be if the tooth is infected.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+But why don't we, since we're doing the CT anyway include your neck okay.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+And make sure that, if it's just a reactive lymph node you know once the tooth is pulled out its going to go away.
+
+PATIENT Y336
+Okay.  That’s what I thought.  And when they pull this Monday can you give me something to put me into la la land before I get here?
+
+DOCTOR Y336
+Um they'll give you something over there you know.
+
+PATIENT Y336
+Are you sure?
+
+DOCTOR Y336
+@@@ so I don't know how extensive they're going to do if like it's going to be something extensive they're going to give you something that day.
+
+PATIENT Y336
+Oh.
+
+DOCTOR Y336
+But um.
+
+PATIENT Y336
+Give me what?  Cause that ibuprofen ain't doing the job for the pain.
+
+DOCTOR Y336
+Do you have an envelope for this today no?
+
+PATIENT Y336
+No.
+
+DOCTOR Y336
+Okay, you'll just pick them up @@@.
+
+PATIENT Y336
+Yes there's the address on here and everything.  Thank you.
+
+DOCTOR Y336
+I have homework from everybody that's coming in.  Okay I'll be right back okay.
+
+PATIENT Y336
+Okay.
+
+(DOCTOR OUT:  106:20  DOCTOR IN:  117:40)
+
+DOCTOR Y336
+So we'll do the chest and neck without contrast.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+See what it is there.  If it's something that we need to have a contrast we'll you know, we'll repeat it with the contrast cause we don't want to do the contrast if it's not needed.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+Uh and we'll get some labs today.
+
+PATIENT Y336
+@@@ okay.
+
+DOCTOR Y336
+And um.
+
+PATIENT Y336
+Chest x-ray?
+
+DOCTOR Y336
+No we'll do the CT.
+
+PATIENT Y336
+Oh okay that's good.
+
+DOCTOR Y336
+So we'll get the CT.
+
+PATIENT Y336
+Okay, okay fine.
+
+DOCTOR Y336
+And we'll see what shows up.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+Now um if anything on that, you know we can find anything on that that would explain your weight loss, but if we can't find any reason for weight loss there, you know what's coming; you know what I'm going to ask.
+
+PATIENT Y336
+Oh, yeah, yeah, okay okay.
+
+DOCTOR Y336
+Okay.
+
+PATIENT Y336
+Let me think about that okay.
+
+DOCTOR Y336
+Okay.  Alright so and you don't take any medicine for diabetes?
+
+PATIENT Y336
+No, no.  I'm at 6.6 and I went to that class @@@.
+
+DOCTOR Y336
+And because of your low um, you're potassium runs on the lower side um check.
+
+PATIENT Y336
+I @@@.
+
+DOCTOR Y336
+No I'm just going to take a couple of the labs and um.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+I'll call you.  So we're going to do a bunch of labs.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+Lab work on you.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+And this system is weird.  It doesn't let me order CT without contrast.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+So um make sure they don't give you contrast.  I put in a comment not to give you the contrast.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+If they have any questions, they can reach me.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+Okay.
+
+PATIENT Y336
+Okay when do I go for the CT?
+
+DOCTOR Y336
+Well they'll give you an appointment.
+
+PATIENT Y336
+A letter.
+
+DOCTOR Y336
+Probably, so I put it for a Wednesday, requested a Wednesday.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+So they will probably call you @@@.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+You will get sildenafil.  
+
+PATIENT Y336
+Oh okay.
+
+DOCTOR Y336
+So if they only give you two pills, I always tell people to break them.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+You know, @@@.
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+@@@ and um I think we're going to give you temazepam to try um for sleep.
+
+PATIENT Y336
+Okay.  And can I get anything for the headaches and toothache?
+
+DOCTOR Y336
+Well um.  Okay uh for - I'll give you a 16-day supply of these.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+Of Vicodin, okay.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+Uh I really, don't take ibuprofen; I don't want you to take ibuprofen.
+
+PATIENT Y336
+Stop it.
+
+DOCTOR Y336
+Yeah because it's not the right thing for your teeth.
+
+PATIENT Y336
+Alright 600 mg too.
+
+DOCTOR Y336
+Yeah you @@@.
+
+PATIENT Y336
+Okay fine with me.
+
+DOCTOR Y336
+So um let's give you, twice a day and we'll see how you do after @@@.
+
+PATIENT Y336
+@@@.
+
+DOCTOR Y336
+@@@ if you need more, tell them that they should be able to prescribe you Vicodin.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+Sort of like a postop thing.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+And um hopefully you won't need anything @@@.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+Alright.  @@@.
+
+PATIENT Y336
+Kind of full.
+
+DOCTOR Y336
+So now um Pharmacy, Lab.
+
+PATIENT Y336
+Yeah.
+
+DOCTOR Y336
+Whatever you want to do and you can actually stop by Radiology and ask them about the CT scan when they can schedule you.  They won't do it right now but you can go and ask them.
+
+PATIENT Y336
+No you already did it huh?
+
+DOCTOR Y336
+No I put the order but you still can see.
+
+PATIENT Y336
+Where do I go for that?
+
+DOCTOR Y336
+Uh it's downstairs where the Lab is, the Radiology Department.  So ask them if they can schedule you for that.
+
+PATIENT Y336
+What do you call that place?
+
+DOCTOR Y336
+Radiology.
+
+PATIENT Y336
+Ah Radiology huh.  Okay, see if I can get an appointment with them right.
+
+DOCTOR Y336
+Uh-huh.
+
+PATIENT Y336
+For Wednesday right?
+
+DOCTOR Y336
+Yeah whatever, I put it for a Wednesday but they @@@ early do that.
+
+PATIENT Y336
+And no.
+
+DOCTOR Y336
+No contrast.  No IV contrast.  @@@.
+
+PATIENT Y336
+Okay.
+
+DOCTOR Y336
+Alright.
+
+PATIENT Y336
+I'm done?
+
+DOCTOR Y336
+You're done.
+
+PATIENT Y336
+Alright.
+
+DOCTOR Y336
+And um let's see I'm going to put six months follow-up but I'm going to call you with all this stuff anyway so you can come in earlier if you need to.
+
+PATIENT Y336
+Okay, alright.
+
+DOCTOR Y336
+Alright.
+
+PATIENT Y336
+You ready?
+
+DOCTOR Y336
+Give it to the uh folks up front at check out.
+
+PATIENT Y336
+Alright, I got to get rid of this @@@.
+
+DOCTOR Y336
+Alright.
+
+PATIENT Y336
+See you in six months.
+
+PATIENT LEAVES:  124:0
+
+Time is 2:55
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238131
+TRANSACTION # 578-10-2-316-0103

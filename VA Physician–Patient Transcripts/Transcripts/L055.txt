@@ -1,0 +1,998 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR L055 
+PATIENT?
+
+PATIENT L055
+Yeah right here, excuse me.  How you doing?
+
+DOCTOR L055
+Uh good.  How are you?
+
+PATIENT L055
+Alright.
+
+DOCTOR L055
+Uh we're on the first door on the right, the first one that's open on the right.
+
+PATIENT L055
+Okay.  That'd be this one here.
+
+DOCTOR L055
+We've met before right?
+
+PATIENT L055
+Yeah uh-huh.
+
+DOCTOR L055
+Sorry I see a lot of people.  How are you doing today?
+
+PATIENT L055
+How you doing today.
+
+DOCTOR L055
+It's good to see you.
+
+PATIENT L055
+Yeah you too.
+
+DOCTOR L055
+My computer's just loading up here.
+
+PATIENT L055
+Okay.  That's fine.  This is as fast as I've ever been waited on for an appointment here.
+
+DOCTOR L055
+Oh yeah I try to be quick.  Sometimes you know, sometimes I spend too much time with patients I get behind you know trying to make sure everyone can get done, get everything done with them.
+
+PATIENT L055
+No I understand.  I know you're busy.
+
+DOCTOR L055
+You know.
+
+PATIENT L055
+You know so I most of the time I blame it on the, these were the for the last time we were talking about saying I was trying to get my plates and stickers and you told me to bring it back when I came.  I got this one here when I was on the 7th floor.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+Okay and I was wanting to see.
+
+DOCTOR L055
+Let's see what we've got here.
+
+PATIENT L055
+Yeah and then I got to get me some more copies of my DD214 and I got to get more copies of.
+
+DOCTOR L055
+Okay this is for a parking sticker?
+
+PATIENT L055
+Parking sticker and the plates.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+That's the same thing.
+
+DOCTOR L055
+Okay and it's all.
+
+PATIENT L055
+All three of those right.
+
+DOCTOR L055
+Alright so I got to see, I got to fill that out?  Anything else today that's bothering you?
+
+PATIENT L055
+Uh you know I need to get to I guess Vascular.  I think I showed you. Right there is a big chip out of my the elbow, right there.
+
+DOCTOR L055
+Yeah can you take this off and we'll take a look at it?
+
+PATIENT L055
+Yeah.  I got this when I was in PCF Camp in Fort Leavenworth, Missouri the same year I was discharged; it's a chip, big chip so.
+
+DOCTOR L055
+Okay.  This little nodule right here?
+
+PATIENT L055
+Yeah, where that little piece of bone is missing.
+
+DOCTOR L055
+Uh-huh.
+
+PATIENT L055
+And eventually it came to the surface on the skin and I couldn't even put my arms down, nor drive.
+
+DOCTOR L055
+Where is it right now?
+
+PATIENT L055
+Well I took it out.
+
+DOCTOR L055
+You took it out?
+
+PATIENT L055
+Yeah I cut it, sliced my skin and took it out.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+But arthritis has set in there too and I was telling them two MRIs when I had at @@@ out in Calumet City.
+
+DOCTOR L055
+Uh-huh.
+
+PATIENT L055
+And then they took one here from my rotator cuff by my first doctor and he said it's totally destroyed and I can't lift my arm unless I do it like this – that high and then that's as high as it'll go and my arm continuously aches and pains so I guess arthritis is setting into it, there's no more cartilage period and it’s a real pain right in this part right here.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+And uh I don't know.
+
+DOCTOR L055
+As far as the elbow goes, I guess what are your expectations on what we can accomplish?
+
+PATIENT L055
+I really don't know.  We might not be able to do anything but I do want to put a claim in for this because I didn't do that at the time.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+But I put in a claim against my rotator cuff because all this happened at the same time.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+Cause I was jumping @@@.
+
+DOCTOR L055
+And both of them happened while you were in the service?
+
+PATIENT L055
+Yes.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+Cause they picked me up over the head and you know like being PCF @@@ is all gravel.
+
+DOCTOR L055
+Uh-huh.
+
+PATIENT L055
+So they picked me up and it was like five or six guys it's reported everything and they slammed me down the side of my face and my arm was up under me.
+
+DOCTOR L055
+Okay when they @@@ you.
+
+PATIENT L055
+Yeah so then messed up my leg too.
+
+DOCTOR L055
+@@@.
+
+PATIENT L055
+Yeah cause I fell down on this.
+
+DOCTOR L055
+I don't know if they're gonna be able to fix, if it's like arthritic pain or arthritis I don't know how much or what they'd be able to do.  Um.
+
+PATIENT L055
+I don't know, see like there, that piece @@@.
+
+DOCTOR L055
+Does it hurt you to move it?
+
+PATIENT L055
+Yes.
+
+DOCTOR L055
+Back and forth.
+
+PATIENT L055
+Yeah it pops.  
+
+DOCTOR L055
+It pops.
+
+PATIENT L055
+It's not popping right now yeah, yeah.  It pops and then sometimes you know like on a bad day it'll just ache so bad when I'm in the bed you know I have to.
+
+DOCTOR L055
+Did you see someone before for that like the orthopedic doctor or?
+
+PATIENT L055
+No I just saw my regular MD, DOCTOR; he's at the Family Medical on 115th.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+I been seeing him.
+
+DOCTOR L055
+What did he say about it?
+
+PATIENT L055
+He said that I need a replacement you know for my rotator cuff.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+And as far as this he said.
+
+DOCTOR L055
+Do you have MRIs that have been done here at this facility?
+
+PATIENT L055
+Yeah they had one here.  I mean they just stopped even, you know my vascular appointment is one day next month.
+
+DOCTOR L055
+I don't think that's going to be a vascular problem though you know.
+
+PATIENT L055
+No.
+
+DOCTOR L055
+I don't think the Vascular Clinic.
+
+PATIENT L055
+Well what kind of doctor you think this might look at that to see what they can do?
+
+DOCTOR L055
+Um well probably orthopedics.
+
+PATIENT L055
+Okay.
+
+DOCTOR L055
+If they think that they're going to do a total shoulder replacement.
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+Um that could be the orthopedic people that would take a look and if you have a MRI here I think that they would appreciate kind of taking a look at it and then kind of evaluating you.  
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+Whether they're gonna do something about the elbow I don't know about that.  I mean you seem to have fairly good function of it but uh.
+
+PATIENT L055
+You know sometimes it stiffens up but mostly.
+
+DOCTOR L055
+Sometimes I mean they could take another MRI of it and maybe if they want to go and do some like arthroscopic cartilage removal, sometimes they'll do that.  They may even do that on the shoulder.
+
+PATIENT L055
+Okay.
+
+DOCTOR L055
+Uh.
+
+PATIENT L055
+Well I'm pretty sure they're gonna want to take a MRI but I put the claim in anyway so.
+
+DOCTOR L055
+Okay.  So you've already put in a claim for that?
+
+PATIENT L055
+No I haven't already.  In fact I was waiting to see what they were gonna come up with.  I had, they had to show me, I think they did give me a copy of the MRI but I don't have a DVD player so I got caught in the flood.  I think we talked about that last time.  It destroyed my whole apartment, bed, clothes, you name it, it's gone.
+
+DOCTOR L055
+Okay.  I want to log in here.  How's everything else going though?
+
+PATIENT L055
+Oh I need to go see my foot doctor, the pediatricians, not pediatricians.
+
+DOCTOR L055
+Podiatry people?
+
+PATIENT L055
+Yes because I was late, when I went up to the 7th floor on the Psych Ward I missed all of my appointments so they rescheduled me.
+
+DOCTOR L055
+Uh-huh.
+
+PATIENT L055
+And uh.
+
+DOCTOR L055
+Do you need another, to see the podiatry people again?
+
+PATIENT L055
+Yes I do.
+
+DOCTOR L055
+Okay.  What's wrong with your feet again, can you remind me?
+
+PATIENT L055
+Yeah I got a blister on the first toe next to the big toe and its right in between my feet so it constantly stays there.  They can only scrape it down; I don't know how come they can't remove the core.
+
+DOCTOR L055
+Okay but it's not a nail care thing?
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+They don't have to do anything with @@@.
+
+PATIENT L055
+No, I need to get my nails done.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+That they digging down into my foot and it's making it very difficult to walk.
+
+DOCTOR L055
+Okay.  So do the Nail Care Clinic and then hopefully within the next two weeks we can get you another appointment.  Let me look real quick maybe they already have one and I won't have to do anything.
+
+PATIENT L055
+They may have.
+
+DOCTOR L055
+It just takes me a while to kind of log in here and then I can see.
+
+PATIENT L055
+Okay.  Let's see is there anybody else I need to see oh, they gave me, you gave me some drops for my ears and somehow or another it disappeared.  I think what it was, is my girlfriend was staying with me; she left because the house got messed up so that's good.  Didn't have her around when the chips were down I don't need her around when things get better you know.
+
+DOCTOR L055
+Yeah.
+
+PATIENT L055
+So if you could order me some more ear drops that would be.
+
+DOCTOR L055
+Oh yeah, yeah, I can um cause was it the itching is that what it was?  What was wrong with the ears?
+
+PATIENT L055
+Yeah I kept thinking that the uh.  You know we talked about the swabs last time.
+
+DOCTOR L055
+Yeah, yeah I remember.  I told you.
+
+PATIENT L055
+@@@ right.
+
+DOCTOR L055
+How were the drops working for you?
+
+PATIENT L055
+They were working pretty good.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+Yeah and I got dry eyes.  I might have those cause of my glasses.  Now I've already got my glasses, I just got to take them back to the guy, to the doctor to get them fitted.  
+
+DOCTOR L055
+How long have you been walking with the cane?
+
+PATIENT L055
+Oh almost three years now.
+
+DOCTOR L055
+Okay and just to remind me, why do you walk with a cane?
+
+PATIENT L055
+Because I have a bad hip and knees.  My knees have arthritis in it so bad.
+
+DOCTOR L055
+That's right.
+
+PATIENT L055
+With that going on and then you know that foot swole up most of the time you know because of my blood pressure.  My blood pressure keeps, this morning I woke up and both of my hands look like boxers.
+
+DOCTOR L055
+Yeah, actually your blood pressure was actually pretty good today.
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+Did they tell you what it was?  It was 134/81.
+
+PATIENT L055
+Yeah that's what the nurse was telling me.
+
+DOCTOR L055
+That's pretty good.  You're taking your medications @@@?
+
+PATIENT L055
+Yeah what I did was I, what I did was I took a half of one, half an extra one because I heard news about one of my older gentleman friends that passed Sunday and I got kind of emotional outside and I could feel my heart pumping you know so.
+
+DOCTOR L055
+Yeah.
+
+PATIENT L055
+And then like I say my hands was swollen up so bad this morning that I took that extra one to try to rush it down.  I've got.
+
+DOCTOR L055
+Can I get you up here so I can take a look at that shoulder and that elbow?  Let me see if I can uh.
+
+PATIENT L055
+You want the shirt off?
+
+DOCTOR L055
+Now I have to put it in the log.  Um yeah so then we can get a good look at the shoulder.
+
+PATIENT L055
+Okay.  Yeah these legs, that PAD.  I need to get back in that program.  They sent me a letter but like I say my wife went through the house like a tornado and she threw away what she was my fiancée but she threw a whole bunch of my paperwork away getting pissed off you know so I need to find out if I'm still eligible to come, go over there to Feinberg and just sign up.  I need to come here to try to @@@.
+
+DOCTOR L055
+Yeah I don't see actually, I don't see an MRI was done.
+
+PATIENT L055
+Well, they did one, I don't know if they just didn't write it up cause like I told you @@@ discontinued treating me for my arm and my leg.  I was going to the podiatrist so I know it was back there, I guess at GU, is that upstairs?
+
+DOCTOR L055
+Uh GU is the genitourinary people.
+
+PATIENT L055
+Okay.
+
+DOCTOR L055
+Kind of like the kidney and the.
+
+PATIENT L055
+Okay, well this is for my legs on the second floor.
+
+DOCTOR L055
+Second floor.  It could have been um, could have been vascular but.
+
+PATIENT L055
+Vascular that's right.
+
+DOCTOR L055
+But it could have been, so they decided not to treat you anymore because it wasn't a vascular problem is that what you're saying?
+
+PATIENT L055
+Yeah just that they suggested it.
+
+DOCTOR L055
+Yeah.
+
+PATIENT L055
+Then they had then this PD, PAD Program all the time.  See they got with the VA in order for me to go to Northwestern and if I, so not this but one day this week I'm gonna get over there to Northwestern.
+
+DOCTOR L055
+Yeah cause they actually did a MRA rather.
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+An MRI and it shows like angiography too but everything was actually pretty normal.
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+Your blood flow is actually pretty good to your feet.
+
+PATIENT L055
+Yeah but that's not what they said on paper.  They said they need to send me a paper from Northwestern cause you can look @@@ my legs swell so bad I can't move.
+
+DOCTOR L055
+But.
+
+PATIENT L055
+But see all this here.
+
+DOCTOR L055
+Swelling isn't necessarily.
+
+PATIENT L055
+This a broken vein you know.
+
+DOCTOR L055
+A problem from lack of blood flow either.  Can you take off your shoes too cause then we can.
+
+PATIENT L055
+And as far as I can tell, they already knew that I got the vessels and I have to get something from Northwestern cause that's a bunch of bull.  That's a bunch of bullshit.  I know I had it cause they gots paperwork from them saying that I had PAD.  So.
+
+DOCTOR L055
+Let me see what they put in the notes.
+
+PATIENT L055
+I'm thinking cause that ain't what they said to me.  @@@.  I had to put this on my toe, see that, callus or whatever it is.  I think I have black socks and my gym shoes on, you'll have to excuse my feet.  Sweating like hell. @@@@  Yeah.
+
+DOCTOR L055
+Let's look.
+
+PATIENT L055
+Do you need me to take my slack off or not?
+
+DOCTOR L055
+Uh that's fine I should be able to feel your pulse.  I just want to make sure that you have good pulses in your feet and I'm going to try to see the Vascular Notes here.
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+And see what they said.
+
+PATIENT L055
+Cause they were going to operate on my knee, put the stents in and they changed they mind the same day I came in for the operation.  Interns upstairs @@@ interns, that guy talking to me just like he’s my doctor and he’s just learning how to do this, stop talking to me like a kid.  @@@.
+
+DOCTOR L055
+So you're gonna see the Northwestern people now?
+
+PATIENT L055
+Yes.
+
+DOCTOR L055
+I'm just try to catch up on the Vascular Notes from them.
+
+PATIENT L055
+Yeah that'd be more than likely in Northwestern.  I bet you that I carried around and monitored everything for six months from Northwestern you now.  I got the paperwork somewhere but I'm gonna get a copy of my records from Northwestern so @@@.  Just take a look at my feet, you can tell there's no circulation down in my feet.  @@@ crazy.
+
+DOCTOR L055
+Can you feeling me touching in here?
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+Good.  Feeling me here?
+
+PATIENT L055
+Uh-huh.
+
+DOCTOR L055
+Okay.  Now is this what they, they worked on you?
+
+PATIENT L055
+It happened at combat boot camp service.  
+
+DOCTOR L055
+Can you feel me touching you here?
+ 
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+Can you feel me touching you there?  Okay.  Going all the way up?
+
+PATIENT L055
+Uh-huh.
+
+DOCTOR L055
+All the way up okay good.
+
+PATIENT L055
+See them things that's all of them messed up back here @@@ and behind my kneecaps too.
+
+DOCTOR L055
+Okay nice deep breath good.  Nice deep breath, good.  Alright your right shoulder is the one that bothers you?
+
+PATIENT L055
+Yes.
+
+DOCTOR L055
+Okay let's try something.  So can you take it and go all the way up with it here?
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+Kind of pops on you?
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+I have to stop.
+
+DOCTOR L055
+Can you go all the way up with it?
+
+PATIENT L055
+No.
+
+DOCTOR L055
+No.
+
+PATIENT L055
+@@@.
+
+DOCTOR L055
+Does that hurt?
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+Okay where does it hurt?
+
+PATIENT L055
+This right joint from the inside all the way to the outside.
+
+DOCTOR L055
+Can you put it on down?  Have you ever separated it in the past?
+
+PATIENT L055
+You know, but again this was separated when they threw me down back in ’75.
+
+DOCTOR L055
+Okay.
+
+PATIENT L055
+And that's what @@@.
+
+DOCTOR L055
+Yeah and its hurts @@@.
+
+PATIENT L055
+Yeah.  Feel like pulling in my neck.
+
+DOCTOR L055
+I'm trying to see if there's any like laxity in the joint, let's see.  Can you turn this way, can you make a curl?
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+Okay now curl up like this.  Where does it hurt to do that?
+
+PATIENT L055
+@@@ shoulder blade, not in the blade, but in the joint @@@ my joints are really messed up.
+
+DOCTOR L055
+Can you go all the way with it though, even if you go through the pain?  Okay.  Okay and back okay.  Can you rotate your arm like this?
+
+PATIENT L055
+@@@ painful in the rest of my shoulders.
+
+DOCTOR L055
+Okay now let's try this one.  Can you come out like this?
+
+PATIENT L055
+@@@.
+
+DOCTOR L055
+Okay.  Well if I take this, if I send you to the orthopedic people.
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+I think that they are going to want some type of imaging.
+
+PATIENT L055
+Okay.
+
+DOCTOR L055
+Of your shoulder.
+
+PATIENT L055
+Okay well I been @@@ too with that.
+
+DOCTOR L055
+Cause I don't doubt that you had it done before.
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+But if it's not in the computer then here it doesn't really exist, you know what I mean?
+
+PATIENT L055
+Right.
+
+DOCTOR L055
+So they want to see some good imaging before, before they see you.
+
+PATIENT L055
+Hmm.
+
+DOCTOR L055
+Um and then they can kind of review the imaging and kind of see what they're dealing with and they say by looking at the imaging and they say no this isn't amendable to surgery or not, maybe we can actually do something that would be beneficial.
+
+PATIENT L055
+I understand.
+
+DOCTOR L055
+You know, so I don't know what they would actually kind of think.
+
+PATIENT L055
+Well, you know, when my first doctor told me it was like the end of 2005 and he was suggesting then you know @@@ that I have emergency surgery on it.  But then it was in the winter time too so I don't know, that's what they gave me an MRI.  They looked at mine and said they couldn't read it.  I don't understand how come they couldn't read it.  It came from @@@.
+
+DOCTOR L055
+Oh it came from yeah.  So I see a couple MRIs that were done but they're different ones.  They're of the belly and the pelvis.
+
+PATIENT L055
+I had all of that @@@.
+
+DOCTOR L055
+Um and I don't see any.
+
+PATIENT L055
+It would be at the beginning of my medical report I guess because that's when I got it.
+
+DOCTOR L055
+Yeah.
+
+PATIENT L055
+See that's when I came here.
+
+DOCTOR L055
+And this goes back to 2009.
+
+PATIENT L055
+Oh.
+
+DOCTOR L055
+But actually it goes back all the way but it doesn't have any history of you before then.
+
+PATIENT L055
+I don't know why, see that's all messed up.  Everything should be in there.
+
+DOCTOR L055
+So.
+
+PATIENT L055
+@@@.
+
+DOCTOR L055
+So let me go discuss this with DOCTOR okay.  Do you have any other questions; oh I'll run this form and the parking thing by her too okay.
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+I think this is just my suggestion but I want to kind of have her back me on it um.
+
+PATIENT L055
+Well @@@ cause we don't get along that's why I come here and changed doctors because she told me if it was up to her I wouldn’t even be here.
+
+DOCTOR L055
+So I mean I think an MRI is probably reasonable if we want the orthopedic people.
+
+PATIENT L055
+Yeah.
+
+DOCTOR L055
+But let me discuss it with her first okay.
+
+PATIENT L055
+Okay.
+
+DOCTOR L055
+I'll be back.
+
+PATIENT L055
+Alright.  That's it; @@@ talk to her.
+
+DOCTOR L055
+Okay.
+
+(DOCTOR OUT:  26:35  DOCTOR IN:  34:30)
+
+SECOND DOCTOR L055
+Hi, hi.  @@@
+
+PATIENT L055
+How you doing?
+
+SECOND DOCTOR L055
+I'm DOCTOR.  How you doing?
+
+PATIENT L055
+Yeah pleased to meet you.
+
+SECOND DOCTOR L055
+Okay so the two things, is @@@ shoulder up here?
+
+PATIENT L055
+It's real tight.
+
+SECOND DOCTOR L055
+You had, this was an old injury.
+
+PATIENT L055
+Yeah.
+
+SECOND DOCTOR L055
+And then what was the plan for it?  Can you raise @@@?
+
+PATIENT L055
+No I can't, I been through all of that I'm not going to one more thing.
+
+SECOND DOCTOR L055
+Okay, @@@.  So what was the plan I mean what we can do is, you get this plain imaging, which does not help a lot because the only thing we sure of there's not any else going on and then we can refer you to Ortho.  The question is if they offer you surgery are you interested in the surgery or not?
+
+PATIENT L055
+Yes cause my shoulder was supposed to be replaced five years ago.
+
+SECOND DOCTOR L055
+@@@. 
+
+PATIENT L055
+You know the doctors changed their mind I done this on my leg.
+
+SECOND DOCTOR L055
+Whose doctor?
+
+PATIENT L055
+The doctors here yeah.
+
+SECOND DOCTOR L055
+Orthopedics surgeons?
+
+PATIENT L055
+Yeah.
+
+SECOND DOCTOR L055
+Okay. 
+
+PATIENT L055
+These were the guys, no they wasn't Ortho, was that Ortho with the knees?
+
+SECOND DOCTOR L055
+Yeah @@@.
+
+PATIENT L055
+Yeah, yeah.
+
+FIRST DOCTOR L055
+I think he was seeing Vascular Surgery and they were going to possibly put in a stent.
+
+SECOND DOCTOR L055
+Uh-huh.
+
+PATIENT L055
+Yeah.
+
+FIRST DOCTOR L055
+Like the AVIs were like 0.65, they were kind of just like moderate and that's why they did the MRA.
+
+SECOND DOCTOR L055
+Okay, okay.  So that’s not unreasonable because the reason is I talk to the @@@ patient.  Sometimes the flow you're getting through this your own blood vessels is more than flow you're going to get through the stent.
+
+PATIENT L055
+Yeah.
+
+SECOND DOCTOR L055
+So they the stent was not superior to what already you had.  That's why they won't do the surgery.
+
+PATIENT L055
+Yeah.
+
+SECOND DOCTOR L055
+And then @@@ go then and do.  So that’s what we're going to do, referral to Ortho, get the plain imaging and then they’re most likely they’re going to order the MRI for you and there you go.
+
+PATIENT L055
+@@@.
+
+SECOND DOCTOR L055
+The other thing is you wanted the handicapped parking; you do not meet the qualification of handicapped parking.  This cane at this level doesn't count because people they use that @@@ forever.  They said you're able to walk 100 feet.
+
+PATIENT L055
+Who says that?
+
+SECOND DOCTOR L055
+The State Department.  100 feet, and a 100 feet is from there to there, from here and to that's from the beginning of this door to the end of the Ward and you perfectly can do that.  
+
+PATIENT L055
+@@@.
+
+SECOND DOCTOR L055
+Yeah I'm not going to sign it.
+
+PATIENT L055
+That's @@@.
+
+SECOND DOCTOR L055
+Okay, whoever has to sign it.
+
+PATIENT L055
+Yeah that's why @@@.
+
+SECOND DOCTOR L055
+Okay, @@@.
+
+PATIENT L055
+Are we finished so I can go cause I was @@@ I have someplace to get.
+
+SECOND DOCTOR L055
+Okay, no problem.
+
+PATIENT L055
+@@@.  
+
+FIRST DOCTOR L055
+Okay thanks DOCTOR.  So we're going to start with like x-rays of your shoulder and elbow.
+
+PATIENT L055
+Yeah, yeah.
+
+FIRST DOCTOR L055
+And they'll just call you for that.  I'll order that and then I'll reorder the eye drops okay.
+
+PATIENT L055
+Uh-huh.
+
+FIRST DOCTOR L055
+Um.
+
+PATIENT L055
+She talking about I don't need this plate.  See she's stuck on that bullshit.  I can't stand.
+
+FIRST DOCTOR L055
+And the ear drops.
+
+PATIENT L055
+I am pissed.
+
+FIRST DOCTOR L055
+So then hopefully the orthopedic people will call you but we're just going to establish some x-rays okay.
+
+PATIENT L055
+Yeah I need to get out of here man cause I feel my blood pressure going up now.
+
+FIRST DOCTOR L055
+Okay.
+
+PATIENT L055
+I am sick of that broad.  Just check me out so I can get my transportation and get the hell away from here.  @@@.  I asked them not to even, to take her off of my case period.  I don't want no, don’t bring her in on nothing @@@.
+
+FIRST DOCTOR L055
+I'd ask you to give this to @@@.
+
+PATIENT L055
+Oh and I got a call.  Can I change clinics then, because I don't want to have anything to do with her period.
+
+FIRST DOCTOR L055
+You can uh; you can ask if you'd like to change clinics, you're able to do that.
+
+PATIENT L055
+Yeah that's what I want to do.
+
+FIRST DOCTOR L055
+You want to do that?
+
+PATIENT L055
+Yeah, hang on to that cause I despise the bitch.  Did you sign me out already?
+
+FIRST DOCTOR L055
+Watch your mouth okay.  No swearing.
+
+PATIENT L055
+Come on then, I want to get away from you too.
+
+FIRST DOCTOR L055
+Now, we’re going this way.
+
+PATIENT L055
+Whole damn clinic.
+
+PATIENT LEAVES:  38:41.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275429
+TRANSACTION # 578-10-2-316-0103

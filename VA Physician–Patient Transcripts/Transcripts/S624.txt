@@ -1,0 +1,734 @@
+Date of Encounter:  @@/@@/@@   
+Time of Encounter:  @@@
+
+DOCTOR S624
+How are you sir? 
+
+PATIENT S624
+Finally got back, they had me all over the place.
+
+DOCTOR S624
+I know I saw you saw DOCTOR the last time you were here.
+
+PATIENT S624
+@@@ you or something.  They put me there.  No I didn't called @@@.  
+
+DOCTOR S624
+@@@ so have a seat.  Oh so how you doing?
+
+PATIENT S624
+Uh, like usual, you know.  Once you lose the @@@ you get the magnifying glass @@@.
+
+DOCTOR S624
+Alright so, how is the diabetes?
+
+PATIENT S624
+I don't have to worry about it, @@@ it's under control.
+
+DOCTOR S624
+Right.  How often do you test your sugars?
+
+PATIENT S624
+Well usually about once every three days.  Sometimes I'll go two weeks and if it's in danger or something's a little higher than I think it ought to be.
+
+DOCTOR S624
+Uh-huh.
+
+PATIENT S624
+Uh during different times, I've done it so much I know just what it should be at different times of the day.  I used to test it three times.
+
+DOCTOR S624
+Uh-huh.
+
+PATIENT S624
+I'll go ahead and do it each day one time.
+
+DOCTOR S624
+Okay.  What have you been getting recently?
+
+PATIENT S624
+It's usually between; it's higher now than it has been before but not much.  Uh it used to be between 80 something.  When I go on the starvation and get up in the morning, it used to be about 78, now over 87 but now it's usually between 87 and 100 and it kind of varies a little more.
+
+DOCTOR S624
+Okay.  Your uh, your hemoglobin A1c, the last one, was 5.8 that's perfect um.  
+
+PATIENT S624
+I know that uh.
+
+DOCTOR S624
+Great number.
+
+PATIENT S624
+Yes.
+
+DOCTOR S624
+You do have a little bit of protein in your urine.
+
+PATIENT S624
+Uh my deterioration, I had that before.
+
+DOCTOR S624
+Right.
+
+PATIENT S624
+But very little.  They're on the outside a bit?
+
+DOCTOR S624
+No, it's still very little um and we have you on the ACE inhibitor, the lisinopril so that's gonna slow that down as much as possible um.  Your creatinine, the measure of your kidney function is stable.
+
+PATIENT S624
+Yeah.
+
+DOCTOR S624
+So you know I think we're.
+
+PATIENT S624
+High or low or in the normal?
+
+DOCTOR S624
+Its 0.8, normal range.
+
+PATIENT S624
+It's.
+
+DOCTOR S624
+I'm good with that.  They told you about your prostate biopsy as well?
+
+PATIENT S624
+Yeah but I had a mother die and I was gone but uh you now I check it when I get on the website, I know about that.
+
+DOCTOR S624
+They put you on.
+
+PATIENT S624
+All 12 of them were negative.  I don't know if that means anything.  Just the minute they take the test you walk out the door and things change but uh.
+
+DOCTOR S624
+Right and uh so you know when they go in there and do that biopsy they essentially just stab it 12 times.
+
+PATIENT S624
+Yeah.
+
+DOCTOR S624
+To see if they can get something so you know they could have missed something but it's unlikely that they missed any significant prostate cancer.  Prostate cancer is usually a very slow growing thing so even if you had prostate cancer um you know it would be very unlikely that you have a highly malignant tumor.  So I would say following with the GU Clinic is probably the best thing.
+
+PATIENT S624
+We want to find out what's made the PSA go up.
+
+DOCTOR S624
+Right and there are a lot of things that can make the PSA go up.  How many times do you pee at night?
+
+PATIENT S624
+When sleeping?  Never.
+
+DOCTOR S624
+Never.  You can sleep through the whole night?
+
+PATIENT S624
+Oh yeah.
+
+DOCTOR S624
+Okay.  When you go to the bathroom can you start right away or do you have to wait?
+
+PATIENT S624
+No I'm fine now.
+
+DOCTOR S624
+Fine.
+
+PATIENT S624
+But I had, so I told the other doctor about it, she got me on, I requested the uh.
+
+DOCTOR S624
+Uh-huh.
+
+PATIENT S624
+Uh what the heck is that clinic?
+
+DOCTOR S624
+The Urology Clinic.
+
+PATIENT S624
+Yeah the Urology Clinic.
+
+DOCTOR S624
+Right, right, right.
+
+PATIENT S624
+And they put me on the and that's the last @@@ thing, peak and flow.
+
+DOCTOR S624
+Right.  
+
+PATIENT S624
+It's much better now.
+
+DOCTOR S624
+It could have, the elevation in your PSA could have all just been from prostate enlargement.  That could explain every bit of it.  The PSA.
+
+PATIENT S624
+But it's not that enlarged.
+
+DOCTOR S624
+Right, but the PSA is not um a perfect test.  It is not specific for prostate malignancy in any way so if your prostate is enlarged it can cause an elevation in your PSA and it could be totally normal so I think we should just 100% follow this and I don't think.  The only curative therapy would be to have your prostate removed and I don't think that's probably something we were looking for at this point.  Um August is when your next colonoscopy is right.
+
+PATIENT S624
+That's right I need a consult.
+
+DOCTOR S624
+Right.  You don't need a consult you just@@@.
+
+PATIENT S624
+Whey they called me.
+
+DOCTOR S624
+They said you need a consult?
+
+PATIENT S624
+I have to probably get a consult.
+
+DOCTOR S624
+I'll put it in, I'll put it in there and I'll write it on here.
+
+PATIENT S624
+Yeah want the order so but I mean.
+
+DOCTOR S624
+Right, right.  You need your.
+
+PATIENT S624
+Get that one @@@.
+
+DOCTOR S624
+12 months.  
+
+PATIENT S624
+Should I go up to the @@@ Clinic in the hospital?
+
+DOCTOR S624
+Right, right, right.  Um and how's the knee?
+
+PATIENT S624
+Oh it's been fine.
+
+DOCTOR S624
+Everything fine, no problems?
+
+PATIENT S624
+Yeah, yeah. 
+
+DOCTOR S624
+Both of them doing well?
+
+PATIENT S624
+They're all fine.
+
+DOCTOR S624
+Good, good.
+
+PATIENT S624
+Unless they want to fuse this, like they wanted to do my wrist, how's that.
+
+DOCTOR S624
+Your ankle?  I mean it looks good to me.  Are you still doing the martial arts?
+
+PATIENT S624
+Oh hell yes.  I was worn out @@@ six days a week now.
+
+DOCTOR S624
+Yeah your heart rate I remember your heart rate from last time.
+
+PATIENT S624
+Still is @@@ fall.
+
+DOCTOR S624
+Probably a sign of good health as opposed to a sign of anything bad.
+
+PATIENT S624
+Well when we're old all things are going bad you know.
+
+DOCTOR S624
+No.
+
+PATIENT S624
+@@@ alternative. I want to do, I wish she'd stop calling, they actually wanted to the colectomy @@@ and I says no, no, no, it's on the right hemisphere, so I said we'll do a right @@@.  Well I had no idea of the potential for the genetics.  
+
+DOCTOR S624
+Did you see them at UIC?
+
+PATIENT S624
+Uh yeah and they kind of, “You have to do” and I was “whoa, no, no, no, no, no, no, no, no.  I'll think about it.”
+
+DOCTOR S624
+Did you get your genetic testing done?
+
+PATIENT S624
+No I never did it.
+
+DOCTOR S624
+Okay.
+
+PATIENT S624
+Not cause I @@@ but but, nobody sits there and tells me what I'm gonna do.  It's not an exact science.
+
+DOCTOR S624
+Right, right.  And that's, I mean that's fair enough that obviously your decision.  That's not a small surgery so.
+
+PATIENT S624
+I know, @@@ alternative to the normal and @@@.
+
+DOCTOR S624
+Fine we'll have you see the gastroenterologist again and I guess they'll take another look and you know we can go from there.
+
+PATIENT S624
+@@@.
+
+DOCTOR S624
+Right uh do you need refills of any medications?
+
+PATIENT S624
+Just be sure to check the uh, the uh, the uh oh man let me get the thought, yeah the new stuff they're giving me uh the ACE inhibitor.
+
+DOCTOR S624
+You have two refills left.
+
+PATIENT S624
+Oh I do have refills on the bottles?
+
+DOCTOR S624
+Yeah.
+
+PATIENT S624
+I never looked.
+
+DOCTOR S624
+Yeah.
+
+PATIENT S624
+Cause I @@@.  It seems to be working.  The only thing that's kind of embarrassing that I'm dealing with is I'm still getting blood though when I have sex, you know from the.
+
+DOCTOR S624
+Uh-huh.
+
+PATIENT S624
+@@@.
+
+DOCTOR S624
+When did that start?
+
+PATIENT S624
+Beg pardon?
+
+DOCTOR S624
+When did it start?
+
+PATIENT S624
+Oh man it didn't start till about three days or something like that after I got home.
+
+DOCTOR S624
+After the biopsy?
+
+PATIENT S624
+Yeah, yeah, yeah, yeah, yeah.
+
+DOCTOR S624
+And has it improved?
+
+PATIENT S624
+Hmm I don't know uh.  My partner wouldn't be too happy.  @@@.
+
+DOCTOR S624
+But I mean is the amount of blood getting more or less?
+
+PATIENT S624
+Yeah it's getting less @@@ it's starting to clot you know.
+
+DOCTOR S624
+Okay.
+
+PATIENT S624
+Something like that but I thought it was about two or three weeks sometimes a lot so.
+
+DOCTOR S624
+Right.
+
+PATIENT S624
+I wanted to let you know about it.
+
+DOCTOR S624
+Yeah and that's, no that's good and have you seen the urologist since then?
+
+PATIENT S624
+No.
+
+DOCTOR S624
+No okay.  You may, I mean obviously you know it happened after the biopsy, it's.
+
+PATIENT S624
+Yeah @@@.
+
+DOCTOR S624
+It's due to the biopsy.
+
+PATIENT S624
+Yeah.
+
+DOCTOR S624
+And your biopsy was how long ago?
+
+PATIENT S624
+Oh man I can't remember.
+
+DOCTOR S624
+It was in April on the 27th.
+
+PATIENT S624
+Yeah I knew it wasn't too long.
+
+DOCTOR S624
+So we're looking at about 30 days ago, no 20 days ago.  I would give it some time.  If it doesn't clear up, you need to be seen by the urologist.
+
+PATIENT S624
+If it gets worse I'll holler.
+
+DOCTOR S624
+If it gets worse you need to come in.
+
+PATIENT S624
+Yeah.
+
+DOCTOR S624
+If it doesn't clear up in a week or two you need to be seen by the urologist okay.
+
+PATIENT S624
+Guess what I got.  I winked at him and I said hey how about you do something for me, I love these new procedures I haven't seen them.  When I was in school I didn't have what they got now.  Give me uh a sonar picture of me.
+
+DOCTOR S624
+Oh your prostate.
+
+PATIENT S624
+It was cool man @@@.
+
+DOCTOR S624
+Could you see anything?
+
+PATIENT S624
+No.
+
+DOCTOR S624
+Sometimes those ultrasounds are hard to read.
+
+PATIENT S624
+No, they're very easy, very distinct and clear.  I was cleaned out @@@ so I could see all that.
+
+DOCTOR S624
+Alright.
+
+PATIENT S624
+There is something else I need to ask you.  I think everything's alright um.  Sometimes the alpha blocker works good, other times it hesitates and then with the flow.  I normally @@@.
+
+DOCTOR S624
+Uh-huh.
+
+PATIENT S624
+But I'll always have the bladder completely empty anyway.
+
+DOCTOR S624
+Uh-huh.
+
+PATIENT S624
+After I urinate, except it took longer and I wanted to jump on that, before it got worse.
+
+DOCTOR S624
+Good.
+
+PATIENT S624
+Uh sometimes it'll cut down sometimes it'll be alright.
+
+DOCTOR S624
+Uh-huh.
+
+PATIENT S624
+The majority is better you know but I don't think there's anything else.
+
+DOCTOR S624
+Sounds good.  Let me take a listen to you real quick.  Deep breath.  Cough for me.  How much are you smoking?
+
+PATIENT S624
+No more than @@@.  I had one in November and then one in December.  Normally a pack will last me a month or more.  Probably about three a week, when I was down there but I just got back on Monday.
+
+DOCTOR S624
+So right now a pack will last you a month?
+
+PATIENT S624
+Oh yeah for a long time.  I've been smoking about three weeks.  You know when I was down there, my mom died in November and my brother and I had been smoking about three cigarettes a week.
+
+DOCTOR S624
+Okay.
+
+PATIENT S624
+But more, I mean you can't do that with martial arts obviously.
+
+DOCTOR S624
+Alright.
+
+PATIENT S624
+Hard truth on the right, no wheezing or rales would be good in the lung right?
+
+DOCTOR S624
+Heart sounded great.  I think the most important thing is the fact that you live with a heart rate of 47.
+
+PATIENT S624
+So I'll live longer.
+
+DOCTOR S624
+Exactly.  That's a sign of good heart health in someone your age.
+
+PATIENT S624
+How about breathing control, its natural now, I feel normal.
+
+DOCTOR S624
+Pardon me?
+
+PATIENT S624
+Breathing control.
+
+DOCTOR S624
+Breathing control.
+
+PATIENT S624
+Through martial arts.
+
+DOCTOR S624
+Oh.
+
+PATIENT S624
+It just normally drops everything.
+
+DOCTOR S624
+Uh-huh.
+
+PATIENT S624
+So I don't know.
+
+DOCTOR S624
+It's working for you.
+
+PATIENT S624
+I don't know if that's cheating my health or not you know.
+
+DOCTOR S624
+I think it's probably helping more than anything alright.
+
+PATIENT S624
+Yeah.
+
+DOCTOR S624
+Let me go talk to uh DOCTOR and we'll get you moving alright.  Good to see you again.
+
+PATIENT S624
+DOCTOR’S not here today.
+
+DOCTOR S624
+Well he wasn't here earlier.  I don't know if he's going to be in later today or not.  He's a busy guy.  He has a lot of meetings.  
+
+PATIENT S624
+@@@.
+
+DOCTOR S624
+He does, he uh is one of the deans at the medical college so he's involved in a lot.
+
+PATIENT S624
+He took that over?
+
+DOCTOR S624
+@@@ right.
+
+PATIENT S624
+He always had it.
+
+DOCTOR S624
+Um he used to be really high up cause he's a dual board certified in medicine and pediatrics.  He used to be one of the big guys in the Pediatric Department but now he's kind of transitioned to one of the deans of the whole medical school so.  He's always moving onward and upward.
+
+PATIENT S624
+Sort of DOCTOR.  Looks like @@@ about COPD @@@.
+
+DOCTOR S624
+Pardon me?
+
+PATIENT S624
+You heard the COPD a little more didn't you.
+
+DOCTOR S624
+So you can't really hear it more um.  You are wheezing a little and you can kind of hear when you cough that it's hard for you to get stuff up and that's from your COPD.  That'll probably never get better.  There's only two things that make people with COPD live longer.  One is oxygen if they need it, home oxygen when it gets bad and the other is quitting smoking so.  We can treat your symptoms with all of our medications but the only things that really work.
+
+PATIENT S624
+It's been a long time since I had a pulmonary test but uh you know.
+
+DOCTOR S624
+Yeah um I don't think we need to retest it and here's why.  All of the martial arts and stuff that you do, if you aren't complaining of shortness of breath then your COPD is controlled alright.
+
+PATIENT S624
+Okay so I have no problem.
+
+DOCTOR S624
+Yeah.  I think the best thing would be for you to quit smoking so.  The most you can do for that.  Have you seen the Smoking Cessation Clinic here?
+
+PATIENT S624
+I used to do that stuff.
+
+DOCTOR S624
+Yeah.
+
+PATIENT S624
+I initiated it.  Even with hypnosis I'm good at it.  I don't want to do that anymore, I'm retired you know.
+
+DOCTOR S624
+Right.  It's just an option.
+
+PATIENT S624
+Most of the time when I smoke three or four cigarettes is because I'm on the computer and sits there and burns then and I look over and say I ain't got a cigarettes so I light another one and burn it rather than smoke it.
+
+DOCTOR S624
+Okay, alright.  I'll be right back.
+
+PATIENT S624
+Thank you.
+
+DOCTOR S624
+Yep.
+
+(DOCTOR OUT: 17:31  DOCTOR IN: 30:20)
+
+PATIENT S624
+You still have a year left right?
+
+DOCTOR S624
+I have just over two years left.
+
+PATIENT S624
+Good so.
+
+DOCTOR S624
+Yeah hopefully you should be able to see me every time you come in.
+
+PATIENT S624
+And what I was going to ask you was if you uh see any changes in my uh lab work, let me know up or down.
+
+DOCTOR S624
+I certainly will.
+
+PATIENT S624
+And if you know anything I can do to improve what I'm doing uh let me know and I'll jump right on it.
+
+DOCTOR S624
+So.
+
+PATIENT S624
+@@@.
+
+DOCTOR S624
+The um, the things to be concerned about right now are the diabetes and your kidneys.  So your glucose control is great, probably some of the best I have of any of my patients and the most important thing with the progression of diabetic kidney disease is blood pressure control.  Your blood pressure is very well controlled so I'm not concerned at all right now.
+
+PATIENT S624
+@@@.
+
+DOCTOR S624
+Your diabetic kidney disease will progress.  There's nothing we can do to stop it from progressing but you are, 64.
+
+PATIENT S624
+64 last June.
+
+DOCTOR S624
+In June.
+
+PATIENT S624
+Yep.
+
+DOCTOR S624
+This will likely progress slowly enough that you will die of something else before you know we need to do dialysis or something.
+
+PATIENT S624
+Well when I first found out, I had nobody in the family with diabetes so that's Agent Orange crap.
+
+DOCTOR S624
+Uh-huh.
+
+PATIENT S624
+And it come up on a normal blood test and when I got home the Emergency Room called me and said you got a blood sugar level of 900 get in here, I don't know how you're even walking and I found out about it.  Well uh after I found that out I was able to you know I eat, whatever most people @@@ to what they eat, I just want it somewhere in the range, @@@.  Uh you know most people don't know that that's how they tell the deterioration of the kidneys is that flow change.
+
+DOCTOR S624
+Uh-huh.  Alright so you can come back and see me in four months.  We'll get your scope done in August and I don't think either of these appointments need to be scheduled today.  They'll send you the letters for both of them.
+
+PATIENT S624
+Later on.
+
+DOCTOR S624
+You should be getting a letter before too long for the optometrist.
+
+PATIENT S624
+Good, good, good.
+
+DOCTOR S624
+End of June is when you I think was when your last one was so you need to see them once a year so that'll be when your next one is.
+
+PATIENT S624
+Now let me, they do this system now and it sucks @@@ from now.
+
+DOCTOR S624
+Right. I agree.
+
+PATIENT S624
+If the appointment is in for a year I have no idea when you're gonna have it.  I mean we got to change that.  Thank you so much.
+
+DOCTOR S624
+You're welcome.
+
+PATIENT S624
+You I'm really happy to be your patient.
+
+DOCTOR S624
+Thank you.  You're one of my favorite patients.  You're doing well under the circumstances.
+
+PATIENT S624
+Of course when I walk out this door, anything can happen you know.
+
+DOCTOR S624
+Let's hope it doesn't.
+
+PATIENT S624
+The ringing is only just for the minute they @@@.
+
+DOCTOR S624
+Take care sir.
+
+PATIENT S624
+This goes to the desk.
+
+DOCTOR S624
+Actually you don't have to take it to anyone because they'll mail you both of those.  You can only schedule appointments that are within the next 30 days at the desk so both of those will be scheduled and they'll mail you a letter.
+
+PATIENT S624
+They'll reschedule and send them to me.  Thank you very much.
+
+DOCTOR S624
+You're welcome, thank you.
+
+PATIENT S624
+Glad you gave me a copy of this, it's real precious.
+
+DOCTOR S624
+You're welcome.
+
+PATIENT S624
+Thank you.
+
+DOCTOR S624
+Yep, take care.
+
+PATIENT LEAVES:  33:54
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275405
+TRANSACTION # 578-10-2-316-0103

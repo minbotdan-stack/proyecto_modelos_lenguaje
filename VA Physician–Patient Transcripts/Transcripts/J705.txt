@@ -1,0 +1,1085 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR J705
+PATIENT?  Hi, nice to meet you.
+
+PATIENT J705
+I don't why but they gave me this thing right here.
+
+DOCTOR J705
+Okay. Oh, good.
+
+PATIENT J705
+I don't know why but I cooperate with them.
+
+DOCTOR J705
+Come on in.  I'm DOCTOR, it's nice to meet you.  
+
+PATIENT J705
+Thank you.
+
+DOCTOR J705
+I guess you met with DOCTOR before.
+
+PATIENT J705
+Yeah I know, don't remind me.  
+
+DOCTOR J705
+Oh okay.
+
+PATIENT J705
+Don't remind me.
+
+DOCTOR J705
+We won't.  Um how you doing today?
+
+PATIENT J705
+Fine.  Except for one thing that I got to itemize to start on Hospice.
+
+DOCTOR J705
+Say that again?
+
+PATIENT J705
+Hospice, I might not be pronouncing it right she's going to die.
+
+DOCTOR J705
+Oh Hospice.
+
+PATIENT J705
+Hospice okay I got it wrong.  Uh she's @@@.
+
+DOCTOR J705
+Oh.
+
+PATIENT J705
+And she's @@@ year. so what's going on.  I've been over the last few days; I'll probably more than likely go over there after I leave here.
+
+DOCTOR J705
+Sure.  
+
+PATIENT J705
+So that's what’s going on.  Oh I know I need to lose more weight cause see I've got prostate cancer.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+So for it's surgery I got to have.
+
+DOCTOR J705
+Yeah.  They said they want, so you're opting to take it all out right?
+
+PATIENT J705
+Yeah.  I’m not going to play with @@@.
+
+DOCTOR J705
+I can tell you I think that's a good choice.
+
+PATIENT J705
+See the only reason I put it off is because, see I thought I was gonna get a chance to work at the census a while but.
+
+DOCTOR J705
+Uh-huh.
+
+PATIENT J705
+I only got four days of training and then they canned me. Let's just say uh I accept a little responsibility but we just had one loud mouth that just would not be quiet and she can't put me with him.  They let's just say they was slightly bias on that.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+So okay, okay, so I didn’t get it because I was scared to come and have the surgery but when that opportunity came up, uh they it had not spreaded.
+
+DOCTOR J705
+Yeah, right.
+
+PATIENT J705
+But um, as a matter of fact after I leave from seeing you I'm going by the girlfriend and accept the appointment.
+
+DOCTOR J705
+Good, good, perfect, perfect.
+
+PATIENT J705
+But I don't know what they said in order to get my medication again.
+
+DOCTOR J705
+Yeah so let's talk about your medicines.
+
+PATIENT J705
+Yes ma'am.
+
+DOCTOR J705
+What medicine.
+
+PATIENT J705
+Oh as a matter of fact, oh I'm sorry, not to cut you off.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+Okay um I receive two things.  Now in order, what happened was I applied for the little hundred dollar stipend that they give.  I was only getting food stamps but I applied for SSI back in March of last year.
+
+DOCTOR J705
+Okay.
+
+PATIENT J705
+Okay they told me while I applied for SSI that I can go apply for the little hundred dollar spiker and the medical card.  I said I don't need the medical card I go to the VA but they said you got to apply for both.  So while I'm applying for SSI, @@@ hundred dollar stipend and I applied for that.  They denied me, I applied in May of last year and they denied me in about October or November and I appealed, and they said that I need to have this filled out.  I think this was.
+
+DOCTOR J705
+Yeah let’s take a look at it.
+
+PATIENT J705
+And when I talked to the Legal Aid uh she said that she need for you to make sure that you put down that I'm taking the three blood pressure medicines, that I'm taking the medicine for diabetes, I don’t know the cholesterol one.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+And albuterol, uh even though I only occasionally have it mess up on me for asthma.
+
+DOCTOR J705
+Uh-huh.
+
+PATIENT J705
+I guess that's about everything I can think of.
+
+DOCTOR J705
+Okay.  Alright so um we'll fill this out, okay.
+
+PATIENT J705
+Okay no problem.
+
+DOCTOR J705
+It's just we'll talk about your other stuff first.
+
+PATIENT J705
+Uh-huh yes ma'am.
+
+DOCTOR J705
+So tell me what blood pressure medicines are you taking right now?
+
+PATIENT J705
+Lisinopril.
+
+DOCTOR J705
+Uh-huh and do you remember the dose on that one?
+
+PATIENT J705
+No ma'am.
+
+DOCTOR J705
+Does 40 sound right to you?
+
+PATIENT J705
+It's @@@.
+
+DOCTOR J705
+Let's see what they've got you on.
+
+PATIENT J705
+Right, it might be in the neighborhood.
+
+DOCTOR J705
+@@@.
+
+PATIENT J705
+I'll have to be honest I just take it, I don't pay no attention.
+
+DOCTOR J705
+That's okay.
+
+PATIENT J705
+Atenolol.
+
+DOCTOR J705
+Uh-huh.
+
+PATIENT J705
+I take amlodipine.
+
+DOCTOR J705
+Okay amlodipine.
+
+PATIENT J705
+Amlodipine okay.
+
+DOCTOR J705
+Uh-huh.
+
+PATIENT J705
+Yes that's the three medications.
+
+DOCTOR J705
+And then the atenolol.
+
+PATIENT J705
+And I take the cholesterol pill.
+
+DOCTOR J705
+Yes.
+
+PATIENT J705
+Sim uh.
+
+DOCTOR J705
+Simvastatin?
+
+PATIENT J705
+Yeah I take that and I take a.
+
+DOCTOR J705
+You take half of it right?
+
+PATIENT J705
+Right, I like once in a while I'll take a full one but most of the time I split it and that's when I get lazy when I take a full.
+
+DOCTOR J705
+Uh and then um now for your diabetes you're taking the metformin.
+
+PATIENT J705
+Metformin.
+
+DOCTOR J705
+Metformin so it's 1000 mg twice a day right?
+
+PATIENT J705
+Right.
+
+DOCTOR J705
+Okay.
+
+PATIENT J705
+Sometimes I do, not do what I'm supposed to and take only one but that's not @@@.  What's the best time to take the metformin?
+
+DOCTOR J705
+So once in the morning and then once in the evening.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Whatever you want to do it.
+
+PATIENT J705
+So I'll make a point of that.
+
+DOCTOR J705
+Yeah.  Just take it before you know like once before breakfast and once before dinner.
+
+PATIENT J705
+Alright.
+
+DOCTOR J705
+That's the best way and then um you still taking the baby aspirin?
+
+PATIENT J705
+Yes for the blood thinner?
+
+DOCTOR J705
+Uh-huh.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Good.  So there is a couple things we ought to work on and um a lot of it is just to update some stuff you know.  Like we don't have a recent cholesterol on you so we should get it.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Okay and we don't have a recent, do you remember what a A1c is, the hemoglobin A1c?
+
+PATIENT J705
+No, the only people who have been taking blood.
+
+DOCTOR J705
+For the Urology huh?
+
+PATIENT J705
+Right.
+
+DOCTOR J705
+Yeah.  So the hemoglobin A1c, what it is is it's a measure of um what your average blood sugar is over a three month period so it's a little bit better than just checking the blood with the Accu-Cheks okay.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Um the lab shows, anybody with diabetes their goal is less than 7.  The last time we checked it on you was back in June of last year and it was 6.6.  I want to make sure that you're still doing okay with that okay.  
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+So we can check another one okay.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+In your blood.
+
+PATIENT J705
+No problem.
+
+DOCTOR J705
+And then the other thing I want to talk to you about is that do you feel like you're having any blurry vision or?
+
+PATIENT J705
+Well I need to wear glasses.  I'm not going to sit there and lie to you.
+
+DOCTOR J705
+Okay.
+
+PATIENT J705
+It's just that uh I @@@ not the best, I look like Dr. Clyde, that's not an excuse so when I get the ones they say get it.
+
+DOCTOR J705
+That's fine.  I want you to see the eye doctor anyway because the diabetes can affect your eyes you know and we got to make sure that it hasn't affected your okay.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+So um we'll put you in to see the eye doctor, the same thing is diabetes affects your feet as well so we'll get you in.
+
+PATIENT J705
+My feet?
+
+DOCTOR J705
+Uh-huh.
+
+PATIENT J705
+In what way?
+
+DOCTOR J705
+So uh what it's called, it's called peripheral neuropathy.  It could be tingling in your feet.  It could be where you're running into things and you're bumping into things and.
+
+PATIENT J705
+No.
+
+DOCTOR J705
+I'm sure @@@ on it but I didn't want um.
+
+PATIENT J705
+Well not when I might get up in the morning and I'm halfway groggy I'm like.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+@@@.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+But I don't know.
+
+DOCTOR J705
+That's good um and then, let's see one other thing.  So we'll get you in to see all those fun folks.
+
+PATIENT J705
+Uh-huh.
+
+DOCTOR J705
+It's just one of those things where you know you kind of have to keep up with it.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+And then the other thing is you know why don't, your potassium every once in a while, there's been a little bit on the lower side.
+
+PATIENT J705
+What do I need to do, banana?
+
+DOCTOR J705
+Bananas help.
+
+PATIENT J705
+I just can't eat bananas.  I.
+
+DOCTOR J705
+You don't like them?
+
+PATIENT J705
+No put it this way, they don't like me.
+
+DOCTOR J705
+Don't like you okay.
+
+PATIENT J705
+Yeah cause I remember when I was younger, what happened was when I was back in my late teens, yeah cause I wasn't in my 20s yet, uh I worked at a chain of restaurants called Chicken Unlimited.
+
+DOCTOR J705
+Okay.
+
+PATIENT J705
+And I would eat @@@ like they going out of style.
+
+DOCTOR J705
+Okay.
+
+PATIENT J705
+It got to the point where my stomach said I don't think so.  So I had to I mean and then if I wanted a lemon meringue pie, once I was eating watermelon and a stack of shrimp, uh the bananas.
+
+DOCTOR J705
+Uh-huh.  Okay, okay.  Well there's pills we can give you, we can give you potassium pills.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Okay.  Now my other question to you is um you were, have you ever had a colonoscopy?  Do you know what that is?
+
+PATIENT J705
+Refresh my memory.
+
+DOCTOR J705
+So it's where we basically, we're screening for colon cancer.
+
+PATIENT J705
+Wasn't that with a card?
+
+DOCTOR J705
+So that's for your stools to check for blood.
+
+PATIENT J705
+Okay, no okay, okay.
+
+DOCTOR J705
+This one is where we give you some medicine, makes you a little sleepy and then what we do is we take a camera and we take a look up your bottom and we take a look all the way through um and if we see anything we can go ahead and just right there and then we can take off the polyp.
+
+PATIENT J705
+I'm not gonna say no but I'm not so sure cause I never.
+
+DOCTOR J705
+You have all your stuff done here right?
+
+PATIENT J705
+Yes I don't go no where else.
+
+DOCTOR J705
+Okay and I don't see a referral for that so.
+
+PATIENT J705
+And it hasn't been any time recent.
+
+DOCTOR J705
+Yeah so um we recommend it to everybody over the age of 50.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Now is that something you're okay with?
+
+PATIENT J705
+I don't know.
+
+DOCTOR J705
+Okay.
+
+PATIENT J705
+You say that you're gonna have me on my side or on my stomach you gonna look up a rectum.
+
+DOCTOR J705
+Uh-huh.
+
+PATIENT J705
+And then worse come to worse what?
+
+DOCTOR J705
+So there's a couple things.  Usually for most people you look up there and you don't find anything.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+And you just repeat it in ten years.  You're good for ten years.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Some people they can have what are called polyps or little growths.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+And uh some of those polyps can turn into cancer.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+It's a very slow growing cancer so the reason we do it is that we take a look, we can take out the polyp and we can just look under the microscope.  If its cancer then you know we have lots of options, if it's not then we repeat it in five or ten years.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+I'll try it.
+
+DOCTOR J705
+So we'll do that.  You know, it's nothing that urgently needs to be done over the next few months you know.
+
+PATIENT J705
+Well should I have it done before or after my prostate cancer surgery?
+
+DOCTOR J705
+Uh that's up to you.  That's up to you.
+
+PATIENT J705
+Oh okay.  Alright, probably then I'll have it, let's see I should get the blood thinner thing uh well hmm.
+
+DOCTOR J705
+But if you want to wait till after that's fine too.
+
+PATIENT J705
+Okay so that's one of the other things you let me think about it.
+
+DOCTOR J705
+Okay why don't you think about it and then you can tell me next time okay.
+
+PATIENT J705
+Okay, that's good enough.
+
+DOCTOR J705
+Um and then yeah we should maybe check your cholesterol and what not.  Alright so let me take a listen to you and see how you sound.  Are you having any fevers, any chills, any pain?
+
+PATIENT J705
+No ma'am.
+
+DOCTOR J705
+Chest, back, breathing troubles?
+
+PATIENT J705
+No.
+
+DOCTOR J705
+Nothing like that.
+
+PATIENT J705
+Uh the only time my asthma acts up is when I get some change of weather here.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+It's very similar, exactly @@@.
+
+DOCTOR J705
+Good.  Deep breath.  Good now just breathe normal okay.  Now um has anybody told you about our MOVE Program here?
+
+PATIENT J705
+@@@ refresh @@@.
+
+DOCTOR J705
+No, so it's basically um a program that helps you with diet and exercises and losing weight.  Um now.  A couple of the patients that I've had have had excellent success with it.  Like one guy lost like 40 pounds, another one lost almost 100 pounds.
+
+PATIENT J705
+How long did it take him to lose?
+
+DOCTOR J705
+So, uh I think I'd say they lost the majority of their weight within the first like six months or so.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Yeah alright so um let me go find.
+
+PATIENT J705
+Alright.
+
+DOCTOR J705
+I could go show you, actually.
+
+PATIENT J705
+Is it a nutritionist?
+
+DOCTOR J705
+Um well it's a nutritionist who like will give you like the first appointment and then they'll set you up for the class.  I think it's worth checking out.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Okay, alright.  We can do that, alright.  Let me talk with my boss and see if she’s got anything to add and I'll be right back okay.
+
+PATIENT J705
+No problem.
+
+DOCTOR J705
+Alright.
+
+(DOCTOR OUT:  18:19  DOCTOR IN:  28:35)
+
+PATIENT J705
+Yes.
+
+SECOND DOCTOR J705
+Hi there.  I think we've slightly, we met this year.
+
+PATIENT J705
+Yes ma'am.
+
+SECOND DOCTOR J705
+When I was working for DOCTOR.  Nice to formerly meet you, I'm DOCTOR.
+
+PATIENT J705
+Yes ma'am.
+
+SECOND DOCTOR J705
+So DOCTOR was telling me that you were diagnosed with prostate cancer recently.
+
+PATIENT J705
+Uh last year.
+
+SECOND DOCTOR J705
+Last year okay.
+
+PATIENT J705
+Yeah.
+
+SECOND DOCTOR J705
+And they're just wanting to watch, they don't want to be aggressive about it at this point or?
+
+PATIENT J705
+Uh I think they caught it early.
+
+SECOND DOCTOR J705
+Okay.
+
+PATIENT J705
+Uh they wanted me to go on, like I said I put off.
+
+SECOND DOCTOR J705
+Having your prostate removed.
+
+PATIENT J705
+I put off the surgery earlier this year.  In fact @@@ I put it off. It’s the second time I’ve put it off.
+
+SECOND DOCTOR J705
+You know, I was just telling DOCTOR we were talking and you're such a young person that you really should get that.  If I were you or if you were my relative I would say you should have the surgery.
+
+PATIENT J705
+I'm gonna have the surgery.
+
+SECOND DOCTOR J705
+Yeah.
+
+PATIENT J705
+As a matter of fact I'm going to the urologist after I get through here.
+
+SECOND DOCTOR J705
+Okay.  So you have an appointment already?
+
+PATIENT J705
+Not with them yet, I had it but I didn't go through with it.
+
+SECOND DOCTOR J705
+Okay.
+
+PATIENT J705
+I was scheduled for the surgery.
+
+SECOND DOCTOR J705
+Okay.  Well I would say you know now.
+
+PATIENT J705
+I'm going back to have it done.
+
+SECOND DOCTOR J705
+Okay good because um you've got a lot of living to do.
+
+PATIENT J705
+I hope so.
+
+SECOND DOCTOR J705
+Usually the watching is fine, especially with older gentlemen because it's a slow growing cancer but you're a young person so you know it's better to be more aggressive early when you catch it because we don't want, you've got a lot of time left on this earth so uh I think yeah and you were just gonna talk to him about the potassium thing.
+
+FIRST DOCTOR J705
+Yeah.
+
+SECOND DOCTOR J705
+Um so no for colonoscopy right?
+
+FIRST DOCTOR J705
+Uh next time, next time sorry.
+
+SECOND DOCTOR J705
+Well it looks like you're in good hands.
+
+PATIENT J705
+Thank you ma'am.
+
+SECOND DOCTOR J705
+Just wanted to make sure to introduce myself, take care.
+
+PATIENT J705
+Okay.
+
+SECOND DOCTOR J705
+It's nice to see you.
+
+PATIENT J705
+Alright you too.
+
+FIRST DOCTOR J705
+Alrighty.  First things first um let's talk about your diabetes okay.  So what we're gonna do with the diabetes, we're not gonna change anything uh as far as your medicines.  But we are gonna check to see where you're at right now with it okay.  
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+So that includes the blood tests that we're checking of the A1c.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Uh and that's just a blood test so we'll do that and then we'll set you up to see our eye doctors.
+
+PATIENT J705
+Okay and then what's that other one that the nutritionist?
+
+DOCTOR J705
+Yeah I'll get you there just one second.
+
+PATIENT J705
+@@@.  Is it possible to do all this within this month huh?
+
+DOCTOR J705
+I think that's more on your schedule than anything else.
+
+PATIENT J705
+I don't know.  Only reason I say that I get reimbursed for my bus fare now they said you have to have, quote-unquote within the calendar month.
+
+DOCTOR J705
+Uh-huh.
+
+PATIENT J705
+So if I'm gonna do it I'd rather do it when I get reimbursed for it cause if I spread to like May.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+They probably say well you got x amount for April but you have four for May, I mean the four for April.
+
+DOCTOR J705
+Well you know it might not be, but I think you might be able to get it; there are so many clinics over here okay, so we'll do that for your diabetes.  We'll check your blood tests.  We'll go to the eye doctor; we'll go to the foot doctor.  
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Next is your potassium.  It is a little low right, just like we talked about and since bananas do not agree with you.
+
+PATIENT J705
+Naw.
+
+DOCTOR J705
+What I'd like to do is start you on just some potassium pills okay.
+
+PATIENT J705
+Good enough.
+
+DOCTOR J705
+Um so what it is it's called potassium chloride and it's a tablet and we're gonna start you off with a small baby a dose of just 20 that you take once a day.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Okay.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+And you take it daily and then next time you see me we'll give you um about three months’ worth okay and then when you see me uh we'll check your potassium.
+
+PATIENT J705
+You gonna be here for a while?
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+Good enough, so like I say check on when I want to see you again.
+
+DOCTOR J705
+I'll be here for a while okay.  Um do you want to pick these up at the window?
+
+PATIENT J705
+Yes ma'am I'll pick them up and then I think that the last blood pressure one.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+I am down to zippo.
+
+DOCTOR J705
+Which one?
+
+PATIENT J705
+Amlodipine.
+
+DOCTOR J705
+Amlodipine?  How long have you been out of it?
+
+PATIENT J705
+No I'm, well when I came the last time to the Pharmacy and they gave me, since I got a doctor's approval.
+
+DOCTOR J705
+Uh-huh.
+
+PATIENT J705
+I got 30 days worth if I remember correctly so that has ran out as of today.
+
+DOCTOR J705
+What now, oh you ran out today?
+
+PATIENT J705
+Yeah as far as the 30 today, in fact I had 30 days till I got to get to the doctors.
+
+DOCTOR J705
+Okay so you didn't actually miss a dose of it?
+
+PATIENT J705
+No.
+
+DOCTOR J705
+Okay, okay.  So here's the thing.  We've got to go up on something.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Because your blood pressure's high.  So how much of the Atenolol are you on?
+
+PATIENT J705
+Uh oh, see that's the bad thing.
+
+DOCTOR J705
+Are you on 75 or are you on 100, are you on 50?
+
+PATIENT J705
+Doc I'd be lying if I said I know the number the only thing I know is that I take them every day.
+
+DOCTOR J705
+Is it one pill you're taking?
+
+PATIENT J705
+One pill a day for atenolol, one pill a day for.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+Uh lisinopril and one pill a day for amlodipine.
+
+DOCTOR J705
+Yeah.  I think that you know when you came to up in the clinic.
+
+PATIENT J705
+But that was in August.
+
+DOCTOR J705
+With the nurse yeah, did you uh I know they wanted to increase it but did you actually do the increase though?
+
+PATIENT J705
+I'm like a zombie you know, I just say whatever.
+
+DOCTOR J705
+Yeah you're on 75 so let's bump you up to 100 and you can get those at the window.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Okay.
+
+PATIENT J705
+Uh I take @@@ cause remember the metformin.
+
+DOCTOR J705
+The metformin, yeah we'll refill all of them so don't worry about it.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Um.
+
+PATIENT J705
+And uh if I don't need it, the albuterol.
+
+DOCTOR J705
+Got those, got those.  Got these @@@.  Um and change your cholesterol one too.
+
+PATIENT J705
+I'm gonna try to exercise.
+
+DOCTOR J705
+We'll help you out with that.  Okay so, okay so this is that's what we'll do and then what I want you to do is I want you to come back and see me in about two months okay.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+And then at that time we can take a look at all of your tests again, see if there's anything else that needs to change okay.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+But I want you to come back to see the nurse in about two to four weeks just to get your blood pressure checked okay.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Make sure it's better and then lastly what is the best phone number to reach you at in case there's some issues?
+
+PATIENT J705
+NUMBER.
+
+DOCTOR J705
+Uh-huh.
+
+PATIENT J705
+NUMBER.
+
+DOCTOR J705
+Uh-huh.
+
+PATIENT J705
+NUMBER that's my cell phone.
+
+DOCTOR J705
+NUMBER okay.  Now if you don't hear from me that means that your blood work looks good, just keep going as is okay.  But I do, a couple of things that we need to do for you, I’ll put this here @@@.  So um if you @@@ about five minutes or so @@@.
+
+PATIENT J705
+I got an appointment there I can wait no it's just basically I heard you talking to her outside the door but basically, the only thing is that you filling it out.
+
+DOCTOR J705
+Yeah.
+
+PATIENT J705
+Or you don't know based on my case just reading is you know let these people know that I'm taking these different medications for.
+
+DOCTOR J705
+Yeah for something yeah.
+
+PATIENT J705
+Right.
+
+DOCTOR J705
+Um and so why don't we walk you over to the MOVE Program.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+So that that way they can get you started.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+And then on your way back, stop here, knock on my door and we'll @@@.
+
+PATIENT J705
+Okay sound like a winner.
+
+DOCTOR J705
+So you got everything?
+
+PATIENT J705
+I think so; I didn't do nothing else but this.
+
+DOCTOR J705
+Alright @@@.  We'll get you a head start on this.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+In the MOVE Program.  @@@.  Okay.  And then you're supposed to come back to see me @@@.  This is a hot spot so I'll @@@.
+
+PATIENT J705
+Okay.  No it can stay on, it won't bother me.
+
+DOCTOR J705
+No I'm okay now.
+
+PATIENT J705
+It wouldn't bother me.
+
+DOCTOR J705
+I could leave it on 24 hours a day.
+
+PATIENT J705
+It wouldn't bother me at all.
+
+DOCTOR J705
+Uh-huh.
+
+(Patient visits with MOVE Program person)
+
+PATIENT J705
+Yeah she just had me sign up for her class.
+
+DOCTOR J705
+Oh good, good.
+
+PATIENT J705
+I'm sorry.
+
+DOCTOR J705
+Alright here you go.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Alright take care okay.
+
+PATIENT J705
+Now we're going to where I go to draw blood?
+
+DOCTOR J705
+Yes uh-huh.
+
+PATIENT J705
+Okay.
+
+DOCTOR J705
+Get your blood @@@.
+
+PATIENT J705
+Okay thank you.  Have a good one.  Uh doc did you have down here that I take all these different medications?
+
+DOCTOR J705
+Yes uh-huh.
+
+PATIENT J705
+I just wanted to make sure I have the record on it.  Thank you.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275386
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,605 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@@ 
+
+DOCTOR P441 
+PATIENT.
+
+PATIENT P441
+Yes sir.
+
+DOCTOR P441
+@@@.  I think I saw you around...
+
+PATIENT P441
+Yeah.
+
+DOCTOR P441
+…in November.
+
+PATIENT P441
+Exactly.
+
+DOCTOR P441
+Something like that.  Right back here.  Have a seat.  And what brings you in here today?
+
+PATIENT P441
+Um I was scheduled for an appointment.
+
+DOCTOR P441
+Regular appointment alright.  So what uh, so we keep an eye on people, see how they're doing?
+
+PATIENT P441
+Right.
+
+DOCTOR P441
+So anything been bothering you lately?
+
+PATIENT P441
+My feet and my eyes.
+
+DOCTOR P441
+What bothers you about your feet and your eyes?
+
+PATIENT P441
+Um I got some @@@.  But @@@, right here and problems for months @@@.  Also like I'll wake up in the morning um, the bottom of my feet @@@.
+
+DOCTOR P441
+Okay.
+
+PATIENT P441
+Just I mean its like these are the only shoes that are comfortable that I can walk; you know what I'm saying.  Uh but it's just.
+
+DOCTOR P441
+Okay.  Uh then you notice there's something there.
+
+PATIENT P441
+Okay um, beside the fact that I have, like a bunion thing right here.
+
+DOCTOR P441
+Okay.
+
+PATIENT P441
+The ball of my foot on both foots, like a little thing, I been coming here, they been cutting them off, @@@ give me um a moisturizer to put on there now.
+
+DOCTOR P441
+@@@.
+
+PATIENT P441
+But it still comes back.
+
+DOCTOR P441
+Okay.
+
+PATIENT P441
+So I don't know if it's the shoes or whatever like that but also besides that, like I say when I wake up in the morning time, my feet feel like @@@.  Now you talk about you know the vitamin thing @@@.  Get @@@ like or whatever, it just kills me.  I walk tender foot.
+
+DOCTOR P441
+Uh do you feel like you're kind of on pins and needles?
+
+PATIENT P441
+Not pins and needles just pain.
+
+DOCTOR P441
+Yeah. Pain.
+
+PATIENT P441
+@@@ and the my eyes are bothering me, my eyes but.
+
+DOCTOR P441
+And how long has this been going on?
+
+PATIENT P441
+A long time.  Um it comes and it goes you know I guess it just comes and goes so.  It mostly comes.
+
+DOCTOR P441
+Alright.
+
+PATIENT P441
+Two out of three days it'll be there.  I'm not to the point where I stumble @@@ but you know like I said right now, I got to @@@ you know.
+
+DOCTOR P441
+Okay.  Alright uh.  Do you have any numbness in your feet?
+
+PATIENT P441
+No no numbness.
+
+DOCTOR P441
+Just kind of pain.
+
+PATIENT P441
+Uh-huh.
+
+DOCTOR P441
+Okay.  And the pain is it a sharp pain, burning pain, aching pain?
+
+PATIENT P441
+Aching pain.
+
+DOCTOR P441
+Aching pain okay.
+
+PATIENT P441
+And it goes, you know, it goes but @@@ combined with you know the burning type pain you know.
+
+DOCTOR P441
+Right.  How long does it last in the morning?
+
+PATIENT P441
+I would say 15 to 45 minutes.
+
+DOCTOR P441
+Okay.  Yeah.
+
+PATIENT P441
+About 30 minutes.  It goes away in about 30 minutes.
+
+DOCTOR P441
+Any pain in your hands?
+
+PATIENT P441
+No, no sir.
+
+DOCTOR P441
+Like throughout the day does it hurt again or is it mostly just in the morning?
+
+PATIENT P441
+Just mostly in the morning.
+
+DOCTOR P441
+And it lasts about 45 minutes, 30, 45 minutes okay.
+
+PATIENT P441
+Right.
+
+DOCTOR P441
+Okay and how long would say this has been going on?
+
+PATIENT P441
+Hmm uh I'd say about a year or so.
+
+DOCTOR P441
+Any weakness that you notice in your legs?
+
+PATIENT P441
+No, can't think of any.
+
+DOCTOR P441
+Okay and what has been bothering you about the eyes?
+
+PATIENT P441
+Um just blurry as far as reading.
+
+DOCTOR P441
+Okay.  Uh it's tough to read.
+
+PATIENT P441
+Right.
+
+DOCTOR P441
+Um as far as your vision.
+
+PATIENT P441
+My vision's okay it's just.
+
+DOCTOR P441
+When you read.
+
+PATIENT P441
+Right I guess @@@.
+
+DOCTOR P441
+Okay so if you look at the wall there you can't read the stuff?
+
+PATIENT P441
+I can read, just I'd like to read everything in here.
+
+DOCTOR P441
+Just when you read close.
+
+PATIENT P441
+Exactly.
+
+DOCTOR P441
+Um yeah it sounds very typical of.
+
+PATIENT P441
+Right I'm looking now, I can read everything in here just.
+
+DOCTOR P441
+If you're reading this, do you have to hold it out like this?
+
+PATIENT P441
+Right, right yeah.
+
+DOCTOR P441
+Yeah.
+
+PATIENT P441
+It's actually clear here.  And thanks for seeing me cause I was late.
+
+DOCTOR P441
+Yeah that's okay.  Uh sometimes it's a real busy day and you come in late it's tough to squeeze you in, today uh we were able to make it happen so.  We try to see you if we can.  And you went to, you've been in therapy is that right, from the previous cocaine stuff?
+
+PATIENT P441
+Yes.
+
+DOCTOR P441
+That went okay.
+
+PATIENT P441
+Yes.
+
+DOCTOR P441
+Completed the treatment I understand.
+
+PATIENT P441
+Right.
+
+DOCTOR P441
+Any problems with temptation recently?
+
+PATIENT P441
+Yeah there's a little temptation here and there.
+
+DOCTOR P441
+Any use?
+
+PATIENT P441
+I'm not gonna lie, yeah.
+
+DOCTOR P441
+Okay.
+
+PATIENT P441
+Yes.
+
+DOCTOR P441
+When was the last time you used?
+
+PATIENT P441
+Uh over the weekend about Saturday night.
+
+DOCTOR P441
+Okay.  And um, is there anything we can do to try to keep that from happening again?
+
+PATIENT P441
+I would like to get back into the protocol, they call it, the ATP.
+
+DOCTOR P441
+Okay.
+
+PATIENT P441
+If I can.
+
+DOCTOR P441
+Alright and they've seen you before so I think you can just go and schedule a.
+
+PATIENT P441
+Right.
+
+DOCTOR P441
+Schedule with them, I'd recommend that you do that.
+
+PATIENT P441
+Okay.
+
+DOCTOR P441
+We definitely um, definitely want to get that um, get you to see them again and make sure we're doing everything we can.
+
+PATIENT P441
+Thank you @@@.
+
+DOCTOR P441
+And uh that's something that's gonna affect your health in addition to, you know we're worried about your health but it being illegal we don't really care so much about but.
+
+PATIENT P441
+Uh @@@.
+
+DOCTOR P441
+But it does cause health problem so we need to try to get you off of that, cocaine.  About how frequently have you been using it?
+
+PATIENT P441
+I'd say about once or twice a week.
+
+DOCTOR P441
+And the last time I saw you was maybe December or January.
+
+PATIENT P441
+It was in November actually.
+
+DOCTOR P441
+In November, the end of November that I saw you the last time um and then when did you restart?
+
+PATIENT P441
+I started about a month ago.
+
+DOCTOR P441
+Okay so you had some time where you were able to avoid it um.
+
+PATIENT P441
+But um the program I was in was a good program cause you know it showed @@@ you know it was like bad shape @@@.  I feel better that I did you know did a program and um it was a good program and I was just, you know boredom or whatever I you know I slipped in there but I have @@@ changed @@@ after the program.  So instead of every day it's like once or twice a week you know.  That's still not good but it's slowly down over 75%.
+
+DOCTOR P441
+That's good and I think and actually to get you off of it again and keep you off of it.
+
+PATIENT P441
+Yeah.
+
+DOCTOR P441
+So hopefully working with them again will hopefully get you there um.  
+
+PATIENT P441
+Laughing to myself, you know, the me, myself and I. The eyes don't lie you know.
+
+DOCTOR P441
+Uh-huh.
+
+PATIENT P441
+And @@@.
+
+DOCTOR P441
+@@@.
+
+PATIENT P441
+It was the eyes.  Uh really because you're a doctor though, come on man.
+
+DOCTOR P441
+Uh you know uh we want what's best for you.
+
+PATIENT P441
+Yes.
+
+DOCTOR P441
+And to do that we need to know the truth and even if you say, even if you don't do what we tell you, we want to know about it.
+
+PATIENT P441
+Right.
+
+DOCTOR P441
+Make sure that we can do everything we can.
+
+PATIENT P441
+Right, right.
+
+DOCTOR P441
+Your care so.  We uh, we're not here to pass any judgment.
+
+PATIENT P441
+Right.
+
+DOCTOR P441
+We'll just give you advice.  That's what we do.  We'll give you advice and if you take it that's great.
+
+PATIENT P441
+I appreciate the whole VA System and everything like that but um I mean the friends of mine, they don't have, they don't have the options that I have.
+
+DOCTOR P441
+Uh-huh.
+
+PATIENT P441
+So.  Um I've been @@@ since 86 and actually this is the first time I've been using it, the program.  I had a tooth pulled back in '91 but aside that I don't know, I @@@.  I wish I knew more about it then. 
+
+DOCTOR P441
+Uh let's see.  So it looks like uh you never got the colonoscopy, it looks like.
+
+PATIENT P441
+No sir.
+
+DOCTOR P441
+Um is that something you wanted to do now or do you want to hold off for now?
+
+PATIENT P441
+I'd be willing to do that.
+
+DOCTOR P441
+Alright we'll put it back in.
+
+PATIENT P441
+Is that recommended or?
+
+DOCTOR P441
+Yeah so the reason we do it is because um, once you get above 50 your risk of colon cancer is increased and uh this is the way we can see it early, treat it.  Sometimes it's something small, which usually it is, if we see you regularly they can just take it out and then that'll be the end of it.  Um whereas if it becomes something that we miss um you know maybe you'd be able to go for you know maybe you wouldn't get it during your lifetime and wouldn't have any problems but it you would then it would become advanced and then that causes more problems and it's been shown to be effective in taking care of it early on.  Uh can I take a look at your feet?  Take your shoes and socks off.  Set things up.
+
+PATIENT P441
+I've got the pain right here.  
+
+DOCTOR P441
+Okay.  Where is the pain mostly in the morning?
+
+PATIENT P441
+On most of the morning, it's right here.
+
+DOCTOR P441
+Oh through there.
+
+PATIENT P441
+Uh-huh.
+
+DOCTOR P441
+Okay.  Um I'm going to poke you with this, see if you can feel it.
+
+PATIENT P441
+I feel like a tapping.
+
+DOCTOR P441
+Yeah.
+
+PATIENT P441
+Yes sir.
+
+DOCTOR P441
+Feel that?
+
+PATIENT P441
+Yes sir.  Uh-huh.
+
+DOCTOR P441
+Feel it there?
+
+PATIENT P441
+Yes.
+
+DOCTOR P441
+And there?
+
+PATIENT P441
+Uh-huh.
+
+DOCTOR P441
+Feel back here?
+
+PATIENT P441
+Yes.
+
+DOCTOR P441
+Okay.  Okay down here?  Right there?
+
+PATIENT P441
+@@@.  It's on the bottom, who ah yes.
+
+DOCTOR P441
+Get that pain now?
+
+PATIENT P441
+Yes, oh yes.
+
+DOCTOR P441
+Okay it looks like, any pain in here?
+
+PATIENT P441
+No.
+
+DOCTOR P441
+Okay.  It looks like your pain is right over where you've got another one of those calluses.
+
+PATIENT P441
+Right.
+
+DOCTOR P441
+Um so we'll probably just continue with you seeing them and taking care of that.
+
+PATIENT P441
+Okay.
+
+DOCTOR P441
+I know they're growing back pretty quick but um.
+
+PATIENT P441
+You @@@.
+
+DOCTOR P441
+Oh just keep, the only way to.
+
+PATIENT P441
+Yeah right here.
+
+DOCTOR P441
+To fix it or the only way to understand what it is is take a look at it.
+
+PATIENT P441
+Yes sir.
+
+DOCTOR P441
+Um.  
+
+PATIENT P441
+@@@.
+
+DOCTOR P441
+Alright, I'll go talk to the boss and be back in a minute.
+
+(DOCTOR OUT:  26:23  DOCTOR IN:  29:35)
+
+DOCTOR P441
+PATIENT uh what we're gonna do is we'll have you keep seeing Podiatry.  Do you have an appointment with them yet?
+
+PATIENT P441
+I do, but I'm not sure of the exact time but you know.
+
+DOCTOR P441
+It looks like next month.
+
+PATIENT P441
+Okay.
+
+DOCTOR P441
+Next month.  Um and I'll put in a referral for the eye appointment today for you, not sure when that'll be and then I'll put in the order for a colonoscopy class.  
+
+PATIENT P441
+I was wondering would it be possible to get travel.
+
+DOCTOR P441
+So that I'm not totally sure how that works.  You can ask them.
+
+PATIENT P441
+Pick them up for today.
+
+DOCTOR P441
+For today uh not sure if they still do that.  You can ask them at the desk.  We'll check you out so you know you had an appointment here.
+
+PATIENT P441
+Yeah.
+
+DOCTOR P441
+Um but I'm not sure exactly uh, not sure exactly how that works now.  @@@.  They may be used to, I'm not sure if they still do, I'm gonna totally sure to be honest.  Do you use tobacco?
+
+PATIENT P441
+Yeah, I smoke.
+
+DOCTOR P441
+How much do you smoke?
+
+PATIENT P441
+Oh about a pack a week, about two cigarettes a day.
+
+DOCTOR P441
+And any alcohol use?
+
+PATIENT P441
+No.
+
+DOCTOR P441
+And you haven't had any surgeries in the past is that right?
+
+PATIENT P441
+No.
+
+DOCTOR P441
+Alright so they will uh call you about getting, they can have you come and talk to the nurse and then they give you the medication for the uh, that you have to take before the colonoscopy.
+
+PATIENT P441
+Okay.
+
+DOCTOR P441
+Okay.  And um and they'll make you an appointment in the Eye Clinic in a couple weeks hopefully and we'll see you in about six months.
+
+PATIENT P441
+Okay.
+
+DOCTOR P441
+Alright.
+
+PATIENT P441
+Yes sir.
+
+DOCTOR P441
+Alright take care, that's it.
+
+PATIENT P441
+@@@.
+
+DOCTOR P441
+@@@.
+
+PATIENT P441
+Okay.  Have a good day.
+
+DOCTOR P441
+You too.
+
+PATIENT LEAVES:  33:45
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286136
+TRANSACTION # 578-10-2-316-0103

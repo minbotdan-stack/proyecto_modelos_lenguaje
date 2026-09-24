@@ -1,0 +1,635 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+PATIENT Y477
+Yes.  Good morning, how are you?
+
+DOCTOR Y477
+Good, how are you?
+
+PATIENT Y477
+Terrific thank you.
+
+DOCTOR Y477
+So you had the colonoscopy.
+
+PATIENT Y477
+Yes.
+
+DOCTOR Y477
+Everything went well?  As far as you know.
+
+PATIENT Y477
+Yeah they sent me a a letter and uh everything's fine.
+
+DOCTOR Y477
+Good news. Um, anything else bring you in today?
+
+PATIENT Y477
+Nope.
+
+DOCTOR Y477
+I'm seeing all the patients that I saw on the same day in my New Patient Clinic today.
+
+PATIENT Y477
+Okay.
+
+DOCTOR Y477
+So I'm like, I'm reviewing all these names that look super familiar to me because I've only @@@.  Are you supposed to see DOCTOR?
+
+PATIENT Y477
+No.
+
+DOCTOR Y477
+And you're gonna follow up here?
+
+PATIENT Y477
+Yes.
+
+DOCTOR Y477
+Most frequently.
+
+
+PATIENT Y477
+Yes, uh-huh.
+
+DOCTOR Y477
+And you are down to a pack a week of smoking?
+
+
+PATIENT Y477
+A right there.
+
+
+DOCTOR Y477
+Right there.
+
+
+PATIENT Y477
+I'm thinking, uh as of January 1 over.
+
+
+DOCTOR Y477
+You're over, okay.  What do you, do you want any help as well?
+
+
+PATIENT Y477
+No you gave me the gum.
+
+
+DOCTOR Y477
+I gave you the gum already.
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+But you just haven't used it yet.
+
+
+PATIENT Y477
+One, one day I used it.
+
+
+DOCTOR Y477
+(Laughter) Okay, so you'll continue to, your blood pressure is high today.
+
+
+PATIENT Y477
+Yeah I don't know why.
+
+
+DOCTOR Y477
+Um, well we can repeat it, we'll see.  @@@ is normal for you so hmm.  Okay.  @@@, it's a little high.  I’ll check @@@ okay?
+
+
+PATIENT Y477
+Okay, well I haven't been biking so, but I just bought a new, newer bike.
+
+
+DOCTOR Y477
+So you're normally on @@@ too.  I don't think I have the latitude really to really know.  Your white counts a little high but that might be normal for you, you know.
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+Everyone is a little different.  I think it's probably just something we'll have to watch um.  Kidney function looks good so, it can just be a matter of you know, modifying your medicines.  Your LDL is really low, like almost too low.
+
+
+PATIENT Y477
+Now what is that?
+
+
+DOCTOR Y477
+The LDL is the bad cholesterol.  I want it to be low but that's really low.
+
+
+PATIENT Y477
+Okay.
+
+
+DOCTOR Y477
+Um, your LFTs are, I remember looking at them before, were fine.  Let me check iron studies, you're not anemic.  Okay um, I have to check on, because of the colonoscopy that's why.
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+Okay and you're, oh you're on the, you're on Crestor.  We ordered simvastatin right.
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+Now you're on that.
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+Your hemoglobin A1c is high um, but I think we need to just recheck it today and how often are you, when is your next appointment with the Pharm-D?
+
+
+PATIENT Y477
+The Pharm-D?
+
+
+DOCTOR Y477
+Yeah.  The pharmacist.
+
+
+PATIENT Y477
+Oh, I just got my medication in last week, so probably not for another three months.
+
+
+DOCTOR Y477
+So they didn't change anything at that time though?
+
+
+PATIENT Y477
+No uh uh.
+
+
+DOCTOR Y477
+So we'll just recheck the hemoglobin A1c this time.
+
+
+PATIENT Y477
+Okay.
+
+
+DOCTOR Y477
+Get the labs right across the way then I’ll get them today, because of the holidays.
+
+
+PATIENT Y477
+Right, I understand.
+
+
+DOCTOR Y477
+I think the big thing we need to worry about is your blood pressure and why in the world it's so high.
+
+
+PATIENT Y477
+Uh probably because of inactivity.
+
+
+DOCTOR Y477
+Inactivity?
+
+
+PATIENT Y477
+I've just been walking the dog the short walks and uh I gotta start it again and with the holidays coming, I've been cheating a little bit.
+
+
+DOCTOR Y477
+Okay.
+
+
+PATIENT Y477
+More than a little bit.
+
+
+DOCTOR Y477
+Everything is supposed to be a little bit.  But I think what I probably would do is go up on your hydrochlorothiazide/lisinopril combo pill.  Um I don't want to go up on both medications at once, @@@ on this too.  Because I don't want to bottom you out either.
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+How have you been doing though, have you been feeling okay?
+
+
+PATIENT Y477
+Terrific.
+
+
+DOCTOR Y477
+No chest pain.
+
+
+PATIENT Y477
+No.
+
+
+DOCTOR Y477
+Or riding your last bike, do you feel great?
+
+
+PATIENT Y477
+Uh-huh, still do.
+
+
+DOCTOR Y477
+Still do, alright.  And January 1st, huh? You and the rest of America. (Laughter)
+
+
+PATIENT Y477
+Eh, why not, it's a target date.
+
+
+DOCTOR Y477
+Yeah.
+
+
+PATIENT Y477
+We'll see.
+
+
+DOCTOR Y477
+Go ahead and take a seat up there. I mean you are really, like you're at your correct weight.
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+And uh you're doing all those things correctly so.  So let's actually repeat your blood pressure and make sure that it's, you know high as what they're saying it is cause sometimes you know, just walking into the doctor's office, people shoot up (laughter).  Holiday season, I don't think it's very relaxing season, I don't know about you.
+
+
+PATIENT Y477
+Umm, @@@.
+
+
+DOCTOR Y477
+Yeah.  Alright.  You can actually relax your arm though.  Yeah I got higher so, it's high.  So, I don't know if I really want to go up on both cause what I could do is I could just double your combination pill right, cause you are only using one of those.
+
+PATIENT Y477
+Right.
+
+
+DOCTOR Y477
+Then kind of the max, the most effective dose of both of those pills is actually 25 and 40, which would be two of those tabs once a day.
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+Um, you know with your blood pressure being 150 um, I would be inclined to maybe either; I think you're probably safe doing that.  Do you have a blood pressure cuff at home?
+
+
+PATIENT Y477
+No I don't.
+
+
+DOCTOR Y477
+Okay, that's something we should also get you because if you were taking it and you feel lightheaded or funny, for you it can be one of two reasons right?
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+Either your sugar is low or your blood pressure is too low.
+
+
+PATIENT Y477
+Right.
+
+
+DOCTOR Y477
+So you can check your sugar and we should give you a way to check your blood pressure.
+
+
+PATIENT Y477
+Okay.
+
+
+DOCTOR Y477
+And then the reason why you're not exercising as much? 
+
+PATIENT Y477
+Because of the weather.
+
+
+DOCTOR Y477
+Because of the weather, are you an outside exerciser?
+
+PATIENT Y477
+I'm a biker.
+
+
+DOCTOR Y477
+Biker okay.
+
+
+PATIENT Y477
+Bicycle bike and I walk the dog 3-5 miles a day and now we're down to about one.
+
+
+DOCTOR Y477
+I think um, they have a program called MOVE that is supposed to help you with exercising and staying active.  Is it so much that  you don't know what to do or are you just @@@?.
+
+
+PATIENT Y477
+Oh I know what they do.
+
+
+DOCTOR Y477
+Kind a have been falling off the band wagon?
+
+
+PATIENT Y477
+I just, I just fell off is all.
+
+
+DOCTOR Y477
+Okay.
+
+
+PATIENT Y477
+Yeah I'll be back on it January 1.
+
+
+DOCTOR Y477
+So we need to get you back on there.  Um, if you drop a few pounds, start eating a little bit better.
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+Restrict your salt, I bet you probably won't need to increase the blood pressure medicine.
+
+
+PATIENT Y477
+Uh-huh. 
+
+
+DOCTOR Y477
+The last time you were here your blood pressure was fantastic.
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+So I'm a little bit um less inclined to you know go up so drastically so I might do is just add, um I might just separate your combo pills.
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+And just go up on one.
+
+
+PATIENT Y477
+Okay.
+
+DOCTOR Y477
+Both of them are just once a day pills.
+
+
+PATIENT Y477
+Right.
+
+
+DOCTOR Y477
+So it’ll just be multiple pills that you’ll be taking them once.
+
+
+PATIENT Y477
+Okay.
+
+
+DOCTOR Y477
+Okay?
+
+
+PATIENT Y477
+Okay.
+
+
+DOCTOR Y477
+I'll be right back.
+
+
+PATIENT Y477
+Alrighty.
+
+
+DOCTOR Y477
+Um did you get your flu shot?
+
+
+PATIENT Y477
+Yes, just had it uh about ten minutes ago.
+
+
+DOCTOR Y477
+And you just had it, okay and uh let me see.  @@@ up-to-date on your vaccinations?
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+Shingles shot.
+
+
+PATIENT Y477
+That I haven't had.
+
+
+DOCTOR Y477
+Let's do one @@@ for you.  Everything else looks good.
+
+
+PATIENT Y477
+Ha Ha.
+
+
+DOCTOR Y477
+Alright.  We decided to skip that @@@ for now.
+
+
+PATIENT Y477
+Right.
+
+
+DOCTOR Y477
+And not go looking for anything.
+
+
+PATIENT Y477
+Right.
+
+
+DOCTOR Y477
+But no urinary symptoms, no getting up a lot at night or?
+
+
+PATIENT Y477
+Uh uh.
+
+(DOCTOR OUT:  37:42  DOCTOR IN:  45:33)
+
+DOCTOR Y477
+Okay, @@@ perfect and I think you need @@@.  What we'll do is we'll just um we'll discontinue the combination pills.
+
+
+PATIENT Y477
+Okay.
+
+
+DOCTOR Y477
+And we'll order you just the lisinopril at 40.  Which is the better of the two for you to particularly because you are a diabetic.
+
+
+PATIENT Y477
+Okay.
+
+DOCTOR Y477 
+@@@.  Um yes we want you on an as high of Ace inhibitor as we can as it'll help @@@ kidneys.
+
+
+PATIENT Y477
+Okay.
+
+
+DOCTOR Y477
+So just one pill daily.  Do you want it mailed to you?
+
+
+PATIENT Y477
+Sure.
+
+
+DOCTOR Y477
+You can continue taking what you have now.
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+Since you don’t have a problem with it just once you get the new medication just switch over.
+
+
+PATIENT Y477
+Alright.
+
+
+DOCTOR Y477
+@@@.  You get a 90 day supply?
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+And then what else, oh.  I am going to get some blood work.  You know where the Lab is, you can just stop in there before you leave and get it done.
+
+
+PATIENT Y477
+Okay.
+
+
+DOCTOR Y477
+You don’t need an appointment so and then you can continue @@@ medications, come and see me again in three months.
+
+
+PATIENT Y477
+Not a problem.
+
+
+DOCTOR Y477
+Okay.  And then you know as I think I will, would you prefer I order the bloodwork so you can get it before your appointment, like maybe early in the morning.
+
+
+PATIENT Y477
+Yeah, uh-huh.
+
+
+DOCTOR Y477
+So I will order blood work prior to that appointment, okay?
+
+
+PATIENT Y477
+Uh-huh.
+
+
+DOCTOR Y477
+I’ll just go through your list @@@ okay?
+
+
+PATIENT Y477
+Okay, terrific.
+
+
+DOCTOR Y477
+Alright, so it's good to see you again and uh.
+
+
+PATIENT Y477
+@@@.
+
+
+DOCTOR Y477
+You too, just have fun.
+
+
+PATIENT Y477
+Thank you very much. 
+
+
+DOCTOR Y477
+You can just check-out.
+
+
+PATIENT Y477
+Okay, have a great time.
+
+
+DOCTOR Y477
+Uh-huh, bye.
+
+DOCTOR OUT:  48:09 
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1233984
+TRANSACTION # 578-10-2-316-0103

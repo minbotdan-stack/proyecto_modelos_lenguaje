@@ -1,0 +1,840 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR G777
+Hi I'm DOCTOR.  We met before.
+
+PATIENT G777
+Yeah. 
+
+DOCTOR G777
+It's been a while ago.
+
+PATIENT G777
+Yep.
+
+DOCTOR G777
+Have a seat.  How's everything going?
+
+PATIENT G777
+Well so far so good.
+
+DOCTOR G777
+So far, so good?
+
+PATIENT G777
+Except I got a lot of stiffness in my left side.
+
+DOCTOR G777
+Yeah.
+
+PATIENT G777
+It's been for about three or four days.
+
+DOCTOR G777
+Where is it?
+
+PATIENT G777
+From the neck down.  Its hard for me @@@.
+
+DOCTOR G777
+Do you know what brought that on?  Have you ever had it before?
+
+PATIENT G777
+Yes.
+
+DOCTOR G777
+What have you done to relieve this?
+
+PATIENT G777
+After a while it just went away.
+
+DOCTOR G777
+It just goes away.
+
+PATIENT G777
+I'll put a heating pad on it at night and take Tylenol.  I mean acetaminophen but that don't seem to be doing no good this time.
+
+DOCTOR G777
+Gotcha.  Are you having any fevers?
+
+PATIENT G777
+I don't think I did.
+
+DOCTOR G777
+Okay.  Any headaches?
+
+PATIENT G777
+No.
+
+DOCTOR G777
+Okay.  Um breathing okay with the oxygen?
+
+PATIENT G777
+Yeah.
+
+DOCTOR G777
+Using your inhalers?
+
+PATIENT G777
+Yep.
+
+DOCTOR G777
+Alright, good.  Are you smoking?
+
+PATIENT G777
+Oh no.
+
+DOCTOR G777
+Good.  Are you still taking the montelukast?
+
+PATIENT G777
+Yes.
+
+DOCTOR G777
+Good and you're on three liters of oxygen.  Is that what you've been on for a while?
+
+PATIENT G777
+Yes.
+
+DOCTOR G777
+Good.  Um do you need refills on your inhalers?  I think you just got refills on a lot of your meds.
+
+PATIENT G777
+All of my medications are set.
+
+DOCTOR G777
+Okay good.  How's the diabetes going?
+
+PATIENT G777
+Uh, I brought my chart in.
+
+DOCTOR G777
+Good.
+
+PATIENT G777
+Okay this last page, that's today's entry.
+
+DOCTOR G777
+Okay.
+
+PATIENT G777
+That's yesterday and the day before, and the day before.
+
+DOCTOR G777
+Uh when you have these low, these low glucoses in the 50s, do you feel it?
+
+PATIENT G777
+I felt them last night.
+
+DOCTOR G777
+You did, what time was that?
+
+PATIENT G777
+And the same this morning.  It was like it this morning, I feel so lightheaded.  I went downstairs and uh got me some glucose tablets.
+
+DOCTOR G777
+Okay.  
+
+PATIENT G777
+And so this morning when I checked my sugars it was 102.
+
+DOCTOR G777
+Okay.
+
+PATIENT G777
+So I know it was lower than that last night because like I said when I woke up I was so lightheaded and all that I had to walk downstairs and get some glucose and I just ate about four tablets of that.
+
+DOCTOR G777
+Okay.  You felt lightheaded.  So it seems like what are the dates on all of these?
+
+PATIENT G777
+Well like I said, the last one is today.
+
+DOCTOR G777
+So this is from this morning?
+
+PATIENT G777
+And that's yesterday.
+
+DOCTOR G777
+This is from yesterday.
+
+PATIENT G777
+And the day before.
+
+DOCTOR G777
+So this reading right here is it from the morning or the night?
+
+PATIENT G777
+In the morning.
+
+DOCTOR G777
+Okay.
+
+PATIENT G777
+When I woke up that morning.
+
+DOCTOR G777
+And then what was dinner?  Bedtime was 125?
+
+PATIENT G777
+Yeah.
+
+DOCTOR G777
+Okay.  The blood pressure's been okay.  How much insulin are you taking now?
+
+PATIENT G777
+74.
+
+DOCTOR G777
+74?
+
+PATIENT G777
+Yeah.
+
+DOCTOR G777
+How long have you been taking 74?
+
+PATIENT G777
+Since last week.
+
+DOCTOR G777
+Hmm, I think that might be a little too much for you.  And how much are you taking at lunch, I mean you're taking 74 plus three times a day, you give yourself shots?
+
+PATIENT G777
+Twice a day.
+
+DOCTOR G777
+Twice a day, what time?
+
+PATIENT G777
+In the morning and at bedtime.
+
+DOCTOR G777
+With regular insulin or with Aspart?
+
+PATIENT G777
+Who?
+
+DOCTOR G777
+Which kind of insulin, Aspart or regular?
+
+PATIENT G777
+I guess I do regular.
+
+DOCTOR G777
+Regular.  So you get that in the morning and at lunch time are you feeling lightheaded?  You have a lot of low readings around lunch.
+
+PATIENT G777
+Well see actually I don't get up till around 11 o'clock.
+
+DOCTOR G777
+Okay.
+
+PATIENT G777
+So then I'm up to eat at 12 o'clock.
+
+DOCTOR G777
+What time are you, so let me understand.  At night what time do you give yourself the shots, the 74?
+
+PATIENT G777
+At 10 o'clock.
+
+DOCTOR G777
+10 p.m.?
+
+PATIENT G777
+Uh-huh.
+
+DOCTOR G777
+And before you give yourself the 74 you take your sugars right?
+
+PATIENT G777
+Yes.
+
+DOCTOR G777
+Okay and that's the Lantus and then let me see what else you're taking, hold on.  And then regular.  How much are you doing of regular?
+
+PATIENT G777
+5 in the morning and 8 at night.
+
+DOCTOR G777
+Okay.  I think we're gonna have to take you down a little bit.  So before this week you were doing 70 of Lantus at night?
+
+PATIENT G777
+Yeah.
+
+DOCTOR G777
+And you were over 200 and now you're in the 50s?  Hmm.  How's the diet been?
+
+PATIENT G777
+Same, exactly the same.
+
+DOCTOR G777
+Are you taking all your blood pressure pills?
+
+PATIENT G777
+Yep.
+
+DOCTOR G777
+And what time to do you take the 8 at night of regular?
+
+PATIENT G777
+About 10 o'clock.
+
+DOCTOR G777
+Oh why are you taking it at 10?
+
+PATIENT G777
+Cause that's when I go to bed.
+
+DOCTOR G777
+Well you should take the 74 at 10 and then you take the regular before dinner.  What time do you eat dinner?
+
+PATIENT G777
+I eat dinner around 8 o'clock, 7 or 8 o'clock.
+
+DOCTOR G777
+Okay.  So I think that we need to change when you're taking it okay.  And what time do you take the 5?
+
+PATIENT G777
+Once in the morning.
+
+DOCTOR G777
+What time in the morning?
+
+PATIENT G777
+Whenever I wake up, 12 o'clock, 11 or 12 o'clock.
+
+DOCTOR G777
+Even though your sugars are so low like that?
+
+PATIENT G777
+I don’t get out of bed until 11:30 - 12 o'clock.
+
+DOCTOR G777
+Okay.  I'm not trying to, I'm trying to make it so you don't have real low sugars cause I don't want, it's dangerous to be hypoglycemic right.  I want to make sure that we're taking care of you.  So you give yourself one shot at night at 10.
+
+PATIENT G777
+Yes.
+
+DOCTOR G777
+Or you give yourself two shots at 10?
+
+PATIENT G777
+One shot.
+
+DOCTOR G777
+One shot of the 74?
+
+PATIENT G777
+Yeah.
+
+DOCTOR G777
+And then you wake up in the morning and then before breakfast do you give yourself the 5?
+
+PATIENT G777
+Yes the 5 and the 74.
+
+DOCTOR G777
+But the 74 you said you give at night right?
+
+PATIENT G777
+I do that twice a day.
+
+DOCTOR G777
+Oh you do the 74 twice a day.
+
+PATIENT G777
+Yes.
+
+DOCTOR G777
+So when you wake up at about 10, let's say 10 a.m., 10 to 11 a.m. you give yourself the 74.
+
+PATIENT G777
+Plus 5.
+
+DOCTOR G777
+Plus 5 and then again at 10 you give yourself the 74 plus 8.
+
+PATIENT G777
+74 plus 8.
+
+DOCTOR G777
+Plus 8 okay.  But you don't eat after.
+
+PATIENT G777
+No.  I eat before.
+
+DOCTOR G777
+I think we're gonna have to change the way. Is that how they told you to take it?
+
+PATIENT G777
+I been taking it that way since I been on it.
+
+DOCTOR G777
+Because your blood sugars, see the 5 and the 8 are supposed to be covering you for your meals.  Do you have breakfast every day when you wake up?
+
+PATIENT G777
+No.
+
+DOCTOR G777
+Do you eat lunch?
+
+PATIENT G777
+Yes.
+
+DOCTOR G777
+What time do you eat lunch?
+
+PATIENT G777
+When I get up.
+
+DOCTOR G777
+Okay so you get up in the morning and you eat something.
+
+PATIENT G777
+Yeah.
+
+DOCTOR G777
+Okay.  And then so you only have two meals a day?
+
+PATIENT G777
+Basically.
+
+DOCTOR G777
+And then you have your dinner.
+
+PATIENT G777
+Yeah.
+
+DOCTOR G777
+Okay.  Alright.  Let me think about how we're gonna change this so that you don't get these lows cause I don't want you to get these lows you know.  Cause it's dangerous and you're feeling it right.
+
+PATIENT G777
+Uh-huh.
+
+DOCTOR G777
+Okay.  Let's see what else is going on with you.  Um any more bleeding from your rectum?
+
+PATIENT G777
+Nope.
+
+DOCTOR G777
+Coughing up blood?
+
+PATIENT G777
+No.
+
+DOCTOR G777
+Black stools?
+
+PATIENT G777
+Nope.
+
+DOCTOR G777
+Okay.  Are you still taking the PPI?
+
+PATIENT G777
+Who?
+
+DOCTOR G777
+The PPI, let's see what you take for it um the stomach medicine.
+
+PATIENT G777
+Yeah.
+
+DOCTOR G777
+Okay.  Are you seeing the ID doctors for the HIV?
+
+PATIENT G777
+I'll see them; I'll see them on February 14th.
+
+DOCTOR G777
+Okay good.  
+
+PATIENT G777
+13th or something like that.
+
+DOCTOR G777
+Okay and you're on Plavix, then when do you see the neurologist for the stroke?  Do you go see them?
+
+PATIENT G777
+Uh uh.
+
+DOCTOR G777
+Have you had any more symptoms?  And let's see, have you gotten your flu shot this year?
+
+PATIENT G777
+Oh yes.
+
+DOCTOR G777
+Okay.  When did you get it?
+
+PATIENT G777
+When they first started giving them out.  Back in October.
+
+DOCTOR G777
+Okay.  And you'll be due for your um your pneumococcal shot in about six months so we'll give you that.  Um and you had your colonoscopy in 2003, did they tell you when you need to come back?
+
+PATIENT G777
+Uh uh.
+
+DOCTOR G777
+Okay probably ten years so we'll get that and when did we last check your lipids?  Oh, so your, what are you taking for cholesterol?  Your cholesterol was a little bit high, let's see you're taking.  I don't know what the, you're taking the rosuvastatin.  You're only 10 of rosuvastatin.  Do you take that every day?
+
+PATIENT G777
+Uh-huh.
+
+DOCTOR G777
+Sometimes, I don't want it to, I know sometimes the rosuvastatin, the statins can interact with the HIV medicines so I don't want to um do too high of a dose.  Let me see what you're and you're taking that every night, not missing any.  Okay.  Let me look at um, here.  Your lipids were better the last time, what happened?  Did you miss any of your cholesterol medicines?
+
+PATIENT G777
+Uh uh.
+
+DOCTOR G777
+No.  Okay.  We'll see what we're gonna do about that.  Okay.  And let me just take a listen to you okay.  Oh any swelling in your legs?
+
+PATIENT G777
+No.
+
+DOCTOR G777
+And you last saw the foot doctor in July.
+
+PATIENT G777
+I seen him this month.
+
+DOCTOR G777
+This month.  When do you see the eye doctor?
+
+PATIENT G777
+I have an appointment for that.
+
+DOCTOR G777
+Okay.
+
+PATIENT G777
+It's coming up.
+
+DOCTOR G777
+When did you last see them?
+
+PATIENT G777
+Last February.
+
+DOCTOR G777
+Last February okay.  So you know you need to make the appointment.
+
+PATIENT G777
+Yeah.
+
+DOCTOR G777
+Let me just take a listen.  Deep breath okay.  I'm just going to listen to your lungs.  
+
+PATIENT G777
+So DOCTOR not going to be my primary?
+
+DOCTOR G777
+No DOCTOR is, DOCTOR is here.  I work with DOCTOR but he's not here today.
+
+PATIENT G777
+Oh.  Well I have some paperwork he has to fill out.
+
+DOCTOR G777
+Oh what is it; I can try to fill it out.
+
+PATIENT G777
+For the @@@ games he does it every year for me.
+
+DOCTOR G777
+Okay.
+
+PATIENT G777
+@@@.  
+
+DOCTOR G777
+Okay.  When do you need this back by?
+
+PATIENT G777
+I want to take it with me.
+
+DOCTOR G777
+You need this back?
+
+PATIENT G777
+Yes.  @@@.
+
+DOCTOR G777
+Oh well you should've let me know, I have a lot of patients.  Let me see.
+
+PATIENT G777
+It don't take but a second to fill it out.
+
+DOCTOR G777
+It's gonna take more than a second for that.  Just so you know, I'm filling out all this stuff.  Have you, when was your last PPD placed?
+
+PATIENT G777
+What was that?
+
+DOCTOR G777
+Your PPD where they like check you to see if you have um.
+
+PATIENT G777
+TB?
+
+DOCTOR G777
+Yeah.
+
+PATIENT G777
+Oh I'll show a positive for that I had a case.
+
+DOCTOR G777
+Okay when was it?
+
+PATIENT G777
+Back in 1980 something. I had TB.
+
+DOCTOR G777
+Alright.  Do you use a CPAP or BIPAP?
+
+PATIENT G777
+Huh?
+
+DOCTOR G777
+Do you use a CPAP or BIPAP?
+
+PATIENT G777
+What is that?
+
+DOCTOR G777
+For sleeping, do you use a special mask or do you just use that?
+
+PATIENT G777
+Just use that.
+
+DOCTOR G777
+Okay.  What do you normally do at the games?
+
+PATIENT G777
+Shuffleboard, dominoes and we do air rifle @@@.
+
+DOCTOR G777
+Do you have an Advanced Directive? Yes? Do you have any allergies?
+
+PATIENT G777
+Bactrim.
+
+DOCTOR G777
+Okay.  So when was the last time you were admitted to the hospital?
+
+PATIENT G777
+Oh boy, it's been so long I don't even remember.
+
+DOCTOR G777
+Okay.  It looks like the last time was in December of 08.  Alright I guess I'm gonna have to print out a bunch of things. You don't need help with walking around?
+
+PATIENT G777
+No, no, no.
+
+DOCTOR G777
+Or grooming or anything.  Okay.  Alright.  Let me get this stuff for you.  Okay.
+
+PATIENT G777
+Okay.
+
+DOCTOR G777
+I have to give them a list of your medication.
+
+PATIENT G777
+I got one already.
+
+DOCTOR G777
+You have that?
+
+PATIENT G777
+I got it right here.
+
+DOCTOR G777
+And what about your chest x-ray, your last one?
+
+PATIENT G777
+I got that already.
+
+DOCTOR G777
+Okay and I.
+
+PATIENT G777
+And the EKG, I got that.
+
+DOCTOR G777
+We're set okay.  I'll be back then.
+
+PATIENT G777
+Alright.
+
+(DOCTOR OUT:  34:10  DOCTOR IN:  51:41)
+
+DOCTOR G777
+Alright sir, I'm sorry to keep you waiting.
+
+PATIENT G777
+That's alright.
+
+DOCTOR G777
+Alright so I filled out all this.  I think it should be good for you.  Um oh when was your last tetanus shot do you know?
+
+PATIENT G777
+I don't know.
+
+DOCTOR G777
+Let me see.  Uh I don't know how to find it.  Hold on; let me ask DOCTOR how I find when it was.  This is for you.  The other thing that I wanted you to do is your nighttime insulin, I want you to take you before you eat dinner instead of at 10 okay.  So take your morning in the morning like you've been doing.  Have your breakfast or lunch or whatever meal you eat.  Then take your nighttime insulin before dinner okay.  And make sure you check your sugars and if you're still getting those lows in the morning then I want you to drop back down to 70 instead of 74. Does that sound like a plan?
+
+PATIENT G777
+Okay.
+
+DOCTOR G777
+And I want you to come back and see our pharmacist in 1-2 weeks, okay?  And then I want you to see me in three months and I'm just going to order some urine tests for you, okay?  And I think everything else is good.  
+
+PATIENT G777
+Was there something you could give me for this shoulder?
+
+DOCTOR G777
+For the shoulder.
+
+PATIENT G777
+Yes.
+
+DOCTOR G777
+You can take Tylenol.  Do you take Tylenol?  Do you want Tylenol?
+
+PATIENT G777
+I take acetaminophen.
+
+DOCTOR G777
+Acetaminophen, that's the same thing.
+
+PATIENT G777
+Okay.
+
+DOCTOR G777
+How much are you taking?
+
+PATIENT G777
+500 I think.
+
+DOCTOR G777
+500 how many times a day?
+
+PATIENT G777
+Twice.
+
+DOCTOR G777
+Okay.  Well you can take it up to four times a day.
+
+PATIENT G777
+Okay.
+
+DOCTOR G777
+See if that'll help.  The other thing is on this I'm gonna have to put that you have HIV and hepatitis B cause they are communicable diseases, that means like if you were to get hurt and start bleeding then you know.
+
+PATIENT G777
+That's all VA.
+
+DOCTOR G777
+Okay I just wanted you to know.  Okay let me figure out how to find out about your tetanus alright, I'll be right back.
+
+(DOCTOR OUT: 54:54  DOCTOR IN:  56:39)
+
+SECOND PERSON G777
+So.
+
+PATIENT G777
+Okay.
+
+SECOND PERSON G777
+Let me see here, let's see, get my lab jacket out of here.  Are you okay?
+
+PATIENT G777
+No I'm fine.
+
+DOCTOR G777
+Okay sir, I'm gonna give you your tetanus shot today too okay.
+
+PATIENT G777
+A what?
+
+DOCTOR G777
+A tetanus shot.  Because you're due for it.  You're due for one every ten years so, let me put that order in okay along with the urine tests.  If the nurses give me a different room I'm happy to do it.
+
+SECOND PERSON G777
+No that's okay, I don't mind.  It's just that I hate to interrupt and come in and get my things back and get to work here.
+
+DOCTOR G777
+Yeah I mean but I'm totally fine with going to another room as long as the nurses have one.
+
+SECOND PERSON G777
+It don't matter, not that I'm dying to get to work.
+
+PATIENT G777
+I bet I was.  
+
+SECOND PERSON G777
+Alright I'm gonna get my lab jacket and stuff.
+
+PATIENT G777
+@@@.
+
+SECOND PERSON G777
+@@@ is that I'm used to my @@@.
+
+DOCTOR G777
+Yeah so that's fine.  Um and alright I'm gonna bring you over to the nurses so that they can give you a tetanus shot and I put three months for you to come back okay and make sure three months for me, two weeks for the nurse and make sure that if your sugars get low you drop down to the 70 again okay?  Cause I don't want you to be you know having any problems with hypoglycemia okay.  Okay so let me walk you out and then I'll be back in a few minutes @@@.
+
+SECOND PERSON G777
+You know what I mean I.
+
+DOCTOR G777
+But taking my room it really doesn't bother me.
+
+SECOND PERSON G777
+No it don't bother me that you're here I just hate to come in you know.
+
+DOCTOR G777
+Yeah no this is totally fine.  @@@.
+
+SECOND PERSON G777
+You can't help it, I just want to.
+
+DOCTOR G777
+That's okay.
+
+SECOND PERSON G777
+Put it on my chair that's all.
+
+DOCTOR G777
+Oh that's fine.  Okay.  I want you to go have a seat outside.  They're going to call you in okay.
+
+PATIENT G777
+What about that paper, do you need it?
+
+DOCTOR G777
+Well I'm gonna give it to the nurse so that she knows to call you in and then she'll give you the.
+
+PATIENT G777
+They'll come and @@@.
+
+DOCTOR G777
+Oh yeah sorry.  So I filled out everything um.
+
+PATIENT G777
+Thank you.
+
+DOCTOR G777
+Okay there you go.  That's everything medical.  @@@ enjoy, @@@.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286109
+TRANSACTION # 578-10-2-316-0103

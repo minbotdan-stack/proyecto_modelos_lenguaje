@@ -1,0 +1,835 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR J269
+How you doing?
+
+PATIENT J269
+Alright.
+
+DOCTOR J269
+Okay.  Alrighty.  Okay so, you're seeing the eye doctor today, is that right?
+
+PATIENT J269
+Yeah.
+
+DOCTOR J269
+Which eye is it that's painful?
+
+PATIENT J269
+The left.
+
+DOCTOR J269
+They said you got an infection in there huh?
+
+PATIENT J269
+No, shingles.
+
+DOCTOR J269
+Yeah, it's like a viral infection.
+
+PATIENT J269
+Yes.
+
+DOCTOR J269
+Okay uh.  How long has it been like that for?
+
+PATIENT J269
+Saturday.
+
+DOCTOR J269
+Okay.  Anybody around you been sick or anything else like that?
+
+PATIENT J269
+Pardon?
+
+DOCTOR J269
+Any sick contacts, anybody around you has been sick or?
+
+PATIENT J269
+No.
+
+DOCTOR J269
+Maybe it's just the shingles reactivation.
+
+PATIENT J269
+Yeah.
+
+DOCTOR J269
+Okay.  Ever had shingles anywhere else before?
+
+PATIENT J269
+No.
+
+DOCTOR J269
+Okay.  Uh any problems with vision in that eye?
+
+PATIENT J269
+Well no I can still see with it but it's painful.
+
+DOCTOR J269
+Very painful.  Does the light make it more painful?
+
+PATIENT J269
+Huh?
+
+DOCTOR J269
+Does the light hurt it?
+
+PATIENT J269
+Not really.
+
+DOCTOR J269
+Okay.  Anything else bothering you besides this?
+
+PATIENT J269
+No.
+
+DOCTOR J269
+How's your breathing?
+
+PATIENT J269
+Okay I guess.
+
+DOCTOR J269
+Any coughing, fevers, chills?
+
+PATIENT J269
+No.
+
+DOCTOR J269
+Um any worsening in leg swelling or weight gain?
+
+PATIENT J269
+No.
+
+DOCTOR J269
+Alright.  No chest pains recently.
+
+PATIENT J269
+Not really.
+
+DOCTOR J269
+Uh are living back to your son's again?
+
+PATIENT J269
+No I'm on my own now.
+
+DOCTOR J269
+Okay.  Where do you live?
+
+PATIENT J269
+In my own home.  
+
+DOCTOR J269
+In Arlington Heights, is that where you're still living?
+
+PATIENT J269
+Arlington Heights.
+
+DOCTOR J269
+Okay.  Okay so.
+
+PATIENT J269
+What kind of pain medicine would you use for the shingles?
+
+DOCTOR J269
+Uh the same pain medication used for anything else really.  There's nothing specific for that.  You think you need pain medicine?
+
+PATIENT J269
+I don’t know, which ones can you give?
+
+DOCTOR J269
+Have you tried anything?
+
+PATIENT J269
+Yeah Tylenol but I've been @@@ all the time, all day yesterday, here in the hospital today I spent a long time.
+
+DOCTOR J269
+So your weight is up from where we last had it.  Last month.  It went from 188 to 195.
+
+PATIENT J269
+Hmm well I'm fluctuating around the 190 mark.
+
+DOCTOR J269
+You watching your diet with the salt and everything.
+
+PATIENT J269
+Oh sure.
+
+DOCTOR J269
+Okay and the fluids?
+
+PATIENT J269
+Yes.
+
+DOCTOR J269
+Any diarrhea coming back?
+
+PATIENT J269
+Uh, well it has nothing to do with C-Diff.  It's just regular diarrhea.
+
+DOCTOR J269
+Okay.
+
+PATIENT J269
+Yesterday and that's flared up but I, what is the stuff they use for diarrhea when they have it, what's the medicine?  It's over-the-counter I think.
+
+DOCTOR J269
+Oh loperamide is the generic name but it's called, it's normally called Lomotil.  I think it was a brand name that you buy, Imodium, is that what you're talking about?
+
+PATIENT J269
+Yeah, yeah, yeah, that's it.
+
+DOCTOR J269
+It’s dangerous to use if you're worried about C. diff.
+
+PATIENT J269
+What.
+
+DOCTOR J269
+That Imodium.
+
+PATIENT J269
+Oh.  I had C. diff four times this year.
+
+DOCTOR J269
+Yeah I know.  I would not recommend that medicine for you.
+
+PATIENT J269
+I wouldn't take it then.
+
+DOCTOR J269
+Okay.  Because what happens is, you get the toxins out, they build up and especially with the C. diff you have a very large increase in your colon where it gets bigger in size and they could explode and that's it perferates on that.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+Well how's your activity levels?
+
+PATIENT J269
+Oh I try to move but I can barely move around I mean, I just sit.  I waddle like a duck when I'm off the scooter.
+
+DOCTOR J269
+You finished cardiac rehab after your bypass right, a year ago?
+
+PATIENT J269
+Cardiac, what do you mean cardiac?
+
+DOCTOR J269
+You had rehab after your bypass?
+
+PATIENT J269
+Oh yeah, yeah.
+
+DOCTOR J269
+And then you were at the nursing home where you were getting rehab.
+
+PATIENT J269
+Yeah, yeah and I spent Tuesdays in PCC1B.
+
+DOCTOR J269
+Uh-huh.
+
+PATIENT J269
+And Wednesday on the 15th floor and also a short stay, I don't know what floor it was, for just a few days and that was reacting to diarrhea and at the time, then the C. diff though.
+
+DOCTOR J269
+Okay.  Um you're not getting any therapy right now?
+
+PATIENT J269
+I had a therapist coming in and uh I don't know what her name is, she used to come over to my son's house and I moved out of his house last week and I had a nurse, a real Polish nurse, a nice one, NURSE something or other.  I don't have her phone number, but my kids' got all the phone numbers and I wanted to contact both of them.
+
+DOCTOR J269
+Was that through the VA or who?
+
+PATIENT J269
+Yes.
+
+DOCTOR J269
+Okay.
+
+PATIENT J269
+I don't know who they are.
+
+DOCTOR J269
+Think it's somebody in therapy?
+
+PATIENT J269
+Well, yes sure.
+
+DOCTOR J269
+I don't think so uh, okay.
+
+PATIENT J269
+How do I get hold of the therapist and the one that's been seeing me?
+
+DOCTOR J269
+I don't know about the one that's seeing you.
+
+PATIENT J269
+Alright.
+
+DOCTOR J269
+Um I can put an order in to get a therapist.  You can always try calling your son and have your son call them and you now we need an order and I'll put an order for therapy.
+
+PATIENT J269
+Okay but what about the nurse?  She's been checking my vitals.
+
+DOCTOR J269
+Yeah a home nurse.
+
+PATIENT J269
+Yeah.  I'll be concerned about seeing her; she's a very good nurse.  She was coming in Friday to see me and then last Friday I missed her.  The therapist was coming in on Saturday and I missed her.
+
+DOCTOR J269
+You there's a program here called Home-Based Primary Care.
+
+PATIENT J269
+Yeah.
+
+DOCTOR J269
+And what it means is a doctor comes out to visit you at your house every so often instead of you coming here to Hines um and also nurses come out and visit you every so often.
+
+PATIENT J269
+Uh-huh.
+
+DOCTOR J269
+Um, they basically become your primary care doctor but I'm wondering since you really are liking the fact that these people are coming to your house and checking up on you and that type of thing.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+Is this something you would be interested in?
+
+PATIENT J269
+Yes.
+
+DOCTOR J269
+Okay.  Let me talk to people and see what it takes to get you in the program there.
+
+PATIENT J269
+Sure.
+
+DOCTOR J269
+Cause it almost sounds like, you know, it's the type of thing, you @@@ so much success with this, sounds like they keep a close eye on you at home and uh and it may help that way.  Okay, do you need your meds refilled I assume?
+
+PATIENT J269
+Yeah.  They'll have them going down to the Pharmacy but I won't be able to get all that filled today unless you have some other medication for me.  That you can have mailed to me.
+
+DOCTOR J269
+Okay, yeah we'll mail those up to you.
+
+PATIENT J269
+Yeah.
+
+DOCTOR J269
+Okay.  Let me take a listen to you.  Just stay right there.  @@@ alright.  Big breath in now.
+
+PATIENT J269
+There's a crackling in the right lung I guess uh, I think its scar tissue and uh uh, I had four CAT scans plus a CT scan.
+
+DOCTOR J269
+Uh-huh.
+
+PATIENT J269
+And it wasn't getting any worse.  The first one was seen and then the three after that were not getting worse so they weren't concerned about that.  But the scar tissue was there.
+
+DOCTOR J269
+From a former pneumonia?
+
+PATIENT J269
+Yeah.
+
+DOCTOR J269
+So you've seen a pulmonologist it looks like.  They want you to get another x-ray of your chest is that right?
+
+PATIENT J269
+When?
+
+DOCTOR J269
+This month or next month.
+
+PATIENT J269
+Will they send me an appointment?
+
+DOCTOR J269
+Uh we can get one set-up.
+
+PATIENT J269
+Well about, you know last year I asked you, this is last year, I asked you about my triglycerides.
+
+DOCTOR J269
+Yeah.
+
+PATIENT J269
+They were high.  I don't think you were concerned about that because uh nothing was done but boom, in November I had to have open heart surgery and quadruple bypass.
+
+DOCTOR J269
+Yeah.  So are you concerned it was the triglyceride that did that?
+
+PATIENT J269
+I don't know, I can say that.
+
+DOCTOR J269
+Uh, it probably wasn't.  Um, you have diabetes right.
+
+PATIENT J269
+How can you check the diabetes?
+
+DOCTOR J269
+Oh there's ways to do these. It looks like it’s really well controlled, really.  Um triglycerides are not even really, they are a very minor risk factor for heart disease.
+
+PATIENT J269
+Well it was 300 all that time; it said 300, 300, 300.
+
+DOCTOR J269
+180 is the last one we have done here.
+
+PATIENT J269
+I did when was that?
+
+DOCTOR J269
+That was back this past summer in June.  Prior to that.
+
+PATIENT J269
+Well that's when I was hospitalized in 1B.
+
+DOCTOR J269
+Prior to that it was 192 and that was back in February.
+
+PATIENT J269
+And prior to that it was 300.  Cause it was controlled back then I guess.
+
+DOCTOR J269
+Yes.
+
+PATIENT J269
+With the diet and everything.
+
+DOCTOR J269
+Uh-huh.
+
+PATIENT J269
+And this was before.
+
+DOCTOR J269
+And your other cholesterol panel was fine, so I think that, you know um, taking all that together, you don't want to go aggressively and you are on a couple of medications for that.
+
+PATIENT J269
+Really.
+
+DOCTOR J269
+Uh, @@@ and all that stuff okay.  Yeah I don't know if I'll change that.  I want to recheck the cholesterol panel the next visit.
+
+PATIENT J269
+Oh Zocor, they put me on a half and you had me on the full tablet.
+
+DOCTOR J269
+Who switched it?
+
+PATIENT J269
+I don't know.  Listen when I got out of the 15th floor in the main building.
+
+DOCTOR J269
+Uh-huh.
+
+PATIENT J269
+There was uh a nurse over there that screwed up on six of my medications and I called DOCTOR and DOCTOR called her and boy she really moved and she called my son at the time when I was staying with him and she apologized for those goof ups.  There were medical increases that the doctors gave me while I was in the hospital there and there were, I don't know what changes they were but anyway it amounted to six of them and that wasn't too good for a nurse practitioner.
+
+DOCTOR J269
+Yeah.  Let's um, let's recheck your cholesterol and see how it's been on the dose that you've been taking.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+And then we can make changes based on that.
+
+PATIENT J269
+As long as I'm staying with the 5 mg.
+
+DOCTOR J269
+You're taking 10; you're taking half of a 20.
+
+PATIENT J269
+Yeah.
+
+DOCTOR J269
+Okay?
+
+PATIENT J269
+Yeah.  I've been taking a whole one.
+
+DOCTOR J269
+You have?
+
+PATIENT J269
+Cause I remember, I remember I was on a whole one before and @@@.
+
+DOCTOR J269
+Was it a different dose though?
+
+PATIENT J269
+See I didn't see?
+
+DOCTOR J269
+It @@@ dose, if you're on 20, so I'll give you a 40 and tell you to split in half.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+If you're on 10, they'll give you a 20 and tell you to split in half so.
+
+PATIENT J269
+No I'll check it and see if it's 20 or 40.
+
+DOCTOR J269
+If it says that you're getting 20, you should be splitting it so.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+Um, okay.  Give me a minute and I'll be right back.  We'll get some of this, I'll get some of the meds refilled and we'll get some of this, we'll help you get some PT.
+
+PATIENT J269
+Nothing’s different except for this except Tylenol.
+
+DOCTOR J269
+@@@.  The pain um, there is other things um.  Anti-inflammatories I don't think you'd be a good guy to take those.
+
+PATIENT J269
+You know my nerves are acting up in my foot cause I had that broken heel and foot.
+
+DOCTOR J269
+Yeah.
+
+PATIENT J269
+And uh the nerves and what the hell, oh my teeth bother me like hell.  I mean I don't know I can't get into the dentist unless I have a high diabetic count.
+
+DOCTOR J269
+Yeah you can't get into the dentist here.  @@@.
+
+PATIENT J269
+I did once, one had a blood count.  You can't do it but the blood would say it.
+
+DOCTOR J269
+Yeah.  You have to be shaken up to really warrant it and I don't think.
+
+PATIENT J269
+They had me in there once.  This diabetes has been fluctuating on and off, on and off.
+
+DOCTOR J269
+So, it's not a bad enough now problem, that's the problem.  This is my concern with giving you a bunch of pain medications.  You're on a lot of medications.
+
+PATIENT J269
+You'd better believe it.
+
+DOCTOR J269
+And you know a lot of it can cause drowsiness and other things and the pain medication would worsen all of those and especially the risk of falling, uh given all these other medications.
+
+PATIENT J269
+I want to get up and go walk around again.  I can barely walk.  I walk like a duck you know.  It's just a few inches at a time.
+
+DOCTOR J269
+Yeah, I mean I don't want you to fall and break your hip or hit your head or something.
+
+PATIENT J269
+Ah, so you break your hip you know.
+
+DOCTOR J269
+Uh hip breaks are fatal in 50% of people your age.
+
+PATIENT J269
+Oh yeah, well how many?
+
+DOCTOR J269
+50%.
+
+PATIENT J269
+Well 50% do alright.
+
+DOCTOR J269
+I don't think it would be in good conscious I could do something like that. Um, you know I want to give you some pain medicine but I think we need to think very carefully about.
+
+PATIENT J269
+What's that?
+
+DOCTOR J269
+About what we can give you.
+
+PATIENT J269
+Well so I can pick it up tonight in the Pharmacy?
+
+DOCTOR J269
+I don’t know what else I can give you other than Tylenol at this point.
+
+PATIENT J269
+Well I've been taking Tylenol, that's a short running thing.
+
+DOCTOR J269
+When is the pain the worse, is it all day?
+
+PATIENT J269
+All day, all night.  I had a bad night.  I couldn't sleep at all last night.  Uh on and off, on and off, on and off, I don't know how many times, 20, 30, 40 times.  That's not sleeping.
+
+DOCTOR J269
+Where is it the worst, if you point one finger?
+
+PATIENT J269
+By here.
+
+DOCTOR J269
+Is it just in one certain place?
+
+PATIENT J269
+It's right in the eye.
+
+DOCTOR J269
+Yeah is it the entire eye, is it like a certain lid?
+
+PATIENT J269
+No it's in the left, see when I blink I feel it, I can't touch my eyelid.
+
+DOCTOR J269
+Okay.  Let me see; let me see what we have here that um.
+
+PATIENT J269
+Yeah please.
+
+DOCTOR J269
+That I think might be safe for you okay.
+
+PATIENT J269
+Please.
+
+DOCTOR J269
+Alright give me one second.
+
+(DOCTOR OUT:  59:20  DOCTOR IN:  64:14)
+
+DOCTOR J269
+Alright so.  I was looking at; you were on Vicodin in the past?
+
+PATIENT J269
+Yeah I don't care for that Vicodin.
+
+DOCTOR J269
+Have you had Tylenol 3?
+
+PATIENT J269
+No, could Tylenol number 3, maybe I ought to try that.
+
+DOCTOR J269
+What was the issue with Vicodin?
+
+PATIENT J269
+Huh?
+
+DOCTOR J269
+What was your issue with Vicodin?
+
+PATIENT J269
+None.
+
+DOCTOR J269
+Did it work or?
+
+PATIENT J269
+Yeah it worked.  I was getting it three times a day in the hospital.
+
+DOCTOR J269
+Okay.  Do you want to try some of that or no?
+
+PATIENT J269
+Yeah, you better set me up with the Vicodin then.
+
+DOCTOR J269
+Okay we'll try that.  
+
+PATIENT J269
+@@@ the dosage.
+
+DOCTOR J269
+I don't know um.  This Vicodin has Tylenol in it so don't take any Tylenol on top of it.
+
+PATIENT J269
+Yeah.
+
+DOCTOR J269
+Uh, her husband will fill it actually @@@.
+
+PATIENT J269
+Huh.
+
+DOCTOR J269
+Her husband works in Loyola I think.
+
+PATIENT J269
+He does oh when did she get married?
+
+DOCTOR J269
+Uh she's been married for uh over two years now.
+
+PATIENT J269
+Really?  Oh she was going into arthritic rheumatology.
+
+DOCTOR J269
+Yeah she's still doing that I think.
+
+PATIENT J269
+Private practice.
+
+DOCTOR J269
+She's not uh, she's in fellowship now.
+
+PATIENT J269
+Is that different?
+
+DOCTOR J269
+Out in Delaware uh-huh.
+
+PATIENT J269
+Oh.  She was a wonderful doctor.  She was beautiful and she was Polish.
+
+DOCTOR J269
+That's what I hear.  I've never met her.
+
+PATIENT J269
+Oh she was real talented.  Very good doctor, very good doctor.  In fact I was in love with her, she was so good.  She had to be cause.
+
+DOCTOR J269
+She won your heart.
+
+PATIENT J269
+Yeah, she won my heart.  She was an excellent doctor.  So he works in Loyola.  She wasn't married then and I don't think she was engaged either.  How long you been here, just two years now?
+
+DOCTOR J269
+Yeah.
+
+PATIENT J269
+In July, when will you be graduating?
+
+DOCTOR J269
+Uh in a year and a half, another year and a half.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+So let's, let's have you back here in three months but we'll see what happens to the.
+
+PATIENT J269
+Do you have any medications for me to pick up downstairs?
+
+DOCTOR J269
+Yeah it's the Vicodin.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+The other stuff I’ll havesent to you.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+And uh we'll see how this Home-Based Primary thing goes.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+Because uh and I'll put in for the PT and we'll get people going to your house.
+
+PATIENT J269
+Thank you.  Yes sir.
+
+DOCTOR J269
+We'll get the labs done before the next visit.  We need to check on your cholesterol like we mentioned.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+So they'll be fasting labs.
+
+PATIENT J269
+Yes.  When will that be, you know?
+
+DOCTOR J269
+You could just have em; you can come in any time you know just a week before the next visit.
+
+PATIENT J269
+I was gonna ask you for this visit that we had but there's no way of getting in touch with you so you can put an order in there so.  We'll have to wait till the next time.
+
+DOCTOR J269
+Yeah just get em like the week before the next visit.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+Alright so.
+
+PATIENT J269
+Okay, okay.  Okay thanks.
+
+DOCTOR J269
+Alright.  Have a Merry Christmas alright.
+
+PATIENT J269
+Yeah okie doke, thanks.  Same to you.
+
+DOCTOR J269
+Careful @@@.
+
+PATIENT J269
+@@@.
+
+DOCTOR J269
+@@@ for Christmas.
+
+PATIENT J269
+Did you get one?
+
+DOCTOR J269
+No, oh @@@?
+
+PATIENT J269
+Yeah.
+
+DOCTOR J269
+Yeah we get them every year.
+
+PATIENT J269
+From where?
+
+DOCTOR J269
+My grandpa gets them somewhere.
+
+PATIENT J269
+Okay.
+
+DOCTOR J269
+Alright take care.
+
+PATIENT J269
+Have a Merry Christmas.
+
+DOCTOR J269
+You too.
+
+PATIENT LEAVES:  67:51
+
+Time is 4:45.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235332
+TRANSACTION # 578-10-2-316-0103

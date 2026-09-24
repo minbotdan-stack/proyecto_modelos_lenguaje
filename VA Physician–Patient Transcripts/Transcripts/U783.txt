@@ -1,0 +1,729 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR U783
+PATIENT?
+ 
+PATIENT U783
+Hey.  @@@ thank you.
+
+DOCTOR U783
+How are you?
+
+PATIENT U783
+I'm fine thank you.
+
+DOCTOR U783
+I'm DOCTOR.  Nice to meet you.
+
+PATIENT U783
+Same to you.  I just getting ready to pop out of here.
+
+DOCTOR U783
+Oh really?
+
+PATIENT U783
+And get some coffee.
+
+DOCTOR U783
+Oh yeah? @@@
+
+PATIENT U783
+Alright.
+
+DOCTOR U783
+How you feeling today?
+
+PATIENT U783
+Oh I'm alright.
+
+DOCTOR U783
+Good.
+
+PATIENT U783
+I guess.
+
+DOCTOR U783
+As good as you can be huh.
+
+PATIENT U783
+Yeah it's always something.
+
+DOCTOR U783
+So how's your diabetes?
+
+PATIENT U783
+Well um it was high this morning cause uh I had something I wasn't supposed to have but I had a craving.
+
+DOCTOR U783
+I see.
+
+PATIENT U783
+And I had some fish and fries so it was 156 this morning.
+
+DOCTOR U783
+Oh okay.  Are you just taking the glyburide for your diabetes?
+
+PATIENT U783
+Who?
+
+DOCTOR U783
+Glyburide is that the only medication you're taking?
+
+PATIENT U783
+No I'm taking that and uh they changed uh, they took me off the adda, started with a uh, something that was supposed to have been pulled off the market.
+
+DOCTOR U783
+Actos.
+
+PATIENT U783
+I think that's what it was and put me on this new started with a p, p . . .
+
+DOCTOR U783
+Pioglitazone?
+
+PATIENT U783
+I think so.
+
+DOCTOR U783
+Cause it's not in any of your uh.
+
+PATIENT U783
+I get them refilled.
+
+DOCTOR U783
+Where do you get it from?
+
+PATIENT U783
+Here.  I just got it refilled.  I'm gonna start taking it now.
+
+DOCTOR U783
+You're on the glyburide that's the only thing I see that you're on.
+
+PATIENT U783
+No I take two of them.  I take two for high blood pressure.
+
+DOCTOR U783
+Rosiglitazone?
+
+PATIENT U783
+And two, who?
+
+DOCTOR U783
+Rosiglitazone?
+
+PATIENT U783
+That might be it.  I take two for diabetes and two for high blood pressure.
+
+DOCTOR U783
+No you're on the pioglitazone that's what you're on.
+
+PATIENT U783
+That's the P.
+
+DOCTOR U783
+Yeah.
+
+PATIENT U783
+There we go.
+
+DOCTOR U783
+Okay.  Um yeah when checked your A1c last month it was perfect, you were right on target at 7 so that's good.  That's where we want you, that or below.
+
+PATIENT U783
+Okay.
+
+DOCTOR U783
+So that's good.  What are your sugars normally then when you're not giving in to your cravings?
+
+PATIENT U783
+Um well actually I took it twice yesterday cause um, yeah yesterday, cause the nurse came it in the afternoon, that was about 4 and it was 71.  She said you need to eat.
+
+DOCTOR U783
+Yeah.
+
+PATIENT U783
+So uh I kind of over did it, it was 156 this morning.
+
+DOCTOR U783
+Could you feel it, did you feel the 71 or did you?
+
+PATIENT U783
+Not really.
+
+DOCTOR U783
+Okay.  Do you check your sugars in the morning?
+
+PATIENT U783
+Usually every morning but I'm up at 3 o'clock.
+
+DOCTOR U783
+Oh.
+
+PATIENT U783
+Cause I have to be here at 5:30.
+
+DOCTOR U783
+Oh okay.
+
+PATIENT U783
+I work for CWT Police Department.
+
+DOCTOR U783
+Oh I see.
+
+PATIENT U783
+It's just a temporary thing.
+
+DOCTOR U783
+Okay.
+
+PATIENT U783
+But uh.
+
+DOCTOR U783
+So what do your sugars run then?
+
+PATIENT U783
+They staying low, under 100.
+
+DOCTOR U783
+Usually under 100.
+
+PATIENT U783
+I should have brought my machine; I knew I forgot something this morning.
+
+DOCTOR U783
+Do they ever go below 70?  
+
+PATIENT U783
+Yeah.
+
+DOCTOR U783
+They do?
+
+PATIENT U783
+Once in a blue moon.
+
+DOCTOR U783
+Okay.  But do you ever get periods where you feel really shaky, clammy, sweaty, anything like that?
+
+PATIENT U783
+Once in a while.
+
+DOCTOR U783
+How often?
+
+PATIENT U783
+That's cause I'm trying to really cut down and uh, I don’t eat, um.
+
+DOCTOR U783
+Well if that's the case then we need to be careful with your glucose and the medicine you're taking for your diabetes.  I mean and you have lost, you've lost about 20 pounds.
+
+PATIENT U783
+Uh-huh.
+
+DOCTOR U783
+Since March, that's excellent.
+
+PATIENT U783
+Thank you.  It's a start.
+
+DOCTOR U783
+It's a great start.
+
+PATIENT U783
+I've got 70 more to go.  I got to get under 200.
+
+DOCTOR U783
+Well if you get down that low you probably won't even need anything for your diabetes, right?
+
+PATIENT U783
+Right.
+
+DOCTOR U783
+And your blood pressure looks great today.  Um my only concern is that if you're not eating as much as you should be, what I would say to you is that the glyburide can be decreased caused that's the one that's going to drop your sugar the most.
+
+PATIENT U783
+That's them little blue pills right?
+
+DOCTOR U783
+I don't know what they look like.
+
+PATIENT U783
+Oblong.
+
+DOCTOR U783
+It's the one that you take two tablets.
+
+PATIENT U783
+Yeah.
+
+DOCTOR U783
+Twice a day.
+
+PATIENT U783
+That's the blue one yeah.
+
+DOCTOR U783
+Okay.  So here's what I'll say to you about that if you know, like what meals are you skipping out on?
+
+PATIENT U783
+Breakfast.
+
+DOCTOR U783
+Breakfast is the one?  Then what you could do is just take one tablet of glyburide in the morning, actually let me take that back.  You can take one tablet of glyburide at night cause it's that dose that's gonna affect your morning sugars the most.  So what we can do is actually just peel back and just do 10 in the morning, since you take two tablets and just do one of that at night and we'll see how it goes.
+
+PATIENT U783
+If it’s low in the morning.
+
+DOCTOR U783
+Yeah.  If you're noticing that consistently for a couple of days, they're running pretty well like if you're in the low 70 or even 80s then just take one at night.  Cause normal blood sugars in the morning is between 90 to 120, that's really the range we want you in.  Um so if it's anything lower than that, then maybe we should just try the 5 mg okay.
+
+PATIENT U783
+It's not a consistent thing so I'll just check.  You know maybe I should check it more than once a day.
+
+DOCTOR U783
+You could check it maybe one time after another meal, two hours after a meal or right before dinner or something like that.  Um I mean if you're consistent below 100 on your sugars then maybe we should just cut you back to 5 mg at night um because the only thing is.  I mean if you do that and you start noticing your sugars are going up to 140s, 150s then you can go back to taking the two tablets but um.  You know my concern is I don't want you to become hypoglycemic where you're running too low cause that's actually a little bit more of a concern than if they're too high.
+
+PATIENT U783
+That's what I heard.  Yeah.
+
+DOCTOR U783
+So why don't we actually do that.  Why don't you just cut back to 5 mg at night okay?
+
+PATIENT U783
+You're not going to change the prescription, are you?
+
+DOCTOR U783
+Um no I'm just telling you and.
+
+PATIENT U783
+Okay.
+
+DOCTOR U783
+I'll write it down for you if you need me to.
+
+PATIENT U783
+No I got it.
+
+DOCTOR U783
+You got it.
+
+PATIENT U783
+Yes I got it.
+
+DOCTOR U783
+Alright, um any other concerns or issues?
+
+PATIENT U783
+Um.
+
+DOCTOR U783
+Cholesterol looked fantastic too, so.
+
+PATIENT U783
+I um, yeah I still have this cough.  It's not as bad as it used to be but uh I still have this cough uh and the doctor had said a few years ago that I had this acid build-up thing.
+
+DOCTOR U783
+Uh-huh.
+
+PATIENT U783
+And uh.
+
+DOCTOR U783
+Is it a dry cough?
+
+PATIENT U783
+Yeah.
+
+DOCTOR U783
+Okay.  Is it getting worse, the same, better?
+
+PATIENT U783
+It flares up, ever since, it flares up every once in a while but I don't know exactly what's causing it.  You know like I'm a Buddhist so I burn incense in the morning.
+
+DOCTOR U783
+Uh-huh.
+
+PATIENT U783
+If I breathe in the incense you know I begin to cough.  Um after I eat something like crackers or something like that uh, it's kind of like a choking cough; you know what I'm saying?  It's not a cold cough or.
+
+DOCTOR U783
+Sure.
+
+PATIENT U783
+I don't know how to explain it.
+
+DOCTOR U783
+Well that kind of sounds more of like an allergic reaction or um like an irritant so the incense, the smoke in and of itself can be an irritant to the back of your throat and that's when you kind of have that like, kind of almost a violent cough cause your body's trying to expel it um but um I mean you're on the ranitidine for acid reflux.  Are you still taking that?  Its 150 mg you take at bedtime.
+
+PATIENT U783
+No I haven't taken that in a while.
+
+DOCTOR U783
+Okay.
+
+PATIENT U783
+They was killing me with these charges so I just uh you know I don't want to owe nothing but I haven't taken it in a while.  Maybe I should start back on it, I don't know.
+
+DOCTOR U783
+You can try.  Did you notice any improvement when you were taking it?
+
+PATIENT U783
+Some yeah.
+
+DOCTOR U783
+Yeah.  I mean, acid is a real irritant to the back of the throat too um so it could definitely be contributing.
+
+PATIENT U783
+Okay.  I'm just about out of prescription wise on some of those medications but I, I know that one that starts with a P I had to call over here and I had to go and take a blood test to get it re uh.
+
+DOCTOR U783
+Oh yeah you have six refills on that now.
+
+PATIENT U783
+Okay.
+
+DOCTOR U783
+Let's see what some of these are.  Do you still use that um betamethasone which is like um a steroid cream for your skin?  Do you still requiring that at all?
+
+PATIENT U783
+No.  One of them was real good but I can't remember which one it was now.  I just can't remember which one that really worked better than all of them but I can't remember which one it was.  The dermatologist prescribed it.  I was trying to think of what it was so.
+
+DOCTOR U783
+Okay.  Do you still have it at home?
+
+PATIENT U783
+No.
+
+DOCTOR U783
+It hasn't been refilled in a long time.  What are you using it for?  What was the ointment for?
+
+PATIENT U783
+I had a rash on my uh, one on each leg inside here back here and then I came back in the Emergency Room cause I had a real bad uh, well I got a torn ligament here.  You know about that right?
+
+DOCTOR U783
+Uh-huh.
+
+PATIENT U783
+And it still bothering me.  But something happened to my right leg up in here and uh they gave me some, something like Ben Gay.
+
+DOCTOR U783
+Uh-huh @@@.
+
+PATIENT U783
+And some pills.  Oh you know what, before I forget all that, uh I got real, real sick here about a month ago.
+
+DOCTOR U783
+Uh-huh.
+
+PATIENT U783
+And I woke up.  I had some yogurt and some fruit and I went to bed and uh at Tuesday morning, cause I was off that Tuesday, I had the worst stomach ache I've ever had and I started, I didn't eat for three, four days.
+
+DOCTOR U783
+Uh-huh.
+
+PATIENT U783
+Then I started back with uh oatmeal you know and but when I did finally go to the washroom, my stool was black.
+
+DOCTOR U783
+Hmm.
+
+PATIENT U783
+And yesterday I noticed it was real dark also.  I don't know what it was.  I didn't come to the doctor.
+
+DOCTOR U783
+Sounds like an ulcer.  Are you, what are you taking?  Do you take any ibuprofen or is it from the aspirin, baby aspirin?
+
+PATIENT U783
+Um I take the baby aspirin now.  The doctor told me to cut down, the doctor said to cut down to 81 cause I was taking 325 at night.
+
+DOCTOR U783
+Yeah.
+
+PATIENT U783
+81 um but uh and my urine was orange on a couple of mornings.  This was a month or so ago.  Now it's like lemonade probably in color.
+
+DOCTOR U783
+Okay.
+
+PATIENT U783
+But uh I don't know what happened but uh you know.
+
+DOCTOR U783
+It sounds like an ulcer um that probably got irritated and bled and that's what caused your dark stools.  Um have you ever had a scope where they take a look into your stomach?
+
+PATIENT U783
+Uh uh.
+
+DOCTOR U783
+So I mean that's kind of what it sounds like and that's what the point of the actually instead of the ranitidine I'd give you something else um, it's a little stronger for acid suppression.
+
+PATIENT U783
+Oh just thinking about them going down my nose, oh.
+
+DOCTOR U783
+It's down your throat actually but you'll be sedated, you would be sedated if they do that test.
+
+PATIENT U783
+Oh, @@@.
+
+DOCTOR U783
+You don't want that?
+
+PATIENT U783
+@@@.
+
+DOCTOR U783
+I mean that's kind of what it sounds like so what we could do um is also start on that PPI and we'll give you omeprazole um so you can take that once a day and what I can do is check you for this bacteria called H. pylori that can sometimes happen in the stomach um and also it can create ulcers in your stomach actually um and if you do have H. pylori it's very treatable.  You just take a course of antibiotics for two weeks um and that'll knock it out.  Because those things, that bacteria can be really irritating on the stomach and actually cause ulcers so it's good to, um if you have it to treat it because otherwise if you kind of let it fester for years and years and years then what can happen eventually it can cause a type of cancer in the stomach.  So it'd be good to figure out if you have it or not.
+
+PATIENT U783
+Uh-huh.
+
+DOCTOR U783
+And all of that is that it requires you to um, it just requires you to send in a stool sample, that's the best test that we have to see if you have it.  So what you can do is you can go to the Lab and we'll get you the container that you need to put your stool in and send that in.  Can you sit up there for me?  So what are you doing to lose weight?  You said you've been cutting back on things? Are you exercising?
+
+PATIENT U783
+Um not really.  I'm uh, I was going to a gym but uh then I got hurt at that gym.  You want me to take this off?
+
+DOCTOR U783
+No that's okay; you can just take your glasses off for me if you could.
+
+PATIENT U783
+I got hurt at that gym.
+
+DOCTOR U783
+Uh-huh.  
+
+PATIENT U783
+That's how I tore my ligament again.  
+
+DOCTOR U783
+Oh I see.  Do you swim at all?
+
+PATIENT U783
+Uh uh.
+
+DOCTOR U783
+Say ah.
+
+PATIENT U783
+Ah.
+
+DOCTOR U783
+Have you ever noticed bright red blood in your stool or is it just the dark stools?
+
+PATIENT U783
+And this was uh oh it was a month or two ago.
+
+DOCTOR U783
+Uh-huh.
+
+PATIENT U783
+When I had that stomach thing.
+
+DOCTOR U783
+Uh-huh.
+
+PATIENT U783
+And I finally went to the bathroom and then I think it was last night.
+
+DOCTOR U783
+You had another episode?
+
+PATIENT U783
+Looked dark to me but I had had some mustard and turnip greens for lunch too.
+
+DOCTOR U783
+Okay.
+
+PATIENT U783
+I don't know if that was it or not, you know it could've been.  
+
+DOCTOR U783
+Deep breath.  Go ahead and lay back for me for a second.  I just want to listen to your belly.  
+
+PATIENT U783
+Any way you can remove it.
+
+DOCTOR U783
+If only, then I'd be a rich woman.
+
+PATIENT U783
+@@@.
+
+DOCTOR U783
+Any pain in here at all?
+
+PATIENT U783
+Uh uh.
+
+DOCTOR U783
+No pain in here now?
+
+PATIENT U783
+Uh uh. 
+
+DOCTOR U783
+You can sit up.  
+
+PATIENT U783
+How long are you going to be here now?
+
+DOCTOR U783
+I will be here until um June of next year.  You know what we didn’t get on you last time was your blood count, why didn't they do that?  You were 11.8 a year ago.  Have you ever had a colonoscopy?
+
+PATIENT U783
+Yeah.
+
+DOCTOR U783
+Hmm.  The problem is your, you are anemic cause your blood count was low and the MCV which is one of the numbers that we look at tells me that you may be a little bit iron deficient and typically if you're iron deficient and you're anemic that means you're having some form of blood loss from your GI tract.  So it's a little, the thing is you developed this anemia after you had the colonoscopy in 2007 and the iron studies, your iron was a little bit low but the rest of the labs looked okay.  
+
+PATIENT U783
+I was all uh, always borderline.
+
+DOCTOR U783
+You were.
+
+PATIENT U783
+Yeah I was always borderline uh I don't eat a lot of meat.  The last check was B12 and whatever.
+
+DOCTOR U783
+Yeah I guess your blood levels have been pretty stable for the past five years.  The meat aspect could definitely do it too okay.  So what I would say is, could we get a repeat of your blood count today?  Would that be possible here next week sometime?
+
+PATIENT U783
+What have my shot or what?
+
+DOCTOR U783
+Yeah just the blood tests, from the Lab.
+
+PATIENT U783
+I ain't ate so so I guess I'm still under the fasting thing.
+
+DOCTOR U783
+Well that's fine; it's the kind you don't need to be fasting.
+
+PATIENT U783
+Oh.
+
+DOCTOR U783
+So that'll actually be fine.  Um so I'll put it in and then you can get that done and pick up the stool cup too.
+
+PATIENT U783
+Okay.
+
+DOCTOR U783
+So give me just a minute, let me put in the omeprazole for you.
+
+PATIENT U783
+So the medicine I'm on is cool right?
+
+DOCTOR U783
+Which one?
+
+PATIENT U783
+Uh all of them.
+
+DOCTOR U783
+Yeah the only one I'm changing is the acid reflux one; I'm changing it to a different type of an acid reflux medication that's a little bit stronger.
+
+PATIENT U783
+Take it at night too?
+
+DOCTOR U783
+That one you can take in the morning before you eat, like half an hour before you eat.
+
+PATIENT U783
+Is that the one that look like a little capsule?
+
+DOCTOR U783
+I don't know what they look like to be honest.  People ask me that all the time, I have no idea what the medication looks like.  I'll be right back.
+
+PATIENT U783
+Alright.
+
+(DOCTOR OUT:  51:19  DOCTOR IN:  54:50)
+
+(Patient makes the statement "Yeah you make a note cause I know you listening but this is the prettiest doctor I have ever been to.")
+
+DOCTOR U783
+Alrighty.  So I put in for that omeprazole at the Pharmacy if you are able to pick that up today.
+
+PATIENT U783
+Hmm.
+
+DOCTOR U783
+And then if you don't mind just going to the Lab to draw your blood and get that stool um and then just remember the glyburide, your diabetes medication to take one pill at night instead of the two.
+
+PATIENT U783
+Okay.
+
+DOCTOR U783
+Okay and I want to see you back in three months.  If you notice that you're having more frequent dark stools like you had a month ago you need to come in and we need to have GI see you cause that means that you're having some ongoing bleeding from your stomach or somewhere in your upper GI tracts okay.
+
+PATIENT U783
+Alright.
+
+DOCTOR U783
+I know it doesn't sound pleasant to have that procedure done but it's actually quicker than a colonoscopy um and they sedate you for that as well.
+
+PATIENT U783
+One is just as bad as the other.
+
+DOCTOR U783
+I know but I just don't want you bleeding, continously from your stomach okay.
+
+PATIENT U783
+Okay.
+
+DOCTOR U783
+Sound good?
+
+PATIENT U783
+Yeah.
+
+DOCTOR U783
+Alright.
+
+PATIENT U783
+Do you have any callers?
+
+DOCTOR U783
+I don't.  I @@@ at home.  I @@@.
+
+PATIENT U783
+So how am I gonna be able to reach you without going through that computer you know if I have to?
+
+DOCTOR U783
+The best way to do it is to sort of call one of the nurses here in the Gold Clinic and then they pass those messages along to us.  Cause I'm usually not actually at the VA site, I'm over at UNC so um the best way is when they page me and let me know that you want to talk to me.
+
+PATIENT U783
+Okay.
+
+DOCTOR U783
+And that's it, alright.
+
+PATIENT U783
+Okie dokie.
+
+DOCTOR U783
+Very nice meeting you.
+
+PATIENT U783
+Nice meeting you.  Doc you have a good day.
+
+DOCTOR U783
+Thank you, you too.
+
+PATIENT U783
+@@@.
+
+PATIENT LEAVES:  56:44
+
+Time is 10:05.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300284
+TRANSACTION # 578-10-2-316-0103
