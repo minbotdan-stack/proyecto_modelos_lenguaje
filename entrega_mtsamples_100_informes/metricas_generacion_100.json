@@ -1,0 +1,507 @@
+{
+  "cantidad": 100,
+  "mediana_palabras_transcripcion": 3422.5,
+  "mediana_palabras_informe": 291.0,
+  "registros": [
+    {
+      "id": "A320",
+      "palabras_transcripcion": 4672,
+      "palabras_informe": 413
+    },
+    {
+      "id": "A843",
+      "palabras_transcripcion": 4811,
+      "palabras_informe": 402
+    },
+    {
+      "id": "B311",
+      "palabras_transcripcion": 2243,
+      "palabras_informe": 370
+    },
+    {
+      "id": "B610",
+      "palabras_transcripcion": 5365,
+      "palabras_informe": 384
+    },
+    {
+      "id": "C013",
+      "palabras_transcripcion": 4903,
+      "palabras_informe": 341
+    },
+    {
+      "id": "C332",
+      "palabras_transcripcion": 6352,
+      "palabras_informe": 384
+    },
+    {
+      "id": "C353",
+      "palabras_transcripcion": 996,
+      "palabras_informe": 238
+    },
+    {
+      "id": "C602",
+      "palabras_transcripcion": 2067,
+      "palabras_informe": 321
+    },
+    {
+      "id": "D009",
+      "palabras_transcripcion": 2241,
+      "palabras_informe": 343
+    },
+    {
+      "id": "D030",
+      "palabras_transcripcion": 3003,
+      "palabras_informe": 336
+    },
+    {
+      "id": "D106",
+      "palabras_transcripcion": 3545,
+      "palabras_informe": 321
+    },
+    {
+      "id": "D322",
+      "palabras_transcripcion": 2909,
+      "palabras_informe": 332
+    },
+    {
+      "id": "D346",
+      "palabras_transcripcion": 1260,
+      "palabras_informe": 328
+    },
+    {
+      "id": "D557",
+      "palabras_transcripcion": 3840,
+      "palabras_informe": 352
+    },
+    {
+      "id": "E143",
+      "palabras_transcripcion": 4684,
+      "palabras_informe": 338
+    },
+    {
+      "id": "E376",
+      "palabras_transcripcion": 3309,
+      "palabras_informe": 297
+    },
+    {
+      "id": "E463",
+      "palabras_transcripcion": 9293,
+      "palabras_informe": 336
+    },
+    {
+      "id": "E484",
+      "palabras_transcripcion": 5131,
+      "palabras_informe": 341
+    },
+    {
+      "id": "E485",
+      "palabras_transcripcion": 2510,
+      "palabras_informe": 318
+    },
+    {
+      "id": "E704",
+      "palabras_transcripcion": 3894,
+      "palabras_informe": 350
+    },
+    {
+      "id": "E988",
+      "palabras_transcripcion": 4216,
+      "palabras_informe": 337
+    },
+    {
+      "id": "F017",
+      "palabras_transcripcion": 2294,
+      "palabras_informe": 339
+    },
+    {
+      "id": "F064",
+      "palabras_transcripcion": 3308,
+      "palabras_informe": 317
+    },
+    {
+      "id": "F237",
+      "palabras_transcripcion": 3611,
+      "palabras_informe": 351
+    },
+    {
+      "id": "F276",
+      "palabras_transcripcion": 3827,
+      "palabras_informe": 318
+    },
+    {
+      "id": "F815",
+      "palabras_transcripcion": 3088,
+      "palabras_informe": 341
+    },
+    {
+      "id": "F948",
+      "palabras_transcripcion": 5133,
+      "palabras_informe": 322
+    },
+    {
+      "id": "G436",
+      "palabras_transcripcion": 3702,
+      "palabras_informe": 408
+    },
+    {
+      "id": "G479",
+      "palabras_transcripcion": 1526,
+      "palabras_informe": 290
+    },
+    {
+      "id": "H199",
+      "palabras_transcripcion": 1284,
+      "palabras_informe": 235
+    },
+    {
+      "id": "H349",
+      "palabras_transcripcion": 2509,
+      "palabras_informe": 330
+    },
+    {
+      "id": "H507",
+      "palabras_transcripcion": 5685,
+      "palabras_informe": 386
+    },
+    {
+      "id": "H986",
+      "palabras_transcripcion": 2973,
+      "palabras_informe": 249
+    },
+    {
+      "id": "I163",
+      "palabras_transcripcion": 4931,
+      "palabras_informe": 325
+    },
+    {
+      "id": "I377",
+      "palabras_transcripcion": 4231,
+      "palabras_informe": 306
+    },
+    {
+      "id": "I546",
+      "palabras_transcripcion": 3882,
+      "palabras_informe": 310
+    },
+    {
+      "id": "I780",
+      "palabras_transcripcion": 1289,
+      "palabras_informe": 254
+    },
+    {
+      "id": "I907",
+      "palabras_transcripcion": 2799,
+      "palabras_informe": 281
+    },
+    {
+      "id": "J087",
+      "palabras_transcripcion": 2083,
+      "palabras_informe": 256
+    },
+    {
+      "id": "J277",
+      "palabras_transcripcion": 4503,
+      "palabras_informe": 295
+    },
+    {
+      "id": "J539",
+      "palabras_transcripcion": 8016,
+      "palabras_informe": 307
+    },
+    {
+      "id": "J764",
+      "palabras_transcripcion": 6046,
+      "palabras_informe": 305
+    },
+    {
+      "id": "K223",
+      "palabras_transcripcion": 7470,
+      "palabras_informe": 343
+    },
+    {
+      "id": "K343",
+      "palabras_transcripcion": 4427,
+      "palabras_informe": 260
+    },
+    {
+      "id": "K413",
+      "palabras_transcripcion": 3667,
+      "palabras_informe": 285
+    },
+    {
+      "id": "K664",
+      "palabras_transcripcion": 2296,
+      "palabras_informe": 236
+    },
+    {
+      "id": "K673",
+      "palabras_transcripcion": 2660,
+      "palabras_informe": 236
+    },
+    {
+      "id": "L144",
+      "palabras_transcripcion": 1619,
+      "palabras_informe": 215
+    },
+    {
+      "id": "L610",
+      "palabras_transcripcion": 3477,
+      "palabras_informe": 278
+    },
+    {
+      "id": "L682",
+      "palabras_transcripcion": 4306,
+      "palabras_informe": 265
+    },
+    {
+      "id": "L929",
+      "palabras_transcripcion": 2107,
+      "palabras_informe": 248
+    },
+    {
+      "id": "M017",
+      "palabras_transcripcion": 4362,
+      "palabras_informe": 288
+    },
+    {
+      "id": "M191",
+      "palabras_transcripcion": 2792,
+      "palabras_informe": 281
+    },
+    {
+      "id": "N112",
+      "palabras_transcripcion": 992,
+      "palabras_informe": 172
+    },
+    {
+      "id": "N198",
+      "palabras_transcripcion": 4997,
+      "palabras_informe": 282
+    },
+    {
+      "id": "N303",
+      "palabras_transcripcion": 8062,
+      "palabras_informe": 297
+    },
+    {
+      "id": "N372",
+      "palabras_transcripcion": 1503,
+      "palabras_informe": 253
+    },
+    {
+      "id": "N655",
+      "palabras_transcripcion": 3510,
+      "palabras_informe": 259
+    },
+    {
+      "id": "N685",
+      "palabras_transcripcion": 2359,
+      "palabras_informe": 249
+    },
+    {
+      "id": "O005",
+      "palabras_transcripcion": 2513,
+      "palabras_informe": 276
+    },
+    {
+      "id": "O313",
+      "palabras_transcripcion": 2409,
+      "palabras_informe": 284
+    },
+    {
+      "id": "O603",
+      "palabras_transcripcion": 2288,
+      "palabras_informe": 268
+    },
+    {
+      "id": "P330",
+      "palabras_transcripcion": 4167,
+      "palabras_informe": 273
+    },
+    {
+      "id": "Q111",
+      "palabras_transcripcion": 4065,
+      "palabras_informe": 276
+    },
+    {
+      "id": "Q133",
+      "palabras_transcripcion": 4341,
+      "palabras_informe": 299
+    },
+    {
+      "id": "Q175",
+      "palabras_transcripcion": 2658,
+      "palabras_informe": 247
+    },
+    {
+      "id": "Q561",
+      "palabras_transcripcion": 3368,
+      "palabras_informe": 280
+    },
+    {
+      "id": "Q755",
+      "palabras_transcripcion": 2418,
+      "palabras_informe": 264
+    },
+    {
+      "id": "Q997",
+      "palabras_transcripcion": 2966,
+      "palabras_informe": 263
+    },
+    {
+      "id": "R458",
+      "palabras_transcripcion": 3739,
+      "palabras_informe": 292
+    },
+    {
+      "id": "R642",
+      "palabras_transcripcion": 3190,
+      "palabras_informe": 266
+    },
+    {
+      "id": "S027",
+      "palabras_transcripcion": 7010,
+      "palabras_informe": 279
+    },
+    {
+      "id": "S363",
+      "palabras_transcripcion": 2180,
+      "palabras_informe": 261
+    },
+    {
+      "id": "S459",
+      "palabras_transcripcion": 1522,
+      "palabras_informe": 249
+    },
+    {
+      "id": "S463",
+      "palabras_transcripcion": 2593,
+      "palabras_informe": 240
+    },
+    {
+      "id": "S967",
+      "palabras_transcripcion": 3631,
+      "palabras_informe": 280
+    },
+    {
+      "id": "T380",
+      "palabras_transcripcion": 2575,
+      "palabras_informe": 271
+    },
+    {
+      "id": "T497",
+      "palabras_transcripcion": 2190,
+      "palabras_informe": 238
+    },
+    {
+      "id": "T606",
+      "palabras_transcripcion": 4943,
+      "palabras_informe": 262
+    },
+    {
+      "id": "T665",
+      "palabras_transcripcion": 2887,
+      "palabras_informe": 240
+    },
+    {
+      "id": "V282",
+      "palabras_transcripcion": 3206,
+      "palabras_informe": 251
+    },
+    {
+      "id": "V469",
+      "palabras_transcripcion": 3951,
+      "palabras_informe": 254
+    },
+    {
+      "id": "V623",
+      "palabras_transcripcion": 4088,
+      "palabras_informe": 298
+    },
+    {
+      "id": "V773",
+      "palabras_transcripcion": 6806,
+      "palabras_informe": 279
+    },
+    {
+      "id": "W204",
+      "palabras_transcripcion": 2854,
+      "palabras_informe": 249
+    },
+    {
+      "id": "W253",
+      "palabras_transcripcion": 7109,
+      "palabras_informe": 307
+    },
+    {
+      "id": "W915",
+      "palabras_transcripcion": 3010,
+      "palabras_informe": 297
+    },
+    {
+      "id": "X026",
+      "palabras_transcripcion": 2861,
+      "palabras_informe": 297
+    },
+    {
+      "id": "X607",
+      "palabras_transcripcion": 1534,
+      "palabras_informe": 218
+    },
+    {
+      "id": "X745",
+      "palabras_transcripcion": 4336,
+      "palabras_informe": 322
+    },
+    {
+      "id": "X848",
+      "palabras_transcripcion": 1576,
+      "palabras_informe": 245
+    },
+    {
+      "id": "X885",
+      "palabras_transcripcion": 7726,
+      "palabras_informe": 309
+    },
+    {
+      "id": "Y336",
+      "palabras_transcripcion": 2362,
+      "palabras_informe": 296
+    },
+    {
+      "id": "Y471",
+      "palabras_transcripcion": 4163,
+      "palabras_informe": 341
+    },
+    {
+      "id": "Y768",
+      "palabras_transcripcion": 1898,
+      "palabras_informe": 279
+    },
+    {
+      "id": "Z075",
+      "palabras_transcripcion": 1308,
+      "palabras_informe": 258
+    },
+    {
+      "id": "Z166",
+      "palabras_transcripcion": 3518,
+      "palabras_informe": 327
+    },
+    {
+      "id": "Z196",
+      "palabras_transcripcion": 3726,
+      "palabras_informe": 284
+    },
+    {
+      "id": "Z293",
+      "palabras_transcripcion": 5419,
+      "palabras_informe": 328
+    },
+    {
+      "id": "Z641",
+      "palabras_transcripcion": 4479,
+      "palabras_informe": 303
+    }
+  ]
+}

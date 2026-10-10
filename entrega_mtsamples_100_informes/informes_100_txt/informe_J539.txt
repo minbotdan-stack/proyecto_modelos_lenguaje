@@ -1,0 +1,20 @@
+Sample Name: COPD and Medication Followup
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Follow-up for obstructive lung disease, recurrent pleuritic pain, medication requests, and monitoring of a previously enlarged aorta.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient has chronic obstructive pulmonary disease managed with inhalers, including Spiriva, formoterol, and Combivent as needed. He has previously used prednisone and azithromycin during respiratory exacerbations and requests refills to keep available. He also complains of intermittent pleuritic chest discomfort for which Tylenol offers incomplete relief and asks about Advil. The clinician advises against routine ibuprofen and discusses an alternative. He continues guaifenesin and omeprazole, which he takes less frequently than the label indicates. Magnesium levels have normalized. Previous imaging reportedly noted a mildly enlarged aorta, without recent follow-up. Blood pressure, cholesterol, electrolytes, and renal function are described as stable.
+
+PHYSICAL EXAMINATION: Stable vital signs and good breath sounds without significant abnormality heard on auscultation. Abdominal examination performed.
+
+ASSESSMENT AND PLAN:
+1. COPD. Maintain controller inhalers. Limited refills of prednisone and azithromycin were considered or provided, with firm instructions to seek a nurse or physician examination for new cough or wheezing before starting a full rescue course. Risks of repeated unnecessary antibiotics and corticosteroids were reviewed.
+2. Pleuritic pain. Avoid Advil. Trial tramadol 25 mg initially, increasing to 50 mg if needed, up to every eight hours as needed; warned about drowsiness and advised first use at home in the evening.
+3. Hypomagnesemia, resolved. Stop scheduled magnesium for now and recheck with routine laboratory work.
+4. Prior aortic enlargement. Repeat screening abdominal ultrasound ordered to reassess size and determine whether specialist referral or surveillance is required.
+5. Preventive care. Discussed advance directives and routine HIV screening as optional services. Obtain repeat laboratory tests and an EKG at a subsequent visit, including monitoring in relation to azithromycin use.

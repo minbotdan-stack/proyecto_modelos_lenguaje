@@ -1,0 +1,952 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:    @@@
+
+DOCTOR X026
+PATIENT?
+
+PATIENT X026
+Oh right here.
+
+DOCTOR X026
+How are you?
+
+PATIENT X026
+Are you sir?
+
+DOCTOR X026
+Good how are you?
+
+PATIENT X026
+I'm pretty good.  Let me uh, my wife will come with us.
+
+DOCTOR X026
+Okay.  @@@ so how were your holidays?
+
+PATIENT X026
+Oh real good.  Real good.
+
+DOCTOR X026
+@@@.
+
+PATIENT'S WIFE X026
+Hard.
+
+PATIENT X026
+Oh it was slow going you know.  That's all you can do.
+
+PATIENT'S WIFE X026
+It stopped there.
+
+PATIENT X026
+@@@.  Yeah we've been here since 8:30.
+
+DOCTOR X026
+Yeah it was snowing pretty heavily when I walked over @@@.
+
+PATIENT X026
+Yeah oh.  Yeah we tried getting here earlier cause I had an eye exam this morning.
+
+DOCTOR X026
+Did you make it?
+
+PATIENT'S WIFE X026
+Oh yes.
+
+PATIENT X026
+Oh yeah we made it.  We were here since 8:30 this morning.
+
+DOCTOR X026
+Okay.
+
+PATIENT X026
+Yeah.
+
+DOCTOR X026
+How have you been doing?
+
+PATIENT X026
+Oh I've been doing okay.
+
+DOCTOR X026
+Any current issues.  Any pain uh, chest pains, shortness of breath, feeling your heart racing at all.  Now you've got to be honest with your wife here.
+
+PATIENT'S WIFE X026
+(Laughs)
+
+PATIENT X026
+Oh, oh.  No I uh you know.
+
+DOCTOR X026
+@@@.
+
+PATIENT X026
+You know.
+
+DOCTOR X026
+I can tell by her facial expression.
+
+PATIENT X026
+(Laughter)  Yeah I, you know I work out.  Maybe I you know from lifting weights and sometimes you know I feel kind of you know sore and that but uh otherwise you know.
+
+DOCTOR X026
+Any nausea, vomiting?
+
+PATIENT X026
+Uh no, no.
+
+DOCTOR X026
+Um and your bowels are okay?
+
+PATIENT X026
+Yeah I'm moving my bowels okay.
+
+DOCTOR X026
+How are your sugars doing?
+
+PATIENT X026
+Well you know uh my sugars are sometimes are high in the morning.  You know I brought my uh.
+
+DOCTOR X026
+Did you bring your log for me?
+
+PATIENT X026
+Yeah I did.
+
+DOCTOR X026
+Excellent.
+
+PATIENT X026
+But uh you know it seems like after I exercise everything comes down you know.
+
+DOCTOR X026
+It generally will.
+
+PATIENT X026
+Yeah like uh this morning I got up, I took it you know when I get up in the morning it was 188 and then after I shoveled it went down to 132.
+
+DOCTOR X026
+Okay.  So when do you take your um, when do you take your Glargine?  The long-acting insulin, the shot?
+
+PATIENT X026
+The shot, I take that before I go to bed.
+
+DOCTOR X026
+Okay.
+
+PATIENT X026
+But you know I don't go to bed at a standard time you know.
+
+DOCTOR X026
+What time do you normally go to bed at?
+
+PATIENT X026
+Uh what is it about 8:30, 9?
+
+PATIENT'S WIFE X026
+9, it depends.
+
+PATIENT X026
+Around 9.
+
+DOCTOR X026
+That's, well that's exactly what I wanted to see and you're only checking your sugar one time a day?
+
+PATIENT X026
+No, twice.
+
+DOCTOR X026
+When are you checking, oh before breakfast?
+
+PATIENT X026
+This is where; I go to the gym in the morning.
+
+DOCTOR X026
+Okay.
+
+PATIENT X026
+So I check it so I know where my sugar is you know.
+
+DOCTOR X026
+Yeah.
+
+PATIENT X026
+And uh.
+
+DOCTOR X026
+So I want you to continue doing that.  Looking at the numbers, it's always high in the morning which means your Glargine needs to go up a little bit okay.  So I'm going to gently titrate that up.
+
+PATIENT X026
+Okay.
+
+DOCTOR X026
+I'm gonna do it gently because I know you're seeing PHARMACIST, the clinical pharmacist.
+
+PATIENT X026
+Yeah.
+
+DOCTOR X026
+In about two weeks or actually three weeks from now.
+
+PATIENT X026
+Oh is it, okay.
+
+PATIENT'S WIFE X026
+Are we going to see her doctor?
+
+DOCTOR X026
+@@@.
+
+PATIENT'S WIFE X026
+Okay because sometimes they call but that's kind of erratic.
+
+DOCTOR X026
+The 23rd, I apologize okay.
+
+PATIENT X026
+Okay, what is that, this one here just uh?
+
+DOCTOR X026
+That ones okay.  @@@.
+
+PATIENT X026
+Well you know uh what happened here.
+
+DOCTOR X026
+No see we checked these and then she called and then I made the changes to your labs so this is right.
+
+PATIENT X026
+Okay that's right but I'm taking the one right now.
+
+PATIENT'S WIFE X026
+0.1 @@@.
+
+PATIENT X026
+0.1 yeah.
+
+PATIENT'S WIFE X026
+Is that right?@@@.
+
+DOCTOR X026
+I want you to take this amount.
+
+PATIENT X026
+Okay that's
+
+PATIENT'S WIFE X026
+Can you drop it down, is it alright to drop it down because.
+
+DOCTOR X026
+Yeah no we're following the labs.
+
+PATIENT'S WIFE X026
+Oh okay.
+
+DOCTOR X026
+We only make medication changes when we see lab numbers that prove @@@.
+
+PATIENT X026
+Okay.
+
+PATIENT'S WIFE X026
+I see.
+
+DOCTOR X026
+Okay.
+
+PATIENT X026
+So now I can take this now?
+
+DOCTOR X026
+Yes.
+
+PATIENT X026
+Okay.
+
+DOCTOR X026
+Now this one, I'm going to go up to 20, Glargine.
+
+PATIENT'S WIFE X026
+Okay.
+
+DOCTOR X026
+Instead of 18 we're going to 20.
+
+PATIENT X026
+Oh the insulin oh.
+
+DOCTOR X026
+Yes sir.  Your sugars are high in the morning.
+
+PATIENT'S WIFE X026
+Uh-huh.
+
+DOCTOR X026
+They're a little higher than we like.  So I know cause we retook the hemoglobin A1c amount.  So when you see DOCTOR.
+
+PATIENT'S WIFE X026
+Uh-huh.
+
+DOCTOR X026
+I want you to check the hemoglobin A1c.  That's on February 3rd.  I'll put it in the computer okay?
+
+PATIENT X026
+Okay.
+
+DOCTOR X026
+And I want to check your lipids at the same time.
+
+PATIENT X026
+February 3rd huh?
+
+DOCTOR X026
+You'll get a little notice thing about it but uh.
+
+PATIENT'S WIFE X026
+We don't have to make that appointment doctor.
+
+DOCTOR X026
+No it's already made.
+
+PATIENT'S WIFE X026
+Alright doctor.
+
+PATIENT X026
+Oh great.
+
+PATIENT'S WIFE X026
+@@@.  Well I know you used to do all the appointments but now I want to make sure that @@@.
+
+PATIENT X026
+@@@ change all the time.  Oh you want to.
+
+DOCTOR X026
+Take off your coat.
+
+PATIENT'S WIFE X026
+You know what doctor.
+
+DOCTOR X026
+@@@
+
+PATIENT'S WIFE X026
+The only thing he did not get that aspirin anymore.   @@@.
+
+PATIENT X026
+@@@.
+
+PATIENT'S WIFE X026
+@@@.
+
+PATIENT X026
+There's more than just the aspirin but uh.  There’s other medication I don't take either.
+
+PATIENT'S WIFE X026
+@@@.
+
+PATIENT X026
+The thing for my toes.
+
+PATIENT'S WIFE X026
+@@@.
+
+DOCTOR X026
+So, here’s what you do about that.
+
+PATIENT'S WIFE X026
+Yes.
+
+DOCTOR X026
+You call me.
+
+PATIENT'S WIFE X026
+Yes.
+
+DOCTOR X026
+You call the office say “I want this, this and this” and I will handle them, okay?
+
+PATIENT'S WIFE X026
+Okay.
+
+PATIENT X026
+Okay.
+
+DOCTOR X026
+But you'll remember them now?
+
+PATIENT X026
+Yeah I've gotten them written down here.
+
+PATIENT'S WIFE X026
+But they got aspirin and I know he's not taking that.
+
+PATIENT X026
+I'm not taking that yeah.
+
+PATIENT'S WIFE X026
+@@@.
+
+PATIENT X026
+@@@  okay, okay.
+
+DOCTOR X026
+I got to go talk to the boss and while I talk to the boss you can chat.
+
+PATIENT X026
+Okay.
+
+DOCTOR X026
+Okay.  Sorry.  They tell me you have a @@@.
+
+PATIENT'S WIFE X026
+@@@.
+
+DOCTOR X026
+There you go.  I want to make sure I give you all the right amount of time.  I don't want to frustrate anybody.
+
+PATIENT X026
+Ah, ah.
+
+DOCTOR X026
+@@@.
+
+PATIENT X026
+No.
+
+PATIENT'S WIFE X026
+I'm usually at Stanford with my sick sister who lives alone.
+
+DOCTOR X026
+@@@.
+
+PATIENT'S WIFE X026
+Well she's really @@@.  
+
+DOCTOR X026
+Now PATIENT your eyesight @@@ diabetic retinopathy @@@.
+
+PATIENT X026
+Yeah.
+
+DOCTOR X026
+Okay they told you anything about it?  @@@.
+
+PATIENT X026
+Uh.  
+
+DOCTOR X026
+@@@. Give my hands a squeeze.
+
+PATIENT X026
+You sure?
+
+DOCTOR X026
+Yeah come on.  @@@.  I'm going need some background; I need to get some ideas.
+
+PATIENT'S WIFE X026
+That's strong.
+
+DOCTOR X026
+I want you to do a biceps curl, do you know what that is?
+
+PATIENT X026
+Yes.
+
+DOCTOR X026
+Put your leg up.  Good.  @@@.
+
+PATIENT X026
+Oh that way okay.
+
+DOCTOR X026
+Now really push down.  Good.  Have a nice Christmas?
+
+PATIENT'S WIFE X026
+Oh yeah we had a very nice time.
+
+DOCTOR X026
+Did family make it here?
+
+PATIENT X026
+Oh yeah.
+
+PATIENT'S WIFE X026
+Uh-huh.
+
+DOCTOR X026
+Any grandkids?
+
+PATIENT'S WIFE X026
+Oh yeah we have three.
+
+DOCTOR X026
+Congratulations.
+
+PATIENT'S WIFE X026
+Oh thank you.
+
+DOCTOR X026
+My parents were married kind of late and they like to send us our presents.
+
+PATIENT'S WIFE X026
+Oh.  Is this the first grandchild?
+
+DOCTOR X026
+The first official one.  My son @@@ hasn't been with us over the years.
+
+PATIENT'S WIFE X026
+I see.
+
+DOCTOR X026
+In India so it's been more like @@@ adoptive children.
+
+PATIENT'S WIFE X026
+Oh how wonderful.
+
+DOCTOR X026
+They all have kids but this is the first real grandkid.  Will you lay back for me?
+
+PATIENT X026
+Sure.
+
+DOCTOR X026
+Yeah my brother's called me and I say are you ready to be an uncle and he says yes.  @@@.
+
+PATIENT'S WIFE X026
+That's good news.
+
+DOCTOR X026
+Yeah @@@.
+
+PATIENT'S WIFE X026
+@@@.
+
+DOCTOR X026
+@@@.  Does this hurt?
+
+PATIENT X026
+No.
+
+DOCTOR X026
+How about this.
+
+PATIENT X026
+No.
+
+DOCTOR X026
+And then you've been checking your feet every single day?
+
+PATIENT X026
+Oh yeah I check them all the time yeah.
+
+PATIENT'S WIFE X026
+And I think they look pretty good.
+
+PATIENT X026
+Yeah.
+
+PATIENT'S WIFE X026
+@@@ that horrible fungus.
+
+DOCTOR X026
+Hop up @@@.
+
+PATIENT'S WIFE X026
+Something he's had for a long time.
+
+DOCTOR X026
+Well you know medicine-wise there are a lot of different medicines.  Walmart has this great $4 thing now, cheaper than the VA.
+
+PATIENT X026
+Yeah.
+
+DOCTOR X026
+I have no problem if you use it, I just need to keep track of it.
+
+PATIENT'S WIFE X026
+I see that.
+
+PATIENT X026
+You know that's one of the things I want to uh cancel is the toenail uh.
+
+DOCTOR X026
+Did you want to cancel it?
+
+PATIENT X026
+Yeah I don't uh, yeah we uh.  You know I haven't been using it and it seems like my toenails are a lot better.
+
+DOCTOR X026
+Well let's change it then.
+
+PATIENT'S WIFE X026
+That seems strange.
+
+PATIENT X026
+Yeah and then the, the nasal, you gave me a nasal this one here here too.  The nasal.
+
+DOCTOR X026
+@@@.
+
+PATIENT X026
+@@@.
+
+DOCTOR X026
+@@@ this is the one you don't need anymore?
+
+PATIENT X026
+No, no.  Remember the one time I had that suction or something and it doesn't bother me anymore.
+
+DOCTOR X026
+Okay.
+
+PATIENT X026
+I got two of them that I haven't used yet.
+
+DOCTOR X026
+Okay.  I'll listen to your heart, okay, okay.
+
+PATIENT X026
+@@@ right.
+
+DOCTOR X026
+@@@.  I'll talk to DOCTOR.  Back in a few minutes.
+
+PATIENT X026
+Alright.
+
+(DOCTOR OUT:  79:22  DOCTOR IN:  84:56)
+
+DOCTOR X026
+So @@@ Valentines Day.
+
+PATIENT'S WIFE X026
+Well the next day's my birthday so.
+
+DOCTOR X026
+Oh.
+
+PATIENT X026
+I got a double whammer there.
+
+PATIENT'S WIFE X026
+Oh (laughter).
+
+PATIENT X026
+She won't combine them together.
+
+PATIENT'S WIFE X026
+No, no, no.  I wasn’t born on Valentines.
+
+PATIENT X026
+Yeah we usually go out for dinner huh.
+
+PATIENT'S WIFE X026
+Yeah, uh-huh.
+
+DOCTOR X026
+Alrighty um.  Have you ever been on an Ace inhibitor?
+
+PATIENT'S WIFE X026
+What is that doctor?
+
+DOCTOR X026
+Lisinopril or.
+
+PATIENT X026
+What is it?
+
+PATIENT'S WIFE X026
+Lisinopril.  I don't think you have but I take lisinopril, but I don't think you've ever taken it though.  Isn't that for blood pressure doctor?
+
+DOCTOR X026
+Um, yes and no.
+
+PATIENT'S WIFE X026
+Oh, okay.
+
+DOCTOR X026
+It is but it also provides some protection.
+
+PATIENT'S WIFE X026
+I don't think everybody @@@.
+
+DOCTOR X026
+That's fine, he should be off of that right now.
+
+PATIENT X026
+But we now, when I, when I say we're going to cancel the aspirin something, gonna still take them?
+
+DOCTOR X026
+Yeah, yeah.
+
+PATIENT X026
+Okay.
+
+DOCTOR X026
+Okay you're fine.
+
+PATIENT X026
+Yeah and uh you know what is that um, uh.  You gave me some medication so my heart wouldn’t race.
+
+DOCTOR X026
+The verapamil?
+
+PATIENT X026
+Is that what that is?  What does that do, I mean what is that?
+
+DOCTOR X026
+It's a calcium channel blocker so basically it blocks calcium which seems to aggravate muscles um so there are a bunch of different kinds.  The beta blocker it treats the work of your heart.  The lisinopril is an Ace inhibitor, it works in the kidneys to decrease resistance in your heart but also protects your kidneys.  Most diabetics are on it.  Since your urine and albumin look okay we don't need you to start one right now.
+
+PATIENT X026
+Oh okay.
+
+DOCTOR X026
+And if that goes high you may need them.
+
+PATIENT X026
+Oh okay.
+
+DOCTOR X026
+Okay, so I'm actually gonna check a bunch of labs and in February okay.
+
+PATIENT X026
+Okay.
+
+DOCTOR X026
+If you can come in when you see the pharmacist DOCTOR, you need to come and get those labs for me, that would be appreciated.
+
+PATIENT X026
+Oh okay.
+
+PATIENT'S WIFE X026
+So we should make an appointment with you then today doctor?
+
+PATIENT X026
+@@@.
+
+DOCTOR X026
+No I @@@.
+
+PATIENT'S WIFE X026
+They'll just send them to you?
+
+DOCTOR X026
+Yeah.
+
+PATIENT X026
+Yeah we'll just go there.  In other words they're gonna take blood.
+
+PATIENT'S WIFE X026
+Alright.
+
+PATIENT X026
+I don't have to fast or anything.
+
+DOCTOR X026
+Alright, come in the morning but don't eat breakfast.
+
+PATIENT X026
+Okay.
+
+PATIENT'S WIFE X026
+Okay so.
+
+DOCTOR X026
+And you can skip your exercise for the day.
+
+PATIENT X026
+Oh okay.
+
+DOCTOR X026
+I give you permission.
+
+PATIENT X026
+Oh alright.
+
+PATIENT'S WIFE X026
+Then we'll be @@@.
+
+PATIENT X026
+@@@ as long as @@@ you kind of miss it, it's part of your lifestyle you know.
+
+DOCTOR X026
+Oh I know, I'm uh exercise 5 or 6 days a week.
+
+PATIENT X026
+Oh do you, oh then good for you.
+
+DOCTOR X026
+I do @@@.  You didn't know that.
+
+PATIENT'S WIFE X026
+Well that's why you're so trim too.
+
+PATIENT X026
+Yeah, what you go to a club or?
+
+DOCTOR X026
+Uh I live in a downtown building we have a gym.
+
+PATIENT X026
+Oh that's great.
+
+DOCTOR X026
+I'm going outside when I can but it's not great.
+
+PATIENT'S WIFE X026
+No.
+
+DOCTOR X026
+This time of the year so.
+
+PATIENT X026
+Yeah I think when it's nice I walk a lot and uh and then I ride a bike.
+
+DOCTOR X026
+@@@.
+
+PATIENT X026
+And uh you know I belong to a club too and uh I like the elliptical.
+
+DOCTOR X026
+You know.
+
+PATIENT X026
+I do that for.
+
+DOCTOR X026
+That hurts my knees.
+
+PATIENT X026
+Does it, oh.
+
+DOCTOR X026
+I always heard it was supposed to be easier on your knees.
+
+PATIENT X026
+Yeah it is.
+
+DOCTOR X026
+I think they are wrong.
+
+PATIENT'S WIFE X026
+Oh.
+
+PATIENT X026
+It don't hurt mine.
+
+DOCTOR X026
+My knees hurt and it's usually in the winter time that I use it.  
+
+PATIENT'S WIFE X026
+@@@ asked me if he can drive, you know @@@ aerobics they have @@@.
+
+PATIENT X026
+I got an artificial knee.
+
+DOCTOR X026
+I'm probably gonna have one @@@.
+
+PATIENT X026
+Well yeah but uh.
+
+DOCTOR X026
+I played a lot of football when I was younger.
+
+PATIENT X026
+Oh, yeah wow, yeah.  But I that's the best thing, that's better than the treadmill.
+
+DOCTOR X026
+I actually think the treadmill is better than the aerobic machine; it's just a little harder on your body.
+
+PATIENT X026
+Yeah and on the joints.
+
+DOCTOR X026
+That's right.
+
+PATIENT X026
+But I tell you what's better is the water.
+
+PATIENT'S WIFE X026
+The water is very good.
+
+PATIENT X026
+Water is better.  Okay we're all done?
+
+DOCTOR X026
+Uh-huh, yes sir.
+
+PATIENT X026
+Okay.
+
+PATIENT'S WIFE X026
+Okay.
+
+DOCTOR X026
+So I'll see you guys in six months.  I'll call you with any labs.  Any medicines you guy need, call me.
+
+PATIENT X026
+Okay.
+
+DOCTOR X026
+And then we'll both go from there.
+
+PATIENT'S WIFE X026
+Alright.
+
+PATIENT X026
+Okay.
+
+PATIENT'S WIFE X026
+Nice to see you again doctor.
+
+DOCTOR X026
+Nice seeing you.
+
+PATIENT'S WIFE X026
+Have a good @@@@.
+
+PATIENT X026
+Happy New Year and you're looking great.
+
+DOCTOR X026
+Yeah you're looking great too.
+
+PATIENT X026
+Yeah.
+
+PATIENT'S WIFE X026
+Well thank you.
+
+PATIENT X026
+Well okay, I think we got everything right.
+
+DOCTOR X026
+Yes you do.  @@@.
+
+PATIENT'S WIFE X026
+Now doctor did you fill his insulin and so forth?  
+
+DOCTOR X026
+Uh-huh.
+
+PATIENT'S WIFE X026
+Good because that was definitely needed.
+
+PATIENT X026
+Yeah.
+
+PATIENT'S WIFE X026
+Alrighty.
+
+PATIENT X026
+Okay.
+
+PATIENT LEAVES: 90:13
+
+Time is 2:05
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1235338
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,413 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@ 
+
+DOCTOR K791
+PATIENT?  @@@.  What about the shingles vaccine, have you had the vaccine for the shingles?
+
+PATIENT K791
+I don't think so.
+
+DOCTOR K791
+I don't think you have either.  Um @@@.  If you were to get shingles @@@ the amount of pain that you’d get @@@ over 65 @@@ order that for you but you'll have to come back for it because @@@ nurses that @@@.  I can put a note on here that you'd like the shingles um vaccine today, maybe they could somehow do it for you.  Um we can ask the nurse to give you the shot but usually you have to come back for um the shingles vaccine okay.
+
+PATIENT K791
+I don’t want to make a special trip for that.
+
+DOCTOR K791
+@@@ how about we just order it and the next time and they can coordinate it with your next visit, okay?
+
+PATIENT K791
+Sure.  I don't want to make another trip like today. It was pretty hard.
+
+DOCTOR K791
+The traffic?  The traffic was bad this morning.
+
+PATIENT K791
+Well yeah they didn't plow @@@.
+
+DOCTOR K791
+Oh I see.
+
+PATIENT K791
+@@@ pretty bad.  Harlem – there was a lot of traffic @@@.
+
+DOCTOR K791
+How have you been your blood sugars been at home?
+
+PATIENT K791
+Uh (laughs) I have a beef.
+
+DOCTOR K791
+Uh-huh.
+
+PATIENT K791
+Over at the outpatient clinic.
+
+DOCTOR K791
+Yeah what's the problem?
+
+PATIENT K791
+Well they seems they go by the calendar I uh, take a look at that and uh so I ran out of pills.
+
+DOCTOR K791
+Oh you did.
+
+PATIENT K791
+Yeah so I called up the order and they told me that uh the prescription would be, I had enough medicine for another month.
+
+DOCTOR K791
+@@@ accidentally lose some pills @@@?  You would have gotten them in the mail.
+
+PATIENT K791
+Yeah, yeah.
+
+DOCTOR K791
+Misplaced them or.
+
+PATIENT K791
+Sold them to the Mafia.
+
+DOCTOR K791
+Nobody is gonna buy blood pressure medicine okay, so you didn't like misplace them or lose them when you were on vacation or anything like that.
+
+PATIENT K791
+@@@.  My blood sugar uh yeah I'm, my blood sugar on December 11th was 131 and on the 14th it was 141 and uh at 2:00 p.m. on the 14th it was 198.
+
+DOCTOR K791
+Is that when you had run out of the medication?
+
+PATIENT K791
+Yes and because they're giving me this you've got enough for 30 more days.
+
+DOCTOR K791
+Hmm.
+
+PATIENT K791
+They never, they wouldn't send it so for ten days I called them up and talked to the pharmacist and @@@ anyway the pharmacist called because uh.
+
+DOCTOR K791
+Okay so now do you have them again or not?
+
+PATIENT K791
+I what?
+
+DOCTOR K791
+Do you have the pills right now?
+
+PATIENT K791
+Yes.
+
+DOCTOR K791
+You do okay.
+
+PATIENT K791
+But I have.
+
+DOCTOR K791
+So for ten days you were out of it?
+
+PATIENT K791
+More than ten days.
+
+DOCTOR K791
+Okay.
+
+PATIENT K791
+And then they were, and then they were uh @@@ now.  They won't send me glipizide supplies for almost two weeks, 13 more days.
+
+DOCTOR K791
+Hmm.
+
+PATIENT K791
+I don't think I've got enough pills to last 13 more days cause I take three a day.
+
+DOCTOR K791
+Uh-huh.
+
+PATIENT K791
+1 1/2 twice a day.
+
+DOCTOR K791
+Uh-huh.
+
+PATIENT K791
+And I don't think I've got enough pills to last 13 days.
+
+DOCTOR K791
+Um, you're taking how many?  You're taking three times a day?
+
+PATIENT K791
+No, @@@.
+
+DOCTOR K791
+So 1 1/2 pills.
+
+PATIENT K791
+Yes.
+
+DOCTOR K791
+Uh-huh.
+
+PATIENT K791
+I’m a college graduate.
+
+DOCTOR K791
+Yeah I don't know how they thought that @@@ but.
+
+PATIENT K791
+@@@. It’s all my fault!
+
+DOCTOR K791
+Okay.
+
+PATIENT K791
+@@@ machine. One of them was watching the machine and it screwed up. That’s all. I don’t give them away. I don’t sell them.
+
+DOCTOR K791
+Uh-huh.
+
+PATIENT K791
+And I don't get high off of them so I don't know.
+
+DOCTOR K791
+I don't think there's any way you could get high off them.  
+
+PATIENT K791
+Uh-huh.
+
+DOCTOR K791
+It's not that kind of medication.  Okay I'm sorry that they gave you a hard time about it.
+
+PATIENT K791
+Okay, like Mr. District Attorney but uh.
+
+DOCTOR K791
+Are you able to go downstairs for some labs today?
+
+PATIENT K791
+I went downstairs today.
+
+DOCTOR K791
+To the Lab?
+
+PATIENT K791
+Oh to the Lab no.
+
+DOCTOR K791
+Okay so I'll have you stop by the Lab on your way out so you don't have to make an extra trip.
+
+PATIENT K791
+I'm not gonna make an extra trip.
+
+DOCTOR K791
+Yeah I'm saying so you don't have to make an extra trip since you've done that a lot.
+
+PATIENT K791
+Yeah.
+
+DOCTOR K791
+Are you fasting today?
+
+PATIENT K791
+No.
+
+DOCTOR K791
+You're not okay.  Um you know it helps when you come to the VA to be fasting cause usually we check your cholesterol and that way you don't have to make an extra trip while you're fasting okay.
+
+PATIENT K791
+How many @@@ cholesterol @@@.
+
+DOCTOR K791
+Less than two.
+
+PATIENT K791
+@@@.
+
+DOCTOR K791
+@@@ uh-huh.  Two to three @@@.
+
+PATIENT K791
+Alright @@@ so one of them @@@.
+
+DOCTOR K791
+We could probably do that, if you wanted to fast next time and come and then we can just check one lab today, the diabetes lab, the A1c.  You don't have to be fasting for that so we'll check that today and then the other one can be checked next time you come.
+
+PATIENT K791
+Sounds good.
+
+DOCTOR K791
+Okay.  @@@.  So the diabetes lab we'll check today okay?
+
+PATIENT K791
+Yeah that's fine.
+
+DOCTOR K791
+Okay.  
+
+PATIENT K791
+They're billing Blue Cross/Blue Shield and they're trying to collect $440 from me.
+
+DOCTOR K791
+From you?
+
+PATIENT K791
+From Blue Cross/Blue Shield.
+
+DOCTOR K791
+Oh really.
+
+PATIENT K791
+They told me to @@@.
+
+DOCTOR K791
+Huh.  Well how's everything else been?
+
+PATIENT K791
+(Laughs).
+
+DOCTOR K791
+@@@.  And then I'll order that shingles vaccine for you.
+
+PATIENT K791
+Most of the time they'll send me a letter saying you're due @@@ two weeks from now @@@.
+
+DOCTOR K791
+@@@ at the time of the next visit with DOCTOR.
+
+PATIENT K791
+Great.  @@@.  Now if I get in trouble with this medicine should I call you?  Who do I call?
+
+DOCTOR K791
+Um you know I don't know how much I'll be able to do because of the rules and their limitations.
+
+PATIENT K791
+Okay.
+
+DOCTOR K791
+So for a few days if you're running low you may have to take your glipizide just twice a day @@@ okay.  I'm sorry about that.
+
+PATIENT K791
+@@@.
+
+DOCTOR K791
+@@@ talk about?
+
+PATIENT K791
+Yeah I'm getting some trouble with my joints.
+
+DOCTOR K791
+Uh-huh.
+
+PATIENT K791
+@@@ straight.
+
+DOCTOR K791
+Is @@@ in your hands or?
+
+PATIENT K791
+In my hands.
+
+DOCTOR K791
+Just in your hands okay.  @@@ which thumb?
+
+PATIENT K791
+Mainly this one.
+
+DOCTOR K791
+Uh-huh.
+
+PATIENT K791
+And this one.
+
+DOCTOR K791
+And this one.
+
+PATIENT K791
+But uh.
+
+DOCTOR K791
+Does that hurt when I do this?
+
+PATIENT K791
+No but it's @@@.
+
+DOCTOR K791
+@@@ when I go like this, squeeze my hand, squeeze my hand okay good.  @@@ and you said they feel stiff?
+
+PATIENT K791
+Yes.
+
+DOCTOR K791
+Okay.  When do they feel stiff, when you're actually use them?
+
+PATIENT K791
+No, @@@ just if I @@@.
+
+DOCTOR K791
+Okay.
+
+PATIENT K791
+@@@.
+
+DOCTOR K791
+Have you okay, so it doesn't look like you have sort of inflammation changes, inflammatory arthritis so you probably have an osteoarthritis at this point, @@@ generations.  Um have you tried Tylenol or anything for the pain?
+
+PATIENT K791
+I tried @@@.
+
+DOCTOR K791
+Okay well, it's the anti-inflammatory medicines called ibuprofen, Aleve, Motrin those are the medicines they don't want you to take, those are bad for your stomach.  Tylenol is okay with the stomach but it's bad for the liver.  They don't want you to take large amounts of Tylenol but if you need to take an occasional Tylenol or a Tylenol once a day that's okay.  Tylenol Arthritis, if you did take one or two Tylenol that's not gonna be a big deal.  It's not going to affect your liver.
+
+PATIENT K791
+@@@.
+
+DOCTOR K791
+You don't have liver disease so.
+
+PATIENT K791
+That would help @@@.
+
+DOCTOR K791
+It'll help with the pain uh-huh and it may help to some degree with the stiffness.  The anti-inflammatories will help more of the stiffness but I don't want you to take those cause those are bad for your stomach and bad for the kidneys so Tylenol @@@ if you need it okay.  Does that sound alright to you?
+
+PATIENT K791
+That sounds good.
+
+DOCTOR K791
+Okay.  Alright.
+
+PATIENT K791
+I thought maybe you had a magic pill or something.
+
+DOCTOR K791
+No, unfortunately I don't.
+
+PATIENT K791
+Okay.
+
+DOCTOR K791
+Okay so let me show you when you need to go for your shot.
+
+PATIENT K791
+Yes.  (Patient and doctor are walking someplace)
+
+DOCTOR K791
+@@@.  You can take a seat here and they'll come and get you for your shot.
+
+PATIENT K791
+Okay.  So @@@.
+
+DOCTOR K791
+Yeah.  @@@.  Take care.
+
+PATIENT K791
+You too.
+
+Doctor leaves 46:26
+
+Time is 10 @@@
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238085
+TRANSACTION # 578-10-2-316-0103

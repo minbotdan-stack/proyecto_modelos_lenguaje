@@ -1,0 +1,1003 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@ 
+
+DOCTOR T416
+PATIENT?  
+ 
+PATIENT T416
+How are you doc?
+
+DOCTOR T416
+Good, how are you?  
+
+PATIENT T416
+Alright.
+
+DOCTOR T416
+@@@.
+
+PATIENT T416
+Yeah, @@@ came first.  Leave it opened, closed?
+
+DOCTOR T416
+Oh I'll close it.
+
+PATIENT T416
+Alright.
+
+DOCTOR T416
+So how have you been?
+
+PATIENT T416
+Oh, I can't complain.
+
+DOCTOR T416
+Good.
+
+PATIENT T416
+Well yes I can.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+Uh my legs hurt.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+But uh I can deal with it.
+
+DOCTOR T416
+How long has it been hurting for?
+
+PATIENT T416
+A month and a half.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+These, I got 30, I got 29 1/2, they was uh.
+
+DOCTOR T416
+For sleeping.
+
+PATIENT T416
+Yeah.
+
+DOCTOR T416
+Not working.
+
+PATIENT T416
+Actually it produces mood swings.
+
+DOCTOR T416
+Oh yeah.
+
+PATIENT T416
+Constipation.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+And it's more the drug than anything else.  I just want to sleep that's all, yeah.
+
+DOCTOR T416
+So tell me about your sleeping, why can't you sleep?
+
+PATIENT T416
+I don't think they found me yet.
+
+DOCTOR T416
+Yeah.
+
+PATIENT T416
+It's @@@ but uh, I'm up three or four times a night.
+
+DOCTOR T416
+Okay.  And not getting up to urinate or anything like that?
+
+PATIENT T416
+Uh yeah maybe once.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+I just can't sleep.
+
+DOCTOR T416
+And then the last time I suggested doing a sleeping test and you didn't want to do that.
+
+PATIENT T416
+A sleeping oh, you mean come in here and do a.
+
+DOCTOR T416
+Yes and do you know if you snore or that kind of thing?
+
+PATIENT T416
+No I don't snore.
+
+DOCTOR T416
+Yeah and the reason is, you when know they can see if you have sleep apnea if you have something causing to do that.  Is pain waking you up at all?  Pain in your legs?
+
+PATIENT T416
+Uh uh.
+
+DOCTOR T416
+Okay.  And I think last time we talked about good sleep hygiene is any of that helping you?  Like not watching TV and you know you're having dinner past 6, that should be fine, you're not drinking too water or caffeine before bed?
+
+PATIENT T416
+No definitely not.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+In fact I only drink half a cup of coffee in the morning.
+
+DOCTOR T416
+Okay and then your bedroom is like quiet, dark.
+
+PATIENT T416
+Yeah.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+I just can't sleep, that's all.
+
+DOCTOR T416
+Do you have bad dreams?
+
+PATIENT T416
+Everybody  had a bad dream every now and then but that doesn't, I just ignore that @@@.
+
+DOCTOR T416
+I'm just going to add that you have bad dreams.
+
+PATIENT T416
+This probably would have been okay but it's more of a you know it's just like I'm not depressed.
+
+DOCTOR T416
+Right, right.
+
+PATIENT T416
+So that's not that.
+
+DOCTOR T416
+Right, right. You take anti-depressants.
+
+PATIENT T416
+Yeah so that uh.
+
+DOCTOR T416
+Yeah and I still think a sleeping study would tell us why you can't sleep or at least rule some things out.  Okay you're taking, how much methadone are you taking?
+
+PATIENT T416
+About 7.
+
+DOCTOR T416
+So you'll be off of it soon.
+
+PATIENT T416
+Yeah, next month.
+
+DOCTOR T416
+That's great.  And then no TV watching before bed right?
+
+PATIENT T416
+No.
+
+DOCTOR T416
+Hmm.  
+
+PATIENT T416
+Look, if I lay there long enough eventually I go to sleep.
+
+DOCTOR T416
+Yeah but you need rest.
+
+PATIENT T416
+Yeah.
+
+DOCTOR T416
+Okay anything else going on?
+
+PATIENT T416
+No.
+
+DOCTOR T416
+Okay and then you're still smoking?
+
+PATIENT T416
+Yes.
+
+DOCTOR T416
+Okay, how many cigarettes a day?
+
+PATIENT T416
+Uh four.
+
+DOCTOR T416
+Okay, using patches and gum still?
+
+PATIENT T416
+Uh I'm done using the patches and gum, I smoke.
+
+DOCTOR T416
+Alright.  So did you ever end up seeing the Smoking Cessation Clinic?
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+And.
+
+PATIENT T416
+I don't think I was ready for it, to be honest with you.
+
+DOCTOR T416
+Okay, so not ready to quit then?
+
+PATIENT T416
+Uh I don't believe so, I'm struggling with it, I'm ready to but uh.
+
+DOCTOR T416
+Yeah.  Let's see your blood pressure is high here, we'll recheck it again.  You're on amlodipine 10.
+
+PATIENT T416
+Uh yeah amlodipine.
+
+DOCTOR T416
+Okay did you take your medications today?
+
+PATIENT T416
+No.
+
+DOCTOR T416
+Oh, so that may be why it's high.
+
+PATIENT T416
+I usually don't take it until like about 9 o'clock.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+You know.
+
+DOCTOR T416
+Well did we do labs on your today?
+
+PATIENT T416
+Uh yeah labs, I did the labs a week, Saturday I think.
+
+DOCTOR T416
+I think that was for the Liver Clinic though.
+
+PATIENT T416
+No you told me to do labs before I came.
+
+DOCTOR T416
+Yeah, well we didn't get them, oh, okay.  Okay.
+
+PATIENT T416
+And I think those are your labs so.
+
+DOCTOR T416
+Yeah cause these look like your HCV labs.  Yeah so you were, okay.  You last saw liver January 30th and they want, oh you're supposed to get another CT.
+
+PATIENT T416
+Yeah the 29th I believe.
+
+DOCTOR T416
+Oh the 29th, that's right okay.  Okay.  So you saw them just in January.
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+So you'll get that CT for that liver testing.
+
+PATIENT T416
+Right.
+
+DOCTOR T416
+And they'll to you more about that.
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+Okay.  Well your AFP is normal and are they saying that, are they saying that they are going to treat your hepatitis C though?
+
+PATIENT T416
+Yes.
+
+DOCTOR T416
+When are they going to do that?
+
+PATIENT T416
+Uh well actually this @@@.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+So.  
+
+DOCTOR T416
+I was trying to see if there are any medications you're taking that, -- cause the problems with medications for sleep, a lot of them are bad for your liver.
+
+PATIENT T416
+Alright.
+
+DOCTOR T416
+And you have hepatitis C; I really don't want to give you anything you know some of the normal drugs we give for a liver, for sleep are very, very bad for liver patients.
+
+PATIENT T416
+Oh then I can go without sleeping.
+
+DOCTOR T416
+Oh, but that's why but I want to help you um but at the same time you know we can't really.
+
+PATIENT T416
+And I can go without the sleep if it’s bad for the liver; it's just not that, I can deal with it.
+
+DOCTOR T416
+Yeah.  So, yeah there's not as many medications that we can do for that um.  Let's see you’re 61 and you're on something for diabetes.  Your last A1c was good and you're taking the metformin and that's fine.
+
+PATIENT T416
+Oh yeah.
+
+DOCTOR T416
+Okay good.  We're doing just fine.
+
+PATIENT T416
+@@@ drop backwards, @@@ you know.
+
+DOCTOR T416
+Yeah.  And thrombocytosis, so for the hypertension you're just on amlodipine.
+
+PATIENT T416
+Hypertension?
+
+DOCTOR T416
+Yeah high blood pressure.
+
+PATIENT T416
+Oh okay.
+
+DOCTOR T416
+Yeah.  And you're on let's see.
+
+PATIENT T416
+When something runs out, usually as soon as I get one I'll call in uh and have it you know, they'll deliver it when the other one is out you know.  One of them I ran out of, I can't remember which one it was.
+
+DOCTOR T416
+Hmm.  Let's take a look.  
+
+PATIENT T416
+You might have redone it already.
+
+DOCTOR T416
+Yeah.
+
+PATIENT T416
+Cause this was, I believe, probably maybe a week ago, two weeks ago.
+
+DOCTOR T416
+Maybe the finasteride?  I recently, the nicotine patches were all gone, methadone, well, I don’t do the methadone.
+
+PATIENT T416
+Right.
+
+DOCTOR T416
+Tamsulosin, metformin?  You have refills.
+
+PATIENT T416
+That's probably what it was.
+
+DOCTOR T416
+Or aspirin maybe.
+
+PATIENT T416
+No I got it, it wasn't aspirin.  Like I say when I get it I order the next one so I have a.
+
+DOCTOR T416
+It might be the mirtazapine, you only one, you have 0 refills.
+
+PATIENT T416
+Yeah.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+That probably was it then.
+
+DOCTOR T416
+I'll renew all the medicines.  Okay.
+
+PATIENT T416
+Cause usually I try to stay one month in, you know I try to keep one month in the hole.  In case something happens, I still have that one there.
+
+DOCTOR T416
+You're actually due for just some normal labs.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+Um did you eat today already?
+
+PATIENT T416
+No.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+I drank coffee.
+
+DOCTOR T416
+Okay what time?
+
+PATIENT T416
+Uh 8, uh ten after eight.
+
+DOCTOR T416
+Okay and then do you um, put any sugar in it or anything.
+
+PATIENT T416
+Well it's, it's not a cup it's 2 1/2 cups with the uh powder creamer, whatever it is and a tablespoon and a half I think of sugar.
+
+DOCTOR T416
+Okay.  So actually, you're supposed to be NPO after midnight and you can't eat anything.
+
+PATIENT T416
+Well let's do it, since I'm here @@@.
+
+DOCTOR T416
+Could you come back here tomorrow?  @@@.
+
+PATIENT T416
+Yeah all you have to do is put it in and then we know that they can do it.
+
+DOCTOR T416
+Yeah, so I'll put it in and you can go down to the Lab tomorrow and.
+
+PATIENT T416
+Yeah, no problem.
+
+DOCTOR T416
+Just get it done and then you have your coffee after.
+
+PATIENT T416
+Yeah.
+
+DOCTOR T416
+That's right you're here every day.
+
+PATIENT T416
+Yeah.
+
+DOCTOR T416
+Um and we'll check your urine as well.  Um, yeah we'll get some labs tested tomorrow.
+
+PATIENT T416
+I could go do it now if you want me to.
+
+DOCTOR T416
+Well you need to be fasting.
+
+PATIENT T416
+Oh for the urine too?
+
+DOCTOR T416
+Oh no the urine we can do today.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+Um, yeah the one for your cholesterol and insulin so.  So we'll order all that and then I can just call you.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+If I want to make any changes um.
+
+PATIENT T416
+Oh I can see what you're gonna do.
+
+DOCTOR T416
+I'm actually, next month I would be at Loyola so you're not going to see me as much.
+
+PATIENT T416
+Really?
+
+DOCTOR T416
+Yeah.
+
+PATIENT T416
+Oh okay.
+
+DOCTOR T416
+Not like this month you saw me every day.
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+And we'll do all of those tomorrow.
+
+PATIENT T416
+Can I you a crazy question?
+
+DOCTOR T416
+Sure.
+
+PATIENT T416
+What is your last name?
+
+DOCTOR T416
+DOCTOR.  Oh you know why, they're trying to change my name so it's like @@@ so why, does it say something else?
+
+PATIENT T416
+No I just never knew it.
+
+DOCTOR T416
+Oh DOCTOR.
+
+PATIENT T416
+DOCTOR okay.
+
+DOCTOR T416
+Yeah.  Did we get a C scope, yeah that was normal?  You're only 61 so.  
+
+PATIENT T416
+Yeah don't push me through another one yet.
+
+DOCTOR T416
+And the last time, we checked your lipids last year and it was good but we have to check this year.
+
+PATIENT T416
+Lipids.
+
+DOCTOR T416
+Yeah your cholesterol.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+And you're up-to-date on all your shots.  The only thing that you could get today is the Tdap.
+
+PATIENT T416
+What's that?
+
+DOCTOR T416
+Um it's a tetanus vaccine.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+Diphtheria vaccine,  you're actually due for that.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+Can we do that today?
+
+PATIENT T416
+Sure.
+
+DOCTOR T416
+Okay.  Otherwise you're up-to-date.  Did you get your flu shot this year?  
+
+PATIENT T416
+Yeah.
+
+DOCTOR T416
+Yeah you did and you got your zoster.
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+Okay.  We can do the Tdap today.
+
+PATIENT T416
+Now how do I turn this in?
+
+DOCTOR T416
+Oh you don't want it anymore?
+
+PATIENT T416
+Like I said, you gave me, it was 30 and there's 29 1/2 left.
+
+DOCTOR T416
+Right.  You can drop it off at the Pharmacy and they'll just take it and dispose of it.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+I have to order your Tdap.
+
+PATIENT T416
+The nurse gives me that shot right?  Okay.
+
+DOCTOR T416
+Nursing is great.  Can I have you sit up here PATIENT and let me take a look?  
+
+PATIENT T416
+Okay.  Come on.
+
+DOCTOR T416
+Tangled there.
+
+PATIENT T416
+Yeah.
+
+DOCTOR T416
+I'm going to have you take your shoes off and your socks as well.  With diabetes, once people have diabetes for a little while, you have to check their feet and your diabetes is very well controlled um, very well controlled in fact but we have to do it as part of the exam.
+
+PATIENT T416
+Which one?
+
+DOCTOR T416
+Both feet.
+
+PATIENT T416
+Both of them?
+
+DOCTOR T416
+Uh-huh.
+
+PATIENT T416
+Dang it.
+
+DOCTOR T416
+Can you have a seat here?
+
+PATIENT T416
+Sure.
+
+DOCTOR T416
+Actually PATIENT, you should do this every day, @@@.
+
+PATIENT T416
+Yeah feet are not one of the better parts of the body.
+
+DOCTOR T416
+That's alright.  It's better though right when they can, just let the feet air out a bit.  Let me look.  Okay.  It's still a little high, 140/80.  Mind if I check your feet?  We might actually start another blood pressure medication for you.
+
+PATIENT T416
+Huh?
+
+DOCTOR T416
+Yeah.
+
+PATIENT T416
+What’s wrong with that one.
+
+DOCTOR T416
+Your blood pressure's a little high.
+
+PATIENT T416
+Yeah you just said you want to check my feet.
+
+DOCTOR T416
+Oh.  
+
+PATIENT T416
+Yeah.  And usually when I check it @@@.
+
+DOCTOR T416
+Yeah, but it was a little high and you didn't take your medications.
+
+PATIENT T416
+I'm not totally comfortable anyway so that's.
+
+DOCTOR T416
+No I understand that.  Do you have a blood pressure cuff at home?
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+Well what is it at home?
+
+PATIENT T416
+I don't take it.
+
+DOCTOR T416
+Do you have a blood pressure cuff?
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+Start taking it and tell me what it is cause if you, you know, if you if it's really, you know.
+
+PATIENT T416
+Oh, these things are hideous.
+
+DOCTOR T416
+Your feet?
+
+PATIENT T416
+Yeah.
+
+DOCTOR T416
+Yeah I might actually have you see Podiatry.
+
+PATIENT T416
+There’s nothing wrong with them.
+
+DOCTOR T416
+No, there is.  Cause you have a lot of nails fungus here that means @@@.
+
+PATIENT T416
+Oh yeah that's there.
+
+DOCTOR T416
+Yeah and any open lesions or anything?
+
+PATIENT T416
+Uh uh.
+
+DOCTOR T416
+Well, we'll have you see Podiatry.  Now the problem when you have diabetes, your feet are extremely prone to infection.  Well actually I had to see them and sometimes my diabetic patients will also see Podiatry once a year.  Or just go over to the @@@.  Your diabetes is looking really good.  Um.
+
+PATIENT T416
+Anything to keep you here.
+
+DOCTOR T416
+Anything yeah.
+
+PATIENT T416
+Is fine with me.
+
+DOCTOR T416
+How about that, how about that, let's not have a problem.
+
+PATIENT T416
+Now if you said just have them cut off.
+
+DOCTOR T416
+Yeah.
+
+PATIENT T416
+Anything to keep them like that @@@.
+
+DOCTOR T416
+Yeah I think I might have them uh actually take a look.
+
+PATIENT T416
+Let me know when.
+
+DOCTOR T416
+I'll put an order in for you to see them.  Usually we have to schedule a consult.  Otherwise the feeling in the feet is okay?
+
+PATIENT T416
+Yeah.
+
+DOCTOR T416
+Okay.  We put the consult in so you can make you an appointment up front otherwise let me see if there's anything else that I want to talk about today and I'll get some labs on you.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+Because you are due but as far as your diabetes, your lipids were on the high side @@@ and see what they are next time.
+
+PATIENT T416
+Next time if you can.
+
+DOCTOR T416
+See what they are, good.  We'll have you follow up with a CT in a couple weeks of your liver February 29h.
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+Um and I'm going to talk to my attending about the sleep.  I mean honestly, I think the best thing to do is get a sleep study but if you're not really interested in doing that, you know.  I'll just see what my attending says and see if he's got any other ideas.  Um and then we'll go from there.  Now do me a favor, next time out, check your blood pressure at home and tell me what it is.
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+Cause last time you were here it was high and with me it's high and I won't, you know you drank coffee and you know you haven't.
+
+PATIENT T416
+Well, I'm not really relaxed like I normally am.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+Okay.  So why I go talk with my attending and I'll be right back.
+
+PATIENT T416
+Okay.
+
+(DOCTOR OUT:  58:45  DOCTOR IN:  67:48)
+
+DOCTOR T416
+Alright.  We're going to do all those same things.  Um I'll see you in six months, but I think I am going to start the lisinopril actually.
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+The other blood pressure medicine.  The other blood pressure medication.
+
+PATIENT T416
+Uh.
+
+DOCTOR T416
+I'd like to start it, there's a couple of reasons.  Um it's mainly a protective for your kidneys for people who have diabetes.
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+Uh, so I'm going to start you on a small dose and have you come back, I'll have you come back in two weeks for a blood pressure check.
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+Um and I'll have you come back in two weeks, so you can get all your labs in two weeks actually.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+@@@.  Yeah let's do that.  So in two weeks you'll come up here and we'll just check your blood pressure.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+And in two weeks we'll check a BNP.
+
+PATIENT T416
+What's the BNP now?
+
+DOCTOR T416
+Your chemistry, electrolytes.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+Your creatinine, that way cause sometimes the medication can have a little effect, usually for most people its fine um.  Can you pick up your medication today?
+
+PATIENT T416
+Sure.
+
+DOCTOR T416
+Okay.  And the one thing that’s good for sleep and liver disease is trazodone.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+Um we can try that, a small dose of that.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+And we'll see how you're doing and you know and we'll just take the mirtazapine off.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+We know that it wasn't.  I think that's about it, let me see if there's anything else that I need to do uh and as far as, we'll try the trazodone and as far as sleep hygiene, things like exercising before bed can help.
+
+PATIENT T416
+But that's what I do.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+I exercise, yeah.
+
+DOCTOR T416
+You do all that.
+
+PATIENT T416
+I do everything.
+
+DOCTOR T416
+What about eating before bed?
+
+PATIENT T416
+Yeah.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+I start to try to exercise at 8 o'clock and I usually try to go to sleep about 9:30.
+
+DOCTOR T416
+Okay.
+
+PATIENT T416
+And I have no trouble going to sleep, just trouble staying asleep.
+
+DOCTOR T416
+So I want to take off your mirtazapine.  Oh it's expired anyway okay.  Okay, then that's pretty much it.  Okay.  And you start on the trazodone and then we should be good.
+
+PATIENT T416
+So you want me to do labs before the two weeks though right?
+
+DOCTOR T416
+No just like at two weeks yeah.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+At two weeks cause we're gonna start that new blood pressure medication today.
+
+PATIENT T416
+Uh-huh.
+
+DOCTOR T416
+So you can pick it up downstairs.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+And then in two weeks uh you'll come up here for a blood pressure check and get your labs done and we'll do all your labs at that time.
+
+PATIENT T416
+Oh okay.
+
+DOCTOR T416
+That way, we don’t have to stick you more than once.
+
+PATIENT T416
+Right.
+
+DOCTOR T416
+Yeah.  So right now once you check out, someone will help you get your vaccines.
+
+PATIENT T416
+Okay.
+
+DOCTOR T416
+Okay, alright good to see you.
+
+PATIENT T416
+Alright take care, have a good week.
+
+PATIENT LEAVES:  71:22.
+
+Time is 9:55.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249449
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,385 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @:@@ 
+
+DOCTOR Y612
+PATIENT?  How you doing today sir?
+
+PATIENT Y612
+@@@.
+
+DOCTOR Y612
+Yes, we are going to go in right here.  Okay have a seat.
+
+PATIENT Y612
+Just so you know, we being taped.
+
+DOCTOR Y612
+What’s that?
+
+PATIENT Y612
+We are being taped.
+
+DOCTOR Y612
+Okay, I mean you were not supposed to tell me that.
+
+PATIENT Y612
+Oh.
+
+DOCTOR Y612
+That’s alright.  Now you usually see DOCTOR @@@.
+
+PATIENT Y612
+Yeah.
+
+DOCTOR Y612
+Her schedule was full so.
+
+PATIENT Y612
+Okay, well yeah, I @@@.
+
+DOCTOR Y612
+Right.  
+
+PATIENT Y612
+@@@ I have the surgery on the 16th.
+
+DOCTOR Y612
+Okay.  
+
+PATIENT Y612
+They wanted me to come in.
+
+DOCTOR Y612
+Sure, sure.  I kind of read a little about it.  So, um, were you having any urinary symptoms at all?  Any um pain when you go to the bathroom, when you urinate?  
+
+PATIENT Y612
+No.
+
+DOCTOR Y612
+Any increase in urination at all?
+
+PATIENT Y612
+Yea.  At night.
+
+DOCTOR Y612
+At nighttime.  Okay.  How long has that been going on for?
+
+PATIENT Y612
+It has been going on for a while.  I take the little prostrate pills.
+
+DOCTOR Y612
+Okay.  You take water pills as well right?
+
+PATIENT Y612
+You know what? I can’t find my water pill.  I need some water pill.
+
+DOCTOR Y612
+Okay.  @@@.
+
+PATIENT Y612
+You know what else I need? I need an asthma pump real bad.  My pump is out.
+
+DOCTOR Y612
+Oh your inhaler?
+
+PATIENT Y612
+Inhaler, yeah.  But you know, @@@.
+
+DOCTOR Y612
+You have refills on all of this stuff.  All you have to do is call the pharmacy.
+
+PATIENT Y612
+@@@.  
+
+DOCTOR Y612
+Yeah.  You can actually stop by the pharmacy and they will give you everything.  @@@.  Okay.  And so the, the increase urinating at night has been going on for a while you said?
+
+PATIENT Y612
+They gave me them prostate pills.
+
+DOCTOR Y612
+Uh huh.
+
+PATIENT Y612
+So I been taking them now.
+
+DOCTOR Y612
+Any accidents at all where you couldn’t make it to the bathroom?
+
+PATIENT Y612
+Yeah.  Yeah.
+
+DOCTOR Y612
+Does that happen all of the time? 
+
+PATIENT Y612
+No.  Just last night it happened.  It happened last night.
+
+DOCTOR Y612
+Has it been happening a lot or just once, that one time?
+
+PATIENT Y612
+No, ah, maybe two or three weeks maybe.
+
+DOCTOR Y612
+Okay.  And you said your surgery is on the 16th right?
+
+PATIENT Y612
+Hm hmm.  
+
+DOCTOR Y612
+Um, any fevers or chills at home at all?
+
+PATIENT Y612
+Nope.
+
+DOCTOR Y612
+Okay.  Now, so we were discussing, so your urine, it grew a bacteria, was the reason that put up red flag @@@ but your actual, your urinalysis, your urine was good itself.
+
+PATIENT Y612
+Okay.
+
+DOCTOR Y612
+Um we look at, you know we send it for culture which takes a few days and we also look at the results @@@ few numbers.
+
+PATIENT Y612
+So everything is good then?
+
+DOCTOR Y612
+So, yeah, I think um, this bacteria doesn’t really mean you have a urinary tract infection because typically if somebody doesn’t have any symptoms of urinary tract infection like pain when they urinate and things like that, then we’re willing to say that’s just, you know bacteria that kind of either in the urine tract so then it can contaminate the cup even.  It doesn’t necessarily mean that we have to treat with antibiotics.
+
+PATIENT Y612
+Okay @@@.
+
+DOCTOR Y612
+Okay.  So I think, that is just something that, they wanted you to @@@.
+
+PATIENT Y612
+@@@.
+
+DOCTOR Y612
+So I think you are doing well with that.  Any other problems at all?
+
+PATIENT Y612
+No.
+
+DOCTOR Y612
+There’s a bunch of stuff you guys talked about.  Did you get a chance to do your pulmonary function test yet?  I know you were probably busy doing the ENT stuff, but.
+
+PATIENT Y612
+The uh
+
+DOCTOR Y612
+The lung test?  Where they put like a thing around, you did it in 2008 at home time. Where they had you breathe in the machine and then it measures like your.
+
+PATIENT Y612
+Oh I did that.
+
+DOCTOR Y612
+You did that already?  
+
+PATIENT Y612
+Yea I did that.  
+
+DOCTOR Y612
+When was that done?
+
+PATIENT Y612
+Ah, a couple of weeks ago.  @@@ three or four weeks ago.  Where they put you in the little tank thing and put the thing in there?  What you call that @@@?
+
+DOCTOR Y612
+Yeah.
+
+PATIENT Y612
+Breathing test or something?
+
+DOCTOR Y612
+Yup, exactly.  
+
+PATIENT Y612
+She said it was alright.  @@@.  They were supposed to change my inhalers but they didn’t though.
+
+DOCTOR Y612
+Ah, what do you mean change it?
+
+PATIENT Y612
+For the kind I use.
+
+DOCTOR Y612
+Oh, okay.  
+
+PATIENT Y612
+This is the one I use.  Other than that, my blood pressure was kinda high today.
+
+DOCTOR Y612
+Yea, I am not sure.  It has been normal before.  
+
+PATIENT Y612
+@@@ this is what I been using.  
+
+DOCTOR Y612
+Right.  You should continue using this one.
+
+PATIENT Y612
+Continue to use this?
+
+DOCTOR Y612
+Yeah.  And then you are supposed to take another one on top of that.
+
+PATIENT Y612
+Oh.
+
+DOCTOR Y612
+Mometasone.
+
+PATIENT Y612
+Okay that is one that I need then.
+
+DOCTOR Y612
+Yea, so you need to pick that one up.
+
+PATIENT Y612
+Okay.
+
+DOCTOR Y612
+They already ordered it for you.
+
+PATIENT Y612
+Okay, fine.  
+
+DOCTOR Y612
+You can pick that up.  They work together.  They are two different ones okay.  So let’s see.
+
+PATIENT Y612
+They just want to make sure everything was cool before I had the surgery.
+
+DOCTOR Y612
+Exactly.  
+
+PATIENT Y612
+And that’s cool, I’m glad they did that. 
+
+DOCTOR Y612
+Yeah, I already @@@.
+
+PATIENT Y612
+Right.  
+
+DOCTOR Y612
+Yeah, we will keep you on the same for your blood pressure.  We will keep you on the same regimen for right now and then we will just continue to watch you and you might need more pills.  You are already on a lot of medications.
+
+PATIENT Y612
+I am on a lot of medications.
+
+DOCTOR Y612
+Yea, so we won’t add any right now, go over @@@ like that but we are going to watch it and then we @@@.
+
+PATIENT Y612
+Okay.
+
+DOCTOR Y612
+Let me, uh, just talk this over with DOCTOR.  
+
+PATIENT Y612
+Okay.
+
+DOCTOR Y612
+Have a seat over here. Deep breath.  Any swelling in your legs?
+
+PATIENT Y612
+Oh yeah.
+
+DOCTOR Y612
+Yeah?  Are they always this swollen or?
+
+PATIENT Y612
+Yea they swollen for a while.  My feet.  My legs.  
+
+DOCTOR Y612
+Hmm.  
+
+PATIENT Y612
+Both of them.  Both of them.  
+
+DOCTOR Y612
+Is this worse during the day or is this how you wake up?  
+
+PATIENT Y612
+This be like this all day, all night.
+
+DOCTOR Y612
+Hmm.  
+
+PATIENT Y612
+You know, I have, I had my knees replaced, right.
+
+DOCTOR Y612
+Oh okay.
+
+PATIENT Y612
+My doctor think that @@@ made one of my legs shorter than the other leg right, and @@@ been like this, she thinks that the titanium in this leg just @@@ kind of move out of place and she said @@@ my legs swollen like that.
+
+DOCTOR Y612
+It could be @@@ knee replacement, the knee can get swollen.
+
+PATIENT Y612
+And so, we debate, I am going to see her on the 9th and we debating on whether they should go back in again and see if they can @@@.  
+
+DOCTOR Y612
+You can have a seat over there.  Alright I’ll be right back.
+
+PATIENT Y612
+Okay.
+
+(DOCTOR OUT:  23:40  DOCTOR IN:  26:38)
+
+DOCTOR Y612
+Alright, so you are all set to go.  Pick up your inhaler at the pharmacy.  You can always get a refill too.  Okay because they are all in there for you to use.  Um and then good luck with your surgery.
+
+PATIENT Y612
+Okay.  Thank you.
+
+DOCTOR Y612
+Alright.  So we will see you back here in the end of May.
+
+PATIENT Y612
+In May, yeah @@@.
+
+DOCTOR Y612
+You will get a letter.  You should get a letter in like two weeks.
+
+PATIENT Y612
+Yeah.  
+
+DOCTOR Y612
+It looks pretty nice today @@@ back here.
+
+PATIENT Y612
+Yea.  
+
+DOCTOR Y612
+Alright.
+
+PATIENT Y612
+So @@@ today.
+
+DOCTOR Y612
+Alright.  @@@.
+
+PATIENT Y612
+I am going to eat.  Eat something.  I ain’t ate since @@@.  I am going to some restaurant to eat.  
+
+DOCTOR Y612
+Alright you take care.
+
+PATIENT Y612
+You too.  
+
+PATIENT LEAVES:  27:43
+
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800515/JOB#  1300324
+TRANSACTION # 578-10-2-316-0103

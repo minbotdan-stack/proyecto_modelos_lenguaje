@@ -1,0 +1,482 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR L314
+PATIENT? 
+
+PATIENT L314
+Hello.
+
+DOCTOR L314
+Just have a seat.  Hi I'm DOCTOR.  I'll be seeing you today.
+
+PATIENT L314
+Okay.
+
+DOCTOR L314
+Um I think you saw DOCTOR.
+
+PATIENT L314
+Yes.
+
+DOCTOR L314
+But he graduated.  You'll be having me from now on.
+
+PATIENT L314
+Okay.
+
+DOCTOR L314
+How are you doing today?
+
+PATIENT L314
+Well I'm doing fine so far.
+
+DOCTOR L314
+Any complaints or anything out of the ordinary?
+
+PATIENT L314
+No.
+
+DOCTOR L314
+No complaints okay and um I see that you're following with Cardiology and the Coumadin Clinic pretty regularly.
+
+PATIENT L314
+Oh yeah.
+
+DOCTOR L314
+You saw Cardiology earlier this summer.
+
+PATIENT L314
+Yes.
+
+DOCTOR L314
+And um they basically said you were pretty good, just to keep going with what you were doing.
+
+PATIENT L314
+Uh-huh.
+
+DOCTOR L314
+Um, no chest pain right now, no shortness of breath?
+
+PATIENT L314
+No, no chest pain.
+
+DOCTOR L314
+That's good.  And you're taking all your medications that you're supposed to?
+
+PATIENT L314
+Yeah.  I'm taking.
+
+DOCTOR L314
+So you're taking the Coumadin?
+
+PATIENT L314
+Coumadin.
+
+DOCTOR L314
+Are you taking the Digoxin?
+
+PATIENT L314
+Digoxin.
+
+DOCTOR L314
+The finasteride?
+
+PATIENT L314
+Right.
+
+DOCTOR L314
+The omeprazole?
+
+PATIENT L314
+Yes.
+
+DOCTOR L314
+The amlodipine?
+
+PATIENT L314
+Uh-huh.
+
+DOCTOR L314
+The flunisolide for your allergies?
+
+PATIENT L314
+Yeah now that's, well I guess it helps but you know I still do a lot of sneezing.
+
+DOCTOR L314
+Yeah, yeah.  How about the loratadine are you taking that too?
+
+PATIENT L314
+Yeah I take that yes.
+
+DOCTOR L314
+Uh-huh.  And the losartan? 
+
+PATIENT L314
+Losartan that's the.
+
+DOCTOR L314
+And the sublingual nitroglycerin?
+
+PATIENT L314
+Yeah.
+
+DOCTOR L314
+And the simvastatin?
+
+PATIENT L314
+Simvastatin yeah.
+
+DOCTOR L314
+And the terazosin and carvedilol?
+
+PATIENT L314
+Yes.
+
+DOCTOR L314
+Okay.  Any other medicines that I'm missing?
+
+PATIENT L314
+No.
+
+DOCTOR L314
+Okay and um uh do you smoke?
+
+PATIENT L314
+No.
+
+DOCTOR L314
+Have you ever smoked?
+
+PATIENT L314
+Uh I smoked in '85, I stopped smoking.
+
+DOCTOR L314
+You quit in '85 and then how much were you smoking before then?
+
+PATIENT L314
+A half a pack a day.
+
+DOCTOR L314
+And for how many years?
+
+PATIENT L314
+Oh that was like 25 years.
+
+DOCTOR L314
+Okay and then alcohol use or drug use?
+
+PATIENT L314
+No, never.
+
+DOCTOR L314
+Okay.  Have you ever had history disease in your family at all?
+
+PATIENT L314
+No.
+
+DOCTOR L314
+Okay and I'm just going to go through a bunch of different symptoms.  If you've had any of these symptoms then stop me and let me know okay.
+
+PATIENT L314
+If I had any symptoms?
+
+DOCTOR L314
+Any of these symptoms right now.
+
+PATIENT L314
+Oh now.
+
+DOCTOR L314
+I'm just going to go through a bunch of them.  Just let me know.
+
+PATIENT L314
+Oh okay.
+
+DOCTOR L314
+Fevers, chills, weight loss, weight gain, headaches, changes in your vision, changes in your hearing?
+
+PATIENT L314
+No.
+
+DOCTOR L314
+Runny nose, stuffy nose, sore throat, cough, coughing up blood, um chest pain, shortness of breath, shortness of breath with exertion um feeling your heart beating faster in your chest, have swelling in your legs.
+
+PATIENT L314
+No.
+
+DOCTOR L314
+Um not being able to breathe when lying flat.
+
+PATIENT L314
+No.
+
+DOCTOR L314
+Uh any nausea, vomiting, vomiting up blood, trouble with swallowing your food, stomach pain, diarrhea, constipation, blood in your stool, either bright red or dark black, blood in your urine, pain when you urinate, urinating more than normal, um any rashes, ulcers or lesions on your skin um any back pain, neck pain, joint pain or muscle pain at all?
+
+PATIENT L314
+No.
+
+DOCTOR L314
+Okay so.
+
+PATIENT L314
+Now you know, you know like when I had the.
+
+DOCTOR L314
+@@@.
+
+PATIENT L314
+Yeah but when I sneeze when I.
+
+DOCTOR L314
+And all, you're only taking the nasal spray and how often are you taking the Claritin or the losartan?
+
+PATIENT L314
+I take it every day.
+
+DOCTOR L314
+Every day and it's not really helping much?
+
+PATIENT L314
+I was gonna say it might be helping.
+
+DOCTOR L314
+Have you ever.
+
+PATIENT L314
+@@@.
+
+DOCTOR L314
+You haven’t been taking it as much?
+
+PATIENT L314
+I take the same yeah.
+
+DOCTOR L314
+You take the same okay.  Maybe, have you ever been to an allergist?  Can you please sit up here?  We can try something else to try to control it.
+
+PATIENT L314
+Okay.
+
+DOCTOR L314
+How many times are you using the sprays?
+
+PATIENT L314
+The spray I'm supposed to use it every day but I know some days I miss.
+
+DOCTOR L314
+Can you breathe in and out?  Again.  Okay lay back.  Does it hurt when I press here?
+
+PATIENT L314
+No.
+
+DOCTOR L314
+Can you sit up.  Do you still spray these every day as well?
+
+PATIENT L314
+Do what?
+
+DOCTOR L314
+The sprays.
+
+PATIENT L314
+I spray yes.
+
+DOCTOR L314
+How often, many times a day?
+
+PATIENT L314
+Most of the time I only use once a day.
+
+DOCTOR L314
+Oh just once a day?
+
+PATIENT L314
+Yeah.
+
+DOCTOR L314
+You can use it twice a day.
+
+PATIENT L314
+Twice a day.
+
+DOCTOR L314
+I will double check because that might help with your symptoms.
+
+PATIENT L314
+Okay.
+
+DOCTOR L314
+Take a look at me and take your hat off for a second.
+
+PATIENT L314
+Oh okay.
+
+DOCTOR L314
+And just look straight at me, open your eyes a little and you had surgery right on your eyes.
+
+PATIENT L314
+On my eyes yeah.
+
+DOCTOR L314
+Can you open the left one really wide please?  Okay so just follow my finger like this okay good.  Okay open your mouth, stick your tongue out, okay good.  And no swelling anywhere?
+
+PATIENT L314
+No.
+
+DOCTOR L314
+Okay I'm gonna go talk to my boss and then I'll be back okay.
+
+PATIENT L314
+Alrighty.  Okie doke.
+
+DOCTOR L314
+I'll be right back.
+
+(DOCTOR OUT:  37:37  DOCTOR IN:  47:01)
+
+DOCTOR L314
+Hi.
+
+PATIENT L314
+Okay, hi.
+
+DOCTOR L314
+You’re doing pretty well.
+
+PATIENT L314
+Okay.
+
+DOCTOR L314
+And we'll see you back in six months. 
+
+PATIENT L314
+Alright.
+
+DOCTOR L314
+Do you need any refills on any medicines?
+
+PATIENT L314
+Uh the Coumadin.
+
+DOCTOR L314
+The Coumadin okay.
+
+PATIENT L314
+Yes.
+
+DOCTOR L314
+How much are you taking?
+
+PATIENT L314
+I take that once a night.
+
+DOCTOR L314
+How many milligrams?
+
+PATIENT L314
+Oh it's 5.
+
+DOCTOR L314
+5 mg a night?
+
+PATIENT L314
+I think.
+
+DOCTOR L314
+Let me check, 4.
+
+PATIENT L314
+Oh uh.
+
+DOCTOR L314
+Do you want it mailed to you?
+
+PATIENT L314
+I want it mailed yeah, yeah.  I've got enough of that when I ain't got enough of that so I'll come back.
+
+DOCTOR L314
+Yeah I'll mail it to you right now.  Okay @@@.
+
+PATIENT L314
+Oh carvedilol, carvedilol get me some of that.
+
+DOCTOR L314
+Okay.
+
+PATIENT L314
+Alright.  I have some but I may not have enough to make it.
+
+DOCTOR L314
+Okay.
+
+PATIENT L314
+If I can get that.
+
+DOCTOR L314
+So are you still taking the carvedilol?
+
+PATIENT L314
+Carvedilol yes.
+
+DOCTOR L314
+You're still taking it?
+
+PATIENT L314
+I take that twice a day, half pill.
+
+DOCTOR L314
+Do you want them to mail it to you then?
+
+PATIENT L314
+Uh-huh.
+
+DOCTOR L314
+Okay.  Okay.
+
+PATIENT L314
+Okay.
+
+DOCTOR L314
+That's it.
+
+PATIENT L314
+Thank you.
+
+DOCTOR L314
+Okay, nice meeting you.
+
+PATIENT L314
+Okay.
+
+DOCTOR L314
+And that should be all.
+
+PATIENT L314
+Okay.
+
+DOCTOR L314
+And they will @@@ an appointment for you so they should send you a letter about when it's gonna be.
+
+PATIENT L314
+Oh okay they'll send me a letter okay.
+
+DOCTOR L314
+Okay, take care.
+
+PATIENT L314
+Alrighty thank you.  You want this closed?
+
+DOCTOR L314
+Yeah.
+
+PATIENT L314
+Hmm okay.  Okay.
+
+PATIENT LEAVES:  49:42.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1275423
+TRANSACTION # 578-10-2-316-0103

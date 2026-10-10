@@ -1,0 +1,22 @@
+Sample Name: Diabetes Followup
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Type 2 diabetes with elevated fasting glucose; medication reconciliation and adjustment of basal insulin.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient returns accompanied by his wife for routine diabetes followup. He generally checks glucose once daily in the morning and notes higher fasting values which improve after activity. One morning value was 188, falling to 132 after shoveling snow. He takes insulin glargine in the evening, previously 18 units, but his sleep schedule varies. He exercises regularly and checks his feet. The patient and his wife have questions about several medications, including aspirin and medications for his toenails and nose, some of which he is no longer taking. An eye visit was completed earlier today, and diabetic eye disease was discussed. He denies current chest pain or shortness of breath.
+
+MEDICATIONS: Basal insulin glargine and other previously prescribed agents. Medication reconciliation was performed because the patient has run out of or stopped several prescriptions.
+
+PHYSICAL EXAMINATION: General, cardiac, abdominal, neurologic strength, and foot examinations were performed during the visit, without a specific new acute abnormality documented in the conversation.
+
+ASSESSMENT AND PLAN:
+1. Type 2 diabetes with elevated fasting glucose. Increase glargine from 18 to 20 units at bedtime and continue glucose monitoring. Repeat hemoglobin A1c and additional laboratory tests are planned in February in conjunction with the clinical pharmacist's followup.
+2. Medication reconciliation. Reviewed prescription list and advised the family to call for needed refills and clarify discontinued medications. Insulin was renewed.
+3. Cardiovascular and renal risk factors. Discussed existing cardiac medications and potential renal protective therapy; no new agent was definitively initiated in this encounter.
+
+Return in six months or earlier if needed. The physician will communicate significant laboratory results.

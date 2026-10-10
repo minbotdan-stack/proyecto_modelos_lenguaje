@@ -1,0 +1,27 @@
+Sample Name: General Medicine Followup - Hypertension and Medication Review
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Review of multiple antihypertensive medications, chronic back pain, weight reduction, and sleep apnea.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient returns for medication reconciliation. He has been exercising at a fitness facility and is pleased with recent weight reduction to approximately 277 to 278 pounds. He has chronic back pain following injury, for which he intermittently uses gabapentin, cyclobenzaprine, and acetaminophen. He ran out of gabapentin. He is also confused by overlapping prescriptions and extra bottles of simvastatin received in the mail. His home systolic blood pressure is commonly around 140. He has been taking hydralazine only once in the morning rather than twice daily. He has a remote history of a reported myocardial infarction and continues to smoke intermittently when stressed. Obstructive sleep apnea was previously diagnosed, but he finds his old CPAP machine uncomfortable and has not been using it consistently.
+
+PAST MEDICAL HISTORY: Hypertension treated with multiple medications, coronary disease or previous myocardial infarction by history, chronic back pain, obesity, and obstructive sleep apnea.
+
+MEDICATIONS: Lisinopril, amlodipine, hydralazine, hydrochlorothiazide-containing treatment, simvastatin, gabapentin, cyclobenzaprine, and intermittent acetaminophen. Doses and usage were reconciled.
+
+LABORATORY DATA: Blood counts, PSA, and aldosterone investigation for secondary hypertension were described as normal.
+
+ASSESSMENT AND PLAN:
+1. Hypertension. Reviewed dosing schedule and advised hydralazine twice daily, once in the morning and once in the afternoon, rather than the patient's once-daily use. Continue the remaining prescribed blood pressure regimen and reassess as weight decreases.
+2. Chronic back pain. Renew gabapentin and cyclobenzaprine as needed, and review other analgesics.
+3. Obesity. Continue supervised exercise and weight-loss efforts.
+4. Obstructive sleep apnea. Encouraged consistent CPAP and offered reassessment or trial of a more comfortable interface through Sleep Clinic; patient remained reluctant.
+5. Remote coronary disease. Prior metoprolol and Plavix use was reviewed; no definite new cardiovascular medication was added.
+6. Tobacco use. Smoking cessation services were discussed.
+
+Repeat relevant laboratory testing before followup in approximately three months.

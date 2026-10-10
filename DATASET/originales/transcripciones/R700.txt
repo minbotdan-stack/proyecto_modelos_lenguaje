@@ -1,0 +1,1371 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR R700
+Patient?
+ 
+PATIENT R700
+Right here.
+
+DOCTOR R700
+Okay, @@@.  Okay right down here.  How are doing?
+
+PATIENT R700
+I'm well how are you?
+
+DOCTOR R700
+Good.  Okay. 
+
+PATIENT R700
+I was unable to get the blood drawn last night or this morning because of traffic this morning.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+I come all the way from De Kalb so.
+
+DOCTOR R700
+Okay, let me put it in for you.  Is that okay?
+
+PATIENT R700
+That's fine.
+
+DOCTOR R700
+Okay.  What would you like today?
+
+PATIENT R700
+Uh I need, I haven't been here in quite a while.  In fact I haven't been here since DOCTOR.
+
+DOCTOR R700
+Okay and he left over a year ago okay.
+
+PATIENT R700
+But uh and when I had put in for my medication uh some of them were denied so and apparently they changed the rules or something where I have to go.  I have uh mild PTSD.
+
+DOCTOR R700
+Uh-huh.
+
+PATIENT R700
+And anxiety so they had me on Paxil.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+On low dose Paxil and lorazepam in case I have any.
+
+DOCTOR R700
+Do you see Mental Health at all or not?
+
+PATIENT R700
+No I've never.
+
+DOCTOR R700
+Or the doctor just renewed it.
+
+PATIENT R700
+DOCTOR just renewed it. 
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+He's the one that started it for me.
+
+DOCTOR R700
+Oh really okay.
+
+PATIENT R700
+So.  I'm gonna go with @@@.  So @@@ best doctor I’ve had in the 14 years I've been here so.
+
+DOCTOR R700
+Really?  So you only have me for a year cause I took over this clinic last year when I was a second year resident so I'm graduating @@@ check out today I'm only going have you come back in a year so you might see somebody different.
+
+PATIENT R700
+Well I'm a teacher so they used to have me coming every three months to get blood tests but I just.
+
+DOCTOR R700
+That's alright.
+
+PATIENT R700
+I was supposed to be on gemfibrozil and niacin as well but neither of those were renewed either so.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+I still have some so I still use the gemfibrozil and I had high triglycerides is one other thing and low cholesterol.  
+
+DOCTOR R700
+Okay um any problems today that you'd like to address.  Or just kinda of want to get your meds checked today.
+
+PATIENT R700
+Well I have something my wife told me to ask you about.  She's a nurse in De Kalb.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+But her father has had bouts with skin cancer and I got these bumps that kind of started, well I got a couple on each one of my hands.  But they're irregular shaped and.
+
+DOCTOR R700
+They don't look like skin cancer to me.
+
+PATIENT R700
+Well she said I might need to have Dermatology check it.
+
+DOCTOR R700
+So if it's like one color, usually it's a skin color, it's like different colors.
+
+PATIENT R700
+So this is just it.
+
+DOCTOR R700
+And it's irregular.
+
+PATIENT R700
+The skin tags I keep getting.
+
+DOCTOR R700
+Maybe.  If you do have skin tags that you get.
+
+PATIENT R700
+I do get skin tags.
+
+DOCTOR R700
+And do they start out looking like that?
+
+PATIENT R700
+No.
+
+DOCTOR R700
+They don't.
+
+PATIENT R700
+They just come up like little skin tags and then they just get bigger and bigger.
+
+DOCTOR R700
+Okay so how long has it been that size?
+
+PATIENT R700
+Uh it just got, I just grew these this summer.
+
+DOCTOR R700
+So just this summer.  I feel like they might even just be freckles.  If they continue to get bigger then you call in to see any doctor and at that time you can be referred to Derm.  I don't think that looks like skin cancer.  It doesn't even look like basal cell and what do you do, are you always out in the sun all the time?
+
+PATIENT R700
+I spend a lot of time out in the sun.
+
+DOCTOR R700
+You do.
+
+PATIENT R700
+I have two daughters and since I'm a teacher, I spend the entire summer taking care of them.
+
+DOCTOR R700
+Okay, okay and then anyone else in your family, in your blood relatives have anything like this?
+
+PATIENT R700
+I don't really, I don't really keep contact with my family much so.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+I don't think so.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+We have more bone cancer.
+
+DOCTOR R700
+Do you burn when you go in the sun or do you?
+
+PATIENT R700
+Uh maybe once in a great while.
+
+DOCTOR R700
+Do you tan more than you burn?
+
+PATIENT R700
+Mostly I tan yeah.
+
+DOCTOR R700
+Okay so that's a good thing.  That means it's less likely that.  Cause usually people who burn have a higher susceptibility to cancer.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+People who tan naturally, outside of black people and Indian people don't get skin cancer.  It's very rare if we do.  That's because we tan, we don't burn okay.  I mean there's a mechanism for that but I don't think that looks like skin cancer.  That looks almost like a mole to me.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+Okay. But keep an eye on it though.  If you think it’s getting bigger and it looks different then for sure it needd to go.
+
+PATIENT R700
+Right.
+
+DOCTOR R700
+Okay.  Um yeah so just definitely keep an eye on it.  I could send you now but I'm pretty sure.
+
+PATIENT R700
+I had so much other stuff happening right now with my knee messed up.
+
+DOCTOR R700
+Okay.  Why don't we, so why don't you keep an eye on that and have your wife keep an eye on that okay?
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+Um and in the next 20 minutes or so what else do you want to address for today?  Cause we can actually have a six-month follow-up, I won't do the yearly follow-up.  We can do every three months for now.
+
+PATIENT R700
+Well the three months would be excessive.  I'm a teacher right now and then I'm missing a day of school for today.
+
+DOCTOR R700
+Okay, okay.
+
+PATIENT R700
+So for me to be here.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+In the and frankly it's harder for me to be gone from school than it is for me to be here.
+
+DOCTOR R700
+What do you teach?
+
+PATIENT R700
+I'm a chemistry teacher.
+
+DOCTOR R700
+Oh okay at a private school?
+
+PATIENT R700
+Yeah.
+
+DOCTOR R700
+Okay cool.  Um what else, what is it, tell me the three things that are bothering you the most and we'll try to address those today.
+
+PATIENT R700
+Well my neck always seems to bother me, that's why I'm here, so I'm in the VA System.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+Uh lower back has always bothered me.
+
+DOCTOR R700
+So no chronic issues then?
+
+PATIENT R700
+Yeah those are chronic.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+But I worry about, I've had a lot of anxiety attacks.  I think I've had more not having medicine and I think it might be because I don't have medicine.
+
+DOCTOR R700
+Okay.  That we'll take care like I said.
+
+PATIENT R700
+That's huge.
+
+DOCTOR R700
+So that's the big thing was medicine.
+
+PATIENT R700
+Yeah I'm worried about the meds.  That's a big chunk of that.
+
+DOCTOR R700
+We'll give you your meds today don't worry. 
+
+PATIENT R700
+And then my knee, which I'm already in the system with Ortho for.
+
+DOCTOR R700
+Okay so the plan for today our main thing is to make sure all your meds are in line.
+
+PATIENT R700
+Exactly.
+
+DOCTOR R700
+And make sure you have enough of everything.
+
+PATIENT R700
+And so you might actually get ahead of the schedule which is rare for me.
+
+DOCTOR R700
+Yeah so actually they've actually been really good on medicines, so really they've changed a lot around with how the clinics are running, especially the Gen Med clinics.  They made it a lot easier for us and hired a lot more nursing staff who are very good now and like, so it's almost like Loyola.
+
+PATIENT R700
+Well we used to have some that they were mad that we were here and we're like wait a minute, we're the veterans which is why you have a job you know.
+
+DOCTOR R700
+Right, right, exactly, who the doctors or the nurses?
+
+PATIENT R700
+It's so fun.  The nurses, the nurses.
+
+DOCTOR R700
+No.  At least my team here is very good.  They're a lot better with everything now okay.
+
+PATIENT R700
+And this one, I've never had a problem General Medical.
+
+DOCTOR R700
+Yeah.
+
+PATIENT R700
+It's the people that used to be what they called Pod 4.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+Back in the old days.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+Where they'd make you go all the way down four blocks.
+
+DOCTOR R700
+Oh really.
+
+PATIENT R700
+It seems to get you to the clinic.
+
+DOCTOR R700
+Alright.
+
+PATIENT R700
+They were nasty to the vets.
+
+DOCTOR R700
+Okay so right now it shows that you don't have any @@@.  The hydrocodone, tramadol. 
+
+PATIENT R700
+And the hydrocodone is for my knee.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+I actually need to renew that one somehow.
+
+DOCTOR R700
+Okay I can renew that.  You're on tramadol for pain.
+
+PATIENT R700
+Yeah that's supposed to be to supplement the meloxicam cause they told me I can't any more than one meloxicam and no other NSAIDs.
+
+DOCTOR R700
+Right.
+
+PATIENT R700
+And then when the pain gets worse I have to take tramadol.
+
+DOCTOR R700
+Right.
+
+PATIENT R700
+So I've, my first neck surgery failed and then the vertebra pinched on the, they didn't put the metal plate in the first surgery.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+So the vertebra pinched on the brachial path of the nerves.
+
+DOCTOR R700
+Okay, okay.
+
+PATIENT R700
+So I have permanent nerve damage and I constantly in a spasm in my left shoulder and down my arm.
+
+DOCTOR R700
+Hmm.
+
+PATIENT R700
+So the reason I have the long term, which it's been really, really long term meds which I know it's not supposed to be recommended.
+
+DOCTOR R700
+Right.
+
+PATIENT R700
+But we've gone through every NSAID that there is.
+
+DOCTOR R700
+Do you eat something @@@?
+
+PATIENT R700
+Oh yeah.  That's the only one that hasn't killed my stomach yet.
+
+DOCTOR R700
+Okay, alright.  So I'll renew these meds and then we'll go back through your old meds and see what you need to get okay.  Um @@@.
+
+PATIENT R700
+I will warn you, whenever you put in gemfibrozil, for some reason they always like over send me.
+
+DOCTOR R700
+Oh really.
+
+PATIENT R700
+They tell me that I'm supposed to be running out but I still have more.  I don't know how I take it, like @@@.
+
+DOCTOR R700
+We're going to change it to a 90-day supply alrighty.  
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+So you'll have a 90 day supply.  Do you want me to mail it or do you want to pick them up?
+
+PATIENT R700
+I usually get them mailed.
+
+DOCTOR R700
+You want them mailed today.
+
+PATIENT R700
+I still have a little bit of everything except for the head medicine.
+
+DOCTOR R700
+Okay so the hydrocodone I don't think they'll give you more than a 30-day supply so.
+
+PATIENT R700
+That's fine.  Just so you might have an insight for other patients.
+
+DOCTOR R700
+Uh-huh.
+
+PATIENT R700
+When people who have the PTSD and that anxiety, when we have to go over to the Medical Clinic there are some doctors that treat us like pariah because of that.
+
+DOCTOR R700
+Really.
+
+PATIENT R700
+It just happens.  When I had, after my first neck surgery I told them something wasn't right and one of the attendings from Neurosurgery said, no from Ortho, he said maybe we need to send you back over to the Mental Health so that you can actually see what's really wrong with you.  Then next week Neurosurgery checked it out and they put me, I had surgery within a couple weeks after that.
+
+DOCTOR R700
+Hmm.
+
+PATIENT R700
+So I have a hard time with anything going over to Mental Health.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+Because of that stigma that.  I'm by far, I'm not crazy.
+
+DOCTOR R700
+No, no, no.
+
+PATIENT R700
+You know when other doctors treat me like that.
+
+DOCTOR R700
+I know.
+
+PATIENT R700
+It makes me not want anything to do with that malarkey. 
+
+DOCTOR R700
+Not the system, but here, Mental Health here is really good.
+
+PATIENT R700
+Oh yeah I know they're good.
+
+DOCTOR R700
+With like, even when it comes to basic anxiety to like severe depression.
+
+PATIENT R700
+My thing is um.
+
+DOCTOR R700
+But they treat everybody.
+
+PATIENT R700
+My thing isn't so much with the Mental Health.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+It's with the other doctors who treat patients like.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+Well he's still in pain because he's crazy.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+That's, that's just too much.
+
+DOCTOR R700
+Yeah I understand.
+
+PATIENT R700
+You know I'm a highly educated person; I don't appreciate being called crazy because I'm in pain.
+
+DOCTOR R700
+Yeah, yeah.
+
+PATIENT R700
+You know by somebody who's never served a day in his life in the military.
+
+DOCTOR R700
+Do you teach AP chemistry?
+
+PATIENT R700
+I do not teach AP.  I prefer conceptual chemistry so I teach the general level.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+But at the school I teach at my conceptual general level can beat most of the AP levels in most schools in the state.
+
+DOCTOR R700
+Okay great.
+
+PATIENT R700
+Naperville north is no joke when it comes to science.
+
+DOCTOR R700
+So @@@ oh really.  Those kids are really smart.  
+
+PATIENT R700
+That's who I teach.  
+
+DOCTOR R700
+Wow.
+
+PATIENT R700
+All the really, really smart ones.
+
+DOCTOR R700
+Do you teach any of the Indian kids cause @@@.
+
+PATIENT R700
+I do, I do.  I'm also a model UN advisor.
+
+DOCTOR R700
+Oh really oh wow.  I did not know that.
+
+PATIENT R700
+And we'll be teaching applications in chemistry.
+
+DOCTOR R700
+@@@ are not funny.  @@@.
+
+PATIENT R700
+No.
+
+DOCTOR R700
+I feel like you don't make enough.
+
+PATIENT R700
+I have to live in De Kalb for what I make.
+
+DOCTOR R700
+Really.
+
+PATIENT R700
+And it bothers me too, especially when the.
+
+DOCTOR R700
+I always had teachers because like in India teachers are highly regarded.
+
+PATIENT R700
+Regarded exactly.
+
+DOCTOR R700
+Like as doctors, lawyers and teachers are like.
+
+PATIENT R700
+Well, in a lot of places, that’s how it is.
+
+DOCTOR R700
+Yeah, teachers are like, cause my grandfather was a principal.  He was a science teacher back in India but then became a principal.  He was like the big dog in our little village, very respected um you know and it's like even here like doctors are like, patients scream at doctors demanding things versus other countries I'm like okay you're just a @@@.
+
+PATIENT R700
+But no you have to realize though in some areas around here the doctors here aren't always.
+
+DOCTOR R700
+Right, I agree.
+
+PATIENT R700
+The highest level.
+
+DOCTOR R700
+Right agree.
+
+PATIENT R700
+I mean when that guy said what he said to me I wanted to just knock him out.
+
+DOCTOR R700
+Yeah.  I know.  @@@.
+
+PATIENT R700
+Which one?
+
+DOCTOR R700
+The @@@.
+
+PATIENT R700
+Yeah.
+
+DOCTOR R700
+I just wondered after a while.  Do you still take Ativan?
+
+PATIENT R700
+What's Ativan?
+
+DOCTOR R700
+The lorazepam?
+
+PATIENT R700
+Lorazepam is the one for anxiety.
+
+DOCTOR R700
+Do you still take that?
+
+PATIENT R700
+That was as the as needed one.
+
+DOCTOR R700
+Yeah.
+
+PATIENT R700
+You don't always need it but when you need it.
+
+DOCTOR R700
+I know.
+
+PATIENT R700
+You really need it.
+
+DOCTOR R700
+Uh-huh.
+
+PATIENT R700
+For my anxiety attacks I have a difficulty breathing.
+
+DOCTOR R700
+Uh-huh.
+
+PATIENT R700
+And it's like fractured eyesight.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+So.  They tell me it's kind of near, for a while they were testing me for um.
+
+DOCTOR R700
+That's okay.
+
+PATIENT R700
+So while they were testing me for, what's the one for low blood sugar, not hypoglycemia.
+
+DOCTOR R700
+Uh-huh.
+
+PATIENT R700
+They were testing for that cause they thought that's what it was.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+And then they eventually they finally, we narrowed it down and found out what it was.
+
+DOCTOR R700
+Do you want to pick this up?  @@@ the @@@?
+
+PATIENT R700
+I'd really appreciate it.  I haven't had one in months.
+
+DOCTOR R700
+You have, you want to pick it up? You know it takes six weeks for this stuff to kick in right?
+
+PATIENT R700
+Oh yeah.
+
+DOCTOR R700
+To fully kick in.
+
+PATIENT R700
+Oh yeah.  But I need to get something working cause I've been going downhill for a while.
+
+DOCTOR R700
+Do you have aspirin and do you have Tylenol?
+
+PATIENT R700
+I do have some but they usually order that.  They send that to me cause they said they had to.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+I don't know why but I have bottles upon bottles of that stuff.
+
+DOCTOR R700
+So I'm not gonna order that then.  Let me fill this out.  Were you ever taken off of the gemfibrozil?
+
+PATIENT R700
+No.
+
+DOCTOR R700
+You were never taken off.  And you're taking 600 twice a day? 
+
+PATIENT R700
+Yes.  And then they had Niaspan something, that's the one with the aspirin.
+
+DOCTOR R700
+Okay that one I do not see any refills.  Do you want to pick up the gemfibrozil?
+
+PATIENT R700
+I have plenty of that, that can be mailed.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+I'm still trying to go through the last bottle.  But the only reason that I had the aspirin was because of the niacin.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+But that stuff made me, when you take it, you take the aspirin and then a half hour later you take the Niaspan and then if I don't fall asleep fast enough I start itching from head to toe.
+
+DOCTOR R700
+Really.
+
+PATIENT R700
+It's like the weirdest frickin feeling.
+
+DOCTOR R700
+Do you want to pick up the Ativan, the lorazepam?
+
+PATIENT R700
+I definitely need it so I have to have that @@@.
+
+DOCTOR R700
+So that you can pick up.  So that's all the medicine @@@.
+
+PATIENT R700
+You know what I think he was trying to get me off of that one I think because I told him I was itching so bad.
+
+DOCTOR R700
+So you don't want the @@@?
+
+PATIENT R700
+I don't really care for it one way or the other.  If I need it because my triglycerides are too high that's one thing but if I don't need it I would prefer not to have that itching sensatioin.
+
+DOCTOR R700
+How about we'll check your labs today, if they're too high then we'll go ahead and mail it.
+
+PATIENT R700
+Yeah.
+
+DOCTOR R700
+Okay, how does that sound?
+
+PATIENT R700
+The last time I was with DOCTOR he had me take a blood test and one of the things was some PFT I think he said it was.
+
+DOCTOR R700
+PSA?
+
+PATIENT R700
+Something about prostate.
+
+DOCTOR R700
+Yeah.
+
+PATIENT R700
+And what did they find out?
+
+DOCTOR R700
+It was normal back then.
+
+PATIENT R700
+I'm good.
+
+DOCTOR R700
+@@@.  You're too young to have anything going on with that.
+
+PATIENT R700
+You'd be surprised.
+
+DOCTOR R700
+You're too young.
+
+PATIENT R700
+I have a family history of that so I have to get a colonoscopy ear;u two.
+
+DOCTOR R700
+Yeah.  Okay.  We'll hold off on the @@@ okay.
+
+PATIENT R700
+I'd really appreciate that.
+
+DOCTOR R700
+So @@@ and the Ativan you can pick up today, the lorazepam I mean.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+And then the gemfibrozil will be mailed to you.  Um you had that familial hereditary polyposis.
+
+PATIENT R700
+Yeah polyposis yeah.
+
+DOCTOR R700
+Do you have it too?
+
+PATIENT R700
+Uh they said I was okay, I don't.
+
+DOCTOR R700
+They didn't find any?
+
+PATIENT R700
+I don't know what they found.  I don't always.  I don't always hear the results of what they do.  They said that.
+
+DOCTOR R700
+You are due for a colonoscopy in 2015.  Anytime between 2013 and 2015.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+Okay.  Um.
+
+PATIENT R700
+I'll be 43 that year.
+
+DOCTOR R700
+Anytime between the age of 43 to 45.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+Okay.  Because I won't be @@@.  Alright, well let me.
+
+PATIENT R700
+Did they even find anything with the test?
+
+DOCTOR R700
+Let me give you the niacin because if you haven't been on any of that stuff, I'd say you need it okay.  @@@.
+
+PATIENT R700
+I have no idea.  All I know is that, I think it was like 750 or something.  It was some huge amount.
+
+DOCTOR R700
+Probably.  @@@.  Okay we'll just do @@@.
+
+PATIENT R700
+They tell me it was at night, take it before I go to bed so it flushes my system or something.
+
+DOCTOR R700
+And you take one pill at nighttime okay.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+Um @@@.  
+
+PATIENT R700
+That'd be awesome.  Whoever that is talking, I know somebody that sounds just like her.
+
+DOCTOR R700
+Yeah.  @@@ people out there.
+
+PATIENT R700
+So when I leave here I go down to the uh Lab and have blood drawn?
+
+DOCTOR R700
+When you leave here yes.
+
+PATIENT R700
+And then get meds.
+
+DOCTOR R700
+Yes.
+
+PATIENT R700
+@@@.
+
+DOCTOR R700
+Do you drink at all?
+
+PATIENT R700
+Very rarely?
+
+DOCTOR R700
+Okay don't drink or drive when you're on the Ativan okay.
+
+PATIENT R700
+I know, I know.  I don't like losing control so I prefer not to take anything that affects my control or who I am.
+
+DOCTOR R700
+Good.
+
+PATIENT R700
+My students say I have a touch of OCD.
+
+DOCTOR R700
+Really?  @@@ with that.
+
+PATIENT R700
+@@@ being a teacher.
+
+DOCTOR R700
+@@@.
+
+PATIENT R700
+Try being a teacher.
+
+DOCTOR R700
+Yeah you have to be really organized you know.
+
+PATIENT R700
+My student teacher just found that out this year.  She's freaking out.
+
+DOCTOR R700
+What?
+
+PATIENT R700
+About the organization required to be a teacher.
+
+DOCTOR R700
+Yeah it's hard.  I don’t know how you do that.  Do you teach multiple levels?
+
+PATIENT R700
+Right now I'm only teaching one @@@.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+But that's actually even harder because you don't know um what you're going through.  Like they blend together you don't know if you've covered everything in every period.
+
+DOCTOR R700
+Right.  Um so I'll be right back.  Let me take a listen.  Deep breath in and out.  And again.  Deep breath, one more.  Let me see your ankles real quick.
+
+PATIENT R700
+I got like weird coloration on my ankles.  
+
+DOCTOR R700
+Uh-huh.
+
+PATIENT R700
+They call it combat boot scaring but.
+
+DOCTOR R700
+Alright I will be right back @@@.  You are absolutely not interested in following with Mental Health even if it's over the phone @@@ to talk to somebody?
+
+PATIENT R700
+It's so hard for me to go there.
+
+DOCTOR R700
+No, no, no, there's somebody that can talk to you over the phone so @@@ a psychiatrist.  So if there's any like, any issue that you ever want to talk to them for, I can like plug you in and they can maybe contact you.
+
+PATIENT R700
+That would be fine.
+
+DOCTOR R700
+It's @@@.
+
+PATIENT R700
+As long as it's not like.
+
+DOCTOR R700
+@@@.
+
+PATIENT R700
+I don't want the stigma that's the big thing.
+
+DOCTOR R700
+You don't even have to come in so it will be over the phone.  They'll call you @@@.  So that way you'll know what your options are.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+And what you could @@@.
+
+PATIENT R700
+I can handle that, it's just.
+
+DOCTOR R700
+That's fine.  It's very difficult.
+
+PATIENT R700
+Coming this far to.
+
+DOCTOR R700
+Yeah I know.
+
+PATIENT R700
+You know I live with a job, I teach and to come all the way over to @@@.
+
+DOCTOR R700
+Yeah.
+
+PATIENT R700
+Only to have somebody place a stigma on you.
+
+DOCTOR R700
+Yeah.
+
+PATIENT R700
+It's, it actually I think increases the stress.
+
+DOCTOR R700
+I want you to talk have someone to kind of contact even if it's just to cope with the.
+
+PATIENT R700
+That'd be awesome.
+
+DOCTOR R700
+Okay I'll be right back.
+
+DOCTOR OUT:  28:12   DOCTOR IN:  35:06
+
+DOCTOR R700
+Okay.  So I talked to my attending.
+
+PATIENT R700
+Uh-huh.
+
+DOCTOR R700
+And I talked to my attending, okay.  I just wanted to explain, I know you were highly against and that whole department.
+
+PATIENT R700
+Uh-huh.
+
+DOCTOR R700
+Um the rules changed here because you don't actually have a diagnosis like depression or anxiety, it's what DOCTOR labeled you as right?
+
+PATIENT R700
+No that's what's there @@@ mental health. 
+
+DOCTOR R700
+Through here?
+
+PATIENT R700
+Yeah.
+
+DOCTOR R700
+A long time ago okay.  So it's something that we usually kind of have to abide by because can @@@ medications but we need like a pseudo or formal evaluation.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+So the rule is that either you have to follow a doctor, I think two or three times within a 90 day period and I'm only here once every five weeks basically, like I have clinic for five days then I'm off for four weeks and then a clinic for five days again okay.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+So it's like those or two or three phone calls that @@@ can call you about.
+
+PATIENT R700
+So, I have to talk to health.
+
+DOCTOR R700
+So you have to talk to them.
+
+PATIENT R700
+That's fine.  I don't, @@@ that's easy.
+
+DOCTOR R700
+And the only other thing is they, the only reason why honestly from our end that we want you to see them is you need the medication management.  Because they are well versed with monitoring for side effects and can titrate your medications appropriately.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+We know okay this medicine is for this but we don't know what these side effects are, we don't know how high should we go or how low should we go, when should we stop the medicine and all we are taught is depression you take Paxil, depression you take Elavil or whatever meds that are out there okay.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+So that's why.  It's not so much that.
+
+PATIENT R700
+Well the reason that they did it is I was on Paxil before and that's the only reason that he was able to do that.
+
+DOCTOR R700
+That's fine.  That's fine, that's okay but the rules have changed like I told you so that's the only reason why.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+It's not.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+And if you don't want us to get @@@.
+
+PATIENT R700
+I don't have a problem talking to them on the phone.
+
+DOCTOR R700
+No, no, no.  I think he wants to meet you.  You don't even have to meet him at the Mental Health.  You could meet him here.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+That's fine.
+
+PATIENT R700
+That I can do.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+It's just, like I said it's just the stigma.
+
+DOCTOR R700
+So like we're, I think his office is actually upstairs so I don't know about it.  Like if you really just would be meeting somebody, like really have a strong aversion to like going to that building but I don't mind meeting you in the main hospital somewhere in one of the clinics on the third floor.  I would tell him that.
+
+PATIENT R700
+And it's just, and it's just I don't have a problem talking to him @@@I’ve done that.
+
+DOCTOR R700
+I know.
+
+PATIENT R700
+I just don't like that stigma.
+
+DOCTOR R700
+That's no problem, it’s okay.
+
+PATIENT R700
+It just keeps me from getting in trouble.
+
+DOCTOR R700
+That's okay.  So one more thing that you're due for today is a vaccine called.
+
+PATIENT R700
+Which vaccine?
+
+DOCTOR R700
+Called TDAP.  Tetanus, diphtheria, pertussis.
+
+PATIENT R700
+Really.
+
+DOCTOR R700
+Yeah.  So you only have to take it once, that's it.  This is a one time you have to take it.  You already had it as a kid and you have to take it as an adult one time.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+It's something new that came out.
+
+PATIENT R700
+Okay.  That's fine, yeah okay.
+
+DOCTOR R700
+Okay.
+
+PATIENT R700
+And it's too early to get a flu shot right?
+
+DOCTOR R700
+Yeah.  We don't even have it here.  So next time you come then you can get it then.
+
+PATIENT R700
+Being in a high school I prefer to have that one.
+
+DOCTOR R700
+Yeah so I think they come out in September so almost there.
+
+PATIENT R700
+So when I come in here for Ortho I can get it yeah.
+
+DOCTOR R700
+Yeah you can.
+
+PATIENT R700
+I wish they could have given me an MRI later in the day though.
+
+DOCTOR R700
+Yeah.  So TDAP today.  You can come like what in six months?
+
+PATIENT R700
+That's fine.
+
+DOCTOR R700
+Okay.  And then maybe after that um you can @@@.  The receptionist will call you.
+
+PATIENT R700
+@@@.
+
+DOCTOR R700
+After you leave today.
+
+PATIENT R700
+Okay.
+
+DOCTOR R700
+And your number is still the same in here?
+
+PATIENT R700
+Yes.  But they can call my cell phone, I would probably use that.
+
+DOCTOR R700
+I'll put it on my note um so here.
+
+PATIENT R700
+That office thing that says 501, that number doesn't exist anymore.
+
+DOCTOR R700
+Okay let me put the number here.
+
+PATIENT R700
+NUMBER.
+
+DOCTOR R700
+So which one is it?
+
+PATIENT R700
+This is my cell phone, that's the one I always have on me.
+
+DOCTOR R700
+NUMBER.
+
+PATIENT R700
+NUMBER.
+
+DOCTOR R700
+NUMBER.
+
+PATIENT R700
+NUMBER.
+
+DOCTOR R700
+NUMBER.  And your other number or do you want no.
+
+PATIENT R700
+No the one that I just was telling you was 501 I forget even what it was.
+
+DOCTOR R700
+The office number?
+
+PATIENT R700
+Yeah that number doesn't exist anymore.
+
+DOCTOR R700
+But this is your home number?
+
+PATIENT R700
+The home is fine.
+
+DOCTOR R700
+Okay.  Okay.  Okay um okay sounds good.
+
+PATIENT R700
+Alright doctor.  @@@.
+
+DOCTOR R700
+@@@.
+
+PATIENT R700
+Oh no worries.
+
+DOCTOR R700
+You can take this out over here across the hall that's where you check out and it's literally right @@@ to get your blood tests.
+
+PATIENT R700
+And it's up here?
+
+DOCTOR R700
+The lab you can ask them some of them can be done up here but most of the time you go downstairs to the first floor.
+
+PATIENT R700
+That's where I always go.
+
+DOCTOR R700
+Yeah so ask them if you can get them right here if not then go downstairs and I'd @@@.
+
+PATIENT R700
+I know @@@.  I've gotten quite good at keeping records somehow.
+
+DOCTOR R700
+@@@ here.
+
+PATIENT R700
+I don't have to @@@.
+
+DOCTOR R700
+Why.
+
+PATIENT R700
+You didn't see @@@.
+
+DOCTOR R700
+Oh really.
+
+PATIENT R700
+@@@ teach.
+
+DOCTOR R700
+Okay take care okay.
+
+PATIENT R700
+You have a great day.
+
+DOCTOR R700
+You too.  Bye, bye.
+
+PATIENT R700
+Okay leave the door opened or closed?
+
+DOCTOR R700
+Opened.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  38293
+TRANSACTION # 578-10-2-316-0103

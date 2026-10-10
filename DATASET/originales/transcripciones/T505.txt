@@ -1,0 +1,555 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@  
+
+DOCTOR T505
+PATIENT?  Hi how are you?
+
+PATIENT T505 
+Back here?
+
+DOCTOR T505
+@@@.
+
+PATIENT T505
+Around the back.  @@@.
+
+DOCTOR T505
+@@@.  Alright how you been?
+
+PATIENT T505
+I've been better.
+
+DOCTOR T505
+Okay.  Any problems or complaints since the last time I saw you?
+
+PATIENT T505
+Uh no.
+
+DOCTOR T505
+Okay.
+
+PATIENT T505
+Yeah I been okay.
+
+DOCTOR T505
+And you haven't been sick or anything?
+
+PATIENT T505
+No I ain't been sick.
+
+DOCTOR T505
+Okay, excellent, that's what we like to hear.
+
+PATIENT T505
+Uh.
+
+DOCTOR T505
+Um.
+
+PATIENT T505
+I had a talk you know like I been in the bed at night and I don't know whether it's too dry in the house or but this cough, @@@ and it's just like a smoker's cough and I ain't been smoking for four years.
+
+DOCTOR T505
+Okay so that's good um.  How long has this cough been going on?
+
+PATIENT T505
+For two @@@ nights.
+
+DOCTOR T505
+Just a couple nights.
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+Okay.  Do you have any like, do you sense any dripping in the back of your throat or anything, are you coughing anything up with it?
+
+PATIENT T505
+Yeah my nose runs, my nose runs.
+
+DOCTOR T505
+And that just started in the last couple days too?
+
+PATIENT T505
+Well that's been going on for the last week.
+
+DOCTOR T505
+Okay.
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+Alright is it only at night when you're coughing?  During the day are you coughing at all or not really?
+
+PATIENT T505
+No not really.  I just come into the cough and can't stop and it's been and when I wake up and then I be on my run, you know and I'll cough.
+
+DOCTOR T505
+Nothing like that.  So it's just at night when you're laying back?
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+Any burning in the belly, in the belly at all or anything like that?
+
+PATIENT T505
+No.
+
+DOCTOR T505
+No.  No nausea or vomiting or anything? 
+
+PATIENT T505
+No.
+
+DOCTOR T505
+No bad taste in the mouth at all?
+
+PATIENT T505
+Uh uh.
+
+DOCTOR T505
+Okay no shortness of breath?
+
+PATIENT T505
+No.
+
+DOCTOR T505
+So, it’s just a cough.  Alright well I mean, you said you started having this kind of dripping, do you feel like you have some of your sinuses are a little blocked up too?
+
+PATIENT T505
+Yeah you know like my nose right after I get out of the shower my nose is running.
+
+DOCTOR T505
+Okay and that's just been going on in the last week?
+
+PATIENT T505
+Huh?
+
+DOCTOR T505
+Just for about a week?
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+Okay.  Nothing else, no fevers, chills, no chest pain or anything like that?
+
+PATIENT T505
+No.
+
+DOCTOR T505
+Okay.  I mean it sounds like, I mean you may have a little bit of an allergy almost.
+
+PATIENT T505
+Oh yeah.
+
+DOCTOR T505
+It sounds like; do you have a history of allergies at all?
+
+PATIENT T505
+Well then right here lately, you know like I was itching you know just like uh, you know like I'm scratching and then it fired up and uh it came back and I was itching again.
+
+DOCTOR T505
+Okay.  How long has this been there?
+
+PATIENT T505
+Huh?
+
+DOCTOR T505
+How long has this been there?
+
+PATIENT T505
+Been there about a month or two.
+
+DOCTOR T505
+You got any on the other side of you?
+
+PATIENT T505
+No.  You know just like uh when I was in the south, you know like @@@.
+
+DOCTOR T505
+@@@ in the crooks of the elbow, in the groin?
+
+PATIENT T505
+In the groin, not in the groin.
+
+DOCTOR T505
+But you're getting scratchy down there?
+
+PATIENT T505
+Yeah right.
+
+DOCTOR T505
+And nowhere else, nothing on your feet or your hands or anything like that?
+
+PATIENT T505
+No.
+
+DOCTOR T505
+How do these start?  What do they look like when they start?
+
+PATIENT T505
+It looks like that but I must have did that with my scratching you know like it was, it was all smooth until I just got through scratching you know just to relieve the pain and then I went to sleep and you know like I used my @@@ again and so I could get to sleep.
+
+DOCTOR T505
+Okay.
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+Can I see this leg too?  And nothing at night, you don't feel like you're getting bit by anything at all?
+
+PATIENT T505
+No.
+
+DOCTOR T505
+Okay.  Have you changed sheets?  Did you change the kind of detergent you use?  Uh okay, you haven't got any new clothes or anything?
+
+PATIENT T505
+No.
+
+DOCTOR T505
+And no new medications, nothing else like that?
+
+PATIENT T505
+Yeah I use my medications.
+
+DOCTOR T505
+No new medications though, nothing new right?
+
+PATIENT T505
+Uh not that's new.
+
+DOCTOR T505
+Any pets?
+
+PATIENT T505
+No.
+
+DOCTOR T505
+Okay.  How often do you wash your sheets?
+
+PATIENT T505
+Once a week.
+
+DOCTOR T505
+Okay and you never noticed anything, no little bugs or anything like that?  Nothing like bed bugs or anything that you notice?  Uh okay.
+
+PATIENT T505
+Oh I never noticed, you know like uh I be looking for them but they I ain't seen none.
+
+DOCTOR T505
+You haven't seen anything okay.  And it's weird that it'll be just in one spot too.  But that's where you scratch it.  Did that start after you were scratching, there was nothing there that started to itch and then you were scratching?
+
+PATIENT T505
+Yeah there wasn't nothing here, it was like this.
+
+DOCTOR T505
+Okay and then it started to itch.
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+And then you started scratching and then that came on.
+
+PATIENT T505
+Yeah that came but I was bleeding.
+
+DOCTOR T505
+So there might have been from scratching then from that?
+
+PATIENT T505
+Yeah, it was bleeding you know.  It don't itch right now.  But see @@@ there one time I didn't get any relief and the doctor gave me some allergy pills and then I I went and it was okay.  And then it came back again a real @@@.
+
+DOCTOR T505
+When were you were seen for this?
+
+PATIENT T505
+Huh?
+
+DOCTOR T505
+When were you seen for this?
+
+PATIENT T505
+About a couple of months ago.  Two or three months, I can't remember.  Cause then it don't itch now.
+
+DOCTOR T505
+Okay here we go.  Did the medication help then?
+
+PATIENT T505
+Yes it did.
+
+DOCTOR T505
+Cause we're gonna give you probably something to help with your allergies anyway for the nose and it sounds like what they call allergic rhinitis where you just get a runny nose and it drips back and then one of the most common causes of cough, especially at night when you're on your back and it just kind of drips back and irritates the throat.
+
+PATIENT T505
+Oh yeah.
+
+DOCTOR T505
+So I think that's why you're having a cough.
+
+PATIENT T505
+Oh okay.
+
+DOCTOR T505
+So I think we'll probably give you some of this now it'll be, I'll give you enough for a month and then a couple refills, we'll see how you're doing.
+
+PATIENT T505
+Okay.
+
+DOCTOR T505
+With that uh okay.  But doing good otherwise though?
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+Okay.
+
+PATIENT T505
+I think I'm doing good.
+
+DOCTOR T505
+No more dizziness?
+
+PATIENT T505
+No.
+
+DOCTOR T505
+Okay good, ‘cuz that’s why I was going to call @@@ cause they saw you for that last time right.
+
+PATIENT T505
+Yeah right.
+
+DOCTOR T505
+Has that gone away?
+
+PATIENT T505
+Right that's going away.
+
+DOCTOR T505
+Okay good, good.
+
+PATIENT T505
+Yeah, that’s gone away.
+
+DOCTOR T505
+Alright we're going to have you get up here.  You need refills on your medications?
+
+PATIENT T505
+Uh no I think that I got them all so it's good.
+
+DOCTOR T505
+Alright and then um, so you're not due for a colonoscopy till a couple years from now.
+
+PATIENT T505
+Yeah a couple years.
+
+DOCTOR T505
+You had one in 07 and you were to come back in five years.
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+Uh you got the flu shot this year already?
+
+PATIENT T505
+Yeah I got a flu shot the other day.
+
+DOCTOR T505
+Okay, good, good, good.
+
+PATIENT T505
+They put a @@@ on my @@@.
+
+DOCTOR T505
+Oh that's what they did?
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+Alright deep breath okay.  Breathe normally here.  And hold your breath okay and breathe now hold your breath and breathe good.  Breathe in alright.  Can you look up to the ceiling for me please.  Yeah the parts of your ear and parts of your nose there, you got a little bit of swelling and edema in there.
+
+PATIENT T505
+Uh-huh.
+
+DOCTOR T505
+Which is probably related to some kind of allergy.
+
+PATIENT T505
+Okay.
+
+DOCTOR T505
+So, take a look in your ears too okay, here.  Alright can you open your mouth for me?  Say ah.
+
+PATIENT T505
+Ah.
+
+DOCTOR T505
+Okay.  You mind if you take your hat off for me please.  Look straight forward, look at the wall again.  Okay.  Looks pretty good.  Go ahead and lay back, check your belly too.  And no pain in the belly you said?
+
+PATIENT T505
+Uh uh.
+
+DOCTOR T505
+Bowel movements have been normal?  And urinaging okay?
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+Okay.  Alright, I'll give you a little bit of help, can you sit up. We’re done. Alright your heart sounds good, lungs are good.  You got a little bit, like I said you've got a little swelling in your nose right there, it could be consistent with just having allergies so I'm going to give you something like, a pill, it's called loratadine.  You had it before.
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+It's an antihistamine.  It's called an antihistamine pill, loratadine.
+
+PATIENT T505
+Loratadine.  Do I take it by mouth?
+
+DOCTOR T505
+Yep just once a day @@@ by mouth, it should help with the allergies and the drip and everything too.
+
+PATIENT T505
+Oh okay.
+
+DOCTOR T505
+Just, you have a seat here um blood pressure looks great.  We checked your cholesterol a while ago in February so we don’t need to check it again.
+
+PATIENT T505
+Oh yeah.
+
+DOCTOR T505
+We'll check it again the next time we see you but I don't need to check it today.
+
+PATIENT T505
+Oh okay.
+
+DOCTOR T505
+Your prostate was checked so no problems urinating at all?
+
+PATIENT T505
+No.
+
+DOCTOR T505
+No hesitancy, frequency or anything like that?
+
+PATIENT T505
+No.
+
+DOCTOR T505
+Okay alright and no diabetes for you.
+
+PATIENT T505
+I don't have no diabetes, not since the last time.
+
+DOCTOR T505
+Alright let me run this by DOCTOR and we'll get you moving on out of her right.
+
+PATIENT T505
+Okay.
+
+DOCTOR T505
+Do you have any questions at all?
+
+PATIENT T505
+Uh no I don't have none @@@ just what @@@ took care of that.
+
+DOCTOR T505
+Alright, I'll be right back.
+
+PATIENT T505
+Okay.
+
+(DOCTOR OUT:  26:42  DOCTOR IN:  28:08)
+
+DOCTOR T505
+Alright.  We just saw you two days ago.
+
+PATIENT T505
+Oh yeah.
+
+DOCTOR T505
+DOCTOR said you’re supposed to cancel your blood today.
+
+PATIENT T505
+Oh yeah?
+
+DOCTOR T505
+Uh-huh.  That's alright.  We'll give you the loratadine and you'll be good to go so.
+
+PATIENT T505
+Oh okay.
+
+DOCTOR T505
+Okay.  No shortness of breath or anything?
+
+PATIENT T505
+No none.
+
+DOCTOR T505
+You been using the inhaler?
+
+PATIENT T505
+Yeah.
+
+DOCTOR T505
+Okay.
+
+PATIENT T505
+Yeah I been walking good.
+
+DOCTOR T505
+You can stop by or do you want to get it mailed to you?
+
+PATIENT T505
+The loratadine?
+
+DOCTOR T505
+Yeah.
+
+PATIENT T505
+Okay yeah can I have it mailed to me?
+
+DOCTOR T505
+Not a problem, not a problem at all.
+
+PATIENT T505
+Yeah, yeah.
+
+DOCTOR T505
+Take it for a month, then if you want to stop you could try stopping and see how you do without it or you can even just try it for just a couple weeks and then you can stop taking it and if you don't need it, you don't need it then.
+
+PATIENT T505
+Oh okay, alright.
+
+DOCTOR T505
+All right my friend.
+
+PATIENT T505
+Alright doc.
+
+DOCTOR T505
+That's it.  We'll see you in a little while.
+
+PATIENT T505
+Okay thank you.  I'll see you.
+
+DOCTOR T505
+Yep.
+
+PATIENT LEAVES:  29:30
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286089
+TRANSACTION # 578-10-2-316-0103

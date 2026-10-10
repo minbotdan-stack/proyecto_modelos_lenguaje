@@ -1,0 +1,1553 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@
+  
+
+DOCTOR U910
+PATIENT? Hello.  How are you today?
+
+PATIENT U910
+Pretty good.
+
+DOCTOR U910
+Good to see you again.  Come on back.  Have a seat right there.  So I haven't seen you since the holidays, how have things been going?
+
+PATIENT U910
+Going down the toilet.
+
+DOCTOR U910
+Going downhill, what's going on?
+
+PATIENT U910
+Uh I @@@ shortness of breath.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+Even just minor exertion.
+
+DOCTOR U910
+How long has it been going on for you?
+
+PATIENT U910
+Been going a few months.
+
+DOCTOR U910
+A few months okay.  Next time that happens call me and we can get you in sooner okay.  I don't want you to wait that long if you feel.
+
+PATIENT U910
+You know I don't even know when I'm supposed to be seeing the cardiologist again.
+
+DOCTOR U910
+Yeah so you saw them in September it looks like, is that right?
+
+PATIENT U910
+Uh somewhere around there.
+
+DOCTOR U910
+DOCTOR. @@@ appointment. You don’t have anything in the books.
+
+PATIENT U910
+Not a heck of a lot.
+
+DOCTOR U910
+It says four months, so September, October, November, December, January, so you should have already had a follow-up with them.  We'll get you in to see them.  But first let's talk about this shortness of breath, what's going on?  It started four months, or then four months ago?
+
+PATIENT U910
+It's, I'm convinced that it's the blockage.
+
+DOCTOR U910
+Yeah.  How far can you walk before you get short of breath?
+
+PATIENT U910
+Believe it or not, walking it comes and goes.  I might get a little off, I don't know somewhere.  The pain wipes out the shortness of breath.
+
+DOCTOR U910
+Like in your calves?
+
+PATIENT U910
+In here.
+
+DOCTOR U910
+Okay.  Do you get like shin splints or.
+
+PATIENT U910
+That’s what it feels like.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+Whether it’s not...
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+@@@
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+But uh, trying to tie my shoes.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+That type of exertion and then in terms of not even exertion just sleeping.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+Getting into bed, curled on my side.
+
+DOCTOR U910
+Yeah.  Do you feel more short of breath when you're laying flat at night?  Do you wake up short of breath at all?
+
+PATIENT U910
+It happens.
+
+DOCTOR U910
+You have woken up short of breath.  Okay and laying flat is okay.
+
+PATIENT U910
+Well I don't usually.
+
+DOCTOR U910
+You usually don't okay.
+
+PATIENT U910
+I don't usually.
+
+DOCTOR U910
+Okay that's fine and did you park your car out there and walk in today or do you valet?
+
+PATIENT U910
+I parked and walked in, I didn't have any problems.
+
+DOCTOR U910
+Not this time.
+
+PATIENT U910
+If I can take my time I'm alright.
+
+DOCTOR U910
+Okay, it's when you're kind of walking a little bit faster?
+
+PATIENT U910
+Yeah.  
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+If you can call it a little bit faster.
+
+DOCTOR U910
+Okay and then um how is that different from where you were when I last saw you?  Cause this obviously is new.  What were you able to do before that for a comparison?
+
+PATIENT U910
+I wasn't getting short of breath.  The only thing that was bothering me then was the pain.
+
+DOCTOR U910
+The pain.
+
+PATIENT U910
+In the legs.
+
+DOCTOR U910
+Yeah.  And they said that was a neuropathy is that what, okay yeah.
+
+PATIENT U910
+That's what they said.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+Uh I wasn't that short of breath.
+
+DOCTOR U910
+That was never an issue.  It was the pain that made you stop.
+
+PATIENT U910
+No.
+
+DOCTOR U910
+And now it's like a little bit of both.
+
+PATIENT U910
+Right.
+
+DOCTOR U910
+Any chest pain with any of this?
+
+PATIENT U910
+Occasionally.
+
+DOCTOR U910
+Occasional.  What is it, is it kind of in the middle of your chest?  Does it go anywhere?  Where do you feel it?
+
+PATIENT U910
+It's kind of down in the ribs.
+
+DOCTOR U910
+It feels like it down here?  On both sides?
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+Like a tightness or what does it feel like?
+
+PATIENT U910
+It's uh, that's why I did the @@@.  It's a, it's almost like the inside, the pain against like my ribs.
+
+DOCTOR U910
+Like a pressure?
+
+PATIENT U910
+Right.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+And it's there for a while and then it'll subside.
+
+DOCTOR U910
+Okay.  And how long does it take for it to go away when you stop?
+
+PATIENT U910
+A minute or two.
+
+DOCTOR U910
+A minute or two.  So it does resolve after you stop and then it kind of goes away?
+
+PATIENT U910
+Yes.
+
+DOCTOR U910
+Okay and then if you're just sitting and not doing anything else, do you ever feel any symptoms or are you just only when you're moving and exerting yourself?
+
+PATIENT U910
+No, no, not that I'm aware of.
+
+DOCTOR U910
+Okay.  Do you, have you noticed more fluid on your legs?
+
+PATIENT U910
+Today yeah.
+
+DOCTOR U910
+Today or over the last couple months?
+
+PATIENT U910
+It's been a couple months.
+
+DOCTOR U910
+Over the last couple months okay.  And you're still taking the Lasix twice a day the 40 and 40?  Okay.  Are you still having the same amount of urine output when you take the Lasix?
+
+PATIENT U910
+This might sound stupid, and maybe it’s not even possible, I think I’ve developed a kind of…
+
+DOCTOR U910
+Like a tolerance.
+
+PATIENT U910
+Tolerance.
+
+DOCTOR U910
+Yeah that happens sometimes.
+
+PATIENT U910
+That's what I was thinking.
+
+DOCTOR U910
+Yeah, yeah.
+
+PATIENT U910
+Only sometimes when I really need to go.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+Other times it's like I never took it.
+
+DOCTOR U910
+Uh-huh.  Are you eating more salt, salty food?
+
+PATIENT U910
+No, no, not really.
+
+DOCTOR U910
+Nothing like that.
+
+PATIENT U910
+I don't eat salt, I hate salty food.
+
+DOCTOR U910
+Okay, okay.  So you're kind of aware of eating more salt makes you swell up more okay.  Do you remember the last time we did like an echo of your heart that's imaging where they do an ultrasound of your heart?  The last one I found was in 2010, do you remember doing anything @@@?
+
+PATIENT U910
+Was that where they give @@@ the chest?
+
+DOCTOR U910
+No it's, it's just like.
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+It's just like a little machine, an ultrasound machine over your chest.  It's not like an x-ray.
+
+PATIENT U910
+I didn't.
+
+DOCTOR U910
+@@@ okay and then you had a CABG back in 2001, a open heart surgery and then you had stents placed in 2005 and nothing since then, okay.
+
+PATIENT U910
+Nothing since then.
+
+DOCTOR U910
+Okay, okay.  Oh in 2007.  You had something since then?
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+@@@ okay.
+
+PATIENT U910
+As far as that is because I lost my job and @@@.  I had that done before I lost my job.
+
+DOCTOR U910
+Okay and then when you saw DOCTOR in September, in his note now correct me if I'm wrong; he wanted you to cut down your Lasix in half.
+
+PATIENT U910
+Right.
+
+DOCTOR U910
+What were you taking before?
+
+PATIENT U910
+I was taking it twice a day.
+
+DOCTOR U910
+Uh-huh.
+
+PATIENT U910
+One pill twice a day.
+
+DOCTOR U910
+Uh-huh.
+
+PATIENT U910
+He wanted me to cut it down.
+
+DOCTOR U910
+Yes.
+
+PATIENT U910
+I did that.
+
+DOCTOR U910
+Did not go well.
+
+PATIENT U910
+Did not go well.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+I added.
+
+DOCTOR U910
+You added it back okay and then after that you probably felt back to normal and then something happened.
+
+PATIENT U910
+Right.
+
+DOCTOR U910
+Where it got worse.
+
+PATIENT U910
+And now it's, I'm retaining the fluids.
+
+DOCTOR U910
+Retaining the fluids okay.  And you said how long exactly this has been going on for?
+
+PATIENT U910
+I don’t know, four months, five months I don't know.
+
+DOCTOR U910
+Four months, okay so it's been a little while okay.  Um and then your blood pressure, how has that been doing?  Have you been checking it at all at home?
+
+PATIENT U910
+Blood pressure, no. But it was taking today.
+
+DOCTOR U910
+Yeah it was really good today. I just saw that.  Okay and then your diabetes, what's been going on?  Have you been checking your sugars?
+
+PATIENT U910
+I check my sugars.
+
+DOCTOR U910
+How we doing?
+
+PATIENT U910
+It bounces back and forth.
+
+DOCTOR U910
+Yes.
+
+PATIENT U910
+@@@ I’m very displeased about that here.
+
+DOCTOR U910
+What is that?
+
+PATIENT U910
+Uh I don't want anything to do with this whatever @@@ is.  @@@ DOCTOR.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+I'm just.  I get really angry sometimes.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+You know I've been told they were going to send me a letter and I said you can call me on this date.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+And then I get here a half an hour early @@@.
+
+DOCTOR U910
+Yes.
+
+PATIENT U910
+And then you know, I didn't get called for an hour to an hour and a half later.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+I've got things I got to do and I'm working at night, I got to get some sleep.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+And that really ticks me off.
+
+DOCTOR U910
+Uh-huh did you explain that to her?
+
+PATIENT U910
+No I didn't because they tell me I was wrong last time.  She called one day and I didn't have any notice of an appointment.
+
+DOCTOR U910
+Uh-huh.
+
+PATIENT U910
+Oh just be here, uh-huh.
+
+DOCTOR U910
+Hmm.
+
+PATIENT U910
+No I didn't.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+And then she thinks @@@ time and its like, look we talk about it here and then she goes and makes a change which I don’t like.
+
+DOCTOR U910
+Yeah. Well it's good to let us know if there is a complaint.
+
+PATIENT U910
+Well she was planning, and she'd been constantly on this uh I think we need to change you to, the other type of insulin.
+
+DOCTOR U910
+Okay.  Was it long-acting?  What are you on now?  @@@.
+
+PATIENT U910
+I don't know, it's different.  I'm on the long-acting.
+
+DOCTOR U910
+You're on the long-acting.
+
+PATIENT U910
+Right.
+
+DOCTOR U910
+Hmm.  Are you taking more with meals?
+
+PATIENT U910
+She wants me to take it at every meal.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+@@@.  Sometimes I get it and other times I'd be eating like five and six times a day.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+That doesn't fit in with my lifestyle at all.
+
+DOCTOR U910
+Right.  Okay.
+
+PATIENT U910
+So, I'm just a little irritated.
+
+DOCTOR U910
+Okay.  That’s understandable.  What have your blood sugars been running?
+
+PATIENT U910
+They'll go anywhere from 80 to uh about 160.
+
+DOCTOR U910
+Okay and when do you check your blood sugars?
+
+PATIENT U910
+Usually at night.
+
+DOCTOR U910
+Before you go to bed?
+
+PATIENT U910
+Before I go to bed.
+
+DOCTOR U910
+So that's like morning to you right?
+
+PATIENT U910
+That's morning.
+
+DOCTOR U910
+Okay so you're sleeping kind of all day and then you wake up, you check it and then you go to work.
+
+PATIENT U910
+Right.
+
+DOCTOR U910
+Okay.  Do you ever check it after you eat a meal?
+
+PATIENT U910
+It's rare.
+
+DOCTOR U910
+It's rare.  But when you do where are we sitting on that?
+
+PATIENT U910
+Oh after a meal I'll shoot up to about in the 200s uh after dinner I'll check it, two hours.  At two hours it might be down to 180 which frequently is the case.
+
+DOCTOR U910
+Uh-huh.
+
+PATIENT U910
+I don't go back to normal after two hours.  In three hours I'm back.
+
+DOCTOR U910
+Uh-huh.
+
+PATIENT U910
+Well, what I consider normal, 140 or less.
+
+DOCTOR U910
+Right, right.  
+
+PATIENT U910
+She doesn't like that 140.
+
+DOCTOR U910
+Well um and what are we doing like your maintenance stuff, have you seen the eye doctors in the last year?
+
+PATIENT U910
+Yeah, they were okay.
+
+DOCTOR U910
+Right and then do you follow with Podiatry or no?  Do you ever have issues with your feet?
+
+PATIENT U910
+No, no.
+
+DOCTOR U910
+Ulcers or anything like that?
+
+PATIENT U910
+No
+
+DOCTOR U910
+Okay.  Just make sure you keep an eye out for that stuff just because you know, with neuropathy sometimes you don't feel it in your feet.
+
+PATIENT U910
+Oh the other thing I told the nurse when she checked my feet today.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+She mentioned about going barefoot, even in the house and I said well, you got me on that one.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+But uh I have a teensy little nick on the ball of my feet.
+
+DOCTOR U910
+Yes.
+
+PATIENT U910
+It hurts, for quite a while.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+And our feet are so connected with.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+And I make sure it was going away, heal.
+
+DOCTOR U910
+Uh-huh.
+
+PATIENT U910
+It took quite a while.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+Maybe two or three weeks just for a little.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+Teeny thing.
+
+DOCTOR U910
+And that's what's really concerning because of the diabetes and it's a slow healing process of wounds and a lot of people, unfortunately that have poorly controlled diabetes get a cut like that and that leads to developing like a bone infection and it gets worse and worse and.
+
+PATIENT U910
+I keep a close eye on that.
+
+DOCTOR U910
+It's very important and if things like you feel are getting all out of hand or a little out of your control then you've got someone to call and we'll get you in to see somebody.
+
+PATIENT U910
+What was my record and here's @@@.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+I was told I'll call you and let you know the results and nobody called.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+What my A1c?
+
+DOCTOR U910
+The one in earlier April we checked?
+
+PATIENT U910
+Correct.
+
+DOCTOR U910
+Okay that one was 8.2.
+
+PATIENT U910
+Oh then that's pretty high.  @@@ was a lot better than those.
+
+DOCTOR U910
+And then the one in January was 8 and then you had 8.6 in August is when I saw you last.
+
+PATIENT U910
+I thought it was up in the teens.
+
+DOCTOR U910
+And then before that I think you were really up there and then before that, that's when you had a high number.
+
+PATIENT U910
+Okay.  But it was 8.2.  Oh the next thing, I got to say this before I forget.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+Uh I had blood work today.
+
+DOCTOR U910
+Yes.
+
+PATIENT U910
+I just had it on the 6th.
+
+DOCTOR U910
+Yeah um she didn't order all the tests that I wanted to see.
+
+PATIENT U910
+Oh so you did know I did.
+
+DOCTOR U910
+Yeah I did, I did.  I just wanted other, like other tests as well.
+
+PATIENT U910
+That's fine.
+
+DOCTOR U910
+And then along with that is to check your A1c today.
+
+PATIENT U910
+I just. What was it today?
+
+DOCTOR U910
+We want to have it here and it was 8.4.  8.4, this is really not that @@@.
+
+PATIENT U910
+So I'll just okay, I was curious whether.
+
+DOCTOR U910
+So I mean, you know the A1c checks it over three months so checking it @@@ you know.  But like said the more recent A1c we have the more we can then make changes to your medications.
+
+PATIENT U910
+Well it’s supposed to go 6 or below.
+
+DOCTOR U910
+7 or below is my goal for you to have.  I think 6 or below um I was, with 6.5 or below you'd be technically not diabetic but for a diabetic I want you below 7 and ideally around 6.5 but that would be our target.
+
+PATIENT U910
+I think the main problem is my weight.
+
+DOCTOR U910
+Yeah so.
+
+PATIENT U910
+But I can't lose it.
+
+DOCTOR U910
+Well I know you work late so it's hard uh.  Yeah this is back in like 2010 you were like 12.7 and you were like 9.8 and then we kind of hung around the 8 region for a long time and that's why they sent you to the Pharm D @@@.  So tell me what, I know it's hard for you to gauge it so what is your diet usually consist of?  Do you know what's healthy to eat and what's not healthy to eat for diabetes?
+
+PATIENT U910
+Yeah.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+Stay away from carbs.
+
+DOCTOR U910
+That’s the first step.
+
+PATIENT U910
+Stay away from carbs, starches, greasy.
+
+DOCTOR U910
+Uh-huh.
+
+PATIENT U910
+And the sugar.
+
+DOCTOR U910
+Yeah.  Definitely.  You know okay so that's like one step and then I know you're kind of on the go it seems like.  Are you usually eat out most of the time?
+
+PATIENT U910
+I've been more lately.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+But even then it's not always bad, well what I get it'll still be fast food but you know I'll have a fish sandwich, @@@.
+
+DOCTOR U910
+Uh-huh.
+
+PATIENT U910
+Tuna.  @@@.  I cook up a lot of chicken and it lasts for three or four days.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+What time is your biggest meal usually?
+
+PATIENT U910
+Right about now.
+
+DOCTOR U910
+Right about now okay and that's when you're like getting home from work?
+
+PATIENT U910
+Right.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+But the thing I can't do without is, the uh, kinda like, @@@ instant mashed potatoes.
+
+DOCTOR U910
+Yeah that you make pretty quickly, yeah.  Do you remember the last time we did a stress test on you?
+
+PATIENT U910
+You haven't that I know of.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+But that's in the @@@.
+
+DOCTOR U910
+Why is that?
+
+PATIENT U910
+That's last time I had one.
+
+DOCTOR U910
+Oh my goodness.
+
+PATIENT U910
+I even remember when I it was.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+It’s been quite a while.
+
+DOCTOR U910
+Yeah.  Uh-huh.
+
+PATIENT U910
+And I only lasted like 30 seconds.
+
+DOCTOR U910
+Okay, but did you get the treadmill?  You got a treadmill?
+
+PATIENT U910
+Yeah.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+They started me on the main going a high speed.
+
+DOCTOR U910
+Right.  We don't, we don't have to do a treadmill, we could do like where we give you a medication and that's your stress test.  What I mean it stresses your heart enough to maybe push it and we monitor it.  People that can't get up on a treadmill and run we have other ways to do the stress test.
+
+PATIENT U910
+That's fine.
+
+DOCTOR U910
+Yeah.  That’s what I’m saying.
+
+PATIENT U910
+And I just can't do it because of the pain in my legs.
+
+DOCTOR U910
+Yes.  So I don't think your treadmill was here.  @@@.
+
+PATIENT U910
+@@@.  As a matter of fact I'm pretty sure it was before I had the last stent.
+
+DOCTOR U910
+Oh okay.
+
+PATIENT U910
+Cause I tried to talk the doctor out of doing it.  I said look, it’s a waste of time.
+
+DOCTOR U910
+Okay and then do you also, did you get your Lasix when you saw him.  You stopped the niacin and the Zetia.  Did you stop those two?
+
+PATIENT U910
+Yes.
+
+DOCTOR U910
+Okay but the Lasix you kind of went back to that.
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+What were you having, you were just swelling more or short of breath or what?
+
+PATIENT U910
+Both.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+Mainly the shortness of breath because I could feel the fluid, feel the fluid in my lungs.
+
+DOCTOR U910
+Okay, yeah.  That’s uncomfortable.
+
+PATIENT U910
+Is it a different type?  Right now I'm taking Lasix that I had.  @@@.  Might be generic.
+
+DOCTOR U910
+Oh the furosemide.
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+Yes.
+
+PATIENT U910
+Is there a difference?
+
+DOCTOR U910
+There isn't but we have room to go up on your Lasix, you have a lot of room.  The max dose of Lasix is like 400 a day @@@.  So what we could do is I'll talk to DOCTOR and see what her plan is but I would probably want to get you an echo and see how much your cardiac function has changed.  I'd probably get an ultrasound of your heart.
+
+PATIENT U910
+Okay.
+
+DOCTOR U910
+Um I'd maybe do a stress test on you too.  I'll see what she has to say about it and I'd definitely increase your Lasix, at least for now because you've become symptomatic so we need to figure out what's going on okay.  But let me just type in a couple of notes to get the ball rolling.  And then do you need refills on any medications do you know?
+
+PATIENT U910
+When I was getting, write it down, uh let's see.  Carvedilol expires, I got five left until August.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+That’s Plavix.
+
+PATIENT U910
+Cause I've only got one refill left.
+
+DOCTOR U910
+Okay I'll refill that one too.
+
+PATIENT U910
+Furosemide I got three refills left.  Glipizide only one.
+
+DOCTOR U910
+Okay.  What are you on for glipizide is it 10?
+
+PATIENT U910
+I take two tablets by mouth twice a day.
+
+DOCTOR U910
+Okay.  And you're on the max dose of that.
+
+PATIENT U910
+10 mg.
+
+DOCTOR U910
+I'll refill that one.
+
+PATIENT U910
+Uh insulin two refills left before July.
+
+DOCTOR U910
+Okay I've got the metformin.
+
+PATIENT U910
+Metformin three refills left before July.
+
+DOCTOR U910
+@@@.  And you're still taking the rosuvastatin, that's for the cholesterol?
+
+PATIENT U910
+Correct.
+
+DOCTOR U910
+Okay.  And that's going okay, no muscles aches or pains or anything?
+
+PATIENT U910
+No nothing.  How's the @@@ these days?  Did you get me the statins?
+
+DOCTOR U910
+Oh yeah I did.  We'll go over that @@@.
+
+PATIENT U910
+And I do have one other unrelated question.
+
+DOCTOR U910
+Yes, we’ll address them all. The Lasix, let's see maybe we'll go 60 twice a day.  Do you have 20 mg tablets or are they 40's?
+
+PATIENT U910
+Uh.
+
+DOCTOR U910
+Do you take just one pill or do you take two pills in the morning.
+
+PATIENT U910
+It's one twice a day.
+
+DOCTOR U910
+Just one pill okay.
+
+PATIENT U910
+I take one.
+
+DOCTOR U910
+@@@.
+
+PATIENT U910
+So take two of them twice?
+
+DOCTOR U910
+Yeah I'll let you know a final decision, we'll write everything down.
+
+PATIENT U910
+Oh yeah.
+
+DOCTOR U910
+Okay so, let's go over your labs.  The A1c we talked about before.  This is your white blood cell count.  Your hemoglobin here is 14.5 that's normal for a male your age.  Um your white blood cell count is 9 and that's a sign of infection.  Um your platelet count is 193 and that's also elevated.  This is your electrolyte count and also your kidney functions and your cholesterol levels.  So this is what I wanted.  I wanted to check your cholesterol and your liver enzymes since you were on statins a long time, so we check like your liver so I wanted to make sure nothing was going on with that.  Okay so your electrolytes, your potassium is actually a little bit low and that's probably from your Lasix so what we'll probably have to do is give you some potassium tablets to take.
+
+PATIENT U910
+Uh-huh.
+
+DOCTOR U910
+Cause if that drops too low your heart can go into like arrhythmias it's just @@@.  So that's why we do that um, this is a test of your kidney function and it was 1.08 and that's kind of in your baseline so your kidney function is kind of in the normal range.  Your urea nitrogen is your BUN.  It's another measurement of your kidneys um but that was consistent for you.  Let's see you were 6.7, nothing has changed and that's kind of what we look for in the test.
+
+PATIENT U910
+But is is high.
+
+DOCTOR U910
+It is high.  Minimally at high risk um and then the magnesium this is another one that is concerns me. So your potassium and your magnesium are two electrolytes that are very important to watch.  Your magnesium is also low.  So we'll probably have to start you on supplements and I may even want to give you some IV stuff here today before you go home and I know you're tired and you want to go home and sleep.
+
+PATIENT U910
+I want to eat.
+
+DOCTOR U910
+@@@.  And then these are your triglycerides so those are the fats.  So that's what you were taking niacin for @@@.  Yeah you were much better @@@ on the niacin.  Do you know why she didn't want you on it?  No.
+
+PATIENT U910
+I don't know.
+
+DOCTOR U910
+No? Were you tolerating it okay?  You weren't getting real hot or night sweats.
+
+PATIENT U910
+Didn’t get a flash, rashes or itches.
+
+DOCTOR U910
+Well I would probably restart that for you, if that's okay with you.
+
+PATIENT U910
+It's okay with me.
+
+DOCTOR U910
+Those numbers, I think I don't like this number.  I definitely want you like closer to 200 and also @@@, let's just do that.  So I @@@.
+
+PATIENT U910
+It wasn't just the niacin, what was the Zetia for?
+
+DOCTOR U910
+So Zetia is also kind of a affects your of cholesterol um and your fats.
+
+PATIENT U910
+Triglycerides.
+
+DOCTOR U910
+Yes.
+
+PATIENT U910
+Because I was controlled with triglycerides under the doctor before.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+Uh and he specifically put me on those to get the triglycerides down.
+
+DOCTOR U910
+Yeah.  So the only problem with Zetia is that like they haven't really proven that it does a lot, like it maybe minimally helps with your triglycerides.  It also causes a lot of GI upset.  So I would prefer we would start back on the niacin first and you know test this in like three months and see if it's helping.  If that's not helping, then we can add back the Zetia but with the side effects I'd rather you just do the niacin if you tolerate that well if it controls it.  Okay.
+
+PATIENT U910
+That’s fine. I've never had any side effects on any of the medications.
+
+DOCTOR U910
+Yeah, that's good.  Your medicines.  Your cholesterol.  So there's good cholesterol and there's bad cholesterol.
+
+PATIENT U910
+The good is always low.
+
+DOCTOR U910
+Your good cholesterol is the HDL and the niacin also helps with that actually.  It'll help bring it up just a little bit but the way you get your HDL up is exercise.  Physical exercise, which I know right now is kind of hard because of what’s going on but your LDL @@@ good. That’s great we want you below 70; you're at 58, that's excellent.  You’re diabetic with heart disease and we want you below 70 for your bad cholesterol.  So the LDL is where we want it.  The HDL is a little bit low um, we'll work on kind of symptomatically relieving your issues so you can do a little more exercise but we mainly covered that.  Your @@@ are your liver function tests, all the liver functions, but these usually @@@ when you're on a statin and then they'll @@@.  
+
+PATIENT U910
+@@@ high?
+
+DOCTOR U910
+No that's low, 0.4 is low.  4 is high it looks like you've never had levels that high @@@ around that range.  Yeah you've even down from the last @@@.  So @@@ go back on niacin.  Do you want to do a 90-day supply or do you want a 30-day supply?
+
+PATIENT U910
+90 is fine. That will be sent?
+
+DOCTOR U910
+Yes sent in the mail.  Okay let me just uh examine you and then we'll come up with a game plan and I'll write everything down for you.  Where do you work security?
+
+PATIENT U910
+I work uh in Burr Ridge.
+
+DOCTOR U910
+Okay.  That's @@@ right yeah.
+
+PATIENT U910
+Right.  South.  About.
+
+DOCTOR U910
+Take a deep breath.
+
+PATIENT U910
+About 17 miles I guess.
+
+DOCTOR U910
+Oh okay.  Do you live there too?
+
+PATIENT U910
+Yeah.  @@@ North @@@.
+
+DOCTOR U910
+Just look straight ahead for me I just want to check your eyes first.  Open up wide for me, say ah.
+
+PATIENT U910
+Ah.
+
+DOCTOR U910
+Okay. Perfect. Can I have you hold your breath for a minute?  Okay perfect.  Deep breath for me.  So are some days worse than others?  Is today probably a good day for you?  I don't hear much fluid in your lungs.
+
+PATIENT U910
+Oh no, as far as that goes, it’s a good day.
+
+DOCTOR U910
+So with the exertion the shortness of breath you're getting.
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+Yeah, yeah. Today wasn’t as bad. Is it days on days off kind of a thing @@@.
+
+PATIENT U910
+Uh-huh.
+
+DOCTOR U910
+Okay.  But you said you've noticed more fluid huh?
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+And that's the way you can.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+You know it's not down in my feet, it's always there.
+
+DOCTOR U910
+Here.  @@@ all right here.  You can tell that by pushing down and if it leaves an indent.  You usually don't have that.
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+The swelling.
+
+PATIENT U910
+Yeah, that's what I've been having for about.
+
+DOCTOR U910
+For the last four months.  But before I'm saying you didn't have any fluid on there, okay.  Wonderful.  Check this side.
+
+PATIENT U910
+Since @@@.
+
+DOCTOR U910
+Why is this one red?  Is it where they took the veins for your surgery, do you know?
+
+PATIENT U910
+Uh.
+
+DOCTOR U910
+When they do cardiac surgery sometimes they take a vein from your legs for the graft, do you remember?
+
+PATIENT U910
+I don't remember.
+
+DOCTOR U910
+Yeah a lot of people are like that.  Okay, uh just have a seat right there.  I'm going to talk to DOCTOR.  I'll be back in just a couple minutes okay.
+
+(DOCTOR OUT:  58:14  DOCTOR IN:  69:09)
+
+DOCTOR U910
+Okay.  So we've come up with a game plan.  Do you have that little med sheet they gave you when you came in, let’s write down on that, then you can keep that and I'll take this one okay.  So I'm just going to write on the back of this one if that's okay.  So we'll do the changes.  We're going to do your Lasix, we're going to do 60 mg twice a day.  You can cut your pills in half; do you have a pill cutter?
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+Oh okay that's fine too yeah so just cut them in half until you get the new ones.  The new ones will probably just be 20's and you'll take three.
+
+PATIENT U910
+What am I taking?
+
+DOCTOR U910
+You're taking 40 mg twice a day.
+
+PATIENT U910
+Okay.
+
+DOCTOR U910
+Now it's going to be 60.
+
+PATIENT U910
+So 1 1/2 okay.
+
+DOCTOR U910
+Yeah it goes to 1 1/2.  Um and then we're starting the niacin, okay, and then I'm starting you on some potassium.  Your potassium and magnesium are low.  I'm not going to make an IV I know you want to go home and sleep but I want you to take so we're going to give you magnesium it's going to be 420 mg three times daily.
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+For one week yeah and then you just take it twice a day.
+
+PATIENT U910
+Three times a day for a week.
+
+DOCTOR U910
+Just one week and then after that just take it twice a day and then potassium, that's potassium chloride and that's 20 mg and you'll take that twice daily.  So we're increasing your Lasix, your potassium @@@.
+
+PATIENT U910
+What's the difference, just out of curiosity?
+
+DOCTOR U910
+Sure.
+
+PATIENT U910
+This is salt isn't it?
+
+DOCTOR U910
+No.
+
+PATIENT U910
+It's not.
+
+DOCTOR U910
+Sodium is salt.
+
+PATIENT U910
+Oh.
+
+DOCTOR U910
+Right, potassium is something else yeah.
+
+PATIENT U910
+Okay.
+
+DOCTOR U910
+It's another electrolyte.  It's like inside of your cells, it's the thing it has the most of is potassium.
+
+PATIENT U910
+Okay.
+
+DOCTOR U910
+And it stabilizes your cardiac membranes if you have enough potassium.  It if doesn't then you can have like arrhythmias and that's probably not good for your heart @@@.
+
+PATIENT U910
+Yeah and when you were checking me I could feel, I could feel the heart.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+Doing weird stuff in there.
+
+DOCTOR U910
+Yeah, yeah.  So we'll keep an eye on that stuff.  We'll do the electrolytes and that might help.  If you continue to feel like palpitations and stuff like that then we can put you on a Holter monitor.  It hooks up to you and kind of watches your rhythm for a little while but we'll adjust that when we cross that bridge.  Um and I'm gonna schedule you to see Cardiology.  Cardiology appointment they'll schedule you when you're leaving just take the next available if you can.  We're gonna do an echo. That's an ultrasound of your heart and that'll tell us how much your blood is pumping, your ejection fraction I don't know if you've heard that before so you know.  If it's low.
+
+PATIENT U910
+I don't remember when I had it but the last time I had it, it was not this cardiologist, the one before.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+Had me do it and @@@.
+
+DOCTOR U910
+Your ejection fraction was low.  It was 40% at that time.
+
+PATIENT U910
+Yeah.
+
+DOCTOR U910
+Yeah.
+
+PATIENT U910
+And he said he was a little concerned about it, but not.
+
+DOCTOR U910
+Right so if it's, on this echo so if you're a lot worse then we would worry and would probably send you to do a stress test.  But I would do the chemical one for you so the treadmill wouldn't be an issue okay.  We want to see how your heart's doing when it's under stress.
+
+PATIENT U910
+Okay.
+
+DOCTOR U910
+And if your echo looks find and I'll call you when I get the results.  It might take like a week to kind of get that back so uh if your echo looks fine then I wouldn't worry, then we'll just do the Lasix dosing and then we'll see how you do.
+
+PATIENT U910
+So when am I doing this echo?
+
+DOCTOR U910
+It's going to be scheduled.  When you check out they'll schedule you.
+
+PATIENT U910
+Okay.
+
+DOCTOR U910
+Uh and then I want you to come back for labs in one week.
+
+PATIENT U910
+Again?
+
+DOCTOR U910
+Yes.  I want to make sure your potassium and magnesium are coming back to normal.  I don't want to stress your heart any more than we have to, so it's really important.
+
+PATIENT U910
+Well I've got to get this today then.
+
+DOCTOR U910
+Yeah do you want to pick those up downstairs?
+
+PATIENT U910
+I can.
+
+DOCTOR U910
+I'd prefer you do.  I know you want to go home and sleep but I'd prefer you just pick them up.  Especially because they're new, let me just sign this and get all this stuff ordered and then I want you to see, I know you don’t like the Pharm D and that didn't work out and that's totally fine.  I want to actually see an endocrinologist.  They manage diabetes a lot better.
+
+PATIENT U910
+Than this.
+
+DOCTOR U910
+Yeah so, we'll set you up with one.
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+Let's just go to endocrine, your A1c has been 8 for like a while so we're not really making headway so.  Endocrinology means like the doctors look at the glands in your body and the pancreas is like a gland so they deal with it a lot so they're very good.  Okay, is this pretty clear?
+
+PATIENT U910
+Yeah.  Furosemide 1 1/2 twice a day.
+
+DOCTOR U910
+Uh-huh.
+
+PATIENT U910
+Start the niacin, start the, restart the niacin.
+
+DOCTOR U910
+Uh-huh.
+
+PATIENT U910
+Magnesium, new one three times a day.
+
+DOCTOR U910
+You can restart it whenever you get it, it's not.
+
+PATIENT U910
+Oh okay.
+
+DOCTOR U910
+You know it's not urgent you start it today.
+
+PATIENT U910
+Magnesium, potassium start today or tonight.  Magnesium three times a day for a week then twice a day and potassium chloride twice a day, Cardiology appointment, echo appointment, labs in one week.  @@@. Yeah, good.
+
+DOCTOR U910
+Okay wonderful.  Okay so I ordered those two for the windows so they should be there um and those other two I ordered the niacin, I ordered your echo.
+
+PATIENT U910
+And endo, Cardiology, do the echo and endocrinologist but they, you just ordered the echo right?
+
+DOCTOR U910
+Uh-huh.  But they'll have to schedule you. I have no control over when they’ll schedule you and if things get worse I want you to call and if they tell you come in for an @@ visit I want you to do that.  That means we're going to take @@@.  Even if you don't see me you need to be seen by somebody.  I don't want you to go through or suffer for three months before somebody sees you, do you know what I mean?  Usually, they'll be able to get you in with me but if they don't.
+
+PATIENT U910
+Don't close out.
+
+DOCTOR U910
+Don't close out?
+
+PATIENT U910
+Don’t close out, I got another question.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+Just one.
+
+DOCTOR U910
+Hmm.  Okay and then when are you due to see the eye people again?  September okay, next September.  
+
+PATIENT U910
+Well I'm still confused if the furosemide, at least to me doesn't seem like its working then why am I depleting my potassium and magnesium?
+
+DOCTOR U910
+Because it's still making you urinate and potassium and Lasix actually wastes potassium.  So even if you're on a low dose sometimes people can be wasting potassium.  Some people are sensitive to it differently um because the higher you go on a dosage the more potassium you're gonna lose so that's why it's important.  So no matter how much Lasix you're going to lose potassium.  Some people their bodies adjust to it and they kind of you know just absorb more potassium and your body kind of regulates itself but when you're on a higher dose of it it can't keep up and so you're better just to take oral.  It's not uncommon.
+
+PATIENT U910
+No @@@.  What foods might include?
+
+DOCTOR U910
+Bananas, very high in potassium.
+
+PATIENT U910
+Oh good I like bananas.
+
+DOCTOR U910
+Yeah eat a banana every morning if you can or every night whenever you're going to work.  Okay, what was the other questions?
+
+PATIENT U910
+Oh yeah I see on TV and I also see you have the documentation out here in the Waiting Room.
+
+DOCTOR U910
+Yes.
+
+PATIENT U910
+Should I get that?
+
+DOCTOR U910
+The shingles.  So you are 62, so we recommend vaccination usually around you know after 60.  Um have you had the chicken pox as a child?  You have okay.  Do you know what shingles is? 
+
+PATIENT U910
+I guess it's some sort of a neuro…herpes.
+
+DOCTOR U910
+Yeah @@@.  Exactly it's a herpes @@@ so.  Chicken pox is a herpes virus.  You get chicken pox and you break out everywhere and it goes away but it actually stays in your body, it's dormant and then one day when you're older and your immune system's down and especially if you're a diabetic sometimes.
+
+PATIENT U910
+That's why…
+
+DOCTOR U910
+@@@ it can flare, it can flare-up and then when it flares up it kind of is like, it flares up like in a distribution of one side of your body.
+
+PATIENT U910
+I've seen it.
+
+DOCTOR U910
+And it's like pretty, it's pretty painful.  
+
+PATIENT U910
+Yeah.
+
+DOCTOR U910
+Some people sometimes can have residual neuropathy so I mean if you're not adverse to getting it we'll do it today.
+
+PATIENT U910
+That fine.
+
+DOCTOR U910
+Okay.
+
+PATIENT U910
+That's what I wanted to know.
+
+DOCTOR U910
+Sure, sure.
+
+PATIENT U910
+If you recommended it.
+
+DOCTOR U910
+It's a great thought; it's a great thought yeah.
+
+PATIENT U910
+I don't need any more pain.
+
+DOCTOR U910
+Okay, let's walk you out.  Okay so labs in a week okay.
+
+PATIENT U910
+Okay.
+
+DOCTOR U910
+I think we have everything all set.  I want you to come back to see me in a little shorter interval this time is that okay?
+
+PATIENT U910
+Sure.
+
+DOCTOR U910
+Okay.  So we'll see you in two months.  That's to check your cardiac enzymes.
+
+PATIENT U910
+Are you getting close to leaving?
+
+DOCTOR U910
+No I'm just starting so you'll see me in two months.
+
+PATIENT U910
+Does it take that long?
+
+DOCTOR U910
+Yeah three years @@@.
+
+PATIENT U910
+@@@.
+
+DOCTOR U910
+So I've got two more.  So we'll get to know each other a lot better.  @@@ workout and then I'll take a look at your lab and I'll call you when we get the echo, the labs in a couple of weeks.  Thank you.  Take care sir.
+
+PATIENT U910
+You too.
+
+PATIENT LEAVES:  82:16.
+
+Time is  3:35.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255131
+TRANSACTION # 578-10-2-316-0103

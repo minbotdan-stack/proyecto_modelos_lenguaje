@@ -1,0 +1,881 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR W838
+PATIENT?
+
+PATIENT W838
+Yes ma'am. 
+
+DOCTOR W838
+Sorry about the wait, follow me.
+
+PATIENT W838
+Okay.  Are you DOCTOR?
+
+DOCTOR W838
+Oh no I’m DOCTOR.
+
+PATIENT W838
+Okay.  Missed several appointments here for various reasons.
+
+DOCTOR W838
+That's okay, okay.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+How are you doing today?
+
+PATIENT W838
+I'm pretty good today.
+
+DOCTOR W838
+Alright.  I saw that you were recently hospitalized.
+
+PATIENT W838
+Several times.
+
+DOCTOR W838
+Yeah so how have you been doing since then?
+
+PATIENT W838
+Well I'm in the, I'm in the, let's see what they call it, APT upstairs.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+Uh 35 Day Inpatient Program.
+
+DOCTOR W838
+Okay how's it going?
+
+PATIENT W838
+Just fine, fine.
+
+DOCTOR W838
+Going well?
+
+PATIENT W838
+Yeah.
+
+DOCTOR W838
+And when was your last drink?
+
+PATIENT W838
+Oh um well I had a very tiny bit on a field trip during the program.
+
+DOCTOR W838
+When was that?
+
+PATIENT W838
+Uh let's see that was around the 10th I believe.
+
+DOCTOR W838
+Tell me how that happened.
+
+PATIENT W838
+Uh it was a crazy field trip.  It was what they call um uh, what do they call that thing; it was a National Guard thing.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+Um stand down.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+And a lot of homeless veterans show up in that and it's kind of a party atmosphere and in line I drank a bit.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+And uh they were going to throw me out of the program.
+
+DOCTOR W838
+Yeah.
+
+PATIENT W838
+They put me in the nut ward on 7 for seven days and let me back in the program.
+
+DOCTOR W838
+Okay.  And you stopped the drinking, I mean how do you feel about the program are you committed since then?
+
+PATIENT W838
+Yeah I'm trying to, I mean I don't think the, I think the program's flawed because they had four field trips just in the first 21 days I was there.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+In the first 21 days, four field trips – for an inpatient, to me that didn't seem like a normal inpatient program.
+
+DOCTOR W838
+I'm not sure @@@.
+
+PATIENT W838
+Okay but from what I understand most programs, at least 21 days before you can see the outside world but anyway um I am committed.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+But I was standing in line for five hours with a bunch of homeless drunks and so on with bottles in their pockets and that's pretty tempting you know.
+
+DOCTOR W838
+I know that's tempting.
+
+PATIENT W838
+I'm not justifying it but.
+
+DOCTOR W838
+Alright.
+
+PATIENT W838
+I did it.
+
+DOCTOR W838
+You did it.
+
+PATIENT W838
+And I spent seven days on the nut ward for it.
+
+DOCTOR W838
+Okay.  Otherwise any shakes, any tremors?
+
+PATIENT W838
+Oh no, no, I had no DTs or anything.
+
+DOCTOR W838
+Any hallucinations?
+
+PATIENT W838
+No, no.  No I did my uh I did my detox before I went into the program.
+
+DOCTOR W838
+Yeah you did.  Headaches, visions changes?
+
+PATIENT W838
+No.
+
+DOCTOR W838
+Good.  Are you sweating a lot?
+
+PATIENT W838
+No.
+
+DOCTOR W838
+Good, so you're done with all that.
+
+PATIENT W838
+Yeah I'm done with all that.  A little bit of insomnia still but it.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+Seems to be getting better.  I'm gonna take my jacket off.  
+
+DOCTOR W838
+Huh.
+
+PATIENT W838
+It took so long to actually see the doctor cause I missed so many appointments.
+
+DOCTOR W838
+Well I looked over your labs uh from last month.  Everything looked pretty good.  The only thing we haven't had from you in a while is a cholesterol panel.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+You haven't had it for about a year so I need you to go and get that to make sure everything is good.
+
+PATIENT W838
+Is that all you do today?
+
+DOCTOR W838
+I mean, um this is a fasting blood test, did you have lunch today?  Well we can get it some other time, at your convenience.
+
+PATIENT W838
+I've never had high cholesterol.
+
+DOCTOR W838
+You haven't uh.
+
+PATIENT W838
+I doubt that's an issue.
+
+DOCTOR W838
+But we need to get it at least one a year @@@.
+
+PATIENT W838
+Okay.   Well I.
+
+DOCTOR W838
+Otherwise your chemistry panel, your kidneys, your blood counts, your liver, so far look good.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+And those @@@.
+
+(Someone knocks on the door)  Doctor talks to person.
+
+PATIENT W838
+During my last withdrawls, um you know they do the nostril check with a giant swabs.
+
+DOCTOR W838
+Uh-huh.
+
+PATIENT W838
+Um they said that I had MRSA.
+
+DOCTOR W838
+Yeah that can happen if you're in the hospital a lot you get it.
+
+PATIENT W838
+But I had cystic issues for years.
+
+DOCTOR W838
+Uh-huh.
+
+PATIENT W838
+And nothing severe, severe just acne.
+
+DOCTOR W838
+But it's a colonization, @@@ active infection going on.
+
+PATIENT W838
+Okay well I'm seeing Dermatology on the 5th.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+Um.
+
+DOCTOR W838
+Sounds good.
+
+PATIENT W838
+And um uh and I told you I've got a little bit of insomnia um.  I had um, it seems to be getting better but occasionally, for a while I was getting like a sharp stinging thing in the knee.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+But um in my right knee and it shoots just like in a straight line like this.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+And I don't know what is generally be but it's not.
+
+DOCTOR W838
+When do you get it?
+
+PATIENT W838
+Well I used to get when climbing in and out of bed.  I don't know if it.
+
+DOCTOR W838
+Every day?
+
+PATIENT W838
+Yeah. But uh it's not very often anymore but it's the same feeling.  I don't know what that would be but.
+
+DOCTOR W838
+Is it always on that one side?
+
+PATIENT W838
+Right here, it's a shooting pain that way.
+
+DOCTOR W838
+And it's only on the right side?
+
+PATIENT W838
+It's only on the right side on the outside in the front by the knee right here.
+
+DOCTOR W838
+I'm not quite sure.
+
+PATIENT W838
+I mean.
+
+DOCTOR W838
+Any numbness or tingling?
+
+PATIENT W838
+No.
+
+DOCTOR W838
+No.
+
+PATIENT W838
+It's just, it's a burning.
+
+DOCTOR W838
+When you get it how long does it last for?  Any rash?
+
+PATIENT W838
+No, no, no, no, no, no.  It's inside.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+It's just something right in through here.
+
+DOCTOR W838
+Do you still smoke?
+
+PATIENT W838
+Oh yeah.
+
+DOCTOR W838
+You do.
+
+PATIENT W838
+But if you want to um prescribe me some um, I'm suppose to ask you to prescribe me Nicorette.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+But not the weak 2 mg stuff cause that doesn't do anything.
+
+DOCTOR W838
+How much do you smoke?
+
+PATIENT W838
+I smoke a pack a day but I do smoke a cigar occasionally.
+
+DOCTOR W838
+Okay @@@.
+
+PATIENT W838
+I mean so that's @@@ stronger than the typical @@@.
+
+DOCTOR W838
+So last time you were here a year ago you we got the other hepatitis tests done and they were negative.
+
+PATIENT W838
+Uh-huh.
+
+DOCTOR W838
+You had an EKG test that was negative but I just wanted to make sure that you know the results of all those.
+
+PATIENT W838
+That was all negative.
+
+DOCTOR W838
+That was negative.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+They were both negative.  That's not @@@.
+
+PATIENT W838
+Now the hepatitis, they just tested for hepatitis C too right?
+
+DOCTOR W838
+That was negative too.
+
+PATIENT W838
+Good.
+
+DOCTOR W838
+Hep B, hep C and HIV negative.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+Which is good.
+
+PATIENT W838
+Uh-huh.
+
+DOCTOR W838
+Especially with alcohol use affecting the liver, we wanted to make sure.
+
+PATIENT W838
+Absolutely.
+
+DOCTOR W838
+Uh when was the last time you saw the eye doctor?
+
+PATIENT W838
+Um I'm supposed to see the eye doctor on January the 12th.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+And they're making me new eyeglasses right now.
+
+DOCTOR W838
+Perfect.  Okay.
+
+PATIENT W838
+I'm having those soon.
+
+DOCTOR W838
+So we're on our way there.  @@@  Have you had any trouble swallowing?
+
+PATIENT W838
+That went away.
+
+DOCTOR W838
+Good.
+
+PATIENT W838
+And I don't know what was causing that but.
+
+DOCTOR W838
+Good.
+
+PATIENT W838
+I couldn't even get pills down, they used to gag me.
+
+DOCTOR W838
+Good.
+
+PATIENT W838
+And now I take a whole fistful of them every morning cause they got me on a million vitamins.
+
+DOCTOR W838
+Great yeah and you need those vitamins.
+
+PATIENT W838
+Yeah I understand.  They just said that I was, oh what's the stuff that's in bananas uh.
+
+DOCTOR W838
+Potassium.
+
+PATIENT W838
+They said I was high on potassium.
+
+DOCTOR W838
+And that's because of the dehydration.
+
+PATIENT W838
+Okay so that's okay now or?
+
+DOCTOR W838
+Uh so you were at primary borderline back on November 16th so that's okay.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+Any usually you know that level's okay.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+No problem.  So let me @@@.  Did you have your flu shot this year?
+
+PATIENT W838
+Yeah somebody gave me one.  Finally someone gave me one @@@.
+
+DOCTOR W838
+@@@.  
+
+PATIENT W838
+Is it something I got to lay back on or?
+
+DOCTOR W838
+No you're fine, you're fine.
+
+PATIENT W838
+I did get some uh, something for my back, I think it's muscular.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+@@@.
+
+DOCTOR W838
+Yeah.
+
+PATIENT W838
+@@@.
+
+DOCTOR W838
+Any burning when you urinate?
+
+PATIENT W838
+No.
+
+DOCTOR W838
+Take some deep breaths.  Alright.  Any pain when I press down here?
+
+PATIENT W838
+No.
+DOCTOR W838
+Okay you can sit up, good.  Deep breath.  Any swelling in your legs?
+
+PATIENT W838
+No.
+
+DOCTOR W838
+Good.  Everything sounds good.  And no belly pain, nausea, vomiting, constipation?
+
+PATIENT W838
+No I mean I get a little bit of that pain like when I had the pancreatitis but, very minor and only if I eat very heavy.
+
+DOCTOR W838
+Okay.  @@@ right.
+
+PATIENT W838
+I think it's just like serious quantity is an issue.
+
+DOCTOR W838
+Oh that too.
+
+PATIENT W838
+I've got an aunt you know I an enormous amount of weight last year okay.
+
+DOCTOR W838
+Yeah.
+
+PATIENT W838
+I got down to 129 pounds.
+
+DOCTOR W838
+You can’t tolerate it.
+
+PATIENT W838
+So now I'm back to close to my original weight.
+
+DOCTOR W838
+Good.
+
+PATIENT W838
+So I've been eating heavy to, cause I was weak.
+
+DOCTOR W838
+Oh I bet.
+
+PATIENT W838
+And I was skinny.
+
+DOCTOR W838
+Yeah I bet.  Probably had some malnutrition.
+
+PATIENT W838
+So I've been putting the weight back on but I can't go overboard if I do it, it does cause me some problems.
+
+DOCTOR W838
+Do you need any refills on any of the migraine medicine or anything?
+
+PATIENT W838
+I think I'm in good shape. The nurses said to get the Nicorette and I need um and I should get a stronger dose, that's what the doctor up on 9 said cause it.
+
+DOCTOR W838
+Because the doses you have are?
+
+PATIENT W838
+They gave me 2 and that's nothing, like chewing air.
+
+DOCTOR W838
+Do you want the patch or do you want the gum?
+
+PATIENT W838
+Gum.
+
+DOCTOR W838
+We’ll give you one piece of the highest dose we have.
+
+PATIENT W838
+1 piece?
+
+DOCTOR W838
+That's.
+
+PATIENT W838
+You mean one box.
+
+DOCTOR W838
+Yeah, yeah.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+But each time you take one piece.
+
+PATIENT W838
+Yeah.
+
+DOCTOR W838
+Yeah, yeah.
+
+PATIENT W838
+And that’s all I take of the others.
+
+DOCTOR W838
+Okay.  Perfect.  You want to pick it up here?
+
+PATIENT W838
+I pick it up right here right?
+
+DOCTOR W838
+Yeah.
+
+PATIENT W838
+Yeah I'll pick it up and take it up to 9.
+
+DOCTOR W838
+Let me talk with my attending and I'll be right back.  It seems like you're doing better.  I'm glad that you're in this program.
+
+PATIENT W838
+Uh-huh.
+
+DOCTOR W838
+Um.
+
+PATIENT W838
+I think I'm doing better.
+
+DOCTOR W838
+Right.
+
+PATIENT W838
+I'm getting really sick of this cystic acne.  It was getting a lot better because I was on the intravenous IVs for the pancreatitis.
+
+DOCTOR W838
+Uh-huh.
+
+PATIENT W838
+I was getting um, oh what do you call it, antibiotics.
+
+DOCTOR W838
+Right.
+
+PATIENT W838
+I cleared up pretty good and now the cystic acne back.
+
+DOCTOR W838
+Uh-huh.
+
+PATIENT W838
+And I don't know if it’s from the detoxing or what but it's hard, it's painful, they are deep under the skin, it's not surface.
+
+DOCTOR W838
+So yeah we'll talk with them and see what they say.
+
+PATIENT W838
+That's what I'll talk with them.  I'm serious.
+
+DOCTOR W838
+I'm glad you have an appointment and everything.  I'll be back in just a moment, alright.
+
+(DOCTOR OUT:  68:26  DOCTOR IN:  72:50)
+
+DOCTOR W838
+Alright sir.  So we're not going to change anything.  Your blood pressure looks pretty good now.
+
+PATIENT W838
+Uh-huh.
+
+DOCTOR W838
+Uh so we're not gonna start anything or make any changes right now.
+
+PATIENT W838
+Good.
+
+DOCTOR W838
+Um otherwise the soonest you need to come back, probably a couple months after the program's done here to check up on you to make sure.
+
+PATIENT W838
+How will I know, will they give me a call or something?
+
+DOCTOR W838
+Yes they'll give you a call.
+
+PATIENT W838
+Okay.  Is there, because I'm waking up in the middle of the night several times.
+
+DOCTOR W838
+Uh-huh.
+
+PATIENT W838
+Um I am able to get back to sleep.
+
+DOCTOR W838
+Okay.
+
+PATIENT W838
+But um is there any kind of a sleeping pill that would.
+
+DOCTOR W838
+If you're able to get back to sleep the sleeping pills aren't really the ones that we would use for that situation.
+
+PATIENT W838
+Oh okay, alright.  I @@@.
+
+DOCTOR W838
+Are you having like nightmares?
+
+PATIENT W838
+I don't know, I don't know.
+
+DOCTOR W838
+Bring it up to the Psychiatry people up there too since to see if there's anything special but if you're able to go back to sleep and you're able to actually fall asleep I don't recommend any further sedating medicine.
+
+PATIENT W838
+Well I.
+
+DOCTOR W838
+They also have an addictive potential.
+
+PATIENT W838
+Oh I know that.
+
+DOCTOR W838
+That's why I don't want to give you medication for that right now.
+
+PATIENT W838
+Alright.  I've had insomnia my entire life.  That's a lot of the reason why I drank so much.
+
+DOCTOR W838
+But I think once you stop drinking then we'll see how the insomnia goes.
+
+PATIENT W838
+Alright.  Uh I think that's it, alright.
+
+DOCTOR W838
+Alright sir.  @@@.
+
+PATIENT W838
+No, no.
+
+DOCTOR W838
+@@@.
+
+PATIENT W838
+Oh I have kind of heavy white nasal discharge every morning.
+
+DOCTOR W838
+That's a postnasal drip situation, @@@ laying down a lot and when you wake up @@@.
+
+PATIENT W838
+It comes out but it's ridiculously thick and it's white.
+
+DOCTOR W838
+I can give you a nasal spray @@@.
+
+PATIENT W838
+What's that?
+
+DOCTOR W838
+A nasal spray to help clear it up.
+
+PATIENT W838
+Is it something I should use?
+
+DOCTOR W838
+I don't, you can try it temporarily just to see if it helps clear it up.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+Yeah I can put that in for you.
+
+PATIENT W838
+Okay.  And I should be able to pick up the uh Nicorette, nasal sprays.
+
+DOCTOR W838
+It should all be there.
+
+PATIENT W838
+How long do you think I should give the Pharmacy?
+
+DOCTOR W838
+I think like when you get a number and you wait it'll probably be ready and @@@.
+
+PATIENT W838
+Oh I should get a number first and.
+
+DOCTOR W838
+Yeah, yeah you should get a number.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+You're good to go.
+
+PATIENT W838
+Alright cause otherwise the nurses are gonna cut me off on the Nicorette because even though I still have some in my box up there, they're gonna say I don't have a prescription so I can't have any more.
+
+DOCTOR W838
+Yep it's in there.
+
+PATIENT W838
+Alright cool.
+
+DOCTOR W838
+Take care, good luck @@@.
+
+PATIENT W838
+Thank you very much.  Um is this just something that every time I come here, it could be you or it could be DOCTOR, it could be either or?
+
+DOCTOR W838
+It @@@ so just hopefully you'll just see me @@@.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+But it all just depends what day it is and whoever is available.
+
+PATIENT W838
+Okay.
+
+DOCTOR W838
+@@@ but we all take turns.
+
+PATIENT W838
+And everything that we did here they know about on 9.
+
+DOCTOR W838
+Yeah I'll put it in the computer.
+
+PATIENT W838
+Everybody @@@.  Okay thank you.
+
+DOCTOR W838
+Thank you, oh @@@.
+
+PATIENT W838
+Yeah thank you.  Which way I go this way?
+
+DOCTOR W838
+To the left.
+
+PATIENT W838
+Left okay.
+
+PATIENT LEAVES:  75:46.
+
+Time is 3:55.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300280
+TRANSACTION # 578-10-2-316-0103

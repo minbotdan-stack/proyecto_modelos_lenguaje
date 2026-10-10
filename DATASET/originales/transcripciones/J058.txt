@@ -1,0 +1,871 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR J058
+PATIENT? 
+
+PATIENT J058
+Right here.
+
+DOCTOR J058
+Just go on in here.
+
+PATIENT J058
+Okay.
+
+DOCTOR J058
+I'm DOCTOR; I'll be seeing you today.  Your blood pressure is low.
+
+PATIENT J058
+Yeah.
+
+DOCTOR J058
+Do you feel bad today?
+
+PATIENT J058
+No I don't feel bad.
+
+DOCTOR J058
+No.
+
+PATIENT J058
+I feel great today.
+
+DOCTOR J058
+That's good.
+
+PATIENT J058
+I feel great; I don't feel bad at all.
+
+DOCTOR J058
+Yeah I'm just gonna close the door; you can have a seat over there.  Okay.  So you're feeling okay?
+
+PATIENT J058
+Yeah I feel great.
+
+DOCTOR J058
+Okay.
+
+PATIENT J058
+I'm feeling fine.
+
+DOCTOR J058
+Um any chest pains?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Any trouble breathing?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Any coughs?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Any fevers or chills?
+
+PATIENT J058
+No, no.
+
+DOCTOR J058
+Any belly pain?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Nausea, vomiting?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Diarrhea?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Blood in your stools?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Black stools?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Okay.  Any problems urinating?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Okay and do you feel lightheaded right now?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Do you feel dizzy?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Do you feel like you're gonna pass out?
+
+PATIENT J058
+No.  (laughs)
+
+DOCTOR J058
+And do you check your sugars regularly at home?
+
+PATIENT J058
+Yes.
+
+DOCTOR J058
+What are they usually?
+
+PATIENT J058
+What have my readings been?
+
+SECOND PERSON J058
+It was 160 today.
+
+DOCTOR J058
+160 today.  How often.
+
+SECOND PERSON J058
+They've usually been lower than that, like 135.
+
+DOCTOR J058
+What's the lowest it is?
+
+SECOND PERSON J058
+Let me see, 116 or something like that.
+
+DOCTOR J058
+Is it ever lower than 100?
+
+SECOND PERSON J058
+Very rarely.
+
+DOCTOR J058
+When was the last time though?
+
+SECOND PERSON J058
+Uh see if I can find it.  Well, we were on vacation a few occasions they were low but I really can't say.  When we were moving around you know it's really not that bad.
+
+DOCTOR J058
+So he doesn't really have low episodes normally?
+
+SECOND PERSON J058
+No.
+
+DOCTOR J058
+Okay and how much insulin is he taking?
+
+SECOND PERSON J058
+Uh he's taking 7 with meals with three meals.
+
+DOCTOR J058
+Okay.
+
+SECOND PERSON J058
+That uh and then he's taking 60 uh.
+
+DOCTOR J058
+At night?
+
+SECOND PERSON J058
+Long-acting yes, in the morning, sorry not at night yeah.
+
+DOCTOR J058
+So you having any blurred vision?
+
+PATIENT J058
+Having any what?
+
+DOCTOR J058
+Blurry vision?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Okay um and you quit smoking and drinking right since 2000?
+
+PATIENT J058
+Yeah.
+
+SECOND PERSON J058
+I think he hasn't smoked.
+
+DOCTOR J058
+Okay.  Um okay and when was the last time you saw the oncologist?  They look at your lung cancer.
+
+SECOND PERSON J058
+Been about six or eight months.
+
+DOCTOR J058
+Are you due to see them soon?
+
+PATIENT J058
+Uh not aware, I think it was rescheduled.
+
+SECOND PERSON J058
+@@@.
+
+PATIENT J058
+@@@.
+
+SECOND PERSON J058
+There were more reasons that we rescheduled it, that appointment.
+
+DOCTOR J058
+Okay and you were supposed to, in June, I think it was June when you saw them?
+
+PATIENT J058
+Perhaps uh. It’s been awhile.
+
+DOCTOR J058
+Well I see one from January @@@ in June.  When was the last CT scan of his chest?
+
+SECOND PERSON J058
+Probably uh, it should be uh prior to that to the oncology examination.  
+
+DOCTOR J058
+Okay.
+
+SECOND PERSON J058
+See what happened is he came from Florida.
+
+DOCTOR J058
+Uh-huh.
+
+SECOND PERSON J058
+From a nursing home and uh they uh he didn't bring any records with him and so they asked me to go and see if I could happen to @@@ because they wanted to uh, some information about what really happened.
+
+DOCTOR J058
+Sure.
+
+SECOND PERSON J058
+With that and so it took me a while to get that information and when I found that, I got the information for the actual treatment that he took for his lung cancer.
+
+DOCTOR J058
+Okay.
+
+SECOND PERSON J058
+And but I think @@@, well everything's fine, they concluded @@@ or follow-up and then the CT @@@.
+
+DOCTOR J058
+Okay and you don't feel like your heart is racing right now or anything like that?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+Okay and you took your blood pressure medicine this morning?
+
+PATIENT J058
+Yeah.
+
+SECOND PERSON J058
+Uh let me, if I may, uh we are doing vascular exercises.
+
+DOCTOR J058
+Uh-huh.
+
+SECOND PERSON J058
+He just started that uh two weeks ago.
+
+DOCTOR J058
+Okay.
+
+SECOND PERSON J058
+That might be the reason why his blood pressure is dropping because he's been on this medication @@@ for a while but we just recently started this exercise.
+
+DOCTOR J058
+Okay.
+
+SECOND PERSON J058
+So that might be suppressing his blood pressure because he's just never been on exercise before.
+
+DOCTOR J058
+Okay.  Yeah I mean it is low.
+
+SECOND PERSON J058
+Yeah.
+
+DOCTOR J058
+But the fact that he's not having any symptoms kind of makes me less worried.
+
+SECOND PERSON J058
+Yeah.
+
+DOCTOR J058
+Cause your blood pressure can drop for many reasons but if you're not having symptoms from it you know, if you're having infection, you're not drinking enough fluids, you're eating and drinking okay.
+
+PATIENT J058
+Uh-huh.
+
+DOCTOR J058
+And you're making good urine and still urinating @@@.
+
+PATIENT J058
+Yeah.
+
+DOCTOR J058
+I'm going to get the thing and recheck it, okay.  But I'm gonna take a quick listen to your heart and lungs.  And you actually see the neurologist and they do injections is that right?
+
+PATIENT J058
+Uh-huh.
+
+DOCTOR J058
+You had one.
+
+SECOND PERSON J058
+@@@ shot.
+
+DOCTOR J058
+Yeah and where did they do it?
+
+SECOND PERSON J058
+Well they've done, they've done some in his arm and they’s done some on his paralyzed side, the arm and the lower @@@.
+
+DOCTOR J058
+On the left side.
+
+SECOND PERSON J058
+Right, the right side I'm sorry.
+DOCTOR J058
+Right, on both sides.
+
+SECOND PERSON J058
+Right.
+
+DOCTOR J058
+And then you had the tremor in your left hand.
+
+PATIENT J058
+Uh uh yes, yes.
+
+DOCTOR J058
+Okay, okay.  I'm gonna listen to your heart.  Do you want to lift up your um.
+
+PATIENT J058
+@@@?
+
+DOCTOR J058
+Uh-huh.  Okay.  Take a deep breath.  One more time.  One more time.  Release it. Once more.  You can breathe normally now.  No belly pain or anything?
+
+PATIENT J058
+No.
+
+DOCTOR J058
+No pain with urination?  Can you open your mouth?  Take your glasses off for a second.  Okay.  Are you able to move this arm at all?  Okay and then what about this arm can you hold it straight up, push it up, don't let me push it down good.  Are you able to lift this leg up?  Is that an improvement from before?  Okay and what about this one?  @@@ This one again, okay good.  Okay let me grab the blood pressure machine okay.  @@@ sit up here, are you able to do that?
+
+SECOND PERSON J058
+Uh with assistance.
+
+DOCTOR J058
+With assistance.
+
+PATIENT J058
+Gotcha.
+
+DOCTOR J058
+Let's see if you can, then I have to have you lay down so I can finish examining him.
+
+SECOND PERSON J058
+I can get him up there too.  @@@.  Do you want to lay back for me?  @@@.  You can do it.
+
+DOCTOR J058
+That's great.  That's great.  Did you feel lightheaded when you stood up?
+
+PATIENT J058
+Uh uh.
+
+DOCTOR J058
+Huh?
+
+PATIENT J058
+Uh uh.
+
+DOCTOR J058
+Is it easier if we take this off or how can we?
+
+PATIENT J058
+Uh-huh.
+
+DOCTOR J058
+Let me take it off.
+
+PATIENT J058
+Okay.  
+
+DOCTOR J058
+Let me check it in this arm first, okay.  133/59.
+
+PATIENT J058
+Uh-huh.
+
+DOCTOR J058
+Let me check the other arm.  Okay.  Okay hold still while I check it.  Just relax @@@.  One second okay.  Are you uncomfortable like this?  Yeah.  What's hard for you, is your back hurting?
+
+PATIENT J058
+My back.
+
+DOCTOR J058
+Okay.
+
+PATIENT J058
+@@@.
+
+DOCTOR J058
+Sorry I'll just be quick and then I can get you back in a chair okay.
+
+PATIENT J058
+Okay.
+
+DOCTOR J058
+I think it's a little bit hard because you can't move your arm out completely, right.  Sorry, I know you’re uncomfortable, I’m just trying to make sure that nothing is going on, okay?  Did you take a flu shot this year?  Okay, this is the last time I'll take it in this arm and then I'll let you get off the table okay.  Okay.  Alright I'm gonna go talk to DOCTOR but you can come back and have a seat here; you'll help him get back to the chair right?
+
+SECOND PERSON J058
+Yes I will.
+
+DOCTOR J058
+It's still low but.
+
+SECOND PERSON J058
+Uh-huh.
+
+DOCTOR J058
+I'll just talk to DOCTOR @@@.  And he's taking 40 of the lisinopril?
+
+SECOND PERSON J058
+Huh?
+
+DOCTOR J058
+40 mg of lisinopril?
+
+SECOND PERSON J058
+Yes.
+
+DOCTOR J058
+Okay.
+
+SECOND PERSON J058
+One half.
+
+DOCTOR J058
+One half of the 40.
+
+SECOND PERSON J058
+One half of the 40 yes.
+
+DOCTOR J058
+20 mg okay.
+
+PATIENT J058
+Huh?
+
+SECOND PERSON J058
+That's fine uh-huh.  Okay.
+
+PATIENT J058
+Pull my chair some.
+
+DOCTOR J058
+You haven't moved yet uh, sorry about this.
+
+SECOND PERSON J058
+Stay here?
+
+DOCTOR J058
+Stay there just for a second because.
+
+SECOND PERSON J058
+Okay, okay.
+
+DOCTOR J058
+You know with machines, if you want you can test it yourself so I'm going to check on my own the blood pressure.
+
+SECOND PERSON J058
+Oh okay.
+
+DOCTOR J058
+I @@@ on the machine; I want to make sure it's accurate okay.
+
+SECOND PERSON J058
+Okay, okay, yes.
+
+DOCTOR J058
+Cause I'm checking, if it doesn't seem like its right they kind of like to have @@@.
+
+SECOND PERSON J058
+Okay.  Okay.
+
+DOCTOR J058
+Do you think you could take out one arm, you'll have to the right arm too just to, we're going to do that @@@ yeah so.  Sorry sir, I just want to make sure.
+
+SECOND PERSON J058
+Okay, okay.
+
+DOCTOR J058
+Okay.  Yeah it's still low.  Alright uh why don't you just stay in this chair cause I don't want you to have to keep getting up but I'll be back okay.
+
+SECOND PERSON J058
+Okay.
+
+(DOCTOR OUT:  39:10  DOCTOR IN:  55:40)
+
+DOCTOR J058
+Okay I'm sorry for @@@ but I'll be back in a couple of minutes okay.
+
+SECOND PERSON J058
+Okay.
+
+PATIENT J058
+The nurse.
+
+SECOND PERSON J058
+She's the doctor.
+
+PATIENT J058
+Doctor.
+
+DOCTOR J058
+You want him back into the wheelchair?
+
+PATIENT J058
+Yeah I will in one second.
+
+DOCTOR J058
+You can do that; sorry I need to put in this.
+
+PATIENT J058
+Okay.
+
+(DOCTOR OUT:  56:06  DOCTOR IN:  60:03)
+
+DOCTOR J058
+Okay, so what we're gonna do is we're just gonna stop the blood pressure medication now okay.
+
+SECOND PERSON J058
+Oh yeah.
+
+DOCTOR J058
+And do you have a blood pressure cuff at home?
+
+SECOND PERSON J058
+No.
+
+DOCTOR J058
+Okay so I'll.
+
+SECOND PERSON J058
+We had one and uh.
+
+DOCTOR J058
+We'll get you one.
+
+SECOND PERSON J058
+Thanks.
+
+DOCTOR J058
+And I want you to check his blood pressure at home and if you notice it coming up higher then we can.
+
+SECOND PERSON J058
+Just notify you.
+
+DOCTOR J058
+Yeah we can note it, yeah.
+
+SECOND PERSON J058
+Start it back again.
+
+DOCTOR J058
+Yeah but right now we want to stop it.
+
+SECOND PERSON J058
+Right.
+
+DOCTOR J058
+And obviously if you have any symptoms from it or if you feel lightheaded or you feel like you're gonna pass out or you start having diarrhea, anything to make us think that you're losing volume, then we'd be worried and we'd want you to come into the ER okay.  But right now you're not having any symptoms right?
+
+PATIENT J058
+Uh uh.
+
+DOCTOR J058
+So you're feeling fine so there's nothing to do for you right now besides stop the medication.
+
+PATIENT J058
+Okay.
+
+DOCTOR J058
+Does that sound okay?
+
+PATIENT J058
+Okay.
+
+DOCTOR J058
+Um and then there is one lab that I want to check and that's the three months average of the blood sugars just to see where it's going um by what you're telling me I think it'll be in the right range.
+
+SECOND PERSON J058
+Okay.
+
+DOCTOR J058
+So um.
+
+SECOND PERSON J058
+We can get that done before we leave here.
+
+DOCTOR J058
+If it stays around 100 that's fine but if it starts going up above 120 then we will want to restart it okay.
+
+SECOND PERSON J058
+Okay.
+
+DOCTOR J058
+But we want you to call and let us know.
+
+SECOND PERSON J058
+Sure.
+
+DOCTOR J058
+Okay if you start noticing anything different.
+
+SECOND PERSON J058
+Okay.
+
+DOCTOR J058
+But I'm just gonna, I want him to schedule an appointment with the oncologist in a couple weeks, they talked about repeating the CT scan, it will be time for him to follow up again anyway.
+
+SECOND PERSON J058
+Yeah thank you.
+
+DOCTOR J058
+Everything else is fine.  I'll see him back in a couple months.
+
+SECOND PERSON J058
+Okay.  Now that paperwork I left, so when can I pick it up?
+
+DOCTOR J058
+When did you leave it, just now?
+
+SECOND PERSON J058
+No. A week ago.
+
+DOCTOR J058
+Who did you leave it with?
+
+SECOND PERSON J058
+The nurse.
+
+DOCTOR J058
+Here?
+
+SECOND PERSON J058
+Yes.
+
+DOCTOR J058
+Um do you know which nurse you left it with?
+
+SECOND PERSON J058
+NAME.
+
+DOCTOR J058
+NAME?
+
+SECOND PERSON J058
+NAME.
+
+DOCTOR J058
+Okay I'll talk to her.  Do you want to get it now?
+
+SECOND PERSON J058
+Yes please.
+
+DOCTOR J058
+Okay and let me put in uh for the blood pressure monitor.  
+
+SECOND PERSON J058
+So @@@.  Thank you.
+
+DOCTOR J058
+Sorry @@@.
+
+PATIENT J058
+No.
+
+SECOND PERSON J058
+Could you make sure he has all the refills?
+
+DOCTOR J058
+Uh-huh yeah I'll be putting them in.  I know, I know.  I'll be seeing him though.  Um so do you know where Prosthetics is?
+
+SECOND PERSON J058
+Uh-huh upstairs?
+
+DOCTOR J058
+Yeah that's where you can get the blood pressure cuff from.
+
+SECOND PERSON J058
+Okay.
+
+DOCTOR J058
+Oh do want them sent to your house?
+
+SECOND PERSON J058
+No, no, no.
+
+DOCTOR J058
+Okay.
+
+SECOND PERSON J058
+We rather go pick it up if they have them.
+
+DOCTOR J058
+Okay so I put the order in okay.
+
+SECOND PERSON J058
+Alright thanks.
+
+DOCTOR J058
+Here you go.
+
+SECOND PERSON J058
+Uh-huh.
+
+DOCTOR J058
+And why don't, you can go ahead and start checking out, I'll meet you out there and I'll fill out the form.
+
+SECOND PERSON J058
+Form?  Oh the paperwork okay.
+
+DOCTOR J058
+The forms that you'd left.
+
+SECOND PERSON J058
+Okay.
+
+DOCTOR J058
+Okay.
+
+SECOND PERSON J058
+Okay.  I'll get it.
+
+DOCTOR J058
+Um are you coming back any time?
+
+SECOND PERSON J058
+Huh?
+DOCTOR J058
+Is he coming back any time?  Are you coming back to the VA any time soon?
+
+SECOND PERSON J058
+Yeah.
+
+DOCTOR J058
+When will he be back here?
+
+SECOND PERSON J058
+Uh the 12th I think.
+
+PATIENT J058
+12th I think.
+
+DOCTOR J058
+12th yeah to get the, they'll check, do they check the blood pressure there?  Cause okay.
+
+SECOND PERSON J058
+Yeah.  But that's the Nail Clinic you're going to.
+
+PATIENT J058
+@@@.
+
+SECOND PERSON J058
+I don't recall it.
+
+DOCTOR J058
+Oh December 30th is nail care.
+
+SECOND PERSON J058
+No but who does he see on the 12th?
+
+DOCTOR J058
+No it's not December 12th, it's January 12th.
+
+SECOND PERSON J058
+Oh okay.
+
+DOCTOR J058
+For his Botox.
+
+SECOND PERSON J058
+So you want it checked on @@@?
+
+DOCTOR J058
+Yeah.
+
+SECOND PERSON J058
+Oh okay.
+
+DOCTOR J058
+The only thing is to have him come back in here for a blood pressure check but if you're gonna be here, you don't have to come in here @@@.  Is that okay?
+
+SECOND PERSON J058
+That sounds good okay.
+
+DOCTOR J058
+So obviously call or come in if there's something abnormal.
+
+SECOND PERSON J058
+Yeah.
+
+DOCTOR J058
+Even though you've @@@ medications if the level drops then @@@.
+
+SECOND PERSON J058
+Right, alright.
+
+DOCTOR J058
+I'll go get the forms and I'll check with NAME.
+
+SECOND PERSON J058
+Okay thanks.
+
+DOCTOR J058
+Right over here, sorry do you want to @@@.
+
+SECOND PERSON J058
+Okay, okay.  Take care.  Hold on here I'll be right back.
+
+DOCTOR J058
+@@@.
+
+SECOND PERSON J058
+Yeah.
+
+DOCTOR J058
+Okay.
+
+PATIENT LEAVES:  65:40
+
+Time is 2:55.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300296
+TRANSACTION # 578-10-2-316-0103

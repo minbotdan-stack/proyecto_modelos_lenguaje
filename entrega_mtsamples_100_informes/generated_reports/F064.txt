@@ -1,0 +1,18 @@
+TITLE: General Medicine Followup - Diabetes and Myalgias
+DESCRIPTION: Review of muscle pain after high-dose statin use, fluctuating glucose, and coronary artery disease.
+
+HISTORY OF PRESENT ILLNESS: The patient reports an emergency department visit for generalized aching, chills, and bilateral shoulder and arm pain. He was advised to stop simvastatin 80 mg because a medication-related muscle reaction was suspected. Symptoms have substantially decreased but occasionally recur, often at rest. He has a history of coronary artery stenting, with two stents placed after angiography in 2010, and has a scheduled cardiology visit. Walking rapidly produces some dyspnea, but he does not report typical exertional chest pain. He takes insulin 36 units twice daily and describes wide glucose fluctuations, including values near 80 and others above 230, with occasional symptomatic lows. Recent A1c values have been approximately 6.9 to 7.3. He continues to experience bilateral knee discomfort.
+
+PAST MEDICAL HISTORY: Coronary artery disease after stenting, diabetes mellitus, hypertension, dyslipidemia, and chronic knee pain.
+
+MEDICATIONS: Aspirin, Plavix, amlodipine, hydrochlorothiazide, losartan, metoprolol, insulin, gemfibrozil, and other chronic medications. Simvastatin 80 mg was stopped after the emergency assessment.
+
+PHYSICAL EXAMINATION: Initial blood pressure approximately 173/80, with repeat 140/68. Foot sensation was assessed during the visit.
+
+ASSESSMENT AND PLAN:
+1. Possible statin-associated myalgias. Restart simvastatin at the lower dose of 20 mg rather than 80 mg. Discontinue if the severe muscle symptoms recur and contact the clinic.
+2. Diabetes with variable home glucose. Increase morning insulin from 36 to 38 units while maintaining 36 units in the evening. Record fasting and postprandial readings and repeat fasting laboratory testing before followup.
+3. Coronary artery disease. Continue antiplatelet and cardiac medications. Discuss the shoulder symptoms and any dyspnea with Cardiology at the upcoming visit.
+4. Hypertension. Continue established treatment and monitor pressures.
+
+Return in six to eight weeks, with fasting blood work beforehand.

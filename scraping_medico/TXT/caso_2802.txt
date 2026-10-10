@@ -1,0 +1,33 @@
+Sample Name: Breast Cancer Oncology Consultation Chemotherapy Note
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Oncology consultation for breast cancer diagnosis, chemotherapy treatment, hormone therapy, lumpectomy, radiation oncology referral.
+
+(Medical Transcription Sample Report)
+
+CHIEF COMPLAINT: New diagnosis of breast cancer and discussion of cancer treatment options.
+
+HISTORY OF PRESENT ILLNESS: The patient is a 49-year-old female referred to the oncology clinic after an abnormal screening mammogram and core needle biopsy confirming invasive ductal carcinoma of the left breast. She reports a two-month history of a painless breast lump without skin changes or nipple discharge. There is significant anxiety regarding prognosis, chemotherapy side effects, and long-term survival. She is interested in understanding advanced breast cancer treatment options, including targeted therapy and hormone therapy.
+
+PAST MEDICAL HISTORY: Hypertension, hypothyroidism, and obesity. No prior history of malignancy. Family history is positive for breast cancer in her mother and maternal aunt.
+
+MEDICATIONS: Lisinopril 20 mg daily, Levothyroxine 88 mcg daily, multivitamin.
+
+ALLERGIES: No known drug allergies.
+
+PHYSICAL EXAMINATION: Vital signs stable. Examination of the left breast reveals a 2.5 cm firm, non-tender mass in the upper outer quadrant, no skin dimpling, and no nipple retraction. Palpation of the axilla reveals a small, mobile lymph node. No hepatosplenomegaly or bony tenderness.
+
+INVESTIGATIONS: Mammogram and ultrasound demonstrate a suspicious breast lesion, BI-RADS 5. Core biopsy confirms grade II invasive ductal carcinoma, ER/PR positive, HER2 negative. Staging CT of chest, abdomen, and pelvis shows no evidence of distant metastasis. Baseline labs and liver function tests are within normal limits.
+
+ASSESSMENT: Stage II left breast cancer, hormone receptor positive, HER2 negative, with involvement of a single axillary lymph node.
+
+PLAN:
+1. Discussed comprehensive breast cancer treatment including lumpectomy with sentinel lymph node biopsy followed by adjuvant chemotherapy and radiation therapy.
+2. Recommend adjuvant chemotherapy regimen with dose-dense doxorubicin and cyclophosphamide followed by paclitaxel, with growth factor support as needed.
+3. Following chemotherapy and radiation, initiate hormone therapy with Tamoxifen for at least 5 years.
+
+4. Referred to radiation oncology for evaluation of local control options and to a breast surgeon experienced in advanced breast cancer surgery.
+5. Provided counseling on fertility preservation, genetic testing for BRCA mutation, and supportive care resources including pain management and nutritional counseling during cancer treatment.

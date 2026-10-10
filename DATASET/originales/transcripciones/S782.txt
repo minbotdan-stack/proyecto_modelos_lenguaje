@@ -1,0 +1,1627 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@ 
+
+DOCTOR S782
+PATIENT.
+
+PATIENT S782
+How you doing?
+
+DOCTOR S782
+I'm DOCTOR, nice to meet you. 
+
+PATIENT S782
+Who.  Oh I thought it would be DOCTOR.
+
+DOCTOR S782
+Oh, is that who you usually see?  So do have to usually wear the oxygen?
+
+PATIENT S782
+Oh I’m supposed to have it on it when I walk.
+
+DOCTOR S782
+Yeah I know.  So what do you usually do, take it off?
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+Oh okay.
+
+PATIENT S782
+Yeah they want me to wear it every time I move.
+
+DOCTOR S782
+Oh.
+
+PATIENT S782
+Even in the house.
+
+DOCTOR S782
+Do you get short of breath if you don't or?
+
+PATIENT S782
+You know sometimes I do, sometimes I don't.
+
+DOCTOR S782
+Uh-huh.  When you usually go through a flight of stairs or just when?
+
+PATIENT S782
+Oh stairs, the stairs kill me.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+I'm moving out.  I'm staying with my son now.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+But I'm getting ready to move somewhere there ain't no stairs, the stairs are killing me.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+But uh.
+
+DOCTOR S782
+Um.
+
+PATIENT S782
+If I walk around real slow I'm alright.
+
+DOCTOR S782
+Okay.  And when you have your oxygen on are you fine usually?
+
+PATIENT S782
+No, still the same.
+
+DOCTOR S782
+Still a little short of breath when you move.
+
+PATIENT S782
+Still, it ain't no difference you know.
+
+DOCTOR S782
+Okay.  Okay.
+
+PATIENT S782
+It still hurts right up in here.  The pain, it hurts right up in here.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+You know something, dropping it's something a little bit more.  This is mild pain.  There's some a little bit more complicated than what uh what the doctors think it is cause it's been there five years.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+And it's been the same thing.  It's the same thing.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+It ain't getting no worse but it ain't getting no better.
+
+DOCTOR S782
+Okay, okay.
+
+PATIENT S782
+You know I can't walk upstairs.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+Can't walk a long distance.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+And it's steady and it's constant.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+If I was 25 or 30 years younger I'd ask to do exploratory surgery cause.
+
+DOCTOR S782
+You don't want that, trust me, you don't want that.
+
+PATIENT S782
+No, I don't want that.
+
+DOCTOR S782
+You've had, I mean you've had like heart work up before because besides your lungs, your heart sits right there, if I remember correctly looked fine right?
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+Yeah.  So that's good in that respect um.  It's a combination of things.  It's your lung disease, the COPD um combined with the obstructive sleep apnea you have.  Are you using the CPAP still at night?  Do you use it every night or half a night?
+
+PATIENT S782
+Every night.  When I'm sleeping but when I sleeping light.  I'll go to sleep at 9 or 10 o'clock and I'll wake up at 2 in the morning.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+And then I'm up until 8, 9 or 10 o'clock the next night.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+You know sometimes I take a nap, sometimes I don't.
+
+DOCTOR S782
+Okay.  Is it the breathing that keeps you from sleeping well or what is it or you just never have been a good sleeper, or what?
+
+PATIENT S782
+Uh you know it's hard to you know, it's hard to say.  It is hard to pinpoint because.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+I been like that ever since I uh came from Vietnam.  You know I couldn't get a good night's sleep and this carried on over the last four years because for that one year I was over there.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+I was up at all different times of the night.  You know I never got no more than three, four hours sleep.  Maybe five some nights if it was that much and it just carried over, over the years.
+
+DOCTOR S782
+Do you find yourself dozing off during the day sometimes?
+
+PATIENT S782
+No.
+
+DOCTOR S782
+You don't doze off?
+
+PATIENT S782
+No, you know that lady, that doctor up in the hospital had me, made me admit to that but you know what I don't doze off during the day.
+
+DOCTOR S782
+You don't.
+
+PATIENT S782
+No.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+But see I was up there, I was up there and they had me on so many different type of drugs, I don't know what I was doing up there or what I was saying.
+
+DOCTOR S782
+What do you do for your blood pressure right now?
+
+PATIENT S782
+Um carvedilol.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+Losarin.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+And it start with a d, what is that?
+
+DOCTOR S782
+Diltiazem?
+
+PATIENT S782
+@@@ that.
+
+DOCTOR S782
+They had increased some of your stuff.  Have you taken the higher doses?
+
+PATIENT S782
+Right.
+
+DOCTOR S782
+You have been?  Cause your blood pressures are a little bit high so do you?
+
+PATIENT S782
+This morning.
+
+DOCTOR S782
+Did you take it this morning?
+
+PATIENT S782
+This morning I forgot to take my carvedilol.
+
+DOCTOR S782
+Okay, okay, sure.
+
+PATIENT S782
+I forgot to take it.
+
+DOCTOR S782
+Sure, yeah uh that happens a lot um.
+
+PATIENT S782
+And because you know I take it, I took it last night at 10 o'clock.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+So at 5 o'clock that was too early.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+To take it again.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+But see I'm up every night at 5 in the morning.
+
+DOCTOR S782
+Right.
+
+PATIENT S782
+I want to take all my medication at 5 in the morning but if I take it at 7 or 8 at night you know that ain't 12 hours.
+
+DOCTOR S782
+Yeah and I mean it doesn't have to be 12 hours on the dot.  If it's between not taking it at 12 hours on the dot or.
+
+PATIENT S782
+Taking it.
+
+DOCTOR S782
+Taking it then we'd rather you just take it at like eight hours than not taking it at all so.
+
+PATIENT S782
+And uh since they increased that carvedilol I got, like water or something is in my ear you know.
+
+DOCTOR S782
+Oh.
+
+PATIENT S782
+Yeah you know, it does it just like a 300 gram of aspirin do me.  I can't take a high volume aspirin.
+
+DOCTOR S782
+Oh.
+
+PATIENT S782
+Cause I do this, you know I feel something like a echo.
+
+DOCTOR S782
+Okay.  Does it affect your hearing?
+
+PATIENT S782
+No.
+
+DOCTOR S782
+It doesn't affect your hearing okay.
+
+PATIENT S782
+Just uncomfortable.
+
+DOCTOR S782
+Okay, alright.  Do you check your blood pressure at home by any chance?
+
+PATIENT S782
+Uh I don't have a machine.
+
+DOCTOR S782
+You don't, oh we can get you one.
+
+PATIENT S782
+And they uh, they wanted me to get one of those oxygen monitors.
+
+DOCTOR S782
+Yeah that actually wouldn't be a bad idea either.
+
+PATIENT S782
+But uh.
+
+DOCTOR S782
+@@@.
+
+PATIENT S782
+But I don't uh, at home, like here, I feel pretty good but see at home I got some carpet on the floor.  I think I'm allergic to that carpet where I stay at.
+
+DOCTOR S782
+Why do you say that, what is it?
+
+PATIENT S782
+You see I can't breathe sometimes.  But when I leave it, when I leave it.
+
+DOCTOR S782
+Does it stop when you're gone?
+
+PATIENT S782
+Sometimes.  When I leave the house I'm good.
+
+DOCTOR S782
+Okay um.  How old is this where you're staying?
+
+PATIENT S782
+Oh it's a new place.  Could be how cheap is the carpet right.
+
+DOCTOR S782
+It's new?  Yeah or if it's had mold on your carpet but it's brand new.
+
+PATIENT S782
+I have no, the carpet ain't brand new.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+And you know what, you're probably right because when my son moved in to the apartment, see I stay with my son now.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+The apartment, the carpets looked like it was dirty but they say they had cleaned it so it was probably what you said mold on those carpets.
+
+DOCTOR S782
+It's possible and that can really aggravate your lung disease.
+
+PATIENT S782
+Yeah.  My son will be walking around sniffling.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+He don't know, he don't know nothing about it now.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+He ain't figured it out yet.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+But I done figured out about that carpet.  He better off not having it.
+
+DOCTOR S782
+Yeah that's true actually.  Would you rather pick it up or would you rather it sent to your house?
+
+PATIENT S782
+What's that?
+
+DOCTOR S782
+The blood pressure cuff and the O2 machine?
+
+PATIENT S782
+Well I'll be back down this Thursday the 10th.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+I could pick it up.
+
+DOCTOR S782
+Do you know where to pick it up?
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+Okay.  I'll have it ready for you so it's there um.
+
+PATIENT S782
+And uh other than that you know I don't know why you increased that carvedilol on me uh.
+
+DOCTOR S782
+What was the reason?  It looks like your blood pressure was pretty high while you were in the hospital.
+
+PATIENT S782
+They made it that high.
+
+DOCTOR S782
+Because they aggravated you?
+
+PATIENT S782
+I ain't gonna say that, I ain't gonna say a word.
+
+DOCTOR S782
+Well you know it's, I mean.  Stick with the increased dose.
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+You keep checking your blood pressure at home, if they're low or if you're getting nauseated or dizzy, then certainly we should back off a little bit okay.
+
+PATIENT S782
+I don't get nauseated.  I don't get dizzy.
+
+DOCTOR S782
+Yeah, yeah.  Those are usually the side effects that we see with if the carvedilol dose is too high.
+
+PATIENT S782
+Oh okay.
+
+DOCTOR S782
+I mean if you get those and your blood pressures are low, lower than normal, um cause your blood pressure usually runs high so if you start getting blood pressures like 100, 110, then maybe that's a little bit too aggressive and we can back off a little.
+
+PATIENT S782
+That's what I was getting.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+I missed the two tablets this morning.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+And it's at 147.
+
+DOCTOR S782
+Yeah.  Well what 147 is still considered high.
+
+PATIENT S782
+But see some doctors say they like to see my blood pressure at 130.
+
+DOCTOR S782
+Yeah less than 130.
+
+PATIENT S782
+Yeah less than 130.
+
+DOCTOR S782
+Yeah it's higher than 130.
+
+PATIENT S782
+Right but.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+That worries me but anybody say well 147's alright for you.  You know I say what you know what can I say?
+
+DOCTOR S782
+The goal is less than 130.  If it's running in the 140s then we can be okay with it but we would prefer not cause you're 62, you're still young.
+
+PATIENT S782
+(Laughter)
+
+DOCTOR S782
+Relatively.  With all the Veterans that we see.
+
+PATIENT S782
+Oh yeah I know.
+
+DOCTOR S782
+So.
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+So you still have a lot of years left.
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+So you have your blood pressures all crazy now, that's gonna cut years off of your life.
+
+PATIENT S782
+Right, right.
+
+DOCTOR S782
+So we might as well be a little more aggressive if we can.
+
+PATIENT S782
+And there's something else I be wondering too.  They gave me these two things up there, where you know you inhale them.
+
+DOCTOR S782
+Yeah, yeah.
+
+PATIENT S782
+One got a capsule.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+And the other one got a counter.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+What is that with the one with the counter?  I don't see nothing in there.
+
+DOCTOR S782
+Is it?
+
+PATIENT S782
+Is it liquid or what?
+
+DOCTOR S782
+The, do you put anything in it?
+
+PATIENT S782
+One of them you don't put nothing in it you just take the cap off.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+And the counter goes, you know there's a counter on it, it's 60 doses.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+And the counter goes there and you inhale it.
+
+DOCTOR S782
+And you like push the lever or whatever and you inhale it real quick?  Is there a lever or anything that you push?
+
+PATIENT S782
+You talking about the one with the capsule.
+
+DOCTOR S782
+Yeah let me see which ones you're on.
+
+PATIENT S782
+You talking about the one with the capsule.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+Now that's the only one that I can feel when I can inhale it.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+But uh that other one.
+
+DOCTOR S782
+You don't feel like there's anything in it?
+
+PATIENT S782
+I don't feel like nothing's coming out, that's what I say uh.
+
+DOCTOR S782
+Oh.
+
+PATIENT S782
+I even took it one time and turned it over upside down.  I didn't see nothing come out.
+
+DOCTOR S782
+You know the best thing to do in that instance is probably to bring it to the Pharmacy next time you're here and ask them about it and say hey look at this is it really working.
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+So yeah, bring it in.
+
+PATIENT S782
+But I'm trying to say do I really need it?
+
+DOCTOR S782
+You do for your lung disease.  One's called mometasone.
+
+PATIENT S782
+Right.
+
+DOCTOR S782
+And that is supposed to be twice a day.
+
+PATIENT S782
+Right.
+
+DOCTOR S782
+And what's the other one they have you on, let's see.  Do you take albuterol, does that sound familiar?
+
+PATIENT S782
+I got some albuterol.  I got that which is use as needed.
+
+DOCTOR S782
+How often are you using that?
+
+PATIENT S782
+Well I used it last night.  It seemed to work.
+
+DOCTOR S782
+It does?
+
+PATIENT S782
+I feel like, you know after I used the two powders.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+Uh I be stopped up.  Something's happening down there with them two powders and uh you know I can't breathe after using those two powders.  I believe that's what it is.  See I mean, I know you doctors like to order medication but.
+
+DOCTOR S782
+Formoterol, that's what it is.
+
+PATIENT S782
+That's what I got?
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+But that's the powder.
+
+DOCTOR S782
+You're on formoterol.
+
+PATIENT S782
+What about the other powder though?
+
+DOCTOR S782
+You only have two medicines for your lungs disease right, besides the albuterol.  Albuterol is the one you use.
+
+PATIENT S782
+Correct.
+
+DOCTOR S782
+The formoterol and mometasone are the two that you have.
+
+PATIENT S782
+Okay.  One of them is a little capsule.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+That's the one you drop in the little machine.
+
+DOCTOR S782
+And then you inhale it.
+
+PATIENT S782
+Squeeze it.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+And inhale it.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+Now I feel that.
+
+DOCTOR S782
+Yes.
+
+PATIENT S782
+That other one, you just screw the cap off and a counter, I don't feel nothing coming out of that.
+
+DOCTOR S782
+The best thing to do is just bring it into the Pharmacy and let them look at it.
+
+PATIENT S782
+What does that do though?  Do I need them both?
+
+DOCTOR S782
+You do need them both cause they do different things.  One is, one is to make your airways bigger.
+
+PATIENT S782
+Right.
+
+DOCTOR S782
+So more air can come in and one is to decrease the inflammation that you have going in there.  So they work differently.
+
+PATIENT S782
+Oh okay.
+
+DOCTOR S782
+Yeah cause we can make your airways bigger but if you have a ton of inflammation then it's not going to do anything right?
+
+PATIENT S782
+It'll clean it out huh?
+
+DOCTOR S782
+Right or we can get rid of the inflammation but if your airway is still teeny tiny that's not gonna help either.
+
+PATIENT S782
+Right.
+
+DOCTOR S782
+So that's why you need both to kind of work together.
+
+PATIENT S782
+Okay.
+
+DOCTOR S782
+Um the albuterol, I know you're saying helps you, you seem to feel like it but the albuterol is supposed to be only as needed and we try to make it so that you're other medications control your breathing so that you only need albuterol maybe once or twice a month if even.
+
+PATIENT S782
+Right.
+
+DOCTOR S782
+Cause albuterol is not supposed to be like a daily or even weekly thing.  We try to keep it to a minimum cause if you're having to use it every day or you know almost every day that means you're not well controlled enough with your other stuff.
+
+PATIENT S782
+Okay now do they have anything that you can get a breathing treatment with at home?
+
+DOCTOR S782
+Yeah, I think so.  You like the breathing treatments you get in the hospital?
+
+PATIENT S782
+Yeah sometimes.  Yeah they work.
+
+DOCTOR S782
+With the humidifier.
+
+PATIENT S782
+Yeah they got something you can take that at home.
+
+DOCTOR S782
+Yeah I think so, let me find out for you.
+
+PATIENT S782
+Okay.
+
+DOCTOR S782
+I'm pretty sure there is yeah.
+
+PATIENT S782
+And uh.
+
+DOCTOR S782
+What is your um, have you been checking your um blood sugar?
+
+PATIENT S782
+Oh yes, it's uh I'm starting to get it back under control now, but when I went into the hospital they would give, all they would give me is short-acting insulin.
+
+DOCTOR S782
+Yeah.  Unfortunately you know the hospital.  So what are you taking right now?
+
+PATIENT S782
+15.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+Of long-acting.
+
+DOCTOR S782
+Okay, once a day or twice a day?
+
+PATIENT S782
+Twice a day.
+
+DOCTOR S782
+Twice a day.
+
+PATIENT S782
+And 15 of fast-acting.
+
+DOCTOR S782
+Okay with each meal.
+
+PATIENT S782
+Right.
+
+DOCTOR S782
+Okay and what are your morning sugars looking like?
+
+PATIENT S782
+I got them back down to 90 or 120.
+
+DOCTOR S782
+Good, wonderful.
+
+PATIENT S782
+You know uh anytime it's above 90 and 120, that mean I don't woke up eating something.
+
+DOCTOR S782
+Oh okay.
+
+PATIENT S782
+(Laughter)
+
+DOCTOR S782
+At least.
+
+PATIENT S782
+With eggs then I wake up in the morning and I'll check and maybe 160.
+
+DOCTOR S782
+Yeah do you write them down?
+
+PATIENT S782
+No I don't.
+
+DOCTOR S782
+Okay.  Well, do you think you can start writing them down and then we'll set you up with our pharmacists so they can take a good look at it and see if there's room to go up because your A1c which is the number we use to follow your diabetes.
+
+PATIENT S782
+Right.
+
+DOCTOR S782
+Shot way up.
+
+PATIENT S782
+Oh yeah.
+
+DOCTOR S782
+Yeah it was, its 9., let me make sure so I'm not lying to you what it is, it is 9.3 when you had lab work done last week.
+
+PATIENT S782
+Okay.
+
+DOCTOR S782
+It was 7.4 in July.
+
+PATIENT S782
+So it went up 2 points.
+
+DOCTOR S782
+So way, way off in the wrong direction.
+
+PATIENT S782
+Well why would it, why would it made it do that?
+
+DOCTOR S782
+It's probably a combination of a lot of different things.  I think because you were in and out of the hospital a lot since July.
+
+PATIENT S782
+Maybe it's been since July once or twice.
+
+DOCTOR S782
+Yeah, yeah, in September or whatever.  So usually there's not too terribly good control there and then um I don't know what else has been going on, I don't know if you've been having missing meals or eating too much sweets or this and that, little things can always do it.
+
+PATIENT S782
+Oh okay.  Well that's a task; I'll get it back down.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+That last one was just a little score right?
+
+DOCTOR S782
+The 7 yes, 7 is the goal, if we get it down to 7 for the A1c.  Um so why don't, if you can why don't you or actually does your monitor keep um.
+
+PATIENT S782
+The date and time.
+
+DOCTOR S782
+Does it keep track of it?
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+So you don't even need to write down.
+
+PATIENT S782
+I brought it into her last week.
+
+DOCTOR S782
+Oh you did?  Did you bring @@@?
+
+PATIENT S782
+Yeah, I seen them once a week.
+
+DOCTOR S782
+For the warfarin .
+
+PATIENT S782
+For the blood thinner, right.
+
+DOCTOR S782
+And did they check your?
+
+PATIENT S782
+She checked it.  She told me just what you said keep a log.
+
+DOCTOR S782
+Oh okay, okay.
+
+PATIENT S782
+Keep a log and write down what I eat.
+
+DOCTOR S782
+Good, good.
+
+PATIENT S782
+You know cause.
+
+DOCTOR S782
+Yeah I mean for you, I mean you come in and seem them like once a week right?
+
+PATIENT S782
+Yeah they adjust my warfarin.
+
+DOCTOR S782
+Okay, okay, so then it seems like they kind of check on your diabetes as well.
+
+PATIENT S782
+That too.  
+
+DOCTOR S782
+Good.
+
+PATIENT S782
+They do that.
+
+DOCTOR S782
+Good okay.
+
+PATIENT S782
+They uh, you know they do all that, you know.
+
+DOCTOR S782
+Good, good.
+
+PATIENT S782
+Are you gonna be my permanent doctor or?
+
+DOCTOR S782
+We're gonna try.  We can try to make it that way um, we kind of switch around a lot.  So we try to keep seeing the same patient over and over but every now and then it, we have to.
+
+PATIENT S782
+Yeah cause I had one doctor he left.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+He was my doctor for almost a year.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+And uh you know he, you know we had a rapport.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+And we ended up having a little thing you know and then I got another friend, he spoke good of that doc too with his doctor.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+So you know, he was alright, I hate to see him go.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+But uh another thing I want to ask you too now.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+This oxygen, they got more modern stuff than this but the VA they won't give it to you.  They got some equipment that keep you out, where you can stay out for eight hours.
+
+DOCTOR S782
+Oh okay.
+
+PATIENT S782
+But they won't give it to you at the VA, they talk about too expensive all this crap.
+
+DOCTOR S782
+Yeah uh-huh.
+
+PATIENT S782
+But I do have uh, what do they call that insurance with the government, SSI or.
+
+DOCTOR S782
+Uh the Social Security?
+
+PATIENT S782
+Yeah type uh A and type B.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+That will pay for this specialty stuff.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+The guy told me he needs a doctor's name and my doctor's phone number here at the VA and he said that he could hook me up.
+
+DOCTOR S782
+Who is he?
+
+PATIENT S782
+With the guy that sell this stuff, Indigene, Indigene, that's the name of the place.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+That's the name of the company I get Indigene where you know they got modern equipment where you can take this and stay gone all day.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+And it's lightweight; you ain't got to have a heavy tank.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+And he say that he can get it, all he needs is a phone number and a doctor's name at the VA and he gonna call the doctor.
+
+DOCTOR S782
+Okay.  Well you know, we don't have direct lines here and Idwon't know what he's talking about, I've never heard of that.
+
+PATIENT S782
+I know but he said he's did it before.
+
+DOCTOR S782
+Is he a dealer?
+
+PATIENT S782
+@@@ uh you never seen that on TV?
+
+DOCTOR S782
+Oh I wouldn't, honestly I wouldn't trust those.
+
+PATIENT S782
+Uh let's see I got that insurance why not?
+
+DOCTOR S782
+There's a lot of scamming but.
+
+PATIENT S782
+@@@.
+
+DOCTOR S782
+I mean we can try to see what we can work out.  Are you still smoking?
+
+PATIENT S782
+No.
+
+DOCTOR S782
+How long ago did you quit?
+
+PATIENT S782
+I have one a day.
+
+DOCTOR S782
+So you are still smoking.
+
+PATIENT S782
+No.
+
+DOCTOR S782
+If you have a cigarette.
+
+PATIENT S782
+I bought @@@ pack of cigarettes in over a month.
+
+DOCTOR S782
+Uh-huh.  
+
+PATIENT S782
+Other than that I haven't had a cigarette in two months.
+
+DOCTOR S782
+Okay, alright um.
+
+PATIENT S782
+I won't buy nobody no more cigarettes.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+I don't even put them in my hand.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+You know that's the first thing I did when I went out and bought those cigarettes.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+Got back in the car, opened them up and smoked it.
+
+DOCTOR S782
+Yeah @@@.
+
+PATIENT S782
+Those things are the devil.
+
+DOCTOR S782
+Yeah, and don’t smoke around the oxygen either.
+
+PATIENT S782
+Yeah well I don't have it on, you know I ain't crazy.
+
+DOCTOR S782
+Either way, I mean there could be like a small leak that you don't know about I mean.
+
+PATIENT S782
+Don't you know that can happen to me before?
+
+DOCTOR S782
+Right, you're increases your changes.
+
+PATIENT S782
+But I don't do that no more, with those cigarettes, back to those cigarettes.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+That's the hardest thing I ever had to do, quit smoking cigarettes.
+
+DOCTOR S782
+Yes, yeah no I can understand.  Alright, I'll be back.
+
+(DOCTOR OUT:  85:58  DOCTOR IN: 98:24)
+
+DOCTOR S782
+Okay.  So you can get those nebulizers at home, I can order it.  So the actual medication you pick up from the Pharmacy but the actual equipment to do a nebulizer.
+
+PATIENT S782
+Uh-huh.
+
+DOCTOR S782
+You can get from Prosthetics.
+
+PATIENT S782
+Okay.
+
+DOCTOR S782
+So let me put this in.  You'll probably like those better anyway huh.
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+That seems to work better for you.
+
+PATIENT S782
+Well you know it makes it seem like it do how.
+
+DOCTOR S782
+No I mean it works differently.
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+So um it's called Combivent and it's a brand name but it's a combination of albuterol and ipratropium.  I don't know what the name is.
+
+PATIENT S782
+Oh that's what this supposed to be?
+
+DOCTOR S782
+Yeah that's what the nebulizer treatment is.
+
+PATIENT S782
+Then you do it once a night, at night before you go to bed.
+
+DOCTOR S782
+Three times a day.
+
+PATIENT S782
+Three times a day.
+
+DOCTOR S782
+Yeah uh-huh, uh-huh.  Yeah if you want um I mean if you go and leave the house a lot I can prescribe the nebulizer and the inhaler then you can do nebulizers only at night and do the inhalers during the day.
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+How would that sound?
+
+PATIENT S782
+That's alright.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+Cause I don't want to sit up in the house.
+
+DOCTOR S782
+Okay.  So why don't we, um we'll plan on um doing the inhalers um during the daytime.
+
+PATIENT S782
+Alright.
+
+DOCTOR S782
+And do the nebulizers at night.
+
+PATIENT S782
+Okay.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+But usually we like to say like every six hours or so but you know I mean people are busy.  I doubt anyone ever gets every six hours but if you can get it in three or four times a day that'd be ideal.
+
+DOCTOR S782
+Okay.  So let make sure you get that and then continue the mometasone.  Do you need refills on that?
+
+PATIENT S782
+The who now?
+
+DOCTOR S782
+Mometasone, that's the new one that you got.
+
+PATIENT S782
+The powder?
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+Oh no, I'm alright with that.  I think I need some more.
+
+DOCTOR S782
+Do you get it sent in the mail or pick it up at the window?
+
+PATIENT S782
+You can mail it.
+
+DOCTOR S782
+Mail it okay.
+
+PATIENT S782
+Uh you know I think I'm out of Losartan, they were supposed to send me some but I ain't got it yet.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+Well, for your blood pressure.  I think I'm running low on that and I haven't gotten it yet but I've moved.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+And maybe it got twisted in the mail.
+
+DOCTOR S782
+Yeah it's possible.  Let's see what’s your address.  
+
+PATIENT S782
+And another thing I need a, a disabled plaque for disability.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+How do you go about to get that?
+
+DOCTOR S782
+Um that.
+
+PATIENT S782
+You know it has to be filled out by a doctor.  What you know what do I do?  You know.
+
+DOCTOR S782
+I'm not sure where you pick that, pick up those forms from.
+
+PATIENT S782
+But who fills them out, I mean what I can't just come in here and knock on your door and say here you go doc fill it out or give it to you then you know you ain't gonna mail it to me, that other doctor.  He was I hated to see him go.  He was so easy to deal with.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+You know, he'd mail it to you so I'm dropping it in the mail and mail it to you.
+
+DOCTOR S782
+Are you still, where are you living right now?  What's your address?
+
+PATIENT S782
+In the Highland area.
+
+DOCTOR S782
+The Tanglewood Court.
+
+PATIENT S782
+Right.
+
+DOCTOR S782
+It looks like the address is temporary.  Were you, for just this time can you pick it up at the window?
+
+PATIENT S782
+Tonight?
+
+DOCTOR S782
+Yeah cause they're not um, right now your addresses, aren't it's showing up as your temporary address.
+
+PATIENT S782
+Is it temporary, it is temporary.
+
+DOCTOR S782
+Yeah so but when they mail stuff out they mail it to your permanent address.
+
+PATIENT S782
+Okay.
+
+DOCTOR S782
+So for now we'll have to do medicines.
+
+PATIENT S782
+You can send it to my permanent address, the one before Tanglewood.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+Yeah you can send it there.
+
+DOCTOR S782
+Your address listed is @@@.
+
+PATIENT S782
+Right you just send it right to that address.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+I'll get it.
+
+DOCTOR S782
+That's where all your medicine is going.
+
+PATIENT S782
+Okay.
+
+DOCTOR S782
+So your other medicine that you needed is probably there.
+
+PATIENT S782
+It might be.  It might be, I'm gonna check on my way home tonight.
+
+DOCTOR S782
+@@@.
+
+PATIENT S782
+But as far as me going to the hospital the last time I think all I had was a little bitty cold you know and I had to.  They could've probably, I wished I of went to Walgreens and bought me some you know some sugar free cough medicine.
+
+DOCTOR S782
+Oh you @@@.
+
+PATIENT S782
+I didn't need to be in the hospital.  I'm worse than when I was when I got out.
+
+DOCTOR S782
+Yeah.
+
+PATIENT S782
+After they gave me some pills up in there, I was on the 4th floor; they gave me some pills that I didn't know where I was for two days.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+You know and I think all I had was a little indigestion and that's what I had was a little cold.  Every time I come here.
+
+DOCTOR S782
+Do you ever check your blood sugar after you eat, about two hours after you eat?
+
+PATIENT S782
+I've started.
+
+DOCTOR S782
+Okay, alright, yeah.  So why don't we um the next time you have an appointment with the um, with the pharmacist for your um Coumadin check or whatever.
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+If you bring your log in and let them look at some of your fasting and some of your two hour after meal numbers.
+
+PATIENT S782
+You know what; I'm gonna be dedicated to that so next week when I come in.
+
+DOCTOR S782
+Yeah, uh-huh.
+
+PATIENT S782
+I'm gonna have that.
+
+DOCTOR S782
+Okay good then we can see.  Maybe we can titrate your insulin a little bit.
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+It'll give us a little bit of a better picture.
+
+PATIENT S782
+See I know what it be you know two hours after I eat, it'd be below 200.
+
+DOCTOR S782
+Yeah, well it should be.
+
+PATIENT S782
+It's below 200.
+
+DOCTOR S782
+It should definitely be.
+
+PATIENT S782
+After I eat.
+
+DOCTOR S782
+Yeah we don't ever want it that high,so.
+
+PATIENT S782
+But then it goes down, it eases on down.
+
+DOCTOR S782
+Okay.  And do you remember when you went and when you did pulmonary function tests, do you remember doing those?
+
+PATIENT S782
+Sit in that little box.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+Yeah.
+
+DOCTOR S782
+When you go, I'm gonna try to get you set up to go and do that again just to see where your status is right now on your lung function um so let me see.  So I'll get that set up and I think they um, I think they'll call you with an appointment.
+
+PATIENT S782
+They'll send me a letter.
+DOCTOR S782
+Yeah they'll send you a letter.  Yeah so I'll fill this out and they'll just send you a letter with an appointment.
+
+PATIENT S782
+Now how do I go about to get the license plates plaque, if I get an application what must I do cause I probably won't see another doctor here for what.
+
+DOCTOR S782
+You can bring it up to the front and just tell them to drop it off or to give it to your primary care doctor and they'll get it to us.
+
+PATIENT S782
+So my primary doctor is.
+
+DOCTOR S782
+You can tell them to drop it off either with me or with DOCTOR and somehow.
+
+PATIENT S782
+So what is it, you or DOCTOR?
+
+DOCTOR S782
+Well I always talk to her all the time.
+
+PATIENT S782
+Okay.
+
+DOCTOR S782
+So if you get to her then she can get it to me.
+
+PATIENT S782
+You are, you are a physician right?
+
+DOCTOR S782
+Yeah uh-huh.
+
+PATIENT S782
+Okay.
+
+DOCTOR S782
+Yeah okay.
+
+PATIENT S782
+Alright no problem.
+
+DOCTOR S782
+Alrighty well we'll get that all done.  So just stop by or stop by Prosthetics when you get a chance to pick up all that stuff.
+
+PATIENT S782
+I'll be here on the 10th.
+
+DOCTOR S782
+Okay, okay sure that's not a problem.
+
+PATIENT S782
+I'll be here on the 10th.
+
+DOCTOR S782
+Okay.
+
+PATIENT S782
+And I got, I missed my other appointment.  I had another 2 o'clock appointment.  That makes it, that means somebody do something at the desk.
+
+DOCTOR S782
+Uh-huh.
+
+PATIENT S782
+Because I been here since 10 o'clock this morning.
+
+DOCTOR S782
+Oh okay.
+
+PATIENT S782
+Now I got to walk all the way up to the sixth floor to get some oxygen.
+
+DOCTOR S782
+Oh okay.
+
+PATIENT S782
+(Laughter)  That gonna hurt but that's alright.  So what do I get another form to see?
+
+DOCTOR S782
+Oh they'll send you a letter cause they won't let you make appointments that.
+
+PATIENT S782
+For the doctor.
+
+DOCTOR S782
+Yeah uh-huh.  So they'll just sent you a letter sending you the appointment.
+
+PATIENT S782
+I bet you guys see a whole lotta people huh.
+
+DOCTOR S782
+Yeah, we sure do.
+
+PATIENT S782
+Alright.  See if you can have a nice one.
+
+DOCTOR S782
+Okay thank you, same to you.  See you later.
+
+PATIENT S782
+Alright.
+
+PATIENT LEAVES:  106:3
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1286113
+TRANSACTION # 578-10-2-316-0103

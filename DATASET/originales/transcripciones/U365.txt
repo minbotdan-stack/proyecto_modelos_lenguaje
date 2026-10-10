@@ -1,0 +1,690 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR U365
+PATIENT?
+
+PATIENT U365
+Yeah.
+
+DOCTOR U365
+Morning PATIENT.
+
+PATIENT U365
+Good how are you?
+
+DOCTOR U365
+Good, this way.
+
+PATIENT U365
+How ya doing?
+
+DOCTOR U365
+Alright.
+
+PATIENT U365
+Oh yeah, pretty good, so far.
+
+DOCTOR U365
+Good.
+
+PATIENT U365
+Let me throw this someplace.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+Couple things that I wanted to mention uh that we didn't cover when I first got here.
+
+DOCTOR U365
+Okay.
+
+PATIENT U365
+You know, uh, that's my look at my foot.  You gave me, you sent me the Claritin by the way.
+
+DOCTOR U365
+Uh-huh.
+
+PATIENT U365
+You sent me the Claritin.
+
+DOCTOR U365
+Yes.
+
+PATIENT U365
+Yeah great, that was great, that was terrific, thank you very much.
+
+DOCTOR U365
+It's okay.
+
+PATIENT U365
+Um you were gonna look at my toe and we never got to that.
+
+DOCTOR U365
+To look at your toe?
+
+PATIENT U365
+Oh, I you know in December, I mean last year, no this year actually January in the winter, I fell down, cracked up my knee and mashed my toe okay and uh.
+
+DOCTOR U365
+The big toenail?
+
+PATIENT U365
+So @@@ never gotten right, I wanted you to just look at it, you know.
+
+DOCTOR U365
+Okay.
+
+PATIENT U365
+Uh the other thing is I have uh, we didn't get to talk about.  The other thing is we didn't get to talk about, I have a rash that I've had since Vietnam.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+And uh.
+
+DOCTOR U365
+Where's it at?
+
+PATIENT U365
+It's uh couple places.  It's in my armpits and in my crotch.
+
+DOCTOR U365
+Okay.
+
+PATIENT U365
+And uh, I put in a, I put in for it since I started coming here uh which is just a few weeks ago.  You know uh and I put in for it and uh, uh, because I came through the VA twice when I first came out and they told me it was non-service-connected you know.  And I says well, I didn't you know, I didn't get it when I was over here you know, so I got it when I was over there you know.
+
+DOCTOR U365
+Okay.
+
+PATIENT U365
+Anyway, here's the toe.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+Yeah.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+Okay.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+Yeah.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+No, yeah I had the kidney stone after I saw you.
+
+DOCTOR U365
+Yep @@@.
+
+PATIENT U365
+And uh.
+
+DOCTOR U365
+And I then uh labs looked okay.
+
+PATIENT U365
+Yeah.  The big @@@ just got.  Nothing really.  I guess I'm a @@@.  I guess that just periodically, if I keep real hydrated I'll be alright, that's what they said.
+
+DOCTOR U365
+Alright @@@.
+
+PATIENT U365
+But I was going to take my shirt off, you gotta see it.
+
+DOCTOR U365
+Another thing is your blood pressure is high and I want to recheck your blood pressure.
+
+PATIENT U365
+Yeah, I don't know why.
+
+DOCTOR U365
+@@@ normally?
+
+PATIENT U365
+No.
+
+DOCTOR U365
+Do have high blood pressure normally?
+
+PATIENT U365
+No.
+
+DOCTOR U365
+Do you check it?
+
+PATIENT U365
+Well I, I check it off and on when I'm at Walgreens you know.
+
+DOCTOR U365
+What do you normally see when you check it?
+
+PATIENT U365
+Uh it's been um; well the bottom one's been around 80 lately okay.  But it's usually like 120, 125, 130 you know in there um and uh up until this year it was like 120 over 70, 75.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+And and uh I'm thinking cause I'm unemployed now.
+
+DOCTOR U365
+Okay.
+
+PATIENT U365
+I'm thinking I've been pretty stressed you know.
+
+DOCTOR U365
+Hop up.
+
+PATIENT U365
+Okay.
+
+DOCTOR U365
+Sit up.  Let me examine you first and then look at everything else.
+
+PATIENT U365
+Okay sure.  How you been?
+
+DOCTOR U365
+Alright.  Can't complain.
+
+PATIENT U365
+I tell you, that was the second time I had the the uh.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+Stones, and this time.
+
+DOCTOR U365
+Do you have diabetes?
+
+PATIENT U365
+No.
+
+DOCTOR U365
+Does any of your family have diabetes?
+
+PATIENT U365
+No.
+
+DOCTOR U365
+Can you pop the top shirt off, okay.
+
+PATIENT U365
+Um what I'll I’ll say you is that uh this time was easier, I mean the pain @@@, knew @@@ you know but it was longer in coming. That as frustrating.
+
+DOCTOR U365
+@@@.  Okay.  Deep breath.  Are you cold in here?
+
+PATIENT U365
+No I'm a little shaky today, I don't know why.  Well I probably haven't eaten for one.  Secondly, the @@@ traffic.  I had a little bit of breakfast and then I didn't get to lunch cause I went to pick up my daughter and @@@ but uh, uh last night @@@.  Still little high?
+
+DOCTOR U365
+Much better.
+
+PATIENT U365
+That's better.
+
+DOCTOR U365
+Uh-huh.
+
+PATIENT U365
+Yeah last night the wife put @@@.
+
+DOCTOR U365
+Is she okay?.
+
+PATIENT U365
+Yeah, it's been a rough couple days.
+
+DOCTOR U365
+Yeah your blood pressure is 132 over 68 which is fine.
+
+PATIENT U365
+@@@.
+
+DOCTOR U365
+The only thing is your weight looks like it's been a little higher.
+
+PATIENT U365
+My weight.
+
+DOCTOR U365
+Yeah, you gotta work on that.
+
+PATIENT U365
+My wife is on me.
+
+DOCTOR U365
+I’m on you now, too.
+
+PATIENT U365
+Don't mind me @@@.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+Yeah, I hear you.
+
+DOCTOR U365
+Okay so what are we doing with that?
+
+PATIENT U365
+Well uh, exercise more.
+
+DOCTOR U365
+Exercise, what's the duration of exercise you're doing?
+
+PATIENT U365
+I usually @@@.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+When I do do the exercises I take, it's usually a half hour.
+
+DOCTOR U365
+Half hour, how often are you doing it?
+
+PATIENT U365
+Uh I used to do it every day and now I do it about twice a week.
+
+DOCTOR U365
+Okay.  I'm not happy with that.  Every day is much better.  I know it's hard sometimes but ideally I would say at least four times a week.
+
+PATIENT U365
+Well since I've been unemployed, you know uh my schedule has changed, now I'm driving my daughter to school every day and uh, to classes and uh, so what I do in the morning, instead of getting up and doing my exercising, then take a shower and leaving I'm getting up, taking a shower and dashing out the door to run my daughter to classes you know.
+
+DOCTOR U365
+I gotcha.  Are you saying, I know pressures and everything.
+
+PATIENT U365
+Yeah.
+
+DOCTOR U365
+But I still want you to exercise alright.
+
+PATIENT U365
+Okay.  You know @@@ started walking two miles.
+
+DOCTOR U365
+Okay.
+
+PATIENT U365
+I like walking you know.
+
+DOCTOR U365
+And walking outside is kind of usually not easy.  @@@.
+
+PATIENT U365
+No nothing, nothing.  @@@ Just so you know I've been putting on - my mother-in-law before she passed away two years ago now, she had, she was in her late 80s, she had a fungus on her feet.
+
+DOCTOR U365
+Uh-huh.
+
+PATIENT U365
+And uh she was using an iodine soak you know.
+
+DOCTOR U365
+Uh-huh.
+
+PATIENT U365
+And so I started using it, and thought maybe that would help it.  Iodine.
+
+DOCTOR U365
+Is it helping a bit?
+
+PATIENT U365
+Well it seems to be @@@ a little bit.  It looks bad but it could be worse.
+
+DOCTOR U365
+Did you ever use Lotrimin?
+
+PATIENT U365
+No.
+
+DOCTOR U365
+That should help it.
+
+PATIENT U365
+Oh okay.
+
+DOCTOR U365
+I think that should take care of it.
+
+PATIENT U365
+Put it on there.
+
+DOCTOR U365
+Uh-huh.
+
+PATIENT U365
+Really.
+
+DOCTOR U365
+Yeah.
+
+PATIENT U365
+Okay.
+
+DOCTOR U365
+If that doesn't work I’ll have you see podiatry.
+
+PATIENT U365
+Yeah @@@.
+
+DOCTOR U365
+I would just use that probably until we see if it's not working, takes about 14 days to work up, alright.
+
+PATIENT U365
+Okay, oh every day?
+
+DOCTOR U365
+Yes.
+
+PATIENT U365
+Okay.
+
+DOCTOR U365
+Use it exactly as the directions on the box.
+
+PATIENT U365
+Okay, alright, works for rash, okay.  Let me take my shirt off so I can show you.
+
+DOCTOR U365
+You know so many people walk in here.
+
+PATIENT U365
+Okay.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+No @@@.  It gets real noticeable when I itch it and once in a while, and when it gets hot out gets really noticeable and then it spreads out @@@ and uh to my crotch uh, cool weather like this and if I keep myself powdered.
+
+DOCTOR U365
+Okay.
+
+PATIENT U365
+It's usually okay but um, I mean I'd never had it until I was in Vietnam.  I came back and when I came back from Vietnam I mean while I was there I got it.
+
+DOCTOR U365
+Uh-huh.
+
+PATIENT U365
+And when I came back I went to the, you know I'm not 100% what it is.  I've never, you know I've never seen anything like it alright.
+
+DOCTOR U365
+@@@ skin tags.
+
+PATIENT U365
+@@@ longer.  I can see it in the mirror.@@@.  Hold your hand.  @@@.
+
+DOCTOR U365
+@@@.  Like down here.
+
+PATIENT U365
+It gets real pronounced.
+
+DOCTOR U365
+Okay.
+
+PATIENT U365
+It gets real pronounced and if I sweat a lot then it gets tender and it moves you know.
+
+DOCTOR U365
+Well I think that's a lot of skin irritation from sweat, like sweating.  If it's in the arm pits and the groins, you actually do sweat there @@@.
+
+PATIENT U365
+Yeah I know @@@.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+@@@ I mean cause I never had it until then it came.
+
+DOCTOR U365
+Yeah I know when, you know went to Vietnam.  So a lot of you guys go through a second stage of puberty.
+
+PATIENT U365
+@@@.
+
+DOCTOR U365
+And they never tell you that, right?
+
+PATIENT U365
+Should I put my shirt on?
+
+DOCTOR U365
+Yes.
+
+PATIENT U365
+Okay.
+
+DOCTOR U365
+Um so you know, honestly.
+
+PATIENT U365
+You don't know.
+
+DOCTOR U365
+I mean what I would recommend right now is you continue keeping yourself you know use deodorant, dry uh and then but it's just, it's not something like @@@ from now.  I could have you see the dermatologist I just don't know if there’s an actual treatment for it it, other than just keeping this up with good hygiene.
+
+PATIENT U365
+Well, when my.  Here's the hook.
+
+DOCTOR U365
+Okay.
+
+PATIENT U365
+Uh, I get more of it.
+
+DOCTOR U365
+Right, no I understand.
+
+PATIENT U365
+Intp the areas that I don't even you know, where they concentrate, and uh then when I came back I was living with my folks for a while.
+
+DOCTOR U365
+Yeah.
+
+PATIENT U365
+My ma used my towel and she got the same rash.
+
+DOCTOR U365
+Okay.
+
+PATIENT U365
+I says well I'll find out you know, all these years you know, she still has it too now you know.  Not 100% sure.  That's the only reason I'm mentioning it you know.
+
+DOCTOR U365
+Okay.  You sit down and I’ll go have a talk with the bosses and see if they can come up with anything new okay.
+
+PATIENT U365
+Oh sure.
+
+DOCTOR U365
+@@@.  Don't worry I'm not uncomfortable.
+
+PATIENT U365
+@@@,
+
+DOCTOR U365
+@@@,  Anyway so you uh talk to them @@@.
+
+PATIENT U365
+Okay.
+
+DOCTOR U365
+We'll see if they can figure it out, I'll see you down there.
+
+PATIENT U365
+Oh, okay.
+
+DOCTOR U365
+Okay.  I'll be back in a few minutes.
+
+PATIENT U365
+Alright thanks.
+
+(DOCTOR OUT 27:06  DOCTOR IN:  33:47
+DOCTOR U365
+Alright.  Two things, one we'll have you come back to see the nurse in a month, to see if your blood pressure is okay?
+
+PATIENT U365
+Okay.
+
+DOCTOR U365
+And if it's not we'll start you on some medications for that.  The other thing is you know you might have a fungal rash.
+
+PATIENT U365
+All these years?
+
+DOCTOR U365
+Yeah, possibly, we'll see.
+
+PATIENT U365
+I mean the VA doctors, like I said, disregarded it.
+
+DOCTOR U365
+No we'll check it out.
+
+PATIENT U365
+And then uh and then my regular doctors uh said well the one doctor said he thought it was ring worm and I says it's not ring worm and then he looked at it closer and he says no you're right it's not, it's some kind of fungus or rather some kind of rash and then uh my doctor that I had most recently said you know, he told me to come to the VA but I think I'm you know, I was turned down by you guys, I'm not going to come here again you know.  At that time, I wasn't signed up you know.
+
+DOCTOR U365
+No no problem.
+
+PATIENT U365
+I didn't want to bother you guys with that kind of you know uh thing since it was turned down but geez I you know.  Now that I'm in it, I figured well maybe you should take a look at it because it.
+
+DOCTOR U365
+Well it could not, but we’ll see if this works @@@.  Do you want this mailed to you or do you want to pick it up?
+
+PATIENT U365
+Whichever works you know.
+
+DOCTOR U365
+They'll send it in the mail to you.
+
+PATIENT U365
+Uh I could pick it up here you know.
+
+DOCTOR U365
+It might take a little while.
+
+PATIENT U365
+Oh, then that case.
+
+DOCTOR U365
+Okay.
+
+PATIENT U365
+Uh two things I was gonna ask you.  On these, this uh you know the Claritin or whatever it was.
+
+DOCTOR U365
+Uh-huh.
+
+PATIENT U365
+You know what it is, okay.  Um when I run out, how do I get.
+
+DOCTOR U365
+Uh you just call this number.
+
+PATIENT U365
+Oh okay.
+
+DOCTOR U365
+And we'll renew it.
+
+PATIENT U365
+And the same thing with the @@@ okay.  Oh good, okay, great, thanks.
+
+DOCTOR U365
+No problem.  And now if the blood pressure is still high we're gonna start you on a medication okay?
+
+PATIENT U365
+Why?
+
+DOCTOR U365
+Well because high blood pressure is bad.
+
+PATIENT U365
+Okay.  So I mean uh, alright I know what you're telling me, get with it.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+You mean after I've gotten with it, if it's not uh, in order.
+
+DOCTOR U365
+Uh-huh.  Okay.
+
+PATIENT U365
+We're done?  What do I do with this.
+
+DOCTOR U365
+Uh give that to the receptionist.
+
+PATIENT U365
+Okay.  Alright thanks.
+
+DOCTOR U365
+No you're welcome.
+
+PATIENT U365
+Good to see you.
+
+DOCTOR U365
+You too, Happy Holidays.
+
+PATIENT U365
+Same to you, yeah.
+
+DOCTOR U365
+@@@ and New Year.
+
+PATIENT U365
+You too, enjoy.
+
+DOCTOR U365
+@@@.
+
+PATIENT U365
+Yeah.
+
+DOCTOR U365
+Take a right.
+
+PATIENT U365
+Okay good, thanks.
+
+PATIENT LEAVES 37:21
+
+Time is 3 o'clock.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235329
+TRANSACTION # 578-10-2-316-0103

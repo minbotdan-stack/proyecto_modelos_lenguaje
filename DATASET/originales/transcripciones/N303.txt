@@ -1,0 +1,2375 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+ 
+DOCTOR N303
+PATIENT?
+
+PATIENT N303
+PATIENT.  
+
+DOCTOR N303
+Hi I'm DOCTOR.  You can set this here, over here.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+@@@ you had.
+
+PATIENT N303
+Yep.
+
+DOCTOR N303
+@@@ talk to me and @@@ everything else I need.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+Are there any specific issues or questions that you have?  @@@.
+
+PATIENT N303
+@@@.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+Yes.  Uh I'm out of a lot of this.
+
+DOCTOR N303
+Okay I can renew them.
+
+PATIENT N303
+Uh this one, this one they gave me for my pain.
+
+DOCTOR N303
+Pain.
+
+PATIENT N303
+It's, I'm running out of that, I'm done cause I've been doubling and tripling them and stuff I take a lot of them so I'm out of those now.
+
+DOCTOR N303
+Oh where do you have pain?
+
+PATIENT N303
+Uh my left hip.
+
+DOCTOR N303
+@@@.
+
+PATIENT N303
+Arthritis in my knee.
+
+DOCTOR N303
+Okay have you tried anything else like physical therapy?
+
+PATIENT N303
+Well um, I just got to the point where I'm lighter now where I can do it.  Before I was 350 pounds and it's like running around and stuff like that you know.
+
+DOCTOR N303
+Oh.
+
+PATIENT N303
+And then when summer kicks I'm going to be gone on my bike, I take off so when summer comes I'm gone.
+
+DOCTOR N303
+Okay um so you have this arthritis in your hips.
+
+PATIENT N303
+And I got my knee.  I had back surgery and I had, I guess I aggravated my sciatic nerve.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+But my foot's like numb.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+You know it doesn't have as much feeling as this one.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+But it has a little feeling.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+Alright and every once in a while that sciatic nerve hurts.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+That I think, the arthritis and that, I think that's why they gave it to me, I'm not sure.
+
+DOCTOR N303
+Okay.  I see.  Um so I just letting you know that tramadol is kind of addicting and I don't want you to take it for too long.  That's the only thing, that's why I want you to go to Physical Therapy to see if they can do injections there.
+
+PATIENT N303
+Alright.
+
+DOCTOR N303
+To see if that will go away and is the tramadol helping you?
+
+PATIENT N303
+I don't think so.  I mean it lightens the pain a little bit but.
+
+DOCTOR N303
+I think you need something else that might be a little bit better and long-acting.
+
+PATIENT N303
+That would be nice.
+
+DOCTOR N303
+Like meloxicam, it's an NSAID, it's an anti-inflammatory drug.  Um it works on a different part of the pain system um and I can try to give you that and see how that goes and if that doesn't help you call me and then we can change it again.
+
+PATIENT N303
+Alright.
+
+DOCTOR N303
+So let's try that because arthritis is inflammation.
+
+PATIENT N303
+Yep.
+
+DOCTOR N303
+Um and so we'll try to give you some meloxicam and see if that makes it better.
+
+PATIENT N303
+/alright.
+
+DOCTOR N303
+Um so you take ibuprofen and does that work?
+
+PATIENT N303
+Uh they just gave me that when I had my ear infection.
+
+DOCTOR N303
+Oh you don't need to take this, you don't take this?
+
+PATIENT N303
+I don't take that anyway.
+
+DOCTOR N303
+Oh so, you don't take it.
+
+PATIENT N303
+And I had an ear infection.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+I was here and I went down to the Ear and Throat, you know down there okay.  They said okay you look okay.  Next week it came back with a vengeance.
+
+DOCTOR N303
+Oh really, so it started coming back?
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+So I got another appointment with them today.
+
+DOCTOR N303
+Oh the ENT doctors.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+Okay so you're going to follow up with them?
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+Why do you have so many recurrent ear infections?
+
+PATIENT N303
+Yeah that's what I'd like to know.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+Now my daughter read that I could be allergic to milk or something, have allergies.
+
+DOCTOR N303
+No.
+
+PATIENT N303
+Have allergies.
+
+DOCTOR N303
+Not in your ears, it makes you have diarrhea but not ears.
+
+PATIENT N303
+Alright.
+
+DOCTOR N303
+Not your ears okay, so.
+
+PATIENT N303
+Yep.
+
+DOCTOR N303
+So besides the arthritis and the knee pain um and the ear infection.
+
+PATIENT N303
+Back pain.
+
+DOCTOR N303
+You have back pain?
+
+PATIENT N303
+Yes.
+
+DOCTOR N303
+Okay.  Um but you never went to Physical Therapy?
+
+PATIENT N303
+Uh I had it when I had my back surgery.
+
+DOCTOR N303
+Okay.  I think it’s a good idea, yeah so because what we do is first we control the pain but if that doesn't work we always recommend physical therapy.  Sometimes that can actually help a lot.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+And if that doesn't work then you think of surgery and you think of other options.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+So I want you to go through that level and if it doesn't get you to where you want it to be then we'll talk about something else.
+
+PATIENT N303
+Alright.
+
+DOCTOR N303
+Okay.  Um and then you got your labs done today which was great.  Your cholesterol is excellent.
+
+PATIENT N303
+@@@.
+
+DOCTOR N303
+So good job.  I'm happy about that.  I don't have to adjust anything.  Your creatinine is a little elevated.
+
+PATIENT N303
+What is?
+
+DOCTOR N303
+The um your creatinine, or um kidney function.  Do you have kidney disease at all?
+
+PATIENT N303
+Not that I know of.
+
+DOCTOR N303
+Did you start any new medications?
+
+PATIENT N303
+Um, no.  Wait uh, well the ibuprofen I was taking that for my ear.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+Um and I just quit.  I don't like ibuprofen.  I know what they did to the guys that did them in Arizona and they would go on dialysis just because of that you know.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+So I don't take ibuprofen, I don't like it.
+
+DOCTOR N303
+Yeah so that's why.  So how long did you take the ibuprofen for, just recently?
+
+PATIENT N303
+Yeah.  Well I took the, let's see the earache went away yesterday.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+And I did take, I did take, I did take one yesterday.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+And that was it and then.
+
+DOCTOR N303
+You took it four times a day?
+
+PATIENT N303
+No, no.
+
+DOCTOR N303
+You took it how many times a day, once?
+
+PATIENT N303
+Two, probably one or two.
+
+DOCTOR N303
+One or two, how many days?
+
+PATIENT N303
+Uh maybe three.
+
+DOCTOR N303
+Oh, maybe three okay.
+
+PATIENT N303
+Yeah I didn't take it all that long you know.
+
+DOCTOR N303
+Oh okay.  Was this last week?
+
+PATIENT N303
+Yep.
+
+DOCTOR N303
+That could be the reason the creatinine bumped but, so I don't want you to take this medication okay.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+Alright and so I'm
+
+PATIENT N303
+So I agree, I don't like it either.
+
+DOCTOR N303
+Yeah @@@ creatinine.  Okay.
+
+PATIENT N303
+Now I used to be on a 10 mg of high blood pressure and then they jacked me up to 20.
+
+DOCTOR N303
+Yeah.
+
+PATIENT N303
+When I was in all that pain, but that made your blood pressure go up right, pain?
+
+DOCTOR N303
+It can.  But it looks like it's controlled with the 20.
+
+PATIENT N303
+So it's.
+
+DOCTOR N303
+I don't want to decrease it.
+
+PATIENT N303
+It's staying there.
+
+DOCTOR N303
+It's perfect.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+It's one of the most perfect blood pressures I've seen.
+
+PATIENT N303
+Alright.
+
+DOCTOR N303
+No, let's keep it there.
+
+PATIENT N303
+Alright.
+
+DOCTOR N303
+And when did you start the enalapril?
+
+PATIENT N303
+Uh, it was here.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+So maybe last year.
+
+DOCTOR N303
+Last year.  @@@.
+
+PATIENT N303
+Yeah sometime last year.
+
+DOCTOR N303
+Like in @@@@ June, no @@@@ @@@ right?
+
+PATIENT N303
+Uh I couldn't, I don't have a memory any more hardly.  I went through the hep C treatment and I'm.
+
+DOCTOR N303
+Yeah I thought about that too but.
+
+PATIENT N303
+That kind of shot my memory a little bit.
+
+DOCTOR N303
+And you're taking the albuterol?  Do you have COPD?
+
+PATIENT N303
+What’s that?
+
+DOCTOR N303
+Why are you taking this albuterol inhaler?
+
+PATIENT N303
+They said for bronchitis, wheezing.
+
+DOCTOR N303
+Do you have asthma?
+
+PATIENT N303
+I don't know.
+
+DOCTOR N303
+Did you ever get a pulmonary function test?
+
+PATIENT N303
+What's that?
+
+DOCTOR N303
+Where you breathe in tubes.
+
+PATIENT N303
+Uh no, I was just wheezing and they just gave it to me.  I don't hardly do it at all, except for at night time that I wheeze.
+
+DOCTOR N303
+Okay do you need this again or do you need refills?
+
+PATIENT N303
+I need refills yeah.
+
+DOCTOR N303
+Mail it or walk-in?
+
+PATIENT N303
+Uh mail is fine.  Mail is a lot easier.
+
+DOCTOR N303
+Okay mail it and do you need aspirin?
+
+PATIENT N303
+Yes.
+
+DOCTOR N303
+Mail it again?  And I think you have two refills on there.
+
+PATIENT N303
+Okay.  Can they give me a 90 day supply instead of every month?
+
+DOCTOR N303
+Oh yeah I can just give you three refills.
+
+PATIENT N303
+Okay, I mean just give me a 90 day supply one time.
+
+DOCTOR N303
+Oh, I don't think we can.
+
+PATIENT N303
+They said downstairs you can.
+
+DOCTOR N303
+Oh really.
+
+PATIENT N303
+They said a just that doctor had to order it that way.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+Cause some I was getting the baby aspirins, a whole bunch of them and then the high blood pressure get 30 of them and.
+
+DOCTOR N303
+Well you're getting 108 in this pill.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+In this quantity, it says 108 so ask the pharmacist if they're giving it to you in 108 because it's in the quantity of aspirin.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+So that's good.  It should come in the mail cause they'll put it in the mail right?
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+Um and then do you need your blood pressure medicine, hydrochlorothiazide, triamterene medication?
+
+PATIENT N303
+They just renewed that when I was downstairs for my ear infection.
+
+DOCTOR N303
+@@@.
+
+PATIENT N303
+I walked in with my empty bottle and I said I'm out of these.
+
+DOCTOR N303
+Oh good.
+
+PATIENT N303
+So he renewed them.
+
+DOCTOR N303
+Okay and then Synthroid, do you need your Synthroid?
+
+PATIENT N303
+Which one's that?
+
+DOCTOR N303
+The thyroid medication.
+
+PATIENT N303
+Yes.  Might as well order them while I'm here.
+
+DOCTOR N303
+Anything else that you need?  @@@ ear drops?
+
+PATIENT N303
+Um you know what, if I could have one later on because if this 
+comes back again, I'm just going to be in the Emergency Room.
+
+DOCTOR N303
+Okay.  Um so you have an ENT appointment today.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+You should talk to them about that.
+
+PATIENT N303
+Alright.
+
+DOCTOR N303
+They're probably going to @@@.
+
+PATIENT N303
+Right and another thing with me and my girlfriend.  I don't have, I want to know, it gets hard but I don't have a long erection.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+In two minutes it's done, no way and she's not happy.
+
+DOCTOR N303
+Okay and when did this start?
+
+PATIENT N303
+Um almost like six months ago.
+
+DOCTOR N303
+Six months ago.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+And anything start to make it worse?
+
+PATIENT N303
+I don' know.  You know it's just.
+
+DOCTOR N303
+Are you attracted to your partner?
+
+PATIENT N303
+Oh yeah.
+
+DOCTOR N303
+Yeah and is it that the libido that's gone or you can't get an erection?
+
+PATIENT N303
+It can you know but it doesn't last.
+
+DOCTOR N303
+Okay so it doesn't last long enough but the libido, the feeling is there?
+
+PATIENT N303
+Oh yeah.
+
+DOCTOR N303
+Yeah okay.  Um and any discharge, any issues there?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+Nothing like that okay.  Can I just check @@@.  Have you ever been on anything before?
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+What was it?
+
+PATIENT N303
+Um they gave me, uh she gets uh the @@@. 
+
+DOCTOR N303
+Vardenafil or Viagra?
+
+PATIENT N303
+Um, she gave me two pills.
+
+DOCTOR N303
+Yeah.
+
+PATIENT N303
+She said take a half a one and if that doesn't work try the whole one.  Well I don't think either one of them worked and it wasn't uh Viagra.
+
+DOCTOR N303
+Vardenafil?
+
+PATIENT N303
+Probably.
+
+DOCTOR N303
+Let's see what she gave you, the last time you saw her?
+
+PATIENT N303
+Um I think it was the last time I saw her, yeah.
+
+DOCTOR N303
+Levitra.
+
+PATIENT N303
+Yeah it don't work.
+
+DOCTOR N303
+She gave you Levitra.
+
+PATIENT N303
+That didn't work.
+
+DOCTOR N303
+Okay, let's see what else we can give you.  
+
+PATIENT N303
+It may just come with age.
+
+DOCTOR N303
+Yeah sometimes that can happen but we have to make sure it isn't anything else too.  And no new medications that you were started on six months ago?
+
+PATIENT N303
+Um no.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+Not six months ago no.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+I been on my high blood pressure, I been on the HTC or whatever that stands for forever.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+Baby aspirins forever.
+
+DOCTOR N303
+And your thyroid are you taking that regularly?
+
+PATIENT N303
+Oh yeah.
+
+DOCTOR N303
+Cause your thyroid can also affect everything too you know, things you wouldn't think of, it can affect lot of stuff.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+We could get a thyroid level on you, the last one was in June, let's see, it's been seven months.  So let's get another one.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+I can order it and we can add it on.
+
+PATIENT N303
+Alright.  Yeah get it all done before summer cause when summer hits I stock up on my pills and I go.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+I want to go down to Alabama to visit my mom for a few months.
+
+DOCTOR N303
+Oh okay that's good.  We'll order that.
+
+PATIENT N303
+Alright.
+
+DOCTOR N303
+So you said Levitra did not work?
+
+PATIENT N303
+No it didn't seem like it worked.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+You know.
+
+DOCTOR N303
+Yeah.  That’s fine. Let me see what other medications we have that we can give you.
+
+PATIENT N303
+I am not comfortable talking about it, but she wanted me to find out so.
+
+DOCTOR N303
+@@@.  A lot patients come with the same type of issue. Don’t worry about it.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+So um do you have difficulty kind of achieving them or is it that you can't.
+
+PATIENT N303
+No I can't count on it yeah.
+
+DOCTOR N303
+You’re not taking too much alcohol?
+
+PATIENT N303
+Nope.
+
+DOCTOR N303
+You're not using any illicit drugs?
+
+PATIENT N303
+Nope.
+
+DOCTOR N303
+No heart disease or anything like that?  You do have hypertension right?
+
+PATIENT N303
+Hypertension what's that?
+
+DOCTOR N303
+High blood pressure.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+Not any more.
+
+DOCTOR N303
+Not any more yeah that's true.  @@@.  So let's see Levitra.
+
+PATIENT N303
+I do have shortness of breath.  I mean.
+
+DOCTOR N303
+Yeah I know.  I'm gonna have to figure that out.  Maybe you're going to need to get pulmonary function tests to categorize why you have the shortness of breath.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+Um and the wheezing only happened at night?  Did it wake you up at night?
+
+PATIENT N303
+When I lay down.  When I'm laying down yeah.
+
+DOCTOR N303
+When you're laying down?
+
+PATIENT N303
+Yeah I start wheezing.
+
+DOCTOR N303
+Then you use the Combivent or the albuterol inhaler?
+
+PATIENT N303
+Yeah I take a shot.
+
+DOCTOR N303
+How often do you use it every night?
+
+PATIENT N303
+Oh no, maybe once a week.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+Maybe not even that, maybe once every two weeks you know.
+
+DOCTOR N303
+Once every two weeks.
+
+PATIENT N303
+Or once a week you know.  It's hardly at all.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+But you know.  And a lot of times I just cough real hard and I can get rid of it, it goes away.
+
+DOCTOR N303
+Oh really good.
+
+PATIENT N303
+Yeah, like it opens up the breathing or whatever and I know because I'll keep it right next to me and I'll carry it with me.
+
+DOCTOR N303
+Oh.
+
+PATIENT N303
+You know.
+
+DOCTOR N303
+Okay.  So when you told DOCTOR that it didn't work did she give you something else?
+
+PATIENT N303
+No I never got a chance to talk to her after that.
+
+DOCTOR N303
+Oh, so that's why you're here.  You're with me since she left.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+That makes sense, got it, got it, got it.  Okay so let's see what else we can do.  Now I see, she gave you vardenafil which is, let's just see the medication.  Okay so she gave you Levitra like you had said, @@@ that way.  So 10 mg and then you used the 20 mg and it didn't help.  That's both of them?
+
+PATIENT N303
+The half one didn't.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+Um the whole one, I don't really remember.
+
+DOCTOR N303
+You don't remember if it was?
+
+PATIENT N303
+That was a long time ago and I don't have a real good, I don't know.  She just asked me to find out something about it.
+
+DOCTOR N303
+Do you want to try that one again or not?
+
+PATIENT N303
+Um it doesn't matter.  I could try it again and if it does work well then that's great I mean.
+
+DOCTOR N303
+Once you may be getting one because it didn't stay up right?
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+Okay.  So you're able to penetrate okay?
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+But then it lasted only like 2 minutes?
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+Yeah it didn't last long, that's all.
+
+DOCTOR N303
+Alright so what I'm gonna do we'll order another one called Viagra and then you need to use a full pill.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+I'll give you four pills of that.  So that's that, we took care of that issue and then @@@.
+
+PATIENT N303
+@@@.
+
+DOCTOR N303
+@@@.
+
+PATIENT N303
+No.
+
+DOCTOR N303
+It can cause @@@.  So did you get a sleep study?
+
+PATIENT N303
+Yes.
+
+DOCTOR N303
+Um they told you to do it again right but you haven't gotten that done?
+
+PATIENT N303
+Uh he told me there's nothing wrong with me and he said um.  The sleep doctor up there said here this is the mask you're gonna want if you get to order one and then I called back to the doctor and the doctor says that everything is fine.
+
+DOCTOR N303
+So if the sleep study, they said at the bottom, they didn't tell you to take it again?
+
+PATIENT N303
+I don't remember.
+
+DOCTOR N303
+So you got it done in September 2010 and.
+
+PATIENT N303
+I just wake up all the time at night to go to the bathroom because I have to go to the bathroom all the time you know.  I go to the bathroom a lot you know.
+
+DOCTOR N303
+Okay.  So they told us to repeat the sleep study in a few months so I might want to do it again for you.  Are you okay with that?
+
+PATIENT N303
+Um, just have to, I got to give like two weeks notice so I can schedule it when she's working then I can do this.
+
+DOCTOR N303
+Oh yeah they'll call you.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+And they'll figure out when to do it.
+
+PATIENT N303
+Alright.
+
+DOCTOR N303
+So you have daytime drowsiness?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+You feel tired?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+Do you sleep well at night?
+
+PATIENT N303
+Yep.
+
+DOCTOR N303
+@@@ okay.
+
+PATIENT N303
+But I'm not tired during the day like you know.  I'm up all day.  See I have that wheezing right now.
+
+DOCTOR N303
+Why don't we go ahead and do a pulmonary function test on you?  I might want have you do that.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+That sounds like asthma. I don't know.  So I may have you see a little PM&R, the rehab based people for your back.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+@@@.
+
+PATIENT N303
+Alright, they'll call me?
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+Alright, alright.
+
+DOCTOR N303
+And @@@.
+
+PATIENT N303
+Yeah if you think it'll help that, I'll give it a shot.
+
+DOCTOR N303
+Yeah.
+
+PATIENT N303
+Cause I know when I missed that one I think I was in Minnesota when, when I was supposed to go and I didn't get back in time or something like that and I'm real bad at remembering to do that stuff.
+
+DOCTOR N303
+And then one thing, did they ever do an ultrasound of your liver?
+
+PATIENT N303
+Yep.
+
+DOCTOR N303
+Where did they do it, here?
+
+PATIENT N303
+Uh no they did it in Phoenix.
+
+DOCTOR N303
+Oh.
+
+PATIENT N303
+Uh they did it before I had the hep C treatment.
+
+DOCTOR N303
+And then afterwards they haven't done it?
+
+PATIENT N303
+Um no.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+I don't believe so.  I don't remember what they did or not, but all the blood work comes back 0 now so.
+
+DOCTOR N303
+Yeah they were supposed to repeat in September but they never repeated it.  
+
+PATIENT N303
+The blood work?
+
+DOCTOR N303
+No the ultrasound.
+
+PATIENT N303
+Oh the ultrasound okay.
+
+DOCTOR N303
+While you're going, oh this is the ultrasound scheduled so let's see when they were going to it September 26th, we can wait on that.
+
+PATIENT N303
+This September?
+
+DOCTOR N303
+No not this September.
+
+PATIENT N303
+Oh.
+
+DOCTOR N303
+It said it was scheduled and ordered and it was so hopefully might just have to call down and I'll make sure they have it in there.
+
+PATIENT N303
+Yep.  I know you got to fast for that one too.
+
+DOCTOR N303
+Uh-huh, that's an ultrasound.
+
+PATIENT N303
+Yep.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+But I don't think they really made that quite clear to me the first time I had it in Phoenix.
+
+DOCTOR N303
+Yeah so I think you have a GI appointment coming up so then they're going to do it then okay.
+
+PATIENT N303
+What's the GI Department?
+
+DOCTOR N303
+I mean that's a Liver Clinic appointment.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+So they're going to do your liver ultrasound at that time.
+
+PATIENT N303
+Yeah, yeah okay.
+
+DOCTOR N303
+And then if they think that you need to get it done they'll biopsy it okay.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+No drinking alcohol right?
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+None of that, okay awesome.
+
+PATIENT N303
+I don’t hardly drink at all anyway.
+
+DOCTOR N303
+How did you get cirrhosis, hep C?
+
+PATIENT N303
+Hep C yeah.
+
+DOCTOR N303
+Do you now how you got hep C?
+
+PATIENT N303
+Um I know how I got it.
+
+DOCTOR N303
+Oh really what happened?
+
+PATIENT N303
+Um either drug use or tattoos.
+
+DOCTOR N303
+Oh okay.  Sorry about that but I think it's pretty controlled right now.
+
+PATIENT N303
+I think so.
+
+DOCTOR N303
+So were you on treatment in Phoenix?
+
+PATIENT N303
+Yeah for six months I was on it.
+
+DOCTOR N303
+Oh.
+
+PATIENT N303
+That was hard, that was hard.  I never want to go through that again.
+
+DOCTOR N303
+Do you smoke?
+
+PATIENT N303
+Uh maybe one cigarette every 2-3 days.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+But I chew tobacco.
+
+DOCTOR N303
+One cigarette every two or three days?
+
+PATIENT N303
+Yeah I'm not a heavy smoker.  I mean I quit smoking six years ago.
+
+DOCTOR N303
+Okay and you chew tobacco?  How much?
+
+PATIENT N303
+Yeah, um maybe a can a week.
+
+DOCTOR N303
+A can a week.
+
+PATIENT N303
+Yep.
+
+DOCTOR N303
+And then do you drink?
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+How much do you drink?
+
+PATIENT N303
+I don't know, for the last three days nothing and then I maybe a six-pack I don't know.
+
+DOCTOR N303
+Do you average six-pack per week?
+
+PATIENT N303
+Sometimes I don't even have that and sometimes I have more than that so I.
+
+DOCTOR N303
+So a six-pack for every two weeks?
+
+PATIENT N303
+Yeah.  A six-pack a week whatever.
+
+DOCTOR N303
+Do you do illicits?
+
+PATIENT N303
+Pardon me?
+
+DOCTOR N303
+Illicit drugs?
+
+PATIENT N303
+Illicit drugs?
+
+DOCTOR N303
+Yeah like marijuana, cocaine?
+
+PATIENT N303
+No, no.
+
+DOCTOR N303
+Okay.  Where do you live, who do you live with?
+
+PATIENT N303
+I live by myself right now.
+
+DOCTOR N303
+Are you sexually active?
+
+PATIENT N303
+Uh yeah, with my girlfriend.
+
+DOCTOR N303
+Okay.  Where did you serve?
+
+PATIENT N303
+Navy.
+
+DOCTOR N303
+Okay and did you see active combat?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+Any family history of anything?
+
+PATIENT N303
+What?
+
+DOCTOR N303
+Cancer in your family history?
+
+PATIENT N303
+Uh heart disease um.  I used to say no to all this because I never knew none of this.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+But and then talking about mom I guess, I guess there's heart disease.  I don't remember cancer; I don't think she's had cancer.  Um thyroid.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+Um oh what else is there?
+
+DOCTOR N303
+No cancer?
+
+PATIENT N303
+I don't think so.
+
+DOCTOR N303
+Diabetes?
+
+PATIENT N303
+I think she has diabetes.  I don't have that.
+
+DOCTOR N303
+Okay.  Um @@@ your vitals look good.  Um let's see what else so when did you get your colonoscopy done last?
+
+PATIENT N303
+Um.
+
+DOCTOR N303
+What year was that?
+
+PATIENT N303
+Right when I left Arizona so that would be in 2008, 2009, 2010 at the end of 2010.
+
+DOCTOR N303
+Okay so @@@@, was done in 11/10.
+
+PATIENT N303
+It was good.
+
+DOCTOR N303
+Can you bring the records from that at all to see what they say?
+
+PATIENT N303
+No I had that done at um, um, @@@.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+Where I was sent, um something like SSI.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+In Phoenix and they scheduled that for me over there.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+Cause it was so hard for me to get to the VA to do all my meds stuff and all that crap and then when they mailed them people were stealing them.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+So I said well screw this I just went to access and I go to Walgreens to pick my meds up so then I just started using them you know.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+It was free so I said you know, I just used that but.
+
+DOCTOR N303
+So do you have records or not?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+When will you have some?
+
+PATIENT N303
+I wouldn't even know the first way about going to get it.
+
+DOCTOR N303
+Hmm.  But they did, did they ever say anything bad about it?
+
+PATIENT N303
+No I think they said come back, if I still was there he said come back in five years or something like that.
+
+DOCTOR N303
+Alright.
+
+PATIENT N303
+I have a large colon.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+But it wasn't, no cancer, no nothing, no polyp you know.
+
+DOCTOR N303
+Did they remove anything?
+
+PATIENT N303
+No.  Uh yeah they did 12 pinches.
+
+DOCTOR N303
+Did they take out 12 polyps or?
+
+PATIENT N303
+No, 12 things on each side.
+
+DOCTOR N303
+Okay.  How many polyps did you have?
+
+PATIENT N303
+Um I don't think any, this was uh, I guess that they, the @@@ detects, yeah I don't know.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+I can't remember what it was.
+
+DOCTOR N303
+Okay.  That's okay we'll figure it out.
+
+PATIENT N303
+Yeah.  So I know it wasn't cancer and I had it done the end of 2010 and I had it done in 2008 when I was locked up.
+
+DOCTOR N303
+You were locked up, what do you mean?
+
+PATIENT N303
+Locked up.  Jail.
+
+DOCTOR N303
+Jail, why?
+
+PATIENT N303
+Um that's when I had my hey day of drugs.
+
+DOCTOR N303
+Oh, so you did do illicits in the past?
+
+PATIENT N303
+Oh yeah.
+
+DOCTOR N303
+They aren't good.
+
+PATIENT N303
+I know.
+
+DOCTOR N303
+Right, so tell me your other problems, low back pain.
+
+PATIENT N303
+Yes.  Every once in a while I get a shooting pain in like my sciatic nerve.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+Where I used to get it, I know right where it's at because @@@.  My left foot, I got I don't know maybe, you know how you stub your toe and it really hurts.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+Well if I stub any one of these toes, it don't hurt at all.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+I mean when I hit something and stub it you know and I know I kicked it I says oh, okay, that's happened I don't have to worry about it cause it don't hurt.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+But if I do it with my right foot, then I'm hopping.
+
+DOCTOR N303
+I'm going to have you continue with the tramadol, the one that you have.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+Only because, I'm kind of afraid to put you on another medication because you have that kidney, that creatinine level bumped up. I am going to have you check your creatinine level in like maybe a week.
+
+PATIENT N303
+Alright.
+
+DOCTOR N303
+We’ll see where it is.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+And if it goes down we'll have to put you on something else.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+And we'll try to figure it out that way.  And you need to lose weight and I know you have been right?
+
+PATIENT N303
+Oh yeah.
+
+DOCTOR N303
+Um are you in the MOVE Program at all?
+
+PATIENT N303
+What?
+
+DOCTOR N303
+The MOVE Program.
+
+PATIENT N303
+What's that?
+
+DOCTOR N303
+Oh you don't know about the MOVE Program?  It's this program that's for anyone that's interested in losing weight.  There's this program that is tailored to the individual and you get to work out and eat the way that they would like you too and it's pretty impressive what they do there.
+
+PATIENT N303
+They feed you?
+
+DOCTOR N303
+I don't know if they feed you, they kind of give you advice on how to go about what you should eat.
+
+PATIENT N303
+Cause a lot of time I'm cooking for myself so I eat a lot of yogurt um, I eat a lot of lunch meat.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+And I eat a lot of oatmeal.
+
+DOCTOR N303
+Oh really.
+
+PATIENT N303
+Yeah.  Instant oatmeal.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+I eat a lot of that.  I have three bowls in the morning or if I don’t have that I have eggs.
+
+DOCTOR N303
+Okay.  
+
+PATIENT N303
+You know.
+
+DOCTOR N303
+But do you workout?
+
+PATIENT N303
+Um no but I ride my motor, I guess I you know I lift my motorcycle tires when I'm changing them and stuff like that.
+
+DOCTOR N303
+Okay.  Well I think you should definitely do the MOVE Program though.  I think that might be a good way of like trying to lose weight.  I know you're doing the losing weight on your own.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+I think you would benefit.  They way, your knee pain, your back pain, all that will go away on its own.
+
+PATIENT N303
+Yeah my, my back doesn't hurt as much as it used to.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+And I can walk straighter.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+But I'm still out of breath a lot.  So I won't get up and walk a lot.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+Just cause after a little while of walking I start limping.
+
+DOCTOR N303
+So do you want to be part of the MOVE Program?
+
+PATIENT N303
+I don't know if I really have time for this.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+I have a lot of responsibilities with the club and stuff like that and they keep me pretty busy.  
+
+DOCTOR N303
+What club?
+
+PATIENT N303
+The SEAGULLs.  Motorcycle Club.
+
+DOCTOR N303
+Okay.  I've got everything down.  We talked about that.  So tell me about the shortness of breath.  So um what's going on?  When do you get short of breath?
+
+PATIENT N303
+Walking.
+
+DOCTOR N303
+Walking?  How much do you walk until you get short of breath?
+
+PATIENT N303
+Um from here to out of the building where the valet parking is.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+I'm wheezing pretty good by then.
+
+DOCTOR N303
+You're wheezing.
+
+PATIENT N303
+I'm pretty short of breath.
+
+DOCTOR N303
+Okay.  And how many blocks can you walk?
+
+PATIENT N303
+Well it used to be not even a half a block and I would be, so I'm walking further now.
+
+DOCTOR N303
+Oh you are?
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+Since you lost weight.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+Okay.  So you're walking farther since you lost weight.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+So you used to walk like maybe half a block and now you're walking at least a block?
+
+PATIENT N303
+Yeah.  I can walk over a block.  I think that's over a block.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+And sometimes it's better than others.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+I went to the bike show and I walked through that whole thing, I didn't.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+I hardly hurt at all but other times it's walking half a mile to get in the place and I was really hobbling you know, it's like and my hip really, really, really hurt you know.  Okay so it seemed like maybe, my knee maybe it is getting better now.
+
+DOCTOR N303
+So um is it the pain that makes you stop or is it the shortness of breath that makes you stop walking?
+
+PATIENT N303
+Pain.
+
+DOCTOR N303
+So you can walk farther if you didn't have pain?
+
+PATIENT N303
+Probably.
+
+DOCTOR N303
+It's not the shortness of breath that's preventing you from walking.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+Okay so when do you get short of breath?  Do you ever get short of breath or is it just the pain that limits you?
+
+PATIENT N303
+Um, I'll make a mental note of this.
+
+DOCTOR N303
+Okay.  Alright so if you're not huffing and puffing then that means it's not the shortness of breath that limits you.
+
+PATIENT N303
+Well I'm always, I'm always, always I don't know.  I'll write this down.
+
+DOCTOR N303
+Alright.  But I'll send you in for a pulmonary function test.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+Uh but you do notice wheezing when you're walking?
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+You do notice.
+
+PATIENT N303
+Yeah.  I notice when I'm laying down I wheeze.
+
+DOCTOR N303
+More than you do when you're upright.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+Okay did you sleep with extra pillows or anything?
+
+PATIENT N303
+I got a third pillow I use, yeah.
+
+DOCTOR N303
+Okay do you find that you're gonna wake up in the middle of the night gasping for air?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+Do you find that even when you get the pillows or something like that is this at night when you're laying flat?
+
+PATIENT N303
+Yep.
+
+DOCTOR N303
+Okay.  And it's once or twice a week you use the inhaler?
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+And it goes away.
+
+PATIENT N303
+Yeah that, I hardly use it at all.
+
+DOCTOR N303
+Okay, so I'm going to put in a consult in for the pulmonary function tests.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+To make sure that we take care of that.
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+We would like to see, now you do smoke, that's a little concerning.  You've been losing weight.  Any night sweats or chills that you've noticed recently?
+
+PATIENT N303
+Chills?  No.
+
+DOCTOR N303
+Night sweats?  
+
+PATIENT N303
+No.
+
+DOCTOR N303
+Weight loss well unintentional loss?
+
+PATIENT N303
+No, not unintentional.  My weight loss now is because I'm trying and I've been trying.
+
+DOCTOR N303
+What did you do again to lose weight?
+
+PATIENT N303
+Uh I'm back on all the garbage food.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+You know but I live by myself now you know.
+
+DOCTOR N303
+So what did you eat?
+
+PATIENT N303
+Before I'd eat greasy hamburgers and fried chicken.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+I don't eat that.  I don't hardly eat bread.  Um if I have a sandwich I make half a sandwich with a lot more meat.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+You know um.  I don't know.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+And then my girlfriend when she comes out, she cooks.  She is diabetic so she has to watch what she eats so I think that's where it ended up helping me because.
+
+DOCTOR N303
+Oh for the last year or so you've lost probably like 20 pounds.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+So that's good.
+
+PATIENT N303
+It went up faster than that.  It seemed like in one week I went three, four pant sizes when I quit working.
+
+DOCTOR N303
+Uh-huh.  
+
+PATIENT N303
+And could they get hold of, I know they always call me on the phone.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+But last night I spilled Kool-Aid on my phone and I really didn't realize it and all of a sudden I start talking on it, it went dead on me.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+And now it don't work anymore so I got to get another phone.  I have a computer so if they can contact me by computer or something.  On this thing here.
+
+DOCTOR N303
+Oh okay.  You might have to ask on how to go about doing that.
+
+PATIENT N303
+They say I can keep track of all my stuff online.
+
+DOCTOR N303
+Yeah you can do that.  That's another thing that they do.  
+
+PATIENT N303
+Right.
+
+DOCTOR N303
+You can follow that.
+
+PATIENT N303
+Yeah okay that's what I'm going to start doing on this.  I'll do that today when I get home.
+
+DOCTOR N303
+So @@@.  No other phone that you have?
+
+PATIENT N303
+No, well there's one at the house but I don't live there anymore.  My ex-wife, see I live with my daughter upstairs.  That's the house I own.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+But when I got divorced I left, I gave her the two flat and now she lives downstairs and I was living upstairs with my daughter and uh we didn't see eye to eye.  We're divorced and I just, I didn't have to take it, I moved.
+
+DOCTOR N303
+Well that's good.
+
+PATIENT N303
+But she's still my contact you know if something happened to me, she's the one to notify.
+
+DOCTOR N303
+Okay.  Alright.  So what are we doing for you today?
+
+PATIENT N303
+Um pills.
+
+DOCTOR N303
+Are you on any cholesterol medications?
+
+PATIENT N303
+Cholesterol?  No.
+
+DOCTOR N303
+Okay you don't have any high high cholesterol.
+
+PATIENT N303
+Never did.
+
+DOCTOR N303
+Good, perfect.  Okay um so I'm going to put in a PM&R consult in for you.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+You're going to get a PFT for your lungs.  Your blood pressure's good. @@@ diet. You have an appointment with the Liver Clinic and Viagra. 
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+Anything else that I missed?  Hop up on there.
+
+PATIENT N303
+I think you got it all.
+
+DOCTOR N303
+Okay.  Any swelling you've noticed in your legs?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+Okay.  Take a deep breath.  Okay good. I don't hear any wheezing.
+
+PATIENT N303
+Good.
+
+DOCTOR N303
+Any knee pain here?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+And your back pain, where's your back pain?
+
+PATIENT N303
+Usually @@@ underneath here.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+You know and right now it's good.
+
+DOCTOR N303
+@@@ okay.
+
+PATIENT N303
+Right there.
+
+DOCTOR N303
+Okay, alright.  So it's been there for a while.
+
+PATIENT N303
+Yep.
+
+DOCTOR N303
+Okay, alright.  So we're going to send you to the Pain Clinic um and PMNR physical therapy.  @@@.  Any pain here?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+Or here?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+Or here?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+Here?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+Okay.  And then do you mind if I examine your testicles just to make sure there's not any abnormal going on?
+
+PATIENT N303
+Do this, when I had my vasectomy done.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+They sewed it up wrong.
+
+DOCTOR N303
+Uh-huh okay.
+
+PATIENT N303
+And they're okay.
+
+DOCTOR N303
+You're okay.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+Okay, 
+
+PATIENT N303
+I don't have a hernia or nothing.
+
+DOCTOR N303
+Okay, so you don't want me to look?
+
+PATIENT N303
+No not on this.
+
+DOCTOR N303
+Okay.  @@@.
+
+PATIENT N303
+Maybe next time.
+
+DOCTOR N303
+No it's okay.  No problem you don't have to.  Alright so @@@ all you have to do today.  And they'll take the blood work @@@
+
+PATIENT N303
+Right.  Well we got a lot done.
+
+DOCTOR N303
+Uh-huh.  You're 59; you got your flu shot and everything?
+
+PATIENT N303
+Yes.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+I make sure I always do that.
+
+DOCTOR N303
+Okay.  @@@ now are you?
+
+PATIENT N303
+Not right now.
+
+DOCTOR N303
+Okay, ringing in your ears or.
+
+PATIENT N303
+No.
+
+DOCTOR N303
+Anything like that?
+
+PATIENT N303
+No.
+
+DOCTOR N303
+@@@.
+
+PATIENT N303
+Um I, when I come into the Arizona I got a lot of wax in my ear.
+
+DOCTOR N303
+Alright.  @@@.  So good ear drum.  This one has a little bit more wax, but no actually it's not that bad, I can still see the ear drum.
+
+PATIENT N303
+Yes and that was, I just put ear drops in there uh two days ago.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+And I haven't put any more in now at all.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+Cause it quit so I was like.
+
+DOCTOR N303
+Oh really.
+
+PATIENT N303
+Yeah it quit hurting and it gets crazy.
+
+DOCTOR N303
+Alright so I'll be right back.
+
+(DOCTOR OUT:  61:25  DOCTOR IN:  72:13)
+
+DOCTOR N303
+Okay, so I'm going to order um a colonoscopy cause I was looking through the old records and I couldn't find one and I think it'd be best to order it and have you come in for that.
+
+PATIENT N303
+Make it for another year.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+They said five years would be okay.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+I don't want to go through that.
+
+DOCTOR N303
+@@@ it was at the Arizona VA that you got it done?
+
+PATIENT N303
+Um no, I got it done, uh the first one I got done I was in Arizona Prison and then when I got out of there the next one that was done was at Access.
+
+DOCTOR N303
+So it wasn't done at the VA right?
+
+PATIENT N303
+No not the VA.
+
+DOCTOR N303
+Okay.  Um you don't have the results of it at all?
+
+PATIENT N303
+No I could call down there.
+
+DOCTOR N303
+Yeah can you please call because that would help me out so much.
+
+PATIENT N303
+Yeah oh yeah I'll call them.  I think I might still have one of her cards.
+
+DOCTOR N303
+Okay and then I want you to come back in like a month.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+And get labs.
+
+PATIENT N303
+Alright.
+
+DOCTOR N303
+I want you to get another BNP and I want to check for diabetes okay and that's it.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+Alright you can go.  This is for you.
+
+PATIENT N303
+I hope I ain't got diabetes.  I should be...
+
+DOCTOR N303
+I renewed all of the medications also okay.
+
+PATIENT N303
+What's that?
+
+DOCTOR N303
+I renewed everything.
+
+PATIENT N303
+Okay, okay.  Oh by the way can I get Nicorette gum?
+
+DOCTOR N303
+Yeah for your smoking?
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+So you can stop?
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+Yeah I can mail that to you, that's excellent.
+
+PATIENT N303
+Yeah.
+
+DOCTOR N303
+I completely forgot to tell you about that.  I will put that in the order and you'll get it in the mail.
+
+PATIENT N303
+Yeah I was getting that before.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+And uh and the last time I was up in Wisconsin.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+I broke my foot.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+They gave me another box but you know that, I forget to keep on trying to get it but the stuff does work.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+You know.
+
+DOCTOR N303
+Really.
+
+PATIENT N303
+It does.  It goes from one can will last me three or four weeks cause I'll chew that stuff all the time.  Smoking is not no big deal.  I mean if everybody's sitting around smoking I might take a couple of drags off of one.
+
+DOCTOR N303
+@@@ Viagra @@@.
+
+PATIENT N303
+Yeah it says it on the bottle.
+
+DOCTOR N303
+Yeah okay perfect.
+
+PATIENT N303
+Yeah.  I’m not going to go nuts.
+
+DOCTOR N303
+Pick it up at the window okay, you can pick it up downstairs with all your other medications and then just come back in a month.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+So you can come see me in six months and then we need to make sure that you get the pulmonary function tests ordered okay.
+
+PATIENT N303
+Alright.  They'll call me?  I'll get a phone like today or tomorrow, oh probably tomorrow or the day after so then I can do it, in the next two days.
+
+DOCTOR N303
+I don't know when they'll do it @@@.
+
+PATIENT N303
+Put down, no phone calls for two or three days.  Cause I don't know if I have to buy a new one, I got to wait for the first of the month, I'll get a used cheap one and I'll get it right away.
+
+DOCTOR N303
+And you smoke 1-3 cigarettes a week?
+
+PATIENT N303
+Sometimes not even that.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+But it's the chewing that nicotine the chew.
+
+DOCTOR N303
+Uh-huh.
+
+PATIENT N303
+You know.
+
+DOCTOR N303
+You know what; I'm going to give you the patch.
+
+PATIENT N303
+Okay, whatever.  @@@ anything.
+
+DOCTOR N303
+So the patch will @@@ anything, it'll just suppress everything.
+
+PATIENT N303
+Okay.  I was thinking about trying that.
+
+DOCTOR N303
+Okay.
+
+PATIENT N303
+You know, yeah let's give that a shot.  Cause I'd be happy to get off of this.  Then I could pick up some other bad habit.
+
+DOCTOR N303
+Okay there you go @@@.  Alright.  Take care okay.
+
+PATIENT N303
+Okay.
+
+DOCTOR N303
+@@@ they'll show you the way downstairs.
+
+PATIENT N303
+Okay. alright.
+
+DOCTOR N303
+And then the BNP and the @@@.
+
+PATIENT N303
+So I just go down and pick them all up, I'm here I might as well right.
+
+DOCTOR N303
+Yeah I'd like you to.
+
+PATIENT N303
+Okay, right alright.
+
+DOCTOR N303
+Okay so you can go in the check out area over there.
+
+PATIENT N303
+Okay thank you.
+
+DOCTOR N303
+Have a good day.
+
+PATIENT N303
+You have great day, thank you very much.
+
+DOCTOR N303
+Okay, have a great day.
+
+PATIENT N303
+Okay.  I'll working on it.
+
+PATIENT LEAVES:  76:34 
+
+Time is @@@.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255102
+TRANSACTION # 578-10-2-316-0103

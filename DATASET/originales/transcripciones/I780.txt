@@ -1,0 +1,342 @@
+Date of Encounter: @@/@@/@@   
+Time of Encounter: @@@   
+
+DOCTOR I780
+PATIENT?
+
+PATIENT I780
+Yeah.  
+
+DOCTOR I780
+PATIENT?
+
+PATIENT I780
+Yeah, yeah.
+
+DOCTOR I780
+@@@.
+
+PATIENT I780
+Yeah.
+
+DOCTOR I780
+@@@.
+
+PATIENT I780
+@@@.
+
+DOCTOR I780
+Come right in here.  Thank you.
+
+PATIENT I780
+Uh-huh.
+
+DOCTOR I780
+Alright @@@.
+
+PATIENT I780
+Okay, that's good.
+
+DOCTOR I780
+So how are you doing PATIENT?
+
+PATIENT I780
+Oh pretty good.
+
+DOCTOR I780
+Any chest pains?
+
+PATIENT I780
+No.
+
+DOCTOR I780
+Okay.  Any um shortness of breath?
+
+PATIENT I780
+No not yet.
+
+DOCTOR I780
+Okay.
+
+PATIENT I780
+I need all my medicine though.
+
+DOCTOR I780
+Okay.  You're taking Plavix every day?
+
+PATIENT I780
+Uh no, they wouldn't give it to me every day when I was here last week.
+
+DOCTOR I780
+What did they say?
+
+PATIENT I780
+They told me that I had to bring in another statement from uh DOCTOR and DOCTOR say he don't understand why they wouldn't issue me no Plavix.  It was I was supposed to have it to keep from having strokes.
+
+DOCTOR I780
+Yeah but I actually think we need to get the cardiologist's letter.  Okay, well I'm sorry about that, I can't help you with that but are you taking the cholesterol tablets?
+
+PATIENT I780
+Yeah.  I'm taking everything else but the Plavix cause they didn't issue me the Plavix.
+
+DOCTOR I780
+Well @@@
+
+PATIENT I780
+What?
+
+DOCTOR I780
+The box.
+
+PATIENT I780
+What the pacemaker is that what?  Yeah I don't had three, this makes the third one.
+
+DOCTOR I780
+No but did it ever fire?
+
+PATIENT I780
+No, they haven't fired no.
+
+DOCTOR I780
+Never in your lifetime?
+
+PATIENT I780
+No it hasn't fired no.
+
+DOCTOR I780
+Okay.
+
+PATIENT I780
+Not that I know anything about.
+
+DOCTOR I780
+Okay, alright.  Okay.
+
+PATIENT I780
+Cause I been had it, this makes 21 years I been having it.
+
+DOCTOR I780
+Where what is the actual clinic do you follow, here?
+
+PATIENT I780
+Yeah probably here and uh my private DOCTOR and then I go to University of Chicago where they put the pacemaker in at.
+
+DOCTOR I780
+Hmm.
+
+PATIENT I780
+I visit them so.
+
+DOCTOR I780
+Okay I was gonna ask you um, the thing is the Cardiology Department are actually conducting a study to look at patients like you who have a, with a device.
+
+PATIENT I780
+Uh yeah, University of Chicago.
+
+DOCTOR I780
+No, no, it's here at the UIC we're conducting a study.
+
+PATIENT I780
+No, no, no.
+
+DOCTOR I780
+No we are conducting a study, listen to me.
+
+PATIENT I780
+Oh yeah, I got that, was you talking about this?
+
+DOCTOR I780
+No, no, no, listen to me first.  I said we are conducting a study here to look at patients like you who have a device and it hasn't fired and to see if there are any blood markers are there any tests in the blood that can be performed to predict the risk of having uh an irregular heartbeat in the future okay.  So this is a study and it's a voluntary participation okay.  If you want to participate in the study, if you agree to participate in the study all you need to do is get a blood sample today.
+
+PATIENT I780
+Now well I can always get the blood sample but it don't make any difference cause the last time I was here, in fact the doctor sent me to get the blood test you know when I was here last couple of times.
+
+DOCTOR I780
+Right but, so we're gonna do a blood test today.
+
+PATIENT I780
+Yeah.
+
+DOCTOR I780
+And um I'm gonna need to sign some papers to say that you are okay the blood tests okay and that's it and then they're not gonna trouble you after that alright.
+
+PATIENT I780
+Yeah I probably have to go to the Lab though.
+
+DOCTOR I780
+Yeah I take you to the Lab.
+
+PATIENT I780
+Oh okay.
+
+DOCTOR I780
+Alright so, your creatinine, so you have kidney disease right?
+
+PATIENT I780
+Hmm?
+
+DOCTOR I780
+You have kidney disease.
+
+PATIENT I780
+Kidney disease yeah.  I got bad kidneys.
+
+DOCTOR I780
+And you said you need stool softeners?
+
+PATIENT I780
+Yeah.  I stays constipated, I don't know why but I guess it's all the medicine of what I takes with that makes me constipated like that.
+
+DOCTOR I780
+Oh, that may be a possibility.  
+
+PATIENT I780
+I take all of the other medicine except the Plavix, they don't issue me that.
+
+DOCTOR I780
+Well actually, the thing is @@@ at the VA depends, they don't have a justification to be able to do that.
+
+PATIENT I780
+But I takes all the rest of it.
+
+DOCTOR I780
+Okay, that's good.  Give me a second.
+
+(DOCTOR OUT:  60:58  DOCTOR IN:  66:27)
+
+DOCTOR I780
+Alright sir.  All I need you to do is to put your signature here to say that you're okay with your blood draw today; here you go, over here.  
+
+PATIENT I780
+Just initial or just.
+
+DOCTOR I780
+No just signature.
+
+PATIENT I780
+Right here right?  Right here right?
+
+DOCTOR I780
+Yes.  And I also need you to sign here, thank you.  That is it alright.  Okay, you're diabetic too?
+
+PATIENT I780
+No I'm not a diabetic no.
+
+DOCTOR I780
+Okay.
+
+PATIENT I780
+And you've got all my medicines?
+
+DOCTOR I780
+Yeah I'm just writing them down so I know which ones I need to order.  So my computer, actually, it shut down on me.  I'll just move this, so it's alright.  
+
+(DOCTOR OUT:  68:47  DOCTOR IN:  70:11)
+
+DOCTOR I780
+Yeah I don't know what's wrong with the computer but, I'll look here.  I'm sorry.  Okay, so all the medicines that are currently active in the system you'd like them to be refilled is that correct?
+
+PATIENT I780
+Yeah right.
+
+DOCTOR I780
+And then we'll go together and we'll get your blood work done.
+
+PATIENT I780
+Blood tests okay.
+
+DOCTOR I780
+Uh-huh.  Oh come on, it's very annoying.  They need it to order @@@ to the extent of being.
+
+PATIENT I780
+Uh-huh.
+
+DOCTOR I780
+Uh inconvenient to everyone.  I mean I understand the privacy thing but they are overdoing it.
+
+PATIENT I780
+Sometime it makes you wait until they get ready to come on you know.
+
+DOCTOR I780
+Okay so, amiodarone, albuterol @@@ and that's everything right?
+
+PATIENT I780
+Uh-huh.
+
+DOCTOR I780
+And you're due for all blood tests as well today.
+
+PATIENT I780
+Uh-huh.
+
+DOCTOR I780
+Alright so.
+
+PATIENT I780
+You got the stool softener on there don't you?
+
+DOCTOR I780
+Huh?
+
+PATIENT I780
+You got the stool softener on there?
+
+DOCTOR I780
+Oh yeah, yeah.  Okay uh let me go and I'll be back in a few minutes okay.  Then we'll go together to the Lab tests.
+
+(DOCTOR OUT:  72:30  DOCTOR IN:  76:03)
+
+DOCTOR I780
+Okay, let me lead you to the Lab and I'm going to bring the bottles here and I'm going to leave you at the Pharmacy, how does that sound?
+
+PATIENT I780
+Okay, okay.
+
+DOCTOR I780
+So let's see.
+
+PATIENT I780
+So I got to go, I got to go back up to the front and get uh, for my transportation.
+
+DOCTOR I780
+Yeah but that will be after you get your.
+
+PATIENT I780
+Yeah, medicine.
+
+DOCTOR I780
+Medicines right?
+
+PATIENT I780
+Yeah.
+
+DOCTOR I780
+Okay.  Okay.
+
+PATIENT I780
+@@@ kind of strong.
+
+DOCTOR I780
+@@@.
+
+PATIENT I780
+Not this full @@@.
+
+DOCTOR I780
+So I can do both.
+
+PATIENT I780
+You gonna leave me at the Lab?
+
+DOCTOR I780
+Uh I @@@ Lab and then I'm going to drop you at the Pharmacy.  @@@ right?
+
+PATIENT I780
+Yeah.
+
+Doctor takes patient to the Lab.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275383
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,490 @@
+Date of Encounter:  @/@@/@@
+Time of Encounter:  @@@@  
+
+DOCTOR V410 
+PATIENT?
+
+PATIENT V410
+Yeah.
+
+DOCTOR V410
+@@@.
+
+SECOND PERSON V410
+I didn't think @@@.  Well sometimes he's got more than one name.
+
+DOCTOR V410
+You can have a seat right here.  How you doing today?
+
+PATIENT V410
+Okay.
+
+DOCTOR V410
+Tell me what brings you in?
+
+PATIENT V410
+Pardon me?
+
+DOCTOR V410
+Tell me what brings you in today.
+
+PATIENT V410
+What brought me in?  I'm scheduled.
+
+DOCTOR V410
+Anything specific that's bringing you in today?
+
+PATIENT V410
+No.
+
+DOCTOR V410
+No, @@@ since last time.  Um okay so let's see.  Last time I saw you I wanted to get your three month average of your sugars checked.  Um and did you forget to go to the Lab, do you know what happened?
+
+PATIENT V410
+You didn't tell me to go to the Lab.
+
+DOCTOR V410
+Okay uh well today we'll have you go to the Lab okay.
+
+PATIENT V410
+Now?
+
+DOCTOR V410
+Right after we're done.
+
+PATIENT V410
+Yeah.
+
+DOCTOR V410
+Um and you've been checking your sugars at home?
+
+PATIENT V410
+Yeah I have.  Uh I have a problem in the evening and I don't know why.
+
+DOCTOR V410
+What kind, what's wrong?
+
+PATIENT V410
+It shoots up in the evening.
+
+DOCTOR V410
+It shoots up in the evening but okay, last time I thought you were only checking, you were only taking your insulin if your sugar was high, is that right?
+
+PATIENT V410
+No I take it twice a day.
+
+DOCTOR V410
+You take it twice a day?
+
+PATIENT V410
+Yeah.
+
+DOCTOR V410
+Do you remember telling me that last time?  You check your sugar, the blood glucose twice a day but do you take um, last time you were only taking your insulin if your sugar was high or you take your insulin twice a day no matter what?
+
+PATIENT V410
+No matter what.  I might have said uh I take it uh you know you supposed to take it and then eat, I flipped, if it's less than 140 something, I eat before I take it, otherwise it'll drop down too low.
+
+DOCTOR V410
+Oh, okay I must have misunderstood you then.
+
+PATIENT V410
+Yeah I uh.
+
+DOCTOR V410
+So you are taking the NPH right?  The insulin NPH?
+
+PATIENT V410
+Yeah.
+
+DOCTOR V410
+And you take how many units in the morning?
+
+PATIENT V410
+Uh 15 uh the milky stuff and the clear 10 and at night its 22.
+
+DOCTOR V410
+Hmm.
+
+PATIENT V410
+The milky stuff and 10 of the clear.
+
+DOCTOR V410
+Okay.
+
+PATIENT V410
+But uh, didn’t you tell me, I set it up, unless it's 140 something if I take the insulin I can feel my sugar dropping but uh it wouldn't work that fast.
+
+DOCTOR V410
+Uh-huh.  Um your sugars look pretty good.
+
+PATIENT V410
+Did you see those 200s in the evening?
+
+DOCTOR V410
+I see a 107, I see 200s, a couple of them but not all the time.
+
+PATIENT V410
+No.
+
+DOCTOR V410
+It seemed that the lowest you ever had was 70s.
+
+PATIENT V410
+No 65, I had a 65 in the morning.  If it, even November and December.  That's one thing, a couple things, well I been trying to lose some weight so I try eating some small amount at night but then I wake up in the night and I you know I see a different color, my sugar be low because uh I see the color around lights.
+
+DOCTOR V410
+Gotcha.  I think we need to change around your dosing like maybe you take more in the morning and less at night.  Cause your night will affect your morning sugar and your morning insulin will affect your night sugar.  See what I'm saying?
+
+PATIENT V410
+Yeah.
+
+DOCTOR V410
+When it's 60 do you feel bad?
+
+PATIENT V410
+In the morning no.
+
+DOCTOR V410
+Any fevers or chills?
+
+PATIENT V410
+No.
+
+DOCTOR V410
+Um any change in weight?
+
+PATIENT V410
+That's what bugs me.  I can't, I'm not losing any.
+
+DOCTOR V410
+Are you exercising?
+
+PATIENT V410
+Oh yeah.
+
+DOCTOR V410
+Do you want to, have you heard of the MOVE Program?
+
+PATIENT V410
+What's that?
+
+DOCTOR V410
+It's a program that'll help you lose weight.
+
+PATIENT V410
+Oh do you mean here?
+
+DOCTOR V410
+Uh-huh.
+
+PATIENT V410
+I don't see how.  I don't see how.
+
+DOCTOR V410
+It's uh yeah it deals with talking about your diet and exercises and things like that.
+
+PATIENT V410
+Yeah, the problem see I don't do the cooking.
+
+DOCTOR V410
+Who cooks?
+
+PATIENT V410
+My wife.
+
+DOCTOR V410
+So she has to get the education.
+
+PATIENT V410
+Yeah but she cook what she wants to.
+
+DOCTOR V410
+Does she have diabetes?
+
+PATIENT V410
+Yeah.  She had it about five or six years before I got it.
+
+DOCTOR V410
+Okay and she's not cooking.
+
+PATIENT V410
+Nope.
+
+DOCTOR V410
+Do you think you could help her cook and you guys could make different foods?
+
+PATIENT V410
+Help her cook?
+
+DOCTOR V410
+Uh-huh.
+
+PATIENT V410
+No, no, that's not my bag, cooking, but she, hers go down too at night.  She gets up just about every night.
+
+DOCTOR V410
+Uh-huh.
+
+PATIENT V410
+Cause her sugar being @@@.
+
+DOCTOR V410
+So it seems like both of you, who does she see?  Who's her doctor?
+
+PATIENT V410
+Uh I think its DOCTOR from the Mercy Hospital @@@.
+
+DOCTOR V410
+Hmm.
+
+PATIENT V410
+Well her regular doctor retired so this is a new one.
+
+DOCTOR V410
+Okay, so what can we do to get her to cook differently?
+
+PATIENT V410
+(Laughs) I don't know, whether I talk with her again.  And uh the other problem about, you know vegetables and fruits and all that stuff.
+
+DOCTOR V410
+Uh-huh.
+
+PATIENT V410
+Uh, uh, back, way back when, when I was younger I messed my teeth up now I can't eat no fruit and stuff.  They say all of them gonna go out.
+
+DOCTOR V410
+Okay.
+
+PATIENT V410
+So I can't uh.
+
+DOCTOR V410
+Well it's not what you're, it's not necessarily what you're eating it's how much you're eating.  I mean obviously what you're eating matters to you but even if you're not eating fruits and vegetables you shouldn't be eating fatty foods and that seems like the problem right?
+
+PATIENT V410
+Oh.
+
+DOCTOR V410
+At home.
+
+PATIENT V410
+Might be too much I don't know.  But uh, but the doctor when he put me on that inhalant.
+
+DOCTOR V410
+Uh-huh.
+
+PATIENT V410
+Inhalant in this can cause you to gain weight right?  That's what I was told.
+
+DOCTOR V410
+No the insulin can cause you to gain weight but nothing you are, the prednisone that can cause you to gain weight.
+
+PATIENT V410
+Well one of them got steroid in it.
+
+DOCTOR V410
+Yeah but it's not steroid that goes to your whole body, it's just localized to get to your lungs.  That was just in a pill that that's you know.
+
+PATIENT V410
+So that shouldn't cause anything.
+
+DOCTOR V410
+Uh uh. Real quick, any chest pain or trouble breathing?
+
+PATIENT V410
+No.
+
+DOCTOR V410
+Any cough?
+
+PATIENT V410
+Yeah I got a dry cough.
+
+DOCTOR V410
+Yeah you had that last time.  Nausea, vomiting, blood in your stool, black stools?
+
+PATIENT V410
+None.
+
+DOCTOR V410
+Okay.  Um we definitely need to work on your sugars.  I want to see what your three month average is so we will send you to the Lab; I want to do the lab right after this okay.
+
+PATIENT V410
+Yes.
+
+DOCTOR V410
+Um and then is your phone number NUMBER?
+
+PATIENT V410
+Yeah.
+
+DOCTOR V410
+I'm gonna call you and we can work on your, once we get that average, I can work on what we're gonna do with your insulin okay.
+
+PATIENT V410
+Yeah.
+
+DOCTOR V410
+Why don't you have a seat up here, take your coat off, I'm gonna take a listen to your heart.
+
+PATIENT V410
+What they gonna check today?  I been eating all day.
+
+DOCTOR V410
+It's your three-month average of your sugar so it's not gonna matter what you ate today; it's an average of everything for the past three months.
+
+PATIENT V410
+Take this off, shirt off too?
+
+DOCTOR V410
+No that's okay.  Take a deep breath.  Are you smoking still?
+
+PATIENT V410
+No I quit September 9th.
+
+DOCTOR V410
+Great.
+
+PATIENT V410
+@@@.
+
+DOCTOR V410
+Open your mouth, okay you can close.  Can you put your arm straight up?  Don't let me push down.  And you said you quit September the 9th?
+
+PATIENT V410
+Not this September, over a year ago.
+
+DOCTOR V410
+Oh great, great, great.  Okay.  You can come up and have a seat here and I see that you saw the podiatrist and the eye doctor since I saw you last right?
+
+PATIENT V410
+Yeah.
+
+DOCTOR V410
+Okay, it looks like you're up to date on everything.  
+
+PATIENT V410
+You mean on my medicine and I can make an order before I come back.
+
+DOCTOR V410
+What's that?
+
+PATIENT V410
+I can order something before I come back here, before my next appointment?
+
+DOCTOR V410
+Like your medications?
+
+PATIENT V410
+Yeah.
+
+DOCTOR V410
+Yeah, yeah, yeah.
+
+PATIENT V410
+What that eye doctor told me,it was false.
+
+DOCTOR V410
+What was false?
+
+PATIENT V410
+She didn't put it in the system.
+
+DOCTOR V410
+Yeah I gave you six refills on everything.
+
+PATIENT V410
+Oh okay.
+
+DOCTOR V410
+Uh a year of refills you have on a lot of these things.
+
+PATIENT V410
+Okay then.
+
+DOCTOR V410
+So all of my medicines that I give you will have refills and then the ones that aren't I'm changing right now.  Do you want to pick them up here or send them to your house?
+
+PATIENT V410
+What?  Wonder whether I need them, I'm okay right now.
+
+DOCTOR V410
+Okay.  Okay I'll visit with DOCTOR and I'll be back okay.  I'll run this by him.
+
+(DOCTOR OUT:  47:58  DOCTOR IN:  53:20)
+
+DOCTOR V410
+Okay sir, so we talked about everything and it looks like right now like I said we're gonna leave what you're doing with your insulin um and then we're gonna check your three month average okay.  If the three-month average looks good, you're not having lows that I'm worried about.  You said the lowest it's ever been is 65 right?
+
+PATIENT V410
+Yeah.
+
+DOCTOR V410
+So that's okay.  If you're having a lot of lows and you start feeling symptoms like the shaking and feeling like you're gonna pass out then I'm worried okay.  So you're doing fine.  You've got to work on the diet.  I know it's hard because you said your wife is the one that cooks but you really want to talk to her about it too cause it'll help both of you in the long run okay.
+
+PATIENT V410
+Okay.
+
+DOCTOR V410
+Um so I'll see you back, I won't see you back for another six months.  Everything is renewed so I'm gonna check your kidney function too since it's been about a year since it was checked so um the order's in so I'll have you go back to the Lab okay and I'll call you if we need to change anything.
+
+PATIENT V410
+Okay.  Now what's your name?
+
+DOCTOR V410
+Huh?
+
+PATIENT V410
+Your name.
+
+DOCTOR V410
+Oh DOCTOR is my last name.
+
+PATIENT V410
+DOCTOR.
+
+DOCTOR V410
+One minute and I'll help you out okay.
+
+PATIENT V410
+Yeah.
+
+DOCTOR V410
+Alright and you had your flu shot and everything right?  You got it the last time you were here.
+
+PATIENT V410
+Everything.
+
+DOCTOR V410
+Everything so you're good.
+
+PATIENT V410
+I had the flu shot, I don't know about what you consider everything.
+
+DOCTOR V410
+You had the pneumonia shot when it was due you can have it every year if you want but you probably already have had it.
+
+PATIENT V410
+Oh okay.
+
+DOCTOR V410
+Okay.  Take care.
+
+PATIENT V410
+Thank you.
+
+DOCTOR V410
+Bye.
+
+PATIENT V410
+Bye.
+
+PATIENT LEAVES:  54:54.
+
+Time is 3:34 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300304
+TRANSACTION # 578-10-2-316-0103

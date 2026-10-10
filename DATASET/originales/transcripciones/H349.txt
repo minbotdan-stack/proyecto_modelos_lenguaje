@@ -1,0 +1,766 @@
+Date of Encounter:   @@/@@/@@  
+Time of Encounter:   @@@ 
+
+DOCTOR H349
+PATIENT?
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+How you doing?
+
+PATIENT H349
+Hello doctor.
+
+DOCTOR H349
+Good.  Have a seat right in here.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+So how are things going?
+
+PATIENT H349
+Very good.
+
+DOCTOR H349
+What can I do for you today?
+
+PATIENT H349
+Well.
+
+DOCTOR H349
+@@@.  You still following up with the, are you seeing the outside service, the cardiologist is that right?
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+Okay.  And the endocrinologist too?
+
+PATIENT H349
+Yes.
+
+DOCTOR H349
+Okay, no problem.  Alright, what can I do for you today?
+
+PATIENT H349
+Well I had an examination by the urologist in January.
+
+DOCTOR H349
+They did see you.
+
+PATIENT H349
+Yes.
+
+DOCTOR H349
+@@@.
+
+PATIENT H349
+I had been passing a little bit of blood in the urine so they did a cystoscopy.
+
+DOCTOR H349
+Yeah.
+
+PATIENT H349
+And at the same time he uh did a scan of the pelvic area and discovered a small aneurysm on the renal right kidney renal artery.
+
+DOCTOR H349
+What @@@?
+
+PATIENT H349
+I had a PSA test which was good and a digital exam which was fine.
+
+DOCTOR H349
+Okay.
+
+PATIENT H349
+And uh in February visited the cardiologist.  Cholesterol was about 207.
+
+DOCTOR H349
+Good.
+
+PATIENT H349
+He said it should be down a little bit but not bad.
+
+DOCTOR H349
+Was that the bad cholesterol or the total cholesterol do you know?
+
+PATIENT H349
+Uh the basic cholesterol.  Yeah I don't have other numbers.
+
+DOCTOR H349
+So it was almost 200.  Uh your number for the cholesterol.
+
+PATIENT H349
+About 207.
+
+DOCTOR H349
+Okay.
+
+PATIENT H349
+Blood pressure I get that checked every month when I go for a walk at the shopping mall and the team from the hospital there they checked us and it's right within nice limits.
+
+DOCTOR H349
+Okay.  Any other problems at all?
+
+PATIENT H349
+I go to a dermatologist about every six months uh to have the.  They found something on the tip of my ear here and he removed it.  It was squamous cell carcinoma.  All these years working out in the sun as a carpenter.
+
+DOCTOR H349
+Right, yeah.
+
+PATIENT H349
+It did the damage.
+
+DOCTOR H349
+So did they do anything or they just removed it?
+
+PATIENT H349
+They removed it and sent it in for pathology.
+
+DOCTOR H349
+Right.
+
+PATIENT H349
+And he said to come back every six months and look it over.
+
+DOCTOR H349
+Right okay.  Alright.  So which medications do you get from here?
+
+PATIENT H349
+Uh various ones for the heart condition.
+
+DOCTOR H349
+I mean which do you get from the VA?
+
+PATIENT H349
+I'll look that up.  Uh.
+
+DOCTOR H349
+Cause most of your medications are expired right?
+
+PATIENT H349
+Altace 25 mg once a day.
+
+DOCTOR H349
+Is this your list?
+
+PATIENT H349
+Yep.
+
+DOCTOR H349
+And these you get, all these you get through the VA normally?
+
+PATIENT H349
+Yes I did.
+
+DOCTOR H349
+Okay.  And you still want to get these through the VA?
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+Is that the plan?
+
+PATIENT H349
+Yeah.  
+
+DOCTOR H349
+You don't happen to have the list of the recent labs uh do you, from the other doctors?
+
+PATIENT H349
+A list of what?
+
+DOCTOR H349
+The recent lab work?
+
+PATIENT H349
+No I don't.
+
+DOCTOR H349
+So we might just have to repeat some of the lab work today just so we can put it into our system and I'll put the medicines you get today.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+I'll probably check everything except your cholesterol again cause that one you have to be fasting.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+But these others we can do.  When was the last time you had a bone scan do you remember?
+
+PATIENT H349
+Uh.
+
+DOCTOR H349
+Just to check, you're on the Fosamax.
+
+PATIENT H349
+Yeah that was about a year ago I believe.
+
+DOCTOR H349
+@@@.
+
+PATIENT H349
+And I have an appointment with the endocrinologist coming up soon.
+
+DOCTOR H349
+Okay.  And you had a colonoscopy, 2005?
+
+PATIENT H349
+That was exactly five years ago.
+
+DOCTOR H349
+Uh-huh.  Did they see any polyps?
+
+PATIENT H349
+No.  No polyps.  But slight cases of diverticulosis or diverticulitis whatever they call it.
+
+DOCTOR H349
+Yeah, yeah.
+
+PATIENT H349
+Nothing serious.
+
+DOCTOR H349
+So you just saw the hearing aid people huh?
+
+PATIENT H349
+Yes.
+
+DOCTOR H349
+In January.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+Did they ever do anything about your your valves?
+
+PATIENT H349
+No I've asked them about it and apparently they don't consider it serious enough to do anything.
+
+DOCTOR H349
+Okay.
+
+PATIENT H349
+Cause what would they do to correct this aneurysm thing?
+
+DOCTOR H349
+Which aneurysm?
+
+PATIENT H349
+It was on the right kidney renal artery.
+
+DOCTOR H349
+Did the urologist say anything at all?
+
+PATIENT H349
+That's where they first discovered it when they did the scan.
+
+DOCTOR H349
+Yeah.
+
+PATIENT H349
+And then the cardiologist mentioned it too but he didn't say what would be done if anything.  I have an appointment soon with a general practitioner too.
+
+DOCTOR H349
+Yeah it's hard for me to day. I depends on how big it is.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+You know um, yeah I mean @@@.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+Cause the size matters.  Cause if it's big enough.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+You may have to have surgery to put like a graft in.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+You know or stent in.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+To make sure it doesn't get any bigger.  If it's like small.
+
+PATIENT H349
+Yeah it is.
+
+DOCTOR H349
+You just watch it. It just depends on the size.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+Yeah and uh, your H1N1, did you get a flu shot this year?
+
+PATIENT H349
+Yes I had the H1N1 sometime back in.
+
+DOCTOR H349
+In January huh.
+
+PATIENT H349
+Somewhere in the middle of winter.
+
+DOCTOR H349
+Okay just have a seat up here.  Any fevers, chills, chest pain, shortness of breath at all?
+
+PATIENT H349
+No generally I'm doing real well.
+
+DOCTOR H349
+How active are you normally?
+
+PATIENT H349
+Pardon?
+
+DOCTOR H349
+How active are you?
+
+PATIENT H349
+Uh good, every morning I take a walk at least 25 minutes.
+
+DOCTOR H349
+Okay.
+
+PATIENT H349
+As brisk as possible.
+
+DOCTOR H349
+Good.  Your blood pressure was actually pretty good today.
+
+PATIENT H349
+Yeah.  I've always been very careful with diet and living habits and all that.
+
+DOCTOR H349
+@@@.
+
+PATIENT H349
+No smoking and no drinking.
+
+DOCTOR H349
+Let me look in your mouth here, say ah.  Take a deep breath in and out.  I'll have you lie back here.  I see you've probably eaten today right?
+
+PATIENT H349
+I've what?
+
+DOCTOR H349
+You've eaten already?  Eaten your lunch?
+
+PATIENT H349
+No.
+
+DOCTOR H349
+What have you had to eat today so far?
+
+PATIENT H349
+Uh around 9:30 I had a couple of rye crisp crackers with a little bit of cheese.
+
+DOCTOR H349
+Look up.  Do you normally eat lunch?
+
+PATIENT H349
+Yes.
+
+DOCTOR H349
+What happened today?
+
+PATIENT H349
+Well I was just, we left about 11:30 to come here and.
+
+DOCTOR H349
+Yeah.
+
+PATIENT H349
+@@@.
+
+DOCTOR H349
+Well where is Lansing?
+
+PATIENT H349
+It's, if you go over towards Indiana take Route I80.
+
+DOCTOR H349
+Yeah.
+
+PATIENT H349
+94, it goes through the north part of Lansing.
+
+DOCTOR H349
+Oh, well Hines is pretty far for you.
+
+PATIENT H349
+It's 34 miles.
+
+DOCTOR H349
+You have a closer clinic if you want to go there.
+
+PATIENT H349
+Uh there's one in Peotone I think it is.
+
+DOCTOR H349
+Yeah.
+
+PATIENT H349
+And there's one in Crown Point, Indiana.  There's a small one I think in Chicago Heights.
+
+DOCTOR H349
+Yeah.
+
+PATIENT H349
+But uh yeah I don't know.  I suppose I could go to one of those.
+
+DOCTOR H349
+Well it's just up to you yeah.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+That's a pretty far drive um and some of the other clinics you know are coordinated with other hospitals.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+Like if like if you've gone somewhere in Indiana.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+I know like Hines would be like further south would be like Oak Lawn I think.
+
+PATIENT H349
+Oh okay.
+
+DOCTOR H349
+And so you know some those just kind of divide it up.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+You know and I Chicago Heights is maybe with Jesse Brown but I know Oak Lawn for sure is like with Hines.
+
+PATIENT H349
+Hmm.  Chicago Heights is the St. Jane’s Hospital.
+
+DOCTOR H349
+Yeah.
+
+PATIENT H349
+And South Suburban is nearby and Olympia Fields.
+
+DOCTOR H349
+Okay, okay.  Well maybe like if it's easier for you.  You know you could always transfer to one of the outlying clinics you know.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+Um yeah.  But the only thing I want to do today is I'll put in a renewal for your medications I just need to check some of these labs @@@.
+
+PATIENT H349
+Yeah I'll either mail that or fax it to you as soon as I can get that.
+
+DOCTOR H349
+Um probably we can check on, the only thing I can't check today is the cholesterol.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+For the cholesterol you have to fast.  
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+I just need to check basic, basic labs.
+
+PATIENT H349
+I see, yeah.
+
+DOCTOR H349
+So you can see, I'm going to do that up here and we'll see if @@@.  Um, cause I think the last labs we have here in our system is 2008.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+A couple of years ago, so we should get some, you know.  Lipitor 80 mg.  No problems with the medications at all that you're aware of?
+
+PATIENT H349
+No.
+
+DOCTOR H349
+Okay.  Have they changed your doses recently?
+
+PATIENT H349
+No they've been the same.  I asked about that and he said well we'll just stick with them for now.
+
+DOCTOR H349
+Okay.  Okay let me talk to my attending I'll be right back okay.
+
+PATIENT H349
+Okay.
+
+(DOCTOR OUT:  64:44  DOCTOR IN:  71:10)
+
+DOCTOR H349
+Okay, so these okay let me see.  Have been on the Lipitor for a while, have they changed the dose, do you know?
+
+PATIENT H349
+Uh I am due for renewal of the prescriptions at some point.
+
+DOCTOR H349
+Okay, but I mean have you changed the dose recently?
+
+PATIENT H349
+No.
+
+DOCTOR H349
+Okay.  So I have a couple of questions.  We need to check lab work before I can refill your medicines.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+You know, what I can do, there's a couple of options.  So one thing is we can check most of the labs today um.
+
+PATIENT H349
+How much what?
+
+DOCTOR H349
+We could check most of the lab work today.
+
+PATIENT H349
+Oh okay yeah, yeah.
+
+DOCTOR H349
+So that would make all the meds okay except for the Lipitor.
+
+PATIENT H349
+Oh okay.
+
+DOCTOR H349
+You know, so we have a couple of options.  I could either check all the labs today and redo all of your medications through here except for the Lipitor.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+And then I'd either need the records of fasting lipids you know the cholesterol.
+
+PATIENT H349
+Oh yeah.
+
+DOCTOR H349
+Or have you come back and do the fasting lab before I give you the Lipitor.
+
+PATIENT H349
+Oh I see yeah.
+
+DOCTOR H349
+Or we could just hold off and have you come back in a week or so and get all the lab work done and then I could renew all the medicines.
+
+PATIENT H349
+Sure.
+
+DOCTOR H349
+Which one works better for you?
+
+PATIENT H349
+@@@ test done, you the result.
+
+DOCTOR H349
+Well what we could do is we could check all the lab work today.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+Then I could refill all the meds except for the Lipitor.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+Then I could just give you the fax number and you could fax over the.
+
+PATIENT H349
+Sure.
+
+DOCTOR H349
+Your cholesterol and then we could give you the Lipitor.
+
+PATIENT H349
+Okay that'll work fine.
+
+DOCTOR H349
+Okay.  Um, let's see here.  I'll have them do the labs @@@.  Um so one thing is, we don't have that exact one but have an equivalent.
+
+PATIENT H349
+Is that lisinopril?
+
+DOCTOR H349
+Lisinopril.
+
+PATIENT H349
+Yeah that's what I've been getting.
+
+DOCTOR H349
+Okay.  Cause that @@@.
+
+PATIENT H349
+Oh okay.
+
+DOCTOR H349
+I'm pretty sure.
+
+PATIENT H349
+I know all of them have two or three or four names.
+
+DOCTOR H349
+Right.  Um, @@@ is like, I mean it's in the same class.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+So I added the lisinopril 2.5.
+
+PATIENT H349
+Okay it's up to you whatever.
+
+DOCTOR H349
+It's equivalent.
+
+PATIENT H349
+Yeah whatever gets the job done.
+
+DOCTOR H349
+Let me see, lisinopril.  (Doctor working on computer)  Okay lisinopril, the Plavix, the aspirin, Fosamax, Synthroid, the lisinopril and metoprolol @@@.  So today we'll do the lab work they'll do electrolytes, your lipids and thyroid.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+Okay so we'll get the lab work today up here.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+And then um, I'll have to give you the fax number out front um that way, we need to look at the cholesterol if you'll just fax it.  I'll have you fax it over here.
+
+PATIENT H349
+Yeah okay.
+
+DOCTOR H349
+Um, otherwise you know, just have you come back next year.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+Okay but if some of the other clinics are closer to you, if you'd like transfer over there.
+
+PATIENT H349
+Sure.
+
+DOCTOR H349
+No problem and then um you know once I get the @@@ of the cholesterol I'll renew the Lipitor.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+Okay and oh yeah so when you come back, if do a lot of lab work from outside doctors.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+And you don't want to repeat it, just the next time you get the lab work always get a paper copy for yourself.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+And when you bring it in.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+As long as you have records of some lab work.
+
+PATIENT H349
+Sure.
+
+DOCTOR H349
+Then we won't have to repeat it.
+
+PATIENT H349
+Yeah.
+
+DOCTOR H349
+Okay.
+
+PATIENT H349
+Very good.
+
+DOCTOR H349
+Alright, so just check the lab work and then you can send me the fax alright?
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+So uh.  Why don't you have a seat here.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+They'll call once they're done.
+
+PATIENT H349
+Okay.
+
+DOCTOR H349
+Okay.
+
+Patient leaves 78:53
+
+Time is 2:35.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238128
+TRANSACTION # 578-10-2-316-0103

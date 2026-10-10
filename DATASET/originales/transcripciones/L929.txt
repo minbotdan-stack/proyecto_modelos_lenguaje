@@ -1,0 +1,537 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR L929
+PATIENT. 
+
+PATIENT L929
+Okay @@@.  Remember which way to go doctor okay.  And the lady just checked me with some machine or something.
+
+DOCTOR L929
+Uh-huh.
+
+PATIENT L929
+Go in, okay doctor.
+
+DOCTOR L929
+Right here.
+
+PATIENT L929
+Alright.
+
+DOCTOR L929
+Uh PATIENT how are you doing?
+
+PATIENT L929
+I think I'm fine doctor.  
+
+DOCTOR L929
+Let me just pull up your computer.
+
+PATIENT L929
+I don't have nothing, no complaints.  No pain or nothing so, I guess everything seems to be pretty good.
+
+DOCTOR L929
+Okay. 
+
+PATIENT L929
+Ya'll give me them pills and I'm here.
+
+DOCTOR L929
+Uh you were in the hospital a little while ago for some diarrhea?
+
+PATIENT L929
+Yes.
+
+DOCTOR L929
+Is that gone?
+
+PATIENT L929
+It's been gone the day after they discharged me and I only took that pill for one time and then everything was gone and I just don't take it the next morning cause so far, so good.
+
+DOCTOR L929
+Good.
+
+PATIENT L929
+And I see I have those pills left.
+
+DOCTOR L929
+Okay.
+
+PATIENT L929
+Save them for another day or something.  I hope I never have to do it.  I wonder what happened.  Maybe it something I ate I guess, I don't know.
+
+DOCTOR L929
+Probably yeah.
+
+PATIENT L929
+But the other than that I hadn't had any problem.  I love to eat.
+
+DOCTOR L929
+That's good.  Alright.  I see your blood pressure's good.
+
+PATIENT L929
+And I go play bridge and I go to the race track.
+
+DOCTOR L929
+That's great.
+
+PATIENT L929
+Oh yeah I enjoy.  Haven't had anything to do with sex but I have to get on and do that too.
+
+DOCTOR L929
+The last time you were here, did you get your blood drawn?
+
+PATIENT L929
+Yes I did.  I think so yes I did.  Because you wanted to know something and you concerned something wrong you would call me or something I don't know.
+
+DOCTOR L929
+Right.
+
+PATIENT L929
+Yes sir because I left from here and went right on over.
+
+DOCTOR L929
+Okay cause we wanted to check your blood sugar to check you know how your diabetes was doing.
+
+PATIENT L929
+Well it's doing good doc.  Sometime I think it's really low.
+
+DOCTOR L929
+Your blood sugar?
+
+PATIENT L929
+Yeah it's been low.
+
+DOCTOR L929
+Do you check it at home?
+
+PATIENT L929
+Yes I do.  I take that thing and I checked it the other day and I ate a lot of fruit and apple pie and it was 116, but it's been in the 60s, 70s and the 80s.
+
+DOCTOR L929
+Okay do you ever feel dizzy or like you're gonna pass out?
+
+PATIENT L929
+No.
+
+DOCTOR L929
+Okay.
+
+PATIENT L929
+I mean when I seem to wake up in the morning, don't feel too good, then it's very low.  So I drink a lot of orange juice.
+
+DOCTOR L929
+Okay.
+
+PATIENT L929
+I mostly know when it's really low but it has got down to the mid 60s.
+
+DOCTOR L929
+Okay.
+
+PATIENT L929
+Is that too low or what?
+
+DOCTOR L929
+Yeah 60 is low but if you feel like dizzy um then you, you know that's a problem.  So are you taking any medications for your diabetes?  No huh.
+
+PATIENT L929
+No they don't give me anything.
+
+DOCTOR L929
+Right.
+
+PATIENT L929
+I just kind of watch it and check it, like you said before, every other day check it you know to see what's happening.
+
+DOCTOR L929
+Yeah and so you know basically if you have these feelings of like dizziness or kind of feel like weak, you know, just take some candies or drink some juice.
+
+PATIENT L929
+Yeah when I can tell, a little piece of candy @@@ in case I need it.
+
+DOCTOR L929
+Good.
+
+PATIENT L929
+No I haven't had any @@@ with those so far.
+
+DOCTOR L929
+Okay or uh.
+
+PATIENT L929
+And as a matter of fact, I didn't bring it in today okay.
+
+DOCTOR L929
+Or you could drink some juice.
+
+PATIENT L929
+Well I drank a little orange juice.
+
+DOCTOR L929
+Yeah.
+
+PATIENT L929
+In the morning.  I didn't drink any this morning so I feel fine this morning.
+
+DOCTOR L929
+Uh-huh.
+
+PATIENT L929
+So it must be that maybe cause I ate a big slice of apple pie last night.  No when I feel pretty bad I'm gonna jump on that orange juice right quick and then take it.  That’s early in the morning, you know when I take that sugar tabs.
+
+DOCTOR L929
+Uh-huh.
+
+PATIENT L929
+No they don't give me no pills, not in a long time for that.
+
+DOCTOR L929
+Yeah I don't think you need it.
+
+PATIENT L929
+No.
+
+DOCTOR L929
+That would probably drop your sugar even lower.
+
+PATIENT L929
+No I don't want to do that.  Ya'll been taking good care of me so I have no problems whatsoever. And I'm gonna do what you tell me to do and that's it.  How did the blood thing come out?
+
+DOCTOR L929
+From the last time you were here?
+
+PATIENT L929
+Yeah.
+
+DOCTOR L929
+Uh.
+
+PATIENT L929
+Cause you didn't call me.
+
+DOCTOR L929
+Yeah it was normal.
+
+PATIENT L929
+Okay well then I'm, that was it because I was waiting to hear from you and then I didn't get no call.  That's about it.  About the only thing I do, I sleep a lot.  I rest and I can be looking at the TV and go to sleep.
+
+DOCTOR L929
+Uh-huh.
+
+PATIENT L929
+@@@.
+
+DOCTOR L929
+How about at nighttime?  Do you sleep at nighttime?
+
+PATIENT L929
+Oh yeah I sleep and then I have to go to the bathroom.  Let's see when I go, if I go at 9 o'clock, it's about 1 o'clock and then by the next morning.
+
+DOCTOR L929
+Okay.  Uh that's not too bad.  I mean you know.
+
+PATIENT L929
+It may be because I drink a lot of water.
+
+DOCTOR L929
+Yeah.
+
+PATIENT L929
+Because I know when I'm traveling on the streets I don't drink much water but at night when I get home I start drinking a lot of water.
+
+DOCTOR L929
+Yeah, that'll do it.
+
+PATIENT L929
+Does that do it?
+
+DOCTOR L929
+Yeah.  Try not to drink or eat anything like two hours before you go to sleep, before you lay down.
+
+PATIENT L929
+Okay.
+
+DOCTOR L929
+And then uh that way you know in two hours, if you drink a lot of water you'll urinate most of it out.
+
+PATIENT L929
+Okay.  I try to drink a quart a day.
+
+DOCTOR L929
+Yeah so you won't have to get up.
+
+PATIENT L929
+When @@@ water.
+
+DOCTOR L929
+Okay.
+
+PATIENT L929
+Well thank you.
+
+DOCTOR L929
+Alright, mind if I listen to your heart and lungs?
+
+PATIENT L929
+Yes, you want me to take this.
+
+DOCTOR L929
+No you're fine, we're good.  Have you had any uh chest pain or?
+
+PATIENT L929
+No no, no doctor, nothing.
+
+DOCTOR L929
+Alright have you had any feeling like your heart's racing?
+
+PATIENT L929
+No.
+
+DOCTOR L929
+Any shortness of breath?
+
+PATIENT L929
+A little short of breath, now that's the only thing I could see.
+
+DOCTOR L929
+Okay when does that happen?
+
+PATIENT L929
+I mean when I do a lot of walking.  Now see I have to walk a block and three quarters of a block going to the bus stop to go to the food store so I have to stop and rest one time.
+
+DOCTOR L929
+Okay.
+
+PATIENT L929
+And so far this morning I've been upstairs and downstairs, I didn't have to stop.
+
+DOCTOR L929
+Okay.  Alright.
+
+PATIENT L929
+Okay.
+
+DOCTOR L929
+If it gets worse I want you to let me know okay.
+
+PATIENT L929
+Okay.
+
+DOCTOR L929
+Take some deep breaths in and out through your mouth, good.  Now relax.  Do you have any pain in your stomach?
+
+PATIENT L929
+Uh uh.
+
+DOCTOR L929
+Okay.
+
+PATIENT L929
+No.
+
+DOCTOR L929
+Have you had any problems with walking?
+
+PATIENT L929
+No doctor.
+
+DOCTOR L929
+Have you fallen or anything like that?
+
+PATIENT L929
+No, just a loose here muscle or something you know that's all.
+
+DOCTOR L929
+Uh-huh.  Alright.  And who's living at home with you?
+
+PATIENT L929
+No one.  I have to do that by myself doctor.
+
+DOCTOR L929
+By yourself.  What if something happens, is there anybody that checks on you ever?
+
+PATIENT L929
+Yeah I have a friend that checks on me every day.
+
+DOCTOR L929
+Okay good.  Alright and uh every once in a while we always have to ask you know.
+
+PATIENT L929
+Well now I appreciate you asking.
+
+DOCTOR L929
+You know you're getting up in the years and so we like to know if you know if something happens how much you want us to do for you.
+
+PATIENT L929
+Yeah.
+
+DOCTOR L929
+For example if your heart stops beating do you want us to do everything to try.
+
+PATIENT L929
+I don't want you to put no tubes in me.  I did those papers.  I have a lawyer and I signed them a long time ago.
+
+DOCTOR L929
+Okay, no tubes but.
+
+PATIENT L929
+No tubes, just let me go.
+
+DOCTOR L929
+But chest compressions like to pump your heart, that's okay?
+
+PATIENT L929
+Uh well I guess that's okay.  Whatever ya'll think you should do but I don't want no tubes in me you know to try to keep me here.  Cause I went upstairs on Monday to the section.
+
+DOCTOR L929
+Okay.
+
+PATIENT L929
+And signed those papers on that and I brought it from the lawyer too.
+
+DOCTOR L929
+Okay.  Alright.
+
+PATIENT L929
+So that's it.
+
+DOCTOR L929
+I think you're doing good.
+
+PATIENT L929
+Okay.
+
+DOCTOR L929
+Uh you know you look great so um I'm gonna go talk to my boss.  Uh what we'll do today is we're gonna check your cholesterol, blood tests and then also we're gonna check a blood test you know so we can see how your diabetes is doing.
+
+PATIENT L929
+Well okay, you tell me what to do for this here.
+
+DOCTOR L929
+Alright I'll be right back okay.
+
+PATIENT L929
+Alright cause I got a pick up, PACE will be there at 10:30 before.
+
+DOCTOR L929
+Sure.
+
+PATIENT L929
+They'll be out there waiting on me.
+
+DOCTOR L929
+Okay.
+
+PATIENT L929
+I hope.
+
+DOCTOR L929
+Alright I'll be right back.
+
+PATIENT L929
+Okay.
+
+DOCTOR L929
+Just wait here.
+
+(DOCTOR OUT:  19:06  DOCTOR IN:  23:43)
+
+DOCTOR L929
+Alright PATIENT.
+
+
+PATIENT L929
+Uh-huh.
+
+DOCTOR L929
+So uh the good news is what we'll do is for your blood sugars you don't have to be so strict uh you know with your diet.  Like you say you could have some pie and stuff like that okay.
+
+PATIENT L929
+Uh-huh.
+
+DOCTOR L929
+I'm gonna refill all your medications today.
+
+PATIENT L929
+I got them already.  I been over there already.  I already refilled them two.  Oh the others.
+
+DOCTOR L929
+Yeah.
+
+PATIENT L929
+Okay.
+
+DOCTOR L929
+Cause the next time I'm gonna see you here it's going to be six months.
+
+PATIENT L929
+Okay.
+
+DOCTOR L929
+Okay and uh.
+
+PATIENT L929
+Cause I was running out of that hydrochol...@@@ type pill in a few days.
+
+DOCTOR L929
+Yeah.
+
+PATIENT L929
+So that's when the lady told me from now on you order two weeks in advance and @@@.
+
+DOCTOR L929
+Oh you pick them up at the window right?
+
+PATIENT L929
+Yeah I'm gonna pick it up at the window today.
+
+DOCTOR L929
+Okay.  So basically I'll refill all your medications so you have enough refills till the next time I see you.
+
+PATIENT L929
+Okay.
+
+DOCTOR L929
+And today the only thing I want you to do is stop by the Blood Lab so they can take a blood sample.
+
+PATIENT L929
+Okay, well I go there.
+
+DOCTOR L929
+Okay and I'll follow up on that.  If there's anything wrong with it I'll let you know but otherwise I'll see you in six months.
+
+PATIENT L929
+Oh okay and then I can pick up my medicine I have today come.
+
+DOCTOR L929
+Sure, it's all in the computer.  Take care.
+
+PATIENT L929
+Alright and thank you doctor.
+
+DOCTOR L929
+Alright have a nice weekend.
+
+PATIENT L929
+Okay.  Which way?
+
+DOCTOR L929
+Oh you go right down the hall.
+
+PATIENT L929
+Okay.  I'm going to the blood thing now.
+
+DOCTOR L929
+Yeah.
+
+PATIENT L929
+Okay.
+
+PATIENT LEAVES:  25:14.
+
+DD: 11/07/12
+DT: 11/08/12   
+INFOPRO/800511/JOB#  1275408
+TRANSACTION # 578-10-2-316-0103

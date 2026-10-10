@@ -1,0 +1,1173 @@
+Date of Encounter:  @@/@@/@@   
+Time of Encounter:  @@@ 
+
+DOCTOR V034
+PATIENT right, okay.  Have a seat there.
+
+PATIENT V034
+Here.
+
+DOCTOR V034
+It's been a while since I've seen you.
+
+PATIENT V034
+Yeah a little while.
+
+DOCTOR V034
+Last time we saw you was @@@.
+
+PATIENT V034
+Yeah.  Been through some changes since I've seen you.
+
+DOCTOR V034
+You have so.
+
+PATIENT V034
+Yeah.
+
+DOCTOR V034
+So I see that you've been diagnosed with the prostate cancer.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Um and you started radiation for that?
+
+PATIENT V034
+Start on the 26th.
+
+DOCTOR V034
+Okay, okay.
+
+PATIENT V034
+I come back on the 26th and then I start the next week.
+
+DOCTOR V034
+So you've had some radiation already correct?
+
+PATIENT V034
+No.  The only thing I had was the hormone shot.
+
+DOCTOR V034
+Okay.  Um what other long term plans did they give you for that, the radiation and.
+
+PATIENT V034
+The radiation and that's pretty much is it you know and then I keep taking the hormone shot.
+
+DOCTOR V034
+Okay.  Um okay.  They did a bone scan which looked good.
+
+PATIENT V034
+Yeah.
+
+DOCTOR V034
+Which looks at to see if the cancer has spread which doesn’t look like it, that’s good. It looks like they got some CTs as well, okay. 
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Okay.  AS far as I can tell was okay. They didn’t want to do anything else.  They didn't want to do anything else, like have any surgical procedures or otherwise?
+
+PATIENT V034
+I haven’t met the surgeon.
+
+DOCTOR V034
+Okay, okay.  Um and then remind me again of the bleeding in the brain issue.  How long ago was that?
+
+PATIENT V034
+Uh just got over it.
+
+DOCTOR V034
+When did you have that?
+
+PATIENT V034
+Uh.
+
+DOCTOR V034
+Did you fall?
+
+PATIENT V034
+Yeah cause I fell.  I think like when I was 29th or somewhere in general.
+
+DOCTOR V034
+Okay.
+
+PATIENT V034
+@@@.
+
+DOCTOR V034
+You came here for that or you went to a different hospital?
+
+PATIENT V034
+I went to a different hospital then I came here the next day after that.
+
+DOCTOR V034
+Okay.  How have you been doing since that?  Have you fallen?
+
+PATIENT V034
+No.
+
+DOCTOR V034
+Okay.  Do you feel like your gait is pretty good or is that your cane or?
+
+PATIENT V034
+They wanted me to.
+
+DOCTOR V034
+I mean you were walking just fine right now.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Do you use the cane also or?
+
+PATIENT V034
+I mean not too often.
+
+DOCTOR V034
+What's that?
+
+PATIENT V034
+Not too often.
+
+DOCTOR V034
+Not too often.  So are you driving?
+
+PATIENT V034
+Nope.
+
+DOCTOR V034
+Okay.  Did they say not to drive?
+
+PATIENT V034
+Yes.
+
+DOCTOR V034
+Okay.  Um do you ever feel dizzy when you stand up?
+
+PATIENT V034
+Sometimes.
+
+DOCTOR V034
+Sometimes okay.
+
+PATIENT V034
+Really first time in the morning you know when I get up.
+
+DOCTOR V034
+Okay.  Okay. Any seizures recently?
+
+
+PATIENT V034
+No.  @@@ Did they figure out what was causing me to black out?
+
+DOCTOR V034
+Uh well I think, so did you black out first then like did you fall or did you fall and then blacked out?
+
+PATIENT V034
+Uh I blacked out first.
+
+DOCTOR V034
+So you blacked out first.
+
+PATIENT V034
+Uh-huh.
+
+DOCTOR V034
+Uh that I don't know.  I don't know if they thought it would, @@@ the thought process of the doctors who saw you back then.  Um the question is whether it was a stroke, it doesn’t seem like it – stroke meaning lack of @@@.  Um yeah and yeah it would be worth for me to figure out just the notes what their thought process was, um what caused you to kind of faint.  It seems like they looked to make sure it wasn't like a really scary thing like a stroke or a seizure, things like that.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Um you didn't have any tumors or anything in your brain.
+
+PATIENT V034
+No.
+
+DOCTOR V034
+So is it a side effects, did you have low pressure that day possibly, is that what caused you to faint?  Is it side effect of medications that you've been on possibly but I think Neurology feels comfortable enough that you can start back on your aspirin.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Cause you have been off of that the last.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+They feel comfortable with you starting that and then they increased your Keppra dose as well it looks like.  That was just to make sure you don't have seizures.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Or anything else going on in the brain.  Um and then my only question they did a, they did an echocardiogram when you were in the hospital.  So generally when you faint you want to make sure it's not the heart that causes it, irregular rhythm, lack of blood flow, to the brain and you pass out.
+
+PATIENT V034
+Hmm.
+
+DOCTOR V034
+It looks like obviously the echo itself was um, you had a stress test for the heart back in September I think of 2011.  Yeah and at that time they checked to see how your heart's functioning and they did a stress test then.  It was normal but they did say that you had some irregular beats here and there when you were in the hospital.
+
+PATIENT V034
+Uh-huh.
+
+DOCTOR V034
+So I guess the question was to get a Holter monitor.  Did you ever get a Holter monitor?
+
+PATIENT V034
+No, they was gonna give me one so.
+
+DOCTOR V034
+Okay.  I think the problem with that is there's unfortunately a limited number of Holter monitors.
+
+PATIENT V034
+Uh-huh.
+
+DOCTOR V034
+In the hospital so once one patient wears it, they take it off, they're done with it then it gets sent to the next patient that's on the list um.  I don’t even know if it was ordered for you.  Did the neurologist say anything about that?  DOCTOR?
+
+PATIENT V034
+No.
+
+DOCTOR V034
+No.  Have you had any weird heart rhythms?
+
+PATIENT V034
+No.
+
+DOCTOR V034
+Or heart palpitations, butterflies in your chest?.
+
+PATIENT V034
+No.
+
+DOCTOR V034
+No.  Good.  
+
+PATIENT V034
+I've had them before but I haven't had any recently.
+
+DOCTOR V034
+Okay.  And did you see, you saw the cardiologist.  @@@ okay.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+DOCTOR that @@@ September.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Okay.  Um I'm just thinking maybe I could put in the order for a Holter monitor to speed things up you know.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+It might not be the worst thing so, if we don't see anything that's fine.  Like the only one @@@ wear it for 30 days but, I just think it would give us a lot of information you know.
+
+PATIENT V034
+To be sure I don't have a problem.
+
+DOCTOR V034
+Okay.  Okay.  So they will call and let you know when it's available so you can come and get fitted and wear it.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+Unfortunately it may take a little bit of time but we might as well try to get it done at some point.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+We also have the Dopplers, the ultrasound of the arteries to check to make sure you don't have too much blockage here cause obviously if you have too much blockage with cholesterol, the little cholesterol plaques can shoot off into the brain and cause a stroke but yours are fine.
+
+SECOND PERSON V034
+He's coughing a lot.  @@@.
+
+DOCTOR V034
+Okay.
+
+SECOND PERSON V034
+@@@ have to be eating and you know he had a coughing spell just last night while he was sitting in the chair.
+
+PATIENT V034
+Yeah it's just all of a sudden.
+
+DOCTOR V034
+Are you still @@@ or anything?
+
+PATIENT V034
+You know, I don't know.
+
+DOCTOR V034
+Yeah.
+
+PATIENT V034
+I just start to cough.
+
+SECOND PERSON V034
+Yeah.
+
+DOCTOR V034
+Okay.  Do you bring anything up when you're coughing?
+
+PATIENT V034
+No.
+
+DOCTOR V034
+No.  Um.  And how long has this been since you fell or?
+
+SECOND PERSON V034
+No he coughed before that.
+
+DOCTOR V034
+Before then.
+
+PATIENT V034
+Yeah before then.
+
+DOCTOR V034
+Do you ever have burning @@@ in your chest after you eat?
+
+PATIENT V034
+No.
+
+DOCTOR V034
+No.  Do you feel like the coughing is worse in the morning versus evening or does it matter?
+
+PATIENT V034
+It doesn't matter.
+
+DOCTOR V034
+Doesn't matter okay.  Um and you don't smoke and never used to right?
+
+PATIENT V034
+No, no.
+
+DOCTOR V034
+How long, is this just like an always chronic thing going on with the cough or do you feel like it's been?
+
+PATIENT V034
+It's been a pretty good one because, it's been a while.  It just really started back pretty seriously.
+
+DOCTOR V034
+Okay.
+
+PATIENT V034
+You know I've been dealing with it the last four or five years.
+
+DOCTOR V034
+Okay.  Do you feel like you have any nasal drainage or stuffy nose during the day or a runny nose in the mornings?
+
+PATIENT V034
+No.
+
+DOCTOR V034
+No okay.  The thing with a chronic cough sometimes it's hard to diagnosis.  There is a lot of things that can cause it.  One can be allergies.
+
+SECOND PERSON V034
+Uh-huh.
+
+DOCTOR V034
+What we call postnasal drip.
+
+SECOND PERSON V034
+Uh-huh.
+
+DOCTOR V034
+Yeah so if you like wake up in the morning, all the nasal, everything that you have in your sinuses drains to the back of your throat irritates it and you start coughing, even though your nose feels dry.
+
+SECOND PERSON V034
+Uh-huh.
+
+DOCTOR V034
+The other thing can be reflux.  So after you eat if you felt any burning.
+
+SECOND PERSON V034
+I have that.
+
+DOCTOR V034
+All that stuff can actually be bad enough where the reflux gets so bad it comes up your esophagus and bothers like the vocal cord area and that can cause coughing.  Um that's another kind of issue with chronic cough.  The other thing is medications.  If you had been on something it could have had something to do with lisinopril.
+
+PATIENT V034
+Yeah.
+
+DOCTOR V034
+Which has the side effects of cough.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Do you think at least the cough is better than that one that you had with the lisinopril or is about the same?
+
+PATIENT V034
+It's better.
+
+DOCTOR V034
+Better.  So you are now for blood pressure on a medication called Losartan which is like the cousin drug of lisinopril.  It's technically not supposed to have that side effect of coughing.  There is some cross reactivity in some people that it can still have the side effect of coughing.
+
+PATIENT V034
+Hmm.
+
+DOCTOR V034
+Um it could potentially, there aren’t good other medications.  There's not a lot of room to add or change to other blood pressure medications.
+
+PATIENT V034
+Hmm.
+
+DOCTOR V034
+Such as one of them called hydrochlorothiazide you had a history of gout correct?
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Okay so we can't really give that because it can increase the risk of getting gout attacks.
+
+PATIENT V034
+Don't want that.
+
+DOCTOR V034
+So we're kind of between a rock and a hard place.  I don't even know if the cough is because of the Losartan.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+I'm not saying that's like the last thing.  What other things we could do for it, we could try a regular scheduled medication for reflux and one for allergies to see if it helps with the cough.  If it does then we've found the cause you know.  Cause you may not have very many symptoms of reflux.  You may not even realize it cause it's happening at nighttime when you're sleeping.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+It's irritating you enough that it's gonna cause a cough during the day when you're awake.  If you want to try something like that we can do it.
+
+SECOND PERSON V034
+Yeah but he coughs at night too.
+
+PATIENT V034
+I'll try.
+
+DOCTOR V034
+Okay.  How about we try a medication for the reflux and it's gonna be once a day.  I'll have you take it before dinner so that way it'll work better overnight when you're laying down cause you don't want the burning symptoms and then if it is allergies, I don't want to start you on allergy medicines right cause I want to know is it getting better because of the reflux or the allergies.  But what you can do, which I would suggest, is gargle with warm salt water, so you can gargle with warm salt water, just gargle it in your throat and spit it out.  Try to do that @@@.  Okay so that'll help clear out any allergens, mucous or whatever you have in your throat, in the back of your airways without you even knowing that you have something there, break it up so if that is the cause that will hopefully help.  If you think it's not making a difference in a week then you can stop doing it okay.  Um, actually since we're talking about meds let's go through them.  This is your list, you can keep this, I have one on my computer.  I just want to make sure you have enough refills of what you’re taking.  Tylenol for headaches.
+
+PATIENT V034
+Yeah.
+
+DOCTOR V034
+Okay how often are you taking it?
+
+PATIENT V034
+I'm right now, @@@.
+
+DOCTOR V034
+Yeah right.  @@@.
+
+PATIENT V034
+No.
+
+DOCTOR V034
+No okay.  I'm just gonna clean up your list as we go through this cause I hate when you've got 20 medications @@@ waste of time.
+
+PATIENT V034
+Yeah.
+
+DOCTOR V034
+It makes you look not as healthy.
+
+PATIENT V034
+Right.  I think I would say I remember a year or two years ago I was only taking like four.
+
+DOCTOR V034
+Yeah.
+
+SECOND PERSON V034
+Uh-huh.
+
+PATIENT V034
+That was for blood pressure you know and the prostate now I got a handful in the morning and a handful in the evening.
+
+DOCTOR V034
+Aspirin, baby aspirin.
+
+PATIENT V034
+Take that.
+
+DOCTOR V034
+Okay good.  Docusate that's for the constipation.
+
+PATIENT V034
+You know I've tried ordering this and they haven't ever gotten it refilled on this end but I don't know when.
+
+DOCTOR V034
+Really.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+You have plenty available.
+
+PATIENT V034
+Could you order for me?
+
+DOCTOR V034
+Yeah I mean it's available.  I can try renewing it.
+
+PATIENT V034
+Uh-huh.
+
+DOCTOR V034
+But you have four refills left so why they are not sending it to you I don't know.
+
+PATIENT V034
+Right cause I've called them about it and they still.
+
+DOCTOR V034
+Then you have finasteride.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+5 mg that's for the prostate and actually on my list I do have you on hydrochlorothiazide.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Technically, we don't like to do it because of the risk of gout but if you haven't had a gout attack in a long time.  When was your last gout attack?
+
+PATIENT V034
+Um I think it was.
+
+SECOND PERSON V034
+2009.
+
+PATIENT V034
+It's been a while.
+
+DOCTOR V034
+It's been a while.
+
+SECOND PERSON V034
+If he's had one he hasn't told me.
+
+DOCTOR V034
+He does remember his last time?
+
+SECOND PERSON V034
+He doesn't @@@.
+
+DOCTOR V034
+Then you have the Leuprolide injection that you got and you're probably going to be getting another one in two months.  Um Keppra they increase that to 1000 mg twice a day.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Losartan 50 mg every day.  Your blood pressure looks fine right now.  Do you check your blood pressure at home?
+
+PATIENT V034
+Yeah.
+
+DOCTOR V034
+Okay.
+
+PATIENT V034
+Yes I do.
+
+DOCTOR V034
+Um I don't think that the Leuprolide or the radiation should affect your blood pressures.  If you feel like your numbers are kind of all over the place and you have lower blood pressures um then usually you may have to cut back on some of the medications okay.
+
+PATIENT V034
+What's a good number?
+
+DOCTOR V034
+A good number for you, you're top number should be 130 or less.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+Um then you have metoprolol half a tablet twice a day.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Okay.  Multivitamins.
+
+PATIENT V034
+Yeah.
+
+DOCTOR V034
+Nifedipine 50 mg once a day.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Paroxetine 2 1/2 tablet every day.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Um the phenytoin do you take that as well?
+
+PATIENT V034
+Nope.
+
+DOCTOR V034
+No.
+
+PATIENT V034
+That for seizures?
+
+DOCTOR V034
+Yeah.
+
+PATIENT V034
+No.
+
+DOCTOR V034
+So you've completely stopped that.
+
+PATIENT V034
+They completely stopped that.
+
+DOCTOR V034
+So right now just active medications for refills, just let me do a last note and make sure.  @@@.  
+
+PATIENT V034
+That's what she said because she said you know it can cause weakness of the bone or something.
+
+DOCTOR V034
+It can what you say?
+
+PATIENT V034
+Cause weakness of the bones or something like that.
+
+DOCTOR V034
+Yeah I mean all of these medications have side effects affecting your blood work as well, now that you're about to do radiation and things like that play @@@.  Sildenafil as you need it?  @@@ half a tablet for cholesterol.
+
+PATIENT V034
+Oh yeah.
+
+DOCTOR V034
+Terazosin is for the prostate.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+And trazodone for sleep.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Are you taking the trazodone?
+
+PATIENT V034
+Sometimes, kind of depends on how @@@.
+
+DOCTOR V034
+Okay.  Um so those are all your medications and you got some labs done today.  
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Looks like the A1c is okay.  Your sugar was a little high on the levels that I got for you but a better indicator will be the hemoglobin A1c and I think the last hemoglobin A1c, but you should be okay.  The last time in February it was 7.3 so that's not too bad.  So you want it, the best goal for a diabetic would be less than 7.
+
+SECOND PERSON V034
+Less than 7.
+
+DOCTOR V034
+Yeah.  Diagnosed diabetes you need about 7 or kind of about 6.  6 or lower is normal but if there's any evidence of diabetes then 7 should be okay.  And you're actually right now not on medication @@@ for diabetes so at least your diabetes has been kind of controlled.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Um your cholesterol panel was fine.  It was a little bit worse so it's still okay.  You're on simvastatin.  LDL which is considered the bad cholesterol and the last time it was checked in February it was 84, this time it's 90, six points is not a big deal. We want it less than 100 so you're still okay.  The triglycerides; however, that comes from fatty foods.  The last time it was 281, this time it's 315.
+
+PATIENT V034
+Oh.  Okay.
+
+DOCTOR V034
+Do you eat a lot of butter?
+
+PATIENT V034
+Nope.
+
+DOCTOR V034
+Fried, fatty foods.
+
+PATIENT V034
+Don't do butter.  I probably eat too much fried food.
+
+SECOND PERSON V034
+Fried @@@.
+
+DOCTOR V034
+I don't want to put you on a medication just because it's another pill.
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Um and there's a lot of interactions to a lot of things when you start adding on medications.  I'd prefer not to do one but you're gonna have to work a little harder to get your triglycerides down.  And the reason for this is cause if your triglycerides go up it puts you at risk for getting pancreatitis, that's inflammation right here in the pancreas which is the organ that sits right by your stomach and it's responsible for releasing all the enzymes that absorb your food.  If you get inflammation of your pancreas you'll get nausea, vomiting, not being able to eat, it's just not a good thing.  You have a lot of other things you're dealing with on your plate so I just want you to be aware.  Because a theoretical risk triglycerides like 800 you get that risk but we start worrying about it at 500, you're 315 right now.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+I don't want you to get up higher.  The next time I check and you're still high then I may start you on something.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+Cause it would be just trending forward you know.  Um and then let me see what the lab was.  Your liver enzymes are fine.  Your potassium is good.  Your kidneys look good and I think that's @@@.  Just one more thing.  @@@.
+
+PATIENT V034
+That's okay.
+
+SECOND PERSON V034
+That's okay.
+
+DOCTOR V034
+Okay so your question is.
+
+PATIENT V034
+Um I don't know @@@.
+
+DOCTOR V034
+Let me ask you first when's the last time you saw an eye doctor?
+
+PATIENT V034
+Uh.
+
+DOCTOR V034
+@@@.
+
+PATIENT V034
+It's been over six months.
+
+DOCTOR V034
+@@@.
+
+PATIENT V034
+Yeah.
+
+DOCTOR V034
+But it's been within a year?
+
+PATIENT V034
+It's been within a year yeah.
+
+DOCTOR V034
+@@@.
+
+PATIENT V034
+But you know I've got a lot of blurriness.
+
+DOCTOR V034
+Blurriness.
+
+PATIENT V034
+Yeah and a lot of blurriness you know.
+
+DOCTOR V034
+Okay.
+
+PATIENT V034
+Even with my glasses on you know stuff, a lot of things are really blurry.
+
+DOCTOR V034
+Okay.
+
+PATIENT V034
+It clears up but it starting off real blurry.
+
+DOCTOR V034
+Okay.
+
+PATIENT V034
+With glasses yeah.
+
+DOCTOR V034
+Do you ever notice that um, do you ever check your sugars at home right now or not?
+
+PATIENT V034
+No.
+
+DOCTOR V034
+No.  Um and the blurriness goes away.  So do you ever get headaches associated with that?
+
+PATIENT V034
+No.
+
+DOCTOR V034
+Okay.  Uh is it both eyes or one eye?
+
+PATIENT V034
+Both eyes.
+
+DOCTOR V034
+Okay so without even looking at your eyes or referring you to the eye doctor I can tell you it's the diabetes that's doing that.  So the reason that happens in diabetes is because when your sugar is high in your body um and then it goes back down we have this thing called  - it has a lot of science to it - but basically what happens is in your lens, when you have too much sugar floating around in your body some of that sugar uh goes into the lens of the eye and can hold water with it so the lens instead of being flat like this kind of becomes big and round like this okay.  That doesn't really change your vision but when your sugars get better then there's less sugar up here in your body and the sugar inside your lens tries to leave.  We always go from areas of too much to too little.
+
+SECOND PERSON V034
+Okay.
+
+DOCTOR V034
+So the sugar tries to leave and you flatten that lens back then @@@ because you're diabetic so it just means that your sugars are probably a little high.  That makes me want to a little bit more um start you on a medication for your diabetes um versus depending, we'll see what your hemoglobin A1c shows.  And your kidneys are good so there's a medication called metformin that's really simple.  It's a pill you take once a day.  The side effect is diarrhea.  Some people don't tolerate it that well.  Um but if you can tolerate it, it's a good medication so you don't have episodes of low blood sugar.  That's the only oral medication by mouth for diabetes that does not cause low blood sugar.
+
+SECOND PERSON V034
+Oh.
+
+DOCTOR V034
+So it's the best medication to take in terms of that.  The only side effects really is diarrhea and if your kidneys over time get worse then we have to take you off metformin because it's metabolized by your kidneys.  Um and the hemoglobin A1c might not come back for a few hours so if you want I can call you and let you know if I want to add that medication.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+Yeah this will help with the eyes.  The other thing is um for all diabetics if you have this diagnosis even though the kidneys @@@ right now with time diet and exercise and you just have to go see an eye doctor once a year and you should check the bottoms of your feet every night because with diabetes over time it can affect your nerves and your blood vessels and people don't realize when they have cuts and things on the bottom of their feet and you already have this issue with the @@@.  You should check the bottoms of your feet and make sure you don't have any cuts or bruises.  You can use a mirror to look at the bottom of your feet.  Um I'm going to try and pull up and I'm not sure I see an eye doctor note in the past year.  Do you go to an eye doctor here?
+
+PATIENT V034
+Yeah.
+
+DOCTOR V034
+Hmm.  I may have to resubmit a consult if it's been more than two years, then I'll have to put it in and I don't see any notes for this.  But I would like you to just follow up so they'll probably tell you the same thing.  If they find something else that's the cause then we can take care of it but the fact that it's both eyes and it happens kind of randomly and goes away after a bit, that's from the diabetes.  Um.  Can I ask you to have a seat up here.  @@@.  Um I'm waiting for the hemoglobin A1c to come back.  Last time it was 7.3 in February.
+
+SECOND PERSON V034
+Okay, okay.
+
+DOCTOR V034
+We like it less than 7.  It may take a little while to come back.
+
+SECOND PERSON V034
+Okay.
+
+DOCTOR V034
+We have you back @@@.  I can always call you if to let you know what it is.
+
+SECOND PERSON V034
+Okay.
+
+DOCTOR V034
+Open your mouth and say ah.
+
+PATIENT V034
+Ah.
+
+DOCTOR V034
+Okay can you take off your glasses for me?  Good, just look at my nose.  @@@.  You can lie back.  Have you had any fevers or chills at home?
+
+PATIENT V034
+No.
+
+SECOND PERSON V034
+He's pretty cold.  @@@.  No 74, 75, he's still cold.
+
+DOCTOR V034
+Okay.  Do you notice any swelling in the legs?
+
+PATIENT V034
+Uh uh.
+
+SECOND PERSON V034
+Sometimes at the ankles @@@.
+
+DOCTOR V034
+Okay is it always a little bit bigger than that?
+
+PATIENT V034
+Right.
+
+DOCTOR V034
+Left one okay.  You can sit up.  I'll have you sit over here.  You're up-to-date on all of your shots which is good.  Flu shots will be available starting next week.  I think with your cancer treatment you can still get the flu shot but I would run it by the cancer doctor just to make sure if you can or not.  Sometimes when we're being treated for cancer our immune system's down we don't necessarily say it's okay to get your like immunizations like flu shots so I would just double check with them.  I think you should be okay to get it since you're not getting, it's not chemo, chemo.  The Leuprolide is just a hormone antagonist and then you're getting radiation so I think you should still be okay with that but I'm not gonna tell you the final word on that so.  Um we'll go through some reminders that we have to go through with our patients.
+
+PATIENT V034
+So you think the radiation is a good treatment?
+
+DOCTOR V034
+What's that?
+
+PATIENT V034
+You think the radiation is a good treatment?
+
+DOCTOR V034
+Yeah I mean I think for prostate cancer that's pretty much what we have to offer.  You know it's a localized cancer; it doesn't look like you have it anywhere else so radiation should be able to take care of it just fine.  Um the other thing is they ask for all patients now, regardless of risk factors, if you'd like an HIV screening test and it can be added on to your next set of blood work if you want it, otherwise.  Is that is okay or?
+
+PATIENT V034
+Uh-huh.
+
+DOCTOR V034
+Okay.  Um and then I think from my standpoint you have a lot of other stuff going on besides the prostate cancer.  I would like to see you in about 3-4 months just for the diabetes follow-up, if you're okay with that.  And you can always extend out the appointment but I think ideally I would like to see you in three months if that's okay.
+
+PATIENT V034
+You know sometimes in the morning, like this morning I had its like right back across here.
+
+DOCTOR V034
+Uh-huh.
+
+PATIENT V034
+Like it feels stressful.
+
+DOCTOR V034
+Okay.
+
+PATIENT V034
+Really like it almost hurts cause sometimes I have to just go, just sit down and relax for a while then it, I don't know.
+
+DOCTOR V034
+Yeah I don't know if it's because of the fall or what.
+
+PATIENT V034
+It was like that before the fall.
+
+DOCTOR V034
+It was even before the fall?
+
+PATIENT V034
+@@@ what do you think it could be?
+
+DOCTOR V034
+It could be.  I mean does it feel better or worse when I'm pushing?
+
+PATIENT V034
+Sorry.
+
+DOCTOR V034
+It's okay.  Can you feel it when I press here?
+
+PATIENT V034
+No.
+
+DOCTOR V034
+Can you lift both your arms like this, don't let me push.  Okay.  Do you ever have numbness or tingling that goes down your arm?
+
+PATIENT V034
+No.
+
+DOCTOR V034
+Okay.  Squeeze my fingers tight okay and put your arms like this, don't let me pull good and don't let me push them in.  I don't think it's a nerve thing.  That's the one thing that we worry about cause there's isn't anything medical we can do about that.  It could be partly be a muscular strain.  With the fall, people don't realize it wasn't that long ago for you.  Your muscles feel in that moment like people aren't @@@.  You can actually have muscular pain for six months out, even though you have nothing the first six months.  You can have muscle spasms so tight which I and you had a brain bleed, I mean you hit your head somewhere the muscle spasms it takes a long time for them to get loose.  I would suggest you do stretches for your neck.
+
+PATIENT V034
+I do that.
+
+SECOND PERSON V034
+@@@.
+
+DOCTOR V034
+You can use a heating pad on your neck, make sure you don't burn yourself you know wear it with clothing and then if you want to sit like in a hot tub that would help too with the muscles.  Maybe you could get a massage or something cause that would actually help.  I think it's a muscle issue.  Your muscle is just really tight right now.  Um okay, let me see, Ophthalmology I'm gonna have to refer you again cause I don't think you've seen them in a while.  If they say that you have already, I mean you can try calling their clinic too um, either way.  I would actually suggest calling.  I'm gonna put it in but if they say oh we'll call you then that's fine, if they say yeah we can book you right now if you're able to then that would be helpful.  
+
+PATIENT V034
+It's just getting harder @@@.
+
+DOCTOR V034
+Yes.  I will send you that medication for the reflux issue um, you just take it once a day before dinner.  Take it about 30 minutes before dinner if you can.  It's called ranitidine and let's see we'll start with the lowest dose and if we need to we can always increase it.
+
+SECOND PERSON V034
+So a low dose.
+
+DOCTOR V034
+Yeah.  Let's see if that makes a difference in your cough.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+If it doesn't we'll take it off.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+Okay and we'll consider also the metformin depending on what your hemoglobin A1c shows um and the only reason is that even if your hemoglobin A1c is like, I guess if it's 8, around 8, then I'll probably want to start it if it's going up from last time it was 7.3.  If it's around 7.5 or less I don't feel too concerned about it and if we start it your eye issue would probably get better, that's the thing.  How do you feel about that?
+
+PATIENT V034
+I'm alright.
+
+DOCTOR V034
+You're game for it.  If you didn't have the eye issue then I'd try to push it off as long as possible.  The eye issue is the one that's making me kind of want to just start it you know.  Um let's wait for your hemoglobin A1c because if your hemoglobin A1c is 6.8 you don't need metformin but then you need to see the eye doctor.  It could still be the sugar issue but that shouldn't be affecting it as much so um I'll let you know and the number I have in here is NUMBER.
+
+PATIENT V034
+Yes.
+
+DOCTOR V034
+Is that home or cell?
+
+PATIENT V034
+Cell.
+
+DOCTOR V034
+Cell okay so if I call you like in a couple of hours you'll be able to pick it up?
+
+PATIENT V034
+Yeah.
+
+DOCTOR V034
+Okay um okay.  Let me go talk with my attending and @@@ with them and then I'll get you going.
+
+SECOND PERSON V034
+Before you go.
+
+DOCTOR V034
+Yeah.
+
+SECOND PERSON V034
+One other thing he has to work on with his diabetes, is there something that the tests show that he needs to work on bringing down?  I didn't hear you the first time.
+
+DOCTOR V034
+Oh no.
+
+SECOND PERSON V034
+Oh nothing.
+
+DOCTOR V034
+No, no, so we look for diabetes, we look at the sugar level.
+
+SECOND PERSON V034
+Sugar.
+
+DOCTOR V034
+Which is diet, exercise and if we need to add a medication.
+
+SECOND PERSON V034
+Okay.
+
+DOCTOR V034
+And then the cholesterol which right now is okay but the triglycerides is what we talked about.
+
+SECOND PERSON V034
+Okay right, that's right okay.
+
+DOCTOR V034
+That's something and again all of the cholesterol in general as well as diabetes are controllable cause all that affects your muscles in your body so we check some of your vessels by the ultrasound, they looked okay.  Obviously we don't want them to get worse.
+
+SECOND PERSON V034
+No.
+
+DOCTOR V034
+So.  I will be right back.
+
+PATIENT V034
+Okay.
+
+DOCTOR OUT:  78:23  DOCTOR IN:  84:37
+
+DOCTOR V034
+Okay so you are good to go.  The plan stays the same basically I'm gonna mail you that medication for the stomach.  We are going to get a letter that says when the eye doctors will see you and you're going to get a phone call or a letter at some point about the Holter monitor whenever it's available.  You can do that and obviously you're going to continue on with all the prostate cancer treatment.  That's the biggest thing I think right now to focus on.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+Um I will call you later with the hemoglobin A1c results and we'll decide what to do from there if I'm going to add on another medication and I'll see you back in about three months and I will need labs at that time too.
+
+PATIENT V034
+Uh-huh.@@@ treatment.
+
+DOCTOR V034
+Yeah.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+Sounds like a plan.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+Alright I'll put your name, DOCTOR.
+
+SECOND PERSON V034
+Okay.
+
+DOCTOR V034
+And also @@@.  All at one time.
+
+PATIENT V034
+@@@ I am @@@.
+
+DOCTOR V034
+Let me give you guys something to think about then.
+
+SECOND PERSON V034
+@@@.  This is diabetes. @@@
+
+DOCTOR V034
+I mean grapes probably have the most.  There's like, do you guys have internet at home?  Okay you can always go online and type in um glycemic index so that tells you how much sugar is in all the fruits you eat and fruits are good for you but diabetics you have to be careful so um yeah.  Like don't eat it all at one time.  Everything in moderation is fine.  Uh one @@@ is for cholesterol which foods had that which was you know don't, very basic and then diabetes which I think I sent you to the Diabetes Education when you were diagnosed last time, do you remember that?
+
+PATIENT V034
+Yes.
+
+DOCTOR V034
+Okay.  This um gives you just a little bit of idea.  It's by no means a complete resource but it kind of explains the breakdown of vegetables and fruit of how much of each food you should have in a good, it's a portion ratio like I would get this too and this is for you and you can keep the medication if you want.  I'll write down the name of the new medication I'm gonna add so you can get it right.  Ranitidine that's gonna be before dinner and then I may add on metformin for diabetes.
+
+PATIENT V034
+I need to do a thing here.  @@@.
+
+DOCTOR V034
+How servings @@@ is that?
+
+PATIENT V034
+Two slices.
+
+DOCTOR V034
+Yeah @@@ or you can put down the diabetes @@@.  Okay sounds good.
+
+PATIENT V034
+Okay.
+
+DOCTOR V034
+Alright I will see you guys then.  Good luck with everything.
+
+PATIENT V034
+@@@.
+
+DOCTOR V034
+No problem.
+
+PATIENT V034
+@@@.
+
+DOCTOR V034
+No problem.  Take care.  No problem.  I'll call you with the blood work okay.  By the end of the day I should @@@.
+
+PATIENT V034
+The knee is probably the arthritis.  Okay.
+
+DOCTOR V034
+@@@.
+
+PATIENT V034
+@@@.  Okay thank you.
+
+Time is 10:33.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  38294
+TRANSACTION # 578-10-2-316-0103

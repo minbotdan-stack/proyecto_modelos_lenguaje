@@ -1,0 +1,1486 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR U531 
+How you doing today?
+
+PATIENT U531
+Good.  I ain't hearing no @@@ but I'm okay.
+
+DOCTOR U531
+Okay.  Good.  Are you just here for kind of like a regular check-up or?
+
+PATIENT U531
+Well I got a letter I got an appointment here.  I need my medication especially.
+
+DOCTOR U531
+Yeah, they told you to come in.
+
+PATIENT U531
+I don't expect a emergency, I ain't @@@.  Like I say I ain’t walkin, my feet still swells on me a bit.
+
+DOCTOR U531
+Uh-huh.  You were in the ER for back pain, huh?
+
+PATIENT U531
+Yes and gout, it bothers me mostly @@@ left one.  
+
+DOCTOR U531
+It's mostly your left knee that bothers you?
+
+PATIENT U531
+Yes ma'am.
+
+DOCTOR U531
+Did you give Rheumatology a call or no?
+
+PATIENT U531
+@@@
+
+DOCTOR U531
+Did you see the Rheumatology Clinic?  
+
+PATIENT U531
+I don’t think I been up there in a good while. When I had to come in her for emergency I went back @@@.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+And they gave me a special pill.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+That I just, I couldn’t take @@@.
+
+DOCTOR U531
+Uh-huh, that's like when @@@.
+
+PATIENT U531
+Yeah five pills you know.
+
+DOCTOR U531
+(Knock on the door) (Doctor speaks briefly with person at the door.)  Um, I'm gonna take a couple of patients. I’m actually covering for DOCTOR and are you usually @@@.
+
+PATIENT U531
+I kept thinking, I kept looking.
+
+DOCTOR U531
+And you definitely look somewhere.
+
+PATIENT U531
+No she was, a little bit heavier.
+
+DOCTOR U531
+Yeah.
+
+PATIENT U531
+@@@ size.
+
+DOCTOR U531
+Yeah she’s taller.
+
+PATIENT U531
+I kept looking.  I said that's not my regular doctor.  She gone?
+
+DOCTOR U531
+No, no.  She's uh; I'm just covering for her.
+
+PATIENT U531
+Oh okay.  I wasn't being nosy I just wondered if she gone, @@@ she's a good doctor for me.
+
+DOCTOR U531
+No, she'll be back.  So you need some medication refilled?
+
+PATIENT U531
+Yes ma'am.  I need, I ain't got no pain pills.  I just take all the pain pills or anything.
+
+DOCTOR U531
+Oh.  And then have you been checking your blood pressure at home?
+
+PATIENT U531
+I check, I take it twice a day.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+I didn't bring the sheet with me but my blood pressure, if I could have brought that sheet, it runs pretty good, my blood pressure does.
+
+DOCTOR U531
+What is usually?
+
+PATIENT U531
+This morning it was 144 over 72.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+I check it in the evening and I checks it in the morning, I got a blood pressure.
+
+DOCTOR U531
+And what about your sugars?
+
+PATIENT U531
+Yeah I brought my counts to make sure.
+
+DOCTOR U531
+Can I see that?
+
+PATIENT U531
+Um I have a nurse that come see me every Thursday.  She takes my blood pressure also. @@@ appointment tomorrow back over here.  I check it at least twice a day.
+
+DOCTOR U531
+Uh-huh.  Uh oh your blood sugars are high.
+
+PATIENT U531
+They be high.
+
+DOCTOR U531
+250, 300, 400, what's this?  They’re not good at all. So, they are kind of all over the place @@@.  Do ever like check your blood  at least after two hours after eating?
+
+PATIENT U531
+Oh no I'll be, when I get up in the morning I check it.
+
+DOCTOR U531
+Hmm.
+
+PATIENT U531
+My wife goes crazy if I don’t check my sugar and my blood pressure.  Then at night before I go to bed I checks it.
+
+DOCTOR U531
+But is it always at least after two hours after eating?  Cause if you eat dinner.
+
+PATIENT U531
+I don't remember, to tell you the truth doc I ain't never checked it two hours after I eat.
+
+DOCTOR U531
+No but it's, I mean it's not like you eat at 9 and then you check it at 10, you don't do that right?  It has to be at least two hours after eating.
+
+PATIENT U531
+I have never checked it two hours after I eat.
+
+DOCTOR U531
+Well when do you check it then?
+
+PATIENT U531
+I check in the morning before I have breakfast.
+
+DOCTOR U531
+I know but at night when you check it.
+
+PATIENT U531
+I told you I check it every morning.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+Before I eat breakfast.
+
+DOCTOR U531
+Yes.
+
+PATIENT U531
+Then I checks it in the evening before I eat supper.
+
+DOCTOR U531
+Okay so it's before you eat dinner.
+
+PATIENT U531
+Uh-huh.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+Every one of those times is before I eat a meal.
+
+DOCTOR U531
+Well do you have your meter with you today?
+
+PATIENT U531
+Uh uh.  I leave it at home.
+
+DOCTOR U531
+Because you know it might not be working properly.
+
+PATIENT U531
+And you know something doctor.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+I, there's some times it might from them strips that I turn in, some bad strips.  You know one of those strips that I turn in?
+
+DOCTOR U531
+Oh no they were bad, they weren't working?
+
+PATIENT U531
+@@@.
+
+DOCTOR U531
+Oh.
+
+PATIENT U531
+And I had some of them and some of them counts as some of them still and my machine ain't no young machine, it's a old one.
+
+DOCTOR U531
+You need to bring it in so we can make sure that it's actually working right.  Um your diabetes is definitely not well controlled.
+
+PATIENT U531
+I can see that.
+
+DOCTOR U531
+Okay and it needs to be controlled a lot better.
+
+PATIENT U531
+And I can check it three times enough, that ain't no problem.
+
+DOCTOR U531
+It's not a matter of checking it three times, it's a matter of making sure your monitor is working right and then it's a matter of uh you know maybe adjusting your medication or increase it.
+
+PATIENT U531
+Yes ma'am.
+
+DOCTOR U531
+And I think we probably do at this point.
+
+PATIENT U531
+I was on 20 units and ‘020 they raised it to 22.
+
+DOCTOR U531
+You're on 22 right?
+
+PATIENT U531
+Yes ma'am I am.
+
+DOCTOR U531
+Okay.  Are you taking, but you're not taking anything else for diabetes right?
+
+PATIENT U531
+All I'm taking is what you gave me.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+I was on two but I got scheduled at @@@ and he took me off of it.  I had went into a semi-coma cause of that, it was too low.
+
+DOCTOR U531
+And when was that?
+
+PATIENT U531
+Oh back in the summer.  It happened to me like three times.  @@@ I call it.
+
+DOCTOR U531
+What?
+
+PATIENT U531
+@@@.  You get it down real fast when it’s high.
+
+DOCTOR U531
+And what did you take?
+
+PATIENT U531
+Oh I don't take it now, DOCTOR took me off it.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+I was scared of it.  It was dangerous.  Like you know make my sugars drop too low.
+
+DOCTOR U531
+Yeah.
+
+PATIENT U531
+And now I'm @@@?
+
+DOCTOR U531
+Hmm.  So it looks like in January they had increased to 26 units.
+
+PATIENT U531
+Well I ain't, I ain’t gonna be lyin’, I ain't never took no 26.
+
+DOCTOR U531
+@@@?
+
+PATIENT U531
+On my vial I only take the 22.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+Maybe that's the problem.
+
+DOCTOR U531
+And you finished five days of steroids right, for your knee?
+
+PATIENT U531
+Is it what I was taking for the gout?
+
+DOCTOR U531
+Yes.  It was, you were taking it at the beginning of January.
+
+PATIENT U531
+Uh they send me a.
+
+DOCTOR U531
+And they gave you five days of steroids.
+
+PATIENT U531
+Yeah, yes ma'am I guess that was the name of it.  I took it like they told me and it helped that.
+
+DOCTOR U531
+And it helped with the pain, okay.
+
+PATIENT U531
+But they know they can say they won't give it to no diabetic, that's what they said but I then @@@ go with the instruction only.
+
+DOCTOR U531
+Okay.  Ho’s your eating going?
+
+PATIENT U531
+I got a pretty good appetite sometimes.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+And like, well my nurse you know, that's the home nurse from the doctor in the Mobile Unit and I wouldn't, wasn't really giving me a good appetite, I didn't want no more of that Ensure milk.  They got a milk pill for me for a diabetic.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+And they claim they don't have it but they do have it and I knows that.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+And I want to know why I can't have it.  
+
+DOCTOR U531
+I’m sorry @@@
+
+PATIENT U531
+I says it’s a milk.
+
+DOCTOR U531
+Milk?
+
+PATIENT U531
+Yes ma'am.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+It really gives me a appetite.
+
+DOCTOR U531
+Okay.  Ensure?
+
+PATIENT U531
+No ma’am they had gave me Ensure.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+But that's not @@@ for a diabetic.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+The kind they gave me.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+But they do have one for me.
+
+DOCTOR U531
+For diabetics.
+
+PATIENT U531
+Yes ma'am.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+And my nurse had gave me.
+
+DOCTOR U531
+Oh you're wondering why they can't prescribe it to you.
+
+PATIENT U531
+Yes ma'am.
+
+DOCTOR U531
+Oh, I don't actually normally prescribe that's something, because that's something you can buy over-the-counter.  I can ask DOCTOR.
+
+PATIENT U531
+I can't afford that kind of milk over-the-counter.
+
+DOCTOR U531
+Yeah I mean.
+
+PATIENT U531
+I’m telling you they gave me.
+
+DOCTOR U531
+Wait, it's not a medication.  It's just a supplement.
+
+PATIENT U531
+It's a medication for me.
+
+DOCTOR U531
+Unfortunately it's not a medication for everybody, so it's not something that we can prescribe.
+
+PATIENT U531
+They said @@@ I had @@@.
+
+DOCTOR U531
+I can talk with DOCTOR and ask her, you know how they do it.
+
+PATIENT U531
+But, what they saying they didn't have it.  She gave me uh, she wrote it down for me.
+
+DOCTOR U531
+@@@.
+
+PATIENT U531
+But they gave me all the Ensure that I want.
+
+DOCTOR U531
+Yeah, I don't know.
+
+PATIENT U531
+But that @@@ makes you go, whoo.
+
+DOCTOR U531
+Yeah, you want to make sure.
+
+PATIENT U531
+I had some but then I used it up and they wrote me a prescription for it.
+
+DOCTOR U531
+Yeah I don't think I've ever actually written a prescription for that but we can ask DOCTOR and see.
+
+PATIENT U531
+I'm talking about for the Ensure.	
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+You don’t see it on there?
+
+DOCTOR U531
+Uh-huh.  In your meds?
+
+PATIENT U531
+Yes ma'am, @@@ sent in a case in the powder like that.
+
+DOCTOR U531
+You know, I don’t see it on there?
+
+PATIENT U531
+DOCTOR I’m sure got it.  @@@?
+
+DOCTOR U531
+Do you see a special nutritionist or something?
+ 
+PATIENT U531
+Ma'am?
+
+DOCTOR U531
+It’s not on your med list.
+
+PATIENT U531
+It’s not on there?
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+Well what is it called?  She sure said that I got it.
+
+DOCTOR U531
+Maybe she didn't @@@ get it through the VA and not too aware.  Have a seat up here.
+
+PATIENT U531
+I can get up there.
+
+DOCTOR U531
+Do you have a home nurse?
+
+PATIENT U531
+Yeah.
+
+DOCTOR U531
+So you have a home nurse?
+
+PATIENT U531
+I got one that comes in @@@.
+
+DOCTOR U531
+A nurse?
+
+PATIENT U531
+It's been a while since I had an appointment over here with my family doctor.
+
+DOCTOR U531
+Okay.  How's the.
+
+PATIENT U531
+@@@ Medicare @@@ see the doctor about every three, four months.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+She's probably a mobile doctor.
+
+DOCTOR U531
+The mobile doctors?
+
+PATIENT U531
+Yes ma'am, you ever heard of them?
+
+DOCTOR U531
+Um, I'm sure they're out there you know but.
+
+PATIENT U531
+You know they out there huh.  Hey I think I've got the one doctor, I got a card from him.  It's a mobile doctor.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+And they're real sharp.  She's a nurse.  She comes on Thursday about 8 o'clock in the morning and she goes like @@@.  @@@ the Medicare card, from Social Security.
+
+DOCTOR U531
+Oh.  So you got, a bunch of doctors managing your stuff now.
+
+PATIENT U531
+I know  @@@ I let her, she checks my sugar.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+And she checks my blood pressure, the nurse do.
+
+DOCTOR U531
+Okay.  Oh so it's a nurse not a doctor that comes out?
+
+PATIENT U531
+The nurse come every Thursday.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+Four times a month I see her, every Thursday.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+The doctor he come about every one to two months.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+He do about the same thing.
+
+DOCTOR U531
+Is this through the VA Hospital?
+
+PATIENT U531
+Oh no ma'am.
+
+DOCTOR U531
+No.
+
+PATIENT U531
+It's from Medicaid, it's free.
+
+DOCTOR U531
+Did this doctor change your blood sugar medicine or anything?
+
+PATIENT U531
+Oh no.
+
+DOCTOR U531
+No, what do they do then?
+
+PATIENT U531
+You know they don't plan no medication.
+
+DOCTOR U531
+So he doesn't really do anything then, he just checks your @@@.
+
+PATIENT U531
+You said it but I wanted to say it.
+
+DOCTOR U531
+Huh?
+
+PATIENT U531
+I said you said it but I wanted to say it and she don't do nothing, just check my sugar.  Gives me a chance I don't have to check it that day because I check it that evening but you said it, I didn't, but I wanted to.
+
+DOCTOR U531
+Oh.  Take a deep breath for me.  Any chest pain, shortness of breath?
+
+PATIENT U531
+Like I say I can't walk like I used to.  I used to walk a block or so.
+
+DOCTOR U531
+So why is that?
+
+PATIENT U531
+I'm just tired. I’m stopping.
+
+DOCTOR U531
+Is that because of the pain in your knees or you just get short-winded?
+
+PATIENT U531
+Believe me I don't @@@ shuffling and I be plum out of breath.
+
+DOCTOR U531
+You're out of breath.
+
+PATIENT U531
+Yes ma'am.
+
+DOCTOR U531
+And that's gotten worse?
+
+PATIENT U531
+It ain't changed none.  I mean it ain't got much better.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+See I used to come out the house every day.
+
+DOCTOR U531
+So when was that, like ten years ago?
+
+PATIENT U531
+So the last time I was here, it ain't changed.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+I'm short-winded.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+And I thought it caused my foot to swell, you know back in here, what that?
+
+DOCTOR U531
+Um.
+
+PATIENT U531
+And it was water one time when they increased my water pill.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+It seemed to you know, but what you doing?
+
+DOCTOR U531
+Can you lay down for me?  Any nausea, vomiting, diarrhea?
+
+PATIENT U531
+I think so.  I probably had diarrhea @@@.  I have diverticulosis you know.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+I got a short bowel.  If I get constipated I use a @@@
+
+DOCTOR U531
+Do you have belly pain?
+
+PATIENT U531
+Hmm.
+
+DOCTOR U531
+No.
+
+PATIENT U531
+Not really.  When I get constipated then I take @@@.
+
+DOCTOR U531
+Does it usually get stuck.
+
+PATIENT U531
+Huh?
+
+DOCTOR U531
+Does the food get stuck in your throat?
+
+PATIENT U531
+Not no more.
+
+DOCTOR U531
+No.
+
+PATIENT U531
+That's where I'm going tomorrow.  Going to follow-up, you know they shoot that balloon down my throat.
+
+DOCTOR U531
+Oh they're gonna do that tomorrow?
+
+PATIENT U531
+They did it already.  I'm going to the follow through.
+
+DOCTOR U531
+Oh they did it.
+
+PATIENT U531
+Yeah they do that about once a year.
+
+DOCTOR U531
+I bet that was fun.
+
+PATIENT U531
+So my food.
+
+DOCTOR U531
+Who do live with at home?
+
+PATIENT U531
+My granddaughter, she sees after me.
+
+DOCTOR U531
+And she @@@.
+
+PATIENT U531
+I don't have no problem at home.  You know she gone through the day, she goes to school til 1 or 2.  That was something, uh Social Security has a car, I guess the A, I don't have the B and that comes under this.
+
+DOCTOR U531
+I see.
+
+PATIENT U531
+They come to the house and they almost just coaxe you into taking you, they don't come up here.
+
+DOCTOR U531
+@@@ vitals today and @@@ just check your stuff out there, not bad.  Let's see.
+
+PATIENT U531
+They @@@.
+
+DOCTOR U531
+You know you're slowly getting older.  I know you don't ask for it but something you know slowly starts to fall apart sometimes.
+
+PATIENT U531
+I'm falling apart.
+
+DOCTOR U531
+Well you are diabetic.
+
+PATIENT U531
+I'll be 76 February 3rd.
+
+DOCTOR U531
+You are diabetic okay and diabetes it affects your heart, your kidneys um, it affects your eyes.  Those are the main ones it affects okay.  The best way to try to not have you know all these affects is to try to control your sugars.
+
+PATIENT U531
+Yeah.
+
+DOCTOR U531
+Okay so that's extremely important for you at this age.  Um your blood pressure, we'll check it but yeah I want to see the top number below 130, you're a diabetic okay.
+
+PATIENT U531
+It be.
+
+DOCTOR U531
+It can't be 144; it has to be below 130.
+
+PATIENT U531
+That's what it was this morning and that machine I got is old.
+
+DOCTOR U531
+Yeah.  Well if you bring in your machine, we can change it out.
+
+PATIENT U531
+@@@.  They just folded with this company.  The small one @@@ on the top of the machine.
+
+DOCTOR U531
+Um let's see.
+
+PATIENT U531
+You ever seen any of them?
+
+DOCTOR U531
+No I haven't.
+
+PATIENT U531
+You don't watch TV?
+
+DOCTOR U531
+Do I watch TV?  I do but not at night.
+
+PATIENT U531
+They talk on TV your sugar is such and such a thing.  You ain't ever seen that?
+
+DOCTOR U531
+No.
+
+PATIENT U531
+The VA behind in everything.
+
+DOCTOR U531
+Um let's see.
+
+PATIENT U531
+Why I didn't get one, they didn't have the single strips, they ain't got no strips.  Sure could call for a machine, they'd give me one of them, buy the strips.
+
+DOCTOR U531
+Hmm.
+
+PATIENT U531
+You said my feet was all right?
+
+DOCTOR U531
+Your what?
+
+PATIENT
+My feet was all right?
+
+DOCTOR U531
+@@@ swelling.   
+
+PATIENT U531
+It is.
+
+DOCTOR U531
+You just have to @@@.  You know basically on this side of your leg.
+
+PATIENT U531
+Uh-huh.
+
+DOCTOR U531
+And this side when it cracks.
+
+PATIENT U531
+That's what she do.
+
+DOCTOR U531
+Yeah and you'll see, like if I, like I have no swelling right but for you if I like go like this it'll leave the imprint of my finger and I'll see it hang out there.
+
+PATIENT U531
+She tried to show me something like that.
+
+DOCTOR U531
+Yeah.
+
+PATIENT U531
+Leave it down there a little while.
+
+DOCTOR U531
+Yeah so it's always on the inner side so like on this side or this side, that's where you'll really see it and you have a good deal of swelling in there today.  Oh.
+
+PATIENT U531
+I got on my diabetic socks.
+
+DOCTOR U531
+Yeah that's good, that's good.  We'll have you, let's see, you saw a podiatrist actually recently so that's good.
+
+PATIENT U531
+Yeah they keep @@@.
+
+DOCTOR U531
+Yeah.  And have you seen Ophthalmology?
+
+PATIENT U531
+That's where I got these shoes, these are diabetic shoes.
+
+DOCTOR U531
+Yeah.
+
+PATIENT U531
+They're pretty comfortable.  One thing I can say, when you get old you can't expect too much.
+
+DOCTOR U531
+I know but I guess the main thing for you is to control the diabetes.
+
+PATIENT U531
+Yes you're right.
+
+DOCTOR U531
+Now the gout, how is your knee doing?  Is it still causing you pain?
+
+PATIENT U531
+No.  When I @@@ on that medication and stuff, I still.  It don't cause me.
+
+DOCTOR U531
+And you're doing everything.
+
+PATIENT U531
+And you know, the gout just comes out on me often and I got to pill like.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+I got a pill I'm supposed to take every day.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+But it's just a @@@ you know.  I was in the hospital then I go home and this knee swelled up.
+
+DOCTOR U531
+Did they tap it?  Like they took fluid out of it?
+
+PATIENT U531
+They took like a long needle.
+
+DOCTOR U531
+Okay.  That sounds about right.
+
+PATIENT U531
+But he'd get a lot of fluid pulled out and he said you got gout.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+He say some crystals or something that they run a test on.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+And that was 2001.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+And after a @@@ I wasn't bothered with the gout no more till just recently.
+
+DOCTOR U531
+Uh-huh.  Yeah it kind of comes and goes so.
+
+PATIENT U531
+It sure do.
+
+DOCTOR U531
+Yeah.
+
+PATIENT U531
+Mine does.
+
+DOCTOR U531
+There are certain foods that you should avoid like meat.  Did they tell you about that?
+
+PATIENT U531
+Yes ma'am.
+
+DOCTOR U531
+That cause gout.
+
+PATIENT U531
+Uh-huh and you know what I was eating.
+
+DOCTOR U531
+Like you should avoid those.
+
+PATIENT U531
+There was a guy at the Bus Stop, he told me to leave that fish alone too.
+
+DOCTOR U531
+Fish is fine but red meat is @@@.
+
+PATIENT U531
+I don't eat a lot of red meat a lot of time.
+
+DOCTOR U531
+Yeah.
+
+PATIENT U531
+But I have eaten some.  I like a lot of meat.
+
+DOCTOR U531
+And you haven't been drinking at all?
+
+PATIENT U531
+Like what?
+
+DOCTOR U531
+Alcohol.
+
+PATIENT U531
+Oh @@@.
+
+DOCTOR U531
+@@@ okay.
+
+PATIENT U531
+If I went back to drinking I wouldn't be here.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+I been sober for 14 years.  I used to drink a lot.  That don't bother me now the VA got a good.  That's the only thing they got, a good alcohol program.
+
+DOCTOR U531
+Alright, let's go out there and get them to check your blood pressure and all this.
+
+PATIENT U531
+They checked it when I come in here.
+
+DOCTOR U531
+They did.
+
+PATIENT U531
+Sure they did.
+
+DOCTOR U531
+@@@.
+
+PATIENT U531
+She's already checked it.
+
+DOCTOR U531
+But I don't have anything.
+
+PATIENT U531
+I believe she checked it.  No she didn't, the nurse ain't called me.
+
+DOCTOR U531
+Yeah I know that's why I remembered it.
+
+PATIENT U531
+Oh okay, no I didn't actually.  Confuses me.  She supposed.  Are you gonna go with me?  I leave it there.
+
+DOCTOR U531
+That's fine.
+
+PATIENT U531
+No she didn't see me.  Another lady called.  
+
+(Patient and doctor leave room 43:57, returns 47:25)
+
+DOCTOR U531
+They can come in here.
+
+PATIENT U531
+Just this.
+
+DOCTOR U531
+I'm gonna go talk to someone.
+
+(DOCTOR OUT:  47:34  DOCTOR IN:  57:54)
+
+DOCTOR U531
+Okay sir.  So we are gonna make some changes.  We are going to have you take 26 units.
+
+PATIENT U531
+@@@.
+
+DOCTOR U531
+You haven't been going up a lot.
+
+PATIENT U531
+Yeah but still that new vial that I had.
+
+DOCTOR U531
+It says 22 yeah.
+
+PATIENT U531
+Uh-huh.
+
+DOCTOR U531
+Well it says 22 but we want you to take 26.
+
+PATIENT U531
+I'm not going to argue @@@ take 26.
+
+DOCTOR U531
+You aren’t?
+
+PATIENT U531
+I say I ain't gonna argue, I am going to take 26.
+
+DOCTOR U531
+Oh, okay.
+
+PATIENT U531
+So that what I gonna take 26 @@@.  You just change your mind as to what you know.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+No problem.
+
+DOCTOR U531
+So 26 and then I want you to take it.
+
+PATIENT U531
+Would you write that down for me?
+
+DOCTOR U531
+Once a day, take it in the morning yep.
+
+PATIENT U531
+After breakfast or before breakfast.
+
+DOCTOR U531
+Uh you can take it either.
+
+PATIENT U531
+Okay. Ain’t no problem. Take that in the morning time.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+@@@ okay.
+
+DOCTOR U531
+Yep.
+
+PATIENT U531
+Yeah I need to get on my walk.  Don't want to forget it.  I take this with me right?
+
+DOCTOR U531
+Yeah you can hold on to that.
+
+PATIENT U531
+Yes.  @@@.
+
+DOCTOR U531
+Was there a certain medication you needed a refill on?
+
+PATIENT U531
+I want to pick up some today.
+
+DOCTOR U531
+So which ones?  Do you know because you should really have refills on most of these.
+
+PATIENT U531
+Hmm.  I got to call in and some of them I don't want to have them at home at all.
+
+DOCTOR U531
+I'll go through them with you.  So all the medications, they're listed here and then you see how many refills there are.
+
+PATIENT U531
+Wait a minute, how am I gonna see that far?
+
+DOCTOR U531
+Oh.  So these are the medications you're on right, like metoprolol, @@@.
+
+PATIENT U531
+And so what is that?
+
+DOCTOR U531
+For your blood pressure.
+
+PATIENT U531
+I know my codeine refilled.
+
+DOCTOR U531
+You’re on codeine okay.
+
+PATIENT U531
+I take that to go to sleep.
+
+DOCTOR U531
+Okay.  This metoprolol, you still have three refills.
+
+PATIENT U531
+@@@.
+
+DOCTOR U531
+This is your blood pressure medication.
+
+PATIENT U531
+Which one is that one now?  The one I cut in half?
+
+DOCTOR U531
+Yeah probably yeah, take one half tablet by mouth twice a day.
+
+PATIENT U531
+I take two blood pressure pills.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+One I cuts in half, it's a 50 mg.
+
+DOCTOR U531
+Yeah that's the one yeah.
+
+PATIENT U531
+And then I got a blue one.
+
+DOCTOR U531
+But do you have these medications?
+
+PATIENT U531
+I got some at home.
+
+DOCTOR U531
+Okay.
+
+PATIENT U531
+But I need refills of them.
+
+DOCTOR U531
+There’s three refills.
+
+PATIENT U531
+Okay.
+
+DOCTOR U531
+That should last you a year.
+
+PATIENT U531
+So I get back with ya'll when I need. 
+
+DOCTOR U531
+Yeah.
+
+PATIENT U531
+I need it all.
+
+DOCTOR U531
+Okay.  So then I'm not going to individually refill them because you already have enough refills left on those.
+
+PATIENT U531
+Oh okay.
+
+DOCTOR U531
+Okay.  The codeine, yeah we can give you some more tablets.
+
+PATIENT U531
+Yes ma'am and I need my constipation pills.
+
+DOCTOR U531
+Okay.  Okay.
+
+PATIENT U531
+I start on 26 units in the morning.  I pick this up @@@.
+
+DOCTOR U531
+What are you taking for constipation?  Was it docusate?
+
+PATIENT U531
+I take it, what I eat, I call it heavy and I don't want, I had some in the hospital sometime when my bowels get twistec @@@.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+They’ve helped flush me out and stuff.
+
+DOCTOR U531
+Okay.  Alright you can go ahead and pick those up at the window.
+
+PATIENT U531
+Can I get, I know I'm out of Viagra.  I know there ain't no refills of them.  I call them Viagra.
+
+DOCTOR U531
+Oh do you want them by mail?
+
+PATIENT U531
+That’s the only way I get them, by mail. But @@@ I'll pick them up at the window so I don't know what happened between now and then.
+
+DOCTOR U531
+Okay.  Sure.
+
+PATIENT U531
+Like you said @@@.
+
+DOCTOR U531
+I'll put in a refill for you.
+
+PATIENT U531
+Thank you @@@.
+
+DOCTOR U531
+Whoa, no, no, @@@.
+
+PATIENT U531
+@@@ falling apart.
+
+DOCTOR U531
+No okay.  I think well you're all set then.
+
+PATIENT U531
+I'm straight?
+
+DOCTOR U531
+You can pick up the two meds and the Viagra will come through the mail.
+
+PATIENT U531
+Yes ma'am.
+
+DOCTOR U531
+And then um where is that paper I gave you?
+
+PATIENT U531
+Let me just.
+
+DOCTOR U531
+Don't lose it but uh @@@.
+
+PATIENT U531
+I'm okay.
+
+DOCTOR U531
+Tell them to return to the clinic with the pharmacist in three to four weeks.
+
+PATIENT U531
+Oh that's my next appointment?
+
+DOCTOR U531
+That's with the pharmacist and at that point bring your sugar log book.
+
+PATIENT U531
+Okay.
+
+DOCTOR U531
+Okay so we want to see how you're doing with the increased level of insulin.
+
+PATIENT U531
+Okay.
+
+DOCTOR U531
+Um and bring your glucometer so they can test it and make sure it's working.
+
+PATIENT U531
+I'm going down there; you want me to bring my blood pressure thing too?
+
+DOCTOR U531
+Sure and then you'll see us back in three months okay.
+
+PATIENT U531
+Yeah but what, where do I take this sugar thing?
+
+DOCTOR U531
+Why?
+
+PATIENT U531
+I said where can I take it?
+
+DOCTOR U531
+Oh you should bring it with you to the pharmacist visit in like three to four weeks.
+
+PATIENT U531
+That's what you wrote on here?
+
+DOCTOR U531
+Right, right.  So you'll see the pharmacist in three to four weeks.
+
+PATIENT U531
+Oh okay.
+
+DOCTOR U531
+And then you'll see us in three months.  When you see the pharmacist.
+
+PATIENT U531
+That's when I bring the.
+
+DOCTOR U531
+All your stuff, your sugar logbook, your glucometer, your blood pressure monitor, bring it all.
+
+PATIENT U531
+And bring it in in about three weeks.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+Yes ma'am.  I like that.
+
+DOCTOR U531
+Okay so you can show this to the secretary up front so they can schedule.
+
+PATIENT U531
+So they can schedule it.
+
+DOCTOR U531
+Right.
+
+PATIENT U531
+Okay.
+
+DOCTOR U531
+So then you can keep the sheet.
+
+PATIENT U531
+Yes ma'am.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+I like it.
+
+DOCTOR U531
+Sounds good.
+
+PATIENT U531
+@@@.
+
+DOCTOR U531
+@@@.
+
+PATIENT U531
+I got an appointment out here tomorrow with the stomach doctor @@@.  That's the follow-up on the like every time they put that balloon down there and it helps so far.  They could operate but I got too many scars down there.
+
+DOCTOR U531
+Uh-huh.
+
+PATIENT U531
+And they say sometime it don't work.  I've had a hard time holding some of it down so.  And I turn this in at the desk.
+
+DOCTOR U531
+Yes.  Well go ahead and give it to them and then take it back.
+
+PATIENT U531
+Take it back yes ma'am.  You have a blessed day doc.
+
+DOCTOR U531
+You too, take care.
+
+PATIENT U531
+@@@.
+
+PATIENT LEAVES:  64:43
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286120
+TRANSACTION # 578-10-2-316-0103

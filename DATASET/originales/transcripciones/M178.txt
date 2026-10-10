@@ -1,0 +1,638 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR M178
+PATIENT. 
+
+PATIENT M178
+Yep, around @@@ 
+
+DOCTOR M178
+Come on back.  I'm gonna check your blood pressure right here.  Oh what happened here?
+
+PATIENT M178
+Well that's uh, I uh just grew out.
+
+DOCTOR M178
+Really.
+
+PATIENT M178
+And I got another one here.
+
+DOCTOR M178
+When did it start happening?
+
+PATIENT M178
+Oh this, it's been going on for.
+
+DOCTOR M178
+Have a seat.  How long?
+
+PATIENT M178
+I don't know maybe ten years or more.
+
+DOCTOR M178
+Oh okay and it's been getting bigger?
+
+PATIENT M178
+@@@ and I one time, I told the doctor about it.
+
+DOCTOR M178
+Yeah.
+
+PATIENT M178
+Cutting them off and.
+
+DOCTOR M178
+Uh-huh, what did he say?
+
+PATIENT M178
+He said well they do it but they don't want to do it.  They don't do it anymore.  He said if it doesn't hurt you.
+
+DOCTOR M178
+Here? Doctor here?
+
+PATIENT M178
+Oh yes.
+
+DOCTOR M178
+Jesse Brown?
+
+PATIENT M178
+Yeah right here but I said.
+
+DOCTOR M178
+Why didn't they want to take it off?
+
+PATIENT M178
+Because um I know @@@.
+
+DOCTOR M178
+@@@ your arm.
+
+PATIENT M178
+At that time they didn't do cosmetic.
+
+DOCTOR M178
+Okay.  We'll have to @@@.  Let me just have your arm, yeah just let it fall.  Good.  Just let it fall here.  Oh so this is for cosmetic purposes they wouldn't do it.
+
+PATIENT M178
+Yeah at that time they had quit doing that.
+
+DOCTOR M178
+Hmm and the same thing on that side?
+
+PATIENT M178
+Same thing.  Every time I bump it.
+
+DOCTOR M178
+(Someone knocks on the door)
+
+PATIENT M178
+Swells.
+
+DOCTOR M178
+Does it hurt?
+
+PATIENT M178
+Well if you bump it.  You know sometimes you just hit a wall or something.
+
+DOCTOR M178
+Oh.
+
+PATIENT M178
+Then it kind of hurts for like @@@.
+
+DOCTOR M178
+It's been growing.
+
+PATIENT M178
+Oh yeah it keeps growing.
+
+DOCTOR M178
+What did they say it was?
+
+PATIENT M178
+They just said it was uh, they just said it was uh calcium deposits.
+
+DOCTOR M178
+Let's do this one.  Is your blood pressure normally this high?
+
+PATIENT M178
+Uh no but from what I hear this is about the highest.
+
+DOCTOR M178
+Do you check your blood pressures?
+
+PATIENT M178
+Well I take my medication.
+
+DOCTOR M178
+Daily?
+
+PATIENT M178
+No not daily.
+
+DOCTOR M178
+Why not?
+
+PATIENT M178
+Uh.
+
+DOCTOR M178
+Do you forget?
+
+PATIENT M178
+I don't have a machine to take it myself.
+
+DOCTOR M178
+Oh no about the medication.
+
+PATIENT M178
+Oh medications I take.
+
+DOCTOR M178
+Daily.
+
+PATIENT M178
+I take is it atenolol.
+
+DOCTOR M178
+Uh-huh.
+
+PATIENT M178
+And the nifedipine.
+
+DOCTOR M178
+And you have been taking it?
+
+PATIENT M178
+Once in a while I'll forget but what I do is I take it like 4 o'clock in the morning cause. Usually I’m up at that time.
+
+DOCTOR M178
+Okay.  Normally you're taking it.
+
+PATIENT M178
+Yeah. 
+
+DOCTOR M178
+Yeah it is very high today.
+
+PATIENT M178
+So the lowest I've had is like 142.
+
+DOCTOR M178
+Really, hmm.
+
+PATIENT M178
+That's about the lowest.  
+
+DOCTOR M178
+It's still high 191/92.  Any headaches right now?  No.
+
+PATIENT M178
+No.
+
+DOCTOR M178
+No blurry vision?
+
+PATIENT M178
+No I just wear normal glasses.
+
+DOCTOR M178
+Okay, alright.  Did you take your blood pressure medicine today?
+
+PATIENT M178
+Uh around 3:30 or 4:00.
+
+DOCTOR M178
+Okay. No that's fine.  Okay have a seat here.  So you saw DOCTOR last time.
+
+PATIENT M178
+Yeah I always see DOCTOR.
+
+DOCTOR M178
+And then, it's been a while.  But, you take atenolol 25 daily and the nifedipine 60 right, two things?
+
+PATIENT M178
+Yes.
+
+DOCTOR M178
+Okay.
+
+PATIENT M178
+And then I take my gout medicine uh colchicine and allopurinol.
+
+DOCTOR M178
+Okay.  Any gout flares?
+
+PATIENT M178
+Yes.
+
+DOCTOR M178
+When was the last one?
+
+PATIENT M178
+Well uh I would say um three weeks ago.
+
+DOCTOR M178
+Oh really.  So what did you do?
+
+PATIENT M178
+Well uh I just try to double up on the colchicine.
+
+DOCTOR M178
+Okay.
+
+PATIENT M178
+And uh along with I don't double the allopurinol but then it had @@@.
+
+DOCTOR M178
+Okay.
+
+PATIENT M178
+I @@@ water.
+
+DOCTOR M178
+And you're still taking colchicine, I mean you drink a lot of water and then it sort of heals on its own.
+
+PATIENT M178
+Yeah about six days later then it kind of calms down so I can sleep on my side.
+
+DOCTOR M178
+Alright.
+
+PATIENT M178
+It starts on this.
+
+DOCTOR M178
+How often do you get these kinds of attacks?
+
+PATIENT M178
+I get them about uh well I would say about once a month.  If it's not my wrist.
+
+DOCTOR M178
+Yeah.
+
+PATIENT M178
+It's my elbow and then it goes to my shoulder and now I've been it's giving me pain on the hip, my left hip.  But I don't know if it's because I've gained more weight on my left side because I had my right ankle pinned up.
+
+DOCTOR M178
+Okay.
+
+PATIENT M178
+And I can't really exercise that one.
+
+DOCTOR M178
+Gotcha.  Do you take anything other than over-the-counter medicine for pain like Tylenol or anything?
+
+PATIENT M178
+No it's just I buy the ibuprofen.
+
+DOCTOR M178
+Ibuprofen and how often do you take the ibuprofen?
+
+PATIENT M178
+Oh I can feel when the gout attack is coming.
+
+DOCTOR M178
+Uh-huh.  So you only take it when you have the gout attack?
+
+PATIENT M178
+Yes I only take it when that happens.
+
+DOCTOR M178
+Every month okay.
+
+PATIENT M178
+Yeah.
+
+DOCTOR M178
+Um do you stick to your diet and.
+
+PATIENT M178
+Yeah.
+
+DOCTOR M178
+Do you know what kind of diet you should use for gout?
+
+PATIENT M178
+Well I stay away from red meat and like ham and stuff like that and try to eat as many fruits and vegetables as I can.  Once in a while I have a couple cheeseburgers @@@.
+
+DOCTOR M178
+Try to @@@.  And you don’t normally drink much alcohol?
+ 
+PATIENT M178
+No I gave up on hard stuff.  Once in a while I go out and have pizza and a beer or something.
+
+DOCTOR M178
+Not too much though?
+
+PATIENT M178
+No.
+
+DOCTOR M178
+Do you feel like after alcohol that you get from @@@?
+
+PATIENT M178
+Uh no not really because I was uh locked up for nine months and I didn't get any at all, didn't even notice.
+
+DOCTOR M178
+You were locked up?
+
+PATIENT M178
+Yes.
+
+DOCTOR M178
+Where?
+
+PATIENT M178
+I was locked up in East Moline.
+
+DOCTOR M178
+Hmm.
+
+PATIENT M178
+In @@@@.
+
+DOCTOR M178
+Really.
+
+PATIENT M178
+And uh for a DUI and I still got my gout attacks.
+
+DOCTOR M178
+In there.
+
+PATIENT M178
+In there and I was getting them like more often.
+
+DOCTOR M178
+Hmm.
+
+PATIENT M178
+Even though they gave me the same medication they were giving me at the hospital but uh I don't know if it was diet or what but I uh I was weighing around 200 pounds, 210 pounds for @@@ years at least.  
+
+DOCTOR M178
+Alright and you take the allopurinol every day.
+
+PATIENT M178
+Yeah allopurinol.  They took me off the indomethacin because they said @@@.
+
+DOCTOR M178
+Yeah allopurinol is for prevention.
+
+PATIENT M178
+Yeah they took me off the uh indomethacin cause they said it causes kidney failure cause I had been on it too long and uh I started getting this gout thing back in 78.  
+
+DOCTOR M178
+@@@  So it looked pretty good in July and then all of a sudden its.
+
+PATIENT M178
+Yeah well the lowest I think that I remember having is 143.
+
+DOCTOR M178
+Yeah, it was 133/74 in July.
+
+PATIENT M178
+July of last year.
+
+DOCTOR M178
+No July @@@ months ago.
+
+PATIENT M178
+@@@.
+
+DOCTOR M178
+Any change in your diet since then?  Did you gain weight?
+
+PATIENT M178
+Um I don't know I think I have.
+
+DOCTOR M178
+Oh yeah.
+
+PATIENT M178
+I was weighing like 202 I guess, I couldn't have gained that much weight.
+
+DOCTOR M178
+Yeah you really haven't gained that much weight.  Are you eating a lot of salt?
+
+PATIENT M178
+No not really because I have, like in the morning I'll eat oatmeal and grits.
+
+DOCTOR M178
+Okay how long have you had high blood pressure for?
+
+PATIENT M178
+Oh I've had high blood pressure for.
+
+DOCTOR M178
+Long time?
+
+PATIENT M178
+I don't know, uh, 1976 I think.
+
+DOCTOR M178
+Oh.
+
+PATIENT M178
+Cause I remember when I was in construction, DOCTOR at Bryan Hospital he told me you have high blood pressure.
+
+DOCTOR M178
+Yeah.  It's pretty high and you said you're good with taking the medication for it, I'm kind of puzzled.
+
+PATIENT M178
+Right.
+
+DOCTOR M178
+Why it's so high but I mean you definitely have to be followed by a physician.  I'm glad you came in.  And I'll be right back okay.
+
+PATIENT M178
+Okay.
+
+(DOCTOR OUT:  23:23  DOCTOR IN:  33:25)
+
+DOCTOR M178
+Okay.  So we're gonna go up on your blood pressure medication.
+
+PATIENT M178
+Okay.
+
+DOCTOR M178
+@@@@ information about @@@ new your medications. @@@ by mail?
+
+PATIENT M178
+Yes.
+
+DOCTOR M178
+And do you have enough at home right now?
+
+PATIENT M178
+Yes.
+
+DOCTOR M178
+Well I'll give you @@@ every day okay.
+
+PATIENT M178
+Alright.  I have this order like this about a week ago.
+
+DOCTOR M178
+Good.  @@@.  Then um so the atenolol you should still take the same amount and then the nifedipine we'll go up to 90, you're taking 60 right now.
+
+PATIENT M178
+Okay.
+
+DOCTOR M178
+And we'll go up to 90.
+
+PATIENT M178
+My uh, my colchicine.
+
+DOCTOR M178
+Uh-huh.
+
+PATIENT M178
+I don't know it's always a white pill and then they mailed me something about the color of your shirt.
+
+DOCTOR M178
+Uh-huh.
+
+PATIENT M178
+And I don't know, you know for some reason they gave me a white pill I wonder if I have the right pill.
+
+DOCTOR M178
+Does it say colchicine on the bottle?
+
+PATIENT M178
+Yes it does and I checked that real good.
+
+DOCTOR M178
+Alright.
+
+PATIENT M178
+And then it had like a rosy purple colored pill.
+
+DOCTOR M178
+Hmm.
+
+PATIENT M178
+Now I don't know.  I figured it was fine.
+
+DOCTOR M178
+It should be fine, yeah, yeah.  Just check the bottle.
+
+PATIENT M178
+Yeah.
+
+DOCTOR M178
+Yeah sometimes yeah they change the colors.
+
+PATIENT M178
+I even read that, frankly @@@.
+
+DOCTOR M178
+Uh-huh, uh-huh.
+
+PATIENT M178
+Make sure it was still more or less the same.
+
+DOCTOR M178
+Okay.  Alright.  So yeah you'll get your medicines in the mail and then you have, how much of the nifedipine do you have?
+
+PATIENT M178
+Uh I have like a month's supply.
+
+DOCTOR M178
+Okay so what you need to do is um, if you increase it to 90 and you have 60, hmm oh maybe you could pick up the 90 ones today at the window before you go.
+
+PATIENT M178
+Or I could split the other one, I have a pill splitter.
+
+DOCTOR M178
+Uh but the thing is you have 60 right?
+
+PATIENT M178
+Yes.
+
+DOCTOR M178
+Well then if you have half.
+
+PATIENT M178
+Then half would be 30.
+
+DOCTOR M178
+Yeah, cut that in half.
+
+PATIENT M178
+Then it'd be 30.
+
+DOCTOR M178
+And then you'd take 1 1/2 tablets.
+
+PATIENT M178
+Yeah 1 1/2 pills
+
+DOCTOR M178
+Why don't you do that okay and then the 90s are the ones that will arrive in the mail.
+
+PATIENT M178
+Okay.
+
+DOCTOR M178
+Alright and um I'll see you back, well why don't you come back in about a couple weeks.
+
+PATIENT M178
+That will be find.
+
+DOCTOR M178
+Yeah and then see the nurse and get your blood pressure checked okay.
+
+PATIENT M178
+Okay.
+
+DOCTOR M178
+And then depending on that um we'll go up on the nifedipine even more if it's still high.
+
+PATIENT M178
+Okay.
+
+DOCTOR M178
+Alright. @@@ after you go up on the medicine.
+
+PATIENT M178
+Okay.
+
+DOCTOR M178
+Alright so that's it for today.
+
+PATIENT M178
+I'm done then.
+
+DOCTOR M178
+Yep.
+
+PATIENT M178
+Okay.  Thank you very much.
+
+DOCTOR M178
+You're welcome and I'll see you back in three months or so okay.
+
+PATIENT M178
+Alright.
+
+DOCTOR M178
+Alright.  You take care.
+
+PATIENT M178
+Have a nice day.
+
+DOCTOR J429
+You too, bye, bye.
+
+PATIENT LEAVES:  37:30.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300313
+TRANSACTION # 578-10-2-316-0103

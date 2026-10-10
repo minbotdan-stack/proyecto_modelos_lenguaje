@@ -1,0 +1,673 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR I717
+PATIENT?  
+
+PATIENT I717
+How you doing?
+
+DOCTOR I717
+How you doing, my name is DOCTOR.  Have we met before?
+
+PATIENT I717
+I believe so.
+
+DOCTOR I717
+We have, I didn't have a chance to look through all the chart before I called you so um, you're on here for some reason for this week and for next week.
+
+PATIENT I717
+Huh?
+
+DOCTOR I717
+You have an appointment with me this week and next week.
+
+PATIENT I717
+I do.
+
+DOCTOR I717
+For some reason, I don't know.  You might want to cancel the next week one since it's in the computer.  Uh.
+
+PATIENT I717
+That was for my cholesterol.
+
+DOCTOR I717
+Maybe it was in the computer.  You saw DOCTOR last time.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+But that was more like your three so um I'll just kind of talk to you about @@@.  How are you doing today?
+
+PATIENT I717
+Okay.
+
+DOCTOR I717
+Any concerns, problems, grievances?
+
+PATIENT I717
+No I don't have any today.
+
+DOCTOR I717
+Huh?
+
+PATIENT I717
+None today.
+
+DOCTOR I717
+Okay and you also saw DOCTOR.
+
+PATIENT I717
+The appointment next week might be for cholesterol.
+
+DOCTOR I717
+Maybe this was with me and I don't know if I can see you twice in a row.
+
+PATIENT I717
+Oh okay.
+
+DOCTOR I717
+But you might just see the pharmacist or something but.
+
+PATIENT I717
+Yeah I think that's who it is.
+
+DOCTOR I717
+Yeah but for some reason it was made with me so when you leave here, just check with the front desk so you don't have an appointment for the doctor but with somebody else.  Uh.
+
+PATIENT I717
+Cause the last time I was here I saw the pharmacist.
+
+DOCTOR I717
+Yeah.  I'll take a look.  Your blood pressure's good.  So it looks like you have high blood pressure which is good and you are currently on.
+
+PATIENT I717
+No.
+
+DOCTOR I717
+@@@ Blood pressure right?
+
+PATIENT I717
+The um, the um pravastatin you gave me.
+
+DOCTOR I717
+Yes.
+
+PATIENT I717
+The last time, they're five times bigger than the ones I usually take.
+
+DOCTOR I717
+Really?
+
+PATIENT I717
+Yeah.
+
+DOCTOR I717
+Like phsically bigger?
+
+PATIENT I717
+Right.
+
+DOCTOR I717
+Are they hard for you to swallow?
+
+PATIENT I717
+Yes.
+
+DOCTOR I717
+Yeah.
+
+PATIENT I717
+The ones I had before were smaller round pink ones.
+
+DOCTOR I717
+And the problem, I think that you're on pravastatin, I don't know let me see um.
+
+PATIENT I717
+She @@@ the last time I was here.
+
+DOCTOR I717
+Did they tell you why they switched you from @@@?
+
+PATIENT I717
+They wanted a higher dosage.
+
+DOCTOR I717
+Yeah that's okay.  The pravastatin is stronger than simvastatin.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+So it sounds like you – and I’ve never met you before -  that you have trouble getting good control on the normal medicine, they put on you a bigger, a different medicine.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+And so it's a different manufacturer that made your medicine. 
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+They're going to be potentially bigger or smaller or a different shape or something like that.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+Is there a way to break it in half and take it half at a time?
+
+PATIENT I717
+I guess I can.
+
+DOCTOR I717
+And just try to do that and you look like you're already on a full dose of it right?
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+You had a set of labs in January, I don't know if you remember because that was a few months ago.
+
+PATIENT I717
+Yeah.
+
+DOCTOR I717
+Uh for your cholesterol and I was just kind of wondering, were you fasting that day?  Do you remember?
+
+PATIENT I717
+I think so.
+
+DOCTOR I717
+You think you were, cause it was still kind of high.  Your uh LDL which is your bad cholesterol, was 166.
+
+PATIENT I717
+Yeah she said it was going down some from the last time.
+
+DOCTOR I717
+It did go down some, that's correct, it did go down.
+
+PATIENT I717
+That's why I started taking the cholesterol test.
+
+DOCTOR I717
+Now you actually take them now?
+
+PATIENT I717
+Yeah.
+
+DOCTOR I717
+Um in January were you taking them?
+
+PATIENT I717
+Yes.
+
+DOCTOR I717
+Every day, not skipping any evenings always.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+Okay.  Well it's still kind of high um.
+
+PATIENT I717
+But now I tell you with these white ones.
+
+DOCTOR I717
+Uh-huh.
+
+PATIENT I717
+I haven't been taking them.  I've been taking my olds ones.
+
+DOCTOR I717
+I see okay.  So you.
+
+PATIENT I717
+Since I got those but I just got those like two weeks ago.
+
+DOCTOR I717
+Okay so.
+
+PATIENT I717
+So I was finishing up my small pink ones.
+
+DOCTOR I717
+I see, so when you took your last cholesterol test in January which ones were you taking?
+
+PATIENT I717
+The small ones.
+
+DOCTOR I717
+The small ones.
+
+PATIENT I717
+Yeah.
+
+DOCTOR I717
+Every time you were taking, you weren’t skipping doses?
+
+PATIENT I717
+Right.
+
+DOCTOR I717
+You weren't taking the new ones?
+
+PATIENT I717
+No.
+
+DOCTOR I717
+Okay.
+
+PATIENT I717
+They just came about two weeks ago.
+
+DOCTOR I717
+So you just got the new ones.
+
+PATIENT I717
+Yeah.
+
+DOCTOR I717
+And have you been taking them?
+
+PATIENT I717
+No.
+
+DOCTOR I717
+Cause they're too big.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+Okay.
+
+PATIENT I717
+I been taking the smaller ones.
+
+DOCTOR I717
+Alright, okay.  So let's try to do this, try to take the big ones and break them in half and take them half at a time and then once you're on those for about two months we'll recheck the cholesterol and see if you do better on those.
+
+PATIENT I717
+Okay.
+
+DOCTOR I717
+Okay.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+So that and then blood pressures are good.  Do you take an aspirin a day?
+
+PATIENT I717
+Yes.
+
+DOCTOR I717
+And then, alright.  Any more problem with stomach problems?
+
+PATIENT I717
+No.
+
+DOCTOR I717
+Do you have heartburn?
+
+PATIENT I717
+No since I take them every day.
+
+DOCTOR I717
+Okay.  Um smoking?
+
+PATIENT I717
+Yes.
+
+DOCTOR I717
+Uh any decreasing of how much you're smoking yet?
+
+PATIENT I717
+Yes.
+
+DOCTOR I717
+How much?
+
+PATIENT I717
+Um a pack will last me probably almost two weeks.
+
+DOCTOR I717
+Okay.  That's not bad at all.  Are you using the gum at all?
+
+PATIENT I717
+No.
+
+DOCTOR I717
+No.  Uh let's see and you had a colonoscopy last June which is fine.  Uh.
+
+PATIENT I717
+I'm planning on quitting smoking by the time I come back.
+
+DOCTOR I717
+Good, great.  Very good uh.  Alright, let's see.
+
+PATIENT I717
+I went to draw blood today but they said I wasn't in the computer so.
+
+DOCTOR I717
+Oh yeah, @@@
+
+PATIENT I717
+Yeah.
+
+DOCTOR I717
+And plus, I wouldn’t want to check until you’ve been on this new cholesterol medicine for a while.
+
+PATIENT I717
+Okay.
+
+DOCTOR I717
+Let's see.  Do you have any problem with breathing?  No shortness of breath from the smoking?  @@@  No weight loss, no blood in the urine or stool, nothing like that?
+
+PATIENT I717
+No.
+
+DOCTOR I717
+Okay.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+@@@. Sounds like we’re just following the cholesterol.
+
+PATIENT I717
+Yeah.  Uh-huh.
+
+DOCTOR I717
+Not a diabetic right?
+
+PATIENT I717
+No.
+
+DOCTOR I717
+Okay can you have a seat up here for me and I'll take a listen to you?  Take some deep breaths.  One more, one more, one more.  Breathe normally.  No chest pain, no weight loss, nothing like that?
+
+PATIENT I717
+No.
+
+DOCTOR I717
+Okay, look forward.  So all we're going to @@@ is medication refills or anything like that?
+
+PATIENT I717
+No, no.
+
+DOCTOR I717
+You don't need refills today for anything?
+
+PATIENT I717
+I just got some uh when I was here the last time a couple @@@.
+
+DOCTOR I717
+Alright, very good uh.  You have two refills, two refills and @@@.  Um other than that it should be good.  Okay and @@@.  You had you flu shot this year?
+
+PATIENT I717
+I had both of them.
+
+DOCTOR I717
+Good, you had a tetanus shot.  You had pneumonia @@@ okay.  Alright let me talk to DOCTOR and I think that we'll be.  Uh what we'll have you do is actually, I’ll order the cholesterol test and once you’re on these pills for six to eight weeks @@@ we can still have you come back and check to see the numbers are good, okay.
+
+PATIENT I717
+Okay.
+
+DOCTOR I717
+Alright.  Yeah and your good cholesterol is actually pretty darn good and you're bad cholesterol, your triglyceride cholesterol were all @@@ you just have a very isolated cholesterol to try to treat.
+
+PATIENT I717
+Okay.
+
+DOCTOR I717
+I'll be back within a couple of minutes.
+
+(DOCTOR OUT:  17:02  DOCTOR IN:  30:27)
+DOCTOR I717
+Alright sir.  I had nice long conversation about your cholesterol pills and we got a little confused but we got him straightened out.  So you are taking now the simvastatin, the old little pill.
+
+PATIENT I717
+Old pink pill.
+
+DOCTOR I717
+Whatever, old pink pill.
+
+PATIENT I717
+Yeah.
+
+DOCTOR I717
+And how much of it, what's the dose of that one?
+
+PATIENT I717
+Um I think 20.
+
+DOCTOR I717
+20, only 20?
+
+PATIENT I717
+I think, I'm not sure.
+
+DOCTOR I717
+Okay.
+
+PATIENT I717
+But I'm taking a whole one.
+
+DOCTOR I717
+A whole one.  Okay, so here's the thing.  There's the cholesterol pill that you're taking, there's like a whole bunch of different ones.  They're all almost the same.
+
+PATIENT I717
+Hmm.
+
+DOCTOR I717
+Some are a little stronger, some are a little weaker, so we just have @@@ to try to figure this out.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+This new big one that you got sent is actually not as strong as the old little pink one.
+
+PATIENT I717
+Well that's 80.
+
+DOCTOR I717
+The dose itself actually they don't correlate with numbers.
+
+PATIENT I717
+Okay.
+
+DOCTOR I717
+How strong the actual medicine but they are similar but the dosing wasn't quite match up.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+So did you have diarrhea with the little pink pill?
+
+PATIENT I717
+Yeah.
+
+DOCTOR I717
+How much diarrhea, how bad was it?
+
+PATIENT I717
+Um just once, after I take it and a little while after I have to go to the washroom.
+
+DOCTOR I717
+Like one time.
+
+PATIENT I717
+Yeah.
+
+DOCTOR I717
+Okay so that's not real diarrhea.
+
+PATIENT I717
+No it was, I think it was cause you know I, how @@@ it.
+
+DOCTOR I717
+Yeah okay.  Are you willing to try it again I mean you've been taking it now.
+
+PATIENT I717
+Yeah @@@.
+
+DOCTOR I717
+Without trouble.
+
+PATIENT I717
+Right.
+
+DOCTOR I717
+Okay.  So what we're gonna do is that little pink pill also has a dose of 80.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+Which sounds like you weren’t on.  So we'll try to do that.  We'll put you on a full dose of the old pink pill okay.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+And have you take that because it's stronger and it's smaller.
+
+PATIENT I717
+Uh-huh, right.
+
+DOCTOR I717
+So it sounds like you’d rather take it.
+
+PATIENT I717
+Alright.
+
+DOCTOR I717
+So we'll stop the pravastatin, the big horse pills.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+Uh and then I'm gonna give you the full dose of the other one okay.
+
+PATIENT I717
+Okay.
+
+DOCTOR I717
+And we'll see how your cholesterol does on that.
+
+PATIENT I717
+Okay.
+
+DOCTOR I717
+Now and if you are on that pill full dose and you're taking it and you take it for at least a year.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+And we still can't get your cholesterol under control; we actually do have another one that's stronger okay.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+So we'll talk about that if the other one @@@ okay.
+
+PATIENT I717
+Okay.
+
+DOCTOR I717
+Okay.  Alright, does that make sense?
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+So I put in the new same as the old pink pill.
+
+PATIENT I717
+Can you mail it?
+
+DOCTOR I717
+I'll put it in to mail, yeah, mail okay.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+Does that make sense?
+
+PATIENT I717
+Yeah.
+
+DOCTOR I717
+Alright now we'll see you in about two months.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+And before you come in could you get the cholesterol done so we can have that to talk about.
+
+PATIENT I717
+Okay, but you got to put it in right?
+
+DOCTOR I717
+Yeah, yeah I'm gonna put it in right now.
+
+PATIENT I717
+Cause the last one when I went to the Lab they said there was.
+
+DOCTOR I717
+They said, no I'll put it in right now for two months from now okay.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+And we'll have you see DOCTOR in May, May 14th I put it in and I'll put in a lipid profile for a week before then okay.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+Okay.  Okay.
+
+PATIENT I717
+Uh-huh.
+
+DOCTOR I717
+Any questions?
+
+PATIENT I717
+No.
+
+DOCTOR I717
+Alright you can drop this off at the front desk.
+
+PATIENT I717
+Okay.  You have a good day.
+
+DOCTOR I717
+You too, take care.
+
+PATIENT I717
+Good bye.
+
+PATIENT LEAVES:  34:00
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255196
+TRANSACTION # 578-10-2-316-0103

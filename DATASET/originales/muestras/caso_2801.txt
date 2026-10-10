@@ -1,0 +1,41 @@
+Sample Name: Cardiology Consultation Chest Pain Hypertension
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Cardiology consultation for chest pain, hypertension, cholesterol management, angina, and cardiac stress test.
+
+(Medical Transcription Sample Report)
+
+PREOPERATIVE DIAGNOSIS: Recurrent chest pain, uncontrolled hypertension, hypercholesterolemia
+
+POSTOPERATIVE DIAGNOSIS: Angina pectoris with high cardiovascular risk
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 58-year-old male presenting with intermittent chest pain radiating to the left arm, associated with shortness of breath and occasional dizziness. The symptoms began two weeks ago and have worsened over the past few days. The patient reports a long history of hypertension and elevated cholesterol levels but has not been consistent with prescribed statin therapy.
+
+PAST MEDICAL HISTORY:
+Hypertension, hyperlipidemia, prediabetes, and mild obesity. The patient denies any prior myocardial infarction but has a strong family history of coronary artery disease.
+
+MEDICATIONS:
+Losartan 100 mg daily, Metoprolol 50 mg twice daily, Aspirin 81 mg daily, and Atorvastatin 40 mg nightly.
+
+PHYSICAL EXAMINATION:
+Blood pressure: 162/98 mmHg. Pulse: 92 bpm. Cardiac examination revealed a regular rate and rhythm with mild S4 gallop. Lungs are clear to auscultation. No peripheral edema noted.
+
+INVESTIGATIONS:
+ECG shows nonspecific ST-T wave changes. Echocardiogram demonstrates mild left ventricular hypertrophy with an ejection fraction of 55%. Lipid profile shows total cholesterol of 262 mg/dL, LDL 178 mg/dL, HDL 42 mg/dL, and triglycerides 190 mg/dL.
+
+ASSESSMENT:
+
+1. Recurrent chest pain - probable stable angina.
+2. Uncontrolled hypertension.
+3. Hyperlipidemia with poor medication adherence.
+4. Increased cardiovascular risk due to family history and obesity.
+
+Plan:
+1. Schedule a cardiac stress test and coronary CT angiography to evaluate for obstructive coronary artery disease.
+2. Intensify blood pressure and cholesterol management with lifestyle modification, dietary counseling, and stricter medication compliance.
+3. Start Clopidogrel 75 mg daily in addition to Aspirin for antiplatelet therapy.
+4. Follow up in two weeks after angiography results for further heart disease risk assessment and possible angioplasty if indicated.

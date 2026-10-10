@@ -1,0 +1,636 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR R613 
+PATIENT?  How you doing today?
+
+PATIENT R613
+Okay.  
+
+DOCTOR R613
+Oh man its freezing.
+
+PATIENT R613
+It could be worse.
+
+DOCTOR R613
+How much worse can it get?
+
+PATIENT R613
+That's true.
+
+DOCTOR R613
+No @@@.  So how have things been going with you sir?
+
+PATIENT R613
+Okay.  You know I got a question for you. Before I forget.
+
+DOCTOR R613
+You got a question @@@ what?
+
+PATIENT R613
+@@@.
+
+DOCTOR R613
+Okay.  
+
+PATIENT R613
+The doctor before you, when I first started taking some of these pills, after a while your system, blood is, whatever he said you don't need to take this lipisil so I wasn't taking it.
+
+DOCTOR R613
+Lisinopril?
+
+PATIENT R613
+Yeah I wasn't taking it and all of sudden through the mail I got like two bottles, that's what I get guess I'm supposed to take it.
+
+DOCTOR R613
+Um.
+
+PATIENT R613
+Then one of the gals called about the blood test, I told her about that and said you gotta be wrong, I said no, so I said so I started taking it again and I said the docs told me, I said what do I do with the pills that I got?
+
+DOCTOR R613
+Yeah.
+
+PATIENT R613
+Just put them on the side.
+
+DOCTOR R613
+Okay.  Let's see when you were last in.  You were on lisinopril; it was on your medication list way back in October of 09.
+
+PATIENT R613
+Yeah it was way back.
+
+DOCTOR R613
+You should be taking it.
+
+PATIENT R613
+Okay.
+
+DOCTOR R613
+Yeah.
+
+PATIENT R613
+Will you do me a favor?
+
+DOCTOR R613
+Yeah.
+
+PATIENT R613
+I called in for what I need refills on and I didn't ask about the lisinopril.
+
+DOCTOR R613
+The lisinopril?
+
+PATIENT R613
+Yeah could you put.
+
+DOCTOR R613
+I renewed all of your medications as of yesterday.
+
+PATIENT R613
+Oh good.
+
+DOCTOR R613
+Yeah so you should be getting them all in the mail and uh how have things been going for you?
+
+PATIENT R613
+Alright.
+
+DOCTOR R613
+You look thinner.  Do you think you're losing water weight or what?
+
+PATIENT R613
+Oh that and I work out.
+
+DOCTOR R613
+You started working out?
+
+PATIENT R613
+Yeah.  The only thing I got now, I got a damn head cold.  I got like an on/off sore throat.  My ears blocked up and maybe if they open up, you know.
+
+DOCTOR R613
+Yeah.  How long has that been going on for?
+
+PATIENT R613
+Oh about almost two weeks.  I'll pop a Hall's and it soothes the throat.
+
+DOCTOR R613
+Okay.  Any fevers or anything like that?
+
+PATIENT R613
+No.
+
+DOCTOR R613
+Okay.
+
+PATIENT R613
+You know when you’re real smart, and you're too lazy to go to the bedroom to the coat to get @@@ sticking out of the mail slot, and you open the door with a skinny shirt on @@@.  
+
+DOCTOR R613
+Yeah.  
+
+PATIENT R613
+Uh I hate to be an idiot.
+
+DOCTOR R613
+So let's go over all your problems step by step here.  The health issues anyway.  For your diabetes, um did you get labs done when you came in today, labs today or?
+
+PATIENT R613
+Yes.  Just had it.
+
+DOCTOR R613
+That was just your INR though, your Coumadin level right?
+
+PATIENT R613
+I guess yeah.
+
+DOCTOR R613
+Okay.  Um, back in November of last year, your diabetes was under pretty good control.
+
+PATIENT R613
+Well I monitor myself you know three times a week uh.
+
+DOCTOR R613
+How have your numbers been?
+
+PATIENT R613
+Like uh 100-120.
+
+DOCTOR R613
+Okay.  When do you take your meaurement then?
+
+PATIENT R613
+Well it's supposed to be on a Monday before breakfast, I take it like 7 o'clock.
+
+DOCTOR R613
+And that's running like 100-120?
+
+PATIENT R613
+Yeah around there, about 120 and then on the Wednesday before lunch so that's usually like around 1 o'clock and that's low.  Sometimes it's even 105.
+
+DOCTOR R613
+Okay.
+
+PATIENT R613
+And then on a Friday before supper, I've had it where it was down to 90.
+
+DOCTOR R613
+Okay.  Have you ever had any episodes of really low blood sugars, where you're kind of feeling shaky or lightheaded?
+
+PATIENT R613
+One time.
+
+DOCTOR R613
+Just one time, when was that?
+
+PATIENT R613
+Oh gosh that was during the summer.
+
+DOCTOR R613
+Okay.
+
+PATIENT R613
+It was one of those days when it was hot and I was doing something, oh I was playing with the dogs in the backyard and got all sweated up and then came in the house, that's when I started feeling that.
+
+DOCTOR R613
+Okay.  Alright.  When did you last see an eye doctor?
+
+PATIENT R613
+Uh last year.
+
+DOCTOR R613
+That was here?
+
+PATIENT R613
+No, my other glasses got broke and I had to go to my neighborhood, @@@ Pearle Vision.
+
+DOCTOR R613
+Okay.
+
+PATIENT R613
+I went over there and I got a pair of glasses.
+
+DOCTOR R613
+Well we're going to have you see the eye doctors here.
+
+PATIENT R613
+Hey uh that's right I did the.
+
+DOCTOR R613
+The diabetes scan?
+
+PATIENT R613
+Yeah that was three years?
+
+DOCTOR R613
+Wow, we need to get you in there.
+
+PATIENT R613
+About three years ago.
+
+DOCTOR R613
+Yeah, lets get you in there.  Um do take an aspirin?
+
+PATIENT R613
+Yeah in the evenings, a kiddie aspirin.
+
+DOCTOR R613
+Okay.
+
+PATIENT R613
+Children's aspirin, I call them kiddie.
+
+DOCTOR R613
+Yeah.  So we need to have you see and this is just a test for diabetes of the eyes, not for glasses.
+
+PATIENT R613
+Yeah.
+
+DOCTOR R613
+Or anything like that.  Alright so diabetes looks like pretty good. Um you’re doing a good job measuring blood sugars, you're just taking the one medication for that, the metformin.
+
+PATIENT R613
+Yeah half of it.
+
+DOCTOR R613
+Yeah half a tab so that looks pretty good.  Your cholesterol was pretty close to where we want it back in November.  Your bad cholesterol is 74; we want that around 70, certainly less than 100.  Um in regards to your a fib or @@@, you're on the Coumadin for that.  You're following with the Coumadin Clinic right?
+
+PATIENT R613
+Yeah.
+
+DOCTOR R613
+And you're also on two medications, metoprolol.  What is the dose of your metoprolol?  Do you know?
+
+PATIENT R613
+No.
+
+DOCTOR R613
+Cause there was different, when I was reviewing your meds yesterday, it was different, this one says 100 mg but that's just over, I renewed it for, so you're going to be taking 75 mg.  How many pills are you taking of the metoprolol?  Do you know?  Are you taking one or one and a half?
+
+PATIENT R613
+Uh, the metoprolol, is it a little, is that the diabetic one?
+
+DOCTOR R613
+No that's for your blood pressure and heart.
+
+PATIENT R613
+Uh one.
+
+DOCTOR R613
+One twice a day?
+
+PATIENT R613
+Yeah.
+
+DOCTOR R613
+Okay.  I see here there are two orders in the system.  One was for 75 mg twice a day and one was for 100 mg twice a day and there's no.
+
+PATIENT R613
+Well one I take twice a day and the other one is once a day.
+
+DOCTOR R613
+Yeah.  Let's do the 100 mg, I think you've been taking the 100 mg that you've been taking.
+
+PATIENT R613
+That one I take once a day in the morning.
+
+DOCTOR R613
+Yeah.
+
+PATIENT R613
+I got that metoprolol tartrate.
+
+DOCTOR R613
+Yeah exactly.
+
+PATIENT R613
+And other metoprolol, that's like a green color, blue, that's the one I take twice a day.
+
+DOCTOR R613
+Sure.  Um, are you on any water pills?
+
+PATIENT R613
+Yeah the furosemide.
+
+DOCTOR R613
+Twice a day right?
+
+PATIENT R613
+Yes.
+
+DOCTOR R613
+And how's, have you been watching your weight?  Like uh daily or no?
+
+PATIENT R613
+You can't have everything.
+
+DOCTOR R613
+Have you been watching your salt intake?
+
+PATIENT R613
+I don't use any.
+
+DOCTOR R613
+Okay.  What about like eating salty foods, fried foods?
+
+PATIENT R613
+No I don't.  I've never, even when I was a kid.  My family are Lithuanian and most of the stuff you eat is boiled.  You know boiled chicken neck.  My great uncle lived to be 96.  You could give him $100 to eat something fried and he wouldn't touch it.
+
+DOCTOR R613
+Sure.
+
+PATIENT R613
+But I don't even have mashed potatoes or French fries, I like rice.
+
+DOCTOR R613
+Okay, that's good.  And uh are you still smoking?
+
+PATIENT R613
+Sure.
+
+DOCTOR R613
+How much are you smoking?
+
+PATIENT R613
+Uh I smoke a pipe, maybe four or five times a day.
+
+DOCTOR R613
+Okay.
+
+PATIENT R613
+It's not no.
+
+DOCTOR R613
+Any interest in quitting?
+
+PATIENT R613
+No.  I like it.
+
+DOCTOR R613
+You understand the health risks though right?
+
+PATIENT R613
+Sure do.
+
+DOCTOR R613
+Okay so heart disease, stroke, lung disease.  You know we got those pulmonary function tests that were done.  That was a while ago, but you do have what looks like um emphysema or bronchitis.  So, you are having some lung damage and um that's probably why you've been short of breath too when you exert yourself.  Yesterday I just reviewed things and I could give you an inhaler called Combivent that you could use.  You use it every day twice a day okay and it might, this will help with your breathing when you exert yourself. Uh two puffs in the morning and two puffs in the evening and that way if you're like feeling like you could run a marathon you're breathing so good, still do, it okay.
+
+PATIENT R613
+Yeah.
+
+DOCTOR R613
+And it'll help your breathing out.  Uh and but the best thing that you're going to do for that is to quit smoking okay.  So.
+
+PATIENT R613
+So really the amount that I puff on the pipe it's almost like not smoking because I don't inhale it that much.
+
+DOCTOR R613
+Yeah and your lungs have already suffered quite a bit of damage.  Like your pulmonary function tests your lung reserve is pretty low right now.  So you're like, as people age, as they get older their lung volume goes down.
+
+PATIENT R613
+Yeah.
+
+DOCTOR R613
+And that's just normal aging.  Someone that smokes, their lung volume is going to go down really quickly okay.  If you were to stop smoking, you can't reverse the damage that's already occurred but you can go back on this normal slope so that the damage will occur less rapidly um so you know I'm afraid that if you continue to smoke, with your severe lung function uh it's gonna, you're going to end up being on oxygen and things like that, you're only 65, you need some more years in you.  Alright.  Do you drink alcohol?
+
+PATIENT R613
+No.
+
+DOCTOR R613
+Did you ever?
+
+PATIENT R613
+Oh yeah.
+
+DOCTOR R613
+Okay and one other test we need to do is that I would encourage you to do, we never got an ultrasound of your belly, looking for an aneurysm and any male over the age of 55 that's been smoking for five or more years, deserves a screening for this and it checks for the ballooning of the aorta in your belly.
+
+PATIENT R613
+Yeah.
+
+DOCTOR R613
+Um let's get that done okay; it's just a probe with some jelly on it, probably 20 minutes.
+
+PATIENT R613
+Will I have a foxy looking gal do it?
+
+DOCTOR R613
+Hopefully.  Not if you really want to get it at the VA though.
+
+PATIENT R613
+I don't care.
+
+DOCTOR R613
+I haven't seen too many foxy gals walking around here.
+
+PATIENT R613
+They used to have.
+
+DOCTOR R613
+Really?
+
+PATIENT R613
+Maybe guys like me chased them out.
+
+DOCTOR R613
+Are you getting any chest pain or pressure at all?
+
+PATIENT R613
+No.
+
+DOCTOR R613
+Do you when you exert yourself?
+
+PATIENT R613
+No.
+
+DOCTOR R613
+Uh have you gotten a flu shot this year?
+
+PATIENT R613
+No.  I don't need it.
+
+DOCTOR R613
+Even with your lung function?  How many people do you think die from the flu every year?  Throw a number out.
+
+PATIENT R613
+Oh a couple thousand.
+
+DOCTOR R613
+25,000 and that's not worldwide, that's in the United States.
+
+PATIENT R613
+Yeah.
+
+DOCTOR R613
+That is a lot of people dying from the flu and uh and you have other medical conditions namely heart disease, diabetes and now lung disease so you're a high risk if you ever get the flu and it's still floating around.  We're actually seeing more flu cases now than we were a couple months ago.  
+
+PATIENT R613
+Naw.
+
+You're the only person, really only patient that that hasn't worked on.
+
+PATIENT R613
+(Laughter)  I don't scare easy.
+
+DOCTOR R613
+I'm not kidding you.
+
+PATIENT R613
+I know.
+
+DOCTOR R613
+I've had the most stubborn patient @@@ today and I want you to have it.
+
+PATIENT R613
+Are you serious?
+
+DOCTOR R613
+I'm serious about it and it's safe.  What's the reservation about it?
+
+PATIENT R613
+I just don't want it.
+
+DOCTOR R613
+Okay, I mean are you concerned that you're going to get sick from it or?
+
+PATIENT R613
+No.
+
+DOCTOR R613
+What about the pneumonia shot?
+
+PATIENT R613
+Na.
+
+DOCTOR R613
+So if the flu shot and the pneumonia shot protects you from the main bacteria that causes pneumonia @@@.
+
+PATIENT R613
+No.
+
+DOCTOR R613
+Okay.  I don't want to push it anymore.  I'm going to write refused the flu and Pneumovax vaccine.  How's your shortness of breath?
+
+PATIENT R613
+Good.
+
+DOCTOR R613
+Been okay?
+
+PATIENT R613
+Yeah okay.  @@@.
+
+DOCTOR R613
+Yeah and have you thought any more about the cardiac catheterization?  Have you talked to your doctor DOCTOR about it?
+
+PATIENT R613
+Yeah, no.
+
+DOCTOR R613
+And you understand the risks of not going through that?
+
+PATIENT R613
+Yeah.
+
+DOCTOR R613
+Uh how's your swelling in your feet or your ankles?
+
+PATIENT R613
+None.
+
+DOCTOR R613
+You don't have any?
+
+PATIENT R613
+No.
+
+DOCTOR R613
+You’re still in that irregular rhythm but it's low.  @@@.  Any uh, that's good.  We need to get some, I know you were just down in the Lab but @@@.  Would you mind getting one more blood test, @@@.  Um do you mind getting one more blood test, we might even be able to get you,  today just check out your kidney function cause you're on a really high dose of the water pill.  I just want to make sure that your kidneys are still functioning normally and we're not causing any damage to them with the high dose of the water pill @@@ and we can also test your diabetes to make sure that's been controlled for the last three months.
+
+PATIENT R613
+You mean get that done now?
+
+DOCTOR R613
+Yeah I'll send you down as soon as we're done here.  Okay.  Did you used to smoke cigarettes too?
+
+PATIENT R613
+Yeah.
+
+DOCTOR R613
+When did you quit the cigarettes?
+
+PATIENT R613
+Oh, well actually it was when they raised the price and that was about four years ago.
+
+DOCTOR R613
+Okay.  Alright have a seat up here, take off your shoes for me.  @@@.  
+
+PATIENT R613
+No.
+
+DOCTOR R613
+Any sores on your feet at all?
+
+PATIENT R613
+No.
+
+DOCTOR R613
+And you're checking feet daily?
+
+PATIENT R613
+Yeah.
+
+DOCTOR R613
+Okay good.  Take some deep breaths in and out.  Again.  Just breathe normally now.  Let me check the lungs okay.  Look that way, @@@.  Okay.  Alright I really think you're gonna notice a difference with the inhaler. Your lungs sound a little wheezy.  @@@
+
+PATIENT R613
+I got the cold too.
+
+DOCTOR R613
+@@@  yeah they definitely doesn’t help.  Okay let me just go talk to my supervisor about this stuff and I'll be right back.
+
+(DOCTOR OUT:  38:29  DOCTOR IN:  45:15)
+
+DOCTOR R613
+Alright sir.  There are a few uh, @@@ I talk to DOCTOR and she is in agreement with everything.  She said stop smoking, take your flu shot, get the Pneumovax.
+
+PATIENT R613
+(Laughter).
+
+DOCTOR R613
+Come back in six months and continue taking all your medications, including that lisinopril okay and go down to the Lab today to get your kidney function tests.
+
+PATIENT R613
+They know about the kidney function?
+
+DOCTOR R613
+Yeah I already wrote the order.  @@@.  
+
+PATIENT R613
+I'll be down there.
+
+DOCTOR R613
+So take this to the check-out desk with you.
+
+PATIENT R613
+Alright.
+
+DOCTOR R613
+Okay.
+
+PATIENT R613
+Take it easy.
+
+DOCTOR R613
+Thank you.
+
+PATIENT LEAVES:  45:52
+
+Time is 10:44 a.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1246969
+TRANSACTION # 578-10-2-316-0103

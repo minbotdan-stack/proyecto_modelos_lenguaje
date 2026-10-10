@@ -1,0 +1,524 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@ 
+
+DOCTOR H866
+Alright come on down.  How you doing?
+
+PATIENT H866
+@@@.
+
+DOCTOR H866
+How you been?  @@@.
+
+PATIENT H866
+@@@.
+
+DOCTOR H866
+Are you working?
+
+PATIENT H866
+They been giving me shots in this sore arm.
+
+DOCTOR H866
+Oh.
+
+PATIENT H866
+@@@.
+
+DOCTOR H866
+Um that's stressful sometimes.  @@@.  So how have you been doing?
+
+PATIENT H866
+Good.
+
+DOCTOR H866
+Good.
+
+PATIENT H866
+Real good.
+
+DOCTOR H866
+No problems?
+
+PATIENT H866
+No the problem that I did have was medicine, some stuff that the doctor gave me.
+
+DOCTOR H866
+What'd they give you?
+
+PATIENT H866
+Uh I was having trouble.
+
+DOCTOR H866
+Going to the bathroom?
+
+PATIENT H866
+Yeah.
+
+DOCTOR H866
+Yeah.
+
+PATIENT H866
+But you gave me that what's that Tyl stuff?
+
+DOCTOR H866
+Oh okay, oh and then you drink it?
+
+PATIENT H866
+I did, I put it in juice or something.  Is it, I.
+
+DOCTOR H866
+Metamucil?
+
+PATIENT H866
+No they gave me something else um it's like um glucose or something @@@ I don't know.
+
+DOCTOR H866
+Psyllium?  Oh polyethylene glycol.
+
+PATIENT H866
+Yeah.  That's what it is.
+
+DOCTOR H866
+I thought you were trying; you were doing the vegetable diet and stuff.  That's still not helping huh?
+
+PATIENT H866
+Oh I feel good yeah.  I been doing that for.
+
+DOCTOR H866
+So you're still getting kind of constipated?
+
+PATIENT H866
+Okay I think the reason I was constipated might have been water.
+
+DOCTOR H866
+You don't drink enough water?
+
+PATIENT H866
+Yeah.  I don't know what is the reason but that stopped it because on my right side it hurt bad, like when I turn over in the bed.  It was killing me and you know my wife, you know she talks a lot.  She says it's probably your blah, blah, blah and probably need to use the bathroom.  You know I took her advice so I came on back and talk about and you know that's what it was.
+
+DOCTOR H866
+Awesome.  But it seems to help now that you've been taking that.  So no belly pain or anything like that?  You're having regular bowel movements?
+
+PATIENT H866
+Uh-huh.
+
+DOCTOR H866
+Awesome.
+
+PATIENT H866
+Yeah.
+
+DOCTOR H866
+Any pain in your chest, trouble breathing?  How's your asthma?
+
+PATIENT H866
+My asthma, for the last four, five years, been okay.
+
+DOCTOR H866
+Uh-huh.
+
+PATIENT H866
+I lost weight, I try to eat right.  I go to the gym.
+
+DOCTOR H866
+Wow, look at you.
+
+PATIENT H866
+I take the medication all the time and.
+
+DOCTOR H866
+Your blood pressure's a little high today.  You took it today.
+
+PATIENT H866
+Yeah.  Probably, see I got a little grandbaby there and.
+
+DOCTOR H866
+Oh yeah.
+
+PATIENT H866
+Just before I came, just before I left she's been on my nerves.
+
+DOCTOR H866
+I thought they were supposed to be angels.
+
+PATIENT H866
+I did too.  Angels with dirty faces.
+
+DOCTOR H866
+Alright.
+
+PATIENT H866
+And my daughter got this dog, a little funny-looking dog.
+
+DOCTOR H866
+What kind is it?
+
+PATIENT H866
+I don't know but she take it to the dog wash, giving him a blow dry, keep the dog fluffy and the dog @@@.
+
+DOCTOR H866
+So he's not cute?
+
+PATIENT H866
+He cute, did you say cute?
+
+DOCTOR H866
+Cute yes.
+
+PATIENT H866
+Oh he's cute, she just babies him.
+
+DOCTOR H866
+Oh yeah.
+
+PATIENT H866
+You know it's one of those dogs that ain't gonna grow to be big.
+
+DOCTOR H866
+Yeah.
+
+PATIENT H866
+And she totes the dog around and all this and, it's something else.  Ride the dog around in the car with her all the time, staying with it when it has to go and it's something else.
+
+DOCTOR H866
+Alright so I looked at your liver tests when you were here also and they looked fine.
+
+PATIENT H866
+That's good.  They did an @@@ no they did.
+
+DOCTOR H866
+They did a CAT scan, it was normal.
+
+PATIENT H866
+Okay.
+
+DOCTOR H866
+So that was fine.
+
+PATIENT H866
+Then I was supposed to came and did another thing.
+
+DOCTOR H866
+An ultrasound.
+
+PATIENT H866
+I think but I didn't make it and he told me that I could talk to, somebody @@@.
+
+DOCTOR H866
+@@@.
+
+PATIENT H866
+Something about rescheduling it.
+
+DOCTOR H866
+Do you know what it was to look at?
+
+PATIENT H866
+Um.
+
+DOCTOR H866
+Let's see, a colonoscopy?
+
+PATIENT H866
+Right.
+
+DOCTOR H866
+Okay.
+
+PATIENT H866
+Because I think, am I scheduled to have one?  I had one but I didn't know when.
+
+DOCTOR H866
+Let's see if they put in, yeah.  They put in that they're gonna contact you about it um.
+
+PATIENT H866
+So they're gonna call me?
+
+DOCTOR H866
+Yeah they're gonna call you.  I mean, you had a colonoscopy already in 2007.
+
+PATIENT H866
+Okay.
+
+DOCTOR H866
+So you are due um.  It's a little early.
+
+PATIENT H866
+Oh.
+
+DOCTOR H866
+But uh it’s okay, we'll just put that you've been having all this pain and what not.
+
+PATIENT H866
+It's not way too early is it?
+
+DOCTOR H866
+No.  It's like a few months.
+
+PATIENT H866
+Okay.
+
+DOCTOR H866
+So it won't really make a difference.
+
+PATIENT H866
+Yeah.  Because you know when I had it done the first time, she said they found two something and they cut them off.
+
+DOCTOR H866
+Yep and that's why you have to have it done five years later so that one was about five years ago.  Um and then I saw so you went and got you hearing aids.
+
+PATIENT H866
+Yeah I got one hearing aid.
+
+DOCTOR H866
+How's that so uh they did find anything wrong.  Cause I remember the last time your hearing.
+
+PATIENT H866
+That's because some of my hearing is lost in the left ear.
+
+DOCTOR H866
+That is, well I'm glad that you have that for your left one.
+
+PATIENT H866
+I forgot it.
+
+DOCTOR H866
+Oh.  Well you can hear me, sound good.
+
+PATIENT H866
+Okay.
+
+DOCTOR H866
+Why don't you sit up here I'll take a listen to you.
+
+PATIENT H866
+Uh.
+
+DOCTOR H866
+Deep breath.  
+
+PATIENT H866
+I got what they did with my naval.  I had um.
+
+DOCTOR H866
+I'm going to have you lay back.
+
+PATIENT H866
+What's that operation?
+
+DOCTOR H866
+Hernia.
+
+PATIENT H866
+Umbilical.
+
+DOCTOR H866
+Yeah.
+
+PATIENT H866
+And sometime there be something running out of it.
+
+DOCTOR H866
+But does it go back in?
+
+PATIENT H866
+Yeah.
+
+DOCTOR H866
+That's okay.
+
+PATIENT H866
+Okay.  I got one more thing.
+
+DOCTOR H866
+Yep.
+
+PATIENT H866
+I got a cough.
+
+DOCTOR H866
+Okay.
+
+PATIENT H866
+At night I have a real bad cough.  It just started a couple days ago.
+
+DOCTOR H866
+Have you been using your inhalers?  Okay, does it help?  Probably your asthma with changing of the season.
+
+PATIENT H866
+Yeah that's what I was thinking.
+
+DOCTOR H866
+Usually nighttime cough, that's what it is.
+
+PATIENT H866
+Yeah it's bad.
+
+DOCTOR H866
+Yeah.  Um you're just taking the albuterol now right?
+
+PATIENT H866
+Um I don't know they gave me something.  I was taking.
+
+DOCTOR H866
+Formoterol are you using that too?
+
+PATIENT H866
+No they gave me just one.
+
+DOCTOR H866
+Formoterol with mometasone?
+
+PATIENT H866
+Nope.
+
+DOCTOR H866
+No steroids?
+
+PATIENT H866
+I was taking it but she gave me this one that replaced that.  Instead of taking both of them she said it's just one.
+
+DOCTOR H866
+Yeah that's one.  Uh I don't know the name of it.  It's the two things in one.  But it's a steroid, you been using that?
+
+PATIENT H866
+Yeah.
+
+DOCTOR H866
+How long has the cough been going on?
+
+PATIENT H866
+About three days.
+
+DOCTOR H866
+Okay.  And I think maybe we should just let it ride out for a little bit. With the season, I don’t think changing the medicines is gonna do much.  I'm pretty sure it's probably the asthma so I think you just have to give it a little bit of time.  If it gets worse we can maybe try changing the medicines.  I think with only three days we don't really want to do anything aggressive and then have you on too much medicine.
+
+PATIENT H866
+Okay.
+
+DOCTOR H866
+Does that sound okay?  Your lungs sound good.  You're not wheezing or anything like that so.  Um and you haven't had a prostate exam yet or anything like that have you?  Uh uh.
+
+PATIENT H866
+I thought the colonoscopy and the prostate is different?
+
+DOCTOR H866
+Yeah the colon, the prostate is a different uh.
+
+PATIENT H866
+I never have done it.
+
+DOCTOR H866
+We can do a blood test to look for that.
+
+PATIENT H866
+Okay.
+
+DOCTOR H866
+Um and then.
+
+PATIENT H866
+I don't know I took a blood test.  Oh you already took it.
+
+DOCTOR H866
+Do what?  You had a blood test.
+
+PATIENT H866
+Yeah.
+
+DOCTOR H866
+Yeah it looked at um, it looked at your, we want to look at your lipids, your cholesterol.  You haven't had that for a while so um.  Alright well let me go talk with DOCTOR to see if he has any other thoughts about things to change and you're not taking anything for your cholesterol are you?
+
+PATIENT H866
+Not that I know of.
+
+DOCTOR H866
+Okay.  We might need to go up on one of these blood pressure pills cause it looks like the last time you were here it was a little high.
+
+PATIENT H866
+Yeah.
+
+DOCTOR H866
+So maybe we'll go up on your amlodipine um, so we'll go ask him okay.  I'll be right back.  Everything else looks great.
+
+(DOCTOR OUT:  35:11  DOCTOR IN:  37:18)
+
+DOCTOR H866
+Alright.  Everything he said looks good.  We'll just do blood tests today.  We'll go up on the amlodipine and um.
+
+PATIENT H866
+Um could you put in um a what do you call it?  A consult for me to go to the gym or the Wellness Center?
+
+DOCTOR H866
+Yeah, I can, sure um.
+
+PATIENT H866
+Cause I haven't been in a couple of weeks so I might be out of the.
+
+DOCTOR H866
+Um let me, let me make sure @@@ here.  You've been there before yes?
+
+PATIENT H866
+Yeah.
+
+DOCTOR H866
+Okay yeah I can put everything in.  So we'll just um on your way out, I guess just stop.  I don't know um just ask her at the front about getting the shot.  I don't know how to order it um if they know how they can let me know.
+
+PATIENT H866
+Alright.
+
+DOCTOR H866
+So we can get one.
+
+PATIENT H866
+What is that, the tetanus?
+
+DOCTOR H866
+Yeah the tetanus shot um, they should be able to order it up there, I think, or the nurse can.
+
+PATIENT H866
+Okay.
+
+DOCTOR H866
+And then um get the blood tests and then I'll have them send you the new prescription in the mail if you want.
+
+PATIENT H866
+Okay.
+
+DOCTOR H866
+Alright.
+
+PATIENT H866
+Yeah.  So do I need to get, go to get the blood tests?
+
+DOCTOR H866
+Yeah they're right where they, oh the blood tests yeah, it's across the hall um at the Lab.
+
+PATIENT H866
+Okay.
+
+DOCTOR H866
+Alright.
+
+PATIENT H866
+Ask her about the shot.
+
+DOCTOR H866
+Yeah.
+
+PATIENT H866
+Have a nice day.
+
+DOCTOR H866
+Alright have a good one.
+
+PATIENT H866
+You too.
+
+PATIENT LEAVES:  38:57.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286141
+TRANSACTION # 578-10-2-316-0103

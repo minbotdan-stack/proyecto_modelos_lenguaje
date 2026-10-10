@@ -1,0 +1,479 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR G433
+@@@.  
+
+PATIENT G433
+Oh man, taking me.
+
+DOCTOR G433
+What are we going to do?
+
+PATIENT G433
+@@@.
+
+DOCTOR G433
+Hi how are you?
+
+PATIENT G433
+I'm good.
+
+DOCTOR G433
+Oh yeah okay, have a seat.
+
+PATIENT G433
+Here?
+
+DOCTOR G433
+@@@ right.
+
+PATIENT G433
+Uh-huh, @@@ stuff that you need.
+
+DOCTOR G433
+I'm sorry.  Oh this one, why?
+
+PATIENT G433
+Tuberculosis test @@@.
+
+DOCTOR G433
+Oh what is this exactly?
+
+PATIENT G433
+That's the result of a tuberculosis test and supposedly the medication that I need.
+
+DOCTOR G433
+Okay so what is specific @@@ admission at the @@@ unit?
+
+PATIENT G433
+@@@.
+
+DOCTOR G433
+Oh okay, okay.
+
+PATIENT G433
+Yeah.
+
+DOCTOR G433
+So basically uh.
+
+PATIENT G433
+I @@@ here, @@@ here.
+
+DOCTOR G433
+You had the TB test over there.
+
+PATIENT G433
+Yes I did.
+
+DOCTOR G433
+Okay, okay.  Okay so you had a positive TB test okay.  And we'll do the chest x-ray and um you have to get like some lab work because uh you are 63 years old so it may be hard for taking all the medications you know because certain medications.
+
+PATIENT G433
+Limited to age?
+
+DOCTOR G433
+Yes.
+
+PATIENT G433
+Okay.
+
+DOCTOR G433
+You know it might affect your liver and other things so um we will first run the lab and then get x-ray okay.
+
+PATIENT G433
+Okay.
+
+DOCTOR G433
+Do you mind my going and getting the chest x-ray now?
+
+PATIENT G433
+I have an awful lot of running around to do @@@.
+
+DOCTOR G433
+Okay.  Um.
+
+PATIENT G433
+And I have another complaint.
+
+DOCTOR G433
+Uh-huh.
+
+PATIENT G433
+And it's kind of weird.  This shoulder, the left shoulder.
+
+DOCTOR G433
+Uh-huh.
+
+PATIENT G433
+In the recent, uh let's say the past six weeks.
+
+DOCTOR G433
+Uh-huh.
+
+PATIENT G433
+Is giving me quite a bit of pain.  It is constantly locking.
+
+DOCTOR G433
+Uh-huh.
+
+PATIENT G433
+And I a lot of @@@.
+
+DOCTOR G433
+Yeah.
+
+PATIENT G433
+I'm also having ongoing, guess you can hear me talk, it's not much of a voice uh, I get special antibiotic that was helping me.
+
+DOCTOR G433
+I'm sorry.
+
+PATIENT G433
+Antibiotics that.
+
+DOCTOR G433
+What do you have now?
+
+PATIENT G433
+Uh I want just, throat pain just.
+
+DOCTOR G433
+So a cold a cough or what?
+
+PATIENT G433
+A little of both.
+
+DOCTOR G433
+Okay.
+
+PATIENT G433
+A little of both, I'm not sure it might be associated with the TB thing I don't know.
+
+DOCTOR G433
+Are you coughing up any blood?
+
+PATIENT G433
+No, no.  Just straight @@@ no.
+
+DOCTOR G433
+So how long the cough is going on?
+
+PATIENT G433
+Oh it's not consistent but it has been for like the past uh can I explain?
+
+DOCTOR G433
+Uh huh.
+
+PATIENT G433
+I live at Pacific Garden.
+
+DOCTOR G433
+Uh-huh.
+
+PATIENT G433
+Which is a mission for men.  I just recently went through foreclosure.  I have my own place now.
+
+DOCTOR G433
+Okay.
+
+PATIENT G433
+But in there, the temperature rises and you see I wear my head shaved -  I'm going to sleep and it's going to be going.
+
+DOCTOR G433
+Uh-huh.
+
+PATIENT G433
+@@@ situation.  They're just; how can I phrase this, its worrisome more than anything else.
+
+DOCTOR G433
+That is what it is?
+
+PATIENT G433
+Worrisome and I had both flu shots.
+
+DOCTOR G433
+Okay.
+
+PATIENT G433
+It's not a cold thing but just.
+
+DOCTOR G433
+So do you have uh fever, chills, anything?
+
+PATIENT G433
+Chills is one.
+
+DOCTOR G433
+And night sweats.
+
+PATIENT G433
+Yes I have that.
+
+DOCTOR G433
+Have you lost weight recently?
+
+PATIENT G433
+Uh no.
+
+DOCTOR G433
+Okay and you have shoulder pain you were saying.
+
+PATIENT G433
+Oh this shoulder.
+
+DOCTOR G433
+Uh-huh.
+
+PATIENT G433
+Oh yes.
+
+DOCTOR G433
+Which shoulder?
+
+PATIENT G433
+The left one, yes it is and it's more in the uh rotocuff, the top of the shoulder.  It's sporadic but when it comes it comes, it hurts.
+
+DOCTOR G433
+Do you have it not using it or when you are using it?
+
+PATIENT G433
+Pardon me?
+
+DOCTOR G433
+You have the pain when you are using your arm or when you are just resting?
+
+PATIENT G433
+Really when I'm not using it.
+
+DOCTOR G433
+Okay.  Okay so the pain is when you are not using it.
+
+PATIENT G433
+When I'm not using it yes.  I can be walking and just the weight of the shoulder itself.
+
+DOCTOR G433
+Okay.
+
+PATIENT G433
+It hurts.
+
+DOCTOR G433
+Okay.  So how long that's going on?
+
+PATIENT G433
+That's been for a while and it's getting to be more frequent because it's been regular, it's been going for like two years but it's more frequent now.
+
+DOCTOR G433
+Uh-huh.  Okay.  So for a couple of years?
+
+PATIENT G433
+Yeah.
+
+DOCTOR G433
+Okay and now it's more frequent.
+
+PATIENT G433
+Well the frequency right now is about three, four days out of the week.
+
+DOCTOR G433
+Okay.  So the last time you were here was in the uh.
+
+PATIENT G433
+2008.
+
+DOCTOR G433
+You were here in @@@.
+
+PATIENT G433
+Okay you're right.
+
+DOCTOR G433
+You still drinking alcohol?
+
+PATIENT G433
+Yes I am.
+
+DOCTOR G433
+A lot or have you decreased?
+
+PATIENT G433
+No, no, decreased considerably.
+
+DOCTOR G433
+Uh-huh.
+
+PATIENT G433
+I drank today and I had the next in 16 days and I do not, no drugs.
+
+DOCTOR G433
+@@@.
+
+PATIENT G433
+And that’s been since @@@.
+
+DOCTOR G433
+Oh.
+
+PATIENT G433
+And I’m proud to say that.
+
+DOCTOR G433
+Have you working still or not?
+
+PATIENT G433
+Mmm no.
+
+DOCTOR G433
+Okay. You know you were supposed to get a vitamin D level.
+
+PATIENT G433
+I had the vitamin D, @@@ one week @@@.
+
+DOCTOR G433
+Oh once a week?
+
+PATIENT G433
+Vitamin D?
+
+DOCTOR G433
+Uh-huh.
+
+PATIENT G433
+Yeah.
+
+DOCTOR G433
+Oh really.
+
+PATIENT G433
+Do you want to show you @@@.
+
+DOCTOR G433
+Uh-huh, oh I @@@ about okay.
+
+PATIENT G433
+Yeah the vitamin D I take once a week.
+
+DOCTOR G433
+Okay.
+
+PATIENT G433
+I take folic acid. I take uh.
+
+DOCTOR G433
+Just hold on one second okay.
+
+PATIENT G433
+Okay.
+
+DOCTOR G433
+Hold on one second @@@.
+
+PATIENT G433
+That's quite alright.
+
+(DOCTOR OUT:  24:32  DOCTOR IN:  27:28)
+
+DOCTOR G433
+Okay um well I know what you are taking. The blood pressure is doing good today.
+
+PATIENT G433
+Okay.
+
+DOCTOR G433
+Okay and so I'm going to go ahead and order all the x-ray I ordered.  Do you mind going and getting the x-ray now?
+
+PATIENT G433
+No not at all.
+
+DOCTOR G433
+You can go and they will @@@ and call you.
+
+PATIENT G433
+Where do I go?
+
+DOCTOR G433
+The Outpatient Radiology right up top the street, across the corridor. You can see the Radiology okay.
+
+PATIENT G433
+Okay.
+
+DOCTOR G433
+Or you can get out. You can just ask the.
+
+PATIENT G433
+I’ll find it. Are you prescribing for me today?
+
+DOCTOR G433
+For what?
+
+PATIENT G433
+Antibiotics for pain or anything.
+
+DOCTOR G433
+I'll give you the cough syrup maybe and then uh what kind of sputum are you producing?
+
+PATIENT G433
+Sorry you lost me.
+
+DOCTOR G433
+Are you coughing up anything, any sputum or phlegm?
+
+PATIENT G433
+Phlegm, yes.
+
+DOCTOR G433
+What color?
+
+PATIENT G433
+Uh green.
+
+DOCTOR G433
+Green see because you know um if you are not having any fevers.
+
+PATIENT G433
+I'm not having any.
+
+DOCTOR G433
+How long have you had this cough?
+
+PATIENT G433
+Oh gee, on and off for maybe 2 1/2 weeks.
+
+DOCTOR G433
+2 1/2 weeks.
+
+PATIENT G433
+Yeah.
+
+DOCTOR G433
+I just talked to the attending and see you know.  You can go and get the x-ray now okay.
+
+PATIENT G433
+Right.
+
+DOCTOR G433
+And when you come back we'll talk more okay.
+
+PATIENT G433
+I’ll get the x-rays am I supposed to come back here?
+
+DOCTOR G433
+No you will be taken to @@@.  And they'll do a chest x-ray okay.
+
+PATIENT G433
+So do I leave all my stuff with you?
+
+DOCTOR G433
+Actually the front desk, the nursing station, thank you.
+
+PATIENT G433
+@@@.
+
+PATIENT LEAVES:  29:20
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255165
+TRANSACTION # 578-10-2-316-0103

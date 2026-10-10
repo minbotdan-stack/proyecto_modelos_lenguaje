@@ -1,0 +1,920 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR Q175 
+PATIENT?
+
+PATIENT Q175
+Right here.
+
+DOCTOR Q175
+I'm so sorry they put you back in that um close quarters.
+
+PATIENT Q175
+@@@.  
+
+DOCTOR Q175
+It doesn't matter.
+
+PATIENT Q175
+Thank you.
+
+DOCTOR Q175
+Yeah what brings you here today?
+
+PATIENT Q175
+Uh.  I here because of ED.
+
+DOCTOR Q175
+Okay, for how long?
+
+PATIENT Q175
+I don't know it's just a month or @@@.  Says I only got six months left.
+
+DOCTOR Q175
+Okay.  Um let's see.  You were recently here with a headache right?
+
+PATIENT Q175
+Yeah.
+
+DOCTOR Q175
+And um did they do anything for you or did they give you some medications?
+
+PATIENT Q175
+Yeah I have @@@.
+
+DOCTOR Q175
+You had like six @@@ of your heart.
+
+PATIENT Q175
+I do.
+
+DOCTOR Q175
+Which is really bad.
+
+PATIENT Q175
+It is.
+
+DOCTOR Q175
+Yeah, totally unnecessary.
+
+PATIENT Q175
+Really.
+
+DOCTOR Q175
+Totally.  It's not gonna, there's no reason to have that much radiation to your heart.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+No reason at all.  Even in patients who have like @@@ transfers.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+They would never @@@, never.
+
+PATIENT Q175
+In a month?
+
+DOCTOR Q175
+That's what the notes say, let me just check it.
+
+PATIENT Q175
+I mean I don't want to @@@.
+
+DOCTOR Q175
+No I mean it's not, it's not a @@@, it's totally unnecessary.  There's no point in it.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+Um so um who is your regular doctor here that you follow with?  Is there anybody that you?
+
+PATIENT Q175
+I don't have any regular doctor.  I just go to the clinic.
+
+DOCTOR Q175
+Okay.
+
+PATIENT Q175
+I don't have a regular doctor that I know of.  I always just go to the Urgent Care.
+
+DOCTOR Q175
+Okay.  So it looks like you've never had a colonoscopy right?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Alright so you're due for that cause you're 50 now.
+
+PATIENT Q175
+Yes.
+
+DOCTOR Q175
+So you're gonna get one of those.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+Okay.  Um and then do you smoke?
+
+PATIENT Q175
+Occasionally.
+
+DOCTOR Q175
+How often?
+
+PATIENT Q175
+Maybe once a day.
+
+DOCTOR Q175
+Okay.  Are you interested in quitting?
+
+PATIENT Q175
+Yeah I'm gonna do that.  I plan on doing it, next Monday or Tuesday, @@@ give it up, @@@.  I don't have to smoke.
+
+DOCTOR Q175
+Okay.  Okay um now what about um, did you get a flu shot this year?
+
+PATIENT Q175
+Yes.
+
+DOCTOR Q175
+You did.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+Okay.  Um @@@?
+
+PATIENT Q175
+I'm not sure.  I was in the hospital last week, I got a flu shot, I'm not completely sure.
+
+DOCTOR Q175
+Okay.  Um well it looks like all your labs are um good.  What were you in the hospital for?
+
+PATIENT Q175
+You'll see it.
+
+DOCTOR Q175
+What happened?  I know back in August, but recently, were you in the hospital recently or just that?
+
+PATIENT Q175
+I had a suicide attempt.
+
+DOCTOR Q175
+That was in August or was there another one?
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+There was?
+
+PATIENT Q175
+@@@.
+
+DOCTOR Q175
+Okay.  Oh you weren't hospitalized here?
+
+PATIENT Q175
+I was hospitalized here, I don't know but they don't, uh the VA @@@.
+
+DOCTOR Q175
+Okay.  Okay.  Um how are you dealing with stuff now?
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+Do you mind if I ask how you tried?  Was it your wrist again or was it something else?
+
+PATIENT Q175
+Um I was talking about doing it you know basically um, taking all my medicines @@@.  But I said to myself @@@.
+
+DOCTOR Q175
+Okay good, good.  Well do you know when about that was?
+
+PATIENT Q175
+It was because I missed my court date and I'm going to court for SSI disability.
+
+DOCTOR Q175
+Okay.
+
+PATIENT Q175
+And I was in the hospital at the time that I was supposed to go and they wouldn't let me out to go to my, to go before the @@@ and I @@@ ruling on my @@@ about having a lawyer.
+
+DOCTOR Q175
+Okay.  Do you still feel like hurting yourself?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Okay, okay.  Um are you drinking at all?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Um and any drugs?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Okay.  Have you been losing any weight?
+
+PATIENT Q175
+Uh uh.  
+
+DOCTOR Q175
+Um.
+
+PATIENT Q175
+No I’ve been gaining.
+
+DOCTOR Q175
+Okay no sweating at night?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Okay um fevers, chills, anything like that?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Okay.  @@@ here?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Okay.  Um sore throat, cough, chest pain, shortness of breath?
+
+PATIENT Q175
+All that's gone now.
+
+DOCTOR Q175
+You don't feel like your heart is racing or anything?
+
+PATIENT Q175
+Uh uh, no.
+
+DOCTOR Q175
+Any belly pain, throwing up, diarrhea, constipation?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Uh do you have heartburn?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Problems peeing, blood in your pee?
+
+PATIENT Q175
+Uh uh, no.
+
+DOCTOR Q175
+Any changes in your skin, any rashes, lesions, bruising?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Okay.  Uh no swelling in your legs or anything?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Okay.  @@@ depression, anxiety?  How is everything going?
+
+PATIENT Q175
+Yeah but the medication helps.
+
+DOCTOR Q175
+Okay.  What are you taking currently?
+
+PATIENT Q175
+I take Prozac and mirtazapine and that's it.
+
+DOCTOR Q175
+Okay.  Uh you don't have like any no fainting, headaches, no vision changes or anything like that?
+
+PATIENT Q175
+No, not at all.   I was taking vardenafil.  Something like that.
+
+DOCTOR Q175
+Vardenafil yeah.
+
+PATIENT Q175
+They gave it to me but it wasn't working at all.
+
+DOCTOR Q175
+That's what we give here.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+That's actually what um, that's the only medications that we would give for that.
+
+PATIENT Q175
+Uh-huh.  @@@.
+
+DOCTOR Q175
+Huh well we can try again.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+And see you know.
+
+PATIENT Q175
+First it was it was @@@ miligrams @@@ everything @@@.  They give me once a month.  Is that the way it supposed to work once a month?
+
+DOCTOR Q175
+You get two pills a month.
+
+PATIENT Q175
+Oh two pills a month.
+
+DOCTOR Q175
+Cause they're not like totally without side effects, you know um.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+I mean it can change your blood pressure.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+And all kinds of things and it's not something that you can just take like all the time or whenever you know what I mean?
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+Sometimes you can only take for a little bit just to make sure that you’re not overdoing it.  Hmm, I don’t think we have any cholesterol stuff on you sometime so we need to check that.  I don't see that so we'll need to check that on you.  Okay.  Um your blood pressure is good, basically you know it's the smoking and the colonoscopy.  That's the only thing you need.
+
+PATIENT Q175
+Okay.  Well I can stop smoking, that's okay.
+
+DOCTOR Q175
+Are you sure?
+
+PATIENT Q175
+Yeah I'm positive you now.
+
+DOCTOR Q175
+Do you want any help with that?
+
+PATIENT Q175
+No I could stop that and I told them I'd do it the first thing.
+
+DOCTOR Q175
+Are you okay with getting a colonoscopy?  Do you know what it is?
+
+PATIENT Q175
+Yeah I heard about it.
+
+DOCTOR Q175
+Basically they give the stuff, you drink it and then you poop out everything.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+So your bowel is totally clean.
+
+PATIENT Q175
+Yeah I need to get that.
+
+DOCTOR Q175
+They take a little camera and try to look.
+
+PATIENT Q175
+My father, my father passed from uh.
+
+DOCTOR Q175
+Colon cancer?
+
+PATIENT Q175
+Colon cancer yes.
+
+DOCTOR Q175
+Then you should actually have been screened like a long time ago.
+
+PATIENT Q175
+Yeah.
+
+DOCTOR Q175
+Yeah.
+
+PATIENT Q175
+Uh the doctor did the finger part but I mean, but I never got it.
+
+DOCTOR Q175
+Yeah we're gonna set you up right now.
+
+PATIENT Q175
+Okay.  Not today though right?
+
+DOCTOR Q175
+No.
+
+PATIENT Q175
+Oh okay.
+
+DOCTOR Q175
+Not today.  
+
+PATIENT Q175
+Anytime we can do the procedure I’ll be ready for it.  
+
+DOCTOR Q175
+And the only medications you are on is your mental health stuff?
+
+PATIENT Q175
+Right.  That's the only thing I have.
+
+DOCTOR Q175
+And you don't have any kind of a heart valve or anything like that.
+
+PATIENT Q175
+No, no.
+
+DOCTOR Q175
+Alright.
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+And you haven't had any surgeries in your stomach at all, right?
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+Have been on anesthesia?
+
+PATIENT Q175
+Anesthesia what's that?
+
+DOCTOR Q175
+You know they kind of make you kind of.
+
+PATIENT Q175
+Oh I had a hernia operation, I don't think they did anesthesia.
+
+DOCTOR Q175
+Okay.
+
+PATIENT Q175
+The only operation I had was a hiatal hernia.
+
+DOCTOR Q175
+Okay, let me see.  I think everything looks okay.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+Let me take a look at you, can you sit up here for a second.  
+
+PATIENT Q175
+Do you need my shirt off or anything?
+
+DOCTOR Q175
+Nope.  It's good.  Go ahead and breathe normally.  Deep breath, okay.
+
+PATIENT Q175
+Excuse me.
+
+DOCTOR Q175
+That's okay.
+
+PATIENT Q175
+I took too deep of breath.
+
+DOCTOR Q175
+@@@.  
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+Okay.  @@@.
+
+PATIENT Q175
+No I can.
+
+DOCTOR Q175
+No, no, no, you don't move it I'll move it.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+You don't move it I'll hit it.  There you go.  You were moving before I even did anything.
+
+PATIENT Q175
+@@@.
+
+DOCTOR Q175
+Go ahead look straight ahead. Say ah, @@@.
+
+PATIENT Q175
+Ah.
+
+DOCTOR Q175
+Good.  @@@.  Alright, everything looks good um.  I think we can get you set up for your medicine and all that okay.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+You can have a seat back there I'll be right back, just have to talk to my doctor.
+
+PATIENT Q175
+Okay.
+
+(DOCTOR OUT:  22:37  DOCTOR IN:  39:49)
+
+DOCTOR Q175
+Alright sir, sorry about that.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+I know you've been waiting.  He caught me one doctor @@@.  So you can pick up the meds.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+We'll see you back in four months.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+Um and uh as @@@ blood tests.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+With your platelets are @@@.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+Well it's kind of really low.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+Um and so we want to recheck it.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+So we'll send you to the Lab today to get some blood drawn.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+Um.  Do you want to pick up your medicines or do you want it mailed to you?
+
+PATIENT Q175
+I can pick it up today?
+
+DOCTOR Q175
+Yes.
+
+PATIENT Q175
+Yes.
+
+DOCTOR Q175
+Okay fine.  So it's two tablets per month and then we'll give you three refills and then by that time you'll have a return appointment and you'll come back here.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+You know what I'm saying.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+Then we'll keep refilling it.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+As you go, I know that you see the Mental Health people.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+But I'm just a little worried because you I know that @@@ walk-in clinic.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+And um you know if you can attempt to just, I just worry that stuff is going on.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+That really needs to be addressed.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+Um so I think you should go to the PAC
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+And they'll have @@@ it's kind of just a walk-in thing.
+
+PATIENT Q175
+@@@.
+
+DOCTOR Q175
+Yeah you know and it's okay.  I mean @@@ they can do anything @@@.
+
+PATIENT Q175
+Right, right.
+
+DOCTOR Q175
+It's just; you know it's okay, if you don’t want to talk about it with me that's fine.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+@@@.  I'm not going to push you to do something you don’t want to do.
+
+PATIENT Q175
+Right.
+
+DOCTOR Q175
+You know um and then I just, I don't know, I think you should go.
+
+PATIENT Q175
+Check @@@.
+
+DOCTOR Q175
+I would.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+Cause it's not like @@@ anything @@@ take away from you.
+
+PATIENT Q175
+Hmm I used to go to PAC but they uh @@@ my doctor that I used totally see all the time and I haven't gotten assigned to a new doctor so I don't go there anymore.  Now heck, @@@ California I was there for so long but I haven't got a new doctor so, I don't go there anymore.
+
+DOCTOR Q175
+You don't.
+
+PATIENT Q175
+No, I go on 77th and Halsted.
+
+DOCTOR Q175
+Okay so you don't even see like here.  
+
+PATIENT Q175
+No.
+
+DOCTOR Q175
+What's your phone number?
+
+PATIENT Q175
+NUMBER.
+
+DOCTOR Q175
+Oh okay, @@@@.
+
+PATIENT Q175
+NUMBER.
+
+DOCTOR Q175
+Okay.  @@@.
+
+PATIENT Q175
+Uh-huh and that's senior because I have a son that stays there, his name is Junior. So if you call me I could make sure.
+
+DOCTOR Q175
+No sure, sure.  I would just, you know I'll walk over with you.
+
+PATIENT Q175
+Uh-huh.  I'm fine, I know where PAC is.
+
+DOCTOR Q175
+You know where it is.
+
+PATIENT Q175
+Yeah I've been going there for years.
+
+DOCTOR Q175
+So you're probably gonna go.
+
+PATIENT Q175
+I'm gonna stop by there and I'm gonna stop by Transportation and it's right across.
+
+DOCTOR Q175
+I've got your paperwork and everything.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+So if you're ready to go sooner.
+
+PATIENT Q175
+Uh I have to stop over here first anyway; I need to get my blood drawn right.
+
+DOCTOR Q175
+Uh-huh.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+You know, the thing is I can be your regular doctor.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+Cause I saw you once.
+
+PATIENT Q175
+Uh-huh.
+
+DOCTOR Q175
+So I'll set you up, I'll follow your labs.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+We'll do all of that um.
+
+PATIENT Q175
+Yeah I don't have a regular doctor that I know of.
+
+DOCTOR Q175
+Yeah no I will be yours, I can be your regular doctor.
+
+PATIENT Q175
+Primary okay.
+
+DOCTOR Q175
+Yeah and if you need to be seen you know, go through the all.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+And @@@.
+
+PATIENT Q175
+Alright.
+
+DOCTOR Q175
+And they'll get you scheduled, you get your medicine and then if you get anything, you come here.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+Okay.
+
+PATIENT Q175
+Good.
+
+DOCTOR Q175
+So @@@, PAC.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+And Pharmacy to pick up your @@@ and we'll see you back in four months.
+
+PATIENT Q175
+Alright.
+
+DOCTOR Q175
+And then they will mail you a thing for the colonoscopy.
+
+PATIENT Q175
+No?
+
+DOCTOR Q175
+Oh they'll call you.
+
+PATIENT Q175
+Okay call me to set up an appointment.  You say like that be four months.
+
+DOCTOR Q175
+It’ll probably be sooner than that.
+
+PATIENT Q175
+Oh okay.
+
+DOCTOR Q175
+You'll see me in four months.
+
+PATIENT Q175
+Oh okay.
+
+DOCTOR Q175
+But they, I mean I don't do that; it would be up to them actually.
+
+PATIENT Q175
+Right I understand.
+
+DOCTOR Q175
+And they'll take care of it.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+Okay.
+
+PATIENT Q175
+Okay.
+
+DOCTOR Q175
+Alright.
+
+PATIENT Q175
+Alright.
+
+DOCTOR Q175
+@@@.
+
+PATIENT Q175
+Yeah I'll stop back here.
+
+DOCTOR Q175
+Okay.
+
+PATIENT Q175
+Alright.
+
+DOCTOR Q175
+Alright take care.
+
+PATIENT Q175
+Alright thank you.
+
+DOCTOR Q175
+Sure.
+
+PATIENT LEAVES:  46:16
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286102
+TRANSACTION # 578-10-2-316-0103

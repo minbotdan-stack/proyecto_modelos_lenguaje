@@ -1,0 +1,851 @@
+
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@
+
+DOCTOR H772
+PATIENT?
+
+PATIENT H772
+Yeah.
+
+DOCTOR H772
+How you doing?
+
+PATIENT H772
+Alright.
+
+DOCTOR H772
+We have to go to the elevator up to the Pharmacy.  Okay.  Brought all your meds with you?
+
+PATIENT H772
+They're all due on the next time @@@.
+
+DOCTOR H772
+Jackson Park?
+
+PATIENT H772
+Right.  So we're running out uh.  These are all the pills on the list.
+
+DOCTOR H772
+How long have you been out of your Lasix?
+
+PATIENT H772
+A while.
+
+DOCTOR H772
+Getting half a tab.
+
+PATIENT H772
+One and a half pills.
+
+DOCTOR H772
+Oh one and half pills.
+
+PATIENT H772
+Twice a day.
+
+DOCTOR H772
+Okay.  You were due on the 6th.
+
+PATIENT H772
+Right.
+
+DOCTOR H772
+Did we give you any then?
+
+PATIENT H772
+Yeah I been approved for another bottle.
+
+DOCTOR H772
+But you said you've been taking them since it's on the list?
+
+PATIENT H772
+Uh-huh.  And that NAME she cuts them in half.  I got a pill box I put them in for every day.
+
+DOCTOR H772
+So have you been out of them for a while?
+
+PATIENT H772
+No I don't know what I got, what I got, if I got none, I ain't got none.
+
+DOCTOR H772
+Okay.  You live in a nursing home?
+
+PATIENT H772
+No.  I got my own home.
+
+DOCTOR H772
+So your medicines are usually mailed to you?
+
+PATIENT H772
+Yes this one here is.
+
+DOCTOR H772
+How have you been feeling since the last time I saw you?  @@@?
+
+PATIENT H772
+@@@ as far as my right side it hurting right here.  When I get up in the morning.
+
+DOCTOR H772
+When you get up in the morning?  
+
+PATIENT H772
+Yeah for the next day and then I'll get.
+
+DOCTOR H772
+Is it getting better when you move around a little bit?
+
+PATIENT H772
+Not really.  I @@@ let me see the @@@.  Where your @@@ located at?
+
+DOCTOR H772
+They're in back.
+
+PATIENT H772
+Oh okay.
+
+DOCTOR H772
+Have you been having to urinate more or less?
+
+PATIENT H772
+I'm leaking urine all the time @@@.
+
+DOCTOR H772
+Okay.
+
+PATIENT H772
+One thing or other if you @@@.
+
+DOCTOR H772
+Yeah so you are going @@@.
+
+PATIENT H772
+Yeah @@@ for the 16th @@@.
+
+DOCTOR H772
+@@@.
+
+PATIENT H772
+Yeah.
+
+DOCTOR H772
+Six, two and ten?  That's when you take your Lasix?
+
+PATIENT H772
+Uh I take one blood pressure pill in the morning.
+
+DOCTOR H772
+Okay.
+
+PATIENT H772
+@@@ and I take another one at 2 o'clock.
+
+DOCTOR H772
+Uh-huh.  Your blood pressure's too high today.  
+
+PATIENT H772
+What was it?
+
+DOCTOR H772
+141/93.  But do you, you took your morning medicine right?
+
+PATIENT H772
+Uh-huh.
+
+DOCTOR H772
+Okay, good.  
+
+PATIENT H772
+Cause it's too far for me to walk for me @@@.  Cause my doctor 
+@@@ my blood pressure goes up so they were going to take me off of blood pressure and put me on a taper, @@@ or something.
+
+DOCTOR H772
+Is @@@?
+
+PATIENT H772
+I be exercising at home cause I been walking for years.  But @@@ down here I @@@.
+
+DOCTOR H772
+Okay.
+
+PATIENT H772
+But I @@@ Jackson Park.
+
+DOCTOR H772
+But you get your pills from here is  that right.
+
+PATIENT H772
+Right.
+
+DOCTOR H772
+Do you still take the diltiazem?
+
+PATIENT H772
+I always take them @@@.  It's a blue pill.  But I'm running out of them too.
+
+DOCTOR H772
+Alright.
+
+PATIENT H772
+That's why I see the Pharmacy today too.  @@@.
+
+DOCTOR H772
+Yeah okay.  So this visit today, which doctor was this with us or was it a scheduled one for follow-up?
+
+PATIENT H772
+That was for the follow-up and @@@.  I got @@@ hospital Jackson Park 1st of January.
+
+DOCTOR H772
+But you saw somebody thought right?  You saw somebody on the 5th after you got out of the hospital right?
+
+PATIENT H772
+Of course.  I came here to see you cause I had a @@@ study here but I was in Jackson Park so I couldn't make it.
+
+DOCTOR H772
+Oh I see.
+
+PATIENT H772
+So I had to come out here to see if my Coumadin was alright @@@.
+
+DOCTOR H772
+Right it was right on the money.
+
+PATIENT H772
+That's a good thing.
+
+DOCTOR H772
+Let me check on one thing.  
+
+PATIENT H772
+I ran out of cholesterol, cause @@@.  
+
+DOCTOR H772
+Do you have a home nurse?
+
+PATIENT H772
+Uh-huh.  Then she had me come back to the doctors.
+
+DOCTOR H772
+There’s no Lasix in there. So, you’re completely out of the Lasix?
+
+PATIENT H772
+Yeah.
+
+DOCTOR H772
+Alright well we'll have you go to the Pharmacy today.  Can you go down to the Pharmacy and pick up some today?
+
+PATIENT H772
+Yeah.
+
+DOCTOR H772
+And then the rest of it you can have it mailed but if that's the way you want to do it.
+
+PATIENT H772
+I got no cholesterol, the cholesterol.
+
+DOCTOR H772
+Yeah that's right.  It's really up.
+
+PATIENT H772
+The doctor gave me that one pill and told me to cut it in half, that's stupid because the pill cutter can’t @@@ little pill and cut a little pill. If I'm gonna cut it in half.  That thing won't cut right.  And the Lasix @@@.
+
+
+DOCTOR H772
+Which one?
+
+PATIENT H772
+The cholesterol.
+
+DOCTOR H772
+I can change that.
+
+DOCTOR H772
+@@@ can’t cut it in half.
+
+DOCTOR H772
+So when was the last time you took Lasix, this morning?
+
+PATIENT H772
+Uh-huh.
+
+DOCTOR H772
+Oh so you just ran out.
+
+PATIENT H772
+Yeah.
+
+DOCTOR H772
+Oh that's good time then alright.  We'll get you a refill.  And then as far as the blood pressure goes we'll have to increase your pill called Losartan.
+
+PATIENT H772
+Uh-huh.
+
+DOCTOR H772
+We can go up on that okay.
+
+PATIENT H772
+Uh-huh.
+
+DOCTOR H772
+How long were in you Jackson Park?
+
+PATIENT H772
+A week.
+
+DOCTOR H772
+A week.
+
+PATIENT H772
+We @@@.
+
+DOCTOR H772
+Feeling better since then?
+
+PATIENT H772
+No really.  Slowly @@@ tired.
+
+DOCTOR H772
+@@@.  
+
+PATIENT H772
+I got to lose some weight.  I have to lose weight @@@ before I.
+
+DOCTOR H772
+We have a program here.
+
+PATIENT H772
+I got to be 295 @@@.
+
+DOCTOR H772
+And I think that's probably why you're getting back pain.  @@@ the joints in your back and your knees and muscles you put a lot of strain on them with the weight.  There's a program to help you.  It's called the MOVE Program, you heard of it?
+
+PATIENT H772
+Uh uh.
+
+DOCTOR H772
+It's basically to help you with nutrition, helps you with exercise.  We have a gym here and we have some like recreation stuff you can use.
+
+PATIENT H772
+@@@ can’t get here. 
+
+DOCTOR H772
+How'd get rid of that?
+
+PATIENT H772
+@@@ get paid for something.
+
+DOCTOR H772
+Okay.  Um it should right, if they arrange for that or not but I think it'd be a good thing for you.  You know this weight is only going to make the heart failure worse too so.  It's gonna be difficult to keep that blood pressure under control and when the blood pressure gets out of control then the heart has more strain.  I think dealing with the weight is gonna be just as important as dealing with all these other little personal things you deal with.
+
+PATIENT H772
+Yeah.
+
+DOCTOR H772
+So you have an appointment with the pharmacist today um.
+
+PATIENT H772
+Well I'll be meeting @@@.
+
+DOCTOR H772
+And it says here you have it from 1-2 o'clock.  In the meantime I'll have you go to the Pharmacy and pick up your Lasix and your simvastatin okay and we'll have you pick up some more of the Losartan for your high blood pressure.  Do you have a heating pack at home for that back?
+
+PATIENT H772
+Uh uh.
+
+DOCTOR H772
+No.  Heat works really well for those types of muscle things.  Um I don't want to give you any ibuprofen.
+
+PATIENT H772
+I generally take Aleve.
+
+DOCTOR H772
+Yeah.  Uh you've got some Tylenol @@@ that you can try. Can you take a deep breath for me?
+
+PATIENT H772
+@@@@  I got upset when I couldn't button these pants.  @@@.
+
+DOCTOR H772
+Why do you think you gained weight?
+
+PATIENT H772
+@@@  So any it's getting hard to fluctuate @@@ move.  I @@@ lay in the bed.
+
+DOCTOR H772
+Uh-huh. Swelling is okay. Is this usually how it is?
+
+PATIENT H772
+Uh-huh.
+
+DOCTOR H772
+@@@ too much fluid.  Have you had to sleep on pillows at night, to be able to breathe?
+
+PATIENT H772
+I sleep @@@ every night.
+
+DOCTOR H772
+@@@ okay, four pillows @@@.  Are you coughing anything up still?
+
+PATIENT H772
+Uh uh.
+
+DOCTOR H772
+No okay.  Any fevers or chills recently?
+
+PATIENT H772
+Uh uh.
+
+DOCTOR H772
+Okay um.  Let me talks to DOCTOR about getting you transportation to the MOVE Program.  We'll get your prescriptions and uh and then you know I would try a heat pack at night.  At Walgreens they have ones that you can plug in.  They have ones that you put in the microwave.  They've got a whole bunch of different kinds that you can try on that area.  Where is it exactly?
+
+PATIENT H772
+Right here.
+
+DOCTOR H772
+What I would do is if you can, when you're lying in bed either every morning or if you're sitting in the chair later in the evening, put a heat pack on that area.
+
+PATIENT H772
+Uh-huh.
+
+DOCTOR H772
+Okay.  Um and the heat will help kind of penetrate the muscle.
+
+PATIENT H772
+@@@ last week.  She said my home didn't get enough heat.
+
+DOCTOR H772
+Okay.
+
+PATIENT H772
+I @@@.
+
+DOCTOR H772
+You are okay.  Okay um I don't think we have anything in our Pharmacy like that.  Do you have a defibrillator in place?
+
+PATIENT H772
+A who?
+
+DOCTOR H772
+A defibrillator?  The box, the shock box?
+
+PATIENT H772
+No.
+
+DOCTOR H772
+No.
+
+PATIENT H772
+They said it was gonna help.
+
+DOCTOR H772
+Oh I see yeah.
+
+PATIENT H772
+So @@@.
+
+DOCTOR H772
+Oh I gotcha, I see okay.
+
+PATIENT H772
+There's a hole there.
+
+DOCTOR H772
+Yeah.
+
+PATIENT H772
+Been there but they got @@@.
+
+DOCTOR H772
+And you were getting infections.
+
+PATIENT H772
+Yeah and I had to go to the nursing home @@@.
+
+DOCTOR H772
+Yeah.
+
+PATIENT H772
+@@@.
+
+DOCTOR H772
+Do you smoke?
+
+PATIENT H772
+Not any more.  I ain't smoked in a while.
+
+DOCTOR H772
+Good.  Okay.  I'll be right back okay.  How much Coumadin are you taking now, 7.5?
+
+PATIENT H772
+I use one pill.  @@@.
+
+DOCTOR H772
+Okay.
+
+PATIENT H772
+It should be @@@.
+
+DOCTOR H772
+Yeah, maybe we @@@.
+
+PATIENT H772
+What is it 2.5?
+
+DOCTOR H772
+Or whatever you're taking.
+
+PATIENT H772
+@@@ 2.5 or 2.8.
+
+DOCTOR H772
+Oh it's 2.6.
+
+PATIENT H772
+Yeah.  Then I have my pills around, I take all my medicines every Monday through Friday morning noon and night.
+
+DOCTOR H772
+Uh-huh.
+
+PATIENT H772
+She got it separated what I take in one drawer in the morning.
+
+DOCTOR H772
+Okay.
+
+PATIENT H772
+And the noon one I take a stool softener.  I take the Lasix and then at night I take the Coumadin, cholesterol pill and @@@.
+
+DOCTOR H772
+Who did you say consider  your @@@ , your regular doctor?
+
+PATIENT H772
+DOCTOR.
+
+DOCTOR H772
+DOCTOR okay.
+
+PATIENT H772
+@@@ about six years.
+
+DOCTOR H772
+Okay.  
+
+(DOCTOR OUT:  61:01  DOCTOR IN:  65:44)
+
+SECOND DOCTOR H772
+Hi PATIENT.
+
+PATIENT H772
+Hello.
+
+SECOND DOCTOR H772
+You've gained a lot of weight.
+
+PATIENT H772
+ I see, I don't know how.
+
+SECOND DOCTOR H772
+You don't know how.
+
+PATIENT H772
+Yeah.
+
+SECOND DOCTOR H772
+Your bowels good?
+
+PATIENT H772
+Not really.
+
+SECOND DOCTOR H772
+How is your breathing?  
+
+PATIENT H772
+So it's alright?
+
+SECOND DOCTOR H772
+It's alright?
+
+FIRST DOCTOR H772
+Chest x-ray@@@.
+
+SECOND DOCTOR H772
+Okay.
+
+PATIENT H772
+I been @@@ to try and keep from drinking water.  @@@.
+
+SECOND DOCTOR H772
+Are you taking all of your medicines?
+
+PATIENT H772
+Yeah.
+
+SECOND DOCTOR H772
+All of them right?
+
+PATIENT H772
+Right.  Morning, noon and night pills @@@ fix up.  My nurse at home she put them in the.
+
+SECOND DOCTOR H772
+Are you taking hydralazine?
+
+PATIENT H772
+What's hydralazine?
+
+SECOND DOCTOR H772
+It's listed on your medication list that is in the computer.  You were taking it before, three times a day.
+
+PATIENT H772
+I don't think I’m taking it. @@@ 
+
+FIRST DOCTOR H772
+What do you have now?
+
+Doctors discuss patient between them.
+
+SECOND DOCTOR H772
+You're breathing okay?
+
+PATIENT H772
+Uh-huh.
+
+SECOND DOCTOR H772
+You're fine?
+
+PATIENT H772
+Uh-huh.
+
+SECOND DOCTOR H772
+Okay.  So we won't go up on the water pill.  We're gonna add another medication called hydralazine.
+
+PATIENT H772
+Uh-huh.
+
+SECOND DOCTOR H772
+Okay.  And the two things we're doing today and let's see @@@ how long before we see you again.  You know you got blood tests today, right?
+
+PATIENT H772
+I do.
+
+SECOND DOCTOR H772
+Did @@@.
+
+FIRST DOCTOR H772
+Uh your appointment is at 2 today right?  Did you already go to the lab?
+
+PATIENT H772
+I went to the Lab the other day.
+
+FIRST DOCTOR H772
+Oh you already got it okay.
+
+SECOND DOCTOR H772
+You know what, we can talk on it.
+
+FIRST DOCTOR H772
+He's @@@.
+
+SECOND DOCTOR H772
+An appointment okay yeah.  We want you to come back again in a couple of weeks.  @@@.
+
+FIRST DOCTOR H772
+He's on @@@.
+
+SECOND DOCTOR H772
+Let's see in two weeks with the nurse @@@ blood pressure and that day they have to do lab tests to see how your kidneys are doing okay.  Are you taking potassium tablets?
+
+PATIENT H772
+Yeah.  I got a whole big jar of potassium.
+
+SECOND DOCTOR H772
+Good.  @@@.  
+
+PATIENT H772
+@@@.
+
+SECOND DOCTOR H772
+Okay.  Please take them only as they said on the bottle.
+
+PATIENT H772
+I try to.
+
+SECOND DOCTOR H772
+Right.  Take it only as it says on the bottle okay.  
+
+PATIENT H772
+@@@.
+
+SECOND DOCTOR H772
+Yeah, exactly whatever it said on the bottle.
+
+PATIENT H772
+Two tablets by mouth every day.
+
+SECOND DOCTOR H772
+Yeah, don't take more than that.
+
+FIRST DOCTOR H772
+Okay.  Okay.  So and I think you just go to the Pharmacy, they'll have @@@ okay and we're gonna increase.
+
+PATIENT H772
+Give a copy of this so I can give it to my nurse.  She keeping a log.
+
+FIRST DOCTOR H772
+Yeah that's a good idea.
+
+PATIENT H772
+And she's going to put my pills in order.
+
+FIRST DOCTOR H772
+Yeah that's a good idea.  So I'll put the changes on here so everything here, that's fine, this is all fine.  So.
+
+PATIENT H772
+That's the water pill.
+
+DOCTOR H772
+Yeah @@@.
+
+PATIENT H772
+So, I’m going to be pissing more.
+
+FIRST DOCTOR H772
+Yeah a little bit more.
+
+PATIENT H772
+Well I'll be at home.
+
+FIRST DOCTOR H772
+It's not a lot more.  I mean we're not going up that much.  It's just to take some more fluid off because we're concerned that some of this weight that you're gaining is water.
+
+PATIENT H772
+Oh it is.  I used to drink a lot of water so I started chewing gum @@@ water @@@.
+
+FIRST DOCTOR H772
+Yeah you should try to limit yourself probably to about a liter a day if you can.
+
+PATIENT H772
+That's what I was trying to do.
+
+FIRST DOCTOR H772
+Alright that's fine, that's fine.  I'm gonna put that they'll deliver them downstairs.
+
+PATIENT H772
+Is it Losartan?
+
+FIRST DOCTOR H772
+Hydralazine.
+
+PATIENT H772
+What's that?
+
+FIRST DOCTOR H772
+To get that blood pressure down.  It's a three time a day blood pressure medicine.  It works well in people with weak hearts.  It's a 10 mg pill, small pill and you take it three times a day.  Your blood pressure is too high for the way your heart works. We need to get it down closer to like 100 over 67 is better.
+
+PATIENT H772
+Okay.
+
+FIRST DOCTOR H772
+Alright.  So why don't you swing by the Pharmacy and then uh.
+
+PATIENT H772
+Yeah she said that.
+
+FIRST DOCTOR H772
+And then you have your appointment.
+
+PATIENT H772
+@@@.
+
+FIRST DOCTOR H772
+No actually I put it on here @@@.  So everything that's listed here is correct.
+
+PATIENT H772
+@@@ pill case.
+
+FIRST DOCTOR H772
+And then this is the increase we made.
+
+PATIENT H772
+@@@.
+
+FIRST DOCTOR H772
+Yep we'll give you that.
+
+PATIENT H772
+For 30 days?
+
+FIRST DOCTOR H772
+Uh-huh and then uh we'll get you an appointment okay.
+
+PATIENT H772
+Okay.
+
+FIRST DOCTOR H772
+So you can give that to your nurse and let her change your pill boxes around.
+
+PATIENT H772
+Alright.
+
+FIRST DOCTOR H772
+Okay.
+
+PATIENT H772
+Yeah.  I've been trying to take all this stuff @@@.  I feel @@@.
+
+FIRST DOCTOR H772
+Well if you came tomorrow and we'll see @@@.  The next time uh, the next time you come back let's talk about transportation and getting you into the MOVE Program.
+
+PATIENT H772
+Alright.
+
+FIRST DOCTOR H772
+See what you can do in the meantime okay.
+
+PATIENT H772
+Okay.
+
+FIRST DOCTOR H772
+@@@.
+
+PATIENT H772
+Well sitting at home all the time gain weight @@@.
+
+FIRST DOCTOR H772
+@@@.
+
+PATIENT H772
+Now I stop at the desk right?
+
+FIRST DOCTOR H772
+Uh actually yeah let me grab something.  So we'll have you come back.
+
+PATIENT H772
+@@@ have me come back.
+
+FIRST DOCTOR H772
+Two weeks for recheck.
+
+PATIENT H772
+You say you gave me one tablet for cholesterol right?
+
+FIRST DOCTOR H772
+Yeah, yeah.
+
+PATIENT H772
+I don't want to cut no pills in half.
+
+FIRST DOCTOR H772
+I'm gonna put it in that way.  If the Pharmacy doesn't do it let me know and uh talk to the Pharmacy they have it there but I'll put in the order now okay.
+
+PATIENT H772
+Alright.  My other appointment at 2 o'clock right?
+
+FIRST DOCTOR H772
+Yeah.
+
+PATIENT LEAVES:  72:04
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255170
+TRANSACTION # 578-10-2-316-0103

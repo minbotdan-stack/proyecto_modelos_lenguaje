@@ -1,0 +1,735 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@  
+
+DOCTOR R642 
+PATIENT.
+
+PATIENT R642
+Yes.
+
+DOCTOR R642
+Okay, just take a seat over here.  My name's DOCTOR.  How are you today?
+
+PATIENT R642
+I @@@.
+
+DOCTOR R642
+Are you here for a follow-up appointment?
+
+PATIENT R642
+Um yeah.
+
+DOCTOR R642
+You think so okay.  They told you to come in.
+
+PATIENT R642
+Yeah they um, used to be in the Pain Clinic and they sent me back over here so, that's @@@ prescribed medications but I didn't get anything.
+
+DOCTOR R642
+Yeah I saw that DOCTOR called in some morphine for you.  I work under DOCTOR so.
+
+PATIENT R642
+Yeah.
+
+DOCTOR R642
+Anything else bothering you other than pain today?
+
+PATIENT R642
+Hmm.
+
+DOCTOR R642
+No headaches, dizziness, no chest pain, palpitations, no stomach aches, no black stools, bloody stools, no pain when you pee, no blood in your urine, no @@@?
+
+PATIENT R642
+Um I got some stomach pain and um the sinuses have been acting up.
+
+DOCTOR R642
+Is your stomach pain chronic pain? Is that what you take the morphine for?
+
+PATIENT R642
+Uh-huh.
+
+DOCTOR R642
+Okay.  For the pancreatitis @@@?
+
+PATIENT R642
+Uh-huh.
+
+DOCTOR R642
+No nausea or vomiting though?
+
+PATIENT R642
+Not lately.
+
+DOCTOR R642
+Okay.  No fevers, chills?
+
+PATIENT R642
+Not recently.
+
+DOCTOR R642
+Did you get your flu shot today?
+
+PATIENT R642
+Yes.
+
+DOCTOR R642
+And @@@ other medicines that you said you didn't have to do @@@.
+
+PATIENT R642
+I need refills.
+
+DOCTOR R642
+@@@ good.  Does she just do a one month prescription?
+
+PATIENT R642
+Uh yeah I go back in a month.
+
+DOCTOR R642
+Okay.
+
+PATIENT R642
+The last time it worked for me.  They sent me an appointment and then I got the letter saying to call in for an appointment @@@.  And that's @@@.
+
+DOCTOR R642
+Okay.  You're taking six tablets a day, three tablets every 12 hours correct?
+
+PATIENT R642
+Yeah that's correct um slow release.
+
+DOCTOR R642
+Let me see what.  Okay they think you’re good with that as sort of a pain medication kind of @@@.  Okay.  Huh?
+
+PATIENT R642
+@@@.
+
+DOCTOR R642
+You can pick that up here.
+
+PATIENT R642
+Okay.
+
+DOCTOR R642
+Oh it's not yours?
+
+PATIENT R642
+Yeah it is but @@@.
+
+DOCTOR R642
+@@@.  Have you decided that you don't want to go to the Psych place, the @@@ Clinic?
+
+PATIENT R642
+I got to get up there I just haven't you know.
+
+DOCTOR R642
+You haven't made the time yet.
+
+PATIENT R642
+Yeah.
+
+DOCTOR R642
+Yeah it looks like you've been going to the Recreation Therapy so that looks good.  How is that going?  The exercise program?
+
+PATIENT R642
+It's alright.
+
+DOCTOR R642
+It's alright okay.
+
+PATIENT R642
+@@@.
+
+(Someone knocked on the door. Doctor spoke with person briefly)
+
+PATIENT R642
+I go there for two day or three days.  I have a follow-up appointment and they said to just walk-in.
+
+DOCTOR R642
+Yeah you can just walk in and they can check it.  Um how's your diabetes going, your blood sugars?  Is your blood sugar okay? Do you check them at home?
+
+PATIENT R642
+Uh-huh.
+
+DOCTOR R642
+What have they been?
+
+PATIENT R642
+Maybe between @@@ and 160.
+
+DOCTOR R642
+Okay what do you take for your diabetes?  Is it just diet-controlled?
+
+PATIENT R642
+Nothing.  I used to take glyburide but it was so well-controlled.
+
+DOCTOR R642
+Yeah.  Okay um then I think that's it.  The only thing is um we'd like for you to go to the Psych Clinic – you can take a seat up here.  We'd like to get a goal and get established in there.  Um it looks like also that you had urine studies that were positive for drug use in the past.  Are you still using any kind of drugs?
+
+PATIENT R642
+Uh uh.
+
+DOCTOR R642
+No?  Okay.  When was your last use and what did you use?
+
+PATIENT R642
+Yeah that was cocaine.
+
+DOCTOR R642
+Cocaine.  How long ago in the last use?  Would you say?
+
+PATIENT R642
+Last @@@ when I was in the Pain Clinic.
+
+DOCTOR R642
+Oh in March.
+
+PATIENT R642
+Hmm before that.
+
+DOCTOR R642
+Oh okay so.  Yeah we have clinics that can help you with those things.  It would be through the Psych Addiction Program.
+
+PATIENT R642
+Yeah I used to be a patient in the Alcohol Treatment Program.
+
+DOCTOR R642
+Yeah so if you're interested we could send you there too okay.  When you're ready but I would like and I also have to tell you, you know no more cocaine, it’s bad for you, okay.  Anything for us?  No.  Did you get your flu shot today?
+
+PATIENT R642
+Uh-huh.
+
+DOCTOR R642
+And you are smoking?
+
+PATIENT R642
+Uh-huh.
+
+DOCTOR R642
+You are smoking?  How much are you smoking a day?
+
+PATIENT R642
+Probably a pack.
+
+DOCTOR R642
+How long have you been doing that for sir?
+
+PATIENT R642
+Hmm a long time.
+
+DOCTOR R642
+A long time.  Are you interested in quitting any time soon?
+
+PATIENT R642
+It's something I need to do but I don't know.
+
+DOCTOR R642
+Not ready yet?
+
+PATIENT R642
+@@@.
+
+DOCTOR R642
+The reasons why we um like patients to not be smoking is first of all it's you know bad for you.  It can cause cancer, increases your risk for every cancer, not just lung cancer. If you have any kind of cancer in your, you know your family you definitely don't want to be a smoker.  Um the longer you smoke the worse it is for you and you know there are patients that you see on oxygen with COPD, you don't want to be one of them right.  So we recommend that you stop smoking and we have cessation aids and we have a clinic that you can go to too to help you with it, stop smoking but first things first you have to be ready to quit or else it's not gonna work.
+
+PATIENT R642
+I know.
+
+DOCTOR R642
+And I want you to think hard about it and we'll talk about it next time okay.
+
+PATIENT R642
+Uh-huh.
+
+DOCTOR R642
+Um if you want assistance we have the gum and the lozenges.  If you want the patch you have to go through the clinic okay.  So let me know if you're interested in any of that okay.
+
+PATIENT R642
+You got to go through them in order to.
+
+DOCTOR R642
+The Smoking Cessation Clinic.
+
+PATIENT R642
+If I did the patch?
+
+DOCTOR R642
+Yeah.
+
+PATIENT R642
+And the gum and the.
+
+DOCTOR R642
+Lozenges you can get here.
+
+PATIENT R642
+@@@
+
+DOCTOR R642
+Okay.
+
+PATIENT R642
+I'd be willing to give those a shot, give that a shot.
+
+DOCTOR R642
+What would you be willing to give a shot?
+
+PATIENT R642
+The gum and the.
+
+DOCTOR R642
+The gum.
+
+PATIENT R642
+Yeah.
+
+DOCTOR R642
+Okay you have either gum or the lozenges.  The gum you put it in your mouth, you chew it and you tuck it in the back of your mouth and then every time you get a craving you chew it again.  It's dangerous to chew the gum and smoke and if you need to smoke you just spit it out and then smoke okay.
+
+PATIENT R642
+And what about the.
+
+DOCTOR R642
+The lozenges same thing, you just suck on the lozenges.
+
+PATIENT R642
+You know the lozenges.
+
+DOCTOR R642
+You'd rather have the lozenges?  Okay I can give you some but remember no um lozenges and smoking at the same time.
+
+PATIENT R642
+@@@ want to quit @@@.
+
+DOCTOR R642
+Sure, sure.
+
+PATIENT R642
+I'm thinking about trying to um go without it and see what happens.
+
+DOCTOR R642
+Okay.  Alright @@@.  It looks like all of your labs are up-to-date, everything looks good okay.  So let me just @@@ okay.  Do you take all of your medicines, your blood pressure medicines?
+
+PATIENT R642
+Uh-huh.
+
+DOCTOR R642
+Cause that's the one thing that's kind of high.  Did you take your medicines today?
+
+PATIENT R642
+Yes.
+
+DOCTOR R642
+You took the lisinopril?  Half a tablet.
+
+PATIENT R642
+Yes.
+
+DOCTOR R642
+You did or you didn't?
+
+PATIENT R642
+No I took it.
+
+DOCTOR R642
+If you didn't we could just keep you on the same medicine but if you did take it we'll have to increase it.
+
+PATIENT R642
+I took it.
+
+DOCTOR R642
+Okay.
+
+PATIENT R642
+I took it this morning.
+
+DOCTOR R642
+So I think what you would benefit from is um, are you trying to eat a low salt diet?
+
+PATIENT R642
+No.
+
+DOCTOR R642
+No okay.  Well you could try to just eat a low salt diet to see if that'll help the blood pressure but we can always increase your medicines just to help it.
+
+PATIENT R642
+It usually be.
+
+DOCTOR R642
+Pretty good.
+
+PATIENT R642
+@@@.
+
+DOCTOR R642
+Hopefully @@@.
+
+PATIENT R642
+Well I been carrying a big bag and I did a lot of walking to get here.
+
+DOCTOR R642
+Okay.  If you want let me check it again how's that, before we go ahead and increase your medicine.
+
+PATIENT R642
+Okay.  I got refills on?
+
+DOCTOR R642
+Well I can make sure before you leave I'll refill everything and I'll mail everything to your home okay.
+
+PATIENT R642
+Okay.  I need to get multivitamins.
+
+DOCTOR R642
+I can give you some.
+
+PATIENT R642
+Okay.  @@@ sinuses.
+
+DOCTOR R642
+Oh you're sinuses.  What do you normally do for your sinuses?
+
+PATIENT R642
+Uh I'm taking this @@@.
+
+DOCTOR R642
+I could just give you regular normal saline, sort of a salt spray @@@.  You're right; I think it was because you  were walking around.  No it's still high.  It was 150/90, a little lower.  
+
+PATIENT R642
+@@@ and we might have to increase it @@@.
+
+DOCTOR R642
+Does that hurt at all?
+
+PATIENT R642
+Uh uh.
+
+DOCTOR R642
+Is this okay?
+
+PATIENT R642
+Uh-huh.
+
+DOCTOR R642
+Okay.  Alright I will be right back okay.
+
+PATIENT R642
+Okay.
+
+(DOCTOR OUT:  46:08  DOCTOR IN:  54:54)
+
+DOCTOR R642
+Alright sir, this is what we're gonna do.  Um I’m gonna increase your medicine, the lisinopril to 40 cause your blood pressure is still high on it uh and then the low salt diet.  We're going to check your urine today to make sure , my boss wants to make sure that we keep getting consecutive tests that are negative for cocaine.
+
+PATIENT R642
+Uh-huh.
+
+DOCTOR R642
+And then um I'll give you those lozenges.  And for your pain medicines, so I know you're taking three in the morning and three at nighttime @@@ same release of the morphine.  
+
+PATIENT R642
+Uh-huh.
+
+DOCTOR R642
+The thing is the prescription lasted you for three months now so uh kind of what we want to know is how much are you really taking every day um that way we can prescribe what you need.
+
+PATIENT R642
+It depends on how bad the pain is that I’m in, if it ain't too bad then I don't take it but.
+
+DOCTOR R642
+Oh I see so when they get bad you take them.
+
+PATIENT R642
+Uh-huh.
+
+DOCTOR R642
+Okay well.  @@@ down here.  So um you take it like the three in the morning and three at night when he has the pain but he doesn't have the pain he doesn't take it at all.
+
+PATIENT R642
+No I take them on a regular basis.
+
+DOCTOR R642
+Okay.
+
+PATIENT R642
+But the other one I take when the pain really bad.
+
+DOCTOR R642
+Okay.
+
+SECOND DOCTOR R642
+Sir the reason I asked is because you have um, I'm DOCTOR by the way um.
+
+PATIENT R642
+Hmm.
+
+SECOND DOCTOR R642
+Back on July 29th you got enough medicine to last you 30 days where you took three in the morning and three at night.
+
+PATIENT R642
+Uh-huh.
+
+SECOND DOCTOR R642
+But that prescription has lasted you until October now so you're not taking it every day.
+
+PATIENT R642
+Uh-huh.
+
+SECOND DOCTOR R642
+Which I'm happy with that you're not taking it.
+
+PATIENT R642
+@@@.
+
+SECOND DOCTOR R642
+That's what I’m trying to figure out, how often you're taking it.
+
+PATIENT R642
+No, I'm still in a lot of pain right.
+
+SECOND DOCTOR R642
+But you don't take the morphine every day right, is that correct?
+
+PATIENT R642
+Yes @@@.
+
+SECOND DOCTOR R642
+Okay how about the immediate acting? There’s a long-acting medicine and a short-acting medicine.  How often are you taking the short-acting medicine?  You're not taking that at all or?
+
+PATIENT R642
+Yeah whenever it's hurting.
+
+SECOND DOCTOR R642
+You need to help us out here.  First of all no more cocaine, that's number one off the bat.
+
+PATIENT R642
+Okay.  But I thought they brought me back to see the doctor because of the medication.  You know, ran out, it was running out and I was just holding on to the last one.
+
+SECOND DOCTOR R642
+Okay.
+
+PATIENT R642
+As long as I could and then you know the last two weeks have been.
+
+SECOND DOCTOR R642
+Three months! I mean, three months was the last time I filled that prescription.
+
+PATIENT R642
+Uh-huh.
+
+SECOND DOCTOR R642
+So somehow you made 30 days of medicine last for three months.  You must not need medicine that much.
+
+PATIENT R642
+It wasn't hurting all that bad and then some pain really, if it ain't really severe.
+
+SECOND DOCTOR R642
+Okay.
+
+PATIENT R642
+I can do.
+
+SECOND DOCTOR R642
+How long have been doing that?  I don't want you taking morphine every day if you don't need it.
+
+PATIENT R642
+Uh-huh.
+
+SECOND DOCTOR R642
+You got it?
+
+PATIENT R642
+Uh-huh.
+
+SECOND DOCTOR R642
+I don't you to rely on it, you’re already using cocaine and doing cocaine, I don't want you to get addicted to this medication okay.  Got it?
+
+PATIENT R642
+Yes ma'am.  I @@@.
+
+SECOND DOCTOR R642
+We'll go ahead and give you a prescription, the same prescription as the last time and then don’t use it if you don’t need it, okay.
+
+PATIENT R642
+Uh-huh.
+
+SECOND DOCTOR R642
+And seriously I'm going to check @@@ if you keep having problems with cocaine, you're violating our Narcotic Treatment Program and I can't give you narcotics so please don't use cocaine.  Not only I can't give you the medicine, it's bad for your heart, it causes heart attacks. 
+
+PATIENT R642
+Uh-huh.  Well I had told them when I did it, if possible and um it came back clean.
+
+SECOND DOCTOR R642
+Okay.
+
+PATIENT R642
+It probably got about half and half.
+
+SECOND DOCTOR R642
+Okay try not to. It’s tempting @@@ to people that are @@@.
+
+PATIENT R642
+It ain't gonna be me.
+
+Doctors talk among themselves.
+
+SECOND DOCTOR R642
+And then um you can always call if you're running low on your morphine and let me know okay.
+
+PATIENT R642
+Yeah okay.  Yeah it bothers me sometimes, I'm maybe thinking that.
+
+FIRST DOCTOR R642
+So I know, I know.
+
+PATIENT R642
+If you don't need it, you know when the pain kicks in.
+
+FIRST DOCTOR R642
+No you, definitely we will give you medicine when you need it, just call in for it but I guess I'm not even allowed to give you more than one month at a time anyway.
+
+PATIENT R642
+That's what the last one; I'm just stretching as long as I could see.
+
+FIRST DOCTOR R642
+Yeah.
+
+PATIENT R642
+Because they hadn’t give me another appointment, and send me a letter saying call me and make an appointment.  Which is retarded.  Cause they still have to send you the appointment after you make it?  Now I'm just saying @@@ you know it's a particular kind of pain might not be that bad and @@@ not necessarily that day.
+
+FIRST DOCTOR R642
+Uh-huh.
+
+PATIENT R642
+@@@ sign this.
+
+FIRST DOCTOR R642
+This is for you um, let me give you the smoking lozenges in the mail or do you want to pick them up?
+
+PATIENT R642
+Uh they can mail and mailing the others is fine because the vitamins and stuff will be fine.
+
+FIRST DOCTOR R642
+And these are actually the month's worth, all you do is call us for the refills okay.
+
+PATIENT R642
+Uh-huh.  Call in for refills.
+
+FIRST DOCTOR R642
+Yeah you just call the number that's on the bottle.
+
+PATIENT R642
+Uh-huh.
+
+FIRST DOCTOR R642
+And then um tell the number that's on the bottle, the prescription number.
+
+PATIENT R642
+Uh-huh.
+
+FIRST DOCTOR R642
+And they'll give you your medicines in the mail.  So call like a week before you run out.
+
+PATIENT R642
+Uh-huh.
+
+FIRST DOCTOR R642
+Call in for refills because it'll take a little bit.
+
+PATIENT R642
+Uh-huh.
+
+FIRST DOCTOR R642
+Now let me get this, so the medicines are renewed, your lozenges are on their way and we'll increase the medicine and send them out.  Actually you know what, is it okay if you pick this one up?
+
+PATIENT R642
+Yeah I'll pick it up.
+
+FIRST DOCTOR R642
+Okay.
+
+PATIENT R642
+Pick up all my medicine.
+
+FIRST DOCTOR R642
+Oh you want to pick it up?
+
+PATIENT R642
+Yeah.
+
+FIRST DOCTOR R642
+Okay let me change it to pick up then.
+
+PATIENT R642
+Multivitamins, I need some multivitamin.
+
+FIRST DOCTOR R642
+Okay so what you're gonna do is you're start taking your new medicine um then you're gonna come back in three weeks with the nurse here and then they'll recheck your blood pressure on the increased medicine okay.
+
+PATIENT R642
+Okay.
+
+FIRST DOCTOR R642
+Uh then I'll see you back in three months.
+
+PATIENT R642
+@@@.  What's this?
+
+FIRST DOCTOR R642
+Um oh yeah it'll be the nurse here.
+
+PATIENT R642
+Only the nurse.
+
+FIRST DOCTOR R642
+Yeah and then once you, if you run out of medicine for your pain meds just call the clinic and DOCTOR will give you some more okay.
+
+PATIENT R642
+I call the clinic.
+
+FIRST DOCTOR R642
+Yeah you can call the clinic okay.  And we know that, we're not gonna say that you know say that you don't have pain cause we know you have pain but since this prescription has lasted you for a month or three months we'll see how long it lasts.  If it doesn't then we definitely will give you more okay.
+
+PATIENT R642
+Uh-huh.
+
+FIRST DOCTOR R642
+So you can call in any time okay.
+
+PATIENT R642
+Okay.
+
+FIRST DOCTOR R642
+Alright take care, so we'll see you in three months.
+
+PATIENT R642
+Yeah I ain't that sick you know.
+
+FIRST DOCTOR R642
+Yeah well @@@.
+
+PATIENT R642
+I have to call and then @@@.
+
+FIRST DOCTOR R642
+Yeah.
+
+PATIENT R642
+And being real sick so you know schedule, come here and @@@ didn't make it.
+
+FIRST DOCTOR R642
+Yeah.
+
+PATIENT R642
+My medicines @@@ for an appointment and I got to make it last.
+
+FIRST DOCTOR R642
+Yeah, don't forget to get your urine today okay.
+
+PATIENT R642
+Okay, I'm going to @@@.  Okay, thanks.
+
+PATIENT LEAVES:  68:37
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1275433
+TRANSACTION # 578-10-2-316-0103

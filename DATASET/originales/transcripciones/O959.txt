@@ -1,0 +1,642 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@@ 
+
+DOCTOR O959
+PATIENT.  All the way back to the left.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+Okay, @@@ about really don't have to, I don't know about that okay.  How you feeling?
+
+PATIENT O959
+Fine. 
+
+DOCTOR O959
+@@@ weather. I feel like I haven’t seen the sun in years. How have your sugars been?
+
+PATIENT O959
+High.
+
+DOCTOR O959
+Okay how high is high.
+
+PATIENT O959
+372, 360.
+
+DOCTOR O959
+Okay.
+
+PATIENT O959
+I'm at 50 cc a night plus the uh.
+
+DOCTOR O959
+Plus the metformin.
+
+PATIENT O959
+Metformin right.
+
+DOCTOR O959
+Okay.  Plus the Glargine.
+
+PATIENT O959
+Yes.
+
+DOCTOR O959
+The Glargine is 50, the glyburide is 10.
+
+PATIENT O959
+Right.
+
+DOCTOR O959
+And you take that and the glyburide twice a day.
+
+PATIENT O959
+Right.
+
+DOCTOR O959
+The metformin.
+
+PATIENT O959
+Twice a day.
+
+DOCTOR O959
+Okay.  I looked at your, your triglycerides have come down a little bit by 200 points.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+So we're going in the right direction but that's another thing that I want to tackle and I'm debating on how to do that since you're on gemfibrozil you're kind of maxed out on that.  Are you taking um fish oil?
+
+PATIENT O959
+No.  I'm allergic to fish, 
+
+DOCTOR O959
+You’re allergic to fish. So that's a no go okay.  So the blood pressure was good.
+
+PATIENT O959
+Yeah I don't have any refills on my medications.
+
+DOCTOR O959
+I will make sure everything is refilled.  Actually let me do that right now.  Let's go through it together.  Glyburide you have two refills.  
+
+PATIENT O959
+Alright.
+
+DOCTOR O959
+I want you to continue that so let me just make sure you have enough okay.  Let's do, actually let's wait when I come back to see if we need to make any changes to anything.  Um you're at 50.  I'm just thinking that we're gonna have to go up on the Glargine.  Um are your sugars 300 consistently throughout the entire day?
+
+PATIENT O959
+Yeah.
+
+DOCTOR O959
+Okay.  What are they right before you go to bed at night?
+
+PATIENT O959
+Um if I'm good it gets down to about 278.
+
+DOCTOR O959
+278.  What are they in the morning when you wake up?
+
+PATIENT O959
+Around 300.
+
+DOCTOR O959
+Still in the 300s okay and you're taking, you're taking the Glargine.
+
+PATIENT O959
+Yes.
+
+DOCTOR O959
+You're taking three of the metformin tabs.
+
+PATIENT O959
+Metformin?
+
+DOCTOR O959
+Yeah metformin.
+
+PATIENT O959
+I take two, two tablets.
+
+DOCTOR O959
+You take two of the 500.
+
+PATIENT O959
+One in the morning and one at night.
+
+DOCTOR O959
+In the morning okay.  So that's okay so that's one thing we should do um, the order here is for you to take three so let's start taking three.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+So morning, noon and at night.
+
+PATIENT O959
+Yeah, okay.
+
+DOCTOR O959
+Okay.  You were only taking it twice a day.  There are too main things, the triglycerides and the diabetes.  Would you agree with that?
+
+PATIENT O959
+Right.
+
+DOCTOR O959
+Anything else going on?  Okay.
+
+PATIENT O959
+This tooth I got and the dentist is watching that now.
+
+DOCTOR O959
+Okay good cause I know I don't do teeth, I know nothing about teeth.  Okay um how's the rash?  It looks better.
+
+PATIENT O959
+It looks better but I ran out of the lotion, they just refilled me so.
+
+DOCTOR O959
+Okay perfect um.
+
+PATIENT O959
+I saw Dermatology on the 11th.
+
+DOCTOR O959
+Good, good, I'm glad that that's helping.  Um and we can even do metformin, we can even do it four times a day but that's kind of like maxing it out so most people recommend for type 2 diabetes to max out the metformin so to have it 2000 mg a day so that would be you know two in the morning and two at night.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+Something like that.  Since your sugars are so high um I mean that's, it's kind of what I want, I want to go up on that.  I know you should be at least taking three times a day.  Are you taking, are you checking your sugars after meals at all?
+
+PATIENT O959
+No.
+
+DOCTOR O959
+No.
+
+PATIENT O959
+Once in the morning and once at night I check it before I go to bed.  
+
+DOCTOR O959
+Okay and so both in the morning and both at bed they're about 300.
+
+PATIENT O959
+Right.
+
+DOCTOR O959
+Um and your last A1c was in June I think.
+
+PATIENT O959
+I just had blood taken today so.
+
+DOCTOR O959
+Today, is that, did I order.  I saw some of them came back already.  
+
+PATIENT O959
+Now uh.
+
+DOCTOR O959
+Was it just the triglycerides that I ordered today?
+
+PATIENT O959
+I don't know.
+
+DOCTOR O959
+Let me see.  I wonder.  There's a ton that I ordered um NAME, who is NAME.
+
+PATIENT O959
+It could be someone from special Clinic?
+
+DOCTOR O959
+Okay.  Okay.  Are you at home right now?
+
+PATIENT O959
+Yes.
+
+DOCTOR O959
+Living at home okay.  Okay, staying away from the drugs?
+
+PATIENT O959
+Oh I did cocaine Sunday but.
+
+DOCTOR O959
+Okay.
+
+PATIENT O959
+Just a little pinch.
+
+DOCTOR O959
+Again we got to keep you away from that, got to keep you away from that.  Alright.  So we got your triglycerides.
+
+PATIENT O959
+Uh-huh.
+
+DOCTOR O959
+And we got your diabetes.  Um cocaine won't help either of those.
+
+PATIENT O959
+I know.
+
+DOCTOR O959
+Um so let me talk to DOCTOR, can I get you up here to just take a good listen to you?  Um I like that you're checking your sugars twice a day.
+
+PATIENT O959
+Right.
+
+DOCTOR O959
+That’s good. That way we can get a good assessment.  I might actually; I know you already got stuck once today um there's a couple other I might, at least draw @@@.  We did not, oh yeah they did.  Oh yeah he did.  I wonder if that was drawn today.
+
+PATIENT O959
+That was drawn today.
+
+DOCTOR O959
+The hemoglobin A1c, do you know?
+
+PATIENT O959
+That's what they were checking for the fast issue.
+
+DOCTOR O959
+Yeah they did the fast.
+
+PATIENT O959
+Diabetic.
+
+DOCTOR O959
+Yeah and the diabetic one.
+
+PATIENT O959
+Yes they done it, okay.
+
+DOCTOR O959
+Okay.  I'll have to just look for those then.  Okay.  Just breathe normally.
+
+PATIENT O959
+I'm doing whatever, you know the oxygen, no not oxygen but you know the breathing machine.
+
+DOCTOR O959
+Oh for the sleep apnea.  Remember oh yes I remember that so does that make you feel a little bit better throughout the day?
+
+PATIENT O959
+Oh yeah, yeah.
+
+DOCTOR O959
+100% huh.  It's like night and day isn't it?
+
+PATIENT O959
+Yes.
+
+DOCTOR O959
+Yeah.
+
+PATIENT O959
+I'm getting rest at night now so.
+
+DOCTOR O959
+Yeah it makes you feel a lot better.  Oh my God it makes you feel a lot better.  I'm glad um, I thank you for reminding me of that, I forgot about that.  Um so we solved one of your problems.
+
+PATIENT O959
+Uh-huh.
+
+DOCTOR O959
+I think we're getting close on the triglycerides.  We got to get those down because like I said they, when they're at such high levels with the diabetes you have an increased risk of heart disease.
+
+PATIENT O959
+Uh-huh.
+
+DOCTOR O959
+So we have to control the diabetes better and we have to control the triglycerides better.  Let me look at some of the medications that we can go up on.  The metformin, I'm thinking that I want to go up to four a day but let me run that by DOCTOR.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+Um.  I'm gonna see how high I can go.  Huh.  You're at the max for glyburide.  Allergic to fish okay.  Yeah cause you went from 1155 for the triglycerides.
+
+PATIENT O959
+Uh-huh.
+
+DOCTOR O959
+To 765 and now we're at 537.
+
+PATIENT O959
+It's going down.  You want to get me down to below 4 right?
+
+DOCTOR O959
+Yeah I'd like to get you below about 100.
+
+PATIENT O959
+Huh.
+
+DOCTOR O959
+Have you ever tried a medicine called niacin?
+
+PATIENT O959
+No.
+
+DOCTOR O959
+I saw that you were on it in the past.
+
+PATIENT O959
+What is niacin for?
+
+DOCTOR O959
+It was the lipids, the fat in the blood.
+
+PATIENT O959
+Uh-huh.
+
+DOCTOR O959
+Um.  Blood pressure was good today.  Alright, let me see I think.  Let me talk to DOCTOR.  I think I want to go up on the metformin and we'll see what she says.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+Um and I'd like to see if, see what the dose for niacin is and I'd like to try niacin and maybe increasing your simvastatin.  We're getting there slowly.
+
+PATIENT O959
+Yeah.
+
+DOCTOR O959
+So we're going up slowly and things are coming down so we're going in the right direction.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+So it might take another month or two but I think we're gonna get there okay.
+
+PATIENT O959
+Alright.
+
+DOCTOR O959
+Along with diet.  Diet's going to be a main thing too you know, fruits and vegetables and stay away from the fatty foods so.  Let me go talk to her real quick.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+And I'll be back okay.
+
+(DOCTOR OUT:  32:00  DOCTOR IN:  38:21)
+
+DOCTOR O959
+Okay.  DOCTOR said it was a good idea um.  Um so the metformin.
+
+PATIENT O959
+Uh-huh.
+
+DOCTOR O959
+You should take it as it's written right now.  So do the.
+
+PATIENT O959
+One in the morning and one at night?
+
+DOCTOR O959
+Well it's actually written for three times a day.
+
+PATIENT O959
+Oh okay so I can.
+
+DOCTOR O959
+So take one.
+
+PATIENT O959
+At noon.
+
+DOCTOR O959
+Morning, noon and night.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+And then we're also gonna increase your Glargine so that's okay we'll get the orders here, medications.  Um so keep taking the glyburide and you take that's two of them twice a day.
+
+PATIENT O959
+Right.
+
+DOCTOR O959
+Okay um you take the Glargine so we're gonna change that.  You're at 50 right now, let's go to 60.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+Okay.  And you keep getting that by mail?
+
+PATIENT O959
+Right.
+
+DOCTOR O959
+Okay.  Um so let's do 60.  You get that by mail okay.  Um the metformin it's three times a day.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+So just take it before meals.
+
+PATIENT O959
+Right.
+
+DOCTOR O959
+Right so breakfast, lunch and dinner.  Um the simvastatin we're gonna keep the same.
+
+PATIENT O959
+So a half a tablet.
+
+DOCTOR O959
+Yep right.  Um okay we need to see what else needs to be refilled, gemfibrozil.
+
+PATIENT O959
+My blood pressure pills.
+
+DOCTOR O959
+Okay, the enalapril.
+
+PATIENT O959
+That's @@@ blood pressure.
+
+DOCTOR O959
+Okay.  Are you still taking insulin at all?  Just for, or those are the syringes.
+
+PATIENT O959
+Right.
+
+DOCTOR O959
+I'll make sure they'll send some out to you okay.  Do you get those mailed out?
+
+PATIENT O959
+Yes.
+
+DOCTOR O959
+Okay.  
+
+PATIENT O959
+I need to order the strips, the @@@ strips.
+
+DOCTOR O959
+Really.  Does one of the mental health people refill the @@@?
+
+PATIENT O959
+@@@ that was refilled today.
+
+DOCTOR O959
+Okay so they refilled those, I don’t touch those.
+
+PATIENT O959
+Right, that's already done.  I already got them.
+
+DOCTOR O959
+Okay they do those.  Um I wonder, do you @@@ to.
+
+PATIENT O959
+DOCTOR.
+
+DOCTOR O959
+We need to make sure of that cause there's no refills on those.
+
+PATIENT O959
+Right.  I get them once a month.
+
+DOCTOR O959
+And do you have to go.
+
+PATIENT O959
+I got to see him once a month.
+
+DOCTOR O959
+Okay.  So then I'm okay, I'm not gonna touch those then.  Same with the bupropion.
+
+PATIENT O959
+Bupropion and the @@@.
+
+DOCTOR O959
+Okay the test strips I will change okay.  Simvastatin.  Okay everything else seems to be in good shape and the glyburide.  Okay so what um, @@@ there's a new one that I want to add too.  It's a non-formulary medication.
+
+PATIENT O959
+Uh-huh.
+
+DOCTOR O959
+Um that's something but I have to get someone to approve it so hopefully, let's see.  Okay so it's 160 mg a day okay.  Okay so you're gonna take one a day of this, it's called fenofibrate.
+
+PATIENT O959
+Fenofibrate okay.
+
+DOCTOR O959
+Yep and it's for the triglycerides okay so.
+
+PATIENT O959
+What's a good time to take it, morning or evening?
+
+DOCTOR O959
+Um let's take it in the morning, let me make sure of that.  Yeah so just take it in the morning with breakfast.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+It says take it with meals.  I'll have it mailed to you okay.
+
+PATIENT O959
+Right.
+
+DOCTOR O959
+How does that sound?
+
+PATIENT O959
+Sounds great; I've been here all day.
+
+DOCTOR O959
+Length of therapy, medications.  I think, actually, if you want you can go and I'll just finish typing this up so they should mail it to you okay.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+Um and if for some reason they don't approve then I'll have to kind of fight with them to get it approved.
+
+PATIENT O959
+No problem.
+
+DOCTOR O959
+But it'll be a new, new medication that'll come in the mail.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+That's gonna be daily, so the metformin three times a day right.
+
+PATIENT O959
+Right.
+
+DOCTOR O959
+Okay and then what are you gonna go up to the Glargine?
+
+PATIENT O959
+Glargine it's still going two.
+
+DOCTOR O959
+No, no.
+
+PATIENT O959
+Glyburide I take two.
+
+DOCTOR O959
+The Glargine is the needle one.
+
+PATIENT O959
+The insulin?
+
+DOCTOR O959
+Yeah that's gonna be 60.
+
+PATIENT O959
+It will be 60.  It'll be 60 on the needle; I'll need to reset this.
+
+DOCTOR O959
+But do a 50 and then do a 10.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+And I changed it so I don't know if they'll give you bigger syringes but do a 50 and then do a 10.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+Um so take the metformin three times and I'll see you back in about three months okay.
+
+PATIENT O959
+Okay.
+
+DOCTOR O959
+Um and when you come back go to the Lab before your appointment and I'll order labs okay, so we're gonna check your blood tests again okay.
+
+PATIENT O959
+Uh-huh.  No problem.
+
+DOCTOR O959
+Okay.  @@@.
+
+PATIENT O959
+Thanks doc.
+
+DOCTOR O959
+Yep good luck.
+
+PATIENT LEAVES:  47:46.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286107
+TRANSACTION # 578-10-2-316-0103

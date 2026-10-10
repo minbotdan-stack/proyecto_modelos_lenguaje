@@ -1,0 +1,847 @@
+Date of Encounter:  @@/@@/@@.   
+Time of Encounter:  @@@ 
+
+DOCTOR H819
+PATIENT?
+
+
+PATIENT H819
+Hi.
+
+
+DOCTOR H819
+Did you have a nice Christmas?
+
+
+PATIENT H819
+Alright.
+
+
+DOCTOR H819
+Yes.  I saw you had, @@@ the ER for the back.
+
+
+PATIENT H819
+Okay, the sciatic nerve?
+
+
+DOCTOR H819
+Yeah.
+
+
+PATIENT H819
+@@@
+
+
+DOCTOR H819
+So you still haven’t done the MRI I see.
+
+
+PATIENT H819
+No?
+
+
+DOCTOR H819
+Did they even call you?
+
+
+PATIENT H819
+This, I'm supposed to get it done sometime next month.
+
+
+DOCTOR H819
+Next month, did they schedule it?
+
+
+PATIENT H819
+They scheduled it; I got the letter that says, next month.
+
+
+DOCTOR H819
+@@@ okay, at 8 o'clock.
+
+
+PATIENT H819
+Right.
+
+
+DOCTOR H819
+And then you're gonna see the Rehab doctor on the 7th?
+
+
+PATIENT H819
+Right, uh.  These things that they gave me to help me with the sciatic nerve.
+
+
+DOCTOR H819
+Uh-huh.
+
+
+PATIENT H819
+And they gave me something else and it's not doing anything.
+
+
+DOCTOR H819
+But the prednisone can only be given for like a very short time and so they only gave you the one week.  We can't put on that long term cause it can cause diabetes, osteoporosis along with other stuff.  So this is a steroid.  This is the Vicodin, has that been helping?
+
+
+PATIENT H819
+A little.  I ran out of these and uh right now I'm taking three Aleve and two Motrin.
+
+
+
+DOCTOR H819
+Okay.  Did these help when you took em?
+
+
+PATIENT H819
+Yeah, it wasn't @@@.
+
+
+DOCTOR H819
+Okay cause I can refill this.
+
+
+PATIENT H819
+Okay well.
+
+
+DOCTOR H819
+This one, I won't give you again because this is, this is a medication we give sparingly because of all the side effects.
+
+
+PATIENT H819
+Oh.
+
+
+DOCTOR H819
+Okay?  This we can, we can I can give you more of until we get you to the Rehab doctor so they can do the exercises that you need.
+
+
+PATIENT H819
+Okay.
+
+
+DOCTOR H819
+Okay.
+
+
+PATIENT H819
+Alright and then uh could you change this nitroglycerin?
+
+
+DOCTOR H819
+Mometasone and what's this one?  Flunisolide.  Uh let me see if it's available.  Cause what they did is they, they went and changed it on their own when there was a shortage and this is the inhaler.  Let me see if, if this is available okay.
+
+
+PATIENT H819
+Okay.
+
+
+DOCTOR H819
+How often are you doing the @@@, how often were you doing this one?
+
+
+PATIENT H819
+This one I was doing twice a day, once in the morning and once at night.
+
+
+DOCTOR H819
+Okay.  Let's see if it’s . . .  So you were doing it as an inhaler right?
+
+
+PATIENT H819
+Right.
+
+
+DOCTOR H819
+Not a nasal spray, right?
+
+
+PATIENT H819
+No it's an inhaler.
+
+
+DOCTOR H819
+Yeah, see, it’s not even coming up as an option.  The problem is, they’re not even, it's not even being offered anymore.  This was in place of this.  That's not working for you or not as good?
+
+
+PATIENT H819
+Not as good.
+
+
+DOCTOR H819
+Okay.  How's the uh, how's the breathing?
+
+
+PATIENT H819
+It's good.  I couldn't have that; I took the whatcha call the sleep study.
+
+
+DOCTOR H819
+I saw that.
+
+
+PATIENT H819
+And I couldn't fall asleep.  I went until 1:00 in the morning.
+
+
+DOCTOR H819
+Yeah.
+
+
+PATIENT H819
+So I got there at 8:30 and they hook you up and I'm just laying there tossing and turning and I couldn't go to sleep.
+
+
+DOCTOR H819
+That's a hell of a time though, especially for a sleep study on Christmas Eve.
+
+
+PATIENT H819
+Laughter.
+
+
+DOCTOR H819
+Laughter.  I'm surprised anyone was working in this place.  Okay, so the, they'll try to do it again.
+
+
+PATIENT H819
+Again yeah.
+
+
+DOCTOR H819
+Are you still having troubles with the shortness of breath at night?
+
+
+PATIENT H819
+No.
+
+
+DOCTOR H819
+No okay.  Um are you noticing that you're getting short of breath regularly or?
+
+
+PATIENT H819
+No.
+
+
+DOCTOR H819
+No okay.  So with what you're on, I know this is not as good as that was, but with what we have you on, the albuterol and ipratropium separately, you feel that things are okay?
+
+
+PATIENT H819
+Right.
+
+
+DOCTOR H819
+Okay.  Alright and then I know that you saw the rheumatologist and they put a, they gave you a shot in your shoulder.
+
+
+PATIENT H819
+Uh-huh, it’s not working.
+
+
+DOCTOR H819
+It didn’t help.
+
+
+PATIENT H819
+There's another thing I wanted to talk to you about.
+
+
+DOCTOR H819
+Okay.
+
+
+PATIENT H819
+Uh, when they do the MRI on my leg, can they don one on my shoulder to see what's with the shoulder or, if I tore it again?
+
+
+DOCTOR H819
+Well let me see here.  Patient shoulder, @@@ emergency, @@@.
+
+
+PATIENT H819
+Um they won't let me go back to work.
+
+
+DOCTOR H819
+Who won't let you go back to work?
+
+
+PATIENT H819
+Uh the doctor in the ER.
+
+
+DOCTOR H819
+Uh-huh.
+
+
+PATIENT H819
+Because of the sciatic nerve.
+
+
+DOCTOR H819
+Uh-huh.
+
+
+PATIENT H819
+Because of the shoulder, they said I shouldn't go back to work.  Because last time, when I was carrying up a sheet of drywall and then all of a sudden, you know how I told you my leg would give out.
+
+
+DOCTOR H819
+Yes.
+
+
+PATIENT H819
+My leg would give out.
+
+
+DOCTOR H819
+Yeah.
+
+
+PATIENT H819
+My leg gave out again.
+
+
+DOCTOR H819
+Okay.
+
+
+PATIENT H819
+And that's when we talked and found out that it's the nerve.
+
+
+DOCTOR H819
+@@@ okay.
+
+
+PATIENT H819
+And I’ve known you now for a real long time, my leg would give out, my leg would give out.
+
+
+DOCTOR H819
+Yeah.
+
+
+PATIENT H819
+@@@ found out why.
+
+
+DOCTOR H819
+Well right, cause we were thinking it was the peripheral vascular disease that you had before.
+
+
+PATIENT H819
+Right.
+
+
+DOCTOR H819
+But finally that checked out, to make sure that wasn't the reason.
+
+
+PATIENT H819
+Right.
+
+
+DOCTOR H819
+And so that wasn't, so it's probably the nerve.
+
+
+PATIENT H819
+Right.
+
+
+DOCTOR H819
+So we'll see what the MRI shows.  Um, you know.
+
+
+PATIENT H819
+Well you think you can do my shoulder?
+
+
+DOCTOR H819
+Yeah I'll order it.
+
+
+PATIENT H819
+You know, both of them at one time.
+
+
+DOCTOR H819
+It's your right shoulder right?
+
+
+PATIENT H819
+Correct.
+
+
+DOCTOR H819
+You have no implants or foreign objects?
+
+
+PATIENT H819
+No.
+
+
+DOCTOR H819
+Shrapnel, none of that stuff?
+
+
+PATIENT H819
+No.
+
+
+DOCTOR H819
+Okay.  You're not claustrophobic?
+
+
+PATIENT H819
+No.
+
+
+DOCTOR H819
+Okay, now I have to do it all over again.  But so the shoulder is unchanged?
+
+
+PATIENT H819
+Right.
+
+
+DOCTOR H819
+When you're taking the Vicodin was that helping at all with the shoulder?
+
+
+PATIENT H819
+Yeah, it, you know between the Vicodin and the Aleve.
+
+
+DOCTOR H819
+Uh-huh.
+
+
+PATIENT H819
+Because I was still taking the Aleve with the uh with the Vicodin.
+
+
+DOCTOR H819
+Uh-huh.
+
+
+PATIENT H819
+Uh, I was doing alright.
+
+
+DOCTOR H819
+Okay.
+
+
+PATIENT H819
+Nobody, @@@ try to get everything fixed so I can get off the pills.
+
+
+DOCTOR H819
+Right.  No I understand.  And you're going on the 5th, so let me just think if I can just schedule it for then. (DOCTOR working on computer)  Huh, just to make sure you have the blood work.  Well, they're going to require some basic blood work before this MRI so we're gonna need it regardless.
+
+
+PATIENT H819
+Okay.
+
+
+DOCTOR H819
+So I'm just gonna order it okay.  So alright, so and then so for the shoulder we'll get an MRI.  You're gonna see the Rehab doctors.
+
+
+PATIENT H819
+Okay.
+
+
+DOCTOR H819
+And um and we'll go for and then I'll renew the um, I will renew the Vicodin.
+
+
+PATIENT H819
+Okay and that stuff that you guys gave me for the fungus is working too.
+
+
+DOCTOR H819
+Good, good and it doesn't put your liver at risk for failure so I'm glad.  That's improving?
+
+
+PATIENT H819
+Yes.  My toes have practically cleared up.
+
+
+DOCTOR H819
+Good.
+
+
+PATIENT H819
+You know and this one is.
+
+
+DOCTOR H819
+Yeah, okay.
+
+
+PATIENT H819
+Come along real good too.
+
+
+DOCTOR H819
+Good.  Uh let's see.  Now the Vicodin, do you want to pick it up or do you want it to be mailed to you?
+
+
+PATIENT H819
+No I'll pick it up.
+
+
+DOCTOR H819
+Okay.
+
+
+PATIENT H819
+That's it.
+
+
+DOCTOR H819
+No problem.  Okay.  So let me see if there's anything else that we need to look at.  So what's going on with your liver?  Are you gonna go back to the Liver Clinic or what?
+
+
+PATIENT H819
+Yes.
+
+
+DOCTOR H819
+Okay.  When are you planning to do that?
+
+
+PATIENT H819
+They, they told me as soon as I get rid of all this fungus to give them a call.
+
+
+DOCTOR H819
+Perfect.
+
+
+PATIENT H819
+Because of uh the.
+
+
+DOCTOR H819
+Right they don't want to deal with active infection okay good.  So we're making headway on the fungus and then once that's under control then you'll go back to see the Liver.
+
+
+PATIENT H819
+Right.
+
+
+DOCTOR H819
+Okay.  For the sciatica we have ya, pain medicines, so we're gonna get the MRI as well as the neurologists you're gonna see, those are the nerve doctors.
+
+
+PATIENT H819
+Okay.
+
+
+DOCTOR H819
+And you have an appointment to see them in early February, but by then you'll have the MRI, we'll have the rehab going and see how you do with those.
+
+
+PATIENT H819
+Okay.
+
+
+DOCTOR H819
+Okay.  The asthma is stable so that's good.  Okay.  Do you need any of your other medicines refilled?
+
+
+PATIENT H819
+Uh no I don't think so.
+
+
+DOCTOR H819
+Okay.  Now let me just look here to see if there's any other tests done.  
+
+
+PATIENT H819
+And they said the Albuterol there's only one refill left?
+
+
+DOCTOR H819
+Okay, I'll take a look at it, one second.  We should, while we're doing your blood work today I'm gonna check your PSA, that's that prostate test that we do, it's just a blood test.
+
+
+PATIENT H819
+Okay.
+
+
+DOCTOR H819
+Okay.  And then in terms of your medicines so, you've got 4 on that, 6 on that,  your albuterol looks like @@@ renew those.  Uh you want to pick up, you want go pick up your inhalers while you’re down there or do you want them mailed to you?
+
+
+PATIENT H819
+I can pick them up.
+
+
+DOCTOR H819
+Okay.  You'll get these too.
+
+
+PATIENT H819
+Sign in @@@ by the time the bloodwork is done.
+
+
+DOCTOR H819
+Exactly.  
+
+
+PATIENT H819
+Questions, all these meds that I'm taking seem to make my blood pressure right now, they said it was kind of high.  Do you think it could be this that's affecting my blood pressure?
+
+
+DOCTOR H819
+Um no.  I'm gonna repeat your blood pressure though.  Are you in any pain right now?
+
+
+PATIENT H819
+Just my leg.
+
+
+DOCTOR H819
+How bad is your pain?
+
+
+PATIENT H819
+It's, it's up there.
+
+
+DOCTOR H819
+Okay.  Pain can cause your blood pressure to go up so on a scale of 1 to 10 how high?
+
+
+PATIENT H819
+6.
+
+
+DOCTOR H819
+Okay.
+
+
+PATIENT H819
+6 you know.
+
+
+DOCTOR H819
+So I'll repeat your blood pressure but that's not uncommon.  When people are having pain that makes their blood pressure go up so, I'm not going to start you on blood pressure medicine because once we remove the pain your blood pressures will look fine, you see what I'm saying?
+
+
+PATIENT H819
+Yeah.
+
+
+DOCTOR H819
+So we take a falsely elevated blood pressure cause of pain.  So we want to be able to treat the pain not the blood pressure.
+
+
+PATIENT H819
+Alright.
+
+
+DOCTOR H819
+The blood pressure will normalize once we get rid of the pain okay.
+
+PATIENT H819
+Cause you know I've never had, you know.
+
+
+DOCTOR H819
+I know.
+
+
+PATIENT H819
+I've never had you know blood pressure, you know high blood pressure you know but.
+
+
+DOCTOR H819
+Yeah, no, that's the reason why because the pain is, it's because you're having pain.  Not uncommon to have it happen.  Okay.  Why don’t you sit over here for me.
+
+
+PATIENT H819
+Uh it hurts to put pressure on the foot.
+
+DOCTOR H819
+Yeah.
+
+
+PATIENT H819
+It's all.
+
+
+DOCTOR H819
+All the way down.
+
+
+PATIENT H819
+I can feel it in my toes.
+
+
+DOCTOR H819
+Okay.  
+
+
+PATIENT H819
+@@@.
+
+
+DOCTOR H819
+Uh, I'll probably give you a @@@.  Plus sometimes the machines out there are not calibrated regularly so that the blood pressure might be a little inaccurate but the main reason is usually pain.  Okay, now I'll hold up your arm, just relax it.   Okay, the number is 144/82.  The top number is still high but again as I said when you're in pain, we expect that.  Let me just type that in the computer.  I just want finishing examining you okay?  Deep breath.
+
+
+PATIENT H819
+(Breathes)
+
+
+DOCTOR H819
+Okay good.  Just breathe normally.  Okay.  Come and sit down over here.  Remind me, have you had a colonoscopy?
+
+
+PATIENT H819
+Yes.
+
+
+DOCTOR H819
+How long ago has that been?
+
+
+PATIENT H819
+Oh about a year I guess.
+
+
+DOCTOR H819
+And it was done here?
+
+
+PATIENT H819
+Yes.
+
+
+DOCTOR H819
+Okay.  So I think we have a plans for everything.  So, in the meantime, if we can figure out why you're having so much issue with your back, which is also the sciatica.  So continue the Vicodin and we'll do everything else.  Okay, they can do physical therapy with you to hopefully, help alleviate the stress on that nerve and try to get this improved okay.
+
+
+PATIENT H819
+I @@@.
+
+
+DOCTOR H819
+Okay.  It's not uncommon that can happen.  But usually it happens with guys because they tuck their wallet in their back pocket and they sit like you know, whenever you sit down the pressure compressing on the nerve and then it just causes injury and it causes the pain.  So that's usually, that's usually the number one culprit to be honest with you.
+
+
+PATIENT H819
+Your wallet.
+
+
+DOCTOR H819
+Your wallet being in the back pocket and then once we like tell people to take your wallet out of your back pocket, then all of a sudden they feel much better.  But I'm not sure, you know yours, since yours was so severe, we need, I think we should see what the MRI shows, if there's anything else, if there's something particular in the back that's still pushing on it or what, what's going on okay?
+
+
+PATIENT H819
+Alright.
+
+
+DOCTOR H819
+Um alright.  Okay.  Let me go talk to my boss, I'll be right back okay?
+
+
+PATIENT H819
+Can you still give me the @@@?
+
+
+DOCTOR H819
+Uh yeah and here I can take them.
+
+
+(DOCTOR OUT:  41:37  DOCTOR IN:  47:50)
+
+
+DOCTOR H819
+Okay.  So you are all set.  So um, I put in that order for the MRI and I asked if they'd do it the same day that they're doing your back, so hopefully they can accommodate that okay.
+
+
+PATIENT H819
+Okay.
+
+
+DOCTOR H819
+And then if the MRI of the shoulder shows something that's you know, grossly abnormal then I'll refer you back to the Ortho so they can evaluate you, okay?
+
+
+PATIENT H819
+Okay, okay.
+
+DOCTOR H819
+Um and then you're gonna get the, you're gonna continue in Podiatry and you have a plan for everything.  We just need to get these tests done so that we can see you know, whether it's from the @@@ or not and then we'll, we'll go based on that.  Alright.  Is there anything else that you need?
+
+
+PATIENT H819
+Let me know when you want me to come back for the results of the MRI.
+
+
+DOCTOR H819
+So the result of the MRI, the MRI is typically read um about a week, within a week, generally after, give it a weeks’ time after it's done.  So what I would do is just call the office here um like the next week so you're getting it done January 5th, so like you would be the 10th or something.
+
+
+PATIENT H819
+Okay.
+
+
+DOCTOR H819
+And then I will look at it and I can call you with the results.
+
+
+PATIENT H819
+Okay.
+
+
+DOCTOR H819
+Okay and just call and say you're asking for your MRI results that's all.
+
+
+PATIENT H819
+Okay.
+
+
+DOCTOR H819
+Okay and that will give me a reminder as well to look.  I'm gonna look but just go ahead and ask for a reminder and I'll give you a call with the results.  Alright, you're all set.
+
+
+PATIENT H819
+Okay.  Thank you.
+
+
+DOCTOR H819
+Uh-huh.
+
+
+PATIENT H819
+Happy New Year.  
+
+
+DOCTOR H819
+Yeah you too.  Hopefully we'll get to the bottom of this huh.  @@@.  Okay all good to go.  Thank you, have a great holiday sir.
+
+PATIENT H819
+You too.  Happy New Year.
+
+DOCTOR H819
+You have a Happy New Year.
+
+DOCTOR OUT:  50:27
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1233985
+TRANSACTION # 578-10-2-316-0103

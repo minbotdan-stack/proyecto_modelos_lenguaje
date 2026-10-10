@@ -1,0 +1,956 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@ 
+
+DOCTOR J090
+Come on back.  How's everything going?
+
+PATIENT J090
+I'm hanging in there.
+
+DOCTOR J090
+Good.  Your blood pressure was a little high when you first came in.
+
+PATIENT J090
+Yeah.
+
+DOCTOR J090
+@@@ running around.  @@@ rechecked it and it was 136/84 so. 
+
+PATIENT J090
+I know @@@.
+
+DOCTOR J090
+Yeah this time, the past three times when we've rechecked it it's always been 120s @@@.  Are you in any pain today?  Could be that why it's elevated.
+
+PATIENT J090
+I'm getting pain today because I'm kind of pissed off actually.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+No, actually when I saw you in January you was gonna put some orders in for me to uh have an eye consult.
+
+DOCTOR J090
+Yeah did they not schedule your eye appointment?
+
+PATIENT J090
+No eye appointment, no Ortho consult, no.
+
+DOCTOR J090
+Well remember we were going to try the physical therapy before we tried the Ortho consult and we ordered those films.  We wanted to take a look at those films so that's why the Ortho consult wasn't placed yet because we had ordered those films of your knees to look and see if there were any fracture or dislocation or anything that @@@ images first and the physical therapy is it helping your knees?
+
+PATIENT J090
+Well I, let me see I only went one more time because he said uh I don't know, he wanted me to continue but.
+
+DOCTOR J090
+Yeah.
+
+PATIENT J090
+But the guy downstairs he and I wanted to continue going but you know I guess he had to, he had to get something from you to continue with it and since that didn't happen.
+
+DOCTOR J090
+Well we should be able to continue that, I mean physical therapy isn't usually just one session.
+
+PATIENT J090
+Well I had @@@.
+
+DOCTOR J090
+It looks like you went multiple times.
+
+PATIENT J090
+I went multiple times.
+
+DOCTOR J090
+Okay, did you feel like you needed to continue with it?
+
+PATIENT J090
+I felt, I wanted to continue but he said you know, I don't know, I guess he needed something in writing I don't know, I guess.
+
+DOCTOR J090
+Okay but did you feel that you would benefit from more physical therapy?
+
+PATIENT J090
+He said I could.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+Uh but then.
+
+DOCTOR J090
+Do you feel like it was helping you?
+
+PATIENT J090
+It was helping with the strengthening you know.
+
+DOCTOR J090
+Uh-huh.  Okay it looks like he discharged you from the Physical Therapy Clinic.
+
+PATIENT J090
+Right.
+
+DOCTOR J090
+It shows you had had 11 sessions.
+
+PATIENT J090
+Yeah @@@.
+
+DOCTOR J090
+So it looks like you were tolerating the exercises and doing well with the treatment.  But you don't feel like it was really helpful?
+
+PATIENT J090
+It's just, you know, it helped with strengthening, you know strengthening my legs but.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+But helping with my pain or anything like that @@@.
+
+DOCTOR J090
+Okay so it helped you @@@ but you're still having and it helped with your stability as well?
+
+PATIENT J090
+No, not really.
+
+DOCTOR J090
+No.
+
+PATIENT J090
+No.
+
+DOCTOR J090
+So you feel like unsteady when you're walking?
+
+PATIENT J090
+Uh-huh.
+
+DOCTOR J090
+Okay.
+
+PATIENT J090
+Uh-huh and he's the one that gave me the cane.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+Uh and then let's see what else.
+
+DOCTOR J090
+Do you take anything for the pain?
+
+PATIENT J090
+Naprosyn.
+
+DOCTOR J090
+Okay.  Is that helping?
+
+PATIENT J090
+I've been taking that for so long it's not really effective anymore.  I've been taking that for you know almost 10 years.
+
+DOCTOR J090
+10 years, that's a long time.
+
+PATIENT J090
+A long time.
+
+DOCTOR J090
+You're putting yourself at risk for a ulcer.
+
+PATIENT J090
+I alRight.
+
+DOCTOR J090
+Okay, how much Naprosyn are you taking?
+
+PATIENT J090
+250.
+
+DOCTOR J090
+And how often do you take it?
+
+PATIENT J090
+Uh twice a day, sometimes three times a day.
+
+DOCTOR J090
+Okay.
+
+PATIENT J090
+Uh.
+
+DOCTOR J090
+But it's not really doing any good?
+
+PATIENT J090
+No.
+
+DOCTOR J090
+Okay, I would stop it then if it's not helping you, because it's just putting you at risk for an ulcer.
+
+PATIENT J090
+Alright.
+
+DOCTOR J090
+Since it's not helping your pain.  Um okay so you those x-rays that we took continue to show the degenerative joint disease and the narrowing of the disk space but it didn't show any fractures or dislocation but we can send you to Ortho um now that we have the films and it does um @@@ if you would benefit from surgery.  They can evaluate you for that.
+
+PATIENT J090
+Um what about the colonoscopy?
+
+DOCTOR J090
+Is that something that you're still interested in?
+
+PATIENT J090
+Yeah you said you were gonna.
+
+DOCTOR J090
+Yeah did you go and get the labs done?
+
+PATIENT J090
+Uh-huh.
+
+DOCTOR J090
+Okay, so let's take a look at the labs here.  You went and had blood drawn?
+
+PATIENT J090
+Yeah.  You said you were gonna order me some of that stuff for my skin, for the dry skin Absorbase, never got that.
+
+DOCTOR J090
+Okay, so you don't have all the labs that you need for the colonoscopy.  Can you go down to the Lab today for some blood work and we can get that done.  So could you.
+
+PATIENT J090
+I didn't get the labs done? I thought I did.
+
+DOCTOR J090
+Those were different so before you had you know your cholesterol checked, that was back in, that was a while back, back in November I think, yeah back in January when you had your cholesterol getting checked and the hepatitis C and your prostate enzyme, all of that good stuff.  But you didn't get screening labs for your colonoscopy at that time so we need to order specific screening labs first just to review them and then we can refer you for the colonoscopy so.
+
+PATIENT J090
+So okay, so after I get the labs done then I'm gonna have to have another appointment or what?
+
+DOCTOR J090
+No you don't need another appointment.  I will see the labs and then I'll schedule you for the colonoscopy okay.  So let's go ahead and order these labs.
+
+PATIENT J090
+Yeah I'll get them done tomorrow morning, I got something else tonight.
+
+DOCTOR J090
+Okay.
+
+PATIENT J090
+I got to go back there.
+
+DOCTOR J090
+That's fine.  So you’ll go for the @@@ labs um, the physical therapy is not helping so we put in for Ortho to see you and you want the Absorbase you said?
+
+PATIENT J090
+Uh-huh.
+
+DOCTOR J090
+Okay.  Do you want to pick that up today?
+
+PATIENT J090
+Yeah sure.
+
+DOCTOR J090
+Okay.  And you're using that for dry skin?
+
+PATIENT J090
+For dry skin.
+
+DOCTOR J090
+Okay.
+
+PATIENT J090
+And uh I need to go to the Eye Clinic uh, I couldn't do a walk-in, I mentioned that when I saw you in January, I tried to go in and see if they had.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+It'd been almost a year that I had been in their so I needed to go our time here.
+
+DOCTOR J090
+It doesn't look like that won't, okay @@@.  Where do you use the cream, all over?
+
+PATIENT J090
+All over.
+
+DOCTOR J090
+So I'll do that.  @@@.  Do you want to pick it up at the window?
+
+PATIENT J090
+Yes.
+
+DOCTOR J090
+Also there's the colonoscopy labs you can go for tomorrow.
+
+PATIENT J090
+Yeah tomorrow, yeah.  What about the Eye consult?
+
+DOCTOR J090
+Uh-huh.  So what was going on with your eyes?
+
+PATIENT J090
+Um a few years ago um I started having blurred vision so I came in and with the guys in the Eye Clinic.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+And uh you know they dilated my pupils and did all that and did some additional tests.  They said they wanted to keep an eye on something, make sure I come back within a year but I kind of you know, I didn't follow up like I should have and that's probably why you know they wouldn't let me just walk back in because it had been over a year.
+
+DOCTOR J090
+You had seen them here?
+
+PATIENT J090
+Yes.
+
+DOCTOR J090
+Okay. 
+
+PATIENT J090
+It was something specific that they wanted to watch for but.
+
+DOCTOR J090
+Have you been having any vision changes?
+
+PATIENT J090
+Uh some yes.
+
+DOCTOR J090
+What, what kind of changes?
+
+PATIENT J090
+Uh just the continued uh.
+
+DOCTOR J090
+Worsening of the vision?
+
+PATIENT J090
+Worsening of the vision yeah.
+
+DOCTOR J090
+Just when you're reading?
+
+PATIENT J090
+Uh when I'm reading or you know like when I uh, just sometimes during the day my vision will, even with the glasses that I have uh, I still can't see as sharply as.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+As I used to.
+
+DOCTOR J090
+And you think that um.
+
+PATIENT J090
+I think.
+
+DOCTOR J090
+That when you're looking at things far away or close?
+
+PATIENT J090
+When um, normally, usually my far vision isn't affected.  My distance vision hasn't really been affected in the past but that's starting to be affected too.
+
+DOCTOR J090
+Okay.
+
+PATIENT J090
+So it's both.
+
+DOCTOR J090
+Near and distant as well.
+
+PATIENT J090
+Yeah.
+
+DOCTOR J090
+Okay and then um tell me about, are you still taking those antibiotics, the amoxicillin?
+
+PATIENT J090
+No I'm done with that.  I'm going; you know I got a dental appointment at 10 o'clock, a follow-up.  Yeah that was for.
+
+DOCTOR J090
+That's today?
+
+PATIENT J090
+Yeah that was for dental stuff that I was on amoxicillin.
+
+DOCTOR J090
+Okay so you're off of it now?
+
+PATIENT J090
+Yeah I'm done, I'm done, I'm done with that.
+
+DOCTOR J090
+And the swish and spit.
+
+PATIENT J090
+I'm still using that.
+
+DOCTOR J090
+Still using that okay.
+
+PATIENT J090
+I got like two bottles at home still.
+
+DOCTOR J090
+Okay.  Are you still taking Tylenol for your pain?
+
+PATIENT J090
+Yes I am.
+
+DOCTOR J090
+@@@ is that helping at all?
+
+PATIENT J090
+You know I was taking the Tylenol and I was taking that for the dental pain.
+
+DOCTOR J090
+Okay @@@.
+
+PATIENT J090
+Cause I gotta a you know.
+
+DOCTOR J090
+But that doesn't help your knee pain at all.
+
+PATIENT J090
+Not really.
+
+DOCTOR J090
+Okay and you're taking that 500 every six hours?
+
+PATIENT J090
+Right.
+
+DOCTOR J090
+Okay.  
+
+PATIENT J090
+I was taking that, alternating that with 600 uh Motrin.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+So it was like.
+
+DOCTOR J090
+Oh you're taking Motrin and.
+
+PATIENT J090
+Yeah that was for my dental pain though.
+
+DOCTOR J090
+The oh the.
+
+PATIENT J090
+You know I got all my teeth pulled.
+
+DOCTOR J090
+Okay.  I see.  How long did you, are you still taking the Tylenol and the ibuprofen?
+
+PATIENT J090
+I'm still taking the Tylenol but I'm not really taking the ibuprofen as much.
+
+DOCTOR J090
+Okay.  I'm going to take that off your medication list.  Since you’re not using that.
+
+PATIENT J090
+What?
+
+DOCTOR J090
+The ibuprofen?
+
+PATIENT J090
+Unless you can order something different yeah.
+
+DOCTOR J090
+So you don't need it for your tooth pain anymore?
+
+PATIENT J090
+Not no.
+
+DOCTOR J090
+Okay.
+
+PATIENT J090
+Alright.
+
+DOCTOR J090
+So you're not taking the ibuprofen but you're still taking the.
+
+PATIENT J090
+Still taking the Tylenol.
+
+DOCTOR J090
+Tylenol okay.
+
+PATIENT J090
+Now I take it sometimes but he wanted me to take it you know alternate it you know throughout the day.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+One a day you know throughout the day but take something else @@@.
+
+DOCTOR J090
+Oh okay.
+
+PATIENT J090
+I was doing it that way but you know that was like, this will be two weeks now that I had the dental work done.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+And uh, like I said I'm having my follow-up today.  I still got some sutures in my mouth.
+
+DOCTOR J090
+Okay.
+
+PATIENT J090
+They gonna remove @@@.
+
+DOCTOR J090
+I would stop taking your Naproxen because it's not helping your knee pain and if you're taking that much of it you're gonna just put yourself at risk for an ulcer.
+
+PATIENT J090
+Uh-huh, right I.  And I hadn't been taking the Naproxen anyway.
+
+DOCTOR J090
+Oh I thought you said you've been taking.
+
+PATIENT J090
+I had been taking the Advil.  You know I had been taking the Naprosyn like for years.
+
+DOCTOR J090
+Oh uh-huh.
+
+PATIENT J090
+But then I ran out, I didn't try to get anymore.
+
+DOCTOR J090
+Oh because it wasn't helping.
+
+PATIENT J090
+Wasn't helping.
+
+DOCTOR J090
+Okay.  Have you ever tried anything called tramadol? 
+
+PATIENT J090
+Tramadol, no, no.
+
+DOCTOR J090
+We can try that for you and the pain.
+
+PATIENT J090
+Okay.
+
+DOCTOR J090
+Do you want to pick that up today too?
+
+PATIENT J090
+Yeah.
+
+DOCTOR J090
+Tramadol @@@ consult @@@ eyes. You got your flu shot and all of that stuff?
+
+PATIENT J090
+Yeah flu and pneumonia I got all that.
+
+DOCTOR J090
+Are you still in the Methadone Program?
+
+PATIENT J090
+Yes.
+
+DOCTOR J090
+Okay good.  Putting in the consult for you to see Ortho.
+
+PATIENT J090
+Now you said uh, remember I told you, I didn't tell you my story about the hep C?
+
+DOCTOR J090
+Right.  @@@ active right now.
+
+PATIENT J090
+@@@ okay.
+
+DOCTOR J090
+Uh-huh.  There is no active disease but we'll get the labs so.
+
+PATIENT J090
+So I don't need to go to that the Liver Clinic or anything like that?
+
+DOCTOR J090
+No, no not right now.
+
+PATIENT J090
+Okay.  Its borderline or anything, it's okay?
+
+DOCTOR J090
+No active disease.  It shows that you had possible; you know you were possibly infected in the past.
+
+PATIENT J090
+Uh-huh.
+
+DOCTOR J090
+But you're not, no active infection right now and your labs are not typical for disease @@@.
+
+PATIENT J090
+So could I give blood?
+
+DOCTOR J090
+Um, they'll probably want to do screening labs when you give blood.  Sometimes patients who have a history of infection in the past they will not allow you to give blood.  I don't know exactly what their rules are.
+
+PATIENT J090
+Okay.  And the only reason I asked that uh I have a common type.
+
+DOCTOR J090
+How many year have you had knee pain?
+
+PATIENT J090
+Ooh.
+
+DOCTOR J090
+How many years?
+
+PATIENT J090
+Well let's see, I first injured my knees in the 80s, yeah, 87.
+
+DOCTOR J090
+It's been a lot of years.
+
+PATIENT J090
+Yeah, 30 years, 87, this is what @@@@, yeah that long yeah.  It's been a while, too long.  That's what they say is chronic.  So you're leaving in June?
+
+DOCTOR J090
+Yep.
+
+PATIENT J090
+So is you all done or you going somewhere else?
+
+DOCTOR J090
+I'll be all done and will um.
+
+PATIENT J090
+Staying in the Chicago area?
+
+DOCTOR J090
+Yeah that's something I wanted to stay in Chicago but, I'm still looking for a job so, I haven't found one just yet.
+
+PATIENT J090
+Hmm.
+
+DOCTOR J090
+Still working on that process.  It's hard to find a job today, now with the economy.
+
+PATIENT J090
+Really?
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+Wow.
+
+DOCTOR J090
+But I’ll find something, it’s just going to take time.
+
+PATIENT J090
+Yeah.
+
+DOCTOR J090
+What about you, did you find some work?
+
+PATIENT J090
+No.  You know I had an appointment to go to the uh, our Regional Office on Taylor Street, I'm in this program to get retrained and possibly get a job so my schedule has been kind of heavy to where they're scheduling me for appointments and not talking to me first so I've been having to cancel those appointments and they just called me now.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+And are gonna call me back this afternoon.  I'm just saying this uh yes, I'm looking.
+
+DOCTOR J090
+Uh-huh.
+
+PATIENT J090
+I'm looking.  I just don't want to jump into anything.
+
+DOCTOR J090
+For your @@@ Clinic, we'll send you to the Eye Clinic, to the Ortho Clinic, colonoscopy labs, 
+@@@.  A survey @@@.
+
+PATIENT J090
+Tramadol.
+
+DOCTOR J090
+And have you quit smoking yet?
+
+PATIENT J090
+I'm almost there.  I been going to the Cessation Class.
+
+DOCTOR J090
+Oh good, excellent.
+
+PATIENT J090
+I'm getting there, I'm almost there.
+
+DOCTOR J090
+How many cigarettes are you down to?
+
+PATIENT J090
+Four.
+
+DOCTOR J090
+Okay.
+
+PATIENT J090
+Four to six a day, sometimes less, sometimes.
+
+DOCTOR J090
+How much were you on before you started @@@?
+
+PATIENT J090
+Oh man, a pack a day.
+
+DOCTOR J090
+Okay.  So improvement.  So this medication the tramadol it can cause confusion in elderly patients.  You're a young guy so I don't think you'll have a problem with it.
+
+PATIENT J090
+Uh-huh.
+
+DOCTOR J090
+So the first few times that you use it, make sure that you don't drive afterwards.
+
+PATIENT J090
+Oh I'm not driving now.
+
+DOCTOR J090
+Okay good.  Just kind of monitor yourself after you take it and make sure that your mind is still clear, you don't have any confusion and it's not making you drowsy or sleepy or anything like that okay.
+
+PATIENT J090
+Alright.
+
+DOCTOR J090
+And do you want to pick that up at the window as well?
+
+PATIENT J090
+Yes.
+
+DOCTOR J090
+And you're gonna take that on an as needed basis too.
+
+PATIENT J090
+Okay.
+
+DOCTOR J090
+Okay let me just talk to my boss real quick.  Anything else you wanted to discuss?
+
+PATIENT J090
+No.
+
+DOCTOR J090
+@@@ take a seat up there.  @@@.  Take some big deep breaths.  Good.  Your lungs sound good right now.  After you stop smoking you can prevent yourself from developing emphysema.  I'm on service right now at the VA and we see people coming in all the time.
+
+PATIENT J090
+With emphysema?
+
+DOCTOR J090
+Emphysema.
+
+PATIENT J090
+Yeah, like in the Smoking Cessation Class.
+
+DOCTOR J090
+Yeah, you probably see.
+
+PATIENT J090
+Almost all the guys, almost all of them have emphysema.
+
+DOCTOR J090
+Yeah.
+
+PATIENT J090
+And asthma.
+
+DOCTOR J090
+And asthma too.
+
+PATIENT J090
+Yeah.  
+
+DOCTOR J090
+Go ahead and lay back, @@@ underneath.  You're able to bend it?
+
+PATIENT J090
+Yes, part of that without hurting.
+
+DOCTOR J090
+Can you bend it any further?
+
+PATIENT J090
+Nope.
+
+DOCTOR J090
+Nope.  And how about this one?
+
+PATIENT J090
+This one's kind of not as bad.
+
+DOCTOR J090
+Okay.
+
+PATIENT J090
+Like the last one so.
+
+DOCTOR J090
+Bend it again for me.  Did that cause any pain?
+
+PATIENT J090
+No.
+
+DOCTOR J090
+What about this?
+
+PATIENT J090
+That does, especially in the hip, not in the knee.
+
+DOCTOR J090
+Okay.  But it doesn't cause any pain in the knee?
+
+PATIENT J090
+No.
+
+DOCTOR J090
+Okay.  Alright.  @@@ it looks like you do have some restriction and some stiffness, @@@ may be able to @@@.  So the left side looked better.
+
+PATIENT J090
+It's worse than that.  That's also the one that locks, snaps and pops all the time.
+
+DOCTOR J090
+Okay.  (doctor working on computer)  @@@.
+
+PATIENT J090
+Right.
+
+DOCTOR J090
+Heading in the right direction huh.
+
+PATIENT J090
+Yeah.
+
+DOCTOR J090
+Good for you.
+
+PATIENT J090
+@@@.  All those crazy wild days are over. 
+
+DOCTOR J090
+Good.  Where are you living at?
+
+PATIENT J090
+Uh, presently I'm just staying with my mom.
+
+DOCTOR J090
+Okay.  
+
+PATIENT J090
+It's a temporary situation of course.
+
+DOCTOR J090
+Sure.
+
+PATIENT J090
+Uh when I get back to working.  
+
+DOCTOR J090
+Well, I'll be right back.
+
+PATIENT J090
+Alright.
+
+(DOCTOR OUT:  37:36  DOCTOR IN:  48:48)
+
+DOCTOR J090
+Okay sir, she agreed with our plan.  The only suggestion she had was to use just to try diclofenac instead of um tramadol just because tramadol has some addictive properties so it probably would be better to try something without those properties first and try um.
+
+PATIENT J090
+What is that that you said, what is it?
+
+DOCTOR J090
+Diclofenac.  It's a stronger anti-inflammatory medicine, it's stronger than Naproxen so.
+
+PATIENT J090
+Okay.
+
+DOCTOR J090
+So we'll try that and you can pick that up today too.  @@@.
+
+PATIENT J090
+I haven’t heard of that one.
+
+DOCTOR J090
+Yeah it's not really what we use that often but @@@ so.  Cause usually Naproxen helps most people but.
+
+PATIENT J090
+Unless they've been taking it forever huh.
+
+DOCTOR J090
+Yeah I guess so.  
+
+PATIENT J090
+It used to work. I been taking it for a long time.
+
+DOCTOR J090
+So let's try something different.
+
+PATIENT J090
+I'm surprised no one's ever suggested coming off of that and trying something else.
+
+DOCTOR J090
+Yeah.
+
+PATIENT J090
+@@@.
+
+DOCTOR J090
+@@@.
+
+PATIENT J090
+They always ask me how long have you been taking it and I tell them and they just keep prescribing it.
+
+DOCTOR J090
+I know, so if it's helping then they'll still continue it but if it's not helping you then what's the point right?
+
+PATIENT J090
+Switch up from time to time anyway though.  I think you know, will that cause ulcers too?
+
+DOCTOR J090
+It can so they'll probably want you to take it with food.  They're going to @@@.
+
+PATIENT J090
+Yeah I always take it with food I don't, yeah I don't take without food.
+
+DOCTOR J090
+Okay, so you take it once in the morning with breakfast and with dinner.  Alright.  So it sounds like they wanted you to go back up front, or go back to Room @@@ because the pain scale wasn’t complete.  Do you just want to wait over here in the Waiting Room?  Okay take care @@@.  There you go.
+
+PATIENT J090
+We'll try again.
+
+PATIENT LEAVES:  51:32.
+
+Time is 9:40.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238091
+TRANSACTION # 578-10-2-316-0103

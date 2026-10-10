@@ -1,0 +1,1342 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR R176
+PATIENT.
+
+PATIENT R176 
+Yeah.
+
+DOCTOR R176
+I'm sorry hi.  What kind of problem have you had?
+
+PATIENT R176
+@@@. They've heard everything, the whole thing.
+
+DOCTOR R176
+Uh-huh.  Um okay so the last time I saw you, I saw you in Urgent Care right?
+
+PATIENT R176
+Uh-huh.
+
+DOCTOR R176
+Alright.  And we gave you, we did the x-rays and um we started you on the ibuprofen.  Have you been taking the ibuprofen?
+
+PATIENT R176
+Yes.
+
+DOCTOR R176
+Okay and that's not helping?
+
+PATIENT R176
+Well it's slacks up you know.  It worked if I take two of them.
+
+DOCTOR R176
+Uh-huh.  How many have you been taking?
+
+PATIENT R176
+I just took, I been taking one at a time then I do two and that seemed to help me much better.
+
+DOCTOR R176
+How many times a day have you been taking two?
+
+PATIENT R176
+Just once.
+
+DOCTOR R176
+Just once a day?
+
+PATIENT R176
+Uh-huh.
+
+DOCTOR R176
+So you've just been taking two pills a day basically?
+
+PATIENT R176
+Uh-huh.
+
+DOCTOR R176
+Alright give me one second I'm just gonna review the, probably look at the x-ray myself okay.
+
+PATIENT R176
+Okay.
+
+(DOCTOR OUT:  10:00  DOCTOR IN:  17:46)
+
+FIRST DOCTOR R176
+Sorry about that.
+
+PATIENT R176
+NAME.
+
+FIRST DOCTOR R176
+Yeah no, no, I think it's @@@.
+
+SECOND DOCTOR R176
+Alright you're gonna get that done.  We definitely want to do that.
+
+FIRST DOCTOR R176
+Yeah sorry about that.  Um so the x-rays.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+The x-rays that we got when I saw you in Urgent Care it showed evidence of osteoarthritis.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Have you heard of that before?  So there's two kinds of arthritis, well this actually well several different kinds of arthritis um but the two that everyone knows is rheumatoid arthritis and osteoarthritis.
+
+PATIENT R176
+Hmm.
+
+FIRST DOCTOR R176
+Osteoarthritis is the one that you have and it's basically wear and tear.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+You know as you get older.  Anyone who lives long enough is probably going to have osteoarthritis in one or more of their joints and you know you got two bones against each other over 65 years and you know.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Kind of wears down so.  Um what you see typically on the x-rays is you know the bones are like this you know.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And with osteoarthritis you see narrowing so the bones get a little bit closer. 
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Sometimes they have um, you see degrading of the surface you know.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And so that's what they saw in both of the knees.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+@@@ so the question is what do you do about it?  Um several things you can do um you can do, well the first thing you try to do is just control the pain with nonsteroidal anti-inflammatories like ibuprofen.  Then what you can also, you know, going up from that or you know if you're not getting enough pain control then you go with other things.  You know there are different medicines and you can also do injections, injections of the joint with um a steroid.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And that kind of lowers the inflammation and it usually helps with the pain.  Um patients who get that usually get pain relief for a month or two and they have to come you know several times a year to get re-injected and then after that um you know there's other things that you can go on and then there are other things that you can do to kind of help with the pain.  You can strengthen the muscles around the joint uh mainly you know the leg muscles you've got here um.  So you know there's things that we can do.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Um but unfortunately all of the things that we do don't really cure it.
+
+PATIENT R176
+No.
+
+FIRST DOCTOR R176
+There really is no cure I mean it's hard to cure you know worn down knees.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+So um you know everything that we, you know the treatments that we offer are basically controlling the pain, trying to minimize further damage to the joint and so on okay.  So you I mean, I saw you two weeks ago, right.
+
+PATIENT R176
+Right uh-huh.
+
+FIRST DOCTOR R176
+Um yeah and you said it's been getting worse in the last few years um and I started you on some ibuprofen.  So how do you feel?  I mean is the pain better than it was when I first saw you?
+
+PATIENT R176
+Well it's I can walk and do everything.  It's not like if I'm sitting here and I ain't having no problem getting up because it seem like it tightens up.
+
+FIRST DOCTOR R176
+Tightens up.
+
+PATIENT R176
+Yeah like that.  As long as I'm walking and everything - tolerable.
+
+FIRST DOCTOR R176
+Uh-huh good.  You know and you're only taking, when do you take the ibuprofen that I prescribed?  You're just taking it once a day you said right?  Take two tablets once a day?
+
+PATIENT R176
+When I get ready to go to work.
+
+FIRST DOCTOR R176
+Okay and what do you do?  Do you work nights or?
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+You work nights?
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+So you, you know take it in the evening basically before you go to work.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+It gets you through the.
+
+PATIENT R176
+Yeah, the whole night, right.
+
+FIRST DOCTOR R176
+All night.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Okay.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And then you get home and it hurts.
+
+PATIENT R176
+It hurt all day anyway but uh it just eases the pain that's all.
+
+FIRST DOCTOR R176
+Uh-huh.  The other thing we can do, so you can take you know you're taking, they say that the safe amount.  You know with every medicine there's a limit as to how much you can take.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Um the medicine that you're taking is 2.4 mg.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Give or take and you're taking 600 or so and you can take about four of those tablets a day.
+
+PATIENT R176
+Uh-huh but I ain't taking nowhere close to that.  
+
+FIRST DOCTOR R176
+Yeah and the other thing that you know what you can do is you can take it more often so what I was just thinking another option would be right now you've got I gave you the prescription for the 600.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+We can do 800 which is a little bit higher of a dose.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And you can do that like three times a day.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+You know so that way it's like, you know you get it before you go to work and then you know you can take it when you get home from work you know, so you'd be kind of like spacing it out.
+
+PATIENT R176
+Right, right.
+
+FIRST DOCTOR R176
+You know what I'm saying um that could be another option.  I mean I guess I'm trying to get a sense of what your, what your thoughts are.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+If it's just pain that.
+
+PATIENT R176
+No it's not a boom, stopping me from doing anything.
+
+FIRST DOCTOR R176
+Uh-huh.
+
+PATIENT R176
+It's just, it's there.
+
+FIRST DOCTOR R176
+It's there.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+How and like 0-10 what would you think it would be?
+
+PATIENT R176
+Before the medicine, before the ibuprofen it was about a 8.
+
+FIRST DOCTOR R176
+And now?
+
+PATIENT R176
+When I take it it's good.
+
+FIRST DOCTOR R176
+You have no pain when you take it?
+
+PATIENT R176
+Oh I have pain all the time regardless if I take it or not.  It's just not as pronounced when I take it.
+
+FIRST DOCTOR R176
+So you were an 8 before.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And then what does it bring it down to?
+
+PATIENT R176
+It come on down to about a 6 or something like that you know.
+
+FIRST DOCTOR R176
+Uh-huh.
+
+PATIENT R176
+Cause I’m constantly walking all night.
+
+FIRST DOCTOR R176
+Well the other thing I mean we can give you something else too you know um.  Six you know I, there's different, you know everyone's different but the ideal is to get it down to about a 4.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Okay uh so what we can do and I'm just looking at your labs.  We checked all your labs in February.  Checked your livers, kidneys, all that looks good so.  Um yeah I think we should add something, you know like a different type of medicine so um we'll try that.  Does that sound okay?
+
+PATIENT R176
+Okay.
+
+FIRST DOCTOR R176
+Um you know no one likes to take more pills but this is something that you would take as needed.
+
+PATIENT R176
+Hmm, okay.
+
+FIRST DOCTOR R176
+Um the medicine that you're on you've been taking.  Are you still taking the tramadol?
+
+PATIENT R176
+What is that one?
+
+FIRST DOCTOR R176
+Tramadol is for pain too.
+
+PATIENT R176
+No, no I don't take that.  Ibuprofen is the only thing I'm taking.
+
+FIRST DOCTOR R176
+So how many, okay let's go over your medicines real quick.
+
+PATIENT R176
+Okay.
+
+FIRST DOCTOR R176
+How many pills are you, do you know them?  Can you list your medicines or?
+
+PATIENT R176
+I know them when I hear them.
+
+FIRST DOCTOR R176
+Okay.  You got the six of them.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Alright we've got the ibuprofen.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Then you've got your blood pressure medicines.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+Lisinopril.
+
+PATIENT R176
+Okay.
+
+FIRST DOCTOR R176
+The amlodipine.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+Uh Bumex.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+That's a water pill.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+Uh let's see what else, metoprolol.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+You're taking all of those alright and then in addition you got a nasal spray.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Um and then you've got the medicine for the diabetes.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Glipizide.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+Uh and then the medicine for the cholesterol, simvastatin.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+Okay, anything else?
+
+PATIENT R176
+That's it.
+
+FIRST DOCTOR R176
+Okay.
+
+PATIENT R176
+And I'm on aspirin.
+
+FIRST DOCTOR R176
+You take like a baby aspirin, yeah.
+
+PATIENT R176
+Yeah, uh-huh.
+
+FIRST DOCTOR R176
+Okay good.  Um okay and then uh you have tramadol which I'd give or someone had given you in the past um.
+
+PATIENT R176
+That was a pain medicine.
+
+FIRST DOCTOR R176
+That's a pain medicine.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+Um which is, it's actually incidentally the same medicine that I would.  It's a different type of pain medicine so you have ibuprofen and tramadol but they're different types of pain medicine and they work differently.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Um you know if you give someone two of the same types of pain medicine you're kind of not doing much, you might as well just give them more of the original medicine.
+
+PATIENT R176
+Yeah.
+
+FIRST DOCTOR R176
+Yeah this is what I would do had you not been on it.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And you've already got a prescription for it; you probably don't have any at home right?
+
+PATIENT R176
+No.
+
+FIRST DOCTOR R176
+You still have refills so what I'm gonna do is I'm gonna renew it.  Its tramadol 50 mg uh you can take it three times a day.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Okay um you know and you just take it three times a day as needed for pain.  So if you took you know the ibuprofen and one of the tramadol maybe before you go to work.
+
+PATIENT R176
+Okay, you can one and one or something like that.
+
+FIRST DOCTOR R176
+Yeah, yeah.
+
+PATIENT R176
+Okay.  Uh-huh.
+
+FIRST DOCTOR R176
+So how does that sound?
+
+PATIENT R176
+Sounds right uh-huh.
+
+FIRST DOCTOR R176
+Alright.  So.
+
+PATIENT R176
+You can just have that, just sent to the house.
+
+FIRST DOCTOR R176
+You want me to have it sent to the house?
+
+PATIENT R176
+Yeah.  Mostly the ibuprofen I'm just using that right now.
+
+FIRST DOCTOR R176
+Okay yeah and it's already sent, already ordered that way.  Let me see if I have everything here.  Alright is there anything else you want to take care of today?
+
+PATIENT R176
+I'm good, I'm doing good.
+
+FIRST DOCTOR R176
+You’re good otherwise.  Well it worked out that I got to see you both times.
+
+PATIENT R176
+Right uh-huh.  Cause those knees can wake you up at night too.
+
+FIRST DOCTOR R176
+They wake you up?
+
+PATIENT R176
+Yeah.
+
+FIRST DOCTOR R176
+You know.
+
+PATIENT R176
+If I lay wrong.
+
+FIRST DOCTOR R176
+What we can do, how about, you work nights?
+
+PATIENT R176
+I work 7 to 7, 7 at night to 7 in the morning.
+
+FIRST DOCTOR R176
+And what are you doing?  You're working in a plant right?
+
+PATIENT R176
+Right uh-huh.
+
+FIRST DOCTOR R176
+Okay.  Um when do you sleep?
+
+PATIENT R176
+I come home, I get to sleep about 10 o'clock.
+
+FIRST DOCTOR R176
+Uh how late?
+
+PATIENT R176
+Until about maybe 3:30 or something like that.
+
+FIRST DOCTOR R176
+That's a tough schedule.
+
+PATIENT R176
+Right.  But like not every day.
+
+FIRST DOCTOR R176
+How many days a week?
+
+PATIENT R176
+It's EOP, three days then two days.  Like I go to work at night I mean tomorrow, Friday.  I work Friday, Saturday and Sunday, three days.
+
+FIRST DOCTOR R176
+And then get two off.
+
+PATIENT R176
+And then I'm off two.  I'm off Monday and Tuesday and the following weekend I'm off.  I work every other weekend and I work three days.
+
+FIRST DOCTOR R176
+Okay.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+So that makes it yeah, it makes it a little more manageable.
+
+PATIENT R176
+Right.  I couldn't do it five days.
+
+FIRST DOCTOR R176
+Yeah that's tough.
+
+PATIENT R176
+You know.  And I'm trying, I'm gonna give it up, this is not @@@.
+
+FIRST DOCTOR R176
+You're gonna retire?
+
+PATIENT R176
+Yeah.  I ain't gonna do it no more.  I'm just gonna let it go.  This summer be the last for me.
+
+FIRST DOCTOR R176
+Then what are your plans?
+
+PATIENT R176
+Go fishing.
+
+FIRST DOCTOR R176
+Where you gonna go fishing?
+
+PATIENT R176
+All over yeah.
+
+FIRST DOCTOR R176
+That sounds like a good plan.
+
+PATIENT R176
+Yep.  Uh-huh.
+
+FIRST DOCTOR R176
+Alright, so other than that um you checking your sugars?
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+How are they running?
+
+PATIENT R176
+They're not, I don't think they bad because I don't feel bad, 140s, 150s you know.
+
+FIRST DOCTOR R176
+Check them every day?
+
+PATIENT R176
+Yeah.
+
+FIRST DOCTOR R176
+One a day?
+
+PATIENT R176
+Yeah once a day.
+
+FIRST DOCTOR R176
+140s to 150s.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Does it ever get low?
+
+PATIENT R176
+I don't let it get low.
+
+FIRST DOCTOR R176
+Stay on top of it.
+
+PATIENT R176
+‘Cuz I eat stuff I ain't supposed to so it don't never get low.
+
+FIRST DOCTOR R176
+That's your way of staying on top of it.
+
+PATIENT R176
+Right cause it got low one time and it makes me feel bad.
+
+FIRST DOCTOR R176
+Yeah.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+So okay um let me just see when your last A1c was.  Your last A1c was 6.6 so it looks like you're doing a pretty good job.  Um, you haven't had any low episodes right?
+
+PATIENT R176
+No.
+
+FIRST DOCTOR R176
+Recently, alright, let's see.  Yeah you've been pretty good with all of these since they started checking them, going back all the way back to 2001.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+So alright, that's good.  Just keep doing what you're doing um I think um and you know it always, it never hurts to try and eat healthy.
+
+PATIENT R176
+Uh-huh right uh-huh.
+
+FIRST DOCTOR R176
+Um you know how would you describe your diet?
+
+PATIENT R176
+It's been, you know I eat vegetables.  I do good on the eating you know I haven't got no problem with that.  I can follow stuff like that.
+
+FIRST DOCTOR R176
+You eat a lot of sweets or you try and stay away from those?
+
+PATIENT R176
+Oh I don't eat a lot of sweet stuff no.
+
+FIRST DOCTOR R176
+How about fried foods, stuff like that?
+
+PATIENT R176
+Occasionally yeah uh-huh.  I'm gonna fry something you know.
+
+FIRST DOCTOR R176
+Uh-huh.
+
+PATIENT R176
+But uh I like vegetables and I boil a lot of stuff.
+
+FIRST DOCTOR R176
+Uh-huh.
+
+PATIENT R176
+You know so.
+
+FIRST DOCTOR R176
+Yeah so you know the things that you want to, you know, these are just kind of general principles and if you want we can refer you to.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+To kind of like a nutrition you know education.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Uh clinic here.
+
+PATIENT R176
+Uh-huh I'm not going to do that.
+
+FIRST DOCTOR R176
+But uh you know and uh they'll probably tell you stuff you already know but you want to stay away from things so with regards to the high blood pressure.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Which affects heart disease.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+Vascular disease as well as like brain, strokes, puts you at risk for that sort of thing um you want to stay away from foods that are high in salt.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+Um.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And then you know the fried foods.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+You know foods that are high in fat you know.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Uh red meat.  You know no one's saying you have to become a monk.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+And not eat that stuff any more.
+
+PATIENT R176
+Right, right, right.
+
+FIRST DOCTOR R176
+But you want to try and limit this you know.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+Stuff.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+We all know that fried stuff tastes better.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+You know.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Red meat is good, steak is good um but you really want to try and limit it.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And eat more you know of lighter, you know white meats.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+Chicken, fish, you know you want to bake things instead of frying.
+
+PATIENT R176
+Not frying everything all the time right.
+
+FIRST DOCTOR R176
+No, you know not adding salt to uh.
+
+PATIENT R176
+They're already salty stuff.
+
+FIRST DOCTOR R176
+Yeah, yeah.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+You know then the other thing with regards to salt um your blood pressure was a little high today um salt affects blood pressure.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Um you know try to stay away from foods like prepared foods.  Anything in a can, anything in a box.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Chances are, it’s going to have high salt because salt is a preservative.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+You know we've been using salt to preserve food for thousands of years.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+You know and we still use it um so like canned food, food that comes in a box that sort of thing.  Those things tend to have a lot of salt.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+So you know instead of eating like canned vegetables, you know whenever possible try to eat fresh or frozen vegetables.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Things like that.
+
+PATIENT R176
+Okay.
+
+FIRST DOCTOR R176
+Um you know those are things that you can do with your diet.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+To kind of you know improve uh things you know.  I think, like I said your sugars have been fairly well controlled but your blood pressure is an issue.  Um even though you're not too bad you're still not where we want you to be.  You know you're at 143/70 today and we'd like to get you below close to 120 if possible and at very least below 130 you the top number.
+
+PATIENT R176
+You mean on the blood pressure how many times a day I'm supposed to take that?
+
+FIRST DOCTOR R176
+Take what, measure your blood pressure or take the pills?
+
+PATIENT R176
+The pills?
+
+FIRST DOCTOR R176
+So.
+
+PATIENT R176
+I only take like once a day.
+
+FIRST DOCTOR R176
+You're on a few different medicines, so the amlodipine.
+
+PATIENT R176
+I don't take nothing but once a day all day.
+
+FIRST DOCTOR R176
+Yeah let me just look.  Amlodipine is once a day, Bumex is once a day um lisinopril once a day.  The metoprolol you're supposed to be on twice a day.
+
+PATIENT R176
+I only take it once.
+
+FIRST DOCTOR R176
+Okay.  So yeah, yeah, that may be.
+
+PATIENT R176
+So I just have to start taking that twice.
+
+FIRST DOCTOR R176
+Yeah you know which one I’m taking about?
+
+PATIENT R176
+Uh-huh, right.
+
+FIRST DOCTOR R176
+50 mg.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+You're supposed to be taking that twice a day you know so I would take it you know, it's supposed to be 12 hours apart.
+
+PATIENT R176
+Okay so I'll take it when I.
+
+FIRST DOCTOR R176
+Yeah.
+
+PATIENT R176
+When I go to work and while I'm at work.
+
+FIRST DOCTOR R176
+Yeah.
+
+PATIENT R176
+That's all.
+
+FIRST DOCTOR R176
+Yeah like right before you go to work.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And right when you get off.
+
+PATIENT R176
+Right uh-huh.
+
+FIRST DOCTOR R176
+So maybe that's what we're dealing with.  So yeah let's uh, you know the next time we see you.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+We'll see where your blood pressure's at you know.  Um we won't make any changes.  The only change we'll make is that you'll start taking the metoprolol.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+You know twice a day like its prescribed.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+And we'll follow up on it next time.
+
+PATIENT R176
+Okay.
+
+FIRST DOCTOR R176
+Um other than that, you doing okay? 
+
+PATIENT R176
+Good, real good.
+
+FIRST DOCTOR R176
+Alright now the last thing, we talked about all your labs and your cholesterol looks good.  Um health maintenance um you actually had a colonoscopy this past summer.  Prostate we’ll repeat @@@.  You had the flu shot this year.  And then last time I saw you.
+
+PATIENT R176
+Yeah you said did I want the flu shot today.
+
+FIRST DOCTOR R176
+But you had it, you already had it.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Um and then you had the uh the tetanus diphtheria I gave you the last time you were here.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Um and have you ever smoked in your life?
+
+PATIENT R176
+In the '70s.
+
+FIRST DOCTOR R176
+Oh okay.  One last thing is uh doing an ultrasound of the abdomen and the reason what they, the recommendations are that any male, any male who smoked.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Should get checked one time at the age of 65.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Should check a one-time ultrasound of the belly.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Um and what they're looking up is the aorta, that's the main blood vessel that goes, you know comes out of the heart.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And then goes you know.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Um so people who had smoked it puts you at risk for what's called an aneurysm so basically it's a weakness in the wall of the artery.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And it bulges out and then those can rupture and that's you know a very bad thing.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+So they say anyone who smoked at the age 65 they recommend doing a one-time only ultrasound.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Of the belly.
+
+PATIENT R176
+I haven't smoked in 20, 30 years.
+
+FIRST DOCTOR R176
+They say any smoking history.
+
+PATIENT R176
+Okay.
+
+FIRST DOCTOR R176
+You know just because it's such a, if it does happen it's such a devastating thing.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And the way you check for it is very, very easy.  They just put a little probe on your belly.
+
+PATIENT R176
+Uh-huh, uh-huh.
+
+FIRST DOCTOR R176
+Do you know what I'm talking about, an ultrasound?  It's like the things they do on pregnant women.
+
+PATIENT R176
+Yeah I understand, right.
+
+FIRST DOCTOR R176
+Yeah they use one of those just to kind of make sure that you don't have anything to worry about it ever again.
+
+PATIENT R176
+Uh-huh, right.
+
+FIRST DOCTOR R176
+So I think you know it'd be worthwhile just ordering it.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Get this done and you know you come back at your leisure.
+
+PATIENT R176
+Okay.
+
+FIRST DOCTOR R176
+Getting a little @@@ you know come in, do it.
+
+PATIENT R176
+Uh-huh.  Okay, no problem.
+
+FIRST DOCTOR R176
+Other than that, I think we're all good so I will I put in the order for the pain medicine tramadol.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Metoprolol you're gonna take; start taking it twice a day.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And then I'm gonna put in an order for the ultrasound.
+
+PATIENT R176
+Okay.
+
+FIRST DOCTOR R176
+And then otherwise I don't think we need to see you back here until another six months.
+
+PATIENT R176
+Okay.
+
+FIRST DOCTOR R176
+And then at that time you know we'll check cholesterol and a couple of the other things.
+
+PATIENT R176
+Right, uh-huh.
+
+FIRST DOCTOR R176
+Sound good?
+
+PATIENT R176
+Real good uh-huh.
+
+FIRST DOCTOR R176
+Alright.  Is there any particular time?  Are you coming back here any time soon for any tests or anything?
+
+PATIENT R176
+Uh uh.
+
+FIRST DOCTOR R176
+Alright.  When would be a good day for you to come back to do the ultrasound?
+
+PATIENT R176
+It'd be on one of my off days so.  You just get a day I mean it doesn't matter to me.  As long as it's on one of my off days I just come back.
+
+FIRST DOCTOR R176
+Okay.  I'll schedule that for next Wednesday, does that sound okay?
+
+PATIENT R176
+Let me see what next Wednesday is.
+
+FIRST DOCTOR R176
+The 29th.
+
+PATIENT R176
+Yeah @@@.
+
+FIRST DOCTOR R176
+You say, when are you working?  You're working.
+
+PATIENT R176
+Uh I have to look at my off day calendar it tells me.  Uh okay.
+
+FIRST DOCTOR R176
+Yeah we're the 23rd.
+
+PATIENT R176
+I'm off the red days.
+
+FIRST DOCTOR R176
+Oh you're off the red days okay.  So how about next Monday or Tuesday?
+
+PATIENT R176
+You see it on there?
+
+FIRST DOCTOR R176
+Yeah the, where it is, 27th and 28th.  You work tomorrow, Saturday, Sunday and then Monday, Tuesday you're off.
+
+PATIENT R176
+Right.
+
+FIRST DOCTOR R176
+So I'll put you for the next Monday or Tuesday, what would you rather do?
+
+PATIENT R176
+Tuesday is good.
+
+FIRST DOCTOR R176
+Sounds good.  Alright.  Give me one minute, I'm gonna go talk with DOCTOR.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+And uh I think @@@.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+We chatted when I first saw you right.
+
+PATIENT R176
+Right.
+
+(DOCTOR OUT:  42:19  DOCTOR IN:  44:56)
+
+FIRST DOCTOR R176
+Alright, last, but not least. You're done.  I just wanted to quickly, gonna listen to you, have a seat over here real quick.  @@@.  Deep breath in and out.  Breathe in.  No nausea, vomiting, diarrhea?
+
+PATIENT R176
+No.
+
+FIRST DOCTOR R176
+Chills. So no constipation, bowel movements are okay?
+
+PATIENT R176
+You know I’m going to the bathroom @@@ way I should.
+
+FIRST DOCTOR R176
+How often are you going?  Every day?
+
+PATIENT R176
+Once a day, every other day something like that.
+
+FIRST DOCTOR R176
+We can give you something to help you uh why don't you start with more fiber um.  Uh yeah so we can do that, we can give you some fiber.  How does that sound?
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Alright.  I just have a program I need to check @@@.  Alright.  Alright so you want to get it in the mail too?
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Alright.  So this is just like a big uh, like a big @@@ um you just take a scoop, put it with water or juice.
+
+PATIENT R176
+Like a Metamucil type thing.
+
+FIRST DOCTOR R176
+That's exactly what it is.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Alright and you know you can use it three times a day if you like, just depending on how you want to use it.  If this doesn't work we've got stronger stuff.  I kind of like to stick with the natural stuff you know.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+But if this doesn't work then we can give you something a little bit stronger and we'll leave that stuff that'll.
+
+PATIENT R176
+Yeah okay, okay.  I know, alright.
+
+FIRST DOCTOR R176
+Alright.
+
+PATIENT R176
+Uh-huh.
+
+FIRST DOCTOR R176
+Otherwise we'll see you in six months.
+
+PATIENT R176
+Good, really good.
+
+FIRST DOCTOR R176
+And you're done.
+
+PATIENT R176
+Alrighty.
+
+FIRST DOCTOR R176
+Alright.
+
+PATIENT R176
+Okay.
+
+FIRST DOCTOR R176
+Take care.  Too much @@@ out.
+
+PATIENT R176
+Exactly, alright, thank you doctor.
+
+FIRST DOCTOR R176
+Alright take care.
+
+PATIENT LEAVES:  50:04
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300321
+TRANSACTION # 578-10-2-316-0103

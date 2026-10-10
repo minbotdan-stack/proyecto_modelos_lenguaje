@@ -1,0 +1,590 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@@ 
+
+DOCTOR H017
+How you doing? 
+
+PATIENT H017
+Okay.  I'm doing good.
+
+DOCTOR H017
+Right this way.  Okay.  Alright you can go in the and sit right here on the exam table for me.
+
+PATIENT H017
+Okay.
+
+DOCTOR H017
+So how have things been for you?
+
+PATIENT H017
+Oh pretty good.
+
+DOCTOR H017
+Good, good.  Just get off your shift?
+
+PATIENT H017
+No I been, I was @@@
+
+DOCTOR H017
+Oh okay, got it.  Got it.  Do you get a Monday, Tuesdays off?
+
+PATIENT H017
+@@@.
+
+DOCTOR H017
+Yeah.
+
+PATIENT H017
+Yeah uh @@@ and Sunday.
+
+DOCTOR H017
+Okay.  So you work four 10's is that how it works?  You work 10 hour shifts or 8 hours?
+
+PATIENT H017
+No I work Fridays I work a five hour shift.
+
+DOCTOR H017
+Oh.
+
+PATIENT H017
+And then Saturday and Sunday I work 8 1/2 hour shifts @@@.
+
+DOCTOR H017
+Understood.  Alright, let me get you pulled up here.  Anything you want to talk about today specifically or?
+
+PATIENT H017
+Um nothing that I can think of right now.
+
+DOCTOR H017
+Nothing specific okay.  Alright.  Alright, the last time.
+
+PATIENT H017
+I needed a refill on one of the medications there.
+
+DOCTOR H017
+Oh you do, which one @@@.
+
+PATIENT H017
+I forgot it this morning. I think it's a red and blue capsule is the one I need.
+
+DOCTOR H017
+Okay.  Tell you what I'll refill everything today how's that sound?
+
+PATIENT H017
+Okay, that sounds good.  Yeah I left on account of my @@@ so I forgot. I didn’t take a lot of the stuff I was supposed to take.
+
+DOCTOR H017
+Got it.  Alright so you saw the Eye Clinic, kind of going from down the problem list here.  First of all the diabetes um, how's your blood sugars doing?  You still checking them?
+
+PATIENT H017
+Uh yes.
+
+DOCTOR H017
+Really, what kind of numbers you been getting?
+
+PATIENT H017
+Well lowest I get I think around 96 or between 95, 96 or up to about 124, 125.
+
+DOCTOR H017
+Very good.  Um you get any real low values down in the 50s, 60s, anything like that?
+
+PATIENT H017
+No I have got one down in the 60s but it don't uh.
+
+DOCTOR H017
+Oh okay, like over a year or so?
+
+PATIENT H017
+Uh maybe not a year but.
+
+DOCTOR H017
+Just months ago.
+
+PATIENT H017
+Yeah.  
+
+DOCTOR H017
+Do you ever get symptoms with it like feeling real dizzy, lightheaded, shaky, sweaty?
+
+PATIENT H017
+I get a little shaky sometimes.
+
+DOCTOR H017
+Really.
+
+PATIENT H017
+Yeah.
+
+DOCTOR H017
+Alright because we have you on uh glipizide.  That can make your blood sugar get a little bit low um.  Do you eat pretty consistently every day?  Like do you eat the same amount at the same times on each day?
+
+PATIENT H017
+Not the same time every day no.
+
+DOCTOR H017
+Not the same time okay.  But you do eat I mean cause you don't.
+
+PATIENT H017
+Yeah.
+
+DOCTOR H017
+Okay.
+
+PATIENT H017
+I eat every day.
+
+DOCTOR H017
+Okay good so.  Did you by chance bring the log in of your blood sugars or no?
+
+PATIENT H017
+Um no I didn't.
+
+DOCTOR H017
+That's fine.  @@@.  Okay and have you made it in to see the HIV doctors?  You have been in October, excellent.
+
+PATIENT H017
+I forgot when my next appointment is though, it’s with @@@.
+
+DOCTOR H017
+Okay.  
+
+PATIENT H017
+I think sometime in January.
+
+DOCTOR H017
+Okay.  Okay good.  You've been taking your HIV medicines.  
+
+PATIENT H017
+Uh yes.
+
+DOCTOR H017
+Good.
+
+PATIENT H017
+I didn't take any of my medications this morning.  I was running kind of behind.
+
+DOCTOR H017
+Oh that's okay.
+
+PATIENT H017
+I took it late last night so I had to uh.
+
+DOCTOR H017
+Okay.
+
+PATIENT H017
+Kind of put it off.
+
+DOCTOR H017
+That's fine.  That's good.  Okay.  How's that shoulder of yours doing?
+
+PATIENT H017
+It's doing a lot better.
+
+DOCTOR H017
+Good.
+
+PATIENT H017
+I'm supposed to come back out here for that um Wednesday.
+
+DOCTOR H017
+Oh to come in to the orthopedic surgeons to see them.
+
+PATIENT H017
+You know they look over everything and see.  I think it's maybe a week.
+
+DOCTOR H017
+Okay got it.  Oh I see continue occupational therapy.
+
+PATIENT H017
+Right.
+
+DOCTOR H017
+What are we doing for pain control?
+
+PATIENT H017
+Well they gave me some pills for it but I don't have pain, I mean.
+
+DOCTOR H017
+Good.
+
+PATIENT H017
+It just, you know some of the @@@ down there the @@@ only kind of over stretch it.  
+
+DOCTOR H017
+Okay.  Alright and I know you've seen the eye doctors recently.  Do you follow with the foot doctors as well?
+
+PATIENT H017
+Yeah I go for that uh what next month I think.
+
+DOCTOR H017
+Is it for diabetes foot checks?
+
+PATIENT H017
+No just uh just nail trimming.
+
+DOCTOR H017
+Just nails okay.
+
+PATIENT H017
+For the foot guys, I think it was a couple of months ago, I'm not sure exactly when.
+
+DOCTOR H017
+Okay.  Tell you what if you don't mind just popping your shoes off and your socks off as well I'm just gonna do a quick foot exam if that's alright with you.
+
+PATIENT H017
+Okay, okay.  I tell you all @@@.
+
+DOCTOR H017
+Oh okay.  Okay, I'm sorry.  Alright.
+
+PATIENT H017
+I was gonna ask you do you want both of them or just one?
+
+DOCTOR H017
+Uh both of them if you don't mind, both sides.  Okay as far as that goes.  I got uh; see you have some labs on you from about a month, about six weeks ago.
+
+PATIENT H017
+Yeah, is that the last night in bed.
+
+DOCTOR H017
+Uh you can @@@.
+
+PATIENT H017
+I didn't take my medication until late.
+
+DOCTOR H017
+Oh I see.
+
+PATIENT H017
+I just take a shower and anything and oil up.
+
+DOCTOR H017
+Okay.
+
+PATIENT H017
+They told me @@@ not to take them no less than 10 hours apart, so that's why I didn't take it this morning before I left.
+
+DOCTOR H017
+Oh.
+
+PATIENT H017
+I had a late night last night and I wanted to make sure I would leave enough time before I took it the second time.
+
+DOCTOR H017
+Right, right, right.  Okay, where is, okay.  Um I’m just writing down your numbers there, I’ll be there in a second.  Alright.  Okay.  I'm just going to review your medicines here real quick.
+
+PATIENT H017
+Okay.
+
+DOCTOR H017
+Okay good.  You're seeing the kidney doctors as well.
+
+PATIENT H017
+Right.
+
+DOCTOR H017
+Very good.  Good, good, alright.  Okay so you still got a couple more sessions um.  Okay the surgeons saw you about a month ago and they were kind of happy with how things went.
+
+PATIENT H017
+Okay.
+
+DOCTOR H017
+Um, let me just do the exam and we'll get all your medication refills in and then away we go.
+
+PATIENT H017
+Okay.
+
+DOCTOR H017
+Um how old are you these days?
+
+PATIENT H017
+I'm 70.
+
+DOCTOR H017
+70 @@@.  Let's see what the computer gives me.  On October 20th just got them done. Okay.  Alright.  So what do we do as far as colonoscopies go for you?  Have you had a colonoscopy?
+
+PATIENT H017
+It's been a while.
+
+DOCTOR H017
+Okay, let's see here.
+
+PATIENT H017
+Back in about 06.
+
+DOCTOR H017
+Okay so you don't need a repeat until 2016. Okay.  Your last A1c was.  Alright, can you pop your glasses off there for me?  Very good.  Take a look at each eye, good.  Stick your tongue out at me.  
+
+PATIENT H017
+Ah.
+
+DOCTOR H017
+Ah.  Good.  Alright.  
+
+PATIENT H017
+Ticklish?
+
+DOCTOR H017
+You're ticklish.
+
+PATIENT H017
+Oh I sure am.
+
+DOCTOR H017
+Feel that?
+
+PATIENT H017
+Uh-huh.
+
+DOCTOR H017
+Feel that?
+
+PATIENT H017
+Uh-huh.
+
+DOCTOR H017
+Feel that?
+
+PATIENT H017
+Uh-huh.
+
+DOCTOR H017
+Feel that?
+
+PATIENT H017
+Uh-huh.
+
+DOCTOR H017
+Good.  Feel that?
+
+PATIENT H017
+Uh-huh.
+
+DOCTOR H017
+Feel that?  Feel that?
+
+PATIENT H017
+Uh-huh.
+
+DOCTOR H017
+Feel that one?
+
+PATIENT H017
+Feel all of it.
+
+DOCTOR H017
+Good, alright.  Well that's excellent.  Check your pulses and we'll be all through.  You got good pulses, excellent.  Alright.  Can you go ahead and sit up for me?  I'm just gonna listen to your lungs and we'll get you on your way.  Big breath in and out and again.  Good.  Alright.  Um tell you what as far as the, it was your right shoulder correct?
+
+PATIENT H017
+Right uh-huh.
+
+DOCTOR H017
+Okay.  Can you go up like this for me? Does that hurt real bad in the right shoulder or no?
+
+PATIENT H017
+No it hurt but I mean just a little bit, not that bad.
+
+DOCTOR H017
+Just a little, is it overall doing better than how you were about six months ago?  Okay good.  Go ahead and put your hands behind your back like that.  Did it hurt to do that as well?  A little bit?
+
+PATIENT H017
+It don't hurt but it's stiff.
+
+DOCTOR H017
+Just stiff okay.  Was it just stiff when you did this earlier or?
+
+PATIENT H017
+Well it just kind hurt a little bit.
+
+DOCTOR H017
+Hurt a little bit.
+
+PATIENT H017
+Unless I got to lift something it's okay.
+
+DOCTOR H017
+Can you go like this for me?  Like trying to spread your wings out and put them up above your head like that.
+
+PATIENT H017
+@@@.
+
+DOCTOR H017
+Are you able to put it all the way above your head?
+
+PATIENT H017
+Almost like this and like that.
+
+DOCTOR H017
+Okay so it hurts to do that.
+
+PATIENT H017
+It's @@@.
+
+DOCTOR H017
+Just stiff. Yeah okay got it, alright.  Let me just hold your arm here alright, relax your arm good.  Okay.  Let me know if that's real painful okay.  Is that okay?
+
+PATIENT H017
+Still @@@.
+
+DOCTOR H017
+Little bit of pain okay.
+
+PATIENT H017
+It's just stiff like it don't want to go.
+
+DOCTOR H017
+Put your hands out like this for me; don't let me push them in.  That hurt?
+
+PATIENT H017
+A little bit, not bad.
+
+DOCTOR H017
+Don’t let me push them out.  Just a little bit okay.
+
+PATIENT H017
+Just a little.  When you were pushing in.
+
+DOCTOR H017
+Got it.  Okay would you say overall its doing better or has it gotten worse?
+
+PATIENT H017
+No it's getting better.
+
+DOCTOR H017
+Very good.  Alright sir um.  Let me go let DOCTOR know about you, I'll be right back.  Is there anything else we can do for you today?
+
+PATIENT H017
+Um no more than the medications.
+
+DOCTOR H017
+What's that?
+
+PATIENT H017
+I need the refills.
+
+DOCTOR H017
+Besides refill the medications and everything else, you're good?
+
+PATIENT H017
+Uh-huh. 
+
+DOCTOR H017
+That's it and you're all set.
+
+PATIENT H017
+Oh you're gonna come back in.  
+
+DOCTOR H017
+Did you get a flu shot when you were in uh, when you were at the ID Clinic last a couple months ago?
+
+PATIENT H017
+I been out, I got a flu shot I think it was October, November.
+
+DOCTOR H017
+October okay, very good, okay.
+
+(DOCTOR OUT:  32:49  DOCTOR IN:  38:05)
+
+DOCTOR H017
+Alright PATIENT.  Yeah from our standpoint you're doing really well.  Um I'll refill all your medicines.  Do you pick them up typically or do you just want them mailed to you?
+
+PATIENT H017
+Uh just mail them to me.
+
+DOCTOR H017
+Very good, I'll put them all in right now.
+
+PATIENT H017
+Uh-huh.
+
+DOCTOR H017
+Um you can see me in uh six months, how's that sound?
+
+PATIENT H017
+Sounds okay to me.
+
+DOCTOR H017
+Very good.
+
+PATIENT H017
+The flu shot I got was back in September.
+
+DOCTOR H017
+That's fine, that's absolutely fine.  Um let me just recheck your blood pressure here.  You can stay sitting right there.
+
+PATIENT H017
+Okay.
+
+DOCTOR H017
+You might just roll that up.
+
+PATIENT H017
+Yeah it was a little high this morning.
+
+DOCTOR H017
+It was a little high but I know you didn't take your medicine.
+
+PATIENT H017
+No.
+
+DOCTOR H017
+So that's fine.  I just want to double check just to make sure it's not going the wrong way.
+
+PATIENT H017
+Do you want me to just roll up one of my sleeves for you?
+
+DOCTOR H017
+While you're doing that I'm just going to jot a few things down here.
+
+PATIENT H017
+I got to @@@ up, can't get it up over.
+
+DOCTOR H017
+Oh okay. Oh you know what um; you can just take off the top shirt, that's fine.  You can leave the undershirt on.
+
+PATIENT H017
+Okay.
+
+DOCTOR H017
+Okay, alright we'll get this on here.  Good 157 oh it's absolutely fine.
+
+PATIENT H017
+It came down.
+
+DOCTOR H017
+Yeah I'm pretty confident you're doing alright.
+
+PATIENT H017
+I think once I take the medicine it'll be alright.
+
+DOCTOR H017
+Yeah I would completely agree with you cause you're only like about 25 points too high systolic and that will come down with your medicine.
+
+PATIENT H017
+It was higher when I came in.
+
+DOCTOR H017
+Yeah alright.  Okay yeah but you're all set, we can see back in six months alright.
+
+PATIENT H017
+Okay.  See you.
+
+DOCTOR H017
+Alright, there you go sir.  You take it easy alright.
+
+PATIENT H017
+Just make sure they send my pills.
+
+DOCTOR H017
+Okay.
+
+PATIENT H017
+Alright.
+
+PATIENT LEAVES:  42:14.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300278
+TRANSACTION # 578-10-2-316-0103

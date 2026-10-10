@@ -1,0 +1,1193 @@
+originales/transcripciones/A723.txt-2-Time of Encounter:  @@@
+originales/transcripciones/A723.txt-3-
+originales/transcripciones/A723.txt-4-DOCTOR A723
+originales/transcripciones/A723.txt-5-PATIENT. 
+originales/transcripciones/A723.txt-6-
+originales/transcripciones/A723.txt:7:PATIENT H482
+originales/transcripciones/A723.txt-8-Hey doc, you ready for me now?
+originales/transcripciones/A723.txt-9-
+originales/transcripciones/A723.txt-10-DOCTOR A723
+originales/transcripciones/A723.txt-11-@@@.
+originales/transcripciones/A723.txt-12-
+--
+originales/transcripciones/A723.txt-26-So I've got this for you.  Should be in the computer, I'm not positive.
+originales/transcripciones/A723.txt-27-
+originales/transcripciones/A723.txt-28-DOCTOR A723
+originales/transcripciones/A723.txt-29-@@@.
+originales/transcripciones/A723.txt-30-
+originales/transcripciones/A723.txt:31:PATIENT H482
+originales/transcripciones/A723.txt-32-Yeah they said I had an infection.
+originales/transcripciones/A723.txt-33-
+originales/transcripciones/A723.txt-34-DOCTOR A723
+originales/transcripciones/A723.txt-35-Drops @@@.
+originales/transcripciones/A723.txt-36-
+--
+originales/transcripciones/A723.txt-50-I didn't get them.
+originales/transcripciones/A723.txt-51-
+originales/transcripciones/A723.txt-52-DOCTOR A723
+originales/transcripciones/A723.txt-53-They mailed them.
+originales/transcripciones/A723.txt-54-
+originales/transcripciones/A723.txt:55:PATIENT H482
+originales/transcripciones/A723.txt-56-Huh.  I got the, what do you call that stuff, that spray to clean my eyes.
+originales/transcripciones/A723.txt-57-
+originales/transcripciones/A723.txt-58-DOCTOR A723
+originales/transcripciones/A723.txt-59-And then the artificial tears did you get those?
+originales/transcripciones/A723.txt-60-
+--
+originales/transcripciones/A723.txt-74-Oh no @@@.  It's ADDRESS in Brookfield.
+originales/transcripciones/A723.txt-75-
+originales/transcripciones/A723.txt-76-DOCTOR A723
+originales/transcripciones/A723.txt-77-ADDRESS yeah I don't know man.
+originales/transcripciones/A723.txt-78-
+originales/transcripciones/A723.txt:79:PATIENT H482
+originales/transcripciones/A723.txt-80-Why would anybody want to?
+originales/transcripciones/A723.txt-81-
+originales/transcripciones/A723.txt-82-DOCTOR A723
+originales/transcripciones/A723.txt-83-Alright now when did you go to the ER, on the 13th of June?
+originales/transcripciones/A723.txt-84-
+--
+originales/transcripciones/A723.txt-98-Right.  Warm water.
+originales/transcripciones/A723.txt-99-
+originales/transcripciones/A723.txt-100-DOCTOR A723
+originales/transcripciones/A723.txt-101-So he gave you dicloxacillin, an antibiotic.
+originales/transcripciones/A723.txt-102-
+originales/transcripciones/A723.txt:103:PATIENT H482
+originales/transcripciones/A723.txt-104-Right.
+originales/transcripciones/A723.txt-105-
+originales/transcripciones/A723.txt-106-DOCTOR A723
+originales/transcripciones/A723.txt-107-And used it for seven days?
+originales/transcripciones/A723.txt-108-
+--
+originales/transcripciones/A723.txt-122-They're gonna give me an appointment, who knows when.
+originales/transcripciones/A723.txt-123-
+originales/transcripciones/A723.txt-124-DOCTOR A723
+originales/transcripciones/A723.txt-125-Yeah but you need to see them though.  Did @@@.
+originales/transcripciones/A723.txt-126-
+originales/transcripciones/A723.txt:127:PATIENT H482
+originales/transcripciones/A723.txt-128-I thought they did.
+originales/transcripciones/A723.txt-129-
+originales/transcripciones/A723.txt-130-DOCTOR A723
+originales/transcripciones/A723.txt-131-Oh eyeglasses, so you've seen the eye doctors?
+originales/transcripciones/A723.txt-132-
+--
+originales/transcripciones/A723.txt-146-Uh-huh.
+originales/transcripciones/A723.txt-147-
+originales/transcripciones/A723.txt-148-DOCTOR A723
+originales/transcripciones/A723.txt-149-And then they should give you a sooner than later appointment.
+originales/transcripciones/A723.txt-150-
+originales/transcripciones/A723.txt:151:PATIENT H482
+originales/transcripciones/A723.txt-152-Yeah cause they told me to wait until December or January, something like that.
+originales/transcripciones/A723.txt-153-
+originales/transcripciones/A723.txt-154-DOCTOR A723
+originales/transcripciones/A723.txt-155-Okay.  Have you ever gotten shingles before?
+originales/transcripciones/A723.txt-156-
+--
+originales/transcripciones/A723.txt-170-No, what it is?  What does it do?
+originales/transcripciones/A723.txt-171-
+originales/transcripciones/A723.txt-172-DOCTOR A723
+originales/transcripciones/A723.txt-173-Well it's like chicken pox that old people get.
+originales/transcripciones/A723.txt-174-
+originales/transcripciones/A723.txt:175:PATIENT H482
+originales/transcripciones/A723.txt-176-Yeah.
+originales/transcripciones/A723.txt-177-
+originales/transcripciones/A723.txt-178-DOCTOR A723
+originales/transcripciones/A723.txt-179-And usually.
+originales/transcripciones/A723.txt-180-
+--
+originales/transcripciones/A723.txt-194-Okay.
+originales/transcripciones/A723.txt-195-
+originales/transcripciones/A723.txt-196-DOCTOR A723
+originales/transcripciones/A723.txt-197-You know like you get a rash, you can get it anywhere in your body.
+originales/transcripciones/A723.txt-198-
+originales/transcripciones/A723.txt:199:PATIENT H482
+originales/transcripciones/A723.txt-200-I don't even know if I had chicken pox.
+originales/transcripciones/A723.txt-201-
+originales/transcripciones/A723.txt-202-DOCTOR A723
+originales/transcripciones/A723.txt-203-Oh you don't?
+originales/transcripciones/A723.txt-204-
+--
+originales/transcripciones/A723.txt-218-They wouldn't give that @@@.
+originales/transcripciones/A723.txt-219-
+originales/transcripciones/A723.txt-220-DOCTOR A723
+originales/transcripciones/A723.txt-221-They don't give it to you in the service yeah.
+originales/transcripciones/A723.txt-222-
+originales/transcripciones/A723.txt:223:PATIENT H482
+originales/transcripciones/A723.txt-224-You’re on your own? Get a rash on your ass – it’s too bad.
+originales/transcripciones/A723.txt-225-
+originales/transcripciones/A723.txt-226-DOCTOR A723
+originales/transcripciones/A723.txt-227-Um.
+originales/transcripciones/A723.txt-228-
+--
+originales/transcripciones/A723.txt-242-But not.
+originales/transcripciones/A723.txt-243-
+originales/transcripciones/A723.txt-244-DOCTOR A723
+originales/transcripciones/A723.txt-245-So you're talking about the antibiotic eye drops?
+originales/transcripciones/A723.txt-246-
+originales/transcripciones/A723.txt:247:PATIENT H482
+originales/transcripciones/A723.txt-248-No I don't know.  But they were supposed to send me eye drops, I never got them.
+originales/transcripciones/A723.txt-249-
+originales/transcripciones/A723.txt-250-DOCTOR A723
+originales/transcripciones/A723.txt-251-But didn't they, so you ordered, he ordered antibiotic eye drops.
+originales/transcripciones/A723.txt-252-
+--
+originales/transcripciones/A723.txt-266-Right.
+originales/transcripciones/A723.txt-267-
+originales/transcripciones/A723.txt-268-DOCTOR A723
+originales/transcripciones/A723.txt-269-But he didn't give you the eye drops at all.
+originales/transcripciones/A723.txt-270-
+originales/transcripciones/A723.txt:271:PATIENT H482
+originales/transcripciones/A723.txt-272-I never got the eye drops.
+originales/transcripciones/A723.txt-273-
+originales/transcripciones/A723.txt-274-DOCTOR A723
+originales/transcripciones/A723.txt-275-Let me see.  Did he even order it?  Take seven days, oh he never ordered the eye drops actually.
+originales/transcripciones/A723.txt-276-
+--
+originales/transcripciones/A723.txt-290-Hmm yeah I guess.  But still my eyes are still burning and stuff.
+originales/transcripciones/A723.txt-291-
+originales/transcripciones/A723.txt-292-DOCTOR A723
+originales/transcripciones/A723.txt-293-But do you get the artificial tears at your house?
+originales/transcripciones/A723.txt-294-
+originales/transcripciones/A723.txt:295:PATIENT H482
+originales/transcripciones/A723.txt-296-Yeah usually they deliver everything to the house.
+originales/transcripciones/A723.txt-297-
+originales/transcripciones/A723.txt-298-DOCTOR A723
+originales/transcripciones/A723.txt-299-So you got the artificial tears?
+originales/transcripciones/A723.txt-300-
+--
+originales/transcripciones/A723.txt-314-@@@.
+originales/transcripciones/A723.txt-315-
+originales/transcripciones/A723.txt-316-DOCTOR A723
+originales/transcripciones/A723.txt-317-What is it for?
+originales/transcripciones/A723.txt-318-
+originales/transcripciones/A723.txt:319:PATIENT H482
+originales/transcripciones/A723.txt-320-I don't know.
+originales/transcripciones/A723.txt-321-
+originales/transcripciones/A723.txt-322-DOCTOR A723
+originales/transcripciones/A723.txt-323-So you're taking that?
+originales/transcripciones/A723.txt-324-
+--
+originales/transcripciones/A723.txt-338-Uh-huh.
+originales/transcripciones/A723.txt-339-
+originales/transcripciones/A723.txt-340-DOCTOR A723
+originales/transcripciones/A723.txt-341-And your Plavix.
+originales/transcripciones/A723.txt-342-
+originales/transcripciones/A723.txt:343:PATIENT H482
+originales/transcripciones/A723.txt-344-Right.
+originales/transcripciones/A723.txt-345-
+originales/transcripciones/A723.txt-346-DOCTOR A723
+originales/transcripciones/A723.txt-347-Fish oil.  Insulin.
+originales/transcripciones/A723.txt-348-
+--
+originales/transcripciones/A723.txt-362-Right.
+originales/transcripciones/A723.txt-363-
+originales/transcripciones/A723.txt-364-DOCTOR A723
+originales/transcripciones/A723.txt-365-For blood pressure.  OCuSOFT lid scrub, that's the one you got.
+originales/transcripciones/A723.txt-366-
+originales/transcripciones/A723.txt:367:PATIENT H482
+originales/transcripciones/A723.txt-368-That's the one I got right now, the new one.
+originales/transcripciones/A723.txt-369-
+originales/transcripciones/A723.txt-370-DOCTOR A723
+originales/transcripciones/A723.txt-371-Alright.
+originales/transcripciones/A723.txt-372-
+--
+originales/transcripciones/A723.txt-386-You guys did.
+originales/transcripciones/A723.txt-387-
+originales/transcripciones/A723.txt-388-DOCTOR A723
+originales/transcripciones/A723.txt-389-Let me see.
+originales/transcripciones/A723.txt-390-
+originales/transcripciones/A723.txt:391:PATIENT H482
+originales/transcripciones/A723.txt-392-Should be on there.
+originales/transcripciones/A723.txt-393-
+originales/transcripciones/A723.txt-394-DOCTOR A723
+originales/transcripciones/A723.txt-395-Let me see.
+originales/transcripciones/A723.txt-396-
+--
+originales/transcripciones/A723.txt-410-Uh-huh.
+originales/transcripciones/A723.txt-411-
+originales/transcripciones/A723.txt-412-DOCTOR A723
+originales/transcripciones/A723.txt-413-So we didn't stop the lisinopril but we stopped the hydrochlorothiazide.  Let me see if anybody else stopped it.  The Dietary didn't do anything.
+originales/transcripciones/A723.txt-414-
+originales/transcripciones/A723.txt:415:PATIENT H482
+originales/transcripciones/A723.txt-416-It would be the diabetic doctors.
+originales/transcripciones/A723.txt-417-
+originales/transcripciones/A723.txt-418-DOCTOR A723
+originales/transcripciones/A723.txt-419-Diabetes, previous Lantus, normotensive, on the ACE inhibitors which is lisinopril.  He didn't say to stop it.
+originales/transcripciones/A723.txt-420-
+--
+originales/transcripciones/A723.txt-434-So what's the other name of it then, the hydro whatever.
+originales/transcripciones/A723.txt-435-
+originales/transcripciones/A723.txt-436-DOCTOR A723
+originales/transcripciones/A723.txt-437-Hydrochlorothiazide, HCTZ.
+originales/transcripciones/A723.txt-438-
+originales/transcripciones/A723.txt:439:PATIENT H482
+originales/transcripciones/A723.txt-440-What's that?
+originales/transcripciones/A723.txt-441-
+originales/transcripciones/A723.txt-442-DOCTOR A723
+originales/transcripciones/A723.txt-443-Hydrochlorothiazide.  It's not on there cause I took it off.
+originales/transcripciones/A723.txt-444-
+--
+originales/transcripciones/A723.txt-458-No.
+originales/transcripciones/A723.txt-459-
+originales/transcripciones/A723.txt-460-DOCTOR A723
+originales/transcripciones/A723.txt-461-Okay.
+originales/transcripciones/A723.txt-462-
+originales/transcripciones/A723.txt:463:PATIENT H482
+originales/transcripciones/A723.txt-464-Uh maybe they call it listopril?
+originales/transcripciones/A723.txt-465-
+originales/transcripciones/A723.txt-466-DOCTOR A723
+originales/transcripciones/A723.txt-467-No, no, no, lisinopril.
+originales/transcripciones/A723.txt-468-
+--
+originales/transcripciones/A723.txt-482-A lot of water.  Peeing every five minutes man.  Why is my water down?
+originales/transcripciones/A723.txt-483-
+originales/transcripciones/A723.txt-484-DOCTOR A723
+originales/transcripciones/A723.txt-485-No your creatinine is still high.
+originales/transcripciones/A723.txt-486-
+originales/transcripciones/A723.txt:487:PATIENT H482
+originales/transcripciones/A723.txt-488-What's that?
+originales/transcripciones/A723.txt-489-
+originales/transcripciones/A723.txt-490-DOCTOR A723
+originales/transcripciones/A723.txt-491-That's for your kidneys.  And we already took and you weren't taking the hydrochlorothiazide anymore?
+originales/transcripciones/A723.txt-492-
+--
+originales/transcripciones/A723.txt-506-Yeah.  She’s got it on there what I take on one of those pages.  Oh that's in March when they did the, put the drill bit and cleaned me out.  That's not in there; it's supposed to be in there.  
+originales/transcripciones/A723.txt-507-
+originales/transcripciones/A723.txt-508-DOCTOR A723
+originales/transcripciones/A723.txt-509-But does she know which medicines you take other than @@@.
+originales/transcripciones/A723.txt-510-
+originales/transcripciones/A723.txt:511:PATIENT H482
+originales/transcripciones/A723.txt-512-She should know.  She's the one that saves me all the time.
+originales/transcripciones/A723.txt-513-
+originales/transcripciones/A723.txt-514-DOCTOR A723
+originales/transcripciones/A723.txt-515-Here we go.
+originales/transcripciones/A723.txt-516-
+--
+originales/transcripciones/A723.txt-530-Not really.  I just take them cause there's a ton in the morning and a ton in the evening.
+originales/transcripciones/A723.txt-531-
+originales/transcripciones/A723.txt-532-DOCTOR A723
+originales/transcripciones/A723.txt-533-Well your sugar is getting better.
+originales/transcripciones/A723.txt-534-
+originales/transcripciones/A723.txt:535:PATIENT H482
+originales/transcripciones/A723.txt-536-Yeah just that when it drops, my reaction is eat a candy or something.
+originales/transcripciones/A723.txt-537-
+originales/transcripciones/A723.txt-538-DOCTOR A723
+originales/transcripciones/A723.txt-539-Yeah.
+originales/transcripciones/A723.txt-540-
+--
+originales/transcripciones/A723.txt-572-Yeah cause they gave me a paper to come out here and get it.  Somebody gave me the card with that.  He said it wouldn't work so I had to do it again.
+originales/transcripciones/A723.txt-573-
+originales/transcripciones/A723.txt-574-DOCTOR A723
+originales/transcripciones/A723.txt-575-There's all these labs I wanted you to get and you didn't get them.
+originales/transcripciones/A723.txt-576-
+originales/transcripciones/A723.txt:577:PATIENT H482
+originales/transcripciones/A723.txt-578-What's that?
+originales/transcripciones/A723.txt-579-
+originales/transcripciones/A723.txt-580-DOCTOR A723
+originales/transcripciones/A723.txt-581-Back in May. Why didn’t they draw any of these today? Anyway let's see, creatinine, phosphorus, there's no stool order.  Alright I'll have to do another one.  Since you don't want to get the colonoscopy right?
+originales/transcripciones/A723.txt-582-
+--
+originales/transcripciones/A723.txt-596-Hmm.
+originales/transcripciones/A723.txt-597-
+originales/transcripciones/A723.txt-598-DOCTOR A723
+originales/transcripciones/A723.txt-599-Look I'm putting it in in the lab right.
+originales/transcripciones/A723.txt-600-
+originales/transcripciones/A723.txt:601:PATIENT H482
+originales/transcripciones/A723.txt-602-Okay.  What else tests didn’t I do?
+originales/transcripciones/A723.txt-603-
+originales/transcripciones/A723.txt-604-DOCTOR A723
+originales/transcripciones/A723.txt-605-So you drink all the time, you said?
+originales/transcripciones/A723.txt-606-
+--
+originales/transcripciones/A723.txt-620-Uh-huh this morning oh yeah.
+originales/transcripciones/A723.txt-621-
+originales/transcripciones/A723.txt-622-DOCTOR A723
+originales/transcripciones/A723.txt-623-Why didn't they put it in?
+originales/transcripciones/A723.txt-624-
+originales/transcripciones/A723.txt:625:PATIENT H482
+originales/transcripciones/A723.txt-626-Hmm.
+originales/transcripciones/A723.txt-627-
+originales/transcripciones/A723.txt-628-DOCTOR A723
+originales/transcripciones/A723.txt-629-But this was the second time they took it, it was 117?
+originales/transcripciones/A723.txt-630-
+--
+originales/transcripciones/A723.txt-644-Uh-huh.
+originales/transcripciones/A723.txt-645-
+originales/transcripciones/A723.txt-646-DOCTOR A723
+originales/transcripciones/A723.txt-647-And just let them know that you never got the one before that.
+originales/transcripciones/A723.txt-648-
+originales/transcripciones/A723.txt:649:PATIENT H482
+originales/transcripciones/A723.txt-650-Yeah, it's weird that I didn't.  I got the, like I said I got the eye scrub but never got the drops cause they were supposed to come at the same time.
+originales/transcripciones/A723.txt-651-
+originales/transcripciones/A723.txt-652-DOCTOR A723
+originales/transcripciones/A723.txt-653-Okay.  Call them you can renew it.
+originales/transcripciones/A723.txt-654-
+--
+originales/transcripciones/A723.txt-668-Yeah I guess I'll go down there and make an appointment.
+originales/transcripciones/A723.txt-669-
+originales/transcripciones/A723.txt-670-DOCTOR A723
+originales/transcripciones/A723.txt-671-Go and make an appointment, call to get your eye drops cause it’s in there.  All you have to do is just call it.  So eye doctor, eye drops, do the stool cards and whenever you're able to come back you can just turn it in cause the lab is in there and what else? Anything else going on?
+originales/transcripciones/A723.txt-672-
+originales/transcripciones/A723.txt:673:PATIENT H482
+originales/transcripciones/A723.txt-674-Yeah how come I get headaches now?  My arm hurts and my neck hurts.  Just right here.
+originales/transcripciones/A723.txt-675-
+originales/transcripciones/A723.txt-676-DOCTOR A723
+originales/transcripciones/A723.txt-677-When does it happen?
+originales/transcripciones/A723.txt-678-
+--
+originales/transcripciones/A723.txt-692-No it's just like a steady pain.
+originales/transcripciones/A723.txt-693-
+originales/transcripciones/A723.txt-694-DOCTOR A723
+originales/transcripciones/A723.txt-695-Do you sleep on your back or on your side or face down?
+originales/transcripciones/A723.txt-696-
+originales/transcripciones/A723.txt:697:PATIENT H482
+originales/transcripciones/A723.txt-698-On my side.
+originales/transcripciones/A723.txt-699-
+originales/transcripciones/A723.txt-700-DOCTOR A723
+originales/transcripciones/A723.txt-701-On your side.  Alright.  Have you tried sleeping with your face up?
+originales/transcripciones/A723.txt-702-
+--
+originales/transcripciones/A723.txt-716-In my arm.
+originales/transcripciones/A723.txt-717-
+originales/transcripciones/A723.txt-718-DOCTOR A723
+originales/transcripciones/A723.txt-719-Did you hurt yourself?
+originales/transcripciones/A723.txt-720-
+originales/transcripciones/A723.txt:721:PATIENT H482
+originales/transcripciones/A723.txt-722-No, no.
+originales/transcripciones/A723.txt-723-
+originales/transcripciones/A723.txt-724-DOCTOR A723
+originales/transcripciones/A723.txt-725-Point to where it hurts.
+originales/transcripciones/A723.txt-726-
+--
+originales/transcripciones/A723.txt-740-But I could still do it, yes that hurt.  But they sent me to therapy for this but it still.  It was okay and now it's starting to hurt again.
+originales/transcripciones/A723.txt-741-
+originales/transcripciones/A723.txt-742-DOCTOR A723
+originales/transcripciones/A723.txt-743-Is it the same pain?
+originales/transcripciones/A723.txt-744-
+originales/transcripciones/A723.txt:745:PATIENT H482
+originales/transcripciones/A723.txt-746-Yeah back here and over here.
+originales/transcripciones/A723.txt-747-
+originales/transcripciones/A723.txt-748-DOCTOR A723
+originales/transcripciones/A723.txt-749-It was the same pain before?
+originales/transcripciones/A723.txt-750-
+--
+originales/transcripciones/A723.txt-764-And it worked, she did it once and I don't know what was wrong but she got it straightened out quick.  I think her name was NAME the therapist.
+originales/transcripciones/A723.txt-765-
+originales/transcripciones/A723.txt-766-DOCTOR A723
+originales/transcripciones/A723.txt-767-Yeah NAME.
+originales/transcripciones/A723.txt-768-
+originales/transcripciones/A723.txt:769:PATIENT H482
+originales/transcripciones/A723.txt-770-Uh-huh.
+originales/transcripciones/A723.txt-771-
+originales/transcripciones/A723.txt-772-DOCTOR A723
+originales/transcripciones/A723.txt-773-Have you continued doing the therapy at home?
+originales/transcripciones/A723.txt-774-
+--
+originales/transcripciones/A723.txt-788-Right I try to walk and everything starts hurting again.  I'm hoping my legs.
+originales/transcripciones/A723.txt-789-
+originales/transcripciones/A723.txt-790-DOCTOR A723
+originales/transcripciones/A723.txt-791-Are you doing, did you do the stretching today?
+originales/transcripciones/A723.txt-792-
+originales/transcripciones/A723.txt:793:PATIENT H482
+originales/transcripciones/A723.txt-794-No.
+originales/transcripciones/A723.txt-795-
+originales/transcripciones/A723.txt-796-DOCTOR A723
+originales/transcripciones/A723.txt-797-Did you do it in the last week?
+originales/transcripciones/A723.txt-798-
+--
+originales/transcripciones/A723.txt-812-No.  They don't let me do anything.
+originales/transcripciones/A723.txt-813-
+originales/transcripciones/A723.txt-814-DOCTOR A723
+originales/transcripciones/A723.txt-815-Okay.
+originales/transcripciones/A723.txt-816-
+originales/transcripciones/A723.txt:817:PATIENT H482
+originales/transcripciones/A723.txt-818-Cause they got a treadmill so I get on that treadmill and I walk on the treadmill.
+originales/transcripciones/A723.txt-819-
+originales/transcripciones/A723.txt-820-DOCTOR A723
+originales/transcripciones/A723.txt-821-And you started getting pain in your arm?
+originales/transcripciones/A723.txt-822-
+--
+originales/transcripciones/A723.txt-836-Right.
+originales/transcripciones/A723.txt-837-
+originales/transcripciones/A723.txt-838-DOCTOR A723
+originales/transcripciones/A723.txt-839-And then you should take a Tylenol.
+originales/transcripciones/A723.txt-840-
+originales/transcripciones/A723.txt:841:PATIENT H482
+originales/transcripciones/A723.txt-842-Take a regular Tylenol?
+originales/transcripciones/A723.txt-843-
+originales/transcripciones/A723.txt-844-DOCTOR A723
+originales/transcripciones/A723.txt-845-Yeah like 600 or 650, whatever the dose is.
+originales/transcripciones/A723.txt-846-
+--
+originales/transcripciones/A723.txt-860-I guess I could yeah.
+originales/transcripciones/A723.txt-861-
+originales/transcripciones/A723.txt-862-DOCTOR A723
+originales/transcripciones/A723.txt-863-Yeah.
+originales/transcripciones/A723.txt-864-
+originales/transcripciones/A723.txt:865:PATIENT H482
+originales/transcripciones/A723.txt-866-I got her thing at home.
+originales/transcripciones/A723.txt-867-
+originales/transcripciones/A723.txt-868-DOCTOR A723
+originales/transcripciones/A723.txt-869-Yeah.  You could call her and ask her if she says that I have to order it again then call the nurse and let them know.
+originales/transcripciones/A723.txt-870-
+--
+originales/transcripciones/A723.txt-884-Yeah right away.  She was massaging and doing all kinds of crazy stuff and then right away it started working.
+originales/transcripciones/A723.txt-885-
+originales/transcripciones/A723.txt-886-DOCTOR A723
+originales/transcripciones/A723.txt-887-But you've got to stretch every day then.
+originales/transcripciones/A723.txt-888-
+originales/transcripciones/A723.txt:889:PATIENT H482
+originales/transcripciones/A723.txt-890-Uh-huh.
+originales/transcripciones/A723.txt-891-
+originales/transcripciones/A723.txt-892-DOCTOR A723
+originales/transcripciones/A723.txt-893-Okay.  I think you've got to do everything they told you to do in therapy every day though.
+originales/transcripciones/A723.txt-894-
+--
+originales/transcripciones/A723.txt-908-Right.
+originales/transcripciones/A723.txt-909-
+originales/transcripciones/A723.txt-910-DOCTOR A723
+originales/transcripciones/A723.txt-911-And then if it doesn't work then you have to see therapy again.
+originales/transcripciones/A723.txt-912-
+originales/transcripciones/A723.txt:913:PATIENT H482
+originales/transcripciones/A723.txt-914-Because I mean I'm walking even though it's killing me.  Like in my arm and my legs too, this leg.  And I walk cause they said you have to walk.  I says okay but shit I go a little bit then everything starts hurting.  And it's all on this side all the time the right side.
+originales/transcripciones/A723.txt-915-
+originales/transcripciones/A723.txt-916-DOCTOR A723
+originales/transcripciones/A723.txt-917-Oh because you have peripheral vascular disease too.
+originales/transcripciones/A723.txt-918-
+--
+originales/transcripciones/A723.txt-932-A run-off?
+originales/transcripciones/A723.txt-933-
+originales/transcripciones/A723.txt-934-DOCTOR A723
+originales/transcripciones/A723.txt-935-Yeah basically a CT scan to look at your arteries.  They didn't do it right?
+originales/transcripciones/A723.txt-936-
+originales/transcripciones/A723.txt:937:PATIENT H482
+originales/transcripciones/A723.txt-938-No.  They said because of the kidneys I wasn't drinking enough water or whatever.
+originales/transcripciones/A723.txt-939-
+originales/transcripciones/A723.txt-940-DOCTOR A723
+originales/transcripciones/A723.txt-941-Yeah.
+originales/transcripciones/A723.txt-942-
+--
+originales/transcripciones/A723.txt-956-In March or whenever it was.
+originales/transcripciones/A723.txt-957-
+originales/transcripciones/A723.txt-958-DOCTOR A723
+originales/transcripciones/A723.txt-959-March 26th.
+originales/transcripciones/A723.txt-960-
+originales/transcripciones/A723.txt:961:PATIENT H482
+originales/transcripciones/A723.txt-962-Because they did a procedure on me.
+originales/transcripciones/A723.txt-963-
+originales/transcripciones/A723.txt-964-DOCTOR A723
+originales/transcripciones/A723.txt-965-Yeah.  They did the run-off because.
+originales/transcripciones/A723.txt-966-
+--
+originales/transcripciones/A723.txt-980-No they just.
+originales/transcripciones/A723.txt-981-
+originales/transcripciones/A723.txt-982-DOCTOR A723
+originales/transcripciones/A723.txt-983-They said you had mild, you didn't have like significant?
+originales/transcripciones/A723.txt-984-
+originales/transcripciones/A723.txt:985:PATIENT H482
+originales/transcripciones/A723.txt-986-No they said, no in January or December they want me to go back and they want to check all my neck veins and everything.
+originales/transcripciones/A723.txt-987-
+originales/transcripciones/A723.txt-988-DOCTOR A723
+originales/transcripciones/A723.txt-989-Well I could check them here.  What’s cheaper for you, there or here?
+originales/transcripciones/A723.txt-990-
+--
+originales/transcripciones/A723.txt-1004-I could go to either one.  I can go here but they didn't want to do it last time so when I went to Rush and I told them that it was bothering me they just did it on this side first time and then when they put the stents they did it in my leg.
+originales/transcripciones/A723.txt-1005-
+originales/transcripciones/A723.txt-1006-DOCTOR A723
+originales/transcripciones/A723.txt-1007-Yeah.
+originales/transcripciones/A723.txt-1008-
+originales/transcripciones/A723.txt:1009:PATIENT H482
+originales/transcripciones/A723.txt-1010-On this side.
+originales/transcripciones/A723.txt-1011-
+originales/transcripciones/A723.txt-1012-DOCTOR A723
+originales/transcripciones/A723.txt-1013-Uh-huh.
+originales/transcripciones/A723.txt-1014-
+--
+originales/transcripciones/A723.txt-1028-And then the stupid neck pain and my headaches and I've never had headaches, only when I had hangovers but I don't drink no more.
+originales/transcripciones/A723.txt-1029-
+originales/transcripciones/A723.txt-1030-DOCTOR A723
+originales/transcripciones/A723.txt-1031-Yeah.  Well I can order the carotid Dopplers.  It might take a few days or maybe a week.  It's up to you if you want me to go ahead and order it.
+originales/transcripciones/A723.txt-1032-
+originales/transcripciones/A723.txt:1033:PATIENT H482
+originales/transcripciones/A723.txt-1034-Yeah I can come over here.
+originales/transcripciones/A723.txt-1035-
+originales/transcripciones/A723.txt-1036-DOCTOR A723
+originales/transcripciones/A723.txt-1037-What's closer to your house?
+originales/transcripciones/A723.txt-1038-
+--
+originales/transcripciones/A723.txt-1052-So my cardiologist, so I don't know.  And the one that did the surgery on me is there so that's a procedure it's not a surgery.  He's still there but.
+originales/transcripciones/A723.txt-1053-
+originales/transcripciones/A723.txt-1054-DOCTOR A723
+originales/transcripciones/A723.txt-1055-Yeah @@@.  Let me listen to your neck.  And they've never done surgery right?
+originales/transcripciones/A723.txt-1056-
+originales/transcripciones/A723.txt:1057:PATIENT H482
+originales/transcripciones/A723.txt-1058-No.
+originales/transcripciones/A723.txt-1059-
+originales/transcripciones/A723.txt-1060-DOCTOR A723
+originales/transcripciones/A723.txt-1061-On your neck.
+originales/transcripciones/A723.txt-1062-
+--
+originales/transcripciones/A723.txt-1076-Yeah they said they were gonna put me there for these stupid skin tags I got.  I got them all over the place, the neck and everything.
+originales/transcripciones/A723.txt-1077-
+originales/transcripciones/A723.txt-1078-DOCTOR A723
+originales/transcripciones/A723.txt-1079-Yeah I don't know if they'll take them off actually.
+originales/transcripciones/A723.txt-1080-
+originales/transcripciones/A723.txt:1081:PATIENT H482
+originales/transcripciones/A723.txt-1082-They said they would laser them or something.  I don't care I mean unless they got that tree oil stuff or whatever it's called.
+originales/transcripciones/A723.txt-1083-
+originales/transcripciones/A723.txt-1084-DOCTOR A723
+originales/transcripciones/A723.txt-1085-No, they usually just to cut them off @@@.
+originales/transcripciones/A723.txt-1086-
+--
+originales/transcripciones/A723.txt-1100-Yeah.
+originales/transcripciones/A723.txt-1101-
+originales/transcripciones/A723.txt-1102-DOCTOR A723
+originales/transcripciones/A723.txt-1103-So the carotid Dopplers um, vascular studies.
+originales/transcripciones/A723.txt-1104-
+originales/transcripciones/A723.txt:1105:PATIENT H482
+originales/transcripciones/A723.txt-1106-The skin tags I've had them, I don't know I just started getting that.
+originales/transcripciones/A723.txt-1107-
+originales/transcripciones/A723.txt-1108-DOCTOR A723
+originales/transcripciones/A723.txt-1109-Alright.  I'll have you come back in like three months.
+originales/transcripciones/A723.txt-1110-
+--
+originales/transcripciones/A723.txt-1124-@@@.  I don't know.
+originales/transcripciones/A723.txt-1125-
+originales/transcripciones/A723.txt-1126-DOCTOR A723
+originales/transcripciones/A723.txt-1127-Remember when you were a kid.
+originales/transcripciones/A723.txt-1128-
+originales/transcripciones/A723.txt:1129:PATIENT H482
+originales/transcripciones/A723.txt-1130-No not that I know of.
+originales/transcripciones/A723.txt-1131-
+originales/transcripciones/A723.txt-1132-DOCTOR A723
+originales/transcripciones/A723.txt-1133-Hmm.  Okay, I'll be right back okay.
+originales/transcripciones/A723.txt-1134-
+--
+originales/transcripciones/A723.txt-1150-And they didn't do them.
+originales/transcripciones/A723.txt-1151-
+originales/transcripciones/A723.txt-1152-DOCTOR A723
+originales/transcripciones/A723.txt-1153-Well they didn't do them because it was so long ago May, June, July, August, that's why.
+originales/transcripciones/A723.txt-1154-
+originales/transcripciones/A723.txt:1155:PATIENT H482
+originales/transcripciones/A723.txt-1156-Oh.
+originales/transcripciones/A723.txt-1157-
+originales/transcripciones/A723.txt-1158-DOCTOR A723
+originales/transcripciones/A723.txt-1159-So.
+originales/transcripciones/A723.txt-1160-
+--
+originales/transcripciones/A723.txt-1174-Okie dokie.
+originales/transcripciones/A723.txt-1175-
+originales/transcripciones/A723.txt-1176-DOCTOR A723
+originales/transcripciones/A723.txt-1177-Alright.  You know what else I'm gonna order.
+originales/transcripciones/A723.txt-1178-
+originales/transcripciones/A723.txt:1179:PATIENT H482
+originales/transcripciones/A723.txt-1180-Hmm.
+originales/transcripciones/A723.txt-1181-
+originales/transcripciones/A723.txt-1182-DOCTOR A723
+originales/transcripciones/A723.txt-1183-I'm gonna order a neck x-ray for you.
+originales/transcripciones/A723.txt-1184-
+--
+originales/transcripciones/A723.txt-1198-Well I'll just see what they're doing down there.
+originales/transcripciones/A723.txt-1199-
+originales/transcripciones/A723.txt-1200-DOCTOR A723
+originales/transcripciones/A723.txt-1201-And I'll call you if your cholesterol is high.
+originales/transcripciones/A723.txt-1202-
+originales/transcripciones/A723.txt:1203:PATIENT H482
+originales/transcripciones/A723.txt-1204-Yeah.
+originales/transcripciones/A723.txt-1205-
+originales/transcripciones/A723.txt-1206-DOCTOR A723
+originales/transcripciones/A723.txt-1207-Alright.
+originales/transcripciones/A723.txt-1208-
+--
+originales/transcripciones/A723.txt-1222-Okay doc.
+originales/transcripciones/A723.txt-1223-
+originales/transcripciones/A723.txt-1224-DOCTOR A723
+originales/transcripciones/A723.txt-1225-Alright.  So who you gonna go talk to in a little while?
+originales/transcripciones/A723.txt-1226-
+originales/transcripciones/A723.txt:1227:PATIENT H482
+originales/transcripciones/A723.txt-1228-The eye doctor.
+originales/transcripciones/A723.txt-1229-
+originales/transcripciones/A723.txt-1230-DOCTOR A723
+originales/transcripciones/A723.txt-1231-Yes.  And who you gonna call about your medications?  Pharmacy.
+originales/transcripciones/A723.txt-1232-
+--
+originales/transcripciones/A723.txt-1246-And I'm gonna see if they're not busy at X-ray.
+originales/transcripciones/A723.txt-1247-
+originales/transcripciones/A723.txt-1248-DOCTOR A723
+originales/transcripciones/A723.txt-1249-Yep.  Alright there you go.
+originales/transcripciones/A723.txt-1250-
+originales/transcripciones/A723.txt:1251:PATIENT H482
+originales/transcripciones/A723.txt-1252-Alright so we'll see you, bye.
+originales/transcripciones/A723.txt-1253-
+originales/transcripciones/A723.txt-1254-DD: @@/@@/@@
+originales/transcripciones/A723.txt-1255-DT: @@/@@/@@   
+originales/transcripciones/A723.txt-1256-INFOPRO/JOB#  38295
+--
+originales/transcripciones/E862.txt-529-
+originales/transcripciones/E862.txt-530-PATIENT E862
+originales/transcripciones/E862.txt-531-Okie doke.
+originales/transcripciones/E862.txt-532-
+originales/transcripciones/E862.txt-533-
+originales/transcripciones/E862.txt:534:DOCTOR H29
+originales/transcripciones/E862.txt-535-In about three months so.
+originales/transcripciones/E862.txt-536-
+originales/transcripciones/E862.txt-537-
+originales/transcripciones/E862.txt-538-PATIENT E862
+originales/transcripciones/E862.txt-539-Uh-huh.  Uh about those, about those test strips.
+--
+originales/transcripciones/H279.txt-893-Yeah.  Deep breaths.  Okay, just breathe regularly.  
+originales/transcripciones/H279.txt-894-
+originales/transcripciones/H279.txt-895-PATIENT H279
+originales/transcripciones/H279.txt-896-Question.
+originales/transcripciones/H279.txt-897-
+originales/transcripciones/H279.txt:898:DOCTOR H327
+originales/transcripciones/H279.txt-899-Yes.
+originales/transcripciones/H279.txt-900-
+originales/transcripciones/H279.txt-901-PATIENT H279
+originales/transcripciones/H279.txt-902-When you were on this side, I know you listen to the heart.
+originales/transcripciones/H279.txt-903-
+--
+originales/transcripciones/H279.txt-905-Uh-huh.
+originales/transcripciones/H279.txt-906-
+originales/transcripciones/H279.txt-907-PATIENT H279
+originales/transcripciones/H279.txt-908-But what are you listening to on this side?
+originales/transcripciones/H279.txt-909-
+originales/transcripciones/H279.txt:910:DOCTOR H327
+originales/transcripciones/H279.txt-911-The heart sounds.
+originales/transcripciones/H279.txt-912-
+originales/transcripciones/H279.txt-913-PATIENT H279
+originales/transcripciones/H279.txt-914-Oh really.
+originales/transcripciones/H279.txt-915-
+--
+originales/transcripciones/H279.txt-917-You can hear the heart sounds go to various places on your chest.
+originales/transcripciones/H279.txt-918-
+originales/transcripciones/H279.txt-919-PATIENT H279
+originales/transcripciones/H279.txt-920-Really.
+originales/transcripciones/H279.txt-921-
+originales/transcripciones/H279.txt:922:DOCTOR H327
+originales/transcripciones/H279.txt-923-Yep.
+originales/transcripciones/H279.txt-924-
+originales/transcripciones/H279.txt-925-PATIENT H279
+originales/transcripciones/H279.txt-926-I did not know that.
+originales/transcripciones/H279.txt-927-
+--
+originales/transcripciones/H279.txt-929-Uh-huh.  Any swelling?
+originales/transcripciones/H279.txt-930-
+originales/transcripciones/H279.txt-931-PATIENT H279
+originales/transcripciones/H279.txt-932-Nope uh uh.  I have a question.
+originales/transcripciones/H279.txt-933-
+originales/transcripciones/H279.txt:934:DOCTOR H327
+originales/transcripciones/H279.txt-935-Yeah.
+originales/transcripciones/H279.txt-936-
+originales/transcripciones/H279.txt-937-PATIENT H279
+originales/transcripciones/H279.txt-938-You were just saying that okay the neuropathy in the feet.  I don't like it's from the diabetes, never gonna get better okay.  But there's time when it seems its worse and then times when it's better okay.  It's not the neuropathy that's gonna have them cut my uh.
+originales/transcripciones/H279.txt-939-
+--
+originales/transcripciones/H279.txt-941-Your.
+originales/transcripciones/H279.txt-942-
+originales/transcripciones/H279.txt-943-PATIENT H279
+originales/transcripciones/H279.txt-944-We just had a friend here.
+originales/transcripciones/H279.txt-945-
+originales/transcripciones/H279.txt:946:DOCTOR H327
+originales/transcripciones/H279.txt-947-Was getting an amputation?
+originales/transcripciones/H279.txt-948-
+originales/transcripciones/H279.txt-949-PATIENT H279
+originales/transcripciones/H279.txt-950-Yeah right.
+originales/transcripciones/H279.txt-951-
+--
+originales/transcripciones/H279.txt-953-So it's not the neuropathy but what it is is, it's the neuropathy cause like you don't feel the way you should so you're more likely to get um, to step on things, get cuts whatever.  Now when you get those sorts of cuts and what not, then it's hard for the wound to heal and if the blood flow to the limbs is lessened, which it can be with diabetes, it just doesn't allow it to heal and it continues to fester and then it just gets worse and worse.
+originales/transcripciones/H279.txt-954-
+originales/transcripciones/H279.txt-955-PATIENT H279
+originales/transcripciones/H279.txt-956-That's what happened. 
+originales/transcripciones/H279.txt-957-
+originales/transcripciones/H279.txt:958:DOCTOR H327
+originales/transcripciones/H279.txt-959-Yeah.
+originales/transcripciones/H279.txt-960-
+originales/transcripciones/H279.txt-961-PATIENT H279
+originales/transcripciones/H279.txt-962-A friend of ours, just a month ago had some, first it was just some toes and then they took her leg off up to her knee because she didn't listen, actually a friend of NAME.  It was too late.
+originales/transcripciones/H279.txt-963-
+--
+originales/transcripciones/H279.txt-965-Right.
+originales/transcripciones/H279.txt-966-
+originales/transcripciones/H279.txt-967-PATIENT H279
+originales/transcripciones/H279.txt-968-It was too late by that time.
+originales/transcripciones/H279.txt-969-
+originales/transcripciones/H279.txt:970:DOCTOR H327
+originales/transcripciones/H279.txt-971-Uh-huh.
+originales/transcripciones/H279.txt-972-
+originales/transcripciones/H279.txt-973-PATIENT H279
+originales/transcripciones/H279.txt-974-Uh well when she finally did and the only thing that I have with my feet is the nail on the second toe and there seems to be a tender spot under it.  They looked at it at um.
+originales/transcripciones/H279.txt-975-
+--
+originales/transcripciones/H279.txt-977-Podiatry?
+originales/transcripciones/H279.txt-978-
+originales/transcripciones/H279.txt-979-PATIENT H279
+originales/transcripciones/H279.txt-980-Podiatry and didn't see anything.
+originales/transcripciones/H279.txt-981-
+originales/transcripciones/H279.txt:982:DOCTOR H327
+originales/transcripciones/H279.txt-983-Okay.
+originales/transcripciones/H279.txt-984-
+originales/transcripciones/H279.txt-985-PATIENT H279
+originales/transcripciones/H279.txt-986-Um and I didn't know if that was just maybe, maybe it's the toe, maybe it's the neuropathy.
+originales/transcripciones/H279.txt-987-
+--
+originales/transcripciones/H279.txt-989-It's just.
+originales/transcripciones/H279.txt-990-
+originales/transcripciones/H279.txt-991-PATIENT H279
+originales/transcripciones/H279.txt-992-That I'm making it feel that way.
+originales/transcripciones/H279.txt-993-
+originales/transcripciones/H279.txt:994:DOCTOR H327
+originales/transcripciones/H279.txt-995-Uh-huh.
+originales/transcripciones/H279.txt-996-
+originales/transcripciones/H279.txt-997-PATIENT H279
+originales/transcripciones/H279.txt-998-But as far as anything else and it just, doc it scared me when.
+originales/transcripciones/H279.txt-999-
+--
+originales/transcripciones/H279.txt-1001-You know as long.
+originales/transcripciones/H279.txt-1002-
+originales/transcripciones/H279.txt-1003-PATIENT H279
+originales/transcripciones/H279.txt-1004-It's right here.
+originales/transcripciones/H279.txt-1005-
+originales/transcripciones/H279.txt:1006:DOCTOR H327
+originales/transcripciones/H279.txt-1007-As you're not walking around barefoot, walking and stepping on you know rusty nails, things like that.
+originales/transcripciones/H279.txt-1008-
+originales/transcripciones/H279.txt-1009-PATIENT H279
+originales/transcripciones/H279.txt-1010-Yeah.
+originales/transcripciones/H279.txt-1011-
+--
+originales/transcripciones/H279.txt-1013-As long as you are always keeping an eye on your feet and looking at them, making sure that you don't break down, you're fine.
+originales/transcripciones/H279.txt-1014-
+originales/transcripciones/H279.txt-1015-PATIENT H279
+originales/transcripciones/H279.txt-1016-She checks them every night.  Uh I won't even walk around the house, I have a set up a pair of sandals that when I come in and take off my shoes or boots or whatever.
+originales/transcripciones/H279.txt-1017-
+originales/transcripciones/H279.txt:1018:DOCTOR H327
+originales/transcripciones/H279.txt-1019-Yeah.
+originales/transcripciones/H279.txt-1020-
+originales/transcripciones/H279.txt-1021-PATIENT H279
+originales/transcripciones/H279.txt-1022-Um on goes the sandals.
+originales/transcripciones/H279.txt-1023-
+--
+originales/transcripciones/H279.txt-1025-Yeah.
+originales/transcripciones/H279.txt-1026-
+originales/transcripciones/H279.txt-1027-PATIENT H279
+originales/transcripciones/H279.txt-1028-That way cause we have three little dogs, two little Lhasa Apsos and a miniature Schnauzer, who I don't know why but they don't understand they have to put their toys away.  They get them out with no problem.
+originales/transcripciones/H279.txt-1029-
+originales/transcripciones/H279.txt:1030:DOCTOR H327
+originales/transcripciones/H279.txt-1031-Right.
+originales/transcripciones/H279.txt-1032-
+originales/transcripciones/H279.txt-1033-PATIENT H279
+originales/transcripciones/H279.txt-1034-You ought to see these three but they will leave their toys right where daddy can step on them and.
+originales/transcripciones/H279.txt-1035-
+--
+originales/transcripciones/H279.txt-1037-Yes.
+originales/transcripciones/H279.txt-1038-
+originales/transcripciones/H279.txt-1039-PATIENT H279
+originales/transcripciones/H279.txt-1040-And then I have a couple of times but it’s a good thing I've had my shoes or.
+originales/transcripciones/H279.txt-1041-
+originales/transcripciones/H279.txt:1042:DOCTOR H327
+originales/transcripciones/H279.txt-1043-Yeah make sure you're always wearing something.
+originales/transcripciones/H279.txt-1044-
+originales/transcripciones/H279.txt-1045-PATIENT H279
+originales/transcripciones/H279.txt-1046-Yeah.
+originales/transcripciones/H279.txt-1047-
+--
+originales/transcripciones/H279.txt-1049-Okay.
+originales/transcripciones/H279.txt-1050-
+originales/transcripciones/H279.txt-1051-PATIENT H279
+originales/transcripciones/H279.txt-1052-Yep.
+originales/transcripciones/H279.txt-1053-
+originales/transcripciones/H279.txt:1054:DOCTOR H327
+originales/transcripciones/H279.txt-1055-Let me um talk to my boss.
+originales/transcripciones/H279.txt-1056-
+originales/transcripciones/H279.txt-1057-PATIENT H279
+originales/transcripciones/H279.txt-1058-Okay.
+originales/transcripciones/H279.txt-1059-
+--
+originales/transcripciones/H279.txt-1061-And we'll give you the green light to go.
+originales/transcripciones/H279.txt-1062-
+originales/transcripciones/H279.txt-1063-PATIENT H279
+originales/transcripciones/H279.txt-1064-Okay.
+originales/transcripciones/H279.txt-1065-
+originales/transcripciones/H279.txt:1066:DOCTOR H327
+originales/transcripciones/H279.txt-1067-You're doing, there's nothing that we need to change today.
+originales/transcripciones/H279.txt-1068-
+originales/transcripciones/H279.txt-1069-PATIENT H279
+originales/transcripciones/H279.txt-1070-Okay great.
+originales/transcripciones/H279.txt-1071-
+--
+originales/transcripciones/H279.txt-1073-So that's good.
+originales/transcripciones/H279.txt-1074-
+originales/transcripciones/H279.txt-1075-PATIENT H279
+originales/transcripciones/H279.txt-1076-Except you staying here.
+originales/transcripciones/H279.txt-1077-
+originales/transcripciones/H279.txt:1078:DOCTOR H327
+originales/transcripciones/H279.txt-1079-I know.
+originales/transcripciones/H279.txt-1080-
+originales/transcripciones/H279.txt-1081-PATIENT H279
+originales/transcripciones/H279.txt-1082-I know.  I know, I know.
+originales/transcripciones/H279.txt-1083-
+--
+originales/transcripciones/H279.txt-1087-PATIENT H279
+originales/transcripciones/H279.txt-1088-Alrighty.  Hypertension and the kidney?
+originales/transcripciones/H279.txt-1089-
+originales/transcripciones/H279.txt-1090-(DOCTOR OUT:  81:31  DOCTOR IN:  84:03)
+originales/transcripciones/H279.txt-1091-
+originales/transcripciones/H279.txt:1092:DOCTOR H327
+originales/transcripciones/H279.txt-1093-Hmm.
+originales/transcripciones/H279.txt-1094-
+originales/transcripciones/H279.txt-1095-PATIENT H279
+originales/transcripciones/H279.txt-1096-I didn't know hypertension affected the kidneys.
+originales/transcripciones/H279.txt-1097-
+--
+originales/transcripciones/H279.txt-1099-Yeah the kidneys can cause hypertension too, if the arteries.
+originales/transcripciones/H279.txt-1100-
+originales/transcripciones/H279.txt-1101-PATIENT H279
+originales/transcripciones/H279.txt-1102-Really.
+originales/transcripciones/H279.txt-1103-
+originales/transcripciones/H279.txt:1104:DOCTOR H327
+originales/transcripciones/H279.txt-1105-If the, see this here?
+originales/transcripciones/H279.txt-1106-
+originales/transcripciones/H279.txt-1107-PATIENT H279
+originales/transcripciones/H279.txt-1108-Uh-huh.
+originales/transcripciones/H279.txt-1109-
+--
+originales/transcripciones/H279.txt-1111-This is a normal artery.
+originales/transcripciones/H279.txt-1112-
+originales/transcripciones/H279.txt-1113-PATIENT H279
+originales/transcripciones/H279.txt-1114-Uh-huh.
+originales/transcripciones/H279.txt-1115-
+originales/transcripciones/H279.txt:1116:DOCTOR H327
+originales/transcripciones/H279.txt-1117-Going to the kidney and it's one of.
+originales/transcripciones/H279.txt-1118-
+originales/transcripciones/H279.txt-1119-PATIENT H279
+originales/transcripciones/H279.txt-1120-Oh.
+originales/transcripciones/H279.txt-1121-
+originales/transcripciones/H279.txt:1122:DOCTOR H327
+originales/transcripciones/H279.txt-1123-If it’s narrowed, the kidneys are kind of also part of your how your blood pressure @@@ so if it’s narrowed, it can cause hypertension.
+originales/transcripciones/H279.txt-1124-
+originales/transcripciones/H279.txt-1125-PATIENT H279
+originales/transcripciones/H279.txt-1126-Okay sure.
+originales/transcripciones/H279.txt-1127-
+--
+originales/transcripciones/H279.txt-1129-Yep but that's um, that's not a very common cause.
+originales/transcripciones/H279.txt-1130-
+originales/transcripciones/H279.txt-1131-PATIENT H279
+originales/transcripciones/H279.txt-1132-Hmm, I thought the kidneys you know went along with the liver taking care of everything and sort of filtering and but yeah it makes sense.  It makes sense I mean, if you've got something, especially of the kidneys.  I mean they're a big thing with the blood.  Yeah.  Will you do me a favor?
+originales/transcripciones/H279.txt-1133-
+originales/transcripciones/H279.txt:1134:DOCTOR H327
+originales/transcripciones/H279.txt-1135-Yes.
+originales/transcripciones/H279.txt-1136-
+originales/transcripciones/H279.txt-1137-PATIENT H279
+originales/transcripciones/H279.txt-1138-Well I don't know if you're allowed to but I hope you are, allowed to take my number with you.
+originales/transcripciones/H279.txt-1139-
+--
+originales/transcripciones/H279.txt-1141-Uh-huh.
+originales/transcripciones/H279.txt-1142-
+originales/transcripciones/H279.txt-1143-PATIENT H279
+originales/transcripciones/H279.txt-1144-And.
+originales/transcripciones/H279.txt-1145-
+originales/transcripciones/H279.txt:1146:DOCTOR H327
+originales/transcripciones/H279.txt-1147-Do you have e-mail?
+originales/transcripciones/H279.txt-1148-
+originales/transcripciones/H279.txt-1149-PATIENT H279
+originales/transcripciones/H279.txt-1150-Yes.
+originales/transcripciones/H279.txt-1151-
+--
+originales/transcripciones/H279.txt-1153-I'll just give you my e-mail address.
+originales/transcripciones/H279.txt-1154-
+originales/transcripciones/H279.txt-1155-PATIENT H279
+originales/transcripciones/H279.txt-1156-Okay, oh yeah, that'd be nice and I know you're gonna be busy so if I do e-mail you.
+originales/transcripciones/H279.txt-1157-
+originales/transcripciones/H279.txt:1158:DOCTOR H327
+originales/transcripciones/H279.txt-1159-Don't worry.
+originales/transcripciones/H279.txt-1160-
+originales/transcripciones/H279.txt-1161-PATIENT H279
+originales/transcripciones/H279.txt-1162-And you don't answer right away I understand.  I understand.  I think its well, going into this cancer research is just, can I ask.
+originales/transcripciones/H279.txt-1163-
+--
+originales/transcripciones/H279.txt-1165-Yes.
+originales/transcripciones/H279.txt-1166-
+originales/transcripciones/H279.txt-1167-PATIENT H279
+originales/transcripciones/H279.txt-1168-A personal question?
+originales/transcripciones/H279.txt-1169-
+originales/transcripciones/H279.txt:1170:DOCTOR H327
+originales/transcripciones/H279.txt-1171-Sure.
+originales/transcripciones/H279.txt-1172-
+originales/transcripciones/H279.txt-1173-PATIENT H279
+originales/transcripciones/H279.txt-1174-When I mean personal, it's about this cancer thing.
+originales/transcripciones/H279.txt-1175-
+--
+originales/transcripciones/H279.txt-1177-Uh-huh.
+originales/transcripciones/H279.txt-1178-
+originales/transcripciones/H279.txt-1179-PATIENT H279
+originales/transcripciones/H279.txt-1180-And I hate to say this and I know.
+originales/transcripciones/H279.txt-1181-
+originales/transcripciones/H279.txt:1182:DOCTOR H327
+originales/transcripciones/H279.txt-1183-Just ask me.
+originales/transcripciones/H279.txt-1184-
+originales/transcripciones/H279.txt-1185-PATIENT H279
+originales/transcripciones/H279.txt-1186-Is this, is this, other cancers that are curable that they just don't want to.
+originales/transcripciones/H279.txt-1187-
+--
+originales/transcripciones/H279.txt-1189-Tell you about?
+originales/transcripciones/H279.txt-1190-
+originales/transcripciones/H279.txt-1191-PATIENT H279
+originales/transcripciones/H279.txt-1192-Yeah.
+originales/transcripciones/H279.txt-1193-
+originales/transcripciones/H279.txt:1194:DOCTOR H327
+originales/transcripciones/H279.txt-1195-No.  There are cancers that are curable provided they're found early enough so it's all about screening and early detection.  So.
+originales/transcripciones/H279.txt-1196-
+originales/transcripciones/H279.txt-1197-PATIENT H279
+originales/transcripciones/H279.txt-1198-@@@.
+originales/transcripciones/H279.txt-1199-
+--
+originales/transcripciones/H279.txt-1201-Yeah so the problem is that a lot of cancers, because we don't routinely check.  You know pancreatic cancer; there are certain types of cancers where you're a goner.  So essentially I don't care what.
+originales/transcripciones/H279.txt-1202-
+originales/transcripciones/H279.txt-1203-PATIENT H279
+originales/transcripciones/H279.txt-1204-Why can't, if they can transplant a heart, a kidney, a liver, everything.
+originales/transcripciones/H279.txt-1205-
+originales/transcripciones/H279.txt:1206:DOCTOR H327
+originales/transcripciones/H279.txt-1207-Yeah.
+originales/transcripciones/H279.txt-1208-
+originales/transcripciones/H279.txt-1209-PATIENT H279
+originales/transcripciones/H279.txt-1210-Why not a pancreas?
+originales/transcripciones/H279.txt-1211-
+--
+originales/transcripciones/H279.txt-1213-Because the thing is that by the time it's found it's so advanced that it's infiltrated all the areas surrounding it.
+originales/transcripciones/H279.txt-1214-
+originales/transcripciones/H279.txt-1215-PATIENT H279
+originales/transcripciones/H279.txt-1216-Okay you know I had heard that and uh, now it doesn't seem right but is that what it is?
+originales/transcripciones/H279.txt-1217-
+originales/transcripciones/H279.txt:1218:DOCTOR H327
+originales/transcripciones/H279.txt-1219-Uh-huh.
+originales/transcripciones/H279.txt-1220-
+originales/transcripciones/H279.txt-1221-PATIENT H279
+originales/transcripciones/H279.txt-1222-But I thought like, Patrick Swayze, I thought that they had diagnosed his early what not early enough.
+originales/transcripciones/H279.txt-1223-
+--
+originales/transcripciones/H279.txt-1225-The pancreas cancer is one of those where.
+originales/transcripciones/H279.txt-1226-
+originales/transcripciones/H279.txt-1227-PATIENT H279
+originales/transcripciones/H279.txt-1228-Here and now, it's gone.
+originales/transcripciones/H279.txt-1229-
+originales/transcripciones/H279.txt:1230:DOCTOR H327
+originales/transcripciones/H279.txt-1231-Yeah you're um.
+originales/transcripciones/H279.txt-1232-
+originales/transcripciones/H279.txt-1233-PATIENT H279
+originales/transcripciones/H279.txt-1234-Wow, wow.
+originales/transcripciones/H279.txt-1235-
+--
+originales/transcripciones/H279.txt-1237-It's.
+originales/transcripciones/H279.txt-1238-
+originales/transcripciones/H279.txt-1239-PATIENT H279
+originales/transcripciones/H279.txt-1240-Okay somebody like me, my pancreas is not working right.
+originales/transcripciones/H279.txt-1241-
+originales/transcripciones/H279.txt:1242:DOCTOR H327
+originales/transcripciones/H279.txt-1243-Uh-huh.
+originales/transcripciones/H279.txt-1244-
+originales/transcripciones/H279.txt-1245-PATIENT H279
+originales/transcripciones/H279.txt-1246-I mean that's why I'm taking insulin.
+originales/transcripciones/H279.txt-1247-
+--
+originales/transcripciones/H279.txt-1249-Uh-huh.
+originales/transcripciones/H279.txt-1250-
+originales/transcripciones/H279.txt-1251-PATIENT H279
+originales/transcripciones/H279.txt-1252-Why can't they do a transplant on me?  I've heard over there at MCB at the Commission for the Blind, there's a girl there who is a diabetic who they did a cornea transplant on.
+originales/transcripciones/H279.txt-1253-
+originales/transcripciones/H279.txt:1254:DOCTOR H327
+originales/transcripciones/H279.txt-1255-Uh-huh.
+originales/transcripciones/H279.txt-1256-
+originales/transcripciones/H279.txt-1257-PATIENT H279
+originales/transcripciones/H279.txt-1258-Okay.
+originales/transcripciones/H279.txt-1259-
+--
+originales/transcripciones/H279.txt-1261-I haven't heard of pancreas transplants, they haven't done that yet.  
+originales/transcripciones/H279.txt-1262-
+originales/transcripciones/H279.txt-1263-PATIENT H279
+originales/transcripciones/H279.txt-1264-Why?
+originales/transcripciones/H279.txt-1265-
+originales/transcripciones/H279.txt:1266:DOCTOR H327
+originales/transcripciones/H279.txt-1267-I don't know.
+originales/transcripciones/H279.txt-1268-
+originales/transcripciones/H279.txt-1269-PATIENT H279
+originales/transcripciones/H279.txt-1270-I'm sure there's got to be.
+originales/transcripciones/H279.txt-1271-
+--
+originales/transcripciones/H279.txt-1273-I really don't know to be honest with you.  I'm sure they're looking into it.
+originales/transcripciones/H279.txt-1274-
+originales/transcripciones/H279.txt-1275-PATIENT H279
+originales/transcripciones/H279.txt-1276-Yeah.
+originales/transcripciones/H279.txt-1277-
+originales/transcripciones/H279.txt:1278:DOCTOR H327
+originales/transcripciones/H279.txt-1279-But I've not heard of it so in terms of it being something that they're offering.
+originales/transcripciones/H279.txt-1280-
+originales/transcripciones/H279.txt-1281-PATIENT H279
+originales/transcripciones/H279.txt-1282-I can't imagine.  I don't know how like with a heart or a kidney.  I don't know how you would fit.  How do they sew that stuff together?
+originales/transcripciones/H279.txt-1283-
+--
+originales/transcripciones/H279.txt-1285-Yeah I know it's amazing.
+originales/transcripciones/H279.txt-1286-
+originales/transcripciones/H279.txt-1287-PATIENT H279
+originales/transcripciones/H279.txt-1288-I mean who thinks this stuff up you know?
+originales/transcripciones/H279.txt-1289-
+originales/transcripciones/H279.txt:1290:DOCTOR H327
+originales/transcripciones/H279.txt-1291-Uh-huh.
+originales/transcripciones/H279.txt-1292-
+originales/transcripciones/H279.txt-1293-PATIENT H279
+originales/transcripciones/H279.txt-1294-I just, but I remember when what's his name Bernard Shaw, the first heart transplant, the name was Bernard, maybe that might have been the last name.
+originales/transcripciones/H279.txt-1295-
+--
+originales/transcripciones/H279.txt-1297-I can't remember the name.
+originales/transcripciones/H279.txt-1298-
+originales/transcripciones/H279.txt-1299-PATIENT H279
+originales/transcripciones/H279.txt-1300-Yeah that was…
+originales/transcripciones/H279.txt-1301-
+originales/transcripciones/H279.txt:1302:DOCTOR H327
+originales/transcripciones/H279.txt-1303-They've come a long ways.
+originales/transcripciones/H279.txt-1304-
+originales/transcripciones/H279.txt-1305-PATIENT H279
+originales/transcripciones/H279.txt-1306-That was, that was space age.  Uh that was Buck Rogers and then some yeah.
+originales/transcripciones/H279.txt-1307-
+--
+originales/transcripciones/H279.txt-1309-Yeah.
+originales/transcripciones/H279.txt-1310-
+originales/transcripciones/H279.txt-1311-PATIENT H279
+originales/transcripciones/H279.txt-1312-Uh and he didn't live all that long but it was still, it was still uh.
+originales/transcripciones/H279.txt-1313-
+originales/transcripciones/H279.txt:1314:DOCTOR H327
+originales/transcripciones/H279.txt-1315-Uh-huh.  So I'm not sure how long this e-mail's going to work.
+originales/transcripciones/H279.txt-1316-
+originales/transcripciones/H279.txt-1317-PATIENT H279
+originales/transcripciones/H279.txt-1318-Okay.
+originales/transcripciones/H279.txt-1319-
+--
+originales/transcripciones/H279.txt-1321-But this will be the new e-mail starting July 1.
+originales/transcripciones/H279.txt-1322-
+originales/transcripciones/H279.txt-1323-PATIENT H279
+originales/transcripciones/H279.txt-1324-This one.
+originales/transcripciones/H279.txt-1325-
+originales/transcripciones/H279.txt:1326:DOCTOR H327
+originales/transcripciones/H279.txt-1327-The EMAIL.
+originales/transcripciones/H279.txt-1328-
+originales/transcripciones/H279.txt-1329-PATIENT H279
+originales/transcripciones/H279.txt-1330-Okay.
+originales/transcripciones/H279.txt-1331-
+--
+originales/transcripciones/H279.txt-1333-Yep.
+originales/transcripciones/H279.txt-1334-
+originales/transcripciones/H279.txt-1335-PATIENT H279
+originales/transcripciones/H279.txt-1336-What can I say but thank you?  You know, you know where I was and you know where I've come and it's all because of you.
+originales/transcripciones/H279.txt-1337-
+originales/transcripciones/H279.txt:1338:DOCTOR H327
+originales/transcripciones/H279.txt-1339-Well.
+originales/transcripciones/H279.txt-1340-
+originales/transcripciones/H279.txt-1341-PATIENT H279
+originales/transcripciones/H279.txt-1342-You've given me the incentive, you have.
+originales/transcripciones/H279.txt-1343-
+--
+originales/transcripciones/H279.txt-1345-Well I'm glad.
+originales/transcripciones/H279.txt-1346-
+originales/transcripciones/H279.txt-1347-PATIENT H279
+originales/transcripciones/H279.txt-1348-Uh because there sure could have been a lot of other doctors that I could have got who would not have been.  You know I remember once we were talking and you helped me get the pump and helping me when I'm down.  Well, put @@@.
+originales/transcripciones/H279.txt-1349-
+originales/transcripciones/H279.txt:1350:DOCTOR H327
+originales/transcripciones/H279.txt-1351-Yeah.
+originales/transcripciones/H279.txt-1352-
+originales/transcripciones/H279.txt-1353-PATIENT H279
+originales/transcripciones/H279.txt-1354-And I'm.
+originales/transcripciones/H279.txt-1355-
+--
+originales/transcripciones/H279.txt-1357-It's been a pleasure PATIENT, you're very welcome.  You keep it up though okay.
+originales/transcripciones/H279.txt-1358-
+originales/transcripciones/H279.txt-1359-PATIENT H279
+originales/transcripciones/H279.txt-1360-I will.  I want to keep in contact.  You've been an inspiration to me.
+originales/transcripciones/H279.txt-1361-
+originales/transcripciones/H279.txt:1362:DOCTOR H327
+originales/transcripciones/H279.txt-1363-Great, I'm glad.  Um now I can tell you, I'm still your doctor until June 23rd.
+originales/transcripciones/H279.txt-1364-
+originales/transcripciones/H279.txt-1365-PATIENT H279
+originales/transcripciones/H279.txt-1366-Okay.
+originales/transcripciones/H279.txt-1367-
+--
+originales/transcripciones/H279.txt-1369-Okay so if you need anything you call.
+originales/transcripciones/H279.txt-1370-
+originales/transcripciones/H279.txt-1371-PATIENT H279
+originales/transcripciones/H279.txt-1372-Okay.
+originales/transcripciones/H279.txt-1373-
+originales/transcripciones/H279.txt:1374:DOCTOR H327
+originales/transcripciones/H279.txt-1375-Afterwards just e-mail, call me, I don't care okay, seriously.  Um and then otherwise we'll get you to a physician in either of these clinics, if they can't then they'll put you in whoever is taking over for me.  Okay.  If for whatever reason you don't like the new doctor you get, just switch to a different doctor.  Just FYI, you’re not stuck. Okay just ask for a new doctor.
+originales/transcripciones/H279.txt-1376-
+originales/transcripciones/H279.txt-1377-PATIENT H279
+originales/transcripciones/H279.txt-1378-You know it'll be.
+originales/transcripciones/H279.txt-1379-
+--
+originales/transcripciones/H279.txt-1381-I don't, that's the deal.  So we just that's the problem, if you don't like who they gave that's why you make a request for a new physician okay.  Well and I know you told me.  You can ask @@@ to follow you as well.  It's not a problem.  @@@ don't by fooled by the @@@.
+originales/transcripciones/H279.txt-1382-
+originales/transcripciones/H279.txt-1383-PATIENT H279
+originales/transcripciones/H279.txt-1384-@@@.
+originales/transcripciones/H279.txt-1385-
+originales/transcripciones/H279.txt:1386:DOCTOR H327
+originales/transcripciones/H279.txt-1387-Still if you don't like who you get, just switch.
+originales/transcripciones/H279.txt-1388-
+originales/transcripciones/H279.txt-1389-PATIENT H279
+originales/transcripciones/H279.txt-1390-@@@.
+originales/transcripciones/H279.txt-1391-
+--
+originales/transcripciones/H279.txt-1393-Yeah.
+originales/transcripciones/H279.txt-1394-
+originales/transcripciones/H279.txt-1395-PATIENT H279
+originales/transcripciones/H279.txt-1396-@@@.
+originales/transcripciones/H279.txt-1397-
+originales/transcripciones/H279.txt:1398:DOCTOR H327
+originales/transcripciones/H279.txt-1399-Yeah.
+originales/transcripciones/H279.txt-1400-
+originales/transcripciones/H279.txt-1401-PATIENT H279
+originales/transcripciones/H279.txt-1402-Then maybe @@@.
+originales/transcripciones/H279.txt-1403-
+--
+originales/transcripciones/H617.txt-225-
+originales/transcripciones/H617.txt-226-DOCTOR H617
+originales/transcripciones/H617.txt-227-Okay give me a second.  Let's see.  
+originales/transcripciones/H617.txt-228-
+originales/transcripciones/H617.txt-229-(DOCTOR OUT: 11:01  DOCTOR IN:  15:00)
+originales/transcripciones/H617.txt:230:DOCTOR J211
+originales/transcripciones/H617.txt-231-Alright, sorry about that, that was my @@@.  Okay um, we're starting @@@.  Okay.
+originales/transcripciones/H617.txt-232-
+originales/transcripciones/H617.txt-233-PATIENT H617
+originales/transcripciones/H617.txt-234-You know I need a consultant so I can go to the gym.
+originales/transcripciones/H617.txt-235-
+--
+originales/transcripciones/M178.txt-625-Alright.  You take care.
+originales/transcripciones/M178.txt-626-
+originales/transcripciones/M178.txt-627-PATIENT M178
+originales/transcripciones/M178.txt-628-Have a nice day.
+originales/transcripciones/M178.txt-629-
+originales/transcripciones/M178.txt:630:DOCTOR J429
+originales/transcripciones/M178.txt-631-You too, bye, bye.
+originales/transcripciones/M178.txt-632-
+originales/transcripciones/M178.txt-633-PATIENT LEAVES:  37:30.
+originales/transcripciones/M178.txt-634-
+originales/transcripciones/M178.txt-635-DD: @@/@@/@@
+--
+originales/transcripciones/S614.txt-20-Yeah.
+originales/transcripciones/S614.txt-21-
+originales/transcripciones/S614.txt-22-DOCTOR S614
+originales/transcripciones/S614.txt-23-Um so.
+originales/transcripciones/S614.txt-24-
+originales/transcripciones/S614.txt:25:PATIENT J239
+originales/transcripciones/S614.txt-26-Yeah we saw you come in late too today.
+originales/transcripciones/S614.txt-27-
+originales/transcripciones/S614.txt-28-DOCTOR S614
+originales/transcripciones/S614.txt-29-Yeah don't tell anybody else.
+originales/transcripciones/S614.txt-30-
+--
+originales/transcripciones/V472.txt-581-Well because we don’t give it to people until they are older anyway.
+originales/transcripciones/V472.txt-582-
+originales/transcripciones/V472.txt-583-PATIENT V472
+originales/transcripciones/V472.txt-584-Wait a minute.  How old do you think I am?
+originales/transcripciones/V472.txt-585-
+originales/transcripciones/V472.txt:586:DOCTOR H43
+originales/transcripciones/V472.txt-587-When you’re younger you have immunity from chicken pox.  Have you had chicken pox?
+originales/transcripciones/V472.txt-588-
+originales/transcripciones/V472.txt-589-PATIENT V472
+originales/transcripciones/V472.txt-590-Yea I had everything.  German measles, measles, chicken pox.  You name it I had it all.
+originales/transcripciones/V472.txt-591-

@@ -1,0 +1,2013 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@@  
+
+DOCTOR L275
+PATIENT?
+
+PATIENT L275
+Yes.
+ 
+DOCTOR L275
+@@@.
+
+PATIENT L275
+Huh?
+
+DOCTOR L275
+@@@ have a seat.  @@@ are you doing okay?
+
+PATIENT L275
+@@@.  Warm and up, calming down you know.
+
+DOCTOR L275
+So.
+
+PATIENT L275
+How you doing?
+
+DOCTOR L275
+I must admit I was looking through things a little bit here.  I know you saw DOCTOR a couple of weeks ago or like a month ago now.
+
+PATIENT L275
+Yes.
+
+DOCTOR L275
+So I guess I'm not quite sure what you need today, so you fill me in on what's going on with you.
+
+PATIENT L275
+Well uh when I talked you I asked you about the back and all that.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+And I had the pain down here.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+That's all taken care of.
+
+DOCTOR L275
+Oh good.
+
+PATIENT L275
+But um I still have kind of like a numbness on the outside of my leg.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+And my toes and the bottom of my toes.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+And if uh, if I try to point my toes.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+They cramp up really quick.
+
+DOCTOR L275
+Okay.  Okay.  You point your toes they cramp up okay.
+
+PATIENT L275
+Right.  Besides that, now my back's fine.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+But then also too, I'd say that uh it started just a little bit before I seen the other doctor.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+But now right here, it feels like it's asleep.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+It's not numb.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+I could feel it.
+
+DOCTOR L275
+But kind of tingling or?
+
+PATIENT L275
+Yeah.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+So if you give me your hand.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+That you know.
+
+DOCTOR L275
+@@@.
+
+PATIENT L275
+But here.
+
+DOCTOR L275
+At the side of your toe there okay.
+
+PATIENT L275
+Yeah and I've been noticing lately that when I pick something up.
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+Then I mainly are using these three fingers.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+To hold it.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+It just don't function.
+
+DOCTOR L275
+Okay, let's see.
+
+PATIENT L275
+And I don't know if that was just because um you know the injury to my back because the nerves are all connected.
+
+DOCTOR L275
+Yeah.  Did you get to Prosthetics?  For that elbow sleeve?
+
+PATIENT L275
+Yeah.
+
+DOCTOR L275
+Did that help at all?
+
+PATIENT L275
+I used that for a week and a half but it was so small.
+
+DOCTOR L275
+It wasn't the right size?
+
+PATIENT L275
+Yeah well he said it was supposed to be a big sleeve but all it was a elbow pad.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+Like um you wear with football.
+
+DOCTOR L275
+Okay.  Between the @@@.  Okay.
+
+PATIENT L275
+And it was really uncomfortable before I, you know I stopped using it.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+He said it might help out with this, but it really didn't.
+
+DOCTOR L275
+And then it didn't okay.  Okay and is it just in the left hand?
+
+PATIENT L275
+Yes.
+
+DOCTOR L275
+And there's tingling in your feet, is that in both sides or is it?
+
+PATIENT L275
+Just on my right.
+
+DOCTOR L275
+Just the right.
+
+PATIENT L275
+It doesn't cause me any pain.  It doesn't cause me discomfort.
+
+DOCTOR L275
+But does the right foot.
+
+PATIENT L275
+It's there.
+
+DOCTOR L275
+Is this um, in this hand is it getting better or worse?
+
+PATIENT L275
+Oh um it was a little bit when it first started and I would just say it's not getting worse.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+But it's not progressing.
+
+DOCTOR L275
+So it's not improving, it's kind of steady?
+
+PATIENT L275
+Right, right.
+
+DOCTOR L275
+Okay um.  Your noticing that you're picking things up with your first three fingers and that you're not using the others as much.
+
+PATIENT L275
+I'm still grabbing ahold @@@.
+
+DOCTOR L275
+But @@@.
+
+PATIENT L275
+Yeah I could feel that you know I've got no strength in the two fingers and it's just my right hand and even when I'm gripping something.
+
+DOCTOR L275
+Okay.  Okay.  Um and I, so let me see, @@@.  Have you ever had any trauma or injury to your upper spine, your neck or anything like that?
+
+PATIENT L275
+No.
+
+DOCTOR L275
+Okay.  No falls or anything like that?
+
+PATIENT L275
+Um I've had falls but nothing serious.
+
+DOCTOR L275
+Anything recent since this has all developed?
+
+PATIENT L275
+No.  No.
+
+DOCTOR L275
+And you this has all developed in the hand within the last month or so?
+
+PATIENT L275
+Yeah I would say you know since the last time I've seen you because it's been bothering me then.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+But then when I seen the other doctor um.
+
+DOCTOR L275
+Yeah.  DOCTOR mentioned that you were.
+
+PATIENT L275
+It was just starting.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+That's why he gave me that.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+Sleeve or whatever that was.
+
+DOCTOR L275
+Okay, alright um let's see and then just because I know the problem the last time, any blood in your stool?
+
+PATIENT L275
+Not at all.
+
+DOCTOR L275
+Black stool or anything like that?
+
+PATIENT L275
+No.
+
+DOCTOR L275
+Okay.  Okay any other symptoms besides these things that are bothering you or these few things like the hand and the foot that are the main things that brought you in here?
+
+PATIENT L275
+No.  I was going to wait until you talked all about this.
+
+DOCTOR L275
+Okay.  What else is there?  I just want to make sure.
+
+PATIENT L275
+Well, this has been a good year and a half.  I got these red splotches and they're very itchy.
+
+DOCTOR L275
+Red splotch, very itchy okay.
+
+PATIENT L275
+I got that around here um in this area.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+On both arms.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+It's very itchy.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+And if I scratch myself I'll notice little white spots.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+On my arms and I have it, it seems like it's just where I scratch.
+
+DOCTOR L275
+Is it @@@?
+
+PATIENT L275
+It's here.
+
+DOCTOR L275
+And everything okay.
+
+PATIENT L275
+But really mainly it's all around my neck.
+
+DOCTOR L275
+Okay.  Alright and how long has it been?
+
+PATIENT L275
+I'd say a good year and a half.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+No I, um I believe the last time when I was having that back problem with the epidural um I mentioned this to the doctor and I think they sent me down to the Dermatology.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+And they couldn't figure it out what it was.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+And they gave me a cream.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+And that and I used that cream up but it didn't.
+
+DOCTOR L275
+Did it help?
+
+PATIENT L275
+I really can't remember but it never took care of it because it's still here and then my wife, I guess you know sleeping together with that, she started getting a little bit on her chest.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+But it went away on her.
+
+DOCTOR L275
+Okay, okay.  I'm looking at the Dermatology Notes.  
+
+PATIENT L275
+You got that? That far back?
+
+DOCTOR L275
+Yep.  Uh.
+
+PATIENT L275
+I believe I only seen them one time too.
+
+DOCTOR L275
+Yeah it looks that way.
+
+PATIENT L275
+I never heard anything after that.
+
+DOCTOR L275
+Looks like they were trying to call.  Um they wanted to see how, they gave you a cream and then they wanted to check what they call an RPR um, it's a test that they sometimes check and I can't see that you ever actually got it.
+
+PATIENT L275
+@@@.
+
+DOCTOR L275
+That's what I was looking at.  It looks like you were having a lot of driving issues at the time and uh they wanted to have that drawn but weren't able to.  Do you think you could stop at the Lab today and have it drawn?
+
+PATIENT L275
+Um.
+
+DOCTOR L275
+Or maybe.
+
+PATIENT L275
+What do you mean drawn?
+
+DOCTOR L275
+Well the blood test that they wanted um at the time but I'll um.
+
+PATIENT L275
+Well when I came here today they took four vials.
+
+DOCTOR L275
+Okay maybe they can add it on, I don't know sometimes they have special vials.
+
+PATIENT L275
+I still got time to give them some more, that's not a problem.  I can go right back to the Laboratory.
+
+DOCTOR L275
+Yeah go right back to the Lab.  Let me just see maybe they can add it on.
+
+PATIENT L275
+It's not a problem.
+
+DOCTOR L275
+I don't know if they would have taken it.
+
+PATIENT L275
+Well how would they, if they took blood you know this is on the outside.
+
+DOCTOR L275
+On the skin so the thing that the dermatologist were looking for and they're the skin specialists, I don't exactly know the correlation but I just know it's the lab they wanted is something that we check for syphilis to make sure that you've never had any exposure to syphilis in the past.
+
+PATIENT L275
+No.
+
+DOCTOR L275
+And.
+
+PATIENT L275
+Maybe when I was in the service.
+
+DOCTOR L275
+You know and that's the thing it can be.
+
+PATIENT L275
+That was 30 years ago.
+
+DOCTOR L275
+Yeah.  The thing with syphilis is it can be one of those things that like doesn't show up for a long time.  I'm not saying that's what you have cause they thought it was something else that was much more common which they called tinea versicolor but they wanted to rule that out and make sure that it wasn't.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+And I don't see that you ever had that lab done.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+So why don't we just get it?
+
+PATIENT L275
+It's okay.
+
+DOCTOR L275
+And then just to make sure and like I said I don't know the connection and I'm not familiar enough with the skin manifestations of it.
+
+PATIENT L275
+Right.
+
+DOCTOR L275
+But I just know it's something that they were pretty actively wanting to get from you so let's just, if it's not too much trouble we'll just have you stop in today and it looks like they didn't draw that kind of test from you before so I can't add it on to what they already did.
+
+PATIENT L275
+I can, if I remember right, while I was in the service um I was uh diagnosed with I guess you'd call it clap.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+You know it's a yellow seepage.
+
+DOCTOR L275
+Yeah uh-huh.
+
+PATIENT L275
+From the penis and that.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+And I got the shot and then that was clear.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+But besides any other diseases I don't know.
+
+DOCTOR L275
+Okay.  I think it's reasonable to check but the others, what they recommended was Selsun lotion and let's try that again.
+
+PATIENT L275
+Yeah.
+
+DOCTOR L275
+Let's try that again for the rash.  I think that'll.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+Um cause I'll look at it again when I examine you here but uh.
+
+PATIENT L275
+So what I was doing uh just normally is I found out if I just take like hand lotion you know.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+The lotion that she uses a lot.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+Um and put it on, it sooths it for a while you know.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+But it's like taking the dry skin.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+And it soothes it for a while but then you know.
+
+DOCTOR L275
+It comes back.
+
+PATIENT L275
+Hour and a half, two hours later.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+It's back itching.
+
+DOCTOR L275
+Back to itching huh.  Okay.  Well let's see um okay and it looks like.  I just want to review what imaging you've had, you had a CT.  I'm trying to see if you had any imaging of your upper spine and I don't see any of that.  Most of the imaging you've had has been kind of in the lower body.
+
+PATIENT L275
+Right.  L1, 2 and 3.
+
+DOCTOR L275
+L1, 2 and 3 yeah.
+
+PATIENT L275
+Which was a problem before.
+
+DOCTOR L275
+So your, these symptoms here, in these fingers is a pretty classic distribution of a nerve that comes down.  I don't know if you remember but one time, a while ago, a few years ago, Brett Favre the quarterback.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+Took a helmet to the inside of his elbow and it like cracked his elbow here but the nerves run right through that groove right where he got attacked.
+
+PATIENT L275
+Well that's like even with the funny bone.
+
+DOCTOR L275
+Right.  It's kind of like it goes into the fingers where he lost the strength for a while until that all healed up.  So when it comes up here by your elbow but it comes out down out of your neck so if it had been you know degenerative changes of disks bulging in your spine or any problems in the arms it can pinch that nerve and cause those problems.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+So and I don't see any other imaging so we might want to get some imaging just to see what.
+
+PATIENT L275
+Well I can uh, I don't know if it has anything to do with it.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+Like because you know my old age but.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+But I notice that like when it's really quiet.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+And I can, I turn.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+My neck like this, I can hear it crackling.
+
+DOCTOR L275
+Cracking and stuff.
+
+PATIENT L275
+And it just might be just old age right?
+
+DOCTOR L275
+Yeah, yeah I mean some of that we just you know we creak and we pop and we kind of, you know, we kind of do that.
+
+PATIENT L275
+I never thought anything you know of it.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+It's just something that happens to the body.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+Get old.
+
+DOCTOR L275
+Um are you having fevers or chills?
+
+PATIENT L275
+No.
+
+DOCTOR L275
+Are you feeling sick at all?
+
+PATIENT L275
+Um.
+
+DOCTOR L275
+No.
+
+PATIENT L275
+No.
+
+DOCTOR L275
+Do you take steroids, not like injected but like prednisone or anything like that?
+
+PATIENT L275
+Um the only pills I take, this one here.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+Um I've only taken two pills.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+It's you know, I thought it had to do with my stomach.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+And that's what that was for.
+
+DOCTOR L275
+Okay.  So you don't take that one very often?
+
+PATIENT L275
+Yeah I only took it once and took two pills.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+So I woke up in the middle of the night and my stomach felt it was on fire.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+You know but the only other pills is these here so.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+She wrote it down.  An 81 mg baby aspirin and a multivitamin.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+And then fish oil.
+
+DOCTOR L275
+And those are the only things that you want to be taking right?
+
+PATIENT L275
+Yeah.
+
+DOCTOR L275
+@@@.
+
+PATIENT L275
+Yeah I have it every night with dinner.
+
+DOCTOR L275
+Okay.  And you get these outside of the VA?
+
+PATIENT L275
+Yes
+
+DOCTOR L275
+Outside of the VA okay and that's fine.
+
+PATIENT L275
+She takes the same thing but she takes a little bit more @@@.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+I think it's calcium she really goes but then I drink maybe a gallon and a half of milk a week.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+So I get enough calcium in my body but women need.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+Calcium more than guys do.
+
+DOCTOR L275
+Yeah so let's see here.  I'm just gonna put these in so I have your list up-to-date on here.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+On the computer.  Okay now fish oil.  Yep.  Okay.  Alright so let's look at your labs and things like that.  Have you had um like a cold or a cough recently or anything like that?
+
+PATIENT L275
+Um in the morning but that's because I was smoking.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+I would have phlegm a lot.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+And then within a half hour I'd have to blow my nose ten times or so and then it's gone.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+But I'm on the patch.
+
+DOCTOR L275
+How's that going for you?
+
+PATIENT L275
+And um since my birthday in January @@@ and uh I won't say no cigarettes.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+But I might have a couple puffs here and the next day a couple more puffs but it's not the whole, like I was smoking a pack, maybe a little bit more a day and that's you know.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+I'm not doing it.
+
+DOCTOR L275
+So now you are down to just like a cigarette or two?
+
+PATIENT L275
+Not even two, not even.
+
+DOCTOR L275
+Like a couple puffs every other day or every day?
+
+PATIENT L275
+I would say okay maybe one a day.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+While I'm still doing the patch.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+And I leave it on at night and it doesn't give me nightmares and I'm down to uh, I got two boxes of the first stuff.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+And I'm halfway through with the second box.
+
+DOCTOR L275
+Good.
+
+PATIENT L275
+Then I go to the next step.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+So that's helping me.
+
+DOCTOR L275
+Good, excellent, good job.  That's a big step.  That is a big deal for your health and everything, that's big.
+
+PATIENT L275
+Uh-huh.
+
+DOCTOR L275
+So you got some labs today.  Let's go through these real quick and then um and then I'll examine you and then we'll get you a plan here for what we want to do okay.
+
+PATIENT L275
+Sure.
+
+DOCTOR L275
+Alright and I can send you a letter that includes the lab.  So this first lab called the glycosylated hemoglobin, you might know it as hemoglobin A1c and that tells us what your sugars have been like for the last three months so it's something we look at for diabetes and yours is normal so that's good.  So no evidence of diabetes or anything like that.
+
+PATIENT L275
+Uh-huh.
+
+DOCTOR L275
+So that's good.  Um these labs, they test kind of your, how thin your blood is and it's a function of how your liver is working okay and it's totally normal so that's good.  So those are good.  This is your blood count.  Tells us about your infection fighting cells and your blood, if you're anemic or not and the reason I'm asking you those questions is cause your white blood cell count is elevated and we normally see that in people who have an infection.  Now this is just a number and you're a person sitting here in front of me telling me you don't have any problems going on.
+
+PATIENT L275
+Right.
+
+DOCTOR L275
+So I believe you more than this number but I just want to kind of make sure that you know we're, you know make sure I'm covering the bases.
+
+PATIENT L275
+Yeah um.
+
+DOCTOR L275
+No issues, no burning with urination.
+
+PATIENT L275
+No.
+
+DOCTOR L275
+Or anything like that okay.  I'm not too concerned about it.
+
+PATIENT L275
+Could stress be affecting it?
+
+DOCTOR L275
+Stress can do that.
+
+PATIENT L275
+Okay cause we.
+
+DOCTOR L275
+You've had a lot of stress lately?
+
+PATIENT L275
+Well she's changed some of her medicine and I don't know medicine.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+And the doctors you know, well take less of this and take more of this.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+And I just kind of think you know maybe one of the medicines and this medicine.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+They shouldn't be taken together.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+You know, I really don't.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+I don’t trust that doctor that much.
+
+DOCTOR L275
+Yeah okay.
+
+PATIENT L275
+You know just over the phone will do that.
+
+DOCTOR L275
+Uh-huh okay.
+
+PATIENT L275
+And um.
+
+DOCTOR L275
+So you had some stress?
+
+PATIENT L275
+Well yeah, it seems like she'll fly off the handle.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+Um and then it gets to me you know um.
+
+DOCTOR L275
+Uh-huh, okay.  Stress can do that for sure okay.
+
+PATIENT L275
+That's about the only thing I mean.  I haven't been sick or cold or anything.
+
+DOCTOR L275
+Yeah, well we don't treat numbers, we treat people so you know, but, we'll look at the rest, all of these are normal, so this is what I wanted to schedule.  Basically this one tells us all your kidney function and that looks normal and all the electrolytes are normal.
+
+PATIENT L275
+My white cells.
+
+DOCTOR L275
+And your white cells are high yeah.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+I mean they're not abnormal, like you know sometimes if you were to put in Google, you know Google like high white blood cell count, some types of um like cancers and lymphomas have high white cell counts but those are typically 50,000, 60,000 and you're only like 16,000.  So you're in more like with a typical infection or stress type of figure okay.
+
+PATIENT L275
+Just write it down so I can tell her about it.
+
+DOCTOR L275
+Yeah.  And I can send you a note or whatever.  If when I go talk to my supervisor you want to grab her and bring her here I can tell her too so that everybody's on the same page if you want do that too.  Um but the rest of these are all normal.  Your cholesterol is great.  Your cholesterol, your bad cholesterol is 78 so that's perfect.  Your good cholesterol is good, 67 and we want that above 40 so that's good okay.  So all of your cholesterol numbers are good and then down here it tells us about your liver function tests and all those are normal.  So all of your liver function tests are normal.
+
+PATIENT L275
+Hmm.
+
+DOCTOR L275
+And then they did some iron studies to look at your iron and make sure your iron is okay and that's all normal too okay.  So all that is normal okay.  Let me just look.
+
+PATIENT L275
+Is that you only thing you just had is my white cells.
+
+DOCTOR L275
+So the only thing about this whole range of everything that's abnormal is that your white blood cells are a little more and you know what it could be is this rash causing you itching all over.
+
+PATIENT L275
+Right.
+
+DOCTOR L275
+It could be just inflammation from that rash and that may be what it is.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+Cause I see you sitting here scratching that might be something, you know that might be what it is.  So that's the only abnormality in all of your labs, everything else is stone cold normal okay.
+
+PATIENT L275
+Good, good.
+
+DOCTOR L275
+So that's all good so I can send you a letter with that.  So let's see, how about, let me, can you take off your jacket and your shirt so that I can look at this rash?  Let's see @@@ okay and the hemoglobin is good as well cause that's your, remember when the last time you were having some bleeding.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+So we send you had another couple episodes, I still think we might need to do a colonoscopy for you.
+
+PATIENT L275
+You want to do the.
+
+DOCTOR L275
+Right.
+
+PATIENT L275
+You know if we scheduled one, to do it in the morning.
+
+DOCTOR L275
+Okay so that we can just drive you.  So what, I can't schedule it but I can order the consult and they'll call you to schedule and then you can just schedule it okay.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+So have a seat there for me and um also the good thing is that DOCTOR when you saw him, he put in a consult for the um Rehab physicians to evaluate you as well and see if there is anything they can help you with for your back and these types of injuries cause they're really good at working with people and figuring out what sorts of deficits they're having like with tingling and things like that.
+
+PATIENT L275
+Well I have been doing the exercises.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+The exercises I remember from before.
+
+DOCTOR L275
+Good.
+
+PATIENT L275
+Uh from before when I had my back.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+So I been doing that.
+
+DOCTOR L275
+How long have you had that?
+
+PATIENT L275
+Oh all my life.
+
+DOCTOR L275
+Is it unchanged?
+
+PATIENT L275
+Yes.
+
+DOCTOR L275
+Is it painful?
+
+PATIENT L275
+I might pull my hair out every now and then but I just thought it was a birthmark – a mole.
+
+DOCTOR L275
+Yeah. And it is and if you know it doesn't look super concerning the only thing is it's kind of big you know.  The typical size which is no bigger than a eraser on the head of a pencil you know.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+On a typical pencil and this is kind of bigger than that and I know it's unchanged but it's been the same way.
+
+PATIENT L275
+That's really funny it's just not long ago DOCTOR was talking about it on his show like that.
+
+DOCTOR L275
+Yeah, yeah.  The ABCD, did he talk about that?
+
+PATIENT L275
+Something like that.  I just remember you saying the size of a pencil.
+
+DOCTOR L275
+The size of a pencil yeah.  So we may, this is what I think we're gonna do, I think I'm going to prescribe you the Selsun like they tried before okay and have you stop back and get that lab drawn on your way out.
+
+PATIENT L275
+Okay today.
+
+DOCTOR L275
+Today.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+If you can if that's okay.
+
+PATIENT L275
+Uh-huh.
+
+DOCTOR L275
+And then I'm gonna put in a consult for the dermatologist again to see you because by the time you get in with them you'll know if that Selsun is working or not.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+And they'll be able to just look at this and make sure that they think its okay, okay.
+
+PATIENT L275
+Now um this does get red.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+But sometimes it does itch.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+And I get sores but I get these little dots.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+Especially when I'm working and I sweat.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+It'll get really prominent.
+
+DOCTOR L275
+Yeah.  Do you where your patch here?
+
+PATIENT L275
+Yeah.  
+
+DOCTOR L275
+Okay so I think it's kind of a combination.  Looks like you have a little bit of dry skin in general.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+Your skin's a little bit dry but it doesn't, I mean you obviously have a rash all around here.
+
+PATIENT L275
+Uh-huh.
+
+DOCTOR L275
+And on your neck and everything and I, it looked to me like what they thought it was the last time, the tinea versicolor is what they call it and it's a little fungal infection that just kind of.  It's kind of like athlete's foot.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+You’ve had athlete's foot.
+
+PATIENT L275
+Yeah I'm doing cream right now for it.
+
+DOCTOR L275
+Right.  So it's kind of like athlete's foot only it's on your body okay and it gets itchy and irritated and everything and it can kind of spread and things like that.  So.
+
+PATIENT L275
+Can I have uh, like when I shower.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+I start from the top all the way down.
+
+DOCTOR L275
+Uh-huh.  Yeah.
+
+PATIENT L275
+Well should I maybe wash my feet, could I like spread that because you're saying it's kind of the same?
+
+DOCTOR L275
+Hmm it's kind of similar and I doubt you spread it from your feet and maybe like, it would be pretty rare to spread something from the feet.
+
+PATIENT L275
+But it seems just in the shower though.
+
+DOCTOR L275
+It's kind of a simple.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+It's just a similar type of thing you know that happens.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+So let's try, so we'll prescribe you the Selsun.  Do you want me to have that mailed to you or do you want to pick it up downstairs?
+
+PATIENT L275
+Um I could pick it up, if it's not a big deal.
+
+DOCTOR L275
+It's not a big deal, it's not a big deal for me, it's easy to do so.  So I just want to measure this.
+
+PATIENT L275
+But that's always, as long as I can remember it's always like that.
+
+DOCTOR L275
+Okay.  It's probably over cautious; I know you said you've always had it.  I'm just going to listen to your heart and lungs as well so.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+And now that you're thinking about it you're itching all over huh.
+
+PATIENT L275
+Uh-huh.  That's one thing that - I read a lot.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+And if I'm sitting down then I'm more itchy and when I'm working.
+
+DOCTOR L275
+Uh-huh.  Yeah.
+
+PATIENT L275
+I don't notice it.
+
+DOCTOR L275
+Yeah hmm.  Deep breath.  Okay.  Now if you want to stand up like you're gonna box me here okay.  Don't let me pull you down.
+
+PATIENT L275
+Yeah.
+
+DOCTOR L275
+Good, same on this side.  Good don't let me push your hands good, now this one, good.  Okay like you did before squeeze my fingers as hard as you can, okay.  On this side that's good okay, good.  Now let's see if we can do this right where you kind of grab more here.  Okay so it was a little bit weaker in this hand here.  Okay and then spread out your fingers like this and then go on and push your fingers in okay so okay now make a sign like this and don't let me get up.  Okay good.  Push off on the table a little bit so you're putting all your weight push this leg up and then just, okay.  Push off okay push off @@@ okay good.  Now relax, now does this feel the same on both sides?
+
+PATIENT L275
+Uh-huh.
+
+DOCTOR L275
+Does this feel the same on both sides?
+
+PATIENT L275
+Uh-huh.
+
+DOCTOR L275
+Okay does this feel the same on both sides?
+
+PATIENT L275
+Uh-huh.
+
+DOCTOR L275
+Yeah okay.  This feels the same over here?
+
+PATIENT L275
+Uh-huh.
+
+DOCTOR L275
+Good.  Just want to check your range of motion so put your hands behind your head like this, now put them behind your back like this okay.  Any trouble with that?
+
+PATIENT L275
+Uh uh.
+
+DOCTOR L275
+Okay straight down in front of you okay, okay good.  Okay alright, okay so I'm going to go talk to my supervisor.  I'm going to ask, what I want to know if he thinks we need to do some imaging up here okay.  Can you shrug your shoulders up like this for me; don't let me push them down okay.  Any pain in the area.  Okay I'm going to put my hand on your face.  I want you to try and turn your head and I'm going to try and stop you okay.  Turn your head okay now this way good.  And then you've got numbness and tingling on your right foot.
+
+PATIENT L275
+You know it's almost just like this.
+
+DOCTOR L275
+Almost just like that okay.  Um.  Can you kick your shoes off?  Alrighty okay good.  Can you pull your socks off for me?  Can you feel any pain with this?
+
+PATIENT L275
+Yes.
+
+DOCTOR L275
+Yeah okay.  Point your toes up towards the sky and don't let me push them down.  Now step on the gas, don't let me pull them up.  Does that hurt?
+
+PATIENT L275
+No it's just the pain.
+
+DOCTOR L275
+Okay.  What's this scar from?
+
+PATIENT L275
+Oh a razor knife, work.
+
+DOCTOR L275
+Oh gotcha.
+
+PATIENT L275
+I think it was uh like six stitches.
+
+DOCTOR L275
+Okay alright.  You can get yourself dressed together here um.
+
+PATIENT L275
+Um just like this thing with.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+With athlete's feet, the ointment that I’m putting on.
+
+DOCTOR L275
+Yes.
+
+PATIENT L275
+Now I don't have to like uh have it be refilled I had two refills.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+I put the order in for the second one.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+But after this is all over this stuff um, I can get over-the-counter.
+
+DOCTOR L275
+Yeah, yeah definitely.
+
+PATIENT L275
+Right?  I don't have to come back here to get the refill.
+
+DOCTOR L275
+No, no.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+Nope you can get it over-the-counter.  Um okay well I'm going to go quick talk to my supervisor here and I'll be right back okay.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+If you would like to go grab your wife I can update you both at the same time if you want to okay.
+
+PATIENT L275
+Okay.
+
+(DOCTOR OUT: 83:50  DOCTOR IN:  96:27)
+
+DOCTOR L275
+Hey hello.
+
+SECOND PERSON L275
+Hi.
+
+DOCTOR L275
+Alright we got all the troops in one place.  Okay so a few things that we're gonna do.  So just to check out what's going on with your hands here.
+
+SECOND PERSON L275
+@@@ he wouldn't have told you @@@.
+
+PATIENT L275
+Yeah I told her, let her finish.
+
+SECOND PERSON L275
+@@@.
+
+DOCTOR L275
+@@@.
+
+PATIENT L275
+Yeah, yeah, sorry.  I forgot to mention that to you.
+
+DOCTOR L275
+Oh yeah, okay.  Probably shouldn't affect it.  You know you should people used to call them Bible bumbs because people used to whap them with a Bible and try to break them, now just let them be and if they don't bother you.  But if not, that's probably not @@@.  So we're gonna do a couple of things for this issue, for the hand issue okay.  The first thing is already kind of in process is that the Rehab physicians have already been consulted by DOCTOR, who you saw last month.
+
+PATIENT L275
+Uh-huh.
+
+DOCTOR L275
+And so their gonna schedule an appointment they’re a little bit behind there, they'll schedule an appointment but while that @@@ I'm going to order a nerve conduction study which is just to look at, you know that nerve I was talking about that goes around the elbow, that's called the ulnar nerve and just to see if there is anything going on with that nerve and if there is that would prompt us to get an MRI which is an advanced study that looks at the nerves and things like that in the neck just to make sure there's no compression or anything that needs to be fixed okay.
+
+PATIENT L275
+Well they did say they might want to take a look at the side so.
+
+SECOND PERSON L275
+Your dad has carpal tunnel.
+
+DOCTOR L275
+Yeah so I think this is kind of what we'll do and some of these are going to happen.  The consult is already in.  I'm going to get some x-rays just to give us a baseline of information.  The x-rays won't show any disk bulging and the x-rays don't show the nerves.  But if you have some arthritis or something in the neck the x-rays are kind of a good place to start and then I'm going to put in the order for the nerve conduction study and those sometimes take a couple of weeks for them to get scheduled okay.
+
+SECOND PERSON L275
+Uh-huh.
+
+DOCTOR L275
+Okay so those are the things that are gonna going to be kind of in the process of working on for that nerve problem.  Okay to make sure we're not missing anything.  Okay so that's the first issue.  The second issue is this rash okay.
+
+SECOND PERSON L275
+Uh-huh.
+
+DOCTOR L275
+So it looks like to me the same thing they thought it was back in 2006 which is what called a tinea versicolor okay.  Which is just kind of a fungal skin infection, sort of like we talked about with the athlete’s foot, okay.  So what I'm going to do for that is I'm going to give you the Selsun which is the same lotion that they tried before and I'm going to give you the Selsun and in the meantime today I'm going to put in a consult for the dermatologist okay.  And so I want you to try the Selsun and also use some lotion cause your skin is just dry.
+
+SECOND PERSON L275
+Uh-huh.
+
+DOCTOR L275
+Okay I don't know if it's hard water or dry air or because it’s winter or what but your skin is dry which is adding to that itchiness okay.  So.
+
+SECOND PERSON L275
+I had it but it went away and I don't have it anymore.
+
+DOCTOR L275
+Okay.
+
+SECOND PERSON L275
+So it was the same.
+
+DOCTOR L275
+Yeah, some people just.  I think your skin is dry so the irritation is kind of coming from those things okay.  So those, you're going to do the Selsun, I'm going to have the dermatologist see you cause I want them to look at that mole.  There's nothing you know terribly different or scary about it but it is bigger than what we normally want or like it to be.  You know there's something about those and their, but they may look at it and say it might be better if we take it off you know just to be on the safe side so.  
+
+PATIENT L275
+It's been with me all my life.
+
+DOCTOR L275
+I know.
+
+SECOND PERSON L275
+@@@.
+
+DOCTOR L275
+I know.  I had one on my shoulder I was like the same thing.  You know they were just oh that could be @@@ it's kind of dark it's you know.
+
+PATIENT L275
+Like cancer-causing thing @@@ or?
+
+DOCTOR L275
+I mean it has, any mole like that's, any mole has the potential to turn into something like a melanoma.  The larger moles, irregular moles, kind of the Dr. Oz thing that he was talking about.  Those have more potential to turn into those types of things.  So since it's big, bigger than the top of a pencil eraser.
+
+PATIENT L275
+Right.
+
+DOCTOR L275
+It has a higher chance of developing into a melanoma down the road.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+So I'm not saying that it is one now but I'm saying that it's of the size that they may be concerned enough to say we should just take it off.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+Okay.  I don't know that for certain but since you have this other thing going on anyways let's start some treatment, let's send you to Derm, see what they say about both issues okay.
+
+PATIENT L275
+Well they'll want to do it at the same time?
+
+DOCTOR L275
+They should do it at the same time.  If they decide they may just take it off then they make you come back for that appointment and they might not take it off the same day but I can't tell you that okay.
+
+SECOND PERSON L275
+@@@on his back.  Oh it's okay, yes, @@@ he was a life guard.
+
+DOCTOR L275
+Oh yeah so you've got a lot of sun exposure.
+
+PATIENT L275
+And @@@.
+
+DOCTOR L275
+Yeah, yeah.
+
+PATIENT L275
+On the beach.
+
+DOCTOR L275
+Okay.  So the final and we're also gonna get that lab test that they wanted you to get the last time you went to Derm and you never ended up getting.
+
+PATIENT L275
+Right.
+
+DOCTOR L275
+So you're gonna stop down in the Lab.
+
+PATIENT L275
+Yes before we get that.
+
+DOCTOR L275
+Okay.  The final thing is, did he tell you about his elevated white count?
+
+SECOND PERSON L275
+Yes, he told me that.
+
+DOCTOR L275
+He did okay.  So this is a little, it's kind of atypical.
+
+SECOND PERSON L275
+So how high was that?
+
+DOCTOR L275
+So it's 16,000 okay so upper limit of normal is usually around 12, 11 or 12,000 so it's not supremely high you know.  It can go much higher so and the differential that we call the differential, the different types of cells within the white blood cell count is all normal.  Or he has higher neutrophils which is kind of usually the one that fights infections which is why I kept asking you all these questions.
+
+PATIENT L275
+Uh-huh.
+
+DOCTOR L275
+So in my head if I stretch far enough we can kind of associate that maybe with increased stress and maybe this rash is causing inflammation but we would sort of want to be overly cautious and check a couple of things just to make sure okay.  So you don't have an infection that's hiding somewhere that we don't know.  So since you said you'd stop back at the Lab anyway, can pee for us, give us a urine sample you think?
+
+PATIENT L275
+I think so.
+
+DOCTOR L275
+Okay.  So we'll just do a urine test to make sure you don't have a urinary tract infection that's not giving us any you know evidence of you know maybe you don't have any symptoms but I don't know if you've ever had a kidney stone or anything, you have.  So kidney stones can cause kind of chronic infections and sometimes they don't give symptoms so you know let's check a urine sample and then the other thing we typically do when we're looking for a kind of kidney infection is a chest x-ray.  Do you have time to stop at the Lab and the X-ray today or not?
+
+SECOND PERSON L275
+Yeah we do.
+
+DOCTOR L275
+Yeah okay.  Well this is what I'm gonna do.  I'm gonna order.
+
+PATIENT L275
+Order the lab.
+
+DOCTOR L275
+Yep.
+
+PATIENT L275
+And do the x-rays.
+
+DOCTOR L275
+And do the x-rays.
+
+PATIENT L275
+And then just pick up medicines.
+
+DOCTOR L275
+And then pick up the medicines.
+
+PATIENT L275
+We can do that.
+
+DOCTOR L275
+Okay.  So okay so I don't think anything else is going on but I think we need to just chat before you leave I mean just in case okay.
+
+PATIENT L275
+Yeah sure.
+
+DOCTOR L275
+And um.
+
+SECOND PERSON L275
+Did he tell you he quit smoking?
+
+DOCTOR L275
+He did, yep that's fantastic.
+
+SECOND PERSON L275
+@@@ together.
+
+DOCTOR L275
+That's fantastic.  I'll give you a standing ovation for that.  Um okay so I know this is kind of a lot of stuff but the final piece of the puzzle is well actually its two final pieces, we're still putting in for the colonoscopy.
+
+PATIENT L275
+Right.
+
+DOCTOR L275
+Okay so I'm going to put that in today, they'll call you, they'll schedule you.  It's not urgent but whenever they call you'll want to schedule it at your convenience okay.  So we'll put that in and then the final thing with this elevated white blood cell count is we're going to start treating you for this rash right, we're going to do the Selsun and everything and so how about in like three weeks you stop back in the Lab and get some blood drawn and we'll check and be sure that it's not going up inexplicably since we’re treating your rash it's coming back down.
+
+PATIENT L275
+Do I need to make an appointment?
+
+DOCTOR L275
+You don't need to make an appointment for that.
+
+PATIENT L275
+Just go in?
+
+DOCTOR L275
+I'll put the order in, whenever it's convenient for you, you just come on down and put it in.  Okay that's a lot of stuff to remember so.
+
+PATIENT L275
+So three week schedule.
+
+SECOND PERSON L275
+No I think its okay.  @@@.
+
+PATIENT L275
+Maybe I can come in like today @@@.
+
+SECOND PERSON L275
+Yeah.
+
+PATIENT L275
+@@@.
+
+SECOND PERSON L275
+@@@.
+
+DOCTOR L275
+Okay.
+
+PATIENT L275
+Yeah okay.  Just write it on the calendar.
+
+SECOND PERSON L275
+Okay.
+
+DOCTOR L275
+The VA likes to be judicious about papers, we're printing on two sides of everything.  Alright let's see, alright I'm having a, what is this.  @@@.  Okay now we know you don't have diabetes, so you don't have to worry about that, I’m just going to use this as a note pad here.  So for your hand we're going to um @@@.
+
+PATIENT L275
+Would exercise kind of help you know, I could even dig out those little balls for stress.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+Start squeezing it and stuff like that.
+
+DOCTOR L275
+And they might and that's one of the things that the Rehab doctors are really good, kind of evaluating where they think this is coming from and what types of exercises or braces or things like that would be helpful so if you want to try, if you have like an exercise ball and you want to try it.
+
+PATIENT L275
+Tennis ball or something like that.
+
+SECOND PERSON L275
+I don't know.  @@@ really don't know the cause either but @@@.  His dad was an insulin-dependent.
+
+DOCTOR L275
+Uh-huh.
+
+SECOND PERSON L275
+Several cervical @@@.
+
+PATIENT L275
+Yeah he died with lots of problems.
+
+DOCTOR L275
+Yeah.  So maybe you know.
+
+PATIENT L275
+@@@.
+
+SECOND PERSON L275
+@@@.
+
+DOCTOR L275
+So if you can stop and get your chest x-ray I can see if they can do all the x-rays all at one time so you can just you know, it shouldn't add any extra time, well like maybe three extra minutes and then this will save you.  So I'll put in the orders here before you leave okay.
+
+SECOND PERSON L275
+Okay.
+
+DOCTOR L275
+Um the rash, we're going to try the Selsun, the lotion.  Okay.  Around like St. Patrick's Day, like the 16th or so okay.
+
+PATIENT L275
+Around the middle of the month.
+
+DOCTOR L275
+So the middle of March, so exactly three weeks is March 16th.  It does not have to be exactly but that is when you need to get your labs.
+
+PATIENT L275
+Give or take a couple days.
+
+DOCTOR L275
+Yeah.  Okay.  So let me put these orders in and then you uh.
+
+SECOND PERSON L275
+In the clinic would you want @@@.
+
+DOCTOR L275
+Yes and it is totally normal.  It's great actually normal.
+
+SECOND PERSON L275
+Okay thank you.
+
+DOCTOR L275
+Total cholesterol is 165 alright and LDL which is the bad cholesterol is 78 and HDL which is the good cholesterol is 67.
+
+SECOND PERSON L275
+Okay.  Okay.  Well my cholesterol is 133.
+
+DOCTOR L275
+Okay.
+
+SECOND PERSON L275
+So I fix liver every month.
+
+DOCTOR L275
+Oh okay.
+
+SECOND PERSON L275
+I need the liver and he likes it, I want to make sure he can still do that.
+
+DOCTOR L275
+Yep you're looking good from that standpoint.  Literally every other lab besides that.
+
+PATIENT L275
+White cell count.
+
+DOCTOR L275
+White cell count is stone cold normal.  So everything else is normal.  So let me just get these orders in so that you guys can leave and have everything ready for you okay so.  Let's get and no fevers or chills, night sweats or anything like that?
+
+PATIENT L275
+Well you mention night sweats, but I might sweat a little bit more if I'm under the comforter when I'm sleeping.
+
+DOCTOR L275
+Like having to change your pajamas and your sheets at night type of night sweats or do you just get a little warm?  Okay.
+
+PATIENT L275
+Well there was a time one of our cats once in a while pees on our bed.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+And we went and got one of those pee pads you put on the mattress.
+
+DOCTOR L275
+Uh-huh.
+
+PATIENT L275
+You know like if a child pees and you know so he doesn't ruin the mattress.
+
+DOCTOR L275
+Yeah.
+
+PATIENT L275
+When that was on I would be sweating really a lot.
+
+SECOND PERSON L275
+We took it off.
+
+PATIENT L275
+It just made me uncomfortable and we took them off and I don't notice any night sweats.
+
+DOCTOR L275
+Okay.  And that was your, left it's your left.
+
+PATIENT L275
+Left.
+
+DOCTOR L275
+Hand and right foot.
+
+PATIENT L275
+Every finger but the pinky.
+
+DOCTOR L275
+Okay.  So.
+
+SECOND PERSON L275
+Doesn’t the pharmacy close at 5:00?
+
+DOCTOR L275
+Um I actually don't think so.  I think the Pharmacy is open for a while.
+
+SECOND PERSON L275
+Okay, okay.
+
+DOCTOR L275
+Um.
+
+PATIENT L275
+Well I could go to the Pharmacy and you could go and give the blood.
+
+SECOND PERSON L275
+I'm not gonna give blood.  I'll get my own.
+
+DOCTOR L275
+Okay pick those up at the window, got that ordered, okay.  Alright so I probably won't get the chest x-ray back today.
+
+SECOND PERSON L275
+Okay.
+
+DOCTOR L275
+It's really not that big of a deal.  If you develop fevers or you know significant signs that make you think you have an infection you know give a call and let us know okay.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+In the meantime if there's anything on the chest x-ray that's concerning I'll call you.  It'll probably be Monday okay by the time I get it back.
+
+SECOND PERSON L275
+He was coughing real bad when he was smoking, but it went away.
+
+DOCTOR L275
+Okay good, good.  So and then I put in for this repeat.  I know this is going to sound strange and they should do this in advance but I'm just going to tell you to make sure, I put in this lab test for three weeks from now.
+
+SECOND PERSON L275
+Uh-huh.
+
+DOCTOR L275
+I don't want them to draw that one okay.  They're just going to get the RPR which is the other lab test that the dermatologist wanted okay.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+So it's written for not to do it for three weeks but sometimes they just look and see so if you remember just say we don't want the CBC which is the blood count.
+
+SECOND PERSON L275
+Okay.
+
+DOCTOR L275
+We just the RPR.  But they should know that but just so you know have it in your head too.
+
+PATIENT L275
+RPR @@@.
+
+DOCTOR L275
+So okay.  I think that that's everything.  I still have to put in the nerve conduction study but you guys don't have to have that before you leave.  So does that all make sense to you and everything?
+
+PATIENT L275
+Uh-huh.
+
+DOCTOR L275
+Cause that's kind of a lot of stuff for one day and then why don't you come back and see me and medically speaking, if all of this kind of gets tidied up with all these other things happening.  If you don't need to see me again for I mean another six months do you want me to put in for three months and then when they call you to set up an appointment you can either say I don't need it.
+
+PATIENT L275
+Alright sure.
+
+DOCTOR L275
+@@@.
+
+SECOND PERSON L275
+@@@.
+
+DOCTOR L275
+In the three months… feel free to cancel or to not schedule if everything is going fine okay.
+
+PATIENT L275
+Uh-huh.  But if we cancel wait.
+
+DOCTOR L275
+It's six months so.
+
+PATIENT L275
+Six months and then just call up and say I'd like to make an appointment.
+
+DOCTOR L275
+And see me you know in like August or something like that.
+
+PATIENT L275
+Okay.
+
+DOCTOR L275
+Did you guys get one of my cards last time, I can't remember if I had them.
+
+SECOND PERSON L275
+I don't think so no.
+
+DOCTOR L275
+So three months to see me.  Alright.  Probably seems like a lot when you just came in for not that much stuff but we'll get you tidied up okay.
+
+SECOND PERSON L275
+@@@ colonoscopy.
+
+DOCTOR L275
+Yeah.
+
+SECOND PERSON L275
+@@@.
+
+DOCTOR L275
+Alright I think I already wrote it down.  I just wanted to make sure @@@.
+
+PATIENT L275
+@@@.
+
+DOCTOR L275
+They do.  Most people, you know what, have you ever; do ever read Dave Berry, have you ever heard of Dave Berry?
+
+PATIENT L275
+No.
+
+DOCTOR L275
+He's a @@@ columnist and he writes for the Miami Herald okay.  Uh and he is very funny um but he wrote about a colonoscopy because his best friend was his GI doctor who does the colonoscopies and he made him have a colonoscopy when he turned 50 and so he wrote about his experience having a colonoscopy and it's a very funny article you should Google Dave Berry colonoscopy.
+
+SECOND PERSON L275
+@@@ what was that, well what I need to do, I was the colon cancer screening nurse.
+
+DOCTOR L275
+Oh of course.
+
+SECOND PERSON L275
+@@@.
+
+DOCTOR L275
+Okay so you know, you know all of this so.
+
+SECOND PERSON L275
+I know colonoscopies for dummies.
+
+DOCTOR L275
+Colonoscopies for Dummies.  Dave Berry is hilarious because when he writes anything he thinks of funny band names so like he describes like his colon cleansing process @@@ he comes up with some funny bands names and he has a whole extensive description of the prep.
+
+SECOND PERSON L275
+Uh-huh.
+
+DOCTOR L275
+And then he's like @@@ you know like he's so worried about the colonoscopy itself and then he's like I don't remember any of it.
+
+SECOND PERSON L275
+The prep is worse than the procedure.
+
+DOCTOR L275
+The prep is what people don't like.
+
+SECOND PERSON L275
+Right.  @@@.
+
+DOCTOR L275
+Anyway, here you go okay so.
+
+PATIENT L275
+Take care.
+
+DOCTOR L275
+So you got to check out.
+
+PATIENT L275
+Oh okay.  Thank you doctor.
+
+DOCTOR L275
+You are very welcome.  Have a good day.  Take care alright.  So you can go right out front here and just check out where you checked in okay.
+
+PATIENT L275
+Alright thanks.
+
+DOCTOR L275
+Alright take care, no problem.  I'll call you if its.
+
+SECOND PERSON L275
+If there is anything @@@.
+
+PATIENT L275
+Yeah.
+
+DOCTOR L275
+But I'll call you Monday if not, don't worry about it.
+
+SECOND PERSON L275
+Okay, okay.
+
+DOCTOR L275
+Alright.
+
+PATIENT LEAVES:  119:20
+
+Time is 4:55
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255105
+TRANSACTION # 578-10-2-316-0103

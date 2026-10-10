@@ -1,0 +1,312 @@
+Date of Encounter:    @@/@@/@@
+Time of Encounter:    @@@
+
+DOCTOR Q262
+PATIENT?
+
+PATIENT Q262
+Hi.  
+
+DOCTOR Q262
+Good to see you.  
+
+PATIENT Q262
+Good to see you doctor.
+
+DOCTOR Q262
+Come on in.  Okay.  So how are things?
+
+PATIENT Q262
+Uh pretty good.  
+
+DOCTOR Q262
+Uh-huh.
+
+PATIENT Q262
+I think so yeah.
+
+DOCTOR Q262
+Good.  @@@.
+
+PATIENT Q262
+Uh-huh.
+
+DOCTOR Q262
+Following the holidays @@@ at good thing.
+
+PATIENT Q262
+Oh yeah.
+
+DOCTOR Q262
+Are you feeling better?
+
+PATIENT Q262
+Yeah.
+
+DOCTOR Q262
+Okay, um uh I  have a few things I want to talk about.
+
+PATIENT Q262
+Yeah.
+
+DOCTOR Q262
+Um your blood pressure today is great.
+
+PATIENT Q262
+Yes it is.
+
+DOCTOR Q262
+Yeah.  @@@.
+
+PATIENT Q262
+Uh-huh.
+
+DOCTOR Q262
+@@@ any more and you’re taking your medications.  So great job with that.
+
+PATIENT Q262
+Whoever gave me that last, I don't know if it was you.
+
+DOCTOR Q262
+I think it was me.
+
+PATIENT Q262
+They gave me the last pill cause I was taking @@@.
+
+DOCTOR Q262
+You're taking two times a day right?
+
+PATIENT Q262
+Right and ever since I got that last one it's been great. @@@ Looks like we finally got you know where it should be.
+
+DOCTOR Q262
+Well that's good to hear.
+
+PATIENT Q262
+Uh-huh.
+
+DOCTOR Q262
+Um and then uh, let's see your cholesterol is also.  You don't have diabetes do you?
+
+PATIENT Q262
+No, not to my knowledge.
+
+DOCTOR Q262
+Not to your knowledge.  So um your pulse is doing well.
+
+PATIENT Q262
+Well good.
+
+DOCTOR Q262
+Yeah we're not going to @@@.  No history of heart attack or stroke or anything like that?
+
+PATIENT Q262
+No.
+
+DOCTOR Q262
+Okay. Um and you don't smoke anymore?
+
+PATIENT Q262
+Uh I got to be honest with you.
+
+DOCTOR Q262
+Okay.  You do smoke.
+
+PATIENT Q262
+I do smoke yes.
+
+DOCTOR Q262
+Alright.  You know the more times people try, the more likely it is that the next time they’ll be able to quit.
+
+PATIENT Q262
+Okay.
+
+DOCTOR Q262
+So um, it's very important to keep on trying to quit okay.
+
+PATIENT Q262
+Oh absolutely.
+
+DOCTOR Q262
+And whenever you want to we can refer you to the Smoking Cessation Clinic.  They can help you @@@.
+
+PATIENT Q262
+Okay.
+
+DOCTOR Q262
+Any other drugs?
+
+PATIENT Q262
+No, oh no.
+
+DOCTOR Q262
+So no cocaine or anything like that?
+
+PATIENT Q262
+No.
+
+DOCTOR Q262
+You told me that right.
+
+PATIENT Q262
+Right.  That would be wrong.
+
+DOCTOR Q262
+Um alright.  Uh so not a lot to do today uh; let's see, since you’re doing better.  @@@ currently on. Let me just go talk to, I need to go talk to DOCTOR.
+
+PATIENT Q262
+Is DOCTOR?
+
+DOCTOR Q262
+She is on vacation.
+
+PATIENT Q262
+@@@.
+
+DOCTOR Q262
+You're the only one I have.
+
+PATIENT Q262
+I'm glad she's taking a vacation.  I think she is the best doctor.  I love her.  Yeah she's.
+
+DOCTOR Q262
+I hear that frequently.
+
+PATIENT Q262
+She's a thorough doctor, I love her.  She does a great job.
+
+DOCTOR Q262
+I hear that so often.
+
+PATIENT Q262
+I'm so glad to have her as my primary physician.
+
+DOCTOR Q262
+Glad to hear that.  So okay I'll to her and I'll be back.
+
+PATIENT Q262
+Alright.
+
+(DOCTOR OUT:  6:37 DOCTOR IN: 10:18)
+
+DOCTOR Q262
+Okay.  So uh a couple things uh.
+
+PATIENT Q262
+Hmm.
+
+DOCTOR Q262
+So @@@ um you really can't believe some @@@.
+
+PATIENT Q262
+Oh I know.
+
+DOCTOR Q262
+Yeah.  Are you interested in going to our MOVE Program?
+
+PATIENT Q262
+Tell me what that is.
+
+DOCTOR Q262
+You don't know what it is, okay.  So it's like a weight loss program.  Where they help @@@ they'll give you membership to our gym and uh try to get you, give you a chart on losing weight.
+
+PATIENT Q262
+@@@ do that.
+
+DOCTOR Q262
+Okay.  Okay we can actually have you see her today.
+
+PATIENT Q262
+Okay.
+
+DOCTOR Q262
+That’s pretty much it. And uh everything else is doing well.  I saw that tomorrow's your birthday.
+
+PATIENT Q262
+Yes it is.
+
+DOCTOR Q262
+Happy birthday.
+
+PATIENT Q262
+Thank you.
+
+DOCTOR Q262
+And uh regard, we also have like a score that we have to give you today um.
+
+PATIENT Q262
+Score is for?
+
+DOCTOR Q262
+It’s basically how you’re doing.  @@@
+
+PATIENT Q262
+Oh okay.
+
+DOCTOR Q262
+Would you describe yourself as superior functioning @@@ get out of hand or would you describe yourself as absent or minimal symptoms, mild anxiety, for an exam, @@@ functioning in all areas @@@ interested and involved in a wide range of activities?
+
+PATIENT Q262
+There.
+
+DOCTOR Q262
+There you go.  @@@ expectable reactions @@@.  No more @@@.
+
+PATIENT Q262
+Go back.
+
+DOCTOR Q262
+Sounds good.  What's your pain score look like?
+
+PATIENT Q262
+Uh about a 3.  Yeah. @@@ used to be bad @@@.
+
+DOCTOR Q262
+Yeah it used to be bad huh.
+
+PATIENT Q262
+Yeah.
+
+DOCTOR Q262
+Yeah, yeah I remember that.  Uh okay.  Let me go talk to MOVE Program and get you set up for that okay.
+
+PATIENT Q262
+Okay @@@.
+
+DOCTOR Q262
+Uh-huh.  Why don't you come on with me?
+
+PATIENT Q262
+Okay.
+
+DOCTOR Q262
+Okay.
+
+(Doctor takes patient to talk with the MOVE Program people)
+
+DOCTOR Q262
+Okay.
+
+PATIENT Q262
+Thank you.
+
+DOCTOR Q262
+Take care.
+
+PATIENT Q262
+Thank you.
+
+DOCTOR Q262
+Okay have a Happy birthday.
+
+PATIENT Q262
+Take care now, thank you.  Appreciate it, take care.
+
+Doctor leaves and patient talks with MOVE Program.
+
+It's noon.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255162
+TRANSACTION # 578-10-2-316-0103

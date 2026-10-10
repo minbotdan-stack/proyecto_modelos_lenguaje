@@ -1,0 +1,1220 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@ 
+
+DOCTOR Y471
+PATIENT?
+
+PATIENT Y471
+Oh.
+
+DOCTOR Y471
+@@@.
+
+PATIENT Y471
+Yes it is thank you.  @@@.
+
+DOCTOR Y471
+I'm DOCTOR, nice to meet you.
+
+PATIENT Y471
+Nice to meet you.
+
+DOCTOR Y471
+If you want to take your coat off here, okay.  
+
+PATIENT Y471
+Keep the hospital warm here huh.
+
+DOCTOR Y471
+@@@.
+
+PATIENT Y471
+It's warm in here @@@.
+
+DOCTOR Y471
+Oh @@@.
+
+PATIENT Y471
+It’s like 99 degrees @@@ warm.
+
+DOCTOR Y471
+Yeah, yes.
+
+PATIENT Y471
+I think it will make my blood pressure to go up too.
+
+DOCTOR Y471
+You see DOCTOR.  Oh what can I do for you today?
+
+PATIENT Y471
+I have an issue for @@@ have uh osteoarthritis.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+In my left spine.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+And for about a week and a half since, it’s been almost two weeks @@@ I have pain right here in my back that radiates to my thigh.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+And my thigh throbs and hurts real bad.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+And I've been through an ultrasound and everything to make sure it wasn't a clot uh.
+
+DOCTOR Y471
+Yeah.
+
+PATIENT Y471
+Months and months ago.  I just wondered if you had any idea for that part of my, you know, it's the lower back is where the problem is so.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+You know.
+
+DOCTOR Y471
+Is it more on the right side or the left side?
+
+PATIENT Y471
+Right side.
+
+DOCTOR Y471
+And you said the problem was pain.
+
+PATIENT Y471
+It’s like an annoying burning or something like that.
+
+DOCTOR Y471
+@@@ okay.  
+
+PATIENT Y471
+So.
+
+DOCTOR Y471
+Is that something new or have you had @@@?
+
+PATIENT Y471
+It happened before, it happened about six months ago but.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+And especially lately.  I mean I go to a civilian doctor too and I'm service connected from here, obviously,  He got me on blood pressure pills and he got me an mesprisol.  I have a duodenal ulcer and I have a hiatal hernia.  They had me on estrozol and I put 15 pounds on in a month.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+Easily in a month, month and a half.  I know I gained weight since I got out of the navy. But I don’t know if it’s causing so much of my back problem.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+@@@.
+
+DOCTOR Y471
+Does it make it difficult to walk at all?
+ 
+PATIENT Y471
+Uh it's more of just an annoying pain you know.
+
+DOCTOR Y471
+Do you get it every day?
+
+PATIENT Y471
+Uh almost every day yeah.  It comes and goes.
+
+DOCTOR Y471
+What makes it worse?
+
+PATIENT Y471
+Standing, walking.
+
+DOCTOR Y471
+Uh-huh and what makes it better?
+
+PATIENT Y471
+Laying down, relaxing you know.
+
+DOCTOR Y471
+Do you take anything for the pain?
+
+PATIENT Y471
+I was taking Naproxen.  I had a doctor that gave me some pills and.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+I didn't really took them because the pain went away.  I'm taking 500 mg of Naproxen.
+
+DOCTOR Y471
+Does it help at all?
+
+PATIENT Y471
+A little bit not much.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+But uh I do, I work in an industrial environment.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+He gave me Flexeril and.
+
+DOCTOR Y471
+Did that help?
+
+PATIENT Y471
+I didn’t take it.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+In my environment I couldn't take it so.
+
+DOCTOR Y471
+Alright @@@.
+
+PATIENT Y471
+And I'm not going to take it unless I have pain, you know.
+
+DOCTOR Y471
+Exactly, okay.  Um any problems going to the bathroom, either constipated or you go and can't make it to the bathroom on time?
+
+PATIENT Y471
+No, no.  Like I said I have @@@ to go, I get a lot of gas and.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+Sort of right groin pain.
+
+DOCTOR Y471
+Okay.  Right groin pain.
+
+PATIENT Y471
+A little bit, not heavy, it's mostly active when I have the pain here.
+ 
+DOCTOR Y471
+Okay.  Um and any difficulty urinating?
+
+PATIENT Y471
+No.
+
+DOCTOR Y471
+Okay or any incontinence at all?  Any numbness from your like around your anal area at all?
+
+PATIENT Y471
+No, no.
+
+DOCTOR Y471
+Okay.  And um and nothing in your left leg?
+
+PATIENT Y471
+No not that I know.
+
+DOCTOR Y471
+Uh-huh, okay um I need to see you bend the left.  @@@.
+
+PATIENT Y471
+Are you gonna graduate in December?
+
+DOCTOR Y471
+November 09.
+
+PATIENT Y471
+November.
+
+DOCTOR Y471
+09, yeah, almost December.
+
+PATIENT Y471
+I also have another issue.
+
+DOCTOR Y471
+Yeah.
+
+PATIENT Y471
+@@@ one at a time.   I have a mole on my neck I want to get removed.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+It really bothers me.  I keep picking it @@@.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+And it hurts.
+
+DOCTOR Y471
+Okay, okay.  Has it changed in size?
+
+PATIENT Y471
+Yes it has.  It's gotten a lot larger I'd like for you to look at it.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+And I have a bunch of little ones around it now too, sort of weird.
+
+DOCTOR Y471
+And your civilian doctor you said, have they checked for your glucose levels?
+
+PATIENT Y471
+They've done a lot of testing.  I have quite.  I'm on Novena and cholesterol meds as well cause I have high cholesterol.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+Um.
+
+DOCTOR Y471
+How about diabetes?
+
+PATIENT Y471
+They said I was good, I think it was 84 or something like that.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+That was almost uh eight months, nine months ago though, the last time I checked.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+So.
+
+DOCTOR Y471
+Okay, um.  Let me see.  Do you have a list of your medications that you're taking?
+
+PATIENT Y471
+Yes.
+
+DOCTOR Y471
+Let me see what you have on this compared to what we have here.
+
+PATIENT Y471
+I haven't been here in a while.
+
+DOCTOR Y471
+Come over here.  Can I see your list of medications?
+
+PATIENT Y471
+Uh I don't have a list but I can say what my meds are okay.
+
+DOCTOR Y471
+Oh you don't have the list, that's okay.
+
+PATIENT Y471
+I'm on uh 50 mg of Atnol @@@ every day.
+
+DOCTOR Y471
+Atenolol okay.  Is that for depression?
+
+PATIENT Y471
+Yes.  Yes uh-huh and it's usually it works great, but I haven't taken my pill today so.
+
+DOCTOR Y471
+Oh okay.
+
+PATIENT Y471
+Probably why my blood pressure is a little high.
+
+DOCTOR Y471
+Okay.  It will be.
+
+PATIENT Y471
+Um I'm also on Levana which is fish oil, @@@.
+
+DOCTOR Y471
+How much?
+
+PATIENT Y471
+It's 4 mg a day.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+Oh I'm sorry 4 grams a day, 4 grams.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+Milligrams a day, pretty low, 4 grams.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+And I'm on Nexium 40 mg of Nexium.  I think that I, I don't know I'm putting weight on like crazy and I mean my diet is not the greatest and I don't have a lot of exercise but I mean just to put.  I work at another part-time company and I work full-time during the week and I got two kids and you know so I'm moving around a lot.  It's not like I'm just sitting there you know.
+
+DOCTOR Y471
+Right.
+
+PATIENT Y471
+And it's like as soon as I started some of these pills, I just ballooned.  I feel bloated and you know.
+
+DOCTOR Y471
+Well let me examine you.  If you mind taking off your shoes and socks and then taking a seat right here okay.
+
+PATIENT Y471
+You asked about diabetes.
+
+DOCTOR Y471
+Yes.
+
+PATIENT Y471
+Obviously a drop in sugar would be typical for diabetes right.
+
+DOCTOR Y471
+Um drop in sugar could, I mean you mean with dizziness?
+
+PATIENT Y471
+Once in a while, like just now before I was here, now my temperature’s up too I'm sweating here but um.  I have this thing where I feel sort of like I have pain in my stomach like a real hunger pain, hunger pain.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+And I'll start sweating and I'll start feeling shaky.
+
+DOCTOR Y471
+Oh okay.
+
+PATIENT Y471
+Like I thought that might be due.
+
+DOCTOR Y471
+Yeah it could be if you don't have enough insulin.
+
+PATIENT Y471
+Right.
+
+DOCTOR Y471
+To settle the sugar into the cells then your cells think that there isn't any sugar around and it could have that type of affect on you and sometimes people who have.
+
+PATIENT Y471
+You want my socks off too?
+
+DOCTOR Y471
+Yes I do.
+
+PATIENT Y471
+Uh you might not.
+
+DOCTOR Y471
+Please, you can only imagine what I smell @@@.
+
+PATIENT Y471
+I can't stand the smell.
+
+DOCTOR Y471
+@@@ a problem.  So uh sometimes insulin insensitivity can manifest by skin tags on the neck.
+
+PATIENT Y471
+I have a lot of them.
+
+DOCTOR Y471
+Yeah they why I asked if they checked your sugars.
+
+PATIENT Y471
+@@@ good.  I mean I was fasting.
+
+DOCTOR Y471
+When was that?
+
+PATIENT Y471
+My God it's been a while, I think seven or eight months.
+
+DOCTOR Y471
+Okay.  Here have a seat.
+
+PATIENT Y471
+Want shirt off?
+
+DOCTOR Y471
+Um no let me just @@@.  Let me start with @@@.  @@@ eyes @@@.  The @@@ tight.  Open and raise your eyebrows, @@@.  Good. Show me your teeth.  Lifting your arms, turn your palms up, @@@ good.  And the right knee lift it towards the ceiling @@@.  @@@.  Okay.  Push me away, good, kick me away, good.  How about turn your toes up @@@.  Good.  Alright @@@.  That has to do with reflexes.
+
+PATIENT Y471
+I had just gotten it too, recently.  @@@ where I get like a shakiness I have.  
+
+DOCTOR Y471
+Yeah.  And when was the last time you ate?
+
+PATIENT Y471
+Uh 11 o'clock and then I got one of those rasin bags or whatever the.
+
+DOCTOR Y471
+Right.  @@@.  Hold your arms like this and on the count of three I want you to pull, one, two, three pull, good.  Okay one, two, three pull good and let your foot drop.  I'm going to pick it up so I can help you.
+
+PATIENT Y471
+Let it drop.
+
+DOCTOR Y471
+Just let it drop in my hand.
+
+PATIENT Y471
+Right.
+
+DOCTOR Y471
+Good, @@@.  Deep breath, good and another one, good.  @@@.
+
+PATIENT Y471
+Uh-huh.
+
+DOCTOR Y471
+Do you feel this vibrate?
+
+PATIENT Y471
+Yes.
+
+DOCTOR Y471
+How about this?
+
+PATIENT Y471
+Yes.
+
+DOCTOR Y471
+How about this?
+
+PATIENT Y471
+Yes.
+
+DOCTOR Y471
+Good.  I'm going to lift your toe up and down, this is up, this is down, I want you to @@@.
+
+PATIENT Y471
+Up, up, down, up, down.
+
+DOCTOR Y471
+Okay, so.  Go ahead and lie back please. And just let me @@@ further down.  Anything when I press?  @@@?
+
+PATIENT Y471
+Where do I usually get the pain?
+
+DOCTOR Y471
+Yes.
+
+PATIENT Y471
+Right here.
+
+DOCTOR Y471
+Is there pain here when I press?
+
+PATIENT Y471
+Yes.  A little farther down?
+
+DOCTOR Y471
+Here?
+
+PATIENT Y471
+Right about here.
+
+DOCTOR Y471
+Right about there good.  @@@.
+
+PATIENT Y471
+@@@.
+
+DOCTOR Y471
+Have you had any @@@ there?
+
+PATIENT Y471
+Uh not that I know of know of.
+
+DOCTOR Y471
+Okay @@@. Alrighty.
+
+PATIENT Y471
+@@@.  I actually went to a masseuse last week because of the pain.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+And when she would push on my low back it really hurt.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+But eventually it started feeling better.
+
+DOCTOR Y471
+Yeah, sit up uh-huh that's good.  @@@.  Tell me if it hurts when I press on your bone.
+
+PATIENT Y471
+Right there.
+
+DOCTOR Y471
+There.
+
+PATIENT Y471
+@@@.
+
+DOCTOR Y471
+Yeah.
+
+PATIENT Y471
+Right about there, I do feel a bunch of pins going up my spine.
+
+DOCTOR Y471
+@@@.  Right here?
+
+PATIENT Y471
+Uh-huh and when I was little @@@.  I've had this one since I was born.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+This one just showed up not like, maybe within a year and a half.
+
+DOCTOR Y471
+@@@.
+
+PATIENT Y471
+@@@.
+
+DOCTOR Y471
+Okay, have a seat.
+
+PATIENT Y471
+You said diabetes can cause that?
+
+DOCTOR Y471
+It could, not always.
+
+PATIENT Y471
+Can I put my socks back on again?
+
+DOCTOR Y471
+So, regarding your hip and your legs.  The reason why I say hip is because groin pain a lot of times is because of a hip problem um.  When people have pain in their hip it radiates to their groin.  Now the side pain I think.
+
+PATIENT Y471
+Sciatica?
+
+DOCTOR Y471
+No, it's not sciatica.  I don't think it's sciatica at least but um it could be that you have a little bit of a disk herniation.  Cause you're telling me you have burning in that area.  Does it sometimes feel like pins and needles at all?
+
+PATIENT Y471
+No, burning @@@.  It sometimes feels like its throbbing @@@.
+
+DOCTOR Y471
+Right.
+
+PATIENT Y471
+So.
+
+DOCTOR Y471
+And so that makes me think its neuropathic pain like sometimes when the disk bulges and hits @@@ spinal cord a little bit.  So and for that type of pain there's something called gabapentin which is for burning.
+
+PATIENT Y471
+Uh-huh.
+
+DOCTOR Y471
+Nerve pain.
+
+PATIENT Y471
+I’ll let you know that now that you’re saying nerves.  I've had tests on my hands.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+They say the nerves in my thumb are shot.
+
+DOCTOR Y471
+Oh, where they put the needle in there and.
+
+PATIENT Y471
+They put an electric shock on my hand.
+
+DOCTOR Y471
+Right, right.
+
+PATIENT Y471
+And they said the results were - I had the carpal tunnel the VA took care of.
+
+DOCTOR Y471
+Right.
+
+PATIENT Y471
+But uh doctor out there tried to put me on uh Cymbalta.
+
+DOCTOR Y471
+Yeah.
+
+PATIENT Y471
+For nerve pain.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+I never took it.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+@@@ but.
+
+DOCTOR Y471
+So the gabapentin, I know you said you worked with machines.
+
+PATIENT Y471
+I work with machines.
+
+DOCTOR Y471
+Gabapentin can make you sleepy but that's if you start taking it the 300 mg three times a day.  What I would recommend is the following.  I want to get uh an x-ray of your hip.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+And make sure there nothing wrong like a fracture and then you have those spine films which look fine but because you are getting this neuropathic pain.  I think an MRI would be a good idea.  Are you claustrophobic?
+
+PATIENT Y471
+No.
+
+DOCTOR Y471
+Okay.  So um, have you had an MRI before?
+
+PATIENT Y471
+Naw.
+
+DOCTOR Y471
+Okay so you’re in a tube.
+
+PATIENT Y471
+Yeah.
+
+DOCTOR Y471
+@@@.
+
+PATIENT Y471
+My wife has them because she had a brain tumor, 11 years ago, 12 years ago.
+
+DOCTOR Y471
+Okay, okay.
+
+PATIENT Y471
+She gets them all the time.
+
+DOCTOR Y471
+Okay, alright.  So we'll see if you have a hard time, if you get claustrophobic or not.
+
+PATIENT Y471
+(Laughter)
+
+DOCTOR Y471
+Um, just to see if the disk is kind of radiating coming out and um, @@@ test I want to do and in the meantime for this pain because of the discomfort that you're having I want to start the gabapentin and that is a dose that can be titrated up to 1000 mg three times a day.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+I'm gonna start you on a lower dose though because it can really knock you out if you take it.
+
+PATIENT Y471
+Is this an anti-inflammatory or?
+
+DOCTOR Y471
+No it's not.  It is specifically for this burning, throbbing pain.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+But I want you to start taking 300 mg at night.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+And then.
+
+PATIENT Y471
+For the neuropathic pain.
+
+DOCTOR Y471
+@@@ at night and then you build tolerance to it and then you take it twice a day, once at night for a week then twice a day
+for a week and then three times a day.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+If you notice at any time that one of those doses makes you too sleepy then go back to the lower dose two times a day or one time a day.
+
+PATIENT Y471
+I can mix with the meds I do now?
+
+DOCTOR Y471
+Yeah, definitely yes.
+
+PATIENT Y471
+@@@ I mean like I said it got real bad.  Well I had two scopes.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+And this Nexium, I first had uh what's that stuff called, @@@ no, no it's the other.
+
+DOCTOR Y471
+Prilosec.
+
+PATIENT Y471
+Nope, nope, it’s not a @@@ something else.
+
+DOCTOR Y471
+Lansoprazole.
+
+PATIENT Y471
+Yes.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+I had that and I started getting, I had my statin at the time for my cholesterol.
+
+DOCTOR Y471
+Oh no.
+
+PATIENT Y471
+Oh yeah I took it and oh God.
+
+DOCTOR Y471
+Oh no.
+
+PATIENT Y471
+And so I started and then I lost some weight then I was looking at doing herbal stuff and it was working for a while and I DOCTOR approved that fish oil.
+
+DOCTOR Y471
+I'm glad you brought that up so the weight issue.
+
+PATIENT Y471
+Yeah.
+
+DOCTOR Y471
+And with any time of uh like muscular pain.  Especially if you have some disk herniation, the weight loss.
+
+PATIENT Y471
+Weight loss right.
+
+DOCTOR Y471
+The @@@.
+
+PATIENT Y471
+Oh how do you, deal with anestrozole makes you gain weight.
+
+DOCTOR Y471
+Right.
+
+PATIENT Y471
+I know doctors say some of that is not true.
+
+DOCTOR Y471
+Right.
+
+PATIENT Y471
+But everybody that I've talked to says it’s true.
+
+DOCTOR Y471
+@@@.
+
+PATIENT Y471
+30 or 40 pounds of weight gain within a short time.
+
+DOCTOR Y471
+Yeah.  Um, that's why @@@.  Well in terms of specifics, especially because you have @@@ ulcers, @@@ is important.
+
+PATIENT Y471
+Yes.
+
+DOCTOR Y471
+Um and so I know you say you've been trying to eat healthy and you move a lot at work.
+
+PATIENT Y471
+Definitely right.
+
+DOCTOR Y471
+And you have consistent activity.
+
+PATIENT Y471
+Right.
+
+DOCTOR Y471
+You know instead of short bursts.
+
+PATIENT Y471
+Right short bursts and whatever right.
+
+DOCTOR Y471
+What we usually look for is consistent activity to keep your heart rate elevated for a half an hour and so you probably work long hours as well but if there's any way that you can fit in some type of physical activity.
+
+PATIENT Y471
+@@@.
+
+DOCTOR Y471
+At least three times a week and then really cut out having the Raisinettes when you come.
+
+PATIENT Y471
+It wasn’t Raisinettes, it was like a trail mix.
+
+DOCTOR Y471
+Okay, okay.
+
+PATIENT Y471
+The raisins, bananas, peanuts @@@.
+
+DOCTOR Y471
+Okay, okay, that's not too bad.
+
+PATIENT Y471
+Sunflowers and.
+
+DOCTOR Y471
+@@@  But you know eating healthy so um and I'm not saying completely take you out @@@ diet because then people won't do it but if you know fried foods, if you have that multiple times a day or multiple times a week just limit it to once a week.  If you have fast food every day, @@@.  You know @@@.
+
+PATIENT Y471
+I'm trying to lose some weight though.
+
+DOCTOR Y471
+Okay, just start and then cut out @@@.
+
+PATIENT Y471
+@@@.
+
+DOCTOR Y471
+So stuff like that will help and then hopefully with the losing weight and then the last thing I can give @@@ offer you physical therapy.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+And so they can you know show you strengthening exercises specifically you know after you get the MRI done uh, what we can do is wait to see what the MRI results are and if there are some abnormalities then Physical Therapy can work with you.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+Can the MRI be on a Saturday?
+
+DOCTOR Y471
+I don't know.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+@@@ okay.
+
+PATIENT Y471
+Alright.  Also I have these fatty tumors down my back.
+
+DOCTOR Y471
+Yeah.
+
+PATIENT Y471
+The first one I found @@@ like three years ago.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+I've been finding more, quite a few more.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+There were only certain ones that hurt.
+
+DOCTOR Y471
+Yeah.
+
+PATIENT Y471
+I @@@ sort of spiky whatever.
+
+DOCTOR Y471
+Hmm.
+
+PATIENT Y471
+But they will cause some pain.
+
+DOCTOR Y471
+Uh-huh.
+
+PATIENT Y471
+But they’re uh.
+
+DOCTOR Y471
+Well if it's more we can refer you to the dermatologist and you can talk to them also about that.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+Cause they would be @@@ as well.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+I need to @@@ and I'll be right back.
+
+PATIENT Y471
+Alright.
+
+DOCTOR Y471
+Alright.
+
+PATIENT Y471
+You look awfully young for a doctor.  Are you a PA or you actually a doctor?
+
+DOCTOR Y471
+No I'm a doctor.
+
+PATIENT Y471
+You are?  You look really young.
+
+DOCTOR Y471
+Yeah.  @@@.
+
+(DOCTOR OUT:  66:40  DOCTOR IN:  77:31)
+
+DOCTOR Y471
+Alright sir.  Sorry about that. @@@
+
+PATIENT Y471
+November.
+
+DOCTOR Y471
+@@@ thoracic spine.  @@@ and we want to go look at the lumbar spine, that @@@ majority of more pain comes from.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+So, I'm gonna order that first, do an x-ray of your lumbar spine and hip.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+Based on that, then we'll decide whether or not the MRI is necessary.  
+
+PATIENT Y471
+Yeah.
+
+DOCTOR Y471
+If we can see enough from there then.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+@@@.  MRI um.  Do you want me to mail the medications to you or?
+
+PATIENT Y471
+Sure, yeah @@@.
+
+DOCTOR Y471
+So I'd be happy to mail them to you.  So the gabapentin I will order for you.  300 mg three times a day is what you'll take.
+
+PATIENT Y471
+@@@.
+
+DOCTOR Y471
+You're gonna take one pill of 300 mg for @@@.  I just want you to start with taking one pill at night for a week and then twice a day for a week and then up to three times a day.
+
+PATIENT Y471
+Are these pain pills?
+
+DOCTOR Y471
+@@@.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+That should help with that type of pain.  Um.
+
+PATIENT Y471
+Is this like something that my body gotta build up to?  Is this going to cause dizziness or anything @@@?
+
+DOCTOR Y471
+No, it can cause sleepiness which is why I want you to start taking it at night so that your body can get used to it.
+
+PATIENT Y471
+Uh-huh.
+
+DOCTOR Y471
+And usually people find that they respond @@@ with it but @@@.
+
+PATIENT Y471
+Okay @@@.
+
+DOCTOR Y471
+Oh I know, there you go.
+
+PATIENT Y471
+Can we get @@@ blood work today.  @@@ It's been a while.
+
+DOCTOR Y471
+Sure, which one did you want?
+
+PATIENT Y471
+Uh, check the cholesterol, and check the blood sugar @@@.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+Blood sugar for sure, check for diabetes. My dad is 60 and he’s borderline. He’s on all kinds of pills now. He used to be a heavy drinker.
+
+DOCTOR Y471
+But you don't drink?
+
+PATIENT Y471
+I do drink, but not heavily.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+@@@.  I work full-time for a large @@@ manufacturer and I work part-time @@@ media.
+
+DOCTOR Y471
+Oh yeah.  @@@.
+
+PATIENT Y471
+@@@.
+
+DOCTOR Y471
+Oh wow.
+
+PATIENT Y471
+It’s fun, yeah.
+
+
+DOCTOR Y471
+@@@.
+
+PATIENT Y471
+Yeah.
+
+DOCTOR Y471
+So we might as well get a Dermatology right now and uh.
+
+PATIENT Y471
+What are other reasons all these skin tags would start?  I've noticed it for about a year or so.
+
+DOCTOR Y471
+So that I don't know.  @@@.
+
+PATIENT Y471
+Do they have the MRIs on Saturday?
+
+DOCTOR Y471
+@@@.  I don't know.
+
+PATIENT Y471
+@@@.
+
+DOCTOR Y471
+@@@ at the front desk and they'll let you know.  Let's see @@@.  Alright.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+And they you can call back to get the results of your blood tests at any time.  After you get them drawn @@@.
+
+PATIENT Y471
+Right.  @@@.  Um and the pills?
+
+DOCTOR Y471
+Maybe by Wednesday.
+
+PATIENT Y471
+Yeah.
+
+DOCTOR Y471
+But no later than that.  Okay.
+
+PATIENT Y471
+Okay.  Sounds good, thanks doc.
+
+DOCTOR Y471
+No problem, I hope you feel better okay.
+
+PATIENT Y471
+Yeah, yeah.
+
+DOCTOR Y471
+And also call for the results of the x-rays too.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+Just check back.
+
+PATIENT Y471
+Okay.
+
+DOCTOR Y471
+Okay.
+
+PATIENT Y471
+@@@.
+
+DOCTOR Y471
+Alright take care.
+PATIENT LEAVES:  83:47.
+
+Time is 4:05.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238083
+TRANSACTION # 578-10-2-316-0103

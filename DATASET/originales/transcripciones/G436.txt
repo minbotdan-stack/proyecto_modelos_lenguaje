@@ -1,0 +1,1002 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR G436
+PATIENT?  How you doing today? 
+
+PATIENT G436
+I'm doing fine.  How are you?
+
+DOCTOR G436
+I'm fine.
+
+PATIENT G436
+I'm fine.  This is on one of my best days.
+
+DOCTOR G436
+@@@.
+
+PATIENT G436
+Yeah we got the back door.
+
+DOCTOR G436
+Take a seat.  How can I help you today?
+
+PATIENT G436
+Well let's start off like this.  My medications.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+I been coming back here up here almost a month because I don't have refills.
+
+DOCTOR G436
+Oh.  Let's get them, let's get that first checked first okay.
+
+PATIENT G436
+If you can, if you can.  Now I go again to see the kidney doctor for my next appointment I tells him.
+
+DOCTOR G436
+Uh-huh.
+
+PATIENT G436
+And I think it was gonna be mailed.  I wait two; three weeks I ain't get it.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+So I come back again.  He puts it back in there again as he said.  But two, three weeks later, some medications trickle in, some I don't get.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+So I call the Pharmacy and she said I need for the doctor to refill.  I guess that doctor that gave me the same must have to refill it or something cause the doctor up there couldn't refill it.
+
+DOCTOR G436
+I don’t know why.
+
+PATIENT G436
+So.
+
+DOCTOR G436
+We’ll check it out.
+
+PATIENT G436
+I went to the Pharmacy and she gave me a.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+Temporary refill, 30 day refill.
+
+DOCTOR G436
+Alright well let's do it today.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+So then everything.
+
+PATIENT G436
+Let's get it.
+
+DOCTOR G436
+So are you still taking Docusate?  You are?
+
+PATIENT G436
+What is that?
+
+DOCTOR G436
+That's the stool softener.
+
+PATIENT G436
+Yeah.
+
+DOCTOR G436
+You need refills?
+
+PATIENT G436
+No they send that like clockwork.
+
+DOCTOR G436
+Hydralazine for your blood pressure?
+
+PATIENT G436
+I got that.
+
+DOCTOR G436
+Do you want me to refill it though?  I'll refill it.
+
+PATIENT G436
+Yeah let's refill everything.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+Now.
+
+DOCTOR G436
+Do you want to pick it up at the window or do you want?
+
+PATIENT G436
+No I'll wait as long as they can mail it.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+I got enough to hold me over.  Now.
+
+DOCTOR G436
+How about the Senna?  That's also for the bowel, do you take that too?
+
+PATIENT G436
+Huh?
+
+DOCTOR G436
+Senna?
+
+PATIENT G436
+Senna.
+
+DOCTOR G436
+Yeah.
+
+PATIENT G436
+Oh that's for constipation?
+
+DOCTOR G436
+Yeah.
+
+PATIENT G436
+Uh.
+
+DOCTOR G436
+No you don't want it?
+
+PATIENT G436
+I got about four, five bottles of that.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+See the thing about when you don't need it they send it.
+
+DOCTOR G436
+Okay so I'll discontinue it if you don't need it.
+
+PATIENT G436
+No I don't need, discontinue that.
+
+DOCTOR G436
+Okay, that's why we're gonna go through this.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+Okay.  What about the pancrelipase?  That's like the.
+
+PATIENT G436
+Three times, three pills three times a day.
+
+DOCTOR G436
+Yeah do you need that?
+
+PATIENT G436
+I just got that thank you.
+
+DOCTOR G436
+Alright well let me refill it.
+
+PATIENT G436
+Yes ma'am refill it.
+
+DOCTOR G436
+So that you.  This says this cannot be refilled.
+
+PATIENT G436
+Now see that’s the problem with it.
+
+DOCTOR G436
+Hold on, I am just going to @@@, okay.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+@@@ renew.
+
+PATIENT G436
+Alright.
+
+DOCTOR G436
+Got renewed.
+
+PATIENT G436
+Uh that's the difference between refilled and renewed?
+
+DOCTOR G436
+Yep.
+
+PATIENT G436
+Oh so uh water pills, I don't have none, you got to renew that.
+
+DOCTOR G436
+I know but we have to go through everyone.
+
+PATIENT G436
+Okay, I know.
+
+DOCTOR G436
+You have @@@ meds alright, I want to make sure we do it right.
+
+PATIENT G436
+I'm just trying @@@ come in my head.
+
+DOCTOR G436
+Alright um.  I'll renew the pancrelipase.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+Let me see what else is here.
+
+PATIENT G436
+I got so much we might be here all day.
+
+DOCTOR G436
+I know know.  @@@.  We're gonna go through it a little faster.
+
+PATIENT G436
+Alright.
+
+DOCTOR G436
+So, I the pancrelipase I just renewed that um.  The shots that you get your um.
+
+PATIENT G436
+I just went over there.
+
+DOCTOR G436
+Your kidney doctors can, they'll give you that.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+Amlodipine, that's the blood pressure med.
+
+PATIENT G436
+Amlodipine.
+
+DOCTOR G436
+Do you take that once a day for your blood pressure?
+
+PATIENT G436
+I've got that.
+
+DOCTOR G436
+Alright well I'll refill it for you anyway. 
+
+PATIENT G436
+Thank you.
+
+DOCTOR G436
+Are you still taking the gabapentin three times a day?
+
+PATIENT G436
+Yes, yes I am.
+
+DOCTOR G436
+Okay I'll refill that.
+
+PATIENT G436
+Yes.
+
+DOCTOR G436
+Are you taking the iron supplementation?
+
+PATIENT G436
+Yes.
+
+DOCTOR G436
+Okay.  Do you need insulin syringes?
+
+PATIENT G436
+No I got enough of that.
+
+DOCTOR G436
+Alright.  Are you sure?  You don't want me to renew it?  I'm gonna renew it in case you need it.
+
+PATIENT G436
+Oh yeah you can renew it but I don't need none right now.
+
+DOCTOR G436
+Are you still taking the isosorbide dinitrate for the heart?
+
+PATIENT G436
+Isosorbide that's two pills two times, nope I ain't take that in about two, three months.
+
+DOCTOR G436
+Okay why did you stop taking it?
+
+PATIENT G436
+I have ran out.
+
+DOCTOR G436
+Alright well I'm gonna renew it for you.
+
+PATIENT G436
+No since I told you doctor, since I ain't come for two, three months, I don't even take it no more.
+
+DOCTOR G436
+Um.
+
+PATIENT G436
+Cause my blood pressure's been okay and when I first ran out I started having headaches but then after the headaches went away everything was okay.
+
+DOCTOR G436
+So you have to take it because you have CHF right?  Is that correct?
+
+PATIENT G436
+Who?
+
+DOCTOR G436
+You do.  Are you taking the hydralazine, you should be taking it with the hydralazine.
+
+PATIENT G436
+Well.
+
+DOCTOR G436
+Cause they're both it's like a pill that goes with the hydralazine.
+
+PATIENT G436
+I know.
+
+DOCTOR G436
+Are you still taking the hydralazine?
+
+PATIENT G436
+Yes but I haven't been taking the other thing for two months, you can just take the other pill, I don't want to be off and on.
+
+DOCTOR G436
+No that's why it's a problem that you stopped it yeah.  Cause no one took you off from it, you just ran out right?
+
+PATIENT G436
+Yes it ran out and nobody wouldn't ever refill it back until I came here.  I don't see this doctor in this clinic for like six months and the medication runs out before that time and I got to come back in here and refill it cause.
+
+DOCTOR G436
+Alright well we've got to make sure that you have refills.  So can I refill that?
+
+PATIENT G436
+I'm not gonna take it.
+
+DOCTOR G436
+I don't know what you're saying.
+
+PATIENT G436
+Okay wait a minute, wait a minute.
+
+DOCTOR G436
+@@@.
+
+PATIENT G436
+I don't want to die.
+
+DOCTOR G436
+Well it's a medication that's to be taken with the hydralazine for your CHF.
+
+PATIENT G436
+But, but.
+
+DOCTOR G436
+For your heart failure.
+
+PATIENT G436
+Right but since I haven't took it in.
+
+DOCTOR G436
+Yeah but it's not gonna make a difference in two months, it's the long term effects.
+
+PATIENT G436
+I know but when I stopped taking it I had headaches for about a month.  Now the headaches went away so if I get back on it the headaches gonna come back on me until it you know I take it for a while cause it get back into the system?
+
+DOCTOR G436
+Well were you having headaches while you took it or?
+
+PATIENT G436
+No, soon as I stopped taking it.
+
+DOCTOR G436
+Or were you having headaches after?
+
+PATIENT G436
+Soon as I ran out.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+I started having headaches, almost every day.  I was taking Tylenol for it and then after about a month I got it where it started going away.
+
+DOCTOR G436
+Alright.  I'm gonna to discontinue it.  Cause if you don't want to take it.
+
+PATIENT G436
+I mean, uh uh you the doctor now if you say take it I'm gonna take it cause I don't know what I'm doing.  I'm just taking things that I have.
+
+DOCTOR G436
+Alright.  Well I don't want it, if it's causing you headaches that.
+
+PATIENT G436
+No I said.  When I ran out it gave me headaches, not while taking it.
+
+DOCTOR G436
+Well do you want me to renew it or not?
+
+PATIENT G436
+Now why you keep @@@ up?  @@@.
+
+DOCTOR G436
+Why should I have a renewal on medicine if you're not gonna take it?
+
+PATIENT G436
+Oh if you say I have to take it, I will take it.
+
+DOCTOR G436
+You should take it with your CHF.  So I'll order it.  Your CHF has been pretty controlled so if you feel like you're doing well without it you could just keep monitoring it.
+
+PATIENT G436
+Okay keep monitoring.
+
+DOCTOR G436
+Um.
+
+PATIENT G436
+Cause I'm trying to get the.
+
+DOCTOR G436
+Are you using the capsaicin stuff, the cream?
+
+PATIENT G436
+For my feet?
+
+DOCTOR G436
+It's wherever you have pain.
+
+PATIENT G436
+No I ain't, you can stop that too.
+
+DOCTOR G436
+Alright.
+
+PATIENT G436
+Uh.
+
+DOCTOR G436
+Um what about the calcium and vitamin D, are you taking that?
+
+PATIENT G436
+Uh that pill once a month?
+
+DOCTOR G436
+No twice a day.  Are you still taking it or not?
+
+PATIENT G436
+No.
+
+DOCTOR G436
+Calcium and vitamin D are you taking it?
+
+PATIENT G436
+Oh calcium yeah I'm taking that.
+
+DOCTOR G436
+Okay I'll renew that.  Um and then what about aspirin?  Baby aspirin, are you taking that?
+
+PATIENT G436
+Yes.
+
+DOCTOR G436
+You should take that okay good.  And the insulin?
+
+PATIENT G436
+Right.
+
+DOCTOR G436
+We might have to change that so I'm gonna leave that for now; we'll work on that later.  Are you taking the simvastatin for the cholesterol?
+
+PATIENT G436
+I ran out of that.
+
+DOCTOR G436
+Alright well you need to start taking that again.
+
+PATIENT G436
+Yes.
+
+DOCTOR G436
+I'll renew that.  
+
+PATIENT G436
+So you got to what's that renew it or refill it.
+
+DOCTOR G436
+Yeah.
+
+PATIENT G436
+As well.
+
+DOCTOR G436
+Um mail that @@@, you're @@@?
+
+PATIENT G436
+Yes.
+
+DOCTOR G436
+Uh are you still taking the Lasix?
+
+PATIENT G436
+That's the water pill.
+
+DOCTOR G436
+Yeah and you're taking that.
+
+PATIENT G436
+I ran out of that.
+
+DOCTOR G436
+Okay.  @@@.  
+
+PATIENT G436
+And I got a question when you get through.
+
+DOCTOR G436
+Sure, you can ask it.
+
+PATIENT G436
+Okay.  The reason why I don't want to get back on that what isosorbide.
+
+DOCTOR G436
+Uh-huh.
+
+PATIENT G436
+Because I can't take Viagra with that.
+
+DOCTOR G436
+Right you definitely cannot.
+
+PATIENT G436
+Right so that's why I don't want to get back on it cause I want to get back, I’m trying to get Viagra.
+
+DOCTOR G436
+Well you still can't get back on Viagra because it's dangerous for your heart condition but definitely not when your taking that medication.  What about hydralazine?
+
+PATIENT G436
+I'm taking that.
+
+DOCTOR G436
+Okay.  The reason why I don't want to put you back on the Viagra to be honest is that if you were to have a heart attack and you needed nitrates that'd be really dangerous.  Um are you taking the metoprolol still?
+
+PATIENT G436
+Yeah.  So they say I don't need to have sex and that's it.
+
+DOCTOR G436
+Well I don't want to tell you don't have sex.
+
+PATIENT G436
+Yeah @@@ I can't even get that @@@ to work.  One of the pills, one of them come.
+
+DOCTOR G436
+And you can't have sex without it?
+
+PATIENT G436
+Uh uh.
+
+DOCTOR G436
+Well I'll talk to DOCTOR I just with all the medications that you're taking, probably that's probably one of the reasons too.
+
+PATIENT G436
+Yeah I know.
+
+DOCTOR G436
+Let me talk to DOCTOR.  Okay I think that we got through all your medications enough so we're in a good place now.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+Alright, I'll sign all of this.
+
+PATIENT G436
+I had took blood work would that let you know if I need the insulin, I mean not the insulin, the anemia shot or do I have to wait till I go back upstairs.
+
+DOCTOR G436
+Wait until you go back upstairs, but I think your blood work was fine actually that's why I don't want to um.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+Let me look.  I'll look at it but I remember I was glancing at it before and I think it looked fine.
+
+PATIENT G436
+And the less shots I take that's cool with me.  Oh, I need some, I used to get this nasal spray.  It's uh.
+
+DOCTOR G436
+Yeah why do you need the nasal spray?
+
+PATIENT G436
+Cause I get, my nose shuts off at night, it closes.  I can't hardly breathe.  I used to get it but then I ran out and never refilled it uh I forgot the name of it.  It was @@@, something like that.  When the bottle say to use by such and such I throwed it away.  I should have kept it.  I forgot the name of it.
+
+DOCTOR G436
+Was it flunisolide, looks like they're sending, @@@?
+
+PATIENT G436
+No it just squirt like that, squeeze it up there, it's like a solution uh.
+
+DOCTOR G436
+Yeah I think that's flunisolide @@@.
+
+PATIENT G436
+It's the name like deep C.
+
+DOCTOR G436
+Hmm, I don't know that doesn't sound familiar but I'll give you something.  We'll be fine; you take two sprays up your nose with that.
+
+PATIENT G436
+What's the name of that?
+
+DOCTOR G436
+Flunisolide it's the thing that you put up your nose.  I think it'll help you.
+
+PATIENT G436
+Okay.  You can mail that to me.
+
+DOCTOR G436
+Okay.  Alright.  And what else, oh how have your blood sugars been?
+
+PATIENT G436
+Oh since I take the shot at night once a day it works out pretty good.
+
+DOCTOR G436
+When did you start taking this at night?  That was a while ago right?
+
+PATIENT G436
+Yeah.
+
+DOCTOR G436
+So the problem is, is what has it been?
+
+PATIENT G436
+It's been, if I go to sleep with my sugar at 200 I can last till 6 o'clock in the morning but if I go less than 200 about 1 o'clock if I don't eat a half a sandwich or something at night at about 1 or 12 o'clock, by 6 in the morning in the morning it be about 40 something.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+So since I keep it at 200 I wake up it be a decent thing in the morning, like 90 to 108, 102.
+
+DOCTOR G436
+How much are you taking?
+
+PATIENT G436
+Uh I think 12 units.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+But it varies from 12 to 14 I think.
+
+DOCTOR G436
+Do you ever feel when your sugar goes low?
+
+PATIENT G436
+Nope.  Except if I'm sitting at home - walking I might just fall down I know it get me.
+
+DOCTOR G436
+So do you take any um, any insulin with food with your.
+
+PATIENT G436
+With @@@?.
+
+DOCTOR G436
+What food, with your meals?
+
+PATIENT G436
+Oh uh I takes it at bedtime.  This is after dinner.
+
+DOCTOR G436
+Oh so you don't take it ever with the meals?
+
+PATIENT G436
+No this one.
+
+DOCTOR G436
+But that your….
+
+PATIENT G436
+This is 10 o'clock at night before I go to bed so I done ate dinner and everything.
+
+DOCTOR G436
+So um do you take your finger stick, how often do you check your glucose during the day?
+
+PATIENT G436
+Twice.
+
+DOCTOR G436
+So once in the morning and once at night?
+
+PATIENT G436
+Yep.
+
+DOCTOR G436
+What about in the midday?
+
+PATIENT G436
+No I ain’t punching myself that many times, that's why I only have one shot.  I get.
+
+DOCTOR G436
+Would you be willing to take more than one shot?
+
+PATIENT G436
+No.  So what I do is I just eat lunch anyway, you know what I'm saying.  Cause I know it usually, it be, go down between that time, between 7 in the morning and 12 I know it's about time to eat so I then ate so there wasn't no reason to take it.  But do you want me to go back to it?
+
+DOCTOR G436
+Well I just wanted you to see, cause it's weird that your sugars are down so low at night.  I was hoping that we could get you to check your sugar maybe three or four times a day for the next couple weeks and then we can adjust it.
+
+PATIENT G436
+Adjust it again?
+
+DOCTOR G436
+Yeah.
+
+PATIENT G436
+But you know, when am I gonna get one of those things where you don’t gotta stick yourself.
+
+DOCTOR G436
+Well, when one is invented.
+
+PATIENT G436
+They have one, it's on TV it says put it on your arm and wait till your blood @@@.
+
+DOCTOR G436
+That's not real I don't think, anyway.  Any more problems with bleeding from your rectum?  You had that last time.
+
+PATIENT G436
+Yeah.
+
+DOCTOR G436
+It's still doing it?
+
+PATIENT G436
+No every, I get it when I go back in there.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+When I be constipated I got to go back in there and strain.
+
+DOCTOR G436
+Uh-huh.
+
+PATIENT G436
+But then after I get that first, excuse me, poop out, I'll be okay.
+
+DOCTOR G436
+Alright so what I want you to do, seriously, is do you think for two weeks you could take @@@ and check your blood sugars three or four times a day and then come back in and see our pharmacist to adjust your insulin?
+
+PATIENT G436
+Are you gonna give me an appointment to come back in and see the pharmacist?
+
+DOCTOR G436
+Yeah.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+In two weeks.  Would you do it, just for two weeks?
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+I know it's a pain in the butt but I just get worried that your sugar goes so low and I want to see what it's kind of doing throughout the day.
+
+PATIENT G436
+Alright.
+
+DOCTOR G436
+And then we can adjust the insulin as needed.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+So in two weeks.
+
+DOCTOR G436
+And then did you get your flu shot, yes you did.
+
+PATIENT G436
+Yeah I got.
+
+DOCTOR G436
+Okay let me do this @@@.
+
+PATIENT G436
+@@@.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+I got uh a log book or whatever you call it.
+
+DOCTOR G436
+Good.  So bring that in in two weeks.
+
+PATIENT G436
+I mean, I ain't got no log book for the sugar, I got a log book for the flu shot.
+
+DOCTOR G436
+Oh.  Well can you write down your sugars on a piece of paper?
+
+PATIENT G436
+Well don't you got a log book?
+
+DOCTOR G436
+Oh I don't have one.
+
+PATIENT G436
+Ask DOCTOR, they got them back there.
+
+DOCTOR G436
+Alright I'll see if they have one.  If not you can write it down on a piece of, for two weeks come on.
+
+PATIENT G436
+Yeah okay.
+
+DOCTOR G436
+Give me a break here right.
+
+PATIENT G436
+Yeah.
+
+DOCTOR G436
+Alright and then come and see me in three months and I renewed all your meds.
+
+PATIENT G436
+Is my meds gonna last for three months?
+
+DOCTOR G436
+Uh-huh.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+I've got it set up.  If not you.
+
+PATIENT G436
+Cause it look like if you write uh.
+
+DOCTOR G436
+Yeah all of them have at least three refills on them and I renewed them all.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+Okay.
+
+PATIENT G436
+Alright.  Did you put the isosorbide in there or?
+
+DOCTOR G436
+No cause you said you didn't want to take it, it wasn't making you feel good.
+
+PATIENT G436
+Alright.  And I know I can't take the other pill now, shoot.
+
+DOCTOR G436
+Well that's  @@@.
+
+PATIENT G436
+Life is over with now.
+
+DOCTOR G436
+Well I don't want life to be over for you.
+
+PATIENT G436
+If you can't have sex so now well you know it’s halfway.
+
+DOCTOR G436
+Well let me go talk to DOCTOR okay.  Any swelling in your legs, let me see.  
+
+PATIENT G436
+Nope.
+
+DOCTOR G436
+Can I listen to your lungs?  I have to look at your feet too.
+
+PATIENT G436
+I just came from the foot doctor.
+
+DOCTOR G436
+You did, alright.  What'd they say?
+
+PATIENT G436
+They just clipped my toes and everything was okay.  No swelling.
+
+DOCTOR G436
+Okay.  Let me listen to your lungs and your heart.  
+
+PATIENT G436
+Do you want me to take off everything?
+
+DOCTOR G436
+No you can lay back.  Okay, deep breath, again, okay.  Okay.  @@@.  Alright I'll be right back.
+
+PATIENT G436
+Alright.
+
+(DOCTOR OUT:  91:17  DOCTOR IN:  95:17)
+
+DOCTOR G436
+Alright PATIENT so two weeks and you have an appointment.  Just have them make it out there and you can come see me in three months.
+
+PATIENT G436
+Okay.
+
+DOCTOR G436
+Okay.  Everything else is good.
+
+PATIENT G436
+Alright, okay.  Did you get the book?
+
+DOCTOR G436
+No I didn't get the book.
+
+PATIENT G436
+Alright.
+
+DOCTOR G436
+Thank you.
+
+PATIENT G436
+I'll just use the.
+
+DOCTOR G436
+@@@.
+
+PATIENT G436
+Yeah.
+
+DOCTOR G436
+Have a nice day.
+
+PATIENT G436
+Make them @@@ alright, thank you.
+
+PATIENT LEAVES:  95:47
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286087
+TRANSACTION # 578-10-2-316-0103

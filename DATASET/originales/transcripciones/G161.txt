@@ -1,0 +1,995 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@@  
+
+DOCTOR G161
+PATIENT?  How you doing?  @@@.  How are you?
+
+PATIENT G161
+I'm fine.  @@@.
+
+DOCTOR G161
+How have you been?
+
+PATIENT G161
+I've been doing okay.
+
+DOCTOR G161
+I'm DOCTOR; I don't think we've met before.
+
+PATIENT G161
+No sir we haven't met since I been here.
+
+DOCTOR G161
+Alright.  So um I'm just reading through your old notes.  Uh what I gathered is you've got diabetes.
+
+PATIENT G161
+Uh-huh.
+
+DOCTOR G161
+High blood pressure, high cholesterol um you've had a history of gout and uh a little bit of kidney impairment.  Does that sound about right?
+
+PATIENT G161
+Yes sir.
+
+DOCTOR G161
+Okay.  Um what I read for the diabetes is that you take two different pills twice a day.
+
+PATIENT G161
+I take metformin and I take glyburide.
+
+DOCTOR G161
+Right.
+
+PATIENT G161
+And then I take 10 mg of.
+
+DOCTOR G161
+The Glargine the long-acting insulin.
+
+PATIENT G161
+What's it called?
+
+DOCTOR G161
+It's called Glargine or Lantus.
+
+PATIENT G161
+Yeah I know it by Lantus.
+
+DOCTOR G161
+Okay and that's, you take that once a day.
+
+PATIENT G161
+Yes sir.
+
+DOCTOR G161
+So how have your sugars been running lately?
+
+PATIENT G161
+Oh my sugars have been running about 125-130.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+They're in that area.  My sugars have been fine.  Where I'm having problem sir is with my blood pressure.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+Uh I ran out of blood pressure medication last week.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+I think it was Monday or Tuesday @@@ when I tried to refill it.
+
+DOCTOR G161
+Okay so yeah.
+
+PATIENT G161
+I tried to refill it over the phone.
+
+DOCTOR G161
+I saw one of them, the um.
+
+PATIENT G161
+The same day I already took the cholesterol medicines the same day.
+
+DOCTOR G161
+Okay was it the hydrochlorothiazide/lisinopril, was it that one?
+
+PATIENT G161
+Yes that one expired.
+
+DOCTOR G161
+Right I saw that.
+
+PATIENT G161
+And so I called the pharmacist.
+
+DOCTOR G161
+Uh-huh.
+
+PATIENT G161
+Um it was one day early last week I called; I believe it was Monday or Tuesday.  I called the Pharmacy and uh and um you know when I tried to refill it they say you know isn't no more refills and so I called the Pharmacy to actually speak to a pharmacist and the pharmacist told me well you know you got an appointment uh on the 7th.
+
+DOCTOR G161
+Hmm.
+
+PATIENT G161
+Which is today now um you know if I'd never seen you now, cause I never see you now, if I don't get it until after the appointment cause they gonna take that amount of time you know to get it mailed.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+So just come to the doctor and let the doctor refill it, then you can get it then and with, that caused a little problem with me because now I been over a week without taking that particular medication.
+
+DOCTOR G161
+And your pressure's high today.
+
+PATIENT G161
+Yes sir.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+And uh.
+
+DOCTOR G161
+That's kind of frustrating.  
+
+PATIENT G161
+Uh I also tried to call DOCTOR.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+Cause I called him in the past when I had this problem but I couldn't get hold of DOCTOR.
+
+DOCTOR G161
+Hmm.  Well I mean I'm glad you're here now.  Will you be able to pick it up today if I put it in today?
+
+PATIENT G161
+Right this minute I could.
+
+DOCTOR G161
+Okay, okay, good.  Yeah I'll put it in.
+
+PATIENT G161
+Yes sir.
+
+DOCTOR G161
+Do you have enough refills on everything else?
+
+PATIENT G161
+That's what I was just about to tell you.  
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+Um now I ordered the, I was able to order the medicine for the cholesterol sir.
+
+DOCTOR G161
+Okay.  Yeah it looks like yeah.
+
+PATIENT G161
+That's gonna be mailed out to me but as of now I don't have it so I was wondering could I have like one or two pills until that comes?
+
+DOCTOR G161
+That I don't know, that's just over my head basically.
+
+PATIENT G161
+Okay then I'll wait.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+Okay.  Okay because right now I'm like the sixth or seven day so it should be in the mail tomorrow or something like that.
+
+DOCTOR G161
+Okay. 
+
+PATIENT G161
+Okay.  Um I do have the glyburide medicine in the mail.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+And I just got metformin in the mail.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+The metoprolol I'm gonna need, metoprolol for blood pressure.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+And what's the one that expired the HCTZ?
+
+DOCTOR G161
+Yeah, yeah and the lisinopril, its two medications in one.
+
+PATIENT G161
+Yeah.
+
+DOCTOR G161
+Are you still taking the amlodipine?
+
+PATIENT G161
+Yeah I just got some of that in the mail also.
+
+DOCTOR G161
+Okay.  
+
+PATIENT G161
+Earlier, um from the last time I was here I was taking a half a tablet of the amlodipine and then my blood pressure was still a little high so DOCTOR increased it to a full tablet.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+So now like I say I just got that in the mail.
+
+DOCTOR G161
+Alright.
+
+PATIENT G161
+Now and of course on the Lantus, that's about, I'm almost at the end of my 28 days on that.
+
+DOCTOR G161
+Okay.  Are you expecting any more of those in the mail soon or?
+
+PATIENT G161
+I'm not sure I know, no sir.
+
+DOCTOR G161
+Okay.  Do you want to pick them up today or do you want me to have them mail that one too?
+
+PATIENT G161
+Can I get it?
+
+DOCTOR G161
+Yeah, yeah.
+
+PATIENT G161
+That's just me you know like I'll go to the Pharmacy since it's already here.
+
+DOCTOR G161
+Okay.  Um so you said your sugars has been averaging about 125, 130?
+
+PATIENT G161
+Yeah.
+
+DOCTOR G161
+We'll say the last three, four weeks, what's the highest it's been?
+
+PATIENT G161
+Something like 160.
+
+DOCTOR G161
+Okay.  That's I mean, you know that's high but that's not.
+
+PATIENT G161
+150.
+
+DOCTOR G161
+I've heard a lot worse than that today.
+
+PATIENT G161
+165.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+I haven't uh; I took my medicine this morning.
+
+DOCTOR G161
+Uh-huh.
+
+PATIENT G161
+And I haven't eaten just in case you want to test.
+
+DOCTOR G161
+Good, yeah well that will help a lot.  Do you remember, I know it's hard to say, over the summer when they drew your blood were you fasting at that time or had you had something to eat then?
+
+PATIENT G161
+I probably had something to eat because the doctor you know he got kind of upset at me because I ate.
+
+DOCTOR G161
+Okay.  Cause yeah your numbers were.
+
+PATIENT G161
+Cause that's why I didn't eat this time.
+
+DOCTOR G161
+Good, great.
+
+PATIENT G161
+And I need something quick, too.
+
+DOCTOR G161
+What's the lowest your readings have been?
+
+PATIENT G161
+Uh the lowest that I've seen was when um.
+
+DOCTOR G161
+In the last three weeks let's say?
+
+PATIENT G161
+Oh the last three weeks.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+I had 110.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+That's when I start shaking and stuff.
+
+DOCTOR G161
+So even at 110 you feel a little weak.
+
+PATIENT G161
+Yeah, yeah.
+
+DOCTOR G161
+Okay.  Okay.  So do you usually take some juice or something like that to get better pretty quick?
+
+PATIENT G161
+Yes.  I take a little juice or you know I keep a lot of hard candy just in case you know.
+
+DOCTOR G161
+Well that's good.
+
+PATIENT G161
+Yeah I uh get me some juice or something with sugar in it.
+
+DOCTOR G161
+Alright.  Um as far as your gout, when was the last time you had a flare-up of your gout?
+
+PATIENT G161
+Oh it's been many years.  I would say it's been three, four or five years.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+But they @@@.
+
+DOCTOR G161
+Okay.  You just couldn't ever be a sandal model huh?
+
+PATIENT G161
+No, not too much no.  Um there is one thing I need you to look up.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+I think there's some swelling in this leg.
+
+DOCTOR G161
+Okay @@@.
+
+PATIENT G161
+Okay.  It's really swollen there.
+
+DOCTOR G161
+How long has this been going on?
+
+PATIENT G161
+About two or three weeks.
+
+DOCTOR G161
+How did you get this scar here?
+
+PATIENT G161
+Oh well no that was a long time ago when I was walking, I was walking through like a hallway, I was supposed to step up, I didn't step up and I hit it so yeah.
+
+DOCTOR G161
+@@@.
+
+PATIENT G161
+Yeah and doctor and this has happened for a long time and I came to the doctor about a year ago.  See how that one's bigger than that one?
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+I came to the doctor about a year ago; I came here about a year ago.
+
+DOCTOR G161
+Uh-huh.
+
+PATIENT G161
+Cause I was concerned about pain in my legs in here and here you know when I walk and so they sent me upstairs to take a test and everything so they didn't see anything wrong but if I walk for a period of time, like two or three blocks, I get pain in my legs here and here and it still happens.  And uh so I was watching television.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+Two or three weeks ago.  I was watching television two or three weeks ago and I saw a commercial about Plavix it was talking about because it could be uh something called periphery artery disease.
+
+DOCTOR G161
+Yeah.  I mean so but you walk, you go two, three blocks, it starts hurting, if you stop it gets better?
+
+PATIENT G161
+Right and it does get better, if I stop and rest its fine then I walk a little while longer.
+
+DOCTOR G161
+When was it that you had that test done?
+
+PATIENT G161
+I'm gonna say roughly a year ago.
+
+DOCTOR G161
+And what did they do, do you remember?
+
+PATIENT G161
+Uh they took me up there and put me on the table and then they hooked all these things on my legs.  Well what did they do?
+
+DOCTOR G161
+You know let me, give me just a second I'll look right here and see what I can find.
+
+PATIENT G161
+Yeah.
+
+DOCTOR G161
+You can put @@@.
+
+PATIENT G161
+Okay thank you doctor.
+
+DOCTOR G161
+Yeah that left nail do you think that's infected or you just?
+
+PATIENT G161
+No it's been like that ever since I was a baby.
+
+DOCTOR G161
+It's been dark that long?
+
+PATIENT G161
+It's been like that forever.
+
+DOCTOR G161
+Alright then I won't bother that.
+
+PATIENT G161
+Yeah it is.  It's been like that since I was a little boy.  You don't see anything?
+
+DOCTOR G161
+Was that before or after you were in the hospital for pneumonia?
+
+PATIENT G161
+It was before.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+It was before I was in the hospital for pneumonia.  They said there was nothing wrong with it but you know the pain still persists so the doctor told me, what the doctor told me to do was just walk as much as you can and then it'll go away.
+
+DOCTOR G161
+And is it one leg more than the other?
+
+PATIENT G161
+No actually it's both of them.
+
+DOCTOR G161
+Cause it wasn't completely normal.
+
+PATIENT G161
+No.
+
+DOCTOR G161
+No and I'm sorry if somebody told you that but.
+
+PATIENT G161
+But why didn't they do anything about it?
+
+DOCTOR G161
+Um I mean really at first the best thing to do is to try and get your blood pressure and your diabetes under control.  Those are the two best things you can do for it but if you're going two or three blocks now and you're a young man, I mean that's something we need to.
+
+PATIENT G161
+Right, right.
+
+DOCTOR G161
+If you don't mind I would go ahead and repeat that test.
+
+PATIENT G161
+You don't want to repeat it?
+
+DOCTOR G161
+No I would.
+
+PATIENT G161
+Oh okay.
+
+DOCTOR G161
+I would want to repeat that test and depending on what that shows I might have to have you talk with the vascular surgeons, the doctors that deal with the blood vessels.  Sometimes if there's, you know just like people can get a narrowing of the blood vessel in their heart, you can get a narrowing of the blood vessel that goes to your leg.
+
+PATIENT G161
+Uh-huh.
+
+DOCTOR G161
+Sometimes it's just as simple as them using a little balloon or a stent to open up the blood vessel and that'll make a big difference for you.
+
+PATIENT G161
+Uh-huh.
+
+DOCTOR G161
+Um what kind of work do you do?
+
+PATIENT G161
+I work at a shipping and receiving department on the dock at the University of Chicago.
+
+DOCTOR G161
+Okay, alright.  So you're on your feet a lot so you're maybe not walking that far right?
+
+PATIENT G161
+I'm on my feet quite a bit.  
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+I'm on my feet out of eight hours I may be on my feet around six of them.  I'm not doing a lot of long walking but you know how a college campus is, you gonna have to walk.
+
+DOCTOR G161
+Yeah, @@@ yeah.
+
+PATIENT G161
+Yeah okay so like I may be putting some boxes on the cart to deliver to another building two or three blocks away.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+And I will take it for a walk.
+
+DOCTOR G161
+Alright, yeah we definitely need to deal with this.
+
+PATIENT G161
+And so you know @@@ and you know you could probably look to see if the doctors that I talked to, about he told me you know you just keep walking and you know it'll go away.  You know I him I'll walk as much as I can but sometimes I take the stairs.
+
+DOCTOR G161
+And that I mean walking does generally help it actually.  Um it may seem counter intuitive to do something that causes pain but it does, you know little by little help but I mean it sounds like it’s something you already do.  I mean you're not a person who sits on the couch all day every day.
+
+PATIENT G161
+No.
+
+DOCTOR G161
+So and that’s obvious.  Um so we definitely need to do that.  The other thing we need to do now that you're 50 years old is get a colonoscopy.
+
+PATIENT G161
+Okay.
+
+DOCTOR G161
+Have you ever had one of those?
+
+PATIENT G161
+I don't think so.  If I had one it was a very, very long time ago.
+
+DOCTOR G161
+Okay.  So what that is um, sorry if you already know but basically uh it's to look for any kind of polyps.
+
+PATIENT G161
+No, I haven’t had one of those.
+
+DOCTOR G161
+Okay and the reason we do it is it's like a screening for cancer um.  Everybody that turns 50 gets it, male or female um.
+
+PATIENT G161
+Okay @@@.
+
+DOCTOR G161
+Uh and the thought is that these little polyps they start out as simple things but they can turn into cancer if they're in there for a long time.
+
+PATIENT G161
+Hmm.
+
+DOCTOR G161
+They try to catch them early, remove them and they never turn into cancer.
+
+PATIENT G161
+Okay do it then.
+
+DOCTOR G161
+So we'll set you up for that.  Any diseases that run in your family?
+
+PATIENT G161
+Um heart disease runs in you know on my father's side of the family.
+
+DOCTOR G161
+Okay.  What age, when did it start affecting people on his side of the family?
+
+PATIENT G161
+It started to affect him when he was; I think he was in his early 50s when he had about a double bypass, heart problems.  
+
+DOCTOR G161
+Was he diabetic?
+
+PATIENT G161
+No.
+
+DOCTOR G161
+No alright.
+
+PATIENT G161
+I'm the only one in my family with diabetes.
+
+DOCTOR G161
+You're the lucky one huh?
+
+PATIENT G161
+I must be.
+
+DOCTOR G161
+Alright um, so we'll set you up for the colonoscopy.  Do you take an aspirin every day?
+
+PATIENT G161
+I used to but I don't.  The reason why I don't is because uh you know DOCTOR used to prescribe it to me and when he stopped prescribing it, I thought I didn't need it anymore so I stopped taking it.
+
+DOCTOR G161
+Okay.  I'm going to recommend you start taking a baby aspirin again every day, 81 mg.
+
+PATIENT G161
+Uh-huh.
+
+DOCTOR G161
+Um I'm happy to prescribe it for you here but if I prescribed it for you here they're gonna charge you $8 a bottle.
+
+PATIENT G161
+Okay.
+
+DOCTOR G161
+You can buy it at Walgreens, it’s two dollars.
+
+PATIENT G161
+Okay yeah, yeah, I'll pick up two of them.  I got to get 81 mg?
+
+DOCTOR G161
+Yeah, it'll say like baby aspirin on there.  It's a standard dose but you don't need the full dose.  You don't need the 325 mg.  Those are the two strengths.  You need the lower strength.
+
+PATIENT G161
+81 mg.
+
+DOCTOR G161
+That's right.
+
+PATIENT G161
+Okay I'll remember that, I'll go buy it.
+
+DOCTOR G161
+Alright.  I want to listen to your heart and your lungs here real quick.  Take a deep breath.  Do you ever get any belly pain?
+
+PATIENT G161
+No, but I'm hungry.
+
+DOCTOR G161
+That's normal.  So you're hungry right now.
+
+PATIENT G161
+Uh yes, I’m starving.
+
+DOCTOR G161
+Um do you smoke?
+
+PATIENT G161
+Unfortunately I do.  I quit but then when I quit drinking I started back smoking again.  It was kind of hard to do both of them at the same time, got to something that's wrong you know.  So I'm going to quit them again.
+
+DOCTOR G161
+How much are you smoking right now?
+
+PATIENT G161
+Approximately a pack a day.
+
+DOCTOR G161
+Okay.  How long have you been smoking?
+
+PATIENT G161
+Well um, I'm 50 years old I been smoking since I was about 15.
+
+DOCTOR G161
+Okay.  Um and before you stopped drinking how much were you smoking or how much were you drinking?
+
+PATIENT G161
+I was drinking about a pint of maybe whiskey a week.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+And maybe two six-packs of beer a week.
+
+DOCTOR G161
+Okay.  Um well did the drinking become a problem for you or why did you quit?
+
+PATIENT G161
+Uh for health reasons sir.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+Uh with the diabetes.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+All that and it's not good for you @@@.
+
+DOCTOR G161
+Um, absolutely, anything else I mean cocaine, marijuana, heroin?
+
+PATIENT G161
+No, no.
+
+DOCTOR G161
+Okay.  Alright well let me go talk with the doctor I'm working with but we'll refill these meds for you so you can pick them up here today.
+
+PATIENT G161
+Okay.
+
+DOCTOR G161
+I'll put in for the blood work so you can get that done and get some lunch and then um.
+
+PATIENT G161
+You mean get the blood work done today?
+
+DOCTOR G161
+Yeah, yeah cause you said you hadn't eaten anything right?
+
+PATIENT G161
+Right, right.
+
+DOCTOR G161
+So yeah and the best thing to do is actually check in at the Pharmacy, go get the blood work and when you're done with the blood work they should be close to done with your plls.
+
+PATIENT G161
+Then I have to come back and see you?
+
+DOCTOR G161
+Uh no.  I will um, I will probably have you come back with the pharmacist in a few weeks to go over the lab results and see if you need to change anything for your diabetes medicines.
+
+PATIENT G161
+Alright and also uh, you're going to book me for that test that you said.
+
+DOCTOR G161
+I'm going to send you for a repeat of that test as well as for the colonoscopy.
+
+PATIENT G161
+Not today though.
+
+DOCTOR G161
+I'll put in the order today but the test wouldn't be done today.
+
+PATIENT G161
+That's what I was asking.
+
+DOCTOR G161
+Yeah, no they'll call you to arrange that.
+
+PATIENT G161
+Okay.
+
+DOCTOR G161
+Alright.
+
+PATIENT G161
+Alright.
+
+DOCTOR G161
+Give me just a minute; let me talk with the doctor I'm working with alright.
+
+PATIENT G161
+Alright.  Oh, sir.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+Is it okay if I run to the washroom real quick?
+
+DOCTOR G161
+Sure, yeah.
+
+(DOCTOR OUT:  85:56  DOCTOR IN:  96:45)
+
+DOCTOR G161
+Alright sir.
+
+PATIENT G161
+Okay.
+
+DOCTOR G161
+We'll get you set up here.  I'm just gonna give you this information um for if you're interested for weight loss we have a clinic here called the MOVE Program.
+
+PATIENT G161
+Uh-huh.
+
+DOCTOR G161
+Um and they, I think it's like a three or a four week class um, they have the first class every Monday in the morning.  Basically they give you a strategies for weight loss.
+
+PATIENT G161
+Okay.
+
+DOCTOR G161
+Um cause that will help your blood pressure and diabetes.
+
+PATIENT G161
+Okay.
+
+DOCTOR G161
+Um and if you actually want I could take you over and you could talk to her today um she kind of sees people walking you know um if you want to talk to her today just walk in there.
+
+PATIENT G161
+Okay well I think it might be hard for me to do it being that I work yeah for uh.
+
+DOCTOR G161
+I understand.  I just want to let you know that it's available.
+
+PATIENT G161
+Okay.
+
+DOCTOR G161
+Um and similarly for your smoking, I think you'll probably run into the same problem um but we do have it available if you need it um.  And if and when you're ready we are able to get you um gum.
+
+PATIENT G161
+Uh-huh.
+
+DOCTOR G161
+Nicotine gum or anything um they're kind of like cough drops.
+
+PATIENT G161
+Uh-huh.
+
+DOCTOR G161
+Um if you ever want to try those to try to cut back on the smoking.
+
+PATIENT G161
+Oh yeah, that might help?
+
+DOCTOR G161
+Well if you want I can put it in for today or if you want to think about it.
+
+PATIENT G161
+Yeah let me uh, let me think about it and then the next time I come I could make a decision.
+
+DOCTOR G161
+Okay. And the other thing, with your diabetes, we'd like you to see the eye doctor um every year and it doesn't look like you've seen them recently.
+
+PATIENT G161
+No I haven't.
+
+DOCTOR G161
+Okay so I'll plug you in with them also.
+
+PATIENT G161
+Okay good.  What medicine are you gonna send me again?
+
+DOCTOR G161
+The hydrochlorothiazide and lisinopril, that's the one pill that you've been out of for about a week.
+
+PATIENT G161
+Yeah.
+
+DOCTOR G161
+Um refilling also the metoprolol, the blood pressure pill and the Lantus, the insulin.
+
+PATIENT G161
+Okay.
+
+DOCTOR G161
+Those are the ones you need to pick up today right?
+
+PATIENT G161
+Yes, yes.
+
+DOCTOR G161
+Okay.
+
+PATIENT G161
+And along with the Lantus, could I have some syringes also?
+
+DOCTOR G161
+Oh yeah, yeah.  And you're gonna get the aspirin on your own right?
+
+PATIENT G161
+Yes sir I will.
+
+DOCTOR G161
+Alright and they'll contact you about the colonoscopy and also about the ultrasound for your liver.
+
+PATIENT G161
+And the eye appointment.
+
+DOCTOR G161
+Oh the eye appointment, if you give this to the clerk she'll make you an appointment with the Eye Clinic before you leave.
+
+PATIENT G161
+Okay.
+
+DOCTOR G161
+Alright.
+
+PATIENT G161
+So I have to go to the clerk and go to the Pharmacy then go to the Lab.
+
+DOCTOR G161
+Yeah.
+
+PATIENT G161
+And then I'll come back and see you?
+
+DOCTOR G161
+No, no.
+
+PATIENT G161
+Okay.  Alright uh so are they going to notify me on the appointment for the thing @@@?
+
+DOCTOR G161
+They'll notify you about that um.
+
+PATIENT G161
+They're not gonna give me that today, they can give me the eye appointment today but.
+
+DOCTOR G161
+Right.
+
+PATIENT G161
+They'll notify me about the other appointments.
+
+DOCTOR G161
+Yeah they'll call you about those.
+
+PATIENT G161
+Yeah.
+
+DOCTOR G161
+Alright.  Nice to meet you.
+
+PATIENT G161
+Alright thank you very much for all your help.
+
+DOCTOR G161
+Yeah, yeah no problem.
+
+PATIENT G161
+Yeah you've been really informative.  I appreciate it and I hope uh, I hope I get you again.
+
+DOCTOR G161
+I'll put it in so it works out that way.
+
+PATIENT G161
+Okay that's cool, alright.
+
+DOCTOR G161
+Alright.
+
+PATIENT LEAVES:  100:2
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286097
+TRANSACTION # 578-10-2-316-0103

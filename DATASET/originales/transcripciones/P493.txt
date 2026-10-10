@@ -1,0 +1,428 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@   
+
+DOCTOR P493
+How you doing?
+
+PATIENT P493
+I'm gonna have this reception thing on me, listening to my answers.
+
+DOCTOR P493
+Oh don't worry about it.  @@@.
+
+PATIENT P493
+We done moved up huh.
+
+DOCTOR P493
+That's the way it is.  How are you today?
+
+PATIENT P493
+Uh so far so good.
+
+DOCTOR P493
+So far so good.  So yeah, it's been since around October since we've seen each other.  So you're back on time, which is excellent.  @@@.  Anything come up since October?
+
+PATIENT P493
+Well I still have this knot back here.
+
+DOCTOR P493
+On the back of your head?
+
+PATIENT P493
+Yeah.
+
+DOCTOR P493
+Okay, I'll take a look at it.
+
+PATIENT P493
+And I don't particularly like it.  Like to get rid of it.
+
+DOCTOR P493
+Did we discuss that the last time you were here?
+
+PATIENT P493
+Uh about seven months to eight months ago.  Not the last time we didn't.
+
+DOCTOR P493
+Okay, okay but you noticed it's been there for a while.
+
+PATIENT P493
+It's been there for over a year.  A more about two years.  Started out as a little bitty knot.  The first time I told you about it you said it was just a pimple, but that was a long time ago.
+
+DOCTOR P493
+Yeah well if it's lasted this long it's definitely not just a pimple.  Good, okay good.  Your blood pressure looks good today.  Pulse, breathing okay.  How's your breathing been?
+
+PATIENT P493
+It's been okay.
+
+DOCTOR P493
+Good.
+
+PATIENT P493
+@@@.  You know I get tingling in my fingers.
+
+DOCTOR P493
+Tingling in your fingers?
+
+PATIENT P493
+Yeah especially when I sleep.  It wakes me up you know, can't go to sleep.
+
+DOCTOR P493
+Okay.  Okay.  Is it just your right hand?
+
+PATIENT P493
+It's the only one I use, like you know when I'm sleeping.
+
+DOCTOR P493
+Uh-huh.
+
+PATIENT P493
+If I lay on it it goes to sleep.
+
+DOCTOR P493
+So that means like is there tingling in both your hands or just your right hand?
+
+PATIENT P493
+Just my right hand.
+
+DOCTOR P493
+Oh okay, not your left hand, not your feet or anything like that?
+
+PATIENT P493
+Uh uh.  Just in the hand.  If I sleep you know, I sleep on my hand, you know.
+
+DOCTOR P493
+Yeah.
+
+PATIENT P493
+And uh.
+
+DOCTOR P493
+Where's the numbness located whenever you feel it?
+
+PATIENT P493
+All over.
+
+DOCTOR P493
+All over the entire hand?
+
+PATIENT P493
+Yes.
+
+DOCTOR P493
+Okay is it more like on the thumb side or on the pinky side?
+
+PATIENT P493
+On the pinky side but all on the inside.
+
+DOCTOR P493
+Okay.  So is it more like along this side or over here?
+
+PATIENT P493
+All over.
+
+DOCTOR P493
+All over the entire hand?
+
+PATIENT P493
+Uh-huh.
+
+DOCTOR P493
+Okay, okay.  Have you been having any neck pains?
+
+PATIENT P493
+I don't got no neck pain.
+
+DOCTOR P493
+Okay.  Do you feel any of the numbness when I do this?
+
+PATIENT P493
+I feel you tapping on it.
+
+DOCTOR P493
+Yeah.  Any shooting pains?
+
+PATIENT P493
+I don't have no shooting pain; no I don't have no shooting pain.
+
+DOCTOR P493
+Okay, can you feel that?
+
+PATIENT P493
+Yeah.
+
+DOCTOR P493
+Now?
+
+PATIENT P493
+Yeah.
+
+DOCTOR P493
+How about this?
+
+PATIENT P493
+Feel everything.
+
+DOCTOR P493
+Does it feel any different on any of your fingers?
+
+PATIENT P493
+No I feel the same, just a tingling.  It only happen at night.
+
+DOCTOR P493
+And is it tingling right now?
+
+PATIENT P493
+No.
+
+DOCTOR P493
+So it only happens when you wake up in the morning and it goes away?
+
+PATIENT P493
+It wakes me up in the morning, not when I wake up in the morning.
+
+DOCTOR P493
+Okay, okay.  But it goes away after you reposition?
+
+PATIENT P493
+Yeah, after I get up and you know walk around it goes away.
+
+DOCTOR P493
+Okay.
+
+PATIENT P493
+At most, I tell you when it mostly happens, when I take my medicine.
+
+DOCTOR P493
+When you take the medications okay.  Um when do you take your medications?
+
+PATIENT P493
+Uh I take my medications before I go to bed.  But should I take the last dose before I go to sleep?
+
+DOCTOR P493
+You are still taking your albuterol and your other inhaler for your lung disease?
+
+PATIENT P493
+Yeah.
+
+DOCTOR P493
+Okay and how's your breathing?
+
+PATIENT P493
+My breathing's pretty good.
+
+DOCTOR P493
+Pretty good?  You're able to do things that you want to like you can go outside, walk around?
+
+PATIENT P493
+Yeah.
+
+DOCTOR P493
+Everything's okay.  Okay so your blood pressure looks excellent today.  Um are you taking all of your blood pressure medications?
+
+PATIENT P493
+Most of the time I do.
+
+DOCTOR P493
+Most of the time?  So do you know which medications you're taking?
+
+PATIENT P493
+No I don't.  All I know is I take everything they give me.  I get some that I take three times a day.
+
+DOCTOR P493
+Good, good.  Do you think you're still taking the amlodipine?  And you said the one three times a day, isosorbide, your metoprolol.  Do those sound familiar?
+
+PATIENT P493
+Yeah what you give me, I don't know what it, you know I got the medical tray, I fill it up.
+
+DOCTOR P493
+Do you need any refills on any of your medications?
+
+PATIENT P493
+No not right now.
+
+DOCTOR P493
+Any chest pain recently?
+
+PATIENT P493
+Yeah I get a, it's almost like a gas.
+
+DOCTOR P493
+Okay.
+
+PATIENT P493
+Right in here.
+
+DOCTOR P493
+Okay.  Because I know you’ve had problems with uh with chest pain in the past.
+
+PATIENT P493
+Well when I do have one I take one of my nitro pills and it go away.
+
+DOCTOR P493
+It goes away.
+
+PATIENT P493
+Them gas pills they give me don't work.  I've used them, I eat about two of them and then I still take the one nitro and then it go away.
+
+DOCTOR P493
+Are you still drinking alcohol?
+
+PATIENT P493
+Beer.
+
+DOCTOR P493
+Beer okay. 
+
+PATIENT P493
+I haven’t drank alcohol in quite a while now.
+
+DOCTOR P493
+Let's see here, otherwise.  We need for you to go repeat your cholesterol, it's been a year, just to recheck and make sure there's not anything more we need to do in terms of management on that but it sounds like your lungs disease is stable.  Everything else is stable.  The one thing we do need to have you do though, I'm trying to find it here, is repeat an echocardiogram of your heart and have you go back to the Cardiology Service.  Um I think you were supposed to follow up with them a while ago.
+
+PATIENT P493
+They didn't send me no mail.
+
+DOCTOR P493
+Okay.
+
+PATIENT P493
+Cause I didn't get no mail.
+
+DOCTOR P493
+Okay.  We can let them know you need to reschedule the appointment.
+
+PATIENT P493
+Yeah they stopped sending me a reminder for the appointment.  The only thing they send to you now you got to call in.
+
+DOCTOR P493
+Yeah.
+
+PATIENT P493
+To find out when you got an appointment.
+
+DOCTOR P493
+Oh I think, oh I think what they want you to do is call in and essentially schedule an appointment.  But I think they'll send you the reminder by mail.
+
+PATIENT P493
+But I need to call them to schedule it.
+
+DOCTOR P493
+Uh-huh.
+
+PATIENT P493
+Will they schedule me an appointment when you leave here?
+
+DOCTOR P493
+Uh only if it's within 30 days.
+
+PATIENT P493
+Oh okay.
+
+DOCTOR P493
+Otherwise you'll get a letter saying call in and schedule an appointment within the next 30 days.  So we did do a stress test back in 2008.  @@@ repeat that.  We'll probably repeat the stress test and the echo and then have you go back to Cardiology, recheck your cholesterol otherwise the other main thing is you know trying to cut back on your alcohol use.
+
+PATIENT P493
+What? Are you talking about beer?
+
+DOCTOR P493
+Are you smoking?
+
+PATIENT P493
+I still smoke.
+
+DOCTOR P493
+@@@ okay.  We already did the @@@ screening for you.  You already had your flu vaccine in October so we don't need to worry about that.  Is that it?  I think just looking at your chart, that's what we'll need to do.  Your blood pressure looks excellent today.  We'll just recheck your cholesterol.  Things seem to be stable except you know with some of the chest pain symptoms.  I know in the past we've talked about you know what the chest pain could possibly be from.  Nothing that we've done in terms of a heart work-up has ever shown that you have um a.  Have you ever had a @@@?  Like I don't see any in the notes here.  Yeah actually, nothing we've ever done that showed you have any type of blockage in your heart but at one time your heart wasn't pumping as well as it should.
+
+PATIENT P493
+I haven't had a vascular test in a long time.  @@@.
+
+DOCTOR P493
+Yeah that's been, yeah it's been about 2 1/2 years since you had that, so we'll just repeat that.  Okay so give me a couple of minutes and I'll come back okay.
+
+PATIENT P493
+Okay.
+
+DOCTOR P493
+Just give me a second.
+
+(DOCTOR OUT:  11:56  DOCTOR IN:  23:27)
+
+DOCTOR P493
+Okay.  I spoke with DOCTOR.  Um he's in agreement.  There's just some lab work we need to do, recheck your lipids and your liver functions since you're on the simvastatin medication.  Otherwise, we'll repeat some of that cardiology work-up and the stress test um that you did back in 2008, the echo and then also have you follow up with Cardiology.  Since it's been at least since October of 08 that you saw them in the clinic and that would be a good way to follow up with you.  
+
+PATIENT P493
+What about this thing behind my neck?
+
+DOCTOR P493
+I'm sorry.
+
+PATIENT P493
+What about this thing here?  It's not a pimple no more.  It’s down  here.
+
+DOCTOR P493
+It’s a cyst.
+
+PATIENT P493
+What do you with it, nothing?
+
+DOCTOR P493
+Uh well we can leave it alone.  It looks like a little lipoma.  It's benign.  @@@  Um if you want to we can set up to have you been see by you know Dermatology or have you seen by the General Surgery people and they'll be more than happy to remove it if you want to go to through the minor surgical procedure.  Um but it is benign so there's not anything that we need to do about it.
+
+PATIENT P493
+Oh it won't cause no problem then huh?
+
+DOCTOR P493
+No, no it shouldn't cause any problems.  Um.
+
+PATIENT P493
+How much more bigger is it gonna get?
+
+DOCTOR P493
+Well I mean if it's something that's like you know it, the number one risk in that location is you know you're lying on your back at night it kind of can be uncomfortable and if it’s something that's causing a problem in terms of not the lesion itself but if its keeping you from getting sleep or you're worried about it you know we can always refer you to have it removed and that's not a problem at all.
+
+PATIENT P493
+@@@.
+
+DOCTOR P493
+Okay, so everything is going to be put into the computer so there's nothing you need to walk out with, other than this.  This is just to let them know to schedule the two appointments for you up front and I will be putting in a consults for you.
+
+PATIENT P493
+Okay.
+
+DOCTOR P493
+Okay.  And so uh you won't need to be seen back here for another six months so you'll get a letter in about five months.
+
+PATIENT P493
+Okay.  I will get a letter though.
+
+DOCTOR P493
+Yes, yes.  Well I mean, let me just make sure that the problem's not your address.  Uh you're still on STREET NAME?
+
+PATIENT P493
+Yeah, the address is no problem.  I've been getting mail but when I call in.
+
+DOCTOR P493
+Uh-huh, uh-huh.
+
+PATIENT P493
+They send me a notice.  Shoot about every three days I get a notice about my appointment.
+
+DOCTOR P493
+Okay.  Well you'll eventually get a letter saying you need to call in and make your primary care physician appointment, in the General Medicine Clinic and that's usually in about five months as long as the mail doesn't get lost.  That I can't promise.  It's outside my hands.
+
+PATIENT P493
+Alright sir.
+
+DOCTOR P493
+Okay so we'll see you back in about six months okay.
+
+PATIENT P493
+Okay.  I'm giving the lady back this thing she gave me this.
+
+PATIENT LEAVES:  27:05.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286122
+TRANSACTION # 578-10-2-316-0103

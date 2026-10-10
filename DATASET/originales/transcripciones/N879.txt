@@ -1,0 +1,991 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR N879
+PATIENT?
+ 
+PATIENT N879
+Yes.
+
+DOCTOR N879
+@@@.  Hi, how you doing I'm @@@.
+
+PATIENT N879
+Good how's yourself?  @@@
+
+DOCTOR N879
+Just have a seat @@@.  How you been?  Do you need to go to the washroom?  @@@ there.  That was a weird thing, good to see you.  @@@.
+
+PATIENT N879
+@@@.
+
+DOCTOR N879
+That's alright.  I'll help these gentlemen out.  We're going to go in the clinic another way. 
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+Exactly right.  @@@.  Alright.  So how have you been doing sir?
+
+PATIENT N879
+Oh, right now I feel real little dizzy.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+Yeah.  I don't know, it's just been going on for a couple days already.  I don't know what's going on.  I got that pain in my stomach again and I quit drinking.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+Yeah about the 13th of month it'll be six months.
+
+DOCTOR N879
+Great.  Congratulations on that.
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+So this dizziness when did it start?
+
+PATIENT N879
+Couple days ago, it's just that I don't know walking and I'm like woe man it's like I'm wrung out, like I get tingling on my fingers.
+
+DOCTOR N879
+Uh-huh.
+
+PATIENT N879
+I feel like shit.
+
+DOCTOR N879
+And you have the belly pains too?
+
+PATIENT N879
+Yeah, right here, right up in there right by.
+
+DOCTOR N879
+Your bowel.
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+When did those start?  The same thing a couple days ago?
+
+PATIENT N879
+Yeah just a little while ago yeah.
+
+DOCTOR N879
+A couple of days ago?
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+Okay.  Have you been having any diarrhea?
+
+PATIENT N879
+No.
+
+DOCTOR N879
+Any vomiting?
+
+PATIENT N879
+No it feels like I want to vomit now though.  It's like I feel terrible.
+
+DOCTOR N879
+Any other changes in your stools, blood, anything like that?
+
+PATIENT N879
+Just a little bit, I saw a little bit of it maybe about a week ago.
+
+DOCTOR N879
+A little bit.
+
+PATIENT N879
+Yeah.  
+
+DOCTOR N879
+Was it like on the, was the stool brown in color or black in color?
+
+PATIENT N879
+It was like brown in color.
+
+DOCTOR N879
+Brown okay. And it didn't like turn the toilet bowl red or anything like that, it was just a little bit?
+
+PATIENT N879
+It was just the water a little bit.
+
+DOCTOR N879
+Okay.  Alright and the dizziness, does it feel like the room is spinning for you?
+
+PATIENT N879
+Yeah.  And I just got glasses, not even a year ago.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+And they got them changed and I feel like whoa, I don't know.
+
+DOCTOR N879
+You're not really associated the glasses or anything like that.
+
+PATIENT N879
+No, no.
+
+DOCTOR N879
+Okay.  But it feels like almost like you have to hold on to the @@@ spinning around and around.
+
+PATIENT N879
+Yeah, especially when I walk.
+
+DOCTOR N879
+So does it feel like everything when you stand up drains out of your head?
+
+PATIENT N879
+Yeah right.  You're standing there and every thing’s like whoa.
+
+DOCTOR N879
+Okay.
+
+PATIENT N879
+Whoa.
+
+DOCTOR N879
+Just to kind of you define and be sure, it's kind of more sounds that like when you get up things kind of drain out of your head it feels like rather than sitting there and then feeling like the room's unstable and like spinning around.
+
+PATIENT N879
+Uh-huh.
+
+DOCTOR N879
+Is that correct, it's more of the first one than the second one?
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+Okay.  Alright.  Do you notice it like when you go from sitting to standing at all?
+
+PATIENT N879
+Just sometimes when I'm standing.
+
+DOCTOR N879
+Sometimes when standing.
+
+PATIENT N879
+Yeah like when I was waiting for the bus to come over here.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+I was standing there and I just felt like I had to hold on to something cause I felt dizzy.
+
+DOCTOR N879
+Yeah, okay.  Have you been eating and drinking as much as normal?
+
+PATIENT N879
+I been, normal diet, you know.
+
+DOCTOR N879
+Normal, no changes.
+
+PATIENT N879
+No changes no.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+Been taking my medicine like I'm supposed to you know.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+Plus I gotta get one of them expired, my diabetes, need to get it done.
+
+DOCTOR N879
+Uh-huh.
+
+PATIENT N879
+The name of it and stuff. 
+
+DOCTOR N879
+Is that your metformin?
+
+PATIENT N879
+Yeah metformin yeah.
+
+DOCTOR N879
+Now have you been, let's see.
+
+PATIENT N879
+And this uh, my log book, I've been taking my blood, they gave me a machine.  I've been taking it three times a week but now I've been taking a little more cause I @@@.  That’s what is funny.
+
+DOCTOR N879
+Oh @@@ for you.
+
+PATIENT N879
+Yeah one day man it was up to like 160 something and then the next time I went in there and it was like 78 or something like that.
+
+DOCTOR N879
+Uh-huh.
+
+PATIENT N879
+Like this morning, I don't know I think it was like 121.
+
+DOCTOR N879
+121, @@@ this morning was 101, 101?
+
+PATIENT N879
+Yeah right.
+
+DOCTOR N879
+Okay.  Well you know, the lowest one I've seen in here is 65, is that right?
+
+PATIENT N879
+Right.
+
+DOCTOR N879
+When you had that 65 did you feel dizzy or like you had to @@@.
+
+PATIENT N879
+@@@.
+
+DOCTOR N879
+You're not feeling right now though like you're sweating?
+
+PATIENT N879
+Yeah, yeah it feels like my throat's dry.
+
+DOCTOR N879
+Okay, alright.
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+Have you been having any fevers, chills at all?
+
+PATIENT N879
+No.  No.  I can't, I couldn't sleep for the last few days, I don't know.
+
+DOCTOR N879
+Why couldn't you sleep, what was going on?
+
+PATIENT N879
+I don't know.  I go to bed, cause I'm tired and then I'm laying there and I can't sleep.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+And then @@@ one night, told you about getting that pain in my stomach.
+
+DOCTOR N879
+Okay, now tell me a little more about that pain.  It's in your lower abdomen?
+
+PATIENT N879
+It's right up through here.
+
+DOCTOR N879
+Okay.
+
+PATIENT N879
+See right here.
+
+DOCTOR N879
+Yeah.  Does it stay there, or does it radiate like up into your, higher?
+
+PATIENT N879
+Yeah it goes into my back.
+
+DOCTOR N879
+Goes around back.
+
+PATIENT N879
+Yeah and into my legs too.
+
+DOCTOR N879
+Okay, okay.
+
+PATIENT N879
+Back and legs.  Like somebody grabbed me, like something going in there and grabbing.  It's not really that bad.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+But the times that it, it's sort of like somebody's just grabbed me and they just like squeezed.
+
+DOCTOR N879
+Is that associated at all with food?  Like is it better when you eat or worse when you eat?
+
+PATIENT N879
+Probably uh, I don't know.  When I eat it doesn't bother me really.  It's just when I am doing nothing, I walk every day.  I walk two to three miles a day and I come back and I'm okay and then I sit down for a little bit and then all of a sudden I started getting that.
+
+DOCTOR N879
+Okay.
+
+PATIENT N879
+Like right now, it's starting to bother me, go right through like somebody just grabbed me.
+
+DOCTOR N879
+Okay.  Alright.  Are you having any pain going down into like your scrotum at all?
+
+PATIENT N879
+No, there's nothing down there.  It's in the legs.
+
+DOCTOR N879
+Is it in the front part of the leg?
+
+PATIENT N879
+Yeah it's on both sides.
+
+DOCTOR N879
+Both sides.
+
+PATIENT N879
+Yeah both sides and in my back.  
+
+DOCTOR N879
+And it is the left side of the back?
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+You notice any changes in your urine at all?
+
+PATIENT N879
+@@@
+
+DOCTOR N879
+Painful?
+
+PATIENT N879
+No, yeah it was burning oh about a week ago.
+
+DOCTOR N879
+Right.
+
+PATIENT N879
+Because I went to the bathroom and it was kind of burning and I know it wasn't because of alcohol because I don't drink no more so it's uh you know like.
+
+DOCTOR N879
+Any blood in the urine at all?
+
+PATIENT N879
+No I didn't see none.  Right now oh my God this thing hurts.
+
+DOCTOR N879
+Okay.
+
+PATIENT N879
+I thought maybe I was getting that diverticulitis again.
+
+DOCTOR N879
+Yeah.  Is that what it feels like?
+
+PATIENT N879
+Yeah because that's how it started out the last time I came into the hospital.  Because I came into the hospital in October of last year.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+I thought it was my pancreas again cause I had fallen off the wagon but well I hadn't been drinking that much.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+It was just a few and then the doctor sent me home, said you're okay.
+
+DOCTOR N879
+Uh-huh.
+
+PATIENT N879
+And then I came back the very following day.
+
+DOCTOR N879
+Uh-huh.
+
+PATIENT N879
+And they had me drinking I guess that stuff and they took a test and they found out I had that diverticulitis.
+
+DOCTOR N879
+Wow okay.
+
+PATIENT N879
+I couldn't believe the doctor sent me home.  I was in pain.  I said why am I going home if I'm in pain?
+
+DOCTOR N879
+Okay.
+
+PATIENT N879
+And then I came back, when I came back in then that's when they diagnosed me with that and they fixed it @@@.  I said no man I ain't drinking no more, doing nothing.  I been eating healthy, except once in a while I'll eat a burger here and there other than that you know.
+
+DOCTOR N879
+Uh-huh.
+
+PATIENT N879
+Everybody likes burgers and I'm not unusual.
+
+DOCTOR N879
+Alright.
+
+PATIENT N879
+But uh I eat a lot of salads.
+
+DOCTOR N879
+Yeah.  Okay.  I'm taking a look back; it looks like your blood counts have been a little bit low or were a little bit low during that hospitalization.  They've been pretty low in the past too.
+
+PATIENT N879
+Right.  
+
+DOCTOR N879
+Normally some of that it might be due to the alcohol so I think probably number one we could check and see if that's still the case.  If you're still having low sugar or low blood counts okay.
+
+PATIENT N879
+Uh-huh.
+
+DOCTOR N879
+Um, number two we'll take a look and see what we think about um those pains.  So why don't you hop up over here and let me take a look and a listen okay.
+
+PATIENT N879
+See.
+
+DOCTOR N879
+A little dizzy just doing that?
+
+PATIENT N879
+Yeah doing that.
+
+DOCTOR N879
+Okay.  Sounds @@@.
+
+PATIENT N879
+Right.
+
+DOCTOR N879
+Deep breath.  Just breathe normally.  Can I get you to lay back on the table?  
+
+PATIENT N879
+Oh man that hurts.
+
+DOCTOR N879
+Can I get you to untuck your shirt?
+
+PATIENT N879
+Yeah.  
+
+DOCTOR N879
+Let's press, uh let me take a look @@@ okay.
+
+PATIENT N879
+@@@.
+
+DOCTOR N879
+What's that?
+
+PATIENT N879
+It's a little tender right up in that area.
+
+DOCTOR N879
+Alright, a little pressure over here, okay.
+
+PATIENT N879
+Oh I don't like that.  Yeah oh right there, oh my God yeah right there.
+
+DOCTOR N879
+It's mostly down here?
+
+PATIENT N879
+Yeah right.  
+
+DOCTOR N879
+Alright.  Stay laying down.  I'll check your blood pressure.  A couple different ways, with you lying down and with you standing up okay.
+
+PATIENT N879
+Okay.  Do you think it could be a reoccurrence of that shit?
+
+DOCTOR N879
+Of the diverticulitis?
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+It could be, definitely could be.  I want to check some blood tests to help me see if that's what's going on.
+
+PATIENT N879
+Oh.
+
+DOCTOR N879
+You haven't been having any fevers so it's kind of suggests that.
+
+PATIENT N879
+@@@.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+Usually I don't complain.
+
+DOCTOR N879
+No it's alright.
+
+PATIENT N879
+It's like man right now it's like I can feel it in the @@@ my side.
+
+DOCTOR N879
+Okay.  I'm going to take a listen to your @@@ too okay.  Take a deep breath in and hold it.  Good.  Turn to the left side.  Again take a deep breath in and hold it.  
+
+PATIENT N879
+Wow.
+
+DOCTOR N879
+@@@.  Okay.  Are you okay?
+
+PATIENT N879
+My back.
+
+DOCTOR N879
+Okay go ahead and sit up for me.  No swelling @@@.
+
+PATIENT N879
+No.  It's just like the pain I've been having.
+
+DOCTOR N879
+I'm gonna look in your mouth, open up for me.
+
+PATIENT N879
+Uh-huh.
+
+DOCTOR N879
+Say ah.
+
+PATIENT N879
+Ah.  I gotta go and see the doctor for the teeth @@@ and I can't afford it.
+
+DOCTOR N879
+Couldn't afford it.
+
+PATIENT N879
+They wanted like $350 and I'm not working so what do I do?
+
+DOCTOR N879
+I'm going to hold your arm and just hold still okay.  Okay.
+
+PATIENT N879
+I urinate a lot.
+
+DOCTOR N879
+You have been.
+
+PATIENT N879
+Yeah a lot, a lot.  Good thing I took one of those bottles home with me from the last time I went to the hospital.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+I sleep on the second floor and the bathroom is downstairs.  I just use that and I've been urinating a lot too.  And sometimes I don't even have to drink anything.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+Does diabetes do this?
+
+DOCTOR N879
+Yeah diabetes can do it if it's uncontrolled but your blood sugars look like you've been doing okay.
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+Um, I think we probably just need to check a couple blood tests today to see if we can figure out what's going on.  Check your blood counts and a set of electrolytes, including liver levels and check your pancreas.  I don't think that's what going on but I think we should probably just check how given that you've had problems with it in the past.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+Um I would tell you you're talking about the area it's concerning for diverticulitis, like that's what we normally think about you having pain but without any fevers, chills or sweats.  Your exam @@@ pain doesn't feel like diverticular pain.
+
+PATIENT N879
+Hmm.
+
+DOCTOR N879
+I think probably what we're talking about and I do want to check your urine as well, make sure you don't have a urinary tract infection.
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+And maybe a little infection in your kidney back there.  Um so we'll do all that stuff today.
+
+PATIENT N879
+Alright.
+
+DOCTOR N879
+Um and then follow that up um before you get out of here so we know what's going on okay.  Um.
+
+PATIENT N879
+Alright good.
+
+DOCTOR N879
+Alright.  Let me see if there's anything else we need @@@. 
+
+PATIENT N879
+You ordered my medicine, right?
+
+DOCTOR N879
+What's that?
+
+PATIENT N879
+Reorder the medicine for the diabetes.
+
+DOCTOR N879
+Uh I'll reorder it yeah.
+
+PATIENT N879
+Cause I only got enough for I think four days, two pills.
+
+DOCTOR N879
+Yeah.  So right now uh you're taking lisinopril and metformin only?
+
+PATIENT N879
+Uh-huh.
+
+DOCTOR N879
+On a daily basis.
+
+PATIENT N879
+Right.
+
+DOCTOR N879
+You been taking half a tablet of metformin?
+
+PATIENT N879
+Right, it's like 1000 mg I think.
+
+DOCTOR N879
+The whole tablet, so half would be like 500.
+
+PATIENT N879
+Right.
+
+DOCTOR N879
+But it's locked up on me right now for a second.
+
+PATIENT N879
+Uh-huh.
+
+DOCTOR N879
+Now are you taking an aspirin every day?
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+Alright good. 
+
+PATIENT N879
+81 I think.
+
+DOCTOR N879
+Yeah one a day of baby, excellent.  Um okay.  And you know we definitely need to figure out.  I think the dizziness that you're having is probably related to whatever is going on in your stomach okay.  Um uh we can probably, let's see your blood pressure today was 108/67.  I still want you to take that low dose of the lisinopril 20 mg.
+
+PATIENT N879
+Uh-huh.
+
+DOCTOR N879
+Um but I want you to make sure you're drinking enough water uh and doing things like that okay.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+Um I think probably if there is anything, infection or whatever going down in your belly though, that's going to explain the dizziness that you've been having.  Um that’s what we’ll check with today.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+And see if there's anything like that going on.  So I put in this @@@ diabetes medication and then we'll get some blood draws.  @@@ not then I'll have you go downstairs and do it and then I'll call you as soon as I get the results.
+
+PATIENT N879
+Oh okay.  @@@ I just don't want to go back in the hospital again.
+
+DOCTOR N879
+Yeah I know I hear you.
+
+PATIENT N879
+But it feels good to not drink anymore.
+
+DOCTOR N879
+Does it?
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+Yeah I think that's a great health move for you.
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+And you're really going to reap the benefits of that okay.
+
+PATIENT N879
+Oh I feel a lot better with that now so.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+No I see all these people that are out there drunk and that used to be me.
+
+DOCTOR N879
+Used to be you.
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+@@@.
+
+PATIENT N879
+Acting stupid and I'm like oh okay.
+
+DOCTOR N879
+Alright.  Alright you need to hold on for one second.  If the guy is out here to do blood tests, I'll have you come out with me and get those done here but if he's not, just wait in her okay.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+Alright I'll be right back.
+
+PATIENT N879
+Alright.
+
+DOCTOR N879
+Good to see you again.
+
+PATIENT N879
+Yeah.  And when do you want me to come back again?
+
+DOCTOR N879
+Uh we'll get you to come back and depending on what we find will be one issue and then otherwise we'll make sure we're keeping a close eye on you and make sure every thing’s pretty stable, probably like three or four months.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+And then.
+
+PATIENT N879
+Yeah cause last time I was supposed to see you you cancelled out on me.
+
+DOCTOR N879
+Uh-huh.
+
+PATIENT N879
+That was way before I went into the hospital again then.
+
+DOCTOR N879
+Yeah.
+
+PATIENT N879
+Then they kept on asking me well who's your doctor, primary doctor and I said DOCTOR.
+
+DOCTOR N879
+Yeah, yeah.
+
+PATIENT N879
+And then they go, then finally.  Then I got cancelled out last month and they rescheduled me for today.
+
+DOCTOR N879
+Yep exactly.  So I was happy I saw your name pop back up on the list today.  
+
+PATIENT N879
+Yeah.
+
+DOCTOR N879
+Definitely.  
+
+PATIENT N879
+Yeah you never know, I'm doing a lot better.  How is DOCTOR doing?
+
+DOCTOR N879
+He's doing good.  He's one of our chief residents now.
+
+PATIENT N879
+Really.
+
+DOCTOR N879
+Yep, yep.  He's doing real well.
+
+PATIENT N879
+You tell him I said hello.
+
+DOCTOR N879
+I will.
+
+PATIENT N879
+Tell him no more drinking.
+
+DOCTOR N879
+Yeah I'll be right back okay.
+
+PATIENT N879
+Alright.
+
+(DOCTOR OUT:  155:2  DOCTOR IN:  163:0)
+
+DOCTOR N879
+Alright, um I'm going to have you go downstairs and get those blood tests.  Go home after they're done, if there's anything abnormal with them, uh my biggest concern is a very mild case of diverticulitis.
+
+PATIENT N879
+Uh-huh.
+
+DOCTOR N879
+In which case we'll just give you a prescription, take it home.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+Um the other things I'm thinking maybe you have like a kidney stone, maybe there's a urinary tract infection, those types of things we can also treat as an outpatient.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+Now if things get worse, you start to get fevers, your pain gets worse, you have any falls or anything, come back into the hospital to the Emergency Department.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+Um but make sure you're taking, I know your dry out, make sure you're taking enough fluids.
+
+PATIENT N879
+Alright.
+
+DOCTOR N879
+Your blood pressure did go down when I had you standing up but not to the point where I need to give you any IV fluids.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+Just have a bottle of water around.
+
+PATIENT N879
+I'll get some water again.
+
+DOCTOR N879
+Okay.  @@@.
+
+PATIENT N879
+I have to use the bathroom; you need to take my urine?
+
+DOCTOR N879
+Um go downstairs and then they’ll give you a cup.
+
+PATIENT N879
+Oh okay then I'll just wait till you tell me.
+
+DOCTOR N879
+Yeah just wait exactly okay.
+
+PATIENT N879
+And another thing you ordered for me right?
+
+DOCTOR N879
+I'm not going to order any of the medicines just yet.  I ordered the metformin for you.
+
+PATIENT N879
+Yeah, yeah, yeah.
+
+DOCTOR N879
+Yeah I ordered that and then we'll see if I need to give you any antibiotic.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+Okay.  Alright um, any questions?
+
+PATIENT N879
+No.  Doc thanks a lot.  
+
+DOCTOR N879
+Good to see you again.  I'm glad to hear you're doing well.
+
+PATIENT N879
+Well I hope you bring me back real soon cause I want to keep myself together.
+
+DOCTOR N879
+We'll do three months labs today okay.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+Alright, good to see you.
+
+PATIENT N879
+I have to make a stop.
+
+DOCTOR N879
+Just drop it off, there's probably going to be nobody there up front but just drop it on the desk up front.
+
+PATIENT N879
+And then where do I go downstairs and?
+
+DOCTOR N879
+Uh downstairs there's uh, you take those elevators and to the uh lobby and take a left.  Take the elevator to the front lobby, go down to the first floor, after you get there come out of the elevator and take a right and then it will be the first hallway on the right.
+
+PATIENT N879
+Okay.
+
+DOCTOR N879
+Go down to the end of that and that's the Lab.
+
+PATIENT N879
+And they got me on the system?
+
+DOCTOR N879
+There will be a big sign that says ‘Lab’.
+
+PATIENT N879
+Alright thank you.
+
+DOCTOR N879
+Alright take care PATIENT.
+
+PATIENT N879
+Thank you.  Where's the check out?
+
+PATIENT LEAVES:  165:2
+
+Time is 4:04
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238103
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,23 @@
+Sample Name: General Medicine Followup - Palpitations and Hypertension
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Intermittent fluttering sensation and elevated blood pressure during medication review.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient describes two to three weeks of intermittent chest fluttering or skipped beats, sometimes during activity and sometimes improved after belching. He denies associated chest pain. Previous cardiac evaluations were described as reassuring. He has been monitoring blood pressure, frequently recording systolic readings in the 140s and 150s. He previously stopped a diuretic and requests clarification and refills of several remaining medicines, including lisinopril, a cholesterol medication, aspirin and omeprazole. He reports stopping cigarettes in 2001 and subsequently discontinuing heavy alcohol use. Gastroesophageal reflux symptoms are discussed but are not clearly associated with the palpitations.
+
+MEDICATIONS: Lisinopril 10 mg daily, aspirin, a lipid-lowering drug, and omeprazole among reviewed treatments.
+
+PHYSICAL EXAMINATION: Heart rhythm sounds regular at rest during the encounter.
+
+ASSESSMENT AND PLAN:
+1. Palpitations: Obtain ECG at the Heart Station today; patient instructed to return to clinic after testing for review. Seek reassessment for chest pain, dyspnea, syncope or worsening episodes.
+2. Hypertension: Increase lisinopril from 10 to 20 mg daily and renew the appropriate quantity.
+3. Gastroesophageal reflux: Reviewed omeprazole's purpose and its use for symptomatic acid reflux; no clear link established to rhythm complaints.
+4. Health maintenance: Smoking and alcohol abstinence reinforced. Colorectal screening and influenza immunization discussed.
+
+Medication refills reconciled.

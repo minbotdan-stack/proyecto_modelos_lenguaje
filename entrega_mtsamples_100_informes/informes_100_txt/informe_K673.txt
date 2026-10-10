@@ -1,0 +1,17 @@
+Sample Name: Followup After Prostate Evaluation and Leg Symptoms
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Postprocedural follow-up for altered gait and hip symptoms, anticoagulation monitoring, and blood pressure assessment.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient returns after recent prostate evaluation, including a biopsy or procedure requiring interruption and later resumption or dose adjustment of Coumadin. He reports difficulty walking, with pain or altered sensation around the hip and leg since his recent course; he requests physical therapy and a walking aid. There has been limited improvement, and weight-bearing makes symptoms worse. Multiple specialty visits, including nephrology, are pending. Blood pressure is elevated at this visit, but the patient explains that he missed several usual morning antihypertensive medicines because of disrupted sleep and travel. Recent hemoglobin is approximately 9.5, near his recent baseline, and the last reported hemoglobin A1c was 5.7%.
+
+ASSESSMENT AND PLAN:
+1. Impaired gait and lower-extremity symptoms following recent hospital or procedural care. Reorder physical therapy and provide a cane through prosthetics. Additional foot or podiatry follow-up may be arranged later.
+2. Hypertension. A new agent was discussed initially, but the plan changed after clarification of missed doses; no additional antihypertensive was started. Resume prescribed medications and allow nephrology to reassess the current regimen.
+3. Anticoagulation. Continue monitoring and confirm warfarin dosing against the managing service's instructions.
+4. Follow up in approximately three months; continue existing specialty appointments.

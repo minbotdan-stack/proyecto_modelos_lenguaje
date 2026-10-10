@@ -1,0 +1,1085 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR Q111
+PATIENT?
+
+PATIENT Q111
+Yes sir.  What's going on?
+
+DOCTOR Q111
+How are you?
+
+PATIENT Q111
+Alright.
+
+DOCTOR Q111
+How you doing?
+
+PATIENT Q111 
+Alright.
+
+DOCTOR Q111
+@@@.  Alright.  How you doing?
+
+PATIENT Q111
+Oh man I'm having a hard time.  For the last two weeks I've had right over here it felt like it was in knots and my feces came out black at first.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Then it came out as green as those pants.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+And I was like oh God but it turned back colored yesterday but it's staying like that for two weeks you know.
+
+DOCTOR Q111
+So it went to black to green and then uh.
+
+PATIENT Q111
+Then back to regular color.
+
+DOCTOR Q111
+Brown.  Alright.  Have you gained weight?
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+You look like you've gained weight since I last saw you.
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+What's going on?
+
+PATIENT Q111
+I don't know.
+
+DOCTOR Q111
+Are you uh, are you eating more?
+
+PATIENT Q111
+Not uh no I cut breakfast out.  I don't eat breakfast at all anymore.
+
+DOCTOR Q111
+Okay.  Why is that?
+
+PATIENT Q111
+I don't want to gain weight.
+
+DOCTOR Q111
+Okay.  So breakfast isn't the right one to cut out.  
+
+PATIENT Q111
+Why's that.
+
+DOCTOR Q111
+Try cut down on something else because breakfast actually kick starts your metabolism.
+
+PATIENT Q111
+Oh.
+
+DOCTOR Q111
+Uh are you, have you been exercising at all?
+PATIENT Q111
+Yeah I take walks.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+I try to take a walk around the block a couple of times.
+
+DOCTOR Q111
+Any other reason that you can think you may be gaining weight?
+
+PATIENT Q111
+No, maybe depression.
+
+DOCTOR Q111
+Depression okay.
+
+PATIENT Q111
+Yeah, yeah.
+
+DOCTOR Q111
+Uh have you noticed any changes in your sleep?
+
+PATIENT Q111
+Yes, like I know.  I have to take Advil PMs to go to sleep.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+I been having that problem for a while.
+
+DOCTOR Q111
+Right.  Discussed this with you a number of times.
+
+PATIENT Q111
+Before, right.
+
+DOCTOR Q111
+Um is it getting better, getting worse?
+
+PATIENT Q111
+Uh I go to sleep at 12 o'clock I'm up at 3.
+
+DOCTOR Q111
+Okay so you're not really sleeping much at all.
+
+PATIENT Q111
+No.
+
+DOCTOR Q111
+Okay.  Uh have you noticed that you're not interested in things you used to be interested in anymore?
+
+PATIENT Q111
+Yes.
+
+DOCTOR Q111
+So you're kind of okay, how so?
+
+PATIENT Q111
+I'm not interested in anything anymore.
+
+DOCTOR Q111
+Okay, you just kind of just drifting?  Okay.  Have you noticed any changes in your appetite?
+
+PATIENT Q111
+No.
+
+DOCTOR Q111
+Any feelings of guilt?
+
+PATIENT Q111
+Yeah I'm guilty all the time.
+
+DOCTOR Q111
+About what?
+
+PATIENT Q111
+About being me.  About like me, I'm just messed man, I'm just messed up.
+
+DOCTOR Q111
+Alright.  Have you noticed any changes in your energy level?
+
+PATIENT Q111
+Energy uh I have very little energy now.
+
+DOCTOR Q111
+Okay.  How so?
+
+PATIENT Q111
+I didn't like, I try to vacuum the floor.  I can't basic stuff like the vacuum.  Man I have to sit down after I do that.  I have to go back and lay down.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Stuff like that I can't and I been having trouble breathing lately.
+
+DOCTOR Q111
+When?
+
+PATIENT Q111
+When it got real hot man, that stuff.  The air was on, it just felt like it didn't work or these pumps that I'd been taking felt like it didn't work and I'd catch myself not breathing.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+I could be watching TV.
+
+DOCTOR Q111
+And right now you're taking the Advair?
+
+PATIENT Q111
+Right.
+
+DOCTOR Q111
+You take it twice a day?
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+And then you have the albuterol that you just take as needed.
+
+PATIENT Q111
+That's stuff @@@ and that pump, I think that pump needs to be upgraded.
+
+DOCTOR Q111
+The albuterol?
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+Okay.  It only comes in one strength uh when are you, like when are you noticing the shortness of breath?
+
+PATIENT Q111
+Well I notice it about 2 or 3 o'clock in the morning.
+
+DOCTOR Q111
+Okay you get short of breath.
+
+PATIENT Q111
+I have to get up, it's like I stop breathing and I got to get up and grab that pump.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+You know.
+
+DOCTOR Q111
+Do you feel very anxious when this is going on?
+
+PATIENT Q111
+Yeah, yeah, yeah.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Yeah, yeah.
+
+DOCTOR Q111
+Alright um and you get, have you ever been on any other medications for your asthma?  Um.
+
+PATIENT Q111
+Uh basically no.
+
+DOCTOR Q111
+No, anything like Spiriva or tiotropium. 
+
+PATIENT Q111
+No.
+
+DOCTOR Q111
+Never heard that?  
+
+PATIENT Q111
+Never heard of those.
+
+DOCTOR Q111
+Okay.  Um and do you take anything for allergies?
+
+PATIENT Q111
+No sir, no.
+
+DOCTOR Q111
+Okay.  Have you ever taken Singulair?
+
+PATIENT Q111
+Singulair?  No.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Not that I remember.
+
+DOCTOR Q111
+Have you noticed any change in your ability to concentrate on things?
+
+PATIENT Q111
+Uh concentration, concentration like what, like watching TV or.
+
+DOCTOR Q111
+Like if you're reading something or trying to pay your bills or anything like that?
+
+PATIENT Q111
+Oh yeah, yeah I can't concentrate on that at all, no.
+
+DOCTOR Q111
+Alright.  Have you noticed it feels like you're moving more slowly?
+
+PATIENT Q111
+Uh in the arms.
+
+DOCTOR Q111
+In the arms?
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+How so?
+
+PATIENT Q111
+Maybe I couldn't even move this one up the other day.  I could just move it up like this and it will start hurting.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Then I have to grab it and the muscle pushes back down.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Same thing with this arm and this rash, I don't know what, it just happened.  I don't know what that is.
+
+DOCTOR Q111
+@@@.
+
+PATIENT Q111
+This came out of nowhere man.
+
+DOCTOR Q111
+What are you talking about?  
+
+PATIENT Q111
+What is that?
+
+DOCTOR Q111
+Oh this right here?
+
+PATIENT Q111
+Yeah.  
+
+DOCTOR Q111
+It looks like just dry skin to me.  Does it itch?
+
+
+PATIENT Q111
+No.  I've never itched it.
+
+DOCTOR Q111
+Okay.  Um this to me um seems like the summertime okay.
+
+PATIENT Q111
+I don't know.
+
+DOCTOR Q111
+I would just put some lotion on it.  Let me see your other elbow.
+
+PATIENT Q111
+This is not like that.
+
+DOCTOR Q111
+This one's not as bad um.  I would start with some lotion or like uh, do you use Vaseline or anything?
+
+PATIENT Q111
+Yeah, yeah.
+
+DOCTOR Q111
+Yeah start with that and if it gets worse um I want to see it but right now it looks okay.
+
+PATIENT Q111
+You know I have never been tested for diabetes or cancer here.
+
+DOCTOR Q111
+Or cancer so uh.
+
+PATIENT Q111
+I've never been tested.
+
+DOCTOR Q111
+Right so we'll get to that.  Um do you have any feelings of hurting yourself?
+
+PATIENT Q111
+Uh not hurting myself but hurting other people sometimes.
+
+DOCTOR Q111
+When is that?
+
+PATIENT Q111
+Oh that's been happening this week, I mean this year.
+
+DOCTOR Q111
+Alright.
+
+PATIENT Q111
+Period. I get frustrated man, I get frustrated.  I'm not listening good to other people.  They're like @@@.  My feelings is very short.
+
+DOCTOR Q111
+Alright.  Um so a couple of things going on here.  First off uh you sound depressed to me okay.  You sound very depressed.  You have, we have uh kind of an eight point screening test for depression um and usually you're positive on 2-3 of them um that's when we consider someone to be likely depressed um.  You're currently positive on six of them so you know it sounds like you're dealing with some depression right now.  Can you think of any reason you would be depressed?
+
+PATIENT Q111
+Well my mother and father, they was in the hospital not too long ago and I been dealing with that, I don't know.  I know and so were all my other brothers.  They have families and I was dealing with this by myself.
+
+DOCTOR Q111
+Uh-huh.  Do either of your parents live with you?
+
+PATIENT Q111
+They, both of them does.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Yeah both of them are sick.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+One has Parkinson's and cancer and my mother's sick.  She has depression.  She gets bouts of depression.
+
+DOCTOR Q111
+Uh-huh.
+
+PATIENT Q111
+She's taking Xanax, Zoloft and all this stuff and it's making me that way too man.  I know I can't deal with it all, I don't know what to do.
+
+DOCTOR Q111
+Okay.  I can definitely understand your frustration with that situation.  It sounds like you've got quite a bit on your plate right now.
+
+PATIENT Q111
+Right, right.
+
+DOCTOR Q111
+Uh the other thing that you mentioned, the black stools.
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+Um so when people have black stools the thing we would be concerned about is that you're possibly bleeding somewhere in your GI tract.
+
+PATIENT Q111
+@@@.
+
+DOCTOR Q111
+Now if uh, if it resolved then you're probably not bleeding anymore.
+
+PATIENT Q111
+No.
+
+DOCTOR Q111
+Uh and it doesn't, just because they were black doesn't mean that you were bleeding um.  The other thing that can sometimes make your stool black is Pepto Bismol if you take the medication.  If you're taking Pepto Bismol it'll also be black or iron supplements but I don't think you're taking that.
+
+PATIENT Q111
+The only thing I did, I took some of my mother's omeprazole.
+
+DOCTOR Q111
+Omeprazole?
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+Okay.  I thought you were already on omeprazole?
+
+PATIENT Q111
+I’m out of everything.
+
+DOCTOR Q111
+Okay so first off we can refill that for sure um but no, omeprazole shouldn't make your stool black.
+
+PATIENT Q111
+Right.
+
+DOCTOR Q111
+Uh.
+
+PATIENT Q111
+That was for the pain I was having all day, around the chest heart area, through the stomach area, a pain, just pain that come out of nowhere.
+
+DOCTOR Q111
+Okay.  Uh if you're having pain in your chest, you know you may want to consider going to the Emergency Room.
+
+PATIENT Q111
+That's what the lady told me already.
+
+DOCTOR Q111
+Right but you didn't go to the Emergency Room?
+
+PATIENT Q111
+I have two elderly people to uh.
+
+DOCTOR Q111
+Right, alright.
+
+PATIENT Q111
+Take care of.
+
+DOCTOR Q111
+I can understand that um.  The main concern though is if you have a heart attack you know it doesn't matter who you have to take care of cause you're not gonna be there anymore.  Well the other that you bring up is uh screening tests for cancer and diabetes um.  You are correct; uh you know I don't think we've ever screened you for diabetes um. Previously there really wasn't any indication for you to be screened for diabetes.  You know you weren't that heavy and you seemed like you were doing well um.  In light of your recent weight gain um you know sometimes that can be related.  I would like to screen you for diabetes um.  The other thing we need to check is your lipids, your cholesterol needs to be rechecked um because we haven't checked them in a while.  Um and then as far as cancer screening uh there's only really two cancers that we screen for, um, because when you screen for cancer it has to be common to pick anything up and it has to be deadly.
+
+PATIENT Q111
+Oh.
+
+DOCTOR Q111
+So things that we're concerned about are prostate cancer and colon cancer.
+
+PATIENT Q111
+Okay colon cancer.
+
+DOCTOR Q111
+Colon cancer, you had the colonoscopy so you'll be and you did um some polyps on there, um.  It was done in 2009 so you'll need a repeat in 2014.
+
+PATIENT Q111
+Right.
+
+DOCTOR Q111
+You might need one five years after that because of the polyps.
+
+PATIENT Q111
+So what happens with the repeat?
+
+DOCTOR Q111
+When you have polyps?
+
+PATIENT Q111
+I had two of them that were pre-cancer they told me.
+
+DOCTOR Q111
+Right.  So the uh your polyps, there's a bunch of different kinds of polyps um.  Your polyps were the less scary kind so they very infrequently turn into cancer.
+
+PATIENT Q111
+Oh okay.
+
+DOCTOR Q111
+So we want you to, normally people get screened every ten years.  You had polyps so they want to screen you every five.
+
+PATIENT Q111
+Uh-huh.
+
+DOCTOR Q111
+Uh polyps take a while to turn into cancer.  It's not like you're gonna get one today and a month from now it's gonna be cancer.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+So if there were only two then, screening you again in five years there may be more polyps but it's unlikely that there would be an actual cancer.
+
+PATIENT Q111
+Oh.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Alright.
+
+DOCTOR Q111
+Um the other thing, prostate cancer um.  Prostate cancer is very common but it's usually not very deadly.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Um do you have difficulty urinating?
+
+PATIENT Q111
+No, @@@.
+
+DOCTOR Q111
+Now can you sleep through the night without getting up to go to the bathroom?
+
+PATIENT Q111
+Uh yeah.
+
+DOCTOR Q111
+Okay.  So in someone who doesn't have any symptoms and do you have a family history of prostate cancer?
+
+PATIENT Q111
+Uh my father had testicular cancer.
+
+DOCTOR Q111
+Testicular cancer?
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+Okay.  Uh when did your dad develop testicular cancer?
+
+PATIENT Q111
+Oo uh two years ago.  Uh he's cancer free as they say right now.
+
+DOCTOR Q111
+Excellent, excellent.  Do you know how to check yourself for testicular cancer?
+
+PATIENT Q111
+No.
+
+DOCTOR Q111
+Okay all you need to do is feel your testicles and if you feel any hard bumps that's what we'd be concerned about.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+So a bump like a pea, if it felt like a pea and it'll be hard.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+That's when you would want to see someone.
+
+PATIENT Q111
+Oh.
+
+DOCTOR Q111
+Uh if you're not having any symptoms and you're not, there's no family history of prostate cancer um the screening test that we have sometimes causes as much problems as they do good because if the screening test is positive then we're gonna want to do a biopsy.  Um biopsies can cause erectile dysfunction.
+
+PATIENT Q111
+Oh.
+
+DOCTOR Q111
+Incontinence, so my recommendation would be that you don't get screened.
+
+PATIENT Q111
+Oh okay.
+
+DOCTOR Q111
+Okay.  If you want to be screened that's fine but uh I don't think it's a good idea.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Alright.
+
+DOCTOR Q111
+Alright.  We have a lot of things to address today.  Um I'm gonna go talk to DOCTOR.  Do you have more questions?
+
+PATIENT Q111
+No just the medicines.  The omeprazole.
+
+DOCTOR Q111
+Yeah.
+
+PATIENT Q111
+@@@.
+
+DOCTOR Q111
+You have all the stuff you need refilled.
+
+PATIENT Q111
+So I can pick it up, that’s why I brought the bag.
+
+DOCTOR Q111
+Sure.  Okay.
+
+PATIENT Q111
+Alright.
+
+DOCTOR Q111
+Let me go talk to DOCTOR, I'll be right back.
+
+PATIENT Q111
+Okay.
+
+(DOCTOR OUT:  41:36  DOCTOR IN:  48:20)
+
+DOCTOR Q111
+Alright.  So let's go one by one and get these things taken care of.
+
+PATIENT Q111
+Alright.
+
+DOCTOR Q111
+So first off um based on the symptoms that you're having um you meet the criteria for what's called a major depressive episode.  Um there's a reason, you have an inciting incident that would explain why you're depressed.  You know you have a lot going on with your parents right now um but it's affecting you quite a bit from what you're telling me.
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+So I would recommend treating you um with a medication.  Um it's one of the medications in the class called uh selective serotonin reuptake inhibitors and what that means is it increases the amount of serotonin in your brain and serotonin is a chemical that makes us feel better.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Um so along the studies have shown that um compared to just giving medication or just having people talk to a therapist the best method is to do both.  You get the best results when you take medication and you talk to someone.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Is that something you would be open to?
+
+PATIENT Q111
+Yes, yes.
+
+DOCTOR Q111
+Okay so then you know I think the best thing would be to start a medication and to have you see um a therapist.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Um the other thing is in the few weeks right after you start one of these medications, sometimes you're gonna take them 3-4 weeks before you get the full effect of the medication.
+
+PATIENT Q111
+Right.
+
+DOCTOR Q111
+In the first few weeks sometimes people have increased feelings of suicide so if that's something that you notice to be happening to you then you would want to uh probably talk, go find some help, go to the ER or something because you know that's obviously very serious okay.
+
+PATIENT Q111
+Right.
+
+DOCTOR Q111
+Alright.  Um second, I can refill all of your medications.  Do you know which ones you need refills on?
+
+PATIENT Q111
+Omeprazole.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Uh hydrochlorothiazide.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Uh wow, all that's run it on the screen.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Cause basically all of them.
+
+DOCTOR Q111
+Do you pick them up here or do you get them?
+
+PATIENT Q111
+I can pick them up here today.
+
+DOCTOR Q111
+Okay so I'll make sure that you have refills on everything and you can pick them up at the window.
+
+PATIENT Q111
+That’s a lot of them.
+
+DOCTOR Q111
+Yeah I got them all in my note from the last time I saw you.  So you take the Docusate to help, it's a stool softener.
+
+PATIENT Q111
+I don't need those.
+
+DOCTOR Q111
+You don't need that okay um but the Advair, it's the inhaler.
+
+PATIENT Q111
+Yeah I think I ordered it already. I think it’s the 10 or 12, see that's the problem.  Some of those are about to expire anyway.
+
+DOCTOR Q111
+So the ones that are about to expire I can add refills onto them.
+
+PATIENT Q111
+Okay, alright.
+
+DOCTOR Q111
+Would you rather have those delivered to your house or pick them up here?
+
+PATIENT Q111
+I can pick some up today.
+
+DOCTOR Q111
+Okay.  Um and then the hydrochlorothiazide you said you need.
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+Are you taking any of the stool softeners like the Lactulose or the hemorrhoid suppository?
+
+PATIENT Q111
+I'm taking the poly um.
+
+DOCTOR Q111
+The polyethylene glycol?
+
+PATIENT Q111
+The big white bottle.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Yeah, yeah I'm taking that.  That helps, man that lactose stuff, is that?
+
+DOCTOR Q111
+Lactulose okay.
+
+PATIENT Q111
+@@@.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+That big white one I take that one and that makes me use the washroom.
+
+DOCTOR Q111
+The metoprolol, that's the other blood pressure one.
+
+PATIENT Q111
+Metoprolol yeah I take that.
+
+DOCTOR Q111
+Okay, do you need more of that?
+
+PATIENT Q111
+Yeah I'm running out of that too.
+
+DOCTOR Q111
+Alright and then simvastatin, the one for your cholesterol.
+
+PATIENT Q111
+Oh yeah I take that.
+
+DOCTOR Q111
+Okay and then you said you need more of the omeprazole.
+
+PATIENT Q111
+Asmanex I've run out completely, omeprazole I've run out completely.
+
+DOCTOR Q111
+Alright so we'll get those all refilled for you.  
+
+PATIENT Q111
+What else, omeprazole, Asmanex, hydrochlorothiazide, metoprolol.  That's about it yeah.
+
+DOCTOR Q111
+Okay.  I'll get them all refilled uh.
+
+PATIENT Q111
+So which ones can I pick up over there?
+
+DOCTOR Q111
+Which ones did you need to pick, I mean I can make it so you can pick them all up over there.
+
+PATIENT Q111
+Okay.  I'll pick them all up today.
+
+DOCTOR Q111
+Okay, alright.
+
+PATIENT Q111
+I don't have nothing to do.
+
+DOCTOR Q111
+We can do that.  Um and then uh I want to add another medication for your asthma.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+It’s called tiotropium or Spiriva.
+
+PATIENT Q111
+Right.
+
+DOCTOR Q111
+Uh you know if you're still having a lot of symptoms.
+
+PATIENT Q111
+That's when I have the wheezing, I take them here to here.
+
+DOCTOR Q111
+Okay and this will be uh you know you have the asthma medications that you take every day; this will be one of those.  The albuterol is the only asthma medication that you take when you actually have symptoms.
+
+PATIENT Q111
+Right.
+
+DOCTOR Q111
+All the other ones are controller medications that you'll take every day no matter what.
+
+PATIENT Q111
+Oh.
+
+DOCTOR Q111
+And that's what this one will be too.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Uh and when is the last time you've eaten?
+
+PATIENT Q111
+Oh this morning.
+
+DOCTOR Q111
+This morning.  Do you remember what time?
+
+PATIENT Q111
+About um 10 o'clock.
+
+DOCTOR Q111
+10 o'clock okay so about five hours ago.
+
+PATIENT Q111
+Right.
+
+DOCTOR Q111
+Um so are you able to be here tomorrow?
+
+PATIENT Q111
+Uh I could be.
+
+DOCTOR Q111
+Okay.  So here's the thing um if we're gonna test you for diabetes and test your cholesterol.  It should be done when you haven't had anything to eat for eight hours.
+
+PATIENT Q111
+Oh okay.
+
+DOCTOR Q111
+Okay so I'll put the orders in for you to come in tomorrow morning.
+
+PATIENT Q111
+So.
+
+DOCTOR Q111
+And get your lab tests done.
+
+PATIENT Q111
+Oh okay, alright.
+
+DOCTOR Q111
+Okay.  Um so just whenever you wake up, so you can eat whatever you want today but tonight when you go to sleep at you know after like 10 or 11 o'clock tonight.
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+Don't eat anything.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+And when you wake up tomorrow nothing to eat, no coffee, nothing.  Just come in and get your labs done and then after you can eat whatever you want.
+
+PATIENT Q111
+Okay. Cool, I got that.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Yeah alright so um you can come back and see me in three months so that we can follow up on some of this stuff.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+And then uh you can schedule a Psychiatry appointment um first available.  They should be able to help you with that at the front desk.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+I will put in the medications and then um and so the medication that we're gonna start you on.
+
+PATIENT Q111
+For the depression.
+
+DOCTOR Q111
+For the depression is called sertraline.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Have you heard of Zoloft?
+
+PATIENT Q111
+Yeah.
+
+DOCTOR Q111
+So sertraline is Zoloft.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Zoloft is just a trade name for it.
+
+PATIENT Q111
+Oh okay, alright.
+
+DOCTOR Q111
+So um you can pick that up today as well.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Okay so appointments, medications and then tomorrow labs.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Okay.
+
+PATIENT Q111
+Alright.
+
+DOCTOR Q111
+Alright.  Any questions?
+
+PATIENT Q111
+Okay about what time tomorrow I need these labs done?
+
+DOCTOR Q111
+Whenever, the labs open at eight.
+
+PATIENT Q111
+Well see I'll probably.
+
+DOCTOR Q111
+Okay so you can come here whenever you want and uh as long as you haven't eaten you know for eight hours it should be fine.
+
+PATIENT Q111
+Oh okay.  So I can just walk in?
+
+DOCTOR Q111
+Just they'll, the order will be in so they'll know you're coming.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Don’t forget your cane.
+
+PATIENT Q111
+No I’d just come back.  I do this all day long when I come here.
+
+DOCTOR Q111
+I'll see you later okay.
+
+PATIENT Q111
+Okay.
+
+DOCTOR Q111
+Now take care.
+
+PATIENT Q111
+Yeah.
+
+PATIENT LEAVES:  55:47
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275416
+TRANSACTION # 578-10-2-316-0103

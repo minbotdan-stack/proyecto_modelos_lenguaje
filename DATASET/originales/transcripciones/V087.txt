@@ -1,0 +1,813 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   10:40. 
+
+DOCTOR V087
+PATIENT.  How you doing?
+
+PATIENT V087
+Pretty good. 
+
+DOCTOR V087
+@@@  My name is DOCTOR.  I'm one of the clinic doctors.  You haven't been seen in like a year?
+
+PATIENT V087
+Yeah, it’s been a while.
+
+DOCTOR V087
+Any issues since then?
+
+PATIENT V087
+Yeah my hand shakes.
+
+DOCTOR V087
+Okay which hand?
+
+PATIENT V087
+The right hand.  Sometimes I’ll just be sitting and it just starts shaking.
+
+DOCTOR V087
+Is it, are you, is it worse when you're doing stuff with your hands?
+
+PATIENT V087
+Um.
+
+DOCTOR V087
+Or when it's just resting.
+
+PATIENT V087
+When it's just resting.
+
+DOCTOR V087
+And it gets better when you do stuff?
+
+PATIENT V087
+Yeah if I'm working on something I don't have no problem with it.
+
+DOCTOR V087
+Uh-huh.
+
+PATIENT V087
+But when it's just like sitting sometime @@@ would be alright and then it will just start.
+
+DOCTOR V087
+It will start shaking?
+
+PATIENT V087
+Right.
+
+DOCTOR V087
+Any tremor in your upper extremities?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Alright any um dizziness upon standing?
+
+PATIENT V087
+I'm a little lightheaded, not real heavy like but enough to be concerned at the least.
+
+DOCTOR V087
+Yeah cause your blood pressure is really low.
+
+PATIENT V087
+Low yeah I know.  It's normally not like that.
+
+DOCTOR V087
+Yeah.  Okay.
+
+PATIENT V087
+Plus I need some metformin too.
+
+DOCTOR V087
+Well let's get your labs.  You haven't had labs in a year.  We can't give you metformin if we don't know what your labs are.
+
+PATIENT V087
+Okay.
+
+DOCTOR V087
+Um how long have you been feeling lightheaded with standing?
+
+PATIENT V087
+It's just every once in a while.
+
+DOCTOR V087
+Okay.  Is it right now?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Okay.  Okay any headaches, changes in your vision?
+
+PATIENT V087
+Nope.
+
+DOCTOR V087
+Okay.  Any um you know falling?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Or anything or any instability?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Okay um let's see um so you have high blood pressure um you have high cholesterol.
+
+PATIENT V087
+Right.
+
+DOCTOR V087
+And an elevated PSA right?
+
+PATIENT V087
+Uh-huh.
+
+DOCTOR V087
+Have you had any problems urinating?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Like having um @@@ you haven't completely emptied your bladder?
+
+PATIENT V087
+No.  @@@ pretty good with the belt on so.
+
+DOCTOR V087
+Okay.  What a weak stream?
+
+PATIENT V087
+Yeah.
+
+DOCTOR V087
+Any blood in your urine?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Or burning when you pee?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Okay.  Any constipation?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Anything change in the quality of your stool like seeing pencil thin stools?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Any blood in your stool?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Any abdominal pain?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Okay.  Any history of Parkinson in your family?
+
+PATIENT V087
+No.  That's the stuff I was kind of worried about with my hand.
+
+DOCTOR V087
+Yeah.  Any seizures or that kind of thing?
+
+PATIENT V087
+No, no.
+
+DOCTOR V087
+Um diabetes?
+
+PATIENT V087
+Yeah I got diabetes.
+
+DOCTOR V087
+In your family?
+
+PATIENT V087
+Yeah.
+
+DOCTOR V087
+High blood pressure?
+
+PATIENT V087
+Yeah.
+
+DOCTOR V087
+Stroke?
+
+PATIENT V087
+Uh not really with the strokes but high blood pressure a lot.
+
+DOCTOR V087
+What about heart attacks?
+
+PATIENT V087
+No.  You know @@@ so far.
+
+DOCTOR V087
+In your family?  Like your father and your mom?
+
+PATIENT V087
+Uh my father died from a heart attack.
+
+DOCTOR V087
+At what age?
+
+PATIENT V087
+He was uh let's see he was about 55, 55, 57 years old.
+
+DOCTOR V087
+Okay.  What about you mom, any heart attacks?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Alright and then the medications you’re taking, you're taking uh you are taking, are you still taking glyburide 5 mg twice a day?
+
+PATIENT V087
+Uh-huh oh yes.
+
+DOCTOR V087
+Lisinopril 40 mg.
+
+PATIENT V087
+Once a day.
+
+DOCTOR V087
+Once a day.
+
+PATIENT V087
+Yes.
+
+DOCTOR V087
+And then that's it?  You're not taking anything else?
+
+PATIENT V087
+Uh simvestin.
+
+DOCTOR V087
+Simvastatin?
+
+PATIENT V087
+Yeah for cholesterol.
+
+DOCTOR V087
+Okay you take 40 mg?
+
+PATIENT V087
+I take one a day, half of one a day.
+
+DOCTOR V087
+Yeah.  You take let's see metformin 1000 mg twice a day?
+
+PATIENT V087
+Right.
+
+DOCTOR V087
+Metoprolol 100 mg twice a day.
+
+PATIENT V087
+Right.
+
+DOCTOR V087
+Okay.  Um and then sildenafil, it's Viagra I believe, the sildenafil?  For ED.
+
+PATIENT V087
+That was about @@@.
+
+DOCTOR V087
+Sexual stuff, do you take that?
+
+PATIENT V087
+Not really cause I haven't had anything in over a year.
+
+DOCTOR V087
+Okay.  Do you take aspirin?  Maybe one baby aspirin?
+
+PATIENT V087
+Yeah that's what I've been using yes.
+
+DOCTOR V087
+Okay.
+
+PATIENT V087
+A baby aspirin.
+
+DOCTOR V087
+Alrighty so let me go through @@@ and you don't @@@ okay.  And do you smoke?
+
+PATIENT V087
+Uh, no.  Uh I have a question for you.
+
+DOCTOR V087
+Uh-huh.
+
+PATIENT V087
+Okay like my blood pressure was low today.
+
+DOCTOR V087
+Uh-huh.
+
+PATIENT V087
+What causes that?
+
+DOCTOR V087
+So it could be some of your medicine that you take for blood pressure.
+
+PATIENT V087
+Yeah.
+
+DOCTOR V087
+And what it could be is you're just not drinking enough fluid.
+
+PATIENT V087
+I drink a lot of water.  I drink a lot of water.
+
+DOCTOR V087
+Okay.
+
+PATIENT V087
+And I be thirsty.
+
+DOCTOR V087
+Yeah all the time?
+
+PATIENT V087
+Oh yeah I'll be thirsty all the time.  While I'm at work I drink water all day long.
+
+DOCTOR V087
+Um.
+
+PATIENT V087
+And I got another question.  What might cause those hand tremors?  Well nobody in my family has anything like that.
+
+DOCTOR V087
+Alright so that could be um I mean you're already, you've had it for how long the tremor in the hand?
+
+PATIENT V087
+Oh about uh two months now it's been.
+
+DOCTOR V087
+Uh-huh.
+
+PATIENT V087
+Um.
+
+DOCTOR V087
+It started a couple months ago?
+
+PATIENT V087
+No it's been longer than a couple of months.
+
+DOCTOR V087
+So when did it first start?
+
+PATIENT V087
+It's hard to remember.
+
+DOCTOR V087
+Like how years ago?
+
+PATIENT V087
+Oh maybe a year.
+
+DOCTOR V087
+And it's gotten worse?
+
+PATIENT V087
+Yeah it's gotten worse.  That's why I wanted to come down here and see what's going on with that.
+
+DOCTOR V087
+Yeah.
+
+PATIENT V087
+If there's anything else I can do to stop it.
+
+DOCTOR V087
+Well I mean the thing is you're already on a beta blocker.  Beta blockers stop that.
+
+PATIENT V087
+Uh-huh.
+
+DOCTOR V087
+Um we'll probably send you to Neurology most likely.
+
+PATIENT V087
+Okay.
+
+DOCTOR V087
+The Neurology clinic.
+
+PATIENT V087
+I got another question too.
+
+DOCTOR V087
+Uh-huh.
+
+PATIENT V087
+Um @@@.  Oh man I forgot it.  It is shaking now.
+
+DOCTOR V087
+Uh-huh yeah I see.  Have you seen the eye doctor recently?
+
+PATIENT V087
+Um I don't know.
+
+DOCTOR V087
+Diabetic Eye Clinic.
+
+PATIENT V087
+Yeah it's about.
+
+DOCTOR V087
+When was the last time?
+
+PATIENT V087
+I think that was last year I think.
+
+DOCTOR V087
+Okay.  You need another one.
+
+PATIENT V087
+Yeah.
+
+DOCTOR V087
+And was it here?
+
+PATIENT V087
+Yes.  Yeah I came here.
+
+DOCTOR V087
+Can you take your shoes off for me; I want to check your feet.
+
+PATIENT V087
+Take socks off too?
+
+DOCTOR V087
+Uh-huh.  And there are so many things to click @@@.
+
+PATIENT V087
+Uh-huh.
+
+DOCTOR V087
+@@@ reminders.
+
+PATIENT V087
+Oh in the computer?
+
+DOCTOR V087
+So we can find your yeah.
+
+PATIENT V087
+Yeah.
+
+DOCTOR V087
+I mean it's very irritating.
+
+PATIENT V087
+I can imagine.  I'm not good with computers though.  Anything get done on the computer I go to my grandkids.
+
+DOCTOR V087
+Oh yeah.  How tall are you?
+
+PATIENT V087
+I’d say about 5 8.
+
+DOCTOR V087
+So you're 5 8.
+
+PATIENT V087
+I think I weigh about 172 pounds.  I've been trying to do a little exercising.  I like get up every day and I walk for like about an hour.
+
+DOCTOR V087
+Uh-huh.  That's good.
+
+PATIENT V087
+To see if that's okay.  That's what I was gonna ask you is that good?
+
+DOCTOR V087
+Yeah.
+
+PATIENT V087
+I wasn't trying to.
+
+DOCTOR V087
+Yeah.
+
+PATIENT V087
+@@@ I eat.
+
+DOCTOR V087
+Uh-huh.
+
+PATIENT V087
+What um, what should I eat?  I mean I like a lot of salads and stuff like that.
+
+DOCTOR V087
+That's perfect.  Salad and lean meat and fish.
+
+PATIENT V087
+No fried stuff.
+
+DOCTOR V087
+No fried.  You get high cholesterol.
+
+PATIENT V087
+Yeah.
+
+DOCTOR V087
+Also cut out sugar.
+
+PATIENT V087
+Hmm.
+
+DOCTOR V087
+You know you can eat brown rice and stuff.  Cut out white rice especially.
+
+PATIENT V087
+White rice?
+
+DOCTOR V087
+Uh-huh, it’s sugar.
+
+PATIENT V087
+Huh. I didn’t know that. So eat the brown rice.
+
+DOCTOR V087
+It actually tastes better.
+
+PATIENT V087
+Yeah brown rice is pretty good.  I buy that @@@.
+
+DOCTOR V087
+Uh-huh.  Any pain here?
+
+PATIENT V087
+No.
+
+DOCTOR V087
+Okay.
+
+PATIENT V087
+Toenails is @@@.
+
+DOCTOR V087
+Okay you need to go to Podiatry then.  Okay take my fingers squeeze hard as you can okay.  Don't let me pull you forward, don't let me push you back.  Okay.  Put your hand out like this okay.  Don't let me push your fingers together.  Okay.  Don't let me @@@ that side, go like this.  Don't let me push you back; don't let me push you forward.  Okay relax this arm @@@.  Okay.  Let me test your reflexes.  Good.  Deep breath, deep breath, deep breath, deep breath, deep breath.  Okay.  I'm gonna listen to your heart.  Okay.
+
+PATIENT V087
+(Patient's cell phone rang) Let me call you back.
+
+DOCTOR V087
+Any pain when I press here?
+
+PATIENT V087
+Uh uh.
+
+DOCTOR V087
+Let's take your glasses off.  Follow my fingers with your eyes.  Have your eyes always kind of been like that?  Like.
+
+PATIENT V087
+Yeah.
+
+DOCTOR V087
+Prominent, okay.  
+
+PATIENT V087
+Yeah I was called bug-eye.
+
+DOCTOR V087
+Oh sorry.
+
+PATIENT V087
+I don't know, I don't want no problem.
+
+DOCTOR V087
+That's what I mean.
+
+PATIENT V087
+Yeah but you get over it.  I can't worry about it cause they gonna do it anyway.
+
+DOCTOR V087
+That's true.  @@@.
+
+PATIENT V087
+@@@.
+
+DOCTOR V087
+@@@ ah.
+
+PATIENT V087
+Ah.
+
+DOCTOR V087
+Okay so your tremor starts when you're resting and when you put your hand out.
+
+PATIENT V087
+No.
+
+DOCTOR V087
+It doesn't, do it again.
+
+PATIENT V087
+Yeah like you know, it looks like I.
+
+DOCTOR V087
+No tremor.
+
+PATIENT V087
+The tremor will be.
+
+DOCTOR V087
+Yeah.
+
+PATIENT V087
+If I put my hand out like it's @@@.
+
+DOCTOR V087
+Yeah.
+
+PATIENT V087
+@@@.
+
+DOCTOR V087
+Touch your finger to your nose and then touch to my finger, as fast as you can.  Again, keep going, keep going.  Follow it.  If I keep doing it.
+
+PATIENT V087
+Okay, okay.
+
+DOCTOR V087
+Yeah.  Okay @@@ anywhere?  Good.  So you have a tremor a little when you're reaching.
+
+PATIENT V087
+Uh-huh.
+
+DOCTOR V087
+Alright so.  Yeah I'll be right back okay.
+
+PATIENT V087
+Okay.
+
+DOCTOR OUT:  57:45  DOCTOR IN:  63:02
+
+DOCTOR V087
+Hello.  
+
+PATIENT V087
+Uh-huh.
+
+DOCTOR V087
+I'm gonna check your blood pressure again.
+
+PATIENT V087
+Okay.
+
+DOCTOR V087
+It was low.  We don't want it to be low.  Let me see your arm.
+
+PATIENT V087
+@@@.
+
+DOCTOR V087
+So sit up.  And your arm is not skinny so that's good.
+
+PATIENT V087
+Uh-huh.
+
+DOCTOR V087
+It's not fat either.
+
+PATIENT V087
+No.
+
+DOCTOR V087
+So this is too big.  On this side.  
+
+PATIENT V087
+Uh-huh.
+
+DOCTOR V087
+Oh that's good.  @@@.  I'm gonna actually have you see and you know what we're gonna, your feet should be on the ground.
+
+PATIENT V087
+On the ground.
+
+DOCTOR V087
+Yeah.  I'll still have you sit up here.  Lift up your arm, down by your side, good.  Relax, relax the arm.  Just relax.
+
+PATIENT V087
+Uh-huh.
+
+DOCTOR V087
+I'll have you sit up.  Just stand up.  And we'll check it there okay.
+
+PATIENT V087
+Uh-huh.
+
+DOCTOR V087
+Put your arm down by your side okay.  Relax.
+
+PATIENT V087
+I have a question for you.
+
+DOCTOR V087
+Oh.
+
+PATIENT V087
+@@@.  But I wanted to ask you another thing.
+
+DOCTOR V087
+Um.
+
+PATIENT V087
+When it gets low like that should I keep a piece of candy.
+
+DOCTOR V087
+What for your blood pressures?
+
+PATIENT V087
+Yeah.
+
+DOCTOR V087
+No it's not candy.  Probably just need to cut back on @@@.
+
+PATIENT V087
+Oh okay.
+
+DOCTOR V087
+And you've been taking, you've been taking metoprolol and lisinopril .
+
+PATIENT V087
+Right.
+
+DOCTOR V087
+You need to cut back on the dose.
+
+PATIENT V087
+Okay.  @@@.  Only I can't remember a time when it was low like this.
+
+DOCTOR V087
+Uh-huh.  Oh we'll just cut back on your medicine, your lisinopril and your metoprolol dose.
+
+PATIENT V087
+Okay.
+
+DOCTOR V087
+Okay.  Alright so your blood pressure is too low, we need to send you to the ER.
+
+PATIENT V087
+Uh-huh.
+
+DOCTOR V087
+Okay.  Um so we're not going to give you any medicines today since we're gonna send you to the ER.  I'm gonna call them.  So now that make sense.  No dizziness, headaches?
+
+PATIENT V087
+No @@@.  I take @@@ at home.
+
+DOCTOR V087
+Uh-huh.  (Doctor makes a phone call)  So we're gonna take you to the ER okay.
+
+PATIENT V087
+Okay.
+
+DOCTOR V087
+Um so um I want you to, when you go out there give this to the clerk.
+
+PATIENT V087
+Uh-huh.
+
+DOCTOR V087
+So @@@.
+
+PATIENT V087
+@@@.
+
+DOCTOR V087
+Right.
+
+PATIENT V087
+@@@.  
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  38311
+TRANSACTION # 578-10-2-316-0103

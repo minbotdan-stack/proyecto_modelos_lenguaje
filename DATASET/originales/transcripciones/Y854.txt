@@ -1,0 +1,825 @@
+Date of Encounter:  @@/@@ 
+Time of Encounter:  @@@ 
+ 
+DOCTOR Y854
+PATIENT?  Hi, how you doing?
+
+PATIENT Y854
+Uh tired.
+
+DOCTOR Y854
+Tired, @@@.
+
+PATIENT Y854
+Yeah no I'm not sleeping good these days.
+
+DOCTOR Y854
+Okay.  What's wrong with the sleeping?
+
+PATIENT Y854
+I wish I had an answer for you.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+Uh some of it I can anticipate.  Literally, I'm waking up in the middle of the night with pain laying on my side, roll over the pain goes away but uh that doesn't happen all the time, just rather infrequent and I just can't sleep.  Last night I got about four hours sleep.
+
+DOCTOR Y854
+Okay.  Are you sleeping at all during the day?
+
+PATIENT Y854
+Occasionally I'll take a nap but that's occasional.
+
+DOCTOR Y854
+Okay.  Um how much coffee do you drink?
+
+PATIENT Y854
+Uh let's see maybe a cup or two in the morning.  I make sure I don't drink anything late at night.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+I even stopped drinking iced tea to uh you know do it early in the day.
+
+DOCTOR Y854
+Okay.  What time do you try to go to sleep?
+
+PATIENT Y854
+Generally about 9:30 after the news.  Last night it was at 11 o'clock cause I was watching the Cubs game.
+
+DOCTOR Y854
+Okay.  Um so number one, your sleep hygiene is pretty decent um.
+
+PATIENT Y854
+What do you mean? My sleep hygiene, I'm sorry?
+
+DOCTOR Y854
+So uh sleep hygiene is taking no naps during the day.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+And um limiting caffeine intake.
+
+PATIENT Y854
+Okay.
+
+DOCTOR Y854
+So um those are two things that you can do to help yourself sleep better.
+
+PATIENT Y854
+Obviously I'm doing that but it's not working.
+
+DOCTOR Y854
+Yeah.  Um so I can give you medications to help you fall asleep at night um but one the medications can make you feel a little drowsy when you wake up.
+
+PATIENT Y854
+I'll hold off on that just so you're aware that I'm having problems but uh.
+
+DOCTOR Y854
+Okay.  Um, all I can say is try to uh, limit even more so maybe your caffeine intake in the morning.
+
+PATIENT Y854
+Hmm, two cups?
+
+DOCTOR Y854
+And I know.  I, if somebody told me to stop drinking coffee I'd probably say no but if somebody said okay now put yourself in the shoes of not being able to sleep at all.
+
+PATIENT Y854
+Hmm.
+
+DOCTOR Y854
+Then I'd consider it then.  Um and then no naps during the day.  Um, obviously no caffeine at night um and then trying to eliminate any sort of distractions like closing the windows or.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+Um shutting any doors.
+
+PATIENT Y854
+Sounds, drown out sounds right.
+
+DOCTOR Y854
+Yeah.  Uh I can give you medication to help you get to sleep um.  What I tend to do with medications that are sleep aids, is any sleep aid is a possibility of becoming addictive, meaning if you take it long enough, eventually you need that to get to sleep.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+And you can't sleep without it.
+
+PATIENT Y854
+Therefore I will say no at this point.
+
+DOCTOR Y854
+But what I tell my patients who have problems sleeping is and I give them sleep medication is the medication is not for every night.  The medication is for one or two nights a week in which you say oh my God I didn't sleep last night and I didn't sleep well the night before and I got a big test due tomorrow and or I got a big thing to do at work and I have to get some sleep tonight.  I cannot deal with you know staying awake all night.
+
+PATIENT Y854
+I don't want to take any of it right now period.
+
+DOCTOR Y854
+Okay, that's fine.  Um how about, what else is going on?
+
+PATIENT Y854
+Well I'm curious to know what was the results of the two tests that I had, the CAT scan or whatever else that I had.  Haven't heard anything.
+
+DOCTOR Y854
+Yeah.  Um so you had an ultrasound of your thyroid.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+It was normal.  
+
+PATIENT Y854
+Hmm.
+
+DOCTOR Y854
+It still sees that you have some nodules on your thyroid.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+And that your thyroid is a little bit enlarged but it's not any different from the last time they checked it.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+It's about a millimeter bigger.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+Um.  There's a CT scan.  You have some evidence maybe of some sinusitis.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+Which is inflammation in your sinuses.  Did you have surgery on your sinuses before?
+
+PATIENT Y854
+Long time ago.
+
+DOCTOR Y854
+Okay.  They mentioned that you had the results with some surgery.
+
+PATIENT Y854
+Uh-huh, many years ago.
+
+DOCTOR Y854
+Uh.  You have a polyp in your sinuses.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+Um, the polyp is uh can possibly cause some uh sinus congestion and if you wanted to I can refer you to the ENT surgeons and they can look at possibly removing that.
+
+PATIENT Y854
+At the moment it's probably a lot better than it has been in years.  The congestion that I've had literally, I've was in here twice in the Emergency Room and uh that has almost completely cleared up.  the only time I have a problem is when I'm first waking up in the morning and one of the nostrils will be uh basically clogged and it's you know.
+
+DOCTOR Y854
+Are you uh using the spray?
+
+PATIENT Y854
+The spray, yeah.
+
+DOCTOR Y854
+Okay good.
+
+PATIENT Y854
+It's working.
+
+DOCTOR Y854
+And how about the pills?
+
+PATIENT Y854
+Which pills are you referring to.  I got so many of them.
+
+DOCTOR Y854
+The loratadine, it's basically Claritin.
+
+PATIENT Y854
+I believe so. I literally…I got a list; let me see, which did you say it was?
+
+DOCTOR Y854
+Loratadine.  Lorat
+
+PATIENT Y854
+Lor, okay, take one tab oh yeah okay.  It comes wrapped in a silver foil yeah.
+
+DOCTOR Y854
+Yeah.
+
+PATIENT Y854
+@@@ yeah.
+
+DOCTOR Y854
+Then great, then they're doing exactly what they're supposed to be doing.
+
+PATIENT Y854
+They were yes okay.
+
+DOCTOR Y854
+I'm glad you took them regularly.  Some people take them for three, four days and then they say this doesn't work at all and they throw it away or they take them for like whenever they have a problem and it doesn't really fix the problem.  It's a medicine that's meant to be taken every day or every day during the season.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+In which you have problems with nasal congestion or something like that.
+
+PATIENT Y854
+I should mention that I had uh two infected toes after I clipped my nails, soaked them in Epsom salt and groin salve and it cleared it up so.
+
+DOCTOR Y854
+Good.  
+
+PATIENT Y854
+I'm trying to understand what's going on with my thyroid.  Uh a week or so ago we were going out to eat so I took my blood sugar before we went out.  It was at 186.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+Uh I went to the restaurant, ate, figured it was going to shoot way up, came back uh it was down to 111.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+Took my evening medication, it went back, so it was about an hour and a half between the first and second reading, about an hour after, for the third reading and it was up to 116 after I'd taken the medication.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+So it didn't seem to make sense that it would be 186 and then drop down to 111 without medication then go back up to 116 with the medication.  
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+I don't understand that.
+
+DOCTOR Y854
+Uh I don't have an explanation for it either.  That's not usually the way the medications work.
+
+PATIENT Y854
+That.
+
+DOCTOR Y854
+I don't know if maybe it took a while for the medication to.
+
+PATIENT Y854
+You know what I'm saying is I hadn't had the medication since that morning and I go out in the evening to eat and it's 186.
+
+DOCTOR Y854
+Uh-huh.
+
+PATIENT Y854
+And I had a fairly regular day so I didn't see any reason why I should and I still don't understand why it went down to 111 without medication.  I am really concerned about just how accurate or what is going on.
+
+DOCTOR Y854
+Well the meters can be inaccurate uh.
+
+PATIENT Y854
+That I can believe yeah.
+
+DOCTOR Y854
+But if you get an inaccurate number you can always recheck it again and see if you get the same number um.  Usually if you recheck it and you get the same number, the machine is fairly accurate if you repeat the value.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+And if it's the same it's.
+
+PATIENT Y854
+So what you're saying you really can't be, you don't have enough information to be able to say.
+
+DOCTOR Y854
+Exactly.  If you were in the hospital and this sort of thing happened you know, I would have a more controlled environment.  I'd be able to know exactly what you ate; I'd be able to know
+when you got your medication and.
+
+PATIENT Y854
+I'm going to cut you off there.  When I was in here in the Emergency Room I was in here for three days.
+
+DOCTOR Y854
+Uh-huh.
+
+PATIENT Y854
+One time they came in did a blood test and the technician who did the blood test, ah you've been cheating and I hadn't basically been out of the room.  I hadn't had anything but what had been served to me.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+So literally I'm saying something doesn't seem right.
+
+DOCTOR Y854
+You mean cause your blood sugar was high?
+
+PATIENT Y854
+Yes.
+
+DOCTOR Y854
+Yeah.
+
+PATIENT Y854
+Yeah.
+
+DOCTOR Y854
+I don't know if it was because uh the carbs and that were more than what you should've gotten or what.
+
+PATIENT Y854
+It doesn't make sense but you know I am concerned about it.  You know literally that it's just that inconsistent and I know I basically have been.  When I cheat I cheat okay, but I can account for it but there was nothing in this case, either of these cases.
+
+DOCTOR Y854
+All I can tell you is that as long as your blood sugars aren't dropping to low levels where you're below 70s uh or they're not.
+
+PATIENT Y854
+Once I think.
+
+DOCTOR Y854
+They're not regularly really high like regularly above 200, I'm happy with things being in the middle.
+
+PATIENT Y854
+Hmm.
+
+DOCTOR Y854
+And uh I would adjust medications based upon your hemoglobin A1c, which is the number I measure in the clinic.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+That we measure which is a long term measure of your blood sugars and your sugars over 3-4 months, kind of what it averages and so that's a number that we like below 7.  We have good data that shows that if we keep people below 7 they have better outcomes.
+
+PATIENT Y854
+Hmm.  Actually I was surprised I wasn't asked to come in for a blood test this time around but uh.
+
+DOCTOR Y854
+Oh let's see when your last cholesterol panel was.  I was looking at your thyroid hormone study.
+
+PATIENT Y854
+How long ago was that, I'm trying to remember?
+
+DOCTOR Y854
+The thyroid study was done on the 21st of April.  So it shows basically that, your numbers show that you might have a little bit too much thyroid medication, very, very little too much.
+
+PATIENT Y854
+Okay.  If it's too much that could also relate to why I'm having trouble sleeping.
+
+DOCTOR Y854
+Uh that's possible but it's only very slightly elevated.
+
+PATIENT Y854
+Hmm.
+
+DOCTOR Y854
+To the point that I might consider not even doing anything about it.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+Uh but let me look and see what the Endocrine doctor said.  Now I see normal is 0.76-1.46, you're 1.59.  It's just barely above the upper limit of normal.
+
+PATIENT Y854
+Hmm.
+
+DOCTOR Y854
+You take two thyroid pills every day right?
+
+PATIENT Y854
+That is correct.
+
+DOCTOR Y854
+Okay.  And the endocrinologist said they wanted to see you back.
+
+PATIENT Y854
+Hmm, I haven't heard anything so.
+
+DOCTOR Y854
+I think you have an appointment coming up.  Your hemoglobin A1c was better last time.
+
+PATIENT Y854
+What does that mean was good?
+
+DOCTOR Y854
+So 6.9 um, our goal for this is less than 7.  This is a measure of your long term sugars over the last three months.
+
+PATIENT Y854
+Okay.
+
+DOCTOR Y854
+The way it works is called glycosylated hemoglobin or hemoglobin A1c.  Hemoglobin is uh a compound that's inside of all of your red blood cells; it's what stores the oxygen in your blood.
+
+PATIENT Y854
+So.
+
+DOCTOR Y854
+So the higher your sugars are in your blood, cause sugar sticks to those hemoglobin molecules.
+
+PATIENT Y854
+So basically we're on track is what you're saying.
+
+DOCTOR Y854
+So we measure the amount of sugar that's stuck to those and that gives me an average of your sugars for the last three or four months.
+
+PATIENT Y854
+Hmm.
+
+DOCTOR Y854
+So uh 6.9 is below the guidelines of 7 so you're between 6.5 and 7 is the goal.
+
+PATIENT Y854
+Okay.
+
+DOCTOR Y854
+Looks good.  So no change in those medications and blood pressure looks good.  I think we'll just uh keep everything there as it is.  Uh, did you start taking fish oil tablets?
+
+PATIENT Y854
+Yes I have been.
+
+DOCTOR Y854
+Oh good.
+
+PATIENT Y854
+Twice a day.
+
+DOCTOR Y854
+Good and you've had a colonoscopy before right?
+
+PATIENT Y854
+Uh that's no surgery no.  Oh the colonoscopy that's the rectum.
+
+DOCTOR Y854
+Right.
+
+PATIENT Y854
+Yes, that's colon what am I thinking.  I've had it at least twice here.
+
+DOCTOR Y854
+Yeah I was just looking at that.  Um.
+
+PATIENT Y854
+I shouldn't need another one for a couple of years, for years maybe.
+
+DOCTOR Y854
+Yeah you don't need another one for another six years.
+
+PATIENT Y854
+Ah good.
+
+DOCTOR Y854
+And I think everything looks good and I think, oh I was thinking you know what.  Another thing I want to my boss about seeing whether or not we should go down on that dose of uh Synthroid.
+
+PATIENT Y854
+Hmm.
+
+DOCTOR Y854
+Cause you've been having trouble sleeping and your numbers are a little bit high.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+I think that that would be a good thing to do.
+
+PATIENT Y854
+Two things I have to mention, literally, on a scale of 1-10 I'm getting pains of about 1 level okay.  Uh I had gallbladder surgery, every once in a while, within a few hours after eating, I can feel pain in that same area.  It doesn't make sense.
+
+DOCTOR Y854
+Which area?
+
+PATIENT Y854
+Right about here is where I had the pain when I had the gallbladder okay.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+Uh the other one, this goes back 40 years, uh when I was in Vietnam I had my morning bowel movement and I happened to notice a lump in my left cheek.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+Went into the clinic, they looked at it, come back after where I'm taking care of everybody and the operated right there, the local anesthetic pulled out a lump that was probably about that size and I remember a big mass.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+And I don't know, that was the end of that you know I got shipped home shortly thereafter so the paperwork probably got lost on the thing but literally it was just a slit, pull it apartpart and excised.
+
+DOCTOR Y854
+You probably had a lipoma.
+
+PATIENT Y854
+Yeah probably but anyway that area is starting to feel sore again every once in a while and I can't figure, it doesn't make.
+
+DOCTOR Y854
+Are there any lumps back there?
+
+PATIENT Y854
+Uh I haven't been able to feel any lumps back there.
+
+DOCTOR Y854
+Do you want me to check to see if I can feel any lumps back there?
+
+PATIENT Y854
+Uh I would appreciate it yeah, you know.
+
+DOCTOR Y854
+Um and then as far as the pain goes here, are you having any diarrhea at all?
+
+PATIENT Y854
+My uh bowel movements are erratic.
+
+DOCTOR Y854
+That's right I remember now.
+
+PATIENT Y854
+The same thing you know literally hard to very loose and I basically cannot predict.  If I drink too much milk or diet I know it's going to be loose okay.  If I drink too much alcohol or even sometimes just a little bit of alcohol, it hardens up.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+So I can predict the cause of that anyway.
+
+DOCTOR Y854
+Sure.
+
+PATIENT Y854
+Control for it.
+
+DOCTOR Y854
+Uh so the reason I ask is pain down on this side I think of two main things, one would be um hard stools and the other would be diverticulosis.  Diverticulosis is where your colon instead of being a nice even tube.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+For the stool, you get these little out pouching on the side of it, almost like a pocket for your pain.
+
+PATIENT Y854
+I vaguely remember when I had the colonoscopy somebody made a, one of the technicians or whatever was doing it, a doctor I don't know, um made a remark about that.
+
+DOCTOR Y854
+Okay.  Let's just take a look at it.
+
+PATIENT Y854
+I’m surprised I remember I'm supposed to be knocked out in there, it didn't knock me out so I was hearing a lot of things that maybe I shouldn't have.  
+
+DOCTOR Y854
+Yes diverticulosis.
+
+PATIENT Y854
+Hmm.
+
+DOCTOR Y854
+So sometimes those can get irritated or inflamed.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+Uh and usually that stuff is self-limiting, it goes away.  If you start to feel really sick, like nauseous, sick to your stomach, having fevers, that would be a symptom that one of those have gotten infected and so you need to come in to the hospital, but I think a little bit of pain down in that area, I wouldn't do anything about it at this point.  You might just have a little bit of a low grade infection.
+
+PATIENT Y854
+Yeah you know basically the reason I had the gallbladder out, I think it was the gallbladder yeah, it was the West Side VA Hospital.  Anyway I had been to; I hadn't been in there since the White Castle.
+
+DOCTOR Y854
+Uh-huh.
+
+PATIENT Y854
+And so this very greasy food.
+
+DOCTOR Y854
+Yeah.
+
+PATIENT Y854
+And within 24 hours I had somebody drive me to the Emergency Room.
+
+DOCTOR Y854
+Yeah.
+
+PATIENT Y854
+So and basically it's the same area of feeling the pain but definitely not as intense.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+So.  Anyhow, you want to look at the . . . and see.
+
+DOCTOR Y854
+Yeah.  I'll take a look at it.
+
+PATIENT Y854
+Okay.  Pull them down I guess right?
+
+DOCTOR Y854
+Is it about here?
+
+PATIENT Y854
+Yeah right where you had your thumb a second ago.
+
+DOCTOR Y854
+Okay.  
+
+PATIENT Y854
+As I recall it was more, yeah got something there.
+
+DOCTOR Y854
+Hold on.  Probably just one of your muscles back there.
+
+PATIENT Y854
+Yeah.
+
+DOCTOR Y854
+I don't feel any tumors.
+
+PATIENT Y854
+Okay.
+
+DOCTOR Y854
+So.  So uh lipomas are a benign tumor.  It's basically just fat cells in your body.
+
+PATIENT Y854
+Uh-huh.
+
+DOCTOR Y854
+That proliferate too much, they multiply too much.
+
+PATIENT Y854
+That's one of two that I've had.  Another time I had another one, about two inches below my.
+
+DOCTOR Y854
+Uh-huh.
+
+PATIENT Y854
+Right on the spinal cord.
+
+DOCTOR Y854
+Oh wow.
+
+PATIENT Y854
+Yeah.
+
+DOCTOR Y854
+Those are the problems with those is you get, they're benign but if they come into a spot that's.
+
+PATIENT Y854
+Yeah.
+
+DOCTOR Y854
+A delicate area.
+
+PATIENT Y854
+Yeah, yeah.
+
+DOCTOR Y854
+Then removing it can become difficult.
+
+PATIENT Y854
+Fortunately the girl I was dating at the time felt it and called it to my attention.  So you want me to wait while you check with your supervisor.
+
+DOCTOR Y854
+Yeah exactly so.
+
+PATIENT Y854
+Okay.
+
+DOCTOR Y854
+The only thing I think we're going to talk about with him is possibly going down on that Synthroid dose.
+
+PATIENT Y854
+Okay.
+
+DOCTOR Y854
+And then the endocrine doctor wanted to see you back um and they also wanted to see you back with a repeat ultrasound of your neck so what they wanted to do is give you more of the Synthroid medication and see if there are some nodules in the thyroid, see if they disappear.  @@@.
+
+PATIENT Y854
+Will they notify me or what, I was going to ask you.
+
+DOCTOR Y854
+So what I'll do is I'll put in a request and they'll call you.
+
+PATIENT Y854
+Okay.
+
+DOCTOR Y854
+About uh setting up the Endocrine appointment.
+
+PATIENT Y854
+Alrighty.
+
+DOCTOR Y854
+Okay and I'll, I'll talk to my boss to see whether we want to repeat the ultrasound now or.
+
+PATIENT Y854
+Okay.
+
+DOCTOR Y854
+Wait @@@.
+
+(DOCTOR OUT:  162:4  DOCTOR IN:  168.18)
+
+DOCTOR Y854
+Okie doke.  
+
+PATIENT Y854
+Okay what happens?
+
+DOCTOR Y854
+So he wants me to refer you or have you see DOCTOR um and then repeat your thyroid studies today and then based because those were…
+
+PATIENT Y854
+Oh go downstairs to the yeah okay.
+
+DOCTOR Y854
+Lab, yeah get a blood draw.  Um and repeat those studies today and if they're still elevated.
+
+PATIENT Y854
+Hmm.
+
+DOCTOR Y854
+Or even if they're more elevated then I'll give you a call at home.
+
+PATIENT Y854
+Okay.
+
+DOCTOR Y854
+Reduce that dose.
+
+PATIENT Y854
+Okay and I just happened to notice that this being up for a renewal, I only have one more refill between now and August.
+
+DOCTOR Y854
+I'll go ahead; I go through all my patients' medications.
+
+PATIENT Y854
+Okay.
+
+DOCTOR Y854
+When I write your note and I'll make sure all your refills are up-to-date.
+
+PATIENT Y854
+So by the time I get downstairs to the Lab they will have the work order for me or whatever is required?
+
+DOCTOR Y854
+Uh-huh, I'm putting it in right now.  When should I see you back six months?
+
+PATIENT Y854
+Sounds good to me.  Unless something transpires between now and then regarding the.
+
+DOCTOR Y854
+Okay.
+
+PATIENT Y854
+Okay take that out there?
+
+DOCTOR Y854
+Yep.
+
+PATIENT Y854
+Thank you very much, see you in six months.
+
+DOCTOR Y854
+See you in six months; try to stay out of trouble.
+
+PATIENT Y854
+@@@ at my age?  Take care.
+
+DOCTOR Y854
+And I put on the bottom there, I wrote on the bottom of that sheet that they should just set you up with DOCTOR.  I shouldn't have to put anything in the computer for it because you've already seen her, that it's just a follow-up appointment.
+
+PATIENT Y854
+Okay.
+
+DOCTOR Y854
+They should be able to schedule you with that okay, but should you have a problem just come back over here.
+
+PATIENT Y854
+Okay.
+
+PATIENT LEAVES:  171:30
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238119
+TRANSACTION # 578-10-2-316-0103

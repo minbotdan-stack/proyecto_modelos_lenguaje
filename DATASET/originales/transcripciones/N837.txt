@@ -1,0 +1,805 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@ 
+
+DOCTOR N837
+PATIENT?
+
+PATIENT N837
+Yeah hi.  Hi how you doing?
+
+DOCTOR N837
+Right on time huh.
+
+PATIENT N837
+Right on time, right on the button.
+
+DOCTOR N837
+Have a seat in there.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+How you doing?
+
+PATIENT N837
+Good.
+
+DOCTOR N837
+So when was the last time I saw you, do you remember?
+
+PATIENT N837
+No I don't remember any of that.
+
+DOCTOR N837
+It's been a while?
+
+PATIENT N837
+Uh been a while yeah.  I was thinking like six months.
+
+DOCTOR N837
+Almost a year, June.
+
+PATIENT N837
+June, wow that long.
+
+DOCTOR N837
+What can I do for you?
+
+PATIENT N837
+Uh I'm in for a regular check-up I guess.
+
+DOCTOR N837
+Uh-huh.
+
+PATIENT N837
+Uh I wanted to tell you that on the pills, that last pill that I was taking, that varmazine or what it is.
+
+DOCTOR N837
+Hmm, it's call valsartan.
+
+PATIENT N837
+Valsartan, whatever that is.
+
+DOCTOR N837
+Yeah.
+
+PATIENT N837
+I never could get enough of those.  I'd always run out so consequently what I did is I switched back to taking only one pill.  So I've only taken one pill instead of the pill and a half.
+
+DOCTOR N837
+Let me look @@@.  How much were you taking before?
+
+PATIENT N837
+Before I was taking one pill and then you bumped it up to a pill and a half.
+
+DOCTOR N837
+Yeah.
+
+PATIENT N837
+And I took it for a while, then I couldn't get the dag gone pills and uh so I just switched back to spread them out to one pill.  But here's a listing of my blood pressures I took.
+
+DOCTOR N837
+This is on one pill.
+
+PATIENT N837
+This is all on one pill.
+
+DOCTOR N837
+Yeah there's a couple of high ones.
+
+PATIENT N837
+If you say so I'll go back to a pill and a half.
+
+DOCTOR N837
+Yeah.  Cause I want it at 140 or below.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+You have a couple that uh 126, 140, so you didn't have enough huh?
+
+PATIENT N837
+Yeah, I keep running out and I am.
+
+DOCTOR N837
+How many days behind were you?  Uh how many days could you.
+
+PATIENT N837
+I think for a period there I was out of pills for about two weeks.
+
+DOCTOR N837
+Really.  If it's at 1 1/2 really.
+
+PATIENT N837
+1 1/2, so I spread it out to one pill and then I started using what I had, I went back to one pill and then since then I haven't changed it.  I just kept going with it.  @@@.  But if you're thinking the blood pressure's still too high and you want it down, I can, I got pills now but I wanted to tell you.  If they're going to get them to me, they got to give me more than what they've been sending.
+
+DOCTOR N837
+Yeah.  They'll have to do that.  Cause I'm thinking you have a 90 day supply.
+
+PATIENT N837
+Yeah, if they want me on a pill and a half they're going to have to kick up the number by 50%.
+
+DOCTOR N837
+I can't do math, alright.  You need 90 pills, so 90 pills will give one pill for three months.  If you also need a half.
+
+PATIENT N837
+Yeah.
+
+DOCTOR N837
+Half a tablet for, so it would be a half tablet x3 x30.
+
+PATIENT N837
+If it would be 90 for three months then a pill and a half would be then another 45 wouldn't it?
+
+DOCTOR N837
+Yeah.  It works out to be 135 pills.  Should be enough wouldn't it?
+
+PATIENT N837
+I don't know, I been taking them uh.  I might have some left cause the problem I had is its feast or famine.  Either I have no pills or all of a sudden I got a bunch of them.  I got enough now, I got in that bottle, I think that would last me a little bit.
+
+DOCTOR N837
+Okay.
+
+PATIENT N837
+But uh how long, what I really have to be able to do is uh, when I run out, before I run out I figure about a week or so and then I turn in my prescription for that.
+
+DOCTOR N837
+Okay.
+
+PATIENT N837
+And then I get them on time.
+
+DOCTOR N837
+How active are you right now?
+
+PATIENT N837
+I'm very active.
+
+DOCTOR N837
+Are you, so do you exercise at all?
+
+PATIENT N837
+Oh yeah, every morning.
+
+DOCTOR N837
+What do you think you do?
+
+PATIENT N837
+I do about 20 minutes.  I got uh.
+
+DOCTOR N837
+Do you walk?
+
+PATIENT N837
+I walk but I got a regimen of uh exercises that I do.  They take about 25 minutes.
+
+DOCTOR N837
+What kind of exercises?
+
+PATIENT N837
+Mostly stretching.  Stretching and just limbering up.
+
+DOCTOR N837
+Okay.
+
+PATIENT N837
+And then I walk the dog, I walk her every day, about at least two, a couple of blocks. So, I’m out. But I'm active.  I'm putting brakes in the car right now.
+
+DOCTOR N837
+Okay.
+
+PATIENT N837
+And so I'm up and down you know.
+
+DOCTOR N837
+Any problems at all or anything else?  Anything that's concerning you?
+
+PATIENT N837
+Uh nothing except what I wanted to ask you.
+
+DOCTOR N837
+Yeah.
+
+PATIENT N837
+When I sleep at night.
+
+DOCTOR N837
+Uh-huh.
+
+PATIENT N837
+You know I've been taking guitar lessons.
+
+DOCTOR N837
+Yeah.
+
+PATIENT N837
+So when I take guitar lessons it's hard on your fingers.
+
+DOCTOR N837
+Yeah.
+
+PATIENT N837
+It really hurts like hell, so anyway as I been sleeping at night, when I lay on my belly I feel tingling in my hand here.
+
+DOCTOR N837
+Hmm.
+
+PATIENT N837
+And I keep thinking that tingling is coming from pressing on the.
+
+DOCTOR N837
+@@@.  Sometimes you can injure your carpal tunnel down here.
+
+PATIENT N837
+Yeah.  I don't know but anyway.  I do, I do feel that tingling and then it goes away if I roll over and I get on my back it seems to disappear but then it'll come back again and it's like a tingling situation and I keep thinking it's coming from those fingers but I thought I'd pass it by you to see what you thought.
+
+DOCTOR N837
+Where's the tingling?
+
+PATIENT N837
+It just goes up my arm right here?
+
+DOCTOR N837
+Anywhere and do your fingers tingle at all?
+
+PATIENT N837
+Yeah.
+
+DOCTOR N837
+Which fingers?
+
+PATIENT N837
+All of them, they just.
+
+DOCTOR N837
+Any fingers worse than the others?
+
+PATIENT N837
+Yeah these are the ones that I use for the cords.
+
+DOCTOR N837
+The three here.  
+
+PATIENT N837
+You're supposed to use four for the cord but I don't use that pinky much.
+
+DOCTOR N837
+How bad is it?
+
+PATIENT N837
+No it's just very mild.
+
+DOCTOR N837
+And it goes away if you.
+
+PATIENT N837
+Yeah it goes away, yeah it isn't, it's not enough to wake you up or anything it's just a little.  It's irritating.  Like you, have you ever slept on your arm?
+
+DOCTOR N837
+Uh-huh.
+
+PATIENT N837
+You sleep on your arm and you get up and you feel a little tingling.
+
+DOCTOR N837
+Yeah.
+
+PATIENT N837
+That's it.
+
+DOCTOR N837
+Okay.  How's your knee doing?
+
+PATIENT N837
+Knee is okay and I had a question on that.
+
+DOCTOR N837
+Yeah.
+
+PATIENT N837
+There's a newspaper ad that says they got a new concoction a pill that lubricates the joints and it does it within a week and I didn't, I saved that article but I wanted to ask there, is there a pill on the market that is good for the joints that I might be taking?
+
+DOCTOR N837
+Well there's some controversy.  A lot of the pills for arthritis have like glucosamine or chondroitin.
+
+PATIENT N837
+Yeah, yeah.
+
+DOCTOR N837
+Have you tried using those in the past before?
+
+PATIENT N837
+No.
+
+DOCTOR N837
+So they have those over-the-counter.  Some studies show that it helps; some studies show that it doesn't so I can't say for sure.  It's supposed to like help lubricate your joints, help @@@.
+
+PATIENT N837
+They say take gelatin.  Is that Jell-O, is Jell-O gelatin?
+
+DOCTOR N837
+Yeah, Jell-O is a gelatin.
+
+PATIENT N837
+If you eat a lot of Jell-O would that help?
+
+DOCTOR N837
+Uh.  @@@.  Typically those have chondroitin, glucosamine and gelatin.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+And some studies show it helps, some studies show it doesn't so I can't, you know.  I don't know if it helps or not.  It can be expensive.  And @@@ bottle costs like $20-$30 for a bottle.
+
+PATIENT N837
+That kills it right there.
+
+DOCTOR N837
+Yeah and some people say it helps and some people say it doesn't.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+So I don't know if it really does @@@.
+
+PATIENT N837
+Well my, as long as I keep active and I keep my knee.  When it gets damp out.
+
+DOCTOR N837
+Uh-huh.
+
+PATIENT N837
+I've got a support that they gave me.
+
+DOCTOR N837
+Okay.
+
+PATIENT N837
+A knee support and I put that on and it's the heat from that that seems to help the most and as long as I do that I can get through day @@@.
+
+DOCTOR N837
+Do you smoke at all?
+
+PATIENT N837
+No.
+
+DOCTOR N837
+Ever smoke before?
+
+PATIENT N837
+I smoked uh when I was first in the service maybe oh, I might have been maybe about 25 years old so it's been a long time since I.  But I never smoked cigarettes.  I smoked a pipe.
+
+DOCTOR N837
+Okay.
+
+PATIENT N837
+And I smoked cigars, then cigars got too expensive.  A good cigar ran about 75 cents.
+
+DOCTOR N837
+You live pretty far from here don't you?
+
+PATIENT N837
+Yeah Arlington Heights.
+
+DOCTOR N837
+What if I want you, I need you to come back to get lab work done.  When's your next appointment here do you know?
+
+PATIENT N837
+I have no idea.  Well wait a minute I got one with uh an eye doctor.
+
+DOCTOR N837
+Do you know when that is?
+
+PATIENT N837
+Uh seemed to me that's coming up.  If you could break into that you might be able to check it.
+
+DOCTOR N837
+This doesn't list any other appointments other than @@@.
+
+PATIENT N837
+No I can't tell you because I don't remember because I complained I'm having trouble reading and they told me last time I was there in three months they were gonna have me in for cataract surgery and I never heard from them again.  So I asked them what the heck was happening and they said well you got an appointment coming up within a month or two.
+
+DOCTOR N837
+@@@.
+
+PATIENT N837
+And so I said well I'll just wait for that.
+
+DOCTOR N837
+When was the last time you saw them?
+
+PATIENT N837
+Oh God I wish you wouldn't ask me these questions.  Uh I should keep a record on that but it's been a while.
+
+DOCTOR N837
+August. (provider looked in EMR)
+
+PATIENT N837
+August, that long wow.
+
+DOCTOR N837
+You should just stopped by on your way out of here and scheduled an appointment with them.
+
+PATIENT N837
+I got one.  I don't know when it is though.
+
+DOCTOR N837
+@@@.
+
+PATIENT N837
+They told me I had one.
+
+DOCTOR N837
+It's not listed in here.  You can stop by the Eye Clinic on the way out.
+
+PATIENT N837
+I will.  They told me I had one coming up.
+
+DOCTOR N837
+And you saw the skin doctor right?
+
+PATIENT N837
+Yeah I just saw them.
+
+DOCTOR N837
+Not too long ago.
+
+PATIENT N837
+Yeah.
+
+DOCTOR N837
+And they took a biopsy alright.
+
+PATIENT N837
+Yeah they took a biopsy on my nose right and that was clear.
+
+DOCTOR N837
+Okay.
+
+PATIENT N837
+But I have trouble with my eyes cause they water a lot and I keep thinking its, they say when you're having trouble reading that's the time you should get these things removed and uh they said it wasn't the right time.
+
+DOCTOR N837
+Back in August they wanted you to come back in about 9-12 months.
+
+PATIENT N837
+Yeah.
+
+DOCTOR N837
+It should be around now from this summer.
+
+PATIENT N837
+Yeah.
+
+DOCTOR N837
+Just stop by on the way out of here.
+
+PATIENT N837
+Yeah, okay I'll double check.  If you could then we could make that appointment at the same time.
+
+DOCTOR N837
+Yep.  Just have a seat up here.  Is it a big hassle for you to come up here?
+
+PATIENT N837
+What's that?
+
+DOCTOR N837
+Is it a big hassle for you to come to the VA?
+
+PATIENT N837
+No not if it's necessary no.  I come here, but I like to double up on appointments if I can.  You know it takes me an hour to get here.
+
+DOCTOR N837
+Where did they do the biopsy?
+
+PATIENT N837
+Right there on the nose, right about there.
+
+DOCTOR N837
+The nose okay.  @@@.
+
+PATIENT N837
+They did find some stuff before.
+
+DOCTOR N837
+Yeah I saw that yeah.
+
+PATIENT N837
+And then they did uh, they did some cutting.
+
+DOCTOR N837
+Open your mouth, say ah.
+
+PATIENT N837
+Ah.
+
+DOCTOR N837
+Okay, yeah I saw their note.  Yeah they did a little bit huh.
+
+PATIENT N837
+Yeah and they were concerned because they did remove some before that was cancerous.
+
+DOCTOR N837
+Deep breath in and out.  I'll have you lie back here.  No chest pain or shortness of breath?
+
+PATIENT N837
+Nope.
+
+DOCTOR N837
+Or stomach pain?
+
+PATIENT N837
+Nope.  Those pills were uh, were uh I call them antacids.
+
+DOCTOR N837
+Uh-huh.
+
+PATIENT N837
+They work great.
+
+DOCTOR N837
+Okay that's good.  Any pain at all?
+
+PATIENT N837
+Nope.  
+
+DOCTOR N837
+You need to sit back up here.  Who do you live with?
+
+PATIENT N837
+I live alone.  I got a dog, me and the dog.
+
+DOCTOR N837
+@@@.
+
+PATIENT N837
+My wife died about 20 years ago.
+
+DOCTOR N837
+Oh wow.
+
+PATIENT N837
+So and I have @@@.  My kids are all gone.
+
+DOCTOR N837
+Things are okay at home?
+
+PATIENT N837
+Yeah.  My dog wasn't feeling too good.  I think she's got epilepsy.
+
+DOCTOR N837
+Really, that's not @@@.
+
+PATIENT N837
+I see that she fell over and she had went into like a fit.
+
+DOCTOR N837
+Yeah.
+
+PATIENT N837
+And in about three minutes it was over so I got some dog books from the library and they said yeah that breed can have epilepsy.
+
+DOCTOR N837
+@@@.
+
+PATIENT N837
+And uh I said well at 10 years old you know, maybe she's to that point where she can't.
+
+DOCTOR N837
+@@@.
+
+PATIENT N837
+Yeah she's getting pretty old.
+
+DOCTOR N837
+Let me talk to my attending I'll be right back okay.
+
+PATIENT N837
+Sure.
+
+(DOCTOR OUT:  119:2  DOCTOR IN:  123:02)
+
+DOCTOR N837
+Alright, so we'll just change it back to the 1 1/2 I hope they send you enough this time.  They may have miscounted.
+
+PATIENT N837
+Okay, okay.
+
+DOCTOR N837
+Let me renew actually all of your regular meds have been renewed except for the valsartan.  Okay I'll renew the valsartan.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+And um.
+
+PATIENT N837
+It seemed like there was a limit on the number of valsartan I could get and I would run they would tell me that there's no more available.  Is all that heart medicine, is that all the same as rat poison?
+
+DOCTOR N837
+No why would you say that?
+
+PATIENT N837
+I heard that.  Heart medicine is usually rat poison.
+
+DOCTOR N837
+(Laughter) I don't know where you heard that um.  Okay so what we will do I'll have you come back here in about six months.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+Um unless something major goes on.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+Then you need to come back sooner than that.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+I want to check lab work, well, the thing is like, I should probably have you come back to see the nurse to make sure your blood pressure is okay.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+Okay for a nurse appointment.
+
+PATIENT N837
+Okay.  Well can you call the Eye Clinic to find out if I have an appointment that they don't show on the books?
+
+DOCTOR N837
+There's nothing in there so what you need to do is on your way down, just walk on in.
+
+PATIENT N837
+I know but then it can help you right now.
+
+DOCTOR N837
+For the.
+
+PATIENT N837
+To make another appointment.
+
+DOCTOR N837
+We'll see how your blood pressure is though.  I don't think you need to see the nurse.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+Cause you can check your blood pressure at home.
+
+PATIENT N837
+Yeah.
+
+DOCTOR N837
+So if there is any problems in your blood pressure and if it gets higher then when you take 1 1/2 a day if you see it getting any higher than 145.
+
+PATIENT N837
+Yeah.
+
+DOCTOR N837
+Call in here, let the nurse know and they'll just let me know.
+
+PATIENT N837
+I hear you.
+
+DOCTOR N837
+Okay.
+
+PATIENT N837
+Okay I'll do that.  Cause it sure seems like it isn't bad.  You know it gets down to 132 something and that's pretty good.
+
+DOCTOR N837
+It's just less than, but I think that over 145 a lot.
+
+PATIENT N837
+Okay, okay.
+
+DOCTOR N837
+Okay.  Well I would like the lab work in like 1-2 weeks or so, whenever you go to get your eye appointment.
+
+PATIENT N837
+When I come in to the eye appointment can I automatically go down and get my blood and then.
+
+DOCTOR N837
+Just tell them that your doctor ordered the lab work.
+
+PATIENT N837
+Great.
+
+DOCTOR N837
+Okay.
+
+PATIENT N837
+That'll take care of it.
+
+DOCTOR N837
+But I would like to get it done within the next month or so.
+
+PATIENT N837
+Okay cause right now I'm without a car.  My car has bad brakes and we're working on it and uh so now I got a driver driving me in.
+
+DOCTOR N837
+Okay.
+
+PATIENT N837
+And I think I just lost a friend, I don't think he'll drive me down again.
+
+DOCTOR N837
+And now I need to have you come back in about six months.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+Um so I'm finishing up in the program in June.
+
+PATIENT N837
+Oh bummer, that's great for you.
+
+DOCTOR N837
+So when you come back you'll probably be with a different resident.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+Um I'm actually staying around, I'll be in Cardiology.
+
+PATIENT N837
+Okay.
+
+DOCTOR N837
+So I'll be around it just won't be here.
+
+PATIENT N837
+Okay.  Good luck to you.
+
+DOCTOR N837
+Yeah.
+
+PATIENT N837
+Great, it's been nice working with you.
+
+DOCTOR N837
+Yeah, yeah.
+
+PATIENT N837
+Every thing’s working good.
+
+DOCTOR N837
+Yeah you look pretty good huh.
+
+PATIENT N837
+Yeah.
+
+DOCTOR N837
+Alright.  Good luck on that lab work okay.
+
+PATIENT N837
+Yeah I will, thank you.  Now I just turn this in and that's it?
+
+DOCTOR N837
+Yeah and then just stop in the Eye Clinic on your way out.
+
+PATIENT N837
+Okay thank you.
+
+PATIENT LEAVES:  126:4
+
+Time is 3:55.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238104
+TRANSACTION # 578-10-2-316-0103

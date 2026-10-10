@@ -1,0 +1,713 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR U919 
+PATIENT?
+
+PATIENT U919
+Okay, here we go huh.  Alright come on NAME.
+
+DOCTOR U919
+So how are you?  I'm DOCTOR I'll be seeing you today.
+
+PATIENT U919
+Oh yeah.
+
+DOCTOR U919
+Um DOCTOR was seeing you in follow-up.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+So how are you doing?
+
+PATIENT U919
+I'm doing fine.
+
+DOCTOR U919
+Doing fine, any complaints today?
+
+PATIENT U919
+Uh my digestion's really getting worse again.
+
+DOCTOR U919
+Oh what's wrong with your digestion?
+
+PATIENT U919
+Gastric.
+
+DOCTOR U919
+You have acid reflux?
+
+PATIENT U919
+Yeah, yeah exactly.
+
+DOCTOR U919
+Any coughs at night?
+
+PATIENT U919
+Yes.
+
+DOCTOR U919
+Okay.  You're not taking anything for that right now are you?
+
+PATIENT U919
+No.
+
+DOCTOR U919
+Okay we can give you a medicine for that.
+
+PATIENT U919
+Thank you, thank you yes.
+
+DOCTOR U919
+Is it worse after certain meals like fatty meals?
+
+PATIENT U919
+Yes, yes.
+
+DOCTOR U919
+And spicy foods.
+
+PATIENT U919
+Spicy.
+
+DOCTOR U919
+Like spicy foods?
+
+PATIENT U919
+Really spicy.
+
+DOCTOR U919
+Okay we can give you something for that.
+
+PATIENT U919
+Yeah, yeah but.
+
+DOCTOR U919
+How long has this been going on for?
+
+PATIENT U919
+Years.
+
+DOCTOR U919
+Years.
+
+PATIENT U919
+Yeah.  I take a lot of Pepto Bismol and all that but that ain't doing nothing at all.
+
+DOCTOR U919
+Yeah we can give you something that's a little stronger than that.
+
+PATIENT U919
+That's good.
+
+DOCTOR U919
+That will help with that.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+Anything else?
+
+PATIENT U919
+Yeah I need a prescription filled.
+
+DOCTOR U919
+For which medicine?
+
+PATIENT U919
+Uh for my skin, skin disorder uh.
+
+DOCTOR U919
+For the itching right?
+
+PATIENT U919
+Yeah the itching here, @@@.
+
+DOCTOR U919
+Is there another one?
+
+PATIENT U919
+This is for prostate.
+
+DOCTOR U919
+Yeah this isn't for that.
+
+PATIENT U919
+@@@ got the wrong one?
+
+DOCTOR U919
+@@@.
+
+PATIENT U919
+@@@.
+
+DOCTOR U919
+We can refill this.
+
+PATIENT U919
+Okay thank you, that's what I need.
+
+DOCTOR U919
+Okay anything else or is that the main thing?
+
+PATIENT U919
+No that's about it.  That's about it I guess.
+
+DOCTOR U919
+Okay, okay and then I'm just gonna, cause this is the first time I'm seeing you just to go over your medical problems together.
+
+PATIENT U919
+Right.
+
+DOCTOR U919
+You have arthritis, you have high cholesterol.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+PTSD, you have schizophrenia, you have a history of drug abuse in your past.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+You have diabetes.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+You're a smoker.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+Um you had blood in your urine and decreased urine stream.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+So you had a work-up by GU then.
+
+PATIENT U919
+Yeah, yeah.
+
+DOCTOR U919
+That was all negative.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+And in terms of your medicines, you're on the pravastatin.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+The terazosin.
+
+PATIENT U919
+Right.
+
+DOCTOR U919
+The hydroxyzine.  
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+Are you still, are you taking the simvastatin cause it looks like you haven't filled it in a year so.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+The cholesterol medicine?
+
+PATIENT U919
+No I haven't been taking it.
+
+DOCTOR U919
+You haven't been taking it.
+
+PATIENT U919
+No.
+
+DOCTOR U919
+Okay.  And is there a reason that you're not actually taking it?
+
+PATIENT U919
+It don't do nothing.
+
+DOCTOR U919
+Um yes, I know it doesn't see that it seems like it doesn't do anything cause you can't see it but your cholesterol actually was really, really high in April when they measured it.
+
+PATIENT U919
+It was?
+
+DOCTOR U919
+Yeah so you know.
+
+PATIENT U919
+And now you want to put me back on it right?  Alright, okay.
+
+DOCTOR U919
+Because it’s really important for heart disease.
+
+PATIENT U919
+Okay.
+
+DOCTOR U919
+Because the reason that sometimes people get heart attacks is because they have blocked - plaques that build up.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+In the cholesterol in the vessels to their heart, they're kind of what we want to prevent.  So that’s what it does, it’s not a medicine that you see the affects right away.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+But it's more of a preventative medicine.
+
+PATIENT U919
+Oh okay.
+
+DOCTOR U919
+So it's really important that you take it.
+
+PATIENT U919
+Okay gotcha.
+
+DOCTOR U919
+Okay and then um do you smoke still?
+
+PATIENT U919
+Yep.
+
+DOCTOR U919
+How much?
+
+PATIENT U919
+A lot.
+
+DOCTOR U919
+How much is a lot?
+
+PATIENT U919
+Oh about a pack a day.
+
+DOCTOR U919
+A pack a day.  For how many years?
+
+PATIENT U919
+40, 45 years.
+
+DOCTOR U919
+45 years okay and alcohol abuse?
+
+PATIENT U919
+No.
+
+DOCTOR U919
+Ever alcohol abuse?
+
+PATIENT U919
+No, not really.
+
+DOCTOR U919
+Which illegal drugs have you used in the past?
+
+PATIENT U919
+Cocaine.
+
+DOCTOR U919
+And snort, uh do you snort?
+
+PATIENT U919
+Pardon?
+
+DOCTOR U919
+Do you, what form did you use?
+
+PATIENT U919
+I smoke it.
+
+DOCTOR U919
+But no IV use?
+
+PATIENT U919
+Hell no I did @@@.
+
+DOCTOR U919
+And then um when was the last time you used?
+
+PATIENT U919
+I don't know a couple months ago.
+
+DOCTOR U919
+A couple months ago okay.  Anything else?
+
+PATIENT U919
+No that's it.
+
+DOCTOR U919
+That's it and do you have any family history of any disease?
+
+PATIENT U919
+No.
+
+DOCTOR U919
+And then I'm gonna go through a bunch of symptoms.  If you're having any symptoms just stop me and let me know.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+Fever, chills, weight loss, weight gain.
+
+PATIENT U919
+Say what?
+
+DOCTOR U919
+Fever, chills, weight loss.
+
+PATIENT U919
+I've had uh chills.
+
+DOCTOR U919
+What are they chills of your body @@@ or chills where you feel cold?
+
+PATIENT U919
+From sweating.
+
+DOCTOR U919
+Okay sweating um weight loss, weight gain, headaches, changes in your vision, changes in your hearing, runny nose, stuffy nose, sore throat, cough, coughing up blood, chest pain, shortness of breath, shortness of breath when walking.
+
+PATIENT U919
+@@@.
+
+DOCTOR U919
+Feeling your heart beating real fast.
+
+PATIENT U919
+Oh you know what; you were going kind of fast.  The only thing I've really had is the sweating.
+
+DOCTOR U919
+And the acid.
+
+PATIENT U919
+And the acid.
+
+DOCTOR U919
+And that's it.
+
+PATIENT U919
+Uh the sweating, acid at night and then the PTSD.
+
+DOCTOR U919
+So do you.
+
+PATIENT U919
+Yeah, yeah.
+
+DOCTOR U919
+Do you get the sweating with the PTSD?
+
+PATIENT U919
+Yeah, yeah.
+
+DOCTOR U919
+And then uh any problems with your urination?
+
+PATIENT U919
+Yeah I still have the prostate, yeah still.
+
+DOCTOR U919
+Difficulty starting a stream.
+
+PATIENT U919
+No I don't have difficulty starting its difficult while you're going yeah, yeah.
+
+DOCTOR U919
+Maintaining the stream?
+
+PATIENT U919
+Going ahead to completing what I started.
+
+DOCTOR U919
+Do you feel like there's still urine @@@.
+
+PATIENT U919
+No she told me down in @@@ when feel filled up when they know I'm going to be empty is like that little curve that fills up before you get gas so she explained that to me, my doctor.
+
+DOCTOR U919
+So now @@@ problem.
+
+PATIENT U919
+My doctor, my doctor yeah.
+
+DOCTOR U919
+@@@ okay.
+
+PATIENT U919
+She explained that to me.
+
+DOCTOR U919
+Okay can I examine you?
+
+PATIENT U919
+If you want to.
+
+DOCTOR U919
+I want to just check.
+
+PATIENT U919
+Okay.  Okay so we got the @@@, you got that ordered right?
+
+DOCTOR U919
+Oh yeah I'll put it in just a second.  Do you want them to mail it to you?
+
+PATIENT U919
+No, no I'll pick it up.
+
+DOCTOR U919
+Okay I'll do it in just a second.
+
+PATIENT U919
+Yeah.  Yeah so the other one, the @@@ I had refills on those so.
+
+DOCTOR U919
+Uh-huh.
+
+PATIENT U919
+Yeah I'm cool.  There's still the pain over there @@@ talking about from before.
+
+DOCTOR U919
+Got some acid?
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+Can you lay down for me for a second?
+
+PATIENT U919
+From coughing.  When I cough right around here it hurts real bad, but you know, they say it's supposed to be umbilical thing.
+
+DOCTOR U919
+Oh hernia right.  Did you ever go to get them done?
+
+PATIENT U919
+No I’m not @@@ because it's not that, it's over here that's hurting you know it be hurting when I cough but I did feel it over there a couple days ago when I.
+
+DOCTOR U919
+You have the hernia but you didn't want the surgery?
+
+PATIENT U919
+No I felt it though so really for the first time I felt it hard there.  I got to work up my nerves up to get that.
+
+DOCTOR U919
+Okay can I, I'm going to lift up your shirt.  Is it right here, the hernia?
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+Oh.
+
+PATIENT U919
+Right yeah.
+
+DOCTOR U919
+So right there okay.
+
+PATIENT U919
+Yeah, it’s right up in there and there be pain @@@.
+
+DOCTOR U919
+Is it here at all?
+
+PATIENT U919
+Right here, the right here.  Right, if I cough, yeah especially right here, right there.
+
+DOCTOR U919
+When you're coughing.
+
+PATIENT U919
+Yeah if I cough a lot yeah.
+
+DOCTOR U919
+Can you sit up for me? 
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+Can you just breathe in and out; just breathe through your mouth.  Breathe in. Again. Can you take you @@@ off @@@? I need you to open your mouth for me, open your mouth say ah.
+
+PATIENT U919
+Ah.
+
+DOCTOR U919
+That's good.  And any swelling in your legs?
+
+PATIENT U919
+No.
+
+DOCTOR U919
+Not really.
+
+PATIENT U919
+Now this is just the same, that's @@@.
+
+DOCTOR U919
+Did you ever get that ultrasound of your belly they wanted last time?
+
+PATIENT U919
+Yeah I did it.
+
+DOCTOR U919
+Okay cause I didn't see it in the chart.
+
+PATIENT U919
+Uh they took an x-ray or whatever, a scan, uh a CAT scan.
+
+DOCTOR U919
+No, no an ultrasound.
+
+PATIENT U919
+No @@@ put some jelly on me and rub it, yes they did that.
+
+DOCTOR U919
+Yeah you did, let me check again.
+
+PATIENT U919
+Okay.  
+
+DOCTOR U919
+I don't see the record for it.
+
+PATIENT U919
+Okay.
+
+DOCTOR U919
+Yeah they don't have it.
+
+PATIENT U919
+So what you got to order one?
+
+DOCTOR U919
+Yeah we'll order it.
+
+PATIENT U919
+Okay.
+
+DOCTOR U919
+I'll be back in a second.
+
+PATIENT U919
+Okay.  I can put my coat back on right?
+
+DOCTOR U919
+Yeah you can do that.
+
+PATIENT U919
+Ooh.
+
+(DOCTOR OUT:  33:02  DOCTOR IN:  42:26)
+
+DOCTOR U919
+Hi PATIENT.  So I'm looking at, I'm gonna give you a prescription uh for the hydroxyzine and then also this medicine called ranitidine that's going to help with the acid reflux and then I'll see you back in three months and we'll want to see how the ranitidine is helping @@@ and then um I'm going to refill the simvastatin as well and then we're gonna check your lipids when you get back and you said you want to pick it up here right?  Okay.
+
+PATIENT U919
+Yes.  You say you'll schedule for x-ray?
+
+DOCTOR U919
+No, no I looked and you mentioned, the other image that you got.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+I looked it up @@@.
+
+PATIENT U919
+Yeah I told you that.
+
+DOCTOR U919
+So you don't have to worry about that.
+
+PATIENT U919
+Right, right I told you that.
+
+DOCTOR U919
+Yeah.
+
+PATIENT U919
+They did so much there.
+
+DOCTOR U919
+Yeah and you're gonna start the simvastatin right?
+
+PATIENT U919
+Huh?
+
+DOCTOR U919
+You're gonna start taking the simvastatin.
+
+PATIENT U919
+Yeah.
+
+DOCTOR U919
+Okay.  Okay and then I'll see you back in three months.
+
+PATIENT U919
+Alright.
+
+DOCTOR U919
+And that should be all.  I put in those meds so make sure you pick them up at the Pharmacy.
+
+PATIENT U919
+Okay.
+
+DOCTOR U919
+Okay, it's nice seeing you.
+
+PATIENT U919
+Alright, nice meeting you too.  Alright what's your name?
+
+DOCTOR U919
+DOCTOR.
+
+PATIENT U919
+DOCTOR glad to meet you.  You nice okay.
+
+DOCTOR U919
+Well that's good.
+
+PATIENT U919
+Okay thank you.
+
+DOCTOR U919
+Bye.
+
+PATIENT U919
+Alright.
+
+PATIENT LEAVES:  44:47.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275430
+TRANSACTION # 578-10-2-316-0103

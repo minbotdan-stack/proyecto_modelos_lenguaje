@@ -1,0 +1,600 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR Z494
+Hi.
+
+PATIENT Z494
+Hello yeah.  Oh the right side.  Okay, alright.
+
+DOCTOR Z494
+I'm DOCTOR.
+
+PATIENT Z494
+Alright, I was wondering.
+
+DOCTOR Z494
+@@@.
+
+PATIENT Z494
+Had I ever seen you before.
+
+DOCTOR Z494
+Huh.
+
+PATIENT Z494
+I wondering if had I ever seen you before.
+
+DOCTOR Z494
+Yeah you see DOCTOR and he's my boss.
+
+PATIENT Z494
+Yeah right yeah.
+
+DOCTOR Z494
+Yeah.  What brings you in today?
+
+PATIENT Z494
+A appointment follow-up.
+
+DOCTOR Z494
+Just a regular check-up is that right?
+
+PATIENT Z494
+Yeah uh-huh.
+
+DOCTOR Z494
+Okay anything been bothering you recently?
+
+PATIENT Z494
+No not really.
+
+DOCTOR Z494
+So you're doing well?
+
+PATIENT Z494
+Yeah pretty good.
+
+DOCTOR Z494
+Are you taking all your medicines?
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+Okay and you saw DOCTOR back in October?
+
+PATIENT Z494
+Right yeah.
+
+DOCTOR Z494
+And uh at that time are you still having any of that leg pain or, you were having some leg pain there.
+
+PATIENT Z494
+Uh yeah when I walk.  You know I had a CAT scan back here about two or three months ago but I never did hear from them.  My bone scan it was, bone scan.
+
+DOCTOR Z494
+Oh bone scan yeah.  
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+He said that um uh it your, it showed some your left hip.
+
+PATIENT Z494
+Right yeah.
+
+DOCTOR Z494
+Flared up a little bit.
+
+PATIENT Z494
+Yeah right.
+
+DOCTOR Z494
+That could be from arthritis but you also have prostate cancer.
+
+PATIENT Z494
+Yeah @@@.
+
+DOCTOR Z494
+We just need to make sure that it's not um and then you got the CT scan.
+
+PATIENT Z494
+Uh-huh.  No this was so I was trying to say.
+
+DOCTOR Z494
+Oh you just got the bone scan.
+
+PATIENT Z494
+Bone scan yeah.
+
+DOCTOR Z494
+Yeah so we need to get a x-ray and a CT scan of that hip.  Is that hip still hurting you real bad?
+
+PATIENT Z494
+Sometime it do and then sometime it don't.
+
+DOCTOR Z494
+Is it better than October or worse?
+
+PATIENT Z494
+See it only hurt when I walk but don't hurt when I'm just sitting or.
+
+DOCTOR Z494
+It only hurts when you walk.
+
+PATIENT Z494
+When I walk yeah.
+
+DOCTOR Z494
+Oh okay.
+
+PATIENT Z494
+Uh-huh.
+
+DOCTOR Z494
+Okay.  And that bone scan was let's see October okay.
+
+PATIENT Z494
+Hmm.
+
+DOCTOR Z494
+Okay uh any changes in your urinary frequency?
+
+PATIENT Z494
+No about the same.
+
+DOCTOR Z494
+Any diarrhea, constipation or anything?
+
+PATIENT Z494
+No nothing.
+
+DOCTOR Z494
+Chest pain, shortness of breath?
+
+PATIENT Z494
+No. Oh I have shortness of breath.  I had that real bad.  You know back here last month I had it so bad I couldn't hardly walk through the house when I had.  It stayed like that for about two or three weeks but I realized I think I had a little cold.  It was like partially blocking my.
+
+DOCTOR Z494
+Oh.
+
+PATIENT Z494
+@@@.  It lasted for about almost a month.
+
+DOCTOR Z494
+Okay.
+
+PATIENT Z494
+I couldn't hardly catch my breath.
+
+DOCTOR Z494
+But is that, that's all gone now?
+
+PATIENT Z494
+Yeah so I got a lots better.  Sometime I say it's hard to breathe all the time.
+
+DOCTOR Z494
+Okay.  Are you smoking?
+
+PATIENT Z494
+No I used to but I quit about 20.
+
+DOCTOR Z494
+You have COPD.
+
+PATIENT Z494
+20 years ago.
+
+DOCTOR Z494
+Do you take any inhalers?
+
+PATIENT Z494
+Yeah I got four of those.
+
+DOCTOR Z494
+And those help?
+
+PATIENT Z494
+Yeah, yeah.  Oh if I didn't have those I don't know I would make it.
+
+DOCTOR Z494
+Okay.  Okay.  And uh you have all the same medications that you were on last time?
+
+PATIENT Z494
+Right yes.
+
+DOCTOR Z494
+Do you have refills on all of them?
+
+PATIENT Z494
+Well no I had a @@@ in this bag but I'm running a little low on everything so.
+
+DOCTOR Z494
+So these are all of them?
+
+PATIENT Z494
+Yeah and you know they told me last time I was here they was gonna stop the Coumadin or something they said.  The pharmacist was telling me.
+
+DOCTOR Z494
+You're supposed to be on Coumadin?
+
+PATIENT Z494
+Yeah I'm on Coumadin but they was talking about stopping it or changing it.
+
+DOCTOR Z494
+Let me see.
+
+PATIENT Z494
+Changing it or something she said.
+
+DOCTOR Z494
+Oh you already take Coumadin.
+
+PATIENT Z494
+Right yeah.
+
+DOCTOR Z494
+Okay.
+
+PATIENT Z494
+I was supposed to see the dietician today too to get the medicine.
+
+DOCTOR Z494
+Oh you're gonna see the pharmacist today.
+
+PATIENT Z494
+The pharmacist.
+
+DOCTOR Z494
+Yeah okay.  They'll take care of that.
+
+PATIENT Z494
+Uh-huh.
+
+DOCTOR Z494
+Okay.  And let's take a look at your labs.  You had them all done oh just recently let's see.  Okay.  Your vitamin D is 49 so that's good.  You took the vitamin D.  Are you still taking it?
+
+PATIENT Z494
+That's the uh.
+
+DOCTOR Z494
+Ergocalciferol once a week.
+
+PATIENT Z494
+No.  Once a week.
+
+DOCTOR Z494
+You don't take it anymore?
+
+PATIENT Z494
+No.  That must have been something temporary I was taking or something yeah.
+
+DOCTOR Z494
+Okay.  Let's see.  And you have a fistula of your left arm in case you need that option.
+
+PATIENT Z494
+Yeah you know when they put that in, see that scar.
+
+DOCTOR Z494
+Uh-huh.
+
+PATIENT Z494
+It was under that scar but it healed fine and crossway on my arm like that.  That might a affected @@@.
+
+DOCTOR Z494
+Uh well, you know if they ever have to use it they'll have to do a test to make sure it works.
+
+PATIENT Z494
+Yeah that's what they say, when it come, moved out of position @@@.
+
+DOCTOR Z494
+Yeah so the kidney doctors don't think there's anything acutely that we need to do about it.
+
+PATIENT Z494
+Uh-huh, yeah.
+
+DOCTOR Z494
+So.  Okay and have you been checking your blood sugars at home?
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+What have they been?
+
+PATIENT Z494
+I got uh, they've been, it's been you know like up and down.  I brought the thing with me I think.  I needed to bring it.  Yeah here it is though.
+
+DOCTOR Z494
+Do you know what the last few uh.
+
+PATIENT Z494
+Let's see here.  Uh this morning it was 132, yesterday 157, the day before was 147, 121.
+
+DOCTOR Z494
+Okay.
+
+PATIENT Z494
+152.
+
+DOCTOR Z494
+Okay.  So they've been in the hundreds.
+
+PATIENT Z494
+Yeah a little over a hundred.  One time it dropped down to 50.
+
+DOCTOR Z494
+Oh, sometimes it can happen.
+
+PATIENT Z494
+It went right back up, it didn't last long.
+
+DOCTOR Z494
+Okay good.
+
+PATIENT Z494
+A couple hours it was back up.
+
+DOCTOR Z494
+Okay.  Okay I'm just looking at a few more things.  Okay.  Your blood pressure's a little high today.
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+Higher than we want it.
+
+PATIENT Z494
+Uh-huh.
+
+DOCTOR Z494
+Um.  We might have to go up on one of your meds.
+
+PATIENT Z494
+Uh-huh.
+
+DOCTOR Z494
+And as far as the uh prostate, those people are saying oh just continue the meds okay.
+
+PATIENT Z494
+Uh-huh.  You know I had that, I took those shots for about two years and then they said the PSA went so low and so they took me off of it and I haven't had a shot now in about two years.
+
+DOCTOR Z494
+Oh okay.  Good, good.
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+And you take your iron?
+
+PATIENT Z494
+Yeah, uh-huh.
+
+DOCTOR Z494
+Let's see.  And your iron was checked in May.  Were you supposed to have your labs drawn back in October?
+
+PATIENT Z494
+Hmm October, I pretty sure I did.  You mean for the prostate?
+
+DOCTOR Z494
+Uh okay, no I think we’re okay.  And you take the calcitrial?  For your calcium?
+
+PATIENT Z494
+Yeah right, yeah.
+
+DOCTOR Z494
+Okay.  I'll be back in a minute okay.  
+
+PATIENT Z494
+Okay.
+
+DOCTOR Z494
+I think we may have to increase one of your blood pressure meds.
+
+PATIENT Z494
+Uh-huh.
+
+DOCTOR Z494
+Um and uh we'll go from there okay.
+
+PATIENT Z494
+Okay.
+
+DOCTOR Z494
+I'll be back in a second.
+
+PATIENT Z494
+Okay, yeah.
+
+(DOCTOR OUT:  40:02  DOCTOR IN:  54:36)
+
+DOCTOR Z494
+Sorry to keep you waiting.
+
+PATIENT Z494
+Yeah @@@.
+
+DOCTOR Z494
+Okay so everything's fine.  So we just, do you have time to go to Radiology after this?
+
+PATIENT Z494
+Yeah, I’m supposed to see.
+
+DOCTOR Z494
+For your hip, okay?
+
+PATIENT Z494
+I suppose to see the pharmacist, what time is it?
+
+DOCTOR Z494
+Uh you could go after the pharmacist.
+
+PATIENT Z494
+Uh-huh.
+
+DOCTOR Z494
+Uh and we need to get a CT scan of your hip.
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+Okay.
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+So um.  So can you go for the CT after your pharmacist appointment?
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+Okay I'm going to order it stat then.  So it's in the computer okay, you just have to go there.
+
+PATIENT Z494
+Uh-huh.
+
+DOCTOR Z494
+I'm gonna write all the things here.
+
+PATIENT Z494
+What floor is that on then?
+
+DOCTOR Z494
+It's right across the hall on this floor.
+
+PATIENT Z494
+Oh okay.
+
+DOCTOR Z494
+And then you can uh come back.  So the CT scan.  You're gonna come back and see DOCTOR in a month okay.
+
+PATIENT Z494
+Okay yeah.
+
+DOCTOR Z494
+Do you want all your medicines mailed to you?
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+Okay I'll take care of all those okay.
+
+PATIENT Z494
+Okay.
+
+DOCTOR Z494
+And um uh I'm gonna send you to the pharmacist for a blood pressure check in two weeks okay.
+
+PATIENT Z494
+Okay.
+
+DOCTOR Z494
+It was high today but I want to just make sure that it's high again before I change your meds.
+
+PATIENT Z494
+Okay.
+
+DOCTOR Z494
+Do you have a blood pressure cuff at home?
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+Do you use it?
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+What are your blood pressures at home?
+
+PATIENT Z494
+Uh it's been ranging something like it was today almost like.  Be like 160s or 70s over 40s and 50s like that.  It's been a little bit high for the last month or so yeah.
+
+DOCTOR Z494
+Yeah.  Okay.
+
+PATIENT Z494
+Uh-huh.
+
+DOCTOR Z494
+Okay.  Alright um so I'm gonna put in.  So when you stop by the clerk on your way out and tell them you need to um come back in a month and see DOCTOR.
+
+PATIENT Z494
+Hmm.
+
+DOCTOR Z494
+And then you'll come back, you'll get something in the mail to remind you to come back in three months for your regular appointment.
+
+PATIENT Z494
+Uh-huh.
+
+DOCTOR Z494
+This is going to be just to follow up the CT scan okay.
+
+PATIENT Z494
+Yeah.
+
+DOCTOR Z494
+And then come back and see the pharmacist in a couple weeks to recheck your blood pressure.
+
+PATIENT Z494
+Uh-huh.
+
+DOCTOR Z494
+Okay.
+
+PATIENT Z494
+Yeah uh-huh.
+
+DOCTOR Z494
+Okay.
+
+PATIENT Z494
+Okay.
+
+DOCTOR Z494
+And then make sure after your appointment today you go over and get that CT scan done of your hip.
+
+PATIENT Z494
+Okay, yeah.
+
+DOCTOR Z494
+The left hip right?
+
+PATIENT Z494
+The left right yeah.
+
+DOCTOR Z494
+Yeah okay.
+
+PATIENT Z494
+So it's already in the computer now?
+
+DOCTOR Z494
+Already in the computer you just have to go over there.
+
+PATIENT Z494
+Okay, alright.  Alright.  @@@.
+
+DOCTOR Z494
+Okay sir take care.
+
+PATIENT Z494
+Take care.
+
+PATIENT LEAVES:  59:51
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255188
+TRANSACTION # 578-10-2-316-0103

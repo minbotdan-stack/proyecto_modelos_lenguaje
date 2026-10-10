@@ -1,0 +1,315 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR L224
+PATIENT?  
+
+PATIENT L224
+How are you?
+
+DOCTOR L224
+Pretty good, how are you?
+
+PATIENT L224
+Could be better.
+
+DOCTOR L224
+Could be better.  So what's new?
+
+PATIENT L224
+Well, what's new @@@ I has is my right @@@.
+
+DOCTOR L224
+Hmm.
+
+PATIENT L224
+Other than that.
+
+DOCTOR L224
+@@@.
+
+PATIENT L224
+Eyesight right now is about 20%.
+
+DOCTOR L224
+What's that?
+
+PATIENT L224
+Eyesight.
+
+DOCTOR L224
+Oh yeah what'd the eye doctor say?
+
+PATIENT L224
+I ain't been up there.
+
+DOCTOR L224
+You need to make another appointment.
+
+PATIENT L224
+Yeah.
+
+DOCTOR L224
+Have you been taking that insulin that we wanted you to take?  No.
+
+PATIENT L224
+I know.
+
+DOCTOR L224
+Yeah, so you don't take that insulin?  You're on the insulin?  Your diabetes is way out of control you know that.
+
+PATIENT L224
+@@@
+
+DOCTOR L224
+Yeah so we started insulin last time.
+
+PATIENT L224
+Well I ain't into the shots.
+
+DOCTOR L224
+Alright.  Well e can try another medicine then.  It's not going to bring you down as much as you need to but it might help okay.
+
+PATIENT L224
+Alright.
+
+DOCTOR L224
+How's your weight @@@ going?
+
+PATIENT L224
+I lost weight.
+
+DOCTOR L224
+Yeah.  Trying to?
+
+PATIENT L224
+I eat.
+
+DOCTOR L224
+Yeah.  You have a good appetite and everything?
+
+PATIENT L224
+Yeah.
+
+DOCTOR L224
+You're eating.  Any problems with your bowels or anything there?
+
+PATIENT L224
+Yeah.
+
+DOCTOR L224
+What?
+
+PATIENT L224
+Come out hard, peeing some.
+
+DOCTOR L224
+You're urinating alright?
+
+PATIENT L224
+Yeah.
+
+DOCTOR L224
+Yeah.  Have your any problems with a lot of, any coughing more than usual?  Is your breathing less than usual?
+
+PATIENT L224
+Regular.
+
+DOCTOR L224
+Just regular.  
+
+PATIENT L224
+Pain seems not in a flare no more.
+
+DOCTOR L224
+Huh?
+
+PATIENT L224
+I'm not in a flare anymore.
+
+DOCTOR L224
+Okay that's good.
+
+PATIENT L224
+So.  Something's going right somewhere.
+
+DOCTOR L224
+Alright.  Did you ever go to the throat doctors to take a look at that?
+
+PATIENT L224
+Uh, that's who I had an appointment with and I missed.  That was about three months ago.
+
+DOCTOR L224
+You want to get that checked out?
+
+PATIENT L224
+I give up.  They not gonna, they wanted to operate.
+
+DOCTOR L224
+Yeah.
+
+PATIENT L224
+That's @@@.
+
+DOCTOR L224
+What did they say was wrong?
+
+PATIENT L224
+I don't know.
+
+DOCTOR L224
+How much you smoking still?
+
+PATIENT L224
+Too much.  I haven't quit.
+
+DOCTOR L224
+Yeah alright.  So do you think you're getting enough food?  You have a good appetite, you eat enough?
+
+PATIENT L224
+I eat.
+
+DOCTOR L224
+Yeah.  Do get full, you don't feel like you get full easily and everything?
+
+PATIENT L224
+No because I'm not a overeater.
+
+DOCTOR L224
+Yeah.  Okay.  @@@ what to do with it.
+
+PATIENT L224
+What @@@?
+
+DOCTOR L224
+Are taking the omeprazole?
+
+PATIENT L224
+What's that?
+
+DOCTOR L224
+For the stomach.
+
+PATIENT L224
+I am.
+
+DOCTOR L224
+@@@.
+
+PATIENT L224
+Yeah.
+
+DOCTOR L224
+So you're still taking them @@@.  And how about the lisinopril?  It's a blood pressure medicine.  We started it last time.
+
+PATIENT L224
+I get two blue pills, a vitamin, @@@ a green pill and that metformin, that's it.
+
+DOCTOR L224
+I don't know what the pills look like; I only know the names.  So @@@.
+
+PATIENT L224
+I got.
+
+DOCTOR L224
+You haven't refilled any of your medicines since this summer.
+
+PATIENT L224
+They done gave me extra medication.
+
+DOCTOR L224
+Okay.
+
+PATIENT L224
+And I got maybe about @@@ months.
+
+DOCTOR L224
+Let's take a look.  Can you sit up here?  I need you to lay down so could you put this down please.  Huh?
+
+PATIENT L224
+That's @@@
+
+DOCTOR L224
+Where?
+
+PATIENT L224
+Right in here.
+
+DOCTOR L224
+Right here.
+
+PATIENT L224
+Yeah.
+
+DOCTOR L224
+Can you sit up for me?  Deep breaths.  Follow this.  Good.  Okay @@@.  You can sit back here for me.  I'll be back in a minute okay.
+
+(DOCTOR OUT:  40:43  DOCTOR IN:  46:21)
+
+DOCTOR L224
+@@@.  Can you pick up the medicines today?
+
+PATIENT L224
+They can just, they can mail it.
+
+DOCTOR L224
+Okay and is your address ADDRESS?
+
+PATIENT L224
+@@@.
+
+DOCTOR L224
+That's a PO box?
+
+PATIENT L224
+Yeah.
+
+DOCTOR L224
+Can we get some blood drawn from you today?
+
+PATIENT L224
+Uh yeah.
+
+DOCTOR L224
+@@@ again?
+
+PATIENT L224
+Yeah @@@.
+
+DOCTOR L224
+Okay.
+
+PATIENT L224
+@@@.
+
+DOCTOR L224
+That's fine.  And can you go get a tetanus shot today from us?
+
+PATIENT L224
+Yeah.
+
+DOCTOR L224
+Okay.  (Doctor working on computer 49:53 - 57:23)  Sir. (No conversation from 57:24 - 59:04)  Alright sir.  I want you to take this up front, they'll make your appointments and then go and get your chest x-ray and your blood draw.
+
+PATIENT L224
+Okay.
+
+DOCTOR L224
+Alright.
+
+PATIENT L224
+Bye.
+
+DOCTOR L224
+Take care.
+
+PATIENT L224
+Alright.
+
+PATIENT LEAVES:  59:27
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255186
+TRANSACTION # 578-10-2-316-0103

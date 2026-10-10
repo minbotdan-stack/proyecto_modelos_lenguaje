@@ -1,0 +1,780 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR R054
+PATIENT?  
+
+PATIENT R054
+Oh how you doing?
+
+DOCTOR R054
+Good to see you.
+
+PATIENT R054
+I'm doing good.
+
+DOCTOR R054
+How's the weather been treating you?
+
+PATIENT R054
+Oh the weather's been fine.
+
+DOCTOR R054
+I'm just going to do your vitals.
+
+PATIENT R054
+That's all? (Laughs).
+
+DOCTOR R054
+They're gonna switch them over and they're going to do your vitals by the nurses now.
+
+PATIENT R054
+Hey.  @@@
+
+DOCTOR R054
+Have a seat.  Yeah, believe me if I don’t do this, we’ll be waiting a long time.
+
+PATIENT R054
+@@@ the reason I called in @@@.
+
+DOCTOR R054
+Some people with work unfortunately @@@.
+
+PATIENT R054
+@@@.
+
+DOCTOR R054
+Not like you and me.  All this time, you know keep this between you and me, a lot of people with work ethics @@@.
+
+PATIENT R054
+Oh no.
+
+DOCTOR R054
+Yeah I know, you know especially gentlemen like you, @@@ hard @@@ you know but @@@.  You know people here they just don't appreciate that, and people from a lot of countries come and take their jobs.  @@@.  Now @@@.  
+
+PATIENT R054
+Right.
+
+DOCTOR R054
+@@@ old school, so now all we got to do is @@@.  
+
+PATIENT R054
+You got to be kidding.
+
+DOCTOR R054
+@@@.  You've got some guns on you.
+
+PATIENT R054
+Yeah.
+
+DOCTOR R054
+And uh.
+
+PATIENT R054
+I'm gaining too much weight doc.  And my blood pressure shoot up, so it went from 125s to 130s.
+
+DOCTOR R054
+Did you take your medication today?
+
+PATIENT R054
+Uh-huh.  Part of it. @@@
+
+DOCTOR R054
+You been taking the blood pressure at home?
+
+PATIENT R054
+Uh-huh.
+
+DOCTOR R054
+@@@ what do you get?  @@@ blood pressure, so we'll do it again after this.  How's the family been?
+
+PATIENT R054
+Just fine.
+
+DOCTOR R054
+Sit up.  It's still a little bit high @@@.  Are you due for your medications today?
+
+PATIENT R054
+2:30, 4:00 o'clock @@@.
+
+DOCTOR R054
+Cause that one goes up and down a lot.
+
+PATIENT R054
+Okay.
+
+DOCTOR R054
+You should be there right now right?
+
+PATIENT R054
+@@@.
+
+DOCTOR R054
+Do you take your blood pressure at home?
+
+PATIENT R054
+Uh-huh.
+
+DOCTOR R054
+And what do you usually get?
+
+PATIENT R054
+125 to 130.
+
+DOCTOR R054
+Okay.  We’re going to run over to @@@.  So how you been feeling since the last time I saw you?
+
+PATIENT R054
+Um good.  Except for the sugars.
+
+DOCTOR R054
+Still high?
+
+PATIENT R054
+Yeah.
+
+DOCTOR R054
+How high?
+
+PATIENT R054
+Well 240s, 260s and I'm taking 3 something the other day, I'm taking the uh 60s.  Well I've gone up to 65 of the Glargine, in the evening? And it still be 200, when I wake up.
+
+DOCTOR R054
+@@@ that.
+
+PATIENT R054
+Yeah I always do that.  Just like the mornings, this morning it was, that's what it's been, @@@ 163.  And I get, I used to get 5 units of Aspart.
+
+DOCTOR R054
+So you were on 5 units three times a day and 65 units of Glargine?
+
+PATIENT R054
+But she had me on 60 units of Glargine but they told me if it didn't do any good or go down in the morning go up to 65.
+
+DOCTOR R054
+What we could do if you don’t get…
+
+PATIENT R054
+It's not getting it done.
+
+DOCTOR R054
+No @@@.  Okay let's see.  That's not too good, not too good.
+
+PATIENT R054
+@@@ my sugars were better.
+
+DOCTOR R054
+@@@.  So then when did you start the 65?
+
+PATIENT R054
+Well now a week ago.
+
+DOCTOR R054
+And you started on 5 units of Aspart.
+
+PATIENT R054
+Uh-huh.
+
+DOCTOR R054
+Before meals?
+
+PATIENT R054
+Right.
+
+DOCTOR R054
+Three times a day?
+
+PATIENT R054
+Right.
+
+DOCTOR R054
+And did you notice improvement in your sugars after you had gone up to 65?  Or was it still the same thing?
+
+PATIENT R054
+The same thing. After I eat dinner, around 6:30, 7 o'clock I'm not eating anything.
+
+DOCTOR R054
+@@@.  
+
+PATIENT R054
+When I'm waking up @@@ 260 you know, 240.
+
+DOCTOR R054
+Have you been peeing a lot?
+
+PATIENT R054
+Oh yeah @@@.
+
+DOCTOR R054
+Have you been real thirsty?
+
+PATIENT R054
+No, not real thirsty.  When I wake up in the night I be thirsty.
+
+DOCTOR R054
+Any chest pain, fever, chills?
+
+PATIENT R054
+No.
+
+DOCTOR R054
+No trouble breathing?
+
+PATIENT R054
+No.
+
+DOCTOR R054
+What about trying to, I mean obviously this does not, you know, help @@@ but what about exercise?
+
+PATIENT R054
+Yeah I try; I mean I try to walk a little bit yeah.  I might get on the treadmill and I might do seven minutes.  I know that ain't nothing but it's something.
+
+DOCTOR R054
+@@@  I mean I don't expect you to run a marathon.
+
+PATIENT R054
+Right.
+
+DOCTOR R054
+Now what happens?  Do you get real tired with that?
+
+PATIENT R054
+Oh I don't get tired that quick but my hip.  I guess it's because it's not used you know.
+
+DOCTOR R054
+What about when you take Tylenol does that help?
+
+PATIENT R054
+No.
+
+DOCTOR R054
+You don't want to take Tylenol?
+
+PATIENT R054
+Oh I have enough @@@ yeah @@@ you know if it's just from me not doing exercise.
+
+DOCTOR R054
+The problem is as we get older we'll get arthritis too, right.
+
+PATIENT R054
+I know I got that, especially here you know.
+
+DOCTOR R054
+Yeah so you know when your hip starts hurting, take the Tylenol before, before @@@ during, just to kind of calm it down so you can keep walking.
+
+PATIENT R054
+Alright.
+
+DOCTOR R054
+Cause you're doing the right thing and I know that your intentions are great.
+
+PATIENT R054
+Uh-huh.
+
+DOCTOR R054
+But you just got to keep going.  You've got to find a way so you can keep exercises cause what happens when you exercise the muscles use up the sugar and you don’t need the insulin, you use it up without insulin okay.  That's the way the body's made you know.  The muscles, you know when you exercise they know that they can't wait for the insulin.
+
+PATIENT R054
+Right.
+
+DOCTOR R054
+They predict you and they use the sugar on their own and they're going to be dropping your sugar level and it's a natural way of the body controlling the diabetes.
+
+PATIENT R054
+Yeah like when I walk, I always get painful while I'm going, coming back it's you know, it's not too bad.
+
+DOCTOR R054
+Okay.  @@@ sugar is still @@@ controlled @@@ kidneys, not good.  And @@@ I think we've got to be real aggressive with this.  @@@.  I'm gonna talk to my boss, DOCTOR @@@.  Possibly going to 75 @@@ you’re at 65?
+
+PATIENT R054
+Uh-huh.
+
+DOCTOR R054
+Possibly going to 75 and maybe increasing the Aspart to 8 units.  See how the 75 goes and if that's okay, then fine and if it's too high then going up to 9 units.
+
+PATIENT R054
+Okay, is there anything, in my prescriptions that could be making it?
+
+DOCTOR R054
+No.  This is what happens. This is what happens, so you know you get diabetes so then your pancreas which is the main organ involved with making insulin okay so when you first start getting diabetes, it's not making insulin well.
+
+PATIENT R054
+Right.
+
+DOCTOR R054
+Most of the cells are not working as they should be, but some of them still are, some of them are still working.  As time goes on the cells that are working start dying, they give up because they get fatigued.
+
+PATIENT R054
+Right.
+
+DOCTOR R054
+It's like pumping.
+
+PATIENT R054
+Yeah they're doing all the work.
+
+DOCTOR R054
+Exactly, so what you find is a lot of times people are controlled because some of those cells stop working and you get to the point that these cells kind of give up.  You know at that point, the cells are not producing anything so and the that's the insulin requirements that you’re having is normal in the sense that @@@ you know, what do you @@@ right.  But you know it's not, giving up hope @@@ not getting better @@@.
+
+PATIENT R054
+Right.
+
+DOCTOR R054
+You're eating fruits; you're eating good meals and watching it?
+
+PATIENT R054
+Right.
+
+DOCTOR R054
+At home you told me your blood pressures are less than 130s @@@?
+
+PATIENT R054
+Yeah.  Between 125.
+
+DOCTOR R054
+Alright, so you know don't worry about the, you know I mentioned when you're at home just write them down for me, you know write them and kind of keep a log @@@.
+
+PATIENT R054
+Well I @@@ got ‘em written down. I got a nurse coming a couple weeks @@@.
+
+DOCTOR R054
+But just write them down for me and bring it in so I can actually see it.
+
+PATIENT R054
+Let's go up to uh @@@.  Even 10 on that Aspart.
+
+DOCTOR R054
+Uh I mean the Aspart I don't know if it's gonna do the trick.
+
+PATIENT R054
+I don't either but I can't, it's hard for me to @@@ with one eye.  It's easier for me to see the 10.
+
+DOCTOR R054
+@@@.
+
+PATIENT R054
+Than it is for me to try to @@@.
+
+DOCTOR R054
+We'll see how it goes, we'll go up on the Lantus first.
+
+PATIENT R054
+Okay.
+
+DOCTOR R054
+And that'll help you out.  Other than that you been doing okay?
+
+PATIENT R054
+Yeah.
+
+DOCTOR R054
+Have a seat.  How's your vision doing?
+
+PATIENT R054
+Uh been about the same, bad.
+
+DOCTOR R054
+Have you seen the eye doctor yet?
+
+PATIENT R054
+They were supposed to put in a consult for low vision but I never heard anything about it.
+
+DOCTOR R054
+And you're gonna see the eye doctor soon?
+
+PATIENT R054
+No.
+
+DOCTOR R054
+Okay.  You can also pop by the clinic and let them know you’re supposed  low vision.
+
+PATIENT R054
+@@@.
+
+DOCTOR R054
+Don’t wait. Was it a long time ago?
+
+PATIENT R054
+Last month.
+
+DOCTOR R054
+@@@ yeah you should stop by the clinic and see what's going on.  Say ah for me.  Say ah.
+
+PATIENT R054
+Ah.
+
+DOCTOR R054
+But I know that some of this stuff would be definitely very helpful for you.
+
+PATIENT R054
+@@@ you know even with my glasses I can't see my watch.
+
+DOCTOR R054
+Take a deep breath, again, again.  Breathe normal now, @@@.  Any leg swelling?
+
+PATIENT R054
+This one all the time @@@.
+
+DOCTOR R054
+They both have a little swelling.  You're using the water pill right?
+
+PATIENT R054
+Yes.
+
+DOCTOR R054
+And when you're home are you elevating your legs?  You don't elevate them?
+
+PATIENT R054
+Yeah.
+
+DOCTOR R054
+Even when you're watching TV?
+
+PATIENT R054
+Hmm.
+
+DOCTOR R054
+Were you doing it?
+
+PATIENT R054
+Uh uh.
+
+DOCTOR R054
+Well when you're watching TV or just sitting down, you know on the couch, just keep them elevated.
+
+PATIENT R054
+A lot of times I'm laying down and elevate it and when I go in the bed.  @@@ pillows.
+
+DOCTOR R054
+Yeah.  @@@.  Your cholesterol looks great.  
+
+PATIENT R054
+It should because I’ve been taking that Metamucil.  @@@
+
+DOCTOR R054
+Yeah Metamucil is great.  Those keep the bowel going.
+
+PATIENT R054
+@@@.  Something in that medicine I'm taking it keeps me constipated.
+
+DOCTOR R054
+Right.  I might give you a couple of refills let me do that now, you’re running low on a lot of meds.
+
+PATIENT R054
+I need a refill on the @@@.  I mean I use @@@.
+
+DOCTOR R054
+@@@.
+
+PATIENT R054
+Right.
+
+DOCTOR R054
+I'm going to go talk with my attending and I'll be right back.
+
+(DOCTOR OUT:  74:38  DOCTOR IN:  85:08)
+
+DOCTOR R054
+Okay.  @@@ You’re having no problems giving yourself the insulin at all, I know your vision is not the best but you can still see the needle and the line.
+
+PATIENT R054
+Right, right.  @@@ I have to look real close.  I have a magnifier, even with a magnifier it's hard you know.  To see you know the lines.
+
+DOCTOR R054
+Are you confident you’re giving yourself the right dosage?
+
+PATIENT R054
+Oh yeah I believe so.
+
+DOCTOR R054
+100%?  90%?  75%?
+
+PATIENT R054
+Well on the Glargine, on the Aspart, I might miss, you know, one line or two.
+
+DOCTOR R054
+So on the Aspart the to 100, want to make sure you’re giving yourself 65.
+
+PATIENT R054
+On the Glargine.
+
+DOCTOR R054
+I want to make sure about that.
+
+PATIENT R054
+@@@ Isn’t it marked?  I might go halfway that's the way I've been judging it now.
+
+DOCTOR R054
+That’s the issue. I think maybe it might not have to do with how much we’re giving you, but maybe because of your vision then you have a hard time doing it.  Let me check something.  
+
+DOCTOR R054
+Do you live by yourself or is there anybody at home that could help you with it?
+
+PATIENT R054
+I'm all by myself.
+
+(Silence from 87:38 - 90:59)
+
+DOCTOR R054
+So this is the stuff we're trying to figure out.  We're trying, we're gonna try to get something different that's gonna help with that.  Instead of using the needle, we're going to try to give you these insulin pen okay.  Instead of drawing blood, like drawing into a syringe you're going, it's a pump, not a pump but a little contraption okay and then it'll show the number on it. 
+
+PATIENT R054
+Oh.
+
+DOCTOR R054
+Instead of drawing and looking at the lines, you're going to set it for numbers and we think it is something that will help and it has a little insulin bottle.  Do you think that's be a lot easier than the insulin?
+
+PATIENT R054
+Yeah.  So I was going to tell you was if I made a mistake, it would be giving one or two units too much and not too less.
+
+DOCTOR R054
+Okay.  So you’re over-compensating?
+
+PATIENT R054
+I could be I mean, if that's my problem @@@.  Cause I have a problem counting those lines, I'm not going to go under, I'm not going to go over you know.
+
+DOCTOR R054
+So let's see.  I think if that could work and we could get these pens, it’s going to be a lot easier anyway and we should be 100% sure exactly how much you have okay.  Does that sound like a plan?
+
+PATIENT R054
+Whatever you want to do.  What about this Losartan?
+
+DOCTOR R054
+Oh yeah it's a blood blood pressure medication.
+
+PATIENT R054
+Oh I thought it was for the kidneys.
+
+DOCTOR R054
+Yeah it is for the kidneys cause the problem is your blood pressure and your sugar, aren’t well controlled - those are the two most important things.  We got to get your blood pressure and sugars corrected okay and no overloading your sugars.  So your blood pressure @@@ okay.
+
+PATIENT R054
+Yeah the blood pressure's fine cause it has dropped down to 113, 118 you know.  Like I said, most of the time at home, it could be the meter, because it’s always 120s, anywhere from 120-133 I'll say it like that.  It's never in the 140s at home.  That's why I'm so surprised because today it was 147.
+
+DOCTOR R054
+Well let me go check with him once more.
+
+(DOCTOR OUT:  93:29)  DOCTOR IN:  94:10)
+
+FIRST DOCTOR R054
+We'll have you on your way we just want to check out one more spot.
+
+SECOND DOCTOR R054
+Alright.
+
+PATIENT R054
+Hi.
+
+SECOND DOCTOR R054
+So um the only um, @@@ short acting @@@ the only change is that um @@@ Glargine and @@@.  The @@@ pen is actually cheaper @@@ VA physician prefers.  Glargine can be switched @@@ unit to unit.
+
+PATIENT R054
+Okay.
+
+SECOND DOCTOR R054
+So that would be the preferred option.  @@@.  There are two @@@ but can you feel it click, to get your dose as opposed to having to measure you know.
+
+PATIENT R054
+Right.
+
+SECOND DOCTOR R054
+So it's easier for people who can't see 100% anymore.  @@@ non formulary and I guess @@@.  
+
+FIRST DOCTOR R054
+@@@.
+
+SECOND DOCTOR R054
+Yes definitely.  Okay, good.
+
+FIRST DOCTOR R054
+Alright we'll do that.
+
+PATIENT R054
+Sounds good.
+
+FIRST DOCTOR R054
+We'll try to do this.  
+
+PATIENT R054
+But I can still take them at the same time?
+
+FIRST DOCTOR R054
+Exactly, the same.
+
+PATIENT R054
+@@@ don't mix them.
+
+FIRST DOCTOR R054
+So it looks right now, a couple of things.  I'm willing to go up to 70 as long as you're more or less sure that you're giving yourself.  How confident are you that you're giving yourself 65?
+
+PATIENT R054
+Um well I 100%
+
+DOCTOR R054
+@@@ so we'll do 70.  And 70 units at night right?
+
+PATIENT R054
+Yes.
+
+DOCTOR R054
+They are going to mail these, okay. Actually you could probably pick it up at the window, let’s see what happens.
+
+PATIENT R054
+Yeah okay.  Now I need the, I order the isosorbide. 
+
+DOCTOR R054
+Okay.
+
+PATIENT R054
+I need it now cause.
+
+DOCTOR R054
+Are you talking about @@@.
+
+PATIENT R054
+I take it three times a day.
+
+DOCTOR R054
+Okay so we're giving you a pen for that.
+
+PATIENT R054
+No, no, that's the insulin.
+
+DOCTOR R054
+Yeah we're going to adjust the insulin.
+
+PATIENT R054
+Uh is this the, this is the one for the heart.
+
+DOCTOR R054
+Oh okay, I'm going to refill all of your medications.  
+
+PATIENT R054
+@@@.  The last time they gave me 160,000 refills.
+
+DOCTOR R054
+Did you have to pay for it?
+
+PATIENT R054
+Yeah and I did then, but I don't know why they not charging me now.  Somebody made a mistake somehow.  I know that @@@ pay so much @@@ in a year.  So right now I'm worried about my kidneys failing because of that dialysis.  
+
+DOCTOR R054
+@@@ it always help just having it syringes and all @@@ pens @@@ refills so you know you just put the little @@@ they'll show you how to do it.  Put the cartridges in, select the number and @@@ still using the .
+
+PATIENT R054
+Uh no.  I been taking @@@.
+
+DOCTOR R054
+The hydralazine still taking.
+
+PATIENT R054
+Uh-huh.
+
+DOCTOR R054
+You need Lantus.
+
+PATIENT R054
+I don't need the Lantus.
+
+DOCTOR R054
+You're out of refills. Do you want more refills for the future?
+
+PATIENT R054
+Yes, more refills. I do that three times a day too.
+
+DOCTOR R054
+The Losartan, okay, the metoprolol.  Quetiapine and furosemide.
+
+PATIENT R054
+Furosemide 
+
+DOCTOR R054
+Omeprazole?
+
+PATIENT R054
+Yeah.
+
+DOCTOR R054
+Do you still get heartburn?
+
+PATIENT R054
+No.  Every now and, you know if I don't.  I can go three, four or five days without taking one of those but I get it you know.
+
+DOCTOR R054
+Maybe once a week you get it?
+
+PATIENT R054
+Yeah.
+
+DOCTOR R054
+Does it only happen when you eat the wrong foods?
+
+PATIENT R054
+No, it just comes automatically if I don't, you know like I say after three or four days you know.
+
+DOCTOR R054
+Simvastatin.  Are you using the Vicodin [ill?
+
+PATIENT R054
+No, I haven't.
+
+DOCTOR R054
+Isosorbide.
+
+PATIENT R054
+Yeah.  @@@.  I don’t know if I need that one or not.
+
+DOCTOR R054
+And what about the vitamin D?
+
+PATIENT R054
+If they still want me to take it.  @@@ take it just once a week.
+
+DOCTOR R054
+And they're having you take it once a week?
+
+PATIENT R054
+Right.
+
+DOCTOR R054
+Okay so I so how about I see you in six to eight weeks to see how your sugar is doing? But in the meantime, the pharmacist is going to see you again. Two weeks?
+
+PATIENT R054
+Uh-huh.
+
+DOCTOR R054
+There you go and in the meantime, I want to today to go by the Lab and your kidneys.
+
+PATIENT R054
+All right.
+
+DOCTOR R054
+Did you get your flu shot this season?
+
+PATIENT R054
+Uh huh, last time I was here.
+
+
+DOCTOR R054
+(Someone knocked on the door)  Doctor speaks to someone at the door.  Um are you going to go see the eye doctor @@@?
+
+PATIENT R054
+Uh no I @@@ don’t have an appointment.
+
+DOCTOR R054
+I'm going to set you up for another appointment so they can help you out @@@.
+
+PATIENT R054
+Okay.  @@@ call me or something.
+
+DOCTOR R054
+Okay.  And when you're coming in @@@.
+
+PATIENT LEAVES:  105:30  (Talks with the pharmacist)
+
+It is 4:10.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255147
+TRANSACTION # 578-10-2-316-0103

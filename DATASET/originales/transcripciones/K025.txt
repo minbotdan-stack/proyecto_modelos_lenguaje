@@ -1,0 +1,337 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@  
+
+DOCTOR K025
+PATIENT?
+
+PATIENT K025
+Hi doc.
+
+DOCTOR K025
+Hi.  Good to meet you.  How are you doing?  What can I help you with today?
+
+PATIENT K025
+Uh, I ran out of some of this, this one I don't have no.
+
+DOCTOR K025
+Simvastatin.
+
+PATIENT K025
+This one uh, you told me to take one a day but they still have a half on the prescription and I ran out last week and couldn't get another one until this Wednesday.
+
+DOCTOR K025
+Okay.  How's your hand numbness?
+
+PATIENT K025
+No it went away.
+
+DOCTOR K025
+Went away?
+
+PATIENT K025
+Yeah.
+
+DOCTOR K025
+Hmm.
+
+PATIENT K025
+My feet are still numb on the bottom.
+
+DOCTOR K025
+And the feet numbness has been going on the same amount of time?
+
+PATIENT K025
+More or less, right on the bottom.
+
+DOCTOR K025
+Both feet?
+
+PATIENT K025
+No just this one.
+
+DOCTOR K025
+Your left one.  Did you take your lisinopril this morning?
+
+PATIENT K025
+Yeah I took both of them yeah.
+
+DOCTOR K025
+The pill that, you said you were almost out, right?
+
+PATIENT K025
+I got some, on Wednesday they sent me some.
+
+DOCTOR K025
+Okay.
+
+PATIENT K025
+That is the half dose.
+
+DOCTOR K025
+So you took it on Wednesday.
+
+PATIENT K025
+No I took it this morning, I took it yesterday.  I got the medicine Wednesday.
+
+DOCTOR K025
+So you took it yesterday and you took it today.
+
+PATIENT K025
+Yeah a whole one and then a half of the other one.
+
+DOCTOR K025
+The one that you take a half, don't you take that twice a day.
+
+PATIENT K025
+One in the morning and one at night.
+
+DOCTOR K025
+Good.
+
+PATIENT K025
+And I got one of those machines that says the average of my last three readings was 142, 143.
+
+DOCTOR K025
+Okay.
+
+PATIENT K025
+And a couple times it said I had an irregular heartbeat detected, so I don't know what that means.
+
+DOCTOR K025
+Uh if you're moving around sometimes it'll say irregular heartbeat.
+
+PATIENT K025
+The machine?
+
+DOCTOR K025
+Yeah, just try to sit still if it says that.
+
+PATIENT K025
+Okay.  Then when I run out of these pills, should I come here or, when will they have more refill?
+
+DOCTOR K025
+I'll order them.  Do you want me to order so you can pick it up downstairs or.
+
+PATIENT K025
+They'll mail them right?
+
+DOCTOR K025
+Yeah.  How's your urination?
+
+PATIENT K025
+Still about the same.
+
+DOCTOR K025
+You know the last time we had talked you were going too often right.
+
+PATIENT K025
+Right yeah.
+
+DOCTOR K025
+You still going three or four times at night?
+
+PATIENT K025
+Yeah.
+
+DOCTOR K025
+And you still feel like you have urgency and a weak stream?
+
+PATIENT K025
+Sometimes yeah.
+
+DOCTOR K025
+Can you feel your heel?  Can you feel, like does it feel totally numb or is it you can feel a little bit there?
+
+PATIENT K025
+Sometimes I can't feel nothing.
+
+DOCTOR K025
+Okay.  That medicine for your prostate does that make you feel lightheaded?
+
+PATIENT K025
+No.  I only take that at night right now.
+
+DOCTOR K025
+Yes.  Okay can I get you to have a seat over here?  Everything went okay with the colonoscopy?
+
+PATIENT K025
+Yeah he said everything is good.
+
+DOCTOR K025
+Deep breath.  Listen to your heart. Can I get you to lay back now?  Okay you can sit up.  Say ah.
+
+PATIENT K025
+Ah.
+
+DOCTOR K025
+Okay.  Um so I'll reorder your medications um and we're going to go, um I'm going to increase the medication for the prostate cause you're still having problems going in the middle of the night right?
+
+PATIENT K025
+Uh-huh.
+
+DOCTOR K025
+Okay.  So we'll go up on that medicine and we'll keep everything else the same I think.
+
+PATIENT K025
+Okay.
+
+DOCTOR K025
+Okay.
+
+PATIENT K025
+Right.
+
+DOCTOR K025
+Alright I'll be right back.  I'm going to go talk to DOCTOR.
+
+PATIENT K025
+Okay.
+
+(DOCTOR OUT:  89:07  DOCTOR IN:  93:25)
+
+PATIENT K025
+Finish that other medicine first or do I just take this new one? For the . . .
+
+DOCTOR K025
+Prostate?
+
+PATIENT K025
+Yeah.
+
+DOCTOR K025
+I'm not going to give you a new one; I'm just going to increase your dose.
+
+PATIENT K025
+Oh so I'll increase the other one @@@.
+
+DOCTOR K025
+Well you have 5 mg now, so I'm going to go to 10 mg.
+
+PATIENT K025
+But I say finish all the 5 first?
+
+DOCTOR K025
+No but you're on 5 mg now and I'll have you go to 10 mg, so just start taking two pills at the same time.
+
+PATIENT K025
+Oh just take two okay alright.
+
+DOCTOR K025
+Take two pills and then when the new.  Here let me see if they even have 10 mg doses.  
+
+PATIENT K025
+But those I got to take at night, I can't those during the day.
+
+DOCTOR K025
+Um you can take them any time you want but if you take them during the day they can make you lightheaded which is usually why we say take them at night.
+
+PATIENT K025
+Oh okay.  And the other one take half, one half still?
+
+DOCTOR K025
+Uh.
+
+PATIENT K025
+There's one @@@ a whole one.
+
+DOCTOR K025
+Yep and then the last one is the cholesterol pill where you take 1/2 one at night.
+
+PATIENT K025
+Night.
+
+DOCTOR K025
+Yeah.  And you still take the aspirin every night?
+
+PATIENT K025
+Every morning I take it, right after breakfast.  It’s all right to take them after breakfast, right?
+
+DOCTOR K025
+Yeah, I didn't mean to say every night.  You can take aspirin whenever you want.
+
+PATIENT K025
+Hmm.  No I just take one in the morning after...
+
+DOCTOR K025
+So the prostate pills, you'll get 10 mg pills now, so when the new pills come in the mail.
+
+PATIENT K025
+Just take one.
+
+DOCTOR K025
+Take one but for now you can start taking two.  If you start getting lightheaded with those medications you can stop and call into the clinic and I can try giving you a different medication then okay.
+
+PATIENT K025
+I just call the number?
+
+DOCTOR K025
+Yeah call the clinic number and say that you need to leave a message for your doctor.
+
+PATIENT K025
+Okay.
+
+DOCTOR K025
+And I'll give you my card.  It's a Loyola card so don't dial those phone numbers.
+
+PATIENT K025
+No just dial the one here.
+
+DOCTOR K025
+Yeah.
+
+PATIENT K025
+Well I usually come when I'm not working down to the exercise, the cardiac rehab.
+
+DOCTOR K025
+Uh-huh.
+
+PATIENT K025
+I'm there two to three times a week.
+
+DOCTOR K025
+Sure.  Yeah any one of those times would be fine.
+
+PATIENT K025
+Alright.
+
+DOCTOR K025
+Yeah you can stop by; I'll give them to you.
+
+PATIENT K025
+Yeah that's when I do best.
+
+DOCTOR K025
+Okay.
+
+PATIENT K025
+Alright.
+
+DOCTOR K025
+No problem.
+
+PATIENT K025
+Okay.  Thanks a lot doc.
+
+DOCTOR K025
+Take care okay.  Have a good day.  Oh wait you need this, see you back in six months.
+
+PATIENT K025
+Okay.
+
+DOCTOR K025
+Remember to give that to the checkout people.
+
+PATIENT K025
+Alright thank you.
+
+DOCTOR K025
+Alright take care.
+
+PATIENT LEAVES:  97:55
+
+Time is 4:05
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238123
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,20 @@
+Sample Name: Diabetes and Hypertension Followup
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Followup for elevated home glucose readings and persistently high blood pressure.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient returns for routine management of diabetes and hypertension. He describes glucose readings often around 180 to 190, with at least one episode in the 60s. The physician reviewed his insulin regimen, including basal and mealtime dosing, but noted that the glucose log and the medication bottles were not available to establish a safe insulin adjustment. Blood pressure has also been elevated on prior visits, and remains above goal. The patient reports no active pain or leg swelling. He notes some recent bowel changes while taking iron, with improvement in earlier loose stools.
+
+PHYSICAL EXAMINATION: Blood pressure approximately 160/75. Cardiopulmonary and abdominal examinations were performed without a significant new abnormality described in the conversation.
+
+ASSESSMENT AND PLAN:
+1. Hypertension, inadequately controlled in a patient with diabetes. Increase lisinopril from the half-tablet dose to a full 40 mg tablet daily. Obtain blood tests today and arrange nursing blood pressure reassessment in two weeks.
+2. Diabetes mellitus. Continue monitoring glucose and bring the written glucose log and all medication bottles to the next visit. The need for insulin titration was discussed, but no definite new insulin dose was established in the final instructions.
+3. Medication review. The patient was counseled on recording doses accurately, with a clinical pharmacist appointment planned in approximately one month.
+
+Clinic followup in approximately three months, with additional medication review as indicated.

@@ -1,0 +1,1439 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@   
+
+DOCTOR T031
+PATIENT.  Hello.
+
+PATIENT T031
+Hi, long time.
+
+DOCTOR T031
+Yeah, how are you?
+
+PATIENT T031
+I'm okay.  Yourself?
+
+DOCTOR T031
+Not bad.  
+
+PATIENT T031
+@@@.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+Yeah, this was about, I don't know.  You should have your records so.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+So.
+
+DOCTOR T031
+This is the second time isn't it?
+
+PATIENT T031
+This is the same office too.
+
+DOCTOR T031
+I know.
+
+PATIENT T031
+Uh you were brand spanking new because my um.
+
+DOCTOR T031
+Yeah I saw you in, oh I see September.
+
+PATIENT T031
+Last year.
+
+DOCTOR T031
+September yeah okay.
+
+PATIENT T031
+And you @@@ stuff, yeah you were going to beat me down.
+
+DOCTOR T031
+Yeah I tend to do that.
+
+PATIENT T031
+Yeah ooh.
+
+DOCTOR T031
+Alright.
+
+PATIENT T031
+How are you today doctor?
+
+DOCTOR T031
+Not bad.
+
+PATIENT T031
+Good, good.
+
+DOCTOR T031
+Sleepy, tired.
+
+PATIENT T031
+Yeah I'm kind of tired myself.  I didn't sleep very well.
+
+DOCTOR T031
+No.
+
+PATIENT T031
+No.  Well my father passed away this past Sunday.
+
+DOCTOR T031
+Wow I'm so sorry.
+
+PATIENT T031
+And I woke up last night you know, thinking about him, thinking about the good times.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+And uh went to bed about 3:30, 4 o'clock.  Well no actually when the sun started coming up and uh had the most sleep, got up at 10 o'clock this morning, talked to mom about a few things.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+And uh started heading out here.  Uh I'm okay.
+
+DOCTOR T031
+I'm just so sorry.
+
+PATIENT T031
+Thank you.
+
+DOCTOR T031
+Just as in three days ago Sunday?
+
+PATIENT T031
+Uh-huh.
+
+DOCTOR T031
+I'm surprised you actually made it to your appointment, I appreciate that.
+
+PATIENT T031
+Well I needed to because uh it's been a while since I've seen you.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+And uh you know, I'm not going to do myself or anybody else any good you know if my health is not, you know.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+Checked out periodically.  And besides, you beat me down.  I think I've skipped about what two or three appointments that I had.
+
+DOCTOR T031
+Yeah and you didn't uh.
+
+PATIENT T031
+Now you're gonna get on my case.
+
+DOCTOR T031
+I'm pretty sure you didn't have any of the labs done that I had ordered.
+
+PATIENT T031
+What labs?
+
+DOCTOR T031
+So I had ordered a bunch of labs for you.
+
+PATIENT T031
+What did they have like blood?
+
+DOCTOR T031
+Like cholesterol, yeah.
+
+PATIENT T031
+Cholesterol what was it blood, okay I'll do it.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+I'll do okay.
+
+DOCTOR T031
+You have to be fasting though.
+
+PATIENT T031
+Fasting.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+So.
+
+PATIENT T031
+I don't think they feed anybody anymore here, after you fast.  That's going to be hard.
+
+DOCTOR T031
+Yeah well you can bring something with you.
+
+PATIENT T031
+No.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+Can you just put in your notes uh type uh send him to the canteen and give him anything and everything he wants to eat, put that in your notes.
+
+DOCTOR T031
+Yeah they're not going to listen to me.  Okay um
+
+PATIENT T031
+@@@.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+Let me hear you now.  You type like that?
+
+DOCTOR T031
+I have to or I'm not going to get through everything.
+
+PATIENT T031
+I’m scared of you.
+
+DOCTOR T031
+Well I used to play piano, I think that's why.
+
+PATIENT T031
+Oh, that helps.
+
+DOCTOR T031
+Well let's kind of make our way through some of these things that we talked about last time.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+So your blood pressure is um, it’s okay.  
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+It's 136/74 today.
+
+PATIENT T031
+Hmm.
+
+DOCTOR T031
+And you are still taking the losartan 25 mg a day and then you have chlorthalidone 25 mg as well okay so let me renew these medications.
+
+PATIENT T031
+Thank you.
+
+DOCTOR T031
+I'm just going to do @@@ managing our medicines.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Alright and we talked about constipation last time.
+
+PATIENT T031
+Uh-huh.
+
+DOCTOR T031
+Are you taking fiber supplements?
+
+PATIENT T031
+I take them every week.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+Every week yeah.
+
+DOCTOR T031
+Oh every week?
+
+PATIENT T031
+Every day.
+
+DOCTOR T031
+Oh every day.
+
+PATIENT T031
+Every day yeah and it works fine.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+Yeah so you can renew that too.  If you don't mind.
+
+DOCTOR T031
+Oh I don't mind.  Anything to keep in order here.  Alright and for your cholesterol and I don't have your current cholesterol, since it didn't get it drawn.
+
+PATIENT T031
+That's why I gotta do the blood.  Just tell them one reason is because like I don't like needles.
+
+DOCTOR T031
+Hmm.  Well.
+
+PATIENT T031
+Well I'm gonna have to have it done so.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Alright so last time, let's see what did we talk about.  You told me that you were previously on simvastatin but then you were told you don't need it anymore so you stopped it.
+
+PATIENT T031
+Uh-huh.
+
+DOCTOR T031
+Uh and so that's why we were wanting to check your fasting lipids.
+
+PATIENT T031
+What about that thing?  What do you call that where they want to check inside your behind, what was that?
+
+DOCTOR T031
+The prostrate enzymes?  Or are you talking about like the actual exam?  The digital rectal exam?
+
+PATIENT T031
+Yeah, do I have to do that?
+
+DOCTOR T031
+It's, no you don't have to do that.  It's something you only do if there's a reason to do it.
+
+PATIENT T031
+Cause I think I did it like two or three years ago, something like that.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+Is that in the records?
+
+DOCTOR T031
+Um I’d have to look back to find it but.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+I mean it's not something we have to do unless you need it.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+So let's, we'll get there in a second.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Um so for your cholesterol last time we basically decided that we could start you on a medication if you're still high so I'll have to see what your labs show, okay.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Um so I'll wait for that and then we talked about uh erectile dysfunction and you're using let's see what I have.
+
+PATIENT T031
+They changed it.
+
+DOCTOR T031
+Yes they changed it to Viagra.
+
+PATIENT T031
+Uh-huh.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+I need more.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+Uh and they only give me two pills.
+
+DOCTOR T031
+Yeah @@@ but I'm expecting @@@.
+
+PATIENT T031
+Thank you.
+
+DOCTOR T031
+Um I'll have to give you more refills.
+
+PATIENT T031
+Okay.  Cause I need more pills.
+
+DOCTOR T031
+Um.  Now how much of the pills do you need at one time?
+
+PATIENT T031
+Um.
+
+DOCTOR T031
+Are you taking a full pill?
+
+PATIENT T031
+Yeah.
+
+DOCTOR T031
+Okay have you ever tried using half a pill?  You didn't?
+
+PATIENT T031
+I mean for the last uh, not the Viagra but it was something else, they called it something else.
+
+DOCTOR T031
+Right, right I know.
+
+PATIENT T031
+And uh I used to cut that in half and um but they gave me four pills and I cut that in half.  Now they gave me two.
+
+DOCTOR T031
+Right.
+
+PATIENT T031
+I mean I can cut those in half.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+But can I get four like I did the last time?
+
+DOCTOR T031
+Yeah you know let me see if it'll let me do that.  Unfortunately they have a limit on those sort of things.
+
+PATIENT T031
+@@@.
+
+DOCTOR T031
+Let me see if they'll let me order more for you.  Yeah they, so you're using a full tablet?
+
+PATIENT T031
+Yeah.  I mean I could use a.
+
+DOCTOR T031
+So why don't we change your.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+This is what I'm gonna do um the most it'll let me do I think is four pills cause it gives you enough for four times.
+
+PATIENT T031
+Okay, okay.
+
+DOCTOR T031
+So let me see if.
+
+PATIENT T031
+Because the old prescription they gave me four and I cut those in half.
+
+DOCTOR T031
+Right.
+
+PATIENT T031
+Okay and I don't know if those will vary.  These pills are bigger than the pills that I had from the original prescription.  I don't know if that means it's more potent, I don't know if that's any.
+
+DOCTOR T031
+Yeah they don't have the exact same potency.  I would have to look it up.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+For you yeah but it doesn't mean that you need more.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+It’s just a different medication.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Alright uh and then are you still using Depakote, citalopram as well?
+
+PATIENT T031
+Yeah, I have to.
+
+DOCTOR T031
+Okay good.  And do you ever find yourself, do you still take propranolol regularly for the tremor?
+
+PATIENT T031
+Uh-huh.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+Well periodically.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+No a lot, just periodically.
+
+DOCTOR T031
+How often?
+
+PATIENT T031
+Uh maybe once every other week.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+Uh-huh.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+And sometimes if I remember to do so um.  I haven't had tremors for a long time.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+But I take them anyway.
+
+DOCTOR T031
+Alright and then are you still using terbinafine for athlete's foot?
+
+PATIENT T031
+I need some yes.  I need some now.
+
+DOCTOR T031
+Hmm.
+
+PATIENT T031
+(Patient's phone rings, he answers it)  I'm sorry.
+
+DOCTOR T031
+Oh don't worry about it.
+
+PATIENT T031
+I guess it wasn't important okay.  Sorry about that.
+
+DOCTOR T031
+No problem.  Alright are you still using acyclovir for genital herpes?
+
+PATIENT T031
+(Patient's phone rings) Yes.  I'm sorry.
+
+DOCTOR T031
+No worries.
+
+PATIENT T031
+(Patient answers phone call).  I'm sorry.  Yes in fact recently I was going through this stress thing in my life a month and a half ago and before it developed into a full open sore.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+I just saturated myself with that acyclovir.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+And I caught them in time.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+I caught it in time.
+
+DOCTOR T031
+So I'm renewing your prescription for you to take as needed.
+
+PATIENT T031
+Okay thank you.
+
+DOCTOR T031
+Um are you still using meloxicam?
+
+PATIENT T031
+What is that?
+
+DOCTOR T031
+For pain?
+
+PATIENT T031
+No.
+
+DOCTOR T031
+So for your left ankle pain?
+
+PATIENT T031
+Oh yeah, yeah, yeah.  I'm still taking that.
+
+DOCTOR T031
+Okay.  Renew that.  How often do you find yourself taking that?
+
+PATIENT T031
+I take that like every other day.  Every other day.  Sometimes I find my ankle locking.  I mean it actually locks.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+And uh I have to, it takes about may an hour, hour and a half of you know walking on it to get it loosened up you know, it hurts but you have to do what you have to do.
+
+DOCTOR T031
+Uh-huh.  Now would you like another prostate enzyme ordered?  Your last one was normal, it was 0.18 in February 2010, so it's been a couple years.
+
+PATIENT T031
+Now what's the prostate, what does that do?
+
+DOCTOR T031
+So the prostate is uh the enzyme basically we tell to see if it's getting really high really quick and that would mean that you either have enlarged prostate or possibly prostate cancer so it's a screening test.
+
+PATIENT T031
+How do they do it?
+
+DOCTOR T031
+It's just a blood test.
+
+PATIENT T031
+Oh they just take blood from you.
+
+DOCTOR T031
+Yes, yes.
+
+PATIENT T031
+They don't stick nothing like no tube up, nothing like that.
+
+DOCTOR T031
+No, no, no, no, no.
+
+PATIENT T031
+Alright.
+
+DOCTOR T031
+Now if your PSA is abnormal then I would do that exam, I'd do a rectal exam.  You know if you need to have one you can always decline it, but um you know that's to be sure.
+
+PATIENT T031
+Okay.  Let's say you're gonna do that now that means okay the more @@@ tests that you have for me.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+That means the more tubes for blood they're gonna ask for?
+
+DOCTOR T031
+Yeah I mean not like a whole lot more cause they can get a lot from one tube.
+
+PATIENT T031
+Okay.  Okay.
+
+DOCTOR T031
+It depends on the kind of tests.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Cause sometimes they can be prepared differently so they're going to have to get a separate tube just for one test.
+
+PATIENT T031
+There is a question that I'd like to ask you.
+
+DOCTOR T031
+Sure.
+
+PATIENT T031
+It's kind of embarrassing, but you’re my doctor.
+
+DOCTOR T031
+No yeah, what is it?
+
+PATIENT T031
+I don't know uh, I'd like to find out, is there something I can take to find out if I am sterile?
+
+DOCTOR T031
+So why do you think your sterile?
+
+PATIENT T031
+Well I mean my wife's not getting pregnant.
+
+DOCTOR T031
+Okay so you're trying?
+
+PATIENT T031
+Well I mean, I don't use any type of uh you know protection with my wife or anything like that.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+But as much as we have been you know having physical activities and sex then I'm kind of surprised we've been married since 2005 and it kind of surprises me she hasn't gotten pregnant.
+
+DOCTOR T031
+Okay so since 2005 you've basically been trying, in general?
+
+PATIENT T031
+Well not trying but you know you would think that.
+
+DOCTOR T031
+Right.  By trying I mean you're not using any protection.
+
+PATIENT T031
+Right, right, right.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+So I'm wondering if it's me or if it's her.
+
+DOCTOR T031
+Well so the first question is do you want to have children?
+
+PATIENT T031
+She wants to have children.
+
+DOCTOR T031
+So then again, the question is do you as a couple want to have children?
+
+PATIENT T031
+If she want it, if we have a child then I'm for it.
+
+DOCTOR T031
+You're for it.
+
+PATIENT T031
+Yeah I'm for it.
+
+DOCTOR T031
+So the most important question first of all to ask you is have you agreed that yes you want children because if that hasn't been figured out then I would recommend against going down that road.
+
+PATIENT T031
+But she wants one.
+
+DOCTOR T031
+Right.
+
+PATIENT T031
+And and.
+
+DOCTOR T031
+But you have to be on board.
+
+PATIENT T031
+I'm on board, I'm on board.  I mean it's not something I'm gung ho and gonna run down the street and I want a child, I want a child, but if it happens; because she really, really wants to have a child uh uh yeah I would be on board.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+Yeah.
+
+DOCTOR T031
+Now I'll have to ask my attending what the VA, if anything, offers.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Generally you would go to a fertility clinic to kind of have that worked up you know.  At this point you don't even know if it's you or your wife right?
+
+PATIENT T031
+Right.
+
+DOCTOR T031
+And there can be a thousand different reasons for it. Um.  So.
+
+PATIENT T031
+What could cause infertility?
+
+DOCTOR T031
+I mean if you just, if you have low sperm counts uh, excessive stress in your life will do that as well.  You won't be able to have enough sperm to increase your chance of getting pregnant and in the woman it could be a lot of different things, maybe she doesn't ovulate or maybe she's gotten pregnant but has had miscarriages and not known you know there's a lot of genetic things that give you that or.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Or problems with the uterus.  So I mean there's a wide variety of things.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+That could be so I'll ask my attending what he would recommend uh you know where he would think would be the best place for you to be referred.  But the reason I was asking about the children is that if you don't want any children as a couple then there's no point in going down that road just to find out who it is.
+
+PATIENT T031
+She wants one and like I said I would be on board for it.
+
+DOCTOR T031
+Okay.  Okay, alright I'll ask about that.
+
+PATIENT T031
+Thank you.
+
+DOCTOR T031
+Um and then I mean the rest of everything that we talked about is really just dependent on the labs that you get done so I'll have to look at those and call you with the results if you need any medication.
+
+PATIENT T031
+Okay is this going to be an appointment or just.
+
+DOCTOR T031
+No you can just get them drawn since I've already seen you today.  I mean it would have been nice if you'd gotten them done before so I could talk to you about it here but um you know whenever, at your convenience, come in, get fasting labs done and then the results will come to me and I can look at it and call you.
+
+PATIENT T031
+Now fasting, what time should the fast start?
+
+DOCTOR T031
+As long as it's 12-14 hours it doesn't matter.  So most people prefer to fast while they're sleeping you know.
+
+PATIENT T031
+So 12-14 hours so we're talking my fast would probably have to start.
+
+DOCTOR T031
+So after dinner don't eat anything.
+
+PATIENT T031
+Okay, okay.
+
+DOCTOR T031
+And then the next morning you can come in.
+
+PATIENT T031
+So 7 o'clock that would probably be the last time.
+
+DOCTOR T031
+Right uh-huh.
+
+PATIENT T031
+Okay, okay.
+
+DOCTOR T031
+Okay.  Um alright and then there's alright I'm going to have you sit up there for me and give you the physical exam.
+
+PATIENT T031
+I'm overweight.
+
+DOCTOR T031
+You have gained weight since the last time you were here.
+
+PATIENT T031
+Yeah.
+
+DOCTOR T031
+Um like ten pounds or so I think.  How do you feel about that?  What do you think about going up?
+
+PATIENT T031
+I feel bad.
+
+DOCTOR T031
+What do you think is going on?
+
+PATIENT T031
+Well I keep eating.  You know, I like to eat but I haven't been able to do, you know I haven't been able to exercise that much.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+You know I think a lot of it has a lot to do with eating and sleeping and eating late at night and sleeping on top of that.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+Yeah so.
+
+DOCTOR T031
+Well it seems like you know, you just have to find the motivation to change it right?
+
+PATIENT T031
+I really don't watch what I eat but I guess health-wise I'm going to have to make some changes.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+I've done it before.
+
+DOCTOR T031
+That will help fertility as well.
+
+PATIENT T031
+Oh it will.
+
+DOCTOR T031
+Uh-huh.  So obese patients have a much harder time.
+
+PATIENT T031
+Are you saying I'm fat?
+
+DOCTOR T031
+Well I mean yeah a little bit.
+
+PATIENT T031
+You're not right, but I like you you're telling me the truth okay.
+
+DOCTOR T031
+I mean you have to look at your belly, you know what I mean.
+
+PATIENT T031
+Yeah I know.
+
+DOCTOR T031
+You may even feel like hey I've got guns and I've got muscles but you can also have fat.
+
+PATIENT T031
+I feel it because when I do some prolonged walking, which I can't do that but whenever I have to do some prolonged walking I can feel my stomach pulling down and it puts a lot of stress on my back.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+So.
+
+DOCTOR T031
+That's a very good point, because you will get back pain because of your imbalance.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Alright I'm going to look in your eyes.  Straight ahead.  Straight ahead.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Okay open your mouth, stick out your tongue and say ah.
+
+PATIENT T031
+Ah.
+
+DOCTOR T031
+Let me listen to your neck first, you can just breathe normally.  Alright deep breaths in and out through your mouth.  Any swelling in your legs?
+
+PATIENT T031
+Yeah I've had swelling in my legs.
+
+DOCTOR T031
+Is that new?
+
+PATIENT T031
+I think it's because of the fact I haven't been drinking a lot of water.
+
+DOCTOR T031
+Okay you don't have any swelling now.
+
+PATIENT T031
+I don't.
+
+DOCTOR T031
+Barely.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+No if you stick your finger in like this.
+
+PATIENT T031
+Uh-huh.
+
+DOCTOR T031
+And you see that there's a hole or like a pit.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+I would say that's.
+
+PATIENT T031
+Okay.  It's just in my calves uh you know.
+
+DOCTOR T031
+Do you feel like they're bigger than usual?
+
+PATIENT T031
+Oh yeah, they're hard.
+
+DOCTOR T031
+Yeah you have a little bit of swelling here.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+See how I'm pressing down and you get.
+
+PATIENT T031
+Oh wow.  So what is that?  I don't have cancer do I?
+
+DOCTOR T031
+No.  No sometimes it's just from the veins not doing their job.  So you have to make sure that you're using your muscles.  You know if you feel like you're not walking enough uh you know once you been on your legs all day a lot of people get a lot of swelling.
+
+PATIENT T031
+That's sometimes that's what happens so.
+
+DOCTOR T031
+Yeah so you want to keep exercising throughout the day.  You want to keep moving your legs cause the more your muscles contract the more that blood gets pushed up and you get less swelling right.  And then at the end of the day you want to elevate your legs as well.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+So you want to press on the bone, this is your shin and usually you got to press a little harder when you're on the bone, press in, let go and see this pitting?
+
+PATIENT T031
+Yeah.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+Okay thank you.
+
+DOCTOR T031
+Okay, let me go talk to my attending really quick and I'll be right back.
+
+PATIENT T031
+Okay.
+
+(DOCTOR OUT:  27:11  DOCTOR IN:  34:15)
+
+DOCTOR T031
+I'm sorry.  Um okay so a couple of things.  So basically what my attending recommended was to send you to Urology and they can do a semen analysis and that's where we'd start.  Obviously for your wife you know she needs to get worked up elsewhere to see what it is.
+
+PATIENT T031
+Right.
+
+DOCTOR T031
+Um so what you could do is first you go to GU  and see if there’s anything they find and if not then she can try to get you worked up.  Let me ask you a question.
+
+PATIENT T031
+Could you recommend, can you uh make an appointment for me to go to.
+
+DOCTOR T031
+For Urology?  I'm going to send a consult and they're going to call you.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+And then they'll kind of work with you for whenever you're available.  Um do you have any children, have you ever had children?
+
+PATIENT T031
+Yes.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+Yes, yes.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+All my children are grown um uh.  We've been married, like I said since 2005 and we haven't had you know any children.
+
+DOCTOR T031
+Sure.
+
+PATIENT T031
+And uh she has been excited and excited.
+
+DOCTOR T031
+Has she.
+
+PATIENT T031
+Yes she has.  She has two children.
+
+DOCTOR T031
+Okay.
+
+PATIENT T031
+Um from someone else and so she wants a child from me and I'm on board, I'm on board if and when she gets pregnant I would be excited.  You know I'll be old but I'll be excited about it uh so that was and then when I found out that uh that the doses, I don't know about milligrams or anything like that but the dose is strong.  The pills that I used to get.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+Was reduced from four to two I said wow, so well.
+
+DOCTOR T031
+Uh it means nothing.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Because it's a totally different medication.
+
+PATIENT T031
+Right.
+
+DOCTOR T031
+So it's a different potency.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Um.
+
+PATIENT T031
+Did that increase, did it go through?
+
+DOCTOR T031
+Yeah I did, I ordered.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+But they don't allow you to pick it up.
+
+PATIENT T031
+Right, right, right, yeah, right, right.
+
+DOCTOR T031
+They're going to mail it.
+
+PATIENT T031
+Right, right, right.
+
+DOCTOR T031
+It'll be like a week.
+
+PATIENT T031
+Right, right.  There's a certain time of the month that they allow it right.
+
+DOCTOR T031
+Alright.  Okay so I'm going to put in that consult for you right now.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Did you ever get that medication organizer?
+
+PATIENT T031
+Yes I did.
+
+DOCTOR T031
+Okay are you using it?
+
+PATIENT T031
+Yes I did, yes I am.  It's very, very, very beneficial for me yes.
+
+DOCTOR T031
+That's awesome.
+
+PATIENT T031
+Yeah.  Are you here like what once a week or once a month?
+
+DOCTOR T031
+No we're here for a week every five weeks.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+So it's a little weird, it kind of changes things around.
+
+PATIENT T031
+So if something should happen.
+
+DOCTOR T031
+You can still call into the clinic.  Do you have my card?
+
+PATIENT T031
+No I don't.
+
+DOCTOR T031
+Um.
+
+PATIENT T031
+Your name on it?
+
+DOCTOR T031
+Yep.  You can call that number I mean the nurses are always here so they can triage and if you need to be seen right away there's other people around that can see you.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Um or they can just give me an alert and say you want to talk to me I'll call you.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+That I can do at any point.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+And obviously you know if you feel like you're ill enough you can go obviously to the ER at any point um so that shouldn't be an issue.
+
+PATIENT T031
+Okay.  It's just always good because every time I go somewhere or whatever and if somebody asks well you know what is your doctor's name, who's your primary care physician.
+
+DOCTOR T031
+Then you know.
+
+PATIENT T031
+Yeah I could never remember your name, I have this in my wallet.  Cause I got a CWT case manager and she asked and she said well according to the computer you have a man, I said no I don't I have a lady.
+
+DOCTOR T031
+Yeah they don't know @@@. 
+
+PATIENT T031
+It may be @@@.
+
+DOCTOR T031
+Well the thing is because my boss is a male.
+
+PATIENT T031
+Okay, okay.
+
+DOCTOR T031
+Cause I'm under his name.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+That's why they do that.  But I'm technically your doctor so when you call me, if he's around then he can also talk to you.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Cause I talked to him about your case.
+
+PATIENT T031
+Thank you.
+
+DOCTOR T031
+So I think we're all set.  I'm going to have you come back in three months and I want you to get the labs done as soon as possible.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+So if you get them done next week that'd be awesome.
+
+PATIENT T031
+Okay uh if you want me to come back in three months.
+
+DOCTOR T031
+Uh-huh.
+
+PATIENT T031
+Could you make it on a Friday?
+
+DOCTOR T031
+Yeah you can, I mean that would be up to the scheduling but you can ask them for a Friday appointment.
+
+PATIENT T031
+Okay, okay, okay thank you.
+
+DOCTOR T031
+I don't know that they'll actually make your appointment today.  They'll just send you a letter a month before so but you know I have clinic all week so that should be fine.  Did you ever go to the UIC Dental School for?
+
+PATIENT T031
+You know what; no I never did make it over there.  Um I had a lot of things going on um within the past year or so but um I will say within the next couple of months um I will probably have the time to do so but UIC, they do have a clinic over there.
+
+DOCTOR T031
+Yeah but I think it's.
+
+PATIENT T031
+But you have to pay like a little fee.
+
+DOCTOR T031
+So it's a dental school so the medical or dental students to it with uh you know obviously um with somebody overseeing everything.
+
+PATIENT T031
+Right.
+
+DOCTOR T031
+But because it's people in training it costs a lot less.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Than if you went to a private dentist.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+And unfortunately at the VA they don't, the dental care here is horrendous I mean they don't treat anyone unless you're like dying of it.
+
+PATIENT T031
+Or homeless.  If you're homeless with them you have to be homeless, that's what I here you have to be homeless for 90 days uh, yeah 90 days and then they'll see you and then anything and everything you need to have done then they'll take care of it and then after that, that's it.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+That's it, that's it, okay yeah I got that.
+
+DOCTOR T031
+Unfortunately.  Uh okay and then your PSA too, you'll have that done.  Okay.  I think you're all set.
+
+PATIENT T031
+So if you get the results of it and if I require medication. Or are you going to add that.
+
+DOCTOR T031
+Well no, oh for the other labs yes, if you require medication I'll call you and talk to you about it.
+
+PATIENT T031
+Okay and you'll add that on.
+
+DOCTOR T031
+Yeah and that'll get mailed to you.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Yep.  That won't be an issue.  Um let's see.  I'm going to have to send you to Urology now.  
+
+PATIENT T031
+How are they going to take a sample of my semen are they gonna stick a needle?
+
+DOCTOR T031
+No uh I think generally you know you have to, you've probably seen it in movies or on TV, they probably give you a room where you go and you just have to masturbate um.
+
+PATIENT T031
+That's how they do it?
+
+DOCTOR T031
+Generally that's how they do it.
+
+PATIENT T031
+Oh.  Well that's very.
+
+DOCTOR T031
+They'll tell you, they'll tell you, I don't know at the VA exactly what they do but that's generally how it works.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+Because if you wait too long, if they have you do it at home you can have all kinds of uh you know lab abnormalities.  They need it to be fresh.
+
+PATIENT T031
+Oh okay so if that's the case, if that's the procedure I would have to come in here and they would grab it right away and take it.
+
+DOCTOR T031
+Yeah.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+And they actually require some labs too so they ordered testosterone and things like that so you'll have that too when you come for your labs.
+
+PATIENT T031
+Okay so I would have to.
+
+DOCTOR T031
+So the labs are all in here.  You don't have to anything you just tell them you're here for all your labs that are still pending and they'll draw everything.
+
+PATIENT T031
+So Urology put.
+
+DOCTOR T031
+Well I put in a consult in and it automatically orders it.
+
+PATIENT T031
+Oh, oh, okay.
+
+DOCTOR T031
+Cause they require them.
+
+PATIENT T031
+Okay, okay, alright.
+
+DOCTOR T031
+Okay, alright.
+
+PATIENT T031
+Okay.
+
+DOCTOR T031
+We're done.
+
+PATIENT T031
+Okay.  Well thank you.
+
+DOCTOR T031
+Let me walk you out.
+
+PATIENT T031
+Thank you doc.
+
+DOCTOR T031
+No problem.  Alright take care.  You'll be hearing from me once I get the labs okay.
+
+PATIENT T031
+Thank you.
+
+DOCTOR T031
+You're welcome.
+
+PATIENT T031
+Alright.
+
+Time is 3:50.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255129
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,1129 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@ 
+
+DOCTOR S371
+Hi I'm DOCTOR, nice to meet you.
+
+PATIENT S371
+Hi.  How are you doing?  @@@.
+
+DOCTOR S371
+Yeah.  So I work under DOCTOR.
+
+PATIENT S371
+Okay.
+
+DOCTOR S371
+And I saw the last time you saw DOCTOR and you were having a cold, achy, is that right?
+
+PATIENT S371
+Oh yeah I had a bad chest cold.
+
+DOCTOR S371
+Yeah and then um what was the appointment for today, was it just a follow-up about the chest cold?
+
+PATIENT S371
+Uh yes.  I was coming back cause she had prescribed antibiotics.  I've been on that for a week though I think.
+
+DOCTOR S371
+And were you um coughing up blood?
+
+PATIENT S371
+Uh yeah that, that cleared up.  I got me the antibiotics it stopped.  Yeah it's @@@.  No bleeding bleeing @@@.
+
+DOCTOR S371
+Okay.
+
+PATIENT S371
+Yeah, when I get hot.  @@@ it's not bad when I wake up every morning.  But I got a fan blowing on me now so I won't be as hot.  The wife likes to turn the heat up and I have a fan going on me so @@@.  Getting my fevers and stuff, I be hot when I'm sleeping.
+
+DOCTOR S371
+You get hot when you sleep.  
+
+PATIENT S371
+Yeah.
+
+DOCTOR S371
+You don't have a fever here though.  Have you been checking your temperature at home?
+
+PATIENT S371
+Now actually, I don't have a thermometer.
+
+DOCTOR S371
+Okay.
+
+PATIENT S371
+Yeah so I @@@.
+
+DOCTOR S371
+No but if you have a fever you can feel hot but you may not actually, your body may not be hot.  Cause right now if you feel you're hot, this is actually normal.
+
+PATIENT S371
+Yes.
+
+DOCTOR S371
+And @@@ right?  So when you tell me you um, sometimes you don't have to get a thermometer if you don't want to.
+
+PATIENT S371
+Yeah.
+
+DOCTOR S371
+You can if you want to um but so your symptoms are all getting better?  Have they all gone away?
+
+PATIENT S371
+Uh from the fever I had?
+
+DOCTOR S371
+Yeah from the last time you saw, so you had um, you had persistent coughing and then you had um green mucous with blood and then you had some chest pain.
+
+PATIENT S371
+I still got the chest pain.
+
+DOCTOR S371
+And is only when you cough?
+
+PATIENT S371
+But it feel like heartburn.
+
+DOCTOR S371
+If feels like heartburn?
+
+PATIENT S371
+Yeah it feel like heartburn but it's constant.  In fact antacid or tablet I was taking.
+
+DOCTOR S371
+Does that make it feel better?
+
+PATIENT S371
+They help a little bit but it come right back again.
+
+DOCTOR S371
+And they didn't send you for any studies?  @@@.  So your heart um they did a, did they do a bone scan on you?
+
+PATIENT S371
+Oh yeah uh a bone scan, a ultrasound and a CAT scan.
+
+DOCTOR S371
+So the CAT scan is normal.
+
+PATIENT S371
+Okay.
+
+DOCTOR S371
+You just have a fatty liver which means that it could be just coming from being overweight.
+
+PATIENT S371
+Yeah the doctor told me I ought to lose weight.
+
+DOCTOR S371
+Uh-huh and then your bone scan shows that you had um some changes in your spine and then in an area of your ribs that may be, that may be kind of like arthritis type of @@@.  There's some @@@ in your bones.  And your ultrasound showed that you had some fat in your liver.
+
+PATIENT S371
+Yes.  She gave me some pills that I take for my cholesterol.
+
+DOCTOR S371
+Yeah.
+
+PATIENT S371
+I don't know if that helps with the fat on the liver or not.
+
+DOCTOR S371
+Um it can but the main thing is to be to lose some weight.
+
+PATIENT S371
+Lose the weight yeah.
+
+DOCTOR S371
+Yeah.
+
+PATIENT S371
+I'm working on that.
+
+DOCTOR S371
+Yeah um and your diabetes check, cholesterol.  Are you having the chest pain right now?
+
+PATIENT S371
+Uh yes.
+
+DOCTOR S371
+And when does it get worse?  So she's going to want to do, we're gonna need to do an EKG on you to make sure that you didn't have a heart attack or anything like that.
+
+PATIENT S371
+Oh what today?
+
+DOCTOR S371
+Um.  Yeah we'll do it today with the nurse.  And when did this chest pain come on?  When did this chest pain come on? When do you have it?
+
+PATIENT S371
+Oh oh earlier part of last week and then.
+
+DOCTOR S371
+Is it constant?
+
+PATIENT S371
+Yeah.  I been drinking a lot of water hoping to get my throat.  I been kind of dehydrated or it feels like it.  I been drinking a lot of water.
+
+DOCTOR S371
+Okay.  So when did this chest pain first, tell me more about the chest pain.  Is it sharp, dull?
+
+PATIENT S371
+Uh no it's not sharp but it feel like heartburn.  It goes away and then comes right back.  
+
+DOCTOR S371
+And when does it come on?  What makes it, what brings about the chest pain?  What causes the chest pain?
+
+PATIENT S371
+Oh when I get hot like now I'm feeling like I'm sweating now.  I think I got on too many clothes @@@.
+
+DOCTOR S371
+Anything else come on with this chest pain?  Anything else come on with this chest pain?
+
+PATIENT S371
+Uh no.
+
+DOCTOR S371
+Any nausea, vomiting?
+
+PATIENT S371
+No.
+
+DOCTOR S371
+Any shortness of breath?
+
+PATIENT S371
+Shortness of breath.
+
+DOCTOR S371
+When you have this chest pain you feel short of breath?
+
+PATIENT S371
+Yes.
+
+DOCTOR S371
+How long does this chest pain last?
+
+PATIENT S371
+It lasts about 15 minutes and then it comes right back, always comes back.
+
+DOCTOR S371
+Have you ever had this chest pain before?
+
+PATIENT S371
+Yes uh when I over exert myself I'll have it.  You know climbing steps.
+
+DOCTOR S371
+And does it feel and it just feels like a burning?
+
+PATIENT S371
+Yeah exactly.  That's what it is is burning.  That's why I'm drinking a lot of water to try to cool off.
+
+DOCTOR S371
+And does it help with water?
+
+PATIENT S371
+Yeah it helps but then it'll come right back in a little bit.  That's it yesterday I drank at least two gallons of water.
+
+DOCTOR S371
+Okay.
+
+PATIENT S371
+Today I just came in and drank a glass of water.
+
+DOCTOR S371
+What are you taking as far as medicines are concerned?
+
+PATIENT S371
+Uh I'm taking Glargine uh 55 units and Aspart 7 units uh lisinopril.
+
+DOCTOR S371
+Tell me one more time Glargine how much?
+
+PATIENT S371
+55 units.
+
+DOCTOR S371
+In the morning or at night?
+
+PATIENT S371
+In the morning.
+
+DOCTOR S371
+Okay.
+
+PATIENT S371
+And I take 7 units of Aspart before bedtime.
+
+DOCTOR S371
+Okay.
+
+PATIENT S371
+And lisinopril, I don't know if I'm saying that right for my blood pressure.
+
+DOCTOR S371
+Uh-huh lisinopril.
+
+PATIENT S371
+For blood pressure.
+
+DOCTOR S371
+Okay.
+
+PATIENT S371
+Uh gabapentin for neuropathy and fenofibrate for the cholesterol.
+
+DOCTOR S371
+How much gabapentin are you taking?
+
+PATIENT S371
+Uh I think its 40, I'm not sure.
+
+DOCTOR S371
+Yeah.
+
+PATIENT S371
+It might be more than that.
+
+DOCTOR S371
+Yeah it comes in like 100, 800.  The last time it looks like you had some, you were taking 100 three times a day.
+
+PATIENT S371
+100 oh I take that.
+
+DOCTOR S371
+Okay and what else?
+
+PATIENT S371
+I'm not sure of the others.
+
+DOCTOR S371
+Okay the fenofibrate.
+
+PATIENT S371
+And then I take an aspirin and if needed I'll take a ibuprofen.  I don't take those every day but I take the gabapentin.
+
+DOCTOR S371
+How long have you had diabetes for?
+
+PATIENT S371
+Almost ten years.
+
+DOCTOR S371
+So you were diagnosed in 2000?
+
+PATIENT S371
+Uh 1999.
+
+DOCTOR S371
+And they've never told you, when was your last eye appointment?
+
+PATIENT S371
+Uh I just had one uh last week, 29th I believe, 26th or 29th.
+
+DOCTOR S371
+Here at the VA or?
+
+PATIENT S371
+Yes here.
+
+DOCTOR S371
+Okay and then how often do you check your blood sugars?
+
+PATIENT S371
+Uh I check them in the morning.
+
+DOCTOR S371
+Before you eat?
+
+PATIENT S371
+Yeah before I eat.
+
+DOCTOR S371
+Have they been pretty high?
+
+PATIENT S371
+Uh yes.
+
+DOCTOR S371
+What have they been running lately?
+
+PATIENT S371
+They been running oh 150 to 250.
+
+DOCTOR S371
+This is before you eat in the morning?
+
+PATIENT S371
+Yes before yes.
+
+DOCTOR S371
+And then um have you noted any low blood sugars?
+
+PATIENT S371
+No.  Hardly ever low @@@.
+
+DOCTOR S371
+And then do you see a foot doctor?
+
+PATIENT S371
+Uh yeah I haven't seen them in a while though.
+
+DOCTOR S371
+You saw them last in April 2009 so we're gonna have to make an appointment to see them.
+
+PATIENT S371
+Yeah I need to yeah; I have pain in the feet cause that's all the time constant.
+
+DOCTOR S371
+They actually said that you could go up on your gabapentin.
+
+PATIENT S371
+That's right yeah.
+
+DOCTOR S371
+You should go back to see the podiatrist okay.
+
+PATIENT S371
+Okay.  Yeah I think I cut one of my toenails too short.  Look at this growing back around, a couple of weeks ago.  
+
+DOCTOR S371
+And then um and then any belly pain?  Does your stomach hurt?
+
+PATIENT S371
+Oh no.
+
+DOCTOR S371
+Any black stool?  Black like this, black, any black stools?
+
+PATIENT S371
+Oh no, no.
+
+DOCTOR S371
+Any blood in your stool?
+
+PATIENT S371
+No.
+
+DOCTOR S371
+Any pain when you pee?
+
+PATIENT S371
+No.
+
+DOCTOR S371
+Any blood in your urine?
+
+PATIENT S371
+No.
+
+DOCTOR S371
+Any new rashes?
+
+PATIENT S371
+Uh I got a little rash on my face right here.  Some mornings it will be on my cheeks and I've got some cream.
+
+DOCTOR S371
+Okay.
+
+PATIENT S371
+That I put on.
+
+DOCTOR S371
+Um you didn't get your cholesterol checked last time so I need to check your cholesterol this time.
+
+PATIENT S371
+Okay.  I just started eating Cheerios too.
+
+DOCTOR S371
+Good.
+
+PATIENT S371
+Yeah that's supposed to lower cholesterol.
+
+DOCTOR S371
+Actually we don't need to check your cholesterol, last time was good, but your triglycerides are high.  And you never had heart attack before?
+
+PATIENT S371
+No.
+
+DOCTOR S371
+Have a seat up here and I'm gonna have the nurse come give you an EKG.  Do you smoke?
+
+PATIENT S371
+Uh no, I'm around smokers, my wife smokes, my son smokes.
+
+DOCTOR S371
+Okay.
+
+PATIENT S371
+Secondhand smoke.
+
+DOCTOR S371
+Yeah you should stay away from that.  Um my hands are a little bit cold okay.  I just need to feel your face @@@.  So your symptoms are getting better?
+
+PATIENT S371
+Uh yes.
+
+DOCTOR S371
+But you have the chest pain?
+
+PATIENT S371
+Yes.
+
+DOCTOR S371
+Show me where it hurts.  If I push on it does it hurt?
+
+PATIENT S371
+Uh.
+
+DOCTOR S371
+Is that the pain you've kind of been feeling?
+
+PATIENT S371
+It don't hurt.
+
+DOCTOR S371
+Open your mouth and stick out your tongue.  Say ah.
+
+PATIENT S371
+Ah.
+
+DOCTOR S371
+It's pretty red back there.  But I don't know if that's from the candy or not.
+
+PATIENT S371
+Oh yeah I had some candy yeah.
+
+DOCTOR S371
+Yeah just relax.  Does your watch have a secondhand?
+
+PATIENT S371
+Uh.
+
+DOCTOR S371
+Go ahead and just relax.
+
+PATIENT S371
+Got the wrong time on this watch.
+
+DOCTOR S371
+Deep breath in and out.  Um I'm gonna go get the nurse and have her do the EKG so I'll be right back okay.  Would you mind taking off your sweatshirt or everything on your top and just have a @@@.  Now are you taking all your medicines throughout the day?  Take that off too.  Yeah.  Do you ever @@@ insulin?
+
+PATIENT S371
+No I did one @@@.  I got it right after I did @@@.  
+
+DOCTOR S371
+Is that getting better, worse?
+
+PATIENT S371
+I put that cream on it yeah.
+
+DOCTOR S371
+Cream on it.  Can you lay flat?
+
+PATIENT S371
+Oh on this yeah.
+
+DOCTOR S371
+Can you lay down okay?
+
+PATIENT S371
+Yes.
+
+NURSE S371
+How you doing sir?
+
+PATIENT S371
+Okay.
+
+DOCTOR S371
+So.
+
+PATIENT S371
+Having trouble breathing.
+
+NURSE S371
+Well give me a minute.  Once we get started it won't take long.  @@@.  Is that it? 
+
+(Nurse is giving EKG)
+
+(Person enters and speaks with Nurse)
+
+(Conversation between nurse and patient).
+
+DOCTOR S371
+Do you want your flu shot PATIENT?
+
+PATIENT S371
+Uh excuse me?
+
+DOCTOR S371
+Do you want a flu shot?
+
+PATIENT S371
+Uh.
+
+DOCTOR S371
+Would you like a flu shot?
+
+PATIENT S371
+No, I feel pretty fine.
+
+DOCTOR S371
+You don't want a flu shot?
+
+PATIENT S371
+Oh the last time I got it I had a reaction to it.
+
+DOCTOR S371
+Okay.
+
+PATIENT S371
+Yeah.
+
+DOCTOR S371
+Do you know there's a clinic where they'll help you lose some weight?  It's called the MOVE Clinic and they meet on Wednesday mornings at 10 o'clock near the Library.
+
+PATIENT S371
+Oh @@@?
+
+DOCTOR S371
+I think so.  
+
+PATIENT S371
+Yeah I think I need it.
+
+DOCTOR S371
+Yeah you should go.
+
+PATIENT S371
+Start on that yeah.
+
+DOCTOR S371
+Yeah.
+
+PATIENT S371
+What I got to go over there and make an appointment or do I just walk in?
+
+DOCTOR S371
+No just walk in.
+
+PATIENT S371
+Oh okay.
+
+DOCTOR S371
+(Doctor talking to the nurse regarding the EKG).  PATIENT do you feel like your heart is racing at this time?
+
+PATIENT S371
+Uh @@@.
+
+DOCTOR S371
+You feel like it is racing sometime?
+
+PATIENT S371
+@@@.
+
+DOCTOR S371
+Cause it's beating really fast.
+
+PATIENT S371
+Oh you see I got @@@.  I have it all the time.
+
+DOCTOR S371
+Not all the time.
+
+PATIENT S371
+Each little thing I bump it.  @@@.
+
+DOCTOR S371
+Okay.
+
+PATIENT S371
+Yeah I have that problem, practically all the time, I think it's from the diabetes.
+
+DOCTOR S371
+Yes and your diabetes it not very well controlled PATIENT.
+
+PATIENT S371
+Oh I think it's been pretty high the last couple weeks.
+
+DOCTOR S371
+And it's probably because you've been sick but hmm.  Are you still following with the uh um pharmacist?
+
+PATIENT S371
+Uh yes.  Uh I got a question, uh I got a letter a couple weeks ago saying I had to start making a co-payment.  That's the first time I got one of them, that's @@@.
+
+DOCTOR S371
+I don't know if it’s for all patients @@@ but you can ask DOCTOR.
+
+PATIENT S371
+Okay.  @@@ started. 
+
+DOCTOR S371
+Um are you, when do you see the pharmacist again?  Do you know if you're seeing them soon?
+
+PATIENT S371
+That's usually the days I come to the doctor appointment I just go to the Pharmacy and get the medicines.  
+
+DOCTOR S371
+Um no not the Pharmacy, you see the pharmacist.  Okay give me a few minutes okay.
+
+PATIENT S371
+Yeah.
+
+DOCTOR S371
+Alright give me a few minutes okay.
+
+PATIENT S371
+Thank you.
+
+(DOCTOR OUT:  57:58  DOCTOR IN:  61:18)
+
+DOCTOR S371
+@@@.  I just wanted to look and see one thing.
+
+PATIENT S371
+Okay.
+
+DOCTOR S371
+@@@.
+
+PATIENT S371
+@@@.
+
+DOCTOR S371
+Yes.
+
+PATIENT S371
+Uh @@@.
+
+DOCTOR S371
+No when is it the highest during the day?  Is it after you eat?  Is it during in the morning, do you get it at night?  Is it before bedtime?
+
+PATIENT S371
+Oh it's in the morning.
+
+DOCTOR S371
+@@@.  But you said 150 to 250.
+
+PATIENT S371
+Yeah that's what it ranges between.
+
+DOCTOR S371
+Oh.  
+
+(DOCTOR OUT:  62:24  DOCTOR IN:  70:54)
+
+SECOND DOCTOR S371
+Alright PATIENT.  You're having chest pain?
+
+PATIENT S371
+Yeah @@@.
+
+SECOND DOCTOR S371
+How long?
+
+PATIENT S371
+About @@@.
+
+SECOND DOCTOR S371
+How many days?
+
+PATIENT S371
+About week.
+
+SECOND DOCTOR S371
+Why didn't you come in to the Emergency Room?
+
+PATIENT S371
+Uh I had this @@@ doctor’s appointment @@@ wait.
+
+SECOND DOCTOR S371
+Oh never wait, the next time please come here.  Okay you want to be safer than sorry.  You know it's very important.
+
+PATIENT S371
+Yeah.
+
+SECOND DOCTOR S371
+I didn't expect this from you that you would wait for an appointment to come in.
+
+PATIENT S371
+Yeah it just started.
+
+SECOND DOCTOR S371
+Yeah, yeah @@@.
+
+Doctors talk between themselves.
+
+FIRST DOCTOR S371
+Are you feeling okay now?
+
+PATIENT S371
+Yeah.
+
+FIRST DOCTOR S371
+Yeah.
+
+SECOND DOCTOR S371
+Okay do you feel pain that is there all the time or does it come and go?
+
+PATIENT S371
+It comes and goes.
+
+SECOND DOCTOR S371
+Comes and goes.
+
+FIRST DOCTOR S371
+But it lasts 15 minutes so.
+
+PATIENT S371
+Yeah it does.
+
+SECOND DOCTOR S371
+@@@ then maybe we should look at that.
+
+PATIENT S371
+I'm @@@.
+
+SECOND DOCTOR S371
+No you should go.  Does the pain go anywhere?  Can you show me where it was in the chest?
+
+PATIENT S371
+Right here.
+
+SECOND DOCTOR S371
+Right in there. Does it go anywhere or just stays there?
+
+PATIENT S371
+Uh no it'll stay there.
+
+SECOND DOCTOR S371
+Just stay there. @@@
+
+PATIENT S371
+It goes away and comes back again.
+
+SECOND DOCTOR S371
+@@@.
+
+PATIENT S371
+I been worrying a lot.
+
+SECOND DOCTOR S371
+Huh?
+
+PATIENT S371
+Yeah one or two days.  @@@.
+
+SECOND DOCTOR S371
+Who? @@@.  What happened to her @@@.
+
+PATIENT S371
+A @@@ attack.
+
+SECOND DOCTOR S371
+Oh my goodness.  How old is she?
+
+PATIENT S371
+Uh 55.  See where we live @@@ upset me.
+
+SECOND DOCTOR S371
+@@@.
+
+PATIENT S371
+Yeah.
+
+SECOND DOCTOR S371
+Take a deep breath.
+
+PATIENT S371
+Yeah.
+
+SECOND DOCTOR S371
+Alright.  @@@.  Okay so PATIENT let me tell you, now you know I call you about the chest x-ray and the CT scan and all that.
+
+PATIENT S371
+Yeah.
+
+SECOND DOCTOR S371
+The CT scan actually came back fine and you know the chest x-ray showed some things in the chest @@ but @@@.
+
+PATIENT S371
+Oh.
+
+SECOND DOCTOR S371
+But I still want you to be seen by the lung doctors later on.  Okay we put that consult in and you’ll get the appointment in the mail.
+
+PATIENT S371
+Okay.
+
+SECOND DOCTOR S371
+Okay then the second issue is your diabetes is out of control.  We were going to go up on the insulin and things like that but with this chest pain complaint I think we need to send you to the Emergency Room.
+
+PATIENT S371
+Okay.
+
+SECOND DOCTOR S371
+The electrocardiogram does not show that you're having a heart attack, that's the good news.
+
+PATIENT S371
+Okay.
+
+SECOND DOCTOR S371
+It's not a heart attack but we want to make sure that there's nothing going on with you okay.
+
+PATIENT S371
+Okay.
+
+SECOND DOCTOR S371
+But they will be doing a lot of tests in the Emergency Room and they might put you in the hospital or want you to go into the hospital because we want to make sure there are no blood clots in the lungs and we want to make sure that we do some blood tests @@@ make sure this chest pain that you're having but the last one @@@ did not come from your heart.
+
+PATIENT S371
+Oh.
+
+SECOND DOCTOR S371
+Okay after all this and you have to go to the Emergency Room.
+
+PATIENT S371
+Today?
+
+SECOND DOCTOR S371
+Today okay.
+
+PATIENT S371
+And they're going to admit me to the hospital?
+
+SECOND DOCTOR S371
+Yes.  I'll come and see you up there.  If they admit you to the hospital I'll come and see you.  Uh most likely they might admit you because you know with the diabetes and things like that you know we worry about a lot of things.
+
+PATIENT S371
+Oh alright.
+
+SECOND DOCTOR S371
+Okay but your EKG shows that your heart is beating fast but there's no heart attack.
+
+PATIENT S371
+Oh okay.
+
+SECOND DOCTOR S371
+Do you have any questions on that?
+
+PATIENT S371
+Uh @@@.
+
+Doctors talk between themselves.
+
+SECOND DOCTOR S371
+Okay.
+
+PATIENT S371
+I got one question; I'm driving my uncle's van.
+
+SECOND DOCTOR S371
+Okay did you leave it in the parking lot?
+
+PATIENT S371
+Yeah he's over at Cook County.
+
+SECOND DOCTOR S371
+Uh-huh.
+
+PATIENT S371
+To watch could ask my auntie, she's over there; she let me drive over here.
+
+SECOND DOCTOR S371
+Uh-huh.
+
+PATIENT S371
+I don't how much @@@.
+
+SECOND DOCTOR S371
+Yeah you could call someone from the Emergency Room, make the phone call @@@ they don't charge anything for that.
+
+PATIENT S371
+Oh I got a cell phone here.
+
+SECOND DOCTOR S371
+Huh?
+
+PATIENT S371
+I got a cell phone I can call on.
+
+SECOND DOCTOR S371
+Yeah just call on your cell phone.  That will be taken care of.  Even if you leave the van for 10 days in the parking lot, nobody is going to charge you for that.
+
+PATIENT S371
+No he needs his van right away.
+
+SECOND DOCTOR S371
+He needs the van okay then you can call him.  You can call from transport so you should go, they've got a wheelchair.
+
+FIRST DOCTOR S371
+I'll call them.
+
+SECOND DOCTOR S371
+Yeah probably have them bring a wheelchair I don't want him to walk.
+
+FIRST DOCTOR S371
+Okay let me get one.  Okay, alright.
+
+PATIENT S371
+I'll just go and meet you cause I've got @@@ you know what I mean.
+
+FIRST DOCTOR S371
+Well @@@.
+
+PATIENT S371
+@@@.
+
+DOCTOR S371
+I don't, I don't worry about it, I just need to call a number to find out what they want okay.
+
+PATIENT S371
+Okay.
+
+SECOND DOCTOR S371
+@@@.  Okay one second.  Can you give me one second
+
+FIRST DOCTOR S371
+Sure.
+
+SECOND DOCTOR S371
+Okay, PATIENT.
+
+PATIENT S371
+Okay.
+
+SECOND DOCTOR S371
+I want you to take it easy first thing okay.
+
+PATIENT S371
+Yeah.
+
+SECOND DOCTOR S371
+Yeah and if they put you in the hospital, so go in the hospital, don't go home okay.
+
+PATIENT S371
+Oh okay.
+
+SECOND DOCTOR S371
+I want them to do all the tests for you.  Two things I'm worried about if this pain is coming from the heart, that's number one.  Number two if there are any clots in the lung.
+
+PATIENT S371
+Okay.
+
+SECOND DOCTOR S371
+Okay so you're going to call @@@ and they're going to take you down there okay.
+
+PATIENT S371
+Oh okay.
+
+SECOND DOCTOR S371
+Let me ask one last thing.  What's your cell number?
+
+PATIENT S371
+Uh NUMBER.
+
+SECOND DOCTOR S371
+Is it not NUMBER?
+
+PATIENT S371
+Oh no, I've changed it yeah.
+
+SECOND DOCTOR S371
+Oh my goodness.
+
+PATIENT S371
+I should have told you yeah.
+
+SECOND DOCTOR S371
+Okay when you go into the Emergency Room they will ask you for your information, tell the clerk to change the cell number in the chart.
+
+PATIENT S371
+Oh okay.
+
+SECOND DOCTOR S371
+On the computer here.
+
+PATIENT S371
+Okay.
+
+SECOND DOCTOR S371
+Okay.
+
+PATIENT S371
+I'll do that.
+
+SECOND DOCTOR S371
+Alright.  We'll be calling about you in the Emergency Room.
+
+FIRST DOCTOR S371
+I need you to sign this and then we'll be ready to go.  You want to get your things together and be ready to go?
+
+PATIENT S371
+Are you gonna push me in that wheelchair?
+
+FIRST DOCTOR S371
+I am going to put you in a wheelchair.  We're gonna go for a ride.
+
+PATIENT S371
+I can walk.
+
+FIRST DOCTOR S371
+No sir, no sir you get treated like a prince today.
+
+PATIENT S371
+Oh.
+
+FIRST DOCTOR S371
+Today is the 9th right?
+
+PATIENT S371
+Uh-huh.
+
+FIRST DOCTOR S371
+Today is the 9th.
+
+PATIENT S371
+That's @@@.
+
+SECOND DOCTOR S371
+And then what's a phone number that we can contact you if we need to call you?
+
+PATIENT S371
+Uh home number first?
+
+SECOND DOCTOR S371
+Uh whichever is the easiest phone number to reach you at.
+
+PATIENT S371
+My mother's number is.
+
+SECOND DOCTOR S371
+Is that the easiest that we can contact you?  You don't want to use your cell phone?
+
+PATIENT S371
+Oh yeah you can use the cell phone NUMBER.
+
+SECOND DOCTOR S371
+Uh-huh.
+
+PATIENT S371
+NUMBER.
+
+FIRST DOCTOR S371
+Ready to go?
+
+PATIENT S371
+@@@ before last.
+
+FIRST DOCTOR S371
+I'm going to take you for a ride okay.  Do you have your @@@?  Hang on one second.  @@@.
+
+Doctor takes patient to the Emergency Room.
+
+PATIENT LEAVES 85:10.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255179
+TRANSACTION # 578-10-2-316-0103

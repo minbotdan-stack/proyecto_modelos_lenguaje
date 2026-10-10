@@ -1,0 +1,965 @@
+Date of Encounter: @@/@@/@@  
+Time of Encounter: @@@   
+
+DOCTOR L610
+PATIENT I did see you before.
+
+PATIENT L610
+Yes you did.
+
+DOCTOR L610
+You usually see DOCTOR right?
+
+PATIENT L610
+Yes and I saw you and I tried to change doctors and they wouldn't let me.  To you.
+
+DOCTOR L610
+Uh-huh.
+
+PATIENT L610
+Yeah.
+
+DOCTOR L610
+Oh you can change now cause he's leaving.
+
+PATIENT L610
+Yeah that doesn't count.  So here's my question how long you gonna be around?  I hear you supposed to graduate.
+
+DOCTOR L610
+One year.
+
+PATIENT L610
+So after you graduated you gonna be around?
+
+DOCTOR L610
+Um I was thinking about working here permanently but my family's in California and we're having a baby so.
+
+PATIENT L610
+Congratulations.
+
+DOCTOR L610
+Thank you, thank you.  So.
+
+PATIENT L610
+So I'm gonna have to follow you in California.
+
+DOCTOR L610
+You know you're more than welcome too.
+
+PATIENT L610
+You don't know me; I really will come to California okay.
+
+DOCTOR L610
+Let me finish filling out a couple of things here from my last patient and then we'll get talking.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+There are a couple of things that um we ordered for you so.
+
+PATIENT L610
+Yeah I haven't seen him for six months.
+
+DOCTOR L610
+Yeah he hadn't seen you in a while and now he's moving on I guess so okay, he's actually moving to St. Louis.
+
+PATIENT L610
+Hmm.
+
+DOCTOR L610
+I know I, okay.  I'm sorry I didn't recognize you initially.
+
+PATIENT L610
+Okay.  Its okay, hey I know you go through a lot of people.  Now there's another doctor here.  His name is oh God what did they say his name was DOCTOR something.
+
+DOCTOR L610
+DOCTOR?
+
+PATIENT L610
+DOCTOR right okay.  If you drop me, would you make sure I get him?
+
+DOCTOR L610
+Okay you probably won't.  Well he's my boss in this clinic.
+
+PATIENT L610
+Fantastic.  I’m tired of going through this you know.
+
+DOCTOR L610
+I guess it's finally making me do this, okay so what can I help you with today?
+
+PATIENT L610
+Okay.  I just came from Urology okay.
+
+DOCTOR L610
+Yeah.
+
+PATIENT L610
+She said that I need to talk to you.
+
+DOCTOR L610
+About?
+
+PATIENT L610
+I still have this congestion going on here.  Now I think I indicated to you the last time that I hadn't had this congestion until the pulled all my teeth out and one was really rough pulling that tooth out.  Uh did not give me the proper injection cause I felt it, I mean I was really in pain and I told them about that.  So now I have this constant drain.  I told you about that last time and you gave me something for it.
+
+DOCTOR L610
+Yeah, let's see what I gave you um.  What did I just give you; oh you were on Zyrtec before right, that's not new.
+
+PATIENT L610
+What's the Zyrtec for?
+
+DOCTOR L610
+Allergies and postnasal drip.
+
+PATIENT L610
+Oh okay, I think that's one of the ones I got mixed up, so start taking the Zyrtec.
+
+DOCTOR L610
+The Zyrtec.  Well I increased your blood pressure medicine last time.
+
+PATIENT L610
+Right.
+
+DOCTOR L610
+Remember you have high blood pressure.
+
+PATIENT L610
+That one too.
+
+DOCTOR L610
+Okay.
+
+PATIENT L610
+And I'd like to get that blood pressure without adding another.
+
+DOCTOR L610
+Okay, eventually.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Do you have a low salt diet?
+
+PATIENT L610
+Oh, I'll go to the low salt diet, whatever you tell me to do, I'm gonna do.
+
+DOCTOR L610
+Low salt diet.
+
+PATIENT L610
+Okay.  Cause I'm in my 60s okay.  I got a 12-year-old so I want another 60 years.
+
+DOCTOR L610
+You don't look 61 okay.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+You can very well live longer.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Um the one thing though, you brought it up, I'm glad I see this now is um, oh okay I'll talk about that in a second.  Low salt diet.
+
+PATIENT L610
+You got it.
+
+DOCTOR L610
+Okay and no fried foods, once a week great you know.  
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Anything more than that, probably not a good idea.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+That's the best thing to do okay.  Okay so that's that.  Um you have high calcium okay.
+
+PATIENT L610
+Right.
+
+DOCTOR L610
+And people wonder what does that mean, well it can make you feel, it can sometimes present some of the symptoms of fatigue, feeling.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+Kind of blah.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+They call it moans, stones and groans I think are the three things that's kind of alarming.
+
+PATIENT L610
+Hmm.
+
+DOCTOR L610
+Because you've got muscle aches and pains.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+Cramps.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+Fatigue and then kidney stones.
+
+PATIENT L610
+I had them oh how, oh God that was horrible.
+
+DOCTOR L610
+So then you ask why do you have high calcium levels.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+Well it very well could be parathyroid.
+
+PATIENT L610
+Parathyroid, that's what they told me when they last seen me okay.
+
+DOCTOR L610
+So we need to check the um.
+
+PATIENT L610
+Calcium?
+
+DOCTOR L610
+Well we need to check the calcium and the urine.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+And I think he ordered that, did he or did you want me to order it.
+
+PATIENT L610
+He said that he was gonna order it, I went down and never received the bottle cause he wanted me to urinate in the bottle for 24 hours and then send it to the lab.
+
+DOCTOR L610
+Unfortunately that's the process.
+
+PATIENT L610
+Okay.  If you put in the consult I'll come back out on Monday and pick the bottle up. 
+
+DOCTOR L610
+I already ordered that so that's done okay.  Um and I think we need to take a look at this too.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Um, it would probably be better to get the labs first and then we can maybe take a look at this stuff.  Um so there's a couple, here's the thing.  So what do you do about that oral surgery, if this is significant.  If these labs are concerning enough.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+And you are sent to Navocate, sounds like.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+So I think this would qualify for surgery but I want to see the labs first.
+
+PATIENT L610
+Okay.  My understanding was they were going to try me on medicine first.
+
+DOCTOR L610
+We could try the medicine first.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+But let me see what the labs look like.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Because if it's really from the parathyroid you could do medicine but the gold standards of care is to remove them.
+
+PATIENT L610
+I don't like removing stuff.  I want to leave out of here with everything I came in with.
+
+DOCTOR L610
+Well let me see.
+
+PATIENT L610
+If we can get around it that's cool, if we can't then I’m not going to be a problem.
+
+DOCTOR L610
+Now how's your breathing?
+
+PATIENT L610
+That's what I have a problem with, especially during intercourse.  I mean I get shortness of breath.
+
+DOCTOR L610
+During intercourse you say?
+
+PATIENT L610
+Yes.
+
+DOCTOR L610
+Okay.
+
+PATIENT L610
+Or anytime I stress myself.  I used to walk quite a bit, I can't do that anymore.  I used to be able to run; I can't do that at all.
+
+DOCTOR L610
+And we never got a stress test on you did we?
+
+PATIENT L610
+A long time ago.  It's just like I inhale and it's like its tight right in here.  Feels like it's congestion up in here uh when I'm exerting myself even modestly okay and that's what concerned me so is it from the nasal drip, is it from my smoking from 30 years, I mean what kind of.  And they took x-rays, did that help them?
+
+DOCTOR L610
+Not really.  So, that was - not very long.
+
+PATIENT L610
+So they took, checked an x-ray but they took it times four and they said it was all behind in my heart, they didn't get a good shot at so they wanted to give me.
+
+DOCTOR L610
+Yeah which is very possible so.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+@@@ 
+
+PATIENT L610
+It could be the what?
+
+DOCTOR L610
+It could be @@@.
+
+PATIENT L610
+Alright.
+
+DOCTOR L610
+So it's hard to say um.  He wants a repeat chest x-ray.
+
+PATIENT L610
+How often can I get these things?
+
+DOCTOR L610
+Well okay, you're just starting.  I mean we want to see your lungs okay.  I know you smoked for a while.
+
+PATIENT L610
+Uh-huh.  I haven't smoked in over 11-12 years.
+
+DOCTOR L610
+Okay but how many years did you smoke for?
+
+PATIENT L610
+Well probably a good part of 30, 25-30.
+
+DOCTOR L610
+That's a long time.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+Even if you quit um.  There was no obvious thing on the x-ray that was concerning okay.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Um and you had normal lung function tests.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Recently.
+
+PATIENT L610
+So have not found any ill-effect from the smoking?
+
+DOCTOR L610
+No there's no emphysema.
+
+PATIENT L610
+Okay, whew.
+
+DOCTOR L610
+No it was completely normal, that's @@@@ a year ago.
+
+PATIENT L610
+Okay, so whatever this congestion is something else.
+
+DOCTOR L610
+It's something else. Um is it the heart, maybe okay.  Your echo that I ordered for you before is completely normal.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Okay.  Um it was a little bit limited because I think the person who performed the test was not very skilled.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+So cause you know you deal with very obese people, it's hard to see the heart and you're right @@@ very obese.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+So I might recommend a stress test actually.
+
+PATIENT L610
+Let's do it.
+
+DOCTOR L610
+Okay.
+
+PATIENT L610
+Here's another thing, it may be a minor concern or not.
+
+DOCTOR L610
+Oh actually you had it in July actually oh a year ago, it was normal.  Cause I thought you had one.  Didn’t you have one?
+
+PATIENT L610
+Yeah, describe what a stress test is?
+
+DOCTOR L610
+You can do it any yeah, either they inject something into and you feel sick or they put you on a treadmill and make you walk.
+
+PATIENT L610
+That is the one I did. But, here's the thing I worked out and went a long time on the treadmill.  I remember that.
+
+DOCTOR L610
+Okay.
+
+PATIENT L610
+Uh I couldn't do even a third of that now, that's what I'm saying it's different.  Uh and my legs, my legs are weak, okay I'm stumbling and tripping a whole lot.  I almost, in fact this morning, I'm walking up the stairs, six flights of stairs and it's like my knee gave out.  It's like my muscles could not, actually going on.
+
+DOCTOR L610
+Did you have any knee arthritis?
+
+PATIENT L610
+No.
+
+DOCTOR L610
+You're on medicine for it though.
+
+PATIENT L610
+Arthritis?
+
+DOCTOR L610
+Yeah meloxicam, arthritis medicine.
+
+PATIENT L610
+Meloxicam, I remember the meloxicam but I thought that was something else.  You know at some point I'm going to need somebody to write down all the medicines I got and what they for.
+
+DOCTOR L610
+Okay.  Why don’t I, I will work on that okay.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+I'm extremely.
+
+PATIENT L610
+I know.
+
+DOCTOR L610
+I'm taking care of 12 people upstairs right now, opening the new hospital so, what I can do and I'll remind myself is to send you a letter with all the medicines down and what they're used for okay.
+
+PATIENT L610
+Alright.
+
+DOCTOR L610
+And then we'll decide which ones you really use and which ones you really want.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+And which ones are worthless.
+
+PATIENT L610
+Okay cause.
+
+DOCTOR L610
+Cause trying @@@.
+
+PATIENT L610
+Exactly.  I never liked taking medicines.
+
+DOCTOR L610
+@@@.  It's nothing new.  Your blood pressure stuff.
+
+PATIENT L610
+Yeah.
+
+DOCTOR L610
+That's necessary and let's no more salt and you lose a little weight okay.
+
+PATIENT L610
+I'm working on it.  As a matter of fact, that's what I was going to say that uh.
+
+DOCTOR L610
+Yeah.
+
+PATIENT L610
+My weight came down; it's down to 114 so I lost four pounds since I last came here.
+
+DOCTOR L610
+Actually were you using the program, the Telephone Program or no or am I thinking of somebody else?
+
+PATIENT L610
+What telephone, no, no, no.
+
+DOCTOR L610
+There's a telephone, okay that's something else.  I still hear that murmur.  They didn't detect it on that echo.
+
+PATIENT L610
+That's what it is about you.  You detected that murmur.
+
+DOCTOR L610
+I still hear it.
+
+PATIENT L610
+Nobody else has detected that.
+
+DOCTOR L610
+And with that echo not showing it, maybe I'm crazy but I swear there's a.
+
+PATIENT L610
+Well let's check into it, crazy or not.
+
+DOCTOR L610
+Yeah.  Deep breath in.
+
+PATIENT L610
+(Coughs)
+
+DOCTOR L610
+Oh, okay one more time, okay.
+
+PATIENT L610
+See I been doing that.
+
+DOCTOR L610
+Deep breath.  How long has this been going on?
+
+PATIENT L610
+Been going on a while.  When I first I came here I started talking about this.
+
+DOCTOR L610
+You don't have a blood clot history in your family do you?
+
+PATIENT L610
+Hmm, you know what yes.  My mother died a year or so ago from blood clots.
+
+DOCTOR L610
+Blood clots okay.
+
+PATIENT L610
+Yeah.
+
+DOCTOR L610
+Okay where were the blood clots?
+
+PATIENT L610
+Oh God, it went from her chest to her brain or something like that.
+
+DOCTOR L610
+Okay, let me see @@@ have a seat and I want to talk to DOCTOR.  I know you like DOCTOR.
+
+PATIENT L610
+No, I never meant him. I meant you. I like you.  You're going somewhere I really want to.
+
+DOCTOR L610
+Okay.
+
+PATIENT L610
+Again.
+
+DOCTOR L610
+Hang on to that.
+
+PATIENT L610
+They have so many doctors and nurses here that.
+
+DOCTOR L610
+Alright.
+
+PATIENT L610
+That are not people friendly.
+
+DOCTOR L610
+Oh.  I @@@.
+
+PATIENT L610
+I know.
+
+DOCTOR L610
+Have a seat.
+
+(DOCTOR OUT:  20:10  DOCTOR IN:  32:50)
+
+DOCTOR L610
+Alright.  Here's what we're gonna do.  I was talking with the other doctors okay.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+About how much to get excited about this cause you've had it, actually we were looking, you've had a very extensive work-up.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+Heart, lungs, let's work on @@@.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Okay and the parathyroid and see if that helps.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Okay and then um we'll go from there okay.  I want you to use your @@@.  You're telling me it felt like a congestion type of thing.
+
+PATIENT L610
+Uh-huh.  Do that para thing?
+
+DOCTOR L610
+Yeah do you have nasal symptoms too?
+
+PATIENT L610
+Yeah.
+
+DOCTOR L610
+Use this @@@, we want to something for the nose also.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Okay.  Let's try that.  So make sure you, I want to make sure you have renewals on that too.
+
+PATIENT L610
+Uh what I'm most concerned about is the breathing and the other item is the loss of muscle mass.  I mean I'm really losing muscle mass. 
+
+DOCTOR L610
+How are you @@@?  Are you lifting weights?
+
+PATIENT L610
+No I'm not doing anything.  I mean was really active about five years ago and.
+
+DOCTOR L610
+Oh okay.
+
+PATIENT L610
+And now I’m out of work, so I'm not quite as active.
+
+DOCTOR L610
+@@@ okay, so it is a one thing that they brought up.
+
+PATIENT L610
+Well.
+
+DOCTOR L610
+So part of this, because you're not such a good cardiac and there's that murmur.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+Okay.  This may not um, let's see okay.
+
+PATIENT L610
+But yeah, try to make a change on that as they're sending it to Apartment 1A and it should be 11A, A11.
+
+DOCTOR L610
+Uh you know.
+
+PATIENT L610
+I understand.  You're busy; yeah I'll have them do it out there.
+
+DOCTOR L610
+I don't know how to do that.  So let's do that.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+And we'll do all the calcium stuff too, now DOCTOR ordered that okay.  Um I'm going to; those orders should still be in effect.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Uh let me if the orders are in.  And then I want to make sure it comes to me okay.
+
+PATIENT L610
+And the muscle pain you were saying what?
+
+DOCTOR L610
+You're deconditioned.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+You need to be doing like actually sit-ups.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+It was interesting.  I thought it was very interesting, you know how it is interesting that this is very noticeable during intercourse.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+During intercourse you're using your core muscles.
+
+PATIENT L610
+Uh-huh.  So I need to work on my core.
+
+DOCTOR L610
+You've got to work on your core.
+
+PATIENT L610
+Is there someplace here I can do that?
+
+DOCTOR L610
+There is.  Have you been to the MOVE Program before?
+
+PATIENT L610
+No.
+
+DOCTOR L610
+You know it's an exercise program.
+
+PATIENT L610
+Works for me.
+
+DOCTOR L610
+Okay let's send you there okay.  You'll be happy with it okay.  And then this is the thing, this is why cause the other guy was supposed to come at 4:00 p.m., they overbooked me, he didn't show up.
+
+PATIENT L610
+Oh.
+
+DOCTOR L610
+He's in that program and apparently you have a work-out buddy and stuff and you keep track of your progress.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+And it's through the telephone.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+And it's sent through the VA and shows how you're doing.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Let's do that okay.  Um.
+
+PATIENT L610
+MOVE Program.
+
+DOCTOR L610
+Let's send you over there uh.  And we need to watch that murmur okay.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+I swear I hear something there.  If you do all these things.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+And you come back to me in a couple months.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+Then @@@ progress.  We're going to get the echo done again.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+And I'll send you to Cardiology and they might do a cardiac cath.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+@@@.
+
+PATIENT L610
+Not a problem.
+
+DOCTOR L610
+Okay.
+
+PATIENT L610
+So when is the baby due?
+
+DOCTOR L610
+Uh she's 39 weeks as of today.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+So it's due anytime.
+
+PATIENT L610
+What are you getting boy or girl?
+
+DOCTOR L610
+Boy.
+
+PATIENT L610
+Boy congratulations.
+
+DOCTOR L610
+First baby.
+
+PATIENT L610
+You're gonna have to get another one, you know that right.
+
+DOCTOR L610
+Oh yeah.
+
+PATIENT L610
+You gotta get a girl for you.  The boys are gonna go to the mother. You need to; I'm telling I've got five girls.
+
+DOCTOR L610
+Oh boy.
+
+PATIENT L610
+Four boys, 21 grandkids.
+
+DOCTOR L610
+Oh my goodness.  Well this could be it.  @@@ I've always wondered if you get @@@.
+
+PATIENT L610
+It's bizarre.  The never grow up, they never go away.
+
+DOCTOR L610
+You know that's nice, but I want to get the @@@.
+
+PATIENT L610
+That's fantastic.
+
+DOCTOR L610
+I mean I think it's great.
+
+PATIENT L610
+Uh Thanksgiving, holidays are really, really special.
+
+DOCTOR L610
+If you want to get this stuff done today go ahead okay.
+
+PATIENT L610
+Let's do it Monday.
+
+DOCTOR L610
+Okay.
+
+PATIENT L610
+Cause I've got somebody that's driving me @@@.  So Mondays and Thursdays is good.
+
+DOCTOR L610
+And let's put in for; see you in three months okay.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+We'll have you come back @@@.
+
+PATIENT L610
+Okay.
+
+DOCTOR L610
+Okay just call.  
+
+PATIENT L610
+Uh-huh.
+
+
+DOCTOR L610
+Um our schedules are a little bit better now.
+
+PATIENT L610
+Uh-huh.
+
+DOCTOR L610
+So hopefully um, let's me just find it, down here.   Okay.  I'm going to work on this, it'll be a project but I think we'll get through it.
+
+PATIENT L610
+Alrighty.
+
+DOCTOR L610
+Nice to see you again and thank you.
+
+PATIENT L610
+That's alright, it's alright.
+
+DOCTOR L610
+Okay, check out there and tell them about the address okay.
+
+PATIENT L610
+Alright doc.
+
+DOCTOR L610
+Oh he's actually going to be checking out.
+
+PATIENT L610
+Okay.
+
+PATIENT LEAVES:  39:59
+
+Time is 4:45.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249448
+TRANSACTION # 578-10-2-316-0103

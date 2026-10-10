@@ -1,0 +1,848 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+DOCTOR K413
+PATIENT?
+ 
+PATIENT K413
+How you doing doc?
+
+DOCTOR K413
+How you doing?
+
+PATIENT K413
+Good.
+
+DOCTOR K413
+@@@.
+
+PATIENT K413
+@@@.
+
+DOCTOR K413
+Having a nice day?
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+@@@.
+
+PATIENT K413
+Yep.  Oh okay.
+
+DOCTOR K413
+Oh, washing @@@.  Alright.  Clean water I promise.  Any problems?
+
+PATIENT K413
+Yes.
+
+DOCTOR K413
+Yes?  Oh no.  Oh yes I've read about this, a tick bite?
+
+PATIENT K413
+Yeah.  It looks like it's going away though.
+
+DOCTOR K413
+Did it ever look like a target?  Like where it had central clearing?
+
+PATIENT K413
+Yes.
+
+DOCTOR K413
+Oh no.
+
+PATIENT K413
+Uh they took blood work.
+
+DOCTOR K413
+Okay.  Yeah.
+
+PATIENT K413
+For you know.
+
+DOCTOR K413
+Yeah everything looks good.  Yeah let me pull it up for you.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+Now I remember I looked at everyone this morning and I remember you were in the Emergency Room on Friday.
+
+PATIENT K413
+Right.
+
+DOCTOR K413
+Right okay.  So the Lyme disease serology, that's what they, that takes a long time to come back so that's still pending.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+Um and then it looks like your white blood cell count was normal and that number sometimes is high if there's an infection but with Lyme disease I don't know if it's always high, I can go look that up.  Uh your hemoglobin was fine too, it looked fine.  Everything else looked okay.  Um and then your other tests that they took um looking at basic chemistries that all looks okay too except your sugar was a bit high.  Everything was okay.
+
+PATIENT K413
+Yeah that's something uh, I don't know what it is but it just won't go down below 240 or 220.
+
+DOCTOR K413
+Yeah.
+
+PATIENT K413
+So I don't know how many different medications for that.
+
+DOCTOR K413
+Maybe yeah.  And right now we have you on metformin and that's all right?
+
+PATIENT K413
+Uh, I don't know the names of them.
+
+DOCTOR K413
+Okay so you take all, everything on this list you're taking?
+
+PATIENT K413
+Uh unless um which one for quit smoking?
+
+DOCTOR K413
+Chantix.
+
+PATIENT K413
+Yeah they uh said they were going to give me another month's supply of that and.
+
+DOCTOR K413
+You didn't get it.
+
+PATIENT K413
+They didn't order it.
+
+DOCTOR K413
+Okay.
+
+PATIENT K413
+So I've been off of it for probably about a week.
+
+DOCTOR K413
+Okay, how's your smoking coming?
+
+PATIENT K413
+Oh about seven or eight cigarettes a day.
+
+DOCTOR K413
+Better.
+
+PATIENT K413
+Uh-huh.
+
+DOCTOR K413
+Okay, well I'll reorder that for you.  And you have the tick bite and um diabetes are probably the main issues right now then.
+
+PATIENT K413
+Yes.
+
+DOCTOR K413
+Okay.
+
+PATIENT K413
+Well I still have the pain in the neck that I will need a second shot for that.  @@@.
+
+DOCTOR K413
+I saw that you were being, they were looking, there's Anesthesia Notes and stuff so.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+That's perfect.
+
+PATIENT K413
+And it helps a lot, the other shot helped quite a bit.
+
+DOCTOR K413
+Good.  And how is the weight loss program?  Not good?
+
+PATIENT K413
+No.
+
+DOCTOR K413
+You did well initially.  You were excited about it initially.
+
+PATIENT K413
+Yeah I, well I've been going to it and uh lost uh about 23 pounds but I've gained about five of it back.
+
+DOCTOR K413
+Okay.
+
+PATIENT K413
+So.
+
+DOCTOR K413
+Well.
+
+PATIENT K413
+And that's just been in the last month.
+
+DOCTOR K413
+Okay.  Well keep going.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+It can't be easy.
+
+PATIENT K413
+No it's not.
+
+DOCTOR K413
+You know, if it was easy everyone would be you know a normal size but it's not easy so.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Keep trying um.  I'm wondering if we should increase your metformin.  Right now you're on half a tablet twice a day, maybe we should go to a whole tablet twice a day.
+
+PATIENT K413
+I'm trying to think which one it is.  What color it is?
+
+DOCTOR K413
+You can Google it.
+
+PATIENT K413
+Is this the white one?
+
+DOCTOR K413
+I don't know, here let's Google one.  I wish that in my book it gave us what it looked like.  Whoa, I opened it three times.  And these look like.  Any of these look familiar?
+
+PATIENT K413
+Yeah the one in the middle on the right inside, down the middle yeah.
+
+DOCTOR K413
+And you break them in half right now, so we would go from taking one pill to taking the whole pill.
+
+PATIENT K413
+Twice a day.
+
+DOCTOR K413
+Twice a day and then I think we're kind of maxed out on it.  Let me check the list though.  I think as you lose more weight it should be, we should be able to get, you won't have to take as much of this medicine hopefully.
+
+PATIENT K413
+Yeah they could wire my jaw shut or something.
+
+DOCTOR K413
+I know, it's hard you know.
+
+PATIENT K413
+Hmm.
+
+DOCTOR K413
+Okay the max dose is like 2500 a day so if you go up to 1000 a day or 2000 a day, um we're getting there and if you need something other than that, we'll probably have to go to a second drug but for right now I think it's easier to keep people on just one drug at a time.
+
+PATIENT K413
+Okay.  I'll give it a try.
+
+DOCTOR K413
+Yeah.
+
+PATIENT K413
+What was the name of it again?
+
+DOCTOR K413
+The metformin, so this one.  Um we're going to change to one pill twice daily and I'll reorder it so that you have the correct amount ordered.  
+
+PATIENT K413
+I can just @@@.
+
+DOCTOR K413
+Or actually you can go at 850, why don't we do that.  Sorry I didn't realize that it came in this other dose and we'll do the 850 mg twice a day instead um, do you want them in the mail?
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+You can just wait till you get them in the mail.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+And then so we're going to change this to 850 mg twice a day.  You'll get a new prescription in the mail.  
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+But keep doing what you're doing for now.
+
+PATIENT K413
+And what do I do with the extras, cause there’s
+
+DOCTOR K413
+Do you have a lot?
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Keep them because if you end up needing a higher dose you can go back to taking one whole dose.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+Okay.  And we throw them away.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+Just keep track of what's what, put them in a drawer or something.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Um okay so let's talk a little bit here.  So you were just in the Emergency Room and you said the tick bite looked like a target?
+
+PATIENT K413
+Yeah it was like red on the outside and white in the middle.
+
+DOCTOR K413
+And they started you on the doxycycline?
+
+PATIENT K413
+Uh-huh.
+
+DOCTOR K413
+How many days did they give you?
+
+PATIENT K413
+Seven.
+
+DOCTOR K413
+Okay.  How's the pain?
+
+PATIENT K413
+Uh there never was any pain.
+
+DOCTOR K413
+Okay.
+
+PATIENT K413
+I just, when I was taking a shower Friday I just happened to glance down and happened to see it.
+
+DOCTOR K413
+Well how big was it?
+
+PATIENT K413
+It was about the size of a quarter.
+
+DOCTOR K413
+Okay but you noticed the center was light.
+
+PATIENT K413
+Right.
+
+DOCTOR K413
+And the outside was dark.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Okay.  Just while you’re make sure @@@ don’t have to recheck it um.  Any fever, chills?
+
+PATIENT K413
+No, no.
+
+DOCTOR K413
+No like fatigue, malaise, chest pain, trouble breathing?  You're feeling fine you just have the tick bite?
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Okay.
+
+PATIENT K413
+I mean the only reason I came in was because I saw it you know, other than that.
+
+DOCTOR K413
+Yeah.
+
+PATIENT K413
+I had no.
+
+DOCTOR K413
+And really with Lyme disease you don't want to wait, it should be treated.  Some people feel fine but if you don't treat it, it can cause problems down the road so.  And no joint pains and aches anywhere aside from your usual the neck pain and everything?
+
+PATIENT K413
+Correct.
+
+DOCTOR K413
+I think Lyme disease, from what I'm remembering, it causes an arthritis that migrates so you'll have a very severe like elbow pain or knee pain and the next day it will be in different joints um and then it can cause like heart problems too but that's only if you don't treat it so you should be okay.  I think my dog had it and we noticed that she's limping so we were like oh man what happened to her and they checked it and found it so.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+But it should be fine. I'm here to make sure that we're not, make sure that we follow up on the way to check this.  And how high did you say your sugars are in the morning?
+
+PATIENT K413
+240, 220.
+
+DOCTOR K413
+This is high.
+
+PATIENT K413
+Yeah.  Twice what they should be.  Um when does that class meet for, um diabetes so you know what, you know they show you what, teach you what to eat?
+
+DOCTOR K413
+Yeah.
+
+PATIENT K413
+And what not to eat.
+
+DOCTOR K413
+You've seen them before haven't you?
+
+PATIENT K413
+Yeah but I missed, like that was the first day.
+
+DOCTOR K413
+Oh okay so you want to get the full.
+
+PATIENT K413
+Right.
+
+DOCTOR K413
+You want to just go again?
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Okay.  I know that they may reject our consult so we'll.
+
+PATIENT K413
+@@@.
+
+DOCTOR K413
+I would think you could go back, I don't think it's a, I'll just write in our consult that you're inadequately controlled and you requested it.  
+
+PATIENT K413
+I got in touch with Ears, Nose and Throat ‘cuz it’s been probably six or seven weeks since I went to see them for the deviated septum and the doctor told me I needed surgery and It’s like I never heard anything.  So I called him back and um the person told me that it's more of an elective surgery and that they would fit me in when things aren't so bad you know, people getting polyps removed you know different stuff like that.
+
+DOCTOR K413
+Okay.  So that's in the works?
+
+PATIENT K413
+Yeah.  But it's probably another couple of months.
+
+DOCTOR K413
+Oh geez.  So do you have to keep checking back with them or will they contact you?
+
+PATIENT K413
+They're supposed to contact me.
+
+DOCTOR K413
+Okay.
+
+PATIENT K413
+Yeah I was just, I didn't know until I called them and I think it was Friday or Thursday last week.
+
+DOCTOR K413
+I would keep on them you know.  If you don't hear from them in a month I would call back.  I don't know how that works but they should be able to schedule you I mean, you can't predict emergencies and they're going to have emergencies and have to bump people eventually or you know sometimes.  They should be able to schedule you so, keep on that.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+Cause if you, I feel like at all hospitals you have to be your own advocate if you can be because things get dropped.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Especially with residents, who like me, that come and go and you only come have clinic like once every two weeks and I would definitely call again, you never know so.  And nobody means to do that but I think it does happen.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Um, we want to make sure that we treat you correctly.
+
+PATIENT K413
+The only other problem I have is the um, the oxygen concentrate um my electric bill was like $70.
+
+DOCTOR K413
+Okay.
+
+PATIENT K413
+For like three months in a row and then when I got that it went up to like $220.
+
+DOCTOR K413
+Ah.
+
+PATIENT K413
+And uh my next bill was like $180 and they came and checked it last week and I asked about it, did this machine take a lot of electricity and he says oh yeah a lot so I haven’t been using it.
+
+DOCTOR K413
+The CPAP you mean?
+
+PATIENT K413
+No the CPAP I'm using, it's just the oxygen concentrator.
+
+DOCTOR K413
+That goes through the CPAP?
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Okay.
+
+PATIENT K413
+And I just, you know I can't afford a $200 bill.
+
+DOCTOR K413
+I know, I mean oh my God I couldn't afford that either.  That's like a car payment.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Okay, okay.  You know this article here says you should be on the doxycycline for 21 days so three weeks @@@?
+
+PATIENT K413
+Uh for the bite oh okay yeah.
+
+DOCTOR K413
+I'm glad we looked it up.  So let me see if there's anything else in here that we would need to know.
+
+PATIENT K413
+And you're supposed to stay out of direct sunlight with that right.
+
+DOCTOR K413
+Yes.  You can get a burn, you'll be photo sensitive.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+So let's see okay, so this trial, it looks like it's kind of it’s either 21 days or 14; so because you have no symptoms I think you could get away with two weeks instead of three.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+If you develop any of those symptoms like the arthralgias or rashes or anything like that then you know go ahead and give me a call.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+And we'll extend it um or we'll have you come back in.  And then I think you should be fine.  So it looks like that's all you have to do.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+So let me change that to the lower while I think about it.
+
+PATIENT K413
+So you think I should @@@.
+
+DOCTOR K413
+Oh let me give you 14 days, okay.  You mean the oxygen concentrator?
+
+PATIENT K413
+Yeah.  I mean I know I need it but.
+
+DOCTOR K413
+Yeah but if you're not going to use it.
+
+PATIENT K413
+Right.
+
+DOCTOR K413
+I don't disagree with you, that's crazy.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+And no one ever told me that before.  They're probably just paying it and they don't even realize.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+How well.
+
+PATIENT K413
+Well they get me, like I said last month was $220 and I called them up and I said there's got to be a problem here somewhere.
+
+DOCTOR K413
+Yeah.
+
+PATIENT K413
+You know cause my last three months didn't even equal $220 and um so they checked it again and it was right.  So you know like I said uh the guy told me it takes a lot of electricity so I quit using it.
+
+DOCTOR K413
+Do you still feel better using just the CPAP alone without the oxygen?
+
+PATIENT K413
+Yeah I feel fine I mean.
+
+DOCTOR K413
+Probably.
+
+PATIENT K413
+I sleep pretty good.
+
+DOCTOR K413
+It's still helping you?
+
+PATIENT K413
+Oh yeah.
+
+DOCTOR K413
+Okay.  Um I think that that's fine.  You can probably just get rid of it.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+Um but, let me go ask my boss and see what he thinks.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+Any other issues today?
+
+PATIENT K413
+Nope.
+
+DOCTOR K413
+Let me make sure there's nothing else, I always write myself a note um so I make sure I'm treating everything.
+
+PATIENT K413
+@@@.  High blood pressure medication, like 114/71.
+
+DOCTOR K413
+That's good.  And we have you on; it looks like Lasix 20, nothing else?  Well, so you check your pressure at home?
+
+PATIENT K413
+No.
+
+DOCTOR K413
+No.
+
+PATIENT K413
+I'd say the last, I think the last seven times that I've been here they check my blood pressure and it's always been, the last seven times it's been that low.
+
+DOCTOR K413
+You have metoprolol too it looks like.  I think you can probably stop the Lasix, the water pill if you want.
+
+PATIENT K413
+That's the little white.
+
+DOCTOR K413
+Yeah.
+
+PATIENT K413
+Just mark it on here with an X and I'll figure it out when I get home.
+
+DOCTOR K413
+Yeah.  Why don't you keep it so you can stop this one and then just keep it though cause if you start accumulating fluid, like let's say your legs start getting puffy, that sort of thing then you can restart it.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+So it can be an as needed thing and then I would keep the metoprolol that's this one um just because that's cardio protective, it'll protect your heart okay.  The rest of the meds we'll keep the way they are.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+Until you get better readings.  I think we did checked your cholesterol initially and it was good, that was back, that was just recently and it was very good so we'll continue with our therapy.  The triglycerides were kinda high.
+
+PATIENT K413
+How high were they?
+
+DOCTOR K413
+They were 278.
+
+PATIENT K413
+Wow.
+
+DOCTOR K413
+And are you taking the gemfibrozil at this time?
+
+PATIENT K413
+Yes.
+
+DOCTOR K413
+@@@ everything is normal.
+
+PATIENT K413
+Yes.
+
+DOCTOR K413
+@@@.
+
+PATIENT K413
+The last time you told me to um take fish oil too.
+
+DOCTOR K413
+And you've been doing that?
+
+PATIENT K413
+Yes.  I've been.
+
+DOCTOR K413
+They are higher than they were.
+
+PATIENT K413
+For some reason they keep fluctuating like that.  I mean it's ridiculous.  Cause the one time I had it checked it was like 210 and then the doctor put me on you know no red meat and all that kind of stuff.
+
+DOCTOR K413
+Yeah.
+
+PATIENT K413
+And I did that for like three months, went back and had it checked again and it was 2100.
+
+DOCTOR K413
+Now I’m remembering this, geez.
+
+PATIENT K413
+So I don't know.  I was hoping that that would be done with with the fish oil.
+
+DOCTOR K413
+Yeah I thought that would help too.  I know that helped my mom.  It helps a lot of people @@@.  Well right now we have you on the gemfibrozil one tablet once a day.  You can take that twice a day and that @@@ next dose.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+So why don’t we try that and then we'll repeat the cholesterol next time you come see me; so I'll write it on there.  
+
+PATIENT K413
+Oh.
+
+DOCTOR K413
+So, change, two.
+
+PATIENT K413
+And two would be one in the morning and one at night or two at the same time?
+
+DOCTOR K413
+Yeah, no one in the morning and one at night.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+So when you take your metformin do the same thing.  It helps to take them at the same time and then let me change that one too.  It's still 230 @@@ we need to get that down.
+
+PATIENT K413
+Yeah, well the last time it was checked um of course I didn't bring the paper with me, it was down.  I couldn't remember what the number was.
+
+DOCTOR K413
+Yeah it did come down initially to 1200 which is still high.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+But it was down from where it was before, I think the first time I saw you it was 1600 and it was whoa you know but you told me it has always been like that before.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Um let's just repeat some of your labs next time so @@@.  So we will repeat the cholesterol, and your diabetes tests and @@@.
+
+PATIENT K413
+@@@ does that go along with the cholesterol?
+
+DOCTOR K413
+It's a panel @@@ we’re good there, I think.  Let me take a listen to you and then we can @@@.  Am I running late yet? No. I usually try really hard. I usually have people waiting  I am sure we have people waiting out there.
+
+PATIENT K413
+I remember the last time I was here I was almost done at 4 o'clock and that's when my appointment was.
+
+DOCTOR K413
+Oh I got you in here.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+I like doing that, too.
+
+PATIENT K413
+Yeah and especially on a Friday I think.
+
+DOCTOR K413
+Yeah, take a deep breath.  We like patients like you.  You do everything we say and you remember everything.
+
+PATIENT K413
+Well I have to, if I don't you know.
+
+DOCTOR K413
+Yeah.  You've made progress too.
+
+PATIENT K413
+Yeah.
+
+DOCTOR K413
+Just keep moving.  Take some deep breaths.  Good.  This is my last year here and you'll get somebody new.  Unless I decided to stay.  I’ll probably see you a couple more times during my reign here. (Laughs)
+
+PATIENT K413
+@@@.
+
+DOCTOR K413
+Uh, I want you to come back and see me in three months, is that okay?
+
+PATIENT K413
+Sure.
+
+DOCTOR K413
+And we'll do your labs before that and they're all renewed okay.  You’re good.  Everything that we talked about has been changed.  I'm going to leave this, the one we cancelled in there just in case you need it.
+
+PATIENT K413
+Okay.
+
+DOCTOR K413
+Burt know that you don’t have to take it.
+
+PATIENT K413
+Alright.
+
+DOCTOR K413
+Good to see you.
+
+PATIENT K413
+Thank you.
+
+DOCTOR K413
+Enjoy the rest of your summer.
+
+PATIENT K413
+Thank you.
+
+DOCTOR K413
+Uh-huh.
+
+PATIENT LEAVES:  66:30
+
+Time is 3:50.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238125
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,524 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@ 
+
+DOCTOR J087
+PATIENT.
+
+PATIENT J087
+Right here.
+
+DOCTOR J087
+How are you sir?  Come on in.  How are you feeling?
+
+PATIENT J087
+Uh, tired.
+
+DOCTOR J087
+Tired.
+
+PATIENT J087
+Seen better things.
+
+DOCTOR J087
+I was looking at your chart.  I saw you got @@@ uh at that time you were kind of going back and forth on whether you wanted cystoscopy. 
+
+PATIENT J087
+Uh.
+
+DOCTOR J087
+We referred you back to the GU doctors, looks like you saw them and you actually did have that.
+
+PATIENT J087
+Okay I have @@@ right?
+
+DOCTOR J087
+Yes, yes exactly.
+
+PATIENT J087
+I went uh 2010 mostly I'm @@@ on the medicines but uh I'm @@@.
+
+DOCTOR J087
+Uh-huh, uh-huh.
+
+PATIENT J087
+@@@ otherwise.
+
+DOCTOR J087
+Terazosin, yep.
+
+PATIENT J087
+And then this year sometime in November December, I started out on, I have, recently, no @@@.
+
+DOCTOR J087
+Yeah @@@.
+
+PATIENT J087
+Yeah I want some of that @@@.
+
+DOCTOR J087
+Okay.
+
+PATIENT J087
+@@@.
+
+DOCTOR J087
+Yeah how's that working for you?
+
+PATIENT J087
+It's uh, real good.
+
+DOCTOR J087
+Yeah so you're not having a problem? I know there were some issues with all the other medications but this one's working real good huh?
+
+PATIENT J087
+Uh I will say yeah, @@@.
+
+DOCTOR J087
+Yes.
+
+PATIENT J087
+It's @@@ initial side effects, right.
+
+DOCTOR J087
+Right, right yeah.
+
+PATIENT J087
+No problem.
+
+DOCTOR J087
+Good, good I'm glad to hear it.  They did the cystoscopy where they you know give you the washings in your blood and everything looked good with that, so that was good.
+
+PATIENT J087
+They did?
+
+DOCTOR J087
+Yeah.  When they did it.
+
+PATIENT J087
+They did something yeah.
+
+DOCTOR J087
+Yeah, everything looked good.  Um so yeah they wanted you to be on that one finasteride um otherwise how's everything going for you.  I've know that you have the left-sided weakness correct?
+
+PATIENT J087
+Yeah.
+
+DOCTOR J087
+From the prior stroke.  Any changes with that or is that the same?
+
+PATIENT J087
+Uh no, but I used to when I @@@ into things, that's probably not much medicine @@@.
+
+DOCTOR J087
+@@@. Exactly, exactly.  Um.
+
+PATIENT J087
+Since the last time I talked to you my concern was I want @@@.
+
+DOCTOR J087
+Physical therapy?
+
+PATIENT J087
+Physical therapy @@@.
+
+DOCTOR J087
+Yeah.
+
+PATIENT J087
+I want to @@@.
+
+DOCTOR J087
+Right.
+
+PATIENT J087
+Not that @@@.
+
+DOCTOR J087
+@@@.
+
+PATIENT J087
+Yeah that  @@@.
+
+DOCTOR J087
+It probably won't recover.
+
+PATIENT J087
+Yeah it probably won’t.
+
+DOCTOR J087
+This far out, they usually don’t so you see @@@ exercises at home.  Um but the main problem last time I saw you was and you were getting up at night to pee at times.
+
+PATIENT J087
+Well, you know it got so good that, well I mean last night was an @@@ amount I don't know why.  Maybe it was nerves, that was nerves.  @@@.  Um I did urinate @@@.
+
+DOCTOR J087
+Okay.  But normally how many times at this point are you getting up?
+
+PATIENT J087
+Hmm once, twice.
+
+DOCTOR J087
+Wow.  So you're more rested.
+
+PATIENT J087
+Well one of the times yeah.  Let's say for X reason other than @@@ I couldn't skip this thing.
+
+DOCTOR J087
+Okay.
+
+PATIENT J087
+And uh but like I say it was nothing to do with medicine.
+
+DOCTOR J087
+@@@.  Good, good.  Do you need any medication refills?
+
+PATIENT J087
+All of them.
+
+DOCTOR J087
+All of them sure.  Do you want them mailed to your house or do you want uh, do you want to pick them up here?
+
+PATIENT J087
+Well let's see, I did run out of the blood pressure medicine.
+
+DOCTOR J087
+Then why don't we have you pick it up.  Do you have time to wait here?  How long does it take to get to your house?
+
+PATIENT J087
+No yeah it takes about a half hour.
+
+DOCTOR J087
+Okay.  So.
+
+PTIENT J087
+I can do that but I was wondering if I could get that flunisolide it comes once a month.  I don't know if you've got them, @@@ the month.
+
+DOCTOR J087
+Let's see finasteride five tablets, @@@.  You take it once a day right?
+
+PATIENT J087
+Yeah it lasts one month.
+
+DOCTOR J087
+Yeah, oh do you want three months’ worth?
+
+PATIENT J087
+If I could get three months, @@@.
+
+DOCTOR J087
+Okay.  What are you on for blood pressure?  I don't even see you being on any medications for blood pressure and your blood pressure looks fantastic.
+
+PATIENT J087
+Right.  I didn't take the medicine today.
+
+DOCTOR J087
+But do you want to be taking?
+
+PATIENT J087
+Uh I have been taking it.
+
+DOCTOR J087
+Oh the lisinopril and the amlodipine.
+
+PATIENT J087
+Lisinopril and amlodipine.
+
+DOCTOR J087
+Okay.  Uh and how long have you been out of it?
+
+PATIENT J087
+I been taking it every day.
+
+DOCTOR J087
+But did you run out?  You didn't run out?
+
+PATIENT J087
+Oh hmm, I just got one pill for each one left.
+
+DOCTOR J087
+Okay then I will refill both of those, that's fine.
+
+PATIENT J087
+And I got them there.
+
+DOCTOR J087
+Oh okay, okay.
+
+PATIENT J087
+Well the @@@.
+
+DOCTOR J087
+And you have the aspirin, yeah good, perfect.  So alright.
+
+PATIENT J087
+Uh let's see.  If I can get the amlo.
+
+DOCTOR J087
+Uh-huh.
+
+PATIENT J087
+And lisinopril.
+
+DOCTOR J087
+Uh-huh.
+
+PATIENT J087
+And finasteride.
+
+DOCTOR J087
+Uh-huh.
+
+PATIENT J087
+For three months.
+
+DOCTOR J087
+Uh-huh.  Uh okay, so you know that the lisinopril in the pack, you should only be taking half a tablet.
+
+PATIENT J087
+I'm taking a half yeah.
+
+DOCTOR J087
+Okay and then the amlodipine the whole tablet and the finasteride a whole tablet.
+
+PATIENT J087
+Right, it's a small little pill.
+
+DOCTOR J087
+Are you still needing a medication for a cream?
+
+PATIENT J087
+No.
+
+DOCTOR J087
+No okay then we won't worry about it okay.  Um it's just those three and then that's it, that's all you need.
+
+PATIENT J087
+Uh-huh that's all.
+
+DOCTOR J087
+Perfect so I'll put that in.
+
+PATIENT J087
+And I can pick them up today uh.  Yeah that way in about three months I can make another round.
+
+DOCTOR J087
+Yeah, that works for you? Okay, yeah let's do that.  Um let me just check a couple things I need to do.  So last time we checked your cholesterol was recently, no it was about a year ago.  I'm gonna order labs for you.  You do not have to get them done today.
+
+PATIENT J087
+Well I might as well get it cause I.
+
+DOCTOR J087
+Cause you're here you'll get them.
+
+PATIENT J087
+I haven't eaten nothing.
+
+DOCTOR J087
+You haven't eaten?
+
+PATIENT J087
+Since 3 o'clock yesterday in the afternoon.
+
+DOCTOR J087
+Why not?
+
+PATIENT J087
+I'm getting ready for @@@.
+
+DOCTOR J087
+@@@ smart.
+
+PATIENT J087
+Maybe you wanted to uh.
+
+DOCTOR J087
+Alright I.
+
+PATIENT J087
+Blood tests.
+
+DOCTOR J087
+Yes I do but I didn't think you'd go this long.  Okay let's check some labs; I'll refill your meds.  Um and you had a flex sig in 2006 that showed some diverticulosis.  Are you interested at all in doing a colonoscopy where they go up through the bottom and they take a look for colon cancer?  The test you had in the past was sort of an incomplete test.
+
+PATIENT J087
+It was incomplete cause.
+
+DOCTOR J087
+It was uncomfortable.
+
+PATIENT J087
+It was real uncomfortable.  They could at least put uh a local.
+
+DOCTOR J087
+Yeah I agree.  So the one that I want you to get is more complete and they completely knock you out.
+
+PATIENT J087
+Well I don't need a complete knock out.
+
+DOCTOR J087
+But they sedate you so that you don't remember it.  You can respond like when they're asking you questions you can respond but you won't remember it so it's not painful or anything.
+
+PATIENT J087
+That's what mine was, that's where I got the @@@. 
+
+DOCTOR J087
+You want to do that okay.
+
+PATIENT J087
+I don't think they found anything unusual but they.
+
+DOCTOR J087
+No, no, they didn't.  It just wasn't a complete study so I just wasn't sure if you.
+
+PATIENT J087
+I've been going on the @@@ to work on the stomach.
+
+DOCTOR J087
+Oh okay, okay.  Well think about it.  If you decide you want to change your mind and do it we can set you up okay.  Um otherwise everything is looking pretty good.  You're doing a real good job.  Your blood pressure looks great.  You're taking your aspirin.  Um sounds like all the GU stuff and your urology stuff has gotten.
+
+PATIENT J087
+Right, no problem.
+
+DOCTOR J087
+Good well let me go talk to the boss.  Let me take a listen to you, then I'll talk to the boss and we'll get you out of here.  We'll send you to the Lab; we'll send you to the Pharmacy.
+
+PATIENT J087
+Okay.
+
+DOCTOR J087
+Alright.  Go ahead and lean forward just a little bit.  Forward, there you go.  Big breath.  Another one.  Good you can breathe normal, I'm gonna listen to your heart.  Good.  Let me go talk to the boss and we'll get you out of here.
+ 
+(DOCTOR OUT: 30:11  DOCTOR IN:  36:42)
+
+DOCTOR J087
+Alright sir.
+
+PATIENT J087
+You know I was thinking, I want to mention something.  I did go to the doc, some kind of growth.
+
+DOCTOR J087
+Yeah.
+
+PATIENT J087
+That needs to come out, on the side here.
+
+DOCTOR J087
+Uh-huh.
+
+PATIENT J087
+And also on the side here.
+
+DOCTOR J087
+Uh-huh.
+
+PATIENT J087
+But it kind of like condensed.
+
+DOCTOR J087
+Okay.
+
+PATIENT J087
+And got smaller and smaller and it's gotten better but a little harder.
+
+DOCTOR J087
+Okay.
+
+PATIENT J087
+Than what they originally were.
+
+DOCTOR J087
+Okay.
+
+PATIENT J087
+Another one.
+
+DOCTOR J087
+This one right here.
+
+PATIENT J087
+This one here, I don't know what.
+
+DOCTOR J087
+We can send you over to the Dermatology Clinic.  This is a little growth like you said.  But they're usually not too bad.  Does it bother you?
+
+PATIENT J087
+It uh.  No, it's a little reddish and a little swollen at one time.
+
+DOCTOR J087
+Okay.
+
+PATIENT J087
+But uh it went away, like it's right now.
+
+DOCTOR J087
+Okay, okay.  Um let's keep an eye on it.  If it changes in size, changes in color you come back and let me know okay.
+
+PATIENT J087
+Uh-huh.
+
+DOCTOR J087
+Um cause then I will send you over to the skin doctors.
+
+PATIENT J087
+Right, dermatologist.
+
+DOCTOR J087
+Yes, you got it.  Amlodipine 30 day supply.  So I changed your finasteride medication to be a three month supply, cause the way Urology wrote it out it was only 30 pills um otherwise I restarted your amlodipine and your lisinopril.  I'm going to put in for your labs now and you can just go get it.  Let's see.  And then why don't you come back and see me in three months, does that sound good?
+
+PATIENT J087
+Yeah.
+
+DOCTOR J087
+And that's the Blue Clinic and @@@ you're all set to go.  And your meds should be waiting for you at the Pharmacy.  Everything's in the Lab.
+
+PATIENT J087
+Yeah I'll come back in May, more or less about the same 13th, 16th.
+
+DOCTOR J087
+Yeah they'll send you a letter with the date.  It'll be a Wednesday afternoon that I can promise you.  That's the only day I'm here.
+
+PATIENT J087
+Okay.
+
+DOCTOR J087
+Okay.  So let me know if anything, you know you need to change anything or you can come back earlier.  Okay.
+
+PATIENT J087
+Well, that’s all.
+
+DOCTOR J087
+Okay.
+
+PATIENT J087
+Okay help me @@@.
+
+DOCTOR J087
+Well you can take this if you'd like it, it's @@@ your med list on it, but you don't need it for anything.
+
+PATIENT J087
+She said I could give it.
+
+DOCTOR J087
+@@@ it’s yours @@@.  Okay sir.
+
+PATIENT J087
+Okay I got to go back here uh.
+
+DOCTOR J087
+Yes, yes.  You might want to stop at the Pharmacy first and take a number cause I know that line can get really long.
+
+PATIENT J087
+Oh yeah okay.
+
+DOCTOR J087
+Bye sir.
+
+PATIENT J087
+Uh-huh.
+
+PATIENT LEAVES:  40:53
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286132
+TRANSACTION # 578-10-2-316-0103

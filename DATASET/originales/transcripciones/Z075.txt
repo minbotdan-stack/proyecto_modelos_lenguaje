@@ -1,0 +1,427 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR Z075
+PATIENT?  How you doing?
+
+PATIENT Z075
+Good.
+
+DOCTOR Z075
+@@@.  Did you enjoy Thanksgiving?
+
+PATIENT Z075
+Huh?
+
+DOCTOR Z075
+Did you enjoy Thanksgiving?
+
+PATIENT Z075
+Oh yes.
+
+DOCTOR Z075
+Yeah.  Good.
+
+PATIENT Z075
+Too much.
+
+DOCTOR Z075
+Too much.
+
+PATIENT Z075
+Yeah I ate too much.
+
+DOCTOR Z075
+Story of the world right.
+
+PATIENT Z075
+Yeah.
+
+DOCTOR Z075
+Everything going well?  How you feeling?
+
+PATIENT Z075
+Yeah everything's going.
+
+DOCTOR Z075
+Good.
+
+PATIENT Z075
+Pretty good so far.
+
+DOCTOR Z075
+Um I looked up a few things and your blood pressures were still pretty high when we saw you in August.
+
+PATIENT Z075
+And they're still high.
+
+DOCTOR Z075
+They're still high?
+
+PATIENT Z075
+I ain't @@@.
+
+DOCTOR Z075
+Yeah okay.  So what are we gonna do?  You know how much he's giving you?  So the last time you thought maybe he wasn't giving you enough?
+
+PATIENT Z075
+Yes.  Uh he gave me 40 of one and I think 40 of the other one too.
+
+DOCTOR Z075
+So you get, one is the 40 that you take for the whole day and then there's some that you take right before lunch?
+
+PATIENT Z075
+Right.  I just started taking that just before lunch.
+
+DOCTOR Z075
+Okay.
+
+PATIENT Z075
+Uh the last, the last time I been here the @@@.
+
+DOCTOR Z075
+Okay.
+
+PATIENT Z075
+That's @@@ and I check it 2 1/2 hours and the other one supposed to be 24 hours.
+
+DOCTOR Z075
+Okay.  Um do you ever, does your blood sugar ever get real low?
+
+PATIENT Z075
+Yeah it has gotten real low once.
+
+DOCTOR Z075
+When was that?
+
+PATIENT Z075
+Uh huh  @@@ I can’t even tell you which day it was @@@. It was about 60 something.
+
+DOCTOR Z075
+Okay.  Was that recently?
+
+PATIENT Z075
+@@@ so I think @@@.  The last time @@@.
+
+DOCTOR Z075
+Okay.  Let’s get a look at your blood test today.  I would go up on your insulin but it's a little hard if you don't know what your numbers are.
+
+PATIENT Z075
+Well they've been about 180, 190s.
+
+DOCTOR Z075
+Uh-huh.
+
+PATIENT Z075
+120s.
+
+DOCTOR Z075
+And those are the morning ones?
+
+PATIENT Z075
+Those are the ones period.  I don't @@@ morning and the afternoon and in the evening. @@@
+
+DOCTOR Z075
+Okay.
+
+PATIENT Z075
+@@@.
+
+DOCTOR Z075
+Okay.  Um so you've been getting it lately.
+
+PATIENT Z075
+Yes, I've been doing it regularly.
+
+DOCTOR Z075
+Okay.  Um did you take your blood pressure medicines today?
+
+PATIENT Z075
+Yes.
+
+DOCTOR Z075
+Okay.  Your blood pressure's high too.
+
+PATIENT Z075
+It was?
+
+DOCTOR Z075
+Uh-huh.  160/75.
+
+PATIENT Z075
+Oh yeah you told me it was and it's been high every time that I come here but usually it goes down.
+
+DOCTOR Z075
+At home?
+
+PATIENT Z075
+No here.
+
+DOCTOR Z075
+When we recheck it.
+
+PATIENT Z075
+Yes.
+
+DOCTOR Z075
+Okay.  Do you ever check it at home?
+
+PATIENT Z075
+Yes I do sometimes.
+
+DOCTOR Z075
+Do you know what it runs at home?
+
+PATIENT Z075
+One… one… I can't tell you exactly.
+
+DOCTOR Z075
+Okay.  Let's see, you know it's been kind of high.  It needs to be below 130 because of your diabetes um.  I think we could probably @@@.  Yeah we could go up on some of your medications.  On all of your medications.  @@@.  Do you want to try that?
+
+PATIENT Z075
+Yeah we can.
+
+DOCTOR Z075
+Okay.  Um and I want to get some blood tests today.
+
+PATIENT Z075
+Some tests.
+
+DOCTOR Z075
+Yeah is that okay?  Yeah.  
+
+PATIENT Z075
+Okay.
+
+DOCTOR Z075
+Did you get your flu shot?
+
+PATIENT Z075
+Yeah @@@.
+
+DOCTOR Z075
+Okay.
+
+PATIENT Z075
+The last time I was here.
+
+DOCTOR Z075
+Okay.  Can you hop up here real quick so I can take a listen?  I'll have you pull up your sweatshirt.  Uh I'm just going to listen to your back up here okay.
+
+PATIENT Z075
+Okay.
+
+DOCTOR Z075
+Take a deep breath.  Again.  Okay.  Any pain in your belly.
+
+PATIENT Z075
+Uh uh.
+
+DOCTOR Z075
+No.
+
+PATIENT Z075
+@@@.
+
+DOCTOR Z075
+Any swelling in your legs?
+
+PATIENT Z075
+No.
+
+DOCTOR Z075
+Oh they're looking great.  You can hop down.
+
+PATIENT Z075
+Okay.
+
+DOCTOR Z075
+Are you in any pain?
+
+PATIENT Z075
+No.  No pain at all.
+
+DOCTOR Z075
+Okay.  Alright @@@.
+
+PATIENT Z075
+Okay.  Oh yeah, @@@ uh my stool has thinned out and @@@ because I was taking the iron pills.
+
+DOCTOR Z075
+Okay.
+
+PATIENT Z075
+And @@@ keep taking.
+
+DOCTOR Z075
+Uh-huh.
+
+PATIENT Z075
+Taking.
+
+DOCTOR Z075
+Did it get better?
+
+PATIENT Z075
+Yeah it got brown and then black again.
+
+DOCTOR Z075
+Okay.
+
+PATIENT Z075
+But it's a lot better; I don't have the runny bowel like I did.
+
+DOCTOR Z075
+Okay.  So it's not like just runny?
+
+PATIENT Z075
+No.
+
+DOCTOR Z075
+Okay.  Hmm.  Okay I'll be right back okay.
+
+PATIENT Z075
+Alright then.  Can you give me @@@.
+
+DOCTOR Z075
+Yeah sure, will you bring it with you next time?
+
+PATIENT Z075
+Yes I promise I'll bring it with me.
+
+DOCTOR Z075
+Okay.
+
+PATIENT Z075
+I promise.
+
+DOCTOR Z075
+Then I'll give you one.
+
+PATIENT Z075
+I'll take care of it now.
+
+(DOCTOR OUT:  40:13  DOCTOR IN:  41:30)
+
+DOCTOR Z075
+@@@ in a second @@@.
+
+PATIENT Z075
+@@@.
+
+DOCTOR Z075
+Okay.  Um let me talk to, adjust the Lantus, hmm.  So I'm gonna send you home um, lisinopril that's one of the blood pressure medicines that you're taking.
+
+PATIENT Z075
+Uh-huh.
+
+DOCTOR Z075
+Uh I'm gonna increase it okay.
+
+PATIENT Z075
+Okay.
+
+DOCTOR Z075
+So I need the medication list that you have and then I'll write down which one we’re changing.  So we're going take 40 miligrams, so you usually take 1/2 tab, so you're going to take one tab okay.
+
+PATIENT Z075
+Okay.
+
+DOCTOR Z075
+And then we'll have you come back and see the pharmacist.  Do you want me to have them mailed to you then?
+
+PATIENT Z075
+Yes.
+
+DOCTOR Z075
+Okay.  So then I'll have you come back for a blood pressure check okay.
+
+PATIENT Z075
+Okay.
+
+DOCTOR Z075
+In like two weeks.
+
+PATIENT Z075
+Alright.
+
+DOCTOR Z075
+And then we'll have you come back and see the pharmacist in a month and then you can come every two months.
+
+PATIENT Z075
+Okay.
+
+DOCTOR Z075
+Um do you think you could get some blood tests done today, is that okay?
+
+PATIENT Z075
+Yes I guess so.  @@@.
+
+DOCTOR Z075
+Yeah okay.  
+
+(DOCTOR OUT:  44:54  DOCTOR IN:  47:37)
+
+DOCTOR Z075
+So you need to bring your medications @@@ okay.
+
+SECOND DOCTOR Z075
+Don’t forget to bring your blood sugar sheet, PATIENT, your blood pressure sheet, okay?
+
+PATIENT Z075
+Okay.  @@@.
+
+SECOND DOCTOR Z075
+And bring all your medicines @@@.
+
+PATIENT Z075
+Okay. I’m going to bring it next time. 
+
+SECOND DOCTOR Z075
+@@@ make sure you’re taking @@@ dose, okay?
+
+DOCTOR Z075
+@@@ okay.  Alright.  Okay so I wrote down the @@@.  You still have some at home, you can just start taking instead of half a pill, take a whole pill.
+
+PATIENT Z075
+Okay.
+
+DOCTOR Z075
+Okay.  Uh we'll see you back in two weeks to get a blood pressure check with the nurse.  Okay so you just take that to the front and then they'll contact you about the pharmacist visit and then we'll see you back in three months in the clinic.
+
+PATIENT Z075
+Okay.
+
+DOCTOR Z075
+Okay and if you can get those blood tests done today.
+
+PATIENT Z075
+Yeah.
+
+DOCTOR Z075
+That'll be great.
+
+PATIENT Z075
+I'll get them done today.
+
+DOCTOR Z075
+Alright.  So I'll see you back.
+
+PATIENT Z075
+Okay.
+
+DOCTOR Z075
+Enjoy your Christmas.
+
+PATIENT Z075
+You too.
+
+DOCTOR Z075
+Bye.
+
+PATIENT LEAVES:  48:33.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1255154
+TRANSACTION # 578-10-2-316-0103

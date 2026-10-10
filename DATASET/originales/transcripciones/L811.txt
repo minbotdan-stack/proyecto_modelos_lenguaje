@@ -1,0 +1,641 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@   
+
+DOCTOR L811
+I'm DOCTOR, nice to meet you. @@@.  How you doing?
+
+PATIENT L811
+Good.
+
+DOCTOR L811
+Uh @@@ huh finally.
+
+PATIENT L811
+Yeah.
+
+DOCTOR L811
+It's kind of a tease at the moment.  It looks nicer than it is out there.  Yeah.  Uh how have things been going?
+
+PATIENT L811
+Oh just you know, it might be the cholesterol medicine and I did take that uh fasting blood test.  But when I call them up to refill it, they say it’s not ready yet or something like that.
+
+DOCTOR L811
+@@@.
+
+PATIENT L811
+But the uh, the new reflux pill works perfect.
+
+DOCTOR L811
+Does it?
+
+PATIENT L811
+Oh, I don’t have any reaction to it @@@ burning you know, in the chest and that and I'm taking once in the morning but it’s a really big improvement from what there was.  Cause for the last month, I got a cold and during the you now blowing your nose, @@@ it feels like I'm congested in the head and when I blow my nose my nose bleeds, not a lot but just you know a little bit on the Kleenex and then I'm always stuffy now and it's oh, been like a month.
+
+DOCTOR L811
+You never had that before?
+
+PATIENT L811
+No.
+
+DOCTOR L811
+And you're stuffed up now?
+
+PATIENT L811
+Basically stuffed up, just hard to breathe @@@. (Knock at the door.) Shall I open that?
+
+DOCTOR L811
+Yep. Uh okay uh @@@.
+
+PATIENT L811
+And I've been feeling kind of crampy and drained out but uh @@@ but the back is like you know just about normal.  I mean it's you know you get that kind of thing where it's difficult to you know put on your socks and shoes but the pain tolerance.  Cause I take the uh, you told me to switch to the Excedrin so I take that and it relieves it a little bit and I really don't, you know, I'm not physical.  I don't you know really do anything but walk the dog.   
+
+DOCTOR L811
+You have, that's right.  Do you drink any alcohol?
+
+PATIENT L811
+Oh yeah I have a beer once in a while and uh Sunday, I had a birthday yesterday so we got a couple of glasses of wine with dinner.  But drink-drinks, I don't drink.
+
+DOCTOR L811
+Uh you haven't had any thyroid problems?
+
+PATIENT L811
+No my dad had a thyroid problem.  Thirty years ago.
+
+DOCTOR L811
+Now your cholesterol has @@@.
+
+PATIENT L811
+Would you like me keeping taking the pills or?
+
+DOCTOR L811
+Oh yeah, so you're almost there with your bad cholesterol.  You're almost where you need to be um but uh your triglycerides.
+
+PATIENT L811
+Hmm.
+
+DOCTOR L811
+Are up pretty high as well.
+
+PATIENT L811
+Oh it's high?
+
+DOCTOR L811
+Yes.
+
+PATIENT L811
+Do you think they should be like 100 something?
+
+DOCTOR L811
+Under 160 your triglycerides.  Your are 480.
+
+PATIENT L811
+Oh.
+
+DOCTOR L811
+So.
+
+PATIENT L811
+Well that could be, since I wasn't taking the medicine though right?
+
+DOCTOR L811
+Well the medicine, you know actually come on over here I want to show you this stuff here.  So here's your good cholesterol, your LDL is your bad cholesterol and that's 105.  We like that over 100 if possible.  You're not far off.
+
+PATIENT L811
+It's not good.
+
+DOCTOR L811
+That's not too bad.  This is often the more important one.  This is the one that causes more trouble with heart attacks and strokes, things like that.
+
+PATIENT L811
+Oh okay.
+
+DOCTOR L811
+This can definitely be an issue as well, the triglycerides.  Uh especially when they get over 500, that can actually irritate your pancreas and give you pancreatitis.
+
+PATIENT L811
+Oh.
+
+DOCTOR L811
+Um the guidelines say that we should go after this one first uh, in fact it's pretty hard.  If we get this to goal, that may help out your overall health.
+
+PATIENT L811
+Okay.
+
+DOCTOR L811
+But after you get to that goal, if it's high, we go after that. There are some medications that really knocks this down quite a bit but this is the more important one.
+
+PATIENT L811
+Now is it that because, you know, in the winter time, I don’t go out because I can’t afford to fall with the snow and ice. So, I’m more like housebound. Because even with the cane in the winter time. And falling, it’s just not worth going out of the house. Could that be from not doing anything? Not walking?
+
+DOCTOR L811
+It could definitely be you know, it takes several months of good exercise to kind of help that uh.  Alcohol can definitely make that worse.
+
+PATIENT L811
+Well like I might have within a week, I might have two drinks.   Is that bad?
+
+DOCTOR L811
+That’s okay.  The trouble is the triglycerides can irritate the pancreas and alcohol will do the same thing.  With your pancreas.  So there's a couple medications that we can do to try and bring that down um one, there are a few that actually have slightly increased risks of giving you muscle cramps and muscle breakdown like the statin you're taking now but there's also fish oil which can help bring those triglycerides down.  That’s going to be the safest one.
+
+PATIENT L811
+Okay.  Cause anything that gives me cramps I couldn't take it anymore.
+
+DOCTOR L811
+Yeah.  
+
+PATIENT L811
+My foot, you know like your foot is regular like this.  My foot will just turn to the inside and the toes will crinkle up and I can't even straighten out.  They can stay like that for 20 minutes at a time and finally get it straight, they'd be straight and relax for a little bit and then it's start again and do the same thing.
+
+DOCTOR L811
+Now this one's going to be more like the big proximal muscles the arms, things like that.
+
+PATIENT L811
+Oh.
+
+DOCTOR L811
+Fish oil first.  So the fish oil can cause a little bit of diarrhea.
+
+PATIENT L811
+@@@ really like @@@.
+
+DOCTOR L811
+Yeah.  @@@ work out well for you.  Any chest pain, any trouble breathing?
+
+PATIENT L811
+@@@.  Then I caught a cold.  Seemed like, maybe February and then it just got worse and never got better.  I mean, it got better overall coughing but it just, my nose got all stuffed up and stayed like that.
+
+DOCTOR L811
+@@@ fish oil @@@ increase that statin medicine.  The pravastatin you're taking, we're going to give you a full pill.
+
+PATIENT L811
+And that's for the cholesterol?
+
+DOCTOR L811
+Yeah.  
+
+PATIENT L811
+Cause I was breaking it in half.
+
+DOCTOR L811
+Yeah.  When do you take it?  What time of day?
+
+PATIENT L811
+@@@ I take the one, the reflex, I take that every morning about 9 o'clock and the other one I take it at the same time, I take it at bedtime.
+
+DOCTOR L811
+I prefer that you take that simvastatin at bedtime.
+
+PATIENT L811
+At bedtime okay, it's easy. 
+
+DOCTOR L811
+The one for reflux, I don’t care, it works the same.
+
+PATIENT L811
+No I’ve been taking in the morning.
+
+DOCTOR L811
+This one you take @@@.
+
+PATIENT L811
+Oh okay.
+
+DOCTOR L811
+But it's not a huge deal.  The only one that really matters is the statin.
+
+PATIENT L811
+Okay, take it.
+
+DOCTOR L811
+The body makes more cholesterol when you're sleeping.
+
+PATIENT L811
+Oh yeah?
+
+DOCTOR L811
+So those medications kind of work.
+
+PATIENT L811
+Like after dinner take it?
+
+DOCTOR L811
+Yeah right before you go to bed.
+
+PATIENT L811
+Okay, I'll just take it then.
+
+DOCTOR L811
+But uh those medications kind of work a little bit better at bedtime, uh than they do during the day.
+
+PATIENT L811
+Now is that going to be the same numbers that I had for my calling in.
+
+DOCTOR L811
+Yeah always you can call into the same place.  So the simvastatin that you have now.
+
+PATIENT L811
+Uh-huh.
+
+DOCTOR L811
+You need to start taking the full pill.
+
+PATIENT L811
+I don't have any.
+
+DOCTOR L811
+Oh you don't okay.
+
+PATIENT L811
+There are some things they could have thrown that out because I haven't had it for over a month.
+
+DOCTOR L811
+Yeah well it looks like it expired you know a while back. Uh so I just reordered it for you, but yeah @@@.
+
+PATIENT L811
+@@@.
+
+DOCTOR L811
+Yeah same pharmacy.
+
+PATIENT L811
+Okay.  Oh I pick it up before I leave?
+
+DOCTOR L811
+Oh if you want to you can, otherwise I was just going to have it mailed.
+
+PATIENT L811
+Oh okay yeah that's good.
+
+DOCTOR L811
+Let's take a look at what @@@.  Um otherwise what I want to do is get some blood work from you.
+
+PATIENT L811
+Uh-huh.
+
+DOCTOR L811
+@@@ today and three months from now.
+
+PATIENT L811
+I didn't fast today.
+
+DOCTOR L811
+That's fine.
+
+PATIENT L811
+Oh okay.
+
+DOCTOR L811
+Uh let me have a quick look at you.  Any ear pain or pressure?
+
+PATIENT L811
+Yeah the ears is always ringing and I took the hearing test where they put you in the thing.
+
+DOCTOR L811
+Yeah.
+
+PATIENT L811
+And uh it @@@ they tell you like @@@.
+
+DOCTOR L811
+Yeah.
+
+PATIENT L811
+So they had fitted me for hearing aids, I did one and I then they did two and then it would do it would give me @@@ and @@@ I couldn’t take the pressure.
+
+DOCTOR L811
+Yeah.
+
+PATIENT L811
+So then the doctor said that what was happening is the hearing aids were intensifying the ringing in my head, they just made it worse.  I could hear, you know I mean I could hear you better but what I.  @@@.
+
+DOCTOR L811
+Ringing. Uh open up for me ah.
+
+PATIENT L811
+Ah.  @@@.
+
+DOCTOR L811
+Give me a deep breath.  Is there any blood in your stool?
+
+PATIENT L811
+Uh like if I'm really constipated it like affects the hemorrhoids and then I'll have blood, blood in the stool but not that normal.
+
+DOCTOR L811
+Okay.  Yeah it's probably uh.
+
+PATIENT L811
+The EGD procedures.  But this leg could be like ice, it'll be like cold and you can’t like touch it, it’s like a tube of ice, is that like normal?
+
+DOCTOR L811
+Now what happened with the leg? Why you got the foot drop again?
+
+PATIENT L811
+I’ve had like five back operations.
+
+DOCTOR L811
+Okay so it's all from nerve damage.  Yeah it's likely due to the nerves.
+
+PATIENT L811
+These now, you know how you hear people are kind of weak in the legs, there's no circulation there.  I rub it a lot. I take the brace off and rub it up in there.
+
+DOCTOR L811
+Let me have you pop your shoes off real quick, your shoes and socks.  Or at least on that one foot.  
+
+PATIENT L811
+Just the one right doc?
+
+DOCTOR L811
+Yeah.  
+
+PATIENT L811
+It’ll be, like a @@@ This isn’t even too bad, it’ll be but just at nighttime it will be like purple, like a, just like a different color.  This will be whiter and this will be like real red.  When it get real bad, I’ll just lie down and elevated it pick up a little bit you know.
+
+DOCTOR L811
+This one is a bit cold.
+
+PATIENT L811
+@@@ circulation.
+
+DOCTOR L811
+Can you feel me touching right here?
+
+PATIENT L811
+No.
+
+DOCTOR L811
+These are all from the surgery. It's a nerve problem.  So unfortunately there's not really much I can do.
+
+PATIENT L811
+@@@.  I can't feel like anything down here just past the ankle.
+
+DOCTOR L811
+Yeah that's from nerve damage.
+
+PATIENT L811
+Surgeries?
+
+DOCTOR L811
+Yeah.  Those nerves that go down into the foot, they start up in the back.  Which is where they come out in there.
+
+PATIENT L811
+Like this I can feel but you can't feel nothing down there.
+
+DOCTOR L811
+Yeah so everything will start in the back and then they kind of split up as they go down so if there is, even if the problem is at the back, if there is just a compression on part of it, then that could be, you know depending on what part of that nerve some compression or damage to it, that could be up here and this could fine or it could be down there and this would be damaged.
+
+PATIENT L811
+@@@ come back?  For a while I did physical therapy.
+
+DOCTOR L811
+Nerve damage takes a long long time to come back.
+
+PATIENT L811
+Yeah.  This has been like four years.
+
+DOCTOR L811
+But it's been several years so I don't think this is ever coming back uh.  I mean it’s often permanent.  @@@ people have trouble with nerves for a long time.  It usually takes at least several months.
+
+PATIENT L811
+But that's good circulation right?
+
+DOCTOR L811
+Yeah there’s good blood flow.
+
+PATIENT L811
+But I mean, its okay I just can't use it good okay.
+
+DOCTOR L811
+Right.  @@@.
+
+PATIENT L811
+Oh man.  @@@ the worst.
+
+DOCTOR L811
+No.  Uh, alright for the nose, do you ever have trouble with allergies?
+
+PATIENT L811
+No.
+
+DOCTOR L811
+Do you feel like you're draining a lot or does it feel like you're stuffed up and you can't get anything out?
+
+PATIENT L811
+It feels like it's stuffed up.  I'll take two showers a day, just heat it up and then I take @@@ and it breaks it up a little bit.
+
+DOCTOR L811
+Well there's a couple things we can do for this.  I want you to take ibuprofen just for you know a couple of days.
+
+PATIENT L811
+Okay.
+
+DOCTOR L811
+At most, because you know you had some trouble when you were taking all that ibuprofen with possible bleeding uh, what that can do is help reduce any inflammation there.
+
+PATIENT L811
+But just regular ibuprofen right?
+
+DOCTOR L811
+Yeah.  And then I'm gonna get you a nasal spray as well.
+
+PATIENT L811
+I’m using Vicks, would that be bad?
+
+DOCTOR L811
+That actually could just help you a bit.
+
+PATIENT L811
+Yeah that's what I do when it's really bad, I use that and it seems to open it up a little bit.
+
+DOCTOR L811
+Yeah that's totally fine.  So this an Afrin nasal spray, oxymetazoline um and that can help open things up.  You take it twice a day but I don't want you taking it for more than three days.
+
+PATIENT L811
+Okay.
+
+DOCTOR L811
+Uh if you want I can have you pick that up today.
+
+PATIENT L811
+Oh okay.
+
+DOCTOR L811
+If that'd be easier for you, it's over-the-counter too.  But the problem is if you use it for more than three days and then stop it, sometimes you get what is called rebound and you can end up getting worse.
+
+PATIENT L811
+Oh okay.
+
+DOCTOR L811
+So cut it off at three days uh.  If you're having a lot of mucous, which it doesn't sound like, it sounds like it's more you know inflammation, congestion there @@@ mucous and then you can take like a Mucinex, stuff like that.  You could try Zyrtec as well for allergies; it has some anti-inflammatories with that.  I don’t know if you want to pick that up today too?
+
+PATIENT L811
+Oh yeah I could you know wait for it, that's no problem.  Do you want to do the blood tests today?
+
+DOCTOR L811
+Yeah the blood tests will be today.  So it's actually going to be today and unfortunately since we’re changing some medications around, we've got to watch your liver function.  Your liver function looks okay but there's a lot @@@.
+
+PATIENT L811
+Hmm.
+
+DOCTOR L811
+Uh with that simvastatin, we changed the dosage we need to check.
+
+PATIENT L811
+@@@.
+
+DOCTOR L811
+Yeah we just need to check it again when we change it.
+
+PATIENT L811
+Okay.
+
+DOCTOR L811
+And @@@.
+
+PATIENT L811
+So I'll come back in two weeks for another blood test?
+
+DOCTOR L811
+Yes just the blood test, you don't have to come to the clinic or anything like that.
+
+PATIENT L811
+And I won't have to fast?
+
+DOCTOR L811
+No, you won't have to fast for any of these tests.
+
+PATIENT L811
+Okay.
+
+DOCTOR L811
+And then in three months I'd like you to come back to the clinic and they'll do blood work around that time and that one you'll need to be fasting.
+
+PATIENT L811
+Okay.  Now the one in three months, will they send me something.
+
+DOCTOR L811
+They should.
+
+PATIENT L811
+Yeah.
+
+DOCTOR L811
+But uh if you don't hear anything then you need to call us.
+
+PATIENT L811
+Okay.
+
+DOCTOR L811
+So @@@ the Zyrtec @@@, it's also over-the-counter, it's an allergy pill.  If things start cleaning up you don't have to take it.
+
+PATIENT L811
+Okay.
+
+DOCTOR L811
+Alright, you can pick up the nasal spray today.
+
+PATIENT L811
+Okay.
+
+DOCTOR L811
+And I'm going to send you out the simvastatin.
+
+PATIENT L811
+Okay.
+
+DOCTOR L811
+We'll do blood work today, two weeks, and then fasting blood work in three months.
+
+PATIENT L811
+Yeah okay.
+
+DOCTOR L811
+And then you'll come back to see me, actually it won't be me.
+
+PATIENT L811
+In July.
+
+DOCTOR L811
+Yeah.  Uh so I'm actually going to be gone mid-June and I'm actually moving to Kansas City.
+
+PATIENT L811
+Oh really.
+
+DOCTOR L811
+So I won't be here so you'll have to get set up with another @@@ resident @@@.
+
+PATIENT L811
+Okay.  Kansas City, @@@.
+
+DOCTOR L811
+Uh I'm from there originally.
+
+PATIENT L811
+Oh, okay.
+
+DOCTOR L811
+Yeah family is there, mom and dad are still back there.
+
+PATIENT L811
+Oh.
+
+DOCTOR L811
+@@@ yeah, yeah I'm pretty excited about it.
+
+PATIENT L811
+Home cooking.
+
+DOCTOR L811
+Yeah.
+
+PATIENT L811
+Nothing like home cooking, I tell you that.
+
+DOCTOR L811
+So uh it looks like everything else is pretty well set up and I'm going to set you free but uh get the blood work today and.
+
+PATIENT L811
+Do I go down to the basement for that where they do the blood?
+
+DOCTOR L811
+When you check out up front here, uh @@@.
+
+PATIENT L811
+Uh-huh.
+
+DOCTOR L811
+Uh ask them if they're, I'm not sure if they're still doing it down the hallway.
+
+PATIENT L811
+Okay.
+
+DOCTOR L811
+They may, you can just look around.
+
+PATIENT L811
+Yeah right.
+
+DOCTOR L811
+You know if you get all the way down the hall and @@@.
+
+PATIENT L811
+Oh yeah, @@@.
+
+DOCTOR L811
+@@@.
+
+PATIENT L811
+Congratulations @@@.  Take care.
+
+DOCTOR L811
+Thank you.
+
+PATIENT L811
+Oh okay then, give this to @@@.  Thank you.
+
+PATIENT LEAVES:  53:14
+
+Time is 2:30.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249439
+TRANSACTION # 578-10-2-316-0103

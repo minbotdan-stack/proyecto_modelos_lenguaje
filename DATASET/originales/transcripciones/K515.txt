@@ -1,0 +1,1817 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR K515
+PATIENT?
+
+PATIENT K515
+Good morning.
+
+DOCTOR K515
+DOCTOR.
+
+PATIENT K515
+Hello DOCTOR, nice to meet you.
+
+DOCTOR K515
+@@@.
+
+PATIENT K515
+Okay no more DOCTOR?
+
+DOCTOR K515
+Oh um, he's just not here today.  He'll be back next week.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Um so I'm taking his place.
+
+PATIENT K515
+Pardon me?
+
+DOCTOR K515
+Oh he scheduled you so you'll see him on your next visit.
+
+PATIENT K515
+Okay thank you.
+
+DOCTOR K515
+Um.
+
+PATIENT K515
+And we're being recorded okay.
+
+DOCTOR K515
+Oh okay.  Do you record all your visits?
+
+PATIENT K515
+No it's just that some program is going on I guess DOCTOR agreed to it so since he's not here.
+
+DOCTOR K515
+Oh okay.  Um I know what you're referring to.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+So now I'm part of it as well.
+
+PATIENT K515
+Okay good.  So we're okay with that?
+
+DOCTOR K515
+Yeah sure.
+
+PATIENT K515
+Good.
+
+DOCTOR K515
+Okay.  How are things going since you're last visit?
+
+PATIENT K515
+Not good, not good, not good because you know as you can see I came in for a knee problem.
+
+DOCTOR K515
+Uh-huh.
+
+PATIENT K515
+Uh I had uh whatcha call that ultrasound back here because there was a cyst back here.
+
+DOCTOR K515
+Right.
+
+PATIENT K515
+Okay and then so the knee is still giving me a lot of problems.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+They took x-rays of it but see I never heard and then like they said they were gonna contact me and let me know what the x-ray was okay but they never did and my knee still hurts.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+It hurts like a son-of-a-gun.  I don't know if it's cracked bone or if it's displaced or what you know.
+
+DOCTOR K515
+Sure.
+
+PATIENT K515
+But see they didn't call and let me know and that wasn't fair.
+
+DOCTOR K515
+Okay.  So the test you're referring to originally you had on March 15th?
+
+PATIENT K515
+I don't know what day it was.
+
+DOCTOR K515
+Okay.  Uh was that when you came in to Urgent Care?
+
+PATIENT K515
+Okay then I came back again.
+
+DOCTOR K515
+Right.
+
+PATIENT K515
+They took x-rays of it this time.  You don’t have nothing in there for me?
+
+DOCTOR K515
+No I do yeah.
+
+PATIENT K515
+Okay.  Well they @@@.
+
+DOCTOR K515
+Was that the time you came in in the middle of February.
+
+PATIENT K515
+It was the cyst.
+
+DOCTOR K515
+It was the cyst and then you came in because you still had pain.
+
+PATIENT K515
+Right.
+
+DOCTOR K515
+On March 15th.
+
+PATIENT K515
+Now do I have any broken bones?
+
+DOCTOR K515
+Uh let's look.
+
+PATIENT K515
+See I don't know nothing you know.
+
+DOCTOR K515
+I apologize that they didn't call.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Um. 
+
+PATIENT K515
+See I don't know, like I said all I know is that my knee hurts, it still hurts.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+I don't have a brace, no cane or nothing you know, they just send me out there.
+
+DOCTOR K515
+Point to where the pain is.
+
+PATIENT K515
+When I walk, the whole area.
+
+DOCTOR K515
+The whole area, so there's not one area in particular?
+
+PATIENT K515
+No, no, especially when I'm walking.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+And I don't have a brace.  Well really I can't afford a brace.
+
+DOCTOR K515
+We can give you one.
+
+PATIENT K515
+Thank you.
+
+DOCTOR K515
+So it looks like they saw some preventative things that were consistent with old age.  Your bones getting older.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+And then they saw that um small calcified area which could be the same area as where the cyst is.  I don't know if the cyst is in there.
+
+PATIENT K515
+That's in the back of the knee there right?
+
+DOCTOR K515
+It's in the back of the knee.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Um which is where the same place that it's showing on the x-ray.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+So it is on the ultrasound.
+
+PATIENT K515
+But no broken bones?
+
+DOCTOR K515
+No broken bones.
+
+PATIENT K515
+Okay.  Just old age setting in right?
+
+DOCTOR K515
+Yeah and then this little cyst that you have.
+
+PATIENT K515
+It's still there?
+
+DOCTOR K515
+Uh well at least on the 15th it was still there.
+
+PATIENT K515
+Because they say it had busted and the fluid was running down my leg and that's what by touching the tissue that's what brought the pain on.
+
+DOCTOR K515
+Um.
+
+PATIENT K515
+So that's what they told me what the ultrasound said okay.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+You know I mean I want the truth, that's all I want you know.
+
+DOCTOR K515
+Sure.  I understand completely.  Um, let me look at your ultrasound.  Okay so after your appointment, after you had the ultrasound.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+They told you there was a cyst there or they told you that it burst?
+
+PATIENT K515
+It bursted.
+
+DOCTOR K515
+Okay um.
+
+PATIENT K515
+And the fluid running down.
+
+DOCTOR K515
+Okay.  Did you feel it?
+
+PATIENT K515
+That's what started.  No.
+
+DOCTOR K515
+Oh.
+
+PATIENT K515
+I felt the pain.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+Okay and now it's like I feel the pain when I'm walking but I also feel my bones, you know what I mean like man.
+
+DOCTOR K515
+Right.
+
+PATIENT K515
+It doesn't feel good doc.
+
+DOCTOR K515
+Okay.  Well so on the ultrasound um it shows that there's a cyst there.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+I don't see that it, so if it could have popped between now and then but when you had the ultrasound done on the 19th there was a cyst there.
+
+PATIENT K515
+There was a cyst there.
+
+DOCTOR K515
+Yes.
+
+PATIENT K515
+And it bursted because they said that if the cyst was there they could go on in and draw the fluid out.
+
+DOCTOR K515
+Sometimes.  It depends on how big it is and if it's not very big.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+Then you know sometimes the risk of the procedure doesn't weigh out the benefit.
+
+PATIENT K515
+Okay we're cool.
+
+DOCTOR K515
+But your body will eventually, you know.
+
+PATIENT K515
+Okay I understand.
+
+DOCTOR K515
+Take care of it on its own.
+
+PATIENT K515
+But why, let me understand, why did they tell me it burst and fluid running down, that's why the pain in there because the fluid's pushing tissue?
+
+DOCTOR K515
+I'm not sure.
+
+PATIENT K515
+You see?
+
+DOCTOR K515
+I can't answer that.
+
+PATIENT K515
+Right, you see and it wasn't necessary to tell a story about that you know and I have to be concerned about my health now you know.  So I'm not trying to put you in the ballgame here, I just want fair answers.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+That's all you know anyway.
+
+DOCTOR K515
+You're entitled to fair answers.
+
+PATIENT K515
+Right.
+
+DOCTOR K515
+Okay, so you taking anything for the pain?
+
+PATIENT K515
+I was taking Tylenol and then codeine with Tylenol before I went to bed but I don't have any more.  See I'm not working, I'm unemployed, I can't afford it so usually DOCTOR was providing a prescription for me.
+
+DOCTOR K515
+So even before you would come in you were taking the Tylenol.
+
+PATIENT K515
+Right.
+
+DOCTOR K515
+Not the pain medications.
+
+PATIENT K515
+No I didn't have any then.  I came in right away when it started pain.
+
+DOCTOR K515
+And how often are you taking them?
+
+PATIENT K515
+Don't have anymore.
+
+DOCTOR K515
+But when you were, when you did have them how often were you taking them?
+
+PATIENT K515
+Uh well as needed.  
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+I guess that's not saying much is it uh I would say.
+
+DOCTOR K515
+Once a day?
+
+PATIENT K515
+Once a day, once a day as far as the codeine because of the pain.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+And when I was walking today I was taking them during the daytime so yes.  The Tylenol with codeine I was taking about I'd say every other, maybe every two days.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+And I was taking them at night.
+
+DOCTOR K515
+Did they make you sleepy?
+
+PATIENT K515
+Yeah buddy.
+
+DOCTOR K515
+Yeah.
+
+PATIENT K515
+Some good sleep.
+
+DOCTOR K515
+Okay how are you doing on your other medications?
+
+PATIENT K515
+I ran out of my finasteride.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+I called it in but I still haven't got any yet so and all the rest of them are low.
+
+DOCTOR K515
+Okay so are they sending you the finasteride then?
+
+PATIENT K515
+Yeah.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+But I don't have any yet.  I didn't take none this morning so.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+They said I called it in, I just didn't have any so I called again on Monday and they said five to seven days so I @@@ till then.
+
+DOCTOR K515
+Okay if not we can have you.
+
+PATIENT K515
+Yes please.
+
+DOCTOR K515
+You want to pick it up here?
+
+PATIENT K515
+Yes please.
+
+DOCTOR K515
+Okay.  It looks like um you're terazosin.
+
+PATIENT K515
+Terazosin.
+
+DOCTOR K515
+You still have two more refills on that.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+And your amlodipine.
+
+PATIENT K515
+Amlodipine.
+
+DOCTOR K515
+You have two more refills on that.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+And those are, they give you a 90 day supply so that's a six month supply.
+
+PATIENT K515
+Okay, okay.
+
+DOCTOR K515
+Uh your albuterol/ipratropium inhaler you still have seven refills.
+
+PATIENT K515
+Right, right.
+
+DOCTOR K515
+Okay.  Two refills on the lisinopril.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Um.  Do you take regular Tylenol?
+
+PATIENT K515
+Yes.
+
+DOCTOR K515
+Okay.  You're out of that it looks like.
+
+PATIENT K515
+Yeah.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+And I need some, I need my Levitra, I need to keep them coming you know please.
+
+DOCTOR K515
+Okay.  So I'll renew it.  It looks like you still have three refills.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+So that they, that's not something you can pick up at the window.
+
+PATIENT K515
+Right.
+
+DOCTOR K515
+You have to call.
+
+PATIENT K515
+Right.  You know doc I got to tell you something else that I have.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+I have at tingling in my toes.
+
+DOCTOR K515
+Okay.  How long have you had that for?
+
+PATIENT K515
+Maybe a couple of months now.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+And I just realized it.  I feel like that.  It's just right at the tip, right at the tip of these toes here, it's just.  Not numb, now don't get me wrong now but you know just a little tingle.  Not pain, don't get me wrong.  It's not pain, it's not uncomfortable.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+But I know that's a funny feeling there.  I don't know why is that old age also?
+
+DOCTOR K515
+No um so is it on both feet?
+
+PATIENT K515
+No usually the right toes, the right toes.
+
+DOCTOR K515
+And you didn't injure them at all?
+
+PATIENT K515
+No.
+
+DOCTOR K515
+Okay and is it all day?
+
+PATIENT K515
+Pardon me?
+
+DOCTOR K515
+Does the tingling last all day?
+
+PATIENT K515
+All day.
+
+DOCTOR K515
+There's nothing that you can do that makes it go away?
+
+PATIENT K515
+No.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+If it could kiss it maybe (laughter).
+
+DOCTOR K515
+And have you looked at your toes to see if there's any?
+
+PATIENT K515
+Yes.
+
+DOCTOR K515
+And you don't see anything.
+
+PATIENT K515
+No.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+Just a tingle.
+
+DOCTOR K515
+And do you have any tingling anywhere else?
+
+PATIENT K515
+No, no.
+
+DOCTOR K515
+Any sharp shooting pain? @@@ legs?
+
+PATIENT K515
+No, no, no, no.
+
+DOCTOR K515
+Anywhere okay.
+
+PATIENT K515
+No, no.
+
+DOCTOR K515
+Just there.
+
+PATIENT K515
+Right.
+
+DOCTOR K515
+Let's take a look.
+
+PATIENT K515
+Okay.  In that seat?
+
+DOCTOR K515
+Yes.
+
+PATIENT K515
+Like right about here so you know.  I mean just the tip of right in there you know.
+
+DOCTOR K515
+Here?
+
+PATIENT K515
+Uh-huh. Don’t hurt me.
+
+DOCTOR K515
+I won't.  Close your eyes for me.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+And I want you to tell me if I'm moving your toe up or down.
+
+PATIENT K515
+Okay.  Up, down.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+Yeah it was like when you did that, I also @@@ also @@@ like the body of it you know.
+
+DOCTOR K515
+Okay.  Close your eyes again.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Tell me when I'm touching you.
+
+PATIENT K515
+You are touching me, big toe, little toe, you're touching, touching, touching.
+
+DOCTOR K515
+Where am I touching?
+
+PATIENT K515
+Top.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+Top.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+Touching the foot part.
+
+DOCTOR K515
+Is it painful here?
+
+PATIENT K515
+No, nothing.
+
+DOCTOR K515
+When I push on, it doesn't hurt?
+
+PATIENT K515
+No it does not hurt; it's just a tingle about it, just a tingle.
+
+DOCTOR K515
+Okay and it doesn't ever happen in your left side?
+
+PATIENT K515
+No.
+
+DOCTOR K515
+Okay.  And you have plenty of room in your shoes?
+
+PATIENT K515
+Yes.
+
+DOCTOR K515
+Okay and all toes.
+
+PATIENT K515
+@@@, you see it's not like that, it just in these two toes right here.
+
+DOCTOR K515
+Mostly these two toes.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+And that nail just got like that, pardon that.
+
+DOCTOR K515
+Pardon?
+
+PATIENT K515
+This nail you it just, you know just like.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+That it, thank you.
+
+DOCTOR K515
+Okay you just had your cholesterol test done so you want me to write down the numbers for you?
+
+PATIENT K515
+Please.  Like I said my main problem has been just my doggone knee man, so I guess I just have to wear a brace and work on getting young again right?
+
+DOCTOR K515
+Okay so here are the numbers.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+The left side are your numbers and the right side are the goals.
+
+PATIENT K515
+My cholesterol.
+
+DOCTOR K515
+Correct.
+
+PATIENT K515
+Okay.  These are good numbers?
+
+DOCTOR K515
+They are good numbers.
+
+PATIENT K515
+Thank you.
+
+DOCTOR K515
+And compared to, do you want me to write down your old ones?
+
+PATIENT K515
+No.
+
+DOCTOR K515
+Okay.  Your bad cholesterol compared to the last time it was checked is a little bit better.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+And okay, are you still smoking cigarettes?
+
+PATIENT K515
+I never was much of a smoker so I don't know why they have that there.
+
+DOCTOR K515
+Okay.  Well they have weekly that you smoke.
+
+PATIENT K515
+Occasionally is more like it okay.
+
+DOCTOR K515
+And alcohol on weekends?
+
+PATIENT K515
+Occasionally.
+
+DOCTOR K515
+Okay um, other drugs occasionally?
+
+PATIENT K515
+Occasionally. 
+
+DOCTOR K515
+Which drugs?
+
+PATIENT K515
+Cocaine.
+
+DOCTOR K515
+What's your method?
+
+PATIENT K515
+Pardon me?
+
+DOCTOR K515
+Method?
+
+PATIENT K515
+Smoke.
+
+DOCTOR K515
+Okay.  Any interest in cutting back on any of this?
+
+PATIENT K515
+Well I don't do it that much, if I cut back then it would be all together, that's just how frequent it is okay.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+It's not like its.
+
+DOCTOR K515
+Well as your physician.
+
+PATIENT K515
+I understand.
+
+DOCTOR K515
+I would prefer that you would not do it.
+
+PATIENT K515
+But @@@ either.
+
+DOCTOR K515
+I understand, I appreciate that.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+If you're going to use your Levitra I would not, I would suggest that you don't use cocaine anytime around that period.
+
+PATIENT K515
+Right, right, right, right, right, right so.  And then when I do that, that's just like maybe on New Year's, you know 4th of July, something like that.  Just when the Super Bowl you know when the guys.
+
+DOCTOR K515
+Special occasions.
+
+PATIENT K515
+Right you know and then it's not like a all night affair.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+You know.  I love my, I know how important my health is okay.
+
+DOCTOR K515
+Uh-huh.
+
+PATIENT K515
+So but then that's just the thing because I'm not gonna lie to you you know.  I'm not a heavy user or anything.
+
+DOCTOR K515
+Okay.  So everything else looks okay.  Your blood pressure looks good.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+Your cholesterol looks good.  Um your kidneys got slightly worse but we're still, there's nothing that we would do differently.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+As far as the management on it.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+The main thing is to; the medications you take help prevent your kidneys from getting worse.
+
+PATIENT K515
+Good. Which medicine?
+
+DOCTOR K515
+The lisinopril?
+
+PATIENT K515
+Is that right?
+
+DOCTOR K515
+It's good for your blood pressure and it also helps protect your kidneys.
+
+PATIENT K515
+Good but that's the thing I drink a lot of water.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+I do, I mean I do it every day.  I drink a lot of water.  It doesn't, not gonna work against me is it?
+
+DOCTOR K515
+No.
+
+PATIENT K515
+Okay good.
+
+DOCTOR K515
+Okay and then you had a colonoscopy in 2006.
+
+PATIENT K515
+Yeah.
+
+DOCTOR K515
+And it was normal so we don't have to repeat it and then you saw the urologist in February and they said just follow up in one year.
+
+PATIENT K515
+Okay.  Now I got a question to ask you cause see.
+
+DOCTOR K515
+Uh-huh.
+
+PATIENT K515
+When I saw the urologist last, he said I got kind of scared there because I had to go back for my what's that reading called, the P.
+
+DOCTOR K515
+You had the ultrasound and you had the biopsy.
+
+PATIENT K515
+Yeah but it's a reading that that of the prostate.
+
+DOCTOR K515
+The PSA?
+
+PATIENT K515
+PSA okay.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+And so like they were checking on that you know to see if I had cancer or not cause it was kind of high then I think you know.  But now I ask you this, even though you're not a urologist.
+
+DOCTOR K515
+Uh-huh.
+
+PATIENT K515
+I've heard that there's a cure for prostate cancer.
+
+DOCTOR K515
+There's treatment for it.  You can do surgery, you can do radiation and you can get chemotherapy depending on um how bad it is, where it is.
+
+PATIENT K515
+Oh okay.
+
+DOCTOR K515
+On what needs to be done.
+
+PATIENT K515
+But mine being in the position where like it's being checked on.
+
+DOCTOR K515
+Uh-huh.
+
+PATIENT K515
+It shouldn't get that far gone.
+
+DOCTOR K515
+Correct.
+
+PATIENT K515
+I mean all I have to do is just kind of let you know what's happening right.
+
+DOCTOR K515
+Right, so what happens is that in general we um we used to use the PSA test.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+More so we found over the recent years that it's not a great screening test for prostate cancer.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Unlike colon cancer you know where you can go and look with a camera.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+And you can see and you can take out a polyp right away.
+
+PATIENT K515
+Uh-huh, uh-huh.
+
+DOCTOR K515
+Um you know the PSA is just a blood test.
+
+PATIENT K515
+Right.
+
+DOCTOR K515
+So um you know there are patients who have a low PSA.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+With prostate cancer, there’s patients with a high PSA and have prostate cancer so it's not a great test.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+So that's why, when it's high um you know you kind of have to weigh the risks and benefit of doing a biopsy.
+
+PATIENT K515
+Okay, okay, okay.
+
+DOCTOR K515
+Or if you want to go down that route.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+But sometimes prostate cancer can be very slow growing and so just the fact that we now have this test.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+And we're checking earlier.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+Um it doesn't necessarily mean that we're improved.  Changing the duration of your life per say.
+
+PATIENT K515
+Uh-huh, uh-huh.
+
+DOCTOR K515
+It just means that we're being more invasive about how we check things and how we do things.
+
+PATIENT K515
+You see it's like, see my father died of prostate cancer.
+
+DOCTOR K515
+How old was he?
+
+PATIENT K515
+69.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+Okay and uh the reason being @@@ I was just so very angry with the VA you know and it was a long time before I trusted the VA or even got seen.  He was at Hines.
+
+DOCTOR K515
+Uh-huh.
+
+PATIENT K515
+And they knew he had cancer and sent him to the county.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+And that wasn't fair and I detested the VA for that you know.  Never trusted them again but I mean I'm okay with that now you know because that's years gone back, I need the VA care and all that but if I didn't like the VA I'd go to the county, you know what I mean.
+DOCTOR K515
+Right.
+
+PATIENT K515
+But because I want to go where I'm comfortable.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+See.  Excuse me @@@ and I'm comfortable here with @@@ doctor has given me you know but this is just something I will never forget and the trust had to be I mean like I just didn't trust them but I'm okay now.  You know I explained that to the other doctors you know.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+So they were wrong for doing that to my father so and anyway.
+
+DOCTOR K515
+So you're being, I mean given that it runs in your family um then you know they're watching you more carefully.
+
+PATIENT K515
+Okay, okay, right.
+
+DOCTOR K515
+Typically you know 69 is still um, it's not unreasonable for somebody to have prostate cancer at that age.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+It's you know cause everybody's living longer now.
+
+PATIENT K515
+Right.
+
+DOCTOR K515
+If you live long enough you'll eventually get some form of cancer.
+
+PATIENT K515
+Right, right.
+
+DOCTOR K515
+Somewhere.
+
+PATIENT K515
+Right, right, right, right.
+
+DOCTOR K515
+Um but in your case the urologist just wants you to check in with them every year, we'll get that test done.
+
+PATIENT K515
+Okay good, good, good.
+
+DOCTOR K515
+So I'm sure they told you but your prostate biopsy was negative.
+
+PATIENT K515
+Right.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+Yes.  Yes.  Okay.
+
+DOCTOR K515
+Okay so um, let's see @@@. 
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+How are your allergies?
+
+PATIENT K515
+I was going to ask you @@@ have a little rash up in here or something.  Some cortisone cream.
+
+DOCTOR K515
+Uh-huh.  Okay take a deep breath for me and out again.  Sounds good.  Lay down for me.  Does it hurt when I push on your knees?
+
+PATIENT K515
+Somewhat.
+
+DOCTOR K515
+Okay what about back here?
+
+PATIENT K515
+Somewhat I can feel it.
+
+DOCTOR K515
+Does it feel like pressure?
+
+PATIENT K515
+Yeah pressure, I can feel the pressure but the pain is on a scale of one or two.
+
+DOCTOR K515
+We'll look at this.
+
+PATIENT K515
+And you can see doctor this knee is still swollen.
+
+DOCTOR K515
+(Pt. shifts position) No that's okay.
+
+PATIENT K515
+Right in there where.
+
+DOCTOR K515
+Right here where I'm pushing?
+
+PATIENT K515
+Right.
+
+DOCTOR K515
+Yeah, I still feel a cyst there.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Usually in here, give me your hand, can you feel behind your leg.
+
+PATIENT K515
+Uh-huh.
+
+DOCTOR K515
+That little, it gives a little.
+
+PATIENT K515
+Oh okay.
+
+DOCTOR K515
+And when you feel behind your right leg.
+
+PATIENT K515
+Okay, okay, right, right, right.  So the cyst is there.
+
+DOCTOR K515
+Uh-huh.
+
+PATIENT K515
+Okay, okay, okay, alright.
+
+DOCTOR K515
+Yeah I agree.  There's nothing we would do in terms of draining it.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Your body will naturally absorb the fluid.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+It will go away.
+
+PATIENT K515
+@@@.
+
+DOCTOR K515
+How long that takes, everyone's different.
+
+PATIENT K515
+Oh okay.
+
+DOCTOR K515
+Yeah so you know you could have it for a while and it could be gone in a few weeks.
+
+PATIENT K515
+Oh okay.
+
+DOCTOR K515
+It's hard to say.
+
+PATIENT K515
+Okay well doc you know what, I see I do exercise a lot.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+But yeah I do the treadmill.  I don't go fast; you know I don't run, because I can't run no way.  I go at a steady pace and then for about, I do it for 20 minutes.  Okay the first 10 minutes I'm like this okay and then for like the next five minutes, which @@@ I turn it up two notches but then the last five minutes I decrease.
+
+DOCTOR K515
+Okay, so is it making the pain worse when you do that?
+
+PATIENT K515
+No.
+
+DOCTOR K515
+It doesn't bother you at all?
+
+PATIENT K515
+No, no.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+No and then when I get off then here come the pain again.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+So.
+
+DOCTOR K515
+Um.
+
+PATIENT K515
+But now they have a little cycle you know.
+
+DOCTOR K515
+Yeah.
+
+PATIENT K515
+I do that but slow.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+You know is that okay?
+
+DOCTOR K515
+Yeah I mean its all okay.  It could be though that you know all the exercise you're doing with the bending of the knee could be irritating it a little bit so it's making it harder for the, you know for the fluid to reabsorb.  So you might want to lay off of it for a few weeks and see if it doesn't go down.
+
+PATIENT K515
+So leave the treadmill alone.
+
+DOCTOR K515
+Um well it's better to do a sitting bike.
+
+PATIENT K515
+Like I have been.
+
+DOCTOR K515
+Although the biking is still, you're still gonna be moving your knee.
+
+PATIENT K515
+Okay so now they have two kinds.  The have the type with the bicycle one like this.
+
+DOCTOR K515
+Uh-huh.
+
+PATIENT K515
+And then they have a cycle to go like this.
+
+DOCTOR K515
+The cycle sitting, laying would be better.
+
+PATIENT K515
+Okay.  No pain.
+
+DOCTOR K515
+Um at least until this heals a little bit uh but you're still, it means you're still gonna have the constant motion on.
+
+PATIENT K515
+On the treadmill.
+
+DOCTOR K515
+Can you swim at all?
+
+PATIENT K515
+Can I swim?
+
+DOCTOR K515
+Yeah.
+
+PATIENT K515
+I don't have a swimming pool to go to.
+
+DOCTOR K515
+Yeah okay.
+
+PATIENT K515
+So stay off the treadmill.
+
+DOCTOR K515
+So let's try it for a few weeks and see if it doesn't help decrease the fluid in there.
+
+PATIENT K515
+But pick up the cycling.
+
+DOCTOR K515
+If you want to do exercise, try doing the cycle where you're sitting down.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Okay and or you could try doing other things with your arms or @@@.
+
+PATIENT K515
+I do.
+
+DOCTOR K515
+And do that instead.
+
+PATIENT K515
+I was thinking of what @@@.
+
+DOCTOR K515
+No weights on the legs though.
+
+PATIENT K515
+No.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+Okay.  Okay.
+
+DOCTOR K515
+Let's give the leg a rest.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+And see if it doesn't improve.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Okay.
+
+PATIENT K515
+Alright.
+
+DOCTOR K515
+You can sit up.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Okay, just give me a few minutes I'll be right back.
+
+PATIENT K515
+Okay.
+
+DOCTOR K515
+Okay.
+
+(DOCTOR OUT:  64:40  DOCTOR IN:  77:48)
+
+SECOND DOCTOR K515
+Hello.
+
+PATIENT K515
+Hello there.
+
+SECOND DOCTOR K515
+How are you today?  I'm DOCTOR.
+
+PATIENT K515
+Nice to meet you DOCTOR.
+
+SECOND DOCTOR K515
+That's a strong handshake you got there.  I @@@ to introduce myself. So it's the left knee that bothers you?
+
+PATIENT K515
+The left knee yes.
+
+SECOND DOCTOR K515
+Okay.  Can I look at it?
+
+PATIENT K515
+Sure excuse me.
+
+SECOND DOCTOR K515
+Where does it hurt, is it just all the way across, around?
+
+PATIENT K515
+Yes.
+
+SECOND DOCTOR K515
+And they noted the calcifications on the lateral side right?
+
+FIRST DOCTOR K515
+Posterolateral.
+
+SECOND DOCTOR K515
+Can you straighten your leg out for me.  Well at any rate it doesn't look like anything that was serious.  It @@@ ligamentous or calcified loose body so I don't think that's anything to be worried about but it could be causing some discomfort okay.  I don't.
+
+FIRST DOCTOR K515
+I mean it's very small but if you compare it and feel it on the right knee you'll feel that.
+
+SECOND DOCTOR K515
+Yeah.
+
+FIRST DOCTOR K515
+@@@
+
+SECOND DOCTOR K515
+It almost feels fatty.
+
+PATIENT K515
+Fatty.  Nobody's ever said it's just fat.
+
+SECOND DOCTOR K515
+No it's probably fluid, but that's what it feels like yeah.  It's not actual fat, it’s fluid in here.
+
+PATIENT K515
+Okay.
+
+SECOND DOCTOR K515
+You can feel when I'm touching it.
+
+PATIENT K515
+Yes.
+
+SECOND DOCTOR K515
+But it feels very fatty.  It's fluid.
+
+PATIENT K515
+But its fluid.
+
+SECOND DOCTOR K515
+That's the way cysts happen I mean yeah.
+
+PATIENT K515
+Okay.
+
+SECOND DOCTOR K515
+Like no that fluid, would not run down, you know its inside and it would not ever.
+
+PATIENT K515
+No kidding, why did they tell me that?
+
+SECOND DOCTOR K515
+I don't know, that was kind of a silly thing to say to you.  That's not, I mean I don't know exactly what they said but.
+
+PATIENT K515
+Okay, okay.
+
+SECOND DOCTOR K515
+But it's @@@.
+
+PATIENT K515
+No I understand that.
+
+SECOND DOCTOR K515
+But the other thing is do you eat a lot of foods that are high in potassium like green leafy vegetables @@@.
+
+PATIENT K515
+Yeah.
+
+SECOND DOCTOR K515
+Well the only thing is your potassium is a little too high.
+
+PATIENT K515
+It going too high?
+
+SECOND DOCTOR K515
+Yeah so maybe we could back down a little bit.
+
+PATIENT K515
+Okay now what food has potassium in it, I have to watch that right?
+
+SECOND DOCTOR K515
+Yeah.
+
+PATIENT K515
+Cause I ate about four bananas yesterday.
+
+SECOND DOCTOR K515
+Yeah so not too much.  That's what I'm saying is potassium is good for you but too much of it can affect your heart because that potassium can affect, is part of the cycle the heart rate @@@ uh is affected by potassium, sodium, things all found in food.
+
+PATIENT K515
+Okay.
+
+SECOND DOCTOR K515
+So that can actually, if it gets too high… actually it.
+
+PATIENT K515
+So now I have to go look up what foods have high potassium, there you go thank you very much.
+
+SECOND DOCTOR K515
+I might have something here.
+
+PATIENT K515
+Because I had a test done to see how my potassium was.
+
+FIRST DOCTOR K515
+And I want to recheck it today so that was in February so I'll make sure it's still not going up.
+
+SECOND DOCTOR K515
+@@@.
+
+PATIENT K515
+And then I won't see you no more for about.  Well I'll tell you what, why don't I take a test about a couple weeks before I come back in again, by that way we can tell.  If you check it now I'll have to come back in four or five months.
+
+FIRST DOCTOR K515
+Oh but it's high now.
+
+PATIENT K515
+Oh.
+
+FIRST DOCTOR K515
+We'll have to make adjustments to your medications.
+
+SECOND DOCTOR K515
+For some things that's a good idea but if we're worried about what it is today we should probably have it.
+
+PATIENT K515
+Okay.  Alright.
+
+SECOND DOCTOR K515
+So this is a list of high potassium foods so you should avoid those things.  Just nothing in excess, so just don't go over the top.
+
+PATIENT K515
+Over the top.
+
+SECOND DOCTOR K515
+@@@
+
+PATIENT K515
+Potatoes?  I love potatoes.
+
+SECOND DOCTOR K515
+Well just not too much of.
+
+PATIENT K515
+Just not all the time.
+
+SECOND DOCTOR K515
+Just watch them.
+
+PATIENT K515
+Okay.
+
+SECOND DOCTOR K515
+Yeah.  @@@ as soon as you can and I mean if it comes back down you know you can.
+
+PATIENT K515
+Okay, so.  I’m just being sarcastic, I'm gonna follow your direction.
+
+FIRST DOCTOR K515
+And you, it sounds like you’re eating a lot of these.
+
+PATIENT K515
+Yes.
+
+FIRST DOCTOR K515
+So if back down a little for long and we'll see how it goes.
+
+PATIENT K515
+Okay, okay, okay.
+
+FIRST DOCTOR K515
+The foods are perfectly okay.
+
+PATIENT K515
+Okay.
+
+SECOND DOCTOR K515
+It just so happens that there was too much potassium.
+
+PATIENT K515
+Okay I can do that.
+
+SECOND DOCTOR K515
+Okay I think DOCTOR's got a good plan for you.
+
+PATIENT K515
+Thank you.
+
+SECOND DOCTOR K515
+It was nice meeting you.
+
+PATIENT K515
+Likewise.
+
+SECOND DOCTOR K515
+I'm not shaking your hand again that hurt.
+
+PATIENT K515
+Not true, don't go there now.
+
+FIRST DOCTOR K515
+Okay so your blood pressure's well controlled on the lisinopril and amlodipine.
+
+PATIENT K515
+Okay.
+
+FIRST DOCTOR K515
+We're going to recheck your labs today so why don't you go to the Lab first and hopefully then by the time you get everything else done your number will be back and I'll talk to you before you leave today.
+
+PATIENT K515
+Okay now okay.  Am I gonna pick up anything at the Pharmacy?
+
+FIRST DOCTOR K515
+Yeah you're gonna pick up your Tylenol #3.
+
+PATIENT K515
+Okay well then I'm gonna do that for, but that's while I'm going to the Lab.
+
+FIRST DOCTOR K515
+Okay.
+
+PATIENT K515
+See I just go check in.
+
+FIRST DOCTOR K515
+Oh the Pharmacy okay, go to the Lab and then.
+
+PATIENT K515
+No I go to Pharmacy.
+
+FIRST DOCTOR K515
+Pharmacy.
+
+PATIENT K515
+Then I go to the Lab.
+
+FIRST DOCTOR K515
+And then go to Prosthetic upstairs to pick up your knee brace.
+
+PATIENT K515
+I don't know what Prosthetic is @@@.
+
+FIRST DOCTOR K515
+It's either on the fourth or the fifth floor of the Damon Building.
+
+PATIENT K515
+Could you write that down for me please?  They know I'm coming?
+
+FIRST DOCTOR K515
+Yep I put the order in.  Damon side so you go past the ER, all the way to the end then take the elevators up.
+
+PATIENT K515
+Up to the.
+
+FIRST DOCTOR K515
+It's fourth or fifth.  There'll be a sign that says Prosthetics.
+
+PATIENT K515
+Will you write that down please.
+
+FIRST DOCTOR K515
+@@@ alright.  So by the time you do these things then your lab should be back and then come sit in the Waiting Room and tell them that you're back.
+
+PATIENT K515
+Okay.
+
+FIRST DOCTOR K515
+Okay and then I'll come out, I'll look at your lab and I'll come out and tell you what is our plan.
+
+PATIENT K515
+So I go to the Pharmacy, I go in the Lab.
+
+FIRST DOCTOR K515
+And then you go to Prosthetics.
+
+PATIENT K515
+I go to Prosthetics and then I come back down here.
+
+FIRST DOCTOR K515
+Yes.
+
+PATIENT K515
+I'll be back.
+
+FIRST DOCTOR K515
+Okay.
+
+PATIENT K515
+Thank you very much.
+
+FIRST DOCTOR K515
+You're welcome.
+
+PATIENT K515
+You want me to close the door?
+
+FIRST DOCTOR K515
+Just leave it open.
+
+PATIENT LEAVES:  83:57.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275395
+TRANSACTION # 578-10-2-316-0103

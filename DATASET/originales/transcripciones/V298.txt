@@ -1,0 +1,1497 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@  
+
+DOCTOR V298
+Hello.
+
+PATIENT V298
+Hi.
+
+DOCTOR V298
+How are you?
+
+PATIENT V298
+Uh I don't know, not too good.
+
+DOCTOR V298
+Not too good.
+
+PATIENT V298
+Uh-huh.
+
+DOCTOR V298
+Have a seat.  @@@.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+What's going on?
+
+PATIENT V298
+A couple breathing @@@ going on.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+I only sleep about four hours.
+
+DOCTOR V298
+Are you using your oxygen at night?
+
+PATIENT V298
+Every time I do it doesn't help me @@@ but then they told me to put uh the distilled water, you know what I mean but we've been out of it.  Uh that didn't help either for my mouth and my nose is very dry.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+They can’t find out what it is.  It's been about seven, eight, ten years ago.  There was a little lump in here.  They took it out @@@ it was not cancer or anything like that.
+
+DOCTOR V298
+Uh-huh.
+
+PATIENT V298
+But what is it, blood clot or something, why does it stop me from breathing.  Why can't they find that out?  Is it on my lungs; is there something wrong with my lungs or what?
+
+DOCTOR V298
+Hmm.  Um.
+
+PATIENT V298
+And uh, and another thing and another thing the last time I was here, I went over to the urologist.  @@@ for a CAT scan and never got nothing out of it.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+And uh I'd like to take uh @@@ what is it, sometimes I feel like a little pain in here you know, it's coming down from the heart, you know what I mean.
+
+DOCTOR V298
+Uh-huh, uh-huh.
+
+PATIENT V298
+So I don't know uh so @@@ and find out what it is @@@.
+
+DOCTOR V298
+Like do an EKG, the EKG you mean?
+
+PATIENT V298
+Yeah.
+
+DOCTOR V298
+Oh.
+
+PATIENT V298
+Yeah. I want to find out @@@ the blood is circulating okay.  Is the heart working out okay.  I don’t even know.  I told them to find out or get some kind of a test you know when they took the biopsy of the kidney, see if that kidney function or something.  But this time I'm falling apart.  I usually be able to walk and I'm doing exercise.  Now I can't do it, I just can't breathe now.  I'm coughing like crazy.
+
+DOCTOR V298
+Uh-huh.
+
+PATIENT V298
+So what's causing that, what it is then.
+
+DOCTOR V298
+Well okay, so let's focus on one thing at a time.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+Let's talk about the breathing.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+Um now you just saw the pulmonologist.
+
+PATIENT V298
+Yeah.
+
+DOCTOR V298
+And you're taking your mometasone and Formoterol and your ipratropium.  Are you taking all the three medicines?
+
+PATIENT V298
+Yeah I'm taking those yes.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+@@@.
+
+DOCTOR V298
+And how often are you taking them?
+
+PATIENT V298
+They told me I could just in the morning once a day and one of them is every, I don't know four.
+
+DOCTOR V298
+Four times a day yeah.
+
+PATIENT V298
+Yeah four times a day.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+Yeah.
+
+DOCTOR V298
+No matter what.
+
+PATIENT V298
+No matter what.
+
+DOCTOR V298
+And they said before you were on a different medicine, tiotropium that was just like once a day.
+
+PATIENT V298
+Uh they did something.
+
+DOCTOR V298
+Dry mouth.
+
+PATIENT V298
+Right.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+So did the dry mouth get better after stopping it?
+
+PATIENT V298
+No.
+
+DOCTOR V298
+No.  That didn't change anything.
+
+PATIENT V298
+No.  And then they give me uh, what is cause I was breathing, what do they call that pill and they give me uh @@@ almost sent me to the hospital.
+
+DOCTOR V298
+Tiotropium?
+
+PATIENT V298
+No it comes in a little,  you squeeze it and you breathe on it, it's like uh.  Oh God, @@@ and they said it was one of the side effects.  Cause a couple of times it made me sick as a dog.
+
+DOCTOR V298
+Yeah you're talking about the tiotropium.  
+
+PATIENT V298
+No, no, no, it was different.
+
+DOCTOR V298
+It's purple right?
+
+PATIENT V298
+Its round.
+
+DOCTOR V298
+Uh-huh.
+
+PATIENT V298
+@@@ and you squeeze.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+And it's purple yeah.
+
+DOCTOR V298
+Yeah that's tiotropium but they stopped it.
+
+PATIENT V298
+They stopped it.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+But there was another too, they gave me another one and it's a pill.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+The pill.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+And I only took it about.
+
+DOCTOR V298
+The pill, it's just you crush it inside there and then you breathe it or something like that?
+
+PATIENT V298
+No that I take, one of those I take it, I take it.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+Now the other one is just as though you swallow a pill.
+
+DOCTOR V298
+Okay, oh.
+
+PATIENT V298
+Uh I'm going back and then they check @@@.
+
+DOCTOR V298
+Oh you're talking about @@@ it caused you to be dizzy or something.
+
+PATIENT V298
+Yeah what is it.
+
+DOCTOR V298
+Oh so that's a prostate medicine.  That was stopped at the same time as this.
+
+PATIENT V298
+That was a long time ago is what I'm saying.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+I still take the other one that's what I'm saying.
+
+DOCTOR V298
+The other one you take, okay.
+
+PATIENT V298
+Finasteride, starts with an F.
+
+DOCTOR V298
+Yeah finasteride.
+
+PATIENT V298
+Finasteride.  It's the only one I take for the prostate uh.
+
+DOCTOR V298
+Yes.
+
+PATIENT V298
+Now I don't know what’s run out.  For the past five, six months, they've tried six different guys - the urologist @@@ you know and uh he was going to take a CAT scan to find out and see what's happening with my inside, you know, not only the kidney and @@@ but they never or they're supposed to call me.
+
+DOCTOR V298
+They said @@@.
+
+PATIENT V298
+I guess, here I brought some of the envelopes here with me @@@.
+
+DOCTOR V298
+Okay they want a CAT scan in June okay.
+
+PATIENT V298
+@@@ June?
+
+DOCTOR V298
+Yes.  CAT scan in June so that's why @@@.
+
+PATIENT V298
+That's not uh, but it's on the computer.
+
+DOCTOR V298
+It is in the computer, for June second.
+
+PATIENT V298
+But it's not in there.
+
+DOCTOR V298
+So you just have to stop by and tell them to schedule it.
+
+PATIENT V298
+Okay, here it is, it's the CAT scan June 2nd.
+
+DOCTOR V298
+Yeah that's it.
+
+PATIENT V298
+Okay but he told me it's not showing that and that's another @@@.
+
+DOCTOR V298
+It is in there.  It's an active order; I don't know what you're talking about.
+
+PATIENT V298
+Spiriva @@@.
+
+DOCTOR V298
+That's the tiotropium.
+
+PATIENT V298
+Is that it?
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+They're stopping that.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+Because it's got my blood pressure and everything else on it.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+So I stopped that.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+Now so what should I tell them to do now @@@?
+
+DOCTOR V298
+Okay so now again.
+
+PATIENT V298
+You gonna put the CAT scan @@@.
+
+DOCTOR V298
+Yeah, yeah, yeah CAT scan, I wrote it down. You need to schedule it, it’s in the computer so I don't know why they were saying @@@ okay.  And they can schedule that for you.
+
+PATIENT V298
+Well I tell them, when I go up to the front I tell them @@@ find it in there @@@.
+
+DOCTOR V298
+It's on the schedule, it’s in the computer.
+
+PATIENT V298
+Well it's on the schedule.
+
+DOCTOR V298
+It's already in there.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+Um okay so that's that.  So with the stones and all that, that's what they are saying, we're just going to follow the scan and um.
+
+PATIENT V298
+Okay the CAT scan, the date will show up?
+
+DOCTOR V298
+We'll show.
+
+PATIENT V298
+On my kidneys.
+
+DOCTOR V298
+The kidney stones.
+
+PATIENT V298
+No, if they're little ones.  Well they took the stone out.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+After it yeah.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+Accumulate some more.
+
+DOCTOR V298
+Right.
+
+PATIENT V298
+@@@.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+Maybe I'm passing it and maybe not.
+
+DOCTOR V298
+Right @@@.
+
+PATIENT V298
+It will show.
+
+DOCTOR V298
+Oh, so the other ones.  Oh so you're.
+
+PATIENT V298
+@@@.
+
+DOCTOR V298
+On the oxybutynin for your urinary symptoms, that also was stopped right?  Due to side effects?  There was another medicine.  Are you still taking your oxybutynin for urine?
+
+PATIENT V298
+Uh.
+
+DOCTOR V298
+Not finasteride.
+
+PATIENT V298
+No.
+
+DOCTOR V298
+But a different medicine for your bladder.
+
+PATIENT V298
+No, they're not giving me any other medicine, what is it?
+
+DOCTOR V298
+They said that you were taking it and then stopped it because you had some side effects.
+
+PATIENT V298
+Maybe that's the one.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+I mean I had stopped @@@.
+
+DOCTOR V298
+Okay.  @@@.
+
+PATIENT V298
+Now my bladder, @@@ another one.  You said @@@ that CAT scan will show my bladder.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+Will show my kidney, what about my gallbladder?
+
+DOCTOR V298
+Why do you need to look? Your gallbladder is over here.
+
+PATIENT V298
+Over here.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+Yeah and my other doctor said I had, what do you call it uh, ultrasound.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+And he said it's almost full but if you don't feel no pain.
+
+DOCTOR V298
+Yeah if you don't feel pain don't worry about it.
+
+PATIENT V298
+Don't worry about it.
+
+DOCTOR V298
+Yeah we talked about this before.
+
+PATIENT V298
+Right.
+
+DOCTOR V298
+We don't just take pictures of everything @@@.
+
+PATIENT V298
+But it's over here right?
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+Now I do feel at certain way not all the time maybe once a day or once a week whatever, I feel the pain in here.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+When @@@ of the kidney.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+Now is that from the incision?
+
+DOCTOR V298
+Okay, that's probably from the incision, but if it only bothers you once in awhile. 
+
+PATIENT V298
+But a long time ago.
+
+DOCTOR V298
+I wouldn't worry.  Every @@@ contains @@@.
+
+PATIENT V298
+No I understand that yeah.
+
+DOCTOR V298
+You don’t medicine for everything.
+
+PATIENT V298
+Well @@@.
+
+DOCTOR V298
+As long as you're not having like you know like a lot of pain, blood in your urine, anything like that.
+
+PATIENT V298
+No I don't have no blood in the urine.
+
+DOCTOR V298
+Okay so then just wait until the CT scan.  
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+I remember you telling me about this.
+
+PATIENT V298
+Yeah.
+
+DOCTOR V298
+But I don’t think it's really that big of a deal.
+
+PATIENT V298
+Alright.
+
+DOCTOR V298
+It's not really bothering you that much so we.
+
+PATIENT V298
+No it doesn't really bother me but the thing is, I want to see if the kidney is functioning okay.
+
+DOCTOR V298
+Oh.
+
+PATIENT V298
+Is the kidney better or something?
+
+DOCTOR V298
+@@@ fine.
+
+PATIENT V298
+@@@.
+
+DOCTOR V298
+@@@.  
+
+PATIENT V298
+The blood test is going to show that?
+
+DOCTOR V298
+Yeah, yeah.  Your blood test is right here.  Kidney function is right here.
+
+PATIENT V298
+Oh.
+
+DOCTOR V298
+No problem.
+
+PATIENT V298
+Oh those are my kidneys.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+So the pain you think is from uh, it could be maybe.
+
+DOCTOR V298
+It might just from the procedure.  Maybe they hit a nerve or something or it's just back pain you know.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+It could be just the back pain.  I'm not sure.
+
+PATIENT V298
+He also had another, now this here.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+Another one and he wants to see me in three months or what do you make of it.
+
+DOCTOR V298
+Who does.
+
+PATIENT V298
+@@@.
+
+DOCTOR V298
+Who wants to see you, Urology or the lung doctor?
+
+PATIENT V298
+No, yes.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+Now it @@@ specialist for the lungs @@@.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+I want to find out.
+
+DOCTOR V298
+Yeah the lung doctor wants to see you in uh let's see, about June, about the same time.
+
+PATIENT V298
+So you'll set up an appointment also huh?
+
+DOCTOR V298
+They didn't set it up already?
+
+PATIENT V298
+No.
+
+DOCTOR V298
+Let's see.  If they didn't @@@.
+
+PATIENT V298
+The Spiriva, that was the name of the container.
+
+DOCTOR V298
+Yeah they didn’t put the appointment in but they did want to see you back.
+
+PATIENT V298
+Okay but there's no appointment set up yet no?
+
+DOCTOR V298
+I don't see one, well maybe I can see, @@@ in here.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+No there's no appointment in there.  So um.
+
+PATIENT V298
+There wasn't one.
+
+DOCTOR V298
+I uh, let's see @@@.
+
+PATIENT V298
+Yeah that's the Oriental guy.
+
+DOCTOR V298
+Yeah @@@.
+
+PATIENT V298
+Yes.
+
+DOCTOR V298
+Okay uh, I’ll put it in. Let's see Pulmonology.
+
+PATIENT V298
+When the doctors talked to me, @@@ I actually want to find out why I can't, why my breathing is so bad.
+
+DOCTOR V298
+Well I saw his note, what they wrote in the computer.
+
+PATIENT V298
+Uh-huh.
+
+DOCTOR V298
+Um let's see if they can see you on the same day so you can do it on the same day as the CAT scan.  @@@ yeah @@@.  Uh so they evaluated you for the breathing okay.
+
+PATIENT V298
+Yes.
+
+DOCTOR V298
+Um.
+
+PATIENT V298
+Well one time @@@ try to find out @@@.
+
+DOCTOR V298
+Yeah, yeah.
+
+PATIENT V298
+And then to say.
+
+DOCTOR V298
+It was not complete.
+
+PATIENT V298
+It was not complete and they had trouble with @@@.
+
+DOCTOR V298
+So they said that um.
+
+PATIENT V298
+Because I didn't do nothing.  All I knew is @@@.
+
+DOCTOR V298
+Yeah well they said that they could repeat it.  And sometimes that happens with studies, they're just not, you know it doesn't happen properly for whatever reason.
+
+PATIENT V298
+Uh-huh.
+
+DOCTOR V298
+So but uh you were reluctant to repeat the studies so they said that they think that you were having maybe some decrease of oxygen at bedtime.
+
+PATIENT V298
+Yes I do.
+
+DOCTOR V298
+And that's why they wanted you to just keep the oxygen on at nighttime and they said that might help with your sleeping.  Has that happened or?
+
+PATIENT V298
+No it, I didn’t sleep from 9 o'clock, 9 o'clock in the evening till the morning 7 or 8 o'clock, I do have the oxygen.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+And I do it.
+
+DOCTOR V298
+But you're still not sleeping well?
+
+PATIENT V298
+No.
+
+DOCTOR V298
+You're not sleeping well.
+
+PATIENT V298
+No.  I @@@ four hours.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+One day I had one hour of sleep.
+
+DOCTOR V298
+Why are you waking up is it because you have to urinate or?
+
+PATIENT V298
+No I used to, but not anymore.
+
+DOCTOR V298
+Okay um.
+
+PATIENT V298
+It's not that I @@@.
+
+DOCTOR V298
+Are there problems with like falling asleep or @@@?
+
+PATIENT V298
+Well normally I wake up and then like after three or four hours I wake up.
+
+DOCTOR V298
+Uh-huh.
+
+PATIENT V298
+And you know all of a sudden that's it, I'm awake.
+
+DOCTOR V298
+Okay.  Okay.
+
+PATIENT V298
+I try to stay in bed you know so I can sleep some more.
+
+DOCTOR V298
+So do you wake up, uh does anyone sleep around or, do they say you snore?
+
+PATIENT V298
+No, no, @@@.
+
+DOCTOR V298
+@@@.
+
+PATIENT V298
+No I don't snore, not that I know.
+
+DOCTOR V298
+No one's every told you you snore.
+
+PATIENT V298
+Yeah, yeah, I don't snore.
+
+DOCTOR V298
+Okay.  The best thing do is the sleeping test, I don't know what else to tell you.
+
+PATIENT V298
+Okay @@@ cause this is a lung problem.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+Can they take uh x-ray of my lungs and see what it is?
+
+DOCTOR V298
+Well you can't tell from an x-ray.  They did do an x-ray.  They did an x-ray back about a year ago we did an x-ray and it was normal.  The only thing that you have is the emphysema which we already know.
+
+PATIENT V298
+Emphysema is what, it's in the lungs right?
+
+DOCTOR V298
+It's like a disease from smoking that you get in your lungs.
+
+PATIENT V298
+And @@@ right.
+
+DOCTOR V298
+It means that your lungs are kind of stretched out.  It just happens from smoking.  Cause that's why you take all these inhalers, that's for emphysema.
+
+PATIENT V298
+Oh, that's not clear in other words, what will it get better or stay?
+
+DOCTOR V298
+It doesn't go away once you have it.
+
+PATIENT V298
+Doesn't go away.
+
+DOCTOR V298
+What we do is just treat it.
+
+PATIENT V298
+Treat it.
+
+DOCTOR V298
+With just using the inhalers that's it.  But that shouldn’t cause you from having problems with sleeping.
+
+PATIENT V298
+I understand but it's different.
+
+DOCTOR V298
+So that's a different problem.
+
+PATIENT V298
+Well.
+
+DOCTOR V298
+So what we need to do.
+
+PATIENT V298
+The other thing I have is I feel sleepy now.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+So it's for a lack of oxygen I have.
+
+DOCTOR V298
+Yes.
+
+PATIENT V298
+And that's what causes.
+
+DOCTOR V298
+Yes.  
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+But you know you're using the oxygen and you're not, it's not any better right?
+
+PATIENT V298
+Now you also told me.
+
+DOCTOR V298
+But are you using the oxygen @@@.
+
+PATIENT V298
+Yes I do.
+
+DOCTOR V298
+@@@.
+
+PATIENT V298
+No.
+
+DOCTOR V298
+So then the only other thing is to do the sleep study again and watch, they monitor your oxygen, they monitor your breathing, everything.
+
+PATIENT V298
+And you think I should go back.
+
+DOCTOR V298
+Yeah, it’s a completely safe study there’s nothing @@@
+
+PATIENT V298
+No I understand that.
+
+DOCTOR V298
+You know, but it's important @@@.
+
+PATIENT V298
+Okay, okay.  If you want me to I'll do it.
+
+DOCTOR V298
+Well if you, you know you can't sleep so you need to know why and the best way is to come up and do a sleep study so.
+
+PATIENT V298
+Oh.
+
+DOCTOR V298
+You know it's not like a harmful study you know.  It's just that you @@@.
+
+PATIENT V298
+But I think, I don't know if it was overnight.
+
+DOCTOR V298
+Overnight yeah.
+
+PATIENT V298
+Yeah overnight.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+So.
+
+PATIENT V298
+That's what I did the last time on it.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+They could not get good results.
+
+DOCTOR V298
+There was something wrong with it and so they'll have to do it over.  That happens also unfortunately sometimes the studies, you don't get the information they want.
+
+PATIENT V298
+Now what about, how can they check my heart see if it's about blood circulating.
+
+DOCTOR V298
+Why don't you think you don’t have @@@.
+
+PATIENT V298
+Cause I do get a pain once in a while.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+And I got to reach in and grab a Bayer aspirin.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+Because I’m afraid that I’m gonna have a heart attack.
+
+DOCTOR V298
+Okay when does this pain come?
+
+PATIENT V298
+Uh when , what time?
+
+DOCTOR V298
+Like what are you doing?  Are you just sitting there or?
+
+PATIENT V298
+Oh once.
+
+DOCTOR V298
+Walking or?
+
+PATIENT V298
+No not when I'm walking.  It's when I'm sitting sometimes then you know when I watch TV.
+
+DOCTOR V298
+Uh-huh yeah.
+
+PATIENT V298
+Or uh.
+
+DOCTOR V298
+So just sitting.
+
+PATIENT V298
+Yeah.
+
+DOCTOR V298
+Do you feel short of breath when you get this pain?
+
+PATIENT V298
+Oh yes, yeah.
+
+DOCTOR V298
+But you get the pain then you feel like you can't breathe?
+
+PATIENT V298
+Right.  @@@ can't breathe @@@.
+
+DOCTOR V298
+Short of breath. Do you feel sweaty and your jaw hurts?
+
+PATIENT V298
+No.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+@@@.
+
+DOCTOR V298
+If you want to do an EKG we can do an EKG and we'll know in a second, look at it you know and see.
+
+PATIENT V298
+Well.
+
+DOCTOR V298
+If there's anything abnormal.
+
+PATIENT V298
+If it is will it show on it or can they do it here or @@@ do I set it up?
+
+DOCTOR V298
+Oh your angiogram.
+
+PATIENT V298
+Angiogram.
+
+DOCTOR V298
+Well they aren't get an angiogram just for once in a while chest pain.
+
+PATIENT V298
+I understand that.
+
+DOCTOR V298
+@@@.
+
+PATIENT V298
+When do they do an angiogram to find out?
+
+DOCTOR V298
+If they do an angiogram, we check your heart if you having chest pain or if you do a stress test and it comes back abnormal they might do an angiogram.  If you're having really bad chest pain and it's very likely you're having a heart attack.  But if it's just once in a while when you're sitting watching TV that's not necessarily that worrisome.
+
+PATIENT V298
+Uh-huh.
+
+DOCTOR V298
+Um but if you have chest pain very often or say you're walking and you have chest pain and you rest and it goes away, that’s a scarier type of chest pain.
+
+PATIENT V298
+So that's.
+
+DOCTOR V298
+Then we're going to do an angiogram for that so.
+
+PATIENT V298
+What do you recommend?  Is there one that @@@ clean out the arteries what is it just one artery?
+
+DOCTOR V298
+No.
+
+PATIENT V298
+How ca I figure out what artery it is.
+
+DOCTOR V298
+You have to do a stress test and look inside or you can look inside.  They aren't going to just do an angiogram unless there's some really concerning findings.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+Um and like I said you have to have really bad chest pain or you have to have an abnormal stress test.
+
+PATIENT V298
+Uh-huh.
+
+DOCTOR V298
+If you really want a stress test, you can get a stress test and we can see if you know @@@ something is going on with your heart.
+
+PATIENT V298
+I don't know if the stress test @@@.
+
+DOCTOR V298
+If you feel tired you know when you're walking and things like that.
+
+PATIENT V298
+Yeah, right, right.
+
+DOCTOR V298
+Anything like that.
+
+PATIENT V298
+If I'm walking yeah.
+
+DOCTOR V298
+Okay so an EKG and we can get a stress test if you want.  Have you ever had a stress test before?
+
+PATIENT V298
+Uh stress test, not here.  I had a stress test.
+
+DOCTOR V298
+Long time ago?
+
+PATIENT V298
+Yeah.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+A couple of times.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+Like before, when I had, with my other doctor and I @@@.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+@@@ Blue Cross Blue Shield.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+And I had it at St. Luke's over here @@@ hospital you know.
+
+DOCTOR V298
+Okay.  Can you walk on the treadmill?  Probably not, do you get too tired?
+
+PATIENT V298
+I don't, I get tired when I'm walking you know from the parking lot.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+To the, like maybe 100 feet or something.
+
+DOCTOR V298
+Okay.
+
+PATIENT V298
+Now a treadmill, I might, I don't know how many steps or whatever you know but the people over there.  The last time there were four or five different specialists over there.  You know what I mean they're waiting for the, you know what I mean.
+
+DOCTOR V298
+Uh-huh.
+
+PATIENT V298
+If anything happens then they bring you back to normal or uh.
+
+DOCTOR V298
+Okay so I just ordered a stress test for you.  
+
+PATIENT V298
+But before we do anything else, they'll probably do, @@@ run out of it right?
+
+DOCTOR V298
+What?
+
+PATIENT V298
+To clean out the artery.
+
+DOCTOR V298
+They're not going to do an angiogram.
+
+PATIENT V298
+No I understand that.
+
+DOCTOR V298
+They're gonna do a stress test first to see if everything's normal.
+
+PATIENT V298
+Yeah that's what I'm saying.
+
+DOCTOR V298
+Cause you don't want an angiogram unless you to have it.  It's not a risk free procedure.  That's a lot more dangerous than the sleep study.
+
+PATIENT V298
+Right.
+
+DOCTOR V298
+Because what they do is they put die, they shoot it into your body.
+
+PATIENT V298
+Uh-huh.
+
+DOCTOR V298
+And then they track it all the way inside your body into your heart.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+So there are some risks.  There's risks of dye allergies, renal failure um you know problems with your vein in your leg @@@.
+
+PATIENT V298
+Well I'm not saying that I want it, in regards, I understand @@@.  That's why I'm asking all these things @@@.
+
+DOCTOR V298
+Yeah so we'll give you a stress test okay and then we'll see.
+
+PATIENT V298
+And then we'll find out what's causing all this.
+
+DOCTOR V298
+Yep.
+
+PATIENT V298
+So which one @@@ do I see first, the @@@ the sleeping study.
+
+DOCTOR V298
+Well the sleep study um.
+
+PATIENT V298
+Which one I would see first?
+
+DOCTOR V298
+Okay so we want to do the sleep study.
+
+PATIENT V298
+Before everything else?
+
+DOCTOR V298
+Whatever order they come in @@@.
+
+PATIENT V298
+Oh okay @@@.  Is this the test, for about six months @@@.
+
+DOCTOR V298
+I uh.
+
+PATIENT V298
+They did something on me and you know.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+You know.
+
+DOCTOR V298
+I think you need to talk to the, hold on you need to repeat the sleep study @@@.  So you said you don't snore @@@.
+
+PATIENT V298
+No.
+
+DOCTOR V298
+I mean you have disturbed sleep, you have unrefreshed sleep, you have difficulty maintaining sleep.  Are you sleepy in the daytime all the time?
+
+PATIENT V298
+No but I do nap at noon, you know when I go home I feel like, sleepy but I can’t sleep.
+
+DOCTOR V298
+Oh okay, okay.
+
+PATIENT V298
+You know.
+
+DOCTOR V298
+And you don't have diabetes and you don't have high blood pressure.
+
+PATIENT V298
+No. Diabetes, I take, my sugar.
+
+DOCTOR V298
+Uh-huh.
+
+PATIENT V298
+And they say that its good but sometimes I have to have like something sweet when I get a low sugar or high or.
+
+DOCTOR V298
+Uh-huh.  Okay.  So they're gonna schedule the sleep study for you, the @@@ stress test.
+
+PATIENT V298
+Uh-huh.
+
+DOCTOR V298
+You need uh, alright.
+
+PATIENT V298
+All those will be done, not the same day right.
+
+DOCTOR V298
+I don't know when they're gonna do them.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+They'll schedule you in the front.
+
+PATIENT V298
+Alright.
+
+DOCTOR V298
+Okay.  Um okay so sleep study and stress test.
+
+PATIENT V298
+Uh-huh.
+
+DOCTOR V298
+And then with the mouth dryness you know, you know it might just be you're snoring.
+
+PATIENT V298
+It's all night.
+
+DOCTOR V298
+You might be snoring.
+
+PATIENT V298
+@@@ sleep @@@.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+@@@ you know when I get up I go have a drink of water then I'm fine again.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+I mean its real dry and I almost feel like I can't breathe anymore.
+
+DOCTOR V298
+Hmm.  Because you know you might be snoring and that's @@@ just all night long and the mouth becomes so dry.
+
+PATIENT V298
+I @@@.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+A lot of people just say when you do sleep like this way then there are other things like snoring.
+
+DOCTOR V298
+Yeah.
+
+PATIENT V298
+But I don't, I'm always on the side.  It's usually my left side I don't know.
+
+DOCTOR V298
+Yeah you know some people snore on their sides too, I've seen it.
+
+PATIENT V298
+Uh-huh.
+
+DOCTOR V298
+Let me talk to DOCTOR I'll be right back.
+
+PATIENT V298
+Okay thank you.
+
+DOCTOR V298
+Uh-huh.
+
+(DOCTOR OUT:  74:29  DOCTOR IN:  79:51)
+
+DOCTOR V298
+So we'll get the stress test and we'll get the sleep study okay.
+
+PATIENT V298
+And uh what about the breathing doctor?
+
+DOCTOR V298
+And you're gonna see the lung doctors.
+
+PATIENT V298
+@@@.
+
+DOCTOR V298
+Yeah I'm putting in for it and you're gonna get a letter in the mail.
+
+PATIENT V298
+I'll get a letter okay.
+
+DOCTOR V298
+Yeah, yeah.  From the Lung Clinic.  But @@@ but they gotta schedule the CT scan.  The order is in the computer.
+
+PATIENT V298
+Uh-huh.
+
+DOCTOR V298
+This is a stress test and this is a sleep study okay.
+
+PATIENT V298
+Okay.  @@@
+
+DOCTOR V298
+Uh-huh and it's all in the computer.
+
+PATIENT V298
+They will not give me no dates @@@.
+
+DOCTOR V298
+Uh they might, I don't know.
+
+PATIENT V298
+Okay, alright then.  Alright.
+
+DOCTOR V298
+Okay, alright.  So and then after that you can come back in a couple of months.  I'll put in; you'll get a letter okay.
+
+PATIENT V298
+Okay.
+
+DOCTOR V298
+Alright.  Bye.
+
+PATIENT V298
+Thank you.  Have a nice day.
+
+DOCTOR V298
+You too.  You can leave it.
+
+PATIENT V298
+No you have it, thanks.
+
+DOCTOR V298
+Uh-huh.
+
+PATIENT V298
+Bye.
+
+PATIENT LEAVES:  80:55
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275402
+TRANSACTION # 578-10-2-316-0103

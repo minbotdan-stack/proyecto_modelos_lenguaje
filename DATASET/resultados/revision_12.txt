@@ -1,0 +1,304 @@
+
+================================
+ARCHIVO: A723.txt
+================================
+PRIMERAS 12 LINEAS:
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+DOCTOR A723
+PATIENT. 
+
+PATIENT H482
+Hey doc, you ready for me now?
+
+DOCTOR A723
+@@@.
+
+
+IDENTIFICADORES DETECTADOS:
+DOCTOR A723
+PATIENT A723
+PATIENT H482
+
+METADATOS DETECTADOS:
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+================================
+ARCHIVO: D107.txt
+================================
+PRIMERAS 12 LINEAS:
+sDate of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@   
+
+DOCTOR D107
+Come on back.
+
+PATIENT D107
+Okay.
+
+DOCTOR D107
+How you doing?  Good to see you.  What's new?  What's new?
+
+
+IDENTIFICADORES DETECTADOS:
+DOCTOR D107
+PATIENT D107
+
+METADATOS DETECTADOS:
+Time of Encounter:   @@@   
+
+================================
+ARCHIVO: E231.txt
+================================
+PRIMERAS 12 LINEAS:
+AUDIO NAME:		E231
+TIME STARTED:		@@@
+DR. ENTERS:		@@@
+
+DOCTOR153:	
+PATIENT153?
+
+PATIENT153:	
+Yes, sir.
+
+DOCTOR153:	
+@@@
+
+IDENTIFICADORES DETECTADOS:
+
+METADATOS DETECTADOS:
+
+================================
+ARCHIVO: E862.txt
+================================
+PRIMERAS 12 LINEAS:
+AUDIO NAME:     E862
+TIME STARTED:   @@@
+DR. ENTERS:     @@@
+
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@
+
+DOCTOR E862
+PATIENT?
+
+
+PATIENT E862
+
+IDENTIFICADORES DETECTADOS:
+DOCTOR E862
+DOCTOR H29
+PATIENT E862
+
+METADATOS DETECTADOS:
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@
+
+================================
+ARCHIVO: H279.txt
+================================
+PRIMERAS 12 LINEAS:
+Date of Encounter:    @@/@@/@@ 
+Time of Encounter:    @@@
+
+DOCTOR H279
+PATIENT?  
+
+PATIENT H279 
+How you doing?
+
+DOCTOR H279
+Okay how are you?
+
+
+IDENTIFICADORES DETECTADOS:
+DOCTOR H279
+DOCTOR H327
+PATIENT H279
+PATIENT H279 
+
+METADATOS DETECTADOS:
+Date of Encounter:    @@/@@/@@ 
+Time of Encounter:    @@@
+
+================================
+ARCHIVO: H617.txt
+================================
+PRIMERAS 12 LINEAS:
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR H617
+PATIENT?
+
+PATIENT H617
+Hi.
+
+DOCTOR H617
+Okay now I'm seeing you for the first time, I'm DOCTOR, nice to meet you.
+
+
+IDENTIFICADORES DETECTADOS:
+DOCTOR H617
+DOCTOR J211
+PATIENT H617
+
+METADATOS DETECTADOS:
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+================================
+ARCHIVO: L179.txt
+================================
+PRIMERAS 12 LINEAS:
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR L179:
+Patient? 
+
+PATIENT L179:
+Hi, how are you?
+
+DOCTOR L179:
+Good how are you?
+
+
+IDENTIFICADORES DETECTADOS:
+
+METADATOS DETECTADOS:
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+================================
+ARCHIVO: M178.txt
+================================
+PRIMERAS 12 LINEAS:
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR M178
+PATIENT. 
+
+PATIENT M178
+Yep, around @@@ 
+
+DOCTOR M178
+Come on back.  I'm gonna check your blood pressure right here.  Oh what happened here?
+
+
+IDENTIFICADORES DETECTADOS:
+DOCTOR J429
+DOCTOR M178
+PATIENT M178
+
+METADATOS DETECTADOS:
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+================================
+ARCHIVO: M243.txt
+================================
+PRIMERAS 12 LINEAS:
+AUDIO NAME		M243
+Date of Encounter  @@/@@/@@ 
+Time of Encounter  @@@
+
+
+
+DOCTOR M243
+This is your first time here in a while?  
+
+PATIENT M243
+Yeah.
+
+
+IDENTIFICADORES DETECTADOS:
+DOCTOR M243
+DOCTOR M243	
+DOCTOR M243 	
+DOCTOR M243  
+DOCTOR M243  	
+PATIENT M243
+PATIENT M243	
+
+METADATOS DETECTADOS:
+
+================================
+ARCHIVO: P829.txt
+================================
+PRIMERAS 12 LINEAS:
+AUDIO NAME:  P829
+TIME STARTED: @@@
+DR. ENTERS:   @@@
+
+DOCTOR P829  
+
+PATIENT P829
+@@@
+
+DOCTOR P829  
+@@@
+
+
+IDENTIFICADORES DETECTADOS:
+DOCTOR P829
+DOCTOR P829 
+DOCTOR P829  
+PATIENT P829
+
+METADATOS DETECTADOS:
+
+================================
+ARCHIVO: S614.txt
+================================
+PRIMERAS 12 LINEAS:
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR S614
+Alright you even got me under @@@ a couple of times.
+
+SECOND PERSON 
+Yeah that looks okay.
+
+PATIENT S614
+We're doing good.  
+
+
+IDENTIFICADORES DETECTADOS:
+DOCTOR S614
+PATIENT J239
+PATIENT S614
+
+METADATOS DETECTADOS:
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+================================
+ARCHIVO: V472.txt
+================================
+PRIMERAS 12 LINEAS:
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR V472
+PATIENT?
+
+PATIENT V472
+Yes.
+
+DOCTOR V472
+Hello.
+ 
+
+IDENTIFICADORES DETECTADOS:
+DOCTOR H43
+DOCTOR V472
+PATIENT V472
+
+METADATOS DETECTADOS:
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  

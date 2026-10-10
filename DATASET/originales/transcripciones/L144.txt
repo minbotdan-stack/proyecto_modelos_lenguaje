@@ -1,0 +1,569 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR L144
+PATIENT.  How are you doing?
+
+SECOND PERSON L144
+Uh pretty good.
+
+DOCTOR L144
+I am @@@ to you today.
+
+PATIENT L144
+Glad to meet you doctor.
+
+DOCTOR L144
+So @@@ right?
+
+PATIENT L144
+Yes.
+
+DOCTOR L144
+Okay.  Any problems today?
+
+SECOND PERSON L144
+Not really.
+
+PATIENT L144
+Not really no.
+
+DOCTOR L144
+Okay.  Your blood pressure is doing well.
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+And uh @@@.
+
+PATIENT L144
+Okay.
+
+DOCTOR L144
+And uh um so how was your gout?
+
+SECOND PERSON L144
+It's under control.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+Yeah I had a full work-up.
+
+DOCTOR L144
+Oh good okay.  So what are you doing?  You're basically uh, are you taking medication for it?
+
+PATIENT L144
+Oh I take uh one tablet a day.
+
+DOCTOR L144
+Alpurinol.
+
+PATIENT L144
+Yes, yes, uh-huh.
+
+DOCTOR L144
+Okay and COPD?  Have you @@@ steroids, the prednisone?
+
+PATIENT L144
+Sometimes.
+
+DOCTOR L144
+Okay, okay.  Did you start taking them because of a reoccurrence or what because you have to be careful with that pill because if you take too much then it @@@ other infections.
+
+PATIENT L144
+Yeah.  Well I always take the one I you know like, when I been breathing bad.
+
+DOCTOR L144
+Uh-huh.
+
+PATIENT L144
+And wheezing, you know when I come to @@@.  I want to say like about four or five days.
+
+DOCTOR L144
+Okay @@@.
+
+PATIENT L144
+@@@.
+
+DOCTOR L144
+How about um smoking, do you still smoke?
+
+PATIENT L144
+No, I don’t smoke no more.
+
+DOCTOR L144
+Okay.  Are you on oxygen at home?
+
+PATIENT L144
+Uh no but I got a you know I got uh oxygen tank you know.
+
+DOCTOR L144
+Yeah.  So you just use it @@@.
+
+PATIENT L144
+Yeah, yeah.
+
+DOCTOR L144
+And um have you been using the CPAP or anything at night?
+
+PATIENT L144
+No the only thing that I use, I got a machine where I you know.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+@@@ I use that.
+
+SECOND PERSON L144
+He uses that.
+
+DOCTOR L144
+Okay and um how is your arthritis?
+
+PATIENT L144
+Well arthritis, you know how that is, sometimes its.
+
+DOCTOR L144
+Okay.
+
+PATIENT L144
+Sometimes it @@@.  When you @@@ you have @@@ you know.  @@@ you know.
+
+DOCTOR L144
+Okay, okay, okay.  Then what about like uh the um prostate hyperplasia?  Do you get bothering you or you know are you having any symptoms like uh you know not emptying your bladder, particular problems starting the stream or?
+
+PATIENT L144
+I don't think I do that but I still you know use the bathroom at night.
+
+DOCTOR L144
+You get up at night.
+
+PATIENT L144
+Yeah, yeah.
+
+DOCTOR L144
+How often do you get up?
+
+PATIENT L144
+@@@ you know about three, three times, about three times a night.
+
+DOCTOR L144
+Okay, okay.
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+Okay and then uh okay.  So everything is fine and you don't need any, you don't have any problems @@@.
+
+PATIENT L144
+You know, I just, well I got refills I'm just going to go pick up the medication you know.
+
+DOCTOR L144
+Do you need any refills from me today?
+
+PATIENT L144
+No uh uh.
+
+DOCTOR L144
+Okay.
+
+PATIENT L144
+@@@ got all the refills that I need.
+
+DOCTOR L144
+Okay.
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+Okay so um do you walk or do exercise?
+
+PATIENT L144
+I probably walk; I was walking every day you know.  That's the most that I can do is do a little bit of walking you know.  I was walking every day.
+
+DOCTOR L144
+Okay.  So you used to smoke in the past?
+
+PATIENT L144
+It's been a long time though.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+It's been about 89 or 90, it's been a while.
+
+DOCTOR L144
+Okay and um how often do you use the inhaler?  Um the albuterol?
+
+PATIENT L144
+Well okay, my inhalers I use, I got the one I use twice a day.
+
+DOCTOR L144
+Uh-huh.
+
+PATIENT L144
+I use one once a day.
+
+DOCTOR L144
+Okay.
+
+PATIENT L144
+I use like one if I wheeze, that's the quick one but the other one @@@.  This here.
+
+DOCTOR L144
+@@@ okay.
+
+PATIENT L144
+Yes I do.  @@@.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+But that's just for the wheezing you know.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+Okay.  @@@.
+
+DOCTOR L144
+Cause you don't @@@.
+
+PATIENT L144
+@@@ yeah.
+
+DOCTOR L144
+@@@ okay.
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+Okay so you've got @@@ refills okay.  Okay.
+
+PATIENT L144
+@@@.
+
+DOCTOR L144
+Yeah I'm sorry.
+
+PATIENT L144
+@@@ that.
+
+DOCTOR L144
+Just sit here okay.
+
+PATIENT L144
+Okay.
+
+DOCTOR L144
+Okay.  @@@ is good.  It says that you have some um back pain, with right wrist and left knee?
+
+PATIENT L144
+Yeah @@@ you know, you know what it is getting old.  I don't expect that any doctor.
+
+DOCTOR L144
+@@@ with um two things possibly one it is as we age @@@ arthritis there is nothing that @@@ it.
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+But @@@ more, @@@.
+
+PATIENT L144
+Yeah.  I got to lose @@@.  That's most of my problem.  I need to lose the weight.
+
+DOCTOR L144
+@@@ that's probably @@@ because you know everybody gets sedentary at a certain age.
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+@@@.  But it has to be @@@.
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+You know what I'm saying.  @@@.
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+@@@ so um yeah.  I mean you know, since you know what to do and you just you know, be active, try to lose weight and um, but uh eating well you @@@ that.
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+@@@ the more @@@.
+
+PATIENT L144
+Yeah.  Well I've had that you know that problem with the @@@ you know.
+
+DOCTOR L144
+Okay.  If you can just hop up here I'll take a look at you.  Do you measure your blood pressure at home?
+
+PATIENT L144
+Huh?
+
+DOCTOR L144
+Do you measure your blood pressure at home?
+
+PATIENT L144
+Well uh not really, not really.
+
+DOCTOR L144
+Okay.
+
+SECOND PERSON L144
+Breathe deep now.
+
+DOCTOR L144
+Take a deep breath, breathe out.  Let me look at your feet.  @@@.
+
+PATIENT L144
+Not really, @@@.
+
+DOCTOR L144
+@@@ your blood pressure is doing well but then you know you cut down on @@@ do you know?
+
+PATIENT L144
+Uh.
+
+DOCTOR L144
+@@@ you know.  Take a deep breath.  Any fevers, uh chills?
+
+PATIENT L144
+No.
+
+DOCTOR L144
+Uh shortness of breath, chest pain?
+
+PATIENT L144
+Sometimes shortness of breath.
+
+DOCTOR L144
+Because of your COPD. But anything new? You can @@@
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+But @@@.
+
+PATIENT L144
+Right, right, right.
+
+DOCTOR L144
+And then any chest pain?  Any palpitations, you know like rapid heartbeat or anything like that?
+
+PATIENT L144
+No.
+
+DOCTOR L144
+Any nausea, vomiting?
+
+PATIENT L144
+No.
+
+DOCTOR L144
+Any recent weight loss?
+
+PATIENT L144
+No.
+
+DOCTOR L144
+Any blood in your sputum?
+
+PATIENT L144
+No.
+
+DOCTOR L144
+And uh any um uh other problems like lightheadedness, any blood in stools?
+
+PATIENT L144
+No.
+
+DOCTOR L144
+Any um uh problems with anything like burning or pain on urination, or blood in urine?
+
+PATIENT L144
+No.
+
+DOCTOR L144
+Anything at all like that, okay.
+
+PATIENT L144
+No.
+
+DOCTOR L144
+Open your mouth for me, stick your tongue out and say ah.
+
+PATIENT L144
+Ah.
+
+DOCTOR L144
+Okay.  Did you have your flu shot?
+
+PATIENT L144
+Uh I @@@ had it once but I haven't had the other@@@.
+
+DOCTOR L144
+@@@.  Okay @@@ give you.  @@@.
+
+PATIENT L144
+Okay.
+
+DOCTOR L144
+Okay @@@ once again I'd do that okay.
+
+PATIENT L144
+Okay.
+
+SECOND PERSON L144
+Alright.  I think I might have to go somewhere else and take that flu shot though.
+
+DOCTOR L144
+No I think they probably have it here.  Um @@@.
+
+PATIENT L144
+Yeah I think @@@.  That's the difference @@@.  I had one flu shot.
+
+DOCTOR L144
+Okay.
+
+PATIENT L144
+With DOCTOR.
+
+DOCTOR L144
+Okay.  I'll be right back.
+
+(DOCTOR OUT:  76:19  DOCTOR IN:  86:26)
+
+DOCTOR L144
+So @@@ here you can go to see them and they tell you where to go.
+
+PATIENT L144
+Okay.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+I get to see uh the uh all the other @@@ albuterol solution that I put into the machine.  @@@ that.
+
+DOCTOR L144
+So the albuterol.
+
+PATIENT L144
+I know I got @@@ and uh.  @@@ send me that.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+That's the one more thing @@@.
+
+DOCTOR L144
+Yeah.  @@@ today.
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+As long as I got a refill I can get it down there.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+@@@.
+
+DOCTOR L144
+@@@ two in one.
+
+PATIENT L144
+I know @@@.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+Okay.  When I call it they send it to me it takes about seven days @@@.  
+
+DOCTOR L144
+Okay so you call them.  They have only one @@@ here @@@.
+
+PATIENT L144
+Yeah, that's good, that's good.
+
+DOCTOR L144
+@@@.  So you can go?
+
+PATIENT L144
+Yeah.
+
+DOCTOR L144
+@@@ okay.
+
+PATIENT L144
+Okay.
+
+DOCTOR L144
+So I'll see you back in, you want to come back in four months?
+
+PATIENT L144
+Okay, alright.
+
+DOCTOR L144
+Okay.
+
+PATIENT L144
+Okay.  Alright you have a really nice Thanksgiving.
+
+DOCTOR L144
+Thank you, you too okay.
+
+PATIENT L144
+@@@.
+
+DOCTOR L144
+@@@.
+
+PATIENT L144
+Oh okay, sure, sure.  Have a good holiday.
+
+DOCTOR L144
+You too, have a very nice holiday.
+
+PATIENT L144
+@@@.
+
+PATIENT LEAVES:  88:19.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1255148
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,581 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR R210
+PATIENT?  How are you PATIENT?
+
+PATIENT R210
+Fine thank you.
+
+DOCTOR R210
+Good.  Come back with me @@@.
+
+PATIENT R210
+Okay.  @@@.
+
+DOCTOR R210
+Good morning.
+
+SECOND PERSON R210
+Okay if I come on back huh?
+
+DOCTOR R210
+How you doing?  How's your foot doing?
+
+PATIENT R210
+Alright.
+
+DOCTOR R210
+@@@.  Yes.  @@@ just to see how you've been you know.
+
+SECOND PERSON R210
+Yeah.
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+And they have you in that special boot or have you been wearing that?  I know you were having some.
+
+PATIENT R210
+No I'm not wearing the boot.
+
+DOCTOR R210
+Okay.  Was it hard to walk in or?
+
+PATIENT R210
+It's hard to put on.
+
+DOCTOR R210
+It's hard to put on okay.  Okay.
+
+PATIENT R210
+It takes at least two people to put it on.
+
+DOCTOR R210
+Oh.  Is there somebody at home to help you put it on at least for a little bit?
+
+PATIENT R210
+She can’t help.
+
+DOCTOR R210
+Oh okay.  Let me take a look at that foot then in a little bit.  When do you see them again?
+
+PATIENT R210
+Oh, last time I was there, they were supposed to make an appointment.
+
+DOCTOR R210
+Okay.  So the good news is your blood pressure looks good.  The next thing you know your blood sugars, did you eat breakfast already today?
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Okay, it looks pretty good too, for having something.  How you feeling? I know the foot's bothering you, anything else?  How's your eyesight cause I know the last time we were going to send you to the eye doctor.
+
+PATIENT R210
+Well it's just the same.
+
+DOCTOR R210
+Just the same.
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Okay.  I think, did they tell you that it looks like you might have glaucoma?  Where it affects the pressure in your eyes.
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Okay.  Did they give you anything for it?
+
+PATIENT R210
+Yeah the eye drops.
+
+DOCTOR R210
+Okay and are those helping at all?
+
+PATIENT R210
+No not really.
+
+DOCTOR R210
+Not really.  Any trouble, uh any fevers or trouble.
+
+PATIENT R210
+No.
+
+DOCTOR R210
+Chest pains, trouble breathing?  I know the foot makes it hard to get around but.
+
+PATIENT R210
+Well I can get around.
+
+DOCTOR R210
+No problem okay, okay.  So let me take a look at that foot there okay. So come have a seat.  And how have your sugars been?
+
+PATIENT R210
+Up and down.
+
+DOCTOR R210
+Up and down.  How down is down?
+
+PATIENT R210
+This is what I brought.
+
+DOCTOR R210
+Oh thank you.  I really appreciate that.  I really appreciate you bringing in the paperwork that helps us a lot.  And your @@@ meals right.
+
+PATIENT R210
+Yes.
+
+DOCTOR R210
+During the day, okay.  The short acting one.  This has been okay.
+
+PATIENT R210
+You know.
+
+DOCTOR R210
+Yes.
+
+PATIENT R210
+Even when it, the sugar falls to around 80.
+
+DOCTOR R210
+Uh-huh.  Do you get real dizzy?
+
+PATIENT R210
+During that yeah.
+
+DOCTOR R210
+Okay.  You're lightheaded?
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Sweaty, you don't feel right yeah.  Make sure those at nights, cause it does happen sometimes it looks like.  @@@ okay.  And then in the morning when that happens you know, orange juice or something.
+
+PATIENT R210
+Uh-huh.
+
+DOCTOR R210
+It looks like there's been a couple of times when it's below 80.
+
+SECOND PERSON R210
+Yeah.
+
+DOCTOR R210
+Two our three times.  Looks like your midday sugars are pretty good though.  Except you know there are couple of times where they got real low.
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Yeah.  Have you passed out again?
+
+PATIENT R210
+No.
+
+DOCTOR R210
+Okay.
+
+PATIENT R210
+I don't have any more of those.
+
+DOCTOR R210
+Okay good.
+
+PATIENT R210
+Yeah that helps.
+
+DOCTOR R210
+Here you go, sir.
+
+PATIENT R210
+Oh alright.
+
+DOCTOR R210
+Hmm. Same dose that you're on @@@.
+
+PATIENT R210
+Uh-huh.
+
+DOCTOR R210
+Um I was thinking that you could go up higher @@@.
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Since you drop @@@ in the morning you know.  So.  No palpitations or sensations of your heart fluttering?
+
+PATIENT R210
+No.
+
+DOCTOR R210
+Kind of stroke symptoms you know like times when you couldn't move or couldn't talk or something like that?
+
+PATIENT R210
+No.
+
+DOCTOR R210
+Okay good.  Anything like that you call the ambulance okay.
+
+PATIENT R210
+Hmm.
+
+DOCTOR R210
+I don't want you to wait. @@@  They did replace the pad in your shoes right?
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+@@@ feel my finger down there?
+
+PATIENT R210
+Yes.
+
+DOCTOR R210
+Any pain in your legs when you're walking?
+
+PATIENT R210
+No.
+
+DOCTOR R210
+It looks pretty good actually um but I think the foot doctor said they wanted to see you at some point so we'll go ahead and have them schedule you an appointment on your way out okay, can you do that?  Just to make sure.  I do want to talk to them and see if there are any other options okay.
+
+PATIENT R210
+Uh-huh.
+
+DOCTOR R210
+Cause I know they want you on the boot but it's so hard to put on like you say I want to see if they have another solutions.
+
+PATIENT R210
+Yeah well the boot, I can't put it on by myself.
+
+DOCTOR R210
+Exactly, exactly so you know if you're not gonna do that what are the other options okay.  Other than giving you the right kind of padding in your shoes. Let’s see what else they have.  Did they say if there was anything else when you saw them at that time?
+
+PATIENT R210
+No.
+
+DOCTOR R210
+Cause I think you told them that you couldn't put it on the boot, right?
+
+PATIENT R210
+Right.
+
+DOCTOR R210
+Right okay.  
+
+PATIENT R210
+I don’t know what they were thinking about when they made those boots.
+
+DOCTOR R210
+Yeah right.  It should be something that makes it easier for you to put on and what not.  Let me take a listen to you.  Any cough or fevers, nothing like that right?
+
+PATIENT R210
+No.
+
+DOCTOR R210
+Okay.  Nice deep breath for me, in and out.  Good.  Breathe normal.  @@@.  The swelling is a little better than the last time when I saw you.
+
+PATIENT R210
+Huh?
+
+DOCTOR R210
+The swelling in your legs looks a little better than last time you were in the office.  Okay.  Um do you need refills on your medications at all?
+
+PATIENT R210
+Yeah the fast-acting.
+
+DOCTOR R210
+The fast-acting insulin.
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Okay.
+
+PATIENT R210
+I don't know, before I was getting two pills.
+
+DOCTOR R210
+Uh-huh.
+
+PATIENT R210
+Now it's just one and that one is.
+
+DOCTOR R210
+Is not enough to last.
+
+PATIENT R210
+No.
+
+DOCTOR R210
+Okay and you were taking how many units before?  You're taking 6 or 7?
+
+PATIENT R210
+7.
+
+DOCTOR R210
+7 okay.  I'll change that okay and then it looks like you're running low on the long-acting too right?  @@@.
+
+PATIENT R210
+Yes.
+
+DOCTOR R210
+And you’re on the 60 units right?
+
+PATIENT R210
+Right.
+
+DOCTOR R210
+With everything else, you still have some refills but I'll update those.  Did you @@@.  So your blood pressure looks good, we'll keep you on everything else going to be the same.
+
+PATIENT R210
+Alright.
+
+DOCTOR R210
+The only thing is I think you are due for lab work, some blood testing, today.
+
+PATIENT R210
+Okay.
+
+DOCTOR R210
+So a couple things we're gonna be checking um we'll have, did you get the vitamin D before?
+
+PATIENT R210
+Yes.
+
+DOCTOR R210
+Um we need to kind of make sure the levels goes back up to where they should be okay.
+
+PATIENT R210
+Alright.
+
+DOCTOR R210
+To make sure you don’t need to take any more of those okay and then um we'll check to see how your @@@ have been doing as well and how your kidneys are doing as well.
+
+PATIENT R210
+Alright.
+
+DOCTOR R210
+And I think that's about it really @@@.  Yeah and uh make sure your liver tests are okay.  . @@@.
+
+PATIENT R210
+Alright.
+
+DOCTOR R210
+Uh do you have any questions for me?
+
+PATIENT R210
+No.
+
+DOCTOR R210
+Do you @@@ or anything like that as well?
+
+PATIENT R210
+@@@.
+
+DOCTOR R210
+DOCTOR.  @@@.  
+
+PATIENT R210
+And how is the refill on the strips?
+
+DOCTOR R210
+Um, let's see I'm looking at @@@.
+
+PATIENT R210
+Yeah @@@.
+
+DOCTOR R210
+You've got three, three refills left.
+
+PATIENT R210
+On that.
+
+DOCTOR R210
+Uh-huh.  @@@ order  @@@.  That's okay.
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Do you want to pick them up today or do you want them mailed to you?
+
+PATIENT R210
+They can be mailed.
+
+DOCTOR R210
+Okay.  So the insulin, it does say 7 units before breakfast, lunch and dinner but you have to take it as before you eat okay.
+
+PATIENT R210
+Uh-huh.
+
+DOCTOR R210
+Cause I know you normally eat two meals a day @@@ you don’t eat as much @@@ keep that two.
+
+PATIENT R210
+Alright.
+
+DOCTOR R210
+So do it like that okay.  I'll just change it here.  So everything is going to be mailed to you.  Good.  Well @@@ I’ll be back in a flash, okay.  You got your flu shots this year?
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Okay.  Both of them?
+
+PATIENT R210
+Probably just one.
+
+DOCTOR R210
+The @@@ one?  With uh, everybody under 65, which you aren’t, um we recommend it getting because of your diabetes and stuff, you'd be at a high risk, you know if you do get it.  
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+@@@.
+
+PATIENT R210
+They give me the swine flu.
+
+DOCTOR R210
+Yeah they'll give you the swine flu shot too.
+
+PATIENT R210
+Okay.
+
+DOCTOR R210
+Um so reactions, people’s allergic reactions, the same as @@@ have the flu shot @@@ so the only reason @@@ allergic to eggs or something like that.  If you're able to @@@ I don't expect you’ll have any reactions @@@.
+
+PATIENT R210
+Okay.
+
+DOCTOR R210
+Okay.
+
+PATIENT R210
+Alright.
+
+DOCTOR R210
+Alright.  Give me one second I'll be right back.
+
+PATIENT R210
+Uh-huh.
+
+(DOCTOR OUT:  50:02  DOCTOR IN:  53:24)
+
+DOCTOR R210
+Okay.  So let's look at @@@ what other options there are if it's not the boot.
+
+PATIENT R210
+Uh-huh.
+
+DOCTOR R210
+They said sometimes it can have like with a cast or something similar to that, where it would keep the weight off the foot and the ulcer @@@ because we don't want it turning into something else okay.  And the problem with having that kind of you know ulcer on the foot problems down here @@@.
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+@@@ worry about the healing and the situation and things like that and um you know diabetes makes it a bit hard for heal wounds and things like that in the feet and the fingers and so um what I'd like to do is we’ll get you an appointment back in the foot clinic and we'll see what else they can do for you okay.  Cause we've got to keep the weight off.  I don't want it turning into this big fat ugly thing that, you know that requires potentially cutting it off and getting rid of it, we don’t want that, okay.
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Alright so we'll send you back to them and I'll see you again in three weeks okay.
+
+PATIENT R210
+Alright.
+
+DOCTOR R210
+They can actually make that appointment out front.  And I just want to make sure that this is the correct number to reach you at NUMBER?
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Um if there’s an answering  machine or something like that.  @@@ get the lab if you wanted @@@ or we need to make adjustments to anything I'll give you a call; otherwise you know it will take about a week for everything to come back, if you don't hear from me then everything is good.
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Does that sound like a plan?
+
+PATIENT R210
+Yeah.
+
+DOCTOR R210
+Then let's do this.  All your meds are in and order the lab and that's it unless you have any other questions.
+
+PATIENT R210
+No.
+
+DOCTOR R210
+Oh.  And @@@.
+
+PATIENT R210
+You want me to come in for the uh.
+
+DOCTOR R210
+The labs.
+
+PATIENT R210
+Labs.
+
+DOCTOR R210
+Yes and I'll put this in the computer to make sure they know what you need.  Okay.
+
+PATIENT R210
+Okay.
+
+DOCTOR R210
+This is for you, it's a list of all your meds and this is for um the lady or woman up front for scheduling.
+
+PATIENT R210
+Okay.
+
+DOCTOR R210
+Okay.
+
+PATIENT R210
+Uh-huh.
+
+DOCTOR R210
+@@@ you take care now and let us you know if anything you know @@@.  I will see you in three months @@@ okay.
+
+PATIENT R210
+Okay.
+
+DOCTOR R210
+Alrighty.  So they can scheduled you for the foot doctor.
+
+PATIENT R210
+Alright thank you.
+
+DOCTOR R210
+Take care now.
+
+PATIENT R210
+Uh-huh.
+
+PATIENT LEAVES:  56:55
+
+10:10
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1255153
+TRANSACTION # 578-10-2-316-0103

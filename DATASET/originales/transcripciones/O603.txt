@@ -1,0 +1,556 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+DOCTOR O603
+PATIENT?
+
+PATIENT O603
+Hi doctor.
+
+DOCTOR O603
+@@@.
+
+PATIENT O603
+How you doing today?
+
+DOCTOR O603
+Good.
+
+PATIENT O603
+Good.
+
+DOCTOR O603
+All the way back.
+
+PATIENT O603
+Alright.
+
+DOCTOR O603
+How's everything going?
+
+PATIENT O603
+Good so far.
+
+DOCTOR O603
+How's the refereeing going?
+
+PATIENT O603
+Excellent, excellent.
+
+DOCTOR O603
+Excellent.
+
+PATIENT O603
+We're doing 502 games last year.
+
+DOCTOR O603
+502?
+
+PATIENT O603
+65 so far this year.
+
+DOCTOR O603
+Gee.
+
+PATIENT O603
+And you may be able to see that my blood pressure is down.
+
+DOCTOR O603
+Yes.
+
+PATIENT O603
+I don't want those cholesterol pills we were talking about.
+
+DOCTOR O603
+You don't want them?
+
+PATIENT O603
+No thanks.
+
+DOCTOR O603
+I thought I started you on them.
+
+PATIENT O603
+Well you told me you put me on something else too.  I thought if I didn't get my cholesterol down yeah.
+
+DOCTOR O603
+Yeah.  Did you start taking that other medicine though?
+
+PATIENT O603
+Yeah I started taking it but I didn't continue.
+
+DOCTOR O603
+Oh so I did two things last time.  I increased your blood pressure medicine.
+
+PATIENT O603
+Yes.
+
+DOCTOR O603
+So you've been taking that increased dose?
+
+PATIENT O603
+Yes, yes.
+
+DOCTOR O603
+And then you didn't take the cholesterol medicine?
+
+PATIENT O603
+No.  They started just making me feel kind of bad at first so.
+
+DOCTOR O603
+In what way?
+
+PATIENT O603
+Just kind of out of sorts.
+
+DOCTOR O603
+Okay.  I wish I'd come last week.  I was even lighter.  I was down to 183 last week.
+
+PATIENT O603
+You were, oh yeah you lost since the last time I saw you.
+
+DOCTOR O603
+Yes sir.  Well losing weight, you probably don't need that medicine then.
+
+PATIENT O603
+I'm just living a little better.
+
+DOCTOR O603
+Good.
+
+PATIENT O603
+My buddy NAME comes over.  I stopped him from coming over with that halftime juice.
+
+DOCTOR O603
+Not fun without alcohol?
+
+PATIENT O603
+No fun no, no.  Having one game and one of the kids asked me hey ref uh whose ball is that so at the time I said whose ball and I thought I don't know, so I had to go ask my partner whose ball is it?  And I said uh uh that's it.  You know when you really kind of a nondrinker you shouldn't mess with stuff like jam.
+
+DOCTOR O603
+Yeah it's better not to drink.
+
+PATIENT O603
+Dinner wine is okay?
+
+DOCTOR O603
+Huh, yeah, yeah.
+
+PATIENT O603
+Okay.
+
+DOCTOR O603
+How's the knee going?
+
+PATIENT O603
+Oh about the same.
+
+DOCTOR O603
+How often are you using the pain med?
+
+PATIENT O603
+Uh oh probably once a week.
+
+DOCTOR O603
+Okay.
+
+PATIENT O603
+And then my prescription ran out.  I was so surprised I went on to my Healthy Vet to order the naproxen and it was not there anymore.
+
+DOCTOR O603
+Alright.  I'll see if we can renew it.
+
+PATIENT O603
+Now I understand.
+
+DOCTOR O603
+How many, so you're taking it once a week.  How many pills do you usually take, is it like once a week?
+
+PATIENT O603
+Uh at least two and sometime I take two every four or six hours and if I keep that up for a day or so, maybe a day and a half I don't have any problem for a few weeks.
+
+DOCTOR O603
+So. The naproxen, you’re only supposed to take that twice a day.  And don't take so much, okay.
+
+PATIENT O603
+Okay.
+
+DOCTOR O603
+I mean don't take any more because it could hurt your kidneys.
+
+PATIENT O603
+Sure.
+
+DOCTOR O603
+Your stomach, your kidneys, all that stuff.  If you need more, just take the Tylenol or something with it then okay.
+
+PATIENT O603
+Okay.
+
+DOCTOR O603
+But the naproxen take it twice a day or if you want to take it.
+
+PATIENT O603
+Well I don't take it every day.
+
+DOCTOR O603
+I know, I know, but when you do, just take it twice.
+
+PATIENT O603
+Okay.
+
+DOCTOR O603
+And it lasts a long time.
+
+PATIENT O603
+It does.
+
+DOCTOR O603
+That's why it’s twice a day.  If you wanted something more often you can just take regular Advil or ibuprofen or something.
+
+PATIENT O603
+That's what I've been doing, since I been out of this for.
+
+DOCTOR O603
+Has that been working?
+
+PATIENT O603
+A couple of months.
+
+DOCTOR O603
+Ibuprofen.
+
+PATIENT O603
+Yeah.
+
+DOCTOR O603
+Okay, so let's keep doing that then okay.
+
+PATIENT O603
+Well actually I haven't been taking, what's the brand name for naproxen?
+
+DOCTOR O603
+Aleve.
+
+PATIENT O603
+Aleve.
+
+DOCTOR O603
+Oh I see, so you can take that twice a day.  You want me to give you some Tylenol or something, try that.  Prevent any @@@ issues.  You need refills on any other meds?
+
+PATIENT O603
+Yes.  Uh my blood pressure medicines I probably got at least another month, close to a month on those.  Uh happy pills, I've been out for a long time of those.
+
+DOCTOR O603
+You need more?
+
+PATIENT O603
+Yeah.
+
+DOCTOR O603
+Take off your jacket for me.  Can you stiffen the arm for one second?  Deep breath.  No chest pain, shortness of breath, no other problems, urinary, bowel problems?
+
+PATIENT O603
+Well you know I @@@.
+
+DOCTOR O603
+Alright.
+
+PATIENT O603
+And at one point I was seeing some blood then I found out that I had scratched myself with some tissue and it wasn't coming from @@@ it was on the outside.
+
+DOCTOR O603
+Were straining a lot?
+
+PATIENT O603
+I was yeah, yeah.  I've been straining a lot, yeah.  Yeah that's kind of a constant @@@.
+
+DOCTOR O603
+Do you have a lot of fiber in your diet?
+
+PATIENT O603
+Probably all kinds @@@.  I don't know that I eat a lot of rice. I love rice.
+
+DOCTOR O603
+Brown rice has more fiber than white rice.
+
+PATIENT O603
+I do have some brown rice.
+
+DOCTOR O603
+So eat brown rice, that's better.
+
+PATIENT O603
+Okay.
+
+DOCTOR O603
+Eat wheat bread instead of white better.
+
+PATIENT O603
+Okay I'll start eating wheat bread.
+
+DOCTOR O603
+It's the kind of eating foods like vegetables, fruit, they all have fiber.
+
+PATIENT O603
+I eat a lot of fruit uh, a lot of vegetables and I have been eating a lot of tomatoes and cucumbers, almost daily and maybe last two weeks.  I kind of thought that was.  Well this is what's happened about @@@ and when it's time for me to go to the bathroom sometime it's so intense that I almost don't make it to the toilet.
+
+DOCTOR O603
+How often do you go to the bathroom?  Do you know?
+
+PATIENT O603
+Four times a day at least and that's the normal and has been all my life.
+
+DOCTOR O603
+Having @@@ urinating or stool?
+
+PATIENT O603
+Bowel movements.
+
+DOCTOR O603
+Four bowel movements a day?  I mean is it diarrhea or is it hard?
+
+PATIENT O603
+It's mixed.  It's not diarrhea.
+
+DOCTOR O603
+Well let me try you on a stool softener then to make sure you're not constipated.
+
+PATIENT O603
+You know I really don't feel constipated.  It's just I guess when I do go like, it's just I have to try to make sure that everything gets out.
+
+DOCTOR O603
+Don't do that okay.  Relax, don't strain. Straining will cause hemorrhoids and @@@ and then you get hemorrhoids and bowels movements are painful will cause fissures and then it really can go down @@@ okay.  So try to get a lot more fiber in your diet and then don't strain.
+
+PATIENT O603
+I @@@.
+
+DOCTOR O603
+Well you know anything that has high fiber.  You can even just take some fiber supplements if you want.  @@@ it's better to do that okay.  
+
+PATIENT O603
+Uh that's.
+
+DOCTOR O603
+Yeah no that's fine.
+
+PATIENT O603
+The main thing I wanted to talk to you about there's so many times well actually a couple months ago I would take off my underwear and it's like you know I got kind of stains like I been leaking and I know I don't have a gallbladder anymore. I had it removed in 2000. I don't know if that's from too much fat intake but I was told that's why.  I eat really low caffeine, no fat diet @@@.
+
+DOCTOR O603
+And you think you're making it to the bathroom whenever you go?
+
+PATIENT O603
+Generally I do but there have been some times, twice, three times that I didn't get there.
+
+DOCTOR O603
+Has this been going on for a long time?
+
+PATIENT O603
+I thought I could sit down.  Yes so I try not to eat when we're going out to make sure if there's a bathroom I can use cause usually right after I eat uh I have to go sometimes within 15 minutes.
+
+DOCTOR O603
+If this has been going on @@@.
+
+PATIENT O603
+Okay.
+
+DOCTOR O603
+@@@ too.
+
+PATIENT O603
+Well this has been going on probably since, twenty years or so, so that’s why I thought it was regular for me.
+
+DOCTOR O603
+Well let's do this, try to eat a lot more fiber.  Take, find some supplements and take them a couple times a day and if it's still happening next time we'll refer you to GI and they can do some testing and check your sphincter and that kind of thing, if you're not as tight @@@.
+
+PATIENT O603
+Yeah.
+
+DOCTOR O603
+You don't control it as well.
+
+PATIENT O603
+Yeah that's what I was thinking.
+
+DOCTOR O603
+Any weakness or anything.  Problems urinating or anything like this?  So just try the fiber for now and I'll put in a stool softener here to try making it @@@.  Okay.
+
+PATIENT O603
+Alright.  I was just concerned about the leaking. You know, why is it @@@.  For the last week or so I haven't had the problem.
+
+DOCTOR O603
+Yeah.  @@@.
+
+PATIENT O603
+Now with the gallbladder, it was explained to me that my gallbladder surgeon as sort of called it a “grease trap.” @@@ Is that correct?
+
+DOCTOR O603
+@@@ grease trap @@@ helps digest it better.
+
+PATIENT O603
+So, without one if I eat anything greasy, I don’t eat fried foods anymore @@@.
+
+DOCTOR O603
+That's fine.  Maybe it will come out of your stool sometimes but that shouldn't affect whether you know have any @@@.
+
+PATIENT O603
+It's embarrassing.  You around guys and you have to change clothes for wrestling in the locker room and I quick pull out, I stopped wearing white underwear @@@.
+
+DOCTOR O603
+@@@.
+
+PATIENT O603
+But it's kind of embarrassing often times.
+
+DOCTOR O603
+Well try this and if it doesn’t work, we'll send you to the GI doctors okay @@@. I'll be right back.
+
+PATIENT O603
+Okay.
+
+(DOCTOR OUT:  34:02  DOCTOR IN:  35:15)
+
+DOCTOR O603
+Alright sir. So actually this will probably uh we'll see you in six months.
+
+PATIENT O603
+Yeah.
+
+DOCTOR O603
+Or sooner if you're having @@@.
+
+PATIENT O603
+I thought I'd come in three.  You know I always have to come back in three months because one of my prescriptions runs out every 90 days.
+
+DOCTOR O603
+Now do you.  There's refills though.  We always give you three refills.
+
+PATIENT O603
+Okay.
+
+DOCTOR O603
+You know @@@.  If you want @@@.
+
+PATIENT O603
+Well what I was wondering, I don't get refills on the happy pills.
+
+DOCTOR O603
+Uh.
+
+PATIENT O603
+Okay.  I mean I do and they generally send them automatically.
+
+DOCTOR O603
+Yeah you have three refills.
+
+PATIENT O603
+Okay.
+
+DOCTOR O603
+So you get two pills with three refills.
+
+PATIENT O603
+Okay.  So after 90 days, after three months then that one's gone by the wayside.
+
+DOCTOR O603
+So technically, this is.  But technically you're only allowed two pills a month.
+
+PATIENT O603
+Oh I understand that.  But I'm saying that.
+
+DOCTOR O603
+Actually two pills, uh so you need the happy pills, that's the reason you come back every three months.
+
+PATIENT O603
+Right, yeah it's in three months.  You know if there was another way but they say you always have to see a doctor before you.
+
+DOCTOR O603
+Then @@@.
+
+PATIENT O603
+Okay.
+
+DOCTOR O603
+And @@@.
+
+PATIENT O603
+Alright.
+
+DOCTOR O603
+So then um you come back in six months, this is the last time you'll see me cause I'm leaving in June alright.
+
+PATIENT O603
+Oh man.  Where you going?
+
+DOCTOR O603
+I don't know yet.  I might like to stay and just do like hospital medicine here.
+
+PATIENT O603
+Okay.
+
+DOCTOR O603
+Or somewhere else.
+
+PATIENT O603
+Maybe you'll still be in the VA System?
+
+DOCTOR O603
+Maybe I don't know yet.  I just know I'm interviewing and stuff like that.
+
+PATIENT O603
+Trying to make some money now.  Okay.
+
+DOCTOR O603
+You know I know it's @@@.
+
+PATIENT O603
+Okay, alright well congratulations.  It's been great.
+
+DOCTOR O603
+Yeah good luck.  Hope I did you good so.
+
+PATIENT O603
+You did, you did.  I liked having you as my doctor.  You know, always did feel comfortable talking.
+
+DOCTOR O603
+Yeah.
+
+PATIENT O603
+You know some guy things you don't want to talk about with anyone.
+
+DOCTOR O603
+Oh that's why I'm a doctor right.
+
+PATIENT O603
+Yeah that's right.
+
+DOCTOR O603
+@@@.
+
+PATIENT O603
+Yeah okay.
+
+DOCTOR O603
+@@@.
+
+PATIENT O603
+Alright doctor, yeah it's been great.  I hope I do get to see you, take care now.
+
+DOCTOR O603
+Okay take care thank you.
+
+PATIENT O603
+This way out.  Good.
+
+DOCTOR O603
+Take care.
+
+PATIENT O603
+Alright.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255182
+TRANSACTION # 578-10-2-316-0103

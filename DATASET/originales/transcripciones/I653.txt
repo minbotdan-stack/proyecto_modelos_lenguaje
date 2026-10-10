@@ -1,0 +1,365 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR I653 
+PATIENT?
+
+PATIENT I653
+Yeah.
+
+DOCTOR I653
+I'm DOCTOR.  @@@.  Tell me what brings you in here today.
+
+PATIENT I653
+@@@ primary doctor, I don't know why @@@.  You know @@@.
+
+DOCTOR I653
+What's that?
+
+PATIENT I653
+I didn't have a primary doctor.
+
+DOCTOR I653
+It looks like you do, DOCTOR.
+
+PATIENT I653
+Well I, I, oh just go ahead.
+
+DOCTOR I653
+What's that?
+
+PATIENT I653
+@@@.
+
+DOCTOR I653
+Uh well what I can tell you is unfortunately they probably shouldn't have set you up with me uh.
+
+PATIENT I653
+Because.
+
+DOCTOR I653
+I'm leaving in three months uh so.
+
+PATIENT I653
+I think that's a problem.
+
+DOCTOR I653
+What's that?
+
+PATIENT I653
+@@@ problem.
+
+DOCTOR I653
+Yeah uh, is there anything I can do for you today?
+
+PATIENT I653
+Well @@@ patches, @@@ blotches.
+
+DOCTOR I653
+Let's see when you last saw DOCTOR.  I apologize.
+
+PATIENT I653
+No problem.
+
+DOCTOR I653
+They uh, they probably shouldn't of set you up with me.  I know you've got a lot of issues um, unfortunately I'll be gone by the time we would.
+
+PATIENT I653
+You're going to practice medicine?
+
+DOCTOR I653
+Yeah I'm actually going to do just inpatient stuff, like if you were admitted to the hospital and I'm moving to Kansas City.
+
+PATIENT I653
+Nice.
+
+DOCTOR I653
+Uh I'd be happy to see you again but I'm leaving.  I don't want you to think that I'm bailing on you uh it's just a glitch in in the system @@@.
+
+PATIENT I653
+Right.
+
+DOCTOR I653
+They're going to set you up with who's gonna be here longer uh.  Okay let's just kind of go over your stuff real quick to see if there's anything I can help you with, if you'll just bear with me for a moment uh.  Alright any uh chest pains?
+
+PATIENT I653
+Once every while over here.
+
+DOCTOR I653
+And is that new?
+
+PATIENT I653
+Yes.
+
+DOCTOR I653
+How long has that been going on for?
+
+PATIENT I653
+For just a few months.
+
+DOCTOR I653
+Now do you have a cardiologist?  A heart doctor?
+
+PATIENT I653
+No.
+
+DOCTOR I653
+And you had a, you've had a bypass.
+
+PATIENT I653
+Yes.
+
+DOCTOR I653
+And when do you feel that pain?
+
+PATIENT I653
+I don't know it just comes in.
+
+DOCTOR I653
+And what's it feel like?
+
+PATIENT I653
+Like a deep pain, just a deep, like somebody.
+
+DOCTOR I653
+How long does it last?
+
+PATIENT I653
+A couple seconds, I don't even know how long.
+
+DOCTOR I653
+Any trouble breathing, nausea, vomiting, anything like that?
+
+PATIENT I653
+No.
+
+DOCTOR I653
+Does it ever move around?
+
+PATIENT I653
+Yeah I always move, I mean how do you ever just sit and just, but I got back problems though.
+
+DOCTOR I653
+You know this couple of seconds pain, is it kind of sharp?
+
+PATIENT I653
+Yes.
+
+DOCTOR I653
+Yeah that's typically uh musculoskeletal pain.
+
+PATIENT I653
+Uh-huh.
+
+DOCTOR I653
+It doesn't really sound uh cardiac uh I mean it doesn't sound like that's coming from your heart.
+
+PATIENT I653
+Good.
+
+DOCTOR I653
+You're on aspirin, citalopram, hydrochlorothiazide, metformin, omeprazole, simvastatin, Valsartan.
+
+PATIENT I653
+Them are just goes up for blood pressure?
+ 
+DOCTOR I653
+Valsartan and hydrochlorothiazide.  And are you taking carvedilol Coreg?
+
+PATIENT I653
+Yes.
+
+DOCTOR I653
+It looks like some of these expired; I can try and reorder a bunch of them for you.  Your blood sugar looks pretty well controlled, that was quite a while ago, that was September.  So we want to get repeat blood work on you before you see your next doctor.
+
+PATIENT I653
+Okay.
+
+DOCTOR I653
+Okay, I'll reorder that Coreg to make sure you get that uh.  You're on Plavix as well?
+
+PATIENT I653
+Yes.
+
+DOCTOR I653
+And you're wearing a BiPAP machine, CPAP machine?  And you're not smoking?
+
+PATIENT I653
+No.
+
+DOCTOR I653
+Are you on the bupropion?
+
+PATIENT I653
+Yeah it's the pain medicine.  I have back pain.
+
+DOCTOR I653
+No this is a medication for smoking.
+
+PATIENT I653
+Oh @@@.
+
+DOCTOR I653
+Okay.
+
+PATIENT I653
+No I'm done, getting too old.
+
+DOCTOR I653
+Your thyroid function is normal.  Okay, have a seat up here.  Take a few deep breaths.  Just breathe normally.  So you know looking at your stuff here, I would continue the same medications for now.
+
+PATIENT I653
+Yeah.
+
+DOCTOR I653
+Um, really I think the thyroid function looks good, that was all normal from today.  We don't need to change anything for now.  Otherwise we'll need to have you, unfortunately, get another doctor.  I apologize.
+
+PATIENT I653
+No need to apologize.
+
+DOCTOR I653
+If I would have known that's why you were coming in I would have tried to change things but uh I didn't know.
+
+PATIENT I653
+No problem.  @@@.
+
+DOCTOR I653
+Um is there anything else I can do for you?
+
+PATIENT I653
+No everything is fine doc.
+
+DOCTOR I653
+Well let's try and set you free here.  
+
+PATIENT I653
+I’m so sleepy, why is that?  I'm supposed to be using @@@.  Sometimes I just go to sleep eight hours, I'm perfectly fine, no problems and yesterday I was shopping with my wife, sleeping in the car and I @@@, I was sleeping, why is that?
+
+DOCTOR I653
+Now are you wearing the CPAP the entire time at night?
+
+PATIENT I653
+No.
+
+DOCTOR I653
+That machine.
+
+PATIENT I653
+Right no.
+
+DOCTOR I653
+How long do you wear it?
+
+PATIENT I653
+Sometimes I just kind of rip it, I would say.
+
+DOCTOR I653
+Right.
+
+PATIENT I653
+But I would say six months it was perfect and I didn't change any.
+
+DOCTOR I653
+Um that I mean that is likely why you've got this obesity hypoventilation syndrome uh so it's very important that you wear that CPAP.
+
+PATIENT I653
+Okay.
+
+DOCTOR I653
+You know other things could be thyroid problems but we just got your blood work today and that looks okay.  So you know the most.
+
+PATIENT I653
+Now that's just my question.  I don't why, is it something like being tired.  Cause everything is the same every day.
+
+DOCTOR I653
+The thing with your diagnosis and this obesity hypoventilation syndrome, that's one of the symptoms.  Uh it's just daytime fatigue, the sleepiness.  So if you don't wear the CPAP the entire time, you know if you're wearing your CPAP all day and all night then we would say maybe we need to look into other things.
+
+PATIENT I653
+Yes.
+
+DOCTOR I653
+But even then you could still have symptoms because you're not, you're gas exchange isn't normal.
+
+PATIENT I653
+Uh-huh.
+
+DOCTOR I653
+@@@ and it gets worse at night and when that happens, your CO2 starts to build up.  
+
+PATIENT I653
+Right.
+
+DOCTOR I653
+Your carbon dioxide starts to build up and you start feeling sleepy uh, so that's why it's important to keep that CPAP on because that will help maintain the normal level of carbon dioxide uh while you may still sleep well at night without it, you're gonna be sleepy during the day if those levels are high.  So that's why it's important to wear that mask uh.
+
+PATIENT I653
+But it's not every day.  For the last three or four days I've been, I bet you it'll be a couple more days and then I'll be normal again.
+
+DOCTOR I653
+You know I still think that's probably the.
+
+PATIENT I653
+@@@.
+
+DOCTOR I653
+Otherwise you know, from what I know about you and examining you, it's not clear.  That's the far and away the most likely culprit.
+
+PATIENT I653
+It seems like, it seems like after my open heart surgery, six months later I was passing out, passing out, passing out, right, so I say doctor I think something's wrong.  I had to go to the hospital like @@@ weeks.  They couldn't figure out anything so you know what I did, I stopped taking the @@@ then it disappeared.  @@@ is a medicine, some kind of a reaction and still doctors are worrying me.  I said doctor that's what it is.  I said, you see what happened I took the medicine right at home and I could see after 15 minutes @@@ it could go down.  
+
+DOCTOR I653
+Yeah that's.
+
+PATIENT I653
+Okay and then I could @@@ like my head is turning @@@.
+
+DOCTOR I653
+Yeah.
+
+PATIENT I653
+And I passed out and was in the hospital for weeks, you know they couldn’t find anything wrong.  So @@@ I stopped taking medicines bang, I've @@@.
+
+DOCTOR I653
+So uh, it sounds like you're having allergic reactions.
+
+PATIENT I653
+Something yeah.
+
+DOCTOR I653
+You know you've been on all these other medicines for a while too, so that shouldn't be uh.
+
+PATIENT I653
+No but that was like eight years ago.
+
+DOCTOR I653
+Yeah.
+
+PATIENT I653
+Then I stopped taking, stopped taking the vitamin everything is fine.
+
+DOCTOR I653
+We'll get repeat blood work and uh you'll see a new doctor.
+
+PATIENT I653
+Uh-huh.
+
+DOCTOR I653
+Once again I apologize.
+
+PATIENT I653
+Alright.
+
+DOCTOR I653
+That it was scheduled. Uh if there's anything I can do to help you, let me know.
+
+PATIENT I653
+Thank you, have a nice day doctor.
+
+PATIENT LEAVES:  84:27
+
+Time is 4:25.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249436
+TRANSACTION # 578-10-2-316-0103

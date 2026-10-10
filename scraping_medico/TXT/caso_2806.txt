@@ -1,0 +1,34 @@
+Sample Name: Uncontrolled Type 2 Diabetes and Hypothyroidism Management
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Endocrinology consultation for uncontrolled type 2 diabetes, hypothyroidism treatment, insulin regimen, GLP-1 therapy, and diabetes management.
+
+(Medical Transcription Sample Report)
+
+CHIEF COMPLAINT: Poor blood sugar control and persistent fatigue.
+
+HISTORY OF PRESENT ILLNESS: The patient is a 55-year-old male with a 10-year history of type 2 diabetes mellitus who presents for evaluation of poorly controlled blood glucose despite multiple medications. He reports polyuria, polydipsia, blurred vision, and weight gain over the past several months. Home glucose readings are frequently above 220 mg/dL, and his most recent hemoglobin A1c was 9.4%. He is also being treated for hypothyroidism but complains of fatigue, cold intolerance, and difficulty losing weight, raising concern for inadequate thyroid hormone replacement.
+
+PAST MEDICAL HISTORY: Type 2 diabetes mellitus, hypothyroidism, hyperlipidemia, hypertension, obstructive sleep apnea.
+
+MEDICATIONS: Metformin 1000 mg twice daily, Glimepiride 4 mg daily, basal insulin at bedtime, Levothyroxine 75 mcg daily, Atorvastatin 20 mg nightly, Lisinopril 10 mg daily.
+
+PHYSICAL EXAMINATION: Body mass index 32 kg/m². Blood pressure 142/86 mmHg. No thyromegaly or neck masses. Cardiovascular and pulmonary exams are normal. Decreased sensation to monofilament testing in both feet consistent with early diabetic neuropathy. No foot ulcers.
+
+INVESTIGATIONS: Hemoglobin A1c 9.4%. Fasting lipid profile elevated with high LDL and triglycerides. TSH level mildly elevated, suggesting suboptimal hypothyroidism treatment. Urine microalbumin is positive, indicating early diabetic nephropathy.
+
+ASSESSMENT:
+1. Uncontrolled type 2 diabetes mellitus with early microvascular complications.
+2. Inadequately treated hypothyroidism.
+3. Obesity, dyslipidemia, and hypertension increasing cardiovascular risk.
+
+PLAN:
+1. Intensify diabetes treatment by optimizing basal-bolus insulin regimen, reinforcing dietary counseling, carbohydrate counting, and regular blood glucose monitoring.
+2. Consider addition of a GLP-1 receptor agonist for improved glycemic control, weight loss, and cardiovascular benefit.
+
+3. Adjust Levothyroxine dose upward with repeat TSH testing in 6 to 8 weeks to ensure adequate thyroid treatment.
+4. Initiate or optimize cholesterol management with high-intensity statin therapy and reinforce blood pressure targets according to current endocrinology guidelines.
+5. Provide patient education on foot care, annual dilated eye examinations, and lifestyle modifications including diet, exercise, and weight reduction as part of comprehensive diabetes management.

@@ -1,0 +1,27 @@
+Sample Name: General Medicine Followup - Multiple Concerns
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Chronic back pain, hepatitis C, reflux symptoms, and referral requests after a prolonged lapse in care.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient returns after more than one year without follow-up and reports having been incarcerated during that interval. He requests renewal of ibuprofen 800 mg for chronic back pain and treatment for worsening reflux, particularly when lying down. He wishes to reestablish substance abuse services and requests Liver Clinic evaluation for hepatitis C. He also needs replacement eyeglasses, treatment of recurrent foot calluses, and evaluation of erectile dysfunction. He reports that he has stopped smoking and consuming alcohol. He has been off most prescribed medications, and his blood pressure is mildly elevated today. He reports poor dentition and interest in dental services.
+
+PAST MEDICAL HISTORY: Hepatitis C, hypertension, chronic back pain, gastroesophageal reflux, foot calluses, and substance use history.
+
+PHYSICAL EXAMINATION: No abdominal tenderness elicited during the examination. The patient denies leg edema. Blood pressure is above goal.
+
+ASSESSMENT AND PLAN:
+1. Hypertension: Restart antihypertensive medication and arrange a nurse blood pressure check after treatment initiation.
+2. Chronic back pain: Refill ibuprofen 800 mg as discussed.
+3. Reflux: Start an acid-suppressing medication before bedtime, with possible twice-daily use if needed.
+4. Hepatitis C: Refer to Liver Clinic to review candidacy for antiviral treatment.
+5. Substance use: Refer to addictions intake program; encouraged continued abstinence.
+6. Eye and foot care: Ophthalmology and Podiatry/nail-care appointments requested.
+7. Erectile dysfunction: Prescription to be mailed; obtain laboratory testing as discussed.
+8. Dental concerns: Referred to Admitting for eligibility determination.
+
+Obtain updated blood tests. Follow up in one month.

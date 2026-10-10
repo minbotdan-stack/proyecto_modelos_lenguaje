@@ -1,0 +1,1587 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+FIRST DOCTOR A980 
+PATIENT?
+
+PATIENT A980 
+Yeah.
+
+FIRST DOCTOR A980
+Okay, @@@.
+
+PATIENT A980
+Oh I see.
+
+FIRST DOCTOR A980
+So how are you?
+
+PATIENT A980
+Oh dying.
+
+FIRST DOCTOR A980
+Dying oh no, no, no.
+
+PATIENT A980
+Little bit at a time.
+
+FIRST DOCTOR A980
+How's that?
+
+PATIENT A980
+Little bit of the time.
+
+FIRST DOCTOR A980
+Well we all are aren't we?
+
+PATIENT A980
+I suppose.
+
+FIRST DOCTOR A980
+Um so I'm just trying, DOCTOR he's in the room right now sitting in the corner.  He's doing a sort of research for Hines VA Hospital where he's just observing and seeing you know what we work on and improve things.
+
+PATIENT A980
+Uh-huh.
+
+FIRST DOCTOR A980
+So he's just sort of gonna be observing our interactions.
+
+PATIENT A980
+That's alright.
+
+FIRST DOCTOR A980
+Right through here.  There he is.
+
+PATIENT A980
+Oh okay sure.
+
+FIRST DOCTOR A980
+DOCTOR nice to meet you.
+
+SECOND DOCTOR A980
+Alright.  I'm just gonna hang out in the corner okay?
+
+PATIENT A980
+Alrighty.  Oh.
+
+FIRST DOCTOR A980
+Alright PATIENT how is everything going?
+
+PATIENT A980
+Uh, just got out of the hospital last month.  I had pneumonia.
+
+FIRST DOCTOR A980
+Okay and are you feeling okay since then?  Feeling better recently?
+
+PATIENT A980
+Well, when I was going to therapy on my left leg here for eight weeks.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+Strengthen my leg.  I've been having trouble getting up and down the stairs and now the thing is getting worse again.  This leg is swollen compared to this one.
+
+FIRST DOCTOR A980
+Okay.  So is that what's bothering you the most right now?  The pain in the leg?  Swelling.
+
+PATIENT A980
+Well, just arthritis and then you know they told me years ago I had this pinched nerve in the middle of my back and I've been getting a lot of pain in my back.
+
+FIRST DOCTOR A980
+Uh-huh.
+
+PATIENT A980
+And I've been going to the chiropractor twice a week.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+And uh I mean it helped for a short time and then it always just goes right back to what has so, I don't know if this thing is you know they told me at the time oh it's not serious enough to operate or nothing.  You know just stand the pain and uh you know keep up with it as long as you can.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+So I don't know how that's going.
+
+FIRST DOCTOR A980
+Well, let me ask you.  Do you feel like the pain is still something you can tolerate or not?
+
+PATIENT A980
+Well I can tolerate the pain but I don't know, I have this pain here and just on this left side.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+And it feels a little swollen on my back here and the pain goes all the way through to my abdomen.
+
+FIRST DOCTOR A980
+Now is that new?
+
+PATIENT A980
+That's been going on for about three months.
+
+FIRST DOCTOR A980
+Three months okay.  Um let's see, you last saw DOCTOR in December of last year.
+
+PATIENT A980
+Yeah.
+
+FIRST DOCTOR A980
+And you know I was reading through his note and you do have significant degenerative changes in the spine and I'm sure you know that.  You had that uh sort of a trauma back in 2007 and since.
+
+PATIENT A980
+Well you know I've got degenerative arthritis.  I've got arthritis in every joint in my body so you know, I gotta put up with a lot of pain every day so what's the difference you know.
+
+FIRST DOCTOR A980
+Um right now are you still taking this diclofenac?
+
+PATIENT A980
+Yeah.
+
+FIRST DOCTOR A980
+Are you also taking Tylenol?
+
+PATIENT A980
+No Tylenol's off the market so I just been taking aspirin.
+
+FIRST DOCTOR A980
+Tylenol is off the market?
+
+PATIENT A980
+Yeah they pulled it.  They had some mold or something in the tablets or something so they had to pull it.
+
+DOCTOR A980
+Oh really.
+
+PATIENT A980
+Yeah they haven't been on the stands; they haven't been selling it now for six months or so.
+
+FIRST DOCTOR A980
+Okay.  So what are you taking for the pain right now?
+
+PATIENT A980
+Just aspirin every now and then and the diclofenac and that's it.
+
+FIRST DOCTOR A980
+Okay.  How long have you been without the Tylenol?
+
+PATIENT A980
+Well like I said for at least six months anyway.
+
+FIRST DOCTOR A980
+Six months okay.  So yeah that's interesting.  Before we had you on two medications for the pain and now you're only on one so I want to get you back on something to help with that.  Because this is a chronic condition.
+
+PATIENT A980
+Right.
+
+FIRST DOCTOR A980
+Um what I want to ask you though is have you had any new weakness in your legs?
+
+PATIENT A980
+Well just, well I don't well my whole left side is messed up.  My left hip, my knee, everything hurts. 
+
+DOCTOR A980
+Okay.
+
+PATIENT A980
+And it's just; everything seems to be on the left side, even this pain in the back and everything else.  Everything's on the left side.
+
+FIRST DOCTOR A980
+So NAME since this is my first time meeting you, has that always been the case.  Has the left side always been like that?
+
+PATIENT A980
+It seems that way yeah.
+
+FIRST DOCTOR A980
+Okay, alright.  But has your leg been giving out underneath you?
+
+PATIENT A980
+Uh well, sometimes it hasn't really given out but sometimes it feels like it's gonna bend in the other direction.  You know it just hurts real, sharp pain in the knee or something you know.
+
+FIRST DOCTOR A980
+Have you had any problems with falls in the last year?
+
+PATIENT A980
+No except I got up in the middle of the night to go to the bathroom like I usually do because I got an enlarged prostate you know so.  I fell asleep on the john.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+I was there for an hour and a half and then I tried to stand up and my left leg wouldn't work anymore.
+
+FIRST DOCTOR A980
+Okay.  An hour and a half on the toilet will do that.
+
+PATIENT A980
+Yeah I guess so.
+
+FIRST DOCTOR A980
+Alright so no falls.  Do you use a cane or a walker?
+
+PATIENT A980
+No.
+
+FIRST DOCTOR A980
+Or anything like that?
+
+PATIENT A980
+No, no.
+
+FIRST DOCTOR A980
+Do you have a problem climbing stairs?
+
+PATIENT A980
+Well I was, like I said I was having trouble before when I was going for therapy.  I was having trouble going upstairs and that's where our bathroom and bath is and everything, it's upstairs so I have to get up there and.
+
+FIRST DOCTOR A980
+Has therapy helped you get better over time?
+
+PATIENT A980
+Oh yeah I was doing good you know with the therapy uh yeah and after eight weeks no then they cleared me and I've been doing the stretching exercises at home and everything and uh just that little climbing the stair bit they had me but I think I should be getting back on the bicycle again because my knee is really starting to bother me again and like I said it's getting swollen.  It's all swollen on this side here like I don't know.
+
+FIRST DOCTOR A980
+Do you know, I'm gonna do, in a little bit I will take a look at the legs.
+
+PATIENT A980
+Yeah.
+
+FIRST DOCTOR A980
+But I think in the meantime it's probably gonna be good to have you get back on the Tylenol and um if you would like I can have you pick up the Tylenol today from the Pharmacy.
+
+PATIENT A980
+Oh they can just mail it to me.
+
+FIRST DOCTOR A980
+Mail it at home okay, that's perfect.
+
+PATIENT A980
+Yeah.
+
+FIRST DOCTOR A980
+So we'll go ahead and do that uh and I will take a look at, I will take a look at the leg in just a minute.  Uh what I also want to do while I have you here is just go over some of your other, sort of more chronic problems, just to sort of touch base, let you know how everything's going.  So the diabetes um I know I read DOCTOR's note that he was actually, he felt that it was well controlled with diet and last time, that's exactly what happened is you made the dietary, the lifestyle changes and your A1c went from 7.1 that's been 2009 down to 6.4 which was in December so that's perfect.
+
+PATIENT A980
+Well I went and had a test this morning.  I don't know if you got any results of it yet but.
+
+FIRST DOCTOR A980
+Yeah I actually put those orders in this morning so I'll go over those as well.  Uh so usually when you are diabetic we like to look at the kidneys to make sure that everything is okay so we took a urine sample this morning and those test results are perfect.  So those numbers look good.  Your diabetes was never really out of control so I don't expect a lot of damage to the kidneys so that's great.  Your A1c today, which just sort of tells us how well your sugars have been controlled over the last few months.
+
+PATIENT A980
+Yeah.
+
+FIRST DOCTOR A980
+Was 6.6 so you were at 7.1 and you controlled it with the diet, it went down to 6.4, now you're at 6.6 which is a good number but I want you to keep working on the dietary changes and being active.
+
+PATIENT A980
+Okay.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+So being active, I ain't too good at being active I'll tell you.
+
+FIRST DOCTOR A980
+I'm hoping that if we get you on something for pain you know we can get you moving around a little bit more.  Going to Physical Therapy I mean that does have @@@.
+
+PATIENT A980
+Well yeah well I'm done with that now and but you know like I said before, well the doctor at Physical Therapy he actually gave me a prescription to go get this test, what a cloda something or other.
+
+FIRST DOCTOR A980
+The, is it an ultrasound to see if there was blood clots in the leg?
+
+PATIENT A980
+Well I forgot what he called it.
+
+FIRST DOCTOR A980
+Oh claudication?
+
+PATIENT A980
+Yeah claudication.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+And up here's somewhere, leading down into my legs.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+Because I told him I don't have any stamina anymore.  You know when we went through the mall we could hit all four stores you know.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+And now I'm lucky if I can do two.
+
+FIRST DOCTOR A980
+Did you have that study done here then?
+
+PATIENT A980
+I didn't have it done at all yet.
+
+FIRST DOCTOR A980
+You didn't have it done at all?
+
+PATIENT A980
+No.
+
+FIRST DOCTOR A980
+See if there's.  This was your doctor outside the VA.
+
+PATIENT A980
+Right.
+
+FIRST DOCTOR A980
+Okay.  That's something @@@.
+
+PATIENT A980
+The therapy place yeah.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+I still have the prescription at home.  I mean you could, he didn't care where I had it done.
+
+FIRST DOCTOR A980
+Okay.  Let me ask you, when you walk do you get a burning cramping pain in your legs?
+
+PATIENT A980
+Well my feet, my feet burn.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+And uh they hurt you know.
+
+FIRST DOCTOR A980
+When you rest how long does it take for that to go away?
+
+PATIENT A980
+Oh pretty quickly.  It doesn't take long.
+
+FIRST DOCTOR A980
+Doesn't take long okay.  When I take a look at your legs I'll sort of see what the pulses feel like and if it looks like that's something you might need done um then we can do it here.  But I'll take a look in just a moment.
+
+PATIENT A980
+Yeah.
+
+FIRST DOCTOR A980
+But just going back to the other lab work that you had done, your electrolytes were fine.  Your lipid panel, you didn't eat this morning right?
+
+PATIENT A980
+No when I took it.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+They told me to fast so.
+
+FIRST DOCTOR A980
+No everything was great.  Triglycerides were fine, cholesterol was great.  Your bad cholesterol was low.  Your good cholesterol was also a little bit low um.  Your liver function tests were okay.  So mainly more or less things look great.  Alright.
+
+PATIENT A980
+Yeah I'm gonna live forever.
+
+FIRST DOCTOR A980
+So let's see, we got the lipids done, so we got the A1c and you know I think for you having your sugars being in the 6.5-7 range is appropriate.
+
+PATIENT A980
+Okay.
+
+FIRST DOCTOR A980
+So you're right there.  I'm not gonna change your medications right now.
+
+PATIENT A980
+Alright.
+
+FIRST DOCTOR A980
+Um the other thing I wanted to talk to you about is the VA has started this new policy where regardless of your past medical history and regardless of your past personal history, they want all veterans to be screened for HIV and it's a simple blood test that we would do.  Since you've already had your labs done today I'll add it on to your next lab draw.
+
+PATIENT A980
+Fine.
+
+FIRST DOCTOR A980
+Is that okay?
+
+PATIENT A980
+I don't care.  I don't have it so I don't care, it doesn't matter to me.
+
+FIRST DOCTOR A980
+Let's go ahead and go through your.
+
+PATIENT A980
+I haven't been sexually active in a long time.
+
+FIRST DOCTOR A980
+Well it's just a policy, they just want to cover and test everyone.  So I want to go over some of the meds that you have at home.  Are you taking the Combivent, the inhaler?
+
+PATIENT A980
+Yeah, no not that, no I just, all I'm taking is the albuterol that's it.
+
+FIRST DOCTOR A980
+Okay.  Just the albuterol by itself?
+
+PATIENT A980
+That's it, nothing else.
+
+FIRST DOCTOR A980
+Okay.  So there's, that inhaler that I'm talking about has two medications in it.  It has albuterol and another medication so we call it a Combivent cause it's a combination.
+
+PATIENT A980
+Uh-huh.
+
+FIRST DOCTOR A980
+So is that the same one or is this?
+
+PATIENT A980
+No it's just the one you put, uh just the albuterol that's all.  I don't even have that on my list what you're talking about.
+
+FIRST DOCTOR A980
+Can I take a look?
+
+PATIENT A980
+Sure.
+
+DOCTOR A980
+Okay it should be the one at a time.
+
+PATIENT A980
+And this is just the albuterol.
+
+FIRST DOCTOR A980
+Okay, oh see this right here, albuterol and then this is ipratropium.
+
+PATIENT A980
+Oh okay, alright.
+
+FIRST DOCTOR A980
+And then it's with the ipratropium.
+
+PATIENT A980
+Alright.
+
+FIRST DOCTOR A980
+Do you use that uh every day?
+
+PATIENT A980
+Yeah uh-huh.
+
+FIRST DOCTOR A980
+How's your breathing been?  Have you had any shortness of breath, cough?
+
+PATIENT A980
+Only when I go out and exert myself.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+You know.  I uh of course that's my own fault anyway.  I go out in the yard and might start something.  I won't quit until I'm done.  I won't even go in the house and get a drink.  I get dehydrated out there and everything else and I'm a big you know.
+
+FIRST DOCTOR A980
+Have you ever had to go to the hospital for breathing problems with that?
+
+PATIENT A980
+No, no.
+
+FIRST DOCTOR A980
+Okay.  Ever had to go to the Emergency Department for breathing problems?
+
+PATIENT A980
+No, no.
+
+FIRST DOCTOR A980
+Okay.  And then um do you feel like your chest was tight or that you were weaker?
+
+PATIENT A980
+No not really uh uh and it doesn't, you know it doesn't wake me up during the night or nothing you know just you know.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+So they told me that I'm a borderline COPD or something whatever.
+
+FIRST DOCTOR A980
+Okay, then it looks like it's fairly well controlled.  You've never had any problems.
+
+PATIENT A980
+No.  It doesn't give me any problems at all.
+
+FIRST DOCTOR A980
+Yeah.  So the other thing is you're on a statin which is a medication you take for your cholesterol.
+
+PATIENT A980
+Right.
+
+FIRST DOCTOR A980
+Okay.  And then terazosin which is for the prostate.
+
+PATIENT A980
+Right.
+
+FIRST DOCTOR A980
+Okay.  You're also on a medication called clonazepam.
+
+PATIENT A980
+That's for my restless leg.
+
+FIRST DOCTOR A980
+Yeah restless leg.  And I know DOCTOR talked to you about this in the past, uh sleep apnea and getting a sleep study done.
+
+PATIENT A980
+I had one done a long time ago uh.
+
+FIRST DOCTOR A980
+How long is a long time ago?
+
+PATIENT A980
+Oh God, I was still working then so that had to be maybe 15 years ago may, maybe even later than 20 and that.
+
+FIRST DOCTOR A980
+Okay.  So um I know he talked to you about it in the past but I think that it's an important study to get.
+
+PATIENT A980
+Well uh I don't know what, it'll probably just show the same thing that I have sleep apnea and I uh.
+
+FIRST DOCTOR A980
+Do you have the machine for it?
+
+PATIENT A980
+No I don't use any machines.
+
+FIRST DOCTOR A980
+Okay you don't.  So I think the machine is actually, it's another one of those things where it's just gonna take you a little bit of time to get used to it but once you start using it regularly, not only will your sleeping get better your restless leg will improve.
+
+PATIENT A980
+I don't have any trouble sleeping.
+
+FIRST DOCTOR A980
+You don't?
+
+PATIENT A980
+No I sleep like a log.
+
+FIRST DOCTOR A980
+Do you wake up refreshed in the morning?
+
+PATIENT A980
+I don't know about refreshed but I know I'll get up maybe three times a night to go to the washroom, that's the only thing that wakes me up and as soon as I lay back down boom I'm out like a light.
+
+FIRST DOCTOR A980
+Okay.  Is it only at night that you have to get up to go to the bathroom a lot?  Are you going to the bathroom a lot during the day?
+
+PATIENT A980
+I do.  I go to the bathroom a lot, all day long.
+
+FIRST DOCTOR A980
+All day long okay.
+
+PATIENT A980
+Yeah all day long.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+Uh but like I said I don't have any trouble breathing at night.  It doesn't bother me, doesn't wake me up, it doesn't do anything.  I mean it's never bothered me.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+You know so I don't know why I would need a machine at all.
+
+FIRST DOCTOR A980
+Um I was just, I wouldn't give you the machine, I would just recommend you go back and have the study done to make sure that the sleep apnea is not too severe cause if it is.
+
+PATIENT A980
+The only thing that bothers me uh is if my nose gets stuffed up.
+
+FIRST DOCTOR A980
+Your nose gets stuffed up.
+
+PATIENT A980
+Because I'm a mouth, my nose was busted.  I got, this side is completely closed off as it is.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+So everything drains on this side and it just clogs up.
+
+FIRST DOCTOR A980
+Alright.
+
+PATIENT A980
+And then I have trouble breathing.  I gotta get up and then I'll shoot some of that stuff they gave me to put in my nose and clear it out you know.
+
+FIRST DOCTOR A980
+Okay.  Let's get you to sitting up here; I'll take a look at your legs okay.
+
+PATIENT A980
+But I sleep like I’m dead.
+
+FIRST DOCTOR A980
+@@@,
+
+PATIENT A980
+No I'm serious.  I can't hear anything when I'm sleeping.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+I'm out.
+
+FIRST DOCTOR A980
+I'll just start with the simple stuff.  I just want to listen to your heart, relax now.  Make sure you're not wheezing today.  Any uh chest pain or pressing pain?
+
+PATIENT A980
+No.
+
+FIRST DOCTOR A980
+Any shortness of breath?
+
+PATIENT A980
+No.  Oh boy that sounded good.
+
+FIRST DOCTOR A980
+Alright just breathe normally for right now.  Okay.  I'll just take a listen when you're laying flat.  I'll have you take a deep breath.  Okay.  Again and again.  And again, one more okay.  Sit up for me.  I'll just have you put your shirt over here.  Alright, let me just pull your legs around and I'll lay you flat.
+
+PATIENT A980
+Okay.
+
+FIRST DOCTOR A980
+It's okay, don't be alarmed.
+
+PATIENT A980
+Yeah I know that it's just.
+
+FIRST DOCTOR A980
+While you're standing, try this way.  Good.  
+
+PATIENT A980
+And I also got a hiatal hernia so.
+
+FIRST DOCTOR A980
+Hiatal hernia or a ventral hernia?
+
+PATIENT A980
+Well whatever it is, it's.
+
+FIRST DOCTOR A980
+This right here?
+
+PATIENT A980
+Yeah.
+
+FIRST DOCTOR A980
+Okay, alright.  Have you ever been a smoker PATIENT?
+
+PATIENT A980
+Oh yeah.
+
+FIRST DOCTOR A980
+Are you still smoking?
+
+PATIENT A980
+No.  I quit just over 13 years ago.
+
+FIRST DOCTOR A980
+Good.  You’re telling me the left leg is more swollen?
+
+PATIENT A980
+Oh yeah.
+
+FIRST DOCTOR A980
+Hmm.
+
+PATIENT A980
+Right around the knee.
+
+FIRST DOCTOR A980
+Right around the knee okay.  We may have to ask you to get to drop your pants.
+
+PATIENT A980
+Oh @@@.
+
+FIRST DOCTOR A980
+Go ahead.  Stay as you are right now for just one second.  Alright push my hands away, pull them forward, alright.  Step down on my hands like you're stepping on the gas pedal, good, up the other way.  Go ahead and @@@.
+
+PATIENT A980
+That's more swollen than this one is.
+
+FIRST DOCTOR A980
+You're not having to sit with your legs crossed right?  You alright?
+
+PATIENT A980
+Yeah.
+
+FIRST DOCTOR A980
+Can you lift this knee up off the table?  Lift it up @@@.  Where do you have most of the pain?
+
+PATIENT A980
+Well it seems to be on this side right in here.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+And uh down this calf, the muscle down in this calf.
+
+FIRST DOCTOR A980
+Okay.  Right here?
+
+PATIENT A980
+Yeah about lower, like in front, it just runs down the length of the calf.
+
+FIRST DOCTOR A980
+Okay.  Alright.  Let's go ahead and @@@.  So what I saw in that leg is that usually what happens is if there's problems with the blood vessels um first of all the leg becomes really cold, you start losing hair and the skin starts to thin out over the shins and I don't see any of that.  Uh one is since your diabetes again was never really out of control and you do have a nice pulses behind the knee as well so I'm not too concerned about this being a vascular problem.  I think this is just, based on where you're telling me you have some pain I think it's just arthritis and degenerative changes.
+
+PATIENT A980
+Well yeah he told me that you know, he says you got the growling in your knee it's all you know.
+
+FIRST DOCTOR A980
+Huh, growling in your knee I like that.
+
+PATIENT A980
+Yeah whatever, something like that he said.
+
+FIRST DOCTOR A980
+Okay.  So let's.
+
+PATIENT A980
+Popcorn or something.
+
+FIRST DOCTOR A980
+Let's do this, let's get you back on the Tylenol and see if that helps okay.
+
+PATIENT A980
+Alright.
+
+FIRST DOCTOR A980
+And then we'll keep up with the physical therapy and the exercises okay.
+
+PATIENT A980
+Okay.  But like I said I got that bike at home I can ride and then I do the stretching exercises every day and I do the going down the stairs.
+
+FIRST DOCTOR A980
+You know another thing that will help and it will help the diabetes and it will also help the knee is just continued weight loss.
+
+PATIENT A980
+Oh I'd love to lose weight believe me.
+
+FIRST DOCTOR A980
+So you've been kind of stable for the last two years.
+
+PATIENT A980
+Yeah I know.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+I don't, I don't change weight much at all.
+
+FIRST DOCTOR A980
+Did they ever give you a brochure on the MOVE Program that we have here for veterans?
+
+PATIENT A980
+Yeah they told me something about it.  You know it's just getting here.  I live a long way from here.
+
+FIRST DOCTOR A980
+Okay.  Alright, well I'll give you one more chance to sort of try it on your own and if the weight doesn't get lost then I think we'll try to be a little more aggressive alright.  But then if we get you on the Tylenol I'm hoping that you'll be a little more active.
+
+PATIENT A980
+There's, I'm allergic to fish.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+So I can't eat fish.
+
+FIRST DOCTOR A980
+Allergic to fish.
+
+PATIENT A980
+Yes.
+
+FIRST DOCTOR A980
+Okay.
+
+PATIENT A980
+Everything with me is a Catch 22, I'm telling you cause you know like Naprosyn they said oh that's wonderful for your arthritis, I'm allergic to that.
+
+FIRST DOCTOR A980
+Oh alright.
+
+PATIENT A980
+I can't take it.  I took one Aleve tablet and I was watching TV, said it's great for arthritis.  I said oh I'll go get some.  I took one tablet they took me to the hospital.
+
+FIRST DOCTOR A980
+Okay.  @@@  Um again the last thing for you is just the flu shot that's coming out next week, probably next week so just to make sure you get it when it becomes available.
+
+PATIENT A980
+Oh I got a pneumonia shot while I was in the hospital so you don't have to worry about that.
+
+FIRST DOCTOR A980
+Oh so you already did that okay that's what I was going check on.
+
+PATIENT A980
+Yeah it's all done now but the flu shot that's fine.  I get one every year when I come here so.
+
+FIRST DOCTOR A980
+Alright.  I'm gonna go talk to DOCTOR real quick.
+
+PATIENT A980
+Alright.
+
+FIRST DOCTOR A980
+My supervising physician and make sure that there's not anything else that she wants to discuss with you.  Do you have any questions for me right now?
+
+PATIENT A980
+No not really.  I just uh wish they would take a closer look at these lists every now and then because I called up for my medicine the other day and they said that's expired, that's expired, that's.
+
+FIRST DOCTOR A980
+Which one's expired?
+
+PATIENT A980
+Oh none of them now, they.
+
+FIRST DOCTOR A980
+Oh they're okay now okay.
+
+PATIENT A980
+Yeah.  None of them now they but I'm saying how can they be expired already geez.
+
+FIRST DOCTOR A980
+Okay so I'll be right back okay.  If you think of anything keep it in mind.  You'll have another opportunity to ask all the questions you want.
+
+PATIENT A980
+Alright.
+
+FIRST DOCTOR A980
+Alright.  @@@ take care okay.
+
+PATIENT A980
+You too.  You see I figure he's got to come @@@.
+
+DOCTOR OUT:  36:45    DOCTOR IN:  45:45
+
+THIRD DOCTOR A980
+Good morning.
+
+PATIENT A980
+Hi, how are you?
+
+THIRD DOCTOR A980
+Doing good.  I'm DOCTOR, I'm the attending doctor.
+
+PATIENT A980
+Okay.
+
+THIRD DOCTOR A980
+How are you doing?
+
+PATIENT A980
+Oh not bad.
+
+THIRD DOCTOR A980
+Not bad yeah.
+
+PATIENT A980
+Yeah.
+
+THIRD DOCTOR A980
+Your numbers look good.  The diabetes looks good.  Blood pressure looks good.  Cholesterol you know, for the most part looks good.  Uh your triglycerides and good cholesterol they're a little bit up.
+
+PATIENT A980
+Well like I was telling him, I can't eat fish, I'm allergic to that.
+
+THIRD DOCTOR A980
+Yeah.
+
+PATIENT A980
+You know so.
+
+THIRD DOCTOR A980
+Hmm.
+
+PATIENT A980
+And uh I'm not crazy about fowl.  I'll eat it every now and then but I couldn't make a steady diet out of it no how.
+
+THIRD DOCTOR A980
+Yeah.
+
+PATIENT A980
+
+I'm a meat and potatoes guy and that's it.
+
+THIRD DOCTOR A980
+Meat and potatoes okay.  Um yeah so just cut back.  It's about portion control.
+
+PATIENT A980
+Right.
+
+THIRD DOCTOR A980
+You know cutting back, watching your calories at the end of the day.  You know you need to put in less burn up more and you know create a negative balance right.
+
+PATIENT A980
+Uh-huh.
+
+THIRD DOCTOR A980
+Um and so you can lose some weight, especially you know around the waste area.
+
+PATIENT A980
+Yeah I know.  I would love to lose this believe me.
+
+THIRD DOCTOR A980
+Easier said than done right.  Um but you know, continue to work at it you know.
+
+PATIENT A980
+Well like I was telling him, my arthritis is so bad.
+
+THIRD DOCTOR A980
+Yeah.
+
+PATIENT A980
+You know uh and I just don't have the stamina to go very far anymore.
+
+THIRD DOCTOR A980
+Yeah.
+
+PATIENT A980
+If we go to the mall like I told him, I could go to all four main stores and walk the whole mall, now I can't even do two.
+
+THIRD DOCTOR A980
+Yeah.
+
+PATIENT A980
+You know and it's just, I'm so happy to get back to the car and sit down my legs are hurting so bad you know I just can't, can't do it anymore.
+
+THIRD DOCTOR A980
+Yeah, right, right.  So we want to you know put you back on Tylenol.  The Tylenol is also a very mild pain reliever.
+
+PATIENT A980
+Right.
+
+THIRD DOCTOR A980
+I'm gonna be honest with you, I don't know if it's gonna really doing a lot and help your pain a whole lot.
+
+PATIENT A980
+Oh I don't expect to.
+
+THIRD DOCTOR A980
+But, try it you know, see if it does.  If not we can you know put stronger pain pills like tramadol which is like a narcotic.
+
+PATIENT A980
+Yeah I've had those before but that you know.
+
+THIRD DOCTOR A980
+Tylenol #3, you know Vicodin.
+
+PATIENT A980
+Uh-huh.
+
+THIRD DOCTOR A980
+Um you know those type of pain medicines.
+
+PATIENT A980
+Like I was telling him, anything with Naprosyn in it.
+
+FIRST DOCTOR A980
+He @@@.
+
+PATIENT A980
+I'm allergic to; I can't take anything to do with that.
+
+THIRD DOCTOR A980
+Okay.  So but again try Tylenol.  If it doesn't help because I want you to be active.  You know everything has its balance right.  You don't want to be in too much pain.  At the same time you take so much medication you're getting the side effects and you know, you may be walking like a zombie all the time.  So you have to have a balance.  You take enough pain medicine so you can function.
+
+PATIENT A980
+Okay, I understand.
+
+THIRD DOCTOR A980
+So you are walking better.  You're able to enjoy your life.  You're outdoors you know.
+
+PATIENT A980
+Well you know I do, I do all the grocery shopping.
+
+THIRD DOCTOR A980
+Okay.
+
+PATIENT A980
+You know.
+
+THIRD DOCTOR A980
+Yeah.
+
+PATIENT A980
+And when I'm out it takes me five hours to do the grocery shopping so I'm on my feet for five hours.
+
+THIRD DOCTOR A980
+Hmm.
+
+PATIENT A980
+Straight.
+
+THIRD DOCTOR A980
+Alright.
+
+PATIENT A980
+You know.
+
+THIRD DOCTOR A980
+Yeah, yeah.
+
+PATIENT A980
+So.  I go and even though it was five, I must go to six different stores just cause I'm walking around in there in all the aisles and waiting in line and so I'm on my feet quite a bit.
+
+THIRD DOCTOR A980
+Like a.
+
+PATIENT A980
+You know but that's only one day a week I do that.
+
+THIRD DOCTOR A980
+Yeah.
+
+PATIENT A980
+But then I'm out in the yard doing yard work, picking up you know branches.
+
+THIRD DOCTOR A980
+Yeah.
+
+PATIENT A980
+And everything.
+
+THIRD DOCTOR A980
+Yeah, yeah.  So just do you know a little at a time and just several times a day so at least you're getting some activity, continue doing that so do the same. It looks like you’re doing that.  The problem of sleep apnea, I'm getting the story that you were diagnosed with sleep apnea at some point in your life?
+
+PATIENT A980
+Yeah a long time ago, that was.
+
+THIRD DOCTOR A980
+Was it here?
+
+PATIENT A980
+No that was at uh Presbyterian Hospital I think.  That's when I was smoking way back then you know.
+
+THIRD DOCTOR A980
+Okay.  Did you lose a significant amount of weight since then?
+
+PATIENT A980
+I, like I said I don't have any trouble sleeping at all.  I sleep like a log.
+
+THIRD DOCTOR A980
+Okay.
+
+PATIENT A980
+I don't have any; you know not breathing doesn't wake me up.  Just having to go to the bathroom wakes me up that's it.
+
+THIRD DOCTOR A980
+Okay.
+
+PATIENT A980
+But I slept you know.
+
+THIRD DOCTOR A980
+Do you sleep well?
+
+PATIENT A980
+I slept you know, I sleep.
+
+THIRD DOCTOR A980
+Good sleep.
+
+PATIENT A980
+If I get up to go to the bathroom I can lay down and I'll be back asleep in an instant, poof I'm out.
+
+THIRD DOCTOR A980
+Okay.
+
+PATIENT A980
+You know, I don't have any trouble.
+
+THIRD DOCTOR A980
+How do you feel in the morning?  Do you feel rested?
+
+PATIENT A980
+No not really because I, that's my own fault.  I don't go to bed early.
+
+THIRD DOCTOR A980
+Hmm.
+
+PATIENT A980
+I don't go to bed till almost 1 o'clock in the morning.
+
+THIRD DOCTOR A980
+Uh-huh.
+
+PATIENT A980
+And then I get up at 6, 7.
+
+THIRD DOCTOR A980
+I see.
+
+PATIENT A980
+I got maybe five hours of sleep, that's all I get.
+
+THIRD DOCTOR A980
+Do you fall asleep easily during the day?
+
+PATIENT A980
+Oh yeah.
+
+THIRD DOCTOR A980
+@@@.
+
+PATIENT A980
+I sit in the chair.
+
+THIRD DOCTOR A980
+Do you ever feel like, if you @@@ then you would fall asleep right?
+
+PATIENT A980
+Well not no, not if I'm waiting for something I'll stay awake you know.
+
+THIRD DOCTOR A980
+You do.
+
+PATIENT A980
+But if I'm, if I'm sitting there trying to read.
+
+THIRD DOCTOR A980
+Uh-huh.
+
+PATIENT A980
+Or do a crossword puzzle I'll just nod off you know.
+
+THIRD DOCTOR A980
+You doze off okay.  The reason we are testing that is it's not, it's because sleep apnea it's just not, it's not just about not able to sleep.
+
+PATIENT A980
+Uh-huh I know.
+
+THIRD DOCTOR A980
+So people may feel they're getting good sleep and still can have profound severe sleep apnea.  They may not realize it.  The only symptom they know is why am I not getting you know why don't I feel rested you know.
+
+PATIENT A980
+No I don't feel rested because I don't get enough sleep.
+
+THIRD DOCTOR A980
+Yeah it could very well be just that but because of your history of diagnosed sleep apnea it's very much possible that you still have it okay unless you lose like 50-60 pounds.
+
+PATIENT A980
+Yeah well I would love to lose 50-60 pounds believe me.
+
+THIRD DOCTOR A980
+No, no, no, what I'm saying is did you lose that much weight since it was diagnosed several years ago?
+
+PATIENT A980
+Oh no I put on weight since then.
+
+THIRD DOCTOR A980
+Since then okay then it's unlikely to go away okay.
+
+PATIENT A980
+Uh-huh.
+
+THIRD DOCTOR A980
+So I strongly suggest that we repeat the sleep study only because untreated severe sleep apnea can increase mortality.
+
+PATIENT A980
+Oh I understand that yeah.
+
+THIRD DOCTOR A980
+You have death from sudden heart attack or dyspnea.
+
+PATIENT A980
+Right.
+
+THIRD DOCTOR A980
+And stroke.
+
+PATIENT A980
+I know.
+
+THIRD DOCTOR A980
+It's a serious disease and if untreated can lead to heart disease and high blood pressure.
+
+PATIENT A980
+Right.
+
+THIRD DOCTOR A980
+Very very serious.
+
+PATIENT A980
+Uh-huh.
+
+THIRD DOCTOR A980
+Disease.  Not just about sleep and things like that.
+
+PATIENT A980
+Right.
+
+THIRD DOCTOR A980
+So we take that very seriously and in the end because you know, so @@@.
+
+PATIENT A980
+You want another test I don't care.  See the test they gave me is they just attached all of this stuff to me in my home.
+
+THIRD DOCTOR A980
+Oh you were at home okay.
+
+PATIENT A980
+Yeah, yeah I just slept overnight at home and then I brought the monitoring thing back to them.  They had me all wired up to this machine you know.
+
+THIRD DOCTOR A980
+Okay, yeah.  Uh we actually do it here.
+
+PATIENT A980
+Right.
+
+THIRD DOCTOR A980
+You come here for the night.  We are testing you and they monitor you all night see how you sleep and record all those things.  I think that would be a good thing for you alright.  So we'll go ahead and do it, get one.
+
+PATIENT A980
+Alright.
+
+THIRD DOCTOR A980
+They have a long waiting list so it's not going to be scheduled for a few weeks so we'll take it from there then.
+
+PATIENT A980
+Okay.
+
+THIRD DOCTOR A980
+Okay, alright, very good.  Anything else?
+
+PATIENT A980
+Well, like I told him before I had this pain in my back here that goes all the way through to my abdomen and I been going to the chiropractor twice a week.
+
+THIRD DOCTOR A980
+Hmm.
+
+PATIENT A980
+But it's not going away and this side right here feels a little swollen to me.
+
+THIRD DOCTOR A980
+Hmm.
+
+PATIENT A980
+And uh I don't know what it is.  Now when I was in the hospital for my pneumonia last month they took a CT scan and there's no cancer in my lungs or nothing you know and uh afterwards, after I got out I had another chest x-ray and they said all the pneumonia was gone and everything but and then too if I pressed into my stomach here I feel pain.  When anybody else presses in I don't feel nothing, only when I press it.
+
+THIRD DOCTOR A980
+Why do you think that is?
+
+PATIENT A980
+And I don't know why but maybe I could press the right spot I don't know what it is but it.
+
+THIRD DOCTOR A980
+How long have you had that for?
+
+PATIENT A980
+Oh about three months.
+
+THIRD DOCTOR A980
+Hmm.
+
+PATIENT A980
+And I don't know what it is but, anyway it's not going away whatever it is.
+
+THIRD DOCTOR A980
+Hmm.  Do you still have it?
+
+PATIENT A980
+Yeah right now.
+
+THIRD DOCTOR A980
+Right now?  Okay did you?
+
+FIRST DOCTOR A980
+I didn't get anything on exam.
+
+THIRD DOCTOR A980
+Okay.
+
+FIRST DOCTOR A980
+I didn't @@@.
+
+THIRD DOCTOR A980
+Yeah.  What was his @@@ last time.  @@@.
+
+PATIENT A980
+I was you know.  I was always just worried about my kidneys failing because my dad died of that you know.
+
+THIRD DOCTOR A980
+Your kidneys are completely fine, don't worry about that.
+
+PATIENT A980
+Yeah.
+
+THIRD DOCTOR A980
+Okay.
+
+PATIENT A980
+Yeah that's what he's told me anyway.
+
+THIRD DOCTOR A980
+Yeah, yeah.  Could be a muscle strain maybe you know um.
+
+PATIENT A980
+Well it hurts when I walk.  You know I can feel it you know.
+
+THIRD DOCTOR A980
+@@@ uh-huh okay.
+
+PATIENT A980
+That muscle right here hurts when I walk.
+
+THIRD DOCTOR A980
+That muscle hurts?
+
+PATIENT A980
+Yeah.
+
+THIRD DOCTOR A980
+Is it painful when I'm pressing, is it tender a little bit?
+
+PATIENT A980
+A little bit yeah.
+
+THIRD DOCTOR A980
+A little bit okay.  And it goes all the way in here?
+
+PATIENT A980
+Well I can feel it in my abdomen too yeah.
+
+THIRD DOCTOR A980
+Okay, okay.  Um any change in your bowel habits, constipation, or diarrhea?
+
+PATIENT A980
+Oh I was constipated for, oh by the way I was just looking at my list and stool softener I have no refills left on that at all.
+
+FIRST DOCTOR A980 
+I already refilled those.
+
+THIRD DOCTOR A980
+Yeah.
+
+PATIENT A980
+Because all the medication I take makes me constipated.
+
+THIRD DOCTOR A980
+Yeah.
+
+PATIENT A980
+And so I was taking the stool softener you know and.
+
+THIRD DOCTOR A980
+Uh-huh.  Uh-huh.  Does it help?
+
+PATIENT A980
+Well now they prescribed that uh you know whatever's in the yogurt I don't know what.
+
+THIRD DOCTOR A980
+Hmm.
+
+FIRST DOCTOR A980
+Probiotic.
+
+THIRD DOCTOR A980
+Probiotic?
+
+PATIENT A980
+Yeah.
+
+THIRD DOCTOR A980
+Okay.
+
+PATIENT A980
+Take a probiotic plus the stool softener and.
+
+THIRD DOCTOR A980
+Yeah.
+
+PATIENT A980
+That seemed to help quite a bit.
+
+THIRD DOCTOR A980
+You think, so you get the same result, you're more regular, no problems.
+
+PATIENT A980
+Yeah.  Right.
+
+THIRD DOCTOR A980
+No changes, no blood in your stools, dark bloody stools?
+
+PATIENT A980
+Oh no I've never had any blood in my stool.
+
+THIRD DOCTOR A980
+Any change in the caliber like pencil thin, pellet like stools?
+
+PATIENT A980
+No what it was I was having mega stool.
+
+THIRD DOCTOR A980
+Mega stool.
+
+PATIENT A980
+Monstrous.
+
+THIRD DOCTOR A980
+Okay, alright.
+
+PATIENT A980
+My God.
+
+THIRD DOCTOR A980
+But that's not the case anymore?
+
+PATIENT A980
+No.
+
+THIRD DOCTOR A980
+Okay, alright um does it wake you up from sleep this stomach pain?
+
+PATIENT A980
+No.
+
+THIRD DOCTOR A980
+It doesn't.
+
+PATIENT A980
+No.
+
+THIRD DOCTOR A980
+Okay it's only when you're up and about?
+
+PATIENT A980
+Up and about and well I'm just sitting in a chair it'll bother me.
+
+THIRD DOCTOR A980
+When you move side to side, when you move does it bother you?
+
+PATIENT A980
+Yeah it feels sore you know.
+
+THIRD DOCTOR A980
+It feels like, I mean it sounds like it could be a muscle.
+
+PATIENT A980
+Oh it could be too uh you know.
+
+THIRD DOCTOR A980
+Just keep an eye on it.  If it gets worse, if it does not go away in the next you know month or two.
+
+PATIENT A980
+Yeah.
+
+THIRD DOCTOR A980
+Give us a call back.
+
+PATIENT A980
+Alright.
+
+THIRD DOCTOR A980
+And you know then we can do further scans.
+
+PATIENT A980
+Yeah.  I don't know.
+
+THIRD DOCTOR A980
+Yeah, yeah, yeah.
+
+PATIENT A980
+Yeah, it's fun to get old.
+
+THIRD DOCTOR A980
+I know.
+
+PATIENT A980
+The golden years.
+
+THIRD DOCTOR A980
+Yeah, yeah.
+
+PATIENT A980
+We get all the years and you guys get all the gold.
+
+THIRD DOCTOR A980
+Yeah.  Oh.
+
+PATIENT A980
+Thank you doc.
+
+THIRD DOCTOR A980
+Nice meeting you.
+
+PATIENT A980
+We'll see you again.
+
+THIRD DOCTOR A980
+Yeah see ya.
+
+FIRST DOCTOR A980
+Okay so as far as today I've refilled all the medications and we're gonna, I'm gonna have Tylenol mailed to your home and then they'll contact you about setting up the sleep study.
+
+PATIENT A980
+Okay.
+
+FIRST DOCTOR A980
+So that's what I need to do and don't forget to get your flu shot alright.
+
+PATIENT A980
+Sure.
+
+FIRST DOCTOR A980
+See you back here in six months.  Does that sound good?
+
+PATIENT A980
+Yeah that's fine.  Now I gotta go pick up.
+
+FIRST DOCTOR A980
+So go ahead and get you checked out.
+
+PATIENT A980
+Pick up the wife on the 13th floor now.  She's up there getting checked out.
+
+FIRST DOCTOR A980
+Alright so then just take them to the, oh let me write down the sleep study and I'll go ahead and put that order in right now.
+
+PATIENT A980
+Well they'll send me a letter on this then.
+
+FIRST DOCTOR A980
+Yeah, that or they'll call you.
+
+PATIENT A980
+Yeah well whatever, okay that's fine.  And uh.
+
+FIRST DOCTOR A980
+Over there and to the elevator.
+
+PATIENT A980
+Alright.  Alright thank you.
+
+Time is:  10:05
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  38297
+TRANSACTION # 578-10-2-316-0103

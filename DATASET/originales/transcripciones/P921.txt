@@ -1,0 +1,1307 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR P921
+PATIENT.
+
+PATIENT P921
+They say you're gonna get something in the mail that's why @@@.
+
+DOCTOR P921
+So you are in a different kind of clinic.
+
+PATIENT P921
+Yes.
+
+DOCTOR P921
+To start seeing a regular doctor is that right?
+
+PATIENT P921
+Yes.
+
+DOCTOR P921
+Okay.  Did you have a primary doctor somewhere else before?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+Never needed to get one.
+
+DOCTOR P921
+Okay.  Well I was looking and I saw you were in the Emergency Room about a month ago.
+
+PATIENT P921
+Yes.
+
+DOCTOR P921
+So tell me what happened.
+
+PATIENT P921
+I uh in March um I just I tried to come here but they told me I didn't qualify yet.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+Because I hadn't @@@ um so I went to this other hospital.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+And they @@@ and they did a CT scan.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+And they the ones that found that I had a little pocket in my intestines.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And that's the reason why I was hurting.
+
+DOCTOR P921
+Okay.  So you were having some belly pains before.
+
+PATIENT P921
+Yes.
+
+DOCTOR P921
+How long were you having the pain for before you went to the other hospital?
+
+PATIENT P921
+A week.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And uh I came here then I went home.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+And around 2 o'clock in the morning I woke up with the pain so I went to the hospital.  So I was in there for three days.
+
+DOCTOR P921
+And then what did they do for you?
+
+PATIENT P921
+Uh they gave me morphine for the pain.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+And they put, I think it was, what was it, Cipro.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And uh gave it by IV.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And the swelling went down.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And once the swelling went down and they were okay with it, then let me go but the they put me on Cipro enough to last me for a week.
+
+DOCTOR P921
+For a week?  Cipro and @@@?
+
+PATIENT P921
+Yes.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+Yes, yes.
+
+DOCTOR P921
+And then and then it happened again.
+
+PATIENT P921
+And then it happened again.
+
+DOCTOR P921
+This month okay.
+
+PATIENT P921
+Yes.
+
+DOCTOR P921
+And so this month.
+
+PATIENT P921
+Last month.
+
+DOCTOR P921
+Oh last month okay.  At that time how long were you having the pain for?
+
+PATIENT P921
+Uh that time I didn't wait, I already knew what it was.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+Because I had suffered pain twice.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+So I came in before it got worse.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+So I came in and they gave me again @@@ and they gave me Cipro and Flagel.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+And uh and then I came in a week later cause I was still having the pain.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+Uh they didn't give me anything that time; they said they couldn't give me anymore Cipro.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+And by that time I was already taking fiber.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+And that was helping me; I think it's been helping me now.
+
+DOCTOR P921
+Okay good so you're taking the fiber and are you having a bowel movement?
+
+PATIENT P921
+Yes.
+
+DOCTOR P921
+Every day?
+
+PATIENT P921
+Yes.
+
+DOCTOR P921
+Is it soft or is it loose, is it formed?
+
+PATIENT P921
+No it's formed but it's soft.
+
+DOCTOR P921
+Okay.  Uh before you had, before you started fiber were you constipated?
+
+PATIENT P921
+Yes.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+They did that when I stopped taking the fiber, I'd get constipated.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+And it stars hurting again.
+
+DOCTOR P921
+Okay.  Um so tell me, what kind of, describe the pain for me?  What does it feel like?
+
+PATIENT P921
+It's just a sharp pain that comes and goes.
+
+DOCTOR P921
+Where do you feel it?
+
+PATIENT P921
+Right here.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+All over.
+
+DOCTOR P921
+And it just comes and goes.  How long does it last for?
+
+PATIENT P921
+Uh I think a couple of seconds.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+Uh the thing is um when I went to the hospital, when they questioned that I had, just by @@@ touching me, it would hurt, okay.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+Uh this last time uh they actually put their fingers pretty deep in there to where it bothered.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And it really wasn't that bad.
+
+DOCTOR P921
+Wasn't that bad.
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And the pain would come like maybe once an hour.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And that's it.  But when I went to the hospital it was like practically every five minutes.
+
+DOCTOR P921
+The first time?
+
+PATIENT P921
+Yeah the first time.
+
+DOCTOR P921
+Okay, okay.
+
+PATIENT P921
+That's when it was really bad and I had to go @@@.
+
+DOCTOR P921
+Okay and um any blood in the stools?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+Any black tarry sticky stools?
+
+PATIENT P921
+Uh uh.
+
+DOCTOR P921
+Any mucous in the stools that you know of?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+Um and are you, were you able to eat and drink at that time?
+
+PATIENT P921
+Um yes.
+
+DOCTOR P921
+Eating didn’t make it worse?
+
+PATIENT P921
+No, no.
+
+DOCTOR P921
+Any fevers or chills with it?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+And does the pain move at all besides right there?
+
+PATIENT P921
+No it didn't move.
+
+DOCTOR P921
+Did it go to the back or in the groin?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+And no problems urinating, no burning when you urinate, blood in your urine?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+Um.  You've never had a colonoscopy or @@@.
+
+PATIENT P921
+No I have not.
+
+DOCTOR P921
+Is that right?
+
+PATIENT P921
+The hospital probably told me I have to go do it.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+But I ain't gonna do it because I don't have insurance.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+So they said I could wait till the VA covered it.
+
+DOCTOR P921
+Right.
+
+PATIENT P921
+And then get it.
+
+DOCTOR P921
+Uh-huh.  Um does anything or so besides the fiber are you taking any other medications?
+
+PATIENT P921
+Uh just like for heartburn cause I've been having like lots of heartburn lately.  I don't know why.
+
+DOCTOR P921
+How long has that been going on for?
+
+PATIENT P921
+I don't know about 2 1/2 weeks now.
+
+DOCTOR P921
+Okay.  So have you ever had anything like that before?
+
+PATIENT P921
+No, I just get periods of heartburn but now it's like I actually get it every day.
+
+DOCTOR P921
+Every day.
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+And what are you taking for it?
+
+PATIENT P921
+Um, @@@.
+
+DOCTOR P921
+Okay.  Okay.
+
+PATIENT P921
+That's.
+
+DOCTOR P921
+And does it help when you take it?
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+The 75 doesn’t.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+See I was taking 150.
+
+DOCTOR P921
+Uh-huh.  Okay.
+
+PATIENT P921
+Cause I experimented, first I took the 75 and it wasn't doing anything.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+Then I doubled the dose to 150 and then that's what was helping me.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+That's pretty expensive.
+
+DOCTOR P921
+Well let's see, yeah I'm not sure if it was, I don't know if it would be cheaper for you to get them here or not but we can try.  Um, let me see.  And you just take it once a day?
+
+PATIENT P921
+Yeah just once a day.  
+
+DOCTOR P921
+Uh okay.  And besides this um, the diverticulitis you never had any other medical problems, high blood pressure, diabetes, never been in the hospital for anything?
+
+PATIENT P921
+Hmm.  I was in the hospital back in 87.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+But they couldn't figure out what it was so.
+
+DOCTOR P921
+What was it for, do you remember?
+
+PATIENT P921
+Um I lost my, I wasn't eating anything.  I couldn't keep anything down, not even water.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+But they did have me on IV.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And uh I don't remember cause I was in and out of consciousness a lot.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+Um but uh what I know is from my mother, uh they said they wanted to operate.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+But they didn't know what I had.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And uh they wanted to do the stomach but my mom had said no.  And once I got a little bit better.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+That I could actually water down, she took me out and took me to Mexico.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And I seen a doctor over there and he gave me some medicine and I was better then.
+
+DOCTOR P921
+Do remember what?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+Okay.  Okay.  Uh have you ever had surgeries done?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+Any other @@@?
+
+PATIENT P921
+No.  I was.
+
+DOCTOR P921
+I'm sorry.
+
+PATIENT P921
+Pollen.
+
+DOCTOR P921
+Pollen okay.  Um does anything run in the family?  What kind of medical problems do people in your family have?
+
+PATIENT P921
+Diabetes.
+
+DOCTOR P921
+Who has diabetes?
+
+PATIENT P921
+My father.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+Uh that's what I wanted; I want you to actually get some blood drawn to check my cholesterol level.
+
+DOCTOR P921
+Yeah we're gonna check everything.  We're gonna do some blood work today yeah.  Uh does anybody have high cholesterol?
+
+PATIENT P921
+Uh not that I know of uh.
+
+DOCTOR P921
+Are both of your parents still alive?
+
+PATIENT P921
+Yes.
+
+DOCTOR P921
+Okay and then how old are they?
+
+PATIENT P921
+Um my mom is 58.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And my dad must be like 59.
+
+DOCTOR P921
+Okay.  And do you have any brothers and sisters with any medical problems?
+
+PATIENT P921
+Uh no.  My brother, he's a @@@.
+
+DOCTOR P921
+And so you said you went to Mexico.  Are you from, where were you born?
+
+PATIENT P921
+Mexico.
+
+DOCTOR P921
+Mexico and so when did you come to the states?
+
+PATIENT P921
+Hmm when I was like 5.
+
+DOCTOR P921
+Okay.  And do you smoke?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+Any drinks?
+
+PATIENT P921
+Occasionally.
+
+DOCTOR P921
+And any other illicit drugs, marijuana, heroin, cocaine?  Ever had anything @@@ before?  And @@@.
+
+PATIENT P921
+Yes I need reading glasses.
+
+DOCTOR P921
+Okay.  Um have you worn glasses before or?
+
+PATIENT P921
+No they did when I came back from Iraq and I noticed that um like I cannot read, like a book.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+But before I went, I could read a book fine but now, ever since I came back I just.
+
+DOCTOR P921
+Do you squint, or do you have to move the paper or?
+
+PATIENT P921
+Uh I have to squint.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+And I was squinting, but I to bring it up closer @@@.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+I also want to see if they can see my back and do a bunch of other things.
+
+DOCTOR P921
+What's going on with the back?
+
+PATIENT P921
+The lower back.
+
+DOCTOR P921
+How long has that been going on for?
+
+PATIENT P921
+Years.
+
+DOCTOR P921
+Have you ever had it looked at before or?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+Okay was there any injury when you were in the service or anything at all that causes this?  How long has it been going on for it?
+
+PATIENT P921
+Hmm well I never got an injury but it's basically when I come back from there.
+
+DOCTOR P921
+Okay.  Uh.
+
+PATIENT P921
+I think it's just from all the stuff we used to carry.
+
+DOCTOR P921
+Okay.  And so what, do you have it all the time or does it come and go?
+
+PATIENT P921
+Uh in the mornings it gets really bad.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+Uh my wife says that she feels like a bulge kind of sticking out sometimes.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+When she gives me a massage.
+
+DOCTOR P921
+Okay.  And so what makes it worse?  Is it worse when you walk around, stand up?
+
+PATIENT P921
+No it's just uh, if I tend to lay down sometimes, on a flat surface.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+I can't.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+It just won't let me.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+I have to kind of like, kind of move around until I can get comfortable.
+
+DOCTOR P921
+Okay.  
+
+PATIENT P921
+And uh like um then @@@ and uh if I'm in a @@@ and I go down like this and in like two minutes or something it starts hurting.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+Or if I'm washing dishes, things it'll start hurting like this.
+
+DOCTOR P921
+Okay.  Does the pain move anywhere else?  Does it go down your leg?
+
+PATIENT P921
+No it just stays right there.
+
+DOCTOR P921
+Just right there and any weakness in the legs or you notice anything different with numbness or tingling in your legs or your feet or any weakness when walking?
+
+PATIENT P921
+Uh I feel tingling sometimes.
+
+DOCTOR P921
+Tingling where?
+
+PATIENT P921
+In my legs.
+
+DOCTOR P921
+Is that, show me where.
+
+PATIENT P921
+Right here.
+
+DOCTOR P921
+Okay, only right there?
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+Okay.  Um okay wait a second.
+
+PATIENT P921
+You know how uh it feels like when your foot falls asleep.
+
+DOCTOR P921
+Yeah.
+
+PATIENT P921
+And you feel that tingling, that's how it feels.
+
+DOCTOR P921
+Yeah so how long does it last?
+
+PATIENT P921
+Uh just a few minutes.
+
+DOCTOR P921
+Okay.  Any swelling in the legs?  Any trouble breathing?  Any shortness of breath when you walk?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+Do you exercise at all?
+
+PATIENT P921
+Twice a week.
+
+DOCTOR P921
+Okay good and what do you do for exercises?
+
+PATIENT P921
+Uh I run.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+I do the elliptical or whatever.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And some weightlifting.
+
+DOCTOR P921
+Okay.  Um and when you do all that you don't have any chest pain, shortness of breath or anything like that?  Good.  Take some deep breaths through your mouth.  And so you're not having the pain right now in your belly?
+
+PATIENT P921
+No not right now.
+
+DOCTOR P921
+Okay.  Is this painful?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+@@@.
+
+PATIENT P921
+That's pretty tender.  
+
+DOCTOR P921
+So that's where it hurts?
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+That’s what makes it feel better.
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+Okay.  Alright, let me check for any swelling.  I want you to take a look at your eyes, good.  Okay and open your mouth for me good.  Have you eaten anything yet today?
+
+PATIENT P921
+Uh, I ate breakfast and lunch.
+
+DOCTOR P921
+Okay.  Um I'm gonna have to have you come back to do some other blood work.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+Because your cholesterol when we check it you have to be fasting.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+You can't eat anything um after you wake up.
+
+PATIENT P921
+Oh okay.
+
+DOCTOR P921
+Okay and so you have an appointment with the GI doctors next week.
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+Um, let me just go talk to my attending and I'll be right back okay.
+
+(DOCTOR OUT:  72:36  DOCTOR IN:  80:17)
+
+DOCTOR P921
+Okay, do you remember when your last tetanus shot was?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+Have you had one in the last ten years do you think?
+
+PATIENT P921
+Hmm.
+
+DOCTOR P921
+If not we do a booster shot every ten years.
+
+PATIENT P921
+Oh.
+
+DOCTOR P921
+So uh you can actually get that done today.
+
+PATIENT P921
+Well yeah I guess.
+
+DOCTOR P921
+Okay.  Um.
+
+PATIENT P921
+Um when I came, @@@.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+I got the tuberculosis thing but I don't remember having them reading it.
+
+DOCTOR P921
+Was it a skin test?
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+Okay um so.  Have you ever been exposed to anybody with TB like in your family that you know of?
+
+PATIENT P921
+No.
+
+DOCTOR P921
+Okay and so given that you are um, so you're from Mexico originally which is considered a high risk area.
+
+PATIENT P921
+Uh-huh.
+
+DOCTOR P921
+And these are areas where they have TB there and also because you in the service that's why they normally do a screen test but if you're not having any symptoms of TB which is things like weight loss or cough, coughing up blood you know, night sweats, things like that.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+Then we really don't.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+Need to do anything, we could do a screening test @@@ if you've been exposed to TB.
+
+PATIENT P921
+Oh okay.
+
+DOCTOR P921
+Okay so you don't actually have any symptoms of having the disease.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+Uh we may consider doing that later because if you've been exposed to it.
+
+PATIENT P921
+Uh-huh.
+
+DOCTOR P921
+Um and that test is positive it can tell us that you may be at risk for getting the disease of TB later, so like the way TB works, you get exposed to it and then it kind of just hides out and then one day later reactivates and that's when you get the lung disease.  So we would treat you if you just showed, if the test is positive and it just showed that you were exposed to it.
+
+PATIENT P921
+Oh okay.
+
+DOCTOR P921
+Um we'd treat you with the medication for like nine months and then help with it or prevent it from actually ever getting to the real tuberculosis.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+But let's focus on a couple of other things today.
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+First @@@ and the TB skin test okay.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+Oh the nurse, when you check in and usually every time the nurses, they do this, they have to ask you questions kind of a little checking system that we do so we help us catch things and um there were some questions in here regarding like your time in service thing you know uh that you've been having nightmares about your time in service, things like that.  Constantly guardful, watchful, easily startled, things like that and those can be symptoms of PTSD.  Have you ever heard of that before?
+
+PATIENT P921
+I've heard of it but never really.
+
+DOCTOR P921
+So it stands for post-traumatic stress disorder um and its, you know easily @@@ symptoms and disturbances and just from you're daily living but these questions sometimes can help me know uh if you want me to investigate, you know ask about those, so how do you feel I guess about your thoughts on these questions you know.  Do you feel like your thoughts are significantly affecting your daily life?  Do you feel depressed?
+
+PATIENT P921
+No I don't feel depressed.
+
+DOCTOR P921
+Do you feel like you need to, would you like to talk to somebody more about?
+
+PATIENT P921
+Uh.
+
+DOCTOR P921
+Okay.  Has this been going on since you left the service?
+
+PATIENT P921
+Um yeah I guess but it sort of, basically um when I came back.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+I just didn't feel right here.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+And I didn't want to be here, I wanted to go back but it took about a year um.  I would be taking, almost for a year, I was taking uh Nyquil to go to sleep cause I just couldn't go to sleep.  If I woke up, cause I went to sleep like for three hours and something would wake me up, I just could not go back to sleep.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+So I would have to take like Nyquil to actually help me relax but now I can just sleep a full night.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+And but other than that, I think I'm alright.
+
+DOCTOR P921
+So if anything changes you should let us know because we do have a lot of other things you know to help with that.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+It's a very common experience so you know it's something that we need to try to have you treat.  So if anything changes just let me know.  Um in the meantime I do want to get some blood work from you.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+So like I said the cholesterol level should be fasting.
+
+PATIENT P921
+Right.
+
+DOCTOR P921
+Since you're coming back in a week anyway.
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+We can wait till then to do it.
+
+PATIENT P921
+Okay next time.
+
+DOCTOR P921
+That’s fine by me. I mean um you're appointment's at 8 a.m. so you may have to be the first one in line for the lab.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+And then go upstairs or you can do it afterwards.
+
+PATIENT P921
+Well where's it at now?
+
+DOCTOR P921
+It's right down here on the first floor.
+
+PATIENT P921
+Okay.  So I show up over there first?
+
+DOCTOR P921
+Yep.
+
+PATIENT P921
+And then what do I do?
+
+DOCTOR P921
+You tell them your name and your last four, they'll have the order, they'll see it.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+And they can draw your blood.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+Do you um your appointment's at 8 though so maybe you should go to the GI Clinic first so they can see you and then go down to the Lab.
+
+PATIENT P921
+Where is the GI Clinic.
+
+DOCTOR P921
+GI Clinic.
+
+PATIENT P921
+Where is it at?
+
+DOCTOR P921
+That's for the GI doctors that you have your appointment in a week for.
+
+PATIENT P921
+Oh gotcha.
+
+DOCTOR P921
+So they can talk about maybe doing the colonoscopy.
+
+PATIENT P921
+So go to the GI Clinic first?
+
+DOCTOR P921
+I would suggest doing that first so you don't get late for your appointment.  Um your appointment's at 8, so it's like the first appointment they have.
+
+PATIENT P921
+So I need to go to my appointment first then go to the Lab right?
+
+DOCTOR P921
+Yeah, yeah, you can to do that.
+
+PATIENT P921
+Now where's the GI Clinic, what floor?
+
+DOCTOR P921
+@@@.
+
+PATIENT P921
+Otherwise I'll be walking around the hospital all day.
+
+DOCTOR P921
+It's on the second floor, okay so this long hall right.
+
+PATIENT P921
+Right.
+
+DOCTOR P921
+Right here, the one that is out there um there is a set of elevators right across the hallway.
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+It's the second floor of that building.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+So it's the Specialty Clinic.
+
+PATIENT P921
+Specialty Clinic.
+
+DOCTOR P921
+Yeah.  Um let's see.
+
+PATIENT P921
+The blood work they can't draw today?
+
+DOCTOR P921
+I think we'll do it all together that day.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+That's fine.  What's a phone number where I can reach you?
+
+PATIENT P921
+Uh NUMBER.
+
+DOCTOR P921
+Uh-huh.
+
+PATIENT P921
+NUMBER.
+
+DOCTOR P921
+Okay.
+
+PATIENT P921
+NUMBER.  So who's going to be my regular doctor?
+
+DOCTOR P921
+So it would be me.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+Except I'm graduating in three weeks so.
+
+PATIENT P921
+Then it'll be someone else.
+
+DOCTOR P921
+It'll be a new resident yeah.  Um DOCTOR is the attending in the Gold Clinic.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+So he's the attending that oversees all of us and that's DOCTOR um but at this clinic that'll be the next time you come in or the next time you come back.  Uh okay, so I put in an order for you to get an appointment with the eye doctors and if you just want to stop out front to talk with the clerk.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+Right here that you checked in with they can make you an appointment with the eye doctors.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+We'll get the labs next week and the other thing I can order you some of the heartburn medications from our Pharmacy here.
+
+PATIENT P921
+Hmm.
+
+DOCTOR P921
+If you wanted to try and see it.  I don't know how much it'll cost you here versus buying over-the-counter but you can go to the Pharmacy and ask them.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+Here okay so.  Um @@@ are you working right now?
+
+PATIENT P921
+Yes.
+
+DOCTOR P921
+What are you doing right now?
+
+PATIENT P921
+I drive a mixer truck.
+
+DOCTOR P921
+Okay.  Um I don't know how much time you have but we have this thing called the MOVE Program that is a weight loss program and so it's not, it's different for each person it's not like, there are specific, well, there are specific times you have to be there but they can work with your schedule and things like that if you're interested.  There's a meeting every Monday at 10 to talk about it and you can learn different things about that.  I really think like especially that your weight is contributing to the back problem.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+It's very common actually.
+
+PATIENT P921
+Alright.
+
+DOCTOR P921
+So the more weight you can lose the better it's going to be in the back.  In the meantime you should definitely, you can use some Tylenol if you have significant pain but otherwise you know just doing exercising as you are, continue to do that cause keeping the muscles around your lower back strong helps prevent them from getting worse as well.
+
+PATIENT P921
+Alright.
+
+DOCTOR P921
+Um let me go talk to the nurse to see if they can give you that tetanus shot.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+So @@@ time um.  Okay.
+
+PATIENT P921
+Yeah.
+
+DOCTOR P921
+Uh the @@@.
+
+PATIENT P921
+Okay.
+
+DOCTOR P921
+She'll call you when they're ready to give you your shot and @@@.
+
+PATIENT LEAVES:  91:23
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286147
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,443 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR T542
+How are things going?  
+
+PATIENT T542
+Alright. 
+
+DOCTOR T542
+Good.  Saw the eye doc today?
+
+PATIENT T542
+Yeah.
+
+DOCTOR T542
+Okay good.
+
+PATIENT T542
+Yeah.
+
+DOCTOR T542
+They got a follow-up scheduled for you?
+
+PATIENT T542
+Yes, @@@ cataracts.  Did you get the results from the MRI?
+
+DOCTOR T542
+Uh yeah let me look at it again.
+
+PATIENT T542
+Cause to be honest with you after I had the MRI. My backs really @@@ I can't, I don't know what it was.
+
+DOCTOR T542
+Just from, you've had those problems for a long time right?
+
+PATIENT T542
+Oh yeah.
+
+DOCTOR T542
+Yeah.
+
+PATIENT T542
+93.
+
+DOCTOR T542
+Okay.
+
+PATIENT T542
+For 4 1/2 months @@@.
+
+DOCTOR T542
+Uh-huh.  You had surgery on your neck before?
+
+PATIENT T542
+I've had surgery on my neck and then I had another surgery towards the bottom of my back.  So I had two laminectomies.
+
+DOCTOR T542
+Your medicine.  Do you have any low blood sugars?
+
+PATIENT T542
+What does that mean?
+
+DOCTOR T542
+Low blood sugars, like is your blood sugar ever low?
+
+PATIENT T542
+No I don't think, now I do have diabetes type 2.
+
+DOCTOR T542
+Yeah right.
+
+PATIENT T542
+Okay.
+
+DOCTOR T542
+Uh the other thing, so in regards to the neck I mean I don't - this is going to be a chronic problem I don't know, I don't think.
+
+PATIENT T542
+Alright they told, that's really highest dose @@@ scar tissue.
+
+DOCTOR T542
+Yeah so I think we can, I'll put in a referral for Physical Medicine to see you.
+
+PATIENT T542
+I don't think that'd be a good idea.
+
+DOCTOR T542
+Well we could do that in the future.
+
+PATIENT T542
+How about the lower back?
+
+DOCTOR T542
+Same thing, there's not I just want to make sure that the chronic changes.
+
+PATIENT T542
+How about that.  Well I.  Really the two times, I had the lower back surgery in 2001.  I had two herniated disks and you know the surgeon went in there and of course he done it because the vertebrae would be swollen.  He went in there to relieve that off my spinal cord but he also tried to get the vertebrae to pop out and they didn’t.
+
+DOCTOR T542
+And they didn't yeah. What’s this?
+
+PATIENT T542
+Uh there's a prescription I've run out.  I think first of all we may have an automated prescription system here.
+
+DOCTOR T542
+Yeah but you have to call and get your refills.
+
+PATIENT T542
+I know.
+
+DOCTOR T542
+Okay but yeah, yeah they do.
+
+PATIENT T542
+Well because they kept hanging up on me.
+
+DOCTOR T542
+Oh.
+
+PATIENT T542
+I don't know and I was under the impression that the one, this one, the bottle well it said one, one with no refill.
+
+DOCTOR T542
+Let me take a listen.  Deep breath.  Let me listen to your heart.  Take your shoes and socks off, I want to have a look at your feet.
+
+PATIENT T542
+Okay.  I know, believe me, I watch that very closely.
+
+DOCTOR T542
+Okay, um the other thing have you ever had a colonoscopy?
+
+PATIENT T542
+I don't want one.
+
+DOCTOR T542
+Oh I could give you some cards to check your stool at home.
+
+PATIENT T542
+@@@ the nurse offered me that too. I made a mess  I got that all over the place except where it belonged.
+
+DOCTOR T542
+Um.
+
+PATIENT T542
+This is a terrible thing to say, but if I die, good. The way I'm living, I’m not living, I’m existing.  And as far as my prescription if you order them again or whatever, can you just order me one month at a time?  The reason I ask this is cause I get so many of them, I can’t afford to pay that bill.
+
+DOCTOR T542
+Okay.
+
+PATIENT T542
+But you, can I call the prescription number in and see cause they @@@.
+
+DOCTOR T542
+I'll put that in for you and I'll change these other ones to one month.
+
+PATIENT T542
+Oh I appreciate that doc. Not that VA is not a good place to come @@@but the reason I come to the VA cause I ran out of money.
+
+DOCTOR T542
+Uh-huh.
+
+PATIENT T542
+Like I said I've been fighting this for 17 years.
+
+DOCTOR T542
+And the other thing, your cholesterol was on the high side.
+
+PATIENT T542
+Yes, not good.
+
+DOCTOR T542
+I need to add, we would like to add the medication, the simvastatin.
+
+PATIENT T542
+Right.  Uh I’ll tell you this; the doctors from the Outpatient Clinic gave me.
+
+DOCTOR T542
+The aspirin I have it in here.
+
+PATIENT T542
+Yes.
+
+DOCTOR T542
+But you can buy that over-the-counter.
+
+PATIENT T542
+Right, right, okay yeah, don’t worry about that.  Alright now he took me off of the, uh DOCTOR took me off of this cholesterol medicine.
+
+DOCTOR T542
+Uh-huh.
+
+PATIENT T542
+Cause he thought it might be disrupting my @@@ that's what it was.
+
+DOCTOR T542
+No it shouldn't.  Let me, you want to restart it?
+
+PATIENT T542
+Yeah, right yeah.
+
+DOCTOR T542
+I'm going to put you on 40 mg.  So the big side effects with this is that some people have severe muscle pains. 
+
+PATIENT T542
+Right.
+
+DOCTOR T542
+That's very rare but that's the most common side effect um.  If you notice any severe muscle pains, mostly in the big muscles.
+
+PATIENT T542
+Oh, how's that.
+
+DOCTOR T542
+The back um you know then stop it and if it's really severe come in right away.
+
+PATIENT T542
+He @@@ the pain was so bad I couldn't walk.  He took me off and said to get @@@ I don't know.
+
+DOCTOR T542
+Yeah I mean if you are noticing @@@.
+
+PATIENT T542
+But @@@ yes I will.
+
+DOCTOR T542
+Yeah.  And uh I'll be right back okay.
+
+PATIENT T542
+Sure.  Uh before I your way out, do you know about the, I need dentures.
+
+DOCTOR T542
+Okay there's, the dental is really limited here at the VA.  We don't, I know they don't supply dentures.  The only dental clinic.
+
+PATIENT T542
+Now they used to.
+
+DOCTOR T542
+They used to um.
+
+PATIENT T542
+They gave me dentures in 1984 in fact, my teeth, the reason I got dentures is because of the service.
+
+DOCTOR T542
+Yeah.  They, you can try the Walk-In Dental Clinic and see what they say but I know it's much harder now to get dentures than it used to be in the past.  Um.
+
+PATIENT T542
+Where's that at?
+
+DOCTOR T542
+Yeah there's a Walk-In Dental Clinic um.
+
+PATIENT T542
+@@@.
+
+DOCTOR T542
+Yeah I'll ask, I'll ask where it is.  I'm not sure where it is but I'll be right back.
+
+(DOCTOR OUT:  40:34  DOCTOR IN:  45:03)
+
+DOCTOR T542
+So the one thing I did think about for your back, we have a Pain Clinic.
+
+PATIENT T542
+Uh-huh.
+
+DOCTOR T542
+What they can do, I don't know if you've ever had like an epidural injection or it's not exactly an epidural but it's like an injection near your spine.  It can sometimes help with the symptoms um.
+
+PATIENT T542
+That's okay.
+
+DOCTOR T542
+The other thing they have, one of the physicians there does some manipulations.
+
+PATIENT T542
+@@@ going to a chiropractor.
+
+DOCTOR T542
+Kind of.
+
+PATIENT T542
+I've wondered about that.
+
+DOCTOR T542
+Um he's not a chiropractor but it's um, it's similar.
+
+PATIENT T542
+Well you saw the results of that MRI. Is my spine out of whack?  To being with?
+
+DOCTOR T542
+Yeah it has those chronic changes which probably aren't going to go away but if you get involved with the Pain Clinic and they give you some injections and maybe some manipulations.
+
+PATIENT T542
+Alright.
+
+DOCTOR T542
+That might help.
+
+PATIENT T542
+Yes.
+
+DOCTOR T542
+Do you want that?
+
+PATIENT T542
+Cause I mean I've had @@@.
+
+DOCTOR T542
+Cause the Pain Clinic might help.
+
+PATIENT T542
+And that aspirin.  I just buy baby aspirin right? @@
+
+DOCTOR T542
+Uh-huh.
+
+PATIENT T542
+Yeah.  @@@.
+
+DOCTOR T542
+Alright so, you're all set.  You go to the Pharmacy um, Pharmacy to pick up the pain medications.  How many of those Vicodin do you take a day?
+
+PATIENT T542
+Well, I've been following; I know it's one every six hours.
+
+DOCTOR T542
+Okay.  So you're normally taking four a day?
+
+PATIENT T542
+Uh you sometimes I was trying that @@@ not to.  I was trying to stay away from it but at times I was, I was higher than a kite.
+
+DOCTOR T542
+Okay so you probably take closer to two or three pills a day?
+
+PATIENT T542
+Yeah two or three.
+
+DOCTOR T542
+Okay.
+
+PATIENT T542
+And then I can @@@.
+
+DOCTOR T542
+Okay.
+
+PATIENT T542
+I mean my eyes were so glassy @@@ they are gonna be arresting me and yeah that's another thing, my balance is terrible.  Is that primarily because of the spine thing too?
+
+DOCTOR T542
+Yeah.  Alright so you're all set.  The Pain Clinic will contact you.
+
+PATIENT T542
+Alright.
+
+DOCTOR T542
+Okay.
+
+PATIENT T542
+Now I got a prescription with the Pharmacy.
+
+DOCTOR T542
+You got prescriptions at the Pharmacy, for the pain medicine and your cholesterol medicine.
+
+PATIENT T542
+Alright.
+
+DOCTOR T542
+And I changed all your other medicines too.
+
+PATIENT T542
+Back to 30 days.
+
+DOCTOR T542
+To 30 days so they might try and give you another 30 days supply but you can.
+
+PATIENT T542
+If I want @@@.
+
+DOCTOR T542
+Tell them you only need the cholesterol and the Vicodin today okay.
+
+PATIENT T542
+Right.  Can you give me an idea where the Pharmacy is?
+
+DOCTOR T542
+Uh it's to the left.
+
+PATIENT T542
+To the left uh-huh.  
+
+DOCTOR T542
+@@@.
+
+PATIENT T542
+Okay.
+
+DOCTOR T542
+@@@.
+
+PATIENT T542
+Thank you doc.
+
+DOCTOR T542
+Uh-huh.
+
+PATIENT T542
+How do you say your last name?
+
+DOCTOR T542
+DOCTOR.  You know next time you come back I won't be here anymore and you'll be talking with another one of the residents.
+
+PATIENT T542
+Oh.
+
+DOCTOR T542
+DOCTOR will still be here.
+
+PATIENT T542
+Okay.
+
+DOCTOR T542
+Okay.
+
+PATIENT T542
+Alright.
+
+DOCTOR T542
+Alright.
+
+PATIENT T542
+Thank you doctor.
+
+DOCTOR T542
+Uh-huh.  Take care.
+
+PATIENT LEAVES:  50:12
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1275406
+TRANSACTION # 578-10-2-316-0103

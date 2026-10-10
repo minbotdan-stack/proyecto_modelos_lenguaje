@@ -1,0 +1,12 @@
+TITLE: Diabetes Followup - Insulin Titration and Thyroid Nodules
+DESCRIPTION: Follow-up for uncontrolled diabetes, blurry vision, weight loss, and incidentally detected thyroid nodules.
+
+HISTORY OF PRESENT ILLNESS: The patient reports partial improvement since beginning basal insulin, currently approximately 15 units of glargine nightly, after glucose readings at times approached 400 despite oral medications. Marked nocturia has improved somewhat, but he continues to experience blurry vision, weight loss, and reduced appetite. Chronic neck pain after multiple cervical operations with hardware contributes to diminished intake, and he is trying to reduce longstanding Vicodin use. He describes intermittent unusual chest sensations that are difficult to characterize, without a clearly established arrhythmia or diagnosis. Thyroid ultrasound after an incidental imaging finding showed multinodular enlargement, with the largest nodule approximately 1.7 cm and normal thyroid function tests. He also reports chronic nasal or sinus congestion, worse after discontinuing a previously helpful spray.
+
+ASSESSMENT AND PLAN:
+1. Type 2 diabetes with persistent hyperglycemia. Increase glargine to 20 units nightly for one week, then consider 22 units if home readings remain elevated; further titration should be discussed with the clinician. Arrange pharmacist assistance for closer glucose monitoring.
+2. Blurry vision. Refer to eye care for earlier evaluation rather than attributing all symptoms conclusively to hyperglycemia.
+3. Multinodular goiter, euthyroid. Endocrinology referral to determine whether ultrasound surveillance or biopsy is warranted; no cancer diagnosis established.
+4. Chronic cervical pain. Discussed judicious use of available analgesics without requiring the patient to tolerate uncontrolled pain.
+5. Rhinitis. Restart flunisolide, two sprays in each nostril twice daily.
+6. Follow up in four to six months, with interim glucose updates by telephone.

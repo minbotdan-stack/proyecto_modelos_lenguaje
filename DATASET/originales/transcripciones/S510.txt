@@ -1,0 +1,1142 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 	 
+
+DOCTOR S510
+PATIENT.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+@@@.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+How are you?
+
+PATIENT S510
+Good how are you?
+
+DOCTOR S510
+Good.  I'm DOCTOR; this is a large room so you can set it all out there. 
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+So you got your flu shot.
+
+PATIENT S510
+Uh-huh.
+
+DOCTOR S510
+Did you get a Pneumovax?
+
+PATIENT S510
+Pardon?
+
+DOCTOR S510
+Okay, oh yeah they gave you a Pneumovax too okay.  So who was your primary care doctor before?
+
+PATIENT S510
+Uh DOCTOR.
+
+DOCTOR S510
+Okay and where was she?
+
+PATIENT S510
+Uh with DOCTOR in McHenry.
+
+DOCTOR S510
+Okay DOCTOR?
+
+PATIENT S510
+Uh-huh.
+
+DOCTOR S510
+And where?
+
+PATIENT S510
+McHenry, Illinois.
+
+DOCTOR S510
+McHenry, Illinois okay.  And what did she treat you for there?
+
+PATIENT S510
+I'm diabetic.
+
+DOCTOR S510
+High blood pressure too?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+Okay.  And now you're 64.
+
+PATIENT S510
+63.
+
+DOCTOR S510
+Did you know they have listed as 64?
+
+PATIENT S510
+Huh?
+
+DOCTOR S510
+They have your age as 64.
+
+PATIENT S510
+Oh.
+
+DOCTOR S510
+@@@ (checks his name).
+
+PATIENT S510
+Well the last time I was 63.
+
+DOCTOR S510
+Okay.  Alright.  When were you diagnosed with diabetes?
+
+PATIENT S510
+Uh maybe two or three years ago.
+
+DOCTOR S510
+Okay, so like @@@@?
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+Okay, so what do you take now?  Is this all you have for me?
+
+PATIENT S510
+Let's see 500 mg of metformin one time a day.
+
+DOCTOR S510
+Anything else?
+
+PATIENT S510
+Uh one aspirin 325 mg one a day.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+And then one 40 mg pravastatin, I can't say it.
+
+DOCTOR S510
+Oh pravastatin.
+
+PATIENT S510
+Pravastatin.  It's for cholesterol and I don't know if I even still need that yet.
+
+DOCTOR S510
+When were your lipids, your cholesterol last checked?  When was that last checked?
+
+PATIENT S510
+Yeah that one time issuing, it's a zero refill until next lab and I haven't had next lab.
+
+DOCTOR S510
+Okay anything else that you're taking?
+
+PATIENT S510
+Uh no but I need two things, like a cream for the, to keep the toenails kind of fresh.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+And Viagra.
+
+DOCTOR S510
+Okay.  Alright.  So let's get a little more history.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+Okay, so you're only taking the metformin daily, once daily?  So where are your Accu-Cheks, how often do you check your blood sugar?  
+
+PATIENT S510
+Daily but sometimes I forget.
+
+DOCTOR S510
+What do they run?
+
+PATIENT S510
+About 125.
+
+DOCTOR S510
+What's the range?  Do you check it before meals?  Do you check it before you eat or after you eat?
+
+PATIENT S510
+Generally it's after in the evening, about 9 or 10 p.m.
+
+DOCTOR S510
+9 p.m.  Okay.  And where is it usually?
+SECOND PERSON S510
+The same time as for his urine.
+
+DOCTOR S510
+Put the urine there.
+
+SECOND PERSON S510
+He needs to urinate here.
+
+DOCTOR S510
+Okay.
+
+SECOND PERSON S510
+He has his name and social security, I'm sorry to interrupt you.
+
+DOCTOR S510
+Oh okay, no it's okay.
+
+SECOND PERSON S510
+I @@@.
+
+DOCTOR S510
+Okay thank you.  She just handed me your urine sample.  Okay.  And you said it's usually in the 120s.
+
+PATIENT S510
+125s.
+
+DOCTOR S510
+It's usually 125 every time or whenever you check that?
+
+PATIENT S510
+It varies.
+
+DOCTOR S510
+Okay and what is it other than 125?
+
+PATIENT S510
+I think the highest was 165.
+
+DOCTOR S510
+When was that?
+
+PATIENT S510
+And my first day in here was 115, that was the best so.
+
+DOCTOR S510
+Okay.  What brought you to the Emergency Room?
+
+PATIENT S510
+Pardon?
+
+DOCTOR S510
+When did you come to the Emergency Room, December 2nd?
+
+PATIENT S510
+When we lost our health coverage.
+
+DOCTOR S510
+Oh you needed a refill on your medications when you went to the Emergency Room?
+
+PATIENT S510
+Yeah because I was running out of the uh diabetic pills.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+And they gave me a temporary issuance of; I think they gave me a 45 day supply.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+But they only had the 1000 mg and so they gave me a pill cutter.
+
+DOCTOR S510
+Okay.  So, other than the diabetes you're pretty healthy okay.  When did you last have your eye exam?
+
+PATIENT S510
+Pardon?
+
+DOCTOR S510
+When did you last have an eye exam?
+
+PATIENT S510
+Oh, probably two years ago.  Yeah the glasses are getting a little off so I'm going to have to be getting new glasses.
+
+DOCTOR S510
+So no one has looked for diabetic changes behind your eyes in two years?
+
+PATIENT S510
+Yeah they did do that, the last eye doctor did that.
+
+DOCTOR S510
+When was that?
+
+PATIENT S510
+It would be about two years ago.
+
+DOCTOR S510
+Okay.  So in @@@@.
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+Okay.  When were your last labs from DOCTOR?  When did you last see DOCTOR?
+
+PATIENT S510
+About six months ago.
+
+DOCTOR S510
+Okay.  Probably close to the time to repeat everything anyway.
+
+PATIENT S510
+What?
+
+DOCTOR S510
+It's time to just repeat everything anyway.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+Um so.  Now I'm going to ask you a question.  You may not remember it and its okay if you don't.  Do you remember what your hemoglobin A1c test was?  It tells your long term control for your diabetes.
+
+PATIENT S510
+Oh I don't remember.
+
+DOCTOR S510
+Okay, no it's okay.  We need to check that.  We need to check your urine.
+
+PATIENT S510
+Oh I had, yeah I mentioned the cholesterol pill.
+
+DOCTOR S510
+Uh-huh.  We have to check your lipids and your um liver function tests.  Do you have any foot problems, foot pain?
+
+PATIENT S510
+No I get, I got the cold thing going you know from the diabetic stuff so.
+
+DOCTOR S510
+You have that.  How long have you had it?
+
+PATIENT S510
+Oh, about three years.
+
+DOCTOR S510
+So you've had it since you were diagnosed?
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+I came in shortly afterwards and told them that sort of thing, after the diagnosis.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+The first thing that happened that nobody caught on to it, when I went swimming I would get a severe pain along side my toenail but there was no sliver there.
+
+DOCTOR S510
+Uh-huh.
+
+PATIENT S510
+Then a little later on then she got the diagnosis test came through on the diabetic thing.
+
+DOCTOR S510
+Uh-huh.
+
+PATIENT S510
+And then I noticed I was getting a loss of sensation starting at the tip of the toe and it just, when it got halfway through I knew it was spreading.
+
+DOCTOR S510
+Okay.  Have you had your thyroid checked?  Have you felt any palpitations or felt cold?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+Okay.  Any concern that you may have hepatitis C or have you had a tattoo or ever used drubs IV or anything else that can be a risk for hep C?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+How about HIV?  Have you been screening for that?  Are you in a monogamous, you're married?   Are you married?
+
+PATIENT S510
+Yes.
+
+DOCTOR S510
+Okay and you're in a monogamous marriage?
+
+PATIENT S510
+Absolutely yes.
+
+DOCTOR S510
+Okay, I mean we can screen anyone for HIV if you'd like to.
+
+PATIENT S510
+I know this.
+
+DOCTOR S510
+But if you're okay with not then you know, you don't have to but anyone can be screened for hepatitis C and HIV really.  It's up to you.  Would you like to be?
+
+PATIENT S510
+I guess better safe than sorry right?
+
+DOCTOR S510
+Okay, yeah.
+
+PATIENT S510
+It'd be fine with me.
+
+DOCTOR S510
+Okay, let's do it.  We'll check that.  You got your shot, your flu shot.  Have you had a colonoscopy for colon cancer screening?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+You've never had a colonoscopy and you're 64, so you're 14 years late so you're due for that.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+So we need to screen you for colon cancer.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+Have you had any black stool?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+Or blood in your stool?  Or thin little strips of stool?  Your stools are normal?
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+They're not different from before?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+Okay.  Okay.
+
+PATIENT S510
+My father died from prostate cancer.
+
+DOCTOR S510
+Did he?
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+At what age?  At what age?
+
+PATIENT S510
+Huh?
+
+DOCTOR S510
+How old was he? 
+
+PATIENT S510
+I think 68.
+
+DOCTOR S510
+Okay.  What other illnesses run in your family?
+
+PATIENT S510
+Huh?
+
+DOCTOR S510
+What other illnesses run in your family?
+
+PATIENT S510
+Hmm asthma was in there.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+I caught that for a while.
+
+DOCTOR S510
+Diabetes? 
+
+PATIENT S510
+Now my wife thinks my grandmother was diabetic.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+But I never heard right from her or anything.
+
+DOCTOR S510
+Okay.  How about cancer other than the prostate cancer?  Any brother, sister, mom, dad?
+
+PATIENT S510
+My mother died of ovarian cancer.
+
+DOCTOR S510
+At what age?
+
+PATIENT S510
+Oh she was younger.
+
+DOCTOR S510
+Younger than 50?
+
+PATIENT S510
+Might have been 54.
+
+DOCTOR S510
+Okay.   And um how about heart attack or strokes?
+
+PATIENT S510
+None.
+
+DOCTOR S510
+Okay.  Do you smoke?
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+How long have you smoked?
+
+PATIENT S510
+Oh about since age 15.
+
+DOCTOR S510
+How much per day?
+
+PATIENT S510
+About 2-3 packs a day, I'm down to one.  I'm starting the electronic cigarettes in January.
+
+DOCTOR S510
+How long have you been smoking one?
+
+PATIENT S510
+Huh?
+
+DOCTOR S510
+How long have you been smoking one pack?
+
+PATIENT S510
+A year.
+
+DOCTOR S510
+Who'll helped you get on the electronic stimulator?
+
+PATIENT S510
+Huh?
+
+DOCTOR S510
+You're using a stimulator to keep yourself from smoking?
+
+PATIENT S510
+I just got it now.
+
+DOCTOR S510
+Oh you just got it, you're going to try that?
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+Do you want to go to our Smoking Cessation Clinic?
+
+PATIENT S510
+I'm enrolled in one up in McHenry.
+
+DOCTOR S510
+Oh okay.  Okay any alcohol use?
+
+PATIENT S510
+Huh?
+
+DOCTOR S510
+Alcohol use?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+Okay.  Okay any trouble with your hearing?
+
+PATIENT S510
+Yeah frequency.
+
+DOCTOR S510
+How long have you known that?  Were you diagnosed?
+
+PATIENT S510
+Yeah uh, well actually I get the final number to it but they think it was coming on for a long time cause I was a security police for the Air Force.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+The jet engine noise and then I was on the police department and sheriff's department here in Maywood.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+So we're shooting gun range noise and then one day my tractor tire froze to the axel and I used a metal thing to try to hammer it out.
+
+DOCTOR S510
+Uh-huh.
+
+PATIENT S510
+And I was under a deck.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+And it created a lot of echoing and when I went in the house I was on the far side of the living room, the TV was on and I realized I could not understand the people talking on the TV.
+
+DOCTOR S510
+Yeah.  So have you needed hearing aids?
+
+PATIENT S510
+And it didn't get better later.
+
+DOCTOR S510
+Okay.  When did you see Audiology last?
+
+PATIENT S510
+About a year and a half ago.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+I had an hearing test done and they said it was the frequency.  I can hear deep frequency.
+
+DOCTOR S510
+@@@ okay.
+
+PATIENT S510
+But all the words are kind of different.  When high frequency enters the word sometimes then I miss it.
+
+DOCTOR S510
+Okay.  How long have you had hearing loss?
+
+PATIENT S510
+Oh I probably had it without realizing for a while.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+But the actual, when I really did all that hammering.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+You know it was like probably the last straw for the eardrums.
+
+DOCTOR S510
+I'm going to get you to the Lab today.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+Okay and we'll get electrolytes.  Just a standard blood count just so that we have it on file and then your diabetic test, your hemoglobin A1c and then I'll check your liver.  The cholesterol, did you eat lunch today?
+
+PATIENT S510
+Huh?
+
+DOCTOR S510
+Did you eat lunch?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+No, okay you didn't. 
+
+PATIENT S510
+No because I expected you might be sending to the Lab.
+
+DOCTOR S510
+Right.  Did you eat breakfast?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+Good, okay let's do your cholesterol.
+
+PATIENT S510
+I had coffee this morning.
+
+DOCTOR S510
+That's okay.
+
+PATIENT S510
+Alright.
+
+DOCTOR S510
+Okay.  So we'll get your cholesterol.  I'll get your prostrate lab and some urine tests.  Okay.  And send you to Audiology for your hearing.  Have they talked with you about hearing aids before?
+
+PATIENT S510
+Pardon?
+
+DOCTOR S510
+Have they ever talked to you about hearing aids before?
+
+PATIENT S510
+Oh when I had that first hearing test.
+
+DOCTOR S510
+Okay but then you said, it got better so they didn't want to do that and then I'll put in a referral for your um because you're due for a colonoscopy and actually a lot of these tests are the same @@@.  But I'll check that one and this is for a colonoscopy.  This is a screening for colorectal cancer.  You have a prosthetic heart valve?
+
+PATIENT S510
+Pardon?
+
+DOCTOR S510
+Any trouble with your heart valve?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+No pacemaker or defibrillator?  You don't use oxygen?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+No recent stroke or heart attack?
+
+PATIENT S510
+Nope.
+
+DOCTOR S510
+Okay.  No stents in your heart?
+
+PATIENT S510
+Nope.
+
+DOCTOR S510
+And you're not on Plavix, Coumadin, Aggrenox.  You are on aspirin every day?  Are you on an aspirin every day?
+
+PATIENT S510
+Yes.
+
+DOCTOR S510
+Okay.  Um and you're okay with having a colonoscopy?
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+Okay.  Have you ever been screened for an aneurysm in your aorta?
+
+PATIENT S510
+I don't know.
+
+DOCTOR S510
+Okay you smoked for a while and you have diabetes, high cholesterol, um your blood pressure looks okay but all of that together puts at higher risk for having an aneurysm of your aorta.  And an aneurysm is like, you know how you see bubble gum and you blow a bubble and if you blew a bubble, the bubble is a thin layer of gum compared to the rest of the gum that you're chewing in your mouth so the wall of your aorta pouches out like that and is very thin and it could rupture.  And so if it ruptures um, so what we do is we screen for it and if we see that you have one and it's a certain size, very little, we just watch it but if we see that it grows fast or that it's big then we refer you to a vascular surgeon so that they can fix it.
+
+PATIENT S510
+Uh-huh.
+
+DOCTOR S510
+So would you be interested in being screened for that knowing that if it's large then you'd have to go to surgery for it.  When they rupture 50% are fatal so that's why we screen for them, in males who have high risks and who smoked.  Would you like to elect for it, it's an ultrasound, it's an ultrasound.  Okay.  Okay, so we'll do that screening test too.  Alright.  Let me just um, standing you up here and I'll look at your feet.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+You need an eye exam.  So I'll have you sit there and you can start with removing your socks and shoes.  Since you have smoked for 50 years, it's good to make sure that you don't have that.  Okay you can sit back.  
+
+PATIENT S510
+Oh I did have one kind of surgery I forgot to mention.  What do they call it, um?
+
+DOCTOR S510
+A laminectomy?
+
+PATIENT S510
+When the thing bubbles out and pushes against the nerve bundle?
+
+DOCTOR S510
+Oh stenosis, spinal stenosis.
+
+PATIENT S510
+Yeah, the soft tissue in the spine?  Uh it herniated out.
+
+DOCTOR S510
+Oh a herniated disk.
+
+PATIENT S510
+Yes.  They did a laser discectomy on it.
+
+DOCTOR S510
+Oh when was that?
+
+PATIENT S510
+It was uh, it was maybe a year to a year and a half ago.
+
+DOCTOR S510
+Okay.  Deep breath, deep breath, deep breath, deep breath, deep breath okay.  You can breathe normally.  Hold your breath okay and breathe.  Okay and hold your breath again.  Okay.  Any belly pain?  Any chest pain?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+@@@ back pain?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+Do you take any um pain medications for chest pain?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+Do you take any medications called nitrates?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+Any long acting?  How about medications, you've never had chest pain.  I'm sure you're not on any additional that you take when you have chest pain.
+
+PATIENT S510
+No.
+
+DOCTOR S510
+Nitroglycerin?
+
+PATIENT S510
+No, uh uh.
+
+DOCTOR S510
+Okay, alright.  Did you have Viagra before?
+
+PATIENT S510
+No.
+
+DOCTOR S510
+No, you've never tried it before okay?  So why do you think you need it now?
+
+PATIENT S510
+It ain't working.
+
+DOCTOR S510
+Okay.
+
+PATIENT S510
+Also because I heard on the net that it opens up blood cells and it might be a feet warner too.
+
+DOCTOR S510
+Okay what are you using for?
+
+PATIENT S510
+Pardon?
+
+DOCTOR S510
+You're using it for sexual activity right?  Viagra.
+
+PATIENT S510
+I would need it for that but.
+
+DOCTOR S510
+Okay, okay.
+
+PATIENT S510
+But it might open up blood cells around the feet a little bit so my feet feel a little warmer too.
+
+DOCTOR S510
+Hmm, well you wouldn't take it that often to do that.
+
+PATIENT S510
+Huh?
+
+DOCTOR S510
+You wouldn't take it that often to see it affect long term like that.
+
+PATIENT S510
+Yeah.  Okay.
+
+DOCTOR S510
+If you were just taking it intermittently.
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+It's not something that you would use every you know, every day like you use the metformin.
+
+PATIENT S510
+Right.
+
+DOCTOR S510
+So.  This sensation here can you feel that?
+
+PATIENT S510
+Yep.
+
+DOCTOR S510
+Okay.  Can you feel this?
+
+PATIENT S510
+Yep.
+
+DOCTOR S510
+You have calluses here.  Okay and thickened toenails.  I'm going to send you to the podiatrist.  Can you tell me if I'm moving your toe up or down?
+
+PATIENT S510
+Pardon?
+
+DOCTOR S510
+Up or down.
+
+PATIENT S510
+What's that?
+
+DOCTOR S510
+Close your eyes.  Close your eyes and tell me if I'm moving your toe up or down.
+
+PATIENT S510
+Up. Down, up, down, up, up.
+
+DOCTOR S510
+Okay alright and no swelling here okay.  You can sit back up.  Do you have children?
+
+PATIENT S510
+Pardon?
+
+DOCTOR S510
+Do you have children?
+
+PATIENT S510
+Yeah two grown now.
+
+DOCTOR S510
+Okay they're healthy?
+
+PATIENT S510
+Yes.
+
+DOCTOR S510
+Okay.  Okay.  What year was the surgery?
+
+PATIENT S510
+Huh?
+
+DOCTOR S510
+What year was the surgery?
+
+PATIENT S510
+I’d say two years ago.
+
+DOCTOR S510
+Okay.  I'll be back shortly.  So you're just on the lovastatin, aspirin and metformin?
+
+PATIENT S510
+Yep.
+
+DOCTOR S510
+Okay.  Alright.
+
+(DOCTOR OUT:  99:53  DOCTOR IN:  103:31)
+
+DOCTOR S510
+Alright so let's get all these labs.  Can you go today?
+
+PATIENT S510
+Yep.
+
+DOCTOR S510
+Okay.  So we'll check all of your labs.  I'll put in for that screening ultrasound, your eye exam, I'll send you to the foot doctor and then you're going to need this when you go to the Lab downstairs.  I'll be right back.  You can put one of your socks on your feet.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+Okay.
+
+(DOCTOR OUT:  104:1  DOCTOR IN:  106:20)
+
+DOCTOR S510
+Okay.  So put your feet up here and then tell me if you can feel this when I touch your feet.  Okay.  Can you feel that?  
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+Here?
+
+PATIENT S510
+Uh-huh.
+
+DOCTOR S510
+Here?
+
+PATIENT S510
+Uh-huh.
+
+DOCTOR S510
+Can you feel this?
+
+PATIENT S510
+Little bit.
+
+DOCTOR S510
+A little here?
+
+PATIENT S510
+A little bit.
+
+DOCTOR S510
+Here?
+
+PATIENT S510
+Real lightly.
+
+DOCTOR S510
+How about here?
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+And here?
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+Here?
+
+PATIENT S510
+Yep.
+
+DOCTOR S510
+Here?
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+Here?
+
+PATIENT S510
+Yep.
+
+DOCTOR S510
+Here?
+
+PATIENT S510
+Yep.
+
+DOCTOR S510
+You keep saying yep.
+
+PATIENT S510
+Yes.
+
+DOCTOR S510
+Oh yes okay.
+
+PATIENT S510
+Yep.
+
+DOCTOR S510
+Okay, alright, good.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+Alright you're all set.  Can you go to the Lab?
+
+PATIENT S510
+Yeah.
+
+DOCTOR S510
+Okay.  I want to see you back in a month.
+
+PATIENT S510
+Huh?
+
+DOCTOR S510
+I want to see you back in a month.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+And then I can just you know check your blood pressure; go over your labs and everything with you when you come back then.  Alright there's the form and then you can just head to the Lab.  When you check out up front so that they make your appointment, just ask them how you get to the Lab.
+
+PATIENT S510
+Yep.
+
+DOCTOR S510
+Okay.  Okay let's walk.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+Okay.  Okay.  Now you go all the way down where you see the writing on the wall.
+
+PATIENT S510
+Uh-huh.
+
+DOCTOR S510
+Okay and then look to the right there's a desk.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+And turn this in and they'll schedule you for one month.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+Okay and then ask them how to get to the Lab from there.
+
+PATIENT S510
+Okay.
+
+DOCTOR S510
+Okay.  Okay, take care.
+
+PATIENT S510
+Okay thank you.
+
+PATIENT LEAVES:  109:20
+
+Time is 4:18.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1246965
+TRANSACTION # 578-10-2-316-0103

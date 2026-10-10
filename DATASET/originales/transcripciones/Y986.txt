@@ -1,0 +1,493 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR Y986
+PATIENT?
+
+PATIENT Y986
+Okay doc.  Good to see you.
+
+DOCTOR Y986
+Good to see you, come on in.
+
+PATIENT Y986
+Alright.  How you doing man?
+
+DOCTOR Y986
+Good.
+
+PATIENT Y986
+Good, good.
+
+DOCTOR Y986
+Go on ahead of me.  
+
+PATIENT Y986
+Okie dokie.
+
+DOCTOR Y986
+Okay so I've read over your chart before you came in here.
+
+PATIENT Y986
+Uh-huh.
+
+DOCTOR Y986
+Uh what's been going on?
+
+PATIENT Y986
+Same old, same old.
+
+DOCTOR Y986
+Same old, same old, you had some cataract surgery huh?
+
+PATIENT Y986
+Yeah.
+
+DOCTOR Y986
+How's your vision now?
+
+PATIENT Y986
+Just fine.
+
+DOCTOR Y986
+Yeah beautiful right?
+
+PATIENT Y986
+Beautiful.
+
+DOCTOR Y986
+Those things work out great.  I've seen a few of those.
+
+PATIENT Y986
+Yes uh I didn’t know whatcataracts can do to you.
+
+DOCTOR Y986
+Yeah I know, I know.
+
+PATIENT Y986
+I took my glasses and I haven't put them back on.
+
+DOCTOR Y986
+I know.
+
+PATIENT Y986
+And I say wow, you know.  It was all like something brand new.
+
+DOCTOR Y986
+Perfectly clear huh.
+
+PATIENT Y986
+But they got to do something to this eye though the right eye.
+
+DOCTOR Y986
+Yeah.
+
+PATIENT Y986
+I don't know if I told you but I have a little shot of glaucoma or @@@.
+
+DOCTOR Y986
+Okay.  Well it looks like that's good.
+
+PATIENT Y986
+Okay.
+
+DOCTOR Y986
+Uh so you're blood pressure's a little bit high today.
+
+PATIENT Y986
+I know it.  This is what I had doc, they gave me this the last time.
+
+DOCTOR Y986
+Hydrochlorothiazide and you're out of it?
+
+PATIENT Y986
+Yeah.
+
+DOCTOR Y986
+Oh no.
+
+PATIENT Y986
+Yeah.
+
+DOCTOR Y986
+Oh you’re not taking your meds.
+
+PATIENT Y986
+Yeah, well I still, I ran out.
+
+DOCTOR Y986
+Yeah we should have done your refills.
+
+PATIENT Y986
+Yes.  Well I was hoping I could get that today.
+
+DOCTOR Y986
+Absolutely.  When was the last time you had these filled?
+
+PATIENT Y986
+Hmm I guess about maybe two weeks, three weeks ago.
+
+DOCTOR Y986
+Two or three weeks ago okay.  If you run out of these again, you need to call and get refills.
+
+PATIENT Y986
+Oh do they do that?
+
+DOCTOR Y986
+Yeah they'll mail them to you.
+
+PATIENT Y986
+Oh okay.
+
+DOCTOR Y986
+Yeah, yeah, yeah, yeah.
+
+PATIENT Y986
+Good.
+
+DOCTOR Y986
+So I'm gonna go ahead and give you the same amount of the pill.
+
+PATIENT Y986
+Alrighty.
+
+DOCTOR Y986
+Okay.  I'm going to increase this amount okay.
+
+PATIENT Y986
+Gotcha.  Whatever you say doc.
+
+DOCTOR Y986
+Okay.
+
+PATIENT Y986
+Whatever you say.
+
+DOCTOR Y986
+And @@@.
+
+PATIENT Y986
+Right.
+
+DOCTOR Y986
+Alright you know what, you actually higher before too.
+
+PATIENT Y986
+Yeah.
+
+DOCTOR Y986
+So you know, I'll increase both of these okay.
+
+PATIENT Y986
+Okay.
+
+DOCTOR Y986
+Alright, okay and we'll go from there.  Any other problems at all?
+
+PATIENT Y986
+No.
+
+DOCTOR Y986
+You don't have any plans this weekend?
+
+PATIENT Y986
+No, no.  My glasses?
+
+DOCTOR Y986
+No plans, do you have any plans.
+
+PATIENT Y986
+Oh yeah, well you know @@@.
+
+DOCTOR Y986
+Yeah.
+
+PATIENT Y986
+And I was full.
+
+DOCTOR Y986
+Oh is that right.
+
+PATIENT Y986
+Eight grandchildren.
+
+DOCTOR Y986
+Oh my goodness.
+
+PATIENT Y986
+Oh my God.
+
+DOCTOR Y986
+Oh you're gonna be busy.
+
+PATIENT Y986
+I'm busy already.
+
+DOCTOR Y986
+Yeah I know.  Let me take a listen to you.
+
+PATIENT Y986
+Okay.
+
+DOCTOR Y986
+Yeah I'm headed off to San Fran myself today.
+
+PATIENT Y986
+Oh yeah, man that's great.
+
+DOCTOR Y986
+Where are your family members coming from?  Are they from Chicago?
+
+PATIENT Y986
+Right, Everybody’s here.
+
+DOCTOR Y986
+Deep breath for me.  You grew up here all your life?
+
+PATIENT Y986
+All my life.  Born and raised here yeah.  My dad was from San Louis Potosi.
+
+DOCTOR Y986
+Oh really.
+
+PATIENT Y986
+Yeah so.
+
+DOCTOR Y986
+Hmm.
+
+PATIENT Y986
+You know he had to become like a citizen of the United States and all that real good stuff.  But I been here all my life.  Served in the Marine Corps and all that real good stuff yeah.  50 to 56 Korea.
+
+DOCTOR Y986
+Have you ever had an abdominal ultrasound, do you know?
+
+PATIENT Y986
+Not really.  I know they did uh, you know they did something with my colon here years ago.
+
+DOCTOR Y986
+Yeah, yeah.
+
+PATIENT Y986
+And uh that's the only thing.
+
+DOCTOR Y986
+Have you ever had the pneumonia vaccine?
+
+PATIENT Y986
+No.
+
+DOCTOR Y986
+Okay.  How about a flu shot?
+
+PATIENT Y986
+No, thank you, no thank you.
+
+DOCTOR Y986
+You no thank you okay.
+
+PATIENT Y986
+(Laughter)
+
+DOCTOR Y986
+Well I think you should get, at least get a pneumonia vaccine.  It's once every five years.
+
+PATIENT Y986
+Uh-huh.
+
+DOCTOR Y986
+Um, you interested in getting that then?  You want to get this done today?
+
+PATIENT Y986
+What.
+
+DOCTOR Y986
+The pneumonia vaccine.
+
+PATIENT Y986
+Uh I don't want no shots.
+
+DOCTOR Y986
+Okay.
+
+PATIENT Y986
+Yeah I feel good now.
+
+DOCTOR Y986
+Okay I know you do but maybe not this time but like the next time you think about it.
+
+PATIENT Y986
+Next time maybe.
+
+DOCTOR Y986
+Okay.  I want you to think about it cause like the pneumonia vaccine cause most people get pneumonia and when you get older it's one of those important vaccines to get.
+
+PATIENT Y986
+@@@.
+
+DOCTOR Y986
+You know how when you were a little kid you got all those shots.  Same thing occurs when you get a little bit older.
+
+PATIENT Y986
+Well okay.
+
+DOCTOR Y986
+Okay.
+
+PATIENT Y986
+Like I said I feel real good. Right now.
+
+DOCTOR Y986
+Okay, alright, we'll leave you alone then; we'll leave you alone then for now.
+
+PATIENT Y986
+Thank you DOCTOR, I appreciate that.
+
+DOCTOR Y986
+Okay.
+
+PATIENT Y986
+So you’re going to have those filled up for me though huh?
+
+DOCTOR Y986
+Yeah I'm doing it right now.
+
+PATIENT Y986
+Okay.  But they will mail them out, that's good.
+
+DOCTOR Y986
+They will.  Do you want them to mail them or do you want to pick them up?
+
+PATIENT Y986
+No I'll pick them up today.
+
+DOCTOR Y986
+And then from then on they'll mail them out.
+
+PATIENT Y986
+Okay, right.
+
+DOCTOR Y986
+Okay.  You call in for them.  Now you're gonna have to talk with, when you pick them from the Pharmacy today.
+
+PATIENT Y986
+Yes.
+
+DOCTOR Y986
+Ask them when you're running out of medication how do you get more?
+
+PATIENT Y986
+Okay.
+
+DOCTOR Y986
+And they'll give the number in order for you to call when you start running out.
+
+PATIENT Y986
+Oh okay.
+
+DOCTOR Y986
+When you start running out.
+
+PATIENT Y986
+Okay.
+
+DOCTOR Y986
+I'll be back okay.
+
+PATIENT Y986
+Yes sir.
+
+(DOCTOR OUT:  48:48  DOCTOR IN:  51:31)
+
+DOCTOR Y986
+Okay so uh everything is pretty much done for you.  In two to four weeks though, I want you to come back and get blood drawn and then just get a blood pressure check.
+
+PATIENT Y986
+Two to four.
+
+DOCTOR Y986
+Two to four weeks.
+
+PATIENT Y986
+Two to four weeks.
+
+DOCTOR Y986
+Ideally four weeks, like a month from now okay.
+
+PATIENT Y986
+From today's date.
+
+DOCTOR Y986
+Yeah from today's date.  Just come in and get your blood drawn okay.  Cause we're increasing those medications right and uh just get a blood pressure check by one of the nurses.  I'm gonna write that down and they're gonna make you an appointment.
+
+PATIENT Y986
+Okay.  Good.  Yeah @@@.
+
+DOCTOR Y986
+I want you to make the appointment before you leave.
+
+PATIENT Y986
+Okay.
+
+DOCTOR Y986
+Uh and then you can see me in about four months.
+
+PATIENT Y986
+Oh okay.
+
+DOCTOR Y986
+Okay.
+
+PATIENT Y986
+Yeah.
+
+DOCTOR Y986
+Uh and you should be good to go.  I'll give you that.
+
+PATIENT Y986
+Okay.
+
+DOCTOR Y986
+Okay.
+
+PATIENT Y986
+Alright.  I don't need that?
+
+DOCTOR Y986
+You know, uh you @@@ what would you like me to do with this?
+
+PATIENT Y986
+@@@.
+
+DOCTOR Y986
+Okay.
+
+PATIENT Y986
+Now who do I give this to doctor?
+
+DOCTOR Y986
+You go outside and you give it to the clerk in the front okay.  Have a Merry Christmas.
+
+PATIENT Y986
+Good talking to you okay, same to you.
+
+DOCTOR Y986
+Thank you very much.
+
+PATIENT Y986
+And your family.
+
+DOCTOR Y986
+Yeah thank you very much, take care.
+
+PATIENT Y986
+Okay.
+
+PATIENT LEAVES 52:53
+
+10:00 a.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1255161
+TRANSACTION # 578-10-2-316-0103

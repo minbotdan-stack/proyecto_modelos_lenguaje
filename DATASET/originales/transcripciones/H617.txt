@@ -1,0 +1,372 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR H617
+PATIENT?
+
+PATIENT H617
+Hi.
+
+DOCTOR H617
+Okay now I'm seeing you for the first time, I'm DOCTOR, nice to meet you.
+
+PATIENT H617
+Yeah nice to meet you.
+
+DOCTOR H617
+Alright so um I was looking at your chart briefly.  It looks like you have uh high blood pressure and diabetes.
+
+PATIENT H617
+Yes.
+
+DOCTOR H617
+Okay.  When was the diabetes diagnosed?
+
+PATIENT H617
+Uh July 26th 09.
+
+DOCTOR H617
+Okay and since then you've been on glipizide?
+
+PATIENT H617
+Yeah.
+
+DOCTOR H617
+Okay and you take 2.5 daily, is that twice a day?
+
+PATIENT H617
+Yes.
+
+DOCTOR H617
+Okay.
+
+PATIENT H617
+Well metformin, yeah I got my meds.
+
+DOCTOR H617
+Right and how is that?
+
+PATIENT H617
+Uh, uh I was on metformin but.
+
+DOCTOR H617
+Uh-huh.
+
+PATIENT H617
+Hang on, the doctor took me off.
+
+DOCTOR H617
+Why is that?
+
+PATIENT H617
+I they said I don't need it.
+
+DOCTOR H617
+Okay.  So you were on two medications.
+
+PATIENT H617
+I was till like last month.
+
+DOCTOR H617
+Who was your doctor who was taking care of the diabetes?
+
+PATIENT H617
+Um DOCTOR, uh no uh the nurse practitioner NAME.
+
+DOCTOR H617
+What @@@?
+
+PATIENT H617
+I don't know, she @@@ I don't know you know.
+
+DOCTOR H617
+They're not bad.  But I need you to get some blood work done today.
+
+PATIENT H617
+Oh okay.
+
+DOCTOR H617
+Okay and uh.
+
+PATIENT H617
+Uh can I ask you something?
+
+DOCTOR H617
+Uh-huh.
+
+PATIENT H617
+Like I'm uh @@@ disability.
+
+DOCTOR H617
+Uh-huh.
+
+PATIENT H617
+Uh for my diabetes and hypertension.
+
+DOCTOR H617
+Uh-huh.
+
+PATIENT H617
+And depression.
+
+DOCTOR H617
+Uh-huh.
+
+PATIENT H617
+Can they access the information on the computer @@@.
+
+DOCTOR H617
+Uh-huh.
+
+PATIENT H617
+Can they get the information off the computer?
+
+DOCTOR H617
+You’ll have to bring us a form, sir.
+
+PATIENT H617
+A form from who?
+
+DOCTOR H617
+Wherever you were applying to @@@.
+
+PATIENT H617
+That's going to the Regional Office.
+
+DOCTOR H617
+Yeah but you're gonna have some form @@@.
+
+PATIENT H617
+I think I signed the form for Freedom of Information.
+
+DOCTOR H617
+Where is that?  No no I mean like who needs this?
+
+PATIENT H617
+Uh.
+
+DOCTOR H617
+Are these people at the VA?
+
+PATIENT H617
+Yeah.
+
+DOCTOR H617
+Oh no they can look up those things.
+
+PATIENT H617
+Is it in the Regional Office?
+
+DOCTOR H617
+Yeah they can look it up in the computer.
+
+PATIENT H617
+Oh okay.
+
+DOCTOR H617
+So they don't need that yeah.  If they're in the VA they can look it up in the computer.
+
+PATIENT H617
+Oh okay.
+
+DOCTOR H617
+If they're outside they're gonna need the form.
+
+PATIENT H617
+Oh no they're not outside.
+
+DOCTOR H617
+And have you seen the eye doctor recently for the diabetes?
+
+PATIENT H617
+No.
+
+DOCTOR H617
+Okay so we need to schedule that.  I'm going to make an appointment for that okay.
+
+PATIENT H617
+Alright, okay.
+
+DOCTOR H617
+A foot doctor?
+
+PATIENT H617
+Nope.
+
+DOCTOR H617
+We need to make that appointment too alright.
+
+PATIENT H617
+My phone's been cut off for a while.
+
+DOCTOR H617
+Yeah that's, you can make the phone call from here or whatever you know.  You have to schedule an appointment.
+
+PATIENT H617
+Uh-huh.
+
+DOCTOR H617
+Either from your cell or from here.
+
+PATIENT H617
+Okay.
+
+DOCTOR H617
+Your blood pressure is high today.
+
+PATIENT H617
+What 133/72?
+
+DOCTOR H617
+Uh well the first reading.
+
+PATIENT H617
+Well I smoked a cigarettes, I told them.
+
+DOCTOR H617
+Okay give me a second.  Let's see.  
+
+(DOCTOR OUT: 11:01  DOCTOR IN:  15:00)
+DOCTOR J211
+Alright, sorry about that, that was my @@@.  Okay um, we're starting @@@.  Okay.
+
+PATIENT H617
+You know I need a consultant so I can go to the gym.
+
+DOCTOR H617
+Yes we can do that, that's good; yeah I can do that for you.  We'll take care of that.  Anything else?  So when did you have a colonoscopy?
+
+PATIENT H617
+Oh it had to be November.
+
+DOCTOR H617
+Last year?  Last year?
+
+PATIENT H617
+Wait a minute, wait a minute, February uh something like that.
+
+DOCTOR H617
+Is it last year?
+
+PATIENT H617
+No this year wasn't it?
+
+DOCTOR H617
+Uh I can’t see it, was it here?
+
+PATIENT H617
+Yeah.
+
+DOCTOR H617
+And you said November?
+
+PATIENT H617
+I think it was between November and February one of them.
+
+DOCTOR H617
+Hmm, okay.  Alright.  Well.
+
+PATIENT H617
+Do you see it on there?  When was it?
+
+DOCTOR H617
+I can’t see but I'll take your.
+
+PATIENT H617
+I think they told me to come back in five years unless I'm having problems.
+
+DOCTOR H617
+Yeah I think you're good for it um, I’ll take your word for it.  Okay so I will give the orders @@@.  You can get your labs done  @@@.
+
+PATIENT H617
+Okay.
+
+DOCTOR H617
+And um I put in the consult for the Wellness Clinic okay.
+
+PATIENT H617
+The Wellness Clinic for the eye?
+
+DOCTOR H617
+No for the gym @@@.
+
+PATIENT H617
+Yeah, yeah the Wellness Center.
+
+DOCTOR H617
+Wellness Center right.  You take an aspirin and @@@
+
+PATIENT H617
+Yeah for the stomach and aspirin for my circulation.
+
+DOCTOR H617
+That's right.  
+
+(There was no conversation between doctor and patient from 18:21 to 28:42)
+
+DOCTOR H617
+Okay so, get your labs done today.
+
+PATIENT H617
+Hmm.
+
+DOCTOR H617
+Alright and we'll see, the RN is going to see you in a few weeks and uh.
+
+PATIENT H617
+What, for diabetes?
+
+DOCTOR H617
+Uh-huh.  And um with me in one month okay.
+
+PATIENT H617
+Okay but I got to call for the foot doctor and the eye.
+
+DOCTOR H617
+Yes, yes.
+
+PATIENT H617
+I got to call for that.
+
+DOCTOR H617
+Exactly.
+
+PATIENT H617
+You gave me @@@.
+
+DOCTOR H617
+Uh no you have it.
+
+PATIENT H617
+@@@.
+
+DOCTOR H617
+I don't have anything.
+
+PATIENT H617
+Yeah it's in there alright.
+
+DOCTOR H617
+Thank you.
+
+PATIENT H617
+Okay.  Supposed to give it to the desk?
+
+DOCTOR H617
+Thank you so much.
+
+PATIENT H617
+Thank you.
+
+DOCTOR H617
+And @@@ also a consult.
+
+PATIENT H617
+So you put that on the, out in the front, @@@.  Oh thank you, thank you so much.
+
+PATIENT LEAVES:  29:47.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275397
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,844 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+PATIENT I907
+Hi.
+
+DOCTOR I907
+@@@.  
+
+PATIENT I907
+@@@ who?
+
+DOCTOR I907
+DOCTOR.  What @@@ 
+
+PATIENT I907
+Routine visit.
+
+DOCTOR I907
+How's everything going?
+
+PATIENT I907
+Good.
+
+DOCTOR I907
+Good.
+
+PATIENT I907
+Uh-huh.
+
+DOCTOR I907
+Your vital signs look great.  Your blood pressure is good.
+
+PATIENT I907
+Yeah I just did the labs when I just got here @@@.
+
+DOCTOR I907
+Okay um sorry the computer is saying that I still haven’t call you back.  Are you having any problems really?  Nope.  Take all your medicines as you should?
+
+PATIENT I907
+Uh-huh.
+
+DOCTOR I907
+Okay.
+
+PATIENT I907
+Oh I'm running out of this too by the way.  I brought it with me @@@.  
+
+DOCTOR I907
+Oh good.  You're very organized.
+
+PATIENT I907
+Got to be clean.
+
+DOCTOR I907
+Uh any recent weight loss or anything like that?  Chest pain, shortness of breath, abdominal pain?
+
+PATIENT I907
+No.
+
+DOCTOR I907
+No.  Do you get a flu shot?
+
+PATIENT I907
+H1N1?
+
+DOCTOR I907
+Yeah did you get one?
+
+PATIENT I907
+I got the regular flu shot.  I think I might go over and get the H1N1.
+
+DOCTOR I907
+Okay.
+
+PATIENT I907
+Oh they says people my age.
+
+DOCTOR I907
+Yeah.  It's plus/minus uh there haven't been that many side effects so if you like feel comfortable taking it, it's kind of nice cause they offer it here.  Um and people, you're age don’t seem to be getting it that much.
+
+PATIENT I907
+Right, right.
+
+DOCTOR I907
+They think you’ve probably been exposed to it before but when they do get, they can just get sicker.
+
+PATIENT I907
+Oh @@@ yeah.
+
+DOCTOR I907
+Yeah I mean and there are some people I know that @@@.  Alright everything looks pretty good.  Let me see if your labs are in.  Cold outside huh?
+
+PATIENT I907
+Yeah I thought it was gonna warm up but um.
+
+DOCTOR I907
+Me too.
+
+PATIENT I907
+That's the weatherman for you.
+
+DOCTOR I907
+Yeah.  @@@.  Okay.  No they're not back yet.
+
+PATIENT I907
+No but I just went in at 7:30 this morning and you know I talked to DOCTOR.  I generally get a chest x-ray every year.  I don't remember the conversation she and I had about the chest x-rays.  I @@@ deem it necessary.
+
+DOCTOR I907
+Uh.
+
+PATIENT I907
+But one of the reasons I get a chest x-ray every year, other than the fact that I smoke, @@@ anyway but I'm a retired chemist.
+
+DOCTOR I907
+Uh-huh.
+
+PATIENT I907
+And I worked around some pretty uh carcinogenic and toxic chemicals, plus I was exposed to Agent Orange.
+
+DOCTOR I907
+Are you having any symptoms?  Any coughs or shortness of breath?
+
+PATIENT I907
+No.
+
+DOCTOR I907
+No.
+
+PATIENT I907
+You know I really don't have any.  Is it on that side or this side?
+
+DOCTOR I907
+Oh a lump?
+
+PATIENT I907
+No not that.  There's a discoloration in the skin.
+
+DOCTOR I907
+I don’t see anything. 
+
+PATIENT I907
+In Vietnam they had that Agent Orange laying on the ground and this whole part of my face broke out and I noticed it.
+
+DOCTOR I907
+No. 
+
+PATIENT I907
+Maybe that's a visual effect.
+
+DOCTOR I907
+@@@
+
+PATIENT I907 
+Or whatever I don't know.  It's not giving me any problem.
+
+DOCTOR I907
+Okay.
+
+PATIENT I907
+I just happen to notice it.
+
+DOCTOR I907
+It's been there since you were young then?  Since you were in Vietnam?
+
+PATIENT I907
+Yeah.
+
+DOCTOR I907
+It's been that long okay.
+
+PATIENT I907
+It @@@ young.
+
+DOCTOR I907
+Younger I should say.
+
+PATIENT I907
+@@@.
+
+DOCTOR I907
+Younger then and the same age I am now.  Alright can you hop up here for me, I'll take a look.
+
+PATIENT I907
+Uh-huh.
+
+DOCTOR I907
+Take a deep breath and again okay.  
+
+(Knock on the door)
+
+PATIENT I907
+Hello DOCTOR how you doing?
+
+SECOND DOCTOR I907
+I'm doing good.  
+
+FIRST DOCTOR I907
+Yeah.
+
+SECOND DOCTOR I907
+Okay.  
+
+FIRST DOCTOR I907
+@@@.  
+
+SEOCOND DOCTOR I907 
+You got your lab work?
+
+PATIENT I907
+Yeah I did it earlier this morning.
+
+SECOND DOCTOR I907
+Oh okay uh-huh.
+
+PATIENT I907
+You know can I ask you something?
+
+SECOND DOCTOR I907
+Yeah.
+
+PATIENT I907
+The last time, not this, when we talked the other day.
+
+SECOND DOCTOR I907
+Yeah.
+
+PATIENT I907
+But uh you know I didn't get the chest x-ray, what was the determination?  Do you think it's necessary this year or?
+
+SECOND DOCTOR I907
+Um is this because you @@@ smoking or what is the reason?
+
+PATIENT I907
+No not just smoking I told you, you know I'm a retired chemist and I used to work around uh real carcinogenic materials.
+
+SECOND DOCTOR I907
+Uh-huh.
+
+PATIENT I907
+And uh I was exposed to Agent Orange also.  I'm not having any problems you know.  If I had some I'd like to get it quick.
+
+SECOND DOCTOR I907
+Uh-huh.
+
+PATIENT I907
+But I did, I had that uh lung uh, what was that uh in nuclear medicine.
+
+SECOND DOCTOR I907
+@@@.
+
+PATIENT I907
+No that's a lung thing in nuclear medicine.
+
+FIRST DOCTOR I907
+Oh it's the CT scan.
+
+PATIENT I907
+Yeah.
+
+FIRST DOCTOR I907
+Where’d you have that? @@@ pulmonary.
+
+PATIENT I907
+Well @@@ it.
+
+SECOND DOCTOR I907
+Okay. @@@ cancer. 
+
+FIRST DOCTOR I907
+It hasn’t been a year yet.
+
+PATIENT I907
+Okay, that was the reason.
+
+FIRST DOCTOR I907
+Yeah.  Maybe in May, that's @@@ year.  So yeah. @@@ smoking. Are you interested?
+
+PATIENT I907
+Interested in what?
+
+FIRST DOCTOR I907
+Quitting smoking.
+
+PATIENT I907
+Uh I should but uh you know.  Like I say I know, you know I ain't no fool.  I know even if I don't inhale I'm still getting, you know.
+
+FIRST DOCTOR I907
+Yeah.
+
+PATIENT I907
+Well, it's just a nervous habit.
+
+FIRST DOCTOR I907
+No I know @@@.
+
+PATIENT I907
+I don't think I’m addicted to the nicotine.
+
+FIRST DOCTOR I907
+Yeah I know, it's definitely just a habit I think.
+
+PATIENT I907
+Yeah.
+
+FIRST DOCTOR I907
+You're absolutely right with that, just having something in your hands and.
+
+PATIENT I907
+Yes.
+
+FIRST DOCTOR I907
+Open your mouth for me a little bit.
+
+PATIENT I907
+I @@@.
+
+FIRST DOCTOR I907
+Now can you lay back?  Pain in your belly, nothing like that?  Okay.
+
+PATIENT I907
+No you know what do they call it when they go @@@ this way?
+
+FIRST DOCTOR I907
+Do you have pain in your belly?
+
+PATIENT I907
+No I did.  That's why I got a test.
+
+FIRST DOCTOR I907
+Okay.  What did they find when they did that?
+
+PATIENT I907
+Diverticulitis.
+
+FIRST DOCTOR I907
+Oh diverticulitis.
+
+PATIENT I907
+Uh-huh.
+
+FIRST DOCTOR I907
+Yeah diverticulitis, that can cause pain up in this area.
+
+PATIENT I907
+That's why @@@ pills.  They ignored it.
+
+FIRST DOCTOR I907
+The pain?
+
+PATIENT I907
+Yeah.
+
+FIRST DOCTOR I907
+@@@.
+
+PATIENT I907
+Even when I told them.  Even when I told them.
+
+FIRST DOCTOR I907
+You can hop down.
+
+PATIENT I907
+They ignored it and then I got uh diverticulitis.
+
+FIRST DOCTOR I907
+But they found it later?
+
+PATIENT I907
+Yeah but I damn near died.
+
+FIRST DOCTOR I907
+Oh really, when was that?
+
+PATIENT I907
+About five years ago.
+
+FIRST DOCTOR I907
+The pain is gone since?
+
+PATIENT I907
+Oh yeah.  Let me ask you a question, it ain't got nothing to do with me.
+
+DOCTOR I907
+Sure.
+
+PATIENT I907
+Generally, when you have cancer, carcinoma.
+
+FIRST DOCTOR I907
+Uh-huh.
+
+PATIENT I907
+How long does it take that to grow?
+
+FIRST DOCTOR I907
+Depending on what cancer it is.
+
+PATIENT I907
+Uh-huh.
+
+FIRST DOCTOR I907
+Um do you have a specific cancer in mind that?
+
+PATIENT I907
+Uh spinal.
+
+FIRST DOCTOR I907
+Spine like bone cancer or what?  It kind of depends on the type of cancer.  Cause some cancers are really aggressive right so you can have them grow really fast.
+
+PATIENT I907
+Yeah like lung cancer spreads to the.
+
+FIRST DOCTOR I907
+Right.
+
+PATIENT I907
+Nodule.  No I was just asking cause of my sister.
+
+FIRST DOCTOR I907
+It does seem like colon cancer that can start out with something like a polyp.
+
+PATIENT I907
+Right.
+
+FIRST DOCTOR I907
+Real slow, like up to ten years. So it kind of really depends on the actual.
+
+PATIENT I907
+Hmm.
+
+FIRST DOCTOR I907
+Types of cancer.  @@@.
+
+PATIENT I907
+Yeah.
+
+FIRST DOCTOR I907
+Spinal symptoms?
+
+PATIENT I907
+Well they say it spread all over uh, it's uh terminal.
+
+FIRST DOCTOR I907
+Oh no, so was it just diagnosed?
+
+PATIENT I907
+Well yeah they just found it lately.
+
+FIRST DOCTOR I907
+What kind of cancer?
+
+PATIENT I907
+Well they said she had a mass on her spine uh her liver, lungs, it's just you know metastasizing all over now.
+
+FIRST DOCTOR I907
+Really.  How old is she?
+
+PATIENT I907
+77.
+
+FIRST DOCTOR I907
+@@@.
+
+PATIENT I907
+I’ve been through this quite a few times with family members.  @@@ years ago they used to give um, used to harp on the seven  warning signs of the different forms of cancer and they backed away from that or maybe I just.
+
+FIRST DOCTOR I907
+Um.
+
+PATIENT I907
+Like if it was a lung cancer, you know coughing problems, blood or whatever.
+
+FIRST DOCTOR I907
+Yeah, that @@@.
+
+PATIENT I907
+Colon cancer you know there's blood in the stool.
+
+FIRST DOCTOR I907
+Absolutely.
+
+PATIENT I907
+Are they still harping on those seven warning signs?
+
+FIRST DOCTOR I907
+Like do they tell everyone about them?  Is that what you mean?
+
+PATIENT I907
+Well it used to be fucking media thing.
+
+FIRST DOCTOR I907
+Yeah, I’m not seeing it in the media as much.
+
+PATIENT I907
+Right that's what I'm saying.
+
+FIRST DOCTOR I907
+You're absolutely right except it's not that we um, that's sort of definitely the warning signs.
+
+PATIENT I907
+But generally when you got through uh physical metamorphosis that means that if you know, it's gotten to the point you know I don't know what stage you would call it.
+
+FIRST DOCTOR I907
+Right when you have symptoms probably.
+
+PATIENT I907
+Right.
+
+FIRST DOCTOR I907
+But unfortunately they’ve found, so many different studies to see where it is beneficial to screen people prior to having symptoms.
+
+PATIENT I907
+Uh-huh.
+
+DOCTOR I907
+So certain stuff we do, for women, we do mammograms and we do pap smears @@@.
+
+PATIENT I907
+Yeah, for a man, it’s a PSA.
+
+DOCTOR I907
+Right.  But you haven't had one in a while but sometimes when people get older they opt not to have it anymore.
+
+PATIENT I907
+I had one last year, didn’t I?
+
+DOCTOR I907
+Um yeah I think I didn’t see any of the lab tests.  Are you getting the rectal exams too?
+
+PATIENT I907
+Yeah.
+
+FIRST DOCTOR I907
+You have.
+
+PATIENT I907
+Uh-huh.
+
+FIRST DOCTOR I907
+Oh okay you have one.
+
+PATIENT I907
+I don't know why.
+
+FIRST DOCTOR I907
+You had one in September, you had a blood test that.
+
+PATIENT I907
+Right.
+
+FIRST DOCTOR I907
+If you're still getting the rectal exam @@@.
+
+PATIENT I907
+Is NAME still here?
+
+FIRST DOCTOR I907
+No.  So he did it last time?
+
+PATIENT I907
+Yes.
+
+FIRST DOCTOR I907
+Okay let me go see if I can @@@.
+
+PATIENT I907
+Digital rectal examination.
+
+FIRST DOCTOR I907
+Yeah and you saw him in like September didn't you.  We'll see @@@.  Alright, okay @@@.
+
+PATIENT I907
+I got all these intentions.
+
+FIRST DOCTOR I907
+Do you get everything by mail then, you're not out right?
+
+PATIENT I907
+Yeah I get them by mail.  All intentions of making these calls and transfer out of one facility to another and I never checked.  This is the first time, I hate these things, and the battery is low.
+
+FIRST DOCTOR I907
+Oh really.  
+
+PATIENT I907
+@@@.
+
+FIRST DOCTOR I907
+Yeah you’re out of some of your medications like your folic acid and stuff, I'm just gonna renew those.
+
+PATIENT I907
+Okay.
+
+FIRST DOCTOR I907
+Do you still take medications for anxiety @@@.
+
+PATIENT I907
+Oh yeah, oh yeah.
+
+FIRST DOCTOR I907
+Who gives you that?
+
+PATIENT I907
+DOCTOR.
+
+FIRST DOCTOR I907
+Okay, are you going to see him soon?
+
+PATIENT I907
+For her uh yeah, you know I, I refilled that now I can go a month.
+
+FIRST DOCTOR I907
+And you’re still taking atenolol for blood pressure right?
+
+PATIENT I907
+Oh yeah.
+
+FIRST DOCTOR I907
+Right @@@ okay.
+
+PATIENT I907
+Yeah.  Cause you know I missed, a while back I saw DOCTOR.  I didn't take that @@@ I was short and my heart rate.
+
+FIRST DOCTOR I907
+Went up?
+
+PATIENT I907
+Started you know.
+
+FIRST DOCTOR I907
+Okay.  So you take that amlodipine also right?
+
+PATIENT I907
+Right.
+
+FIRST DOCTOR I907
+Do you still take the potassium?
+
+PATIENT I907
+Yeah, three, two tablets a day.  That's another thing I don't understand about medicine.  @@@.  But they found that my sodium was low.
+
+FIRST DOCTOR I907
+Uh-huh.
+
+PATIENT I907
+And they put me on potassium chloride; no not they put me on potassium.
+
+FIRST DOCTOR I907
+It was probably your potassium was low probably.
+
+PATIENT I907
+Potassium I see.
+
+FIRST DOCTOR I907
+Yeah so do you take that regularly?
+
+PATIENT I907
+Yeah.
+
+FIRST DOCTOR I907
+Your potassium is still a little low.
+
+PATIENT I907
+It is.
+
+FIRST DOCTOR I907
+Uh-huh and @@@.
+
+PATIENT I907
+And I take my medicines every day.  I guess I'm gonna be on them, might as well get used to it.
+
+FIRST DOCTOR I907
+Okay.
+
+PATIENT I907
+Cause I hate bananas.  What other food got potassium in it?
+
+FIRST DOCTOR I907
+Um green leafy vegetables.
+
+PATIENT I907
+Uh.
+
+FIRST DOCTOR I907
+@@@ that has lots of potassium in it.  Yeah let me talk to DOCTOR and I'll be right back okay.
+
+PATIENT I907
+Okay.
+
+(DOCTOR OUT:  24:00  DOCTOR IN:  29:43)
+
+FIRST DOCTOR I907
+Okay here are the foods that have lots of potassium in them.
+
+PATIENT I907
+Oh @@@.
+
+FIRST DOCTOR I907
+@@@ start eating more of that.
+
+SECOND DOCTOR I907
+How are you?  @@@ tells me all the good things you’re doing.
+
+PATIENT I907
+Like what?
+
+SECOND DOCTOR I907
+But you know working on your blood pressure and your @@@.
+
+PATIENT I907
+Oh, oh, oh, yeah.
+
+SECOND DOCTOR I907
+Yeah okay and then um so um I think you're going in the right direction but we just want to get you doing better okay.
+
+PATIENT I907
+Right, right.
+
+SECOND DOCTOR I907
+Okay, right, alright @@@.
+
+PATIENT I907
+Okay thank you.
+
+FIRST DOCTOR I907
+Should I have him come back for the blood testing or?
+
+SECOND DOCTOR I907
+You have a blood pressure monitor at home right?
+
+PATIENT I907
+Yeah.
+
+SECOND DOCTOR I907
+@@@ at home.  Okay.
+
+FIRST DOCTOR I907
+Um, so, we’re just going to, you had a little bit of protein in your urine, uh.  It's not bad because your kidney function is normal but @@@ on the lisinopril, it’s usually supposed to be protective of the kidneys.
+
+PATIENT I907
+Uh-huh.
+
+FIRST DOCTOR I907
+From some of the blood pressure medicines you're on.
+
+PATIENT I907
+Oh I got it.
+
+FIRST DOCTOR I907
+So you're on half a tablet right now.
+
+PATIENT I907
+Right.
+
+FIRST DOCTOR I907
+We're going to increase it.
+
+PATIENT I907
+@@@.
+
+FIRST DOCTOR I907
+Yeah and then you can go up to one tablet.
+
+PATIENT I907
+Okay.
+
+FIRST DOCTOR I907
+Um just check your blood pressure at home though and if you have any problems, if your blood pressure drops or anything, just go back down to half a tablet okay.
+
+PATIENT I907
+Okay.
+
+FIRST DOCTOR I907
+Sound good?
+
+PATIENT I907
+Okay.
+
+FIRST DOCTOR I907
+Um and then sometimes that can help increase your the potassium too so that's what we're hoping.  Uh and then otherwise, there’s this one @@@  MOVE class um to help with weight loss and @@@ hypertension and diabetes @@@ and they can help you lose weight.
+
+PATIENT I907
+Okay.
+
+FIRST DOCTOR I907
+@@@.  And everything looks good.  Did you have the pneumonia shot this summer?
+
+PATIENT I907
+Yeah.  I'm good, I just got one last year.
+
+FIRST DOCTOR I907
+Last year beautiful.
+
+PATIENT I907
+Uh-huh.  When I got the regular flu shot they gave me the pneumonia shot too.
+
+FIRST DOCTOR I907
+Yeah.  @@@.
+
+PATIENT I907
+Okay.
+
+FIRST DOCTOR I907
+We’ll see you back in like three months?
+
+PATIENT I907
+Sounds good.
+
+FIRST DOCTOR I907
+Okay.
+
+PATIENT I907
+That would be what month is, this is still January I guess.  What is February, March, April.
+
+FIRST DOCTOR I907
+Yeah we could do it.
+
+PATIENT I907
+April 8th.
+
+FIRST DOCTOR I907
+Uh-huh.
+
+PATIENT I907
+Okay. doc.
+
+FIRST DOCTOR I907
+Alright.
+
+PATIENT I907
+Thank you.
+
+FIRST DOCTOR I907
+Have a good one.
+
+PATIENT I907
+Uh-huh.
+
+PATIENT LEAVES:  32:09
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255171
+TRANSACTION # 578-10-2-316-0103

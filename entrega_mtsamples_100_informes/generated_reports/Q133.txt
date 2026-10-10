@@ -1,0 +1,19 @@
+TITLE: Complex Medical Followup - Diabetes and Renal Disease
+DESCRIPTION: Medication reconciliation and glucose management in a patient with advanced renal disease undergoing transplant evaluation.
+
+HISTORY OF PRESENT ILLNESS: The patient presents for extensive medication renewal and review of diabetes management. Multiple prescriptions have expired or were not delivered. He is receiving insulin and has reduced glargine from 70 to 55 units because of overnight hypoglycemia and reduced mealtime insulin to approximately 14 units. Home readings are commonly between 110 and 170, but he reports symptomatic readings as low as 41 and 42, relieved by carbohydrate intake. He is concerned that his glucometer may be unreliable. He has chronic kidney disease with an existing dialysis access fistula and is undergoing kidney transplant evaluation. He reports diminished exercise tolerance and dyspnea climbing stairs or walking about one block. Blood pressure is variable at home.
+
+PAST MEDICAL HISTORY: Insulin-treated diabetes, advanced renal disease, hypertension, hyperlipidemia, gout, cardiovascular disease and urinary symptoms treated with tamsulosin.
+
+MEDICATIONS: Glargine and aspart insulin; antihypertensive agents including metoprolol, nifedipine, hydralazine and diuretics; allopurinol and additional chronic medications.
+
+PHYSICAL EXAMINATION: Lungs were clear on auscultation.
+
+ASSESSMENT AND PLAN:
+1. Diabetes with recurrent hypoglycemia: Reviewed insulin dosing and precautions when meals are reduced. Continue monitoring, avoid excessively low glucose targets, and provide replacement glucometer and supplies. Further cautious titration depends on readings without hypoglycemia.
+2. Advanced chronic kidney disease: Continue Nephrology and transplant program follow-up; existing fistula noted.
+3. Hypertension and edema: Reconcile diuretics and antihypertensive prescriptions; reinforce home blood pressure monitoring.
+4. Exertional dyspnea with cardiac history: Prior stress study was located and described as normal. Arrange Cardiology review despite reassuring testing.
+5. Medication management: Renew needed prescriptions and supplies.
+
+Return in approximately three months.

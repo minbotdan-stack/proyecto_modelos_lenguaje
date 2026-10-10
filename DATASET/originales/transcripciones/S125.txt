@@ -1,0 +1,685 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR S125 
+PATIENT?
+
+PATIENT S125
+Yes ma'am.
+
+DOCTOR S125
+Hi.  How you doing?
+
+PATIENT S125
+Okay.  
+
+DOCTOR S125
+Good to see you.
+
+PATIENT S125
+It's been a long time.
+
+DOCTOR S125
+I know, is that a good thing?  Have you been healthy?
+
+PATIENT S125
+Oh yes and no.
+
+DOCTOR S125
+Oh okay.
+
+PATIENT S125
+Odds and ends.
+
+DOCTOR S125
+Okay.  Come on in.  Have a seat.  So tell me how you've been.
+
+PATIENT S125
+Well so far, so good. I uh.
+
+DOCTOR S125
+Any issues today?
+
+PATIENT S125
+No, not really.  I uh just got back from Arizona.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+I spent eight months over there.  Uh they got me here with some medication that I couldn't get here but I got it over there, why I don't know.
+
+DOCTOR S125
+Okay.  Are you still working out?
+
+PATIENT S125
+I try, yes ma'am.
+
+DOCTOR S125
+Okay.  How many times a week?
+
+PATIENT S125
+Well right now I'm trying to go twice a week.  I used to go three times but uh the last 2 1/2 years, I don't know if you remember but my wife had those strokes and she had another one in 09.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+That's why we went to Arizona for the winter last year.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+And uh we had to come back here because uh Medicare.  We had to be here in Illinois.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+We just got back here in December.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+Which I hated it, to come back.
+
+DOCTOR S125
+Uh-huh.  Well let’s see here, so you're still getting your alprazolam here.
+
+PATIENT S125
+There's one medication I came here a couple of weeks back that one of the doctors wanted canceled.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+Uh, well I don't pronounce those words.
+
+DOCTOR S125
+Doxycycline?
+
+PATIENT S125
+Yeah.
+
+DOCTOR S125
+Now why are you taking that?
+
+PATIENT S125
+Because of my nose, it breaks out.
+
+DOCTOR S125
+Oh okay.
+
+PATIENT S125
+I get uh blisters.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+And uh this was recommended by Dermatology.
+
+DOCTOR S125
+Right.
+
+PATIENT S125
+Now when I, this doctor said it's no good, it could cause problems later on.
+
+DOCTOR S125
+Well it can.  How often do you use it?
+
+PATIENT S125
+Well as long as nothing pops up on my nose I don't take it.
+
+DOCTOR S125
+Right.
+
+PATIENT S125
+Sometimes I take three times a week, sometimes twice, all depends.  When I see my nose breaking out that's when I take the medication.
+
+DOCTOR S125
+So are you taking 100 mg of metoprolol now?  Cause we have you on 200 here.
+
+PATIENT S125
+Uh, what does that say 200?
+
+DOCTOR S125
+It says 100.
+
+PATIENT S125
+100 yeah.
+
+DOCTOR S125
+And we have 200.
+
+PATIENT S125
+Yeah but I've been taking half of it.
+
+DOCTOR S125
+You take half a pill?
+
+PATIENT S125
+I've been taking half of it right.
+
+DOCTOR S125
+Alright let me just change that cause.
+
+PATIENT S125
+I should have brought the bottle.
+
+DOCTOR S125
+Alright.
+
+PATIENT S125
+Now this here, this one here.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+Medication.
+
+DOCTOR S125
+The oxybutynin?
+
+PATIENT S125
+Yeah uh was given to me because a couple of times I find myself uh wet at night.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+The pajamas or I couldn't hold it so I stopped at the VA over there in Arizona and they says no you don't have an infection it just could be your bladder and I've been taking that too as I need it.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+Now one thing I don't understand.
+
+DOCTOR S125
+Yeah.
+
+PATIENT S125
+Uh the VA Hospital, as far as I understand, regardless of where they are, you should honor the other place, their instructions or whatever.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+I was there and I didn't have no problem.  They registered me right away.  Uh I went to the hospital; they assigned me to a doctor.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+I came here and I ran a couple medications and they wouldn't give them to me, they said no, no you have to see a doctor.
+
+DOCTOR S125
+Well you know I have to actually renew the medicines.  I have to put in the order otherwise the Pharmacy can't fill it.  So that might have been what happened.
+
+PATIENT S125
+Yeah but if I, I can see if I'm out completely that I have to renew it but if it's still good, the bottle says renew a couple of more times or whatever.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+Why when I.
+
+DOCTOR S125
+I don't know the answer to that.  That's weird cause.  I don't really know.
+
+PATIENT S125
+Why isn't that particular medication that I'm telling you about my nose?
+
+DOCTOR S125
+Yeah that one had expired in our system.  That's why you couldn't get it.
+
+PATIENT S125
+Oh.
+
+DOCTOR S125
+So it needed to be reordered by a doctor and I've done that.
+
+PATIENT S125
+And then he only gave me enough, he gave me nine pills only.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+Like I say I take that when my nose breaks out.
+
+DOCTOR S125
+Right.  Alright and then are you doing the aspirin through the VA?
+
+PATIENT S125
+No.  
+
+DOCTOR S125
+You're just buying that over-the-counter?
+
+PATIENT S125
+You cut me off.
+
+DOCTOR S125
+Well you can get it here.  It's probably cheaper to just buy it over-the-counter.
+
+PATIENT S125
+Its cheaper buying over-the-counter yes, that's alright.  I can handle that one.
+
+DOCTOR S125
+I mean I can order it for you through here.
+
+PATIENT S125
+No I'll get it.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+Uh the uh, the softener.
+
+DOCTOR S125
+Yeah.  I reordered that.
+
+PATIENT S125
+You did, good.  Cause they canceled me here one time and then I just noticed I still got it here.  Now the other medication that I'm taking is um like complex vitamin B.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+And stuff like that.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+Those were recommended by the cardiologist.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+And I'm still taking that.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+Yeah the one medication that is.
+
+DOCTOR S125
+The saw palmetto that's an over-the-counter thing.
+
+PATIENT S125
+Uh the one medication that I don't have here.
+
+DOCTOR S125
+Lovaza?
+
+PATIENT S125
+Yeah.
+
+DOCTOR S125
+Yeah we don't have that here.  That's not in our pharmacy.
+
+PATIENT S125
+And that baby's expensive.
+
+DOCTOR S125
+Uh-huh.  That's why we don't have it in our pharmacy.
+
+PATIENT S125
+And I been taking that since I had my bypass.
+
+DOCTOR S125
+Uh-huh.  I can see if I can get it.
+
+PATIENT S125
+I had a uh blood work over there and I'm always concerned about my prostate and according to them it was real good, it was 1 point something.
+
+DOCTOR S125
+Okay.  How much of the Lovaza are you on?  Do you remember?
+
+PATIENT S125
+No it's not, I don't have it here.  I'm surprised, yeah wait a minute, wait a minute.  That's my wife's list.  I thought I had everything in order, 1 mg.
+
+DOCTOR S125
+Is that daily?  Once a day?
+
+PATIENT S125
+This?  Again I take it three times a week, four times a week because it's expensive.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+See the metoprolol, I got it here as a half.
+
+DOCTOR S125
+Okay.  Alright, have you eaten today?
+
+PATIENT S125
+Uh I had coffee and a roll.
+
+DOCTOR S125
+Okay.  Do you still see DOCTOR?
+
+PATIENT S125
+Yeah my cardiologist.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+Yeah.  In fact I should have had a stress test, a stress test.  I haven't seen him since two years ago or three years ago and I call him up, he says yeah come in and we'll give a test.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+And I took a stress test and all that.
+
+DOCTOR S125
+And it was okay?
+
+PATIENT S125
+Yeah he did blood work on that too, yes.  He showed me the x-ray before and after and.
+
+DOCTOR S125
+You mean the stress test?
+
+PATIENT S125
+Yeah and they show pretty good.
+
+DOCTOR S125
+Good.  Okay.
+
+PATIENT S125
+I'm taking um that uh sleeping pill.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+Uh because I guess, us, they call it stress with my wife and had to put her in a home, after 2 1/2 years taking care of her.  It was getting to me.  I wasn't getting no sleep, at all, maybe two hours, three hours at night.
+
+DOCTOR S125
+Yeah.
+
+PATIENT S125
+I'm still taking that and that sort of helps me relax at night.  Well it helps me fall asleep.  
+
+DOCTOR S125
+Alright and then you had your colonoscopy in 2002 right?
+
+PATIENT S125
+The what?
+
+DOCTOR S125
+You had your colonoscopy in 2002 at Gotleib?
+
+PATIENT S125
+Yeah.
+
+DOCTOR S125
+So you're due for another one next year okay.
+
+PATIENT S125
+Okay, if I'm around.
+
+DOCTOR S125
+Um can we do labs today?
+
+PATIENT S125
+I don't know, you want to do it?
+
+DOCTOR S125
+Well I'd like to do your fasting labs but you haven't been fasting.
+
+PATIENT S125
+No well they didn't tell me.
+
+DOCTOR S125
+Yeah.  So what do you want me to do?  Do you want me to order them and you can come back at your convenience and get them done?
+
+PATIENT S125
+Yeah why don't we do that.  Like I said in Arizona they did a blood work.
+
+DOCTOR S125
+When was the most recent blood work?  That was at the VA right?
+
+PATIENT S125
+Right.
+
+DOCTOR S125
+Let me take a look at it.
+
+PATIENT S125
+It should be there.
+
+DOCTOR S125
+Sometimes it's hard to pull it up.  
+
+PATIENT S125
+Since I had my angioplasty done, back in '93, this same doctor, DOCTOR, suggested I should have a little wine at night.
+
+DOCTOR S125
+Yeah you could.
+
+PATIENT S125
+So I been doing that.  In fact, they did the stress test and I said shall I stay on the wine, yes.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+But no more than two glasses though.
+
+DOCTOR S125
+Uh-huh.  Oh your cholesterol is okay on that labs.
+
+PATIENT S125
+What was it over there?
+
+DOCTOR S125
+Your total cholesterol is 152; we like to see less than 100 or less than 200.
+
+PATIENT S125
+So.
+
+DOCTOR S125
+And your bad cholesterol, your LDL we like to be less than 100 and yours was 86 so that's good.
+
+PATIENT S125
+Yeah cause I was going at the Y over there.
+
+DOCTOR S125
+Uh-huh.
+
+PATIENT S125
+Twice a week, three times a week sometimes.  I try to keep active.
+
+DOCTOR S125
+That's good.
+
+PATIENT S125
+And now with the wife in there, I got to go see her so the most I can go is twice a week.
+
+DOCTOR S125
+Hop up here; let's take a look at you.  So are you all alone now at home?
+
+PATIENT S125
+Yeah.
+
+DOCTOR S125
+Okay, open up for me, say ah.
+
+PATIENT S125
+Ah.
+
+DOCTOR S125
+You doing okay at home?  Kind of getting around okay?
+
+PATIENT S125
+Yeah.  Cleaning.
+
+DOCTOR S125
+Cleaning.
+
+PATIENT S125
+Washing, pressing, cooking, dusting.
+
+DOCTOR S125
+Yeah.  So you're doing the hard work huh.  Big deep breaths.  Good.  Any swelling in your legs?
+
+PATIENT S125
+No, oh I got my long socks.
+
+DOCTOR S125
+That's okay.  Well everything looks good.  Alright, give me just a couple of minutes and let me go talk to my boss and we'll get you going okay?
+
+PATIENT S125
+Okay.
+
+DOCTOR S125
+You can hop on down.  Actually, let me just quickly look and see at my reminders to see what we need to do @@@.  Anything in your body that's metal, @@@ scrapnel, nothing like that.  You had your CABG though right, you had a bypass?
+
+PATIENT S125
+Yeah.  My bypass.  The only problem I've got is with my knee but an injury before the Korean now its bone with bone.  If I do a lot of walking or standing it swells up on me.  I was trying to prove that it happened just before the Korean and I can't find the records.  I know there's records here, they took care of it but they x-rayed it.
+
+DOCTOR S125
+Okay give me just a couple of minutes okay.
+
+PATIENT S125
+Yeah.
+
+(DOCTOR OUT:  83:07  DOCTOR IN:  93:06
+
+DOCTOR S125
+Well alright.  Well hopefully they got the medicines kind straightened out.
+
+PATIENT S125
+Okay yeah.  I just ordered this here uh, you don't know if it's been mailed.
+
+DOCTOR S125
+Well actually let me see if I can tell or not.
+
+PATIENT S125
+Cause I got enough just for this week.
+
+DOCTOR S125
+Mail, so it was just mailed yesterday.
+
+PATIENT S125
+Oh good, good.
+
+DOCTOR S125
+So um @@@ three months or so.
+
+PATIENT S125
+Okay.
+
+DOCTOR S125
+Okay and then we'll repeat your labs at that time here.
+
+PATIENT S125
+Okay.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+Uh.
+
+DOCTOR S125
+If you're not gonna be around I'd like you to be sure you follow up.
+
+PATIENT S125
+I'll be here.  Yeah my wife is in there now.
+
+DOCTOR S125
+So you're here.  You're here.
+
+PATIENT S125
+I'm stuck here now.  Um oh and the blood tests.
+
+DOCTOR S125
+I'll order them for three months from now okay.
+
+PATIENT S125
+Are you gonna, do you want me to come back or do you want me to?
+
+DOCTOR S125
+No, we'll just do it before you come back.
+
+PATIENT S125
+Oh you'll let me know.
+
+DOCTOR S125
+Your next appointment, when you come in for your next appointment.
+
+PATIENT S125
+Yeah.
+
+DOCTOR S125
+Come in having fasted the night before.
+
+PATIENT S125
+Okay.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+Sounds good.
+
+DOCTOR S125
+And I'll order those now to get it all set up okay.
+
+PATIENT S125
+Very good.
+
+DOCTOR S125
+You're all set.
+
+PATIENT S125
+Thank you.
+
+DOCTOR S125
+It's good to see you.
+
+PATIENT S125
+Okay, thank you DOCTOR.  And I return this over there right?
+
+DOCTOR S125
+Right up front there.
+
+PATIENT S125
+Okay.
+
+DOCTOR S125
+Okay.
+
+PATIENT S125
+Thank you ma'am.
+
+DOCTOR S125
+Have a good uh @@@.  Be careful outside.
+
+PATIENT S125
+Yeah it can get bad.
+
+PATIENT LEAVES:  94:52.
+
+Time is 10:00 a.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249431
+TRANSACTION # 578-10-2-316-0103

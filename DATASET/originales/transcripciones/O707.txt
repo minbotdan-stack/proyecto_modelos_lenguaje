@@ -1,0 +1,864 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@@   
+
+PATIENT O707
+@@@ saw you in a while DOCTOR, how you doing?
+
+DOCTOR O707
+I'm doing.  How are you?
+
+PATIENT O707
+Good to see you alright too.  @@@.
+
+DOCTOR O707
+@@@.
+
+PATIENT O707
+Alright, maybe I shouldn't had a tight grip, I try not to.  So what's been happening with you?  How were the holidays?
+
+DOCTOR O707
+Good.
+
+PATIENT O707
+Did you celebrate holidays?
+
+DOCTOR O707
+Yeah.  @@@ worked up here so.
+
+PATIENT O707
+@@@ year of the cat.
+
+DOCTOR O707
+Did you do anything special?
+
+PATIENT O707
+Yes I, I didn't eat too much.  I can't @@@ my weight.  @@@ but it won't come off yet.
+
+DOCTOR O707
+Well the last time we had talked you were seeing the nutritionist.
+
+PATIENT O707
+Yeah I've done all of that.
+
+DOCTOR O707
+You did a lot of changes.
+
+PATIENT O707
+Yeah, I've done all of that.  I just can't seem to drop it now.  I'm gonna do suck it off that tube out here?
+
+DOCTOR O707
+I don't know if they have uh plastic surgery liposuction.
+
+PATIENT O707
+You ought to try to see if they got it for me.  @@@ DOCTOR.  I'm tired of this stomach.
+
+DOCTOR O707
+Well I can ask.
+
+PATIENT O707
+Right.
+
+DOCTOR O707
+See what they've got.
+
+PATIENT O707
+@@@ lipo, the stomach @@@ too.
+
+DOCTOR O707
+Uh-huh.  Let's see, so how have you been feeling?
+
+PATIENT O707
+I been feeling better.
+
+DOCTOR O707
+Good.
+
+PATIENT O707
+But uh my blood pressure won't stay down because uh you took me off of one and uh @@@ the lisinopril.
+
+DOCTOR O707
+Lisinopril yeah.
+
+PATIENT O707
+Yeah cause you know for my the potassium was acting up.
+
+DOCTOR O707
+Yeah.
+
+PATIENT O707
+So since it's been normal, maybe I could start taking it again or something similar.
+
+DOCTOR O707
+Yeah let's see here.  When did they stop it on the 2nd?
+
+PATIENT O707
+Uh you stopped it.  No Urgent Care stopped it.
+
+DOCTOR O707
+Urgent Care stopped it.
+
+PATIENT O707
+Yeah uh-huh.  I don't know what date, but he turned me around when I was on my way home to come back.
+
+DOCTOR O707
+Yeah because your labs were high right.
+
+PATIENT O707
+Yeah.
+
+DOCTOR O707
+Gotcha and then on the 9th your labs looked fine.
+
+PATIENT O707
+That's my last time here?
+
+DOCTOR O707
+Uh-huh.
+
+PATIENT O707
+Okay.  She said it was 4.4 or something like that.
+
+DOCTOR O707
+Yeah.
+
+PATIENT O707
+Uh-huh.
+
+DOCTOR O707
+Once it gets above 5 we start getting a little nervous.
+
+PATIENT O707
+Uh-huh.  But mine was up to 9, wasn't it, boy that's up there.
+
+DOCTOR O707
+It was 5.9 on the second, @@@ and it says refill all medications.  What ones are you out of?
+
+PATIENT O707
+I'm out of uh my allopurinol.
+
+DOCTOR O707
+Okay.
+
+PATIENT O707
+I'm out of colchicine.  
+
+DOCTOR O707
+Do you pick them up here or do you want me to mail them?
+
+PATIENT O707
+You can mail them.  Like I'm gonna need and then my methadone.
+
+DOCTOR O707
+Okay.
+
+PATIENT O707
+I got that two weeks ago but I wasn't feeling well to come and I had some left so you can mail that to me too.  He got to write out a prescription for that.
+
+DOCTOR O707
+Yeah.
+
+PATIENT O707
+Okay cause he asked me to pick it up now or you can mail it?
+
+DOCTOR O707
+Uh I'll see if they have any prescription pads around.  If they have one I can write one.
+
+PATIENT O707
+@@@.
+
+DOCTOR O707
+DOCTOR.
+
+PATIENT O707
+You can write one now?
+
+DOCTOR O707
+Sometimes.  
+
+PATIENT O707
+Yeah.
+
+DOCTOR O707
+But you, if you have to fill it here though.
+
+PATIENT O707
+Yeah I know.
+
+DOCTOR O707
+Yeah.
+
+PATIENT O707
+I know, you know like most doctors would take it and have him write it out.
+
+DOCTOR O707
+Yeah, I fill all of it and then I @@@ signature.
+
+PATIENT O707
+Right I thought you said you're @@@ now.  Let me see, lisinopril uh, allopurinol, colchicine, let me see right here, alcohol pads.  Could I have a refill on uh capsaicin?
+
+DOCTOR O707
+Uh capsaicin you've got three refills left.
+
+PATIENT O707
+Okay.  Maybe, @@@.
+
+DOCTOR O707
+Okay.
+
+PATIENT O707
+I think that's it DOCTOR unless you can think of something.
+
+DOCTOR O707
+It looks like and I'll renew some of your medications just to make sure you have enough refills.
+
+PATIENT O707
+Uh-huh.
+
+DOCTOR O707
+But the rest of them it looks like you filled them.  Are you still taking the amlodipine?
+
+PATIENT O707
+Uh-huh.
+
+DOCTOR O707
+It says that you last filled it in July.
+
+PATIENT O707
+July.
+
+DOCTOR O707
+You must still have some left.
+
+PATIENT O707
+July, what month is this?  Yeah they used to give me a 90 day supply.
+
+DOCTOR O707
+Alright.
+
+PATIENT O707
+July also since October, now only in July, I still got some, okay yeah I still got some left.  
+
+DOCTOR O707
+@@@.
+
+PATIENT O707
+Okay.  So the one I say you got an order on that right?  
+
+DOCTOR O707
+Uh-huh.
+
+PATIENT O707
+Okay.
+
+DOCTOR O707
+I'm typing it in right now.
+
+PATIENT O707
+Alright.
+
+DOCTOR O707
+And tell me what you've been doing with your diet.
+
+PATIENT O707
+I've been, I've been trying to get those 3 1/2 meals.  I'm trying to get always three in.  Sometimes I can get it in and sometime I can't but I'm going to the gym every day.  I don't know it just don't feeling like the weight wanna come off.  It don't, it's just I don't understand it you know.  And the more I work out, it like it just stays.  You think I got a ulcer or something cause they had to put me.  I had the stomach, one of them showing @@@.  Uh @@@ thing you gave me when they.
+
+DOCTOR O707
+The ultrasound?
+
+PATIENT O707
+Yeah it didn't show no abnormalness @@@.
+
+DOCTOR O707
+No are you having stomach pain?
+
+PATIENT O707
+No, I just can't understand why my stomach won't go down you know.  I'm doing sit-ups, I'm riding a bike and I don't know what's wrong with this thing.  I'm thinking I might have Crohn's disease or something.  I ain't got Crohn's disease do I?
+
+DOCTOR O707
+No, that usually makes people not gain weight but they have a lot of diarrhea and constipation.
+
+PATIENT O707
+But do they have big stomachs too?
+
+DOCTOR O707
+Not as much no.  Not the same in that, it all just comes out the other end.
+
+PATIENT O707
+@@@ see if they got that suction and the stomach stapling.  I got to have some help with this thing.  I know what I'm doing maybe it ain't working, it ain't working.  
+
+DOCTOR O707
+Do you feel like your pants are fitting loser or you're getting more muscle?
+
+PATIENT O707
+I well I'm getting more, I'm getting stronger, I'm getting stronger but some of my clothes uh getting lose you know.  I can see, sometimes I can lose, I feel like I losing inches you know and then but the weight is still there and like uh two weeks ago I weighed and I was 297.5, now this morning I'm 299, that pound and a half come from less than a week and a half, less than two weeks.  And I want you know, I don't know, I don't know.  It seems like it just, it's hard to take a deep breath of air, it'll turn to pounds.  
+
+DOCTOR O707
+I know some people will actually notice their weight will stay about the same or even go up if they start working out because muscle weighs more than fat.
+
+PATIENT O707
+As a matter of fact, I been training at the gym so I know all about that.  My thing is me, why I can't, I'm doing everything I think is possible to get rid of this stomach and it don't seem to be working you know.  I need help, I need, even if I gotta go somewhere else and see if they can do that uh stomach stapling or that liposuction.  
+
+DOCTOR O707
+Uh-huh.
+
+PATIENT O707
+I need something like that cause it would take me ten years if I could do it but this ain't working for me.
+
+DOCTOR O707
+Do you have any supplemental insurance on top of what the VA has for you?
+
+PATIENT O707
+No.
+
+DOCTOR O707
+Okay.  So if we look for something I'll try to, I'll ask the attending to see if they know if the procedures they do it here if you are eligible.
+
+PATIENT O707
+Right and it got to be a problem because it hinders my health you know.  It's not making me feel any better and uh and messing with my blood pressure, it got to be cause all of this weight and stuff you know so.  Just like you could recommend it.
+
+DOCTOR O707
+Uh-huh.
+
+PATIENT O707
+You know.  But it is interfering.
+
+DOCTOR O707
+@@@ ultrasound.
+
+PATIENT O707
+Okay.
+
+DOCTOR O707
+No fluid @@@ everything was just about the same as the last time it was done.
+
+PATIENT O707
+Yeah I don't know.  @@@.  I don't understand what's going on, what's going on.
+
+DOCTOR O707
+Gotcha.
+
+PATIENT O707
+Uh last week, I @@@ know anything about the gym and how to lifting weight and things.
+
+DOCTOR O707
+Uh-huh.
+
+PATIENT O707
+But I was, I squat 505 pounds, three reps.
+
+DOCTOR O707
+505?
+
+PATIENT O707
+Uh-huh.
+
+DOCTOR O707
+That's a lot.
+
+PATIENT O707
+It is a lot but I'm getting stronger but I can't lose this stomach you know.  In that in the gym I lift weights, the cardiac machine, I'm constantly on it and I don't know.  I don't want to do it too much because your stomach would turn into muscle.
+
+DOCTOR O707
+Uh-huh.
+
+PATIENT O707
+You know then I'm just stuck with a big old muscle.
+
+DOCTOR O707
+@@@.
+
+PATIENT O707
+Yeah then it'd be out to here and I never would be able to give you a big old, like I got a six month baby stomach muscle but the fact is I can't get rid of it anyway because of the muscle you know.  I don't waht that, I don't know.  It's a dilemma for me.  You know, I don't and I can't and my clothes, I don't like the way I look in my clothes now.  Man, I don't look the same, my stomach.  I like I'm neat, I like to look good but this thing here causes a problem for me and see it ain't shaking my confidence cause I can deal with anything but I just don't like the way I look but I'm not gonna you know.  I don't know it's, it's a hassle.  I'm just, maybe I'm too vain but I don't want this stomach I know that.
+
+DOCTOR O707
+@@@.
+
+PATIENT O707
+Yeah.  You know I can't predict anything.  I'm working out hard and it's not working.
+
+DOCTOR O707
+Let me take a listen to your heart and lungs.
+
+PATIENT O707
+Okay sure.
+
+DOCTOR O707
+What kind of @@@.
+
+PATIENT O707
+Okay.
+
+DOCTOR O707
+You haven't seen DOCTOR since you saw.
+
+PATIENT O707
+No, did he go to Kentucky with his people?
+
+DOCTOR O707
+He's still here.  I don't, he doesn’t have clinic today here.
+
+PATIENT O707
+Oh.
+
+DOCTOR O707
+He had an overnighter in the hospital or something.
+
+PATIENT O707
+Uh.
+
+DOCTOR O707
+Deep breath.  But I know that he was just talking about you.
+
+PATIENT O707
+Was he?  He cool.  He supposed to go into a, sometime @@@.
+
+DOCTOR O707
+Yeah.
+
+PATIENT O707
+I got those socks that I wear too, you know support hose.
+
+DOCTOR O707
+Yeah, compression stockings.
+
+PATIENT O707
+Yeah I wear those too.
+
+DOCTOR O707
+Good.
+
+PATIENT O707
+Um he come right here or came back from Kentucky, called a snakehead on me, see I got one of the snakehead but he gonna get me another when he go gets his parents.
+
+DOCTOR O707
+I'll mention it to him.
+
+PATIENT O707
+Well he had better not forget.
+
+DOCTOR O707
+I'll be right back.
+
+PATIENT O707
+Alright.
+
+(DOCTOR OUT:  13:15  DOCTOR IN:  26:02)
+
+PATIENT O707
+I thought you had to deal with a Code Blue.
+
+DOCTOR O707
+@@@ where it was.  I think they announced like three different locations.
+
+PATIENT O707
+I thought they said Red Tower.
+
+DOCTOR O707
+They said it was in the Red Tower and then they said the Reception Center and then @@@.
+
+PATIENT O707
+Yeah but then they said something about @@@.
+
+DOCTOR O707
+Yeah we have a Code Team that will go.
+
+PATIENT O707
+Okay.
+
+DOCTOR O707
+DOCTOR went to find a prescription pad.
+
+PATIENT O707
+Okay.
+
+DOCTOR O707
+He'll be in shortly.
+
+PATIENT O707
+Alright.
+
+DOCTOR O707
+But we need, so I talked to him a little bit about what options that we have and unfortunately we don't have anyone who does liposuction here.
+
+PATIENT O707
+Did you check with Hines?
+
+DOCTOR O707
+Huh?
+
+PATIENT O707
+With Hines?
+
+DOCTOR O707
+I don't know cause we don't have anyone here that works at Hines.
+
+PATIENT O707
+Yeah but I can go to Hines and have it done because if Hines do it.
+
+DOCTOR O707
+If they have it.
+
+PATIENT O707
+Yeah but you gonna check, how you gonna check with Hines see if Hines handles it cause if you don't have doesn't mean Hines don't have it.
+
+DOCTOR O707
+No I mean I don't think the VA has this.
+
+PATIENT O707
+Oh, oh I gotcha.  Okay I see that would probably be some outside thing for me to do, okay.
+
+DOCTOR O707
+Yeah.
+
+PATIENT O707
+Alright.
+
+DOCTOR O707
+And then.
+
+PATIENT O707
+I got you, I understand.  Uh but you say you don't think VA has it so you really don't know.
+
+DOCTOR O707
+No we do have a VA Plastic Surgery section but they do more things like skin flaps or like reconstruction of someone's you know broken their hand and they need to cover the area that's not healing well.  I've never seen anyone there do anything like liposuction.
+
+PATIENT O707
+There's probably a first time for everything.
+
+DOCTOR O707
+No.
+
+PATIENT O707
+@@@ you know you never saw you have to ask them and see if, just if they do either.  You got to guess you know you not certain.
+
+DOCTOR O707
+Okay.
+
+PATIENT O707
+Alright.  You're not certain of it.  And did you guys decide whether I take my lisinopril?
+
+DOCTOR O707
+Hold on one second, are you still smoking?
+
+PATIENT O707
+Yes.
+
+DOCTOR O707
+They do have a bariatric surgery that does bypass and banding around the stomach.
+
+PATIENT O707
+Uh yeah actually that's two of them.
+
+DOCTOR O707
+Yeah they won't do, we don't have a plastic surgery that does liposuction but bariatric surgery we do have but you can't be smoking.
+
+PATIENT O707
+Well then when do I got to stop?
+
+DOCTOR O707
+As soon as possible.  Cause they won't even see you.
+
+PATIENT O707
+Okay.  Alright @@@.  This one, this is going to make me stop so I got to, okay let me tell you this, I'm not gonna stop today, but this will be my last week, how's that?
+
+DOCTOR O707
+Okay.
+
+PATIENT O707
+This be my last week, after this week the next time you see me I'm not smoking.
+
+DOCTOR O707
+Okay.
+
+PATIENT O707
+Now okay, that's my promise.
+
+DOCTOR O707
+Have you ever had any abdominal surgeries before?
+
+PATIENT O707
+No but I've had my stomach, I had open heart surgery.
+
+DOCTOR O707
+Okay.  They are just wondering how complicated it's gonna be.  Because the more surgeries you have the more scar tissue you have.
+
+PATIENT O707
+No, no, no.  I don't know if I have no scar, but I don't go out naked.
+
+DOCTOR O707
+Okay.
+
+PATIENT O707
+I'm gonna stop smoking, Friday or Saturday is my last day.  How can I prove it that I don't smoke.
+
+DOCTOR O707
+So when you go talk to them you.
+
+PATIENT O707
+Can I go, okay you gonna put in an appointment.
+
+DOCTOR O707
+I'm putting in a referral.
+
+PATIENT O707
+Right.  
+
+DOCTOR O707
+You've been to the MOVE Program before right and you've seen them at least a couple of times.
+
+PATIENT O707
+Uh-huh.
+
+DOCTOR O707
+Alright cause they will ask you and you will have had to have seen the MOVE Program.
+
+PATIENT O707
+Uh-huh.
+
+DOCTOR O707
+At least for a couple of months to prove that you really tried to lose the weight.
+
+PATIENT O707
+Uh-huh, uh-huh.
+
+DOCTOR O707
+And it's not working.  So I put in a referral, they’ll do the same thing.  They'll try to schedule you up front so they'll give you, uh they'll either call you with an appointment to try to schedule the appointment.
+
+PATIENT O707
+Okay.  Now did you go ahead and @@@ lisinopril right?
+
+DOCTOR O707
+Um.  We're gonna go up on one of the other.
+
+PATIENT O707
+Oh I’m only taking one.
+
+DOCTOR O707
+You're on carvedilol.
+
+PATIENT O707
+That's not for high blood pressure.
+
+DOCTOR O707
+It helps with the blood pressure too.
+
+PATIENT O707
+Does it?
+
+DOCTOR O707
+Uh-huh.
+
+PATIENT O707
+Okay.  Hey doc how you doing?  Good to see you, good to see you.
+
+SECOND DOCTOR O707
+Hi.  Uh so uh here's your script.
+
+PATIENT O707
+Okay.
+
+SECOND DOCTOR O707
+Um and um it turns out while there is a Bariatric Program here but you have to have your BMI has to be greater than 40 um and you have to have um a variety of criteria, have you looked in there?
+
+FIRST DOCTOR O707
+Yeah.
+
+SECOND DOCTOR O707
+For complications.
+
+FIRST DOCTOR O707
+Above 40 straight out or between 35 and 40 with one or two of the following either hypertension, diabetes, OSA.
+
+SECOND DOCTOR O707
+Is that listed in the criteria here as well?
+
+FIRST DOCTOR O707
+Uh-huh.
+
+SECOND DOCTOR O707
+Okay.
+
+FIRST DOCTOR O707
+So he does quality for a referral but he has to stop smoking.
+
+PATIENT O707
+Uh this is my last week.
+
+FIRST DOCTOR O707
+And he has the referral to, we talked about that.
+
+PATIENT O707
+But uh yeah.  It's about what I need to stop smoking anyway, a push.
+
+SECOND DOCTOR O707
+You might be right.  And you know again you want to think hard about going through something like this to have surgery you know.
+
+PATIENT O707
+Yeah.  I've thought about it.  I been thinking about it you know and it, it's just my back is hurting a lot, cause you know there's a lot of weight in my stomach its heavy.
+
+SECOND DOCTOR O707
+Right.
+
+PATIENT O707
+You know and my pressure goes up and down you know.
+
+SECOND DOCTOR O707
+Exactly.  Alright well you can at least meet them and see what you think.
+
+PATIENT O707
+Yeah.
+
+SECOND DOCTOR O707
+And they can take a look at you.
+
+PATIENT O707
+Alright.  Well I appreciate you gonna do the referral.
+
+SECOND DOCTOR O707
+Sure okay and we'll go up on your blood pressure medicine too.
+
+PATIENT O707
+You got that.
+
+SECOND DOCTOR O707
+We'll get that squared away.
+
+PATIENT O707
+Okay.
+
+SECOND DOCTOR O707
+And then we'll recheck his labs.
+
+FIRST DOCTOR O707
+Uh-huh.
+
+SECOND DOCTOR O707
+His creatinine and his uh potassium.
+
+PATIENT O707
+Okay.
+
+SECOND DOCTOR O707
+So um.  Alright.
+
+PATIENT O707
+Alright doc, thanks a lot now.
+
+SECOND DOCTOR O707
+You bet.
+
+PATIENT O707
+Uh-huh.
+
+FIRST DOCTOR O707
+So that’s really all there is, we're gonna check your labs today.
+
+PATIENT O707
+Uh-huh.
+
+FIRST DOCTOR O707
+To make sure you're potassium.
+
+PATIENT O707
+You gonna look at all that yeah, I got to go back up to the Lab to get it checked?
+
+FIRST DOCTOR O707
+Yep.
+
+PATIENT O707
+Right now, okay, you gonna close me out right?
+
+FIRST DOCTOR O707
+Yes.
+
+PATIENT O707
+Alright so I go down and do that.  I gonna go to the Lab right now and let them take my lab and then I'm gonna go pick up my money, then I'm gonna go to the Pharmacy and @@@.
+
+FIRST DOCTOR O707
+Uh-huh.
+
+PATIENT O707
+And then I be out of here.
+
+FIRST DOCTOR O707
+Yep and you wanted the rest of your medications to come through the mail.
+
+PATIENT O707
+Right, right.
+
+FIRST DOCTOR O707
+So you're only picking one thing up.
+
+PATIENT O707
+Right.  But DOCTOR, as always you've been on top of it.
+
+FIRST DOCTOR O707
+Alright.
+
+PATIENT O707
+You uh I never leave here disappointed.  As always @@@.
+
+FIRST DOCTOR O707
+@@@.
+
+PATIENT O707
+Yes, you know we got to help each other now, you know.  I got to put in a good word for you.  I tell some of the patients, go see DOCTOR, she's real good.
+
+FIRST DOCTOR O707
+@@@.
+
+PATIENT O707
+@@@.
+
+FIRST DOCTOR O707
+Don't get me started on @@@.
+
+PATIENT O707
+And I take this to the desk?
+
+FIRST DOCTOR O707
+Yeah.  And see if they can make you an appointment straight up, otherwise.
+
+PATIENT O707
+Oh okay.
+
+FIRST DOCTOR O707
+You'll have to wait for them to call you.
+
+PATIENT O707
+Alright doctor, I do appreciate it.
+
+DOCTOR O707
+So I'll close you up right now.
+
+PATIENT O707
+Good.  I'll see you later.
+
+DOCTOR O707
+Alright.
+
+PATIENT O707
+And when you see me @@@ don't forget now I ain't gonna be the same.
+
+DOCTOR O707
+Well maybe I'll see you next time.
+
+PATIENT O707
+Alright open or close?
+
+DOCTOR O707
+Open is fine.
+
+PATIENT O707
+Alright see you later.  Uh-huh.
+
+DOCTOR O707
+Now the next time you'll see me @@@.
+
+PATIENT LEAVES:  33:44.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286095
+TRANSACTION # 578-10-2-316-0103

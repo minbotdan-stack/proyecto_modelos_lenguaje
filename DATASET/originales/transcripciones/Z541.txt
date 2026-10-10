@@ -1,0 +1,555 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR Z541
+@@@ I think you're supposed to be my 3:30 but if you want to go early.  Okay.  We just kind of have to be a little quicker so in case the 1:30 shows up, so we can get them in okay.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+Unless you want to wait.
+
+PATIENT Z541
+No that's fine.
+
+DOCTOR Z541
+You'd rather come in?
+
+PATIENT Z541
+Yes ma'am.
+
+DOCTOR Z541
+Okay, come on in.  I'm DOCTOR and I think you already have a doctor.  I think DOCTOR is your doctor right?
+
+PATIENT Z541
+I'm not sure.  
+
+DOCTOR Z541
+He saw you in March.
+
+PATIENT Z541
+Yes ma'am.
+
+DOCTOR Z541
+Yeah.  So what brings you in today?
+
+PATIENT Z541
+Uh I had an appointment to see the doctor and I wanted to know when it would be possible to get into a group.
+
+DOCTOR Z541
+What kind of group?
+
+PATIENT Z541
+Uh.
+
+DOCTOR Z541
+Why don’t you come over here, we can talk and I can go through your chart up at the same time.  Okay. What kind of group?
+
+PATIENT Z541
+You know any kind of group where you sit down and start saying things.
+
+DOCTOR Z541
+Like a mental health group or?
+
+PATIENT Z541
+@@@.
+
+DOCTOR Z541
+What's bothering you?
+
+PATIENT Z541
+Oh, uh it's hard for me to sustain reality from fiction.
+
+DOCTOR Z541
+Give me an example.
+
+PATIENT Z541
+I keep seeing monsters and seeing people dying.
+
+DOCTOR Z541
+But it's not real as far as you know?
+
+PATIENT Z541
+I could tell just by @@@.
+
+DOCTOR Z541
+So you feel like you're kind of seeing the future?  When did this start?
+
+PATIENT Z541
+Since 71.
+
+DOCTOR Z541
+So you're kind of seeing into the future.
+
+PATIENT Z541
+Yes ma'am.
+
+DOCTOR Z541
+Okay.  What's your past medical history?  What else do you have wrong?
+
+PATIENT Z541
+My legs.I need an operation on my leg.
+
+DOCTOR Z541
+Do you have heart disease?
+
+PATIENT Z541
+I had three stents put in.
+
+DOCTOR Z541
+When was that?
+
+PATIENT Z541
+Just about two months ago.
+
+DOCTOR Z541
+Okay.  What else?
+
+PATIENT Z541
+They had to operate on my eye too.
+
+DOCTOR Z541
+DOCTOR know you've had some heart disease um, he talked about where do you have screws in your, in your leg?
+
+PATIENT Z541
+Right here, right here.
+
+DOCTOR Z541
+So in the right knee, you had a right knee surgery and that's all really.  You don't have too much going on, in terms of chronic medical things.
+
+PATIENT Z541
+And it's hard for me to sleep.
+
+DOCTOR Z541
+Okay.  Do you see a psychiatrist?
+
+PATIENT Z541
+Yes ma'am, I just started coming here.
+
+DOCTOR Z541
+Okay they just saw you on June 30th and you told them, are you taking the sleeping pill they gave you?
+
+PATIENT Z541
+Yes ma'am.
+
+DOCTOR Z541
+Are you taking the olanzapine and sertraline?
+
+PATIENT Z541
+Yes.
+
+DOCTOR Z541
+And is that helping these symptoms?
+
+PATIENT Z541
+No.
+
+DOCTOR Z541
+We might just have to send you back to the Mental Health Center.  You know you have this condition which is atypical psychosis.
+
+PATIENT Z541
+Oh yeah.
+
+DOCTOR Z541
+You know that's what those medications are for.
+
+PATIENT Z541
+I see.
+
+DOCTOR Z541
+But if they're not controlling your symptoms then you probably need those medications to be changed.
+
+PATIENT Z541
+Okay.  I understand.  Could you make them a little stronger so I can rest?
+
+DOCTOR Z541
+I can't, but we're going to send you to them.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+Hopefully today.  Hold on just a second.  The other question I had, I'm looking at your Mental Health Note from June 30th and they said that they gave you an appointment to come and see me um because you were having a cough and nasal congestion.  Are you still having that?
+
+PATIENT Z541
+Yes ma'am.
+
+DOCTOR Z541
+Well why don't we take care of that problem since you're here.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+And then I'll call over to Mental Health and see if we can follow up over there today.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+Okay.  Tell me about the cough.
+
+PATIENT Z541
+Oh, it's hard for me to oh, my throat is sore.
+
+DOCTOR Z541
+How long has that been going on?
+
+PATIENT Z541
+The last month.
+
+DOCTOR Z541
+Okay so you have sore throat.  When does the cough happen the most?  At night or during the day?
+
+PATIENT Z541
+At night.
+
+DOCTOR Z541
+Okay.  Does it keep you up?
+
+PATIENT Z541
+Yes ma'am.
+
+DOCTOR Z541
+Okay.  Um do you ever have like a sour taste in your mouth?
+
+PATIENT Z541
+Yes.
+
+DOCTOR Z541
+Okay.  At nighttime?
+
+PATIENT Z541
+Yes.
+
+DOCTOR Z541
+Okay.  And with the nasal congestion do you feel like stuff is dripping down your throat?
+
+PATIENT Z541
+Yes ma'am.
+
+DOCTOR Z541
+Okay.  Any history of asthma?
+
+PATIENT Z541
+No but I do have hay fever.
+
+DOCTOR Z541
+Okay.  Are you taking that loratadine that they gave you?
+
+PATIENT Z541
+Yes.
+
+DOCTOR Z541
+Does that help?
+
+PATIENT Z541
+Somewhat.
+
+DOCTOR Z541
+Okay.  So the cough’s been happening for about a month.
+
+PATIENT Z541
+Yeah.
+
+DOCTOR Z541
+So @@@.
+
+PATIENT Z541
+Yeah.
+
+DOCTOR Z541
+Has this ever happened before, like years before?
+
+PATIENT Z541
+No.
+
+DOCTOR Z541
+Okay.  Okay any fevers or chills.
+
+PATIENT Z541
+Chills and a fever.
+
+DOCTOR Z541
+Okay.  Any trouble breathing?
+
+PATIENT Z541
+No.
+
+DOCTOR Z541
+Okay.  When you cough are you bringing anything up?
+
+PATIENT Z541
+Yeah.
+
+DOCTOR Z541
+What types of stuff?
+
+PATIENT Z541
+Mucous.
+
+DOCTOR Z541
+What color?
+
+PATIENT Z541
+Sometimes it'll be yellow.
+
+DOCTOR Z541
+Do you have any other complaints today or just the initial complaint?
+
+PATIENT Z541
+I need to sleep, I'm tired.
+
+DOCTOR Z541
+Okay did you try that medicine they gave you?
+
+PATIENT Z541
+I didn't do no good.
+
+DOCTOR Z541
+Let me see if I have the number for Mental Health?  Let me see if this is the number.  Do you think you'd like to go over there and see somebody so they could change your medicines?
+
+PATIENT Z541
+If you send me, I'll go.
+
+DOCTOR Z541
+Let me call them.  I don't know if this is the right number, but we'll try.  I'm looking at your meds now and you know.  Did you try the cough syrup they gave you?
+
+PATIENT Z541
+Yes.
+
+DOCTOR Z541
+Did it help?
+
+PATIENT Z541
+No, no.
+
+DOCTOR Z541
+Any of @@@ here?
+
+(Doctor made phone call in the room with patient)
+
+DOCTOR Z541
+You’re already on all the treatment.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+For the cough, you know how you take this omeprazole medicine, do you know that one? (answers the phone) They’ll see you right when we’re done.
+
+PATIENT Z541
+Yeah.
+
+DOCTOR Z541
+So the omeprazole you can take maybe at nighttime instead of in the morning and maybe that'll help your cough.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+You sound like you're laying down and maybe you're getting acid reflux.
+
+PATIENT Z541
+Uh-huh.
+
+DOCTOR Z541
+So maybe we should change that medicine to twice a day.  You take it in the morning and at night.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+And hopefully that'll help your cough.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+So that sounds good?
+
+PATIENT Z541
+Yeah.
+
+DOCTOR Z541
+I'm going to take a listen though and make sure your lungs sound good and then we'll get you on your way and I can have you take that medicine twice a day.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+Here have a seat over here.  Do you know where the Intake Center is on the first floor of Building 228?
+
+PATIENT Z541
+Uh, I’ll find it. I don’t know where it is, but I’ll find it.
+
+DOCTOR Z541
+Do you know where 228 is, the Mental Health Building?
+
+PATIENT Z541
+@@@ where I just come from?
+
+DOCTOR Z541
+Yes.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+And then you go to where it says Intake.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+Um you're not having any voices telling you to hurt yourself or anything?
+
+PATIENT Z541
+Yesterday I did.
+
+DOCTOR Z541
+You did?
+
+PATIENT Z541
+Weird sounds and I have been getting @@@.
+
+DOCTOR Z541
+Do you think you need to go to the Emergency Room instead or would you rather try going.  Have you ever had that happen to you before?
+
+PATIENT Z541
+Twice before.
+
+DOCTOR Z541
+What happened then, did you just go to Mental Health?
+
+PATIENT Z541
+Uh-huh yeah.
+
+DOCTOR Z541
+And they helped you with your medicines?
+
+PATIENT Z541
+Yeah.
+
+DOCTOR Z541
+Okay.  So I'm going to take a quick listen okay.  Take a deep breath.  Have you ever used an inhaler?
+
+PATIENT Z541
+Uh yes.
+
+DOCTOR Z541
+Do you want to try one now to help your cough?
+
+PATIENT Z541
+Okay, alright.
+
+DOCTOR Z541
+And do you want me to mail it to you or do you want to pick them up?
+
+PATIENT Z541
+Probably pick them up.
+
+DOCTOR Z541
+Okay.  Now this medicine, you can take two puffs, so two inhales um every six hours as you need it okay.
+
+PATIENT Z541
+Alright.
+
+DOCTOR Z541
+So see if it helps.  Now real quick, let me just look through here.  So what exactly are the voices telling you to do?
+
+PATIENT Z541
+Crying out to me for help.
+
+DOCTOR Z541
+Okay and how are they telling you to hurt yourself?  What do they say?
+
+PATIENT Z541
+I can do better than what I'm doing @@@.
+
+DOCTOR Z541
+They want your help, okay.  You need to feel better than this right?  So I think this is probably the best option to go to the first floor, 228.
+
+PATIENT Z541
+228.
+
+DOCTOR Z541
+I wrote it on here for you.  Um.  So and you're going to Building 228 first floor Mental Health Intake.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+Okay so maybe if you get lost you can ask someone, you know Building 228.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+It's like that way.
+
+PATIENT Z541
+Alright.
+
+DOCTOR Z541
+You go to the first floor and then instead of going out the front you kind of walk to the other building right?
+
+PATIENT Z541
+Yes ma'am.
+
+DOCTOR Z541
+So I'll be right back but here's this that you'll need.  I'll be right back you stay here for a minute.
+
+PATIENT Z541
+Okay.
+
+DOCTOR Z541
+Now I can leave the door open to get you some air okay.
+
+PATIENT Z541
+Please.
+
+(DOCTOR OUT:  50:12  DOCTOR IN:  56:55
+
+DOCTOR Z541
+Alright come on.  We got someone to walk you over so you won't get lost.
+
+PATIENT Z541
+@@@.
+
+DOCTOR Z541
+I was worried because I'm not exactly sure where the desk is either so, we might as well send someone who knows exactly where you're going.
+
+PATIENT Z541
+Yes ma'am.
+
+DOCTOR Z541
+@@@.  You got a lot of fun stuff here.  So it's nice to meet you.
+
+PATIENT Z541
+Nice to meet.
+
+DOCTOR Z541
+So you take that antacid medicine twice a day okay.
+
+PATIENT Z541
+Yes ma'am.  Okay I have @@@ yes ma'am.  I'll be doing that.
+
+DOCTOR Z541
+Okay.
+
+PATIENT Z541
+Okay thank you.
+
+DOCTOR Z541
+Thank you sir.  
+
+PATIENT LEAVES:  57:30
+
+(Someone takes the patient to the Mental Health Building)
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238116
+TRANSACTION # 578-10-2-316-0103

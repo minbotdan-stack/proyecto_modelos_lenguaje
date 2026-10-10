@@ -1,0 +1,826 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@ 
+
+DOCTOR I473 
+PATIENT?
+
+PATIENT I473
+Yeah.  Your collar is unbuttoned there.  More, you got more?  Uh-huh.
+
+DOCTOR I473
+How are you doing today?
+
+PATIENT I473
+Pretty well.
+
+DOCTOR I473
+Well go ahead and have a seat.  How you feeling today?
+
+PATIENT I473
+Pretty well in one sense and the other sense I got a terrible pain in my arm but then.
+
+DOCTOR I473
+What happened there with your arm?
+
+PATIENT I473
+A car accident.
+
+DOCTOR I473
+Oh no.  When was that?
+
+PATIENT I473
+When was it?
+
+DOCTOR I473
+Uh-huh.
+
+PATIENT I473
+15th of last month.
+
+DOCTOR I473
+15 of last month.
+
+PATIENT I473
+Uh-huh.
+
+DOCTOR I473
+Okay.  What happened to your arm?
+
+PATIENT I473
+Oh it got broke here.
+
+DOCTOR I473
+Oh okay.
+
+PATIENT I473
+DOCTOR done put a pin in it.  But it swelled quite a bit.
+
+DOCTOR I473
+Yeah.
+
+PATIENT I473
+I was wishing that I could get something to help it go down.
+
+DOCTOR I473
+Uh-huh.
+
+PATIENT I473
+Okay.
+
+DOCTOR I473
+Who, where did you get the pin done?
+
+PATIENT I473
+Christ Hospital.
+
+DOCTOR I473
+Christ okay.
+
+PATIENT I473
+Uh-huh.
+
+DOCTOR I473
+So it was on the 15th of January, oh that must have been terrible.  Did they, they didn't cast it?  You don't have a cast on?
+
+PATIENT I473
+Uh uh.
+
+DOCTOR I473
+Now why did they do that?  I wonder hmm.
+
+PATIENT I473
+I'm not the doctor, please don't ask me.
+
+DOCTOR I473
+That's okay.  And when was the operation?
+
+PATIENT I473
+They did the operation on the 20th.
+
+DOCTOR I473
+On the 20th okay.
+
+PATIENT I473
+Uh-huh.
+
+DOCTOR I473
+Alright.  What are you taking for the pain?
+
+PATIENT I473
+I think they gave me Vicodin; I brought the medicine they gave me.  
+
+DOCTOR I473
+Thank you.
+
+PATIENT I473
+That's the pain med, for iron.
+
+DOCTOR I473
+Yeah.  Did they give you the iron?
+
+PATIENT I473
+Hmm?
+
+DOCTOR I473
+Did they give you this iron here?
+
+PATIENT I473
+They gave me both of them.
+
+DOCTOR I473
+Yeah I wonder why they gave you iron?  Are you taking iron?  Well I don't think you're taking iron with us.
+
+PATIENT I473
+No I’m not taking iron with you.
+
+DOCTOR I473
+They must have thought you needed it for some reason huh.
+
+PATIENT I473
+Probably had I lost so much blood.
+
+DOCTOR I473
+Ah okay.
+
+PATIENT I473
+But I needed some iron tablets.
+
+DOCTOR I473
+So have you been taking this?  Is it making you constipated, this iron?
+
+PATIENT I473
+Yeah, yeah.
+
+DOCTOR I473
+Are you taking it three times a day?
+
+PATIENT I473
+I take whatever it says.
+
+DOCTOR I473
+Thank you.  Alright now um your blood pressure's a little low um.
+
+PATIENT I473
+Oh.
+
+DOCTOR I473
+Yeah.  Are you feeling dizzy at all?
+
+PATIENT I473
+I wasn't feeling the best this morning.  I guess I was a little dizzy.
+
+DOCTOR I473
+Did you eat breakfast this morning?
+
+PATIENT I473
+No I didn't.
+
+DOCTOR I473
+Okay that might have something to do with it.
+
+PATIENT I473
+No I thought I had to have some lab work done so I hadn't eaten nothing since 12 o'clock last night.
+
+DOCTOR I473
+Oh okay.
+
+PATIENT I473
+Just then I just had a cup of water a few minutes ago.
+
+DOCTOR I473
+Okay.
+
+PATIENT I473
+But no I hadn't eaten nothing.
+
+DOCTOR I473
+Okay let's see um see if we need to get lab work done.
+
+PATIENT I473
+I went over there to check and they said “No.”
+
+DOCTOR I473
+Yeah just give me a little bit.  Okay um now uh no chest pain, shortness of breath?
+
+PATIENT I473
+Not really.
+
+DOCTOR I473
+Not really.  Um you're not feeling.
+
+PATIENT I473
+But this whole side over here is sore and I guess it is sore cause I been carrying my arm a certain way.
+
+DOCTOR I473
+Yeah.
+
+PATIENT I473
+Okay so I can't really say I'm not having chest pain or short of breath.  I am a little sore on this side.
+
+DOCTOR I473
+Uh-huh.
+
+PATIENT I473
+Okay.
+
+DOCTOR I473
+Were you the one driving the car?  
+
+PATIENT I473
+I was driving the car but somebody hit me.
+
+DOCTOR I473
+Someone hit you okay.  Um okay, let's see here.  Um and did you take your blood pressure pills this morning?
+
+PATIENT I473
+Took all of my medicine this morning.
+
+DOCTOR I473
+Okay.  And you're still taking the water pill?
+
+PATIENT I473
+Yes.
+
+DOCTOR I473
+Okay and how have your sugars been at home?
+
+PATIENT I473
+My sugars been running between 115 and 120.
+
+DOCTOR I473
+115 and 120.
+
+PATIENT I473
+119 this morning.
+
+DOCTOR I473
+Any numbness or tingling in your feet?
+
+PATIENT I473
+Numbness or tingling?  
+
+DOCTOR I473
+No.
+
+PATIENT I473
+Uh uh.
+
+DOCTOR I473
+And you just saw the podiatrist and the eye doctor.
+
+PATIENT I473
+Uh-huh.
+
+DOCTOR I473
+Okay.  How long have you had that pacemaker now?  Or the device?
+
+PATIENT I473
+Pacemaker I had that since 2008.
+
+DOCTOR I473
+Okay.  Alright um, so a couple things um you are due for some lab work but you don't need to be fasting for it.
+
+PATIENT I473
+Right.
+
+DOCTOR I473
+The other thing is um you were due for a repeat colonoscopy, you know what that is for the colon cancer screening?  Um so we'll start setting that up and they'll probably call you about when to set that up.  It's to check for colon cancer.
+
+PATIENT I473
+Okay.
+
+DOCTOR I473
+Okay.  Um let me see, @@@.  Check you A1c, let's see um and you know the last time you were here we talked about um that you are having problems sort of with @@@ that you were getting tired quicker.  Do you feel like that's happening still?  
+
+PATIENT I473
+Uh-huh.
+
+DOCTOR I473
+Not necessarily?
+
+PATIENT I473
+Uh it's still happening but not as bad as it was.  Let me put it this way I haven't been running up and down stairs lately.
+
+DOCTOR I473
+Okay.
+
+PATIENT I473
+Okay so I can't really say.
+
+DOCTOR I473
+Why don't you just have a seat here.  I just want to take a look at you.
+ 
+PATIENT I473
+Okay.
+
+DOCTOR I473
+So do you think your arm is more swollen than when you had the surgery or is it getting a little bit better?
+
+PATIENT I473
+No it's more swollen now and it actually getting much heavier.
+
+DOCTOR I473
+Okay.  I'll look at it.
+
+PATIENT I473
+Hmm.
+
+DOCTOR I473
+You can just relax.  Do you smoke sir?
+
+PATIENT I473
+Yeah, yeah I smoke.
+
+DOCTOR I473
+Do you want to quit?  We have the Cessation Clinic here if you want you know with patches and gums and things like that if you're interested.
+
+PATIENT I473
+@@@.
+
+DOCTOR I473
+Okay.  It's be good for your heart.  Deep breaths.  Do your legs ever swell?
+
+PATIENT I473
+Uh-huh.
+
+DOCTOR I473
+Yeah.  Now is this more than usual or about the same?
+
+PATIENT I473
+Uh a little bit more than usual.
+
+DOCTOR I473
+Now when you sleep at night can you lay flat or do you have to sit up?
+
+PATIENT I473
+Oh, no I normally sleep on two or three pillows.
+
+DOCTOR I473
+Two, three pillows.
+
+PATIENT I473
+Uh-huh.
+
+DOCTOR I473
+So does it feel real tight, your arms?
+
+PATIENT I473
+Yes it feels real tight.
+
+DOCTOR I473
+Okay.  Let me just take a look.  When are you seeing them again over at Christ?
+
+PATIENT I473
+When do I see them again?
+
+DOCTOR I473
+Yeah.  Do they have a follow-up with you?
+
+PATIENT I473
+On the 15th.
+
+DOCTOR I473
+15th okay.  
+
+PATIENT I473
+You say you want to see this?
+
+DOCTOR I473
+Yeah.
+
+PATIENT I473
+Pull that down a second.  I need a little help.
+
+DOCTOR I473
+Sure.  Okay, is that alright?  Okay.  Well so, the medicine I can give you for the swelling, I just want to make sure.  Do you have a lot of pain going all the way down your arm or the?
+
+PATIENT I473
+Yeah @@@.
+
+DOCTOR I473
+Can you feel these fingers okay?
+
+PATIENT I473
+Yeah I feel them.
+
+DOCTOR I473
+Okay.
+
+PATIENT I473
+@@@.
+
+DOCTOR I473
+Okay here, good okay.  Now um there's a thing called compartment syndrome where if there's so much swelling in your arm and you can't get it off, so that would be like a lot of pain you know excruciating pain um the medicine we give for to decrease swelling can sometimes affect the kidneys so I'm going to talk to DOCTOR and make sure cause your kidney function is not normal, it is not in a bad place but it is not normal and that is probably from the diabetes @@@ blood pressure and stuff like that.
+
+PATIENT I473
+Okay.
+
+DOCTOR I473
+Okay.  Well let me talk to her.  You can keep your jacket off and I'll help you put it back on after I have her, she's going to come in and talk with you as well okay.
+
+PATIENT I473
+Okay.
+
+DOCTOR I473
+So where did you lose the blood from?  The break in the arm, is that right?  Okay.
+
+(DOCTOR OUT:  23:40  DOCTOR IN:  34:10)
+
+SECOND DOCTOR I473
+Hey PATIENT.
+
+PATIENT I473
+DOCTOR how are you?
+
+SECOND DOCTOR I473
+Great, how are you?
+
+PATIENT I473
+Oh I would be better if this wasn’t.
+
+SECOND DOCTOR I473
+So where is the surgery?
+
+PATIENT I473
+Right here, right in there.
+
+SECOND DOCTOR I473
+Okay.  Is the wound is okay?
+
+PATIENT I473
+Uh-huh.
+
+SECOND DOCTOR I473
+Wound is healing?
+
+FIRST DOCTOR I473
+You know where they cut, is it oozing or anything or does it look clean when you have unwrapped that?
+
+PATIENT I473
+No @@@ enough, uh-huh.
+
+SECOND DOCTOR I473
+No is the swelling worsening or is it the same?
+
+PATIENT I473
+Much worse, absolutely.
+
+FIRST DOCTOR I473
+@@@ okay.
+
+SECOND DOCTOR I473
+Are you having any dizziness or anything?
+
+PATIENT I473
+No.
+
+SECOND DOCTOR I473
+Did you hurt anywhere else besides the arm?
+
+PATIENT I473
+No.
+
+SECOND DOCTOR I473
+This is the only place where you got hurt.  No head trauma, no bleeding, no hurting anywhere else?
+
+PATIENT I473
+Uh uh.
+
+SECOND DOCTOR I473
+Okay.  How's your breathing?
+
+PATIENT I473
+Breathing's okay.
+
+SECOND DOCTOR I473
+No chest pain?
+
+PATIENT I473
+No.  @@@.
+
+FIRST DOCTOR I473
+Just a venous Doppler right?
+
+SECOND DOCTOR I473
+Yes, exactly um.  And who is the doctor?  Do we have the doctor’s information?
+
+PATIENT I473
+DOCTOR.
+
+SECOND DOCTOR I473
+Okay.  Go ahead and pull it up, just try to check that wound and make sure that it’s okay.  Go ahead and pull down the, you are changing the dressing or they are changing the dressing?
+
+PATIENT I473
+Well I've been changing the dressing.
+
+SECOND DOCTOR I473
+Okay.  @@@.
+
+PATIENT I473
+DOCTOR @@@ down there.  
+
+(DOCTORS TALK ABOUT PATIENT BETWEEN THEMSELVES)
+
+(DOCTOR OUT:  37:38  DOCTOR IN:  39:53)
+
+FIRST DOCTOR I473
+Okay.  @@@ the VA.  Oh, sorry about that.  So your wife's helping you at home?
+
+PATIENT I473
+Uh-huh.
+
+FIRST DOCTOR I473
+Good.  That's terrible.  I was in a car accident about seven months ago.  I didn't get my car back for like three weeks.  It was that @@@.
+
+PATIENT I473
+Uh-huh.
+
+FIRST DOCTOR I473
+So was your car totaled?
+
+PATIENT I473
+@@@.
+
+FIRST DOCTOR I473
+What’s the plan with that? What was the person, what were they doing?  Were they just, no drinking or anything?
+
+PATIENT I473
+Drinking and driving.
+
+DOCTOR I473
+Oh no.
+
+PATIENT I473
+@@@.
+
+FIRST DOCTOR I473
+Gosh.  What time of day was it? 
+
+PATIENT I473
+11 something, I.
+
+FIRST DOCTOR I473
+Did they run a stop light or anything or what?
+
+PATIENT I473
+Something I don't remember.
+
+FIRST DOCTOR I473
+Okay.
+
+PATIENT I473
+One block from the house.
+
+FIRST DOCTOR I473
+Oh my gosh.  Sorry about that.
+
+PATIENT I473
+No problem.
+
+FIRST DOCTOR I473
+Okay.  Okay, let me just grab DOCTOR okay.
+
+PATIENT I473
+Okay.
+
+FIRST DOCTOR I473
+Looks like you've got a lot @@@.  You know does it weep a lot or no?  Not necessarily.
+
+PATIENT I473
+Huh?
+
+FIRST DOCTOR I473
+Does it weep a lot of fluid?
+
+PATIENT I473
+Uh uh.
+
+FIRST DOCTOR I473
+Okay.
+
+PATIENT I473
+This dressing's been on there since yesterday morning @@@.
+
+FIRST DOCTOR I473
+Okay. 
+
+SECOND DOCTOR I473
+Wow pretty big trauma huh.  Okay.  I think we leave it @@@.
+
+PATIENT I473
+@@@.
+
+(Doctors talk among themselves)
+
+SECOND DOCTOR I473
+So this swelling is worse than before huh?
+
+PATIENT I473
+Yeah.
+
+SECOND DOCTOR I473
+Do you have the pain?
+
+FIRST DOCTOR I473
+It's swelling @@@.
+
+(Doctors talk among themselves)
+
+SECOND DOCTOR I473
+Okay so what happened to the arm my friend? Car accident and it’s healing so slowly.  Are you diabetic?
+
+PATIENT I473
+Uh-huh. 
+
+SECOND DOCTOR I473
+Okay.  How's your sugars?
+
+PATIENT I473
+@@@.
+
+SECOND DOCTOR I473
+Huh?
+
+PATIENT I473
+Should be okay lately.
+
+SECOND DOCTOR I473
+I see, I have some @@@.  I'll be right back.  
+
+(Doctors talk among themselves.)
+
+SECOND DOCTOR I473
+Okay, that is skin, it's healing slowly, at least non-bleeding, non-oozing, there's no infection and we might debride at one point.  So what do your wife does, does she put the Kerlix with this?
+
+PATIENT I473
+Uh-huh.
+
+SECOND DOCTOR I473
+She wraps it up.
+
+PATIENT I473
+Uh-huh.
+
+SECOND DOCTOR I473
+Okay.
+
+PATIENT I473
+@@@ though.
+
+SECOND DOCTOR I473
+Okay just put the @@@, thank you.  @@@ some tape.
+
+FIRST DOCTOR I473
+PATIENT do you want your medicine to come to your house?
+
+PATIENT I473
+Yeah.
+
+FIRST DOCTOR I473
+Okay.  Um the only other thing for the Vascular Lab is in the Damon Building on the third floor.  Are you @@@ in the Damon Building, third floor Vascular Lab.
+
+PATIENT I473
+Uh-huh.
+
+FIRST DOCTOR I473
+They're just gonna ultrasound your arm to make sure there's no clot since it's swollen so bad okay.  Then you need to tell them to go to the Lab, its okay if you eat something.  These labs will only check to see if you need the iron and will also check your diabetes stuff.  Um would you come back here when you're finished with those two things and just wait here and I'll tell you the results?
+
+PATIENT I473
+Okay.  Labs down here.
+
+FIRST DOCTOR I473
+Yeah.
+
+PATIENT I473
+Okay.  What floor, is it on the 3rd floor?
+
+FIRST DOCTOR I473
+Uh yeah 3rd floor Damon Building yeah.
+
+PATIENT I473
+Okay.
+
+FIRST DOCTOR I473
+And then do the lab.
+
+PATIENT I473
+Okay.
+
+FIRST DOCTOR I473
+Yeah.
+
+PATIENT I473
+@@@.
+
+SECOND DOCTOR I473
+Okay sir.
+
+PATIENT I473
+You could even give me a hand.
+
+FIRST DOCTOR I473
+Yeah I will.
+
+SECOND DOCTOR I473
+Okay, alright.
+
+FIRST DOCTOR I473
+Give me just one second.  
+
+SECOND DOCTOR I473
+Alright you can go.  Do you want me to @@@?
+
+FIRST DOCTOR I473
+Oh I did already.  I'm just going to help put @@@.
+
+SECOND DOCTOR I473
+Okay.  Go ahead and do the, they want him now or later?
+
+FIRST DOCTOR I473
+Yes.
+
+SECOND DOCTOR I473
+Okay go ahead and go to the Vascular Clinic.
+
+PATIENT I473
+Uh-huh,
+
+SECOND DOCTOR I473
+That's the Vascular Clinic, @@@.  It's on the main hospital, the old one.
+
+PATIENT I473
+Okay.
+
+SECOND DOCTOR I473
+Uh the Damon Building, sixth floor.
+
+PATIENT I473
+Uh-huh.
+
+DOCTOR I473
+Sixth floor now Vascular.  Okay, it's on the fifth floor.
+
+FIRST DOCTOR I473
+Sorry about that, it's the fifth floor.
+
+SECOND DOCTOR I473
+Okay and it's called Vascular Lab.
+
+PATIENT I473
+Okay.
+
+SECOND DOCTOR I473
+Okay and as soon as that is done go to the Lab.
+
+PATIENT I473
+Uh-huh.
+
+SECOND DOCTOR I473
+Do the blood and then wait out there.
+
+PATIENT I473
+Okay.
+
+SECOND DOCTOR I473
+I need to check the results before you leave.  And eat and drink some fluids.
+
+PATIENT I473
+Okay.
+
+SECOND DOCTOR I473
+Okay because your blood pressure is really low so I want them to check it again.
+
+PATIENT I473
+Okay.
+
+FIRST DOCTOR I473
+Other way.
+
+FIRST DOCTOR I473
+Okay sorry.  Okay.  Okay good up here.
+
+PATIENT I473
+Uh-huh.
+
+FIRST DOCTOR I473
+Okay so 5th floor Damon Building.
+
+PATIENT I473
+5th floor.
+
+FIRST DOCTOR I473
+Damon Building and then the Lab after that and then you come wait and we'll, I'll come get you outside.
+
+PATIENT I473
+Okay.
+
+FIRST DOCTOR I473
+Okay.
+
+PATIENT LEAVES:  49:39
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286114
+TRANSACTION # 578-10-2-316-0103

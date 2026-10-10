@@ -1,0 +1,19 @@
+Sample Name: Tick Bite and Diabetes Followup
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Follow-up after an erythema migrans-like tick bite, with uncontrolled blood glucose and medication adjustments.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient was seen in the emergency department after noticing a red, target-like skin lesion with central clearing following a possible tick bite. He reports no associated fever, malaise, generalized joint pains, chest pain, or respiratory symptoms. Lyme serology is pending. Routine blood count and chemistries were reassuring apart from hyperglycemia. Home morning glucose readings remain approximately 220 to 240 on metformin, and he requests further nutrition or diabetes education. He is awaiting elective evaluation for a deviated nasal septum. He has stopped using an oxygen concentrator due to markedly increased electricity bills but continues CPAP, which he reports helps his sleep. Blood pressure is satisfactory at home. Triglycerides remain elevated and variable despite treatment.
+
+ASSESSMENT AND PLAN:
+1. Possible early localized Lyme disease. Complete doxycycline for 14 days, following review of the rash and absence of systemic symptoms. Contact the clinic for new migratory arthralgia, rash, systemic symptoms, or worsening condition while serology is pending.
+2. Type 2 diabetes with persistent fasting hyperglycemia. Request renewed diabetes nutrition education and repeat glycemic studies at follow-up.
+3. Hypertriglyceridemia. Increase gemfibrozil from once daily to twice daily as discussed, with repeat fasting lipid testing.
+4. Hypertension without current edema. Continue metoprolol; furosemide may be held and reserved for recurrent fluid accumulation according to the treating clinician's plan.
+5. Sleep-related oxygen. CPAP continued; concentrator use and affordability discussed, but long-term oxygen need requires clinical reassessment rather than assuming no indication.
+6. Follow up in approximately three months with repeat laboratory tests.

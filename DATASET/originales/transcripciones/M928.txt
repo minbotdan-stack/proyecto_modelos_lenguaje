@@ -1,0 +1,344 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@   
+
+DOCTOR M928
+PATIENT?  @@@.
+
+PATIENT M928
+@@@.
+
+DOCTOR M928
+Yep.  Thanks for coming.  How you been doing?
+
+PATIENT M928
+Uh I'm here.
+
+DOCTOR M928
+So so yeah.
+
+PATIENT M928
+Yeah.
+
+DOCTOR M928
+I saw you were in the hospital a month ago for some @@@.
+
+PATIENT M928
+Uh when was that?  That was all back in February.
+
+DOCTOR M928
+February yeah.
+
+PATIENT M928
+Yeah, yeah.  Oh.
+
+DOCTOR M928
+So have you had any problem since then?
+
+PATIENT M928
+I been having no problem.  I went to treatment.
+
+DOCTOR M928
+Oh for addiction?
+
+PATIENT M928
+Yeah.
+
+DOCTOR M928
+Good, how you doing?
+
+PATIENT M928
+Uh that same week after I got out of the hospital.
+
+DOCTOR M928
+Yeah.
+
+PATIENT M928
+Yeah, @@@.
+
+DOCTOR M928
+So are you clean?
+
+PATIENT M928
+I ain't all the way clean.  I don't do crack cocaine no more, I can't lie I been smoking marijuana cause it help me relax.
+
+DOCTOR M928
+Okay.
+
+PATIENT M928
+But I haven't been doing any crack cocaine.
+
+DOCTOR M928
+But you're going to the Addiction Treatment here?
+
+PATIENT M928
+No I went to Haymarket.
+
+DOCTOR M928
+Oh okay.
+
+PATIENT M928
+Yeah.  So I went to them so I mean I ain't had no problems as far as chest pains or nothing like that.
+
+DOCTOR M928
+Good.  I was gonna say that's probably what would be the cause.  I don't know if they talked to you about that.
+
+PATIENT M928
+Oh they did.  I knew that was the cause.
+
+DOCTOR M928
+Okay.
+
+PATIENT M928
+Yeah, so I knew I had to do something so.
+
+DOCTOR M928
+So how have you been feeling?
+
+PATIENT M928
+Uh still pain.
+
+DOCTOR M928
+Yeah.
+
+PATIENT M928
+Yeah.
+
+DOCTOR M928
+You're on the Vicodin and Flexeril?
+
+PATIENT M928
+Uh Vicodin, what's Flexeril?
+
+DOCTOR M928
+Cyclobenzaprine.
+
+PATIENT M928
+Right here.
+
+DOCTOR M928
+Yeah it's prescribed to you.  I don't know if you're taking it but.
+
+PATIENT M928
+Uh what's that for?
+
+DOCTOR M928
+It's a muscle relaxer.
+
+PATIENT M928
+But they haven't been giving it to me.
+
+DOCTOR M928
+It says it's active.
+
+PATIENT M928
+Yeah that's what I wanted to talk to you about too.  I haven't got any muscle relaxers in it's been for two months and with my knee you know spasms of the back a lot yeah I came Monday cause of.
+
+DOCTOR M928
+Looks like, oh yeah are they just not sending it to you?
+
+PATIENT M928
+I guess not.
+
+DOCTOR M928
+Then you can pick it up.
+
+PATIENT M928
+Yeah I'll pick it up.
+
+DOCTOR M928
+Yeah.  You could just go over there and pick it up.
+
+PATIENT M928
+And I wanted to know also today if I could get um more refills so I'll probably get them like next week maybe like Wednesday or something.
+
+DOCTOR M928
+I don't think I can get, I can't give them to you early, through the Pharmacy for like pain medicine?
+
+PATIENT M928
+Yeah.
+
+DOCTOR M928
+Yeah you can ask them.  I don't think I can give them to you early.
+
+PATIENT M928
+Yeah.
+
+DOCTOR M928
+It can only be like once a month.  They're super strict about it.
+
+PATIENT M928
+Right.
+
+DOCTOR M928
+Are you going out of town or something?
+
+PATIENT M928
+Yeah for my daughter's graduation and I'm gonna be gone for a couple of weeks.  The last time I got it was, cause sometimes, but one time they let me get them like a week early you know I came in early so.
+
+DOCTOR M928
+Uh.
+
+PATIENT M928
+So if I could pick them up like Wednesday but I'm not gonna be here and I'm.
+
+DOCTOR M928
+If you go over there and they call me, I can say that it's okay.
+
+PATIENT M928
+Okay.
+
+DOCTOR M928
+Um but I don't know if they'll do it but you can just tell them and they'll call me.
+
+PATIENT M928
+Okay.
+
+DOCTOR M928
+And um maybe we can do it; I'll just talk to them and try to figure out what we can do.
+
+PATIENT M928
+Okay.
+
+DOCTOR M928
+Otherwise, anything else?  Any other problems?
+
+PATIENT M928
+No.
+
+DOCTOR M928
+Good.  At least your heart testing looked good.
+
+PATIENT M928
+Hmm.
+
+DOCTOR M928
+But.  Deep breath and you're not due for anything else for another year.  You're gonna have to have a colonoscopy next year.
+
+PATIENT M928
+Yeah I had one of those last year.
+
+DOCTOR M928
+You did?
+
+PATIENT M928
+Yeah.
+
+DOCTOR M928
+When?
+
+PATIENT M928
+I don't remember what month it was.
+
+DOCTOR M928
+but you remember the procedure?
+
+PATIENT M928
+Yeah I remember well, I had I couldn't eat for a couple of days at home, I had to drink all this stuff.
+
+DOCTOR M928
+Oh.  Why did you have it done?
+
+PATIENT M928
+Uh because I been having stomach problems.
+
+DOCTOR M928
+Oh did somebody else schedule it for you?
+
+PATIENT M928
+Uh yeah, no it was here.
+
+DOCTOR M928
+I didn't schedule it.
+
+PATIENT M928
+No it was uh, I wasn’t seeing you then.
+
+DOCTOR M928
+Oh.
+
+PATIENT M928
+It would be either DOCTOR or the one after DOCTOR.
+
+DOCTOR M928
+Let's see.  Do you remember, oh here ooh okay.  Alright.  So you don't need one for ten more years, good for you.  April, you had it done in April okay so that was okay, let me write that down,.  
+
+PATIENT M928
+ @@@ hospital.
+
+DOCTOR M928
+Yeah.
+
+PATIENT M928
+@@@ blood pressure checked.
+
+DOCTOR M928
+Okay and you're taking your medicine for your blood pressure still?
+
+PATIENT M928
+Uh-huh.
+
+DOCTOR M928
+And your blood pressure, it’s okay today, it’s a little high.  Okay.  I think everything else looks pretty good.  Let me go talk with DOCTOR and then we'll have you go over to the Pharmacy so I can, they can page me and we'll try to figure out how to get the other stuff, anything else?
+
+PATIENT M928
+No.
+
+DOCTOR M928
+Okay.
+
+PATIENT M928
+No.
+
+(DOCTOR OUT:  11:48  DOCTOR IN:  14:00)
+
+DOCTOR M928
+Alright.  We put in for those refills for the Vicodin and the whole thing is over there and you can pick it up.
+
+PATIENT M928
+Okay.
+
+DOCTOR M928
+If there's a problem they can just call me.
+
+PATIENT M928
+Okay.
+
+DOCTOR M928
+Otherwise we're all set.
+
+PATIENT M928
+So what's your name?
+
+DOCTOR M928
+DOCTOR.
+
+PATIENT M928
+DOCTOR okay.
+
+DOCTOR M928
+And we'll see you back in six months or a year probably.
+
+PATIENT M928
+Okay.
+
+DOCTOR M928
+Alright you're done.
+
+PATIENT M928
+Alright thanks, thank you very much.
+
+DOCTOR M928
+Have fun at your daughter's graduation.
+
+PATIENT M928
+Yeah, thanks.  Thank you.  Want me to close it?
+
+DOCTOR M928
+Oh you can leave it open that's fine.
+
+PATIENT LEAVES:  14:33.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286142
+TRANSACTION # 578-10-2-316-0103

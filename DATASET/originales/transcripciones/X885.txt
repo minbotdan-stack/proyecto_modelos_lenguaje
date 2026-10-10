@@ -1,0 +1,2110 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR X885
+PATIENT?
+
+PATIENT X885
+How are you?
+
+DOCTOR X885
+Good.  How are you?
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+It's raining out there @@@.
+
+PATIENT X885
+A little.  @@@.
+
+DOCTOR X885
+Yeah have a seat here; it rolls off the back huh.  So how are you doing today?
+
+PATIENT X885
+I'm here.
+
+DOCTOR X885
+You're here.  What can I do for you today?  Just checking in after all of your you know stuff that's been going on?  Do you have specific things you wanted to talk about today?
+
+PATIENT X885
+Oh I have a couple.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+Uh.
+
+DOCTOR X885
+Let’s start with those?
+
+PATIENT X885
+There has been very infrequent times in which I would get a lightning bolt of a pain in my temple, my left temple.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+And it is so hard and so fast that it will cause me to do “aakk”.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+And then uh one or two times it'll come @@@ start to dissipate.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+So um.
+
+DOCTOR X885
+How, you said very infrequent, how many times are we talking here?
+
+PATIENT X885
+The last one was two weeks ago.
+
+DOCTOR X885
+Two weeks ago okay and then prior to that?
+
+PATIENT X885
+Uh probably, I don't know I wasn't really keeping track.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+Uh within the month previously.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+But it's unusual to get them.  They're so hard and they're so intense and they hurt a lot, the last time I had one I was in shower, it caused my wife to come running in because.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+Of uh but, so I don't know if that means anything or not.
+
+DOCTOR X885
+How long do they typically last when you do get them?
+
+PATIENT X885
+Seconds.
+
+DOCTOR X885
+Seconds okay.
+
+PATIENT X885
+But you don’t forget them.
+
+DOCTOR X885
+Yeah and then when it does happen on the days when it does happen do they come and go and you just have the one or during that day if you have you could have a few?
+
+PATIENT X885
+During the day if I have one, I could have two, maybe once I had three but not more than three.
+
+DOCTOR X885
+Okay.  It dissipates within minutes?
+
+PATIENT X885
+Minutes.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+@@@.
+
+DOCTOR X885
+Give me one second; I got a couple more questions about that.
+
+PATIENT X885
+Oh okay @@@.
+
+DOCTOR X885
+Huh.  And now when was the first episode you remember having of this type of thing?
+
+PATIENT X885
+Of this type?  Uh late last fall 2011.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+Very late.
+
+DOCTOR X885
+Okay.  Okay and do you have any other symptoms at the time, like visual changes um weakness, numbness um, losing balance, vomiting, nausea, any other symptoms?
+
+PATIENT X885
+@@@.  No nausea, no vomiting uh, I probably lose my balance a little bit.
+
+DOCTOR X885
+Okay.  
+
+PATIENT X885
+Actually I just can't move @@@.
+
+DOCTOR X885
+It's painful yeah.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+Okay um and so no visual changes?
+
+PATIENT X885
+Uh my eyes are squeezed shut.
+
+DOCTOR X885
+Are you sensitive to the light when it happens?  Does the light hurt your eyes or do you just close them from the pain?
+
+PATIENT X885
+No, I close them for the pain.
+
+DOCTOR X885
+Okay.  Okay.  Next.
+
+PATIENT X885
+Okay.  Well I'm doing really well.
+
+DOCTOR X885
+Uh-huh.  Uh-huh.
+
+PATIENT X885
+In Rehab.
+
+DOCTOR X885
+Uh-huh.  I see that.  @@@ You are last there, it’s supposed to be 11.
+
+PATIENT X885
+Yeah but I do really well.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+And they'll tell you that.
+
+DOCTOR X885
+Uh-huh, yeah I can see that in all of their notes, they say it.
+
+PATIENT X885
+Okay.  But the strain is, strengthening is that if I walk two blocks outside I'm out of breath.
+
+DOCTOR X885
+Hmm okay.
+
+PATIENT X885
+How do you explain that?  I can go on the treadmill for 20 minutes.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+At a big incline and at a quick speed.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Okay and I'm outside and I walk two blocks and I'm out of breath.
+
+DOCTOR X885
+Uh-huh.  Hmm.
+
+PATIENT X885
+So and here's another thing is that um even if I go up a flight of stairs in my house.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+A lot of times, not infrequently, but a lot of times when I get to the top I have to stop.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+I'm out of breath and my legs are burning.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+And if I go up two flights.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+And @@@ to the top.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Then, I’m always out of breath.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+So that's really strange for not @@@ in Rehab.
+
+DOCTOR X885
+Yeah.  One thing that about the stairs and I know you were telling me is how severe the shortness of breath is but.
+
+PATIENT X885
+It’s severe.
+
+DOCTOR X885
+The difference when you're doing rehab normally there's a little bit of a like work-up, like a warm-up type of.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+I mean you get into it a little bit and you know even like people like myself if I walk up a flight of stairs and I've been sitting all day long you know I breathe just kind of heavily when you first do that and sometimes if you're kind of sitting at rest but then you go do some activity like walking up the stairs you'll be short of breath that seems a little bit out of proportion but I'm just trying to balance.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+Cause you obviously, you have cardiac problems, um if that's what we think is going on, if it’s just your body's kind of catching up to you when you do that because you haven't kind of eased into it like you do with the rehab or you know what that is so, let me think on that a little bit.
+
+PATIENT X885
+Okay.  A thought process.
+
+DOCTOR X885
+Yeah and I mean the question is, you've had ever since your surgery and all that stuff, you've had all of these tests and everything looked.
+
+PATIENT X885
+Great.
+
+DOCTOR X885
+Great and so it's very reassuring and fantastic, frustrating when you're still having symptoms.
+
+PATIENT X885
+Well and it's frustrating one time @@@.  When I was in Building 2.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+And I was @@@ Amvets.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+And I try to walk in and started my @@@ taking @@@ and she said we're not talking.
+
+DOCTOR X885
+Yeah, I remember that, she thought that you weren't doing well and took you to the Emergency Room.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+I remember that and then all of the tests you were sent to get in the hospital.
+
+PATIENT X885
+Yeah @@@ tests.
+
+DOCTOR X885
+Right all that stuff so, we'll think on it a little bit here okay.
+
+PATIENT X885
+Okay now um, did you see what they did with Agent Orange over the last few weeks?
+
+DOCTOR X885
+I saw that, I've been looking at it – some extra paperwork that showed up that was confusing but it turned out it's not going to be.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+Not necessarily a mistake that you ended up getting your @@@.  Well then there was some A&A Claim, that was a mistake.
+
+PATIENT X885
+Yeah, correct, correct.
+
+DOCTOR X885
+And that was.
+
+PATIENT X885
+The social worker straightened it out.
+
+DOCTOR X885
+Right the social worker took care of that.  What else is, I don't know anything else that's going on @@@.
+
+PATIENT X885
+Okay.  Uh I'm just worried about this.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+Okay um originally, I was here in the hospital for a while who knew what the fast-track system was.
+
+DOCTOR X885
+Uh-huh, uh-huh.
+
+PATIENT X885
+Nobody else here has really seemed @@@ I went up to the Director’s office.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+I went to the @@@ and that’s not very good.
+
+DOCTOR X885
+Uh-huh, yeah.
+
+PATIENT X885
+I went all over.
+
+DOCTOR X885
+Hmm.
+
+PATIENT X885
+If that was new what it was.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+Okay, at that time, which was very recent, fast track consisted of three primary emphasis.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+With Agent Orange.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Parkinson's, ischemia and leukemia.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Okay um in the last two or three weeks.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+I’ll pinpoint it later.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+It jumped.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+From 3 to 8.
+
+DOCTOR X885
+Okay.  Alright.
+
+PATIENT X885
+So does that mean I'm susceptible to @@@?
+
+DOCTOR X885
+Hmm.
+
+PATIENT X885
+It used to be only 3 forever.
+
+DOCTOR X885
+Right, right.
+
+PATIENT X885
+And I got the original letter.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+From the idiots they have at the VA.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+@@@ and again they don't talk about the 3.
+
+DOCTOR X885
+Yeah.  So I mean I think probably what they did because the three you said were what ischemia, Parkinson's and leukemia?
+
+PATIENT X885
+Leukemia.
+
+DOCTOR X885
+So these extra diseases that are on here like they @@@ ischemia, @@@ of Hodgkin's and non-Hodgkin's and multiple myeloma, those are all sort of.
+
+PATIENT X885
+Deviations.
+
+DOCTOR X885
+Similar like, you know it may be a different title.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+And a little bit of difference in the disease process but pretty similar and probably what's happened is that the medical knowledge about those conditions has expanded from what were maybe in the past but all of these have been clumped in the same thing but many now the knowledge is a little bit better so.
+
+PATIENT X885
+Yeah.  Okay.
+
+DOCTOR X885
+I think it's something just to be aware of but.
+
+PATIENT X885
+I want to be aware of it because after the lawsuit was won in 2010.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Then this is @@@ extra paper then.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+And it says if you look at the Vietnam veteran population.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+The decisions we contracted.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+And the mortality rate, the only people dying faster is a World War II Veterans and so we were picking up diseases by our 60s that we shouldn't be getting until late 70s and early 80s.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+And so if I have a shorten lifespan.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Then I’ll want to know about it.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+Cause I'll have some things I need do.
+
+DOCTOR X885
+Yeah well, so knowledge is power and knowing, knowing those types of things are associated with Agent Orange is always a good thing.
+
+PATIENT X885
+So I should really be tested don't you think?
+
+DOCTOR X885
+I think.
+
+PATIENT X885
+So how do you test fr that?
+
+DOCTOR X885
+So the thing with those is, is that there's not specific, there's not like a test like for diabetes when you can check your sugars and then you know and so the thing for those types of things is good primary care medicine.  Getting your annual you know blood checks done.
+
+PATIENT X885
+Hmm.
+
+DOCTOR X885
+You know keeping an eye on you know symptoms like if you do have things you know come up and watching for any, most of our veterans need to lose weight and you know and are actively working on losing weight.  But worrisome things like unexplained, large amounts of unexplained weight loss, where someone hasn't been trying and the weight’s just falls off of them.
+
+PATIENT X885
+Yeah, yeah.
+
+DOCTOR X885
+Those types of things are concerning you know, signs and symptoms of these types of diseases but what you have done is you get a blood check, you get your what we call your CBC which is your blood counts checked, you come in on a regular basis to be seen by providers, so that's really the best testing for those particular diseases.  There's not a lab test you know that we can draw the blood and check for, except for your regular blood cell count, which is what you already get done.  So I would say for those conditions you're doing what you need to do with just having your regular annual, bi-annual appointments.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+Does that make sense?
+
+PATIENT X885
+Uh it makes sense uh, it doesn’t give me any comfort, though.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+I run into too many people get where they all of a sudden go really bad, really fast.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+And uh then DOCTOR @@@ Saturday night.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+Did you see this?  He says don't go riding a bike for the first few days.  
+
+DOCTOR X885
+Okay, @@@ okay.  Saturday night is when you started?
+
+PATIENT X885
+Yeah and then we decided that we would start off instead of twice a day let's just do it at night.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+Today was the first day I took it in the morning and at night.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Because in rehab there are three nurses and a doctor.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+So.
+
+DOCTOR X885
+And that's make you nervous or?
+
+PATIENT X885
+I just want to be careful.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+Um now I think about the pills.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+But I think we're on the right pill.
+
+DOCTOR X885
+Uh-huh.  I think so, we can go through the medicines and get uh, I'll just take a quick, hold on a second for me.  Yeah I don't really see anything sort of questionable.
+
+PATIENT X885
+Oh that's good.
+
+DOCTOR X885
+I mean you know, extra, really.  So you know I think you're right in your assessment of your medicines.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+I think they are all good medicines for good things.
+
+PATIENT X885
+And um I'm more tired than I used to be in life.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+Is that normal?
+
+DOCTOR X885
+Well you have had a lot of you know heart issues in you know this year, this sort of calendar year.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+And some significant hospital stays and they find that you know just being in the hospital you need at a bare minimum of three days to almost a week for every one day you're in the hospital to fully recover.  So some of these big surgeries that you had and things like that, they say it can take a full year before you really feel like your energy is back to where you were before because it's so stressful on the body and such a drain on, you know on your system itself.  Let me just check this um, one thing and then um so I'm not, I'm not surprised.  
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+That you tell me that you're a little bit, lower energy than you.
+
+PATIENT X885
+If you're not knocked up @@@.
+
+DOCTOR X885
+Okay.  Okay and then what I was looking at to see if your thyroid function has been tested in the last you know year or so and it has been and it was normal in October and it's a, if by you know late summer you're still not feeling a little bit you know.
+
+PATIENT X885
+Spunkier?.
+
+DOCTOR X885
+Spunkier, we can recheck that again and make sure you know your thyroid's still doing okay and things like that but it was checked in a very appropriate time frame here and it was normal.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+So.
+
+DOCTOR X885
+You've had a lot of stress on your body this year in addition to this mental stress and everything and that can wear you down and make you feel a little bit.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+Lower energy.
+
+PATIENT X885
+That's what the psychiatrist/psychologist is working on.
+
+DOCTOR X885
+Yeah, yeah.
+
+PATIENT X885
+My case is unusual in that my stress goes back to childhood.
+
+DOCTOR X885
+Yeah uh-huh.
+
+PATIENT X885
+And pent up for years.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+I think maybe it was a incorpiration during the war.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+I father/son of the year, period.
+
+DOCTOR X885
+Yeah, I remember you saying that.
+
+PATIENT X885
+Oh.  Then I had two more questions.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+Um, I have, I just want to make sure that the sock guy @@@ toes and they were gonna cut it off and basically because I stubbed my toe and I @@.
+
+DOCTOR X885
+Okay.  I can take a look at it.  What was your other question besides looking at the toe?
+
+PATIENT X885
+Okay, I don't know if you can answer this.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+But uh, I haven't had uh intercourse for two years.
+
+DOCTOR X885
+Uh-huh, okay.
+
+PATIENT X885
+Okay.  Now hopefully someday in time.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Uh I'm going to want to have intercourse okay.
+
+DOCTOR X885
+Uh-huh, uh-huh.
+
+PATIENT X885
+Now one medication that DOCTOR gave me @@@ erection @@@.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+So once in a while @@@ I have one but it goes away @@@.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Okay and that's fine.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+But um, in order to see if I can um uh, @@@.
+
+DOCTOR X885
+Yeah, uh-huh.
+
+PATIENT X885
+@@@.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+I tried having sex with myself and it was terrible.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+And um.
+
+DOCTOR X885
+So not able to achieve an erection or maintaining?
+
+PATIENT X885
+I achieved a very weak erection.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+And then it bled on the head.
+
+DOCTOR X885
+Okay, hmm.
+
+PATIENT X885
+So um I don't know if that's just, Arnold Schwarzenegger once said on one of the nighttime talk shows.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+And uh they asked him about muscles and making love and he said, yes, that’s a muscle, you exercise it.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+You know so that's the question I have, I don't know if you have the answer.
+
+DOCTOR X885
+Was the blood on the skin or was it from the meatus, from the hole?
+
+PATIENT X885
+No it was on the skin.
+
+DOCTOR X885
+On the skin.
+
+PATIENT X885
+It wasn't from the hole.
+
+DOCTOR X885
+And are you circumcised or uncircumcised?
+
+PATIENT X885
+I'm circumcised.
+
+DOCTOR X885
+Circumcised okay, okay.  Um was there any pulling or tearing that you, you know friction?
+
+PATIENT X885
+Yeah there was friction because I was trying so hard.
+
+DOCTOR X885
+Uh-huh, yeah.
+
+PATIENT X885
+And uh it was @@@ and that was like weeks ago.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+@@@.
+
+DOCTOR X885
+So you do you think its lack of desire, lack of drive or this drive but inability to maintain and erection?
+
+PATIENT X885
+I think right now its lack of desire.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+And so therefore I only get a partial.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+And then I try to get it to work.
+
+DOCTOR X885
+And that's probably, part of the whole thing; I think there's a few things going on here.
+
+PATIENT X885
+Hmm.
+
+DOCTOR X885
+Um one thing is the anti-depressants.
+
+PATIENT X885
+Yes.
+
+DOCTOR X885
+The venlafaxine and those types of medicines.
+
+PATIENT X885
+Right.
+
+DOCTOR X885
+Can make it difficult to achieve an erection.  They can affect sexual performance.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+So there's probably a component of medication induced issues with erections and that can happen.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+There's probably a stress or anxiety component related to it meaning that you know you want it to work and then if things aren't going in the right direct then there's like more anxiety.
+
+PATIENT X885
+Yeah, yeah.
+
+DOCTOR X885
+And that kind of works against you as you're you know kind of get ramped up and then @@@ works in the opposite direction as far as what you're trying to achieve.
+
+PATIENT X885
+Right.
+
+DOCTOR X885
+And then finally there may be a component of cardiovascular problems that are leading to trouble with erections as well.  So we know you have significant heart disease.
+
+PATIENT X885
+Heart yeah okay.
+
+DOCTOR X885
+You know you have significant coronary artery disease and those blood vessels are the same as all the other blood vessels in your body so if you have issues you know with your heart then you can have issues with getting and sustaining an erection as well and the best way to manage that is to treat, you know like we're doing, to maintain your blood pressure.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+Under control, get your cholesterol well controlled, diet and exercise, which are all things we're already working on.
+
+PATIENT X885
+@@@.
+
+DOCTOR X885
+And you're going in the right direction with that so I think probably in the long term, as you continue with your exercise and increasing you know your capacity and um you know continue with the statins and the medicines, in the long term I think probably.
+
+PATIENT X885
+It'll help the problems.
+
+DOCTOR X885
+Yeah it may work, it may work itself out and if it doesn't the most likely culprit is most likely like the venlafaxine medicine um and at that time if there's a problem at that time some of the other medicines may have a lesser affect on libido and ability to sustain an erection so at that time that conversation could be had.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+If everything else is kind of improved.
+
+PATIENT X885
+Okay I @@@ desire at all.
+
+DOCTOR X885
+No, right, right.
+
+PATIENT X885
+But uh.
+
+DOCTOR X885
+So I.
+
+PATIENT X885
+It just happened a few weeks ago.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+And I thought okay, let’s just see.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+So.
+
+DOCTOR X885
+Yeah and it sounds to me like the bleeding was more of a friction issue and so you may want to try like a lubricant or a lotion or something like that.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+To help kind of prevent the friction going there.
+
+PATIENT X885
+I don’t really have an overwhelming desire to do it.
+
+DOCTOR X885
+Right so I think there are a few things probably going on all at once.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+And you know kind of working itself you know in the wrong direction. 
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+Before you're there but I think there’s progress to be made by doing the things you're doing already to help improve your heart function and your cardiovascular function and things like that okay.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+Does that sound reasonable?
+
+PATIENT X885
+Sounds reasonable, sound fine.
+
+DOCTOR X885
+Alright.  So let me take a look at your toe, why don't you hop up here for me.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+Um your blood pressure's great today, your pulse is great.
+
+PATIENT X885
+It always is.
+
+DOCTOR X885
+And your weight is looking good.  Let's see where you have over here, so let's see, you were.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+I'm just trying to look and see where your last were with your weight, so in November it looks like you were about 170.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+Does that sound right to you?
+
+PATIENT X885
+Yeah 167-170.
+
+DOCTOR X885
+Okay and now you're like 187 is what we're getting here today and the last @@@ you're down from 190 a few weeks ago.
+
+PATIENT X885
+I'm trying to get back@@@.
+
+DOCTOR X885
+You're coming back in the right direction that can only help @@@.
+
+PATIENT X885
+Yeah when I get out of the shower and I have an electronic scale @@@.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+I'm uh 179.4.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+To 181. something.
+
+DOCTOR X885
+Okay so on your home scale you’re in that range.
+
+PATIENT X885
+It's a good scale.
+
+DOCTOR X885
+Okay.  So this is just something we'll keep an eye on.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+And you're gonna watch your weight and just keeping working with.
+
+PATIENT X885
+Right.
+
+DOCTOR X885
+You know the rehab will be finishing soon.
+
+PATIENT X885
+Yeah and they have been.
+
+DOCTOR X885
+Yeah keep working on it.
+
+PATIENT X885
+Yeah, as a matter of fact, @@@ has a fantastic park district.
+
+DOCTOR X885
+Oh great.
+
+PATIENT X885
+They always come inside.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+In fact, I can ride my bicycle on beautiful trails, over there where there’s no traffic.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+If I get tired there are benches.
+
+DOCTOR X885
+Well great.
+
+PATIENT X885
+I can sit down.
+
+DOCTOR X885
+Great.
+
+PATIENT X885
+Like on the benches and they'll maybe have a big pond and paddle boats @@@ they have @@@.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+So @@@.
+
+DOCTOR X885
+Uh-huh oh wow.  Well that sounds like a great place.
+
+PATIENT X885
+It is.
+
+DOCTOR X885
+Okay so.
+
+PATIENT X885
+And I was part of their ceremony for Veterans Day.
+
+DOCTOR X885
+Okay.  Is this the toenail that you're talking about?
+
+PATIENT X885
+Yes.
+
+DOCTOR X885
+Did you bang your foot at all?
+
+PATIENT X885
+I don't know I can't remember.  I don't have much feeling down there.  So I just.
+
+DOCTOR X885
+Your left, your sensation is down because of; do you have diabetes I can't remember?
+
+PATIENT X885
+No I do not.
+
+DOCTOR X885
+Okay I didn't think so.  
+
+PATIENT X885
+I @@@ where they took the veins out.
+
+DOCTOR X885
+Yeah.  How long has it been there you think?
+
+PATIENT X885
+Um, two weeks.
+
+DOCTOR X885
+Two weeks okay.  So it looks.
+
+PATIENT X885
+It doesn’t bother me.
+
+DOCTOR X885
+Yeah.  It looks like you bruised it.
+
+PATIENT X885
+Alright.
+
+DOCTOR X885
+Like you know someone stepped on it or.
+
+PATIENT X885
+I just, saw this other guy.
+
+DOCTOR X885
+Right.
+
+PATIENT X885
+And it was, he had a fungus; they're going to cut it off.
+
+DOCTOR X885
+Right, so I mean you may have a little bit of fungus in this toenail.  See how that toenail is a little bit like ridged.
+
+PATIENT X885
+Yeah, you know then I worked for PanAm Airlines.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Put in you know, a carriage came down on that toe.
+
+DOCTOR X885
+Came down on this toe? So this you know the other thing with the toes that we worry about?
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+In general, you know lots of things, this looks like it got bruised.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+If it's still there in a month and it hasn't changed.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+And it's still there, we can look at it some more but I think someone just stepped on your toe or you knocked it in the doorway.
+
+PATIENT X885
+Yeah or something.
+
+DOCTOR X885
+You know.
+
+PATIENT X885
+I'm wearing shoes and socks lately.
+
+DOCTOR X885
+So @@@ things happen.
+
+PATIENT X885
+Yes.
+
+DOCTOR X885
+And I think that's what it is.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+Let me listen to your heart and lungs while you're here.
+
+PATIENT X885
+Okay.  I did not take any chances, okay.
+
+DOCTOR X885
+Right exactly.
+
+PATIENT X885
+I’ve been through all this.
+
+DOCTOR X885
+You’ve been through enough.
+
+PATIENT X885
+I told you my son's getting married.
+
+DOCTOR X885
+Yes that's coming up uh in June right?
+
+PATIENT X885
+Yeah the third weekend in June.
+
+DOCTOR X885
+Third weekend in June alright, how's that planning going?
+
+PATIENT X885
+Uh his fiancée allows nobody@@@.
+
+DOCTOR X885
+Oh yeah they're doing that's right you told me, good @@@, you raised a good one there.
+
+PATIENT X885
+And then my daughter's going to get married.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Not too far after that.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+A boyfriend from Brazil.
+
+DOCTOR X885
+Oh wow.
+
+PATIENT X885
+But @@@ he works for Microsoft.
+
+DOCTOR X885
+Alright wow.
+
+PATIENT X885
+And he's really a cool guy, a real stand-up guy.
+
+DOCTOR X885
+Alright that sounds cool.  You get to go to Brazil for a reception or anything?
+
+PATIENT X885
+Uh no they haven't decided their plans yet.  Right now they're moving into a new townhouse together.
+
+DOCTOR X885
+Well okay.  Deep breath for me.  Okay good.  Let me just go up under your sweatshirt.  Okay you can breathe normally now.  Great.  Any belly pain or anything?
+
+PATIENT X885
+No.
+
+DOCTOR X885
+Okay @@@Any belly pain or anything?  This little mole, has it been like that for a long time?
+
+PATIENT X885
+Yes.
+
+DOCTOR X885
+Or is it new okay.  It's been there a long time?
+
+PATIENT X885
+Yep.
+
+DOCTOR X885
+Okay and do you wear sunscreen when you go out in the summertime and things like that?
+
+PATIENT X885
+Yeah I wear my sunglasses.
+
+DOCTOR X885
+You wear your sunglasses, no sunscreen on your face?
+
+PATIENT X885
+Not usually.
+
+DOCTOR X885
+Not usually okay.  You're a fair-skinned guy so I'm just looking and you look like you've had some sun exposure in your life you know.
+
+PATIENT X885
+Well I lived in in California.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+And I just took my convertible today.
+
+DOCTOR X885
+Alright.
+
+PATIENT X885
+Out of uh.
+
+DOCTOR X885
+Storage?
+
+PATIENT X885
+Storage yeah.
+
+DOCTOR X885
+Okay, you can hop on down.
+
+PATIENT X885
+So I just want to feel @@@.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+I put the top down.
+
+DOCTOR X885
+Yeah, alright.
+
+PATIENT X885
+I know I'm not supposed to do that but it feels so good.
+
+DOCTOR X885
+Feels good, feels good.  You could get some lotion that has a little bit of sunscreen in it.
+
+PATIENT X885
+Uh-huh.
+
+DOCTOR X885
+So that when you use the lotion you automatically get some sunscreen @@@.
+
+PATIENT X885
+It’s so greasy.
+
+DOCTOR X885
+Alright and another thing to check.
+
+PATIENT X885
+You don't think about why it’s hard it is for me to walk across the parking lot and breathe.
+
+DOCTOR X885
+Yeah.  I've got to quick talk to my supervisor.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+I'll see if they already talked about it.
+
+PATIENT X885
+Yeah let's do.
+
+DOCTOR X885
+You're just doing so well in the Cardiac Rehab that I, I have such a hard time.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+Trying to pin it on the heart disease you know.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+You're doing so well with that, that.
+
+PATIENT X885
+I did very well.
+
+DOCTOR X885
+Now does it tend to happen if you go up to the park district and you're walking around the park district and you know there's no cars and no traffic and people, there's not a lot of people around, do you still get short of breath when you start walking there?
+
+PATIENT X885
+I haven't started that yet.
+
+DOCTOR X885
+Haven't done that yet.
+
+PATIENT X885
+Cause @@@ a lot.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+And sometime this week I’ll go @@@ coming down @@@ cause it doesn't cost me anything.
+
+DOCTOR X885
+Yeah.  Um, let's see.
+
+PATIENT X885
+@@@.  If you want to do some shopping, it's right across from Oakbrook.
+
+DOCTOR X885
+Yeah I've heard.  I mean I've heard good things about it.  Uh just a quick check here.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+Health maintenance type of stuff, sort of you know tune-up stuff to make sure everything's all good to go for you.  And you had a pneumonia vaccine in October so you're up-to-date for that.  You had your flu shot in October so that's good.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+Your tetanus um do you spend any time with young kids, do you have any interaction with grandchildren or little kids a lot?
+
+PATIENT X885
+Uh not yet, I’d like them to be close.
+
+DOCTOR X885
+Yeah.  So your tetanus shot, for the tetanus part is up-to-date.  You had it in 2009.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+And it is normally a ten year type of shot.
+
+PATIENT X885
+Right.
+
+DOCTOR X885
+So it's up-to-date technically speaking but the new tetanus shots also protect against whooping cough which tends to be, it's called pertussis another name for it.  Little kids get that, older adults can pass it to little kids so if you have a lot of contact you know kind of younger people, I'd recommend you to get the TDAP, otherwise we can wait.
+
+PATIENT X885
+Yeah well my son told me.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+You know, uh @@@ he and his fiancée are around her parents, they offered to do it.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Pay for the honeymoon.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+This afternoon, he said, dad I'd would rather, they're not young anymore, he said dad I'd rather you babysit for us.
+
+DOCTOR X885
+Alright.
+
+PATIENT X885
+@@@
+
+DOCTOR X885
+Yeah that's good.
+
+PATIENT X885
+You know it looks like @@@ in the family and you don't get @@@ and I do not mind doing that.
+
+DOCTOR X885
+Okay.  So you don’t mind babysitting.
+
+PATIENT X885
+I don't mind babysitting or changing diapers.
+
+DOCTOR X885
+Excellent.
+
+PATIENT X885
+If it means they can keep going to work.
+
+DOCTOR X885
+So we can defer the tetanus for now but we can keep it in our discussions @@@.
+
+PATIENT X885
+Yeah keep it in, by all means.
+
+DOCTOR X885
+As time goes on.
+
+PATIENT X885
+You know because.
+
+DOCTOR X885
+So.
+
+PATIENT X885
+If they do, @@@ decide.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+And you know @@@ I'd want to do this, I want to make sure the baby's safe.
+
+DOCTOR X885
+Okay.  Sounds good.  @@@.
+
+PATIENT X885
+Okay, good.
+
+DOCTOR X885
+We'll just keep alerting me to it. We’ll just keep talking about it as it comes up.  We'll just defer it for right now and then it looks like, it sounds like you had a colonoscopy.
+
+PATIENT X885
+Yes I did.
+
+DOCTOR X885
+In 2010, is that right?
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+Does that sound right and.
+
+PATIENT X885
+I had some large ones, so they said I had to get them more often.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+Now that's brings up the one problem that I forgot.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+That after a bowel movement.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Um it seems that for the rest of the day I’m always having to wipe.
+
+DOCTOR X885
+Okay.  Sounds like it's, are your stools hard?
+
+PATIENT X885
+They could be hard or soft.
+
+DOCTOR X885
+Hard or soft okay.  Um you could try something like personal wipes to have a little bit more moisture that might help.  If you do have a bowel movement and it’s a little stickier, or just kind of bulk up your diet with some fiber might help too.
+
+PATIENT X885
+Okay.  I eat fiber every day.
+
+DOCTOR X885
+Okay.  Okay.
+
+PATIENT X885
+So and the one thing I found that helps, @@@ cheese.
+
+DOCTOR X885
+That can be constipating.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+If it's you know, that can be constipating. If it helps, you can try it, it's just.
+
+PATIENT X885
+It does help.
+
+DOCTOR X885
+You've got to watch your cholesterol though.
+
+PATIENT X885
+Yeah I know.
+
+DOCTOR X885
+Too there.  I was looking at your colonoscopy and it looks like they did find one and um.
+
+PATIENT X885
+Removed it.
+
+DOCTOR X885
+Um that was renewed so @@@ screening.
+
+PATIENT X885
+@@@ I wanted to watch, because they had the screen @@@ neat to watch it.  
+
+DOCTOR X885
+Yeah.  Okay.  So it looks like you had one that was a little bit bigger so normally they want you to follow-up in like five years.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+I can double check but it will probably be five years from that so you know @@@@ you'll be due for that okay.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+So the last thing, which they recommend to all Veterans between 18 and you know 125 is to get a onetime HIV check, just a screen um to just as a health care preventative measure.  So we can do that the next time you get blood drawn if you're okay with that.
+
+PATIENT X885
+I'm okay with that.
+
+DOCTOR X885
+Okay. 
+
+PATIENT X885
+I don't know I how I would've picked it up.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+But I'm okay with that.
+
+DOCTOR X885
+Okay so next time we need verbal consent for.
+
+PATIENT X885
+You'll get it.
+
+DOCTOR X885
+If it's okay so the next time you get labs drawn on the order that it's okay and they'll take care of it.
+
+PATIENT X885
+Done.
+
+DOCTOR X885
+Okay alright let me just run and talk to my supervisor to make sure I'm not missing anything from their standpoint and then you'll be on your way okay.
+
+PATIENT X885
+@@@ if you and the doctor had been only suspicious uh I wouldn't be alive today.
+
+DOCTOR X885
+Well.
+
+PATIENT X885
+Because they did a quadruple bypass.
+
+DOCTOR X885
+Yeah well I'm glad everything worked out and I have to tell you I think you told me this before, we were so not suspicious but we just thought you kept having questions and we were like well let's his question, we don't think @@@ remember we told you all the time.
+
+PATIENT X885
+Yeah right.
+
+DOCTOR X885
+Even if it’s positive this might not be real.
+
+PATIENT X885
+It was positive.
+
+DOCTOR X885
+It was positive, we didn't want to get you worried but I'm just you know.
+
+PATIENT X885
+I'm glad you guys did what you did.
+
+DOCTOR X885
+So thankfully it all worked out and they went in, you're on the upswing now okay.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+So I'm going to be right back.
+
+PATIENT X885
+Okay as far as my brain goes will it be okay?
+
+DOCTOR X885
+@@@.
+
+PATIENT X885
+As far as oxygen and stuff like that because there are things I want to do with it.
+
+DOCTOR X885
+Yeah.  Things you want to do with your brain?
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+There's a lot of things you need to do with your brain, I'll ask him about it.  It sounds kind of like cluster headaches the way that you describe them.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+So let me see if there's anything.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+You know to do about it.
+
+PATIENT X885
+Cause I'm going to be processing a really cool, intelligent kind of thing @@@.
+
+DOCTOR X885
+Oh.
+
+PATIENT X885
+I'm not going to promise not to @@@ it's going to be more than that.
+
+DOCTOR X885
+More than that, search robots or something.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+Artificial intelligence, alright I'll be right back.
+
+PATIENT X885
+Okay.
+
+(DOCTOR OUT:  55:16  DOCTOR IN:  63:06)
+
+DOCTOR X885
+Okay.  So I think we're done.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+We talked about the headaches and the shortness of breath.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+I think these are all things that are sort of going to get better as time goes by.
+
+PATIENT X885
+Dissipate, okay.
+
+DOCTOR X885
+So, for the headaches, 
+
+PATIENT X885
+Alright.
+
+DOCTOR X885
+So who knows, sometimes.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+We get these little things and they happen and they are severe.  What I want to know from you is what to keep an eye out for is if they start getting significantly closer together where you're having them, now you're having them instead once a month or once every two weeks you're having the every day okay.  That's something I want to know about if you're noticing when it happens you know weakness or neurological changes otherwise you're feeling like your speech is slurred or anything like that you know.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+Those are important things I want to know about.  So they just come on and then you know dissipate and go away completely and you know they're pretty infrequent, few and far between, nothing to worry about.
+
+PATIENT X885
+Alright.
+
+DOCTOR X885
+Okay so.  If any of those things change obviously let me know but we're not.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+DOCTOR was not too concerned about it. The shortness of breath… 
+I think it's probably related to a combination of you know you do these activities, in your life and you’re not warmed up for them you know as well as in rehab so you may be a little bit more short of breath in this setting and that setting than in the rehab setting.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+The good news for us is like you said a hundred times within the last two months your cardiac stuff has been golden and you know your tests have all been great.  You're doing fantastically in the rehab above and beyond.  All of those things are looking great so it doesn't you know concern us for a heart, a heart problem.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+…shortness of breath. I do want to ask you, did you ever smoke?  So you quit in 1966 so you really don't have much of a smoking history.
+
+PATIENT X885
+No.
+
+DOCTOR X885
+Whatsoever.  So how much did you smoke before 1966?
+
+PATIENT X885
+I had just started it.
+
+DOCTOR X885
+Just like two packs or?
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+A pack, less than a pack?
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+Okay.
+
+PATIENT X885
+And that was because it was the thing to do.
+
+DOCTOR X885
+Yeah in the military and then.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+So that's the only thing I wanted to make sure you didn't have a significant smoking history.
+
+PATIENT X885
+No.
+
+DOCTOR X885
+In the past.
+
+PATIENT X885
+No.
+
+DOCTOR X885
+No, you do not.
+
+PATIENT X885
+Right.
+
+DOCTOR X885
+So that is nothing I'll look into.
+
+PATIENT X885
+It's like since 1966; it was when I was in the Marine Corps.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+And uh I had uh I had passed out.
+
+DOCTOR X885
+Hmm.
+
+PATIENT X885
+At the Mess Hall.  You'd get a certain amount of Mess Hall and then they have you rifle range@@@ and so I was in the hospital for two weeks, they couldn't figure out what the hell happened.
+
+DOCTOR X885
+Hmm.  Hmm.
+
+PATIENT X885
+But they came to me and said look your family has a history of sarcoidosis.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+Stop smoking.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+I stopped instantly.
+
+DOCTOR X885
+Instantly yeah.
+
+PATIENT X885
+I saw too many members of my family die.
+
+DOCTOR X885
+Uh-huh yeah.
+
+PATIENT X885
+So I stopped.
+
+DOCTOR X885
+Stopped yeah.
+
+PATIENT X885
+That's why I can say 1966.
+
+DOCTOR X885
+1966 okay.  Excellent okay.  So I think this is a watchful waiting type of thing as well.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+So I think with everything going on, again if things are progressing and you know they get worse when you think they should be getting better, then.
+
+PATIENT X885
+We’ll check.
+
+DOCTOR X885
+We'll dig into things more.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+But I think right now you have reasons to have some you know, you're not in the condition that you know you were in a year ago this time.  So let’s give it a little t-shirt time.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+You know, sometimes, the best medicine. We'll keep an eye on things.  You let me know if things drastically change and we'll just kind of go from there okay.
+
+PATIENT X885
+My body will tell me.  I'll call you.
+
+DOCTOR X885
+Right, exactly.  So my other question is, from my standpoint and then if you know if assuming all things the same and nothing else is going on and we don't need to see you again and in my opinion really six months is okay.
+
+PATIENT X885
+Yeah I think six months, are you going to be here in six months?
+
+DOCTOR X885
+I will be here in six months.
+
+PATIENT X885
+Good.
+
+DOCTOR X885
+I will be here in six months.
+
+PATIENT X885
+Yeah six months is fine.
+
+DOCTOR X885
+Six months, obviously call if anything is going on.
+
+PATIENT X885
+Right.
+
+DOCTOR X885
+Um and so we'll go from there okay.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+And we'll keep chatting about uh if about these things change, okay.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+Alright.  And you'll get labs checked at that time okay.
+
+PATIENT X885
+Right.
+
+DOCTOR X885
+So we'll just have the annual labs done at that time okay.
+
+PATIENT X885
+Okay.
+
+DOCTOR X885
+Alright.  Good to see you.
+
+PATIENT X885
+I thank you for everything.
+
+DOCTOR X885
+You're welcome.  You're welcome.
+
+PATIENT X885
+And so my @@@ are doing well.
+
+DOCTOR X885
+I was just going to say I read that you're doing the recreational therapy and taking the guitar lessons and that has to be awesome.
+
+PATIENT X885
+Well DOCTOR said you need to @@@you brain back and functioning.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+And by doing this and exercising @@@.
+
+DOCTOR X885
+Uh-huh.
+
+PATIENT X885
+@@@.
+
+DOCTOR X885
+Yeah.
+
+PATIENT X885
+It'll help.
+
+DOCTOR X885
+It'll help and it keeps your mind off of things too.
+
+PATIENT X885
+Right.
+
+DOCTOR X885
+If you feel a little bit stress, that's a great idea.
+
+PATIENT X885
+Yeah.
+
+DOCTOR X885
+So we'll just have you just check out here on your way out and @@@ here.
+
+PATIENT X885
+Thank you very much.
+
+DOCTOR X885
+You're welcome, here you go.  See you soon.
+
+PATIENT X885
+Okay and thank you very much.
+
+DOCTOR X885
+You're welcome take care.  @@@.
+
+PATIENT LEAVES:  69:04
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255136
+TRANSACTION # 578-10-2-316-0103

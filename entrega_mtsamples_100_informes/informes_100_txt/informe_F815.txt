@@ -1,0 +1,26 @@
+Sample Name: General Medicine Followup - Diabetes and Hypertension
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Medication reconciliation and supply renewals in a patient with diabetes, renal disease, and prior surgeries.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient returns with a companion to review his insulin regimen, blood pressure, and extensive prescription supplies. Home glucose and blood pressure are recorded through a remote-monitoring system. He reports using NPH insulin about 5 units twice daily and varying aspart doses, often closer to 10 units with meals rather than the listed 5 units. He has large remaining supplies of NPH but needs aspart, test strips, and selected equipment or medications. Lisinopril had previously been stopped because of lightheadedness. Clinic blood pressure is approximately 133/61 after an initially higher reading. He has chronic kidney disease, hearing impairment treated with hearing aids, glaucoma and other eye disease, prior left hip replacement, and a history of prostate surgery and urinary or ostomy supplies. His dizziness has improved.
+
+PAST MEDICAL HISTORY: Insulin-treated diabetes, chronic kidney disease, hypertension or elevated blood pressure, hearing impairment, glaucoma, hip arthritis status post replacement, and prior genitourinary surgery.
+
+MEDICATIONS: NPH and aspart insulin, aspirin, vitamins, and other chronic medicines and medical supplies.
+
+PHYSICAL EXAMINATION: Blood pressure 133/61. No specific new acute abnormality was documented on routine examination.
+
+ASSESSMENT AND PLAN:
+1. Diabetes. Review variable insulin use and avoid inadvertent oversupply. Renew aspart and glucose testing supplies and obtain followup laboratory studies. Continue glucose logs through the home system.
+2. Blood pressure and chronic kidney disease. Restart lisinopril at a reduced dose of 2.5 mg daily rather than the prior 5 mg because of previous dizziness. Reassess tolerance and renal monitoring.
+3. Glaucoma and diabetic eye screening. Arrange Ophthalmology followup; current appointment status was uncertain.
+4. Complex medication and equipment needs. Renew requested prescriptions for later use but ship only supplies currently required, including selected insulin and testing materials. Review ostomy or urinary drainage supplies.
+5. Preventive care. Vaccinations were discussed and reported recently received.
+
+Followup in several months.

@@ -1,0 +1,849 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@@  
+
+DOCTOR O611 
+PATIENT.
+
+PATIENT O611
+Over here.
+
+DOCTOR O611
+@@@.  It's just past the Pharmacy.  Alright, how you doing today?
+
+PATIENT O611
+Doing alright.
+
+DOCTOR O611
+Okay uh.  
+
+PATIENT 447
+Is this just an annual?
+
+DOCTOR O611
+Yeah, yeah, it's just a routine visit here so if you have anything specific you want to talk about we can talk about that otherwise I'll have some questions and some generic stuff here.
+
+PATIENT O611
+Okay.
+
+DOCTOR O611
+But how you feeling?
+
+PATIENT O611
+I'm feeling okay.  I still get like a strange pain in my right hip.  I just had it done in February.  I don't know what that means.
+
+DOCTOR O611
+Uh-huh.
+
+PATIENT 447
+But maybe it's just arthritis, I'm not sure.  That's the way they're talking to me cause they done had x-rays done and everything is looking good they're saying but um.
+
+DOCTOR O611
+You had it done February of last year right?
+
+PATIENT O611
+Yes, it's been a year.  It's been over a year now.
+
+DOCTOR O611
+Yeah I mean it looks like, you know you had the hip replacement there.
+
+PATIENT O611
+Uh-huh.
+
+DOCTOR O611
+Uh it looks like it's in position properly.  Cause you know once you have the joint replaced it's a little, you know arthritis is not really gonna happen right cause you've got a prosthetic joint in there now.  But it's just, you know the things you worry about is if it's not aligned properly or something like that but it looks like it's in proper position.
+
+PATIENT 447
+According to what they tell me with the x-rays.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+I guess its okay you know.  I don't really know but.
+
+DOCTOR O611
+Yeah.  Have you been taking anything for the pain?
+
+PATIENT O611
+Just the Vicodins.
+
+DOCTOR O611
+Does that help?
+
+PATIENT 447
+Yes.  Yes.
+
+DOCTOR O611
+Yeah.  
+
+PATIENT O611
+Uh I'm running low on my prescription now.
+
+DOCTOR O611
+Which one for Vicodin?
+
+PATIENT O611
+Yes.
+
+DOCTOR O611
+Okay for your hip yeah.
+
+PATIENT 447
+And then um one other thing um.  The blood pressure pills that they give me.
+
+DOCTOR O611
+Uh-huh.
+
+PATIENT O611
+Okay I guess that's like my fault.  Sometimes like this morning I just totally forgot but I've been on it for the last two weeks you know straight you know.
+
+DOCTOR O611
+Uh-huh.
+
+PATIENT O611
+But um.
+
+DOCTOR O611
+And that's what you're on lisinopril and you're on amlodipine.  You're on two?
+
+PATIENT 447
+Yes.  Half pill on each.
+
+DOCTOR O611
+Half and half exactly and the lisinopril it looks like you're about to run out here.
+
+PATIENT O611
+So that's.
+
+DOCTOR O611
+So I'll refill that for you.  Your blood pressure today actually looks pretty good.
+
+PATIENT O611
+Yeah but I didn't take my medicine and usually when I take that medicine you know I run my blood pressure I'm like below 120 it was like 118.
+
+DOCTOR O611
+That's alright.
+
+PATIENT 447
+One.
+
+DOCTOR O611
+That's fine.
+
+PATIENT O611
+Really?  I'm not sure you know I'm just.
+
+DOCTOR O611
+No, no, that's fine.  The only time you worry about, there's nothing saying, a low blood pressure is that you're getting symptomatic from it.  You're feeling dizzy, lightheaded; weak like you're gonna pass out, that's too low.  Otherwise 118, 120, that's fine.
+
+PATIENT O611
+Yeah.  That means it's normal right?
+
+DOCTOR O611
+Yeah actually 120 is what we try to run as normal.
+
+PATIENT 447
+Uh-huh.
+
+DOCTOR O611
+You know we want you to stay around there.  A little bit lower than that's okay, a little bit higher than that's okay, it's kind of a generalized range.
+
+PATIENT O611
+So anything below 90 then?
+
+DOCTOR O611
+Yeah I mean, are you dropping below 90?
+
+PATIENT O611
+There's times when I read it I am below 90 you know or like 90 now I don't know if its gonna be the pill and then I'll start taking them because you know I do feel like lightheaded and stuff.
+
+DOCTOR O611
+Uh-huh.
+
+PATIENT 447
+And then I stop taking them and then I feel better.  But I don't know if it's the medicine or and you know what here's my problem though I'm not doing it uh consistently you know, the way I'm supposed to do it.  I fail sometimes.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+And then they told me, my brother told me well if I don't take that medicine regularly at the right time or whatever it changes all my uh.
+
+DOCTOR O611
+It does.  The last time you were here your blood pressure was high.  It was really high.  I just saw you back in July and your blood pressure was really high.
+
+PATIENT O611
+But I think I over drank that day.
+
+DOCTOR O611
+Uh-huh.
+
+PATIENT 447
+You know what I mean and when I came in I was still like uh, I guess like still intoxicated but not intoxicated but.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+I felt like a hangover in other words.
+
+DOCTOR O611
+Yeah so that's probably what brought it up a little bit.  I think if its, where is it most of the time.  The majority of the time you check it where is it at?
+
+PATIENT O611
+But you know what, okay you know like 119, maybe 130.
+
+DOCTOR O611
+Okay.  That's okay.
+
+PATIENT 447
+Sometimes 140 you know something like that.
+
+DOCTOR O611
+If that's the case I would say stick with the two that you're on.
+
+PATIENT O611
+Uh-huh.
+
+DOCTOR O611
+If it's routinely going below 90 or even below 100 then I'd probably stop at least one of them.  I know you stopped the amlodipine.  Let me ask you; is it hard for you to get here for appointments?
+
+PATIENT O611
+No.
+
+DOCTOR O611
+So how about we do this.  Keep taking both of them, take them regularly.
+
+PATIENT 447
+Okay.
+
+DOCTOR O611
+Every day.
+
+PATIENT O611
+Uh-huh.
+
+DOCTOR O611
+We'll have you come back in two weeks just for a blood pressure check.
+
+PATIENT O611
+Okay.
+
+DOCTOR O611
+Just to see if you are too low when you're taking them regularly we could probably stop one of them.
+
+PATIENT 447
+Yeah because I would have to stay on them for two weeks I know and then we could go from there you know that sounds like a good plan cause.
+
+DOCTOR O611 
+Yeah.
+
+PATIENT O611
+I'm a little confused.  Sometimes I take them sometimes I don't.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+And I don't even know if it's the medicine, maybe it's just me, I don't know.
+
+DOCTOR O611
+Yeah so let's do that.  Take them regularly every day for the next two weeks and then I'll have you come back for a blood pressure check with one of the nurses.
+
+PATIENT 447
+Okay.
+
+DOCTOR O611
+And then we'll have that in the computer and we'll see how it looks.
+
+PATIENT O611
+Okay.
+
+DOCTOR O611
+@@@.
+
+PATIENT O611
+Sounds good to me I'll just come in.
+
+DOCTOR O611
+Otherwise I saw you uh, they're seeing you in the Urology Clinic now is that right?
+
+PATIENT 447
+Well GU yes.
+
+DOCTOR O611
+Diagnosis is prostate cancer?
+
+PATIENT O611
+Yes.
+
+DOCTOR O611
+Okay so you're getting treatment for that.
+
+PATIENT O611
+Well right.  We made a game plan.
+
+DOCTOR O611
+Okay.
+
+PATIENT 447
+The last time I seen them.
+
+DOCTOR O611
+What’s the plan.
+
+PATIENT O611
+DOCTOR or whatever.
+
+DOCTOR O611
+Yeah DOCTOR.
+
+PATIENT O611
+DOCTOR.
+
+DOCTOR O611
+So what's the plan?
+
+PATIENT 447
+Okay uh you know what I had the biopsy done and the specimens were detected here at the VA only the right side.
+
+DOCTOR O611
+Uh-huh.
+
+PATIENT O611
+Of the paperwork they give me the right side.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+So my sister-in-law wrote to a pathologist in Houston.
+
+DOCTOR O611
+Uh-huh.
+
+PATIENT 447
+So I sent the specimens, well the VA sent the specimens to their office or whatever and they ran their tests and they found that the VA had missed cancer on the left side also.
+
+DOCTOR O611
+Okay.
+
+PATIENT O611
+So that changed all my numbers.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+And so now the doctor is saying, see I'm getting married in April.
+
+DOCTOR O611
+Oh congrats.
+
+PATIENT 447
+Yeah so you know we've been together 25 years so I'm getting married in April and I didn't want, he wanted to do the surgery next month you know in March, the 8th or something and I'm going well I want to get married I don't want to be stuck you know for six weeks healing you know and I don't even know what, I don't know there's a lot of side effects and you know I don't know if I want to fall into one of them side effects.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+And have.
+
+DOCTOR O611
+Sure.
+
+PATIENT O611
+So I just keep, what he did was give me a shot in my stomach.
+
+DOCTOR O611
+Uh-huh.
+
+PATIENT 447
+To prolong the cancer or whatever.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+And uh and scheduled me in three months to see him again or within the three, February, March, April, somewhere in May have the surgery or whatever I decide to do you know.
+
+DOCTOR O611
+Okay.
+
+PATIENT O611
+As far as the chemo or surgery.
+
+DOCTOR O611
+Perfect.  So we're gonna do the shot and that'll keep you good for three months.
+
+PATIENT 447
+I already did that.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+I did that already.
+
+DOCTOR O611
+And then we can talk surgery at that point.
+
+PATIENT O611
+Yes.
+
+DOCTOR O611
+Perfect.
+
+PATIENT 447
+Either talk surgery or whatever I decide to do.
+
+DOCTOR O611
+Possible options.
+
+PATIENT O611
+Right.
+
+DOCTOR O611
+Okay, okay.
+
+PATIENT O611
+Now I spoke to him about the robotic because of the side effects, less potential side effects.
+
+DOCTOR O611
+Sure.
+
+PATIENT 447
+And um but the VA don't do it here.
+
+DOCTOR O611
+Okay.
+
+PATIENT O611
+So he gave me something.  I don't know maybe there's a VA somewhere around here that might do that I don't know.
+
+DOCTOR O611
+There's one out by Loyola, in Maywood, Hines.  I don't know, see that's the thing I'm not sure, I would maybe try giving them a call.
+
+PATIENT O611
+I could call them?
+
+DOCTOR O611
+Yeah no actually I'm not sure who does it I would maybe even ask the GU Clinic.
+
+PATIENT 447
+Yeah she gave me a VA.com type of deal to get on the internet and go to the computer route.
+
+DOCTOR O611
+Okay.
+
+PATIENT O611
+If they do something like that at the VA you know.  I don't feel like going on the outside.  I've been here.
+
+DOCTOR O611
+Sure.
+
+PATIENT O611
+Through the years and.
+
+DOCTOR O611
+Yeah.
+
+PATIENT 447
+Everybody knows what's going on with me.  I go over there and I got to start this whole story all over again.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+Tests and.
+
+DOCTOR O611
+Better @@@ to go to one place.
+
+PATIENT O611
+I'll probably.
+
+DOCTOR O611
+Okay yeah.
+
+PATIENT 447
+I'm more satisfied you know.
+
+DOCTOR O611
+Gotcha.  Alright well good.  As long as they're following for all that stuff.  
+
+PATIENT O611
+Yeah.
+
+DOCTOR O611
+I just wanted to make sure you to have someone here.
+
+PATIENT O611
+Yeah what they send me an appointment with the @@@.
+
+DOCTOR O611
+Uh to check the testosterone?
+
+PATIENT 447
+Cause it was low before they found out my PSA levels were low okay and that's why I was having this erection problem or whatever so but they told me that uh, how do you call it that if they treat the testosterone levels that that would advance the cancer because whatever they give you.
+
+DOCTOR O611
+@@@ yeah you know in people with prostate cancer already I don't think they want to treat that number just yet they probably want to treat the cancer first.
+
+PATIENT O611
+Well that's the way I'm doing it.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+But see they set me up for another appointment.  I guess I'll just go ahead and keep it.
+
+DOCTOR O611
+Yeah.
+
+PATIENT 447
+And at that time just let them know what's going on.  I image they know too because that's one of the questions they asked me the last time I was there, well you have this prostate cancer and that's how I found out that if they treated the testosterone levels that that would affect my cancer.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+So that was like on hold.
+
+DOCTOR O611
+I gotcha yeah.  Take care of the cancer first.  I mean it sounds like there's a good game plan in place.
+
+PATIENT O611
+Yeah.
+
+DOCTOR O611
+I would just treat that first.
+
+PATIENT 447
+Uh-huh.
+
+DOCTOR O611
+Otherwise I mean it sounds like you're doing well.  The hip pain as long as it's controlled on the Vicodin I wouldn't worry too much about it.
+
+PATIENT O611
+Okay.
+
+DOCTOR O611
+I can refill that for you today.
+
+PATIENT O611
+Okay alright.
+
+DOCTOR O611
+Um the blood pressure I guess we'll have you come back in two weeks.
+
+PATIENT 447
+Okay.
+
+DOCTOR O611
+To get it rechecked.
+
+PATIENT O611
+That'll be fine.
+
+DOCTOR O611
+Uh and it looks like you're due for a colonoscopy next year.
+
+PATIENT O611
+Yes.
+
+DOCTOR O611
+Um and then let me check when we checked your labs last in terms of your cholesterol and everything.
+
+PATIENT 447
+I think that was done last year too in February you know cause they go through a whole procedure.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+Before a surgery.
+
+DOCTOR O611
+So they were done, the last thing I see in here is from March 2011 in terms of your cholesterol um looks okay.  Are you on, you're not on anything for?
+
+PATIENT O611
+No I just take a stomach pill for acid reflux, reflux or whatever.
+
+DOCTOR O611
+Yeah.  Okay alright.  You want to sit up here for me?
+
+PATIENT 447
+Sure.
+
+DOCTOR O611
+Alright. I’ll take a listen.  Just normal breathing okay.  Actually, I'm just going to go just right under here.
+
+PATIENT O611
+Oh.
+
+DOCTOR O611
+Alright deep breaths for me in and out through your mouth.  Okay.  Okay good.  Any pain down here?
+
+PATIENT O611
+No.
+
+DOCTOR O611
+No okay.  Any swelling in the legs?
+
+PATIENT 447
+No not that I know of.
+
+DOCTOR O611
+Okay.  Okay great.  I'm gonna go talk to DOCTOR um I'll be back in just a couple minutes okay.
+
+PATIENT O611
+Alrighty.
+
+DOCTOR O611
+@@@ real fast. Okay.  
+
+PATIENT O611
+@@@.
+
+DOCTOR O611
+Still @@@ then.
+
+PATIENT 447
+Yeah a little bit longer, 60 years old.
+
+DOCTOR O611
+Well you've got some time to go.
+
+PATIENT O611
+I hear you.
+
+DOCTOR O611
+Alright I'll be back okay.
+
+PATIENT O611
+Absolutely, see you soon.
+
+(DOCTOR OUT:  38:06  DOCTOR IN:  41:38)
+
+DOCTOR O611
+Alright.  So here's what we're gonna do.  Pretty much exactly what we talked about.  I'm gonna refill your meds.  Do you want to pick them up here or do you want them to come in the mail?
+
+PATIENT 447
+I could pick them up here.
+
+DOCTOR O611
+Okay.  So.
+
+PATIENT O611
+Oh one other thing um.
+
+DOCTOR O611
+Sure.
+
+PATIENT O611
+I think my Viagra is also running out or something or other.  I might need to.
+
+DOCTOR O611
+Uh you still got a refill on that.
+
+PATIENT 447
+Oh okay.
+
+DOCTOR O611
+So you can just, when you stop by the Pharmacy just tell them you have a refill on it.
+
+PATIENT O611
+Okay.
+
+DOCTOR O611
+Okay um and then what I'll do I'll refill your Vicodin and your blood pressure medicine.  I think everything else has got refills on it so um we're gonna have you come back in two weeks for that blood pressure check.
+
+PATIENT O611
+Okay.
+
+DOCTOR O611
+Um did you eat anything today?
+
+PATIENT 447
+No I drank a cup of coffee.
+
+DOCTOR O611
+Okay.  When you come back in for the blood pressure check if you can come in the morning.  I want to recheck your cholesterol levels.
+
+PATIENT O611
+Uh-huh.
+
+DOCTOR O611
+We don't want you to eat or drink anything before that if possible.
+
+PATIENT O611
+Okay.
+
+DOCTOR O611
+So I figure maybe when you come back for the blood pressure check just stop by the Lab too and get that drawn.
+
+PATIENT 447
+Alright.
+
+
+DOCTOR O611
+That sound okay?
+
+PATIENT O611
+Okay.  Uh so don't eat anything after 12 that night?
+
+DOCTOR O611
+Well.
+
+PATIENT O611
+You like preparing for whatever.
+
+DOCTOR O611
+You know all you had today is coffee?
+
+PATIENT 447
+That's all I had.
+
+DOCTOR O611
+Do you put a lot of sugar in it?
+
+PATIENT O611
+I put some.
+
+DOCTOR O611
+Well how long ago did you have it, a couple hours?
+
+PATIENT O611
+Yeah @@@.
+
+DOCTOR O611
+@@@.
+
+PATIENT 447
+I was still drinking it at 9 o'clock so right when I got here basically.
+
+DOCTOR O611
+You know it should be okay.  You could stop by the Lab today if you want and just get that.  Cause your blood pressure meds you usually probably take with food right?
+
+PATIENT O611
+Yes.
+
+DOCTOR O611
+Yeah so I don't want you to you know go hungry when you're taking your blood pressure meds that day um you could just stop by the Lab today and you can get it done if you want.
+
+PATIENT O611
+I'll just wait the two weeks that way I'll be prepared you know.
+
+DOCTOR O611
+Okay.
+
+PATIENT 447
+If I have to, do you suggest I eat something or nothing?
+
+DOCTOR O611
+Uh I mean ideally, ideally nothing but.
+
+PATIENT O611
+Okay well then that's fine.
+
+DOCTOR O611
+If you need something with your blood pressure medicine you know.
+
+PATIENT O611
+Uh I don't really, sometimes I do, sometimes I don't maybe just a piece of toast or something you know.
+
+DOCTOR O611
+Yeah.  If you take something small, just don't eat too much.
+
+PATIENT 447
+Okay, I gotcha.
+
+DOCTOR O611
+Okay the blood pressure check in two weeks and then other than that I'll see you back, what do you think six months sound good?
+
+PATIENT O611
+Fine with me.  I mean after they take care of this cancer I should be good.
+
+DOCTOR O611
+Should be good to go.  Let me just uh refill this and put in a couple other things for you and then we'll have you on your way okay.
+
+PATIENT O611
+Okay.  Uh I collect travel pay so that's got to be in the.
+
+DOCTOR O611
+Gotcha.  So give me a sec to get all that stuff done and then we'll uh @@@.
+
+PATIENT 447
+So I can just go right here to the Pharmacy then huh, take a number.
+
+DOCTOR O611
+You go right over here.
+
+PATIENT O611
+Okay then just wait.
+
+DOCTOR O611
+Uh-huh.
+
+PATIENT O611
+Okay sounds good.
+
+DOCTOR O611
+Yeah just give me a minute to get all this stuff done.
+
+PATIENT 447
+Alright.  So this is my permanent clinic, the Gold Clinic okay.
+
+DOCTOR O611
+Uh-huh.
+
+PATIENT O611
+Uh so you're my doctor DOCTOR.
+
+DOCTOR O611
+Yeah.
+
+PATIENT O611
+Okay, alright gotcha.
+
+DOCTOR O611
+Okay so I got your refills should be ready at the window.
+
+PATIENT 447
+Okay.
+
+DOCTOR O611
+Put in for the blood work and then just in two weeks come back to see the nurse.
+
+PATIENT O611
+And I hand this to the people here in front?
+
+DOCTOR O611
+Yeah and I'll get you checked out here okay.
+
+PATIENT O611
+Alright doc.
+
+DOCTOR O611
+Uh good to see you.  Have a good day alright.
+
+PATIENT 447
+Enjoy your day.
+
+DOCTOR O611
+Alright thank you alright.
+
+PATIENT O611
+Close it?
+
+DOCTOR O611
+Um yeah.
+
+PATIENT LEAVES:  46:45.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300320
+TRANSACTION # 578-10-2-316-0103

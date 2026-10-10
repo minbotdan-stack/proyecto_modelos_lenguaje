@@ -1,0 +1,979 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@
+
+DOCTOR K150
+@@@.
+
+PATIENT K150
+Yes I know.
+
+DOCTOR K150
+How have you been? 
+
+PATIENT K150
+When I take the medications I'm fine.  The reason why I cancelled the last time was.
+
+DOCTOR K150
+Do you have your medicine list?
+
+PATIENT K150
+Yes.  When I cancelled the last appointment was because I had uh my diet was a little bit, left a lot to be desired and uh.
+
+DOCTOR K150
+You had diarrhea?
+
+PATIENT K150
+Well it was a five roll toilet paper day.
+
+DOCTOR K150
+Hmm.
+
+PATIENT K150
+Um since we had not seen each other once before, when I called to reschedule the appointment I said I have not seen this doctor before, schedule me with anybody.
+
+DOCTOR K150
+Okay.
+
+PATIENT K150
+Because since I've been here, I think I've seen four.
+
+DOCTOR K150
+Different doctors?
+
+PATIENT K150
+Absolutely.
+
+DOCTOR K150
+Oh my gosh, oh my gosh.
+
+PATIENT K150
+So now you're the fifth.
+
+DOCTOR K150
+Well you gave us.
+
+PATIENT K150
+So I said please, give me somebody.  I don't wait da da da and obviously that didn't seem to mean a hill of beans.  I've also been waiting here about three hours so I am not really a happy camper.
+
+DOCTOR K150
+Three hours?
+
+PATIENT K150
+I understood that, I understood that you started at 1 o'clock.
+
+DOCTOR K150
+Yeah.
+
+PATIENT K150
+I hear you, I didn't know but I just figured if I get here early.
+
+DOCTOR K150
+Oh no.
+
+PATIENT K150
+Yeah right, well that is never gonna happen again.
+
+DOCTOR K150
+Unfortunately yes, unfortunately because everyone has like their time slot.
+
+PATIENT K150
+Yeah, well it isn't gonna happen again.
+
+DOCTOR K150
+Okay.  Alright let's go over the medicines that you're taking so I know what you're on.  You're still on the Combivent inhalant right?
+
+PATIENT K150
+I'm on everything.
+
+DOCTOR K150
+Okay.
+
+PATIENT K150
+I take it religiously.
+
+DOCTOR K150
+That's good.
+
+PATIENT K150
+If I take something a little bit lightly or lighter it's the inhalers and the reason then is because they open me up but unfortunately being a smoker I'm just going to have to cigarette probably 15-20 minutes so I don't think it opens me up.
+
+DOCTOR K150
+Are you still smoking?
+
+PATIENT K150
+Unfortunately.
+
+DOCTOR K150
+How many packs?
+
+PATIENT K150
+One.
+
+DOCTOR K150
+A day?
+
+PATIENT K150
+Yes.
+
+DOCTOR K150
+Trying to cut back?
+
+PATIENT K150
+I've given up on that one.  I've failed.
+
+DOCTOR K150
+How many times have you tried?
+
+PATIENT K150
+2 hard core times.
+
+DOCTOR K150
+Okay, so it's never too late right?
+
+PATIENT K150
+I don't lie to myself.
+
+DOCTOR K150
+Have you tried like any smoking cessation programs?
+
+PATIENT K150
+I think I did the patch once.
+
+DOCTOR K150
+Uh-huh.
+
+PATIENT K150
+I failed.  I tried twice hard core.
+
+DOCTOR K150
+What if you try to cut back slowly to like half a pack a day?
+
+PATIENT K150
+Yeah.
+
+DOCTOR K150
+Do you think you might be open to try that?
+
+PATIENT K150
+I don't lie to myself.
+
+DOCTOR K150
+You don't want to try but you do know your lungs could get worse right?
+
+PATIENT K150
+Of course.
+
+DOCTOR K150
+Okay.  Just want to make sure.  Any shortness of breath though?
+
+PATIENT K150
+Of course.
+
+DOCTOR K150
+When do you usually get that?  When you're sitting down, not doing anything, when you're walking on an incline?
+
+PATIENT K150
+No.  Yeah I got to walk upstairs or I'm gonna you know if I exert myself I just know that it's not a great idea and uh doesn't help your lungs.
+
+DOCTOR K150
+Uh-huh.  Do you feel like you're using the albuterol more than usual?
+
+PATIENT K150
+No.
+
+DOCTOR K150
+Okay.  How often are you using albuterol?
+
+PATIENT K150
+When necessary.
+
+DOCTOR K150
+How many times a week?
+
+PATIENT K150
+Once or twice.
+
+DOCTOR K150
+Okay.  Do you drink?
+
+PATIENT K150
+I should but I don't.
+
+DOCTOR K150
+I'm glad you don't.  How long have you been smoking though?
+
+PATIENT K150
+Since I've been in the Marines.
+
+DOCTOR K150
+Hmm.  Do you live alone?
+
+PATIENT K150
+Yes.
+
+DOCTOR K150
+Family around in the Chicago area?
+
+PATIENT K150
+Yes.
+
+DOCTOR K150
+Do you have children?
+
+PATIENT K150
+Yes.
+
+DOCTOR K150
+Pretty supportive or do you see them?
+
+PATIENT K150
+I am supportive for them, yes for them.
+
+DOCTOR K150
+Okay.  Okay.  Alright let me look at the labs you had done and then we can go from there.  Blood pressure is on the high side today.
+
+PATIENT K150
+Yes because I was aggravated.
+
+DOCTOR K150
+Do you check your blood pressure at home?  Okay.  Do you check your blood pressure at home?
+
+PATIENT K150
+I like the VA.  I'm a happy camper with the VA.
+
+DOCTOR K150
+Do you even know what time your appointment was?
+
+PATIENT K150
+This place has always been class act to me, I enjoy it.
+
+DOCTOR K150
+Okay.
+
+PATIENT K150
+The economics are outstanding.  But if I had to come here and pay, I’d kiss this place off in a heartbeat.
+
+DOCTOR K150
+It's not a bad place, you know that right?
+
+PATIENT K150
+Let us please move on.
+
+DOCTOR K150
+Okay.  Let me look at your labs and then we'll go from there.  So the labs you had done last year were not that bad.  Your cholesterol was a bit on the high side.
+
+PATIENT K150
+So they gave me this whatever it is and I take a half a pill a day.
+
+DOCTOR K150
+Okay, looks good.
+
+PATIENT K150
+Until I run out.
+
+DOCTOR K150
+I can refill your medicines, it's not a problem.  Have you ever had.
+
+PATIENT K150
+When I was here, well I guess it was two weeks ago.
+
+DOCTOR K150
+Uh-huh.
+
+PATIENT K150
+I came through and filled everything for them.
+
+DOCTOR K150
+Okay.  Have you ever had a colonoscopy?
+
+PATIENT K150
+Colonoscopy.
+
+DOCTOR K150
+Uh-huh.
+
+PATIENT K150
+Tell me what it is.
+
+DOCTOR K150
+You lay down, they give you like a bowel prep so you are having diarrhea constantly for like a day.
+
+PATIENT K150
+Is that something where they stick something in here?
+
+DOCTOR K150
+Through the rectum.
+
+PATIENT K150
+Never ever.
+
+DOCTOR K150
+You've never had it?
+
+PATIENT K150
+No nor am I going to.
+
+DOCTOR K150
+Why is that?
+
+PATIENT K150
+It just isn't gonna happen.
+
+DOCTOR K150
+Usually the reason why we recommend that.
+
+PATIENT K150
+Don't care.
+
+DOCTOR K150
+Let me explain first.
+
+PATIENT K150
+No.  No.  I don't want anything stuck in my rectum.
+
+DOCTOR K150
+Well you're aware of preventing colon cancer @@@ right?
+
+PATIENT K150
+It isn't gonna happen.
+
+DOCTOR K150
+You have increased risks.
+
+PATIENT K150
+It isn't going to happen.
+
+DOCTOR K150
+Any history.
+
+PATIENT K150
+It has been brought up before.
+
+DOCTOR K150
+Okay.
+
+PATIENT K150
+It isn't gonna happen.
+
+DOCTOR K150
+Any history of like cancers in your family?  No?
+
+PATIENT K150
+Not that I'm aware of.
+
+DOCTOR K150
+Okay.  So another screening that we do, because you're a smoker and you're age 65 is to screen for your large artery which is your aorta being enlarged.
+
+PATIENT K150
+I know.  It was suggested that I take…
+
+DOCTOR K150
+Uh-huh.
+
+PATIENT K150
+Uh the baby aspirin and I do.
+
+DOCTOR K150
+You do take the baby aspirin but at age 65, between age 65 and 75, we do have to do an ultrasound of the aorta to make sure the size is not enlarged.  Is that something you'd be interested in?  What do you think?
+
+PATIENT K150
+Uh when I was in the hospital I think five or six years ago, some kind of clogged blah, blah, blah and they did all that stuff.  They looked at the heart.
+
+DOCTOR K150
+So that was probably an ultrasound of the heart.  This one is an ultrasound of like the large vessels, also of the heart, mainly like an abdominal ultrasound looking for that.
+
+PATIENT K150
+Oh I know they showed me a picture, you know I was looking at it.
+
+DOCTOR K150
+Uh-huh.
+
+PATIENT K150
+Do you think it is necessary at this point in time?
+
+DOCTOR K150
+We could talk about it the next time I see you.
+
+PATIENT K150
+Fine.
+
+DOCTOR K150
+Sounds good.  Okay.  So today you ate already.  When do you think you have time to come back so maybe we can recheck the cholesterol?
+
+PATIENT K150
+How is it that you're gonna recheck it?  Is it a blood thing?
+
+DOCTOR K150
+Yeah.  But you would have to not eat.  I'm sure you did already today right?
+
+PATIENT K150
+Well uh when did uh.
+
+DOCTOR K150
+I’m sorry you have to wait.
+
+PATIENT K150
+No, no, no, no.  I think I had a plan.
+
+DOCTOR K150
+Huh?
+
+PATIENT K150
+I think I have a @@@.
+
+DOCTOR K150
+Which is?
+
+PATIENT K150
+Uh what is your schedule on the 7th of June?
+
+DOCTOR K150
+Well I don't need to see you.  You can just go down to the lab and get it done.  Yeah and then I follow up on it.
+
+PATIENT K150
+Then I'm for that.
+
+DOCTOR K150
+Huh?
+
+PATIENT K150
+Tell me what they're gonna do.
+
+DOCTOR K150
+It's just a blood draw.
+
+PATIENT K150
+Oh they're gonna take blood.
+
+DOCTOR K150
+And usually its better that you get that in the morning so the night before you won't eat, you would stop eating as of like 6:00 p.m. and then you get it done and then I'll follow up on it.  Now let me see.
+
+PATIENT K150
+One of the things they do good here.
+
+DOCTOR K150
+Which is?
+
+PATIENT K150
+Takes blood boom, @@@.
+
+DOCTOR K150
+Okay.  So your blood pressure has been on the higher side.  I'll recheck it again today but it's something you need to keep a close eye on.
+
+PATIENT K150
+It was rechecked then.
+
+DOCTOR K150
+I'll recheck it myself.
+
+PATIENT K150
+Fine.
+
+DOCTOR K150
+Last year it was still up in the 140s, which around what it is right now.  Were you not really too happy the day last year when you had it done.  Do you remember?
+
+PATIENT K150
+No.
+
+DOCTOR K150
+Maybe that was the problem.
+
+PATIENT K150
+No there was no problem.
+
+DOCTOR K150
+Okay.  So we'll keep an eye on that.
+
+PATIENT K150
+It's higher today.
+
+DOCTOR K150
+Huh?
+
+PATIENT K150
+It was higher today.
+
+DOCTOR K150
+Yeah.  So you would like to come back in June to get that done, do the cholesterol?
+
+PATIENT K150
+Yeah.  It's not a big thing.
+
+DOCTOR K150
+It's up to you.  Okay.
+
+PATIENT K150
+Uh make it on the 7th.
+
+DOCTOR K150
+Of June right?
+
+PATIENT K150
+Yeah.  I will live.  
+
+DOCTOR K150
+Really far?
+
+PATIENT K150
+60 miles one way.
+
+DOCTOR K150
+Oh gosh.  That's really far.
+
+PATIENT K150
+So I cruise.
+
+DOCTOR K150
+Do you have any other appointments during that time?
+
+PATIENT K150
+Yes.
+
+DOCTOR K150
+Okay you have an appointment on June 7th okay perfect.  Perfect, I didn't know that.  Okay, have a seat up here.
+
+PATIENT K150
+June 7th is a Tuesday and that's right.  So if you can set that thing up before I get, of course it doesn't take that long.  I guess at 1 o'clock.
+
+DOCTOR K150
+Yeah you can get it done whenever.  It doesn't matter.
+
+PATIENT K150
+All you do is schedule it, schedule the day.
+
+DOCTOR K150
+Uh-huh.
+
+PATIENT K150
+Fine.
+
+DOCTOR K150
+And you can come at whatever time you choose.
+
+PATIENT K150
+Okay thank you.
+
+DOCTOR K150
+You can have a seat up here.  So we'll check your cholesterol and get all that blood work then.  Any problems peeing, losing urine on yourself, not feeling like you've properly completely emptied your bladder?
+
+PATIENT K150
+No the only time I had was the last time I had to cancel the appointment and it was probably because I wasn't eating right or whatever.  So I backed off the medications, did a lot of water, cleared the system out.
+
+DOCTOR K150
+Hmm.
+
+PATIENT K150
+Probably about three days later got back on the medications, started eating properly and everything has been fine since.
+
+DOCTOR K150
+Uh-huh.  Chest pain, shortness of breath, feeling like your heart is pounding, beating really fast?  Just hold still for me if you can.
+
+PATIENT K150
+Okay.  In theory, let's see.
+
+DOCTOR K150
+Yeah.
+
+PATIENT K150
+Probably going to be 147 over.
+
+DOCTOR K150
+Because you're worked up.  I'm working you up.
+
+PATIENT K150
+No I'm working myself down.
+
+DOCTOR K150
+(Laughter).
+
+PATIENT K150
+147 over whatever it is 80s or something or less than that, 90 or something.  Am I close?
+
+DOCTOR K150
+You're close.  I got 148 over about 100.  
+
+PATIENT K150
+You know I don't have a clue what that means.
+
+DOCTOR K150
+Any leg swelling at all?
+
+PATIENT K150
+I'm sorry, say it again?
+
+DOCTOR K150
+And any leg swelling?
+
+PATIENT K150
+No.
+
+DOCTOR K150
+Okay.  And no chest pain either right?
+
+PATIENT K150
+Thank goodness.
+
+DOCTOR K150
+And you know your smoking could do that.
+
+PATIENT K150
+That's bad enough.
+
+DOCTOR K150
+Any problems with your vision?
+
+PATIENT K150
+Uh well it's not 20/20.
+
+DOCTOR K150
+Do you wear glasses or contacts?
+
+PATIENT K150
+No.
+
+DOCTOR K150
+Do you feel like your vision is gradually worsening?
+
+PATIENT K150
+Manageable, manageable.
+
+DOCTOR K150
+Do you wear reading glasses?
+
+PATIENT K150
+It's gradually you know worsening.
+
+DOCTOR K150
+Do you want to see the Eye Clinic here?
+
+PATIENT K150
+No.
+
+DOCTOR K150
+Why?
+
+PATIENT K150
+I don't look for problems.
+
+DOCTOR K150
+You just don't want to know if there's something going on.
+
+PATIENT K150
+That is correct.  You know I don't want any invasive surgeries, anybody sticking anything you know.  It's just that they've taken blood here and they do it.
+
+DOCTOR K150
+So let me ask you this, let's say you never have a colonoscopy, you come in maybe 5-10 years from now very constipated, very bloated, having weight loss and we say hmm we think it may be maybe colon cancer or something like that.
+
+PATIENT K150
+I would tell you to do what they did when I was in Vietnam.
+
+DOCTOR K150
+Which is what?
+
+PATIENT K150
+Take this @@@ peragoric and eat a lot of peanut butter.
+
+DOCTOR K150
+That may not help.
+
+PATIENT K150
+If I'm alive in five to ten years from now I'm gonna be a happy camper.
+
+DOCTOR K150
+With cancer?
+
+PATIENT K150
+I'll be a happy camper.  If I make it another five, ten years, I'm gonna be a happy camper.
+
+DOCTOR K150
+So let's say at that stage you can't eat anything, you can't keep anything down because there's cancer in the colon backing things up and we can't really feed you right?
+
+PATIENT K150
+And I die? It happens to everyone.
+
+DOCTOR K150
+At that point, let me ask you would you decide on having part of your colon taken out?
+
+PATIENT K150
+No invasive surgery.
+
+DOCTOR K150
+Nothing.  Nothing.
+
+PATIENT K150
+I have all the parts that I'm gonna need that can last me.
+
+DOCTOR K150
+Okay.
+
+PATIENT K150
+They've taken a few parts out. I still have a bunch in.
+
+DOCTOR K150
+What parts did they take out?
+
+PATIENT K150
+Spleen.
+
+DOCTOR K150
+Why?
+
+PATIENT K150
+Motor accident.
+
+DOCTOR K150
+No heart surgeries ever?
+
+PATIENT K150
+No I've been very fortunate.
+
+DOCTOR K150
+That's good.
+
+PATIENT K150
+I know they cleaned my lungs out one time.
+
+DOCTOR K150
+Why?
+
+PATIENT K150
+Cause they were all clogged up.
+
+DOCTOR K150
+Okay.  Okay.  @@@.
+
+PATIENT K150
+You know where they stick the hose down you and clear everything out.
+
+DOCTOR K150
+Yeah.  Alright.  Lift up your shirt here.  Alright a deep breath for me.  Everything seems to be cleaned out.  When was the last time they had an x-ray.  Do you want me to give you over-the-counter Debrox, it's more like a drop you put in your ears.
+
+PATIENT K150
+Yes.
+
+DOCTOR K150
+Okay.  Open your mouth; stick out your tongue ah.  @@@ protuding in and out.  Around your cheeks.
+
+PATIENT K150
+This side?
+
+DOCTOR K150
+Yeah.
+
+PATIENT K150
+Cause they pulled three teeth probably three weeks ago.
+
+DOCTOR K150
+Okay.
+
+PATIENT K150
+So.
+
+DOCTOR K150
+They pulled them here?
+
+PATIENT K150
+No, I don't have dental
+
+DOCTOR K150
+I thought they did.
+
+PATIENT K150
+Yeah well they have it, I don't qualify.
+
+DOCTOR K150
+Oh.  This is cold.
+
+PATIENT K150
+Warm heart.
+
+DOCTOR K150
+What's this over here?
+
+PATIENT K150
+Uh well I've been told it's supposedly a piece of fat.
+
+DOCTOR K150
+Yeah.  Is it bothering you at all?
+
+PATIENT K150
+Uh cosmetically but I can't see back there so I don't worry about it.
+
+DOCTOR K150
+Okay.  I was going to offer something for you but I guess not.
+
+PATIENT K150
+There's a way to do it without cutting it?
+
+DOCTOR K150
+Yeah.
+
+PATIENT K150
+You have to cut it?
+
+DOCTOR K150
+Yes.  Alright lay on your back for me.  We'd have to cut it.  
+
+PATIENT K150
+@@@.
+
+DOCTOR K150
+Uh-huh, @@@ pain.  Just go ahead and sit up for me.  Have a seat right here.
+
+PATIENT K150
+Right where?
+
+DOCTOR K150
+Have a seat.  Alright so the main concern is the blood pressure.  We could do a couple of things.  Hold off on starting you on anything, have you follow up with the Pharmacy.
+
+PATIENT K150
+There is one thing on the blood pressure.
+
+DOCTOR K150
+What?
+
+PATIENT K150
+In my coffee this morning late.
+
+DOCTOR K150
+Uh-huh.
+
+PATIENT K150
+I did have a double shot of Espresso.
+
+DOCTOR K150
+Okay.  They can send you a blood pressure cuff to your house and you can do that.
+
+PATIENT K150
+I'm just wondering if that was the reason why the blood pressure was high.
+
+DOCTOR K150
+It may or may not be but smoking does it too.  They can send you a blood pressure cuff, you can keep a log of, maybe checking it a couple times a week, I'll hold up on starting you on something right now.  I'll have you see the pharmacist, the registered pharmacist on June 7th if they can get an appointment, to see what the blood pressure has been.  If it's still high then we'll have to start you on something.
+
+PATIENT K150
+I'm started on everything.
+
+DOCTOR K150
+Not blood pressure medicine.  Okay.  So I just wanted to let you know about that.
+
+PATIENT K150
+You mean none of those things?
+
+DOCTOR K150
+No, it's none of them. 
+
+PATIENT K150
+I thought at least one or two of those things were supposed to.
+
+DOCTOR K150
+No.
+
+PATIENT K150
+Just no.  Mellow me out a little bit.
+
+DOCTOR K150
+There is medicine for anxiety, there's one for the inhaler and then the cholesterol and that's it.  Let me order these things and then you should be done.  So you said June 7th is the date.
+
+PATIENT K150
+Yes.  Correct, correct.
+
+DOCTOR K150
+June 7th.  I'm going to order you a blood pressure cuff to the house.
+
+PATIENT K150
+What is this?
+
+DOCTOR K150
+Huh?
+
+PATIENT K150
+What is it?
+
+DOCTOR K150
+What is a blood pressure cuff?  What do you mean what it is?
+
+PATIENT K150
+Yes, yes, yes.
+
+DOCTOR K150
+Oh it's similar to that but its manual.  It's automatic so you can at least keep a log of your blood pressure to try to decide on what to do.
+
+PATIENT K150
+Don’t send it.
+
+DOCTOR K150
+Okay.  Do you want to see; do you want to have like a nurse visit on the 7th when you come, have one of the nurses up here check your blood pressure?
+
+PATIENT K150
+They can't do it while they're taking blood, don't they?
+
+DOCTOR K150
+Yeah I mean they can't do it in the lab downstairs.
+
+PATIENT K150
+Oh.
+
+DOCTOR K150
+Your choice.
+
+PATIENT K150
+Yeah that's fine, fine.  For me to check my blood pressure every third day or every fifth day…
+
+DOCTOR K150
+No maybe once a week.
+
+PATIENT K150
+Once a week, just what I need, I'll get more nervous.
+
+DOCTOR K150
+@@@ June 7th, let me see.  Okay.  Now give me a couple minutes okay.
+
+(DOCTOR OUT:  179:10  DOCTOR IN:  185:04)
+DOCTOR K150
+Alright we're all set.  So you'll come in on June 7th to get your labs done on June 7th and then we'll go from there.  And you need to work on the smoking and keep it in the back of your mind if it's still high we'll have to start something if you want.  Okay?
+ 
+PATIENT K150
+I really tried that hard core once.
+
+DOCTOR K150
+What?
+
+PATIENT K150
+@@@.
+
+DOCTOR K150
+Well let's see when you come back.  @@@.
+
+PATIENT K150
+Why don't you just @@@ order for the patches?
+
+DOCTOR K150
+It's a start.  But starting the patch is good.  Alright I'll see you back in six months, nurse visit.
+
+PATIENT K150
+I give that to them?
+
+DOCTOR K150
+Yeah it's all yours.  Okay.
+
+PATIENT K150
+Hey thank you.
+
+DOCTOR K150
+Thank you.
+
+PATIENT K150
+You're very thorough.
+
+DOCTOR K150
+Thank you.
+
+PATIENT K150
+Check out.
+
+PATIENT LEAVES:  186:10
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249443
+TRANSACTION # 578-10-2-316-0103

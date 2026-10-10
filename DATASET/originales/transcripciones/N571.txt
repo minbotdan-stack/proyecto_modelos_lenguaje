@@ -1,0 +1,660 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR N571 
+PATIENT?
+
+PATIENT N571
+Hey DOCTOR.  How you doing?
+
+DOCTOR N571
+Great.  By the way, Happy New Year.
+
+PATIENT N571
+Same to you.  @@@.
+
+DOCTOR N571
+How's everything been going?
+
+PATIENT N571
+So far so good.  I had the surgery on my rotator cuff.
+
+DOCTOR N571
+Oh you did.
+
+PATIENT N571
+Yeah.  Matter of fact I feel, I don't know why but I felt much better when I wasn’t taking that Plavix for those ten days.
+
+DOCTOR N571
+Really.
+
+PATIENT N571
+I felt 100% better and that's for real.  When I wasn’t taking the Plavix and the aspirin I felt much better.
+
+DOCTOR N571
+In what way?
+
+PATIENT N571
+I felt normal.
+
+DOCTOR N571
+Alright.  Where'd you have your surgery at?
+
+PATIENT N571
+At @@@.
+
+DOCTOR N571
+Mercy Works?
+
+PATIENT N571
+Yeah.
+
+DOCTOR N571
+Uh when was that?
+
+PATIENT N571
+Uh January 26th.
+
+DOCTOR N571
+And things going okay?
+
+PATIENT N571
+Yeah.  I'm getting ready, uh I'm using a robotic chair now for list, for motion and lift up my shoulder and uh I got another week of that and then I'm going to Physical Therapy.  I should be off work until August I guess.  I would've retired this year but I have to wait now and get that six months back so I'm retiring January 31st.  
+
+DOCTOR N571
+How's your blood pressure been?
+
+PATIENT N571
+My blood pressure's been um, around the same thing it was like today, 142/80.  When I had the surgery, the same day of the surgery, my blood pressure was 180/100 and they took it five minutes later and it was normal.
+
+DOCTOR N571
+And how's your foot doing?
+
+PATIENT N571
+My foot's better.  My sugar has been great, average reading about 110-115.  
+
+DOCTOR N571
+And are you smoking?
+
+PATIENT N571
+Still smoking yep.
+
+DOCTOR N571
+About five cigarettes a day still?
+
+PATIENT N571
+Yeah.
+
+DOCTOR N571
+Now were you trying patches or anything like that?
+
+PATIENT N571
+I had some patches yeah, I still got some, ain't doing no good.
+
+DOCTOR N571
+Well you're almost there.
+
+PATIENT N571
+Yeah, yeah.  I'm just waiting for that day when I can wake up and say I ain't smoking no more, just give it up.  I hope yes, that's what I pray for.
+
+DOCTOR N571
+Alright, so you said your sugars has been running what?
+
+PATIENT N571
+Uh between 90 and the highest it's been since I been on the medicine in September is 180 but it's averaging, on average its like 115.  I got that 180 cause I ate a lot of stuff I shouldn't ate but overall its like between 90 and 115.
+
+DOCTOR N571
+Good.  Uh all your rehab is at Mercy Works?
+
+PATIENT N571
+Uh yep.
+
+DOCTOR N571
+Okay uh so a few things I would like to do.
+
+PATIENT N571
+Alright.
+
+DOCTOR N571
+Now that it's safe to hold the Plavix.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+Um I know the GI doctors that wanted to do another EGD and colonoscopy.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+Uh the scope from the upper and lower.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+Uh cause you know you had lost quite a bit of blood uh.  I don't remember when that was.
+
+PATIENT N571
+Yeah.
+
+DOCTOR N571
+I'm sure you, I think it was around what like March?
+
+PATIENT N571
+Yeah that was when uh my stool had turned black.
+
+DOCTOR N571
+Yeah.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+So um you know they wanted to repeated those tests to make sure everything was kind of resolved.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+But they wanted to wait until it was safe to hold the Plavix.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+And now you know we had to wait at least a year.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+Uh before we could hold the Plavix and I looked at DOCTOR’s note and she's saying you know you're probably going to need it life-long.  They're recommending lifelong Plavix but if you need to, for procedures like the surgery.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+Uh we're okay to hold it for that and she’d like to start it again as soon as possible, alright.  Other stuff um, I would like to get some blood work on you.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+And uh and actually what are you doing for your blood pressure control?
+
+PATIENT N571
+Um lisinopril and.
+
+DOCTOR N571
+And.
+
+PATIENT N571
+And another I forget.  Simvastatin?  Is that it?
+
+DOCTOR N571
+Uh that's for your cholesterol.
+
+PATIENT N571
+That's cholesterol, simvastatin is cholesterol uh.
+
+DOCTOR N571
+It looks like we've just got you on the metoprolol.
+
+PATIENT N571
+The metoprolol yeah that's it.
+
+DOCTOR N571
+Uh now we can increase that.
+
+PATIENT N571
+Metoprolol?
+
+DOCTOR N571
+Yeah.
+
+PATIENT N571
+To what?
+
+DOCTOR N571
+75 twice a day.
+
+PATIENT N571
+75, what am I taking now?
+
+DOCTOR N571
+You're at 50.
+
+PATIENT N571
+Oh okay.  75 twice a day.
+
+DOCTOR N571
+I’m sorry, you've go the 50 mg tablets.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+But you're only taking half a pill a day.
+
+PATIENT N571
+Half of that yes.
+
+DOCTOR N571
+Uh so we can actually increase you to a full tablet.
+
+PATIENT N571
+To the full tablet?
+
+DOCTOR N571
+Yeah.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+So that should make it easier so won't have to split that one.
+
+PATIENT N571
+Okay yeah it is doc.  Well I've gotten good at it, I just take it and put them in my hands, even with it band working itself I can break it in half yep.  Same way with those uh cholesterol pills.  They're bigger, though.
+
+DOCTOR N571
+Well let me take a look and listen to you.
+
+PATIENT N571
+Alright.
+
+DOCTOR N571
+So I can get you going.  
+
+PATIENT N571
+Right here?
+
+DOCTOR N571
+Yeah.
+
+PATIENT N571
+Alright.
+
+DOCTOR N571
+This shoulder?
+
+PATIENT N571
+Yeah.
+
+DOCTOR N571
+Take a few deep breaths.  Okay breathe normal.  Squeeze my fingers close down, good.  And uh which toe had the trouble?  Was it the right one?
+
+PATIENT N571
+It was the right one yeah.
+
+DOCTOR N571
+It's uh; let's take a look at that.  It looks good.
+
+PATIENT N571
+Yeah it was like that after three, three four weeks.  I mean I was blessed because it could've been worse than that couldn't it?
+
+DOCTOR N571
+Right.
+
+PATIENT N571
+Like my whole leg.
+
+DOCTOR N571
+Yeah absolutely.  We do what we can and we try and get the infection taken care of as quick as possible but.
+
+PATIENT N571
+Yeah I was going.
+
+DOCTOR N571
+But people who get a small portion of a limb cut off often have to go back for you know take bigger hunks off.
+
+PATIENT N571
+Really?
+
+DOCTOR N571
+Oh yeah.  But I mean we try and do.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+We try and leave people with as much as we can.
+
+PATIENT N571
+Yeah but that's what they did.  I got 3/4 of my toe anyway.
+
+DOCTOR N571
+Yeah but uh you know some people have to have their foot, you know and all their toes taken off.
+
+PATIENT N571
+Yeah.
+
+DOCTOR N571
+And uh then you know the reason they have to have their toes taken off is that they've got bad diabetes or vascular disease.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+So that way there were problems in the first place but that also makes it difficult for that wound to heal.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+So then it'll get infected again and the infection will move up and you keep going up the leg which isn't good.
+
+PATIENT N571
+Oh okay.
+
+DOCTOR N571
+And they want to take a little tiny piece off.
+
+PATIENT N571
+Yeah.
+
+DOCTOR N571
+Uh but, good, uh alright so uh I actually don't want to do a ton of changes with you since it sounds like you're doing pretty well.  So what I would like to do is repeat some blood work today, are you okay with that?
+
+PATIENT N571
+Today?
+
+DOCTOR N571
+Yeah.  
+
+PATIENT N571
+Yeah, that's okay.
+
+DOCTOR N571
+Um so you can get down.
+
+PATIENT N571
+What do those cholesterol pills actually do?
+
+DOCTOR N571
+Lowers your cholesterol.
+
+PATIENT N571
+Yeah.
+
+DOCTOR N571
+The cholesterol, high cholesterol puts you at risk for like heart disease.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+Uh different vascular disease.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+Uh, like do you hear about plaques forming in your heart?
+
+PATIENT N571
+Yeah.
+
+DOCTOR N571
+Or in your blood vessels.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+Uh cholesterol contributes to those plaques.
+
+PATIENT N571
+Oh okay.
+
+DOCTOR N571
+So the less you have in there the better off you are.
+
+PATIENT N571
+Okay.  Okay.  So I'll take the whole pill of metoprolol?
+
+DOCTOR N571
+Yeah.
+
+PATIENT N571
+Starting tomorrow, I took a half pill today.
+
+DOCTOR N571
+Yeah you could even start tonight if you want.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+Take a whole pill tonight.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+Cause you're taking it twice a day right?
+
+PATIENT N571
+Twice a day.  Do I take it twice a day?
+
+DOCTOR N571
+Yeah.
+
+PATIENT N571
+Do I still take it twice a day?
+
+DOCTOR N571
+Yeah.
+
+PATIENT N571
+A whole pill okay.
+
+DOCTOR N571
+When was your last colonoscopy?
+
+PATIENT N571
+I never had one.
+
+DOCTOR N571
+Never had one?
+
+PATIENT N571
+A colonoscopy is when they go into your.
+
+DOCTOR N571
+So yeah the same thing only when we go in through your rectum.
+
+PATIENT N571
+Oh I never had that.
+
+DOCTOR N571
+Okay.
+
+PATIENT N571
+But I think they did send a scope up in when I was bleeding internally, they said I had ulcers or something.  Is that the same thing?
+
+DOCTOR N571
+It's essentially the same thing.
+
+PATIENT N571
+Oh.
+
+DOCTOR N571
+It's a slightly different scope but yours wasn't exactly the same.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+But they go in from below.
+
+PATIENT N571
+Uh-huh, okay.
+
+DOCTOR N571
+So what we'll do, I'll put in a consult and have them do both.
+
+PATIENT N571
+Today?
+
+DOCTOR N571
+No, no.
+
+PATIENT N571
+Oh okay.
+
+DOCTOR N571
+Uh we'll get the uh, we'll do the blood work today; basically the way the system works it I’ll put it in.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+And then the GI doctors will look at it and review the blood work we did today.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+And then they'll say like yes it's okay to schedule you for that procedure then uh.  You don't have a pacemaker, defibrillator, or anything like that?
+
+PATIENT N571
+No.
+
+DOCTOR N571
+Now you do have stents right?
+
+PATIENT N571
+Yeah I have stents yeah.
+
+DOCTOR N571
+Alright.
+
+PATIENT N571
+One.
+
+DOCTOR N571
+Okay, you're on metformin?
+
+PATIENT N571
+What is that?
+
+DOCTOR N571
+For your diabetes.
+
+PATIENT N571
+Uh glipizide.
+
+DOCTOR N571
+Glipizide.  So I want you on the same one, I need to get out so I do everything uh.  Let me put in these orders and then I'll make sure you can come back and do the labs. (Doctor working on computer 35:23 - 37:45)  I think at some point we're going to need you to repeat your cholesterol.  Uh but that'll likely come, we'll need to do it when you're fasting.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+So.
+
+PATIENT N571
+What do you mean repeat my cholesterol?
+
+DOCTOR N571
+The cholesterol test.
+
+PATIENT N571
+Oh, oh the test.
+
+DOCTOR N571
+Yeah.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+So its blood work but you have to do it when you're fasting, so nothing to eat or drink.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+Oh you can water; you can have your medications.
+
+PATIENT N571
+Uh-huh.
+
+DOCTOR N571
+But no.
+
+PATIENT N571
+No food.
+
+DOCTOR N571
+No coffee or food nothing like that.
+
+PATIENT N571
+Oh alright.
+
+DOCTOR N571
+Uh so uh if you can do that, you know, before you see me again.
+
+PATIENT N571
+Alright.
+
+DOCTOR N571
+I'd like to see you in three months.  Alright uh, that's all I got.
+
+PATIENT N571
+Okay. Alright doc.
+
+DOCTOR N571
+I'll renew all the meds.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+So I'll change the metoprolol.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+To 50 mg twice a day.
+
+PATIENT N571
+Okay.
+
+DOCTOR N571
+And @@@.
+
+PATIENT N571
+Alright.
+
+DOCTOR N571
+And then uh we'll have you just slip back out here in the Waiting Room real quick and then we'll get you to do your blood work.
+
+PATIENT N571
+Oh they do it right up here?
+
+DOCTOR N571
+Yeah they'll do it, let me just make sure.
+
+PATIENT N571
+Okay uh thank you doc.
+
+DOCTOR N571
+Yeah.  We'll see if they can do it.
+
+PATIENT N571
+Alrighty.
+
+DOCTOR N571
+Take care.
+
+PATIENT LEAVES:  39:36.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249435
+TRANSACTION # 578-10-2-316-0103

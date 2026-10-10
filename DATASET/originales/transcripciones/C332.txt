@@ -1,0 +1,1260 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@
+
+DOCTOR C332
+PATIENT?  How you doing?
+
+PATIENT C332
+Good.  How you doing?
+
+DOCTOR C332
+Good.  Have a seat.  (Doctor takes a phone call)  Sorry about that um how's it going PATIENT?
+
+PATIENT C332
+Great.
+
+DOCTOR C332
+How you been doing?
+
+PATIENT C332
+Uh I been feeling okay uh I came yesterday and did my blood work and uh.
+
+DOCTOR C332
+Yeah I saw that here.
+
+PATIENT C332
+And there was probably one before that even uh and I didn't get uh, I missed my last appointment.
+
+DOCTOR C332
+Okay.  How have you been doing otherwise?
+
+PATIENT C332
+Uh had really no issues except I'm very lethargic during the day and uh I've got so many meds that I'm taking now and I don't know if uh that has anything to do with it.
+
+DOCTOR C332
+Um what, how long has this lethargy been going on for you.  Has it been an ongoing thing?
+
+PATIENT C332
+Oh just say maybe six months.
+
+DOCTOR C332
+Six months and uh how are you, are you having to like go to sleep at night, I mean go to sleep are you taking naps every day or something?
+
+PATIENT C332
+Um yeah I kind of do that but uh I have a good night's sleep, I sometimes don't even get up at all.
+
+DOCTOR C332
+Uh-huh.
+
+PATIENT C332
+Um.
+
+DOCTOR C332
+And how many hours do you sleep typically?
+
+PATIENT C332
+Oh I would say about seven or eight.
+
+DOCTOR C332
+Okay.
+
+PATIENT C332
+The um and I'm kind of depressed.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+I guess like everybody else.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+Uh they do have me on; I don't know if it's on your screen, some antidepressants.
+
+DOCTOR C332
+Uh and it's helping?
+
+PATIENT C332
+Uh.
+
+DOCTOR C332
+Is it helping a little bit with this uh?
+
+PATIENT C332
+Yeah I think so a little bit.  I'm taking Wellbutrin.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+And um I also take Adderall three times a day.
+
+DOCTOR C332
+Uh-huh.
+
+PATIENT C332
+And even with Adderall you know I take an Adderall and go right to sleep.
+
+DOCTOR C332
+Really.
+
+PATIENT C332
+Yeah and it should be the opposite.
+
+DOCTOR C332
+How many times are you napping during the day?
+
+PATIENT C332
+Uh once or twice.  I'm on 100% disability so I don't have a job; just you know hobbies and things like that uh to stay busy.
+
+DOCTOR C332
+Right.  Uh.
+
+PATIENT C332
+I wonder if it could be that trazodone.  
+
+DOCTOR C332
+Trazodone?
+
+PATIENT C332
+Right.
+
+DOCTOR C332
+Well when are you taking the trazodone?
+
+PATIENT C332
+For sleep.
+
+DOCTOR C332
+Yeah.  So I mean you take it at night right?
+
+PATIENT C332
+Oh yeah.
+
+DOCTOR C332
+You're not taking it during the day cause that would.
+
+PATIENT C332
+No.
+
+DOCTOR C332
+Okay.  Uh.
+
+PATIENT C332
+I wonder does that linger on, that's the only thing I could think that would make much of a difference.
+
+DOCTOR C332
+Yeah.  Have you tried not taking the trazodone?  Are you able to sleep?
+
+PATIENT C332
+Uh.
+
+DOCTOR C332
+I mean without the trazodone in other words.
+
+PATIENT C332
+Sometimes I can.  I just kind of habit forming where I just did it; I just did it for um at night.  When I have trouble sleeping I get it and I get up in the middle of the night and take it so I don't take it every day.
+
+DOCTOR C332
+You don't take it every day.  Trazodone usually shouldn't linger at all throughout the next day.
+
+PATIENT C332
+Should not?
+
+DOCTOR C332
+Typically should not no um.
+
+PATIENT C332
+Do you have a list of my meds there?
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+Does anything stand out that might?
+
+DOCTOR C332
+Nothing stands out I mean sometimes some of the, I mean depression in itself can cause you know you to being kind of fatigued.
+
+PATIENT C332
+Yeah.
+
+DOCTOR C332
+Are you not, do you just like you don't have any energy?  Uh when you wake up you feel refreshed and then a few hours later you feel like you have to go back to sleep?
+
+PATIENT C332
+Yeah because I have no reason to, it'd be different if uh like before I was treated for diabetes I might get up and urinate four, five times a night and.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+But I'm not doing that.
+
+DOCTOR C332
+You're not doing that.
+
+PATIENT C332
+But um like I said I get up and the only thing I want to do is lay down and I can't wait for the night to come to fall back asleep.
+
+DOCTOR C332
+Do you snore at night, do you know?  Has anybody ever told you you snore?
+
+PATIENT C332
+Uh I did have a sleep study here.
+
+DOCTOR C332
+Oh you did.
+
+PATIENT C332
+Yeah.
+
+DOCTOR C332
+You already had that?
+
+PATIENT C332
+Yeah and um.
+
+DOCTOR C332
+What did that tell you?
+
+PATIENT C332
+They gave me one of those masks to wear at night.
+
+DOCTOR C332
+Alright.
+
+PATIENT C332
+I have to admit I haven't been real religious uh with that.
+
+DOCTOR C332
+Okay.
+
+PATIENT C332
+And one thing that bothered me, I'll be honest with you uh, I quit drinking about 2 1/2 years ago and in the last three months I started drinking again.
+
+DOCTOR C332
+You started drinking in the last three months?
+
+PATIENT C332
+Yeah after being abstinent for 2 1/2 years. 
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+It's just that I couldn't go to sleep and I needed, I had a couple shots of something or a couple glasses of wine that you know, that would always get me to sleep.
+
+DOCTOR C332
+So you restarted three months ago?
+
+PATIENT C332
+Right.
+
+DOCTOR C332
+So you were having trouble sleeping but yet your tired?  If you were tired you, so you're tired but you can't sleep during the night.
+
+PATIENT C332
+Right.  It seems like my mind races a lot.
+
+DOCTOR C332
+Okay.
+
+PATIENT C332
+And um that kind of keeps me up.
+
+DOCTOR C332
+Okay.
+
+PATIENT C332
+I know that Wellbutrin, that one antidepressant, would that have anything to do with being lethargic?
+
+DOCTOR C332
+Well some, I think sometimes the antidepressants can cause someone that, it's not necessarily typical but uh.
+
+PATIENT C332
+@@@.
+
+DOCTOR C332
+I'm sure it can cause @@@.
+
+PATIENT C332
+And I was taking the generic for Zoloft I believe.
+
+DOCTOR C332
+Uh-huh.
+
+PATIENT C332
+And my psychiatrist had me on Zoloft and Wellbutrin.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+And I didn't understand it because I thought you should just take one antidepressant or another.
+
+DOCTOR C332
+No sometimes you can take more than one.  That'd be a question for your psychiatrist if.
+
+PATIENT C332
+Uh-huh.
+
+DOCTOR C332
+You have questions on the strategy.
+
+PATIENT C332
+Okay.
+
+DOCTOR C332
+But I mean it's not uncommon for people to be on two.
+
+PATIENT C332
+You wouldn't believe it.  I was always such a neat person and I just turned into a slob I mean, if you went into my house, you'd think there was a robbery you know and then I'll spend three days making it as uh stark clean as a hospital room you know but I just you know I just can't get myself to do normal tasks you know.  I thought the Adderall would help with that too.
+
+DOCTOR C332
+It didn't.
+
+PATIENT C332
+Nope and uh I just let things go.  I eventually clean everything up at the end of the week but.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+You know that's out of character for me to be a slob like that.  I mean I even make my bed in the morning.
+
+DOCTOR C332
+Hmm.  You're on the Zoloft uh.
+
+PATIENT C332
+Well I stopped taking the Zoloft and I just took the Wellbutrin.
+
+DOCTOR C332
+Okay.
+
+PATIENT C332
+Because I heard that could help you with staying more alert.
+
+DOCTOR C332
+Okay.  Yeah the Zoloft can be, cause sleepiness and uh how much are you drinking right now?
+
+PATIENT C332
+I'd say about half a bottle of wine a day.
+
+DOCTOR C332
+Okay.
+
+PATIENT C332
+Which I want to get myself back in the program because I haven't gone as far back as what I used to be like.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+Uh but I know it would just be a matter of time before it would be.
+
+DOCTOR C332
+Yeah.  Yeah I encourage you to try to quit. I mean you were doing good for 2 1/2 years, that's a long time.
+
+PATIENT C332
+It is.
+
+DOCTOR C332
+And uh yeah I would definitely encourage you to try to stop drinking again.
+
+PATIENT C332
+No I understand cause I've really been down in the dumps.
+
+DOCTOR C332
+Have you talked to your psychiatrist about this drinking?
+
+PATIENT C332
+Uh yeah I did and I have an appointment to see her next week.
+
+DOCTOR C332
+Okay.
+
+PATIENT C332
+You know it's kind of funny, I could drink a whole bottle of wine and you wouldn't even know that I drank it.  I mean it has no affect.  I mean I don't get high.  I don't slur my words.  You know it's like it has zero affect on me.  I find that very odd.
+
+DOCTOR C332
+Well people have different tolerance levels you know.
+
+PATIENT C332
+Yeah especially after not drinking for 2 1/2 years.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+Used to be I had two beers and I had a little buzz you know and I don't think I've been drunk for this entire time that I started drinking again.
+
+DOCTOR C332
+Yeah.  Hmm.  How about your other medicines.  Are you still taking your other medications?  Your metformin and your blood pressure medications.
+
+PATIENT C332
+Yeah I didn't.  If you wanted to see I brought my Accu-Chek machine.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+To see what I've been doing and also I brought in the blood pressure machine cause that keeps track of.
+
+DOCTOR C332
+So you're taking your lisinopril now and uh you're taking lisinopril and is that the only one now?
+
+PATIENT C332
+Yeah the one I take is the lisinopril, metoprolol and.
+
+DOCTOR C332
+Are you taking the metoprolol?
+
+PATIENT C332
+Yeah.
+
+DOCTOR C332
+Okay.
+
+PATIENT C332
+Is that a good idea?
+
+DOCTOR C332
+Yeah, no you should be taking the metoprolol.  
+
+PATIENT C332
+These are uh, some @@@ I usually test every other day.  
+
+DOCTOR C332
+This is stored in your blood pressure machine? So you take these after you take your blood pressure medicines usually or?
+
+PATIENT C332
+Sometimes before, sometimes after.  And I've really become introverted as far as not wanting to go out or see my friends or do anything and I just stay home you know and I read a lot and watch the news Channel all the time and I never even go out of the house.
+
+DOCTOR C332
+Yeah it looks like you've been on medications.
+
+PATIENT C332
+Yeah and it's got increasingly worse.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+And I know that Adderall is a form of amphetamines, isn't that right doctor?
+
+DOCTOR C332
+Uh yeah.
+
+PATIENT C332
+And historically that would uh make you more alert and another thing focus.
+
+DOCTOR C332
+It should yeah.  Now your sugars when you check them are they in the morning usually?
+
+PATIENT C332
+Yeah in the mornings.  See I'm all over the place with that.
+
+DOCTOR C332
+@@@  Any uh episodes of really low sugars?
+
+PATIENT C332
+Yeah, yeah.
+
+DOCTOR C332
+Where you've got to take food or something like that?
+
+PATIENT C332
+Yes where I've had to take sugar pills.
+
+DOCTOR C332
+When did you have, how many times has that happened?
+
+PATIENT C332
+Uh maybe about eight or nine times.
+
+DOCTOR C332
+Eight or nine times?
+
+PATIENT C332
+Yeah.
+
+DOCTOR C332
+In the morning?
+
+PATIENT C332
+Uh yes.  I feel uh, I even have to take like the sugar tablets.
+
+DOCTOR C332
+When does it happen in the morning when you check your sugar you have to help with this.
+
+PATIENT C332
+Yes in the morning or afternoon.
+
+DOCTOR C332
+Low uh how low?
+
+PATIENT C332
+Uh anywhere from 45 to 65.
+
+DOCTOR C332
+And are you; is this like first thing in the morning or typically when?
+
+PATIENT C332
+Typically in the morning.
+
+DOCTOR C332
+And do you skip dinner @@@.
+
+PATIENT C332
+Yeah I have very poor eating habits.  I eat at all different times.
+
+DOCTOR C332
+Okay that's gonna cause problems with the sugars being low okay.  You got to be careful about that okay.  If you're gonna skip dinner at night you should not take your metformin dose.
+
+PATIENT C332
+Okay.
+
+DOCTOR C332
+Alright cause if your sugars drop too low you could go into a diabetic coma.
+
+PATIENT C332
+Yeah I know that.  I'm very, you know concerned about that with @@@.
+
+DOCTOR C332
+Yeah you got to eat a regimented meal so breakfast, lunch and dinner.  You should eat like structured meals and don't skip meals to be in the safest.  Don't skip meals and eat your three meals a day.
+
+PATIENT C332
+Alright.
+
+DOCTOR C332
+Okay and if you're gonna, if you are gonna skip a meal then you should skip your metformin.
+
+PATIENT C332
+And another thing I noticed to worse uh is that my sex drive is like totally diminished.
+
+DOCTOR C332
+Uh-huh.
+
+PATIENT C332
+I don't know if that has to do with some of the meds I've been taking.
+
+DOCTOR C332
+It can uh sometimes the metoprolol can cause uh that but it could be to a wider.  You know diabetes and high blood pressure are uncontrolled for a long period of time it can cause that as well.
+
+PATIENT C332
+Do you see any places doctor where we could lower dosage or eliminate a med?
+
+DOCTOR C332
+Um.
+
+PATIENT C332
+Oh one thing they didn't renew on me which helped, not Flomax but like an equivalent to it, starts with a T and that really helped with me, uh with my bladder.
+
+DOCTOR C332
+Yeah the terazosin?
+
+PATIENT C332
+Yeah I don't know why they didn't renew it for me.
+
+DOCTOR C332
+I'll renew if for you.  Do you want it mailed to you or do you want to pick it up today?
+
+PATIENT C332
+They can mail it to me.  I think I've got a couple left.
+
+DOCTOR C332
+And the metoprolol, how much were you taking of the metoprolol?
+
+PATIENT C332
+Uh I think um one and a half a day.
+
+DOCTOR C332
+And you take an aspirin every day?
+
+PATIENT C332
+Yeah I just started that last month.  Now what's that fama?
+
+DOCTOR C332
+Which one?
+
+PATIENT C332
+It starts with a @@@ yeah what is that?
+
+DOCTOR C332
+That ones for the cholesterol.  But you're not.
+
+PATIENT C332
+I don't take it anymore.
+
+DOCTOR C332
+Right we had stopped taking that.  Your cholesterol looks fine you know just part of the blood work you got when you were here, uh this recent blood work.
+
+PATIENT C332
+Uh-huh.
+
+DOCTOR C332
+And your cholesterol is fine.  In fact it's very low so.
+
+PATIENT C332
+And uh how does it look for my sugar?
+
+DOCTOR C332
+Uh how does it look oh for your sugar?
+
+PATIENT C332
+Right.
+
+DOCTOR C332
+Like I said your sugar looks okay.  Your sugar is in the 140s in the morning isn't bad.  Actually it's fairly good.  You have a couple that are a little higher but that's not too bad and since you're telling me you've had eight or nine episodes where your sugars have been in the 40s or 50s, I would not change your metformin probably um.  You're taking metformin 1000 once in the morning and once at night.  You know if you're having a lot of sugars that are low in the morning, I would tell you you could cut back on your evening metformin dose.  So if you don't eat dinner at all and lunch is the last meal of your day or you kind of, you don't eat dinner at all.
+
+PATIENT C332
+Yeah but sometimes I would get up in the middle of the night and eat something.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+You know.
+
+DOCTOR C332
+I mean I'd just be more cautious and more worried about the low sugars if you're having it eight or nine times.  So I would just tell you to cut down like 500 in the evening so take 1000 in the morning and then 500 at night.
+
+PATIENT C332
+Um how low uh should the sugar go before I should seek medical care?
+
+DOCTOR C332
+Well if you, if your sugar is like in the 40s and 50s.  Do you get shaky, nervous when you get the sugars low, sweaty?  If you get those symptoms just immediately you should eat something.
+
+PATIENT C332
+Yeah I bought those sucrose pills or whatever they are.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+Um.
+
+DOCTOR C332
+I mean if it's happening repeatedly I would come in happening, you could either come into the ER or you could come in and make an Acute Care appointment over there at the Med Clinic and in Acute Care if you can't get an appointment with me in that short of time and just have your metformin adjusted and I would stop taking it until you see us that's all.
+
+PATIENT C332
+Okay you know what I'm gonna be more regimented as far as when I take my meds and eat my food.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+Because uh.
+
+DOCTOR C332
+I think that's a good idea.
+
+PATIENT C332
+Even with my meds sometimes I fall asleep and I forget to take them at night and.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+And I miss uh.
+
+DOCTOR C332
+You miss medicines.
+
+PATIENT C332
+But is there anything else there you think could be uh eliminated or the dose cut down?
+
+DOCTOR C332
+Uh I'm going to give you more of the Levitra.  Do you want the Levitra for your?
+
+PATIENT C332
+Yeah that helps.
+
+DOCTOR C332
+And I'll give you that.  I'm gonna; I don't see your blood pressure today.  Did you take your blood pressure medicine today?
+
+PATIENT C332
+No.
+
+DOCTOR C332
+Okay your blood pressure is not where we'd like it to be you know.  I don't want to change it if you're taking your metoprolol and your lisinopril.  I think just cause you didn't take it today may reflect it.  It looks like your blood pressures at home actually aren't too bad. I mean you're still, sometimes you're at the goal and some of the pressures you have high.  It's hard to say whether.  Do you take most of your blood pressures, the majority would you say is before you take your blood pressure medicine or after?
+
+PATIENT C332
+Um well I take mostly all the blood pressure medicines at night and then I take my blood pressure reading in the morning.  I was taking all the blood pressure medicines at night because I had heard a lot of those cause they make you a little groggy.
+
+DOCTOR C332
+And you take metoprolol; you take one and a half?
+
+PATIENT C332
+Right.
+
+DOCTOR C332
+Twice a day?
+
+PATIENT C332
+Twice a day.
+
+DOCTOR C332
+Okay.  Because you're taking the lisinopril uh I think those look pretty good.  I don't think we need to go up.  I don't think we can go down on it based on what I see here.  Um we may not necessarily need to go up on it either.
+
+PATIENT C332
+Yeah maybe the drinking's got something to do with it too.
+
+DOCTOR C332
+The drinking yeah, I would cut down the drinking for sure uh.  The CPAP machine.  I know it's hard to get to sleep with that and it's hard to be fully kind of compliant and religious with that but I think part of your grogginess during the day uh is gonna be related to your sleep apnea okay.  One of the, one of the ways we screen for sleep apnea is we ask people are you fatigued during the day, do you usually have to take frequent naps during the day?  Are you tired or lethargic during the day?  That's an indication that they have sleep, sometimes have sleep apnea.
+
+PATIENT C332
+Well I want to say I'll wear the mask you know.
+
+DOCTOR C332
+Well good because what's happening at night, at night what happens is your airway gets blocked by the way your airway.
+
+PATIENT C332
+Yeah it used to like wake me up you know.
+
+DOCTOR C332
+Right exactly.
+
+PATIENT C332
+But that doesn't happen anymore.
+
+DOCTOR C332
+Right it may not continue to happen but it doesn't mean that uh that the apnea is resolved.  So you're not getting good airway say so basically your sleep is actually not, you're not getting very good quality sleep.
+
+PATIENT C332
+And I have to take that.
+
+DOCTOR C332
+As a result and then yeah.  So I would use the CPAP and that may help as you use it every night.
+
+PATIENT C332
+Yeah cause I got to admit I hardly ever use it anymore.  I felt like I was in a fighter jet.
+
+DOCTOR C332
+I think that would help.  I think cutting down on alcohol would help and I think talking with your psychiatrist, maybe seeking some addiction counseling to help you maybe.  Cause you've done it before so it's just about getting you back to where you were and abstinent cause alcohol.
+
+PATIENT C332
+Well I could go back to AA.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+Have you ever been to an AA meeting?
+
+DOCTOR C332
+I have not.
+
+PATIENT C332
+You know it's so depressing cause as you know they just go around the room and say I'm an alcoholic and then you just say whatever's on your mind and everybody's telling all these depressing stories I walk out of there and you know.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+And I know, that's why I stopped going to AA because you know I'll hear somebody yeah you know I was a drunk for 12 years and I haven't had a drink for three years and things are going good.  Who wants to hear stuff like that and one other person well this is the third time I tried to commit suicide.  This person says her boyfriend left and that's why she started drink.  It's all these depressing stories.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+And especially the women, they start crying and then they start rambling on.
+
+DOCTOR C332
+@@@ for you.  Well you could do maybe like more personal one on one counseling I guess, better, more suited for you.  Uh maybe AA doesn't.
+
+PATIENT C332
+Is that available over here?
+
+DOCTOR C332
+They do have addiction, yeah they have Addiction Psych here and they have, I believe they have addiction counseling or they refer you there.  The psychiatrist may know more than me about it.
+
+PATIENT C332
+Should I take that up with her?
+
+DOCTOR C332
+Yeah I mean they do.  We have Addiction consult here; do you want me to place it for you?
+
+PATIENT C332
+Uh.
+
+DOCTOR C332
+Would you like to have it, I mean would you be interested in?
+
+PATIENT C332
+I'm going to uh.
+
+DOCTOR C332
+Or would you like to talk to your psychiatrist first?
+
+PATIENT C332
+As long as I'm gonna see her next week I could run it by her but.
+
+DOCTOR C332
+Sure.
+
+PATIENT C332
+I think it would be a good idea.
+
+DOCTOR C332
+Okay.  I'll, what I'll do is I'll put it in.
+
+PATIENT C332
+Okay.
+
+DOCTOR C332
+And then you talk to the psychiatrist about it next week and if she feels like uh there's another route then you can, then she can cancel this too.  Okay.
+
+PATIENT C332
+I'm all confused.  Like the psychiatrist I know that unlike going into therapy this and that they can prescribe medicine but are they also somebody that you should be able to talk to about what's going on?
+
+DOCTOR C332
+Yeah.  What's going on with in terms of…
+
+PATIENT C332
+We really don't have uh many long conversations.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+About you know what's going on.
+
+DOCTOR C332
+Sure.
+
+PATIENT C332
+I mention it but.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+I feel like I'm you know taking up too much time sometimes.
+
+DOCTOR C332
+Okay.  What's your phone number?
+
+PATIENT C332
+NUMBER.
+
+DOCTOR C332
+Uh-huh.
+
+PATIENT C332
+NUMBER.
+
+DOCTOR C332
+What about a psychologist, what if you see Psychology here?  Would you be interested in seeing Psychology maybe?
+
+PATIENT C332
+Well what do you think about that?
+
+DOCTOR C332
+I think that'd be helpful and in all honesty.  Cause it's something more where you can talk more about stuff that's going on.  Maybe we could refer you there.
+
+PATIENT C332
+Okay.
+
+DOCTOR C332
+I think more the help the better and as you, you know you might go to the doctor and go this is not for me and you could just you don't have to follow up or just say you know I'm not going to follow up in Psychology @@@.
+
+PATIENT C332
+Uh.
+
+DOCTOR C332
+But just uh you can go once and see how it is and if it.
+
+PATIENT C332
+All these places are at this hospital right?  It's kind of like an hour drive for me but I think maybe I should try Psychology.
+
+DOCTOR C332
+Okay.  I'll put an order in for Psychology um.  Let me take a listen to you and examine you real quick now.  Are you getting up?  Are you being active?  Are you going out walking or?
+
+PATIENT C332
+Well I walk the dog quite a bit.
+
+DOCTOR C332
+Okay.  It's important to stay active too cause that may help with some of that fatigue lethargy, just to do some light activity every day.
+
+PATIENT C332
+Yeah.  If you've noticed I think I've gained about 10 pounds since I was here.
+
+DOCTOR C332
+Yeah.  That's definitely not going to help with uh.  Take a deep breath.  With you feeling tired you know.  If you gain weight you getting a little tired.  You know there may be more than one reason why you're tired sometimes you know so we've got to attack it as more than one way.
+
+PATIENT C332
+You know.
+
+DOCTOR C332
+Stop your drinking, using the CPAP.
+
+PATIENT C332
+Yeah I was thinking of another thing too I don't.
+
+DOCTOR C332
+Eating healthier, doing light exercise every day, that type of thing.
+
+PATIENT C332
+I don't drink you know coffee all day in fact I don't drink coffee at all.  But I would in the afternoon sometimes take No Doze which is 200 mg of caffeine.
+
+DOCTOR C332
+Right, right.
+
+PATIENT C332
+Cause that's like having a cup of coffee right?
+
+DOCTOR C332
+It is yeah similar. Um.
+
+PATIENT C332
+Is that a bad idea?
+
+DOCTOR C332
+No it's not a bad idea I mean the Adderall, it looks like there's a lot of stimulants, caffeine, Adderall, looks like kind of the usual amount of stuff to keep yourself awake but it's not necessarily a bad thing no um.  But yeah.
+
+PATIENT C332
+And uh but now I'm taking less of the lorazepam than I used to because I used to take it when I would have a panic attack or this or that.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+Which when I usually reach for a drink but because I'm drinking sporadically.  You know I'll go like four days without even drinking.
+
+DOCTOR C332
+Right.
+
+PATIENT C332
+So it's not like it was before uh but lorazepam will make me feel lethargic.
+
+DOCTOR C332
+Lorazepam.
+
+PATIENT C332
+Am I right?
+
+DOCTOR C332
+Yeah, yeah and it's sedating and will make you.  It works on the same receptors that alcohol works on in the body so it's almost like alcohol.  In fact we'll give that medicine for people who are having alcohol withdrawals.
+
+PATIENT C332
+Uh-huh.
+
+DOCTOR C332
+So.
+
+PATIENT C332
+So maybe.
+
+DOCTOR C332
+@@@ reaction.
+
+PATIENT C332
+Is that something you would just take when you feel panicky?
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+Or just something you take every morning or?
+
+DOCTOR C332
+No I would take it like as needed.
+
+PATIENT C332
+Okay.
+
+DOCTOR C332
+When you feel panicky.  Don't take it every day cause that's not going to help with, A. - you don't need to take it every day for you because you just whenever you have a panic attack you can just take it as needed.
+
+PATIENT C332
+Yeah.
+
+DOCTOR C332
+But and it wouldn't help with you're you know you already have the fatigue and sleepiness and stuff you're having, it'd make it worse if you took it every day.
+
+PATIENT C332
+Well you gave me some good advice here today doctor uh.
+
+DOCTOR C332
+Good.
+
+PATIENT C332
+Uh everything you say I knew I just forgot.
+
+DOCTOR C332
+Yeah, yeah.  You know what you need to do.  You know your body well.
+
+PATIENT C332
+Yeah I mean I got to eat at regular times.  I got to pick up my activities uh yeah I just got away from what are things I should be doing to make my body more efficient.
+
+DOCTOR C332
+Exactly.  Kind of like a whole body, the mind and body and soul approach.  Right you got to, it's all very interconnected so you know.  You know if you feel depressed your body's gonna feel tired as well so positive attitude goes along with.
+
+PATIENT C332
+Right.
+
+DOCTOR C332
+A lot of the other changes that we talked about.  I think you'll feel a lot better.  Let me go talk to my boss real quick okay and I'll be right back alright?
+
+PATIENT C332
+Okay and then are you gonna renew my meds?
+
+DOCTOR C332
+Exactly yeah.  I already put some in them I just have to fine tune them.
+
+(DOCTOR OUT:  69:24  DOCTOR IN:  92:34)
+
+DOCTOR C332
+Sorry for the delay.  Uh okay so we're going to do everything as planned.  I'm gonna have you come back in, I'm gonna have you back in two weeks to have your blood pressure just checked here.
+
+PATIENT C332
+Okay.
+
+DOCTOR C332
+Okay.
+
+PATIENT C332
+So I could see the nurse?
+
+DOCTOR C332
+Give me a second I have one more thing to check.  Now if you are drinking alcohol, obviously we talked about stopping but if you're drinking alcohol remember do not take uh, you shouldn't be taking your Ativan.  Because like I told you how they work together.
+
+PATIENT C332
+Oh yeah, yeah.
+
+DOCTOR C332
+So you may, it may drop you like into a coma or it may be too sedating okay.  So don't mix alcohol and that together, it can be very dangerous.  Um.
+
+PATIENT C332
+Is that the same as trazodone?
+
+DOCTOR C332
+Yeah trazodone again yeah don't I would stay away from drinking.  If you're drinking, if you've drunk I would stay away from the trazodone.
+
+PATIENT C332
+Well I'm not trying to really abstain.
+
+
+DOCTOR C332
+Yeah I mean ideally you want to totally abstain from the alcohol.
+
+PATIENT C332
+Well, I did it for 2 1/2 years.
+
+DOCTOR C332
+Yeah I mean you've already shown that you've done it so.  I'm reordering all your things here.
+
+PATIENT C332
+What's that one with an L, I don't take that anymore right?
+
+DOCTOR C332
+Loratadine?
+
+PATIENT C332
+Yeah.
+
+DOCTOR C332
+That's just for like allergies.
+
+PATIENT C332
+Oh yeah I was taking like something for Benadryl.  See my arms how they're, they were giving something to take at night.  It was equivalent to uh like a Benadryl or something.
+
+DOCTOR C332
+Uh-huh.
+
+PATIENT C332
+I forget the name of it but uh.
+
+DOCTOR C332
+Yeah what's up with your arms, are you scratching or?
+
+PATIENT C332
+Yeah I've got some kind of a, I went to a dermatologist.
+
+DOCTOR C332
+Uh-huh.
+
+PATIENT C332
+And he says there's nothing wrong just you have the type of skin he says like in the back he could take this pen.
+
+DOCTOR C332
+Yeah.
+
+PATIENT C332
+And write a letter it'd stay there for a week.
+
+DOCTOR C332
+Yeah, yeah.
+
+PATIENT C332
+And he says but I do need something uh to take at night for allergies.
+
+DOCTOR C332
+Okay, do you want me to give you loratadine?
+
+PATIENT C332
+Uh yeah.
+
+DOCTOR C332
+If that helps.  And we talked about, we talked about the metformin.  You're gonna drop the dose or not take it if you don't eat your meals.  Ideally you want to structure your meals and we talked about that.  Um I'm gonna give you some of that vardenafil.  You’re not on simvastatin anymore, so I'll discontinue that from your list.  You're gonna take the metoprolol and lisinopril as is.  You're not going to mix, don't mix trazodone or uh Ativan with alcohol.  Ideally you're gonna try to stop the alcohol altogether.
+
+PATIENT C332
+Right.
+
+DOCTOR C332
+We're gonna give you a referral for Psychology as well as addiction as well.  Okay.
+
+PATIENT C332
+And you did order the Levitra for me doctor?
+
+DOCTOR C332
+Yes.  I reordered that.  I've renewed the loratadine.  I renewed your metformin.  I renewed your aspirin.  I renewed the lisinopril.  Yeah.
+
+PATIENT C332
+Uh can you walk - through the VA here, can you order me a multivitamin?
+
+DOCTOR C332
+Uh yeah. I renewed the terazosin as well okay.
+
+PATIENT C332
+Okay.  And then you put uh refills memos.
+
+DOCTOR C332
+Yeah there's like six refills.  On the ones I have 90 pills I gave uh yeah, the ones with 90 pills I gave three refills and uh the one with like 30 pills.
+
+PATIENT C332
+Yeah.
+
+DOCTOR C332
+The one month supply I gave six refills on it okay.
+
+PATIENT C332
+Uh one quick thing on my blood tests, did you see anything that was out of line that we didn't discuss?  Like my liver function?
+
+DOCTOR C332
+No liver functions were completely normal.  Cholesterol was great.  Uh you uh blood counts were okay.  Your electrolytes sodium, potassium were all okay.  Um your kidney function is okay, perfect, it was good.  Um your blood counts, your platelet counts, your white count and your blood tests were all okay.
+
+PATIENT C332
+Okay what is my cholesterol?
+
+DOCTOR C332
+Your cholesterol, your actual cholesterol well actually is low. The LDL which is the bad cholesterol which we want low is 31, very low.  I mean under, we consider really good control to be under 100.
+
+PATIENT C332
+And mine's 31?
+
+DOCTOR C332
+Your’s 31.
+
+PATIENT C332
+Oh, and I eat terrible.
+
+DOCTOR C332
+Yeah so I think it may be, there may be something with your lipid profile the way your genetic or the way your body handles the cholesterol that keeps your bad cholesterol really low which is a good thing.  Now the HDL, which is you want high, that's the good cholesterol, we like that number to be above 40 uh yours is 62 so that's really good.
+
+PATIENT C332
+Okay now I @@@ that.
+
+DOCTOR C332
+So a lot of good genes going on there uh.  How is, anybody in your family have like heart problems or heart attack or high cholesterol?
+
+PATIENT C332
+Uh my father died with a heart attack but he was um he had a cancer and his heart gave out.
+
+DOCTOR C332
+It wasn't like a young age, like 30 or something?
+
+PATIENT C332
+No and knock on wood I don't get any pains here.
+
+DOCTOR C332
+Yeah so I mean yeah.  That's why I think you don't really need to be on the cholesterol one since your labs look pretty good.
+
+PATIENT C332
+Are you gonna take me off that?
+
+DOCTOR C332
+Yeah.  The cholesterol medicine you haven't been taking right?
+
+PATIENT C332
+Is that the simvastatin?
+
+DOCTOR C332
+Simvastatin yeah.
+
+PATIENT C332
+No I haven't been taking it.
+
+DOCTOR C332
+Yeah you don't need to take it.  We'll probably check your cholesterol you know maybe in a year or so and we'll see how it is and if at that time your cholesterol is high then you know we may you know put you back on it but given your numbers I don't think you need to be on it.
+
+PATIENT C332
+Hey do you know how much I weighed the last time I was here?
+
+DOCTOR C332
+You were 207 today right uh; you were 197 on the 21st.
+
+PATIENT C332
+197, now I'm 207.
+
+DOCTOR C332
+207 yeah.
+
+PATIENT C332
+I can feel those ten pounds too so.
+
+DOCTOR C332
+Yeah and again losing a little bit of weight um, getting up and doing some light exercise every day, eating healthier will make you feel better too in terms of the lethargy.
+
+PATIENT C332
+Right.  Okay I know what to do now I just got to implement what you've told me.
+
+DOCTOR C332
+I've got all your meds and they should mail it to you.  I've put the referrals in.
+
+PATIENT C332
+Now should I get that.
+
+DOCTOR C332
+@@@.  Okay.
+
+PATIENT C332
+Alright thanks again doctor.
+
+DOCTOR C332
+Give this to them up in the front.  
+
+PATIENT C332
+Alright.
+
+DOCTOR C332
+@@@ if you're doing well.
+
+PATIENT C332
+So I just come back in two weeks to check my blood pressure?
+
+DOCTOR C332
+Exactly.  If your blood pressure is still out of control we'll want to go back to @@@.
+
+PATIENT C332
+@@@ again, right?
+
+DOCTOR C332
+Yeah I just want to make sure that you're on the right track.  I mean cause your blood pressure looks like its pretty good at home.
+
+PATIENT C332
+Okay.  Thanks again.
+
+DOCTOR C332
+Alright take care.
+
+PATIENT LEAVES:  101:5
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1255176
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,800 @@
+Date of Encounter:  @@@/@@/@@  
+Time of Encounter:   @@@
+
+DOCTOR N641
+PATIENT?
+
+PATIENT N641
+Right here.  So how you doing?
+
+DOCTOR N641
+Doing well.
+
+PATIENT N641
+Thank you.  Appreciate it.
+
+DOCTOR N641
+I am doing well.  On the right side, here. @@@
+
+PATIENT N641
+@@@.  
+
+DOCTOR N641
+I am taking over for DOCTOR.  I know you saw in the past.
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+DOCTOR still here.
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+So what brings you here today?
+
+PATIENT N641
+Huh?
+
+DOCTOR N641
+What brings you here today?
+
+PATIENT N641
+Oh yes, I need an appointment to see a foot doctor and uh, let me see if I can get some Viagra.
+
+DOCTOR N641
+Okay.
+
+PATIENT N641
+And I was scheduled for @@@ but when I didn’t @@@, do I need a, uh, @@@ when you get up to 50 years old?
+
+DOCTOR N641
+Colonoscopy?
+
+PATIENT N641
+Colonoscopy,  @@@ yeah.  @@@.  Yeah, colonoscopy.  I think I had one before.
+
+DOCTOR N641
+Okay.
+
+PATIENT N641
+But I think I need another one.
+
+DOCTOR N641
+They said one in 2007.  That was the last time.  Let’s see what they said.
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+In 2007 they found that everything looks normal.  You had biopsies taken.  There were diverticula which are like outpouches in the wall of the colon.  Um, everything was normal.  They did take biopsies.  Let me look at the results.  Um, let’s see what else they did.  Upper GI.  So, let’s see what the results showed.  You had a catheterization done after that.
+
+PATIENT N641
+Um hmm.
+
+DOCTOR N641
+And chronic diarrhea.  Is your diarrhea better?
+
+PATIENT N641
+It is about the same.
+
+DOCTOR N641
+About the same, okay.  So the biopsies were actually normal.  Okay.  So you had a return appointment, okay, so then what did they say about the biopsies.  So with this chronic diarrhea, work up was negative.  Stool cards were negative.  So they said followup in GI Clinic.  Are you losing weight?
+
+PATIENT N641
+Ah no.
+
+DOCTOR N641
+Okay.
+
+PATIENT N641
+I have gained weight in fact.  @@@.  
+
+DOCTOR N641
+Okay.  Good.  Um, so it looks like all the stool studies were negative.  So what did they decide to do?  Did they say?
+
+PATIENT N641
+No, they didn’t say.
+
+DOCTOR N641
+Okay.  So I don’t think we need to repeat colonoscopy.  You had it in 2007.  So you really don’t need one for another couple of years.
+
+PATIENT N641
+Okay, so you have it every seven years or something like that?
+
+DOCTOR N641
+You have it every ten years unless there’s reasons to get it earlier.  If you had, like abnormalities, you know maybe if you have like polyps, if you have abnormal pathology then they would want to see you sooner.
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+But from the way it looks like they didn’t comment that they want to see you done sooner.  Let me see if in the notes if they actually want to @@@.  Any other questions?
+
+PATIENT N641
+Uh no.  @@@ about colonoscopy?  @@@.  Should I have another one?
+
+DOCTOR N641
+When should you have another one?  Since everything looked okay I think, the biopsies were normal, I think you probably should have one about 2017.  
+
+PATIENT N641
+17?  That long?
+
+DOCTOR N641
+Um hm.
+
+PATIENT N641
+Okay.  Alright.  Other than that, my foot hurts, that started back in 2008 or 2007.
+
+DOCTOR N641
+For your foot?
+
+PATIENT N641
+Uh huh.
+
+DOCTOR N641
+What was wrong with the foot?
+
+PATIENT N641
+They said they might have to operate on my right foot, @@@ stairs, and I never came back, where I was living had stairs so I never did return.
+
+DOCTOR N641
+Okay.  So let’s see.  You had an appointment back in 2007.  Let’s see.  Oh I see you had the bony, the @@@.
+
+PATIENT N641
+The @@@.
+
+DOCTOR N641
+From the joints, right.  Like a little bony @@@.
+
+PATIENT N641
+Right.
+
+DOCTOR N641
+Okay.  And they said, did they want to do something about it?
+
+PATIENT N641
+They wanted to before it gets worse, but they told me I couldn’t climb the stairs, no, after the operation.  So I said I can’t do that so I was just wondering.  It starts back hurting worse so that is why I asked you about it.
+
+DOCTOR N641
+Okay.  Alright.  Yeah then we can definitely send you back to the clinic.  Let me put in another request.
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+Any other complaints?
+
+PATIENT N641
+Ah, that is about it.  That and the colonoscopy and @@@.  Uh, I spittin’ a little more but I been doing that for years.  I don’t know what caused that.  I been mucous.  But it comes and goes.
+
+DOCTOR N641
+Have you had x-rays done?
+
+PATIENT N641
+@@@.
+
+DOCTOR N641
+Of your feet?
+
+PATIENT N641
+Ah, no.
+
+DOCTOR N641
+No?  Do you think we can get x-rays? Can I see your feet?
+
+PATIENT N641
+@@@ feet. I am sorry about that.
+
+DOCTOR N641
+That’s okay.  Oh I see.  Okay.  You know the best thing – I would see the foot doctors for that.  Okay?
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+Um, @@@ because @@@ um @@@.
+
+PATIENT N641
+Okay, thanks.  
+
+DOCTOR N641
+I see your blood pressure is actually well-controlled.  Any problems?
+
+PATIENT N641
+Uh uh.  I been taking my pills regularly.  I haven’t been missing my doses.  A while back I used to but I am taking it regularly about it, you know taking it.
+
+DOCTOR N641
+@@@.  For the foot, we are going to get an x-ray of your foot today.
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+So the podiatrist can actually take a look at it and see if there is something that they need to look into further.
+
+PATIENT N641
+Okay.  Okay. That sounds good.
+
+DOCTOR N641
+And then when was the last time you had blood work done?
+
+PATIENT N641
+Ah, this year.  I don’t @@@.
+
+DOCTOR N641
+I will take a look and @@@ the only thing I would be concerned about is because we have you on medications.  Sometimes it affects the kidneys and also sometimes it affects your electrolytes.  So we should check that.
+
+PATIENT N641
+Okay. Okay.  I got, my ibuprofen I got one left.  I got one left of that. 
+
+DOCTOR N641
+One?  How long have you been taking that?
+
+PATIENT N641
+Ah I take them, hmm, well I got pain but I don’t take them every day, you know.  Only when I have pain I take it.
+
+DOCTOR N641
+Because that can also affect your kidneys, just so you know.
+
+PATIENT N641
+I don’t take them regular.
+
+DOCTOR N641
+You don’t want to take them too often, too frequently.
+
+PATIENT N641
+Okay.  I don’t. @@@ I know I got more refills left so I just wanted @@@.
+
+DOCTOR N641
+Okay. I can refill it. But let’s check your blood work first.  You don’t want your kidneys to go bad because of ibuprofen or anything.
+
+PATIENT N641
+Hm hmm.  Okay.  Thank you.
+
+DOCTOR N641
+Any other questions?
+
+PATIENT N641
+Ah no.  
+
+DOCTOR N641
+So I will have you get that x-ray today.
+
+PATIENT N641
+Okay.  
+
+DOCTOR N641
+Do you know where to get the x-ray?
+
+PATIENT N641
+Ah, over in there @@@ couple year.
+
+DOCTOR N641
+So all the way down in the Damen Building.
+
+PATIENT N641
+Right.
+
+DOCTOR N641
+Um.
+
+PATIENT N641
+First floor?
+
+DOCTOR N641
+First floor. 
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+You can get the x-ray done.  The Radiology Department.  You will go through that door and @@@.
+
+PATIENT N641
+@@@.
+
+DOCTOR N641
+The order is in so you can get the left foot x-rayed.  
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+Then we will get some blood work just to make sure, we can take a look at your kidneys.  You know when you are on the ibuprofen, and you’re also taking the hydrochlorothiazide, that can affect your kidneys.
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+Want to make sure that that looks okay.  The last time,your kidney function, I will tell you what that looked like.  Let’s see your kidney function looks okay.  The creatinine was 1.2.  That is what I am looking at.  The kidney function.  It looks like everything else looked okay.  Your sodium level is a little bit low but I think the hydrochlorothiazide can actually cause that @@@.  Um, and your blood count looked okay.
+
+PATIENT N641
+Okay when I get the blood work done, then see you @@@, or schedule another visit @@@.
+
+DOCTOR N641
+I will call you for any abnormal results.
+
+PATIENT N641
+Okay you call me on the phone?
+
+DOCTOR N641
+Yeah.  How does that sound?
+
+PATIENT N641
+And could you write down?
+
+DOCTOR N641
+Is your number NUMBER?
+
+PATIENT N641
+Hm hmm.  NUMBER.
+
+DOCTOR N641
+Alright.  Um so if there are any problems I will definitely give you a call.  
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+Do you mind if I take a listen to your heart and lungs?
+
+PATIENT N641
+Oh yes, I mean no I don’t mind.
+
+DOCTOR N641
+@@@.  
+
+PATIENT N641
+Hm hmm.  Need to take my shirt off?
+
+DOCTOR N641
+No.  That’s fine.
+
+PATIENT N641
+Okay.  Can I ask you a question?
+
+DOCTOR N641
+Yeah.
+
+PATIENT N641
+I want, I mean, I @@@ mucous lately for a while now.  I wonder why?  I mean, I thought it was a cold but I can’t have a cold for that long period of time, so what would cause a person to keep on spitting all the time? You know?
+
+DOCTOR N641
+Spitting?
+
+PATIENT N641
+Yeah.
+
+DOCTOR N641
+Has long has it been like that?
+
+PATIENT N641
+Maybe two three years but it is not regular.  It depends on what I am doing and I have something by my bed that I spit in.  But it is like mucus.  @@@.  I got a cold but I always have something in case I have to.
+
+DOCTOR N641
+Any fevers or chills?
+
+PATIENT N641
+No.
+
+DOCTOR N641
+No.  Are you still smoking?
+
+PATIENT N641
+Yes I am.  
+
+DOCTOR N641
+How much do you smoke?
+
+PATIENT N641
+I smoke cigars.  I smoke about half a one a day.  About four a week.  Four cigars in a week.
+
+DOCTOR N641
+Four cigars a week? Have you thought about cutting down?
+
+PATIENT N641
+Uh, yes I have, I switched to cigarettes, but cigar @@@ not working out.
+
+DOCTOR N641
+Okay.  Um, the spitting, how long has that been going on sir?
+
+PATIENT N641
+About a year and a half, two and a half years.
+
+DOCTOR N641
+Two and a half years?
+
+PATIENT N641
+Yeah.
+
+DOCTOR N641
+Do you feel like it is getting worse?
+
+PATIENT N641
+It is about the same really.
+
+DOCTOR N641
+It’s about the same.
+
+PATIENT N641
+@@@ but I do do @@@.
+
+DOCTOR N641
+Are you allergic to anything?
+
+PATIENT N641
+No.  
+
+DOCTOR N641
+Let me take a listen.  Deep breath in and out.  Deep breath in and out.  You don’t have to hold your breath, just in and out. Okay.  Any pain in your belly?
+
+PATIENT N641
+No.
+
+DOCTOR N641
+Any chest pain?
+
+PATIENT N641
+No.
+
+DOCTOR N641
+Good.  Do you feel short of breath at all?
+
+PATIENT N641
+No.
+
+DOCTOR N641
+Do you get short of breath when you are walking?
+
+PATIENT N641
+Once in a while @@@.
+
+DOCTOR N641
+How far do you walk before you get short of breath?
+
+PATIENT N641
+Ah, about a block and a half, two blocks.
+
+DOCTOR N641
+What happens?  Do you have to stop walking because of that?
+
+PATIENT N641
+I just walk slower.  I am a fast walker.
+
+DOCTOR N641
+Alright.
+
+PATIENT N641
+So I may walk fast and when I get short I just walk a little you know @@@.
+
+DOCTOR N641
+Do you ever stop because you are getting short of breath?
+
+PATIENT N641
+No I just limit my pacing, you know when I walk.
+
+DOCTOR N641
+Okay.  Do you think you could walk several miles without having any difficulty?
+
+PATIENT N641
+Ah, I doubt that seriously.  @@@.
+
+DOCTOR N641
+Can you walk several blocks without any difficulty?
+
+PATIENT N641
+Yeah, yeah.
+
+DOCTOR N641
+Okay.  Um, have you ever had any chest pressure, chest tightness?
+
+PATIENT N641
+No.
+
+DOCTOR N641
+Okay.  And then you said you wanted to get Viagra?  Have you ever had that before?
+
+PATIENT N641
+No.
+
+DOCTOR N641
+Okay.  Um, I think it would be okay.  Um, so let’s see.  I @@@.  Let’s see how it works out for you.  If it works then we can continue it and give you more refills on it.  How does that sound?
+
+PATIENT N641
+Okay, so I can @@@ pharmacy?
+
+DOCTOR N641
+Do you want to pick it up here or do you want to have it mailed to you?
+
+PATIENT N641
+Mailed please.  
+
+DOCTOR N641
+Mailed?  Okay, not a problem.  Um give me one second.  
+
+PATIENT N641
+Okay, no hurry.
+
+DOCTOR N641
+How old are you again?
+
+PATIENT N641
+59.
+
+DOCTOR N641
+59.  
+
+DOCTOR LEAVES:  43:45  DOCTOR IN:  49:22
+
+SECOND DOCTOR N641
+PATIENT?
+
+PATIENT N641
+Hello.  How you doing?
+
+SECOND DOCTOR N641
+Good to see you.  Hi, @@@ about @@@.
+
+PATIENT N641
+Okay, thank you.
+
+DOCTOR N641
+Are you still drinking alcohol?
+
+PATIENT N641
+Ah beer.
+
+DOCTOR N641
+How often are you drinking?
+
+PATIENT N641
+Ah on weekends, Friday and Saturday.
+
+DOCTOR N641
+On weekends?  The reason I ask is because your liver functions looked a little abnormal and so I want to check it again today.  I could be related to the beer, the alcohol.  Have you cut down from what you used to be drinking?
+
+PATIENT N641
+Yes, because I used to drink like Wednesdays, but now just Friday and Saturday.  
+
+DOCTOR N641
+Okay.
+
+PATIENT N641
+But now I just drink on weekends.
+
+DOCTOR N641
+Okay.  Um, so why don’t we just check that again today. Just to make sure everything looks okay.  Um, how much Tylenol are you taking?
+
+PATIENT N641
+Tylenol?  Oh, acetaminophen?
+
+DOCTOR N641
+Acetaminophen.
+
+PATIENT N641
+I take about two.
+
+DOCTOR N641
+Two tablets a day?  Okay.  
+
+PATIENT N641
+Just two.
+
+DOCTOR N641
+Okay, I will just check.  We should also check your liver because sometimes acetaminophen causes an increase the liver function.  So we will just check that today too okay?
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+So you got the x-ray.  We are going to get the blood work and then, are you still having the diarrhea?
+
+PATIENT N641
+Yes.
+
+DOCTOR N641
+Do you want to see the GI doctors again?
+
+PATIENT N641
+Are they going to do that today?
+
+DOCTOR N641
+I don’t think they will see you today but we can have them 
+
+PATIENT N641
+Schedule an appointment?
+
+DOCTOR N641
+Schedule an appointment.
+
+PATIENT N641
+Yeah, okay.
+
+DOCTOR N641
+Okay so you want to do that?
+
+PATIENT N641
+Uh huh.  So today get the blood.
+
+DOCTOR N641
+Yeah.  Let me see, the last time you saw them was when?
+
+PATIENT N641
+2007 I think.
+
+DOCTOR N641
+You haven’t seen them since then?  How much diarrhea are you having?
+
+PATIENT N641
+Ah it comes and goes.  It comes ah, well it do come once or twice a month.
+
+DOCTOR N641
+Oh, so it’s not that consistent?  It’s not. . .  
+
+PATIENT N641
+It last like a day or two.
+
+DOCTOR N641
+Okay.
+
+PATIENT N641
+Loose stools @@@.  Right yea.
+
+DOCTOR N641
+Loose stools. You never have any blood or never have any black tarry stools?
+
+PATIENT N641
+@@@.  I always check.  I check regularly. @@@.
+
+DOCTOR N641
+Okay.  So it is pretty infrequent but 
+
+PATIENT N641
+But @@@ constantly.
+
+DOCTOR N641
+But it has been there for like a couple of years.
+
+PATIENT N641
+Yeah.  Yeah.
+
+DOCTOR N641
+Okay.  Alright so we can definitely have them see you in their clinic if you think you want to.
+
+PATIENT N641
+For uh, the diarrhea?
+
+DOCTOR N641
+For the diarrhea.
+
+PATIENT N641
+Yeah.  I would like to see them.  And uh, @@@ feet @@@, for liver.
+
+DOCTOR N641
+We’re just going to do the blood work.  Blood work for the liver.  Blood work for the kidneys and the liver and then we will send you to x-ray for your foot.
+
+PATIENT N641
+Oh I have to have x-ray
+
+DOCTOR N641
+@@@.
+
+PATIENT N641
+So the blood work will take care all of that?
+
+DOCTOR N641
+Yeah, yea. 
+
+PATIENT N641
+Oh okay.  @@@.
+
+DOCTOR N641
+Any questions?
+
+PATIENT N641
+No. @@@.
+
+DOCTOR N641
+@@@.
+
+PATIENT N641
+What was I supposed @@@?  After you take my blood work then you @@@.
+
+DOCTOR N641
+Yeah then I will refill it.  
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+Okay.  @@@.
+
+PATIENT N641
+I give you a call.   @@@.
+
+DOCTOR N641
+I will refill it and then I will give you a call.
+
+PATIENT N641
+@@@ blood work @@@ x-rays for the foot @@@ they will tell me or you will tell me?
+
+DOCTOR N641
+If anything is abnormal I will give you a call.
+
+PATIENT N641
+Okay, thank you.  Thank you.  I appreciate it.
+
+DOCTOR N641
+No problem whatsoever.
+
+PATIENT N641
+So go for the blood work and they take an x-ray for my feet?
+
+DOCTOR N641
+Yes.  
+
+PATIENT N641
+Thank you.  You have a nice day.  @@@ very very bad around remember names.
+
+DOCTOR N641
+Remember my name?
+
+PATIENT N641
+Yeah.
+
+DOCTOR N641
+My name is right here DOCTOR. 
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+And I will see you in four to six months.
+
+PATIENT N641
+Okay.
+
+DOCTOR N641
+Or you could see me sooner if you want to.
+
+PATIENT N641
+Okay if anything is wrong.
+
+DOCTOR N641
+Okay.
+
+PATIENT N641
+@@@.
+
+DOCTOR N641	
+If anything is wrong, any concerns, you can come back.
+
+PATIENT N641
+Okay.  
+
+DOCTOR N641
+Okay.  
+
+PATIENT N641
+Thank you.
+
+DOCTOR N641
+You’re welcome.
+
+PATIENT N641
+Thank you for everything.
+
+DOCTOR N641
+My pleasure.
+
+
+PATIENT LEAVES:  53:12
+
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800515/JOB#  1300291
+TRANSACTION # 578-10-2-316-0103

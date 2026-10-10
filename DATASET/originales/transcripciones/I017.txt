@@ -1,0 +1,1637 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR I017
+PATIENT?
+
+PATIENT I017
+Yes.  Hey, you're late.
+
+DOCTOR I017
+I know, sorry the computer wasn't working.
+
+PATIENT I017
+I don't care.
+
+DOCTOR I017
+I'm sorry.
+
+PATIENT I017
+I don't.
+
+DOCTOR I017
+Will you cut me a break because it's a holiday?
+
+PATIENT I017
+No.
+
+DOCTOR I017
+No.  Not even for the holidays, please?
+
+PATIENT I017
+No, double no, yes.
+
+DOCTOR I017
+I @@@.
+
+PATIENT I017
+Anything you want as long as DOCTOR.  Oh we got a new office in there now.
+
+DOCTOR I017
+Yeah, just what I'm saying I had to find a room.
+
+PATIENT I017
+Yeah so how have you been doing?
+
+DOCTOR I017
+I've been good.  How have you been doing?
+
+PATIENT I017
+I've been, I'm doing good.
+
+DOCTOR I017
+Yeah did you bring in your uh your.
+
+PATIENT I017
+No you know I forgot it.
+
+DOCTOR I017
+And you're getting mad at me, you're getting mad at me and you forgot it.
+
+PATIENT I017
+Yes.  
+
+DOCTOR I017
+Which you knew I was gonna ask about it.
+
+PATIENT I017
+I knew exactly what it was.  When I got in the van this morning I went oh.
+
+DOCTOR I017
+That’s what you get.  Well I haven't seen you in a while.  You saw, you saw me like a while ago and then you saw DOCTOR, you saw DOCTOR, no.
+
+PATIENT I017
+But I did blood work in be, you know.
+
+DOCTOR I017
+You did.
+
+PATIENT I017
+So check it out from that point.
+
+DOCTOR I017
+Alright let’s see.
+
+PATIENT I017
+If I had saw you this morning.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+I was gonna say why don't you put a prescription in for me to get my blood work and then we'll both know how accurate.
+
+DOCTOR I017
+Oh hmm.  I'm sorry I got late.
+
+PATIENT I017
+Yeah.
+
+DOCTOR I017
+It's not my fault.
+
+PATIENT I017
+I thought you were in a meeting but it was the nurses that were in a meeting.
+
+DOCTOR I017
+Yeah I never, I never have meetings.
+
+PATIENT I017
+You never have meetings.
+
+DOCTOR I017
+Not even for the clinic.  
+
+PATIENT I017
+You just like to be late.
+
+DOCTOR I017
+No the computer is, I'm not going to bore you with the details.
+
+PATIENT I017
+Right, right, right, right.
+
+DOCTOR I017
+But anyway so, let's see so your labs you got in October.
+
+PATIENT I017
+Uh-huh.
+
+DOCTOR I017
+Your, your lipids are okay.  They're a little bit high for my taste, but just a little bit high.  So your blood sugar was high.
+
+PATIENT I017
+I've lost weight.
+
+DOCTOR I017
+You did, let's see.
+
+PATIENT I017
+Yeah look at it.
+
+DOCTOR I017
+Today you are 230 pounds.
+
+PATIENT I017
+230 pounds, before I was.
+
+DOCTOR I017
+Look at you, you lost four pounds!
+
+PATIENT I017
+Hey.
+
+DOCTOR I017
+Nice job.  How'd you do it, give me some lessons.  Sitting around?
+
+PATIENT I017
+Push away from the table and eat smaller portions.
+
+DOCTOR I017
+Good for you.
+
+PATIENT I017
+Yeah.
+
+DOCTOR I017
+Um let's see, what else.  Last time you came in you were having some left ankle pain, shooting pain in both your toes and hands, especially on the right side, still have it?
+
+PATIENT I017
+You know what, it still goes on and DOCTOR kept me on that uh, I can't pronounce the name of it.
+
+DOCTOR I017
+Gabapentin?
+
+PATIENT I017
+That's it.
+
+DOCTOR I017
+Okay.
+
+PATIENT I017
+But do you have anything stronger?
+
+DOCTOR I017
+Well what dose are you on?  We can increase it.
+
+PATIENT I017
+Well I did because uh its 300 mg I think and I'm taking two each time.
+
+DOCTOR I017
+We can increase it even more than that.  That's what you're supposed to do with that medicine, you're supposed to increase it until it starts helping.
+
+PATIENT I017
+Okay.
+
+DOCTOR I017
+Cause the pain you have is called, it seems like the way you describe it, the kind of the way you're describing like shooting pain.
+
+PATIENT I017
+Yes.
+
+DOCTOR I017
+It sounds like what we call neuropathic pain.
+
+PATIENT I017
+Right.
+
+DOCTOR I017
+And that can happen in patients with diabetes and can be perfectly controlled.
+
+PATIENT I017
+So you're saying it's all my fault?
+
+DOCTOR I017
+Nothing is your fault.  I'm just saying why it happens.  You can interpret that however you like.
+
+PATIENT I017
+Did I show you what happened to my toes?
+
+DOCTOR I017
+Nope.
+
+PATIENT I017
+Now Podiatry, Podiatry actually was doing their thing and I told them, I said my toes have been bothering me so I said, do I have gout or something, but he said no, but when he cut my toenails he did it like that everywhere but since then, the toenail has come off.  
+
+DOCTOR I017
+How long ago was this?
+
+PATIENT I017
+Toenails been off now uh.
+
+DOCTOR I017
+And that's not attractive, let's see.
+
+PATIENT I017
+Wait a minute @@@ so you remember uh Boomerang with Eddie Murphy?
+
+DOCTOR I017
+Yeah.
+
+PATIENT I017
+You remember when he pulled the tassels off the different toes?
+
+DOCTOR I017
+Yeah.
+
+PATIENT I017
+Well you gonna kick me out there.  Is that how you're gonna treat me?
+
+DOCTOR I017
+(Laughter)  No.
+
+PATIENT I017
+No you gonna keep me?
+
+DOCTOR I017
+I'll keep seeing you even when your toes look funky.
+
+PATIENT I017
+Wait a minute, wait a minute, not just my toe.
+
+DOCTOR I017
+Oh no there's more?
+
+PATIENT I017
+There's more.
+
+DOCTOR I017
+When was this?
+
+PATIENT I017
+This happened uh.
+
+DOCTOR I017
+August?
+
+PATIENT I017
+Uh now that one looks a lot better.
+
+DOCTOR I017
+You need to go see Podiatry again.
+
+PATIENT I017
+But you know what, this toe doesn't, okay.  Look here, I can bend that.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+Ever since the surgery I'm not getting the range in it.
+
+DOCTOR I017
+With your surgery, ever since they did @@@.
+
+PATIENT I017
+Yeah and I think I want them to take these pins out.
+
+DOCTOR I017
+And Ortho did that to you right?
+
+PATIENT I017
+Yeah I want them to take.  Now they took seven out on that side but see look at my skin.  What's going on with that?
+
+DOCTOR I017
+I'm gonna have you see Podiatry again.
+
+PATIENT I017
+Now look at here.  But uh.
+
+DOCTOR I017
+You have avulsion?
+
+PATIENT I017
+Yeah.  But that's what they dark, it looks dead or something.
+
+DOCTOR I017
+Is it cold?
+
+PATIENT I017
+No but sometimes it feels frozen but it's not cold.  So grow another foot.
+
+DOCTOR I017
+I'm going to.
+
+PATIENT I017
+Alright, sure.
+
+DOCTOR I017
+Alright let's see what else you've got.  I see you had some lower extremity swelling last time.
+
+PATIENT I017
+Alright.
+
+DOCTOR I017
+The last time you came in, lower extremity, your legs were swelling up.  Still happening or?
+
+PATIENT I017
+No we did the ultrasound. You know what I think it was?
+
+DOCTOR I017
+Hmm.
+
+PATIENT I017
+@@@.
+
+DOCTOR I017
+Yeah.  Are you still using your um, what's it called, our TED hose?
+
+PATIENT I017
+What?
+
+DOCTOR I017
+They gave you some like, some stockings.
+
+PATIENT I017
+The stockings, that thing was, that was murder getting the thing on and off just like.
+
+DOCTOR I017
+So yes or no?
+
+PATIENT I017
+That's what I mean.  Now before I had the accident I could put them on and I could deal with it.  Once they're on their fine.
+
+DOCTOR I017
+Okay.
+
+PATIENT I017
+But when you try and put them bad boys on.
+
+DOCTOR I017
+Yeah.
+
+PATIENT I017
+Oh.
+
+DOCTOR I017
+How long has your foot been this color?
+
+PATIENT I017
+Since the accident.
+
+DOCTOR I017
+Okay since the accident but it hasn't changed right?
+
+PATIENT I017
+It hasn't changed.  I mean it's like.  You would think by now I would get color in my you know.
+
+DOCTOR I017
+When was the accident?
+
+PATIENT I017
+Uh April 23rd.
+
+DOCTOR I017
+This year right.
+
+PATIENT I017
+Of 08.
+
+DOCTOR I017
+08.
+
+PATIENT I017
+Yeah and also does that toe look lose or something?
+
+DOCTOR I017
+Hmm no.  So let me finish this and I'll examine your feet okay.  Um you got all your meds?  You need any refills?
+
+PATIENT I017
+I need refills.  Everything that's refillable please refill it.
+
+DOCTOR I017
+Everything that's refillable.
+
+PATIENT I017
+Yes.
+
+DOCTOR I017
+Your blood pressure's pretty good today.
+
+PATIENT I017
+I thought that was kind of low cause normally I have excellent blood pressure.
+
+DOCTOR I017
+Well let's see, cause it depends.  Like my blood pressure is usually 80/50.
+
+PATIENT I017
+Oh see now mine was 117 over 80, that was 90.
+
+DOCTOR I017
+Last time you came 96/58, you were 109/67 last time so not bad, 116.  Did they start a new need blood pressure medicine on you?
+
+PATIENT I017
+No.  You know I think she was trying that one blood pressure medicine and that's the one I had the reaction and she said take it in half.
+
+DOCTOR I017
+No your blood pressure's been fine.
+
+PATIENT I017
+I’ll be honest @@@.
+
+DOCTOR I017
+You're not taking that blood pressure, so what medications are you taking?
+
+PATIENT I017
+You know what, I'm so used to them all, @@@.
+
+DOCTOR I017
+But do you know how many blood pressure medicines you're taking?
+
+PATIENT I017
+One.
+
+DOCTOR I017
+Just one.
+
+PATIENT I017
+Yeah, if you name it I can tell you.
+
+DOCTOR I017
+Lisinopril?
+
+PATIENT I017
+Yep.
+
+DOCTOR I017
+Okay.  Oh that's fine.  That's the only one you're actually prescribed on here.
+
+PATIENT I017
+Yeah.
+
+DOCTOR I017
+Alright I'm going to refill your meds then we'll look at you.
+
+PATIENT I017
+Let's see what all you gonna refill.
+
+DOCTOR I017
+Gabapentin and I'm going to increase it.
+
+PATIENT I017
+Okay.
+
+DOCTOR I017
+So right now you're taking 300 mg three times a day.
+
+PATIENT I017
+I'm just resting, that's good.  @@@.
+
+DOCTOR I017
+That's okay, @@@.
+
+PATIENT I017
+Okay.
+
+DOCTOR I017
+Um let me go check with DOCTOR since she saw you last.  I'll see what adjustments she wants me to do with you.  I'm gonna refill on your insulin.
+
+PATIENT I017
+Yes.
+
+DOCTOR I017
+Your aspirin, alcohol prep pads, simvastatin, multivitamin, niacin, lisinopril, metformin.
+
+PATIENT I017
+Yes.  Lancets.
+
+DOCTOR I017
+You need lancets too?
+
+PATIENT I017
+Yes.
+
+DOCTOR I017
+You need more of your vardenafil?
+
+PATIENT I017
+Which one?
+
+DOCTOR I017
+Vardenafil the um Viagra.  
+
+PATIENT I017
+They haven't sent that to me in like three months.
+
+DOCTOR I017
+Probably because you're out of refills.  I'll put one in for you.  Um you want these mailed to you or do you want to pick them up here?
+
+PATIENT I017
+I want the macho dose.  I want them right through the roof.
+
+DOCTOR I017
+Do you want to pick them up here or do you want them mailed to your house?
+
+PATIENT I017
+Mail them to me.
+
+DOCTOR I017
+Okay.
+
+PATIENT I017
+Now wait a minute.  What was that movie with Chris Rock in it, uh I love my wife.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+And he took it and then they called the ambulance only they had to suit him and stuff, that's the way I want to be like that man.  Something crazy.
+
+DOCTOR I017
+Alright I'll see what I can do.
+
+PATIENT I017
+Makes me filled with love.
+
+DOCTOR I017
+I'll see what I can do.
+
+PATIENT I017
+Cause I'm not satisfied with the way he's been acting.  He's really been letting me down.
+
+DOCTOR I017
+Yeah.
+
+PATIENT I017
+Yeah it's like you know, I can be pumped up and everything.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+And as soon as he gets there he says it's dark in here I'm coming out you know and he's.
+
+DOCTOR I017
+Yeah.
+
+PATIENT I017
+I mean he not only goes into his shell, I'm like dude come on, I need you man, don't let me down now.  I been, you know.
+
+DOCTOR I017
+What about um your glucose strips, do you need more of those?
+
+PATIENT I017
+Yes.  Needles.
+
+DOCTOR I017
+Needles, lancets, syringes.  Do you use the 0.5 mL.
+
+PATIENT I017
+Yes.
+
+DOCTOR I017
+Or the 1 mL syringes?
+
+PATIENT I017
+What do you mean?  What do you mean?
+
+DOCTOR I017
+So there's two different kinds of syringes.  One you can fill up half a milliliter and one you can fill up one milliliter.
+
+PATIENT I017
+10, 20, 30, 40, 50, 60.
+
+DOCTOR I017
+Okay it goes 60, 70, 80, 90, 100?
+
+PATIENT I017
+That's right, which one is that?
+
+DOCTOR I017
+I think that's the 1 milliliter.
+
+PATIENT I017
+Ask DOCTOR, she doesn't like to cause she thinks it's addictive but she knows that I'll stop taking medicine and I take it you know as I need it.  Tell her I do need a refill on my Vicodin.
+
+DOCTOR I017
+What do you need the Vicodin for?
+
+PATIENT I017
+Cause it helps me with my pain.
+
+DOCTOR I017
+Which pain?
+
+PATIENT I017
+With the pain that I have.
+
+DOCTOR I017
+In your foot?
+
+PATIENT I017
+Yes.
+
+DOCTOR I017
+Cause that is not indicated for the kind of pain you're having.
+
+PATIENT I017
+I understand that, she knows that.  She knows that.
+
+DOCTOR I017
+Uh-huh.  I'll ask her what she thinks but you know.  I don't usually give it out.
+
+PATIENT I017
+Right.
+
+DOCTOR I017
+That's something I agree @@@ practicing medicines.
+
+PATIENT I017
+When was the last time I was seen here in October?
+
+DOCTOR I017
+October.
+
+PATIENT I017
+Okay she gave me 30 pills then.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+I still have like 9 but I was just saying I don't want to run out.
+
+DOCTOR I017
+How often are you using them?
+
+PATIENT I017
+As needed.  I don't take them daily.
+
+DOCTOR I017
+So like one every other day, two every other day?
+
+PATIENT I017
+One every other, maybe once Monday, maybe Thursday then again maybe next Tuesday.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+Or whenever that pain, it just really gives me the flux.
+
+DOCTOR I017
+Um tell me about your blood sugars at home, are you checking them?
+
+PATIENT I017
+Not, not like you know.
+
+DOCTOR I017
+Tell me what they read when you check them.
+
+PATIENT I017
+I've been under 200.
+
+DOCTOR I017
+Under 200 is good.  It's not.
+
+PATIENT I017
+No, no, no wait a minute now, I think my highest is like 208.  I haven't been keeping those records and I'm, I need to.  I'm telling you when I check my sugars, my sugars have been good.
+
+DOCTOR I017
+Good in what sense?  They shouldn't be up in the 150s, 160s.  That's not good.
+
+PATIENT I017
+But I'm hard-headed.
+
+DOCTOR I017
+I know you are.
+
+PATIENT I017
+You know that.
+
+DOCTOR I017
+I know you are.
+
+PATIENT I017
+DOCTOR probably tell you, he, he’s a tough turkey right, I be better than before.  I'm better than I used to be.
+
+DOCTOR I017
+So we need to have you.  Have you seen the eye doctors?
+
+PATIENT I017
+Not in a while.
+
+DOCTOR I017
+We need to have you see the eye doctor.
+
+PATIENT I017
+Wait a minute.  These are new glasses here. I'm not going to get me a new prescription unless they gonna pay for them.
+
+DOCTOR I017
+You're not really a prescription for now on because people with diabetes have risks for eye problems so we just like you to see the eye doctor once a year okay.
+
+PATIENT I017
+Yeah.
+
+DOCTOR I017
+So we need to schedule an appointment for the eye doctor.
+
+PATIENT I017
+Put it in there.
+
+DOCTOR I017
+Um you should just be able to schedule it when you go up front cause you've seen them here before right?
+
+PATIENT I017
+Yes they're the only ones that I've seen for my eyes.
+
+DOCTOR I017
+Um and then the other thing you were supposed to see the liver doctors.  Did you ever see them?
+
+PATIENT I017
+You know what, I cancelled that appointment I think that was the day we buried my grandfather and I had to cancel that appointment and I didn't make a new one.
+
+DOCTOR I017
+Okay.  They can do that for you up front too.  And I think you're gonna end up having to see the diabetic, the Pharmacy because of your diabetes your hemoglobin is too high and uh.
+
+PATIENT I017
+Uh DOCTOR.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+That's like.
+
+DOCTOR I017
+When was the last time you saw her?
+
+PATIENT I017
+When I had the blood clot in my groin.
+
+DOCTOR I017
+Yeah.
+
+PATIENT I017
+And they had me on the uh.
+
+DOCTOR I017
+Coumadin?
+
+PATIENT I017
+Heparin and Coumadin.
+
+DOCTOR I017
+Yep.
+
+PATIENT I017
+I was doing two shots a day, the Coumadin.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+I was here every other day.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+I mean they had a track going checking my stuff out.
+
+DOCTOR I017
+Yeah.
+
+PATIENT I017
+Yes.
+
+DOCTOR I017
+Well you're gonna have to see her about uh.
+
+PATIENT I017
+Why?
+
+DOCTOR I017
+Because we need to get your diabetes under control so I'm probably gonna have you, we might change your meds around a little bit because are you taking your meds religiously?
+
+PATIENT I017
+Yeah.
+
+DOCTOR I017
+Every day?
+
+PATIENT I017
+85 in the morning, 65 in the evening and every now and then.
+
+DOCTOR I017
+And that's @@@?
+
+PATIENT I017
+Yes.  Every now and then I bump it or you decrease it but I.
+
+DOCTOR I017
+You're taking every day without fail right?
+
+PATIENT I017
+Yeah.
+
+DOCTOR I017
+So we probably have to increase it is the problem.
+
+PATIENT I017
+Man.
+
+DOCTOR I017
+Cause you're not getting good blood sugar.
+
+PATIENT I017
+When am I gonna not be a diabetic?
+
+DOCTOR I017
+When you lose a whole bunch of weight.
+
+PATIENT I017
+Well help me out; give me a diet pill or something.
+
+DOCTOR I017
+Diet pills are not safe, nor are they healthy and I would never prescribe them.
+
+PATIENT I017
+But.
+
+DOCTOR I017
+They are really bad for you.
+
+PATIENT I017
+You got a lot of medicines that you won't prescribe, come on, help me out.
+
+DOCTOR I017
+I get it.  I never said I'd never prescribe @@@.
+
+PATIENT I017
+Look at you, you all slim and trim, how do you do it?
+
+DOCTOR I017
+I work out five times a week, I really work at it.
+
+PATIENT I017
+Get me in that or whatever you doing.  Look help me work out (laughter).
+
+DOCTOR I017
+@@@ you will be motivated to keep working out.
+
+PATIENT I017
+Uh I'm gonna work, that'll just slow me down.
+
+DOCTOR I017
+(Laughter)
+
+PATIENT I017
+But I'll be like, Hmm, she’s fine.
+
+DOCTOR I017
+You gotta show off with right so.
+
+PATIENT I017
+But wait a minute, you know what if I take off, see that's what like now I can't be barefooted.
+
+DOCTOR I017
+Yeah cause it hurts or?
+
+PATIENT I017
+Yeah it kills me @@@.
+
+DOCTOR I017
+Okay let me see you, let me examine you and we'll do your feet last okay.
+
+PATIENT I017
+Oh do I take off my shoes?
+
+DOCTOR I017
+Nope not yet.  Actually take off your sweatshirt.
+
+PATIENT I017
+I'm @@@ dress shirt.  (Laughter)
+
+DOCTOR I017
+(Laughter)  Oh, that's what you come to the doctor for.
+
+PATIENT I017
+Yes, all the doctors are ladies.
+
+DOCTOR I017
+(Laughter)  Give me some deep breaths in and out through your mouth.
+
+PATIENT I017
+I can't @@@.
+
+DOCTOR I017
+@@@.
+
+PATIENT I017
+I can't @@@.
+
+DOCTOR I017
+That's okay you'll get it back.  Now breathe normal. Any shortness of breath, trouble breathing, chest pain, anything like that?
+
+PATIENT I017
+See that's what @@@.
+
+DOCTOR I017
+Right.
+
+PATIENT I017
+Yeah.
+
+DOCTOR I017
+No trouble breathing or anything like that?
+
+PATIENT I017
+Shoot.  Actually you know what?
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+The last couple of days I've been feeling like not doing nothing.
+
+DOCTOR I017
+So you're feeling like not doing anything.
+
+PATIENT I017
+And it's like I.
+
+DOCTOR I017
+Are you just tired?
+
+PATIENT I017
+I don't have, I don't have, motivation @@@.
+
+DOCTOR I017
+Yeah.
+
+PATIENT I017
+Yeah.
+
+DOCTOR I017
+You can lay your stuff down.
+
+PATIENT I017
+@@@ just falling asleep.
+
+DOCTOR I017
+@@@.
+
+PATIENT I017
+Yeah, yeah, yeah.  I got some @@@.
+
+DOCTOR I017
+You did.
+
+PATIENT I017
+@@@ here.  You see over here, it's just kind of.
+
+DOCTOR I017
+Getting underneath @@@.
+
+PATIENT I017
+Yeah.  I don't have California feet.
+
+DOCTOR I017
+(Laughter)
+
+PATIENT I017
+You know what, I was telling you I was telling the nurse that I, you know the last thing @@@ pancreatitis.
+
+DOCTOR I017
+Pancreatitis?
+
+PATIENT I017
+I been having that problem lately.
+
+DOCTOR I017
+Have you been drinking a lot of alcohol?
+
+PATIENT I017
+I don't drink alcohol.  I mean I'll have a cocktail but I haven't have nothing like that to drink.
+
+DOCTOR I017
+Well when you had the pancreatitis did they ever tell you what caused it?  @@@.
+
+PATIENT I017
+I don't, you know they went down just through my throat twice.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+The second time they thought they were gonna do biopsies but they found nothing, it was just inflamed.  Now I don't know what caused me two weeks ago and I'm scared to tell DOCTOR because last year at this time she kept me in here five days on broth.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+And I was not a happy camper.
+
+DOCTOR I017
+Well understandable, but you know we have to do what’s best for you @@@ came here.
+
+PATIENT I017
+I know but if I can't eat in the evening and then just after twelve o’clock, but she didn’t want me on nothin.
+
+DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+I’m talking about.  Broth with breakfast, lunch and dinner I went crazy.
+
+DOCTOR I017
+Yeah.  That's what happens when you have pancreatitis.  You having that problem again?
+
+PATIENT I017
+Well I think.
+
+DOCTOR I017
+Go ahead and sit up for me.
+
+PATIENT I017
+I've had three times when I threw up, one time I'm like whoa I finished my breakfast and everything I had just come out and I was fine.
+
+DOCTOR I017
+Alright.  So you felt better after you threw up?
+
+PATIENT I017
+Yeah.
+
+DOCTOR I017
+Alright take your shoes off I want to shoe DOCTOR your feet and I'll be right back okay.
+
+PATIENT I017
+Yeah.
+
+DOCTOR I017
+Okay.
+
+(DOCTOR OUT:  45:14  DOCTOR IN:  52:40)
+
+SECOND DOCTOR I017
+Hi.
+
+PATIENT I017
+Hey DOCTOR.
+
+SECOND DOCTOR I017
+Where is your sugar log?
+
+FIRST DOCTOR I017
+Told you she'd ask you.
+
+PATIENT I017
+You were supposed to tell her that, well you can.
+
+FIRST DOCTOR I017
+Oh I was supposed to lie to her?  (Laughter)
+
+PATIENT I017
+No, no, not lie but just tell her so she wouldn't come, cause she jumps, she hits me.
+
+SECOND DOCTOR I017
+So really PATIENT we went over this last time and so you did not bring the log, you are taking your insulin but you don't check so how am I going to adjust those readings uh, sugar readings the insulin reading.  Okay so we'll have a pharmacist see you.  Now you are coming two times, next after January 1st, one is the Liver Clinic; one is the Nauk Clinic so one of those days you can have the nurse to see you.
+
+PATIENT I017
+Okay.
+
+SECOND DOCTOR I017
+Make it on the 4th, I think I will be back by then so we can check your sugars and adjust your insulin then.
+
+PATIENT I017
+So you want me to draw the blood today or what?
+
+SECOND DOCTOR I017
+No you don't need any blood tests.  I'm talking about you checking your sugars at home the different times of the day and do you have those sheets or you want me to give you new ones?
+
+PATIENT I017
+I have those @@@.
+
+SECOND DOCTOR I017
+Okay so that we can have at least three or four readings of each column.
+
+PATIENT I017
+So you want me to do it three times a day?
+
+SECOND DOCTOR I017
+No one time a day but switch the times each day.
+
+PATIENT I017
+Oh okay.
+
+SECOND DOCTOR I017
+So uh see your glycosylated is 8.5 which is bad.  Then you have problems with your feet and so forth and your neuropathy is never going to get better if your diabetes stays like this.
+
+PATIENT I017
+But you know what DOCTOR some days they'll feel fine and then I think when the weather changes, later like at night and it seems like.
+
+SECOND DOCTOR I017
+No that's part of neuropathy and it's from your diabetes.  As long as your diabetes continues to be doing poorly it will only get worse.  Okay but if you get it controlled it may actually get better but if we don't do anything, no matter how many medicines I give you it's not going to be better.  It's linked.  If your diabetes is not controlled this is going to get worse.
+
+PATIENT I017
+And I'm trying to lose the weight cause.
+
+SECOND DOCTOR I017
+Well that's good.  You do diet, you do exercise, you do your insulin, those are all the things that will control it.  Just not increasing the medicine will help you in terms of your insulin.  So you really need to do all of the things similarly but at the same time you need to check your sugar so that it @@@ you where you are and if it goes up then we can adjust your medications.
+
+PATIENT I017
+I know that.
+
+SECOND DOCTOR I017
+But in terms of Vicodin that's the other pain medication so that would not be the medicine for your diabetic neuropathy.
+ 
+PATIENT I017
+No but it helps.
+
+SECOND DOCTOR I017
+What I can do is, DOCTOR was mentioning to you that we can increase the gabapentin to 900 three times a day @@@ sleepy already.
+
+PATIENT I017
+@@@ sleepy.
+
+SECOND DOCTOR I017
+Good. So it's a neuropathy medication.
+
+PATIENT I017
+That doesn’t bother me.
+
+SECOND DOCTOR I017
+Okay so we'll increase that.  I can give you like 15-30 pills with no refills and this is not for the neuropathy pain.
+
+PATIENT I017
+No, no.
+
+SECOND DOCTOR I017
+It’s for the ankle pain if you need it but no refills.  I don't want to get in the habit of taking Vicodin for regular pain.
+
+PATIENT I017
+And like I told her, I still have a few pills from the last time you gave me some.
+
+SECOND DOCTOR I017
+Yeah.  Then what I'm saying for, the medicine that is not for this and I don't want you to, I will issue the pain medication okay.
+
+PATIENT I017
+Alright.  So now you supposed to be going over on vacation this year.
+
+SECOND DOCTOR I017
+Next week.
+
+PATIENT I017
+Where you going?
+
+SECOND DOCTOR I017
+Nowhere.
+
+PATIENT I017
+You’re just going to relax?
+
+SECOND DOCTOR I017
+Yeah.
+
+PATIENT I017
+DOCTOR.
+
+SECOND DOCTOR I017
+Take care, happy holidays.
+
+PATIENT I017
+@@@.
+
+SECOND DOCTOR I017
+Take care.
+
+PATIENT I017
+Bye.
+
+FIRST DOCTOR I017
+Alright @@@.  I have been trying.  I have all these records I've got to go through.
+
+PATIENT I017
+What'd she ask you?
+
+FIRST DOCTOR I017
+She asked me what your blood sugar was and I said you didn't bring it.  @@@.
+
+PATIENT I017
+Now you probably said he didn't bring it, you been had, I know you telling me, setting me up.
+
+FIRST DOCTOR I017
+You know I do what I can to set you up, that's my bad.  Alright so here's what we're gonna do.
+
+PATIENT I017
+She didn't say, where, where you log at.  She always gets me.  She's been doing that since 2000, you know that.
+
+FIRST DOCTOR I017
+I know.
+
+PATIENT I017
+She's been my, I love DOCTOR.
+
+FIRST DOCTOR I017
+She is pretty awesome.  
+
+PATIENT I017
+Well I swear by her.
+
+FIRST DOCTOR I017
+She is pretty awesome.
+
+PATIENT I017
+Every time I, I can call her from home, she says okay you come in to the clinic, I'll be waiting here and I go pop and I get here and she say @@@ and she treats you like a little kid just drag me down the hall and next thing I know I’m in the Emergency Room and I'm admitted to the hospital.
+
+FIRST DOCTOR I017
+I know because she cares about you.
+
+PATIENT I017
+Yes she does.
+
+FIRST DOCTOR I017
+Alright so here's what we're gonna do.  You already have some appointments coming up. You've got on January 12th you've got your liver appointment.
+
+PATIENT I017
+I thought that was on the 4th she said.  She just said.
+
+FIRST DOCTOR I017
+The 4th is with Podiatry.
+
+PATIENT I017
+Podiatry and what else?
+
+FIRST DOCTOR I017
+The 4th you've got Podiatry and I want you to have them schedule you for a Diabetic Pharm D on January 4th as well.
+
+PATIENT I017
+Yeah to see DOCTOR.
+
+FIRST DOCTOR I017
+Uh-huh.  So ask them to do that up front and bring your labs or your logs.  Um we need to reschedule your orthopedic appointment because you missed it on December 4th.
+
+PATIENT I017
+But you know what I knew there was something that I needed to do, I knew it.
+
+FIRST DOCTOR I017
+No that's okay.
+
+PATIENT I017
+But I thought I scheduled it for today because I knew I was going to be here early.
+
+FIRST DOCTOR I017
+Right.  Well they can make it for you.
+
+PATIENT I017
+And they're there on Mondays and Fridays only.
+
+FIRST DOCTOR I017
+Right.
+
+PATIENT I017
+So I knew it.
+
+FIRST DOCTOR I017
+You can have them reschedule that for you up front.  So we'll reschedule your Ortho appointment.
+
+PATIENT I017
+Okay.
+
+FIRST DOCTOR I017
+We'll schedule your eye doctor.
+
+PATIENT I017
+I need to reschedule with Ortho.  
+
+FIRST DOCTOR I017
+Ophthalmology for the eye doctor, Orthopedics um Diabetes with the Pharm Dy and now for your uh pain in your eye they're increasing your gabapentin to 800 mg three times a day.
+
+PATIENT I017
+I thought she said 900?
+
+FIRST DOCTOR I017
+You know you already have them and I mean you can do that way this time.  Um well I'll give you the 900 three times a day.  Um then the other thing is we want to get some imaging; basically it's called arterial blood study in your lower extremities of your legs.  Um because we're worried about some of this might arterial as well as the pain you're describing.
+
+PATIENT I017
+Arterial means?
+
+FIRST DOCTOR I017
+So your arteries are the blood vessels that take blood into the body.
+
+PATIENT I017
+That's what I'm wondering you know because right after the surgery.
+
+FIRST DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+It was you know, just before I blacked out in surgery I remember seeing my feet go up and the way they tied the toes to hang that foot up there for them to do.
+
+FIRST DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+I'm like.
+
+FIRST DOCTOR I017
+Well what we'll do is we'll have them do that for you so that we can make sure that your arteries are doing okay.
+
+PATIENT I017
+Please.
+
+FIRST DOCTOR I017
+Okay.
+
+PATIENT I017
+Thank you.  Cause I'm hurting here, I mean like here.  Okay the whole foot used to look like that.
+
+FIRST DOCTOR I017
+No, no.  Only some of the @@@ you know was due to the injury that you had and what not so let's.
+
+PATIENT I017
+And actually do a lotion, a lotion to put the sock on and it takes it right off.
+
+FIRST DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+And we just.
+
+FIRST DOCTOR I017
+Well let's get this done.
+
+PATIENT I017
+That'll be fine.
+
+FIRST DOCTOR I017
+Then we'll have an explanation okay.  And I'll see you back in three months, how does that sound?
+
+PATIENT I017
+No I want to see you before.
+
+FIRST DOCTOR I017
+Ha, ha, ha.
+
+PATIENT I017
+Yeah.
+
+FIRST DOCTOR I017
+You can try to schedule with her if you want.
+
+PATIENT I017
+@@@ in three months I'll forget something you know.
+
+FIRST DOCTOR I017
+Really.
+
+PATIENT I017
+And I figure if I.
+
+FIRST DOCTOR I017
+How early do you want @@@ you can always schedule @@@
+
+PATIENT I017
+What about, why can't we go every month and a half instead of three months?
+
+FIRST DOCTOR I017
+I mean I don't think you need to see me every month and a half.
+
+PATIENT I017
+Why?
+
+FIRST DOCTOR I017
+Because you don't have that many medical problems for you to.
+
+PATIENT I017
+@@@.
+
+FIRST DOCTOR I017
+If you want to see me every month and half.
+
+PATIENT I017
+You know what, yes I do because I want to get, I want to get cut down on insulin.
+
+FIRST DOCTOR I017
+So that's not gonna happen by you seeing me more often though.
+
+PATIENT I017
+Yes it will because I'll be bringing in my readings and you'll be telling me about those others.
+
+FIRST DOCTOR I017
+Yeah but you see the thing is your labs right now that you've been getting like your A1c which shows up your um your blood sugar over what the average over a three month period is high.
+
+PATIENT I017
+Well what should that be?
+
+FIRST DOCTOR I017
+It should be less than 7.
+
+PATIENT I017
+8.5, that's nothing.
+
+FIRST DOCTOR I017
+High.
+
+PATIENT I017
+It used to be 13 or higher.
+
+FIRST DOCTOR I017
+I know its better.
+
+PATIENT I017
+So come on, you just you want jack with me (laughter).
+
+FIRST DOCTOR I017
+Well it used to be but that just mean you know we need to keep working at it.  The only way you're gonna come off of your medications is to lose more weight.
+
+PATIENT I017
+Now what medication am I taking for the diabetes?
+
+FIRST DOCTOR I017
+The insulin.  And so the only way this is gonna work is, the only way you can get your blood sugar where it's at goal is by using a log and the only way you can end up requiring less medications is to lose more weight.
+
+PATIENT I017
+I'm trying to do that but now but the reason I was saying if I come in every month and a half then I could draw some blood and I'll feel better knowing that after which I'll know where I'm at.
+
+FIRST DOCTOR I017
+Well we can't check this laboratory more than every three months anyway. This lab, it gives you an average of your blood sugars for three months, for a three month period so we wouldn't check it more than every three months.  Does that make sense?  You can come and see me more often if you want I just don't think it's going to change our management of you.
+
+PATIENT I017
+I think it will.
+
+FIRST DOCTOR I017
+Okay if you want to you're more than welcome to call and schedule something more often.
+
+PATIENT I017
+It's like I'm being monitored you know.  I feel more comfortable.
+
+FIRST DOCTOR I017
+If you feel more comfortable then absolutely you can come more often as you like.
+
+PATIENT I017
+I feel comfortable knowing that I'm being monitored properly and that yes I am doing the right thing.
+
+FIRST DOCTOR I017
+Good.
+
+PATIENT I017
+And I'm 51; I want to see 61, 71, 81.
+
+FIRST DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+91, I want to keep going.  I want to keep you know feeling like I'm feeling right now.  You know I want to have motivation some day.
+
+FIRST DOCTOR I017
+Uh-huh.
+
+PATIENT I017
+And it's not because of my diabetes; I don't know what it is.
+
+FIRST DOCTOR I017
+Yeah.
+
+PATIENT I017
+Like yesterday I felt like.
+
+FIRST DOCTOR I017
+Have you thought about seeing a psychiatrist?
+
+PATIENT I017
+@@@ only because, I don't think it's that bad.
+
+FIRST DOCTOR I017
+@@@.
+
+PATIENT I017
+I don't think done now.
+
+FIRST DOCTOR I017
+Sometimes @@@.  You can see them @@@.
+
+PATIENT I017
+@@@ that's okay.  I wanna see doctors okay, I don't know.
+
+FIRST DOCTOR I017
+I mean they're doctors too you know.
+
+PATIENT I017
+I know.  That guy that just killed those people at Fort Hood, what was he, a psychiatrist.  @@@.
+
+FIRST DOCTOR I017
+He was a psychologist.
+
+PATIENT I017
+Psych, Psych something.
+
+FIRST DOCTOR I017
+Psychologist, psychiatrists are doctors, psychologists don’t have MDs.
+
+PATIENT I017
+What could the psychiatrist do for me?
+
+FIRST DOCTOR I017
+They can talk to you.  They can kind of help you work through things.
+
+PATIENT I017
+I can talk to people.  I can talk to you.
+
+FIRST DOCTOR I017
+Yeah but they have a lot more.
+
+PATIENT I017
+No, no I'm more comfortable with DOCTOR.  I'll see her, if I'm in lots of pain, I'll tell her @@@ and I'll tell her.
+
+FIRST DOCTOR I017
+Alright.  So you don't have to do it, it's just an option I like to offer to people cause a lot of guys here.
+
+PATIENT I017
+I've been with DOCTOR for.
+
+FIRST DOCTOR I017
+20 years.
+
+PATIENT I017
+Almost.
+
+FIRST DOCTOR I017
+I know.
+
+PATIENT I017
+And with you under her too it's you know I probably get used to you cause DOCTOR was my doctor.
+
+FIRST DOCTOR I017
+I know she was.
+
+PATIENT I017
+Before you and that's I @@@ cause you guys are my, you mine you know.
+
+FIRST DOCTOR I017
+You are, you call in and you have this number because you’ve been here forever, right.
+
+PATIENT I017
+It’s 888.
+
+FIRST DOCTOR I017
+Yep.  So you call in and ask for an appointment with me as soon as you want, okay.
+
+PATIENT I017
+Oh oh.
+
+FIRST DOCTOR I017
+Push down @@@.
+
+PATIENT I017
+So you just want to put on this paper come back in a month and a half. 
+
+FIRST DOCTOR I017
+Yeah but just call and schedule cause if it's not on a Monday you've got to call and schedule anyway so.
+
+PATIENT I017
+That's good news.
+
+FIRST DOCTOR I017
+It is yeah.
+
+PATIENT I017
+@@@.
+
+FIRST DOCTOR I017
+Okay.  Alright.  I'll see you back when you come and see me.
+
+PATIENT I017
+Happy holidays.
+
+FIRST DOCTOR I017
+Happy holidays.  Have a good Christmas and New Year's.
+
+PATIENT I017
+Yes.
+
+FIRST DOCTOR I017
+And I'll see you back in a little bit.
+
+PATIENT I017
+Okay take care.
+
+FIRST DOCTOR I017
+Alright take care and bring your blood sugars along next time.
+
+PATIENT I017
+Yes I will.
+
+FIRST DOCTOR I017
+Alright.
+
+PATIENT I017
+Good luck there.
+
+PATIENT LEAVES:  64:02.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255158
+TRANSACTION # 578-10-2-316-0103

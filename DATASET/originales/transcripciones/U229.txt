@@ -1,0 +1,770 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR U229
+PATIENT?
+
+PATIENT U229
+Yeah.
+
+DOCTOR U229
+How you doing today?
+
+PATIENT U229
+Alright.  @@@.
+
+DOCTOR U229
+@@@.  Okay @@@.
+
+PATIENT U229
+Good man, good.
+
+DOCTOR U229
+Doing okay?
+
+PATIENT U229
+I guess so far.
+
+DOCTOR U229
+Good.
+
+PATIENT U229
+My let, long about two weeks ago.
+
+DOCTOR U229
+Yeah?
+
+PATIENT U229
+My leg just started swelling up on me you know.
+
+DOCTOR U229
+Yeah.
+
+PATIENT U229
+You know, when I bend, you know it was hurting me around my waste.
+
+DOCTOR U229
+Yeah, yeah, yeah.
+
+PATIENT U229
+You know, I mean, my leg feels so tight you know.
+
+DOCTOR U229
+Hm hmm.  You wearing compression stockings at all?
+
+PATIENT U229
+Uh uh. 
+
+DOCTOR U229
+We should get you a prescription for those.
+
+PATIENT U229
+It was, it be so tight, you know, it feel like you know, when I uh, you when, you know I pull my feet, does @@@ like I can feel it, you know, feel the edge of my toes.
+
+DOCTOR U229
+Yeah.  @@@.
+
+PATIENT U229
+The same way.  Both of them.
+
+DOCTOR U229
+The same way?  Both of them?
+
+PATIENT U229
+Yeah.
+
+DOCTOR U229
+We should get you a prescription for stockings that help bring all of the fluid back up to the body.  
+
+PATIENT U229
+Hm hmm.
+
+DOCTOR U229
+So you don’t get swelling in your leg like that.
+
+PATIENT U229
+But it, you know, most of the time when I get @@@, I @@@ ain’t wearing no socks at all or anything.
+
+DOCTOR U229
+Yeah.
+
+PATIENT U229
+I stayed off, you know.  Then it just hurting, you know. Just real tight.
+
+DOCTOR U229
+Yeah.  Do you put them up at the end of the day?
+
+PATIENT U229
+Yeah.  
+
+DOCTOR U229
+Okay, so @@@.
+
+PATIENT U229
+Hm hmm.  
+
+DOCTOR U229
+Okay.
+
+PATIENT U229
+But it still be tight.  You just @@@ about three weeks then I tried @@@ to come in you know.
+
+DOCTOR U229
+Yeah.
+
+PATIENT U229
+I waited, they gave this appointment for today.
+
+DOCTOR U229
+Yeah, yeah, yeah.  How high up does the swelling go?  Is it up to here?
+
+PATIENT U229
+Yeah.  It come all the way up to here.  All this be up here.  @@@ just swollen.
+
+DOCTOR U229
+Okay.  Is this something new or you have had this before and it just went away?
+
+PATIENT U229
+Hm, this, still the same, this left leg still the same way.  You know I, you know I can walk downstairs good but walking up the steps, man, I mean ooh.
+
+DOCTOR U229
+Right.  So it has been like this for a long time?
+
+PATIENT U229
+Yeah.
+
+DOCTOR U229
+Okay.  We got to get you some compression stockings to help the fluid to get back up here.
+
+PATIENT U229
+Because it just @@@.
+
+DOCTOR U229
+It is uncomfortable.
+
+PATIENT U229
+Yup, I can’t even walk up the stairs, you know, you know I have to open my legs up just to get up the stairs. I can go down the stairs real good.
+
+DOCTOR U229
+Yeah, yeah.  So there has been no recent change in that huh?
+
+PATIENT U229
+No.  
+
+DOCTOR U229
+Are you still smoking?
+
+PATIENT U229
+Uh, yeah, I have to go to that class.
+
+DOCTOR U229
+You got to cut that stuff out man.
+
+PATIENT U229
+Yeah.  Yup, you right.
+
+DOCTOR U229
+You know it’s going to kill you. 
+
+PATIENT U229
+You right.
+
+DOCTOR U229
+How is that cholesterol doing?
+
+PATIENT U229
+I have to take some more pills, I have to get some more of those pills.  @@@.
+
+DOCTOR U229
+Yeah, last time we measured it, it was pretty high.
+
+PATIENT U229
+Hmm.
+
+DOCTOR U229
+Were you taking it a year ago?
+
+PATIENT U229
+No, not no year ago.
+
+DOCTOR U229
+Okay.  40 mg. How much are you on?  I saw you had a colonoscopy recently.
+
+PATIENT U229
+@@@.
+
+DOCTOR U229
+You had it done this last year.
+
+PATIENT U229
+Right.
+
+DOCTOR U229
+Did you ever go for that genetic testing a year ago?
+
+PATIENT U229
+@@@.
+
+DOCTOR U229
+Yeah, you have a strong family history of colon cancer.
+
+PATIENT U229
+Right.  Right.
+
+DOCTOR U229
+Did you ever go to USC for genetic testing at all?
+
+PATIENT U229
+Ah no.
+
+DOCTOR U229
+Is that something you would like to do?
+
+PATIENT U229
+Yeah, I do it.
+
+DOCTOR U229
+See if you’re predisposed.
+
+PATIENT U229
+Yeah, I’d go.
+
+DOCTOR U229
+Okay.  Let’s see what I can do, @@@ set up for you.
+
+PATIENT U229
+Okay.  @@@.  Whatever you say.  I go.  
+
+DOCTOR U229
+@@@.  
+
+PATIENT U229
+Whatever you say I’ll do it.  
+
+DOCTOR U229
+Alright.  You had a flu shot today?
+
+PATIENT U229
+Yes.
+
+DOCTOR U229
+Good.  How about the other shots?
+
+PATIENT U229
+Hmm, that is the only shot I had.
+
+DOCTOR U229
+Okay.  Just seeing when you had your last one.  You need one more today.
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+I will order it right now you can stop and pick it up on the way out.  Okay?
+
+PATIENT U229
+Okay.  
+
+DOCTOR U229
+Everything with the medicines going good?
+
+PATIENT U229
+Yes. I take it.
+
+DOCTOR U229
+Fantastic.  Good.  Let me see if I can order you some compression stockings too.  @@@.  Do you know where our Prosthetics Department is by any chance?
+
+PATIENT U229
+Uh, nope.
+
+DOCTOR U229
+Okay, I am going to find out for you.  
+
+PATIENT U229
+Yeah, one more thing about, you know when I use, when I use the toilet?
+
+DOCTOR U229
+Uh huh.
+
+PATIENT U229
+I have to strain, you know.
+
+DOCTOR U229
+Okay.  
+
+PATIENT U229
+I have to strain you know to use it.
+
+DOCTOR U229
+Okay.  You just bought yourself a rectal.  A rectal exam.
+
+PATIENT U229
+(Laughter).  Do you know I, I been having to strain real bad, you know, @@@. 
+
+DOCTOR U229
+Yeah, yeah.  And uh, do you notice if you are going more in the middle of the night?
+
+PATIENT U229
+Hmm, nope, just strain @@@.  
+
+DOCTOR U229
+You have to push it out?  
+
+PATIENT U229
+Yeah.
+
+DOCTOR U229
+Okay.  Does it hurt at all when you push it out?
+
+PATIENT U229
+Sometimes.
+
+DOCTOR U229
+Sometimes, okay.  And your stream has gotten weaker?
+
+PATIENT U229
+Ah, yeah.  
+
+DOCTOR U229
+At the beginning and then in the middle it kinda gets a little stronger?
+
+PATIENT U229
+Yeah.  Something like that.
+
+DOCTOR U229
+Okay.  Do you feel like you @@@?  Like do you still have some in there that you can’t get rid of?
+
+PATIENT U229
+Yeah, right.
+
+DOCTOR U229
+Yeah.  Okay.  Okay.  We should get you on a trial of Flomax.
+
+PATIENT U229
+Flomax?
+
+DOCTOR U229
+Chances are your prostrate’ s pretty big.
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+Flomax @@@.  There are two medicines they use in prostate whenever the prostate is a little big.  It’s something we use with guys. The prostate is kind of sort of a bitch of an organ in terms of you know, as we get older it gets bigger and it causes more problems.
+
+PATIENT U229
+Yeah.  I see @@@, you know, you know they been doing @@@.  Just started doing it.
+
+DOCTOR U229
+Yeah, I know.  It is, fortunately, we have some really, really good medications to treat symptoms of BPH.  That is probably what you got.  Um, going to have to do a rectal though and I know it’s not the more pleasant in the world, @@@.
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+Make sure you don’t have any sort of masses or anything back there, you know, that could be possible cancer.  I am not saying you have cancer.  Most likely you have just some enlargement of the prostate which is stuff that guys get as they get older.  
+
+PATIENT U229
+Oh, okay.
+
+DOCTOR U229
+So it most likely what it is.  Um, any back pain at all, that you have had?
+
+PATIENT U229
+@@@ goes around my waist.  
+
+DOCTOR U229
+But that is nothing new right?
+
+PATIENT U229
+No.
+
+DOCTOR U229
+Okay.  Okay.  Sounds good.  Um, your blood pressure is doing great today.
+
+PATIENT U229
+Yes.
+
+DOCTOR U229
+I am really happy with where it is at.  Um, as far as @@@.
+
+PATIENT U229
+I take that every morning.  
+
+DOCTOR U229
+Good, good, good.  You are taking lisinopril 10 and amlodipine 10.
+
+PATIENT U229
+@@@ take less @@@.
+
+DOCTOR U229
+@@@.  You know what, it is going to be a little tricky because I want to give you a little bit of a water pill.  To help get get off that extra fluid, it’s going to help your legs but I want to make sure you are peeing okay otherwise it’s going to be really un comfortable.  You know, so maybe we will wait and see if the peeing symptoms clear up for a little bit and then once you go to the bathroom regularly with an average stream, you can start the water pill.
+
+PATIENT U229
+Oh okay.
+
+DOCTOR U229
+Okay.  It will help you, actually you might be able to back off one of the meds and substitute the amlodipine. We’ll work in that.
+
+PATIENT U229
+Oh okay.
+
+DOCTOR U229
+We’ll work on that.  I will talk to my boss and we will come up with a medication regimen that will be better for your legs.  
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+Okay.  Because amlodipine may actually make your legs swell up or not.  So may need to take that off and cover you with something for a little bit.  We will talk about it.
+
+PATIENT U229
+Oh okay.
+
+DOCTOR U229
+Alright.  Let me take a listen to you and then we will have to do the rectal.  At least a guy doing it and not a girl huh?
+
+PATIENT U229
+Yeah.
+
+DOCTOR U229
+Take a couple of big deep breaths for me buddy.  Alright.  Fantastic.  You have a good set of pipes on you man.  
+
+PATIENT U229
+@@@.  You said I need to get off them cigarettes.
+
+DOCTOR U229
+Yeah.  Yeah.  How much are you smoking now?  
+
+PATIENT U229
+Hm I say maybe a pack and a half a day, I cut down though but I need to cut @@@.
+
+DOCTOR U229
+A pack and a half a day?
+
+PATIENT U229
+Yeah.  @@@.
+
+DOCTOR U229
+You’re going to give yourself some bad lung disease.
+
+PATIENT U229
+Yup, you right. @@@ stop. I’ll get in one of those classes. 
+
+DOCTOR U229
+@@@.  You’re scheduled to come in or?
+
+PATIENT U229
+Nope. 
+
+DOCTOR U229
+Not yet huh?
+
+PATIENT U229
+Not yet.
+
+DOCTOR U229
+How much were you smoking before that you cut down from?
+
+PATIENT U229
+A couple of packs.  
+
+DOCTOR U229
+@@@.  That’s progress.  @@@ in your favor.  At Christmas time cut down to a pack a day.
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+It’s not that much.
+
+PATIENT U229
+No.  That’s, I may cut down a little bit more.  
+
+DOCTOR U229
+You can do it.  @@@, hey I’ll take more.  You are spending a lot of money on those things.
+
+PATIENT U229
+Yes.
+
+DOCTOR U229
+How much you spend, how much is a pack for you?
+
+PATIENT U229
+Say five fifty.
+
+DOCTOR U229
+Five fifty?  
+
+PATIENT U229
+Sometimes 5 dollars a pack.
+
+DOCTOR U229
+Let’s say 5.50 and you go through about a pack and a half every day, three times, @@@, let’s say about ten and a half packs a week right?
+
+PATIENT U229
+Hm hmm.  @@@. Get them for five dollars a pack of cigarettes @@@ you know they seven dollars.  So I can get them for about five dollars a pack.
+
+DOCTOR U229
+You know how much you are spending on cigarettes a year?
+
+PATIENT U229
+What?  How much?
+
+DOCTOR U229
+@@@.
+
+PATIENT U229
+Whew!  Three thousand?
+
+DOCTOR U229
+That’s too much.  Three thousand dollars.  
+
+PATIENT U229
+That’s too much money.  That is another car.
+
+DOCTOR U229
+That’s a nice vacation that is what that is.
+
+PATIENT U229
+Yup.  
+
+DOCTOR U229
+That’s a good cruise on the Caribbean.  
+
+PATIENT U229
+Yup.
+
+DOCTOR U229
+And some.  That’s VIP access, that’s @@@, thousand dollars.  How much do you make a year?
+
+PATIENT U229
+I’d say about what, 50 something.
+
+DOCTOR U229
+You got about a little less than 10% of your salary going towards cigarettes.
+
+PATIENT U229
+Cigarettes.
+
+DOCTOR U229
+I know.  Time to cut that shit out man. 
+
+PATIENT U229
+Yup, hm hmm.  
+
+DOCTOR U229
+Alright at least we’re on the same page.
+
+PATIENT U229
+@@@.  
+
+DOCTOR U229
+Alright buddy.  So, you know it’s pretty uncomfortable okay.  I need you to drop your pants.  I am going to put @@@.  
+
+PATIENT U229
+@@@.  
+
+DOCTOR U229
+I know, I know buddy.  I know.  I just got to make sure it’s nothing you know, it’s smooth.  You don’t have any nodules.  Hey, @@@ okay?
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+Believe me I don’t like doing that either.  Like I said, luckily it is a guy doing it, it’s not a female. A little bit more. Have you ever had this done?
+
+PATIENT U229
+Nope.
+
+DOCTOR U229
+No?  Even I have had it done.  I had to go in the hospital one time because I was having problems urinating and they had to do it for me. I tell you, it’s not pleasant.  It’s got to be done.
+
+PATIENT U229
+@@@.
+
+DOCTOR U229
+Yeah, drop your pants.  Okay, and, feel a little a little bit of pressure.  Now you are going to feel a little bit of pressure, @@@.  Okay.  @@@.  A little pressure.  Okay.  From side to side.  That hurt at all?
+
+PATIENT U229
+Uh uh.
+
+DOCTOR U229
+Just uncomfortable right?
+
+PATIENT U229
+Yeah.  
+
+DOCTOR U229
+Okay.  Okay.  Here you go buddy.  That’s it.  It’s over.  Here are some towels you can wipe yourself down.  Completely smooth and @@@.  No nodules.  @@@ nothing to suggest cancer.
+
+PATIENT U229
+@@@.
+
+DOCTOR U229
+@@@ trial of Flomax.  
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+@@@.  Alright and uh, I might check your cholesterol today too.  Alright.   I will be right back buddy.
+
+PATIENT U229
+Okay.
+
+DOCTOR OUT:  49:35  DOCTOR IN:  64:40
+
+DOCTOR U229
+Alright, guy. I talked it over with the boss.  We are going to make a few changes to your meds today.  
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+I was telling you before that the Amlodipine can make the swelling in your legs worse.  So we’re going to cut that out.  No more Amolodipine.  We are going to start you on a water pill and a pill for your prostate.  
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+Okay so we are, I know we’re taking away one and we are adding two but I think we are going to really help the swelling in your legs.  
+
+PATIENT U229
+Oh okay.
+
+DOCTOR U229
+I think it’s really going to help it.  @@@.  And then we are also going to get you stockings to push the fluid back in.
+
+PATIENT U229
+What kind of stockings are these?
+
+DOCTOR U229
+They are called compression stockings.  Basically they are really tight fitting socks and the come up to right about here.  And they are tight fitting and they squeeze all of the fluid back into the veins.  Because what happens in your veins, veins normally take up blood from down here and they bring it back to the heart.  And veins have little valves in them so the blood moves up a little bit, the valve closes and it doesn’t come back down.  Your valves kinda stay open like that so the blood constantly comes back down. 
+
+PATIENT U229
+Alright.
+
+DOCTOR U229
+The pressure of the arteries taking the blood to the feet, and the veins trying to back up, that pressure is goes up down here and the extra fluid is pushed down into the leg.
+
+PATIENT U229
+Oh.
+
+DOCTOR U229
+Yeah.  If you keep putting pressure on this way, your heart is putting pressure this way, but the veins aren’t doing their job because they are faulty and so the pressure goes up and fluid leaks out.
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+Okay?  The trick is, let’s try to squeeze that fluid back into the veins, basically what we are creating is an artificial valve in your legs, with the compression stockings.  Sound good?
+
+PATIENT U229
+Yes, sounds good.
+
+DOCTOR U229
+Alright.  Alright, so let me um, we are doing to discontinue the amlodipine today.  Okay.  And let me get you that water pill too.  Alright and you can go to uh, actually go @@@.  
+
+PATIENT U229
+@@@.
+
+DOCTOR U229
+You got @@@.
+
+PATIENT U229
+@@@.
+
+DOCTOR U229
+@@@ water pill, too. @@@ checklist @@@ forget what needs to be done @@@. Here we are, one... two...   Prosthetics Department, stockings, three, pharmacy to pick up meds.  I added terazosin, and chlorthalidone.  Stop amlodipine.  Stop at the nurses’ station and get your vaccination.  Then go up to Prosthetics real quick and pick up your stockings so you have them before the weekend.  And then come down to the Pharmacy.
+
+PATIENT U229
+Oh okay.  Appreciate it doc.  Nice meeting you. 
+
+DOCTOR U229
+Nice meeting you man.
+
+PATIENT U229
+@@@.
+
+DOCTOR U229
+Yeah, we got a lot of stuff done today.  
+
+PATIENT U229
+Okay.  Did you get that @@@?  You know, for that test, you know you said I had to go to the I forget the name of that.  You know for that exam or something.  You know for, I forgot what you did.  
+
+DOCTOR U229
+The prostate?
+
+PATIENT U229
+Yeah, yeah, something you know, where they can take some kind of exam over there.
+
+DOCTOR U229
+Oh for the genetic testing.  
+
+PATIENT U229
+Yeah.
+
+DOCTOR U229
+Let me look into it.  Okay.  I don’t know exactly how to do it, I asked about it @@@.
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+I will write myself a note so I remember.
+
+PATIENT U229
+Okay.
+
+DOCTOR U229
+Alright.  
+
+PATIENT U229
+Hm hmm.  That’s good.  Okay stop at the nurses’ station.
+
+DOCTOR U229
+Yeah, get it all done before five because you know this place shuts down at five.  
+
+PATIENT U229
+Oh okay.  
+
+DOCTOR U229
+@@@.
+
+PATIENT U229
+Okay thanks a lot doctor.
+
+DOCTOR U229
+And we will see each other somewhere in about three months just to see how you are doing okay.
+
+PATIENT U229
+Okay.  I get there on time.  
+
+DOCTOR U229
+Yeah.
+
+PATIENT U229
+Okay, thanks a lot doc.  
+
+DOCTOR U229
+@@@.
+
+PATIENT U229
+Okay, take care.
+
+DOCTOR U229
+Alright buddy.  
+
+PATIENT U229
+Alright.  
+
+PATIENT LEAVES:  72:10.
+
+
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800515/JOB#  1300289
+TRANSACTION # 578-10-2-316-0103

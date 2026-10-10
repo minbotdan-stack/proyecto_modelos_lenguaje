@@ -1,0 +1,1094 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@  
+
+DOCTOR X808
+Hello sir.
+
+PATIENT X808
+Hi.
+ 
+DOCTOR X808
+Come on back.
+
+PATIENT X808
+Okay.
+
+SECOND PERSON X808
+It's nice to get to meet you.
+
+DOCTOR X808
+Oh sure.  @@@.  Have a seat.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+I'm DOCTOR.
+
+PATIENT X808
+It's nice to meet you.
+
+DOCTOR X808
+Nice to meet you.  Um DOCTOR asked me to cover for him today.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+So he'll be back next week.
+
+PATIENT X808
+Alright.
+
+DOCTOR X808
+Okay.  Let me just open up your chart.  @@@. Is this how it normally is @@@
+
+PATIENT X808
+Yeah.
+
+DOCTOR X808
+Really.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Oh, so I do @@@ morning clinic and the wait is a long time cause I get backed up but.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Some how out there it gets a little backed-up.  I don't know, sometimes it takes an hour @@@.  It's just that we're really busy out thert now.
+
+PATIENT X808
+Uh-huh.  It took a while to check in.
+
+DOCTOR X808
+Really how long?  Like a half an hour?
+
+PATIENT X808
+Yeah pretty close.
+
+DOCTOR X808
+Okay.  You were last seen in August?
+
+PATIENT X808
+I think so.
+
+DOCTOR X808
+Okay.  Okay.  @@@.  Okay.  So your blood pressure looks good.  @@@ twice a day right?
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Lisinopril 40 and 20 mg of the rosuvastatin?
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Allopurinol you take every day?
+
+PATIENT X808
+Yes.
+
+DOCTOR X808
+Yes @@@ there it is.  (Doctor answers a page)  Creatinine. Did anyone ever see you about your kidneys like why like?
+
+PATIENT X808
+Yeah as a matter of fact they took an ultrasound on the 4th and DOCTOR said she's gonna look at it before I leave.
+
+DOCTOR X808
+An ultrasound.  Is that your regular doctor?  
+
+PATIENT X808s 
+Yes.
+
+DOCTOR X808
+DOCTOR?
+
+PATIENT X808
+DOCTOR.
+
+DOCTOR X808
+Oh.
+
+PATIENT X808
+Well I ended up with DOCTOR at the end of the session, I’ve been seeing her more than I've been seeing anybody.
+
+DOCTOR X808
+Oh okay so normal ultrasound of the kidneys huh.  Okay.  Um okay, how's your a.m. blood sugars?
+
+PATIENT X808
+Uh I hadn't did them in the past few days but they are always under 125, that's the highest I ever seen them in the @@@.
+
+DOCTOR X808
+Oh really.
+
+PATIENT X808
+Hmm.  They usually.
+
+DOCTOR X808
+Do you ever go below 60?
+
+PATIENT X808
+No, no.  The closest I got was like 65 one time.
+
+DOCTOR X808
+Okay.
+
+PATIENT X808
+And that's when like I didn't eat that night.
+
+DOCTOR X808
+Excellent.  Um how is your gout?
+
+PATIENT X808
+It flares up from time to time.
+
+DOCTOR X808
+When was the last flare?
+
+PATIENT X808
+A couple of weeks ago.
+
+DOCTOR X808
+Oh really?
+
+PATIENT X808
+Hmm.
+
+DOCTOR X808
+Did you take the allopurinol for it?
+
+PATIENT X808
+I ran out of that.
+
+DOCTOR X808
+Did you get the colchicine?
+
+PATIENT X808
+Yeah I had the colchicine yeah when it flares I take the colchicine.
+
+DOCTOR X808
+And you managed the flare completely without using the allopurinol right?
+
+PATIENT X808
+Yes uh-huh.
+
+DOCTOR X808
+Where do normally get the gout?
+
+PATIENT X808
+Uh right big toe.  See in the left.
+
+DOCTOR X808
+Do you have any swelling there?  It's not anywhere in your foot?
+
+PATIENT X808
+Usually it's in the left big toe.  Sometimes it's you know, it moves over to the right foot, seems like in the middle of the foot seems like but mostly it's in the left big toe.
+
+DOCTOR X808
+Okay.  I have a question, your diabetes has not been controlled for a while um, we look at this number called the hemoglobin A1c, we want it here, it was when it was controlled and here it's relatively controlled in ‘05.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+But the last one was in the summer was 8.3.  We want it ideally to be less than 7.
+
+PATIENT X808
+Right.
+
+DOCTOR X808
+Are you checking your blood sugar only once a day or two hours after you eat or before you eat?
+
+PATIENT X808
+Uh-huh you know I just recently started doing the two hours after cause I was doing it like right after I eat or wait an hour after I eat.
+
+DOCTOR X808
+Okay so if you're gonna check it after you've eaten, do it two hours after you eat.
+
+PATIENT X808
+Yeah.
+
+DOCTOR X808
+Otherwise check it before you eat and see how its running during the middle of the day.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Um and likely you're only taking metformin right for diabetes?
+
+PATIENT X808
+And glipizide.
+
+DOCTOR X808
+Oh you are taking glipizide.
+
+PATIENT X808
+Yes, I need a refill on that twice a day.
+
+DOCTOR X808
+So how much glipizide?
+
+PATIENT X808
+Uh a tablet and a half.
+
+DOCTOR X808
+10, 20 mg, 50 mg?
+
+PATIENT X808
+Uh can't remember which one it is.  I know I take a pill and a half a day.
+
+DOCTOR X808
+Oh okay, so you're taking 50 mg.  When did you stop taking that?
+
+PATIENT X808
+I hadn't stopped taking it unless I run out of it.
+
+DOCTOR X808
+Oh really.
+
+PATIENT X808
+Yeah.  When I was here last week they told me to stop taking the colchicine.
+
+DOCTOR X808
+Oh you were taking it pretty consistently?
+
+PATIENT X808
+Yeah.
+
+DOCTOR X808
+You were taking the colchicine and allopurinol?
+
+PATIENT X808
+At one point I was.
+
+DOCTOR X808
+Okay.
+
+PATIENT X808
+Hmm.
+
+DOCTOR X808
+@@@ So that was stopped.
+
+PATIENT X808
+Hmm.
+
+DOCTOR X808
+Colchicine and allopurinol.  Per month or per year how many episodes do you get while on the allopurinol?
+
+PATIENT X808
+Oh man, I'd say about three.
+
+DOCTOR X808
+So that's three episodes a year?
+
+PATIENT X808
+Uh-huh about that.  Sometimes it seems like a little more but.
+
+DOCTOR X808
+@@@.  These are the ones you take.  @@@ When was the last time you saw an eye doctor?
+
+PATIENT X808
+I think it was in October.  It was either late October or early November of ‘10.
+
+DOCTOR X808
+Of ‘10 okay.
+
+PATIENT X808
+Of 10.
+
+DOCTOR X808
+Oh I see that.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Okay.  Optometry you saw in September, um.  Did you see the foot doctors recently?
+
+PATIENT X808
+No but I need to.  I was gonna ask to see the orthopedic for my knee you know, the podiatrist about my right heel.
+
+DOCTOR X808
+Okay so the last time you saw Podiatry was a long time ago.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Looks like ‘08.  Do you take hydrochlorothiazide too?
+
+PATIENT X808
+No they told me to stop taking that.
+
+DOCTOR X808
+Okay.
+
+PATIENT X808
+That was a couple of weeks ago.
+
+DOCTOR X808
+And you're checking your blood pressure at home?
+
+PATIENT X808
+Yes.
+
+DOCTOR X808
+And it's running pretty good?
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+@@@ kidney doctor. So they're probably just gonna watch you.  The ultrasound looks okay.  Um we're gonna check, so we can check AFP, UA, PTT, @@@.  Are you taking the high dose vitamin B, the ergocalciferol?  
+
+PATIENT X808
+Right.  But I just started that.
+
+DOCTOR X808
+You just started that?
+
+PATIENT X808
+Yeah I think I've taken the second one.  Well I've taken it on Wednesday and this will be like the third one tomorrow, it's the third time I took. I just got it.
+
+DOCTOR X808
+DOCTOR put you on that?
+
+PATIENT X808
+Uh no it was, whoever I was seeing at the Gold Clinic.
+
+DOCTOR X808
+Oh you were in the Gold Clinic?
+
+PATIENT X808
+This was last week when I was there.
+
+DOCTOR X808
+Huh.
+
+PATIENT X808
+Over in the Gold Clinic.  That's why I hadn't been over here in a while.
+
+DOCTOR X808
+Oh okay the last appointment was @@@.  
+
+PATIENT X808
+Now last week they was telling me something about magnesium.
+
+DOCTOR X808
+Yeah your magnesium is low.  Are you taking your potassium?
+
+PATIENT X808
+I haven't had it, I haven't got anything.
+
+DOCTOR X808
+Okay well we'll refill it okay.  Um they did order it for you.
+
+PATIENT X808
+Hmm I haven't received it yet.
+
+DOCTOR X808
+Oh really.  
+
+PATIENT X808
+Now certain food, does all food have magnesium or certain foods have magnesium?
+
+DOCTOR X808
+Well, I know what foods have potassium; I don't know what food has magnesium.
+
+PATIENT X808
+Magnesium.  Cause the way it was explained to me it was something like uh I'm not getting enough magnesium through my food or something and so I need to know what foods have magnesium.
+
+DOCTOR X808
+Um you're chronically low, just take supplements.
+
+PATIENT X808
+Oh okay.
+
+DOCTOR X808
+Okay.  Um so that's done and then okay so today we need labs okay.  
+
+PATIENT X808
+Again, I was here labs last week.
+
+DOCTOR X808
+@@@, so we don't need some of the labs, this you got so that's good.  Um but you do need @@@.  You need refills of all your meds?
+
+PATIENT X808
+I need refills on the glipizide.
+
+DOCTOR X808
+Okay and metformin?
+
+PATIENT X808
+Metformin I think I'm pretty good on.
+
+DOCTOR X808
+@@@?
+
+PATIENT X808
+Uh uh.
+
+DOCTOR X808
+Oh any test strips?
+
+PATIENT X808
+Uh yes.
+
+DOCTOR X808
+Okay.  Rosuvastatin?
+
+PATIENT X808
+I think I just got that.
+
+DOCTOR X808
+Okay.
+
+PATIENT X808
+Recently yeah.
+
+DOCTOR X808
+Allopurinol?
+
+PATIENT X808
+Uh.
+
+DOCTOR X808
+@@@.  
+
+PATIENT X808
+Yeah, yeah.
+
+DOCTOR X808
+So you need that.
+
+PATIENT X808
+Yeah.
+
+DOCTOR X808
+I would try to stay away from colchicine.
+
+PATIENT X808
+Hmm.
+
+DOCTOR X808
+If you get gout maybe they can give you some prednisone for kidney function.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+But um I'll leave that to DOCTOR okay.
+
+PATIENT X808
+Uh-huh.  So you're saying that the uh colchicine that's uh.
+
+DOCTOR X808
+It can hurt the kidneys.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Okay.  Um that’s why you’re not on chronic colchicine therapy.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+But um if you get an attack um well, you have diabetes @@@.
+
+PATIENT X808
+That's a steroid isn't it?
+
+DOCTOR X808
+Uh-huh.  Yeah @@@.  Let me talk to DOCTOR about it okay.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Um lisinopril right?
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Do you want them mailed?
+
+PATIENT X808
+Yeah by mail.
+
+DOCTOR X808
+Not at the window?
+
+PATIENT X808
+No. It takes too long.
+
+DOCTOR X808
+Oh does it?
+
+PATIENT X808
+Oh yeah.
+
+DOCTOR X808
+Okay.
+
+PATIENT X808
+When you come back tomorrow I'll still be there waiting to get it.
+
+DOCTOR X808
+Oh, now. (Laughs.) Oh okay.
+
+PATIENT X808
+And the, does it say anything about the magnesium?
+
+DOCTOR X808
+Yes.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Okay @@@ the gout.  I think what you need to do is check your sugars in the middle of the day.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Um and see, do you think your sugars on the whole have been improving or just have been staying the same?
+
+PATIENT X808
+I'd say half and half.  I think they're improving but I mean I haven't, the highest I ever seen was like 180.
+
+DOCTOR X808
+Okay.  So @@@ glipizide um you know you should check your sugars in the middle of the day and come back for an appointment cause.
+
+PATIENT X808
+Hmm.
+
+DOCTOR X808
+I think @@@ your diabetes has not been controlled but it improved slightly since June but every three months that's for the control for every three months.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+So you probably do have to go up on the glipizide.  When did you start the glipizide?
+
+PATIENT X808
+Oh it's been a while, at least a couple years I think.
+
+DOCTOR X808
+Really.
+
+PATIENT X808
+Yeah.
+
+DOCTOR X808
+Why didn't they increase the @@@?  Maybe they wanted to see if it got any better.  Um how would you feel about injecting yourself with insulin?
+
+PATIENT X808
+No.
+
+DOCTOR X808
+You won't?
+
+PATIENT X808
+No.
+
+DOCTOR X808
+Not under any circumstances?
+
+PATIENT X808
+No.
+
+DOCTOR X808
+No.  Um and is there a reason why?
+
+PATIENT X808
+Well one I don't want to and the other part is I drive truck if I'm shooting insulin I can't drive.  I'm a truck driver.
+
+DOCTOR X808
+Hmm.  What if we increase the glipizide as much as we can and really there’s no – once someone is on two drugs for oral?
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+For diabetes and if they are still not controlled, then we suggest insulin. I can always increase this and see how you do.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Um but the control of the diabetes is really, really important.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+So you know @@@ your legs and heart attacks and strokes, and all those complications.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+That's why we really want your diabetes controlled.  @@@ and I'll talk to DOCTOR and see okay.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Um any changes in your vision?  Changes in the sensation in your leg?  
+
+PATIENT X808
+No.
+
+DOCTOR X808
+Chest pain, shortness of breath?
+
+PATIENT X808
+No.
+
+DOCTOR X808
+No.  Increased fluid, retention?
+
+PATIENT X808
+Just fat.  I’m just kidding.
+
+DOCTOR X808
+@@@.  Okay.  Can you lean forward for me please sir?  Deep breath out again out.  Okay, do you smoke?
+
+PATIENT X808
+No.
+
+DOCTOR X808
+Have you ever?
+
+PATIENT X808
+Never.
+
+DOCTOR X808
+Very good.  Let me see if you have any swelling.  No swelling at all.  Open your mouth for me.  Alright @@@.  Good.  I'll be right back.
+
+PATIENT X808
+Okay.
+
+(DOCTOR OUT:  26:59  DOCTOR IN:  47:17)
+
+DOCTOR X808
+Okay.  So here's the thing.  The best thing to do for these attacks while you’re still on allopurinol.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Okay.  Um we're gonna restart you back on the colchicine cause colchicine can really prevent attacks.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+But that's usually good up to like six months and I'm also gonna send you to Renal and Rheumatology.  Um and Rheumatology because of this recurrent gout to see if there's any other medications they can put you on.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Okay.  And to see you have to continue the colchicine um so just 0.6 mg per day.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Okay.  If you so wish to hold off on the colchicine until you see Rheumatology that's up to you.
+
+PATIENT X808
+How long will it take to see Rheumatology?
+
+DOCTOR X808
+Huh?
+
+PATIENT X808
+How long will it take for that appointment?
+
+DOCTOR X808
+Um to be really honest I don't know.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+I don't think it'll be, like, incredibly long I think I mean its Rheumatology, I think they should be able to see you hopefully soon.  Um what I'll do is on this follow-up sheet, I'll put the consult in and I'll say @@@ in a month.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Okay.  So you can see them and see how that goes.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+And then I also want you to see the kidney doctors.
+
+PATIENT X808
+Hmm.
+
+DOCTOR X808
+To make sure everything is stable and to investigate why you're having, what is causing this insufficiency of your kidneys.  Oh shoot.  
+
+(DOCTOR OUT:  48:52  DOCTOR IN:  49:17)
+
+DOCTOR X808
+Okay.  Um so there's various things that can cause kidney inefficiency, one is uncontrolled diabetes.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+One is high blood pressure gets out of control and your blood pressure looks controlled.  One is recurrent gout.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Um but I want you to see the kidney doctors so they can watch you and prevent any further progression.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Okay um and what I'm gonna do for your diabetes is increase the glipizide.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+From 1 1/2 to 2 tablets.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Okay.  So it’s 20 mgs um after that, I'll double check but after that um if when DOCTOR rechecks the hemoglobin A1c we may have to consider insulin but we'll see what happens okay.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+I know it's tough but maybe you can stop on the side in the truck and its.  We just want to prevent any further complications from happening.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+And @@@.  Oh my goodness alright, okay.  Okay so I'll look and see, okay let's do that.  Oh so I’m going to increase 20 units, let’s do that. You only use the one and a 1/2 tablets once daily.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Right?
+
+PATIENT X808
+Well it ends up being yeah, but I'll take.
+
+DOCTOR X808
+All day long.
+
+PATIENT X808
+All day long.
+
+DOCTOR X808
+@@@.
+
+PATIENT X808
+One and a half all day long.
+
+DOCTOR X808
+Okay.  We'll do that, check your sugars, check your labs, I'll do that, we'll repeat a urine sample to check @@@ and we'll check okay and we're gonna do a consult @@@.  Do you have like like hardening on your toe or anything or any like crystals in your toe?  I @@@ figure it out now.  And then we'll refer you to the Renal Clinic, Rheumatology, I'll renew the colchicine.  Do you want your um medicines mailed?
+
+PATIENT X808
+Yes.
+
+DOCTOR X808
+@@@ good.  Okay mail it uh-huh.  Then @@@.  Okay so Nephrology will contact you about the appointment.
+
+PATIENT X808
+Hmm.  So if I want to make an appointment for the Ortho and podiatrist how do I do that?  Through you or do I call?
+
+DOCTOR X808
+So I'll put a, I think you can call but I'll make sure to put a consult in.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+So they see that online okay.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+So we'll get labs done today @@@.  You're not having ulcers @@@ with your feet right?
+
+PATIENT X808
+No.
+
+DOCTOR X808
+Okay.  Just give this to the front clerk.
+
+PATIENT X808
+Is the orthopedics on there too for my knee?
+
+DOCTOR X808
+What's going on with your knee?
+
+PATIENT X808
+I'm having problems with my right knee.  I've been saying something about for quite a while.  Right now it's like I have to, in order to sleep I have to sleep with a pillow between my knees.
+
+DOCTOR X808
+Uh-huh.
+
+PATIENT X808
+It's like right in here and here.
+
+DOCTOR X808
+Uh-huh.
+
+PATIENT X808
+It's just pain, something else right in there.
+
+DOCTOR X808
+And how long has it been going on?
+
+PATIENT X808
+It's been going on for a while.
+
+DOCTOR X808
+For months?
+
+PATIENT X808
+Yes.
+
+DOCTOR X808
+What did DOCTOR say about it?
+
+PATIENT X808
+I haven't seen him.
+
+DOCTOR X808
+You haven’t seen him for the pain.
+
+PATIENT X808
+Uh uh.
+
+DOCTOR X808
+Well it looks like the x-ray @@@ there wasn't anything extensive on the x-ray.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+It's bothering you with the pain?
+
+PATIENT X808
+Yeah the right knee.
+
+DOCTOR X808
+Do you want physical therapy?
+
+PATIENT X808
+Uh.
+
+DOCTOR X808
+Because the orthopedist will see you if there's some surgery or something that needs to be done but the right knee on the x-ray is just @@@ nothing really there.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+So it could be just mild like, you know it could just be joint pain.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Um you use your right knee to accelerate?  
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Yeah um that could be a cause of it too.
+
+PATIENT X808
+Hmm.
+
+DOCTOR X808
+Um I would stay away from ibuprofen or something.
+
+PATIENT X808
+Hmm.
+
+DOCTOR X808
+If you want Tylenol, take Tylenol for pain.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Do you want some prescribed for you?
+
+PATIENT X808
+No I can get that over-the-counter.
+
+DOCTOR X808
+So you can take Tylenol for pain.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+And see if that helps.  Um yeah.  See if that helps um I'm going to put a recall in like for a few months.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Okay if you're still having the pain and it's getting worse.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Then definitely we can figure out where to go from there okay.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+That's usually the first step.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Okay.
+
+PATIENT X808
+Alright.
+
+DOCTOR X808
+Alright.
+
+PATIENT X808
+Thank you.
+
+DOCTOR X808
+So go get the labs done.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+And then I'm gonna schedule the nephrology, they will contact you.  They will contact but please schedule Rheumatology, @@@ and Podiatry okay.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Pick up meds and get your labs done.  Oh no, mail.
+
+PATIENT X808
+Yeah @@@
+
+DOCTOR X808
+They'll do the labs here and then go down.
+
+PATIENT X808
+I'll get the labs here.
+
+DOCTOR X808
+So the colchicine.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Colchicine is the actual medicine for your gout.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+You can take 0.6 mg one per day.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Along with the allopurinol.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+And if you have a flare, as long as you've been continuing to take your allopurinol don't stop.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Just continue taking both.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+If you want to wait until your Rheumatology appointment to talk to them about starting colchicine because of the renal issues.
+
+PATIENT X808
+Uh-huh.
+
+DOCTOR X808
+Then you can do that as well.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Okay.
+
+PATIENT X808
+Alright.
+
+DOCTOR X808
+Have a good day.
+
+PATIENT X808
+Okay.
+
+DOCTOR X808
+Bye bye.
+
+PATIENT X808
+Bye.
+
+PATIENT LEAVES:  60:44.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1286106
+TRANSACTION # 578-10-2-316-0103

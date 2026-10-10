@@ -1,0 +1,1917 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@@  
+
+DOCTOR F233
+How ya doing?
+
+PATIENT F233
+Good.  I'm gonna give you this.
+
+DOCTOR F233
+@@@ what is this?
+
+PATIENT F233
+I don't know, someone gave it to me and said that I was to give it to you.
+
+DOCTOR F233
+Give it to me?
+
+PATIENT F233
+That's what she said when they called me @@@.
+
+DOCTOR F233
+Okay.  Okay.  How are you doing today?
+
+PATIENT F233
+Doing alright.
+
+DOCTOR F233
+Alright.  I just want to go through the past recods here in the computer.
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+Uh I need some information about what's going on here.
+
+PATIENT F233
+Sure, yeah, uh-huh.
+
+DOCTOR F233
+You have been seen for psychiatric diagnosis is that correct?
+
+PATIENT F233
+I do see them yes.
+
+DOCTOR F233
+Is there any other doctor whom you see @@@?
+
+PATIENT F233
+Uh I see DOCTOR, I switched from her to you because I wanted to see uh on Friday mornings and I can't, I can’t see no doctor @@@ so I requested a transfer.
+
+DOCTOR F233
+So, I'm pulling up her note.
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+Let's see.  @@@ so that I can avoid repeating the same questions.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Uh in the past it says you had a rotator cuff repair right?
+
+PATIENT F233
+Yes.
+
+DOCTOR F233
+Okay how are you doing with that?
+
+PATIENT F233
+Not bad.  Not bad.
+
+DOCTOR F233
+Do you still have pain?
+
+PATIENT F233
+Once in a while I get pain, depending on what I'm doing.
+
+DOCTOR F233
+Okay.  What makes it worse?
+
+PATIENT F233
+Ah mostly exercising or picking up objects.
+
+DOCTOR F233
+But if you are not exercising or not picking up objects then it doesn't hurt at all?
+
+
+PATIENT F233
+Not otherwise um it doesn't hurt, well not enough to be concerned about it.
+
+DOCTOR F233
+Give me a number.
+
+PATIENT F233
+When I'm not doing anything ah probably a 1 or 2.
+
+DOCTOR F233
+Probably a 1 or 2.  Uh do you take any pain medications for that?
+
+PATIENT F233
+Nah.
+
+DOCTOR F233
+No.
+
+PATIENT F233
+No.
+
+DOCTOR F233
+Um, even when you are working and doing stuff, then you don't take any pain medication?
+
+PATIENT F233
+If I'm doing something that, that give me some pain for it.
+
+DOCTOR F233
+But you don't take any medication?
+
+PATIENT F233
+No I just stop utilizing that muscle.
+
+DOCTOR F233
+Oh.  And do you use the CPAP?
+
+PATIENT F233
+Yes.
+
+DOCTOR F233
+On a regular basis?
+
+PATIENT F233
+Yes.
+
+DOCTOR F233
+Uh how is your back pain?
+
+PATIENT F233
+About a 6 or 7.
+
+DOCTOR F233
+A 6 or 7.  Every day?
+
+PATIENT F233
+Uh just about, about 5-6 days a week.
+
+DOCTOR F233
+5 to 6 days a week?  What makes this worse, the low back pain?
+
+PATIENT F233
+What makes it worse?
+
+DOCTOR F233
+Yes.
+
+PATIENT F233
+Lifting objects, bending over a lot.
+
+DOCTOR F233
+Do you take any medication for that?
+
+PATIENT F233
+I just take some ibuprofen for my back.
+
+DOCTOR F233
+How often do you take ibuprofen?
+
+PATIENT F233
+I know I don't take it that often, I just, I just take it when it's just severe.
+
+DOCTOR F233
+Like once a week or once a month?
+
+PATIENT F233
+Yeah, maybe about twice a week.
+
+DOCTOR F233
+Twice a week okay.  Do you feel any weakness or anything @@@.
+
+PATIENT F233
+Um to be honest I went bowling last Tuesday.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+And yeah my legs got numb.
+
+DOCTOR F233
+@@@.
+
+PATIENT F233
+Both of them actually.
+
+DOCTOR F233
+@@@
+
+PATIENT F233
+I don't know if was because of lack of exercise or what, I don't know.
+
+DOCTOR F233
+Was this for the first time?
+
+PATIENT F233
+Well no because I used to bowl while I was in the military.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+Um but it'd been the first time probably in about a year.
+
+DOCTOR F233
+@@@ about a year?
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+And uh just where was it numb?
+
+PATIENT F233
+Mostly on my thighs, mostly on my thighs yeah.
+
+DOCTOR F233
+Mostly on your thigh.
+
+PATIENT F233
+Like when you try to sit down, my legs couldn't hold my weight, I just let myself go.
+
+DOCTOR F233
+Okay, yeah.  But on a general day, on a regular day, you don't see any weakness or anything?
+
+PATIENT F233
+On my legs?
+
+DOCTOR F233
+Yeah.
+
+PATIENT F233
+Na unless I walk a lot or go upstairs a lot, I feel tired.
+
+DOCTOR F233
+Okay.  Did you get uh MRI @@@?
+
+PATIENT F233
+Because I did the MRI while I was in the Army yes.
+
+DOCTOR F233
+How many years ago?
+
+PATIENT F233
+I want to say 07.
+
+DOCTOR F233
+07 and uh do you know what they found on the MRI @@@?
+
+PATIENT F233
+Um I think during the MRI they told me I had a strained back but there wasn't nothing.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+They didn't find nothing of major concern @@@.
+
+DOCTOR F233
+Okay.  Do you have.  Are you allergic to any medications?
+
+PATIENT F233
+No.
+
+DOCTOR F233
+No okay.  Uh and uh and any other @@@ that you had?  Did you have @@@ at this time that you want me to address too?  No.
+
+PATIENT F233
+I don't think so no.
+
+DOCTOR F233
+Do you live by yourself or?
+
+PATIENT F233
+No my wife and two kids.
+
+DOCTOR F233
+Your wife and two kids okay.  Um so what kind of work do you do now?
+
+PATIENT F233
+I'm going to school.
+
+DOCTOR F233
+You're going to school?  And what are you doing in school?
+
+PATIENT F233
+Uh I'm gonna be a mechanic, work on cars.  Auto technician.
+
+DOCTOR F233
+Auto technician okay.  Is it a critical; uh is it a job that would require physical exertion?
+
+PATIENT F233
+Going to school, no in school it doesn't because I'm just learning.
+
+DOCTOR F233
+You're just learning.
+
+PATIENT F233
+Yeah so I'm, mostly classroom environment.
+
+DOCTOR F233
+Okay.  Uh and but you are not doing any kind of job at this time?
+
+PATIENT F233
+That's correct.
+
+DOCTOR F233
+Okay.  Um.  Do you smoke?
+
+PATIENT F233
+No.
+
+DOCTOR F233
+Uh how about alcohol?
+
+PATIENT F233
+Um I'm slowing down on alcohol.  Slowed down quite a bit.
+
+DOCTOR F233
+Okay so how many, what do you drink every day?
+
+PATIENT F233
+Um I'm drinking now probably um, I drink alcohol, no beer, probably about maybe two drinks a week or maybe one week one um, one day in the week I'm probably or even two days in the week.  No more than two days a week I'm drinking.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+I think I slowed down a lot.
+
+DOCTOR F233
+Okay.  That's appreciated okay.  Any any street kinds of drugs?
+
+PATIENT F233
+No.
+
+DOCTOR F233
+No.  Okay.  Okay.  Uh, let check here.  I see that she said there have been some problems with your CPAP machine.  Has it been fine now?
+
+PATIENT F233
+Yeah they fixed it up, yeah they gave me the humidifier, it was broken, they fixed the humidifier.
+
+DOCTOR F233
+Okay.  
+
+PATIENT F233
+DOCTOR right.
+
+DOCTOR F233
+Yeah, yeah.  How is your energy doing?  Afternoon, is it doing fine?
+
+PATIENT F233
+Good yeah, yeah.
+
+DOCTOR F233
+You don't take any medication now?
+
+PATIENT F233
+I'm not taking medicines @@@.
+
+DOCTOR F233
+@@@.  Uh and do you take any medication for high blood pressure?
+
+PATIENT F233
+No they never gave me now I was going a nutritionist.
+
+DOCTOR F233
+To look for the diet @@@.
+
+PATIENT F233
+Right, right.
+
+DOCTOR F233
+Are you doing that?
+
+PATIENT F233
+I'm doing that, I'm a little, my blood pressure went down tremendously.
+
+DOCTOR F233
+@@@.
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+Okay uh yeah when you came back it was like 140/93, today it is pretty well controlled but.
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+It's still rather on the high side.
+
+PATIENT F233
+Okay it is?
+
+DOCTOR F233
+Yeah I just need to look for a new, let us try the diet regimen for now.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+@@@ and the next time when you come to see me, maybe at that time I will get a better position @@@.
+
+PATIENT F233
+Sure.
+
+DOCTOR F233
+And I'll decide on.  Do you have a blood pressure machine at home?
+
+PATIENT F233
+Not a blood pressure machine no I don't.
+
+DOCTOR F233
+No okay uh.  I would probably recommend you to get one.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+So that you know you can have the readings when you're at home.
+
+PATIENT F233
+Sure.
+
+DOCTOR F233
+Uh most of the times the readings at the hospitals are not the correct ones.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Because you walk all the way down and then you know you are already on the stressful situation.
+
+PATIENT F233
+Sure.
+
+DOCTOR F233
+And then usually that bumps it up.
+
+PATIENT F233
+Okay, right.
+
+DOCTOR F233
+So the home readings are the most helpful.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Uh and then uh.
+
+
+PATIENT F233
+Are you gonna recommend that I get one?  Are you gonna give me, how would that work?
+
+DOCTOR F233
+I think we can get that.
+
+PATIENT F233
+Okay, yeah, I'd appreciate it.
+
+DOCTOR F233
+@@@. Let me talk to the @@@.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+@@@
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Uh.  Did you get a flu shot this year?
+
+PATIENT F233
+Yeah I already got my flu shot.
+
+DOCTOR F233
+And how about the tetanus vaccine?
+
+PATIENT F233
+Yeah I got tetanus @@@.
+
+DOCTOR F233
+Hmm.  @@@?
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+Did you get all those vaccines outside?  Outside the VA?
+
+PATIENT F233
+Um the flu shot I got at the VA.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+And then uh.
+
+DOCTOR F233
+@@@
+
+PATIENT F233
+Yeah I got it here.  I got it about maybe three months ago @@@.
+
+DOCTOR F233
+Okay and uh.
+
+PATIENT F233
+The tetanus I got that in 2002 while I was at um Wisconsin, I got that through the military.
+
+DOCTOR F233
+Okay, okay.  That's fine.  Mmm.  What are medications you are taking now?
+
+PATIENT F233
+Taking just mostly I think to, to control my mental state right now.
+
+DOCTOR F233
+Uh so you are taking the risperidone, aripiprazole, fluoxetine, bupropion, just four medications you are taking?
+
+PATIENT F233
+Yes and one of them is an injection I think right?
+
+DOCTOR F233
+One of them is what?
+
+PATIENT F233
+I come in every two weeks for an injection.
+
+DOCTOR F233
+@@@.  Yes, that is for risperidone long-acting.
+
+PATIENT F233
+@@@ I come in every two weeks and everything that I'm taking yeah.
+
+DOCTOR F233
+That is all you are taking now?
+
+PATIENT F233
+Yes.
+
+DOCTOR F233
+Okay, okay, sounds good.  Uh @@@ you are pretty much wonderful, I guess you are @@@.  You are 49 years @@@.  We talk about some preventative medications.  @@@ diseases which we know why we can prevent those so.  One of them is colon cancer.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+For colon cancer for instance what we do is something called colonoscopy.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+It is a scope that we take it through your anus and out per your rectum and they can see the lining of your colon as part of how it is working.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+It is recommended for persons who are more than 50 years of age.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+So you are not a candidate now but next year I will be talking to you about that.
+
+PATIENT F233
+Oh can I get it?
+
+DOCTOR F233
+You get it done once in ten years.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+If it is normal.  So if you get it done next year then you'll be done for at least ten years.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+We'll talk about that.
+
+PATIENT F233
+Alright.
+
+DOCTOR F233
+@@@.  Uh how do you feel now?  These days in terms depression.  Do you feel better?  Are you more depressed?
+
+PATIENT F233
+Uh depending on my situation.  @@@ for now I guess.
+
+DOCTOR F233
+Okay.  Do you have that pill?  @@@.  Okay.  Relax.  Shrug your shoulders up.  Good, good, good.  Focus on my finger, don't move your head, just follow for me.  Good.  Open your mouth, @@@.
+
+PATIENT F233
+Ah, ah.
+
+DOCTOR F233
+Great.  Take a deep breath.  Breathe.  Good.  You can breathe normally now.  Could you @@@ up for me?  @@@ up, okay.  Lie down for me.  Any pain when I push there?
+
+PATIENT F233
+No.
+
+DOCTOR F233
+Any pain, a little bit, when you fold the leg, @@@.  Relax, relax.  Any pain?
+
+PATIENT F233
+A little bit, not bad.
+
+DOCTOR F233
+Okay, some pain here?
+
+PATIENT F233
+Oh yeah.  Oh not that good.
+
+DOCTOR F233
+Uh do you have constipation?
+
+PATIENT F233
+Uh, haven't been using it as regularly as I normally do.
+
+DOCTOR F233
+What do you use?
+
+PATIENT F233
+I haven't used the latrine as normally as I used to use it.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+I used to go twice or three times a day.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+Now I don't.  Now I probably go once a day.
+
+DOCTOR F233
+So you go once a day?
+
+PATIENT F233
+Yeah, yeah.  Yeah I go.
+
+DOCTOR F233
+Okay, okay.  Do you have any abdominal pain in the past?
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+@@@.
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+What kind of pain you have in there?
+
+PATIENT F233
+I had a surgery @@@ because I had a tumor.
+
+DOCTOR F233
+What kind of tumor did you have?
+
+PATIENT F233
+It was benign but yeah.
+
+DOCTOR F233
+What kind of tumor was that?
+
+PATIENT F233
+Um it was in my, to my large intestine.
+
+DOCTOR F233
+It was inside?
+
+PATIENT F233
+It was benign, yeah.
+
+DOCTOR F233
+@@@.
+
+PATIENT F233
+@@@ large or small intestine.
+
+DOCTOR F233
+And when was the surgery done?
+
+PATIENT F233
+That was in, I want to say '82.
+
+DOCTOR F233
+That was in '82?
+
+PATIENT F233
+No that's a lie I'm sorry, uh '96.
+
+DOCTOR F233
+'96 okay.  Take a deep breath, okay.  Deep breath.
+
+PATIENT F233
+Oh.
+
+DOCTOR F233
+@@@.
+
+PATIENT F233
+Yeah today yeah.
+
+DOCTOR F233
+Deep breath.  And how often do you get up abdominal pain?
+
+PATIENT F233
+I think, I want to say um, it's just the normal pain that I'm used to, so it's nothing that but um, nothing that I concern myself with.  You know, it's just in that, it's normal to me already.
+
+DOCTOR F233
+Okay, okay.  Do you think the uh @@@ medications to help you out in controlling your mood?
+
+PATIENT F233
+The injection has helped me out um a lot.
+
+DOCTOR F233
+A lot?
+
+PATIENT F233
+The injections I started receiving.
+
+DOCTOR F233
+And uh do you have any thoughts about suicidal ideation or something, @@@?
+
+PATIENT F233
+My situation depends on what's going on with my life with my family's life.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+Um, you know um.  My lack of uh, my ability to maintain a job or find a job you know, so um I could be depressed sometimes more than others.
+
+DOCTOR F233
+When you said that you had, you might have a MRI, you said you never @@@.
+
+PATIENT F233
+Yeah I went down to.
+
+DOCTOR F233
+The other hospital.
+
+PATIENT F233
+It was at a yeah, at Fort Sill, Oklahoma.
+
+DOCTOR F233
+Okay.  Uh let's see, @@@ okay.  Um what I'm gonna do is we're @@@ discuss with my clinic supervisor.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+So we discussed about the @@@ and come up with a plan.
+
+PATIENT F233
+Yeah there's another thing, I have a doctor, I have a civilian doctor as well.  
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+They diagnosed me with asthma.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+That just happened, I want to say probably a month ago.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+They gave me a @@@.
+
+DOCTOR F233
+Albuterol?
+
+PATIENT F233
+It was the pink, the pink one.
+
+DOCTOR F233
+The pink one.
+
+PATIENT F233
+Yeah and I take it twice a day to control my asthma.
+
+DOCTOR F233
+Do you take even today, you take it on a daily basis?
+
+PATIENT F233
+Yeah twice a day.
+
+DOCTOR F233
+What happens exactly?
+
+PATIENT F233
+Oh what happened is I was wheezing and I couldn't breathe.
+
+DOCTOR F233
+When was that?  A month back?
+
+PATIENT F233
+About a month.  I came to the Emergency Room here when it was bothering me.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+And I was coughing um severely.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+And I came to this Emergency Room and the lady gave me a regular bottle, not the one that they have but a red bottle instead.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+And um I take that and all it did was calm me down but they didn't do anything, anything tremendous for me.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+Then I went to my civilian doctor to find out why was I coughing so much.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+And I went to St. um, St. Agnes is it or St. Alexis.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+I went to St. Alexis and I did a pulmonary exam.  During my pulmonary exam I blanked out.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+Um so during that blank out the technician and the doctor said that they cannot continue the exam because I blanked out on the pulmonary exam.  I came over here to DOCTOR, down at Garfield.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+At the VA Hospital and saw a doctor in there, and whatever his name, and he gave me, he was the pulmonary doctor he gave me an exam and he said he just checked it that I do have asthma.  DOCTOR was the doctor's name.
+
+DOCTOR F233
+So you came over here at the Emergency.
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+That was June, is that correct?
+
+PATIENT F233
+Yep, that's right.  @@@ yep.
+
+DOCTOR F233
+Uh I don't see that in June @@@.
+
+PATIENT F233
+Was it June?
+
+DOCTOR F233
+@@@ inhalers?  Did they?
+
+PATIENT F233
+Yeah they gave me; um well they gave me something outta here.
+
+DOCTOR F233
+They gave you a nasal spray.  They gave you a spray to put in your nose?
+
+PATIENT F233
+Oh that's what they gave me?
+
+DOCTOR F233
+@@@.
+
+PATIENT F233
+Was that from the Emergency Room or was that from the doctor because I wasn't breathing good with my sleep um, with my CPAP machine?
+
+DOCTOR F233
+So @@@.  I don't see the reason why they gave you but that is what is here.  I don't see any uh.
+
+PATIENT F233
+Okay.  I mean you might be right, it's been a while but I came to the Emergency Room cause um a constant cold that wouldn't go away.
+
+DOCTOR F233
+I get that and they gave you some antibiotics for it.
+
+PATIENT F233
+There you go; they gave me some of that.
+
+DOCTOR F233
+Yeah.
+
+PATIENT F233
+So they, so I wasn't satisfied with the Emergency Room results here.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+And I was supposed to go to DOCTOR.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+And they did some more testing which I think the VA should have done it themselves.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+And they failed to do.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+And then the doctor I went to see was DOCTOR.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+Down at @@@ hospital.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+And he diagnosed me with um asthma.
+
+DOCTOR F233
+Okay.  Okay.  Uh, typically with asthma what we see is when we listen to your chest we see something called wheezing okay.
+
+PATIENT F233
+Yes that's what I was doing, that's right and that's what I was doing too.
+
+DOCTOR F233
+Okay.  Uh, did you have asthma in the past?
+
+PATIENT F233
+Never.
+
+DOCTOR F233
+Okay.  Let me tell you this story, okay, this is how it goes.  Uh, usually at your age @@@.  Most of the time the asthma is a @@@ of what happened during your childhood okay.  It is very rare for a person to have a new onset asthma at your age.
+
+PATIENT F233
+Right.
+
+DOCTOR F233
+Not impossible, it can happen but it is not usual.  In asthma what we hear is wheezing okay.  Many of the time, you have got an infection.  That also tends to relate to wheezing.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+And infection gets corrected and the moment the infection gets corrected the wheezing gets corrected.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+So the thought they treating you, they give you some dramatic relief with this wheezing okay.  So all wheezing need not be asthma.
+
+PATIENT F233
+Sure.
+
+DOCTOR F233
+But then you need to be @@@ and it was correct to start you on those medications.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Today I am not able to hear any wheezing on your chest.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Okay.  But on the days when you do do, you taking puffs on a regular basis.
+
+PATIENT F233
+Alright.
+
+DOCTOR F233
+Because if you do it on a regular basis then you might not be @@@ okay.
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+So @@@ I'm not going to make a diagnosis of whether you have asthma or not.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Okay.  Uh, what I will do is that we will uh, I will talk, I will discuss with my supervisor.
+
+PATIENT F233
+Alright.
+
+DOCTOR F233
+What would the plan be if we stopped the inhaler and can see how you do by stopping it and the moment you have the problems, you take the inhaler.
+
+PATIENT F233
+Hmm.
+
+DOCTOR F233
+They work there and then.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+So we can @@@ but how many times do you need to use that inhaler in a month okay?  If you need to take it more than once in a month, then you might need to consider reevaluating you for asthma.
+
+PATIENT F233
+But they never evaluated@@@.
+
+DOCTOR F233
+Yeah.  So we can go ahead and do that okay?
+
+PATIENT F233
+Fine.  That's what I'm saying.  I think, I feel.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+That the VA should of did further evaluation for that emergency result.
+
+DOCTOR F233
+Exactly.  With the kind of story you presented at the Emergency Room, I’m reading through your note, if I had been there, I would not have evaluated you for asthma. The reason being, first of all, asthma onset as an adult is very unusual   What we will do is @@@.
+
+PATIENT F233
+Sure, sure. 
+
+DOCTOR F233
+And if you have an infection and I think that we will, then we cannot evaluate for asthma.
+
+PATIENT F233
+Right cause you're treating an infection.
+
+DOCTOR F233
+Exactly.
+
+PATIENT F233
+Yeah, @@@.
+
+DOCTOR F233
+Yeah.
+
+PATIENT F233
+But after the infection.
+
+DOCTOR F233
+Yes.
+
+PATIENT F233
+I should get a follow-up.
+
+DOCTOR F233
+Yes.  After the infection you gonna get a follow-up provided okay and that is what I am doing now okay.  So let us do that way, if nobody diagnosed you with asthma, I would never do a function test on you, a pulmonary function test.
+
+PATIENT F233
+Right.
+
+DOCTOR F233
+Okay.  But now since somebody diagnosed you, let's make sure that what we are dealing with is actually correct or not.
+
+PATIENT F233
+Sure.
+
+DOCTOR F233
+@@@.  So you stop using the inhaler for now.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Keep the inhaler only when you need it okay.
+
+PATIENT F233
+Alright.
+
+DOCTOR F233
+And then we count the times of how many times you need it, if you need it for more than one a month then we'll get you back over here and we’ll evaluate you for asthma okay?  And then we'll do a pulmonary function test to get to see what kind of lung problems okay.  It may not be asthma, maybe something else @@@ do that, okay?
+
+PATIENT F233
+But based on, based on DOCTOR evaluation, another civilian doctor.
+
+DOCTOR F233
+Uh-huh, uh-huh.
+
+PATIENT F233
+Um and he determined that DOCTOR diagnosed me with asthma.
+
+DOCTOR F233
+Uh-huh, uh-huh.
+
+PATIENT F233
+Based on the other doctor's assessment, can you say then do a function test?  Can you talk to your supervisor.  Cause I myself would like to get a function test, so what I want to know, I don't want to wait another month or two months.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+That look at as BS.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+Or why, look I gotta do something, I gotta go back and not hear @@@.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+I feel I got a problem and I want to rectify it.
+
+DOCTOR F233
+Okay.  What happens you believe the person @@@ asthma.
+
+PATIENT F233
+Uh-huh.
+
+DOCTOR F233
+Asthma is a disease that you already carry it, okay.  Even if you have an asthma okay, but asthma may have some problem only once a month okay.  So what happens is you'll be normal, asthma attack comes, you get into the situation that day and come back to normal, you remain normal and @@@ and then you get asthma.  That's how the attack of asthma comes okay.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Now when you are normal.
+
+PATIENT F233
+Mine didn't come like that.
+
+DOCTOR F233
+How does it come.
+
+PATIENT F233
+If I'm, if I'm exerting myself.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+The asthma hits me.  If I'm doing exercise.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+Or I'm walking up the stairs, my asthma hits me.
+
+DOCTOR F233
+It hits you.
+
+PATIENT F233
+If I'm having sex with my wife, the asthma hits me.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+And I'm tired of that.  I really am.
+
+DOCTOR F233
+Now.  This is another kind of asthma.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+This is the kind of asthma which call exercise-induced asthma okay.  Now if you have got these kinds of symptoms, then the best way to treat it is when you anticipate that you do the, @@@ when you are gonna get the asthma, is to take a puff before that okay.  That is typically what you do.  That's typically what you do right?
+
+PATIENT F233
+I’m laughing here because I’m in the middle of a sex problem here, with my wife.
+
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+And here I'm getting an attack.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+Which it's, it's funny because I have to stop having my sex, intimate moment with my wife, it's just a problem.
+
+DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+And it frustrates me that I can't continue this process.
+
+DOCTOR F233
+Exactly.
+
+PATIENT F233
+And you're telling me this way.  I'm saying I want the test, I want the test now.
+
+DOCTOR F233
+Okay.
+
+PATIENT F233
+I want to get it over with.  I'm frustrated.
+
+DOCTOR F233
+Uh-huh.  If you are on a normal day okay, if you're on a normal day when you get the test.
+
+PATIENT F233
+Uh-huh.
+
+DOCTOR F233
+It's gonna come normal okay.  This test is gonna be normal okay.  What we I’m trying.
+
+PATIENT F233
+How can you call me a date for a test when you don't know if day I'm going to have an attack or not?
+
+DOCTOR F233
+What we do is something called challenge test.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Where we give you some medication which is gonna precipitate your asthma at that time at the Lab okay and then they'll do the test.  
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+But we'll see whether you are, whether there, it is a precipitating factor okay.  Now I just wonder since now I'm seeing you for the first time okay, let me try and to get that indication @@@ that you actually need it okay.  
+
+PATIENT F233
+Oh.
+
+DOCTOR F233
+A simple pulmonary function test is something which can be done anytime okay.  Challenge test is something which I can do it but that is what I'm just trying to and I'm going to analyze it but let me see how you do @@@ okay.  Now then if you need it we can schedule you on the phone and you can come out and have it okay.
+
+PATIENT F233
+Uh yeah that's cool.
+
+DOCTOR F233
+What I'm trying to do, the situation at this time is, you could stop the inhaler for now okay.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+If you do some kind of exercise and if you get short of breath at that time the next time what you do is even before you started the exercise, take that puff.  Even if you don't have symptoms.
+
+PATIENT F233
+Right.
+
+DOCTOR F233
+Now do the exercise.
+
+PATIENT F233
+Right.
+
+DOCTOR F233
+And we'll see if you get that symptoms again or not okay, okay.  If you don't get that symptoms then it gives me an idea that you are having so-called exercise-induced asthma and the only way how we control the exercise-induced asthma is by giving you medication prior to that exercise so it's not that you develop the symptoms and then you get the medication no.  If you feel that when you lift your boxes, you get asthma.
+
+PATIENT F233
+Alright.
+
+DOCTOR F233
+Then you, even before lifting the boxes you get a puff, do the exercise and @@@.
+
+PATIENT F233
+I'm not using the word exercise, anytime I walk up flights of stairs@@@.
+
+DOCTOR F233
+Exactly.
+
+(Knock on the door)
+
+PATIENT F233
+Okay.  @@@.
+
+DOCTOR F233
+Well that is what I'm trying to prove to you at this time okay and I will try to, I will try to reschedule the appointment in three months, earlier if you require.  Then all you need to do is give me a call okay.  
+
+PATIENT F233
+So give me the card.
+
+DOCTOR F233
+Yeah exactly and then at that time I can actually get some idea that how many times you needed it okay and how many times it actually benefited you.
+
+PATIENT F233
+Sure.
+
+DOCTOR F233
+Okay, um this will give me some idea that which kind of test @@@ I need to put in and what type of @@@ test I need to verify.
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+This gives me an idea of what.
+
+PATIENT F233
+Yeah.
+
+DOCTOR F233
+If I did one now, I'm sure it would come normal.
+
+PATIENT F233
+Okay.  No that's good yeah.
+
+DOCTOR F233
+@@@.  I'm going to discuss this with DOCTOR okay and then I'll be back in a few minutes and then we'll talk more about it.
+
+PATIENT F233
+Okay.
+
+DOCTOR F233
+Sounds good to you?
+
+PATIENT F233
+Yeah, yeah.
+
+(DOCTOR OUT:  88:38)
+
+SECOND DOCTOR F233
+I'm DOCTOR.
+
+PATIENT F233
+How ya doing sir?
+
+SECOND DOCTOR F233
+Great and yourself?
+
+PATIENT F233
+Not bad.
+
+SECOND DOCTOR F233
+My name is DOCTOR I work with DOCTOR here.  Uh we were just kind of talking a little bit about what's going on.  @@@ I'll have you sit there for a minute, @@@ formal about it.  Now um, are you a smoker?
+
+PATIENT F233
+No.
+
+SECOND DOCTOR F233
+Have you ever smoked?
+
+PATIENT F233
+Never.
+
+SECOND DOCTOR F233
+Never.  Not even pot?
+
+PATIENT F233
+No.
+
+SECOND DOCTOR F233
+Okay alright um, it's just kind of weird to have asthma pop up later in life.
+
+PATIENT F233
+Right.
+
+SECOND DOCTOR F233
+So um, DOCTOR we were talking quite a bit about what to do about this and we got a plan for it but I think ultimately you wanted to try and redo that test that sounds like they couldn't do last time.
+
+PATIENT F233
+Right.
+
+SECOND DOCTOR F233
+Did they use, was it one where they asked you to breathe, breathe, breathe, breathe?
+
+PATIENT F233
+Exactly.
+
+SECOND DOCTOR F233
+Yeah.
+
+PATIENT F233
+I blanked out on that exam.
+
+SECOND DOCTOR F233
+Okay alright.
+
+PATIENT F233
+It happened at St um, St. Alexis.
+
+SECOND DOCTOR F233
+Okay.  Would you mind trying it again?
+
+PATIENT F233
+No I don't mind.  I want to find out what's going.
+
+SECOND DOCTOR F233
+Yeah, yeah, yeah.
+
+PATIENT F233
+I really do.
+
+SECOND DOCTOR F233
+Cause you know there's other things that kind of creep into the picture you know with your obstructive sleep apnea.
+
+PATIENT F233
+Sure.
+
+SECOND DOCTOR F233
+That could be affecting things.  You know, so you look like you sometimes have @@@.
+
+PATIENT F233
+Yeah around my chest.
+
+SECOND DOCTOR F233
+Okay, what do you, what kind of stuff.
+
+PATIENT F233
+Uh I go to school right now, to auto mechanic school.
+
+SECOND DOCTOR F233
+Okay do you notice that your shortness of breath is problematic at work?
+
+PATIENT F233
+No it's only when I do any kind activity.
+
+SECOND DOCTOR F233
+@@@.
+
+PATIENT F233
+Exactly.
+
+SECOND DOCTOR F233
+Okay, alright.  So I think starting from scratch is reasonable.  We may not find the answer with just one test but at least we can call the decision if it's not asthma.
+
+PATIENT F233
+Sure.
+
+SECOND DOCTOR F233
+It's a pretty good test.
+
+PATIENT F233
+Okay.
+
+SECOND DOCTOR F233
+If we can get you through it.
+
+PATIENT F233
+Okay.
+
+SECOND DOCTOR F233
+Um and then in the meantime we're gonna have you stop that albuterol.
+
+PATIENT F233
+Okay.
+
+SECOND DOCTOR F233
+You don't need to take it twice a day.
+
+PATIENT F233
+Okay.
+
+SECOND DOCTOR F233
+Um you can take it if you feel like you need it.
+
+PATIENT F233
+Okay.
+
+SECOND DOCTOR F233
+If you feel like this is associated with exertion as well um you can take it um basically like half an hour to an hour before.
+
+PATIENT F233
+Okay.
+
+SECOND DOCTOR F233
+You start exerting yourself so in some ways it's like pulmonary Viagra.
+
+PATIENT F233
+Yeah, okay.
+
+SECOND DOCTOR F233
+To dilate.  I think this happens a lot when you're with your wife.
+
+PATIENT F233
+Yeah.
+
+SECOND DOCTOR F233
+Okay so, if you think you're gonna put the moves on her you know.
+
+PATIENT F233
+Oh.
+
+SECOND DOCTOR F233
+You know it's gonna be a night where the kids are sleeping.
+
+PATIENT F233
+Yeah.
+
+SECOND DOCTOR F233
+@@@.  Well not.
+
+PATIENT F233
+Yeah, a combination.
+
+SECOND DOCTOR F233
+Well go ahead, exactly, exactly.  So and that might work and that's something that we can, if something definitely happens with people that you know go outside in the cold.
+
+PATIENT F233
+Right.
+
+SECOND DOCTOR F233
+But don't be, @@@ asthma at all.
+
+PATIENT F233
+Okay.
+
+SECOND DOCTOR F233
+So we got to take it one step at a time.
+
+PATIENT F233
+Okay that's fine.
+
+SECOND DOCTOR F233
+I'm gonna take a listen to you now.
+
+PATIENT F233
+Sure.
+
+SECOND DOCTOR F233
+Um, the main thing is DOCTOR was telling me a little bit about your survey.
+
+PATIENT F233
+Okay.
+
+SECOND DOCTOR F233
+Seems that they do, it's verbal.  Looks like you're gonna see Mental Health.
+
+PATIENT F233
+No I was seeing DOCTOR.
+
+SECOND DOCTOR F233
+Okay.  Who gave you that @@@.
+
+PATIENT F233
+Yeah the reception gave me that.
+
+SECOND DOCTOR F233
+One of the nurses okay.
+
+PATIENT F233
+Yeah.
+
+SECOND DOCTOR F233
+Okay.  Okay, @@@ okay.  One more time.  Your breathing sounds pretty good.  @@@.
+
+PATIENT F233
+Yeah.
+
+SECOND DOCTOR F233
+Okay, I'm gonna let @@@.  Nice to meet you.
+
+PATIENT F233
+Oh.  Same here doc.
+
+SECOND DOCTOR F233
+You take care.
+
+PATIENT F233
+@@@.
+
+SECOND DOCTOR F233
+Yeah.  @@@.
+
+(FIRST DOCTOR IN:  113:3)
+
+FIRST DOCTOR F233
+Okay, we'll uh @@@ for now.
+
+PATIENT F233
+Huh?
+
+FIRST DOCTOR F233
+You're gonna stop the albuterol.
+
+PATIENT F233
+Okay.
+
+FIRST DOCTOR F233
+@@@ but you take it if you’re symtomatic if you think about it or the way we described to you.
+
+PATIENT F233
+Sure.
+
+FIRST DOCTOR F233
+Before exercise.
+
+PATIENT F233
+Before activity.
+
+FIRST DOCTOR F233
+Exactly.  And I'm gonna put this pulmonary function test @@@ study if needed.
+
+PATIENT F233
+Okay.
+
+FIRST DOCTOR F233
+That is what, what @@@.
+
+PATIENT F233
+Okay.
+
+FIRST DOCTOR F233
+That uh rather than I mean taking @@@ there are other things @@@ body as well.
+
+PATIENT F233
+Uh-huh.
+
+FIRST DOCTOR F233
+Uh not to the point where you stop hitting on you, but at least that @@@ differential.
+
+PATIENT F233
+Okay.
+
+FIRST DOCTOR F233
+So let us just start with this.
+
+PATIENT F233
+Yeah.
+
+FIRST DOCTOR F233
+We don't think it triggers the asthma.
+
+PATIENT F233
+Right.
+
+FIRST DOCTOR F233
+But we @@@.
+
+PATIENT F233
+Okay.
+
+FIRST DOCTOR F233
+If this comes back normally then there are other things to worry about.  I'll be talking to you next time.
+
+PATIENT F233
+Okay.
+
+FIRST DOCTOR F233
+Okay.
+
+PATIENT F233
+Yeah that's fine.
+
+FIRST DOCTOR F233
+Uh apart from that, I don’t’ have anything for you.
+
+PATIENT F233
+Okay.
+
+FIRST DOCTOR F233
+All we can do is when you check-out uh you can ask them how to schedule this.
+
+PATIENT F233
+Okay.
+
+FIRST DOCTOR F233
+Let me put in the order, now.
+
+PATIENT F233
+Okay.  Doctor, uh I ran out of my Levitra.  Is there any way um the doctor could recommend my Levitra back?
+
+FIRST DOCTOR F233
+Do you take the Levitra on a regular basis?
+
+PATIENT F233
+Only when I’m going to do someting I don't have it every day.
+
+FIRST DOCTOR F233
+@@@.
+
+PATIENT F233
+No, yeah I had it before.
+
+FIRST DOCTOR F233
+Okay.
+
+PATIENT F233
+Uh with doctor, I think @@@ gave me.
+
+FIRST DOCTOR F233
+Okay.
+
+PATIENT F233
+DOCTOR recommended it.  @@@ not regularly I mean.
+
+FIRST DOCTOR F233
+Levitra has got significant side effects.
+
+PATIENT F233
+Yeah I think that's why he gave me, will you look at that.
+
+FIRST DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+And DOCTOR was my meds doctor.
+
+FIRST DOCTOR F233
+Uh-huh.
+
+PATIENT F233
+That's when he recommended, that is what he gave me in the past.
+
+FIRST DOCTOR F233
+Okay.  Uh so you have got a Mental Health appointment.
+
+PATIENT F233
+Yes DOCTOR um, @@@.
+
+FIRST DOCTOR F233
+You know what, let us do this way.  Uh why don't you bring this up with your Mental Health doctor.  I don't mind putting it one but it has to go, you know it has got so complicated reactions to the medications.
+
+PATIENT F233
+Okay. 
+
+FIRST DOCTOR F233
+@@@.
+
+PATIENT F233
+Yeah I'll see him on the 16th.
+
+FIRST DOCTOR F233
+Yeah you are seeing him @@@.
+
+PATIENT F233
+Wednesday.
+
+FIRST DOCTOR F233
+So I thought it should be a good idea to rather talk to him about it.
+
+PATIENT F233
+I'll let him know.
+
+FIRST DOCTOR F233
+@@@.  If he says it is okay for me to do it.
+
+PATIENT F233
+Yeah.
+
+FIRST DOCTOR F233
+And he's not able to, give me a call and I'll put that in.
+
+PATIENT F233
+Okay, that's cool.
+
+FIRST DOCTOR F233
+Alright.
+
+PATIENT F233
+@@@.
+
+FIRST DOCTOR F233
+@@@.
+
+PATIENT F233
+Yeah, okay.
+
+FIRST DOCTOR F233
+Okay so @@@.
+
+PATIENT F233
+Okay.
+
+FIRST DOCTOR F233
+You need to give it to @@@.
+
+PATIENT F233
+Right, @@@.
+
+FIRST DOCTOR F233
+You stop the.
+
+PATIENT F233
+Medicine @@@.
+
+FIRST DOCTOR F233
+@@@.
+
+PATIENT F233
+That's fine.
+
+FIRST DOCTOR F233
+You okay with this?
+
+PATIENT F233
+That's fine.
+
+FIRST DOCTOR F233
+@@@. 
+
+PATIENT F233
+Okay.
+
+FIRST DOCTOR F233
+I would keep that.  @@@.
+
+PATIENT F233
+Okay.
+
+FIRST DOCTOR F233
+This is a way for you to, I need to @@@.
+
+PATIENT F233
+So @@@.
+
+FIRST DOCTOR F233
+@@@.
+
+PATIENT F233
+Yeah.  I think she gave it to me because of my first time visiting you.
+
+FIRST DOCTOR F233
+Okay, okay, okay.  Uh you already had @@@.
+
+PATIENT F233
+DOCTOR yeah he's been my doctor since I've been here.
+
+FIRST DOCTOR F233
+Okay, okay.  So in about two weeks.
+
+PATIENT F233
+It seems that I get @@@.  Okay.
+
+FIRST DOCTOR F233
+Because it takes to the most recent @@@.
+
+PATIENT F233
+Okay, that's cool, yeah.
+
+FIRST DOCTOR F233
+So that should be @@@.
+
+PATIENT F233
+Yeah.
+
+FIRST DOCTOR F233
+And uh this is some @@@.
+
+PATIENT F233
+@@@checkout.  Okay, that's cool.  Yeah, thanks a lot doctor.
+
+FIRST DOCTOR F233
+Nice to meet you.
+
+PATIENT F233
+Yeah you too.
+
+FIRST DOCTOR F233
+@@@ I'll give you a call.
+
+PATIENT F233
+Okay, yeah, bye, thank you so much.  You too.
+
+Time is 5:25.
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/JOB#  1235292
+TRANSACTION # 578-10-2-316-0103

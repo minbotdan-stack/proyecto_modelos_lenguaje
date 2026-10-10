@@ -1,0 +1,688 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:    
+
+DOCTOR T348
+PATIENT.
+ 
+PATIENT T348
+Right here.  Right.
+
+DOCTOR T348
+PATIENT.  You used to see DOCTOR right?
+
+PATIENT T348
+Well I think so yeah.
+
+DOCTOR T348
+Alright have a seat.
+
+PATIENT T348
+Okay.
+
+DOCTOR T348
+How have you guys been?
+
+PATIENT T348
+Just fine.  Pretty good.
+
+SECOND PERSON T348
+Good.
+
+DOCTOR T348
+@@@.  Okay.
+
+PATIENT T348
+What was that?
+
+DOCTOR T348
+Nice to meet you again.  So I was just reading here you went to the ER recently.
+
+PATIENT T348
+No that's not real recent, that was like the last time.
+
+DOCTOR T348
+Alright that was about a year ago.
+
+PATIENT T348
+Yeah.
+
+DOCTOR T348
+Yeah you're right.  You haven't been here in a while.
+
+PATIENT T348
+That's right.
+
+DOCTOR T348
+Yeah.  Alright.  So there were no more episodes where you fainted or anything like that?
+
+PATIENT T348
+Oh no, no.
+
+DOCTOR T348
+Okay.
+
+PATIENT T348
+That was bad.
+
+DOCTOR T348
+Okay.
+
+SECOND PERSON T348
+It’s only when he had blood drawn.  He actually kind of @@@.
+
+DOCTOR T348
+Every single time?
+
+SECOND PERSON T348
+Pretty much yeah.
+
+DOCTOR T348
+Okay good.  Okay.  How have things been going at home?
+
+PATIENT T348
+Oh what?  I just finished writing my thesis.
+
+DOCTOR T348
+Oh okay.
+
+PATIENT T348
+And I'm gonna defend next week.
+
+DOCTOR T348
+Great.
+
+PATIENT T348
+So.  It's been a tough week.
+
+DOCTOR T348
+So at least it's done.
+
+PATIENT T348
+Yeah well I was up for like 30 hours like last week and then I was gonna be getting up like on Thursday and then later I think from Sunday to Monday I was up for another 24 hours so it's been a little rough.
+
+DOCTOR T348
+Okay.  What medications are you taking?
+
+PATIENT T348
+Uh well I ran out of medicines but what I had been on was I had been on I think it's the ARB inhibitors.
+
+DOCTOR T348
+Uh-huh.
+
+PATIENT T348
+With the.
+
+DOCTOR T348
+Losartan.
+
+PATIENT T348
+Losartan right and then I was on fish oil pills.
+
+DOCTOR T348
+Uh-huh.
+
+PATIENT T348
+And then the other thing that I was on uh like.
+
+DOCTOR T348
+Chlorthalidone? 
+
+PATIENT T348
+Yeah chlorthalidone but I really didn't like that one.
+
+DOCTOR T348
+Okay.
+
+PATIENT T348
+The one previous to that, I'd been on.
+
+DOCTOR T348
+Hydrochlorothiazide.
+
+PATIENT T348
+Yeah the hydrochlorothiazide was better.
+
+DOCTOR T348
+When was the last time you took any of these?
+
+PATIENT T348
+Uh like a month ago is when I ran out.
+
+DOCTOR T348
+Okay and you take fish oil how many times?
+
+PATIENT T348
+Uh I would, I was taking those twice a day.  Uh like uh two pills.
+
+DOCTOR T348
+Okay.  And were you taking amlodipine?
+
+PATIENT T348
+Uh no.
+
+PATIENT T348
+That was the one prior; I think that was in um what do they call it.  So there’s the @@@ but there was another one before that that I took that didn't seem to work very well not AR the other one.
+
+DOCTOR T348
+ACE inhibitor?
+
+PATIENT T348
+ACE inhibitor yeah it was an ACE inhibitor that was it.  It made me cough a little bit.
+
+DOCTOR T348
+Okay.
+
+PATIENT T348
+@@@.
+
+SECOND PERSON T348
+And then they put you on another thing at that time.
+
+DOCTOR T348
+Yeah I know that's what it was called.
+
+PATIENT T348
+Oh that's right, I remember now.  There was also the amlodipine @@@ no it was a different one.
+
+DOCTOR T348
+Okay.  And you haven't been taking that right?
+
+PATIENT T348
+No.  I ran out of everything and I didn't have another appointment for a while.
+
+DOCTOR T348
+Okay.  Alright.  Okay and I saw that your blood pressure was high.
+
+PATIENT T348
+Yeah I've never had it that high before, that's crazy.
+
+DOCTOR T348
+Do you check it at home?
+
+PATIENT T348
+Uh I should but I haven't been no.
+
+DOCTOR T348
+Do have a monitor?
+
+PATIENT T348
+I do have one.
+
+DOCTOR T348
+Okay, okay.
+
+PATIENT T348
+Yeah.
+
+DOCTOR T348
+And we're due for labs, the yearly labs.  But you faint every time huh?
+
+PATIENT T348
+Pretty much.  It's not every time but it's.
+
+DOCTOR T348
+And there's just so many @@@ of passing out.  Is it because you don't eat or?
+
+PATIENT T348
+No, they only draw the blood and then about two minutes later then I pass out.
+
+DOCTOR T348
+Okay.
+
+PATIENT T348
+Yeah. It’s weird.
+
+DOCTOR T348
+Yeah.
+
+PATIENT T348
+All of a sudden.
+
+SECOND PERSON T348
+This happened @@@.
+
+PATIENT T348
+So the last time I was in.
+
+SECOND PERSON T348
+The last time it was @@@.
+
+PATIENT T348
+Yeah the last time it was terrible.
+
+SECOND PERSON T348
+This is why I came today.
+
+PATIENT T348
+Because then I pass out for like five minutes and stuff like that.
+
+DOCTOR T348
+Okay.
+
+PATIENT T348
+And that's why they rolled me down to the ER because I didn't wake up right away.
+
+SECOND PERSON T348
+Maybe they can elevate his feet.
+
+DOCTOR T348
+Yeah maybe.
+
+PATIENT T348
+Whatever.  That's just why I don't like it very much.
+
+DOCTOR T348
+Okay.  Okay.  Let me listen to your heart and lungs.  What did you do your thesis on?
+
+PATIENT T348
+Uh graphite and diamonds.
+
+DOCTOR T348
+Oh wow.  Deep breath, good, again, alright.  So it's geology that you're into?
+
+PATIENT T348
+Uh no actually I'm a chemist.
+
+DOCTOR T348
+Chemist okay.
+
+PATIENT T348
+So yeah.
+
+DOCTOR T348
+And do you smoke?
+
+PATIENT T348
+No.
+
+DOCTOR T348
+Drink or anything like that?
+
+PATIENT T348
+I don't smoke.  The only time I drink is like maybe once a month @@@.
+
+DOCTOR T348
+Uh-huh.
+
+PATIENT T348
+So.  Very occasionally.
+
+DOCTOR T348
+No illicit drug use?
+
+PATIENT T348
+Nope.
+
+SECOND PERSON T348
+He @@@.
+
+PATIENT T348
+Well this is an intereting case study.  What do you get after you write a thesis?
+
+DOCTOR T348
+Any kids at home?
+
+PATIENT T348
+None.
+
+SECOND PERSON T348
+@@@ before your thesis @@@.
+
+PATIENT T348
+Oh they have, they have @@@ yeah.
+
+SECOND PERSON T348
+They have the formula.  They have a formula.
+
+PATIENT T348
+Yeah this at the Ph.D. Program.
+
+DOCTOR T348
+What do you not like about the chlorthalidone?  
+
+PATIENT T348
+Uh it causes erectile dysfunction so.
+
+DOCTOR T348
+Okay.
+
+PATIENT T348
+It was because of that yeah, absolutely.  Uh the other thing is it will make me slightly dizzy on occasion and uh let's see what else.  I think it also just made me feel generally bad.  I don't to say like depressive but not feel, like low energy I guess.
+
+DOCTOR T348
+Uh-huh.
+
+PATIENT T348
+Is the way I'd describe it.
+
+SECOND PERSON T348
+@@@.
+
+DOCTOR T348
+I'll talk to DOCTOR; he's one of the attending physicians here.  But I'm thinking we'll probably restart you on some of your blood pressure medicines and have you follow up with the nurse for a blood pressure check okay.  Um.
+
+PATIENT T348
+Yeah okay.
+
+DOCTOR T348
+So we could always put you on the hydrochlorothiazide if you like that better than the chlorthalidone.
+
+PATIENT T348
+Yeah definitely that was better than the chlorthalidone.
+
+DOCTOR T348
+Okay.
+
+SECOND PERSON T348
+Oh yeah and is there any @@@ Nephrology people or do you need that?
+
+PATIENT T348
+@@@ they generally like to have.
+
+DOCTOR T348
+Chemistry.
+
+PATIENT T348
+Yeah.
+
+DOCTOR T348
+@@@.
+
+PATIENT T348
+But I'll try to set up, yeah a urine sample for the nephrectomy.
+
+DOCTOR T348
+Okay.
+
+PATIENT T348
+I'm supposed to see those guys like next month or something.  Based on @@@.
+
+DOCTOR T348
+Yeah.  Okay, I'll be right back.
+
+DOCTOR OUT:  13:25   DOCTOR IN:  25:24
+
+DOCTOR T348
+Alright.  @@@.  I'm gonna start you again on the hydrochlorothiazide, not the chlorthalidone.
+
+PATIENT T348
+Okay.
+
+DOCTOR T348
+Uh and you can get a combo pill, your Losartan is a combo pill, just give you one pill.  And I think okay.  So whenever you get your blood drawn, ask if you can lie down completely.
+
+PATIENT T348
+Yeah, so I figure @@@.
+
+DOCTOR T348
+But just tell them @@@ ooh every sit.
+
+SECOND PERSON T348
+@@@.
+
+DOCTOR T348
+Just ask if you can lie down before and then once you're done give yourself a couple minutes and then get up.
+
+PATIENT T348
+Yeah I think that's probably the wise idea.
+
+DOCTOR T348
+Yeah.
+
+PATIENT T348
+So lame.
+
+SECOND PERSON T348
+It really bothers him.
+
+DOCTOR T348
+Okay I'll put you on the hydrochlorothiazide take 25 and the Losartan you were taking 100.
+
+PATIENT T348
+Uh-huh.
+
+DOCTOR T348
+So you just take two pills so there's a combo pill that has both your medicines in it and you just take two pills of that in the morning.
+
+SECOND PERSON T348
+So you take it, the dose is two pills.
+
+PATIENT T348
+The dose is two pills once per day.
+
+DOCTOR T348
+Uh-huh yeah.  So each pill has 12.5 of hydrochlorothiazide and 50 of the Losartan.
+
+PATIENT T348
+I got it, gotcha.
+
+DOCTOR T348
+(Someone knocks on the door)  Come in.  Okay thank you.  Okay and then I'm gonna have you check your blood pressure at home and then the nurse can call you in a couple of weeks.
+
+PATIENT T348
+Okay.
+
+DOCTOR T348
+And just ask you what it is.  That way you don't have to come back in.
+
+PATIENT T348
+Okay.
+
+DOCTOR T348
+And if it's not controlled we might just start you on amlodipine again.
+
+PATIENT T348
+Okay.  I'll start tracking.
+
+DOCTOR T348
+Alright.  So I put your labs in @@@ and that should be good enough for the renal people.  They'll ask you for some urine.
+
+PATIENT T348
+Okay.
+
+DOCTOR T348
+I'll put everything they might want in.  Do you have any other questions?  Do you need anything else?
+
+PATIENT T348
+Uh just um, I think there were two things.  So the first thing is what's the point of contact if I run out of medicine again that I can get a hold of you?
+
+DOCTOR T348
+You can call here, the nurses or and they can usually just have the doctors like usually DOCTOR can refill it from here.
+
+PATIENT T348
+Okay alright so just call the Green clinic.
+
+DOCTOR T348
+Uh-huh.
+
+PATIENT T348
+And that'll work it out.
+
+SECOND PERSON T348
+And then the thing if he decides something in the combo pill doesn't work like the other one did or something he works with, he's unhappy with.
+
+DOCTOR T348
+Uh-huh.  And I plan to see him back in two months just to like sort that out.
+
+PATIENT T348
+Okay that's fine yeah.
+
+DOCTOR T348
+Okay.  This is, once we sort it out and as long as you're stable you can just come like a regular doctor's visit once a year.
+
+PATIENT T348
+Okay sure.
+
+DOCTOR T348
+Okay.  But just to check on your meds and everything.
+
+PATIENT T348
+No that makes sense.
+
+DOCTOR T348
+Alright.  Any other questions?
+
+PATIENT T348
+No it's just uh @@@.
+
+DOCTOR T348
+The fish oil.
+
+PATIENT T348
+Oh yeah fish oil is probably a good thing to put me on.
+
+DOCTOR T348
+Yeah.
+
+PATIENT T348
+Is there um uh so I have been having like acne issues.  I was wondering if it was possible to see a dermatologist?
+
+DOCTOR T348
+Yeah you should be able to come in and see them.  Let me get  your fish oil @@@.  You remember if it was 1000?
+
+PATIENT T348
+Yeah it was 1000.
+
+DOCTOR T348
+Twice a day.
+
+PATIENT T348
+Twice a day.
+
+DOCTOR T348
+Okay and I can put in a referral for the dermatologist but um let me see if I can give you something.  Have you tried anything before?
+
+PATIENT T348
+Oh my God.
+
+SECOND PERSON T348
+He has been dealing with this.
+
+PATIENT T348
+Years.
+
+DOCTOR T348
+Years.
+
+PATIENT T348
+Yeah when I was in high school I started out on tetracycline and then that got moved up to minocycline at some point.
+
+DOCTOR T348
+Uh-huh.
+
+PATIENT T348
+Uh so it's kind of been @@@.
+
+DOCTOR T348
+Have you tried like Retin A and all that other stuff?
+
+PATIENT T348
+Yeah they did try Retin A once that was kind of nasty.
+
+DOCTOR T348
+Yeah.
+
+PATIENT T348
+Not good.
+
+DOCTOR T348
+Dried you out pretty good.  Have you tried, but can @@@ and see if that works.  Do you think it @@@ some kind of service connection for @@@.
+
+PATIENT T348
+I think I'm like at 0% for derm.
+
+DOCTOR T348
+You're at 0% for derm?
+
+PATIENT T348
+Yeah.
+
+DOCTOR T348
+I don’t think that'll work, let me just see.  Have you tried, so you've tried hydrogen peroxide, you've tried?
+
+SECOND PERSON T348
+And he's tried a lot of things but given his long history, we felt that he should see Derm regularly.
+
+DOCTOR T348
+Yeah.
+
+SECOND PERSON T348
+@@@.
+
+DOCTOR T348
+Yeah and he can be referred to them and so.  @@@.
+
+SECOND PERSON T348
+I think it's @@@ acne because it's not just regular acne.  It was really bad when you were in Iraq right?
+
+PATIENT T348
+That's true, that’s why it’s a 0% service connection.
+
+DOCTOR T348
+Uh-huh.  And you saw DOCTOR so they'll see you, so I'll put it in.  There you go and okay.
+
+SECOND PERSON T348
+12.5 @@@.
+
+PATIENT T348
+It's 12.5 x2, so that's 25 and then the 50 times two is 100.
+
+SECOND PERSON T348
+So which pill is which?
+
+PATIENT T348
+So it's 12.5 of the hydrochlorothiazide.
+
+DOCTOR T348
+Okay yeah I put it in.  Let me put it on here and they can just schedule the appointment.  Specialty clinic, Derm, Neprhology.  That's okay.
+
+PATIENT T348
+Okay well thanks so much, sure appreciate.
+
+DOCTOR T348
+No worries.
+
+PATIENT T348
+So are you a resident here?
+
+DOCTOR T348
+Uh-huh.
+
+PATIENT T348
+Oh good luck with everything I hope you survive.
+
+DOCTOR T348
+I hope so too. What a thing to say!
+
+PATIENT T348
+Well no I mean I know all the pressure on the MDs and like.
+
+DOCTOR T348
+Uh-huh.
+
+PATIENT T348
+And like with your residency.  One of my colleagues, she's a physicist and her husband's a surgery resident.
+
+DOCTOR T348
+Yeah.
+
+PATIENT T348
+And you get to hear all the horror stories.
+
+DOCTOR T348
+Dying yeah.
+
+PATIENT T348
+Well just the long hours and uh it's you know the tough times.
+
+DOCTOR T348
+Yeah.  Alright okay.
+
+PATIENT T348
+Well good luck thank you so much.  Take care.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  38313
+TRANSACTION # 578-10-2-316-0103

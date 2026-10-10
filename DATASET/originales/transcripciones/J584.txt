@@ -1,0 +1,1091 @@
+Date of Encounter:    @@/@@/@@
+Time of Encounter:    @@@  
+
+DOCTOR J584
+PATIENT?  How are you?  Good to see you.  How you been?
+
+PATIENT J584
+Alright.
+
+DOCTOR J584
+So it's been a long time, I think it was back in August right?
+
+PATIENT J584
+Yeah @@@.
+
+DOCTOR J584
+So how you been doing?
+
+PATIENT J584
+Fine.  I quit drinking.
+
+DOCTOR J584
+What's that?
+
+PATIENT J584
+I said I quit drinking.
+
+DOCTOR J584
+Great.  How long has that been going on for?
+
+PATIENT J584
+About a month and a half now.
+
+DOCTOR J584
+What uh started it?
+
+PATIENT J584
+I quit about for 20 years I just got back on the juice bottles you know.
+
+DOCTOR J584
+Yeah.  So how'd it end up going?  Any withdrawal symptoms or anything?
+
+PATIENT J584
+Na not really.  I need some medications refilled.  You were going to send me the pill for smoking.
+
+DOCTOR J584
+Uh-huh.
+
+PATIENT J584
+I never did get that.
+
+DOCTOR J584
+Really?  So we'll just have to do that.  
+
+PATIENT J584
+I missed your test too.
+
+DOCTOR J584
+I know I saw that.
+
+PATIENT J584
+I already got it once and then when I was going to take it this last month.
+
+DOCTOR J584
+Yeah.
+
+PATIENT J584
+Then I got the flu and I had to cancel and they were supposed to @@@.
+
+DOCTOR J584
+Are they @@@ or do I need to call them?
+
+PATIENT J584
+They said they were going to call me.
+
+DOCTOR J584
+Alright.  If you don't hear from them soon will you call them?
+
+PATIENT J584
+Okay.
+
+DOCTOR J584
+Cause I do want you to do that.  Um let's see so @@@.  What medicine do you need, the hydrochlorothiazide?
+
+PATIENT J584
+Yeah and pardon me?
+
+DOCTOR J584
+Your pressure looks good.
+
+PATIENT J584
+Yeah and my trazodone.
+
+DOCTOR J584
+Do you want them sent to you?
+
+PATIENT J584
+Yeah and my trazodone and my other psych pill and uh meloxicam and I don’t know if it’s helping me or anything like that, it's supposed to be for my knee pain.
+
+DOCTOR J584
+Did it help?
+
+PATIENT J584
+Ah @@@ anything.
+
+DOCTOR J584
+But you do want it refilled?
+
+PATIENT J584
+Yes.  I still got pain in my knees.
+
+DOCTOR J584
+Okay.
+
+PATIENT J584
+That's because I just don't have no cartilage in there anymore.
+
+DOCTOR J584
+Yeah.  Did you have a procedure there or not, I don't remember.
+
+PATIENT J584
+No they just told me to exercise it.
+
+DOCTOR J584
+So is the meloxicam not working?
+
+PATIENT J584
+I don't think so.  I mean most of the time @@@.
+
+DOCTOR J584
+You take it every day?
+
+PATIENT J584
+I was yeah but I'm out of it now so.
+
+DOCTOR J584
+Alright do you want to try that or do you want to try something else?
+
+PATIENT J584
+Let's try something else if you've got something.
+
+DOCTOR J584
+I don't have you on the trazodone.
+
+PATIENT J584
+@@@ you know I haven't seen him either.
+
+DOCTOR J584
+Yeah.  I saw that.
+
+PATIENT J584
+And they were supposed to give me an appointment but they never have.
+
+DOCTOR J584
+Really?  It says here in August that you were um; you were enrolled in that Social Work Homeless Program right?
+
+PATIENT J584
+Uh yeah that was @@@.
+
+DOCTOR J584
+@@@ it says that @@@.  
+
+PATIENT J584
+No I'm living by myself now.  I was with my cousin.
+
+DOCTOR J584
+Oh you have your own place now?
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Okay.
+
+PATIENT J584
+Uh I got my 100% compensation.  No well actually I'm living with my daughters now and renting them a house so they have a place to live with my daughter.
+
+DOCTOR J584
+Last time you saw mental health was ’09?
+
+PATIENT J584
+Yeah that's what I'm saying.
+
+DOCTOR J584
+Do you need appointment to see them or do you just need to call?
+
+PATIENT J584
+That I don't know.  I usually see him out in Aurora on a computer screen.  I was seeing him here for a while.
+
+DOCTOR J584
+Okay.  Um which uh medication did you want?
+
+PATIENT J584
+For the blood pressure.
+
+DOCTOR J584
+Right, I'll do that.
+
+PATIENT J584
+Trazodone and there's another one for my psych @@@ or something.
+
+DOCTOR J584
+The aripiprazole?
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Okay.
+
+PATIENT J584
+The cigarette pills.
+
+DOCTOR J584
+I will fill that one.
+
+PATIENT J584
+Which one?
+
+DOCTOR J584
+The aripiprazole.
+
+PATIENT J584
+Okay.
+
+DOCTOR J584
+Just to let you know.
+
+PATIENT J584
+I think I still got like two.
+
+DOCTOR J584
+With one refill but um I want you to see them.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Cause they manage those okay.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Cause I don't want, I mean I want to make sure that you know they still want you on that.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+We need to see them again.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+I don't remember having you on the trazodone, let's see.
+
+PATIENT J584
+Well he had me on that.
+
+DOCTOR J584
+I know but it doesn't even come up in the computer.  Probably because you haven't seen him in a while.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Do you still take it?
+
+PATIENT J584
+I'm out of it.
+
+DOCTOR J584
+When was the last time you got it?
+
+PATIENT J584
+Hmm oh probably last year some time.
+
+DOCTOR J584
+Yeah what did you take it for?
+
+PATIENT J584
+Sleep.
+
+DOCTOR J584
+You still need it.
+
+PATIENT J584
+Yeah.  I'm up three times a night.
+
+DOCTOR J584
+Okay, what else do you need?
+
+PATIENT J584
+@@@.
+
+DOCTOR J584
+You and me both.
+
+PATIENT J584
+Other than that I've been feeling good.
+
+DOCTOR J584
+You have no complaints?
+
+PATIENT J584
+No.
+
+DOCTOR J584
+Okay.  Um any chest pain or shortness of breath, diarrhea, headaches, vision changes, blurry vision, double vision, nothing?
+
+PATIENT J584
+No.  Headaches every now and then but.
+
+DOCTOR J584
+Yeah weight changes or night sweats, you're not gaining weight?
+
+PATIENT J584
+That's why I'm doing boxing.
+
+DOCTOR J584
+How have you been eating?
+
+PATIENT J584
+Good.  That's the thing you know, it doesn't bother me not to eat, probably better for me @@@.
+
+DOCTOR J584
+Well how's your diet?  I mean is your diet healthy you know?
+
+PATIENT J584
+Yeah I mean, I cook for myself but the kids, I usually fix their meal.
+
+DOCTOR J584
+Well this last note from the GI people, the colonoscopy that I wanted you to do, said that um they're waiting for your call.
+
+PATIENT J584
+Oh okay.
+
+DOCTOR J584
+And call them please.
+
+PATIENT J584
+Alright, I'll plan to stop over.
+
+DOCTOR J584
+Whatever you want but let's do that.
+
+PATIENT J584
+Okay.
+
+DOCTOR J584
+Okay.  Um and then um.
+
+PATIENT J584
+I thought they were going to call me.
+
+DOCTOR J584
+No.
+
+PATIENT J584
+Okay I'll make arrangements.
+
+DOCTOR J584
+And then you're gonna, @@@ let me know it's my attending that they need to actually formally re-request these through the Mental Health or you can just call them.
+
+PATIENT J584
+Okay.
+
+DOCTOR J584
+I don’t actually know that.  But otherwise you're feeling okay right?
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+The hydrochlorothiazide, the trazodone and the meloxicam, but we're going to try something new for because that's not working.
+
+PATIENT J584
+Yeah.  It never has.
+
+DOCTOR J584
+Really?  Well so there's no reason to continue it.  You had that ear wax before, is that better?
+
+PATIENT J584
+Cool.
+
+DOCTOR J584
+The hearing is fine?
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Um and then.  So not checking the levels @@@, you had the hep C?
+
+PATIENT J584
+Uh-huh.
+
+DOCTOR J584
+Uh do you still see the Liver Clinic ever?
+
+PATIENT J584
+Uh I just gave them blood today; I should have done it.
+
+DOCTOR J584
+For the Liver Clinic?
+
+PATIENT J584
+@@@.
+
+DOCTOR J584
+When is your appointment at?
+
+PATIENT J584
+@@@ she said she was get hold of me the first of the year sometime because some new pills were coming out.  
+
+DOCTOR J584
+Okay.
+
+PATIENT J584
+Those new pills.
+
+DOCTOR J584
+So is she gonna call you?
+
+PATIENT J584
+Yeah she was going to get in contact so I can get those new pills coming out.
+
+DOCTOR J584
+For the.
+
+PATIENT J584
+@@@ my cousin @@@ on it.
+
+DOCTOR J584
+Yep.  And what was the, did you have a history of IV drug use?
+
+PATIENT J584
+Yes sir.
+
+DOCTOR J584
+Okay.
+
+PATIENT J584
+Long time.
+
+DOCTOR J584
+What did you use?
+
+PATIENT J584
+Heroin, crystal, dope.  You name it, I've done it doc you know.
+
+DOCTOR J584
+@@@.
+
+PATIENT J584
+But I'm clean today.  I haven't touched a thing for three years.  
+
+DOCTOR J584
+I wish I would have known you were getting your @@@, cause there are some @@@ and other blood work um just like blood count and stuff like that.
+
+PATIENT J584
+Oh.
+
+DOCTOR J584
+You don't have to do it today um but I'll put in.
+
+PATIENT J584
+Yeah put it for next time, whatever is due you know.  Yeah I thought I was doing the blood test for NAME this morning.
+
+DOCTOR J584
+Yeah.
+
+PATIENT J584
+But.
+
+DOCTOR J584
+It is.
+
+PATIENT J584
+Yeah okay.
+
+DOCTOR J584
+Yeah this is all the liver.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Okay but just baseline cause I want to check your um, so have you eaten today?
+
+PATIENT J584
+No.
+
+DOCTOR J584
+Nothing?
+
+PATIENT J584
+Well I had a cup of tea.
+
+DOCTOR J584
+Cup of tea, with sugar?
+
+PATIENT J584
+Yeah and milk.
+
+DOCTOR J584
+What time?  @@@.
+
+PATIENT J584
+Oh.
+
+DOCTOR J584
+So come back for the, when you're fasting, next time you're here for an appointment.  If you like, there's no rush but maybe in the next couple weeks or so, lipid profile and then complete blood count.
+
+PATIENT J584
+What’s that all about.
+
+DOCTOR J584
+That's just a routine check you know to make sure.  Did you have your flu shot?
+
+PATIENT J584
+No.
+
+DOCTOR J584
+Do you want one?
+
+PATIENT J584
+No.
+
+DOCTOR J584
+Why?
+
+PATIENT J584
+Because I don’t really get sick.
+
+
+DOCTOR J584
+No, alright. 
+
+PATIENT J584
+Okay.  Now that I've moved in with my daughters, I've been getting sick cause they work with kids you know.
+
+DOCTOR J584
+Okay.
+
+PATIENT J584
+And they're always sick.  Now I'm pretty good.
+
+DOCTOR J584
+Okay. Let's see.  Have we done your PSA before?
+
+PATIENT J584
+What's that?
+
+DOCTOR J584
+Prostate.
+
+PATIENT J584
+Yeah. I think, I don’t know.
+
+DOCTOR J584
+It was in 09, so let's do that again.  
+
+PATIENT J584
+@@@.
+
+DOCTOR J584
+Uh well actually do you have any urinary symptoms, any problems urinating or stuff like that?
+
+PATIENT J584
+@@@.
+
+DOCTOR J584
+The recommendations are +/-.  Some people say check it, some say don't check it.  You're not having any symptoms, and this one was normal.
+
+PATIENT J584
+Yeah, for all the shit I’ve done, I’m…
+
+DOCTOR J584
+Yeah, you're list is short.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+For most of my patients it's long.
+
+PATIENT J584
+My one woman doctor down there is the one that told me I'd pickled myself @@@.
+
+DOCTOR J584
+@@@.
+
+PATIENT J584
+I'm embalming myself.
+
+DOCTOR J584
+There you go.
+
+PATIENT J584
+So I don't know.
+
+DOCTOR J584
+Okay, so you're going to follow up with Mental Health.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+You're going to follow up with Liver.
+
+PATIENT J584
+Right.
+
+DOCTOR J584
+You’re going to follow up with the GI guys for the scope.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+And you're going do the liver, um you're going to do the Mental Health and you're going to do the.
+
+PATIENT J584
+Yes.
+
+DOCTOR J584
+GI and Liver are going to do their part.  So you have two and they have one.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+So hopefully three upcoming things for you.
+
+PATIENT J584
+Alright.
+
+DOCTOR J584
+Okay.  We'll refill the hydrochlorothiazide.  I'm going to check with my attending about changing the new one for the meloxicam since it's not working.  
+
+PATIENT J584
+The knee right here, I've had them look at it, there's no cartilage left in the knee now.
+
+DOCTOR J584
+Yeah bone on bone.
+
+PATIENT J584
+What it does, you know it just pops every now and then and I hear it pop.  It's not doing it right now but.
+
+DOCTOR J584
+Yeah.  How's the winter been for you, you haven't gotten sick at all or anything like that?
+
+PATIENT J584
+Nope.
+
+DOCTOR J584
+Open your mouth and say ah for me.
+
+PATIENT J584
+Ah.
+
+DOCTOR J584
+You a Bears fan?
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+We stopped them.
+
+PATIENT J584
+But I knew Green Bay was going to kick your ass man, I just knew it.
+
+DOCTOR J584
+Well what do you think about NAME, what do you think about that whole thing?
+
+PATIENT J584
+He's getting the shaft I think.
+
+DOCTOR J584
+Do you think?
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Do you think they told him to not come in?
+
+PATIENT J584
+Well not only that but you know it's not all his fault man.  We need an offense to do anything.
+
+DOCTOR J584
+Yeah.
+
+PATIENT J584
+You know.  And then once the doc tells you you can't go in, you ain't going in and you know.
+
+DOCTOR J584
+@@@.
+
+PATIENT J584
+@@@ not to you know.
+
+DOCTOR J584
+You don't think he kinda limped out a little bit?
+
+PATIENT J584
+Well yeah he did I think, I mean I do, but maybe next year.
+
+DOCTOR J584
+I just don't like his attitude.
+
+PATIENT J584
+Well he bums everybody out you know.
+
+DOCTOR J584
+That's the problem.  
+
+PATIENT J584
+He sat on that bench and pissed everyone off, you know.
+
+DOCTOR J584
+You know and that's not a good quarterback.
+
+PATIENT J584
+No.
+
+DOCTOR J584
+That's not a member of the team.  Deep breath, breathe out, breathe in, again.  Good.  Lay back for me.  You don't notice any water in your legs or anything?
+
+PATIENT J584
+No.
+
+DOCTOR J584
+All in all, he just, you can sit up.  @@@.
+
+PATIENT J584
+I know.
+
+DOCTOR J584
+I just don't like his attitude.
+
+PATIENT J584
+Yeah @@@.  You know he's shown that a few times already too you know.  That's where uh.
+
+DOCTOR J584
+And then he thinks he's getting the shaft but I think part of the time the problem @@@ by the way he carries himself.
+
+PATIENT J584
+Yeah I mean they say he's soft but I don't know where the ACL is in the knee, I imagine it hurts.
+
+DOCTOR J584
+Yeah but, Roethlisberger played on a broken foot.
+
+PATIENT J584
+Yeah I mean look at all @@@.
+
+DOCTOR J584
+NAME would have come in with his arm in a sling okay.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+You know.
+
+PATIENT J584
+Then they really messed up when they put that second quarterback NAME.  They should have put NAME in for him.
+
+DOCTOR J584
+Yeah.  Um.
+
+PATIENT J584
+But the offense really sucks; we got to get an offense.
+
+DOCTOR J584
+Are you still smoking?
+
+PATIENT J584
+A little bit yeah, I'm down to less than, well about a pack a day now.
+
+DOCTOR J584
+So what, what do you want?  Do you a patch or do you want the gum or do you want?
+
+PATIENT J584
+I can't chew gum I got dentures.
+
+DOCTOR J584
+How about the patch?
+
+PATIENT J584
+The patch I tried but it didn't work.  @@@.  You said you wanted to give me two of them @@@.  I'd probably be able to do this on my own.
+
+DOCTOR J584
+Well let me know which do you want, do you want to try to do it yourself and then if it doesn't work let me know?
+
+PATIENT J584
+Yeah.  Let's do that, you know I'm managing to quit all my other shit and.
+
+DOCTOR J584
+Okay.  So let's do that.
+
+PATIENT J584
+I'm down, I mean I was smoking about 2 1/2 packs and I'm down to.
+
+DOCTOR J584
+Good.
+
+PATIENT J584
+Oh yeah.  About a pack, little less than a pack a day now.
+
+DOCTOR J584
+Okay.
+
+PATIENT J584
+And I can't smoke at home cause my girls won't let me smoke in the house.
+
+DOCTOR J584
+Those are good girls.
+
+PATIENT J584
+Other than that, I don’t know, everything has been okay.
+
+DOCTOR J584
+Your labs are back and your liver function is a little high, @@@.
+
+PATIENT J584
+You when I talked to NAME she said I got a little bit of scarring on there.
+
+DOCTOR J584
+Yeah you do.  @@@.
+
+PATIENT J584
+What's that?
+
+DOCTOR J584
+It is going up @@@ 120, 130.  One the enzymes in your liver.
+
+PATIENT J584
+Oh.
+
+DOCTOR J584
+So you know.
+
+PATIENT J584
+Is it still going up now?
+
+DOCTOR J584
+Yeah the last time they checked it was in June of 10 and it was 120 and now January @@ it's 159, so.
+
+PATIENT J584
+That's not good huh?
+
+DOCTOR J584
+Not great but I mean the rest of your liver enzymes look pretty good.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+So that's good.
+
+PATIENT J584
+@@@ quit drinking.
+
+DOCTOR J584
+Yeah it is.  Hang on, so we'll see.  We'll see what they say.  Let me go check with my attending real quick uh.  
+
+PATIENT J584
+So you think you are going to get hold of Mental Health or am I?
+
+DOCTOR J584
+I think you are.
+
+PATIENT J584
+I need to go downstairs to I think don't I.  So I can make an appointment with them.
+
+DOCTOR J584
+@@@ Agent Orange @@@.
+
+PATIENT J584
+Oh yeah, well years ago back in the 70s I was tested down in Arkansas and I had but now they don't take it anymore do they?
+
+DOCTOR J584
+I’m sorry?
+
+PATIENT J584
+They don't, there's no claim for it anymore and they don't test for it anymore do they?
+
+DOCTOR J584
+They don't?
+
+PATIENT J584
+Not that I know of.  Cause I've always wanted to fight them on that cause my daughter's missing her five fingers on her one hand.
+
+DOCTOR J584
+Uh-huh.
+
+PATIENT J584
+You know.  @@@.
+
+DOCTOR J584
+Okay let me go ask him about the Mental Health and the meloxicam.
+
+PATIENT J584
+Okay doc.
+
+DOCTOR J584
+And @@@.
+
+PATIENT J584
+Sure.
+
+(DOCTOR OUT:  52:04  DOCTOR IN:  60:35)
+
+DOCTOR J584
+Hey, okay.  So well this is done.
+
+PATIENT J584
+What's that the meloxicam shit, @@@.
+
+DOCTOR J584
+In your knee?
+
+PATIENT J584
+@@@.
+
+DOCTOR J584
+It can be.  So here's what @@@.  We could do @@@ I think you should probably see PT again for your knee because strengthening the muscles surrounding your knee is the best way to support your knee and decrease the pain um.  You saw them once before right?
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+When was the last time, it's been a while ago right?
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Would you be interested in doing that or no?  
+
+PATIENT J584
+He told me, I mean he told me exercises @@@.
+
+DOCTOR J584
+Right.
+
+PATIENT J584
+Because putting in a new kneecap is @@@ specialist.
+
+DOCTOR J584
+So what do you think?
+
+PATIENT J584
+Uh I guess I'll give it a try.
+
+DOCTOR J584
+Alright.  So I'll do PT and then have you ever tried that capsaicin cream?
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Has it worked for you?
+
+PATIENT J584
+No.
+
+DOCTOR J584
+Not at all?  How long did you use it for?  You should give it about a month for it to work.
+
+PATIENT J584
+Oh yea?  No only used it for a couple of weeks.
+
+DOCTOR J584
+Do you want to try it again?
+
+PATIENT J584
+Sure.
+
+DOCTOR J584
+And the problem is that after like month beyond this, the next thing we do is Vicodin or like narcotics and someone with your history.
+
+PATIENT J584
+They don't want to give me Vicodin.
+
+DOCTOR J584
+But you know what I mean that's the problem.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+You know we're kind of running into a brick wall.
+
+PATIENT J584
+Yeah that's fine.  I mean I can deal with it.  The only thing is it's hard getting up and down.
+
+DOCTOR J584
+Well I'll write you for capsaicin, I'll write you for meloxicam again I'll just refill it.  The trazodone I'm going to let the Mental Health and you’re good to go see them and you need to make an appointment, it's been less than two years since you've seen them, so just call.
+
+PATIENT J584
+Oh okay.
+
+DOCTOR J584
+So you need to call.
+
+PATIENT J584
+GI guys.
+
+DOCTOR J584
+GI guys and.
+
+PATIENT J584
+The Mental Health.
+
+DOCTOR J584
+Mental Health and Liver is going to make your appointment for you.
+
+PATIENT J584
+Alright.
+
+DOCTOR J584
+And then I will put in the lipid profile and CBC in the computer.
+
+PATIENT J584
+Uh-huh.
+
+DOCTOR J584
+And um get those when you've been fasting for 12 hours so that we can do those to check a cholesterol.  So.
+
+PATIENT J584
+Okay.
+
+DOCTOR J584
+Okay.
+
+PATIENT J584
+Oh give blood okay.
+
+DOCTOR J584
+Blood.  So those will be in the computer next time you're around. Get those done. And then um that's it.
+
+PATIENT J584
+Cool.
+
+DOCTOR J584
+I'll see you like six months unless something changes.
+
+PATIENT J584
+Yeah that'll work.  
+
+DOCTOR J584
+Are you going to be here sooner?
+
+PATIENT J584
+@@@.
+
+DOCTOR J584
+You can do whatever you want.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Give them a call for that.
+
+PATIENT J584
+Yeah.
+
+DOCTOR J584
+Thanks.
+
+PATIENT J584
+Alright doc thanks a lot.  Good to see you.
+
+DOCTOR J584
+Okay give this to them as you check out.
+
+PATIENT LEAVES:  63:45
+
+Time is 11:00 o'clock.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249428
+TRANSACTION # 578-10-2-316-0103

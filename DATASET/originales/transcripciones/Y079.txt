@@ -1,0 +1,1171 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR Y079
+PATIENT?  How do you do, I'm DOCTOR.
+
+PATIENT Y079
+Really.
+
+DOCTOR Y079
+Uh-huh.
+
+PATIENT Y079
+Where's DOCTOR at?  @@@.  So you're taking DOCTOR's place huh.
+
+DOCTOR Y079
+Sorry?
+
+PATIENT Y079
+I said you taking DOCTOR's place.
+
+DOCTOR Y079
+Which DOCTOR?
+
+PATIENT Y079
+Huh?
+
+DOCTOR Y079
+You haven't been seen in the GMC Clinic in quite a while.
+
+PATIENT Y079
+Yeah every six months, but the last time I was here was DOCTOR.  He's the one that wrote my last prescriptions.  That's why I came, @@@ taking his place.
+
+DOCTOR Y079
+Um yeah.  I mean I'm really taking his place @@@ but.
+
+PATIENT Y079
+Okay, okay yeah they got your name and stuff here.
+
+DOCTOR Y079
+Yeah right okay.
+
+PATIENT Y079
+So I was @@@.
+
+DOCTOR Y079
+So what brings you in today?
+
+PATIENT Y079
+The letter.  Usually I @@@.
+
+DOCTOR Y079
+@@@ make you come in.
+
+PATIENT Y079
+Right usually twice a year.
+
+DOCTOR Y079
+Okay.
+
+PATIENT Y079
+To see my primary caregiver but I had other, because they called me first yeah @@@ decide my other isseus in the meantime I need to see the dentist and @@@.
+
+DOCTOR Y079
+Uh-huh yeah.
+
+PATIENT Y079
+And I need a referral to the dentist and I been complaining to uh when I come to the Emergency Room cause I been having chest pain.
+
+DOCTOR Y079
+Yeah they said that it wasn't anything @@@.
+
+PATIENT Y079
+Yeah but after a while I'm still having chest pain plus my left arm goes numb.
+
+DOCTOR Y079
+Are you still having that now?
+
+PATIENT Y079
+Huh?
+
+DOCTOR Y079
+Right now?
+
+PATIENT Y079
+Huh?
+
+DOCTOR Y079
+Like right now?
+
+PATIENT Y079
+Yeah it's, you know when I really notice it is when I'm sitting, I'm sitting and the angle I'm sitting at is like you know first it feels like maybe you've strained a muscle then it starts hurting then my left arm goes numb and the circulation @@@.
+
+DOCTOR Y079
+So this is the same thing you had in the ER?
+
+PATIENT Y079
+Right, yeah but I been telling them like for the last, you know for a long time.
+
+DOCTOR Y079
+So you had a stress test in May that was normal.
+
+PATIENT Y079
+Yeah that was last May.
+
+DOCTOR Y079
+Um and all your EKGs are normal.
+
+PATIENT Y079
+Right.
+
+DOCTOR Y079
+So it doesn't sound like it's your heart.
+
+PATIENT Y079
+Yeah it seemed like, I don't know if it's like a muscle part or I was wondering maybe you know they had seen some type of tissues that was in my lungs you know now that's something do I have cancer, is that causing the pain, do I have a tumor?  You know so I'm just wondering what you call it because it just keeps bugging me.  You know they gave me blood cultures and.
+
+DOCTOR Y079
+Yeah.
+
+PATIENT Y079
+Everything you know the last time I was over at the Emergency Room the last time.
+
+DOCTOR Y079
+Everything was totally normal.
+
+PATIENT Y079
+Yeah, it was everything was normal.  I said then why am I still having pain and.
+
+DOCTOR Y079
+What did she say?
+
+PATIENT Y079
+She's said she didn't know because all your tests come back as normal.
+
+DOCTOR Y079
+Yeah I mean does it hurt if you push on it?
+
+PATIENT Y079
+Huh?  Here's what I show, sitting I first started out and I'm sitting dang you know it started hurting and I sit up and I take the pressure off.
+
+DOCTOR Y079
+Does it get better when you move around?
+
+PATIENT Y079
+I move around and I change positions.
+
+DOCTOR Y079
+It gets better.
+
+PATIENT Y079
+Right.
+
+DOCTOR Y079
+Sounds like it’s a muscle, you know a pulled muscle.
+
+PATIENT Y079
+You know, but it's been like this going on year.  But of course I came in pain recently, you know before I came in - my left arm, you know just like I told you it gets numb, like needles and pins.
+
+DOCTOR Y079
+Do you feel weak in that left arm?
+
+PATIENT Y079
+Huh.  It’s not weak, it’s like, you know I lose sensation you know it’s like, @@@.
+
+DOCTOR Y079
+Like every day or?
+
+PATIENT Y079
+@@@ circulation.
+
+DOCTOR Y079
+How often does that happen?
+
+PATIENT Y079
+That’s every day.
+
+DOCTOR Y079
+Like right now?
+
+PATIENT Y079
+Huh?  Right now it's not bothering; I just threw it across, see if maybe uh I move my arm you know too much and the wrong angle, because I had surgery back in 2006.
+
+DOCTOR Y079
+Oh.
+
+PATIENT Y079
+On this arm.
+
+DOCTOR Y079
+So if you had it @@@ I bet it's a little bit of the nerve that's irritated.
+
+PATIENT Y079
+Yeah because you know @@@ when I came in when I had the surgery on this, right I had lost all function of this arm.
+
+DOCTOR Y079
+Hmm, this is post-surgical.
+
+PATIENT Y079
+Alright, now this is bothering.  Kind of like @@@.
+
+DOCTOR Y079
+Yeah.
+
+PATIENT Y079
+Sometimes it's like needles and pins all up and down my arm because it's @@@.  @@@ any pain, @@@ you know like what I used to do with the type of work I was doing then you know I was trying to @@@.  So the only thing I connect it to you know was maybe the surgery you know, cause uh after surgery I had a lot of occupational therapy.
+
+DOCTOR Y079
+@@@.  Yeah.
+
+PATIENT Y079
+You know rebuild my muscle up cause I had to hold my arm up when I came here before the surgery and like the doctor said, you know, gave me those tests and then they did a probe you know they took blood, they @@@, biopsies, five needle prong, @@@.
+
+DOCTOR Y079
+Hmm.
+
+PATIENT Y079
+We're going to do surgery blah blah and now I mean I've already had one surgery when they removed a tumor @@@.
+
+DOCTOR Y079
+Well @@@ new symptoms.
+
+PATIENT Y079
+Huh?
+
+DOCTOR Y079
+Nothing new is going on.
+
+PATIENT Y079
+No this is, these two, the chest and the arm and you know I need to see a dentist, not like I want to but to check what you know when I try sometime when I try to eat or drink something or liquids you know there's a pain in my gums, I don't know what that, but I have to see a dentist that had.
+
+DOCTOR Y079
+Any fevers or chills or big lumps or bumps anywhere?
+
+PATIENT Y079
+No just pain.  Cause I would try to get a referral back cause I need to get some partials or maybe just this little a tooth that I need to have extracted, it broke off.
+
+DOCTOR Y079
+Okay.
+
+PATIENT Y079
+And maybe the you know with if it increases are getting in my system or @@@ pain for this.
+
+DOCTOR Y079
+Now um and you're followed by Oncology for, what did you last see the oncologist for?
+
+PATIENT Y079
+Well what's the date on that?
+
+DOCTOR Y079
+You just saw her last month.
+
+PATIENT Y079
+Yeah that's when I thought I was having pain.  
+
+DOCTOR Y079
+For the oncologist, the cancer doctors.
+
+PATIENT Y079
+When did I see them?
+
+DOCTOR Y079
+Last month.
+
+PATIENT Y079
+Really.  Who was the doctor?
+
+DOCTOR Y079
+You don't remember this at all?
+
+PATIENT Y079
+I've been here so many times @@@.  I know I @@@ see like before when I was in here when they did the biopsy.
+
+DOCTOR Y079
+Oh did you have prostate cancer?
+
+PATIENT Y079
+Huh?
+
+DOCTOR Y079
+Do you have prostate cancer?
+
+PATIENT Y079
+Not that I know of.  I just had a prostate exam last month.
+
+DOCTOR Y079
+Are you taking any medicine for your prostate?
+
+PATIENT Y079
+Yeah I take um – what’s that?  They have finasteride and I got.
+
+DOCTOR Y079
+Oh you just have an enlarged prostate.
+
+PATIENT Y079
+Right they gave the medicine for you know @@@.
+
+DOCTOR Y079
+But why did you see the oncologist for that?
+
+PATIENT Y079
+Well the program I was in that's what they've been sending me to cause see I went up, I'm in a program that uh gives you a multivitamin and at that time like it would be either selenium to see if it had any affect on decreasing your chances of you know getting prostate cancer.
+
+DOCTOR Y079
+Hmm.
+
+PATIENT Y079
+But I've been in that program like for seven years.
+
+DOCTOR Y079
+Okay, okay.
+
+PATIENT Y079
+Yeah so I had a colonoscopy, I had that just once a year, I had a prostate exam so like I had a prostate exam.
+
+DOCTOR Y079
+Okay, gotcha, gotcha.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+Um.
+
+PATIENT Y079
+So I was required, so I was asking them about you know the tumor cause they seen a growth and they checked it before and said it was benign then I was wondering could I have cancer which would have affected me.
+
+DOCTOR Y079
+Your chest x-ray in December was completely normal.
+
+PATIENT Y079
+Uh-huh.  Guess I know before 200@, because like I had this surgery.
+
+DOCTOR Y079
+Last year.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+Um and you've got some fibrosis in your lungs.
+
+PATIENT Y079
+That's what it is.
+
+DOCTOR Y079
+Do you smoke?
+
+PATIENT Y079
+Yeah unfortunately I do smoke.
+
+DOCTOR Y079
+Yeah see that's where the pain is from.
+
+PATIENT Y079
+Uh-huh.  Yeah the pain it goes here on this side, on the same side as my heart.
+
+DOCTOR Y079
+Your lungs are becoming stiff and they're not moving that well with air.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+And your smoking will continue to make it worse.
+
+PATIENT Y079
+Uh-huh.  Okay I'm glad you told me that.
+
+DOCTOR Y079
+I mean that's what's going on here yeah.
+
+PATIENT Y079
+Cause I been thinking @@@.
+
+DOCTOR Y079
+Have you been @@@ substances?
+
+PATIENT Y079
+Yeah that's what kind of led me to surgery back in 2006 because I had the episode, you know I was doing rehab construction and so like one time we had to remove you know like we cleaned some stuff from this building so we used some caustic chemicals and I had to put on you know a protective suit and the doctor was saying DOCTOR said maybe you know it had seeped through and affected my renal system cause I had this tumor that popped up you know on my left arm, I couldn't use it.
+
+DOCTOR Y079
+Uh-huh.
+
+PATIENT Y079
+I broke out in a rash.  For two days I couldn't see my eyes swole shut you know.  So when I came in to see them because it happened the same time I was seeing my regular physician which was DOCTOR then.  You know he rushed me to the Emergency Room and that's when I thought this is why my system is breaking down.
+
+DOCTOR Y079
+Oh okay yeah, I see.
+
+PATIENT Y079
+I lost weight, you know I couldn't eat.
+
+DOCTOR Y079
+Okay.
+
+PATIENT Y079
+Couldn't do nothing.
+
+DOCTOR Y079
+Alright.
+
+PATIENT Y079
+Yeah I was really out of it.
+
+DOCTOR Y079
+We need to get you to stop smoking.
+
+PATIENT Y079
+I need to do that for sure.  Especially since you alerted me to the fibrosis part and all the pain from this side.
+
+DOCTOR Y079
+Oh.
+
+PATIENT Y079
+I'm still thinking about because they had you know @@@ give me x-rays back in 2006 where they wanted to do exploratory surgery but the lady that was in charge of me then said no he just came out of surgery that's benign, blah, blah and I was dealing with the kid saying okay we got Hepatis C, we have to deal with this.
+
+DOCTOR Y079
+Hmm.
+
+PATIENT Y079
+And I didn't know I had that cause they didn't inform me.
+
+DOCTOR Y079
+Your head, what's going on with that?
+
+PATIENT Y079
+Huh?
+
+DOCTOR Y079
+With your hepatitis?
+
+PATIENT Y079
+Well I had first contacted hepatitis when I was overseas but it wasn't hepatitis C.
+
+DOCTOR Y079
+But you're not doing treatment for that?
+
+PATIENT Y079
+No since, she did – she gave me what was that, what's it called I can't remember @@@ and they did a biopsy, checking my liver.
+
+DOCTOR Y079
+Oh you had a biopsy.
+
+PATIENT Y079
+Right.  She wanted @@@ liver biopsy @@@.
+
+DOCTOR Y079
+@@@ when was that liver biopsy.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+And when was your oh, so you haven't had your liver stuff checked for a long time.
+
+PATIENT Y079
+What?
+
+DOCTOR Y079
+Why didn't they check your liver when you were in the hospital?
+
+PATIENT Y079
+The last time I did the liver was @@@ and they gave me the biopsy.
+
+DOCTOR Y079
+Can you get up to the Lab today?
+
+PATIENT Y079
+Huh?
+
+DOCTOR Y079
+Can you go to the Lab today?
+
+PATIENT Y079
+I'm here.
+
+DOCTOR Y079
+Okay.  We'll just check your liver today.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+In the Lab.
+
+PATIENT Y079
+Yeah but I was just trying @@@ hepatitis @@@ I have hepatitis @@@ so that I could be at Hines, they were going to keep me for 30 days, @@@ rest, eat and you know when I discovered all that, you know jaundice had set in you know cause I was working and okay, what'd you do overseas, okay I said hey sometime I would be out in the field you know and would drink water and we're supposed to put the iodine tablets in the water but I was thirsty so most of the time we didn't do that you know.
+
+DOCTOR Y079
+Oh.
+
+PATIENT Y079
+Yeah so I found out it was hepatitis A @@@ you have had this since 2001 and I said no one said nothing and so she did some blood tests and oh you have hepatitis C now and ain't this a trip and then she @@@ tests to see if she was gonna prescribe some medications to uh you know to help me with it.
+
+DOCTOR Y079
+Well today, do you need anything today specifically the thiazide, medications or anything you need refills on all your medications?
+
+PATIENT Y079
+I don't need refills cause I got emergency refills to last me till @@@.
+
+DOCTOR Y079
+So do you know what med you take?
+
+PATIENT Y079
+Let's see if I got it written down.
+
+DOCTOR Y079
+Do you take amlodipine?
+
+PATIENT Y079
+Right.  I know I got a list, number one is hydrochlorothiazide.
+
+DOCTOR Y079
+Hydrochlorothiazide.
+
+PATIENT Y079
+Finasteride.
+
+DOCTOR Y079
+Hydrochlorothiazide, do you take the metoprolol?
+
+PATIENT Y079
+Right, twice a day.
+
+DOCTOR Y079
+Do you take potassium?
+
+PATIENT Y079
+Potassium chloride twice a day of the tablets.
+
+DOCTOR Y079
+And @@@ study @@@.
+
+PATIENT Y079
+Yeah @@@.
+
+DOCTOR Y079
+And that's all your medicines right for now?
+
+PATIENT Y079
+For now right, yeah so I take an aspirin.
+
+DOCTOR Y079
+Do you take; you just take one medicine for your prostate, just the finasteride?
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+And then the other things selenium.
+
+PATIENT Y079
+Yeah selenium is mostly a vitamin.
+
+DOCTOR Y079
+Yeah.
+
+PATIENT Y079
+Cut off the selenium.
+
+DOCTOR Y079
+I'll give you a refill of that.
+
+PATIENT Y079
+@@@ Emergency refill @@@, in the Emergency Room I told them.
+
+DOCTOR Y079
+Yeah.
+
+PATIENT Y079
+I had ran out cause I called in and she said okay wait until you see a regular primary @@@ Emergency Room she put me on that.
+
+DOCTOR Y079
+And I’ll refer you to a dentist today.
+
+PATIENT Y079
+@@@.
+
+DOCTOR Y079
+Now your blood pressure was a little bit high.
+
+PATIENT Y079
+Yeah it's high.  Well I was drinking coffee before I came in.
+
+DOCTOR Y079
+Oh this morning?
+
+PATIENT Y079
+Yeah so @@@.
+
+DOCTOR Y079
+Oh you need to @@@.
+
+PATIENT Y079
+Uh the last time I saw @@@ just for fun, coffee and stress. I had stress coming over cause I was with some high school kids you know that's stress all the time @@@.
+
+DOCTOR Y079
+Oh gee okay.  Um but uh and you have been smoking.
+
+PATIENT Y079
+Oh I smoke about 10 cigarettes a day.  @@@
+
+DOCTOR Y079
+Okay.
+
+PATIENT Y079
+About ten a day.
+
+DOCTOR Y079
+And are you working?
+
+PATIENT Y079
+Huh?
+
+DOCTOR Y079
+Are you working?
+
+PATIENT Y079
+No.
+
+DOCTOR Y079
+Okay.  And you took all your blood pressure medicines this morning?
+
+PATIENT Y079
+Right at 6 o'clock.  Yeah the metoprolol I take twice a day.
+
+DOCTOR Y079
+Yeah.  So the um, so for the hepatitis C we'll recheck your lab today and um.
+
+PATIENT Y079
+Yeah but I had a little biopsy and she didn't give me any medication so I told her okay you hold it steady you know whatever it is you’re doing - you know it was really affecting me but I was shocked to find out they had to give you progress from A to C and there was a consequence of having C man, what's next.  The longer I live the more crap come up to mess with.
+
+DOCTOR Y079
+Yeah.
+
+PATIENT Y079
+Yeah I know your body's like a car, you got to take it to Jiffy Lube and Maaco and all this, @@@ you know.
+
+DOCTOR Y079
+And then for your high blood pressure you take all these, the hydrochlorothiazide.
+
+PATIENT Y079
+Yeah one a day.  Do I have to take it night and day; I take that one with my cholesterol.  
+
+DOCTOR Y079
+Oh you take amlodipine.
+
+PATIENT Y079
+Right.  Half a tablet a day.
+
+DOCTOR Y079
+Maybe we'll go up on that to a full tablet um.  Your blood pressure is kind of high today.  Higher than we want.
+
+PATIENT Y079
+No I have no problem.  First reading she says was 149.
+
+DOCTOR Y079
+You don't take this uh terazosin?
+
+PATIENT Y079
+Yeah terazosin, I take that in the evening.
+
+DOCTOR Y079
+Oh you do take it.
+
+PATIENT Y079
+Right, like I said one in the evening right before bedtime, with the felodipine.
+
+DOCTOR Y079
+Yeah.
+
+PATIENT Y079
+I forgot about that.  I take something in the evening.
+
+DOCTOR Y079
+So you don't think we need to increase the amlodipine?
+
+PATIENT Y079
+Huh?
+
+DOCTOR Y079
+I think we should increase the amlodipine.
+
+PATIENT Y079
+You do?
+
+DOCTOR Y079
+To a full tablet.
+
+PATIENT Y079
+Okay.
+
+DOCTOR Y079
+Okay.  Cause your blood pressure is.
+
+PATIENT Y079
+I know it's high today.
+
+DOCTOR Y079
+High yeah.
+
+PATIENT Y079
+It was 149 @@@.
+
+DOCTOR Y079
+We're not gonna add anything.
+
+PATIENT Y079
+It was 154.
+
+DOCTOR Y079
+We're not gonna add anything new.  You just take a full pill of that.
+
+PATIENT Y079
+I don't need one, I been on this since 2001.  Now you know I come over her and my pressure be up because I’m going through some pressure with those kids. They be loud.
+
+DOCTOR Y079
+And do you have that, how's your breathing?
+
+PATIENT Y079
+It's alright.  I'm not going to be running up the stairs @@@.
+
+DOCTOR Y079
+But you don't feel short of breath?
+
+PATIENT Y079
+No, only when I get @@@.
+
+DOCTOR Y079
+You don't need any inhalers or anything?
+
+PATIENT Y079
+No had inhalers but that was back in what 2005, they had me inhalers @@@ but that was @@@ but that was in the summertime I had to get it prescribed @@@.
+
+DOCTOR Y079
+Well one thing that we really need to do is get you to stop smoking.
+
+PATIENT Y079
+Yeah I know.  Since you alerted me to fibrosis, I'll have to go look that up when I get home but I'm gonna quit though.  I know @@@.
+
+DOCTOR Y079
+Yeah.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+Yeah.  What was your last prostate level?  I see your cholesterol was good this summer.  
+
+PATIENT Y079
+What was my cholesterol?  I’m in the safe zone?
+
+DOCTOR Y079
+Oh yeah.
+
+PATIENT Y079
+I try to eat a lot of veggies, @@@.  I just eat chicken and fish.
+
+DOCTOR Y079
+Yep it's 100, it's perfect.
+
+PATIENT Y079
+Hey something's good.  @@@ the game @@@.
+
+DOCTOR Y079
+And have you had a colonoscopy?
+
+PATIENT Y079
+Yeah, about two or three years ago.
+
+DOCTOR Y079
+When was that?
+
+PATIENT Y079
+Don't ask me, about two or three years.
+
+DOCTOR Y079
+Was it here?
+
+PATIENT Y079
+Yes, yeah @@@.
+
+DOCTOR Y079
+@@@.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+@@@.
+
+PATIENT Y079
+Yeah 45 minutes, I got to watch the probe, it didn't hurt at all.  It was interesting @@@.
+
+DOCTOR Y079
+You had a liver biopsy done.
+
+PATIENT Y079
+Yeah that's right I had a liver biopsy.
+
+DOCTOR Y079
+@@@.
+
+PATIENT Y079
+Yeah.  Colonoscopy.  @@@ drinking all that water.  @@@.
+
+DOCTOR Y079
+Do you remember if it was normal, the colonoscopy?
+
+PATIENT Y079
+Uh they said it was alright uh-huh.  I don't know if they put it in.
+
+DOCTOR Y079
+It looks like it might have been in 2004.
+
+PATIENT Y079
+What.
+
+DOCTOR Y079
+@@@ your colonoscopy?
+
+PATIENT Y079
+I have no idea @@@ I think it was @@@.  
+
+DOCTOR Y079
+Well that's what; let me just see.
+
+PATIENT Y079
+I'm not sure it was that long ago, maybe four years, seems like I was here in the hospital for surgery in 2006, all in 2006.  @@@.
+
+DOCTOR Y079
+You should go back and see the liver doctors though.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+They want to see you.
+
+PATIENT Y079
+I have no problem with that.  @@@.  2005 no.
+
+DOCTOR Y079
+Hmm.  I don't see it.  Well we'll send you back to the liver doctors in @@@.
+
+PATIENT Y079
+Uh-huh.
+
+DOCTOR Y079
+It's the same people, the GI doctors who do the colonoscopy.
+
+PATIENT Y079
+Now I know I had it, I just don't know what the year.  I didn't think it was that long ago.  I thought it was in 2006, maybe three or four years.  Or was it 2007, I had the biopsy.
+
+DOCTOR Y079
+Okay let me go talk to my boss real quick and we'll get you off to your way.  I think we can increase your amlodipine to, oh when did you get this done?
+
+PATIENT Y079
+They mailed it to me.  It had to come from the series of tests maybe when I was in the Emergency Room.
+
+DOCTOR Y079
+Okay.
+
+PATIENT Y079
+Cause it surprised me well they mailed me something, what's this.
+
+DOCTOR Y079
+From 07,2009, you don't even have any @@@ there.
+
+PATIENT Y079
+I think that's what they said, @@@. Vitamin D was low.  I don't understand it, I be out of everything, @@@.  But @@@.
+
+DOCTOR Y079
+This isn't yours.
+
+PATIENT Y079
+Huh?
+
+DOCTOR Y079
+Well you're not in the Vitamin B Study.  This was mailed to the wrong person.
+
+PATIENT Y079
+Oh.
+
+DOCTOR Y079
+I don't think this was for you.  I can just keep it here.
+
+PATIENT Y079
+@@@.
+
+DOCTOR Y079
+I mean you you're not on any vitamin.
+
+PATIENT Y079
+But they mailed me and that's what @@@.
+
+DOCTOR Y079
+There's nothing in there.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+So it must be a mistake.
+
+PATIENT Y079
+Okay.  So it freaked me out, freaked me out.
+
+DOCTOR Y079
+Yeah.
+
+PATIENT Y079
+You know before I eat and like I say I @@@.  You know my muscles @@@, I take vitamin D anyway.
+
+DOCTOR Y079
+Okay.  Okay I'll put in the referral for.
+
+PATIENT Y079
+@@@ cod liver oil.
+
+DOCTOR Y079
+Oh good.  Give me just a minute.
+
+PATIENT Y079
+Okay doctor.
+
+(DOCTOR OUT:  47:59  DOCTOR IN:  66:31)
+
+DOCTOR Y079
+Hello, okay, sorry about that.
+
+PATIENT Y079
+I'm going @@@.
+
+DOCTOR Y079
+Okay so, okay @@@ smoking okay.
+
+PATIENT Y079
+Okay.
+
+DOCTOR Y079
+And I'll refer you to the dentist.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+And uh you also we'll refer you back to the Liver Clinic and you need to get some labs done today okay.
+
+PATIENT Y079
+Yes.
+
+DOCTOR Y079
+So I'm going to order the labs and you just go right over there and get them all done.  Um.  Okay so go to the Lab and then uh I'm going to put in your dental thing.  How long have your gums been hurting? @@@ how many days a week?
+
+PATIENT Y079
+Oh one month.
+
+DOCTOR Y079
+A month.
+
+PATIENT Y079
+I had it before  @@@.
+
+DOCTOR Y079
+And uh. Okay.
+
+PATIENT Y079
+They gave me a.
+
+DOCTOR Y079
+And uh okay write down this number and call and get a Liver Clinic appointment.
+
+PATIENT Y079
+Okay.
+
+DOCTOR Y079
+It's 1-888.
+
+PATIENT Y079
+1-888.
+
+DOCTOR Y079
+XXX.
+
+PATIENT Y079
+XXX.
+
+DOCTOR Y079
+XXXX.
+
+PATIENT Y079
+XXXX.
+
+DOCTOR Y079
+Tell them you need to be seen the next available appointment.
+
+PATIENT Y079
+Okay.
+
+DOCTOR Y079
+To follow up your hepatitis C.
+
+PATIENT Y079
+Alright.
+
+DOCTOR Y079
+Okay and then let me do all the medications.  Do you want to pick those up today?
+
+PATIENT Y079
+Huh?
+
+DOCTOR Y079
+Your medications.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+You want to pick up your medicines here today?
+
+PATIENT Y079
+Yeah I guess you know, one stop shopping.
+
+DOCTOR Y079
+And you need all your medicines right?
+
+PATIENT Y079
+Right.  That's what they gave me in the Emergency Room.
+
+DOCTOR Y079
+And I changed the amlodipine dose to from 5 to 10 okay.
+
+PATIENT Y079
+Okay.  Yeah cause I've been doing a half tab.
+
+DOCTOR Y079
+Yeah so the ones you have left just take a full one until you get the new ones.
+
+PATIENT Y079
+Okay.
+
+DOCTOR Y079
+I'm giving you enough for about three months or six months I mean.
+
+PATIENT Y079
+Okay, I appreciate that now.
+
+DOCTOR Y079
+You take one tablet of the multivitamin for the prostate?
+
+PATIENT Y079
+Yeah every day.
+
+DOCTOR Y079
+Once a day?
+
+PATIENT Y079
+Right.
+
+DOCTOR Y079
+Okay so go pick up your medicine at the Pharmacy.  
+
+PATIENT Y079
+Uh-huh.
+
+DOCTOR Y079
+So I'm gonna write this, you give this to the clerk out there.
+
+PATIENT Y079
+Yes.
+
+DOCTOR Y079
+You need to go to the Lab.
+
+PATIENT Y079
+Yeah.
+
+DOCTOR Y079
+Pharmacy, Dental Clinic appointment, they'll make it for you.
+
+PATIENT Y079
+What the clerk of the dental people?
+
+DOCTOR Y079
+Yeah.  A Liver Clinic appointment.
+
+PATIENT Y079
+@@@.
+
+DOCTOR Y079
+New consult and who to call @@@ okay and then uh I'll see you.  I'll put a order in the computer so they'll send another letter in the mail.
+
+PATIENT Y079
+Okay that's cool.
+
+DOCTOR Y079
+Come back in six months.
+
+PATIENT Y079
+@@@.
+
+DOCTOR Y079
+Yeah @@@ yep.
+
+PATIENT Y079
+That's all okay.  That way you got me extra @@@.
+
+DOCTOR Y079
+Yeah.
+
+PATIENT Y079
+That way @@@ burden my transportation.
+
+DOCTOR Y079
+Oh yeah, yeah, yeah.  Okay.
+
+PATIENT Y079
+I'm all set doctor.  I thank you for your help and making me aware of fibrosis.
+
+DOCTOR Y079
+@@@.  stop smoking.
+
+PATIENT Y079
+Yeah.  @@@ but do ya'll have type of treatment for that?
+
+DOCTOR Y079
+Stop smoking.
+
+PATIENT Y079
+Yeah I understand that.
+
+DOCTOR Y079
+But once the fibrosis has gotten there there's nothing that can make it go away.
+
+PATIENT Y079
+Oh okay.
+
+DOCTOR Y079
+So the only thing you can do now is stop it from getting worse.
+
+PATIENT Y079
+Oh okay.
+
+DOCTOR Y079
+Okay.
+
+PATIENT Y079
+I'm still going to look it up in my @@@.
+
+DOCTOR Y079
+Oh.
+
+PATIENT Y079
+So I can learn about it myself yeah.
+
+DOCTOR Y079
+Okay.
+
+PATIENT Y079
+I've got it.  I keep a medical book.  @@@.  Thank you doctor.
+
+DOCTOR Y079
+You're welcome.
+
+PATIENT LEAVES:  74:38.
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255187
+TRANSACTION # 578-10-2-316-0103

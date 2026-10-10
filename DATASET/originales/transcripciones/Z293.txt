@@ -1,0 +1,1242 @@
+AUDIO NAME:	Z293
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@@
+
+
+DOCTOR Z293
+All right.  Anything going on or is this just a follow up with you.
+
+PATIENT Z293	
+@@@.
+
+DOCTOR Z293
+All right.
+
+PATIENT Z293
+About 6 weeks ago I was in the Emergency Room for my shoulders.
+
+DOCTOR Z293
+Yeah, I saw about that.
+
+PATIENT Z293
+My diaphragm @@@ arthritis in my spine.  It is not down the middle of my back.  Starts here.
+
+DOCTOR Z293
+Yeah.
+
+PATIENT Z293
+My muscles in my shoulder here.
+
+DOCTOR Z293
+Um Hum.
+
+PATIENT Z293
+And up the back of my neck.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293  
+@@@.  The Emergency Room doctor prescribed 2 pills.  One of whom he gave me 9 of them, to take 3 for 3 days.
+
+DOCTOR Z293
+Yeah.
+
+PATIENT Z293
+And the other one I think it was "restatome" or something like that.  It's for more severe pain, but don't take too much of it because you damage your liver or something.
+
+DOCTOR Z293
+@@@.
+
+PATIENT Z293
+"Hydroxatone or Drexatrome" or something like that.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293
+So I been taking it, but it says take 1 to 2 tablets every 4 hours or as needed.
+
+DOCTOR Z293
+Was it here?
+
+PATIENT Z293
+No it was at Good Samaritan Hospital.
+
+DOCTOR Z293
+Oh, okay. 
+
+PATIENT Z293
+I still got some of those severe pain pills left, but you know. I don't take them every 4 hours.
+
+DOCTOR Z293
+I wouldn’t take them.
+
+PATIENT Z293
+I don't want to screw up my liver.  
+
+DOCTOR Z293
+You got to be careful.
+
+PATIENT Z293
+But I gotta get something for this.  I don't know, it's been bothering me quite a bit.
+
+DOCTOR Z293
+What’s going on with this?  
+
+PATIENT Z293
+Well, it is the muscles.
+
+DOCTOR Z293
+Where?
+
+PATIENT Z293
+Um hum.
+
+DOCTOR Z293
+All across the back?
+
+PATIENT Z293
+On both sides and sometimes it goes right down to this @@@ with some muscles in the arm hurt.  Then it hurts when you are bending your head, ya know.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293
+Around the shoulder blade here.
+
+DOCTOR Z293
+@@@ rotator cuff, @@@ because I am worried about your rotator cuff.
+
+PATIENT Z293
+He told me, well he says "it is because you have arthritis there or it could be a pinched nerve".
+
+DOCTOR Z293
+A couple of things it could be.  I want to make sure we found the right thing.
+
+PATIENT Z293
+Yeah.
+
+DOCTOR Z293
+We will do a couple of tests today, maneuvers.  Arm to right right shoulder.
+
+PATIENT Z293
+I don't know what a MRI would show.  If it is a pinched nerve?   But, I don't think it is a pinched nerve.  It would be more severe if it was a pinched nerve, wouldn't it?  I mean…
+
+DOCTOR Z293
+Depends, there would be some pain.
+
+PATIENT Z293
+Oh it is painful, boy.  I get a catch in here sometimes.
+
+DOCTOR Z293
+It is in your neck?  Or in your shoulders?
+
+PATIENT Z293
+Well it starts in the neck here, but it goes down both sides in here, but mostly on the right side.  It goes down the right side, across this shoulder, down to this rotary cuff and all that.
+
+DOCTOR Z293
+@@@
+
+PATIENT Z293
+And those pills though, those pills helped – the ones for the severe pain, that pill helped, but again after that wears off it comes back, so I don't know.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293
+I didn't think it would flare up this soon but it did.  I think he diagnosed that in 2005, when I went to Wooddale, no, it was Lombard and  I seen this chiropractor and I went up there and he took all kinds of x-rays of my spine.  Then I went through some therapy which helped a little bit.
+
+DOCTOR Z293
+Did you have home nursing?
+
+PATIENT Z293
+Um?
+
+DOCTOR Z293
+Did we set up home nursing for you?
+
+PATIENT Z293
+Ah, yeah, those we talked about that before.
+
+DOCTOR Z293
+What was that for?
+
+PATIENT Z293
+Well she just comes in and checks my vitals.  It is a @@@.  Her name is NAME.  
+
+DOCTOR Z293
+Yeah.
+
+PATIENT Z293
+She comes in and she checks my blood pressure, weighs me, checks my blood sugar.
+
+DOCTOR Z293
+You need it?
+
+PATIENT Z293
+Well, if she is not there I do it myself.  But it is good to have her show up and she'll check me out.  She makes her notes.  Medicare pays for it.  
+
+DOCTOR Z293
+You don't pay for it?
+
+PATIENT Z293
+No, I don't pay for it.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293
+Yeah.
+
+DOCTOR Z293
+As long as you aren't paying for it I don't care, as long as you don't pay for it.
+
+PATIENT Z293
+(laughs).  Yeah.  I think the Medicare takes care of that.  I have been doing it since, well, how long has it been, since I was living in the @@@ Apartments out there.  It is good that she comes in and does that, you know she comes in and checks me over.
+
+DOCTOR Z293
+How often does she come?
+
+PATIENT Z293
+Ah, I think it is twice a month I think.  I don't know.
+
+DOCTOR Z293
+Oh. Okay.
+
+PATIENT Z293
+@@@ huh?
+
+DOCTOR Z293
+Just twice a month.
+
+PATIENT Z293
+Yeah.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293
+I signed a transfer paper to have Omega come back.  I don't know how Sunrise got my name, but I would rather have NAME come out.  She is pretty good.
+
+DOCTOR Z293
+Omega?
+
+PATIENT Z293
+Yeah.
+
+DOCTOR Z293
+Nursing.
+
+PATIENT Z293
+Is this what you got from?
+
+DOCTOR Z293
+Um hum.  
+
+PATIENT Z293
+Yeah, I almost forgot about that, because they told me that I had to see you and you would wonder why?  You know? And all that.  It is nothing major, it just comes and it is just something. You know? Because I do have a medical staff in the building over there, but, they never see me.  I don't know.
+
+DOCTOR Z293
+Oh, they don't?
+
+PATIENT Z293
+No, and they got all my records.  So I don't know what.  I need to get this arthritis checked out.
+
+DOCTOR Z293
+Yeah.  It is probably arthritis.
+
+PATIENT Z293
+And the weather don't help either.
+
+DOCTOR Z293
+It’s probably, I don’t know @@@ am not going to be able, based on clinical findings, @@@ support @@@.
+
+PATIENT Z293
+Well, I don't know what is included.  All she does is check my vitals, takes my pulse, checks my blood pressure and I give her my records on all my blood tests, that sort of thing. The sugar checking device.  I weigh myself.  Those sort of things.
+
+DOCTOR Z293
+Will say say this, needs, pulse @@@ you need.
+
+PATIENT Z293
+The basic stuff.
+
+DOCTOR Z293
+@@@, 
+
+PATIENT Z293
+I don’t need it.  I can get around.  So they don’t @@@.
+
+DOCTOR Z293
+Yeah.
+
+PATIENT Z293
+I got those orthopedic shoes from here I think it was, the diabetic shoes that I wear to support the sole inside.  I wore these today.  That should come back to Omega. Right?
+
+DOCTOR Z293
+Yeah.
+
+DOCTOR Z293
+It says you are homebound.  Are you homebound?
+
+PATIENT Z293
+No I'm not homebound at all.
+
+DOCTOR Z293
+I'm not going to be able to fill this out then.
+
+PATIENT
+Well no, I, you know.  I can go and come.  I got my own wheels and that sort of thing.
+
+DOCTOR Z293
+Okay. Well this…
+
+PATIENT Z293
+You mean I won't be able to get her to come out.
+
+DOCTOR Z293
+I don't know. You might want to talk with her.
+
+PATIENT Z293
+Um hum.
+
+DOCTOR Z293
+You might want to talk to her about that, because basically what this says.  It says you are supposed to be homebound.
+
+PATIENT Z293
+No. No. That's doesn't pertain to me.
+
+DOCTOR Z293
+Oh, huh.
+
+PATIENT Z293
+@@@.  She comes out there for me.  @@@.  I have my own apartment up here in Wheaton @@@.
+
+DOCTOR Z293
+You might just want to talk with her again first.
+
+PATIENT Z293
+Gina?
+
+DOCTOR Z293
+Yeah, to make sure of this.
+
+PATIENT Z293
+Alright.
+
+DOCTOR Z293
+Because I was just reading through this form and that is what it requires that I can’t fill it out.  But if that is not what it requires then I do have problems filling it out for you.
+
+PATIENT Z293
+Well no.  She didn't require it before.  She'd come out.  I had my own wheels, my own apartment.
+
+DOCTOR Z293
+Just ask her about it?
+
+PATIENT Z293
+Yeah, it is all cut and dry.  You know.
+
+DOCTOR Z293
+I could give her a call if you need.
+
+PATIENT Z293
+Yeah.
+
+DOCTOR Z293
+Yeah, just trying to figure it out.
+
+PATIENT Z293
+I've got the phone number in my @@@.  
+
+DOCTOR Z293
+I had the Omega number. It's @@@.
+
+PATIENT Z293
+Do you want to talk to the nurse yourself?  Or?
+
+DOCTOR Z293
+Yeah, don’t do it now. Give me the number though if you have it.  
+
+PATIENT Z293
+It is @@@.
+
+DOCTOR Z293
+All your labs look good.
+
+PATIENT Z293
+Okay.
+
+DOCTOR Z293
+We will check one lab today.  PHONE NUMBER.  Okay I will give her a call now.  You have 1 lab today, your BMP.  
+
+PATIENT Z293
+@@@.  One of those crappy @@@.
+
+DOCTOR Z293
+You’ve always had that cervical thing. 
+
+PATIENT Z293
+Cervical what?
+
+DOCTOR Z293
+Degenerative. We noted that last time.  Let's do an exam @@@ okay?
+
+PATIENT Z293
+@@@.  I am going in for a biopsy on my prostate exam.  
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293
+I am going to go to Dermatology and have this thing taken off over here.  The mole.  I need to get that out.
+
+(PATIENT answers phone from 26:33-26:54)
+
+PATIENT Z293
+My daughter.
+
+DOCTOR Z293
+Okay. 
+
+DOCTOR/PATIENT Z293
+(Laugh)
+
+PATIENT Z293
+My pain in the neck, I should say or something like that.  Okay, @@@.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293:
+@@@.  All right.
+
+DOCTOR Z293
+Arms up.  Over your head.  Okay. Right down here.  It stays swollen here.
+
+PATIENT Z293
+Alright.
+
+DOCTOR Z293
+Let's do the shoulders.  Arms up.  Over your head. Here.  @@@.  Do you have any pain in here?
+
+PATIENT Z293
+I've got pain in it right now.  Yeah.
+
+DOCTOR Z293
+Where at?
+
+PATIENT Z293
+In the muscles themselves, across here.
+
+DOCTOR Z293
+All right.  The neck like that.  
+
+PATIENT Z293
+That hurts. 
+
+DOCTOR Z293
+Where?  Is it a @@@ pain or what does it feel like?
+
+PATIENT Z293
+@@@.  I feel a little pain, just a little bit.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293
+@@@.  I don't know what's up.  Pain in that area.  Gotta be a muscles.  It is all basically at the muscles itself.  
+
+DOCTOR Z293
+Here?
+
+PATIENT Z293
+Stop. Right at the area in there.
+
+DOCTOR Z293
+Okay.  In your muscles.  
+
+PATIENT Z293
+It is all basically in the muscles itself.  
+
+DOCTOR Z293
+Here, at the @@@.
+
+PATIENT Z293
+Right.  Okay.  So that’s sore. Yeah, in the muscles.  
+
+DOCTOR Z293
+So, we can do a couple of things for you. For the muscles. Would you want any physical therapy.
+
+PATIENT Z293
+What do you mean?  @@@ Physical therapy ain't going to take the pain away.  
+
+DOCTOR Z293
+I imagine it will.  It will strengthen the muscles around and it'll take the pain way.  We got to get you on a good medicine.  Hum.
+
+PATIENT Z293
+Yeah.  I want to get something that is not damaging to my vital organs or intermix with the medications I am taking now. You know?
+
+DOCTOR Z293
+@@@.
+
+PATIENT Z293
+You know I am taking all the pills for @@@, heart pills, cortisone.
+
+DOCTOR Z293
+Are you taking anything for depression?
+
+PATIENT Z293
+I am taking @@@. I am taking a half a pill.
+
+DOCTOR Z293
+Half a pill. Have you taken tramadol before?
+
+PATIENT Z293
+Who?
+
+DOCTOR Z293
+Tramadol.
+
+PATIENT Z293
+What's tramadol?   
+
+DOCTOR Z293
+For pain.
+
+PATIENT Z293 
+Oh, what is that?   Oh is that like it was "thiapram"?   Yeah, but I don't take that no more.
+
+DOCTOR Z293
+Why not?
+
+PATIENT Z293
+He prescribed, you pronounce it different. @@@ What do you call that?  Etodolac. Is that on that? You got my medical?
+
+DOCTOR Z293
+Yeah, I just looked at it.
+
+PATIENT Z293
+What you call that, Zylopram? and I think it was tramadol I @@@.
+
+DOCTOR Z293
+You were on that a long time do you think?
+
+PATIENT Z293
+Not for a long time, no. He said if you take it, you get addicted to it. I don't know, so he just put me on Zylopram.  You know.
+
+DOCTOR Z293
+That was more for @@@.
+
+PATIENT Z293
+Yeah. 
+
+DOCTOR Z293
+@@@.
+
+PATIENT Z293
+I don't know what he called it, @@@. I call it Zylopram, I don't know what you guys use, what terminology for it.  That is the one I am taking now.
+
+DOCTOR Z293
+Yeah.
+
+PATIENT Z293
+Uh, try to take.  Just like you were telling me about, you know.
+
+DOCTOR Z293
+Why don’t we try tramadol?
+
+PATIENT Z293
+Is that a nerve, ah?  
+
+DOCTOR Z293
+No it's a pain medication.
+
+PATIENT Z293
+Oh, okay.  So that wouldn't intermix with the other medication I am taking?
+
+DOCTOR Z293
+No, not really, @@@ has a little interaction but I don't think it would be a problem.
+
+PATIENT Z293
+No.
+
+DOCTOR Z293
+There is always a @@@.
+
+PATIENT Z293
+Well the strong pill.  I have a few of those pills left.  I usually take 2 and it works.  You know?  But, I don't want to take too much of it.  It says it can cause drowsiness, dizziness and a couple of other things on there.  Yeah, @@@ is what I call it.  Okay.
+
+DOCTOR Z293
+Alright. I will send you some.
+
+PATIENT Z293
+I didn’t know it was for pain.
+
+DOCTOR Z293
+That must be the one. Trazodone is a different one.
+
+PATIENT Z293
+Oh, Okay.  It could be a different.  Like I said you know more about the medications than I do.
+
+PATIENT/DOCTOR Z293
+(Laugh.)
+
+PATIENT Z293
+I blather too much.  Take 2 aspirin and call me in the morning.  
+
+DOCTOR Z293
+(Laughs.)
+
+PATIENT Z293
+@@@ you know.
+
+DOCTOR Z293
+(Laughs.)  They did that didn't they?  Ah Ha Ha.  I think that is all what I am going to give to you right now. @@@ labs.
+
+PATIENT Z293
+Vaguely, I did want to follow up. @@@.
+
+DOCTOR Z293
+Yeah.
+
+PATIENT Z293
+It is mainly right in the muscles themselves.  It is not a bone. You can get arthritis in the bones too, basically this is all muscle.
+
+DOCTOR Z293
+Do you want see physical therapy too?  Because they help with that.
+
+PATIENT Z293
+Well, I can do that.
+
+DOCTOR Z293
+If it doesn't work, it doesn't work, but they will strengthen @@@.
+
+PATIENT Z293
+Yeah. Yeah.  Come back at a later date maybe.  I don't know.
+
+DOCTOR Z293
+On your basis.  You schedule when you want.
+
+PATIENT Z293
+Okay.
+
+DOCTOR Z293
+I will put it in.  They will call you and you can tell them when you can do it.
+
+PATIENT Z293
+I do have a weight at the house that I lift.  I work on my upper body stuff and I get 10 pounds in each hand and I do like this.  I go up here and I go like that.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293
+On both sides.  That is how I gained a little muscles in my forearm.
+
+DOCTOR Z293
+It does the same thing for your neck.
+
+PATIENT Z293
+Oh it does.
+
+DOCTOR Z293
+They will give you exercises to do.
+
+PATIENT Z293
+I usually do 10 reps with, you, know. But I just want to get this pain to calm down, but I can't even move in bed for crying out loud, sometimes.  I've been laying on a heating pad.  Okay.  That has helped a little bit.  Okay.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293
+Okay, then I do it across, you know, back here.
+
+DOCTOR Z293
+Do you want a cream to put on it too?
+
+PATIENT Z293
+You know I've been using Ben-Gay but it doesn't seem to help that much.
+
+DOCTOR Z293
+There is a stronger one called Capzasin, it is a pepper cream.
+
+PATIENT Z293
+Huh?
+
+DOCTOR Z293
+Just don't put on your eyes and wash your hands.
+
+PATIENT Z293
+Oh, no, no, no, no.  That is taboo.  
+
+DOCTOR Z293
+You don’t want it?
+
+PATIENT Z293
+What's that.
+
+DOCTOR Z293
+Capzasin?
+
+PATIENT Z293
+Is this better than Bengay?
+
+DOCTOR Z293
+Yeah.
+
+PATIENT Z293
+Well, let me try that.  For how long?
+
+DOCTOR Z293
+Three times a day with meals.
+
+PATIENT Z293:
+Three times a day if I need it.
+
+DOCTOR Z293
+Or with meals, like do it all the time.
+
+PATIENT Z293
+Yeah, it says.  It gives me hell.  It may be on the right side sometimes.  Sometimes a little over there, but hum.  I can't recall.  Like I said I think the damn cold weather.   The weather must have been, now that it is warming up a little bit it isn't too bad.  But I still have pain there today.  I hadn't taken anything.  You know.
+
+DOCTOR Z293
+Hum hum.
+
+PATIENT Z293
+I may go back and take 2 of those pills.  I think that the way they got it prescribed on the bottle, this guy at Good Sam's, he says take 1 or 2 pills every 4 hours.  That might be too much for the kidneys, but I can take every 4 hours take 2 of them.
+
+DOCTOR Z293
+Oh yeah.
+
+PATIENT Z293
+I don't want to mess up this.
+
+DOCTOR Z293
+I'd be careful.
+
+PATIENT Z293
+But it does work though, but you gotta be careful with it.
+
+DOCTOR Z293
+Yeah, you got to be very careful and tramadol @@@ mess with your kidneys really.
+
+PATIENT Z293
+All it says is "as needed".
+
+DOCTOR Z293
+Yeah.  That is kind of how it works.
+
+PATIENT Z293
+I think it is something like 3 mg, 3.5 mg.  It’s supposed to  be strong though.
+
+DOCTOR Z293
+Not sure which one it is, though.
+
+PATIENT Z293
+Yeah, okay.
+
+DOCTOR Z293
+All set. I am going to have you come back in 6 weeks.
+
+PATIENT Z293
+I had that on my list here.
+
+DOCTOR Z293
+Let me take a look?
+
+PATIENT Z293
+Alright, I've got @@@.  You know they don't have it on here.  I think when they took me off of it they didn't put it back on there.  This pill was prescribed by DOCTOR  He is a ….   Hum.  I am surprised that that.  Hum.  Have this renewed okay?
+
+DOCTOR Z293
+Do you check your sugars at all?  
+
+PATIENT Z293
+Yeah, I'll check it out this morning.  This morning it was 180.
+
+DOCTOR Z293
+How about later on in the day.
+
+PATIENT Z293
+Well…
+
+DOCTOR Z293
+How often do you check it?
+
+PATIENT Z293
+Well I check it 3 times a day, once before breakfast, once before lunch.
+
+DOCTOR Z293
+What are they usually in the morning, breakfast or lunch?  What are they usually?  
+
+PATIENT Z293
+Usually I will check it before I go to bed.
+
+DOCTOR Z293
+Well, what are the numbers?
+
+PATIENT Z293
+The last week it was high.  This week it has been 140, 180, 121.  I had some lows, 58, you know.
+
+DOCTOR Z293
+What was the last? What’s your normal breakfast one? What’s your normal lunch one? 
+
+PATIENT Z293
+The lunch one, kinda high 200s.  A couple of times it was 140, 121 in the morning, 140, 150.
+
+DOCTOR Z293
+What about dinner?
+
+PATIENT Z293
+Yeah, dinner usually runs about 163, sometimes 167.
+
+DOCTOR Z293
+How many lows in the past month?
+
+PATIENT Z293
+About 4 or 5, I had 47, 58, 53.
+
+DOCTOR Z293
+What were you doing when those happened?
+
+PATIENT Z293
+Well, well, I take sugar.  I got some stuff, like @@@.
+
+DOCTOR Z293
+Were you not eating a lot?
+
+PATIENT Z293
+No, not bad.  May be I took too much insulin that brought it down too much.  Okay.
+
+DOCTOR Z293
+More than you normally give yourself.
+
+PATIENT Z293
+I am taking 22, DOCTOR has my slow-acting to 22 and then I am taking 8, 8 and 8.  Sometimes if I eat a lot then I will increase that 8 to may be 9 or 10, you know.  I am trying to get a pattern.  I am trying to get a set pattern of those.
+
+DOCTOR Z293
+When did you quit smoking?
+
+PATIENT Z293
+I quit smoking when I come back from Nam in November of 1965.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293
+And here just in the last 4 years I stopped cigars and pipes.  I got one of those things you use.  What did they call that?  A water…  
+
+DOCTOR Z293
+@@@.
+
+PATIENT Z293
+@@@ Yeah. You know I don't have the withdrawal symptoms but I just put it on anyway, either that I will get popsicle sticks to stick in my mouth and ches on.
+
+DOCTOR Z293
+Well, your blood sugars are still way too high.
+
+PATIENT Z293
+Yeah.
+
+DOCTOR Z293
+I see that you use glargine.  Your morning glucose was how much you said?
+
+PATIENT Z293
+Eggs.
+
+DOCTOR Z293
+No, what is the number in the morning when you wake up?  What is your blood sugar when you wake up?  
+
+PATIENT Z293
+Oh I take it about 7:30.
+
+DOCTOR Z293
+No, what are your sugar numbers in the morning?  
+
+PATIENT Z293
+Oh in the morning.  Sometimes they run high, but here recently they have been running, well this morning was 180, last week I was about 140, 141, 121 like that.
+
+DOCTOR Z293
+Are you getting any lows in the morning?
+
+PATIENT Z293
+Not too awful much.  No.  Usually sometimes it will kick to 200 if I don't take.  I don't take the slow-acting at nighttime, just once in the morning.
+
+DOCTOR Z293
+You take it in the morning.
+
+PATIENT Z293
+I take in the morning with my NovoLog.  
+
+DOCTOR Z293
+You take them together?
+
+PATIENT Z293
+Yeah.  @@@ if I go over there.  If I hadn't been going here, what she says is just kind of a fatty tissue - so he just wrenched out and @@@.
+
+DOCTOR Z293
+Right.
+
+PATIENT Z293
+What I've been doing.  I went to a couple of classes to get versed on that.  If I take 10 or 11 it might be a little too much.  But it depends on what I eat.  If I eat too much then I have to compensate for that.  I gotta cut down on the apple juice or orange juice.  I got orange juice in the icebox and I always take it if the blood sugar goes down to say 72 or 62 or 50, then I got a take it and drink a couple of glasses of orange juice to bring it up, you know.
+
+DOCTOR Z293
+Okay.
+
+PATIENT Z293
+I try to keep right on top of this, because I don't want to get.  Since I’ve been a diabetic, I think I had bottomed out twice and I don't want to do that.  That is just because that is a weird feeling.
+
+DOCTOR Z293
+Feels weird?
+
+PATIENT Z293
+I break out in a cold sweat, when they bring me too I feel as cold as hell.  Then I sweat.  It happened to me at Sport Mart over there @@@.
+
+DOCTOR Z293
+Uh.
+
+PATIENT Z293
+Yeah, I went over take @@@ I am a collector.  I went over to pick up one of those Louisville Slugger Bats, you know?  It was a blonde bat but it didn't have that indentation in the end of them.  I took a black bat that they did have left, the new model.  So, just have it as a keepsake.
+
+DOCTOR Z293
+They are pretty cool.
+
+PATIENT Z293
+Yeah, and I bottomed out I think.  My sugar went down and told the girls.  They finally got me a couple of Hershey bars, but that didn't work.  I passed out in the store.
+
+DOCTOR Z293
+Oh, really?
+
+PATIENT Z293
+Yeah and when I come too I was inside the Paramedics Truck.  My daughter come over.  I had gotten one of those clean shirts and this one was soaked.  I was freezing a bit.  Holy shit!
+
+DOCTOR Z293
+You really need to monitor your diet.
+
+PATIENT Z293
+Hum.
+
+DOCTOR Z293
+You need to monitor your diet very closely.
+
+PATIENT Z293
+I have been talking to the nutritionist downstairs too.  You know, my diet is basically - in the morning time I’m talking about breakfast.  It is either pancakes or waffles, scrambled eggs, hash browns.  What did I say - he says to stay away from the hash browns if you can,  Coffee, raisin toast or wheat toast.  That is breakfast basically.  Then I have one grapefruit which is cut in half.
+
+DOCTOR Z293
+Yeah.
+
+PATIENT Z293
+Now lunch time varies.  It could be hot dogs, it could be pasta, it could be rice and what they call pureed chicken with rice and all that.  Meatloaf, Hungarian meatloaf and then at nighttime they will have that Hungarian goulash, BLT, stuffed peppers and let's see, what else, meat things.  I said meatloaf, potatoes and gravy.  They usually serve broccoli sometimes, that is pretty good, carrots.  That is basically the nutrition over there.  Breakfast was like I said either pancakes or waffles, scrambled eggs and sausage, sausage patty.  I have either raisin toast or wheat toast.  That is basically breakfast.
+
+DOCTOR Z293
+That is not too bad.  @@@.
+
+PATIENT Z293
+I’m trying to cut back. My doctor advised "Well don't eat it all, you know just eat, you know in moderation".  I think I said I am trying to do that and get a set pattern when I take my sugar, at the same time trying not to rise. It’s not as bad as it has been.  I am trying to get that down.
+
+DOCTOR Z293
+You really need to take everything at the same time.
+
+PATIENT Z293
+Oh yeah.
+
+DOCTOR Z293
+You eat at the same time and check everything out, because your sugars are still way too high.
+
+PATIENT Z293
+Yeah.  I know.  One thing today when I come in here I was fasting so it should have been 180 or less.  What was it today when they draw blood I wonder?  
+
+DOCTOR Z293
+Did they draw your blood earlier today?
+
+PATIENT Z293
+Yeah, they took blood.  Now when I come here it was 180 and I didn't eat anything.
+
+DOCTOR Z293
+Well they didn’t do it?
+
+PATIENT Z293
+Huh?
+
+DOCTOR Z293
+They didn't do that as fasting.  
+
+PATIENT Z293
+Oh they didn't.  Oh shoot.  Well I think it was probably high now because I just ate.
+
+DOCTOR Z293
+That's fine.
+
+PATIENT Z293
+Because I can check.  I got the thing in my pocket.  I know what the results it will be @@@.
+
+DOCTOR Z293
+Well don't worry about it.  It does not matter what it is right now.
+
+PATIENT Z293
+Yeah.  I am due to take my insulin.  I have got my insulin with me.  I need to do the day shot.  Well wait a minute I did do that this morning.  I took, at breakfast time when I had breakfast out in the chairs, I took 22 units slow and I took 7 units of fast.  I didn't want it to go down to quick when I come to see you, but they I ate a bowl of chili at lunch time.  So I don't know the variation between that.
+
+DOCTOR Z293
+You got to make sure you are taking it all at the same time.
+
+PATIENT Z293
+Oh absolutely.
+
+DOCTOR Z293
+@@@.
+
+PATIENT Z293
+Right now it is going to be high I think.
+
+DOCTOR Z293
+We will work on that.  We will have you come back a little sooner.
+
+PATIENT Z293
+Hmm.
+
+DOCTOR Z293
+We will try and see.  I want you to have a log of your sugars.
+
+PATIENT Z293
+I got a log. I keep a log.  
+
+DOCTOR Z293
+Can you bring it next time?
+
+PATIENT Z293
+I can bring it @@@
+
+DOCTOR Z293
+When you come back in two months? Bring it next time.
+
+PATIENT Z293
+It will be another 6 weeks before I see you.  You come in and you work 5 days and then you are off for @@@. They give me your your schedule.  What do you work?  He work 5 days a week, and then you are gone for 5 weeks.
+
+DOCTOR Z293
+(Laughs.)
+
+PATIENT Z293
+Do you go on vacation?  Or?
+
+DOCTOR Z293
+I don’t go on vacation.
+
+PATIENT Z293
+(Laughs.)
+
+DOCTOR Z293
+There is no vacation.
+
+PATIENT Z293
+@@@.
+
+DOCTOR Z293
+Unfortunately, there is no vacation @@@.
+
+PATIENT Z293
+(Laughs.) Do you go off post and check back in there?
+
+DOCTOR Z293
+I wish I could.
+
+PATIENT Z293
+You wish you could.  Yeah.
+
+DOCTOR/PATIENT Z293
+(Laugh.)
+
+PATIENT Z293
+You know I would do that this year if I can.
+
+DOCTOR Z293
+That would be nice if you could.  
+
+PATIENT Z293
+I want to see if I can still swing a club. @@@ Duplex @@@
+
+DOCTOR 411
+Get down there, get out and do  that soon. It’s nice out there now.
+
+PATIENT Z293
+Chasing this little ball around a cow pasture.
+
+DOCTOR Z293
+(Laughs.)
+
+PATIENT Z293
+That is what they call golf.
+
+DOCTOR Z293
+Not a bad deal.
+
+PATIENT Z293
+Yeah.
+
+DOCTOR Z293
+You have one last draw today.
+
+PATIENT Z293
+Okay.  
+
+DOCTOR Z293
+And.
+
+PATIENT Z293
+I got the labs I done this morning.
+
+DOCTOR Z293
+There is one more I want to get done.
+
+PATIENT Z293
+You need this today?  
+
+DOCTOR Z293
+I don’t think it was drawn. You don't have to do it today.
+
+PATIENT Z293
+Um.
+
+DOCTOR Z293
+When did you have it done recently?
+
+PATIENT Z293
+You know.  I think they only took 2 test tubes I think it was.  Yeah.
+
+DOCTOR Z293
+Let's see what was drawn.  You don't need it drawn.
+
+PATIENT Z293
+May be @@@.
+
+DOCTOR Z293
+No, no, no, never mind, everything is fine.  You don't need to get anything drawn.
+
+PATIENT Z293
+Oh well.  I had some drawn last week out of this arm and I had another draw today, see I got a little black and blue mark coming up.
+
+DOCTOR Z293
+Then you are good.  Come back in 2 months.  Have your sugars in that new log with you.
+
+PATIENT Z293
+Okay, I will do that.
+
+DOCTOR Z293
+Alright.
+
+PATIENT Z293
+Um hum.
+
+DOCTOR Z293
+Any other questions?
+
+PATIENT Z293
+No.  That is about it.
+
+DOCTOR Z293
+Alright, @@@.
+
+PATIENT Z293
+Do you get both copies of this?  Or?
+
+DOCTOR Z293
+I got everything yeah.  That @@@
+
+PATIENT Z293
+They normally give you one.
+
+DOCTOR Z293
+Yeah, you can take one.
+
+PATIENT Z293
+You are prescribing…  You know I am getting a little low on this stuff, on these things here.  
+
+DOCTOR Z293
+@@@I’ll send them.
+
+PATIENT Z293
+On this one.
+
+DOCTOR Z293
+Yeah, I'll send them in.
+
+PATIENT Z293
+Oh, okay.  Hum.  All right.  I will do that.  I have all that stuff together.  I have had it in a folder.  I don't know why I didn’t pick it up when I left.  
+
+DOCTOR Z293
+It's all right.
+
+PATIENT Z293
+I know you’d like to see those numbers.  You use a @@@ for this.
+
+DOCTOR Z293
+Yeah, @@@ makes it easier.
+
+PATIENT Z293
+Absolutely, and I write down what I eat. @@@ 
+
+
+DOCTOR 411
+Cream I put on her.
+
+DOCTOR 411
+Pick up here?
+
+DOCTOR 411
+I sent it to you. @@@ don’t have to wait, it takes forever.
+
+PATIENT 411
+@@@ daughter. One time, I was in @@@ and the nurse put it in and she says we can’t fill that until your daughter signs off on it.
+
+DOCTOR Z293
+That’s terrible.
+
+PATIENT Z293
+and you were probably out on the golf course having a beer and sitting with a girl @@@.
+
+DOCTOR Z293
+Probably busy upstairs.(Laughs.)  
+
+PATIENT Z293
+I am just kidding with you.  @@@.
+
+DOCTOR Z293
+@@@ (laughs.)
+
+PATIENT Z293
+(Laughs.)  I was one too.
+
+DOCTOR Z293
+@@@.  There's a girl alright.
+
+PATIENT Z293
+Oh yeah.
+
+DOCTOR Z293
+@@@.
+
+PATIENT Z293
+Yeah, you too.  You have a nice day. @@@.
+
+DOCTOR Z293
+I will see you in 2 months okay?
+
+PATIENT Z293
+Yeah, two months.
+
+DOCTOR Z293
+I'll be here then. @@@.
+
+PATIENT Z293
+@@@.
+
+DOCTOR Z293
+See ya.
+
+PATIENT Z293
+Yeah, take care.  
+
+
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/740018/JOB# 1255110
+TRANSACTION # 578-10-2-316-0103

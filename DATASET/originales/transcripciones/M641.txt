@@ -1,0 +1,2672 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@@   
+
+DOCTOR M641
+PATIENT. 
+
+PATIENT M641 
+Yeah, I'm here.  How you doing?
+
+DOCTOR M641
+Good, how are you?
+
+PATIENT M641
+@@@.
+
+DOCTOR M641
+Have a seat right here.
+
+PATIENT M641
+Uh-huh.  I don't know what's up with my hearing alright.
+
+DOCTOR M641
+Pardon me?
+
+PATIENT M641
+All of a sudden I'm kind of muffled or something.
+
+DOCTOR M641
+Oh really.
+
+PATIENT M641
+You know they got this thing you know where I guess you know.
+
+DOCTOR M641
+Oh yeah okay.  Alright go ahead PATIENT and tell me.
+
+PATIENT M641
+Well you know today um I wanted to talk to you about uh, I need to see about my, I have sleep apnea.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And this morning I was listening at the news.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And they say that uh you can contract cancer from that.  I don't sleep at all, so that's my main concern.  I am not sleeping.  I just was over here two weeks ago; got a new mask, trying to get it you know to fit, to make sure it fits there.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Every morning I wake up between 2:30 and 3:30.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And I'm just laying there tossing.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+So now I begin to build up a mucous or something right here at the base of my throat, right in there.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+So I spit it up.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+It was kind of a thick slimy whatever.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And I lay back down and I just I still turned.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+So about, I usually get up about 9, 8:30 or 9 and go take my exercise.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Uh now I fall asleep.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And see I don't have, I don't get, you know like you yawn.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Like you're getting sleepy, I don't get that, I don't experience that.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And um I been with my son, I don't know if it's making me uh nervous.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And stuff if I'm drinking my orange juice or something in the morning, when I get up here I go like this.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And so my wife, you know, till I stable.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+My self, is stable.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Uh that's what I'm really concerned about and she told me be sure you tell that doctor about that.  This morning because I'm concerned you know and uh I know I'm kind of, I'm kind of cautious about going up and down the steps you know, so I usually balance on the step.
+
+DOCTOR M641
+What happens when you go up and down the steps?
+
+PATIENT M641
+You know I'm upsetting my balance.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+You know.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+So I know a lot of things come with my old age, I'm 77 now.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And you know but it's time to be really concerned about those things.  I'm not fearful of falling.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+It ain’t like that but that sleep apnea and me not being able to, waking up so early.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I went to that class they have here with the.
+
+DOCTOR M641
+For the sleep.
+
+PATIENT M641
+Yeah for the sleep stuff, she was gonna try to use it but I would use a medication or something.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But that didn't work for me.  The psychiatrist.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And a lot of guys they just quit because, I guess I got problems but nothing is bothering me.  I have a lovely family, same old stuff, you know but all of a sudden I just stopped sleeping.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+And I was used to sleeping you know at least five, six hours but I be so energized in the morning and I go take my exercise.  Now I don't even want to get out the bed.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Just like my energy level is low uh and uh they checking my testosterone level or something like that.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know I do the same things and that's beginning to happen and it's unexplainable to me and I don't take any medication for anything other than my high blood pressure pill.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And it's not that high I don't guess but.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+But uh.
+
+DOCTOR M641
+But PATIENT these are some of the things we talked about last time right?
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+What'd I say, let's start with the shaking and the loss of balance.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Did that start all of a sudden or has that been going on for some time?
+
+PATIENT M641
+No just since I was diagnosed with the sleep apnea.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+Because now I wasn't resting.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And I be jittery.  I don't drink coffee you know.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Something like caffeine at night.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know have coffee around 9am then but other than that, I drink beer sometimes.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know but not enough to have any shaking going on.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And like now see I got to hold my hand you know if I get up here.
+
+DOCTOR M641
+Then it shakes.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+I remember you told me that last time.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+And we talked about setting up a follow-up appointment with Neurology.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Were you able to do that?
+
+PATIENT M641
+Urology?
+
+DOCTOR M641
+Neurology, the nerve doctors.
+
+PATIENT M641
+No I never did that.
+
+DOCTOR M641
+No okay.  Let me see if they have a recall for you okay.
+
+PATIENT M641
+Will be the doctor that I need to see, to treat what's causing that?
+
+DOCTOR M641
+Well maybe not for sleep but the shaking and the loss of balance.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+It may be because you're not sleeping but I want to make sure nothing else is going on.
+
+PATIENT M641
+Yeah okay, alright.
+
+DOCTOR M641
+Okay.  Um it seems like they wanted to see you back uh on March 28th.  Did you not get a letter in the mail?
+
+PATIENT M641
+Uh uh.  March?
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+I didn't get anything.
+
+DOCTOR M641
+You didn't get a letter.
+
+PATIENT M641
+I keep those appointments and I don't know I keep all my appointments for that.
+
+DOCTOR M641
+Okay.  Okay.  Um and then the sleep I know we sent you to the class and you feel like the class didn't help you huh?
+
+PATIENT M641
+Not that.  That particular I mean we did all what she wanted us to do you know.  They graded us on those things you know, it didn't bother with sleeping, that happens the same thing.
+
+DOCTOR M641
+Well we talked about making some what we call the sleep hygiene changes.  You know things like reading before going to bed.
+
+PATIENT M641
+Yeah we went over that yes uh-huh.
+
+DOCTOR M641
+Turning off the lights.  
+
+PATIENT M641
+And she said don't just go to bed unless you are sleepy, that was one of the things.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Well you know I watch my show uh I think it comes on at 10, 11 o'clock I'm gone.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But 2:15, 2:20 wide awake.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Okay I don't drink.
+
+DOCTOR M641
+Is the alarm going off again at night?
+
+PATIENT M641
+No, no, no, it never did.  The alarm goes off at 6 in the morning.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+And uh I ain't going nowhere but you know I get up, that's when I'm going back to sleep.  I've been up since 2:30.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Cause when the alarm go off I can just shut it off cause I'm already laying there, there's nothing.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+And uh I get up and uh.
+
+DOCTOR M641
+Maybe try moving the alarm a little bit to maybe 8 o'clock or something, were you able to do that?
+
+PATIENT M641
+Yes she told me to do that.  I changed the alarm.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+To 8, as a matter of fact, I made it 9 but I'm you know I'm already woke.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know and I go to do my work-out at 8:30 over at the Department of Aging.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But uh I'm wide awake.
+
+DOCTOR M641
+What about the trazodone?
+
+PATIENT M641
+Huh?
+
+DOCTOR M641
+The trazodone medication.  Do you take that?
+
+PATIENT M641
+That's for the constipation wasn't it?
+
+DOCTOR M641
+It's not for constipation.  The trazodone is the medication to help you sleep because the last time you and I talked about taking it before going to bed.
+
+PATIENT M641
+I don't have no more of that I take them.
+
+DOCTOR M641
+Oh you do okay.
+
+PATIENT M641
+You know if that was supposed to be the way it was and I bought me some uh over-the-counter stuff, what do you call that uh it's for pain, arthritis stuff.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Uh Advil.
+
+DOCTOR M641
+Advil okay.
+
+PATIENT M641
+You know it makes you drowsy sometimes you know.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But uh whatever it is, I don't sleep like I did and I'm really afraid now because I'm real concerned about that, not being able to sleep.  You talking heart attack, stroke, I don't need that.  I ain't been like this all my life.  I believe you and I talked about this and I just said I'm really concerned and my family's concerned you know.  I'm beginning to drag this leg a little bit.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know like I had a stroke.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Uh you know I'm really concerned.  I'm doing what I'm supposed to do.  I exercise, I eat wholesome foods.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Cereal and uh oatmeal and other good stuff.  I'm drinking juices and the milk and.
+
+DOCTOR M641
+And what's your day like?  What do you do during, you wake up, you go work-out, but you come back.
+
+PATIENT M641
+Yeah I go take my exercise and then uh I'm just up.  You know I do yard work; I worked in the yard Friday.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Trimmed the lawn back and front you know, I had a little help with that.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Cause I'm not gonna over exert myself.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Then now you talking about maybe 11 or 12.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Like I'll even exercise till about maybe 12.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And that's when we have lunch, you know good lunch.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+So then I come home and my wife ain't got nothing for me to do uh well you know to go anyplace then I'm just there.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know so I watching my shows you know and uh I don't take a nap during the day which is bad.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I wished I could.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And uh I know my neighbor across the street he goes to sleep.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+About 10:30 he's back in the bed till about 1.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I wish that was me.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know he's sleeping and if you not getting good sleep.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+It ain't no good you know and I sleep three hours, I mean sometimes 30-40 minutes.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Just I could sleep a month.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+He’s so refreshed.
+
+DOCTOR M641
+Yeah, yeah.
+
+PATIENT M641
+But uh that's not any good.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+See sometime I think.
+
+DOCTOR M641
+I absolutely hear your concern I do.
+
+PATIENT M641
+Uh-huh, sometime I feel kind of.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Not that I'm having chest pains or nothing like that but uh, I just feel a little discomfort in there, in the area, in right here you now cause I'm you know, pretty @@@.  That's what bothers me.
+
+DOCTOR M641
+And what brings on that discomfort?
+
+PATIENT M641
+I don't know.  I just uh, actually I'm not sick I think it's just because I'm not resting.  I'm not sleeping.
+
+DOCTOR M641
+Well are you doing something when that comes on or are you sitting down?
+
+PATIENT M641
+I'm just sitting down cause I watch you know shows, the comical shows.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know nothing that you got to be puzzling your brain about and uh that's about it.  Now see I'm really concerned about my heart.   When I came up and I think my prostate.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I haven't been checked for that and I don't know when and uh I was here and I think you sent me to a urologist or something.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And the young lady over there, was two of them.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+They put the camera in the penis.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And she says she was trying to look for the other side of my kidney and all of that good stuff.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But they was inside of me and it was so rough she and I had a few words you know.
+
+DOCTOR M641
+You had what?
+
+PATIENT M641
+Had a few words because I didn't like what she was doing to me.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And they felt it was a joke.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know.
+
+DOCTOR M641
+Hmm.
+
+PATIENT M641
+And I didn't like that.  I didn't see the results or what it was or what happened.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Because I had a little blood in my urine.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+That's why I went there for them to you know, but that hurt and uh see that prostate I had a stent years ago cause the urologist that I saw here, he was very attentive to me and stuff.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+And you know because my dad had prostate cancer and one of my brothers.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+That's why I really concerned about it now you know then when I hear about this thing with the sleep apnea this morning, I hadn't heard that before.  I knew I was coming to see you so I just asking you about it.
+
+DOCTOR M641
+Okay.  I mean since you saw DOCTOR, since you saw me last time.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+We talked about sleep apnea and you went to Urgent Clinic.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+And they talked to you about it also, is that right?
+
+PATIENT M641
+DOCTOR didn't talk to me about nothing cause she didn't even acknowledge me but uh we just talked and uh that was it.  I think she made an appointment, she was supposed to make an appointment with those people for my uh, for discussing about uh.
+
+DOCTOR M641
+The sleep apnea?
+
+PATIENT M641
+No.
+
+DOCTOR M641
+The neurologist?
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+I think I keep, cause I know she give me some papers.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+To get to the clerk out here, to make an appointment with those people I guess.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+And then I need to go back and see those people out at Hines.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+About my.
+
+DOCTOR M641
+It's been a while yeah because we talked about that last time.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+So what happened?
+
+PATIENT M641
+Well they never called me and he didn't get no appointment.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+I called out there, several times.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Because I figured that's what, see this numbness is still in my finger, both of them.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And uh I can live with that.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But you know when it come to my prostate and the sleep apnea now that's something to be really concerned about.
+
+DOCTOR M641
+Okay what about the sleep apnea concerns you so much, tell me?
+
+PATIENT M641
+Because I uh, this new concern developing here now I wake up and I'll be coughing.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know not gasping for air.  I'm not short; you know I don't feel like I'm short of breath.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But I spits up and stuff.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Now I'm laying awake.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know.
+
+DOCTOR M641
+Are you wearing the mask?
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+I just got a new one.  I get one every three months.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And uh but I'm having a problem.  Here is my problem with that mask, trying to make those adjustments with the straps.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Because I can't feel them.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+See, I can't feel it, you know some of them go like this and you put.  The one I got just come across here.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I mean well except this one comes across like that.
+
+DOCTOR M641
+Is that one of the small ones.
+
+PATIENT M641
+Yeah the small one.
+
+DOCTOR M641
+Is that the one you're using?
+
+PATIENT M641
+And I had a full face one.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+When I first started.
+
+DOCTOR M641
+Oh okay.
+
+PATIENT M641
+But look like the rubber uh began to get soft.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know it wasn't fitting properly.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And by me with this numbness I can't make that adjustment with those straps.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+So I figured they might be coming out with something new.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I got the newer type I think.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Right now.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+But uh that's very important with that @@@, because my oxygen you know I don't get it.
+
+DOCTOR M641
+Right.
+
+PATIENT M641
+I'm getting it but.
+
+DOCTOR M641
+Right.  No it's great you're using it because if you have sleep apnea you have to use the mask.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Whether it's the nose mask or the face mask, you know this is fine, it works.
+
+PATIENT M641
+I sleep in it every night.
+
+DOCTOR M641
+It works very well.  Yeah uh-huh.
+
+PATIENT M641
+I put it on every night.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+Because I had a lot of my friends, associates, they swear by that.  I don't want to get like that.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Which it may require their life to change.
+
+DOCTOR M641
+So you have to give it some time okay.  Give it some time of consistent use and it gets better.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+People say that once they start using it.
+
+PATIENT M641
+They don't want to stop.
+
+DOCTOR M641
+They don't want to stop.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+But it takes some time to get used to sleeping like that.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+See I get that feedback from those guys and that's where I want to be.
+
+DOCTOR M641
+Uh-huh.  You will be, just give it some time cause it takes some time to make sure we have the right adjustment.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+You know for the mask and for you to get comfortable with it.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Uh what other concerns do you have besides the sleep apnea, regarding sleep apnea?
+
+PATIENT M641
+Well uh it was that my prostate like I said and I haven't had a complete physical.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Since my other doctor left.
+
+DOCTOR M641
+Okay what do you mean, what do you mean?
+
+PATIENT M641
+You know they check you for sugar and uh all that.
+
+DOCTOR M641
+For blood work yeah.  We had ordered some blood work.
+
+PATIENT M641
+I ain't had none of that I.
+
+DOCTOR M641
+No.
+
+PATIENT M641
+I ain't had nothing like that and that's what you know uh, I don't think the prostate test maybe twice a year or something maybe or once.
+
+DOCTOR M641
+Okay so in February we had ordered some blood tests the routine physical tests.  You know things that we check every year; you know cholesterol and prostate number and things like that um.
+
+PATIENT M641
+But I never got the results.
+
+DOCTOR M641
+Yeah well I don't think it was drawn cause it's still pending it says so maybe today after this appointment.  Have you eaten anything this morning?
+
+PATIENT M641
+Not yet.
+
+DOCTOR M641
+Okay.  So you can just go to the Lab and get all these blood tests done.
+
+PATIENT M641
+Please I be glad to get that.
+
+DOCTOR M641
+Yeah absolutely.
+
+PATIENT M641
+Yeah.  You think they could check me for sugar?
+
+DOCTOR M641
+Yeah uh-huh.  We'll check the sugar test with it.
+
+PATIENT M641
+Okay.
+
+DOCTOR M641
+And then your prostate number I think it was checked in December, this past December and it looked pretty good.  Are you having any problems with urination?
+
+PATIENT M641
+No other than I'm getting up.  I'm going about three times a night now.  I used to go two.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Uh but I drink a lot of water anyway.
+
+DOCTOR M641
+Do you drink water before going to bed?
+
+PATIENT M641
+Yes and I think that could be you know the reason.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+And I have uh, my bladder empties I mean cause the flow is strong.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know and uh.
+
+DOCTOR M641
+I'm sorry you said it does flow strong right?
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+Sometimes.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Depending on my consumption of water I guess during the day, when I'm sitting around or whatever.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I'm pretty active.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know and but the only problem I got though doctor here is that sleep.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+And I think a lot of that brings on, the not sleeping, good sleep, brings on other problems.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Cause I have a tremendous appetite.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And I eat the proper foods and I eat a lot of fruit, oranges and apples.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know.
+
+DOCTOR M641
+And how's constipation?
+
+PATIENT M641
+Huh?
+
+DOCTOR M641
+Constipation, how is that?  Are you moving your bowels?
+
+PATIENT M641
+Well I'm going.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know I take that tablet that you give me uh, that little brown round one.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I take that sometimes.  But if I miss a day or two without going I'm not too worried about it.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But I will pop that tablet.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And uh my constipation really it bother me cause I'm not going like I was when I was younger.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know I know that, I can accept some things.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But I the waste is not a hard, straining.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Type of a finish.
+
+DOCTOR M641
+So that's good right.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+I'm just used to being healthy you know and stuff and not having to live with some situation because I am getting older but I still want to stay around a little while longer.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+But I'm not doing anything to hurt my heart you know.
+
+DOCTOR M641
+Oh no you're not.  You're doing everything right.  The only couple of things I need you to do is follow up with the neurosurgeon.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Because you have pretty bad arthritis in your neck.
+
+PATIENT M641
+Yeah I do.
+
+DOCTOR M641
+Impinging on some of the nerves okay.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+I don't know if the shaking is because of that.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+So it seems that Neurology had seen you and they wanted you to go see the neurosurgeons and just talk to them.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+It doesn't mean you're committed to surgery.  You talk to them and find out what they have to offer.
+
+PATIENT M641
+That's what I will do.
+
+DOCTOR M641
+Yeah.  So that's at the Hines VA okay.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+The other thing um and you need to go back and see the neurologist.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Not the urologist, not the prostate doctors, the neurologist.  He is the doctor that actually initially referred you to Hines okay.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+But this time we need to talk to them about the balance and also the shaking and see if they have anything else to offer okay.
+
+PATIENT M641
+Okay.
+
+DOCTOR M641
+Um we'll check some of the lab work um and let me talk to DOCTOR and see what we can do about sleeping.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+If there's anything else okay.
+
+PATIENT M641
+Yeah well she knows me, but I'm saying cause she and I talk and uh I'm just concerned.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+DOCTOR you know about me, you know I know I'm getting old but I'll do what I have to do.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+And I know some things you just got to live with it. 
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+Probably like abusing your body.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know at my age what am I gonna do about it.
+
+DOCTOR M641
+No, no, you take very good care of yourself so that's good.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Um let's see some of the ways we can help you.  So I want you to know I hear your concerns.  I understand if you're not sleeping well then other things affect it.
+
+PATIENT M641
+Yeah that really bother me that sleep.  And those tablets that I have those supposed to make me rest a little better?
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But I ain't got no more.
+
+DOCTOR M641
+When you had them were you taking them?
+
+PATIENT M641
+Well um not consistently uh.  She didn't, when they give them to me it was something just to aid, it wasn't nothing I don't think, they didn't tell me to continuously take them.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But I know I'm out of them and uh it wasn't a harsh type of a tablet that would put you into a deep sleep or nothing like that.
+
+DOCTOR M641
+Uh uh.
+
+PATIENT M641
+And uh and I but I just want, if I could just go to you know get yawn, you know.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And I feel the sleep coming on.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+That's when I say my prayers cause I know when I get through saying my prayers I should be.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know ready cause I love to sleep.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I really do.  I put all those years in the steel mill but that's all I did.  I worked, come home, ate, went to bed you know something like that but it was a pattern and everything was normal then.  You know you ate a good breakfast, you went to work, you stayed eight hours and come home uh did some stuff you know and then you eat your supper.
+
+DOCTOR M641
+When did you stop working?
+
+PATIENT M641
+Uh I been retired now about three years.
+
+DOCTOR M641
+Three okay.
+
+PATIENT M641
+But I put 30 years in the steel mill.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know and then uh I worked awfully hard.  I been working 50 years.
+
+DOCTOR M641
+Yeah.  Long time huh.
+
+PATIENT M641
+Yeah 50 years I been, you know I worked.
+
+DOCTOR M641
+Now um when did the sleep problem start for you the first time?
+
+PATIENT M641
+The sleep problem started actually a couple years ago doc.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Really but it didn't bother me then because I just thought I had a couple of cools too much or something and uh and I'd fallen asleep and then I got you know drink beers sometimes on Friday evening.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Then uh I'd get into bed but I'd wake right up.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+So.
+
+DOCTOR M641
+How much do you drink now?
+
+PATIENT M641
+Well uh, see like I not today like I said like Fridays, you go to a retirement party or something; I drink three cans of beer.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And then a shot or two of champagne.  Not regularly, I mean this ain't nothing you know.  I'm not a regular drinker now.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know and usually when I drink beer is with a corn beef sandwich.
+
+DOCTOR M641
+So on average how much do you drink every day?
+
+PATIENT M641
+Nothing.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+Water is more, that's what I drink.  See I don’t have to have a taste for it.  You have to have a taste for certain things.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+I don't have a taste, but like a person that smoke they have a taste for that cigarette, but I ain't got the taste for that alcohol.  I never drank no Jack Daniels or stuff like that.
+
+DOCTOR M641
+So when you drink, maybe you drink once or twice a week, something like that?
+
+PATIENT M641
+I'm gonna say three.
+
+DOCTOR M641
+Three times a week.
+
+PATIENT M641
+I'll say that, but that's not.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+And about three cans of beer on each.
+
+DOCTOR M641
+Each time.
+
+PATIENT M641
+Yeah because I'm gonna to a funeral this Thursday.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And at the repast they gonna have some beers.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+After the meal you know.  But I have to have that; I have to develop that taste.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+@@@ you know, so I'm not considered a drinker, but if I do I know just I'd better go with it.
+
+DOCTOR M641
+How about smoking, do you smoke?
+
+PATIENT M641
+Never smoked.
+
+DOCTOR M641
+No okay and any drug use?
+
+PATIENT M641
+Huh?
+
+DOCTOR M641
+Any drug use?
+
+PATIENT M641
+No.  I have smoked some weed.
+
+DOCTOR M641
+In the past or?
+
+PATIENT M641
+Uh about a year, about half a year, something like that.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+You know uh at a retirement party, uh but all of us guys are in our 70s, 60s. W@@ but you know it doesn't bother me none, I don't guess.  Now I worry about this kicker, but that was just the weed so, that was it.
+
+DOCTOR M641
+Okay.  And so just the one time you tried it.
+
+PATIENT M641
+Oh no it's more than that but I'd say once a month.
+
+DOCTOR M641
+Okay and you're still smoking once a month?
+
+PATIENT M641
+Yeah not regularly but I mean it'll balance out in a year's time.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+Maybe once a month.
+
+DOCTOR M641
+Okay so occasionally.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Okay.  Um.
+
+PATIENT M641
+And it ain't nothing I can't quit.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+Cause if you tell me @@@ I'd say that's it.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+You see it's like that.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+With me, nothing I can do I can't stop because I'm concerned about my health.
+
+DOCTOR M641
+Let me ask you this, what's keeping you from stopping?
+
+PATIENT M641
+Huh?
+
+DOCTOR M641
+What's keeping you from stopping?
+
+PATIENT M641
+Nothing.
+
+DOCTOR M641
+Nothing, okay.
+
+PATIENT M641
+Uh uh, nothing.
+
+DOCTOR M641
+I just you know marijuana is illegal.  I'm sure if it helps you a whole lot.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Um so you might as well stop right?
+
+PATIENT M641
+I can stop right now.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+Ain't no big deal.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+I’m serious, it ain't that I got to have it.
+
+DOCTOR M641
+Yeah.  So I think.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+You smoke it once in a while like that.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Okay hmm.
+
+PATIENT M641
+It's that heavy stuff, crack and all that is what.  I don't even go on that one but I'm just saying and you know I haven't done that since the Army.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+And uh occasionally you know when I was young and stuff but I never seamed and then you hear rumors that you know you smoke a little pot and it'll help your eyesight and this and that and got me wearing glasses so you know.
+
+DOCTOR M641
+It helps, you know in California it's legalized.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+For glaucoma.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+But I didn't see over here that you have documented glaucoma.
+
+PATIENT M641
+No.
+
+DOCTOR M641
+It doesn't help vision as such.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+But if somebody has glaucoma then it can help the glaucoma.
+
+PATIENT M641
+But uh I don't have to have it.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And I don't look for it.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Or nothing like that uh and that's not a whole joint.  I'm talking about maybe three or four people.
+
+DOCTOR M641
+Okay.  Okay, alright.
+
+PATIENT M641
+You know.
+
+DOCTOR M641
+Now let me ask you about your heart a little bit more.  When you walk around, let say if you walk a flight of stairs or walk a couple blocks do you feel any pain?
+
+PATIENT M641
+Uh uh.
+
+DOCTOR M641
+No okay.
+
+PATIENT M641
+See when I work out in my gym on the treadmill.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And stuff you know I don't feel tired, sometimes I work up a sweat but I gauge myself.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And the personal trainer she's right there.
+
+DOCTOR M641
+Uh-huh.  And you don't feel any heart, chest pain.
+
+PATIENT M641
+Palpitating no.
+
+DOCTOR M641
+Okay.  Pain?
+
+PATIENT M641
+No.
+
+DOCTOR M641
+Pressure in your chest?  No.
+
+PATIENT M641
+No.
+
+DOCTOR M641
+Okay.  Any um, I know you sweat because you're working out.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+But what about just going up a flight of stairs and something do you feel like.
+
+PATIENT M641
+No sweat.  No sweating or nothing.  The only thing right now about me going up my steps now and coming down them I hurt in my legs.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know right in here.  You know I got varicose veins true enough uh if I'm carrying something I do feel kind of weak in the legs I go you know but this wasn't nothing compared to this.  Sometimes you know my sleep apnea but um my balance, like I say when I talked to him or whatever I was gonna discuss that with him.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But uh that's about it.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+You know uh I don't have no problem eating uh something like I don't have to have coffee.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Uh but I will drink a cup of tea or something uh.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Every now and then. In my class they told me don't drink nothing with caffeine after six.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Stuff like that, I follow the rules.
+
+DOCTOR M641
+You follow everything okay, excellent.  
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+So that's all of your concerns okay.  So like I said see I have to talk to DOCTOR and see what other ideas we can come up with.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+So maybe you should try that medication again, the trazodone, to see if that might help you.  You have to take it before you go to bed.
+
+PATIENT M641
+Yeah and you want me to take that every night?
+
+DOCTOR M641
+Yeah uh-huh.  Let me talk to DOCTOR.
+
+PATIENT M641
+Yeah, you just tell her, well she's honest with me and all that.
+
+DOCTOR M641
+Yeah, sure, absolutely, absolutely.
+
+PATIENT M641
+I know she's concerned.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+About me and my health but I think if I could sleep.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I'd be a much better person if I could sleep.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+We're gonna try to help you with sleep okay.
+
+PATIENT M641
+Okay.
+
+DOCTOR M641
+And your sleep apnea, you're using the machine.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Give it some time and you'll get used to it okay.
+
+PATIENT M641
+Okay.
+
+DOCTOR M641
+And then we'll see how things go.
+
+PATIENT M641
+Okay.  Now.
+
+DOCTOR M641
+Uh.
+
+PATIENT M641
+Can I bring, I can bring that, now cause see I want to make, no one ever fitted that mask on me.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Now the matter with me I can't grasp those straps.  This new mask they give me.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Well she adjusted it up there but I puts it on intact.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And pull it down.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know and then it rests right here.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+So I can do it like that.
+
+DOCTOR M641
+Can somebody help you with the mask?
+
+PATIENT M641
+Yeah my wife, when she's there.
+
+DOCTOR M641
+If it's hard to put it on.
+
+PATIENT M641
+It's hard by myself.
+
+DOCTOR M641
+Then you can put it on like this and strap it around.
+
+PATIENT M641
+See if I put, leave that one strap open.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And then you know.
+
+DOCTOR M641
+Just put it on.
+
+PATIENT M641
+Yeah and then use that one strap.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Kind of like this new type I got there's two straps.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+For this one.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know.
+
+DOCTOR M641
+Now do you go to the Equipment Clinic?
+
+PATIENT M641
+No that's where I got it from here.
+
+DOCTOR M641
+Yeah uh-huh.
+
+PATIENT M641
+But nobody showed, she showed me this last time the one that I got but when I went to the class I spent the night out here for observation and they found out that I stopped breathing a couple of times and all that good stuff so after I went to pick up the equipment no one showed me how to put that thing on.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+The mask.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+And the lady who did I didn't understand her English.  She didn't, I couldn't understand what she was saying.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+So I was just stuck with something.
+
+DOCTOR M641
+Where was that lady?  Was she in the clinic?
+
+PATIENT M641
+She was in the, she was issuing the equipment.
+
+DOCTOR M641
+Okay.  So maybe we need to go back with them.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Uh cause they're the ones who would do the adjustment for you.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Okay so why don't you bring your mask back, go back to them and maybe speak with someone else.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Not that person.
+
+PATIENT M641
+Because see I, just like this behind me.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+The head, you see mine comes across the forehead.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Too.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But my hose connect and that is the one that comes across the forehead.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And I love that one.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know but I'm getting it balled up behind the head back here.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And I think it's the thing just behind the head.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Now that’s a good fit if I could get mine to do that.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+You know.
+
+DOCTOR M641
+Yeah, yeah, no they can help you.  That's just the adjustment that needs to happen okay.
+
+PATIENT M641
+Yeah but sometimes.
+
+DOCTOR M641
+Just give it a little bit of time to come up with the mask that's appropriate for you.
+
+PATIENT M641
+Cause sometimes in the night you know you toss and turn and that hose and the straps twist and it's a mess.
+
+DOCTOR M641
+Uh-huh, yeah it's uncomfortable.
+
+PATIENT M641
+But the other than that, I think I'm getting a good enough fit during the night.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Because I could see the water in my machine is leaving.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+And my little calendar that's a data sheet I check it.  I got to find out when I was supposed to bring it back here in three months.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+So they can tell if it's effective or something like that.
+
+DOCTOR M641
+Find out yeah.
+
+PATIENT M641
+So I'm gonna do that uh when I come back.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+On one of those thingse here.
+
+DOCTOR M641
+So we'll work on getting that mask fitted to you appropriately and I think that'll help you sleep also.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Okay.  As far as your prostate is concerned, you know your prostate number was checked recently, within the year and it looked okay.  You didn't tell me very significant urinary complaints but we can have you see the urologist again.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Do you want to doctors?
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+And then we'll take it from there.  What we'll do today is check your urine.  Okay one more time just make sure there's no blood in it.
+
+PATIENT M641
+Okay, uh-huh.
+
+DOCTOR M641
+And then you talked about your heart.  You know the symptoms you're telling me it seems like you have a good heart that's working pretty good okay.  Um maybe it is related to not sleeping very well with the sleep apnea symptoms okay.  Right now I'm gonna keep an eye on that.
+
+PATIENT M641
+Okay.
+
+DOCTOR M641
+Okay.  Um and then we talked about constipation.  Constipation you're gonna continue using the tablet that you're taking.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+The Docusate, continue eating all the foods that you are eating cause all that helps keep your stools soft and you know so you can move your bowel.
+
+PATIENT M641
+Uh-huh.  I do eat a lot of yogurt too.
+
+DOCTOR M641
+Yeah uh-huh.  Alright.  Is that everything?
+
+PATIENT M641
+That's about it uh you know because I'm gonna get these tests you see, the blood work that'll tell you some stuff and I'm just concerned about my prostate but believe if I can, if I can sleep.
+
+DOCTOR M641
+Everything would be better.
+
+PATIENT M641
+Four full hours, three hours or four of good sleep I'd be a better person.
+
+DOCTOR M641
+Right.
+
+PATIENT M641
+I just be irritable and crabby in the morning when they.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+You know.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+Don't get the rest that you should be getting.
+
+DOCTOR M641
+Let's come up here.  How has your mood been?
+
+PATIENT M641
+Huh?
+
+DOCTOR M641
+How's your mood been?  You said when you don't rest you get irritable and crabby but other times do you feel depressed at all?
+
+PATIENT M641
+My mood is, I, you know I don't worry about anything.
+
+DOCTOR M641
+No okay.
+
+PATIENT M641
+You know I really don't.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know, you know I'm pretty active with things @@@.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Annoy me or bothers me you know that I'm thinking I'm supposed to be experiencing.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+You know I go to church on Sunday and all that stuff and I'm not a drinker or say you're drive to drink.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Yeah but I don't drink like @@@ you know.
+
+DOCTOR M641
+Yeah, yeah, you're not an alcoholic.
+
+PATIENT M641
+Yeah or something like that and.
+
+DOCTOR M641
+How about um any thoughts of hurting yourself or anything like that?
+
+PATIENT M641
+Huh?
+
+DOCTOR M641
+Any thoughts of hurting yourself?
+
+PATIENT M641
+No, oh no.
+
+DOCTOR M641
+Oh none of that okay, okay, good um.
+
+PATIENT M641
+Would you look at my ear today doc to see what?
+
+DOCTOR M641
+Sure.  Take a nice deep breath, let it out, one more time, and out and again and out and out.  Normal breathing.  And lay back.  Okay.  Sit up.  
+
+PATIENT M641
+Now.
+
+DOCTOR M641
+Hold my fingers on my hand, squeeze my fingers with your hands, hold, squeeze real hard, as hard as you can, as hard as you can, as hard as you can, @@@.  Okay.  Lift the leg up, push me away, push me away as hard as you can, what happened?
+
+PATIENT M641
+@@@.
+
+DOCTOR M641
+Push me away okay good.  Arms up like this, don't let me push down and push down on my hands, push down okay.  @@@ okay.  You're very strong.  Good relax your hand, relax your hands, relax your hands.  Push my hand away with your leg, turn this way, one more time okay good.  Close your eyes real tight let open okay.  Open your eyes, puff your cheeks out, don't let me push in okay good, relax.  Open your mouth, tongue out all the way, open your mouth, tongue out, tongue out, tongue out all the way say ah.
+
+PATIENT M641
+Ah.
+
+DOCTOR M641
+@@@.  When you're sitting down raise up against my hand okay same here alright.  Kick up, same thing here okay.  Now relax, pull your leg in, do that, pull your leg in, pull your leg in, this part in, now this one, alright.  Push my hand down, push it down.
+
+PATIENT M641
+Oh.
+
+DOCTOR M641
+This one, push it down good.  Push like you're pushing on a gas pedal, push like you're pushing on a gas pedal, no.
+
+PATIENT M641
+Oh.
+
+DOCTOR M641
+Push like you're pushing on a gas pedal like that.  Relax your leg, push like you're pushing on a gas pedal, push up and then push down.  Not with your knee.
+
+PATIENT M641
+Not the knee @@@.
+
+DOCTOR M641
+Not with your knee, with your knee relaxed, relax all the way, relax all the way and then push like you're pushing on a gas pedal and I want you to do this standing up, just support you.
+
+PATIENT M641
+Oh with my foot.
+
+DOCTOR M641
+Yeah push down okay good.  Try to push down good.  So bring this up okay.  Are you ready to go again @@@, go again.
+
+PATIENT M641
+Oh.
+
+DOCTOR M641
+What happened?  
+
+PATIENT M641
+It's a reflex.
+
+DOCTOR M641
+Reflexes are actually good.  Okay.
+
+PATIENT M641
+What's that reflexes?
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Now just sit over here.  Let me see if I can find an otoscope from another room okay.
+
+DOCTOR M641
+Uh-huh.  Okay can I have you come to this room over here?
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+Um cause the otoscope was in here.  @@@.  Hold on, hold on.
+
+PATIENT M641
+Yeah that's probably why I can't hear.
+
+DOCTOR M641
+Yeah.  I think it probably was.
+
+PATIENT M641
+It fills up like that doc.
+
+DOCTOR M641
+@@@.
+
+PATIENT M641
+Oh, oh.
+
+DOCTOR M641
+That's part of like normal ear function and you know it's usually okay unless you're making a whole lot.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+And then if you make a whole lot and you got to clean it out once in a while okay.
+
+PATIENT M641
+Yeah I get to wash it every so often.
+
+DOCTOR M641
+Wash it with what?
+
+PATIENT M641
+Wash he have some type of solution.
+
+DOCTOR M641
+Oh was it from here?
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+I mean they would wash it, I'd come out, they'd give me an appointment.
+
+DOCTOR M641
+Uh-huh.  Alright.  Do you want this mailed or do you want to pick it up?
+
+PATIENT M641
+Pick up all this today.  I'm gonna be out here.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+I got to give up this blood you know.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+And stuff I need all of it and I got my sleeping stuff, I take it tonight when I, cause I put my mask on.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+About 9 o'clock even when if I'm not going out, you know I'm just laying around I put that mask on.
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+During the day.
+
+DOCTOR M641
+Oh you do okay.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Alright.  Let me go talk to DOCTOR.
+
+PATIENT M641
+Okay.
+
+DOCTOR M641
+I'll be back in a minute okay.
+
+PATIENT M641
+Okay doc.
+
+DOCTOR M641
+Let me ask you this, do you have difficulty falling asleep or staying asleep or both?
+
+PATIENT M641
+Both.
+
+DOCTOR M641
+Both okay.
+
+PATIENT M641
+But not difficult going to sleep at night because I usually, right after my show go off at 11.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I be tired, well I feel tired and uh I don't know when I go to sleep but it's within that little time frame, within 10 or 15 minutes.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+I'm gone.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But I wake up right around 3 o'clock.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Every morning.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Right around there and I lay awake.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+At some time which the lady told us to read a book or something.  I don't watch TV that time of the morning she said to go back to sleep just read something.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+That you don't like.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Or something then all of a sudden and then sometime I say a prayer or something, read a scripture out of the Bible and uh she said read something that you don't like.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Cause if you read something you like you might stay longer.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Whatever, something like that but uh that's not all the time.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But whenever I do go back to sleep I wake up again it's right around 6.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+But I ain't been sleeping for maybe a half an hour or hour or so.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+So that's all @@@.
+
+DOCTOR M641
+And are there thoughts going in your mind at that time?  Are you thinking of something?
+
+PATIENT M641
+I just, you know you think about a lot of things, really not prevalent I don't know what it be.  You know stuff happening, I don't know.
+
+DOCTOR M641
+Okay, I'll be back.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Give me a couple of minutes.
+
+PATIENT M641
+Okay doc take it easy.
+
+(DOCTOR OUT:  48:33  DOCTOR IN:  57:31)
+
+DOCTOR M641
+Alright.
+
+PATIENT M641
+Only good news now.
+
+DOCTOR M641
+A couple things that we talked about you're gonna do is follow up with Neurology remember?
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+Um I'll put it over here.  Hines you're gonna call and set up an appointment.  I'll give you this so you @@@.  Um for sleep apnea, for the sleep problems, DOCTOR said there's no easy fix either.  You know we just have to give it some time.  Keep doing the things that the Insomnia Clinic uh talked to you about.  Actually I would encourage you to go back to them and kind of stay in touch with them so they can keep working on things with you.  Um especially make sure the mask is fitted properly and go back and see them and just kind of give it some time okay.  
+
+PATIENT M641
+Yeah.  So you giving me the tablets?
+
+DOCTOR M641
+Yeah we can give you those.
+
+PATIENT M641
+The medication.
+
+DOCTOR M641
+Yeah we can give you those.
+
+PATIENT M641
+Um.
+
+DOCTOR M641
+And then you're gonna do blood work and we'll make sure other things are okay.
+
+PATIENT M641
+Yeah we should get that.  So I can uh get the sleep, the psychologist when I went for that class @@@ stuff.  She was telling me that's my problem more or less with my sleep apnea than it was than my problem, you know that erectile.
+
+DOCTOR M641
+Yeah and you know like I said you're gonna give it some time.
+
+PATIENT M641
+Yeah.
+
+DOCTOR M641
+And make sure the mask is very comfortable as well.
+
+PATIENT M641
+Well see those two things I'm really working on because you know and then I'm getting good compliments and everything from people that @@@ you know man your whole lifestyle you know would improve and everything.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+By continuously wearing it and they say sure if you have any kind of problems go back out there and let them know.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Or something you know.
+
+DOCTOR M641
+Yeah, right.  
+
+PATIENT M641
+I'm in the process of getting a new mattress too.
+
+DOCTOR M641
+Uh-huh.  That helps though yeah.
+
+PATIENT M641
+Yeah tremendously and pillows too.
+
+DOCTOR M641
+Uh-huh.  Okay, so go in for your labs and you'll make up these appointments okay.
+
+PATIENT M641
+Uh-huh.  Just give it to the lady up there?
+
+DOCTOR M641
+Yeah.
+
+PATIENT M641
+She know what's on here?
+
+DOCTOR M641
+Let me just take your phone number.
+
+PATIENT M641
+Uh-huh.
+
+DOCTOR M641
+If any of these labs come back abnormal.  What's your number?
+
+PATIENT M641
+Uh NUMBER.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+NUMBER.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+NUMBER.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+NUMBER.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+My cell is NUMBER.  Would they be able to check my sugar too over there?
+
+DOCTOR M641
+Yes uh-huh, yeah.
+
+PATIENT M641
+Well I'm going right on over there now.
+
+DOCTOR M641
+Yeah.  Now when you walk up and down the stairs do you feel you're gonna fall like you need a device?  You need a stick?
+
+PATIENT M641
+I got my stick but I really don't need it.
+
+DOCTOR M641
+Uh-huh.
+
+PATIENT M641
+Only coming up the steps I use the banister.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+You know.
+
+DOCTOR M641
+Okay.
+
+PATIENT M641
+It works, okay.  So I go on over here.
+
+DOCTOR M641
+Uh-huh.  And that's where you go.
+
+PATIENT M641
+I go down to the next appointment.
+
+DOCTOR M641
+Thank you, take care.
+
+PATIENT LEAVES:  61:15.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300328
+TRANSACTION # 578-10-2-316-0103

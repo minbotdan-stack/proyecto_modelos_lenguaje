@@ -1,0 +1,471 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR Y768
+How you doing?
+
+PATIENT Y768
+Hey what's up.
+
+DOCTOR Y768
+How you doing today?
+
+PATIENT Y768
+I'm going okay.
+
+DOCTOR Y768
+Good.  Uh anything I can do for you?
+
+PATIENT Y768
+Well, I been coughing up a lot of mucous and it's been going on for quite a while now.
+
+DOCTOR Y768
+Uh-huh.
+
+PATIENT Y768
+Yeah and I'm just you know wondering what's going on with that.
+
+DOCTOR Y768
+Okay.  How long you been coughing up the mucous?
+
+PATIENT Y768
+It's been going on for seems like almost a year now.  I just went; you know I'm just really you know beginning to wonder about it you know.
+
+DOCTOR Y768
+Uh-huh.  What color is it?
+
+PATIENT Y768
+It's kind of greenish looking.
+
+DOCTOR Y768
+Okay.  Sometimes white?
+
+PATIENT Y768
+Uh-huh.
+
+DOCTOR Y768
+Sometimes clear?
+
+PATIENT Y768
+I'd say kind of a clear; mostly it's white and kind of greenish.
+
+DOCTOR Y768
+Is it worse in the morning?
+
+PATIENT Y768
+Well in the morning time when I do get up I do it and when I do it a little bit during the day, but I notice at nighttime I do a little bit but all during the day I notice some things.
+
+DOCTOR Y768
+So at nighttime it's okay.
+
+PATIENT Y768
+Uh-huh.
+
+DOCTOR Y768
+Do you smoke?
+
+PATIENT Y768
+No.  I quit two years ago, three years ago next month.
+
+DOCTOR Y768
+Excellent.  No cigarettes, cigars, tobacco, pipe, nothing okay.
+
+PATIENT Y768
+No.
+
+DOCTOR Y768
+Um do you have any allergies that you know of?
+
+PATIENT Y768
+Not that I know of.
+
+DOCTOR Y768
+Okay.  That medicine lisinopril.
+
+PATIENT Y768
+What is that?
+
+DOCTOR Y768
+It's one of your blood pressure medicines.
+
+PATIENT Y768
+Oh.
+
+DOCTOR Y768
+The half tablet twice a day.
+
+PATIENT Y768
+Okay, okay, yeah okay.
+
+DOCTOR Y768
+You've been taking that for a long time right?
+
+PATIENT Y768
+No I only been taking that about two, three months now.  About three or four months.
+
+DOCTOR Y768
+Okay.  Well I thought you've been taking that longer.
+
+PATIENT Y768
+Oh it may be six months maybe.
+
+DOCTOR Y768
+Maybe the same time as this cough?
+
+PATIENT Y768
+No the cough was going on before that.
+
+DOCTOR Y768
+That medicine's new?
+
+PATIENT Y768
+Well I been on it.
+
+DOCTOR Y768
+Well actually it looks like it was started in February of 09.
+
+PATIENT Y768
+Okay has it been that long?
+
+DOCTOR Y768
+Yeah.  So it would have been about a year ago, about the same time as the cough.
+
+PATIENT Y768
+No I can't remember hmm.
+
+DOCTOR Y768
+Yeah time flies when you're having fun.
+
+PATIENT Y768
+Yeah.
+
+DOCTOR Y768
+You been having fun?
+
+PATIENT Y768
+No.
+
+DOCTOR Y768
+A little bit of fun, not too much?
+
+PATIENT Y768
+I haven't been too dull though.
+
+DOCTOR Y768
+That's right.  Uh what about, did you ever notice any like sinus drainage or like in the back of your throat when you wake up in the morning, do you ever feel?
+
+PATIENT Y768
+Uh uh.
+
+DOCTOR Y768
+Anything like there's something back there you got to clear.
+
+PATIENT Y768
+Uh uh.
+
+DOCTOR Y768
+Nothing like that okay.
+
+PATIENT Y768
+Well sometimes I do.
+
+DOCTOR Y768
+Okay.
+
+PATIENT Y768
+Yeah.
+
+DOCTOR Y768
+Um what about do you ever get heartburn or reflux?
+
+PATIENT Y768
+Not any more, now I was getting that, you know, I haven't gotten that now in a while, in years.
+
+DOCTOR Y768
+Do you take medicine for it?
+
+PATIENT Y768
+I was.  What was it, omeprazole.
+
+DOCTOR Y768
+Omeprazole yeah.
+
+PATIENT Y768
+Yeah as such it went away and I stopped taking it.
+
+DOCTOR Y768
+What pills are you taking, just those two for blood pressure?
+
+PATIENT Y768
+I take the blood pressure pills.  I take stool softeners.
+
+DOCTOR Y768
+Okay. 
+
+PATIENT Y768
+I take metformin.
+
+DOCTOR Y768
+Okay.
+
+PATIENT Y768
+And I take that you know the prostate thing at night.
+
+DOCTOR Y768
+Okay.  And that should be about it.
+
+PATIENT Y768
+Yeah should be about it.  I came in here back in February.  I came to the Emergency Room.
+
+DOCTOR Y768
+Uh-huh.
+
+PATIENT Y768
+And they did some blood work on me for, for I think checking for kidneys or something because of the prostate pill that I was taking.
+
+DOCTOR Y768
+Uh-huh.
+
+PATIENT Y768
+How does that look?
+
+DOCTOR Y768
+In January?
+
+PATIENT Y768
+Yeah @@@.
+
+DOCTOR Y768
+Your liver function tests were normal.  Yeah it looks like all they checked was your liver function.
+
+PATIENT Y768
+I think so.  Yeah and I wanted to see about my blood count.  I haven't had nothing did on that in a while.
+
+DOCTOR Y768
+Yeah we should check some labs today, check some urine today.
+
+PATIENT Y768
+Uh-huh.
+
+DOCTOR Y768
+Um and then the thing with the chronic cough like that.
+
+PATIENT Y768
+Uh-huh.
+
+DOCTOR Y768
+Um have you had a chest x-ray recently?
+
+PATIENT Y768
+No, except when I had the surgery back in last August.
+
+DOCTOR Y768
+Okay.
+
+PATIENT Y768
+I think it was last August I had one.
+
+DOCTOR Y768
+Um have you ever been exposed to TB, tuberculosis that you know of?  Worked in a hospital or been in jail?
+
+PATIENT Y768
+Yeah, now a guy that I knew, sometime an old fellow I knew he had it.
+
+DOCTOR Y768
+Okay.
+
+PATIENT Y768
+But I came in.
+
+DOCTOR Y768
+You didn't live with him or anything like that?
+
+PATIENT Y768
+No, no.
+
+DOCTOR Y768
+Alright, alright.
+
+PATIENT Y768
+But I came here right after I'd heard and had a TB test about a year ago.
+
+DOCTOR Y768
+Yeah I know it doesn't sound like TB.
+
+PATIENT Y768
+Hmm.
+
+DOCTOR Y768
+So with a chronic cough the three most common things are could be a little bit of heartburn or reflux can irritate your vocal cords and sometimes you don't even notice it.  You don't even get the heartburn but enough acid gets up there to irritate it.  Um another thing can be the postnasal drip like the back of your sinuses can drip down into the back of your throat.
+
+PATIENT Y768
+Hmm.
+
+DOCTOR Y768
+Irritate the vocal cords.  So it sounds like maybe a little bit of each of those could be contributing but also what might be most likely it's this medicine lisinopril.
+
+PATIENT Y768
+Uh-huh.
+
+DOCTOR Y768
+That's it's most common side effect is a cough and it sounds like the cough started around the same time you started that medication so I think it would be worthwhile to stop the lisinopril, see how you do um.  Your pressure today is pretty good.  Your pressure, you know we may not even need that lisinopril on there cause for the most part.  Like I don't think we need to replace lisinopril with another blood pressure medicine.  I think at this time we could just stop that and continue the water pill.
+
+PATIENT Y768
+Uh-huh.
+
+DOCTOR Y768
+And if your pressure gets too high then we'll add a blood pressure medicine next time.  Can you take your shirt off and I'll get a good listen to your lungs.  And you haven't noticed like any chronic fever or weight loss or anything like that have you?
+
+PATIENT Y768
+No.
+
+DOCTOR Y768
+Could you take your other shirt off for me please?  Big deep breath.  Take a breath. Listen to your  heart.  Open your mouth, say ah.
+
+PATIENT Y768
+Ah.
+
+DOCTOR Y768
+Stick your tongue out a little bit.
+
+PATIENT Y768
+Ah.
+
+DOCTOR Y768
+Real wide ah.  Okay relax and then open wide ah.
+
+PATIENT Y768
+Ah.
+
+DOCTOR Y768
+Again.  No pain here right?  Yeah I think we'll try first stopping that uh, stopping that medicine, the lisinopril.
+
+PATIENT Y768
+Uh-huh.
+
+DOCTOR Y768
+And that should take care of your cough.  If that doesn't work I think the next step would be maybe restarting that pill for your stomach because you could be having heartburn that is just enough to get up.  For instance since it's worse in the morning when you lay flat, the stomach contents can kind of travel up your esophagus and then irritate the vocal cords.  It might not be enough for you to feel it, feel the burning but it may be enough to cause that cough.
+
+PATIENT Y768
+Okay.
+
+DOCTOR Y768
+Well start first with that lisinopril.
+
+PATIENT Y768
+Okay.  And also I need my refills.
+
+DOCTOR Y768
+Uh-huh.  I'll refill them.
+
+PATIENT Y768
+Yeah cause the nurse was checking and she said something about some of them needed to be renewed.
+
+DOCTOR Y768
+Sure.  I'll be right back.  I'll be right back.
+
+PATIENT Y768
+Hmm.
+
+(DOCTOR OUT:  15:35  DOCTOR IN:  18:56)
+
+DOCTOR Y768
+Alright so um, had a little bit different strategy.  It could be, it could definitely be the lisinopril but because it sounds like it's a little worse in the morning, that kind of leans more toward it being that reflux irritating it.  So I was going to talk it over with DOCTOR and we thought first we would try the omeprazole, that pill for your stomach, try it twice in the day and one in the night.  Um the best way to take that is on an empty stomach and then don't eat for about 30-60 minutes because that gives it time to absorb and it decreases the acid production.  Uh take that morning and night.  We're also gonna get a chest x-ray since it's been going on for a year.  Um and then we'll see you back here in about a month um, about four weeks, see if it's better.  If it's better then good, if not then we'll try stopping the lisinopril and switching that to a different medication.
+
+PATIENT Y768
+Okay.
+
+DOCTOR Y768
+Because of your diabetes you should be on a medicine either in the class of medicines like lisinopril is in or another class which is very similar, helps protect your kidneys, especially in diabetic patients.  So um sound like a plan?
+
+PATIENT Y768
+Okay.
+
+DOCTOR Y768
+Okay.  Uh and then have you get some blood work today too.
+
+PATIENT Y768
+Okay.
+
+DOCTOR Y768
+So you can head to the Pharmacy, Radiology and less than a month they'll schedule you your follow-up with me in four weeks.
+
+PATIENT Y768
+Okay.
+
+DOCTOR Y768
+Alright.
+
+PATIENT Y768
+Alright.
+
+DOCTOR Y768
+And then oh head to the Lab too, cause that's gonna check your diabetes measures and uh some other blood work as well too.
+
+PATIENT Y768
+Okay.  So I go to the Lab.
+
+DOCTOR Y768
+Lab, Pharmacy and Radiology.
+
+PATIENT Y768
+Oh that on the third floor, this floor?
+
+DOCTOR Y768
+Um actually Outpatient is on this floor, it's all on this floor.
+
+PATIENT Y768
+The Radiology?
+
+DOCTOR Y768
+Yeah.
+
+PATIENT Y768
+Where's that?
+
+DOCTOR Y768
+It's right next to the Lab.
+
+PATIENT Y768
+Oh.
+
+DOCTOR Y768
+You now what I mean, you're looking at the Lab its right there.
+
+PATIENT Y768
+Oh okay.  Alright.
+
+DOCTOR Y768
+Alright. 
+
+PATIENT Y768
+Alright.
+
+DOCTOR Y768
+I'll see you in about a month.
+
+PATIENT Y768
+Okay.  So I go to the Pharmacy and then @@@.
+
+DOCTOR Y768
+Uh-huh.
+
+PATIENT Y768
+Oh okay.  And you renewed the other ones @@@.
+
+DOCTOR Y768
+Uh-huh.
+
+PATIENT Y768
+Alright thank you.
+
+DOCTOR Y768
+Yep.
+
+PATIENT LEAVES:  21:51
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275389
+TRANSACTION # 578-10-2-316-0103

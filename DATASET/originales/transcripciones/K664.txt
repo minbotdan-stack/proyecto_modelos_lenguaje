@@ -1,0 +1,557 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR K664
+Alright, I think you usually see DOCTOR is that right?
+
+PATIENT K664
+Right.
+
+DOCTOR K664
+Well he is out today so I'm covering for him.  How you doing?
+
+PATIENT K664
+Alright.  No I'm not, I'm not feeling well.
+
+DOCTOR K664
+Okay what's going on?
+ 
+PATIENT K664
+Well the reason I got a sinus cold and when I cough I'm coughing up mucous and I get lightheaded.
+
+DOCTOR K664
+Okay how long has this been going on for?
+
+PATIENT K664
+Since last week.
+
+DOCTOR K664
+So @@@ last week you say?
+
+PATIENT K664
+Yeah.
+
+DOCTOR K664
+@@@.
+
+PATIENT K664
+Yep.
+
+DOCTOR K664
+Okay and you're, what are you coughing up?
+
+PATIENT K664
+Blood.  Blood and yellow mucous.
+
+DOCTOR K664
+How much blood?
+
+PATIENT K664
+Spots.
+
+DOCTOR K664
+Spots of blood in the mucous?
+
+PATIENT K664
+Yeah.
+
+DOCTOR K664
+Are you coughing pretty hard like are you coughing?
+
+PATIENT K664
+Yeah.
+
+DOCTOR K664
+Yeah.  Okay just yellow mucous, nothing green or brown?
+
+PATIENT K664
+Yeah it's green, green and yellow.
+
+DOCTOR K664
+Okay.  What else?
+
+PATIENT K664
+That's it.
+
+DOCTOR K664
+Any fevers at all?
+
+PATIENT K664
+No, those went away.
+
+DOCTOR K664
+Were you having fevers before?
+
+PATIENT K664
+Yeah first two days.
+
+DOCTOR K664
+Did you measure it; was your temperature actually high?
+
+PATIENT K664
+It wasn't high but it was at just borderline.
+
+DOCTOR K664
+What was it?
+
+PATIENT K664
+It was uh 100 over something.
+
+DOCTOR K664
+Your blood pressure or your temperature?
+
+PATIENT K664
+You said my temperature right?
+
+DOCTOR K664
+Yeah 100 over something?
+
+PATIENT K664
+No, no, that was my blood pressure.  I forgot what my temperature was.
+
+DOCTOR K664
+Okay but no fevers or chills right now um any shortness of breath?
+
+PATIENT K664
+No.
+
+DOCTOR K664
+No you just said when you cough you get a little dizzy.
+
+PATIENT K664
+Yeah.
+
+DOCTOR K664
+Does that go away after you stop coughing?
+
+PATIENT K664
+Yeah.
+
+DOCTOR K664
+Okay.
+
+PATIENT K664
+It hurts when I cough too.  My head hurts.
+
+DOCTOR K664
+Yeah.  Is anyone at home sick?
+
+PATIENT K664
+No I'm the only person staying in my place.
+
+DOCTOR K664
+Okay.  Does this feel like its getting better or it's been about the same?
+
+PATIENT K664
+I think it's getting a little better.  It's better than the first two days you know, I was taking Alka-Seltzer Plus.
+
+DOCTOR K664
+Uh-huh.
+
+PATIENT K664
+And I had some cough syrup that I had from the last visit.
+
+DOCTOR K664
+Yeah did that help?
+
+PATIENT K664
+Yeah it helped.
+
+DOCTOR K664
+So it's mostly the cough and then when you cough you're getting a little bit of a headache.
+
+PATIENT K664
+Uh-huh.
+
+DOCTOR K664
+Um going on for like seven days.  No fevers at all, no chest pain, no shortness of breath, nothing like that.
+
+PATIENT K664
+No, chest pains yes.
+
+DOCTOR K664
+With the cough?
+
+PATIENT K664
+Yeah with the cough but before I got sick this whole left side from the arm got real stiff and this sharp pain went all the way up to the shoulder where I couldn't even lift my shoulder.
+
+DOCTOR K664
+Okay are you still having that?
+
+PATIENT K664
+Yeah in both shoulders now.
+
+DOCTOR K664
+Just shoulder pain?
+
+PATIENT K664
+Yeah.
+
+DOCTOR K664
+Okay so where, it's just pain it's just right here?
+
+PATIENT K664
+Yeah.
+
+DOCTOR K664
+Okay.  Let me see something.  How bad is the shoulder pain on a scale from 1-10?
+
+PATIENT K664
+7.
+
+DOCTOR K664
+But it's in both shoulders?
+
+PATIENT K664
+Yeah.  And at times both my hands stiffen up a lot.
+
+DOCTOR K664
+Uh-huh.  Did you hurt your shoulders at all?  Have you been doing any heavy lifting at all?  What do you do for work?  Do you work?
+
+PATIENT K664
+No I was in a car accident in 2006 that left me in a coma.
+
+DOCTOR K664
+Okay.
+
+PATIENT K664
+And then I got screws and wires in both of my ankles.
+
+DOCTOR K664
+Uh-huh.
+
+PATIENT K664
+And uh plate holder in my hip.
+
+DOCTOR K664
+Okay.  But with the shoulders, were those hurt in the accident too?
+
+PATIENT K664
+Yeah.
+
+DOCTOR K664
+Have those hurt ever since the accident?
+
+PATIENT K664
+Yeah.
+
+DOCTOR K664
+Is this different?  And how long has it been worse for?
+
+PATIENT K664
+It comes and goes.
+
+DOCTOR K664
+Okay.  But no new injury or anything?
+
+PATIENT K664
+No.
+
+DOCTOR K664
+Okay.
+
+PATIENT K664
+I notice I can't even do an arm curl with the curl bar because right along there it's like it hurts real bad so can't do that and even when I, when I start and I cut down on a lot of the heavy weights, I'm not doing heavy lifting but when I try to do push-ups it hurts.
+
+DOCTOR K664
+In your shoulder or it hurts right here?
+
+PATIENT K664
+It hurts in the shoulders.
+
+DOCTOR K664
+Okay.  Well I mean maybe you've got some arthritis in the shoulder or maybe there's something else.  We could probably just; we could try imaging you know we could get some x-rays to see if there's anything going on in there um let me see.  Otherwise so you are 53.  Are you a smoker?
+
+PATIENT K664
+No.
+
+DOCTOR K664
+Okay.  Have you ever been?
+
+PATIENT K664
+Nope.
+
+DOCTOR K664
+Excellent.  Um did you get your flu shot this year?  Do you want to get it today?
+
+PATIENT K664
+Uh uh.
+
+DOCTOR K664
+Okay any reason?
+
+PATIENT K664
+No I'm not taking shots.
+
+DOCTOR K664
+Okay.
+
+PATIENT K664
+Really I don't like needles.
+
+DOCTOR K664
+Okay.
+
+PATIENT K664
+I keep forgetting to bring my medical records here from Rush, that's where I was going when I was in a car accident.
+
+DOCTOR K664
+Uh-huh.
+
+PATIENT K664
+And then I was in the hospital for at least three months.
+
+DOCTOR K664
+Yeah, that'd be useful to have here um, let me see, otherwise you're 53.  Have you ever had a colonoscopy?
+
+PATIENT K664
+What is that?
+
+DOCTOR K664
+They put a camera up your bottom.
+
+PATIENT K664
+Yeah they did that um about two years ago.
+
+DOCTOR K664
+Okay I'll go take a look, @@@@.  Okay it looks like you need another one next year.
+
+PATIENT K664
+Oh okay.
+
+DOCTOR K664
+Okay.  Okay and they saw the last time DOCTOR referred you to our MOVE Program for some weight loss, did you ever see them?  What do you think?
+
+PATIENT K664
+It was great.
+
+DOCTOR K664
+Okay.  Are you still going there?
+
+PATIENT K664
+No that was, that was for about a couple of weeks so I finished that program.
+
+DOCTOR K664
+Okay.  They gave some good pointers and things.
+
+PATIENT K664
+Yeah cause I lost a lot of weight.
+
+DOCTOR K664
+Oh good.  How much weight have you lost, let's take a look.
+
+PATIENT K664
+I was 316 when I entered the program, right now I'm 288.
+
+DOCTOR K664
+Awesome.  Okay.  You want to sit up here for me?  Now when you cough and you get this mucous up does it feel better when you get it up?
+
+PATIENT K664
+Yeah.  I been swallowing much better once it comes up.
+
+DOCTOR K664
+Okay.  So I think we can give you like a cough syrup or something that'll help break that stuff up.
+
+PATIENT K664
+Oh okay.
+
+DOCTOR K664
+A lot of times when people have symptoms like this it's just a viral kind of infection where antibiotics don't really work.  You know viral infections, usually there's a lot of those going around right now, you know the weather the way it is.
+
+PATIENT K664
+Yes.
+
+DOCTOR K664
+Um they usually will last like 10 to 14 days and you kind of just let it run its course I mean it's not anything to treat really.  We can get you some cough syrup and things like that to kind of help with the symptoms.
+
+PATIENT K664
+Uh-huh.
+
+DOCTOR K664
+There's nothing we can really, you know we don't really need to treat anything so it'll go away on its own.  Um.
+
+PATIENT K664
+I got another question.
+
+DOCTOR K664
+Yeah.
+
+PATIENT K664
+I think I know how I caught it.  I have family members that smoke and when I go over to their house it's like damn.
+
+DOCTOR K664
+Okay.
+
+PATIENT K664
+Like I be like, you got kids and all the smoking and the next thing I know…
+
+DOCTOR K664
+Yeah.
+
+PATIENT K664
+My throat gets all scratchy.
+
+DOCTOR K664
+Yeah that's from the smoking.
+
+PATIENT K664
+Yeah cause every time I get sick it’s coming from, the next day I know.
+
+DOCTOR K664
+Yeah I mean a lot of people will kind of get like a small bronchitis you know cause smoke irritates your lungs.
+
+PATIENT K664
+It do, it really irritates me so I'm gonna stay from over there.
+
+DOCTOR K664
+Yeah.  Stick your tongue out for me.  Say ah.
+
+PATIENT K664
+Ah.
+
+DOCTOR K664
+Okay good.  Yeah that @@@ at home.
+
+PATIENT K664
+@@@ right here it @@@.
+
+DOCTOR K664
+Your ear how long has that been going on for?
+
+PATIENT K664
+For a couple of months.
+
+DOCTOR K664
+Couple of months okay.  Did you ever have your hearing checked?
+
+PATIENT K664
+No.
+
+DOCTOR K664
+Okay, alright let me take a listen here.  Just breathe normally.  Okay deep breaths in and out through your mouth.  Okay great let me just listen.  Okay any pain down here anywhere?
+
+PATIENT K664
+No.
+
+DOCTOR K664
+Okay any swelling in your legs?
+
+PATIENT K664
+Just the ankles.
+
+DOCTOR K664
+Okay.  Is that normal for you?
+
+PATIENT K664
+Because the screws and wires down there @@@.
+
+DOCTOR K664
+Right, right, okay.  Let me take a look at this one here.  Okay now the shoulders, put your arms up like this for me, keep them up, keep them up, keep them up, does that hurt?
+
+PATIENT K664
+Yeah.
+
+DOCTOR K664
+Okay put them out in front of you.  Okay, put them out to the side, up above your head, okay.  So I mean that's, the fact is you've got a pretty good range of motion of the shoulders is a good sign.  I don't think there's any kind of serious injury or anything.  Um I think we could just get some x-rays.
+
+PATIENT K664
+Oh okay.
+
+DOCTOR K664
+Just to see.  There might be some arthritis or something there um.  It doesn't seem like that bothers you too much with the moving around right?  It looked like you were doing okay with that.
+
+PATIENT K664
+Right.
+
+DOCTOR K664
+Um so maybe we'll do some x-rays and we'll see how those look okay.
+
+PATIENT K664
+Okay.
+
+DOCTOR K664
+Alright I'm gonna go talk to DOCTOR so I'll be back okay.
+
+PATIENT K664
+Okay.
+
+(DOCTOR OUT:  41:28  DOCTOR IN:  47:17)
+
+DOCTOR K664
+Okay so a couple of things.  So I talked to DOCTOR and we were talking about the shoulders.  We don't think it's anything serious.  I think we could probably go without the x-ray; I want to talk to you about this and see what you think.  So I think that any time you get any kind of x-ray or CT scan you're getting radiation right.  Based on your exam, it's nothing serious.
+
+PATIENT K664
+Oh okay.
+
+DOCTOR K664
+And that, at the worst, maybe there's some arthritis but just based on the ability, your strength and your range of motion it's nothing serious.  I think we could go without the x-rays just to spare you the radiation cause you know how it leads to risk down the line.  In terms of the cough, I'm gonna give you something called guaifenesin, kind of like Mucinex; it helps you bring up this gunk.  I don't think we need to, I think it should get better over the next couple of days.  It sounds like it already is getting better.  The smoke, being around the smokers is probably you know, as you've noticed, is probably contributing to it quite a bit.
+
+PATIENT K664
+Oh okay.
+
+DOCTOR K664
+So I would try to stay out of that as much as you can.  I'll write you a prescription unless do you have the cough syrup at home still?
+
+PATIENT K664
+No I ran out.
+
+DOCTOR K664
+So we'll get you some here.  Do you want to pick it up at the window?
+
+PATIENT K664
+Yeah.
+
+DOCTOR K664
+Okay and then um other than that I mean your labs were last checked just in November so I don't think you need to come back and so, unless something comes up, until November.
+
+PATIENT K664
+Okay when is my next appointment?  My next appointment is in March right?
+
+DOCTOR K664
+Well we got to make it for you but your next one; you have an Endocrinology appointment in March.
+
+PATIENT K664
+Oh okay.
+
+DOCTOR K664
+March 1st.  That was the one you follow up for the, you know for the testosterone and things like that.
+
+PATIENT K664
+Oh okay. 
+
+DOCTOR K664
+So that is on March 1st at 10:00 a.m. but to see us I think November is probably okay unless of course something comes up and you need to be seen sooner, we can see you sooner.
+
+PATIENT K664
+Oh okay.
+
+DOCTOR K664
+Okay.  Alright, so just stop by the Pharmacy on the way out and then return back to the clinic in nine months.  There you go.
+
+PATIENT K664
+Okay.
+
+DOCTOR K664
+Alright have a good day alright.
+
+PATIENT K664
+So give the paperwork to the people out front right?
+
+DOCTOR K664
+Yeah.  Perfect.
+
+PATIENT K664
+Thank you.
+
+DOCTOR K664
+Have a good day.
+
+PATIENT K664
+You too.
+
+PATIENT LEAVES:  49:53
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300319
+TRANSACTION # 578-10-2-316-0103

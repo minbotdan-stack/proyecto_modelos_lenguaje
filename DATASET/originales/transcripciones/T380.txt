@@ -1,0 +1,739 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+
+DOCTOR T380
+Alright, come on back.  Are we there?  @@@ a little three point turn?
+
+PATIENT T380
+Does a duck have webbed feet?  Do bears do do in the woods?
+
+DOCTOR T380
+Laughter.
+
+PATIENT T380
+Laughter.
+
+DOCTOR T380
+I'll have you, no you okay?
+
+PATIENT T380
+I'll turn here.
+
+DOCTOR T380
+There you go.  Stay right there, so we can get you out of here.
+
+PATIENT T380
+Outstanding.
+
+DOCTOR T380
+So, first things first.  How do think the @@@ doing in terms of your blood sugars?
+
+PATIENT T380
+Uh it seems like its doing alright.
+
+DOCTOR T380
+Yeah.  Okay, so we'll get to this in one second I just want to take a look at the leg.
+
+PATIENT T380
+I'm sure this is better.
+
+DOCTOR T380
+Oh.
+
+PATIENT T380
+Let me just move this chair @@@.
+
+DOCTOR T380
+About right?  Um.
+
+PATIENT T380
+It’s been down most of the day.
+
+DOCTOR T380
+Until you sat kind of up?
+
+PATIENT T380
+Yeah.
+
+DOCTOR T380
+Any redness up there on the thigh?  No okay.
+
+PATIENT T380
+No.
+
+DOCTOR T380
+Yeah it's not warm, it looks good.  Did you taking the antibiotics?
+
+PATIENT T380
+Yes.
+
+DOCTOR T380
+Antimycin.  Okay.  Any fevers, any chills?
+
+PATIENT T380
+No.
+
+DOCTOR T380
+Okay.  So it's probably from the sugars.  Are you feeling like your baseline?
+
+PATIENT T380
+Yes.
+
+DOCTOR T380
+Okay.  Now the sugars, okay let's go on.  
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+What's going on?
+
+PATIENT T380
+I'll tell you a little story about that.
+
+DOCTOR T380
+@@@.
+
+PATIENT T380
+When I did – discharge that day.
+
+DOCTOR T380
+Uh-huh.
+
+PATIENT T380
+They forgot to give me this uh, @@@, it's a smaller bottle of uh, smaller vial of . . .
+
+DOCTOR T380
+Yeah, Novolin R?
+
+PATIENT T380
+Novolin R.
+
+DOCTOR T380
+They didn't give it to you?
+
+PATIENT T380
+Right.  So I came yesterday and I picked it up cause they forgot to give it to me.
+
+DOCTOR T380
+Oh.
+
+PATIENT T380
+So.
+
+DOCTOR T380
+Uh.
+
+PATIENT T380
+I've been going with the Lantus all morning.
+
+DOCTOR T380
+Okay.
+
+PATIENT T380
+But I did those injections; you know the other two injections throughout the day.
+
+DOCTOR T380
+Which ones?
+
+PATIENT T380
+The Lantus.
+
+DOCTOR T380
+So how you taking the Lantus right now?
+
+PATIENT T380
+Well I'm taking, well I was taking it just before yesterday, I was taking it 10, 10 and 30.
+
+DOCTOR T380
+That’s what you were doing prior to coming to the hospital?
+
+PATIENT T380
+No.
+
+DOCTOR T380
+Oh you were taking the Lantus as if it was.
+
+PATIENT T380
+As if it was the Novolin or whatever they call it.
+
+DOCTOR T380
+So it's 10 units in the morning, 10 units in what time in the afternoon?
+
+PATIENT T380
+In the afternoon.
+
+DOCTOR T380
+And then you're hopping to 30 at bedtime?
+
+PATIENT T380
+Right.  That's what I was taking and the blood sugar didn't seem to go down.
+
+DOCTOR T380
+I got it.
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+Then what'd you do?
+
+PATIENT T380
+Well uh when I got the other stuff I started on that 10, 10 and 30 of the other as well as Lantus and the blood sugar seemed to go down a little bit.
+
+DOCTOR T380
+Okay.
+
+PATIENT T380
+And as you can probably see on my chart there.  But it got my uh device says ketones, 
+what does that mean?
+
+DOCTOR T380
+Uh it means that your sugars are so high you're getting some acid in your body.
+
+PATIENT T380
+Oh.
+
+DOCTOR T380
+Alright now.  What are these two different numbers up high and down low?
+
+PATIENT T380
+Okay.  Where at, like the 1st?
+
+DOCTOR T380
+Oh this is the time of the day?
+
+PATIENT T380
+That's the date and then the time.  The time was across the shaded area.
+
+DOCTOR T380
+Okay.
+
+PATIENT T380
+And then the readings are in the open area.
+
+DOCTOR T380
+So today or yesterday your blood sugar was 292 in the morning.
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+402 at 10 o'clock.
+
+PATIENT T380
+Uh-huh.
+
+DOCTOR T380
+6:15p.m. it was 394.
+
+PATIENT T380
+Uh-huh.
+
+DOCTOR T380
+Are you checking before or after you eat?
+
+PATIENT T380
+Uh sometimes before, sometimes after, it'll be more you know towards the evening.
+
+DOCTOR T380
+Oh so you write it later, after?
+
+PATIENT T380
+After right.
+
+DOCTOR T380
+Okay.  And what were you doing before the whole hospitalization; remind me what you were doing at home?
+
+PATIENT T380
+Uh just taking uh.
+
+DOCTOR T380
+Lantus?
+
+PATIENT T380
+Lantus in the evening.
+
+DOCTOR T380
+Okay.
+
+PATIENT T380
+At bedtime.
+
+DOCTOR T380
+Okay and how much?
+
+PATIENT T380
+Uh I always take 17.
+
+DOCTOR T380
+Okay.
+
+PATIENT T380
+And then uh I had my metformin, my glipizide, all the regular meds that are on the list but I took only two uh times a day.  In other words when I got up in the morning and when I went to bed.  I didn't have anything in between as far as uh.
+
+DOCTOR T380
+And then when we discharged you we held the metformin right?
+
+PATIENT T380
+Yeah you stopped the metformin.
+
+DOCTOR T380
+Okay but you are taking glipizide?
+
+PATIENT T380
+Yes I am.
+
+DOCTOR T380
+Okay perfect.  Did you get the labs drawn today?
+
+PATIENT T380
+No I did not.
+
+DOCTOR T380
+Okay so we'll have to do that before you leave.
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+On the 1st floor.
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+And they're already in the chart here.
+
+PATIENT T380
+Alright.  I can do that.
+
+DOCTOR T380
+Where do you live?  
+
+PATIENT T380
+Arlington Heights, IL
+
+DOCTOR T380
+How far is that from here?
+
+PATIENT T380
+Uh about a 45 minute drive.
+
+DOCTOR T380
+Okay.  Your phone number is PHONE NUMBER?
+
+PATIENT T380
+Yes.
+
+DOCTOR T380
+Okay.  Are you still taking the Lasix?
+
+PATIENT T380
+Yes.
+
+DOCTOR T380
+Furosemide.
+
+PATIENT T380
+Once.
+
+DOCTOR T380
+Once a day. So how do you think your fluids doing?  You said leg may be a little better?
+
+PATIENT T380
+Yes.
+
+DOCTOR T380
+Okay are you taking the quetiapine every day?
+
+PATIENT T380
+Yes I do, in the evening at bedtime.
+
+DOCTOR T380
+The fenofibrate?
+
+PATIENT T380
+Right.  I try to split up the calcium and the uh and the magnesium.
+
+DOCTOR T380
+Uh-huh.
+
+PATIENT T380
+Away from the clindamycin.  In other words if I got both of them at the same dosing time okay, then I wait two or three hours before I take one or the other.
+
+DOCTOR T380
+Good.  Okay.  And we gave you a total of 6.8 of clinda.
+
+PATIENT T380
+Yes.
+
+DOCTOR T380
+And you know you've got to finish that right?
+
+PATIENT T380
+Yes.
+
+DOCTOR T380
+Okay.
+
+PATIENT T380
+And there's no refills.
+
+DOCTOR T380
+Now we also gave you the Levaquin.
+
+PATIENT T380
+Yes.
+
+DOCTOR T380
+And you're taking that?
+
+PATIENT T380
+Yes.
+
+DOCTOR T380
+Okay.  You have @@@ okay, alright.
+
+PATIENT T380
+Okay, do you need a script?
+
+DOCTOR T380
+For what?
+
+PATIENT T380
+For uh the compression stockings.
+
+DOCTOR T380
+Stockings, okay.  Do you want to try those?
+
+PATIENT T380
+Uh I had them in the past but my script ran out of course you know.
+
+DOCTOR T380
+Okay.
+
+PATIENT T380
+It's been over two years apparently since the last time they refilled it.
+
+DOCTOR T380
+Did you go through Prosthetics?
+
+PATIENT T380
+Yes.  Actually Orthotics, uh they're the ones that.
+
+DOCTOR T380
+Do want to have them sent to you?
+
+PATIENT T380
+Uh.
+
+DOCTOR T380
+In the mail?
+
+PATIENT T380
+Yeah, you can have them sent to me in the mail.  
+
+DOCTOR T380
+Do you know what size you were, was there a special size?
+
+PATIENT T380
+Yeah, they were uh extra-large.
+
+DOCTOR T380
+Okay.  
+
+PATIENT T380
+And could you get me uh, I don't know how they issue them now.  They used to issue them as two pairs but uh I feel with all the changing I have to do on that maybe four pairs would do for you know.
+
+DOCTOR T380
+@@@ let's try to split the middle and do three cause I know how they are on they’ll freak out.
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+Let's try three pairs of your size.
+
+PATIENT T380
+Alrighty.
+
+DOCTOR T380
+Now did you have an appointment with DOCTOR?
+
+PATIENT T380
+Right.
+
+DOCTOR T380
+Good.  I want you to get you back.
+
+PATIENT T380
+She won't be back for another couple of weeks I guess.
+
+DOCTOR T380
+Right.  Well hopefully it @@@ today; things like this on you will come up.
+
+PATIENT T380
+Right.
+
+DOCTOR T380
+So this is smart that you're here.  I think your leg looks better uh.  Let me take a listen to your lungs and see how you sound.  I'll have you lean forward for me.
+
+PATIENT T380
+Alrighty.
+
+DOCTOR T380
+Take a big deep breath.  Again.  Again.  Again.  Okay now relax and breathe normally.  Have you had problems breathing at all?
+
+PATIENT T380
+Not now.  I had the shortness of breath before coming to the hospital.
+
+DOCTOR T380
+Yes.  Are you taking the metoprolol every day?
+
+PATIENT T380
+Yes.  Everything that's on there that I need to have I'm following the regimen.
+
+DOCTOR T380
+Good, I'm just making sure.
+
+PATIENT T380
+Yeah.
+
+DOCTOR T380
+Okay.  So we got that, got that, got that.  The amlodipine.  Blood pressure looks fairly good today, you're afebrile, okay.  You need some refills.  Okay.  And I don't like your blood sugars where they are but we're gonna get a handle on those okay.
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+Alright.  I'm gonna come back, I'm going go @@@ my attending and we're gonna have to go up on the insulin regimen I imagine.
+
+PATIENT T380
+Alrighty.
+
+DOCTOR T380
+I'm not sure; um I'll be right back.
+
+PATIENT T380
+Alrighty.  I'll be right here.
+
+DOCTOR T380
+Be right back.
+
+(DOCTOR OUT:  151:4  DOCTOR IN: 164:42)
+
+DOCTOR T380
+Okay.  I'm going over with my attending DOCTOR with regard to the level of your blood sugars; pretty carefully I'll grab that.
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+And uh you know I was going to be a little more aggressive.  I tend to agree with him, I think the key for you; we need to take one of them at a time and see what we go.  You that's what really happening and I don't want you to make you keep coming in and out um if we uh don't have to.  So why don't we um, why don't we go to 15 units on the insulin @@@, that's twice a day so your totals will be going up by 10 units right.  Its 5 extra in the morning, 5 extra at night, you follow?  So we want 15 twice a day on the regular insulin, keep the Lantus at 30 and then in four or five days if you're still high, give the Gen Med Clinic a call, say DOCTOR told me four days ago he wanted my blood sugar numbers, can I give them to you and you send them to DOCTOR, then they can write these down in the computer.
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+Send me a note, I call you and we can adjust them over the phone.
+
+PATIENT T380
+I see okay.
+
+DOCTOR T380
+Does that sound good to you?
+
+PATIENT T380
+Yes it does.
+
+DOCTOR T380
+That's for you.  We're gonna go up to 15.  You're gonna stop at the Lab on the way out.
+
+PATIENT T380
+And get my.
+
+DOCTOR T380
+And get your blood work done.
+
+PATIENT T380
+Blood work done.
+
+DOCTOR T380
+And that's all in the computer.
+
+PATIENT T380
+Will this also be sufficient for the blood work, Naw, I'm gonna have a fasting when I come and see DOCTOR right?
+
+DOCTOR T380
+Yeah.  I'm gonna let her, right cause you didn't fast today and she's going to want your cholesterol, but today we've just got to check your kidneys okay.  Cause as I say your kidneys aren't doing so hot.
+
+PATIENT T380
+Uh-huh.
+
+DOCTOR T380
+And with your blood sugar the way it is, so we'll still have you and uh I'm going to change it in the computer.  You'll have to change it at home, @@@.
+
+PATIENT T380
+Yes, yes I do.
+
+DOCTOR T380
+You load it up, do you got enough?
+
+PATIENT T380
+Uh-huh.
+
+DOCTOR T380
+I want to make sure you've got enough right here so I'm gonna change that to 15 units, that should be @@@.
+
+PATIENT T380
+You might have them send me another vial.
+
+DOCTOR T380
+Okay.  And I'm going to put lots of refills in here so.
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+So there are no issues okay.
+
+PATIENT T380
+Alrighty.
+
+DOCTOR T380
+And you can finish off the antibiotic and then.
+
+PATIENT T380
+Uh-huh.
+
+DOCTOR T380
+You're good to go my fellow.  Uh and you have your appointment with DOCTOR already.
+
+PATIENT T380
+Oh yeah, should be in there.
+
+DOCTOR T380
+Take a look.
+
+PATIENT T380
+Sometime in the middle of January or February.  I think its January.
+
+DOCTOR T380
+So you can give this to them up front um when you check out.
+
+PATIENT T380
+Right.
+
+DOCTOR T380
+When you check out, we'll need to see if you uh, what the day is.  Your GMC3 DOCTOR.
+
+PATIENT T380
+What day was that.
+
+DOCTOR T380
+January 29th.
+
+PATIENT T380
+Uh February 29th?
+
+DOCTOR T380
+January 29th.
+
+PATIENT T380
+Oh January 29th.
+
+DOCTOR T380
+Have you seen her before?
+
+PATIENT T380
+No.
+
+DOCTOR T380
+I don't know why you have that appointment um.
+
+PATIENT T380
+I don’t either.  I've never heard that name before.
+
+DOCTOR T380
+Well, it might have been because they got that when they were trying to get my, before they tried to get my appointment.
+
+PATIENT T380
+I see.
+
+DOCTOR T380
+So why don't you try to re, so January 29th, DOCTOR, try to reschedule because you have a good relationship with DOCTOR right?
+
+PATIENT T380
+Yes.  She's taking real good care of me.
+
+DOCTOR T380
+No I can tell.  I can tell.  So why don't you try to get in to see her.
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+Next available.  That way you have an appointment and if you do you can get rid of this other appointment.  I think they just did that before they knew I'd see you.  I just added you on today.
+
+PATIENT T380
+Okay.
+
+DOCTOR T380
+Because I didn't want you to wait that long.
+
+PATIENT T380
+Plus they probably didn't know that DOCTOR would be back.
+
+DOCTOR T380
+Yes exactly.
+
+PATIENT T380
+In the clinic within.
+
+DOCTOR T380
+So try to get in.  And now I know, you're always welcome to see me.  I don't want to steal you from her.
+
+PATIENT T380
+(Laughter).
+
+DOCTOR T380
+So we're just doing this to help you out.
+
+PATIENT T380
+Well thank you very much doc.
+
+DOCTOR T380
+No you're very welcome.
+
+PATIENT T380
+And uh this year, check in and check out.
+
+DOCTOR T380
+@@@ know you.  @@@ discussion will come about um after you know.
+
+PATIENT T380
+Yeah.
+
+DOCTOR T380
+@@@ okay.  Will you be able to maneuver this?
+
+PATIENT T380
+I hope so.
+
+DOCTOR T380
+@@@.  Take care, great to see you.
+
+PATIENT T380
+Thank you.  Take care @@@.
+
+DOCTOR T380
+Alright take care.
+
+(Patient leaves 168:4)
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235336
+TRANSACTION # 578-10-2-316-0103

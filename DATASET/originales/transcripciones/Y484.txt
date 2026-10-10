@@ -1,0 +1,597 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR Y484
+PATIENT?
+
+PATIENT Y484
+That's me.  How you doing?
+
+DOCTOR Y484
+How are you?
+
+PATIENT Y484
+Good.
+
+DOCTOR Y484
+Here we go.  Okay.  Alright.  How you doing today?
+
+PATIENT Y484
+Real good.  I had another appointment up there but they was taking so long I just came down here, back down here.  
+
+DOCTOR Y484
+Oh which one was it?  Pulmonary?
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+@@@.
+
+PATIENT Y484
+Yeah, that was at 1:40.
+
+DOCTOR Y484
+That's probably more important than ours cause they easy to reschedule.
+
+PATIENT Y484
+They don’t act like it, they had people out there sitting there, they didn't call nobody.
+
+DOCTOR Y484
+Okay.
+
+PATIENT Y484
+That's not right.
+
+DOCTOR Y484
+How you doing today?  Anything bothering you?
+
+PATIENT Y484
+No uh, I need some uh breathing medication like uh to put in that, what do you call that little machine?
+
+DOCTOR Y484
+The nebulizer?
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+@@@.  That's what you were up there for.  That was the lung doctors but that's fine.  You said that you were @@@ that was the problem.
+
+PATIENT Y484
+Yeah.  Every time, what 1:30.
+
+DOCTOR Y484
+Okay.
+
+PATIENT Y484
+Then I come down here and went back up there.
+
+DOCTOR Y484
+Okay.
+
+PATIENT Y484
+Uh yeah uh.  Those little plastic capsules, not capsules tubes really, they're tubes.  Know what I'm talking about?  You put in the medicine container yeah.
+
+DOCTOR Y484
+Yeah.  Yeah they help.  Has that been helping you?
+
+PATIENT Y484
+Yeah it helps.
+
+DOCTOR Y484
+Good.  So let's see um.  When was the last time we saw you here?
+
+PATIENT Y484
+A couple of months ago.
+
+DOCTOR Y484
+January, I see.  At that time, you had a cough right?  Has that improved at all?
+
+PATIENT Y484
+No.
+
+DOCTOR Y484
+The cough is not?
+
+PATIENT Y484
+It just stay the same.  I had surgery since I saw you.
+
+DOCTOR Y484
+Yeah how's that going?
+
+PATIENT Y484
+Oh man.  My arm is all bruised up and I said well what's that bruise, this bruise for?  Well we made that move just a little error, that's what they told me, you know.  
+
+DOCTOR Y484
+Did they tell you that it had been an error @@@?
+
+PATIENT Y484
+Yeah that's what she told me.
+
+DOCTOR Y484
+Because of the bruising?
+
+PATIENT Y484
+Bruise.
+
+DOCTOR Y484
+Okay.  And then um has that resolved?
+
+PATIENT Y484
+Uh uh.  She said it's gonna go away in time.
+
+DOCTOR Y484
+Maybe we'll take a look at it afterwards okay.
+
+PATIENT Y484
+Well.  Oh then DOCTOR explained to me about my elbows.  It's the first time somebody ever explained to me about it since I had the surgery on it.
+
+DOCTOR Y484
+Okay.
+
+PATIENT Y484
+Those doctors disappear.  I never could see the ones who did the surgery.
+
+DOCTOR Y484
+Who did the surgery?
+
+PATIENT Y484
+Yeah and she told me that they took all the metal out but they had implanted at first.
+
+DOCTOR Y484
+Yeah.
+
+PATIENT Y484
+And they took it back out.  I never did @@@ explained everything.  @@@.  Got a lot of arthritis in it.  @@@.  I might have to have another surgery though.
+
+DOCTOR Y484
+@@@.
+
+PATIENT Y484
+Yeah although I got a prescription they got going up there but I didn't see @@@ surgery.  It was a Christmas time. Before Christmas.
+
+DOCTOR Y484
+@@@.
+
+PATIENT Y484
+Oh no that's different @@@.
+
+DOCTOR Y484
+@@@.
+
+PATIENT Y484
+Those doctors are gone somewhere else.
+
+DOCTOR Y484
+Oh you know what sometimes it's the residents that they need to use @@@.
+
+PATIENT Y484
+@@@ what the hospitals?
+
+DOCTOR Y484
+Hospitals, emergencies.
+
+PATIENT Y484
+Well.  
+
+DOCTOR Y484
+I know it's frustrating.
+
+PATIENT Y484
+@@@.  See that bruise, right over there.
+
+DOCTOR Y484
+@@@.
+
+PATIENT Y484
+Yeah that's all it is and the surgery was up here.
+
+DOCTOR Y484
+Okay.
+
+PATIENT Y484
+Right up here.
+
+DOCTOR Y484
+I’m not sure @@@.
+
+PATIENT Y484
+She said it was the bleeding on the inside.
+
+DOCTOR Y484
+No that's not what happens.  There's like a @@@.
+
+PATIENT Y484
+It don't hurt me none but.  What I'm saying, she wasn't there.
+
+DOCTOR Y484
+Uh-huh.
+
+PATIENT Y484
+She @@@ now.  @@@  You know what I'm saying?  I've been working with the other doctors.  That kind of stuff ain't right you know.  I don't know the metal was gone.  I was thinking it's still in there.
+
+DOCTOR Y484
+Have you seen Physical Therapy?  Did they recommend anything?
+
+PATIENT Y484
+No.  @@@ she want it to heal up.  I'm gonna go to them @@@ to see the doctor.
+
+DOCTOR Y484
+Did they explain anything @@@?
+
+PATIENT Y484
+Well I'm gonna see them Thursday.  I don't need it now.  @@@ but uh she told me @@@ and Physical Therapy.
+
+DOCTOR Y484
+Okay.
+
+PATIENT Y484
+For my elbow.
+
+DOCTOR Y484
+Okay.
+
+PATIENT Y484
+@@@ rotator cuff.
+
+DOCTOR Y484
+Okay.  @@@ activity @@@.
+
+PATIENT Y484
+Yes.
+
+DOCTOR Y484
+Now have you been following with Infectious Disease?
+
+PATIENT Y484
+@@@ see me in June I think.
+
+DOCTOR Y484
+@@@.
+
+PATIENT Y484
+Uh-huh.
+
+DOCTOR Y484
+And then now that we were done with the surgeries will you follow up with the liver docs?
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+Yes?
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+You don't need us to send a new referral cause you saw them.
+
+PATIENT Y484
+A what?
+
+DOCTOR Y484
+You don't need a new referral from us cause you've seen them.  You saw them in January, do you remember?
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+So we need to schedule a follow-up appointment okay.
+
+PATIENT Y484
+Uh-huh.
+
+DOCTOR Y484
+Yeah.
+
+PATIENT Y484
+So can I go up there?
+
+DOCTOR Y484
+Go up there and or you can uh call them, that's the Liver Clinic. 
+
+PATIENT Y484
+Yeah.  
+
+DOCTOR Y484
+Okay.
+
+PATIENT Y484
+I can call that number on the phone?
+
+DOCTOR Y484
+Yeah.
+
+PATIENT Y484
+Oh okay.
+
+DOCTOR Y484
+Okay.  Nothing to update.  So we can proceed, remember you had the ultrasound that had that abnormality and postponing @@@.
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+So it sounds like maybe you're a little bit better than when I saw you last time.
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+How's that rash?
+
+PATIENT Y484
+It's still there.
+
+DOCTOR Y484
+It's still there.
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+Is it bothering you?
+
+PATIENT Y484
+@@@.  Still got a little rash, a little red rash here and one over here.  What do you call it, it's another name for rash?  Uh.
+
+DOCTOR Y484
+Dermatitis?
+
+PATIENT Y484
+No.
+
+DOCTOR Y484
+@@@.
+
+PATIENT Y484
+No.  I don't know.
+
+DOCTOR Y484
+Plaque?
+
+PATIENT Y484
+Anyway.  She didn't give me nothing but some Vaseline.
+
+DOCTOR Y484
+Yeah that's @@@.
+
+PATIENT Y484
+And it's still there.
+
+DOCTOR Y484
+How about the gabapentin?  Have you been using that?
+
+PATIENT Y484
+Oh man I been, I had been taking that.  They ain't got nothing to do with that.
+
+DOCTOR Y484
+Okay.  Yeah that's true.
+
+PATIENT Y484
+You see, that's what she did.  She looked over my medications and gave me some of the same stuff you know.
+
+DOCTOR Y484
+But they were thinking that maybe the nerve @@@.
+
+PATIENT Y484
+I don't know.  I ain't have @@@.
+
+DOCTOR Y484
+@@@?
+
+PATIENT Y484
+No.
+
+DOCTOR Y484
+That's good.
+
+PATIENT Y484
+And she's telling me to buy some soap with lotion in it.  Anyway.  It is coming from dry skin sure enough.
+
+DOCTOR Y484
+Yeah.
+
+PATIENT Y484
+But, but uh I wanted her to see that, then it break out @@@.
+
+DOCTOR Y484
+Right.  You know if you need to follow up with them, you can always do that.  Actually they did want to see you again you know and maybe they'll go a different route @@@ okay.
+
+PATIENT Y484
+Uh-huh.
+
+DOCTOR Y484
+They probably think, if it comes down to it, what they can do is take a sample, like a you know a small biopsy and review it under the microscope.
+
+PATIENT Y484
+Why they have to do all that?
+
+DOCTOR Y484
+No sometimes.  They, that's why they didn't do it yet but if its something that's really bothering you and it's not getting better you know we can, do you know what I mean?
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+Okay.  Uh yeah they actually wrote in their note that they want to see you end of this month. They scheduled you
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+You actually have an appointment with them, March 22nd.  Oh I see you have an appointment with GI too on the 18th, which is tomorrow.  Actually just show up for that, you don't have to call them.
+
+PATIENT Y484
+Okay.
+
+DOCTOR Y484
+Okay.
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+Do you have a list of all these appointments?
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+So in Pulmonary they were gonna see you today um.
+
+PATIENT Y484
+I'll go back up there when I leave here, see what they say.
+
+DOCTOR Y484
+Okay, see if they can, you might have to reschedule that one, though.  Can I do a quick exam?
+
+PATIENT Y484
+Uh-huh.
+
+DOCTOR Y484
+Take a look and see your heart and lungs.  Can you lift up your shirt?  Do you get short of breath?
+
+PATIENT Y484
+No.
+
+DOCTOR Y484
+Are you smoking still?
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+How much?
+
+PATIENT Y484
+Same amount, a pack a day.
+
+DOCTOR Y484
+Pack a day.  Want to quit?
+
+PATIENT Y484
+Yeah that's why; I @@@ want to take this medicine with the nebulizer.
+
+DOCTOR Y484
+Uh-huh.
+
+PATIENT Y484
+Get rid of this cough and then use the patches I got.
+
+DOCTOR Y484
+You have the patches already?
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+I think you should try using them.
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+And you don't have to wait until the cough is gone.
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+If anything that's probably a good time because the smoking is probably going to make the cough worse.
+
+PATIENT Y484
+Yeah but that's @@@.
+
+DOCTOR Y484
+Take a deep breath.  Is there anything new about the cough or is it just @@@?  Are you coughing up junk?  You got any mucous?
+
+PATIENT Y484
+It’s the same. Yeah.  It's not a whole lot but it's.
+
+DOCTOR Y484
+Yeah.
+
+PATIENT Y484
+Still comes up.
+
+DOCTOR Y484
+@@@.  
+
+PATIENT Y484
+Yeah.  @@@.
+
+DOCTOR Y484
+Yeah I'm just going to go talk to DOCTOR and I'll be right back okay.
+
+PATIENT Y484
+Thank you.
+
+(DOCTOR OUT:  76:29  DOCTOR IN:  82:35)
+
+DOCTOR Y484
+PATIENT?
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+What I'll do is, we can everything looks good today.  I think you’re set up with all the right people in terms of follow-ups and.
+
+PATIENT Y484
+Uh-huh.
+
+DOCTOR Y484
+Specialists.  We'll refill your medications, including the nebulizers which, I think, is the main thing that you wanted.
+
+PATIENT Y484
+Yes.
+
+DOCTOR Y484
+And I do want you to follow up with Pulmonary though.
+
+PATIENT Y484
+I'm gonna go up there.
+
+DOCTOR Y484
+Okay.
+
+PATIENT Y484
+I'll go see them.
+
+DOCTOR Y484
+Stop in, but you have to reschedule uh just go ahead and do so.
+
+PATIENT Y484
+Okay.
+
+DOCTOR Y484
+And uh we'll go from there okay.
+
+PATIENT Y484
+Yeah.
+
+DOCTOR Y484
+Make sure @@@.
+
+PATIENT Y484
+Alright.
+
+DOCTOR Y484
+@@@.
+
+PATIENT Y484
+Okay.  See you later.
+
+DOCTOR Y484
+Okay, take care.
+
+PATIENT LEAVES:  83:32.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1255197
+TRANSACTION # 578-10-2-316-0103

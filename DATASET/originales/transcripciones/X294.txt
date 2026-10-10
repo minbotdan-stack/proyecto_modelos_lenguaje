@@ -1,0 +1,524 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@
+
+DOCTOR X294
+PATIENT?  I read through the notes that um you @@@ right.  They wanted to look at your heart and do an angiogram, remember that or no?
+
+PATIENT X294
+Yes I think I do remember that.
+
+DOCTOR X294
+Yeah.  I think you were supposed to come back to get that test done back in early January, not this week but like two weeks ago.
+
+PATIENT X294
+Yes.
+
+DOCTOR X294
+Did you remember that or?
+
+PATIENT X294
+Yes I remembered.
+
+DOCTOR X294
+But you forgot to come back or what happened?
+
+PATIENT X294
+I don't what happened.
+
+DOCTOR X294
+Yeah.
+
+PATIENT X294
+@@@
+
+DOCTOR X294
+Okay.  Yeah it's important.  We need to get this um you know, is your chest pain getting worse or?
+
+PATIENT X294
+Well you know I need something like Zantac or something like could you order me something like that?
+
+DOCTOR X294
+Yeah you have some ranitidine.
+
+PATIENT X294
+But it's not something that's working.
+
+DOCTOR X294
+Not working.
+
+PATIENT X294
+No.
+
+DOCTOR X294
+Well what kind of pain are you feeling?
+
+PATIENT X294
+Sharp.  And every now and then it's like a sharp pain and everything.
+
+DOCTOR X294
+Sharp pain.
+
+PATIENT X294
+Every now and then.
+
+DOCTOR X294
+Okay and when do you get that?  When you're walking or is it at rest?
+
+PATIENT X294
+Yes.
+
+DOCTOR X294
+And is that the pain you were telling the cardiologist or no?
+
+PATIENT X294
+Yeah and sometimes when I walk in heavy snow, something like that, it goes beat, beat, beat. And then I have to stop.
+
+DOCTOR X294
+Okay, @@@.  Okay then how far can you walk?  You said half a block before you get that chest pain.
+
+PATIENT X294
+Yeah.
+
+DOCTOR X294
+Is that the same or different?
+
+PATIENT X294
+Yeah about the same.
+
+DOCTOR X294
+About the same okay.
+
+PATIENT X294
+You think you could give me something for gas?
+
+DOCTOR X294
+Yeah I can give you something for gas but we need to make sure it's not your heart.
+
+PATIENT X294
+Yeah well I need something for gas.
+
+DOCTOR X294
+Yeah.  Do you think it's because the belching makes that chest pain better.
+
+PATIENT X294
+Sometimes.
+
+DOCTOR X294
+Okay um and then how about, um do you feel short of breath when it happens?
+
+PATIENT X294
+Yeah I have to stop.
+
+DOCTOR X294
+You need to stop.
+
+PATIENT X294
+Yeah.
+
+DOCTOR X294
+And then it gets better?
+
+PATIENT X294
+Yes when I stop.
+
+DOCTOR X294
+Have you tried the nitroglycerin or no?
+
+PATIENT X294
+No, I got some.
+
+DOCTOR X294
+You've never tried taking it whenever you get the chest pain?
+
+PATIENT X294
+No.
+
+DOCTOR X294
+So you're able to walk about half a block before you get this sharp chest pain.
+
+PATIENT X294
+Yeah.
+
+DOCTOR X294
+And where is it located?
+
+PATIENT X294
+Right up in here.
+
+DOCTOR X294
+Right up in there.
+
+PATIENT X294
+Yeah.
+
+DOCTOR X294
+And it's sharp, it's not dull?
+
+PATIENT X294
+No it's @@@ heart go @@@.
+
+DOCTOR X294
+Okay so you feel like your heart's beating really fast.
+
+PATIENT X294
+Yeah.
+
+DOCTOR X294
+Okay.  Do you ever feel this chest pain when you're just sitting here?
+
+PATIENT X294
+No.
+
+DOCTOR X294
+No.  How about do you feel nausea and want to vomit or feel like you're sweaty or anything like that?
+
+PATIENT X294
+Well sometimes I sweat a lot.
+
+DOCTOR X294
+Okay.
+
+PATIENT X294
+In the cold weather.
+
+DOCTOR X294
+Okay.  And then um have you noticed problems laying flat in bed or notice any swelling in your legs or anything like that?
+
+PATIENT X294
+Well see this leg here, they was supposed to operate on it.
+
+DOCTOR X294
+Yeah.
+
+PATIENT X294
+And it's swole, it’s swole now, slightly .
+
+DOCTOR X294
+Yeah.  Okay.  How long has that been swollen?  For a while or?
+
+PATIENT X294
+Oh yes, yes.
+
+DOCTOR X294
+Okay.
+
+PATIENT X294
+Yeah.
+
+DOCTOR X294
+Has it gotten worse?
+
+PATIENT X294
+No it's about the same.
+
+DOCTOR X294
+About the same?
+
+PATIENT X294
+Yeah it's the same.
+
+DOCTOR X294
+Okay.  Alright and then how about do you ever wake up at night feeling like you can't breathe or anything?  No.
+
+PATIENT X294
+It isn't no, it's every now and then, I do, but it’s slight.
+
+DOCTOR X294
+Uh-huh.
+
+PATIENT X294
+You know it's not.
+
+DOCTOR X294
+Okay.  Um alright do you ever feel like, how many pillows do you sleep on, one or two or three or?
+
+PATIENT X294
+Actually one and a half.
+
+DOCTOR X294
+One and a half.  Has that changed or about the same?
+
+PATIENT X294
+About the same.
+
+DOCTOR X294
+Okay.
+
+PATIENT X294
+Could you tell me when are they gonna operate on me?
+
+DOCTOR X294
+Um let's see.  Did you see the doctor, the foot doctor I mean the orthopedist?  Oh you mean the cardiologist?
+
+PATIENT X294
+Yeah.
+
+DOCTOR X294
+They wanted you to come back in - last week or two weeks ago.
+
+PATIENT X294
+Yeah there was a storm that day.
+
+DOCTOR X294
+Oh that day yeah.
+
+PATIENT X294
+I didn't make it in because of that storm.
+
+DOCTOR X294
+So you were supposed to come back last Thursday it was January 4th, was...  Yeah you were supposed to come the 7th and you couldn't come.
+
+PATIENT X294
+I don’t remember all that.
+
+DOCTOR X294
+Yeah that's when they wanted you to come.
+
+PATIENT X294
+But uh could you tell me when they were going to operate on that, you know I want.
+
+DOCTOR X294
+Oh I need you to probably come back and see them.
+
+PATIENT X294
+Can I talk to them today about the operation?
+
+DOCTOR X294
+Today?
+
+PATIENT X294
+Yes I want to get this over with.
+
+DOCTOR X294
+Yeah no I think it's an important thing cause we don't know what's going on with your chest pain because you have the heart disease.
+
+PATIENT X294
+I have a heart disease?
+
+DOCTOR X294
+Yeah your heart.  You know that you had a heart attack right?
+
+PATIENT X294
+Yeah in July.
+
+DOCTOR X294
+So that shows that you have like um some clogged arteries in your heart.
+
+PATIENT X294
+Yeah they said they could put some stents in there.
+
+DOCTOR X294
+Yeah they want to take a look at it you know.  Didn't you have stents put in?
+
+PATIENT X294
+Yes ma'am in uh.
+
+DOCTOR X294
+@@@.
+
+PATIENT X294
+Pardon me (patient takes a phone call).
+
+DOCTOR X294
+I think if we get you admitted today you'll be okay, if we admit you?  Because you shouldn't go around with these chest pains going on.  Can we admit you today?
+
+PATIENT X294
+Okay you can admit me today.
+
+DOCTOR X294
+Yeah let me talk about it.  Let's have you sit up here okay.  Um cause they wanted to admit you back the last time they saw you right?  But you had to handle some financial matters @@@.
+
+PATIENT X294
+Yeah.
+
+DOCTOR X294
+So I think since you've been having this chest pain, if it's been happening every day, it's pretty much every time you walk half a block right?
+
+PATIENT X294
+Yeah.
+
+DOCTOR X294
+And so does it occur all the time when you walk or just.
+
+PATIENT X294
+Every now and then now.
+
+DOCTOR X294
+Okay.
+
+PATIENT X294
+It's not, @@@ not as sharp.
+
+DOCTOR X294
+Not as sharp but it's been going.  You can sit right here.
+
+PATIENT X294
+Okay.
+
+DOCTOR X294
+I think it might be a good idea if we just go ahead and admit you, but I'll just go talk to someone to see if we can do that okay. Say ah.  I might have to do an EKG just to see what's going on okay.
+
+PATIENT X294
+Uh-huh.
+
+DOCTOR X294
+I think that'd be the best thing because they were worried about you last time and we need to put you on the right medications too, okay.
+
+PATIENT X294
+Okay.
+
+DOCTOR X294
+Alright deep breath, okay another one.  Another one, good, breath in, good.  Okay can you lay back for me.  So you sleep on about one and a half pillows and that's been like that for a while?
+
+PATIENT X294
+Yes ma'am.
+
+DOCTOR X294
+@@@.  Do you smoke or drink or anything?
+
+PATIENT X294
+No I don't drink and I don't use dope but I smoke.
+
+DOCTOR X294
+You smoke.
+
+PATIENT X294
+Yes ma’am, but I.
+
+DOCTOR X294
+Yeah you should try stopping because that's not good especially since you have, since you had a heart attack.  I want to just look at your legs for the swelling, sorry.
+
+PATIENT X294
+Yeah.  Let me take this shoe off.
+
+DOCTOR X294
+Yeah.
+
+PATIENT X294
+I'll take this shoe off.
+
+DOCTOR X294
+It's pretty swollen in your feet.
+
+PATIENT X294
+Yeah this foot here.
+
+DOCTOR X294
+Is really swollen.
+
+PATIENT X294
+Well I got hit with a steel @@@.
+
+DOCTOR X294
+Yeah, yeah and you had fracture a long time ago.  @@@.
+
+PATIENT X294
+Yeah @@@.
+
+DOCTOR X294
+Yeah.
+
+PATIENT X294
+Okay.  Oh.  
+
+DOCTOR X294
+You have a little swelling yeah.  It's just a little bit.
+
+PATIENT X294
+@@@ operated on me right here.
+
+DOCTOR X294
+Uh-huh.  So you have swelling okay.  Alright.  I'll have you sit back.  You can put your stuff back on and I'll be right back okay.
+
+PATIENT X294
+Yes ma'am.
+
+DOCTOR X294
+I might have to put, give you your EKG real quick okay.
+
+PATIENT X294
+Okay.
+
+DOCTOR X294
+I'll be right back.
+
+PATIENT X294
+Okay.
+
+(DOCTOR OUT:  19:12  DOCTOR IN:  23:23)
+
+DOCTOR X294
+Alright sir.  Can I actually have you wait outside but it'll be a second.  Um we're trying to contact the cardiologist too okay.  So you are willing to get admitted though and I think it's a good idea to do that okay.
+
+PATIENT X294
+@@@.
+
+DOCTOR X294
+Okay don't forget your sock.
+
+PATIENT X294
+@@@.
+
+DOCTOR X294
+Dropped your sock yeah.
+
+PATIENT X294
+So you want to admit me?
+
+DOCTOR X294
+Yeah most likely we will okay cause.  The first time you experienced this chest pain was about a little over a few weeks ago, like at the end of December?
+
+PATIENT X294
+Yeah.
+
+DOCTOR X294
+Okay.
+
+PATIENT X294
+Yeah.
+
+DOCTOR X294
+So it's been about the same since then right?
+
+PATIENT X294
+Uh-huh.
+
+DOCTOR X294
+That's when you came into the ER over here right?
+
+PATIENT X294
+Yes uh-huh.
+
+DOCTOR X294
+Okay.
+
+PATIENT X294
+Alright.
+
+DOCTOR X294
+Alright just wait out there and then I'll get to see you with.  We have to get you better.
+
+PATIENT X294
+Okay thank you, thank you.
+
+DOCTOR X294
+Yeah.
+
+PATIENT X294
+Yes ma'am.  Okay thank you.
+
+DOCTOR X294
+Okay just wait out there and I'll come out in a second okay.
+
+PATIENT X294
+Okay.
+
+DOCTOR X294
+@@@.
+
+PATIENT LEAVES:  24:38.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255173
+TRANSACTION # 578-10-2-316-0103

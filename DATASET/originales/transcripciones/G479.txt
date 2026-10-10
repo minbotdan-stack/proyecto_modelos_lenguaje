@@ -1,0 +1,341 @@
+Date of Encounter: @@/@@/@@  
+Time of Encounter: @@@   
+
+DOCTOR G479
+PATIENT?
+
+PATIENT G479 
+Here.  Hi, how you doing.
+
+DOCTOR G479
+How you doing?  Go ahead and have a seat.  Long day?  How have you been?
+
+PATIENT G479
+Alright I guess.
+
+DOCTOR G479
+Any problems?
+
+PATIENT G479
+Well I had the thing yesterday so I'm waiting to see what's going on.
+
+DOCTOR G479
+What thing was that?
+
+PATIENT G479
+The defibrillation.  What is this appointment for?
+
+DOCTOR G479
+I think we were just going to follow up.  You haven't seen me since, you were here you saw DOCTOR in May.  Let me see.  You were having some trouble with your breathing.
+
+PATIENT G479
+Uh-huh.
+
+DOCTOR G479
+How's that going?
+
+PATIENT G479
+Same old, same worsen.
+
+DOCTOR G479
+What's happening, what's going on?
+
+PATIENT G479
+Now I was taking four or five medicines for the uh the irregular heartbeat.  They put me on four or five different medicines, one of them is metoprolol.  I think that's the one that makes your mouth dry and you @@@ breathe but then there was a small cough and so he wanted me to talk to somebody in Pulmonary.  But we changing that until you get to finish with that.  The breathing was @@@ and then when I cough, rales but I couldn't cough it up because whatever it is @@@.
+
+DOCTOR G479
+Are you not coughing or you're not able to bring it up is that what you're saying?
+
+PATIENT G479
+I'm not able to bring it up.  You know some rattling.
+
+DOCTOR G479
+And what did we give you for that?
+
+PATIENT G479
+Nothing.
+
+DOCTOR G479
+Nothing at all.  We didn't give you any, we gave you some antibiotics.
+
+PATIENT G479
+The antibiotic wasn't for.
+
+DOCTOR G479
+What was that for?
+
+PATIENT G479
+That was for – I was coughing up blood.
+
+DOCTOR G479
+Has that stopped?
+
+PATIENT G479
+Yeah it stopped.  What happened to the last doctor I seen?
+
+DOCTOR G479
+Which one?
+
+PATIENT G479
+The female doctor who described the antibiotics.
+
+DOCTOR G479
+Yeah she's next door.  She's the supervising doctor.
+
+PATIENT G479
+Okay.
+
+DOCTOR G479
+Uh we work together.  She's my supervising doctor.
+
+PATIENT G479
+Uh-huh.
+
+DOCTOR G479
+Um so the cough has gotten better or is it just the blood has gotten better?
+
+PATIENT G479
+No the cough up.  The blood in the sputum is cleared up.
+
+DOCTOR G479
+Okay.
+
+PATIENT G479
+Cause she.
+
+DOCTOR G479
+So now it's just the rattling in there.
+
+PATIENT G479
+The rattle is here and I can't bring it up when I need to. 
+
+DOCTOR G479
+Are you taking the cough syrup?  Is that breaking it up at all?
+
+PATIENT G479
+Not really.
+
+DOCTOR G479
+Okay.  Are you getting short of breath?
+
+PATIENT G479
+Hmm.
+
+DOCTOR G479
+Is it better or worse than it was three weeks ago?
+
+PATIENT G479
+Bout the same.
+
+DOCTOR G479
+And did you ever get a chest x-ray?
+
+PATIENT G479
+Yeah I got the chest x-ray the same day she prescribed the antibiotics.
+
+DOCTOR G479
+Good.  Uh okay.  It shows there wasn't much change but they wanted to treat you cause you're having all these really bad symptoms so how did the thing go yesterday?
+
+PATIENT G479
+Okay I guess.  They get it back in rhythm.
+
+DOCTOR G479
+Good.
+
+PATIENT G479
+So we have to wait and find out what the next step, cause that's the second time that this happened.
+
+DOCTOR G479
+Right, right.  Um are you still smoking?  You quit a while back right?
+
+PATIENT G479
+Yeah.
+
+DOCTOR G479
+Okay. Alright, any other problems, concerns?
+
+PATIENT G479
+No I'm guessing that I’ll find out should see the cardiologist.  I was wondering if @@@.
+
+DOCTOR G479
+Yeah.
+
+PATIENT G479
+It's keeping me tired and it's like I'm sleepy but @@@ so I got to probably wait and see what's gonna happen with that.
+
+DOCTOR G479
+And you think it's the metoprolol?
+
+PATIENT G479
+I think, I wasn't @@@ until he put me on the metoprolol.
+
+DOCTOR G479
+How long ago was that?  @@@.
+
+PATIENT G479
+January.
+
+DOCTOR G479
+Okay.  So since then you've had a lot of, you've been sleepy.
+
+PATIENT G479
+And the shortness of breath.  Especially one of them, @@@.
+
+DOCTOR G479
+Okay, okay.  
+
+PATIENT G479
+I'm trying to find, I have been trying to get something for my ankles cause my feet are swelling up real big.
+
+DOCTOR G479
+Do you take a water pill?
+
+PATIENT G479
+I was taking the water pill and then they finally start going down but I was just taking some.
+
+DOCTOR G479
+Does it hurt?  Is it painful?
+
+PATIENT G479
+No I was taking some borrowed water pills which you're not supposed to do.  Cause I wasn't getting nothing for my.
+
+DOCTOR G479
+You need to get you your own, you don't have to borrow them.
+
+PATIENT G479
+Well I have been telling these people for the last month about how big my ankle swelling, my feet were swelling up and then @@@.  Now I had 12 pills but none of them was a derivative so.  
+
+DOCTOR G479
+Well hopefully now that your heart's in a good rhythm, that'll help too.  We can get you a little bit of a water pill.  Have a seat here.  When are you supposed to see the cardiologist back?
+
+PATIENT G479
+Let me see.
+
+DOCTOR G479
+Yeah it's not on there.
+
+PATIENT G479
+Okay, so.
+
+DOCTOR G479
+We'll get you an appointment in a couple of weeks.  Let me see what their last note said.  Can you lean forward so I can listen to you?  Deep breath in and out.  Okay.  Just breathe normal.  Are you using your inhalers?
+
+PATIENT G479
+Yeah.
+
+DOCTOR G479
+And what about the Coumadin, was there a question about the Coumadin?
+
+PATIENT G479
+Yeah I talked to the person in the Pharmacy and they said now you have to keep taking it until you see the cardiologist.
+
+DOCTOR G479
+Right.
+
+PATIENT G479
+But I have no appointment to see the cardiologist until @@@
+
+DOCTOR G479
+Yeah we'll see what.
+
+PATIENT G479
+And I supposed to I guess, uh she yesterday @@@ I don't know @@@ notify them or not.
+
+DOCTOR G479
+Okay.  Do you want these mailed to you or do you want to pick them up?
+
+PATIENT G479
+What?
+
+DOCTOR G479
+The water pill.
+
+PATIENT G479
+You can mail them to me.
+
+DOCTOR G479
+Alright.  Okay.  Let me talk to DOCTOR and we'll if we can probably get you, uh you can probably start decreasing that metoprolol, that's causing some of the problems.  How much are you taking, do you know?  Do you remember?
+
+PATIENT G479
+About half a pill three times a day.
+
+DOCTOR G479
+Okay.  We may be able to just take you completely off that to see how you do and we'll get you in to see the cardiologist to see her within the month okay.
+
+PATIENT G479
+Uh-huh.
+
+DOCTOR G479
+I'll be right back.
+
+(DOCTOR OUT:  64:24  DOCTOR IN:  70:19)
+
+DOCTOR G479
+Alright here, so we'll get you an appointment in to see your cardiologist and @@@ um there's that.
+
+PATIENT G479
+Okay.
+
+DOCTOR G479
+We can have you stop both the metoprolol and the Coumadin now that the shock went well and now the rhythm's normal.  If it gets abnormal again, if you're having any symptoms uh having the chest palpitations, having the severe shortness of breath you should come in to the Emergency Department okay.  Because that can always happen.  
+
+PATIENT G479
+Okay so since they got my heart back in rhythm.
+
+DOCTOR G479
+Yeah.
+
+PATIENT G479
+So that's the end of the pacemaker right?
+
+DOCTOR G479
+Um you don't have a pacemaker.
+
+PATIENT G479
+I know.
+
+DOCTOR G479
+Okay.
+
+PATIENT G479
+That was talking about putting one in.
+
+DOCTOR G479
+We'll see.  If you stay in this rhythm yeah it's the end of the pacemaker, you don't need it.  Uh I think they're also concerned about, yeah I think that's the issue is that they can't, if you're heart's in normal rhythm you don't get a pacer.  If it's beating fast and they can't stop it then you need to have - not an operation but where they burn the place that's been getting a little fast and they put in a pacemaker so you don't need that.
+
+PATIENT G479
+They burned it, I thought they just took a little old @@@ insert @@@.
+
+DOCTOR G479
+They do that but what they have to do is that uh what's happening is there's a lot of electrical activity making the heart beat fast.
+
+PATIENT G479
+Oh okay.
+
+DOCTOR G479
+So they got to buzz that place where that's causing all the problems.  If they do that then the heart will slow down really slow and you need a pacemaker.
+
+PATIENT G479
+Oh okay.  @@@.  Okay.
+
+DOCTOR G479
+So if it happens again I don't know we'll have to talk about that again.
+
+PATIENT G479
+Alright.
+
+DOCTOR G479
+But we'll get a repeat ultrasound of the heart.
+
+PATIENT G479
+Okay.
+
+DOCTOR G479
+Alright you take care.
+
+PATIENT LEAVES:  73:08.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275410
+TRANSACTION # 578-10-2-316-0103

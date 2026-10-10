@@ -1,0 +1,789 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@@
+
+DOCTOR G287
+PATIENT.  @@@.  Go ahead and have a seat.
+
+PATIENT G287 
+Thank you.
+
+DOCTOR G287
+So okay let me pull up your chart.  Okay.  So you were seen by DOCTOR that's like two years ago.  So you haven't been seen in a long time.
+
+PATIENT G287
+I just go downstairs; it's been a while ago for um I got rotator cuff issue.
+
+DOCTOR G287
+So is it a tear or tendinitis?
+
+PATIENT G287
+It's like rheumatism, I need cortisone shots.
+
+DOCTOR G287
+Oh.
+
+PATIENT G287
+And this was my second cortisone shot.
+
+DOCTOR G287
+Like arthritis?
+
+PATIENT G287
+Yeah.
+
+DOCTOR G287
+Okay.
+
+PATIENT G287
+It's wearing off though.
+
+DOCTOR G287
+Oh yeah um the Injection Clinic is not in session today though, we can you know refer you.  So.
+
+PATIENT G287
+Oh I only just recently had one; they don't want to give me that quickly.
+
+DOCTOR G287
+Yeah it's every three months.  So right shoulder pain for how long?
+
+PATIENT G287
+Uh well it started like three days ago.
+
+DOCTOR G287
+Oh.
+
+PATIENT G287
+I mean I had it; it was really nasty when I came.
+
+DOCTOR G287
+Oh.
+
+PATIENT G287
+To get my injection.  It was like I had to go back to Emergency and they had to make an emergency schedule for me.
+
+DOCTOR G287
+Oh okay.  So that was in May?
+
+PATIENT G287
+Something like that yeah.  I was very bad forget the dates.
+
+DOCTOR G287
+Okay.  Um and they saw you June 1st in the Rheumatology Clinic.
+
+PATIENT G287
+Yeah to get another shot then.
+
+DOCTOR G287
+So you had impingement syndrome.
+
+PATIENT G287
+Okay.
+
+DOCTOR G287
+And you had it like last month.
+
+PATIENT G287
+I'm just surprised it's wearing off already.  I had a shot like about a year and a few months ago.
+
+DOCTOR G287
+Okay.
+
+PATIENT G287
+Before June.
+
+DOCTOR G287
+Okay.
+
+PATIENT G287
+And it was pretty good but then all of a sudden just like wham.
+
+DOCTOR G287
+Yeah so the pain in your shoulder right now is similar to what you've had in the past?
+
+PATIENT G287
+No it's just, it's just beginning now.  It's not as severe.
+
+DOCTOR G287
+Hmm.
+
+PATIENT G287
+But I can tell that it's gonna get worse.  It's @@@ with @@@
+
+DOCTOR G287
+Hmm.
+
+PATIENT G287
+And when I go up to Rheumatology when I'm finished here.
+
+DOCTOR G287
+Yeah.
+
+PATIENT G287
+Because they told me to make an appointment with Physical Therapy.
+
+DOCTOR G287
+Uh-huh.
+
+PATIENT G287
+And when I called to make an appointment with Physical Therapy they told me I had to get permission from the doctor in Rheumatology.
+
+DOCTOR G287
+Oh.
+
+PATIENT G287
+I said that they already told me.
+
+DOCTOR G287
+So you haven't had physical therapy?
+
+PATIENT G287
+No not yet.  I'm going up there today cause it's the rheumatism that we talked about.
+
+DOCTOR G287
+Oh okay.
+
+PATIENT G287
+So I need to get the doctors to give me permission so I can eventually go up and get my @@@.
+
+DOCTOR G287
+Oh, oh you mean a referral, I can put that in.  So um what um do you check your blood sugars at home?
+
+PATIENT G287
+Not very often anymore since I stopped taking the medicine.  Uh well I didn't really stop taking the medicine it just ran out because you guys were charging me for it.
+
+DOCTOR G287
+Oh which one?
+
+PATIENT G287
+Uh so I was taking metformin and something for blood pressure.
+
+DOCTOR G287
+Um okay let me pull up your list.
+
+PATIENT G287
+You can get it from the old records, I don't know.
+
+DOCTOR G287
+Yeah you need to take those medicines.  Um if you get it through the VA it's gonna be that expensive.
+
+PATIENT G287
+Well you know when I've been living on unemployment for a long time.
+
+DOCTOR G287
+Oh okay.
+
+PATIENT G287
+And I'm.
+
+DOCTOR G287
+How much metformin were you taking?
+
+PATIENT G287
+I was taking it like I think it was like twice a day.
+
+DOCTOR G287
+1000, is that what you were taking?
+
+PATIENT G287
+I think it was 1000, fairly big pills.
+
+DOCTOR G287
+Okay and you're out of um.
+
+PATIENT G287
+Out of everything.  And even the strips that I was using I no longer around.
+
+DOCTOR G287
+Yeah they're not even showing up in the system.
+
+PATIENT G287
+Yeah.
+
+DOCTOR G287
+And you've had.
+
+PATIENT G287
+I did take my blood sugar this morning and it said 217.
+
+DOCTOR G287
+Hmm.
+
+PATIENT G287
+Now the things work fine but that seems about right because it always tends to be on the.
+
+DOCTOR G287
+Yeah.
+
+PATIENT G287
+A little bit on the high side.
+
+DOCTOR G287
+And your blood pressure is a little; it's greater than what we wanted um because for a diabetic you want it to be less than 130/80.  So @@@. We need to do a lot today.  I'm going to write about this.  Let's take a listen to you.  Okay.  Have you had an Eye Clinic, Eye Clinic within the past year?
+
+PATIENT G287
+No.
+
+DOCTOR G287
+Okay, okay.  Alrighty we'll go through this.  Do you smoke?
+
+PATIENT G287
+No.
+
+DOCTOR G287
+Ever smoked?
+
+PATIENT G287
+Nope.
+
+DOCTOR G287
+Okay.
+
+PATIENT G287
+No smoke, no drink, no drugs.
+
+DOCTOR G287
+Have you heard about the MOVE Clinic, it's for exercise and weight loss, every Monday at 10:00 a.m.?
+
+PATIENT G287
+Yeah I really can't go.
+
+DOCTOR G287
+Have you had a colonoscopy?
+
+PATIENT G287
+No not for years.
+
+DOCTOR G287
+Well you're over 60 so.
+
+PATIENT G287
+Yeah.
+
+DOCTOR G287
+Okay.
+
+PATIENT G287
+I had one um about seven or eight years ago, longer than that.  @@@.  I had a tracheostomy and a colon and they actually did remove a benign polyp.
+
+DOCTOR G287
+You had a polyp?
+
+PATIENT G287
+It was benign.  I don't know if it was a polyp but it was something.  But I @@@.
+
+DOCTOR G287
+So you had colon cancer before or not?
+
+PATIENT G287
+No, it wasn’t cancer, it was something @@@ doing something, he wanted to do a colonoscopy and he said it was said it was @@@ so let's remove it whatever it was.
+
+DOCTOR G287
+But you never had it or?
+
+PATIENT G287
+No I never had cancer or anything.
+
+DOCTOR G287
+But you did go for surgery?
+
+PATIENT G287
+I didn't go for.
+
+DOCTOR G287
+When did they remove the polyp?
+
+PATIENT G287
+Oh I have no idea.  It was like seven, eight years ago.
+
+DOCTOR G287
+Okay.  You're probably due for another colonoscopy.  Do you have a family history of colon cancer?
+
+PATIENT G287
+No my mother had ovarian cancer and my father suffers from Alzheimer's.
+
+DOCTOR G287
+Hmm.  So your mother had ovarian.  Is she still living?
+
+PATIENT G287
+No she passed away in 1980.
+
+DOCTOR G287
+Sorry about that.  Your dad is still living?
+
+PATIENT G287
+Yeah if you can call it that.
+
+DOCTOR G287
+Hmm.
+
+PATIENT G287
+He just turned 91 but he's just like a shell.
+
+DOCTOR G287
+Hmm.  Let me take a look at your labs.  Let's see.  @@@ order your labs today.  A1c, lipid panel, uh colonoscopy as well for surveillance.
+
+PATIENT G287
+@@@.
+
+DOCTOR G287
+So it was a polyp but you don't remember what kind it was?
+
+PATIENT G287
+Uh he just said it wasn't serious it was just something he wanted to remove.
+
+DOCTOR G287
+Okay and you're not taking aspirin, Plavix or Coumadin?
+
+PATIENT G287
+No I was taking some Aleve.
+
+DOCTOR G287
+Hmm.
+
+PATIENT G287
+For the shoulder but I haven't taken it for a little while. Haven’t needed it.  I was just taking a couple of ibuprofen during that time.
+
+DOCTOR G287
+Okay.
+
+PATIENT G287
+I generally do not like taking pills unless I have to.
+
+DOCTOR G287
+Yeah.
+
+PATIENT G287
+Pretty much.
+
+DOCTOR G287
+Do you drink alcohol?
+
+PATIENT G287
+No.
+
+DOCTOR G287
+Any marijuana, heroin or cocaine?
+
+PATIENT G287
+No drugs, no drink.
+
+DOCTOR G287
+Prior surgery on your abdomen?
+
+PATIENT G287
+No.
+
+DOCTOR G287
+No.  History of radiation to the abdomen or pelvis?
+
+PATIENT G287
+No.
+
+DOCTOR G287
+Um let's see.  You're not taking any medicine at all right?
+
+PATIENT G287
+Not currently no.
+
+DOCTOR G287
+Okay.  How long have you been out of this?
+
+PATIENT G287
+Oh well for about a year I guess.
+
+DOCTOR G287
+You haven't taken any insulin or anything for a year?
+
+PATIENT G287
+No.  I've never taken insulin or anything.
+
+DOCTOR G287
+You were on metformin.
+
+PATIENT G287
+Yeah.
+
+DOCTOR G287
+Alrighty.  
+
+PATIENT G287
+You know I feel fine.  I mean you know I don't have any numbness or anything like that.
+
+DOCTOR G287
+Yeah but diabetes is something um, it's something that uh you know people don't feel it.
+
+PATIENT G287
+So I gotta tell you there were times when I was on the metformin when I was feeling very sick.
+
+DOCTOR G287
+Hmm.  It causes a lot of bloating and diarrhea so.  When was your last eye exam?
+
+PATIENT G287
+Oh well over a year ago I would imagine.  Maybe two years.
+
+DOCTOR G287
+Any blurriness?  Any trouble seeing?
+
+PATIENT G287
+No more than I ever had, just clean my glasses and everything @@@.
+
+DOCTOR G287
+So I'm going to ask you  to slip your shoes off for me.  (Someone knocks on the door and the doctor speaks with them for a moment)  Put your socks @@@.  I'm putting in so it will be faster for you.
+
+PATIENT G287
+So I'm gonna be here for a while anyway.  I mean they have to take blood.
+
+DOCTOR G287
+Yep.
+
+PATIENT G287
+And I have to wait for a prescription.
+
+DOCTOR G287
+Yeah.  Good.  I'm gonna test your pulses here.  Good. Your toenails look good.  Just let me know if you feel it.  Can you feel me touching you here?
+
+PATIENT G287
+Oh yeah.
+
+DOCTOR G287
+Do you feel me touching here?
+
+PATIENT G287
+Uh-huh.
+
+DOCTOR G287
+And do you feel anything?
+
+PATIENT G287
+Oh yeah.
+
+DOCTOR G287
+Okay and what about here?
+
+PATIENT G287
+Oh yeah.
+
+DOCTOR G287
+How about this?  What about this?
+
+PATIENT G287
+There's always been real dry skin under there because I tend to wear my socks high.
+
+DOCTOR G287
+Oh okay.  Deep breaths.  Look at my face.  Do you do exercise and stuff like that?
+
+PATIENT G287
+I walk a lot and I tend to take about an hour and a half, two hour walk at least three times a week, weather permitting.
+
+DOCTOR G287
+Good.  And you ought to continue doing that.
+
+PATIENT G287
+Yeah I like that.
+
+DOCTOR G287
+Yeah.  Follow my finger okay.  Look at me, straight ahead okay. Alrighty.  So I'm gonna go talk to DOCTOR and we'll just get everything set up.  I need see what of insulin you were on @@@ enough.  I'm gonna @@@ metformin.  The thing is @@@ only thing that's been here, you don't even know @@@.  Well actually what we'll do is we'll check an A1c and then so you were just on metformin.  Were you on?
+
+PATIENT G287
+I was on something for um.
+
+DOCTOR G287
+Blood pressure.
+
+PATIENT G287
+Blood pressure.
+
+DOCTOR G287
+Do you remember the name?
+
+PATIENT G287
+No unfortunately. I’d probably remember it if somebody told me.
+
+DOCTOR G287
+Was it lisinopril?
+
+PATIENT G287
+Yeah, yeah, yeah.
+
+DOCTOR G287
+And then you were on metformin okay.  
+
+PATIENT G287
+@@@ aspirin something like that.
+
+DOCTOR G287
+Okay.  Naproxen?
+
+PATIENT G287
+Something like that.
+
+DOCTOR G287
+Okay I'll be right back.
+
+DOCTOR OUT:  80:00  DOCTOR IN:  85:22
+
+DOCTOR G287
+Okie dokie.  We're gonna put you back on the medicines.
+
+PATIENT G287
+Okay.  So when I do the lab work do I have to come back here?
+
+DOCTOR G287
+No.  I'll send you a letter or call you.  So CBC, liver, lipids @@@ A1c okay.  
+
+PATIENT G287
+Yeah let's not go too crazy on the medicines so three is fine.  I think you know my wife she passed away from pancreatitis.
+
+DOCTOR G287
+Hmm, sorry.
+
+PATIENT G287
+And she was on like 16 different meds.
+
+DOCTOR G287
+Uh-huh.
+
+PATIENT G287
+And I so there’s a part of me that thinks they were over medicating her.
+
+DOCTOR G287
+Right.
+
+PATIENT G287
+Yeah.
+
+DOCTOR G287
+But for your diabetes you need to be on some medication.
+
+PATIENT G287
+Oh I understand I just don't want to have the situation where I'm taking you know 12-13 different types of pills.
+
+DOCTOR G287
+You won't be.  Um window or mail?
+
+PATIENT G287
+I'm sorry?
+
+DOCTOR G287
+Pick up your medicine at the window or?
+
+PATIENT G287
+Oh you can mail it to me I guess.
+
+DOCTOR G287
+Okay.
+
+PATIENT G287
+Cause I have other errands that I need to run today.
+
+DOCTOR G287
+Okay no problem.  Metformin.
+
+PATIENT G287
+You guys have done that before and I think that's pretty cool.
+
+DOCTOR G287
+Yeah we're gonna do metformin 1000 mg b.i.d. 
+
+PATIENT G287
+Now should I, cause you know I was talking to a friend of mine who also takes metformin and he told me that because I hadn't taken it sometimes for diabetes that you always have to be sure to take it after you eat something.
+
+DOCTOR G287
+Yeah you should, on a full stomach cause then you'll feel, you'll get like gassy and all that.
+
+PATIENT G287
+Yeah cause that's what the guy was saying you can get a really bad upset stomach.
+
+DOCTOR G287
+Yeah.  And glyburide.
+
+PATIENT G287
+Yeah glyburide was another one.
+
+DOCTOR G287
+We'll do 10.
+
+PATIENT G287
+I'm pretty sure I can keep it down.  I mean I walk enough, I walk regularly and I've lost about 20 pounds.
+
+DOCTOR G287
+That's good.
+
+PATIENT G287
+In the last six months or so.
+
+DOCTOR G287
+Uh-huh.
+
+PATIENT G287
+I mean I don't try to diet or anything like that.
+
+DOCTOR G287
+Yeah.
+
+PATIENT G287
+But I'm not eating as much processed food and I don't go to those fast food places.
+
+DOCTOR G287
+That's good.
+
+PATIENT G287
+So I mean I do eat red meat and I tend to eat a lot when I do eat.
+
+DOCTOR G287
+Uh-huh.
+
+PATIENT G287
+But I really only try to eat meat like one @@@ every day.
+
+DOCTOR G287
+Why don't we put you back on the hydrochlorothiazide for blood pressure?
+
+PATIENT G287
+Okay.
+
+DOCTOR G287
+And I'll leave it at that okay and then Naproxen.  The Naproxen you have to take omeprazole with it because it's something for your, it'll upset your stomach.  Okay.
+
+PATIENT G287
+Oh you said you could handle the referral so that I could just call and make an appointment with Physical Therapy?
+
+DOCTOR G287
+Yeah.  Uh-huh.
+
+PATIENT G287
+That'll save me another trip today.
+
+DOCTOR G287
+Okay so we're all set and you're done.
+
+PATIENT G287
+So I just take the lab work and then you'll mail me the letter?
+
+DOCTOR G287
+Yeah.
+
+PATIENT G287
+Okay and I'll have to start taking it today.
+
+DOCTOR G287
+The meds?
+
+PATIENT G287
+Yeah.
+
+DOCTOR G287
+Well I mean, I don't know how long it'll take for the mail.
+
+PATIENT G287
+Yeah.
+
+DOCTOR G287
+Maybe by Monday you'll get them.
+
+PATIENT G287
+Oh yeah that'll be fine.
+
+DOCTOR G287
+And then.
+
+PATIENT G287
+Cause I've gone without them for a long time.
+
+DOCTOR G287
+Take a look at the instructions okay and then we'll see you in the clinic maybe in two months.
+
+PATIENT G287
+Okay but go to the Lab first right?
+
+DOCTOR G287
+Yeah.
+
+PATIENT G287
+Okay.  Thank you very much.
+
+DOCTOR G287
+Okay nice to meet you.  I'm DOCTOR by the way.
+
+PATIENT G287
+Nice to meet you doctor.
+
+DOCTOR G287
+Okay.  Take care.
+
+PATIENT G287
+Tell DOCTOR I said hello.
+
+DOCTOR G287
+Okay.  She's with patients.
+
+PATIENT G287
+Okay she actually called me cause I hadn't shown up in a long time.
+
+DOCTOR G287
+Yeah.  She gets concerned.
+
+PATIENT G287
+She was like you know where you been?
+
+DOCTOR G287
+Yeah.
+
+PATIENT G287
+So then I started one of those, for some reason they determined that I was making enough money so that I could get uh.
+
+DOCTOR G287
+Yeah.
+
+PATIENT G287
+Start paying, that's the thing that I really couldn't afford to have it taken out of my income tax.
+
+DOCTOR G287
+Oh.
+
+PATIENT G287
+About $130 but to me that seemed like a lot.
+
+DOCTOR G287
+That is a lot yeah.  That's a lot for me too.
+
+PATIENT G287
+So if I call in six different medicines plus the strips and things like that.
+
+DOCTOR G287
+Uh-huh yeah.
+
+PATIENT G287
+Did you order me more strips by the way as well?  Like along with all the other stuff?
+
+DOCTOR G287
+No I didn't, let me put that in.
+
+PATIENT G287
+Just so I could have the records, I couldn't tell you what kind of machine I have.
+
+DOCTOR G287
+Yeah I'll need to know so I can order the strips correctly.  Um what I would do is I would call.  I would look at the machine and call the pharmacist here and ask what type of machine it is so then they can send me little like reminder to order it.
+
+PATIENT G287
+Okay that's fine.
+
+DOCTOR G287
+Okay.  Alright.  Take care.
+
+PATIENT G287
+Thank you very much.
+
+DOCTOR G287
+You're welcome.
+
+PATIENT G287
+Have a good weekend.
+
+DOCTOR G287
+You too.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  38312
+TRANSACTION # 578-10-2-316-0103

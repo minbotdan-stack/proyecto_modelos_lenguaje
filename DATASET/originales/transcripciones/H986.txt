@@ -1,0 +1,790 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR H986 
+PATIENT?
+
+PATIENT H986
+Yes sir.
+
+DOCTOR H986
+How are you today?  I'm DOCTOR.
+
+PATIENT H986
+Hi.  How you doing?
+
+DOCTOR H986
+Good how you doing?
+
+PATIENT H986
+Not bad.
+
+DOCTOR H986
+Go right in here.
+
+PATIENT H986
+Okay.  Uh I'm stepping on my @@@.
+
+DOCTOR H986
+How have you been?
+
+PATIENT H986
+Oh not too bad.  @@@.
+
+DOCTOR H986
+Okay.
+
+PATIENT H986
+@@@.
+
+DOCTOR H986
+Pardon?
+
+PATIENT H986
+@@@ my medicine.
+
+DOCTOR H986
+What's that?
+
+PATIENT H986
+Um, itemized something I should be taking all of these @@@.
+
+DOCTOR H986
+Okay.
+
+PATIENT H986
+I haven't taken it for a long @@@, they just keep adding to it and all it is 141 and I take five or six of these different ones.
+
+DOCTOR H986
+For your blood pressure?
+
+PATIENT H986
+Blood pressure pills.
+
+DOCTOR H986
+Yeah it's pretty high today too.
+
+PATIENT H986
+Well yeah I didn't take my noon and 4:00 ones because I left to come here.  It takes me a while to get here and I about missed my appointment for my leg.  So that’s explainable.
+
+DOCTOR H986
+Sure.
+
+PATIENT H986
+@@@.  Usually I take it but I got some other things I want to talk to you about.
+
+DOCTOR H986
+Yeah um so as in terms of your blood pressure medication who do you?
+
+PATIENT H986
+I saw DOCTOR, DOCTOR.
+
+DOCTOR H986
+DOCTOR?
+
+PATIENT H986
+DOCTOR, no not really.  DOCTOR, DOCTOR, two of the doctors and then there's DOCTOR.
+
+DOCTOR H986
+Alright sir.  Okay so what's wrong with your leg here?
+
+PATIENT H986
+Well I just had @@@.
+
+DOCTOR H986
+Okay.
+
+PATIENT H986
+But I uh, my knee I was walking.
+
+DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+In the, in the what’s it place, in the terminal.
+
+DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+And I was walking and my foot went down in the floor boards right here.
+
+DOCTOR H986
+Okay.
+
+PATIENT H986
+And my foot went this way and it stuck here and then my foot went this way and then I fell on my knee real bad.
+
+DOCTOR H986
+Okay you fell on it.
+
+PATIENT H986
+Yeah I fell on it and so now, when I take @@@ off @@@ ankle over here.
+
+DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+But this one was way over @@@.
+
+DOCTOR H986
+Okay.
+
+PATIENT H986
+It was like off you know.
+
+DOCTOR H986
+Yeah.  
+
+PATIENT H986
+And the nurse gave me a bandage.
+
+DOCTOR H986
+Do you want to take your shoes off and take your pants off completely so that way I can take a look at your knee?
+
+PATIENT H986
+Yeah see how it bends here?  But the knee, it actually goes up see.  It goes, when I bent it it went this way but when I walk on it, if I take the bandage off, if I take the bandage off.
+
+DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+I got it too tight so it can go up my legs.  But when I walk on it, my foot goes out like this.
+
+DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+And it's normal now and I used to be walking this way but see it goes, it goes like this.
+
+DOCTOR H986
+Yeah I see that.
+
+PATIENT H986
+Yeah and this one's stops.  It's also stops when I'm pushing on it, it stops and this one goes straight over.
+
+DOCTOR H986
+Okay.
+
+PATIENT H986
+So.
+
+DOCTOR H986
+@@@.  Were you in the hospital recently?
+
+PATIENT H986
+Yeah I was in the hospital, not recently, but for something else anyway I have a hard time telling them I'm not really mentally disoriented.
+
+DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+That's cause I got banged in the head in the Navy.
+
+DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+@@@  used to it you know and I fell in civilian life @@@ but I was in and I asked them for a walker or something to walk with this about four months ago.
+
+DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+Four or five months ago and the nurse said no I don't need one but then again I need something and @@@ as potent as the right pain medicine you know.
+
+DOCTOR H986
+Right.  Okay.
+
+PATIENT H986
+This pain is something else.  @@@ but this stuff here makes me drowsy, kind of makes me dopey @@@.
+
+DOCTOR H986
+Yeah.
+
+PATIENT H986
+@@@ it weird @@@ problem.
+
+DOCTOR H986
+Yeah.
+
+PATIENT H986
+I just have too much @@@ you know.  Psychiatrist @@@.
+
+DOCTOR H986
+Okay.
+
+PATIENT H986
+@@@.
+
+DOCTOR H986
+Yeah so does it hurt anywhere?
+
+PATIENT H986
+Yeah it, does hurt.
+
+DOCTOR H986
+When I push.
+
+PATIENT H986
+Well generally right here.
+
+DOCTOR H986
+Right here.
+
+PATIENT H986
+Right here.
+
+DOCTOR H986
+It hurts.
+
+PATIENT H986
+It hurts.
+
+DOCTOR H986
+Not anywhere else?
+
+PATIENT H986
+Well I think the pressure here goes down and it does hurt around here and back here it hurts and then I see that the leg, doctor, tightens up you know.
+
+DOCTOR H986
+Okay.  Can you lay straight back for me?  Okay can you bring your knee up?  Lift your foot up.  
+
+PATIENT H986
+I feel it in this one.
+
+DOCTOR H986
+Does that hurt?
+
+PATIENT H986
+Just a little.
+
+DOCTOR H986
+Does that hurt?
+
+PATIENT H986
+No @@@.
+
+DOCTOR H986
+Lift up.
+
+PATIENT H986
+That one's @@@.
+
+DOCTOR H986
+Yeah.
+
+PATIENT H986
+That one doesn't.
+
+DOCTOR H986
+Can you bend your knee for me?  Does that hurt at all?
+
+PATIENT H986
+In the back.
+
+DOCTOR H986
+The back huh.
+
+PATIENT H986
+@@@ bend it the first time.
+
+DOCTOR H986
+It doesn't really hurt when I move?
+
+PATIENT H986
+No @@@.
+
+DOCTOR H986
+But just when I push right?
+
+PATIENT H986
+When you push.
+
+DOCTOR H986
+I'll tell you what, let me, you can sit up.  Let me go grab my boss and he can come take a look at it too okay.
+
+PATIENT H986
+Okay.
+
+DOCTOR H986
+Alright.
+
+PATIENT H986
+Yeah and it seems like I don't know if it blows up in the wrapper or what.
+
+DOCTOR H986
+Yeah it probably is cause I know you had swelling down there before right, when you were in the hospital.
+
+PATIENT H986
+Yeah I had swelling there.  I had swelling before.  They gave me uh, they gave me, not swelling medicine.  They gave me uh something, I wrote it down here.
+
+DOCTOR H986
+Okay.  Let me just go talk to my boss I'll be right back okay.
+
+(DOCTOR OUT:  42:33  DOCTOR IN:  48:43)
+
+SECOND DOCTOR H986
+PATIENT?  I'm DOCTOR nice to meet you.  I've talked with DOCTOR and he said your knee had been bothering you for the past couple of weeks.
+
+PATIENT H986
+I fell and now I fell real hard on it and I @@@ floors at the place that I live.
+
+SECOND DOCTOR H986
+Yeah.
+
+PATIENT H986
+@@@ underneath.
+
+SECOND DOCTOR H986
+Okay.
+
+PATIENT H986
+And I went that way and that way or one of the ways. I think it was that way and that way and then I fell on it and my knee hurts, now it's just over an inch and a half and this was in January @@@.
+
+SECOND DOCTOR H986
+Now what prompted the fall, did you trip?
+
+PATIENT H986
+No I didn't trip, the floor was messed up underneath.
+
+SECOND DOCTOR H986
+So what happened, did it shift or?
+
+PATIENT H986
+No the floors weren't marked hazardous or nothing, the floors were rotted out.
+
+SECOND DOCTOR H986
+Okay.
+
+PATIENT H986
+@@@.
+
+SECOND DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+I just noticed if I’m sitting here @@@ this way.
+
+SECOND DOCTOR H986
+Uh-huh.  I'm going to straighten your knee out towards me and bring it back in.
+
+(DOCTORS DISCUSS BETWEEN THEMSELVES)
+
+SECOND DOCTOR H986
+Are you taking any pain medications at home?
+
+PATIENT H986
+Uh yeah I'm taking @@@.
+
+FIRST DOCTOR H986
+Meloxicam.
+
+SECOND DOCTOR H986
+Does that help?
+
+PATIENT H986
+No @@@ I used to take.
+
+FIRST DOCTOR H986
+Diclofenac?
+
+PATIENT H986
+Something I used @@@.
+
+SECOND DOCTOR H986
+Want to straighten out?
+
+PATIENT H986
+This one started hurting @@@.
+
+SECOND DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+From here, all the way around to here.  @@@.
+
+FIRST DOCTOR H986
+@@@.
+
+SECOND DOCTOR H986
+Maybe he does have a little bit of @@@. History is not great for it, but it can happen with injuries; maybe that's what's causing the discomfort here.  
+
+PATIENT H986
+When I started to walk normal, I used to walk straight, now I can walk naturally and it crackles.  Now my foot goes like this.
+
+SECOND DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+It will go off @@@.  My leg like that.  But this one is the same when I walk and then @@@ like that.
+
+SECOND DOCTOR H986
+We're going to start him on etodolac 400 b.i.d. and we'll see if will help with the stiffness and um I want to get an x-ray of it.
+
+FIRST DOCTOR H986
+Okay.
+
+SECOND DOCTOR H986
+To make sure there's not a bone chip or something like that and maybe get a knee brace to help @@@ more support @@@ sometimes a bad sprain. Physical therapy can help, okay. A couple things will help you with, including we'll get an x-ray of the knee today and make sure there isn’t anything broken in there or something else.
+
+PATIENT H986
+Yeah @@@.  I went to @@@.
+
+SECOND DOCTOR H986
+Did they get an x-ray already?
+
+PATIENT H986
+They did an x-ray a really long time ago and @@@ nothing's wrong with it.
+
+SECOND DOCTOR H986
+You already had x-rays @@@.
+
+PATIENT H986
+Then I went back the other day and they said I had to see the doctor first.  We'll make a quick appointment for you.  @@@.  
+
+SECOND DOCTOR H986
+That x-ray was that at another hospital?
+
+PATIENT H986
+No here.
+
+SECOND DOCTOR H986
+Really we don't have anything here.  Are you sure you're not thinking of maybe last year.  Did you hurt yourself?
+
+PATIENT H986
+It was last year, of course.
+
+SECOND DOCTOR H986
+Alright but then you had hurt yourself since then right?
+
+PATIENT H986
+No, no it just started @@@ it just started @@@ about two weeks ago.
+
+SECOND DOCTOR H986
+Sure.
+
+PATIENT H986
+Two or three weeks ago.
+
+SECOND DOCTOR H986
+Yeah we'll repeat the x-rays just to be sure.
+
+PATIENT H986
+Oh sure.  @@@
+
+FIRST DOCTOR H986
+Yeah we're gonna discontinue the meloxicam.
+
+PATIENT H986
+Okay.
+
+FIRST DOCTOR H986
+I'll do it as we're talking here and then we'll start what's called etodolac so let me @@@.  Would you like us to mail it to you or do you want to pick it up tonight?
+
+PATIENT H986
+No I can pick it up @@@.  Then I'll need a note probably to discontinue the uh.
+
+FIRST DOCTOR H986
+I'm doing that now.
+
+PATIENT H986
+Yeah I'll need a note @@@.
+
+FIRST DOCTOR H986
+Okay I discontinued the meloxicam and we're going to give you etodolac and the pharmacy will know all about this okay.
+
+PATIENT H986
+Okay.  So it's etodolac?
+
+FIRST DOCTOR H986
+Eto.
+
+PATIENT H986
+Eto.
+
+FIRST DOCTOR H986
+Dolac.
+
+PATIENT H986
+Dolac.
+
+FIRST DOCTOR H986
+Etodolac.  And the other thing that we were talking about was the uh, the x-ray of your knee.
+
+PATIENT H986
+Right.  So you tell me if you see something or not.
+
+FIRST DOCTOR H986
+Right.
+
+PATIENT H986
+If there's something or you see something.
+
+FIRST DOCTOR H986
+Yeah.  And the other thing I'm going to ask you to do, just because your blood pressure's so high, I'm going to ask you to come back in a couple of weeks, not for a visit just come up here and let the nurses check your blood pressure and then you can go home.
+
+PATIENT H986
+Okay, so that's okay cause you know like today I was at home.
+
+FIRST DOCTOR H986
+Yeah, yeah.
+
+PATIENT H986
+And I came here @@@.
+
+FIRST DOCTOR H986
+Right, no no I think you should take your medications.
+
+PATIENT H986
+Yeah I do take my medicines but I didn't take it this morning.
+
+FIRST DOCTOR H986
+Right yeah.
+
+PATIENT H986
+@@@.  I @@@ I don't like that stuff.  It seem every time I take new stuff I get bloating.
+
+FIRST DOCTOR H986
+The which one?
+
+PATIENT H986
+HDL or CTA.
+
+FIRST DOCTOR H986
+Oh the HCTZ?
+
+PATIENT H986
+Yeah and HDL @@@.
+
+FIRST DOCTOR H986
+Oh the hydralazine okay.
+
+PATIENT H986
+I don't like that stuff, I told the doctor before but they added one @@@ stuff and I just don't like that you know.  @@@It works the opposite.
+
+FIRST DOCTOR H986
+Yeah, yeah, it can.  You know.
+
+PATIENT H986
+And @@@ water, if I just do it naturally, @@@.
+
+FIRST DOCTOR H986
+Yeah I don't know, I don't know everything about you as well as DOCTOR does.
+
+PATIENT H986
+Right.
+
+FIRST DOCTOR H986
+So I'll let her deal with it.  You know to be honest I don't think it's a bad idea to rethink the blood pressure medications.  But I think you should go with her okay.
+
+PATIENT H986
+Okay I'll @@@.
+
+FIRST DOCTOR H986
+So we'll focus on the knee pain.  We'll get the medicines are going to be downstairs waiting on you and downstairs, you know where to get the x-rays?
+
+PATIENT H986
+Yeah.
+
+FIRST DOCTOR H986
+On the first floor.  We'll get the x-rays then and I'll make sure all this information gets to DOCTOR.
+
+PATIENT H986
+Okay and I'll @@@ may get a call.
+
+FIRST DOCTOR H986
+A bandage yeah or a brace.  Do you think that would help?
+
+PATIENT H986
+@@@ elastic or something.
+
+FIRST DOCTOR H986
+Okay.
+
+PATIENT H986
+@@@ I tried this bandage and it's too tight see.
+
+FIRST DOCTOR H986
+Yeah, yeah.
+
+PATIENT H986
+But the @@@.
+
+FIRST DOCTOR H986
+Do you know where to pick up the brace?
+
+PATIENT H986
+No, I could have someone tell me at the X-Ray.
+
+FIRST DOCTOR H986
+Yeah they can and do you know where Building 1 is?
+
+PATIENT H986
+Building 1?
+
+FIRST DOCTOR H986
+Yeah it's in Building 1 and it's called Prosthetics.
+
+PATIENT H986
+Prosthetics okay.  And it would be nice if @@@ getting medicines cause I'm taking one, two, three, four, five and on the pills side @@@ getting three medicines.  @@@.
+
+FIRST DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+@@@.  They gave me @@@.  Oh yeah and I come back here @@@ psychologist.  I'm not complaining @@@.
+
+FIRST DOCTOR H986
+Oh yeah.
+
+PATIENT H986
+@@@.
+
+FIRST DOCTOR H986
+Um let's see, so you have an appointment with DOCTOR on April 3rd, that's coming up in a couple more weeks.  So I'll make sure that she gets, I'll make sure that I tell her what we did today and then make sure that she knows that you need your medications looked at.
+
+PATIENT H986
+Yeah that'd be nice.
+
+FIRST DOCTOR H986
+Okay, alright.
+
+PATIENT H986
+@@@ you know I have more medicines, three medicines from her.
+
+FIRST DOCTOR H986
+Sure.
+
+PATIENT H986
+@@@.
+
+FIRST DOCTOR H986
+Yeah, yeah, so you can get dressed.
+
+PATIENT H986
+@@@.
+
+FIRST DOCTOR H986
+So the medication will be down at the Pharmacy, you know where that's at?
+
+PATIENT H986
+Uh-huh.
+
+FIRST DOCTOR H986
+Okay and you know where to get the x-ray here of your knee.
+
+PATIENT H986
+Right.
+
+FIRST DOCTOR H986
+And then after you do those two things then they probably will have your knee brace ready by then.
+
+PATIENT H986
+That’d be nice.
+
+FIRST DOCTOR H986
+So you can just walk on over to Building 1 and go to Prosthetics.
+
+PATIENT H986
+Well I need to stop @@@.
+
+FIRST DOCTOR H986
+Do you think you'll be okay until you get your knee brace or do you think you need it?
+
+PATIENT H986
+No any time I get my leg to walk the pain @@@.
+
+FIRST DOCTOR H986
+Okay, okay.  Yeah you gotta be able to walk right.
+
+PATIENT H986
+Yeah I need to walk and if I don't tighten it up, the bandage is a little tight when I get it up, then I'd rather walk that way and I won't be walking straight. @@@.  Oh one more.  @@@.
+
+DOCTOR H986
+@@@
+
+PATIENT H986
+@@@.  I go home and @@@.
+
+FIRST DOCTOR H986
+@@@.
+
+PATIENT H986
+@@@.
+
+FIRST DOCTOR H986
+@@@ You gotta do what you gotta do right.  You gotta look out for yourself.  
+
+PATIENT H986
+I'd even go through that smoking cessation you know @@@.
+
+FIRST DOCTOR H986
+Would you like to?
+
+PATIENT H986
+Yeah I put in for it a consult at least.
+
+FIRST DOCTOR H986
+Oh it's already been done?
+
+PATIENT H986
+For smoking cessation and one other one I think they put in for.  I have a consult on it.  Oh and uh.
+
+FIRST DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+They did something.  @@@.
+
+FIRST DOCTOR H986
+Okay yeah, Smoking Cessation Class, yeah that'll be good.  
+
+PATIENT H986
+Yeah.
+
+DOCTOR H986
+A lot of people do well with that.  
+
+PATIENT H986
+I remember @@@ smoking downstairs one day and just happened to have one.
+
+DOCTOR H986
+Oh really.
+
+PATIENT H986
+Yeah and my.
+
+FIRST DOCTOR H986
+Take a look at that.
+
+PATIENT H986
+Just look @@@.  Hurt real bad.  @@@.
+
+FIRST DOCTOR H986
+Uh-huh.
+
+PATIENT H986
+@@@ on this side. I get pain in the calf.  @@@ pain in that toe and I don’t know what it was from. \  Someone said I had an ingrown toenail you know.
+
+FIRST DOCTOR H986
+Yeah, those are painful too.
+
+PATIENT H986
+Yeah.  Okay doctor.
+
+FIRST DOCTOR H986
+If you don't mind just take this folder up the hallway there.
+
+PATIENT H986
+Okay doc, I'll take that.  Okay thank you.  Then I go to uh X-Ray and then @@@.
+
+DOCTOR H986
+@@@.  
+
+Time is 4:50.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255117
+TRANSACTION # 578-10-2-316-0103

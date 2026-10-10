@@ -1,0 +1,13 @@
+TITLE: Lipid Management and Elevated PSA Followup
+DESCRIPTION: Followup for dyslipidemia, hypertension, mildly elevated PSA, and medication renewals.
+
+HISTORY OF PRESENT ILLNESS: The patient presents to discuss routine laboratory results and review his medications. He is taking triamterene and supplemental potassium and is concerned about the warning against their combined use. The clinician explains that his potassium remains low-normal despite supplementation, and monitoring will continue. His lipid panel shows total cholesterol of 195, HDL 50, LDL 103, and triglycerides approximately 209. He tolerates lovastatin 40 mg daily. Fasting glucose is 95, with normal blood count, liver enzymes, and renal function. He reports variable, sometimes elevated readings with a wrist blood pressure monitor, while an office measurement was approximately 112/72. He also describes urinary frequency and urgency, and a recently obtained PSA is mildly elevated without a prior comparable measurement in this record. He follows with dermatology for chronic lip changes after earlier surgery and with audiology for hearing problems.
+
+ASSESSMENT AND PLAN:
+1. Dyslipidemia with elevated triglycerides. Renew lovastatin 40 mg daily. Trial of niacin was accepted after counseling about flushing; repeat lipid testing in approximately two to three months.
+2. Hypertension. Continue current therapy and obtain an upper arm blood pressure monitor in place of the unreliable wrist device.
+3. Low-normal potassium while on diuretic therapy. Continue potassium supplementation with periodic monitoring, given the existing laboratory trend.
+4. Mildly elevated PSA with urinary symptoms. Refer to urology for assessment and monitoring; this alone does not establish prostate cancer.
+5. Chronic lip and dermatologic issues. Continue specialty followup.
+
+Obtain urine testing prior to the urology evaluation. Routine medical followup in six months.

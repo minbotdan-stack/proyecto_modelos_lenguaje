@@ -1,0 +1,1280 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR G207
+Patient?
+
+PATIENT G207
+Yep.
+
+DOCTOR G207
+How you doing?
+
+PATIENT G207
+I'm surviving.
+
+DOCTOR G207
+Yeah.  And you had a hernia repair?
+
+PATIENT G207
+A while ago.
+
+DOCTOR G207
+In March?
+
+PATIENT G207
+Was that this year?
+
+DOCTOR G207
+Did they do a maxillary cyst or anything right here?
+
+PATIENT G207
+Well that's why I visited the oral surgeon who doesn't have surgery suite privileges.  
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+Did all that under local, which was completely miserable.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+He pulled the tooth.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+And then went up into the sides that way and tried getting rid of everything.
+
+DOCTOR G207
+Did it work?
+
+PATIENT G207
+No.
+
+DOCTOR G207
+@@@.
+
+PATIENT G207
+Prob one.
+
+DOCTOR G207
+Did you have it here?
+
+PATIENT G207
+It was done here.  He didn't send anything to Pathology so there's no Pathology Report.  He did it all under local and then the headaches came back.  They did a CT upstairs in Dental and said it's already come back; they needed to do it again.  I'm not doing that under local again.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+Now initially they'd written a referral to Loyola cause we didn't have an oral surgeon here.  Now we have an oral surgeon but he has no surgery privileges.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+So somebody's got to do something cause I cannot do that under local again.  There's just no way in the world.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+So I don't know.  I've had you know when I initially got admitted to the hospital here.
+
+DOCTOR G207
+Were evaluated by him again?
+
+PATIENT G207
+I told them I wouldn't go back to him.
+
+DOCTOR G207
+Okay what you should do is actually not to have surgery by him but go back to him and say I will not do it under local anesthesia cause I think he is the one that's gonna have to refer you to Loyola.  Cause no matter what I do they're gonna be like well we have services offered at the VA so it's something that he will have to do.
+
+PATIENT G207
+Right but, I talked to him after he had removed it because he could feel it in the CT and he's like well because they got a CT, their own CT machine up there in Dental.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+He says I don't have surgery privileges.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+That's not my problem.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+You know but if I need something fixed and you can't fix it, he says well I can but under local.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+So he's saying he's willing to fix it.  I'm saying it's not gonna happen.
+DOCTOR G207
+Okay.
+
+PATIENT G207
+Because to go into my and there a little tube about yeah long that you know and this is a two hour procedure.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+My hernia repair didn't take that long.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+So for him to take it cause there's actually a patch.
+
+DOCTOR G207
+So you were awake?
+
+PATIENT G207
+There is a, for the whole thing.
+
+DOCTOR G207
+Yeah okay.
+
+PATIENT G207
+There's a, they had.
+
+DOCTOR G207
+They didn't put you somewhat under?
+
+PATIENT G207
+No, he doesn't have privileges.
+
+DOCTOR G207
+Even for a wisdom tooth, they’ll put you a little bit under.
+
+PATIENT G207
+He doesn't have privileges.
+
+DOCTOR G207
+Is he new here?
+
+PATIENT G207
+Yep.
+
+DOCTOR G207
+Do you know if he has privileges now?
+
+PATIENT G207
+I don't know.
+
+DOCTOR G207
+@@@.
+
+PATIENT G207
+I don't know but, but I come in, you know he had to pull the one tooth.  The tooth had a root canal but there was so much pressure that's why I spent the week in the hospital.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+So that's when they did the referral to Loyola cause they didn't have a surgeon, then he came in after I already had been screened at Loyola but I went and checked when it could be done and they canceled it cause I came in with the papers, they canceled it because now we have an oral surgeon who doesn't have privileges.  So the headaches are back.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+So that actually has four things.  The headaches are back which I had a prescription for Imitrex, I got a couple of those left.  Imitrex is taking care of the problem.  Was taking care of the pain but it's not addressing the problem.  
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+Uh in the follow-up CT that they did up in the Oral Surgery said its back.  Okay he, after you take something out of the body, common sense says you send it to Pathology and find out what the heck it is.  He never did that.
+
+DOCTOR G207
+Uh-huh.  Yeah.
+
+PATIENT G207
+You know that's doctor 101, you remove something you send it to Pathology.  So he never sent it to Pathology.  So we don't know what this even was.  But the follow-up CAT scan shows it's already returned.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+So something is in there that shouldn't be yet we don't know what it is because he didn't do what he should of done.  Now if push comes to shove I'll use my health insurance to go outside and get it done and pay for civilians.
+
+DOCTOR G207
+Yeah.  I understand okay.
+
+PATIENT G207
+But I shouldn't have to go see a civilian doctor because I have VA health care.
+
+DOCTOR G207
+Was it the left side that they did?
+
+PATIENT G207
+Uh-huh, yep.  You know but I shouldn't have to see a civilian doctor because this guy doesn't have operating room privileges.
+
+DOCTOR G207
+Hmm.  Okay so that's one issue we need to address, so you want to find an oral surgeon, that's one issue.
+
+PATIENT G207
+Right.
+
+DOCTOR G207
+The headaches.
+
+PATIENT G207
+But the Imitrex does work for it.
+
+DOCTOR G207
+It works but we need to solve the problem.
+
+PATIENT G207
+Right I mean it's, we can't just so I'm gonna need a refill for the Imitrex.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+Just for that.  If we can get rid of the sinus problem or whatever is growing in there which we still don't know what.
+
+DOCTOR G207
+Are you still on the Imitrex @@@.
+
+PATIENT G207
+I got one a while ago.  I don't even remember how long it was.  I keep all my prescriptions.
+
+DOCTOR G207
+Yeah you need, looks like you need a refill.
+
+PATIENT G207
+Who wrote one?
+
+DOCTOR G207
+Probably @@@.
+
+PATIENT G207
+@@@.
+
+DOCTOR G207
+What um dose was it?
+
+PATIENT G207
+50.
+
+DOCTOR G207
+50 and how often were you taking it?
+
+PATIENT G207
+Oh, you know get nine in the box?  That could actually last me an entire year.
+
+DOCTOR G207
+Oh really okay.
+
+PATIENT G207
+But I've gone through two in the last three weeks.
+
+DOCTOR G207
+I'll write the, I'll give you a 30 day supply with like three refills okay.  So you should get 30 tablets.
+
+PATIENT G207
+Okay it comes in a specialty pill pack, there's nine pills in a package.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+It's almost like the uh, like the Steri-packs.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+The same as that.  It's nine pill packs so that's how it's dispensed.  I might have got, maybe I got it through the ER I don't remember but it comes in a nine pill pack.
+
+DOCTOR G207
+Alright okay.  So we'll do I'll write if for a 90 day supply then okay and then we'll get you a refill alright.  @@@?
+
+PATIENT G207
+That works.
+
+DOCTOR G207
+Do you want it mailed or do you want to pick it up?
+
+PATIENT G207
+No I can pick it up, it's no big deal and now I see the knee guy today after you.
+
+DOCTOR G207
+Okay.  Who Rheumatology?
+
+PATIENT G207
+I saw the, I saw them.
+
+DOCTOR G207
+The rheumatologist?  Did they give you a steroid?
+
+PATIENT G207
+I saw them, they did a steroid.  He said before they can do the Synvisc injections, they gotta do the full steroid sets.  I'm like okay that's fine.
+
+DOCTOR G207
+But you don't see them until the 22nd.
+
+PATIENT G207
+But I saw the rheumatologist.
+
+DOCTOR G207
+It doesn't say you have anything here.
+
+PATIENT G207
+No, no, I go to Prosthesis.
+
+DOCTOR G207
+@@@.  Oh okay.
+
+PATIENT G207
+From here cause they've got the order to build the brace.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+Cause they build that from scratch.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+Supposedly.
+
+DOCTOR G207
+Okay. 
+
+PATIENT G207
+Does that say where it’s at? The 5th floor of this building?
+
+DOCTOR G207
+Um it's either fifth floor here or fifth floor in 228.
+
+PATIENT G207
+That's at 228.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+Alright so I gotta go see them um.
+
+DOCTOR G207
+And you got a steroid injection in your knee?
+
+PATIENT G207
+They did one in the knee.  He said before they can do the Synvisc injections cause they’re $600 a piece.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+They can't give the Synvisc until they do all the steroid injections.  
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+I'm like that's fine.
+
+DOCTOR G207
+Did it help at all?
+
+PATIENT G207
+Not even a little bit.
+
+DOCTOR G207
+Really.
+
+PATIENT G207
+Nope.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+But I knew that ahead of time.
+
+DOCTOR G207
+Okay.  Alright.
+
+PATIENT G207
+Now also rheumatoid doctor.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+Sent me to the podiatrist.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+Who gave me this.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+And ordered physical therapy, a block from the house so it's Mondays and Wednesdays.
+
+DOCTOR G207
+Okay.  Did that help?
+
+PATIENT G207
+VA covered eight visits.  Apparently the right leg is a whole lot weaker than the left leg but I already knew that.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+But they're working on that, trying to fix that up so that's going on.  They ordered eight visits so I don't know what happens after eight if they re-evaluate, if I go back and see the podiatrist or.
+
+DOCTOR G207
+They'll probably give you home exercises to do on your own at home.  That's probably what they're gonna do.
+
+PATIENT G207
+So there's that, okay so we got that and now the fun begins cause I have to keep track of what's what.  My 9-year-old gotta @@@ picture now okay.  She is 88 pounds.  So if I go somewhere you know I've got to lift her up plus the chair.  On Father's Day she was in the livingroom and I've got this big long chair and I went to pick her up from there out of the chair, to put her into the wheelchair and she tensed up.  I did something to the back of my arm right here to where I can't bend it.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+So I don't know if I tore a muscle, if I, I have no idea but I'm literally stuck with about two or three pounds lifting with this arm and other than that it's useless.
+
+DOCTOR G207
+With everything else.
+
+PATIENT G207
+So I know.
+
+DOCTOR G207
+Is it painful or is it weakness?
+
+PATIENT G207
+That's uh no it's extremely weak.
+
+DOCTOR G207
+But is it painful?
+
+PATIENT G207
+If I try and lift something, if I try to lift something it hurts right in here.
+
+DOCTOR G207
+Right there.
+
+PATIENT G207
+But I could push on it, it's not a big deal but if I try and actually lift something I just can't, so I don't know if I tore a muscle, if I chipped bone when she tensed up on me, I have no idea.  
+
+DOCTOR G207
+When you go to Physical Therapy show this to them.
+
+PATIENT G207
+Okay.
+
+DOCTOR G207
+Okay.  We'll do some x-rays today.
+
+PATIENT G207
+And they just drew my labs.
+
+DOCTOR G207
+Okay. So @@@ were okay.
+
+PATIENT G207
+Now that hurts right here, just to do that.
+
+DOCTOR G207
+@@@ okay.  How about this, now pull me towards you okay.  Push okay.  
+
+PATIENT G207
+Yeah.
+
+DOCTOR G207
+Does the shoulder hurt?
+
+PATIENT G207
+No it's just right, it's just there so I don't know if I tore a muscle when I lifted her.
+
+DOCTOR G207
+Um go like this, now push, strong, right.
+
+PATIENT G207
+Uh-huh.
+
+DOCTOR G207
+That feels good.  But so it really just your forearm though not your @@@.
+
+PATIENT G207
+Yeah but like the pain is literally just right in the joint itself.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+So I don't know if I just tore a muscle in there or what I did but I went to pick her up and I tried cradling her and as soon as I had her up she just tensed out and it just you know the arm just went straight so I, but after that and on Father's Day there's you know but the muscle this or that went after a couple of weeks.
+
+DOCTOR G207
+So did you hit something?
+
+PATIENT G207
+No, no I went to lift her up and I was cradling here cause she's just rigid.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+And as I lifted her up she tensed out, she actually forced the arm straight.
+
+DOCTOR G207
+Oh.
+
+PATIENT G207
+From bent.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+I kind of think I tore a muscle or something.  Okay elbow, knee brace, pain med headaces.
+
+DOCTOR G207
+Sure.
+
+PATIENT G207
+I wrote it down, I got it all.
+
+DOCTOR G207
+Good.  No trauma to the area other than what you said but you never hit it though?
+
+PATIENT G207
+No I didn't hit anything but like I said cause I had it cause I actually got down on my knees.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+Well on the one knee and I go underneath her and cradle her and then I you know lift her up from there and as soon as I had her off the couch that's when she just went rigid cause she was having a seizure and you know since she did that the arm just went straight so I don't know if it's just a torn muscle or what I did.  But it's just I mean complete weakness lifting.  You know I'll have to reach for the coffee can, then I drop the coffee can and I have to have my coffee.
+
+DOCTOR G207
+Okay.  Of all your labs only one has come back and that one is all normal, your blood count's all normal.
+
+PATIENT G207
+Well that's a good thing.
+
+DOCTOR G207
+So we're just waiting on um your lipids, your cholesterol and then all of your electrolytes and the screening for diabetes and your cholesterol that we're still waiting on.
+
+PATIENT G207
+Yeah well I know my last A1c was a 5.3 which was nice.
+
+DOCTOR G207
+Yeah so it should be probably around the same um okay.  What are you using for pain control for your knee?
+
+PATIENT G207
+The uh.
+
+DOCTOR G207
+Tramadol?
+
+PATIENT G207
+Vicodin.
+
+DOCTOR G207
+Vicodin.
+
+PATIENT G207
+But I'm down to two pills.  After Physical Therapy cause I go there Mondays and Wednesday it's for a full hour and then at the end of the therapy then they ice it down.  By the time I get home it's rather uncomfortable.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+To say the least.  I walk in there with a little limp.  I walk out with a very pronounced limp.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+Where’s 228?
+
+DOCTOR G207
+That's the @@@.
+
+PATIENT G207
+Can I get it from inside or I have to go outside to get that do I?
+
+DOCTOR G207
+You can that from inside um.
+
+PATIENT G207
+So they @@@?
+
+DOCTOR G207
+It's not the ER Service two other @@@.  Uh did you come into the ER today?
+
+PATIENT G207
+Uh.
+
+DOCTOR G207
+Okay so I would get your @@@.  So let's go with this is the ER and this is the parking lot.
+
+PATIENT G207
+Right.
+
+DOCTOR G207
+And you park near the ED.
+
+PATIENT G207
+Cause that's the Spinal Center right there.
+
+DOCTOR G207
+Yeah so hmm yeah.  So I know here's the hallway.
+
+PATIENT G207
+Right.
+
+DOCTOR G207
+And then this is the elevator that you get on right?
+
+PATIENT G207
+Right.
+
+DOCTOR G207
+When you come up so instead of turning here you keep on in this hallway so when you get out the elevator make a right and then there's a big junction here @@@.
+
+PATIENT G207
+Right.
+
+DOCTOR G207
+Then you want to make a left and then you'll see um towards the end of the hall you'll see um wood floors okay, you want to follow the wood floors.  If you go this way it's the Canteen, you don't want to go towards the Canteen.
+
+PATIENT G207
+Okay I understand.
+
+DOCTOR G207
+You go towards the Pharmacy, Outpatient Pharmacy.
+
+PATIENT G207
+Yep.
+
+DOCTOR G207
+You want to go this way and then follow the corridor out and the entrance is over here.
+
+PATIENT G207
+Okay that works.
+
+DOCTOR G207
+So in relation to the whole hospital, this whole area is parking lot and here's Loyola.
+
+PATIENT G207
+Right.
+
+DOCTOR G207
+But this right here is the entrance to @@@.
+
+PATIENT G207
+Okay, makes sense.
+
+DOCTOR G207
+And um we have @@@.
+
+PATIENT G207
+Okay.
+
+DOCTOR G207
+Okay so the big thing today is you have to, so I'm @@@ your sinus issue @@@ and your elbow right?
+
+PATIENT G207
+Right.
+
+DOCTOR G207
+Okay everything is being worked on and stuff is happening already.
+
+PATIENT G207
+Yep.
+
+DOCTOR G207
+So we'll leave those aside and work on those two today.  Um.
+
+PATIENT G207
+If it's sinus what about just a referral back to ENT and let them deal with it?
+
+DOCTOR G207
+
+We can, you can do that cause ENT is probably going to be able to do surgery.  They can already do surgery.  You don't have to go to the dentist.
+
+PATIENT G207
+Right.  Cause I mean he removed the tooth.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+Which it had a root canal cause that's what the whatever it was was pushing down on it.
+
+DOCTOR G207
+Why didn't ENT ever do it in the first place?
+
+PATIENT G207
+Because they said it required an oral surgeon to remove the tooth before they do anything.
+
+DOCTOR G207
+So the tooth was already out.
+
+PATIENT G207
+And now the tooth is out.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+Cause he had @@@ I had.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+That's what he took out so.  But if it's out now maybe they'll do their thing but.
+
+DOCTOR G207
+ENT is really good here.
+
+PATIENT G207
+You know it irritates me the fact that.
+
+DOCTOR G207
+@@@ ENT at Hines is the same as Loyola.
+
+PATIENT G207
+Right.
+
+DOCTOR G207
+And then it's one of the best programs.
+
+PATIENT G207
+But yeah it just irritates me the fact that he removed whatever this was and never sent anything to Pathology so we still have no clue what it is.
+
+DOCTOR G207
+Yes that's unfortunate.  Alright I'll be back okay and hopefully some of your labs will be back by then.
+
+PATIENT G207
+Okay can we refill all the meds?
+
+DOCTOR G207
+Yes.
+
+PATIENT G207
+Okay.
+
+DOCTOR G207
+Do you want to pick them up today?
+
+PATIENT G207
+Sure why not?  Cause I got to go to 228 so I'm gonna be walking not that far from the Pharmacy anyway so I'll go there, I'll go to the Pharmacy sign in and then I'll go to 228 get the knee brace then go back to the Pharmacy cause it'll take them a half hour to get it anyway.
+
+DOCTOR G207
+You need um do you use Naproxen at all?  The Naprosyn, Naproxen that's like ibuprofen.
+
+PATIENT G207
+Yeah I do.
+
+DOCTOR G207
+You do use it?
+
+PATIENT G207
+Yep.
+
+DOCTOR G207
+Do you use the omeprazole?
+
+PATIENT G207
+I haven't had a problem with the ulcer in over a year.  
+
+DOCTOR G207
+This prevents you from getting the ulcer.
+
+PATIENT G207
+Yeah I know it's worse but.
+
+DOCTOR G207
+Um do you use Tramadol?
+
+PATIENT G207
+Uh-huh.
+
+DOCTOR G207
+You do use tramadol.
+
+PATIENT G207
+I use that, I try and use that instead of the Vicodin but I don't take them both together.
+
+DOCTOR G207
+Do you use the Ambien?
+
+PATIENT G207
+Yes.  Yes cause if I can take, cause what I'll do is just if the knee gets really bad I'll take a Vicodin and if it's not that bad I'll take an Ambien and the tramadol or the Ambien and the Naprosyn.
+
+DOCTOR G207
+What about bowel regimen, the Docusate are you taking it?
+
+PATIENT G207
+No I get that over-the-counter.  No point getting a prescription for that and that's over-the-counter.
+
+DOCTOR G207
+And okay.  
+
+PATIENT G207
+There's no inhaler on there is there?
+
+DOCTOR G207
+Uh uh.
+
+PATIENT G207
+That's such a good thing.
+
+DOCTOR G207
+Why?
+
+PATIENT G207
+Cause I haven't used it in who knows how long.  It's amazing how much better it is to breathe when you quit smoking.
+
+DOCTOR G207
+Uh-huh, yeah.
+
+PATIENT G207
+It's probably; it's got to be a year and a half since I've used one.
+
+DOCTOR G207
+Great.
+
+PATIENT G207
+You'd think me being a nurse I'd know better.  Well the order, cause I got a call last week.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+That said hey you got, you know you got your check with your primary next week so we'll put you in for 7:30 for labs.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+Just go down for the labs and blah blah blah.  I go downstairs and like we've got nothing for you, they showed an order for labs but it didn't say any specific labs.  So I go upstairs, check in with them, they don't open till 8, but check upstairs then they'll put the order in the computer then you can come back here and get it redrawn.  So I come up, I'll say quarter to 8.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+Cause I was supposed to be here at quarter to 8 and I sit until 8:30 before anybody even calls me cause I check in at the desk and its 8:30 or so, the nurse called me back to do my vitals and she was just like we'll just draw your labs now so they actually drew it up here.
+
+DOCTOR G207
+That's fine, that's okay.  I don't expect them to be back @@@ do the blood so I'll be right back okay.
+
+PATIENT G207
+Okay.
+
+DOCTOR G207
+Can you um go like this?
+
+PATIENT G207
+Uh-huh.
+
+DOCTOR G207
+Is that any problem for you?
+
+PATIENT G207
+It hurts.
+
+DOCTOR G207
+It does hurt.
+
+PATIENT G207
+It hurts, it hurts.  It just sort of sits back here in the joints.
+
+DOCTOR G207
+Right here.
+
+PATIENT G207
+Really in the joint yeah.
+
+DOCTOR G207
+Does it help if I.
+
+PATIENT G207
+Nope.
+
+DOCTOR G207
+@@@.
+
+PATIENT G207
+No this happened on Father's Day so June 18th that's what it is.
+
+DOCTOR G207
+Do you feel like your arm has gotten more atrophied?
+
+PATIENT G207
+No it's just, I can actually use it but I just can't you know if I try and lift her up, you know if I carry her up the stairs cause there's six stairs to her bedroom, you know I got to you know lift up like this.  I can feel it hurts in the joint but now I got a sore shoulder going up the stairs.
+
+DOCTOR G207
+Okay I'll be right back.
+
+DOCTOR OUT:  80:50   DOCTOR IN: 95:59 
+
+DOCTOR G207
+Alright so instead of an x-ray we'll do MRI.
+
+PATIENT G207
+Okay.
+
+DOCTOR G207
+X-rays might show a fracture but the MRI will show any ligament tear and I think that's what really happened if you're having weakness um so we'll do that.
+
+PATIENT G207
+Makes sense.
+
+DOCTOR G207
+And you have @@@ passwords.
+
+PATIENT G207
+Hey now I've got the same thing on my work.
+
+DOCTOR G207
+@@@ goals.
+
+PATIENT G207
+I'm telling you, I'll tell you a secret now at my desk I've got so many programs that I actually have two monitors they're linked together and I'll have 10 programs at one time.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+I have one program to get into the computer.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+I have one program to check my employees for VISTA stuff.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+I have one third program for payroll, I made them all the same password so when you have to change your password put a number one at the end of it and then that day put a number two at the end of it and then that date put a number three at the end of it and just keep adding a number.
+
+DOCTOR G207
+Oh.  So my attending would like instead of adding a number just substitute the number but yeah same thing.
+
+PATIENT G207
+Yeah I don't so this one is the one, then it's now a two, then a three then a four.  I need to keep the same word, now I just keep the same word I just keep changing the numbers.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+And once you get to ten you can recycle.
+
+DOCTOR G207
+Yeah I'm not @@@.
+
+PATIENT G207
+That's not smart that's just I'm that lazy so if all I've got to do is add one number I'm good to go.
+
+DOCTOR G207
+Do you have any foreign metal in your body?
+
+PATIENT G207
+No.
+
+DOCTOR G207
+Previous surgeries?
+
+PATIENT G207
+Nope it's all gone.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+There's nothing in there right now.
+
+DOCTOR G207
+Alright and we're gonna get you an Ortho consult cause Ortho may have to do something for the elbow.
+
+PATIENT G207
+Oh for the elbow.
+
+DOCTOR G207
+Uh-huh.
+
+PATIENT G207
+You know if I didn't have to pick her up so many different times a day the elbow would have had an adequate time to heal but being a single dad with a quadriplegic at home so it's not an option.  
+
+DOCTOR G207
+I'm gonna say I want to see you in a month or so @@@ in a month.  If I say within a week then they're gonna @@@.
+
+PATIENT G207
+Right yeah we want to do that.  Cause this happened Father's Day.  I thought it would've healed by now.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+About six weeks later hmm   
+
+DOCTOR G207
+And you've seen ENT in the past right?
+
+PATIENT G207
+They referred me to Oral Surgery because we didn't have an oral surgeon at the time.
+
+DOCTOR G207
+Because you have seen ENT you just have to make an appointment with them.
+
+PATIENT G207
+Okay.
+
+DOCTOR G207
+And then they can do that out there so make sure you make that with them before you leave today.
+
+PATIENT G207
+Okay.
+
+DOCTOR G207
+Okay.  And I think that's all we need to do.
+
+PATIENT G207
+Yeah the EMT is the one that said you need to see Oral Surgery.
+
+DOCTOR G207
+For the tooth.
+
+PATIENT G207
+For.
+
+DOCTOR G207
+The tooth.
+
+PATIENT G207
+Which was an issue and then they're the ones that helped push it through because they didn't have an oral surgeon in house at the time.
+
+DOCTOR G207
+Okay and now all of your labs came back really good. No diabetes.  So for somebody without diabetes your LDL as long as it's under 130 its okay.  Yours is at 101.
+
+PATIENT G207
+Yeah that’s a good number.
+
+DOCTOR G207
+If for some reason you got diabetes or any other hypertriglyceridemia then we want that to be closer to 70.
+
+PATIENT G207
+So 181, HDL of 49.
+
+DOCTOR G207
+So this is your total cholesterol number that everyone talks about and then this is the bad cholesterol that you always want to keep an eye on okay.
+
+PATIENT G207
+And the VA’s guideline is 130?
+
+DOCTOR G207
+So nationwide if you don't have any medical problems at all 130 is the goal or less.
+
+PATIENT G207
+Oh @@@.
+
+DOCTOR G207
+If you have hypertension, high cholesterol, anything like that.
+
+PATIENT G207
+Right.
+
+DOCTOR G207
+Then 100 is fine.  If you've got diabetes our goal is 70.  Excluding diabetes, diabetes is like the life expectancy of a patient with diabetes or just HIV in today's world, people with HIV have a normal life expectancy.
+
+PATIENT G207
+Uh-huh.
+
+DOCTOR G207
+People with diabetes don't.
+
+PATIENT G207
+Yeah.
+
+DOCTOR G207
+So diabetes is like one of those things that everyone has but they don't realize how bad it is.
+
+PATIENT G207
+Well I know guidelines for the insurance industry it's totally separate.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+Cause total of under 200 HDL is about 40, LDL is below of 100 and triglycerides below a 50.
+
+DOCTOR G207
+Yeah.  So for your insurance @@@.
+
+PATIENT G207
+Yep.
+
+DOCTOR G207
+So.  Your LDL is 101.
+
+PATIENT G207
+I can deal with that.
+
+DOCTOR G207
+So yeah.
+
+PATIENT G207
+And you have to stay 130 for LDL huh?
+
+DOCTOR G207
+Um for no medical problems at all.  For you, other than your musculoskeletal issues.
+
+PATIENT G207
+Okay.
+
+DOCTOR G207
+You don't really have anything else and you're not taking any medications for high blood pressure or anything.
+
+PATIENT G207
+No, no.
+
+DOCTOR G207
+You're fine.
+
+PATIENT G207
+I love it.
+
+DOCTOR G207
+You're doing fine.
+
+PATIENT G207
+I love it.
+
+DOCTOR G207
+Keep it that way.
+
+PATIENT G207
+I love it.
+
+DOCTOR G207
+Cause if your diet stays the same now rather than 10 years from now your body's going to react to your diet very differently 10 years from now.
+
+PATIENT G207
+Oh yeah.
+
+DOCTOR G207
+So your body will not produce these numbers.
+
+PATIENT G207
+I'll take it while I can get it though.  I'll take @@@ for a total.
+
+DOCTOR G207
+So.
+
+PATIENT G207
+Cause the last time it was 201 so it's gone down.
+
+DOCTOR G207
+Um you're not due for a flu shot right now.
+
+PATIENT G207
+Nope.
+
+DOCTOR G207
+Um okay you got the pneumonia.
+
+PATIENT G207
+So my cholesterol numbers went down, I like it.
+
+DOCTOR G207
+Yeah and.
+
+PATIENT G207
+The cholesterol went down, A1c is good, I haven't smoked in 3 1/2 years, yeah I'm not doing too bad.
+
+DOCTOR G207
+Okay, so take this and you can come back in another six months or a year.
+
+PATIENT G207
+Do it in six, I like to see you.
+
+DOCTOR G207
+Alright sounds good.  So make sure they make, they'll call you at this phone number, make sure you make the appointment for the next month out there.
+
+PATIENT G207
+Okay.
+
+DOCTOR G207
+Okay.
+
+PATIENT G207
+I’m just irked that he never sent anything to Pathology when he should have.
+
+DOCTOR G207
+Yeah.
+
+PATIENT G207
+That's just wrong.
+
+DOCTOR G207
+Yes it is.
+
+PATIENT G207
+Thank you ma'am.
+
+DOCTOR G207
+Very good, @@@.
+
+PATIENT G207
+Oh yeah.  How long are you here, two years?  @@@.
+
+DOCTOR G207
+I have one year left.
+
+PATIENT G207
+Okay.
+
+DOCTOR G207
+So next June.
+
+PATIENT G207
+I got to see you before you're all done too.  Okie dokie, thank you ma'am.
+
+DOCTOR G207
+Why don't you go upstairs and call @@@.
+
+PATIENT G207
+I'll make it @@@.
+
+DOCTOR G207
+@@@.
+
+PATIENT G207
+Thank you.  @@@.
+
+Time is:  10:05.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  38217
+TRANSACTION # 578-10-2-316-0103

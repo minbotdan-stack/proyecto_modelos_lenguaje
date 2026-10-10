@@ -1,0 +1,610 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@ 
+
+DOCTOR G672
+PATIENT?  How are you?
+
+PATIENT G672
+Not well.
+
+DOCTOR G672
+Thank you for waiting.  Good to see you.  Let me help you up here. 
+
+PATIENT G672
+Let me get my junk here.
+
+DOCTOR G672
+@@@.
+
+PATIENT G672
+I got a problem.
+
+DOCTOR G672
+Right this way.  Have a seat right here for me.  What are the problems today?
+
+PATIENT G672
+Well, I'm not @@@.
+
+DOCTOR G672
+I hear that you're not doing well.
+
+PATIENT G672
+No I'm not uh.  I don't quite know how to explain it but I got a general feeling of malaise.
+
+DOCTOR G672
+Yeah.
+
+PATIENT G672
+That I've had for some time, for months I would say.
+
+DOCTOR G672
+Hmm.
+
+PATIENT G672
+Uh it's like pins and needles.  I think it might be called, I don't know but what is that called you know uh.
+
+DOCTOR G672
+Neuropathy?
+
+PATIENT G672
+Yeah peripheral neuropathy.
+
+DOCTOR G672
+Yeah, yeah it could be.  So where are you having this feeling?
+
+PATIENT G672
+Um mostly all over.
+
+DOCTOR G672
+Any place uh worse than others?
+
+PATIENT G672
+Yeah in my hands, fingers.
+
+DOCTOR G672
+And how long has this been going on?
+
+PATIENT G672
+Feet, ankles.
+
+DOCTOR G672
+How long have you had this?
+
+PATIENT G672
+Oh I've had this for I'd say six months now.
+
+DOCTOR G672
+So this has been going on for six months and its worse in the fingers, the toes.
+
+PATIENT G672
+Arms, legs.  It can be anywhere, stabbing pains.
+
+DOCTOR G672
+Alright.
+
+PATIENT G672
+Like needles going into my legs, arms, my face and scalp.
+
+DOCTOR G672
+And when does this happen, every day?
+
+PATIENT G672
+Yeah just about every day.
+
+DOCTOR G672
+Okay.  And are there things that make it worse?
+
+PATIENT G672
+Um I guess mainly when I'm lying down.
+
+DOCTOR G672
+Is it worse at night or?
+
+PATIENT G672
+Yeah I think it's worse at night although it can occur at any time.
+
+DOCTOR G672
+Okay, worse at night and it's causing you a lot of discomfort?
+
+PATIENT G672
+Yes very much.
+
+DOCTOR G672
+Okay.
+
+PATIENT G672
+Very much.
+
+DOCTOR G672
+And to the best of my knowledge you are not a diabetic is that right?
+
+PATIENT G672
+That's right.
+
+DOCTOR G672
+You don't have diabetes.
+
+PATIENT G672
+Not that I know of, although one of my tests was borderline they said.
+
+DOCTOR G672
+The glucose or your sugar?  Your sugar was borderline huh?
+
+PATIENT G672
+I think so.
+
+DOCTOR G672
+Yeah I don't know if you were fasting during these but you've had some that were slightly high.
+
+PATIENT G672
+Blood sugar.
+
+DOCTOR G672
+Yeah.  Yeah.  Let's see, let’s check to see if they did another test on you.  Have you ever had this problem with the tingling before?
+
+PATIENT G672
+No.
+
+DOCTOR G672
+No okay.
+
+PATIENT G672
+No I think in the last six months or so, maybe longer.  But it's a very weird feeling.  Just I can't relax.  I never feel relaxed.  It's just a general feeling of malaise.
+
+DOCTOR G672
+Okay.
+
+PATIENT G672
+It's pretty bad.
+
+DOCTOR G672
+And how are you feeling since getting that tumor resected?
+
+PATIENT G672
+That didn't seem any different you know.
+
+DOCTOR G672
+Did you do okay with the surgery?
+
+PATIENT G672
+Yeah the surgery was good.
+
+DOCTOR G672
+But you're still feeling tired is that right?
+
+PATIENT G672
+Tired yeah.  Yeah I do feel tired.  
+
+DOCTOR G672
+Let's see.  I'm just looking back to see when we last saw the endocrine doctors.  
+
+PATIENT G672
+Yeah DOCTOR.
+
+DOCTOR G672
+Yeah, let's see here they checked your thyroid.
+
+PATIENT G672
+I'm taking all these medicines.
+
+DOCTOR G672
+Yeah you're on a bunch.
+
+PATIENT G672
+I wonder could some of those be causing a problem?
+
+DOCTOR G672
+Hmm.  Are you having any other problems?  
+
+PATIENT G672
+Um, well the last, yesterday I came down with this illness.  A very uh, almost like a flu, flu-like symptoms and it came yesterday.  Today I felt so bad I didn't know if I was going to be able to drive to the hospital you know.
+
+DOCTOR G672
+Okay what kind of symptoms like, you’re sick to your stomach, do you have fevers?
+
+PATIENT G672
+No fever I don't think but uh.  Yeah my stomach was upset this morning.  I had some nausea.
+
+DOCTOR G672
+Stomach's upset alright.  Nausea and did you vomit?
+
+PATIENT G672
+No.
+
+DOCTOR G672
+Okay do you have fevers?
+
+PATIENT G672
+I don't think so no.
+
+DOCTOR G672
+Chills?
+
+PATIENT G672
+I had the sweats.  I was sweating then it went away then it came back.  I was just sitting down here in that chair and then it went away.
+
+DOCTOR G672
+Okay.  Alright and what about um like muscle aches, muscle pains, those kind of problems?
+
+PATIENT G672
+No.
+
+DOCTOR G672
+Okay.
+
+PATIENT G672
+No no muscle pains.
+
+DOCTOR G672
+Okay.  So are you feeling better now or worse?
+
+PATIENT G672
+I think at the moment I feel better although I'm achy like flu symptoms.
+
+DOCTOR G672
+Yeah.
+
+PATIENT G672
+Which I've had since yesterday.
+
+DOCTOR G672
+Yeah.
+
+PATIENT G672
+Yeah kind of achy.
+
+DOCTOR G672
+Uh-huh.  Let's see, I'm just looking here about when you saw the neurologist last time.  
+
+PATIENT G672
+Quite a while ago.
+
+DOCTOR G672
+So you saw them in January and.
+
+PATIENT G672
+Yeah she gave me gabapentin.
+
+DOCTOR G672
+Yeah.
+
+PATIENT G672
+I don't know if that does any good or not.
+
+DOCTOR G672
+Um, gabapentin can work really well if you're on the right amount.  How much are you taking now?
+
+PATIENT G672
+I'm taking two.
+
+DOCTOR G672
+You're taking two at night?  Uh do you want.
+
+PATIENT G672
+I changed it to three; I went up to three at night.
+
+DOCTOR G672
+Okay and is that helping at all?
+
+PATIENT G672
+I don't think it's any better than it was when I was taking one.
+
+DOCTOR G672
+Oh okay.  You don't think it's any better huh?
+
+PATIENT G672
+I beg your pardon?
+
+DOCTOR G672
+It's not any better?
+
+PATIENT G672
+No, I don't think so.
+
+DOCTOR G672
+Okay.  Alright.  Let's see.  
+
+PATIENT G672
+I just taking that new one.  I just started taking the @@@.
+
+DOCTOR G672
+Let's see, okay.  How's your vision?  Has it gotten better since they took that, removed the tumor?
+
+PATIENT G672
+Yeah it has.  My peripheral vision is better in my good eye.  I've only got one good eye.
+
+DOCTOR G672
+Alright.  So that did get better.
+
+PATIENT G672
+Yes.
+
+DOCTOR G672
+Good.
+
+PATIENT G672
+Yeah.
+
+DOCTOR G672
+Alright.  Are you still seeing a cardiologist outside of here?
+
+PATIENT G672
+Uh no, no I'm not.
+
+DOCTOR G672
+You see cardiology here.
+
+PATIENT G672
+I haven't seen a cardiologist for quite a while.  I don't remember when my last appointment was uh.
+
+DOCTOR G672
+Okay.
+
+PATIENT G672
+My blood pressure is good.
+
+DOCTOR G672
+You probably do have, you're just right on the borderline of diabetes and uh right now it's not really bad enough that we would probably treat it.
+
+PATIENT G672
+Uh-huh.
+
+DOCTOR G672
+But we do want to keep an eye on it.
+
+PATIENT G672
+Okay.
+
+DOCTOR G672
+Let's see.  Are you urinating okay?  You're following with Urology how's that?
+
+PATIENT G672
+Yeah I'm taking that new medication.  I just started that a couple days ago, tolterodine and that helps.
+
+DOCTOR G672
+It does.
+
+PATIENT G672
+Yeah because I was having to go every hour or so.
+
+DOCTOR G672
+Okay.
+
+PATIENT G672
+And now I'm only about two or three times a night.
+
+DOCTOR G672
+Okay.
+
+PATIENT G672
+So that seemed to help.
+
+DOCTOR G672
+Let's see.  Your cholesterol looks good.  Check the CBC alright.  So we can help you out with this numbness and tingling a little bit, that would.
+
+PATIENT G672
+Oh that would be great.
+
+DOCTOR G672
+That would be the best thing.
+
+PATIENT G672
+Yes.
+
+DOCTOR G672
+Have a seat up here for me.
+
+PATIENT G672
+I really hate that feeling.
+
+DOCTOR G672
+Well how's your wife doing?
+
+PATIENT G672
+She's doing great.
+
+DOCTOR G672
+Sometimes she's here with you.
+
+PATIENT G672
+I beg your pardon?
+
+DOCTOR G672
+Some days I've seen her here with you.
+
+PATIENT G672
+Yeah.
+
+DOCTOR G672
+How is like your memory and everything like that doing?
+
+PATIENT G672
+Good, I think.
+
+DOCTOR G672
+Slip off your glasses for me.  Look straight ahead.  Open your mouth.  Okay.  @@@.  Are you uh doing most things on your own, like your day to day stuff, or does your wife help you out?
+
+PATIENT G672
+Oh yeah.  I do most things on my own.
+
+DOCTOR G672
+Okay take some big breaths, again alright, relax.  Stomach is okay?
+
+PATIENT G672
+Yeah.
+
+DOCTOR G672
+Any blood in the stool?
+
+PATIENT G672
+No.
+
+DOCTOR G672
+Black stool?
+
+PATIENT G672
+No.
+
+DOCTOR G672
+Okay.  Alright.
+
+PATIENT G672
+Do you think that anything can be done for that feeling I have?
+
+DOCTOR G672
+I don't know.  I mean that can be a tough thing to treat.  I mean gabapentin can be a good drug but the problem is you have to get it up to a high enough dose or it doesn't do much.
+
+PATIENT G672
+Oh.  Okay, well I'm taking three presently.
+
+DOCTOR G672
+I know.  Let me go chat with one of my bosses back here.  I'll be right back in okay.
+
+PATIENT G672
+Okay.
+
+(DOCTOR OUT: 95:45  DOCTOR IN:  98:41)
+
+DOCTOR G672
+Thank you sir.  Taking a nap there?
+
+PATIENT G672
+Yeah.
+
+DOCTOR G672
+You know, if you want to, I'm waiting for one of the attendings, one of my bosses back there.  He's in the middle of something.
+
+PATIENT G672
+Uh-huh.
+
+DOCTOR G672
+Um so if you don't mind I can go ahead and have you kind of get the check-out process started.  Um just don't leave um.  After you check out, you know the Waiting Room up front?
+
+PATIENT G672
+Yeah.
+
+DOCTOR G672
+You know what I'm talking about?  Can you just wait there until I come and talk to you?  Um I don't you to, I feel bad you having to sit here um.
+
+PATIENT G672
+Yeah.
+
+DOCTOR G672
+Um you know I think it might speed it up a little bit you getting out of here and getting home uh.
+
+PATIENT G672
+Yeah.
+
+DOCTOR G672
+Uh I guess he's in the middle of admitting a patient to the hospital.
+
+PATIENT G672
+How long do you think it'll be?
+
+DOCTOR G672
+Five minutes.
+
+PATIENT G672
+Oh okay.
+
+DOCTOR G672
+But I just hate for you to have to sit here so I was thinking, what I'm thinking about doing is uh you know you're due for some blood testing uh, just to check the sugar and the cholesterol.
+
+PATIENT G672
+Yeah.
+
+DOCTOR G672
+Um and I'm gonna talk to him about the neuropathy pain to see if he agrees with.  See part of the thing is you're also seeing Neurology, who are kind of helping manage that so I don't want to step on their toes and change what they were doing but I think we may be able to help you out somewhere.  Uh.
+
+PATIENT G672
+Yeah.
+
+DOCTOR G672
+Let's uh, if you want, as long as you promise me that you're not gonna escape on me before I talk to you, this may just help speed things up.  So if you want to go check out okay and uh then I'll come find you in the Waiting Room.
+
+PATIENT G672
+In the Waiting Room okay.
+
+DOCTOR G672
+Yep, sound good?
+
+PATIENT G672
+Okay there's one thing that I was supposed to, the nurse left me a note here.
+
+DOCTOR G672
+Oh yeah what's this?
+
+PATIENT G672
+I see that the lisinopril, the lisinopril is not on the list.  
+
+DOCTOR G672
+@@@ list.  So it looks like lisinopril needs to be added to your online prescription list.  You've been taking this @@@ since your tumor surgery and your blood pressure is stable.
+
+PATIENT G672
+Yeah she uh, she orders it on the internet and she says it's not on the list.
+
+DOCTOR G672
+Where do you get it?  Do you get it from the VA or you get it from somewhere else?
+
+PATIENT G672
+No, from the VA.
+
+DOCTOR G672
+Cause I don't think you've been getting it from us.  Did they give it to you at Loyola?
+
+PATIENT G672
+Uh I'm pretty sure I've been getting it from the VA.
+
+DOCTOR G672
+It says since your tumor surgery, so I wonder if they put you on that at Loyola.
+
+PATIENT G672
+Oh maybe.
+
+DOCTOR G672
+Hmm.  
+
+PATIENT G672
+You know what I think it's on my list.
+
+DOCTOR G672
+I don't think it's on your list.  @@@ potassium, @@@.
+
+PATIENT G672
+Oh I guess not.
+
+DOCTOR G672
+So you must be getting it from somewhere else.
+
+PATIENT G672
+Okay.
+
+DOCTOR G672
+Okay.
+
+PATIENT G672
+Can you add that to the list cause she wants to order all my medications.  She usually gets it from the VA on the internet yeah.
+
+DOCTOR G672
+Alright and your blood pressure was good today huh?  Yeah.
+
+PATIENT G672
+@@@.
+
+DOCTOR G672
+I'll make sure it's okay with my boss alright.
+
+PATIENT G672
+Okay.  I'll get checked out okay.  Hmm.  I'm going to check out.
+
+PATIENT LEAVES:  103:10.
+
+Time is 5:44.
+
+
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238105
+TRANSACTION # 578-10-2-316-0103

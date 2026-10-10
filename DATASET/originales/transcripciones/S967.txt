@@ -1,0 +1,1064 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+DOCTOR S967
+PATIENT?
+
+PATIENT S967
+Hey, hey, hello.  I just went to the back door.  How are you?
+
+DOCTOR S967
+Good morning.
+
+PATIENT S967
+Everybody @@@.
+
+DOCTOR S967
+@@@.
+
+PATIENT S967
+@@@.  I got me a new one, sit here?
+
+DOCTOR S967
+Yeah.
+
+PATIENT S967
+Alright.
+
+DOCTOR S967
+I'm DOCTOR.
+
+PATIENT S967
+Okay you gonna be my doctor from now on?
+
+DOCTOR S967
+Uh I think so.
+
+PATIENT S967
+Okay good.
+
+DOCTOR S967
+Why?
+
+PATIENT S967
+Um.
+
+DOCTOR S967
+You haven't been here in a while huh?
+
+PATIENT S967
+I thought I had guy here that used to be here.  I don't know what happen to him.
+
+DOCTOR S967
+Uh you saw DOCTOR last time.  He wasn't here for a while so, for about a month, cause he was doing something else and he didn't have clinics.  But he's back now if you want to go back to see him next time.
+
+PATIENT S967
+Well I got you know so let's do it.
+
+DOCTOR S967
+And I mean, we work together um.
+
+PATIENT S967
+Yeah.
+
+DOCTOR S967
+And we both work with DOCTOR so.
+
+PATIENT S967
+I understand, my thing is just I'm uncomfortable with what I'm about to ask you.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+Which I'm still trying to conjure up the energy and nerve to do it.
+
+DOCTOR S967
+Okay what's that?
+
+PATIENT S967
+Give me a minute.
+
+DOCTOR S967
+Alright.  So let's just go over some of your other medical problems.  Um your diabetes.
+
+PATIENT S967
+Yes.
+
+DOCTOR S967
+What are you taking now for the diabetes?
+
+PATIENT S967
+I don't even remember.  I've took so much and this is a new one I haven't even started for about maybe three or four weeks ago.
+
+DOCTOR S967
+Okay are you doing your blood draws?  How many pills are you taking?
+
+PATIENT S967
+I am taking one of those large ones.  I wish I had.
+
+DOCTOR S967
+You didn't bring them with you?
+
+PATIENT S967
+No.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+It's working.
+
+DOCTOR S967
+Are you taking aspirin every day?
+
+PATIENT S967
+Yes.
+
+DOCTOR S967
+Okay.  Um are you taking the lisinopril?  You're taking the full tablet for your blood pressure now?
+
+PATIENT S967
+Yes I am.  I didn't take it this morning cause I was running late, I just ran out.
+
+DOCTOR S967
+Okay.  Um cause your blood pressure is high today.
+
+PATIENT S967
+Is it higher than last time?
+
+DOCTOR S967
+Um, let me see what it was last time, yes.
+
+PATIENT S967
+Higher?
+
+DOCTOR S967
+Uh-huh.
+
+PATIENT S967
+I didn't take it today.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+@@@.
+
+DOCTOR S967
+Alright and are you taking the metformin?
+
+PATIENT S967
+Which one is that?
+
+DOCTOR S967
+So that one is the one that um the pharmacist increased you from a couple weeks ago.
+
+PATIENT S967
+Yes.
+
+DOCTOR S967
+You're taking that?
+
+PATIENT S967
+Yes.
+
+DOCTOR S967
+And you're taking the higher dose?
+
+PATIENT S967
+Yes I'm taking all the latest things that they issued to me, that's all I have.
+
+DOCTOR S967
+Okay and you're taking.
+
+PATIENT S967
+The medication list is up-to-date.
+
+DOCTOR S967
+Okay did you take your diabetes medicines today?
+
+PATIENT S967
+I took what I had on me cause like I said I this little thing.
+
+DOCTOR S967
+A pill box.
+
+PATIENT S967
+Yeah.
+
+DOCTOR S967
+Okay.  Um.
+
+PATIENT S967
+@@@.
+
+DOCTOR S967
+It's important to take it every day.
+
+PATIENT S967
+I do, that's a fact.
+
+DOCTOR S967
+Um some of the other things, last time we checked your urine everything looked okay, except you have a lot of sugar in it okay.
+
+PATIENT S967
+Yeah I know.
+
+DOCTOR S967
+Cause your diabetes isn't that well controlled.
+
+PATIENT S967
+Right.
+
+DOCTOR S967
+Um did the pharmacist talk to you about what all of your options are if your sugars aren't controlled on these medicines?
+
+PATIENT S967
+No.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+I'm working on just taking the medication and just.
+
+DOCTOR S967
+Yeah I mean.
+
+PATIENT S967
+It's really better.
+
+DOCTOR S967
+You've only been on it a couple weeks so I don't think it's time to recheck the blood tests yet okay.  Um but just so you know if we max out on pills.
+
+PATIENT S967
+@@@ gonna take the insulin.
+
+DOCTOR S967
+Yeah that's the next step.  I mean we're not to that point yet but just so you know that.
+
+PATIENT S967
+I'm not looking forward to that.
+
+DOCTOR S967
+So some of the things you can do is watch your diet.  I don't know what kind of things you eat right now.
+
+PATIENT S967
+I don't eat red meat that much.
+
+DOCTOR S967
+Uh-huh.
+
+PATIENT S967
+What I'm eating, I'm eating salmon and eating shrimp and occasional once or twice a month I'll have pork chops.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+Uh.
+
+DOCTOR S967
+What about sugar?  Like are you eating a lot of carbs like pasta, rice, white bread?
+
+PATIENT S967
+I eat uh wheat bread.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+Oat bran, wheat.
+
+DOCTOR S967
+Okay wheat.
+
+PATIENT S967
+Uh.
+
+DOCTOR S967
+What about, do you eat a lot of sugar?
+
+PATIENT S967
+I eat a lot of, I eat those mixed nuts.
+
+DOCTOR S967
+Okay good.  It sounds like your diet is pretty good then.  You don't eat a lot of sugars or sweets or anything like that?
+
+PATIENT S967
+I have, I have sweets that I've bought but it's an occasional and I keep them in the refrigerator.  I have chocolate you know and every once in a while I have one.
+
+DOCTOR S967
+They make sugar free stuff too.
+
+PATIENT S967
+Where?
+
+DOCTOR S967
+Uh a lot of stores carry them.
+
+PATIENT S967
+I only shop at Aldi's because it's more affordable for me.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+It's closer.
+
+DOCTOR S967
+Yeah.
+
+PATIENT S967
+But I'll.
+
+DOCTOR S967
+Yeah, you know just keep eye on it for um.
+
+PATIENT S967
+Right.
+
+DOCTOR S967
+I mean they don't make everything sugar free but they make some stuff sugar free now um and that would help.  Weight loss will help with both the blood pressure.
+
+PATIENT S967
+No good but.
+
+DOCTOR S967
+And then.
+
+PATIENT S967
+They weighed me here before the appointment.  When I don't have everything I'm in the 252, 253.
+
+DOCTOR S967
+Yeah.
+
+PATIENT S967
+So that's not accurate.
+
+DOCTOR S967
+And you seem like a you know like a muscular guy but.
+
+PATIENT S967
+I used to be a power lifter.
+
+DOCTOR S967
+Yeah.  Still any amount of weight loss helps okay.  Just uh, something to think about.
+
+PATIENT S967
+I'm a maintenance engineer in my building.  I @@@ everybody can handle that so.  It's a 16 unite.
+
+DOCTOR S967
+Yeah.
+
+PATIENT S967
+@@@ carrying tools, I'm not.
+
+DOCTOR S967
+It sounds like you're active then.
+
+PATIENT S967
+Yes.
+
+DOCTOR S967
+Yeah.
+
+PATIENT S967
+What they told me is that maybe I should get some, a little cardio.
+
+DOCTOR S967
+Yeah.
+
+PATIENT S967
+Which I try to but it's hard to do with this weather.
+
+DOCTOR S967
+It is hard for you to do.
+
+PATIENT S967
+The beat down weather.
+
+DOCTOR S967
+Yeah um, as the weather gets nicer then maybe it'll get easier.
+
+PATIENT S967
+Uh I like to go to the park.  I've been wanting to bike ride but then again I don't know if it's @@@ where I live.
+
+DOCTOR S967
+No I.
+
+PATIENT S967
+@@@.
+
+DOCTOR S967
+I.
+
+PATIENT S967
+No, I'm over here on Lawndale and Roosevelt @@@ that's a war zone there you know, because of @ fire.
+
+DOCTOR S967
+Uh-huh.
+
+PATIENT S967
+Fights you know.
+
+DOCTOR S967
+Yeah no I understand @@@.
+
+PATIENT S967
+Cause it's trick to sleep there.
+
+DOCTOR S967
+The um, they have a MOVE Program here.  Have anyone talked to you about that?
+
+PATIENT S967
+I can't move because you know what.
+
+DOCTOR S967
+Well that's, no it's called the MOVE Program.  It's to help people diet and exercise.
+
+PATIENT S967
+Oh.
+
+DOCTOR S967
+It's not about moving, no, no, no, no.  It's um every Monday at 10 a.m. they meet in the Library and they talk.  They help people get you know set up with exercise.
+
+PATIENT S967
+Yeah.
+
+DOCTOR S967
+And stuff like that yeah.
+
+PATIENT S967
+Oh that'd be great.
+
+DOCTOR S967
+So um it's every Monday so you're more than.
+
+PATIENT S967
+Just once a week?
+
+DOCTOR S967
+Well the first meeting they have an introductory meeting every Monday and then from there they I believe they have other times um to work around your schedule.
+
+PATIENT S967
+That @@@ going through I been through.
+
+DOCTOR S967
+Yeah, yeah.
+
+PATIENT S967
+@@@ and if I could go maybe.  Like I said I used to be a power lifter.  I used to train people so I'm just going to have to just fall back into that cause making it over here every Monday @@@.
+
+DOCTOR S967
+But no you don't have to go every Monday but going once and then getting you know into maybe going once a month or something like that.
+
+PATIENT S967
+That's possible.  Once a week it okay because it would be tough.
+
+DOCTOR S967
+Yeah, yeah.  Just so you know that service is there um it's a walk-in and you don't need any forms or anything.  It's Monday at 10 a.m. okay.
+
+PATIENT S967
+Okay.
+
+DOCTOR S967
+Um let's see now you were just in the Urgent Care a few weeks ago with some knee pain?
+
+PATIENT S967
+I still got it.
+
+DOCTOR S967
+How's that doing?
+
+PATIENT S967
+It got better at one point and it started to regress and I think I might need it either x-rayed or scoped.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+@@@.
+
+DOCTOR S967
+Um what are you taking for it right now?
+
+PATIENT S967
+I was taking all along, the ibuprofen uh.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+I've been icing it on and off.  I stopped icing cause it got better.
+
+DOCTOR S967
+Has this swollen?
+
+PATIENT S967
+Uh-huh it's really sore.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+It gets stiff, it gets you know.
+
+DOCTOR S967
+Why don't we have you go see the orthopedic doctors okay?
+
+PATIENT S967
+Alrighty.
+
+DOCTOR S967
+And they'll decide if they need to do um you know, if they need an MRI or if they want to do a scope.  You had knee surgery you had torn cartilage in that knee in the past right?
+
+PATIENT S967
+Yeah that same @@@ yeah.
+
+DOCTOR S967
+Uh it's your right knee correct?
+
+PATIENT S967
+Correct.
+
+DOCTOR S967
+Okay.  Alright so let's see what else um.  You got your um flu shots last time?
+
+PATIENT S967
+I got my flu shot and uh H1N1.
+
+DOCTOR S967
+Okay great and they gave you the pneumonia shot?
+
+PATIENT S967
+Yes.  I didn't want to take a chance you know.
+
+DOCTOR S967
+Yeah.  Um have you gotten your tetanus shot?
+
+PATIENT S967
+Uh I want to.
+
+DOCTOR S967
+Okay let me put that in so we don't forget.
+
+PATIENT S967
+Yeah cause I do a lot of @@@.
+
+DOCTOR S967
+When was your last tetanus shot?
+
+PATIENT S967
+I don't recall that's how far back.
+
+DOCTOR S967
+Okay.  So I'm gonna give you, they now recommend getting um.  There are two different types of tetanus shots.  One just has tetanus and diphtheria; one has those two and then whooping cough in it too.
+
+PATIENT S967
+What's the best?  What is the best?
+
+DOCTOR S967
+I'm gonna give you the one with whooping cough then you don't have to get that ever again.  It's a booster of the whooping cough that you got when you were a kid.
+
+PATIENT S967
+Alrighty.
+
+DOCTOR S967
+You just need it once.
+
+PATIENT S967
+Alright.
+
+DOCTOR S967
+And in a month.
+
+PATIENT S967
+Okay.
+
+DOCTOR S967
+Alright so we're gonna give that to you today um and the next time you'll just get the regular one.  Um you go see the psychiatrist right?
+
+PATIENT S967
+Yes I do.
+
+DOCTOR S967
+No problems there.  Have you made your appointment for the colonoscopy?
+
+PATIENT S967
+You know what happened, I had to reschedule it.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+I called and told them already.
+
+DOCTOR S967
+Yeah.
+
+PATIENT S967
+Cause I see them in the morning.
+
+DOCTOR S967
+Yeah so you've been scheduled for tomorrow at 8:30.
+
+PATIENT S967
+I know.
+
+DOCTOR S967
+Do you know that?
+
+PATIENT S967
+That's the one I'm canceling.
+
+DOCTOR S967
+Oh did you call and cancel it already?
+
+PATIENT S967
+Yeah.
+
+DOCTOR S967
+Okay, alright.
+
+PATIENT S967
+Yes.
+
+DOCTOR S967
+Oh so you uh, sounds like you have it under control.
+
+PATIENT S967
+I'm all over it.
+
+DOCTOR S967
+Okay.  Alright well I think um today we'll get you to see the orthopedic, we'll get that.
+
+PATIENT S967
+Today?
+
+DOCTOR S967
+Well the appointment won't be today.  It'll probably be in a week or two.
+
+PATIENT S967
+Or something in the mail?
+
+DOCTOR S967
+Um you can make your appointment at the front desk.
+
+PATIENT S967
+Okay what they, basically, are you able to prescribe if I needed something or requested something through you?
+
+DOCTOR S967
+Uh that depends, what are you asking for?  It depends.
+
+PATIENT S967
+Uh I need to see if I can try Cialis.
+
+DOCTOR S967
+Okay.  I thought that was what you were gonna ask.
+
+PATIENT S967
+Just, I'm not enjoying this at all.
+
+DOCTOR S967
+No um, what we have here is, we don't carry Cialis here at the VA.  We have um Levitra, similar type of medicine.
+
+PATIENT S967
+What does it do?  @@@.
+
+DOCTOR S967
+Yeah it's, it works the same but it's a different means okay.  Viagra, Cialis, Levitra they all do the same thing okay.  Um it's just which one you're seeing on TV more.  So.
+
+PATIENT S967
+And then, I was okay with the diabetes @@@ but once the high blood pressure kicked in I'm. 
+
+DOCTOR S967
+Yeah, all this stuff and that's another reason to get @@@ under control.
+
+PATIENT S967
+Yeah I hear that.
+
+DOCTOR S967
+I, so I can give you that today.
+
+PATIENT S967
+Give me what?
+
+DOCTOR S967
+The medicine.
+
+PATIENT S967
+Levitra?
+
+DOCTOR S967
+Yes.
+
+PATIENT S967
+Okay great.
+
+DOCTOR S967
+Okay.  Um and.
+
+PATIENT S967
+How does that work?  I had never @@@ about this, never.
+
+DOCTOR S967
+So it, it works on the blood supply.
+
+PATIENT S967
+@@@.
+
+DOCTOR S967
+You want the technical stuff?
+
+PATIENT S967
+I'm a 40-year-old so explain it to me.
+
+DOCTOR S967
+So you take it before intercourse.
+
+PATIENT S967
+Okay.
+
+DOCTOR S967
+Um.  It helps you to have an erection.
+
+PATIENT S967
+Okay.
+
+DOCTOR S967
+Um and you have um.
+
+PATIENT S967
+How do you take a, excuse what?
+
+DOCTOR S967
+Yeah.
+
+PATIENT S967
+Half hour before, 10 minutes, right then when?  When is the best time?
+
+DOCTOR S967
+Uh you can, it's best to take it 15, 20 minutes it you want or right then.  It doesn't really matter.  Um it works pretty quickly.
+
+PATIENT S967
+So like I said I'm, this is all new to me.
+
+DOCTOR S967
+Okay.  When you take it.
+
+PATIENT S967
+And I'm hoping not to need it.
+
+DOCTOR S967
+When you pick it up at the Pharmacy.
+
+PATIENT S967
+@@@.
+
+DOCTOR S967
+They can give you a handout too of.
+
+PATIENT S967
+Ohh.
+
+DOCTOR S967
+You know how it works, side effects, all that kind of stuff.
+
+PATIENT S967
+Alright.
+
+DOCTOR S967
+Okay.
+
+PATIENT S967
+That's good, that's good.
+
+DOCTOR S967
+They have handouts there so I'm gonna put it here that you're gonna pick it up at the Pharmacy today.
+
+PATIENT S967
+Yes please.
+
+DOCTOR S967
+Okay and I'll give you two refills and.
+
+PATIENT S967
+How many do they come?
+
+DOCTOR S967
+They only give you two a month.
+
+PATIENT S967
+Two a month?
+
+DOCTOR S967
+I know, everybody complains about it.  I have no control over that though.
+
+PATIENT S967
+That's not good.  That's not good at all.
+
+DOCTOR S967
+That's all, um I'm gonna give you the lower dose right now okay.
+
+PATIENT S967
+Okay.
+
+DOCTOR S967
+Um and when you come back if it's not working we can go up to the higher dose so let us know.
+
+PATIENT S967
+Okay.
+
+DOCTOR S967
+Whether you see me or DOCTOR okay.
+
+PATIENT S967
+Okay alrighty.
+
+DOCTOR S967
+Alright.  Come up here and have a seat.
+
+PATIENT S967
+I'm gonna walk now.  Last time I was able to walk it.
+
+DOCTOR S967
+@@@.
+
+PATIENT S967
+Uh I guess it's the @@@ benefit.
+
+DOCTOR S967
+Deep breath.  No pain in the belly or anything?  Your feet ever swell?
+
+PATIENT S967
+Sometimes, not often.
+
+DOCTOR S967
+Can you pull up your jeans so I can see your knees?  @@@ get them up.  So where does it hurt?
+
+PATIENT S967
+Right in here.
+
+DOCTOR S967
+In the back.
+
+PATIENT S967
+Yeah. Swollen.
+
+DOCTOR S967
+Okay.  No swelling up in the front though.
+
+PATIENT S967
+A little bit, maybe just compared to the other one.
+
+DOCTOR S967
+Okay I'm just going to move your leg @@@, let it down just a little bit.  Lay back for me.
+
+PATIENT S967
+That's it.
+
+DOCTOR S967
+@@@ with this.
+
+PATIENT S967
+None of that hurts.
+
+DOCTOR S967
+Relax, let me move it.
+
+PATIENT S967
+Yeah.  
+
+DOCTOR S967
+Right here for a little bit.
+
+PATIENT S967
+Right here and I get it when you do that.
+
+DOCTOR S967
+Okay sit back up.   But you know it's not swollen or anything.  I feel um some arthritis in there.
+
+PATIENT S967
+Uh-huh.
+
+DOCTOR S967
+So um I think we'll get you in to see the orthopedic doctors and we'll let them.
+
+PATIENT S967
+Okay.
+
+DOCTOR S967
+Alright.  Let me go talk to um DOCTOR and I'll be right back.
+
+PATIENT S967
+Alright.
+
+(DOCTOR OUT:  47:09  DOCTOR IN:  49:47)
+
+DOCTOR S967
+Alright, you can sit over here.
+
+PATIENT S967
+@@@.
+
+DOCTOR S967
+Your knee?
+
+PATIENT S967
+Yeah I started icing it.
+
+DOCTOR S967
+Uh-huh.
+
+PATIENT S967
+And it was a little better today but yesterday it was kind of stiff.
+
+DOCTOR S967
+Okay.  Um.  Do you want to go to Physical Therapy or anything?
+
+PATIENT S967
+Um, um my thing is this uh I want to say that I want to go the shortest route.  I don't want to have to put in a lot of therapy and wind up getting cut.
+
+DOCTOR S967
+Uh-huh.
+
+PATIENT S967
+Now I say if they see what's wrong and they need to open it, open it or not.
+
+DOCTOR S967
+They usually recommend sending you to Physical Therapy before they see them.  I may have to send you.
+
+PATIENT S967
+Alright let's do it that way.
+
+DOCTOR S967
+Um.  Um we need to get an x-ray today.
+
+PATIENT S967
+I'm getting an x-ray today?
+
+DOCTOR S967
+You need, they need an x-ray of the knee before you can see them.
+
+PATIENT S967
+Okay that's @@.
+
+DOCTOR S967
+Um.  So do you know where X-Ray is?
+
+PATIENT S967
+No cause I @@@ find it.
+
+DOCTOR S967
+So if you go back towards the hallway @@@ um on the, if you were walking go upstairs, it's on the left and then you'll follow some elevators, go past the elevators.  They can point it out to you.
+
+PATIENT S967
+Alright if I get lost they'll tell me.
+
+DOCTOR S967
+Uh but definitely stop at the front desk anyway and um schedule the orthopedic appointment.  Schedule the orthopedic appointment um and then go get your x-ray and then go to the Pharmacy.  That'll cut down on the time waiting in the Pharmacy.  I'm going to put in for you to come back in three months.
+
+PATIENT S967
+That'll be my next visit with you or with someone else?
+
+DOCTOR S967
+With me or do you want to come back and see me or do want to see DOCTOR?  It's up to you.
+
+PATIENT S967
+The cat's out of the bag now, it doesn't matter now.
+
+DOCTOR S967
+Um I'll just put with me but you can see whoever's available okay.
+
+PATIENT S967
+Alright.
+
+DOCTOR S967
+Um before you come in that morning I want you to get some lab tests drawn before you see me.
+
+PATIENT S967
+Come in early and go down and get some labs.
+
+DOCTOR S967
+Yeah.  So I want to check your.
+
+PATIENT S967
+Sugars?
+
+DOCTOR S967
+Check your sugars um, I want to check your um the diabetes, the hemoglobin A1c.  You know what that is right?  It tells us how your sugars have been over three months.
+
+PATIENT S967
+Right.
+
+DOCTOR S967
+Yeah so um, we'll check that before you come in um, @@@ that's all alrighty.
+
+PATIENT S967
+Alright.  Can you read them?
+
+DOCTOR S967
+Any questions?
+
+PATIENT S967
+No.
+
+DOCTOR S967
+Take this up to the front.
+
+PATIENT S967
+@@@.
+
+DOCTOR S967
+And then you can get your um.
+
+PATIENT S967
+What the x-ray, straight from here?
+
+DOCTOR S967
+So go up to the front desk and schedule the orthopedic appointment and then get your x-ray.
+
+PATIENT S967
+Is this the orthopedic appointment?
+
+DOCTOR S967
+Yeah it has it on there.
+
+PATIENT S967
+And go on to x-ray.
+
+DOCTOR S967
+And then get your tetanus shot.
+
+PATIENT S967
+Where?
+
+DOCTOR S967
+The nurses can give it to you.  The same nurse that checked in you in. okay.
+
+PATIENT S967
+Alrighty.  Thank you very much.
+
+DOCTOR S967
+Alright, no problem.
+
+PATIENT S967
+Have a good day.
+
+DOCTOR S967
+You too.
+
+PATIENT S967
+@@@.
+
+DOCTOR S967
+@@@.
+
+PATIENT LEAVES:  54:22
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255172
+TRANSACTION # 578-10-2-316-0103

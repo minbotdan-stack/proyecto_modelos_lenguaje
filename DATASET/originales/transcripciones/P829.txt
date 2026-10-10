@@ -1,0 +1,864 @@
+AUDIO NAME:  P829
+TIME STARTED: @@@
+DR. ENTERS:   @@@
+
+DOCTOR P829  
+
+PATIENT P829
+@@@
+
+DOCTOR P829  
+@@@
+
+PATIENT P829
+Well I don’t know @@@ I’ve been here.
+
+DOCTOR P829  
+I know, they’ve…@@@
+
+PATIENT P829
+Yeah.  They didn’t @@@
+
+DOCTOR P829  
+@@@ vital signs @@@
+
+PATIENT P829
+Yeah, they didn’t, I was sitting out there for awhile.
+
+DOCTOR P829  
+Oh, they didn’t.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Alright, so how old are you then?
+
+PATIENT P829
+Same story. Same thing.
+
+DOCTOR P829  
+Your blood pressure is little bit higher than it’s been.
+
+PATIENT P829
+Yeah, well I really didn’t have any medicine here because you told me take one of ‘em, but they don’t come, you didn’t change it I think.  You just uh…
+
+DOCTOR P829  
+Which medication?
+
+PATIENT P829
+It’s for the blood pressure there.
+
+DOCTOR P829  
+Okay.
+
+PATIENT P829
+I’m trying to find it now.
+
+DOCTOR P829  
+@@@ Yes.  (looking in EMR) The Lasik?
+
+PATIENT P829
+No not the Lasik, I got plenty of that. 
+
+DOCTOR P829
+Okay.  Lisinopril?
+
+PATIENT P829
+Uh, yeah.  Lisinopril, yeah.
+
+DOCTOR P829  
+Okay, so you’re taking a full tablet.
+
+PATIENT P829
+A full tablet, yeah, @@@ yeah…
+
+DOCTOR P829  
+@@@
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+@@@
+
+PATIENT P829
+Yeah.  An uh, yeah.
+
+DOCTOR P829  
+Hang on, I’ll make sure you got refills for that. so why don’t you pick up downstairs today.
+
+PATIENT P829
+Alright.
+
+DOCTOR P829  
+If you are running out…
+
+PATIENT P829
+I’m out.
+
+DOCTOR P829  
+Oh, you’re out.  How long have you been out?
+
+PATIENT P829
+I’ve been out for a while.
+
+DOCTOR P829  
+Oh you have?
+
+PATIENT P829
+Yeah.  Whenever I take them, I don’t know that half a tablet, I think it’s every two months they send it to me.
+
+DOCTOR P829  
+Okay, well next time just give me a call about the blood pressure medications, let me know you ran out.
+
+PATIENT P829
+Well, when I was here to pick up my medicine @@@ the head guy…
+
+DOCTOR P829  
+Um-hm.
+
+PATIENT P829
+He made me sign some sheets and everything…
+
+DOCTOR P829  
+Okay.
+
+PATIENT P829
+And initial things for doing a drop @@@ before he gave me my medicine.
+
+DOCTOR P829  
+Uh-huh.
+
+PATIENT P829
+So I don’t know if you know, if you are aware of this, but I was supposed to get copies and a telephone number.  And I, so you could....he told me that all I have to do now is call.
+
+DOCTOR P829  
+Um-hm.
+
+PATIENT P829
+A number, and they would…there would be all uh, …
+
+DOCTOR P829  
+Yeah, you can just call the GMAC clinic, you don’t have to come…
+
+PATIENT P829
+The 3800 number?
+
+DOCTOR P829  
+It’s uh, just a second, @@@ 27304
+
+PATIENT P829
+@@@ 2734
+
+DOCTOR P829  
+27304 um-hm
+
+PATIENT P829
+27304.
+
+DOCTOR P829  
+And if that doesn’t work try 27301.
+
+PATIENT P829
+27301.
+
+DOCTOR P829 
+1, um-hm.
+
+PATIENT P829
+27301. Okay.
+
+DOCTOR P829  
+That’s the number, you can order @@@
+
+PATIENT P829
+Yeah, thank you.  What did I sign??
+
+DOCTOR P829  
+@@@.
+
+PATIENT P829
+Sign this one here, initial that, initial that this one here say you know, they rushed me out of here.
+
+DOCTOR P829  
+It’s a pain contract to insure that you’re going to follow the rules.
+
+PATIENT P829
+@@@ I don’t know.
+
+DOCTOR P829  
+To promise that you aren’t going to ask for additional medications @@@ at a clinic visit. That if we recommend physical therapy or any other options that you’ve complied with physical therapy Occupational therapy @@@ um, but these are better, @@@ um, that you @@@ or that there’s not going to be phone calls or
+
+PATIENT P829
+Another words, you don’t want me coming here once a month @@@.
+
+DOCTOR P829  
+It’s to basically set up some kind of organization here, because obviously @@@ taken care of or other patients
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+@@@ exactly the @@@ distracting @@@ it’s time consuming and we have to deal with a patient @@@ because of…
+
+PATIENT P829
+Yeah, right.
+
+DOCTOR P829 
+Just to insure a plan of care basically. 
+
+PATIENT P829
+I uh, when I call off what, what did you do?   Do you tell ‘em to just pick it up or @@@ or what @@@?
+
+DOCTOR P829  
+Well, so there is probably a certain date that you come pick up the medication…
+
+PATIENT P829
+They didn’t tell me to…
+
+DOCTOR P829  
+When did your medications specifically run out.
+
+PATIENT P829
+I don’t remember.
+
+DOCTOR P829  
+Okay, well, whenever they ran out.
+
+PATIENT P829
+@@@.
+
+DOCTOR P829  
+Okay, so you could call like ten days before then, on the seventh of every month, tell them I am going to be at the pharmacy on the 17th to pick up my medications.  
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+My doctor requests that I remind them that a prescription  be placed at the pharmacy.  So I will go to the pharmacy @@@ so the @@@ medications @@@ my doctor prescribed some medications.  
+
+PATIENT P829
+Um-hm.
+
+DOCTOR P829  
+I think they prefer…
+
+PATIENT P829
+What happens if you’re not here at all?
+
+DOCTOR P829  
+If I’m not here, then they should call DOCTOR who
+
+PATIENT P829
+@@@.
+
+DOCTOR P829  
+No, but forward the message to me @@@.  Okay, so the pain is still the same?
+
+PATIENT P829
+Well, I probably – this is what’s going on here.
+
+DOCTOR P829  
+Um-hm.
+
+PATIENT P829
+Uh, really from what you call Oxycodone.
+
+DOCTOR P829
+Um-hm.  
+
+PATIENT P829
+Yeah, it works but that doesn’t work all day.
+
+DOCTOR P829  
+Because it wasn’t @@@
+
+PATIENT P829
+No, no… it…I @@@ of course.
+
+DOCTOR P829  
+Right.
+
+PATIENT P829
+Uh…
+
+DOCTOR P829  
+Well, what we need to do is increase the dose.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Of the oxycodone, so that @@@ 20 mgs. @@@
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+It has to @@@.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Because over time you are probable developing … 
+
+PATIENT P829
+@@@.
+
+DOCTOR P829  
+We can’t just start you on the higher dose…
+
+PATIENT P829
+Yeah, @@@.
+
+DOCTOR P829  
+And the goal is to get you off of the Vicodin.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+You’ve taken a lot of Vicodin two pills every six hours, pretty much.  
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Is that what you take?
+
+PATIENT P829
+Yeah, you know now when I take those, when I first started taking those.
+
+DOCTOR P829  
+Umhm.
+
+PATIENT P829
+When I first started taking it, I was down to only taking one.  
+
+DOCTOR P829  
+Okay.
+
+PATIENT P829
+Every other day or so?
+
+DOCTOR P829  
+The Vicodin?
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Oh good.  
+
+PATIENT P829
+Then all of a sudden, this stuff over here, you know, I’m taking the pill and it seems like it isn’t working as long.
+
+DOCTOR P829  
+Yeah, I saw.
+
+PATIENT P829
+@@@.
+
+DOCTOR P829  
+How many Vicodin are taking?
+
+PATIENT P829
+Two a day.
+
+DOCTOR P829  
+Two a day?
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Okay.  So…
+
+PATIENT P829
+I tried to cut it down @@@ about two a day.
+
+DOCTOR P829  
+Okay, so the oxycodone @@@
+
+PATIENT P829
+Sometimes three instead of . . .
+
+DOCTOR P829  
+@@@
+
+PATIENT P829
+@@@
+
+DOCTOR P829  
+And then you will be able cut down on the Vicodin.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Um, once you take the Vicodin…
+
+PATIENT P829
+Because the Vicodin works fine.
+
+DOCTOR P829  
+Um-hm.
+
+PATIENT P829
+You know?  @@@, you know.  Some days it’ll, you know, are real hard, you know.  
+
+DOCTOR P829  
+Um…
+
+PATIENT P829
+It doesn’t seem like could walk as fine @@@ no more.  Uh, you know.  It seems like when I walk or do any kind of exercise, it seems like everything in my body just gets stiff.
+
+DOCTOR P829  
+Okay, @@@ at most you take one of these pills three times a day.
+
+PATIENT P829
+Yep.
+
+DOCTOR P829  
+@@@ and some days you don’t even really that much?
+
+PATIENT P829
+Yeah, I @@@.
+
+DOCTOR P829 
+Okay, we’ll cut back on the Vicodin and uh,… 
+
+PATIENT P829
+What are you going to cut down to?
+
+DOCTOR P829  
+Well right now, a lot more pills prescribed than what you need. @@@ one pill every six hours, @@@.
+
+PATIENT P829
+Well, you have some…you know, when those other ones over there don’t work, then I wind up taking more.
+
+DOCTOR P829  
+Okay, so we’re going to increase the oxycodone…
+
+PATIENT P829
+Yeah
+
+DOCTOR P829  
+@@@ so you are not going need as much Vicodin.  
+
+PATIENT P829
+(unintelligible)
+
+DOCTOR P829 
+Okay.  Um, so your other issues. The diabetes, have you still been checking your blood sugars at home?
+
+PATIENT P829
+Yeah, they’re fine.
+
+DOCTOR P829
+You are due for a @@@?  
+
+PATIENT P829
+Uh?
+
+DOCTOR P829  
+What have your sugars been at home?
+
+PATIENT P829
+Uh, they’ve been around 111 or so.
+
+DOCTOR P829  
+Okay.  
+
+PATIENT P829
+Hmmm.
+
+DOCTOR P829  
+Alright.  The cholesterol was good last time we checked it.
+
+PATIENT P829
+Hmmm.
+
+DOCTOR P829  
+@@@ kind of stuff there.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Are you fasting today?  Or did you eat this morning?
+
+PATIENT P829
+No, I’m fasting.
+
+DOCTOR P829  
+Oh, you are. We can um,…
+
+PATIENT P829
+@@@ 
+
+DOCTOR P829  
+Okay. So haven’t eaten anything since last night? You haven’t even had coffee or anything?
+
+PATIENT P829
+Yeah, coffee.
+
+DOCTOR P829  
+You did. Let’s just check your diabetic labs. Next time you come we can check your cholesterol and all that.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+@@@.  Um, say you use the Bipap at night?
+
+PATIENT P829
+Yeah, @@@
+
+DOCTOR P829  
+Good.
+
+PATIENT P829
+They took me off the oxygen.
+
+DOCTOR P829  
+Good.  Good.
+
+PATIENT P829
+They stopped giving uh, you know, I…I am not receiving any more strips for these guys.
+
+DOCTOR P829  
+Which strips?
+
+PATIENT P829
+For the diabetes.  They took me off the medicine.
+
+DOCTOR P829
+What medicine?  
+
+PATIENT P829
+For diabetes.  
+
+DOCTOR P829  
+Uh,…
+
+PATIENT P829
+They took me off that.
+
+DOCTOR P829  
+Because your diabetic control was so good.
+
+PATIENT P829
+Yeah, @@@ I lost all that weight and everything, and they…
+
+DOCTOR P829  
+Okay.
+
+PATIENT P829
+They took me off of the you know, they told me that I if I want the strips, I would have to go out and buy them on my own.
+
+DOCTOR P829  
+Um, I see.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Because you are no longer on the metformin.
+
+PATIENT P829
+Right, right.
+
+DOCTOR P829  
+Okay.  @@@ I see on here that. 
+
+PATIENT P829
+Um.
+
+DOCTOR P829  
+Yeah, you probably @@@ your diabetic control is well good.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+You know I can reason why they decided you don’t need that or any medication, you don’t need to check your blood sugars any more.
+
+PATIENT P829
+Yeah.  The medicine was hurting me.
+
+DOCTOR P829  
+Um-hm.
+
+PATIENT P829
+It had dropped a week ago or something.
+
+DOCTOR P829  
+You started taking a daily aspirin then?
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Are you @@@ the mental health clinic?
+
+PATIENT P829
+Yep.
+
+DOCTOR P829  
+How’s that been?  
+
+PATIENT P829
+@@@ fine.
+
+DOCTOR P829  
+Do you feel like your moods are under control?
+
+PATIENT P829
+No.
+
+DOCTOR P829  
+No? What do you mean?
+
+PATIENT P829
+No.  You know, they go up and down, you know, and it’s like everything else you know?  You have good days, and some days you have bad days.  You know?
+
+DOCTOR P829  
+Um-hm.
+
+PATIENT P829
+It depends on what triggers your emotion on that days.  You know, like @@@ sometimes you know I can’t sleep at night.
+
+DOCTOR P829  
+Um-hm.
+
+PATIENT P829
+It’s @@@.
+
+DOCTOR P829  
+You have anxiety or…
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Okay.
+
+PATIENT P829
+I’ve been getting up here uh, and fighting with myself in bed and @@@ you know?  Rolling off the bed and stuff like. I’m scared I’ll hit my head on the table and I had to move everything.  And I don’t remember it.
+
+DOCTOR P829  
+@@@.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+@@@ you, um…
+
+PATIENT P829
+@@@ group meeting every Thursday.
+
+DOCTOR P829  
+You do? Does that help?
+
+PATIENT P829
+Yeah, it helps.  It may be @@@.
+
+DOCTOR P829  
+Okay, yeah.  We don’t need labs today @@@ diabetes, you really don’t have that anymore.
+
+PATIENT P829
+No, no.
+
+DOCTOR P829  
+So we don’t need to check that and then before the next visit, come in for the fasting labs for all of that @@@ cholesterol
+
+PATIENT P829
+@@@
+
+DOCTOR P829  
+@@@.
+
+PATIENT P829
+@@@ 
+
+DOCTOR P829  
+That is simvastatin.
+
+PATIENT P829
+Oh yeah.  
+
+DOCTOR P829  
+It looks like @@@ all your shots and everything like that.
+
+PATIENT P829
+Yeah, I did all that stuff @@@ to that pneumonia shot @@@
+
+DOCTOR P829  
+@@@
+
+PATIENT P829
+Ten years or something?
+
+DOCTOR P829  
+Well, normally @@@ …
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+So uh, our records show 2004, @@@ after age 65.
+
+PATIENT P829
+Oh.
+
+DOCTOR P829  
+That’s when you are supposed to @@@ how old are you?
+
+PATIENT P829
+63.
+
+DOCTOR P829  
+Um,…
+
+PATIENT P829
+@@@ 
+
+DOCTOR P829  
+If you are 63, @@@.
+
+PATIENT P829
+I am 62, I’ll be 63 in August.  I am pushing my age a little bit.
+
+DOCTOR P829
+@@@ I can…  
+
+PATIENT P829
+How much of the Vicodin are you giving me now.
+
+DOCTOR P829  
+So you still have enough for um, you should have enough for on average two to three pills every day which you said @@@
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+So, @@@ after that.  And they will probably, @@@ 
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+So the next time you come to fill the prescription, just know that it’s for a higher dose.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+You could have @@@.
+
+PATIENT P829
+Yeah, …
+
+DOCTOR P829  
+@@@.
+
+PATIENT P829
+It does work.
+
+DOCTOR P829  
+We are going to continue to keep you on that.  Okay, well let’s see you back at about four to five months.
+
+PATIENT P829
+Oh!  @@@.
+
+DOCTOR P829  
+Okay, take care.
+
+PATIENT P829
+Alright.
+
+DOCTOR P829  
+See you.  Bye.
+
+PATIENT P829
+Bye.  Don’t make myself a stranger huh?
+
+DOCTOR P829  
+Okay.
+
+PATIENT P829
+Are you going to be a permanent resident here or what?
+
+DOCTOR P829  
+No, I’m @@@ in July.  You’ll probably see me a couple more times – one more time. 
+
+PATIENT P829
+Yeah, July is the @@@.
+
+DOCTOR P829  
+New doctor@@@.  
+
+PATIENT P829
+Okay.
+
+DOCTOR P829  
+Alright.
+
+PATIENT P829
+I go through a lot of them.  
+
+DOCTOR P829  
+Yeah, I know.
+
+PATIENT P829
+Alright bye.
+
+DOCTOR P829  
+Bye.
+
+PATIENT P829
+Bye.  Oh, uh, they wanted… it was supposed to be on the computer that I was supposed to a consultation here for a dietician.
+ 
+DOCTOR P829  
+Oh.
+
+PATIENT P829
+Is it on there?
+
+DOCTOR P829  
+Sure.  Why do you want a…
+
+PATIENT P829
+Well, because I need to lose some more weight.  I am gaining the weight back now.
+
+DOCTOR P829  
+So you @@@ um…
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Yes, you have been gaining weight.
+
+PATIENT P829
+Yeah.
+
+DOCTOR P829  
+Okay, I’ll put in a consultation to see the dietician.
+
+PATIENT P829
+Alright thank you.  Alright bye.
+
+DOCTOR P829  
+BYE.
+
+(DOCTOR OUT:  31:57)
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/801000/JOB#  1238084
+TRANSACTION # 578-10-2-316-0103

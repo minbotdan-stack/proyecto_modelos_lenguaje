@@ -1,0 +1,1001 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@   
+
+DOCTOR X147
+PATIENT?
+
+PATIENT X147
+Hello.  I'm ready cause you gonna call me now.  How you doing?
+
+DOCTOR X147
+Good.  How are you?
+
+PATIENT X147
+I'm good.
+
+DOCTOR X147
+@@@.
+
+PATIENT X147
+Well I don't know.  Ya'll the ones; you're the ones that called to have the appointment.
+
+DOCTOR X147
+Oh.  I think you were scheduled @@@ three weeks ago.
+
+PATIENT X147
+I see.
+
+DOCTOR X147
+We just like to @@@.
+
+PATIENT X147
+Oh yeah, okay.
+
+DOCTOR X147
+Yeah.  @@@.
+
+PATIENT X147
+Yeah.  Well why did they ask me to go, when was it Monday?
+
+DOCTOR X147
+Uh-huh.
+
+PATIENT X147
+What do you think that's about?  I don't know.
+
+DOCTOR X147
+@@@.
+
+PATIENT X147
+Oh they do a lot of things.
+
+DOCTOR X147
+I'll have to find out.  Yeah we @@@.
+
+PATIENT X147
+Yeah I thought it wasn’t long.
+
+DOCTOR X147
+About a month ago.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+Um.
+
+PATIENT X147
+But you changed up some medications on me and stuff like that.
+
+DOCTOR X147
+Your blood pressure wasn't where we wanted it to be so we added this medication called @@@.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+Um how have your blood pressures been since then?
+
+PATIENT X147
+Well doc you know it's improving.  It's improving.  She just checked it a little while ago so.  I think she said it was 127 or something like that.
+
+DOCTOR X147
+That is more than improving.
+
+PATIENT X147
+Huh?
+
+DOCTOR X147
+That's more than improving.
+
+PATIENT X147
+Yeah, yeah it's coming right along.  Uh I got a little something else to it.
+
+DOCTOR X147
+What's that?
+
+PATIENT X147
+Uh I been drinking garlic water.
+
+DOCTOR X147
+Oh okay.
+
+PATIENT X147
+You heard of that?
+
+DOCTOR X147
+Uh I've heard of garlic water.
+
+PATIENT X147
+(Laughter).
+
+DOCTOR X147
+I don't know if it's really that true.
+
+PATIENT X147
+It’s one of those down-home remedies.
+
+DOCTOR X147
+Yeah.
+
+PATIENT X147
+Yeah so uh a buddy of mine was saying that you could take a little chopped up garlic and swallow all of it or what I've done was I've just taken chopped up some in a water bottle and I've been just swallowing that stuff in the morning and uh sometime in the evening before I go to bed.  It don't smell the best but it seem like it might helping though some.
+
+DOCTOR X147
+It's probably the medications.
+
+PATIENT X147
+(Laughter)  We put those together yes, yeah I didn't @@@.
+
+DOCTOR X147
+I wouldn't stop the medication.
+
+PATIENT X147
+Yeah I know, I know.
+
+DOCTOR X147
+@@@.
+
+PATIENT X147
+It's just.
+
+DOCTOR X147
+You ended up going back to the PM&R people to complete your therapy.
+
+PATIENT X147
+For my leg?
+
+DOCTOR X147
+Yeah.  Did you talk with them?
+
+PATIENT X147
+Uh well yeah.  What they suggested was that um I could just go for the workout system here.
+
+DOCTOR X147
+@@@.
+
+PATIENT X147
+Yeah.  They got a little @@@.  I ain't found it yet.  Do you know where it is?
+
+DOCTOR X147
+Uh we can ask outside.  Actually I've never been to it.
+
+PATIENT X147
+Oh okay.
+
+DOCTOR X147
+We put an order in so you're approved to get it.
+
+PATIENT X147
+Right, yeah, she put it all in the computer here.  But you see the thing is doc could you, I want to see the dentist you know for my teeth and what have you.
+
+DOCTOR X147
+Yeah.
+
+PATIENT X147
+And uh they said that I have to get it approved by the doctor.
+
+DOCTOR X147
+Yeah you have to have so it depends on what you need from the dentist.
+
+PATIENT X147
+Huh?
+
+DOCTOR X147
+It's not that I have to approve anything.  I just put in the order to go to the dentist.  But I’ll tell you what the dentist offers here.  If you have a active infection of any of your teeth where you have like pus pouring out of your tooth they'll see you and take care of it.  If it's a chronic problem like cavities or bad teeth, they will pull your teeth out but they don't put anything in and they don't do the routine cleaning.
+
+PATIENT X147
+@@@.
+
+DOCTOR X147
+The VA does not offer actual dental care.
+
+PATIENT X147
+Even if you didn't uh @@@.
+
+DOCTOR X147
+If you're neglecting your teeth and you have infections then they'll say okay well we can deal with this.  I'll send you to the dentist but I'm pretty confident they're gonna tell you there's nothing going on, unless they can find something in your mouth that shows there's an active infection from your diabetes.
+
+PATIENT X147
+Yeah I'll tell you what's going on, I feel a knot right here in my gum.  It's been there a long, sometime.  As a matter of fact when I was working and I went to the dentist he was saying that there was like an infection and if I pulled the tooth out that the knot would go away.  But the tooth ain't bad.  He said it's not the tooth, it's the bottom of the tooth.  It's the gum.  If you pull the tooth out the knot will go away.  But I don't want to do that, @@@ tooth.  You know he's twisting my arm.  I pulled the tooth out the knot is still there.  That's been a year or two years ago.
+
+DOCTOR X147
+So it's probably not infection if it's been there for two years.
+
+PATIENT X147
+Uh it don't hurt anything I just wondered you know why it was still there.  He said it was gonna go away.
+
+DOCTOR X147
+I don't know, I'm not a dentist.
+
+PATIENT X147
+(Laughter).
+
+DOCTOR X147
+Um.
+
+PATIENT X147
+You ain't put @@@ or not.
+
+DOCTOR X147
+When did you start getting the dizziness?
+
+PATIENT X147
+Huh?
+
+DOCTOR X147
+When did you start getting dizzy?
+
+PATIENT X147
+Doc I'm gonna tell you ever since I been taking, start insulin, always sometimes having to be off balanced like uh feeling, they say that's part of the territory being a diabetic.
+
+DOCTOR X147
+No I mean, give me a time like an actual.  When did you start having the dizziness?  Like a year ago, six months ago, three or four years ago.  When were you started on insulin?  I don't know these details.
+
+PATIENT X147
+Okay I been on insulin for over 30, 32 to 33 years.
+
+DOCTOR X147
+Okay.  So, insulin gives you dizziness if your blood sugar is low.  So if you give yourself your insulin shot and your blood sugar goes to 50, then we.
+
+PATIENT X147
+It's not just dizzy; it felt like an off balance at time.  Like if you go around too quick.
+
+DOCTOR X147
+That won't be from the insulin.  It could be, if the diabetes affected your nerves.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+Cause that happens to people over the years.
+
+PATIENT X147
+Okay I'm tending to believe cause I do have neuropathy.
+
+DOCTOR X147
+Right.
+
+PATIENT X147
+In my feet too.
+
+DOCTOR X147
+There's the nerves in your legs, there's another kind of nervous system in the body called the autonomic nervous system.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+What that does it like when you stand up.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+That's the nerves that cause the veins to constrict to get your blood back up to the body so you don't get dizzy and lightheaded and those will get damaged over the years from diabetes.
+
+PATIENT X147
+Oh, @@@ okay.
+
+DOCTOR X147
+@@@.
+
+PATIENT X147
+I gotcha, uh-huh.
+
+DOCTOR X147
+Um that's another type of nerve damage.
+
+PATIENT X147
+Uh-huh, uh-huh.
+
+DOCTOR X147
+That's a little bit tougher to treat you know.  It doesn't work like you know @@@ gabapentin for neuropathy and that helps.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+But there's not too many good ways to treat that.
+
+PATIENT X147
+I see.
+
+DOCTOR X147
+Other than get the glucose controlled.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+How have your blood sugars been?
+
+PATIENT X147
+Oh it's coming along pretty good.
+
+DOCTOR X147
+How is, what’s pretty good?  Remember everyone has different ideas of pretty good.
+
+PATIENT X147
+I know doc, it's just that, it's down.  I'll put it that way in the morning time, sometimes like 200 uh sometimes uh like 150; it depends on what I eat that night.  I know it should be around 120 or 100.
+
+DOCTOR X147
+Yeah you know better.
+
+PATIENT X147
+Ah doc, you know what I'm trying to say.  Trying to control this sometimes is almost like trying to walk, I feel like I could walk a tightrope better than I can try to get this down you know.  It's just, but it's up to me, you got to do it on your own.  All you can do is tell me what to do and give me some @@@, the rest is up to me.
+
+DOCTOR X147
+That's true.  What's holding you back?
+
+PATIENT X147
+My back?
+
+DOCTOR X147
+No what's holding you back from having good control of your blood sugars?
+
+PATIENT X147
+Oh just uh the temptation.  You might say the temptation you know uh.  It's just the temptations I guess, it's like the world and the shape that it's in today.
+
+DOCTOR X147
+Yeah.
+
+PATIENT X147
+All these holidays.  You got especially cake laying all over the table and it's hard to just walk by it and just don't get a little bitty piece.  You can do it cause you're a doctor right?
+
+DOCTOR X147
+No.
+
+PATIENT X147
+(Laughter).
+
+DOCTOR X147
+No I have the same problem.
+
+PATIENT X147
+You got that problem too huh.
+
+DOCTOR X147
+Um, so what if we just try to go up on the insulin a little bit?  Just so @@@.
+
+PATIENT X147
+Yeah, but you know what, I wasn't allowed to go up any more you know but I'll probably come down on the eating.
+
+DOCTOR X147
+Alright @@@.  
+
+PATIENT X147
+Yeah.
+
+DOCTOR X147
+As long as you understand and you have a plan.
+
+PATIENT X147
+That's where the problem is.  You know if you go up on the insulin, you’re gonna say, “Nah, I’m on top of it” and then I'm just gonna start eating more.
+
+DOCTOR X147
+Okay.  So if.
+
+PATIENT X147
+Do you know what I'm saying?
+
+DOCTOR X147
+I know what you're saying.  Just as long as you understand.
+
+PATIENT X147
+@@@.
+
+DOCTOR X147
+I gotcha.
+
+PATIENT X147
+Yeah.  I just have to stop putting too much food or overeating in my mouth, that's just what it is.
+
+DOCTOR X147
+I want to make sure you've got @@@.
+
+PATIENT X147
+Yeah I do these uh, @@@ yeah I know I.
+
+DOCTOR X147
+Do you take your vitamin D pill, it's the one with?
+
+PATIENT X147
+Yes.  I haven't taken them all yet, but I've been taking one every Monday.
+
+DOCTOR X147
+Okay.
+
+PATIENT X147
+Um I think I've got about three or four more.
+
+DOCTOR X147
+Yeah that should be right.  Just take them till you run out and when you run out let me know and we'll recheck your levels.
+
+PATIENT X147
+Okay.  But uh I'm on my last bottle of the insulin.
+
+DOCTOR X147
+Um.  (Someone comes to the door)  @@@ needs to be ordered then but your insulin you have ten refills on one of them.
+
+PATIENT X147
+On refills?
+
+DOCTOR X147
+And 11 on the other.  I think we're okay there but you just have to go pick them up.
+
+PATIENT X147
+Hmm.
+
+DOCTOR X147
+Okay.
+
+PATIENT X147
+Okay.  @@@.
+
+DOCTOR X147
+No new orders.  
+
+PATIENT X147
+Okay so I can go over there and request.
+
+DOCTOR X147
+Yeah.
+
+PATIENT X147
+How about the one @@@ pill, the last one she gave me it seems like I'm getting a little low.  I don't know if I've got any around the house that I've lost or uh how much do.
+
+DOCTOR X147
+They're all available now.  There's like two or three refills for each one so.
+
+PATIENT X147
+But does it indicate that I need to @@@?
+
+DOCTOR X147
+Yeah it does.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+They give you a nine month's supply.
+
+PATIENT X147
+Nine months?
+
+DOCTOR X147
+Yeah.
+
+PATIENT X147
+Oh it's just that I, okay.
+
+DOCTOR X147
+You just have to get the refills.
+
+PATIENT X147
+Just got to refill them.
+
+DOCTOR X147
+So yeah it shouldn't be a problem okay.
+
+PATIENT X147
+Okay. 
+
+DOCTOR X147
+(Someone comes to the door)  Sorry PATIENT they needed directions.
+
+PATIENT X147
+That's no problem; you know I know how it is.
+
+DOCTOR X147
+So yeah the new one we gave you.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+I gave you a 90 day supply so that's three months.
+
+PATIENT X147
+Yeah because you told me to take one and then you upped it to take one in the morning and one in the evening.
+
+DOCTOR X147
+Right.  That was back in the first of November or.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+There was 90 pills given.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+At that time so.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+That should last you three months and then you have two refills from there.
+
+PATIENT X147
+That should last for how long?
+
+DOCTOR X147
+90 pills.
+
+PATIENT X147
+Should last for.
+
+DOCTOR X147
+You're taking half a tablet in the morning, half in the afternoon.
+
+PATIENT X147
+No I'm taking a whole.
+
+DOCTOR X147
+You're taking a whole?
+
+PATIENT X147
+You switched it to a whole one; somebody did to a whole one in the morning and a whole one in the evening.
+
+DOCTOR X147
+Oh okay well then.
+
+PATIENT X147
+Did you see who ordered it?
+
+DOCTOR X147
+They didn't change the order.
+
+PATIENT X147
+Maybe you could change that.
+
+DOCTOR X147
+Yeah I'll change that so that they.
+
+PATIENT X147
+Yeah.  You know I don't want to get mixed up because one doctor says one thing and one doctor changes it back again.
+
+DOCTOR X147
+No, no, I'm glad you did, I gotcha.  I'm glad you brought that in.
+
+PATIENT X147
+Yeah.
+
+DOCTOR X147
+Oh the renal doctor did.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+The kidney doctor okay.
+
+PATIENT X147
+Uh-huh.  So then let's watch it, looks like that supply is getting a little low huh.
+
+DOCTOR X147
+That's fine I'll refill it, no problem.
+
+PATIENT X147
+Is it okay with you?
+
+DOCTOR X147
+Yeah of course.
+
+PATIENT X147
+I mean to up the dose.
+
+DOCTOR X147
+Yeah well you can go as high as we need to get your blood pressure under control.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+When you saw the kidney doctors your blood pressure is wasn’t good.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+They look at the decision where.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+But it's like you said you know it's up to you.
+
+PATIENT X147
+Right.
+
+DOCTOR X147
+If we don't control your blood pressure, if we don't control your diabetes.
+
+PATIENT X147
+Right.
+
+DOCTOR X147
+You will be on dialysis.
+
+PATIENT X147
+Right.
+
+DOCTOR X147
+If you live long enough to get there.  You want to be dialysis?
+
+PATIENT X147
+No.  Is that what ya'll want?
+
+DOCTOR X147
+Of course not.
+
+PATIENT X147
+Me either.
+
+DOCTOR X147
+So if somebody tells me to take the higher dose of medication, I'm okay with it and you should be with it too if it means your blood pressure goes lower and you're 120/70 is where your blood pressure is now.  That's where you should be being that you have diabetes.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+If it's ever above that, every day it's above that you're hurting your kidneys.  Same thing with the blood sugars.  So you got to really start working on the eating.  If you don't want to go up on your insulin and I'll respect your wishes then you've got to get with it with the food.
+
+PATIENT X147
+You're right.
+
+DOCTOR X147
+Yeah.  If you're gonna eat all of.
+
+PATIENT X147
+Yeah.
+
+DOCTOR X147
+I need to kick you in the pants sometimes though.
+
+PATIENT X147
+Yeah, yeah.  You only doing your job by telling me what to do.  It's up to me.
+
+DOCTOR X147
+Absolutely.  Do you have any questions or anything right now?
+
+PATIENT X147
+Yeah can you @@@.
+
+DOCTOR X147
+In your what?
+
+PATIENT X147
+In my ears.
+
+DOCTOR X147
+In your ears, yeah what's going on with your ears?
+
+PATIENT X147
+I still got this ringing in my ears.
+
+DOCTOR X147
+Oh yeah sorry the ringing.  Uh when did that start?
+
+PATIENT X147
+Oh it's going when I started taking these last pills, the blood pressure pills that you gave me.  I'm thinking it might come from that.  Is that possible?  That you can get a ringing in the ear?  I mean basically it's in this ear and sometimes you know it'll clog up sometimes.  Maybe it's @@@ I don't know.
+
+DOCTOR X147
+I'll take a look.  This is not a medication that usually causes ringing in the ear.
+
+PATIENT X147
+Okay.  No medications do that.
+
+DOCTOR X147
+No a lot of medications can.  The one you're on doesn't.
+
+PATIENT X147
+Oh it doesn't.
+
+DOCTOR X147
+Yeah @@@.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+And to be honest with you, if you said, it might be part of the reason that it was the ringing in the ears, @@@ with the blood pressure.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+@@@.  Sometimes it's in your best interest just to deal with it.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+Cause it's keeping your blood pressure in a good place and we don't have any other blood pressure medications to give you @@@.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+You're on everything else already.  So we'll take a look and see.  Do you clean your ears regularly?
+
+PATIENT X147
+Um maybe once a week.
+
+DOCTOR X147
+What do you use to clean them?
+
+PATIENT X147
+What?
+
+DOCTOR X147
+What do you use to clean them?
+
+PATIENT X147
+Basically just the end of the towel, something like that you know.  Sometimes I don't feel, I think it's just the right ear.  When I put @@@ the first time I went in on this side and when I get it’s stopped up.
+
+DOCTOR X147
+So this is a good thing, if it's only one ear it's not the symptoms of the blood pressure medication.
+
+PATIENT X147
+Hmm.
+
+DOCTOR X147
+This oh okay I can tell you right now, I can't see into it.
+
+PATIENT X147
+What's up?
+
+DOCTOR X147
+It's covered in wax all the way.
+
+PATIENT X147
+Yeah, is that right?
+
+DOCTOR X147
+Yeah like I can't even, look, so here... 
+
+PATIENT X147
+Well my wife has said why don't you get the doctor to look in your ears and see what's wrong, you can't hear nothing.
+
+DOCTOR X147
+You can't even see into it.
+
+PATIENT X147
+Both of them?
+
+DOCTOR X147
+This one, this is the one that's totally clogged all the way.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+I'll give you some drops to get ride of it.
+
+PATIENT X147
+Okay.  Sounds good.
+
+DOCTOR X147
+Um.  Have a seat here.  
+
+PATIENT X147
+Does fish, baked fish a good source of meet for you?
+
+DOCTOR X147
+Yeah baked fish.  Baked fish or grilled fish.  Fried fish is not.
+
+PATIENT X147
+Cause I'm trying to, I've been eating it for the last week or so and man I mean, my sugars are all the way down when I eat fish.
+
+DOCTOR X147
+Your sugar is good.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+Are they good @@@.
+
+PATIENT X147
+Yeah it works real good but it's just you know you get tired of just eating baked fish and eat something else.  Could be @@@.
+
+DOCTOR X147
+I ordered those drops we talked about and look at those teeth, okay.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+Just lay back.  @@@ pharmacy you can pick up the ear drops and there's instructions on them on how to use them but basically you put the ear drop in, you let it sit there while it dissolves the wax.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+Turn the head over and let it drain out.  You don't put anything in there to scrape it out.
+
+PATIENT X147
+Hmm.
+
+DOCTOR X147
+Or remove it yourself okay.
+
+PATIENT X147
+Just let the drop and let it dissolve in there, right?
+
+DOCTOR X147
+Yes.  Open your mouth, stick your tongue out.
+
+PATIENT X147
+@@@.
+
+DOCTOR X147
+This thing?
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+How long has that been there?
+
+PATIENT X147
+Too long, couple of years.
+
+DOCTOR X147
+You don’t need to see the dentist, you need to see the maxillofacial people it looks like something for the oral surgeons.
+
+PATIENT X147
+Yeah.
+
+DOCTOR X147
+We can have you see them and have them look at this.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+Um.  I'm thinking @@@ diabetes, you know @@@.
+
+PATIENT X147
+@@@.
+
+DOCTOR X147
+That's a large growth in your mouth.
+
+PATIENT X147
+Yeah.
+
+DOCTOR X147
+Deep breath.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+Okay.  Yeah you know I'm kind of confused what that is myself.  When you were describing it I thought it was gonna be a small bump.  It's definitely not infection.  It's a large growth of tissue there.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+So we'll have the facial, the oral facial surgeon who specialize in the jaws.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+And the bones of the face, we'll have them take a look at it to see if they could do a biopsy and figure out what it is.
+
+PATIENT X147
+Uh-huh.
+
+DOCTOR X147
+Okay.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+How long has it been there?
+
+PATIENT X147
+I'd say two years or more.
+
+DOCTOR X147
+Does it get bigger or is it staying the same size?
+
+PATIENT X147
+Hmm it might be a little bit bigger but it doesn't seem to get any smaller.  
+
+DOCTOR X147
+Are you a smoker?
+
+PATIENT X147
+No.
+
+DOCTOR X147
+Did you smoke when you were younger?
+
+PATIENT X147
+Um yeah when I was, like 20s or something like that.
+
+DOCTOR X147
+How long did you smoke for?
+
+PATIENT X147
+Oh I guess about, off and on, I guess about five, six years.
+
+DOCTOR X147
+Let me go tell my boss what we're doing today.  Basically we're gonna do the drops.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+And see if he needs to see you okay.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+Alright.
+
+PATIENT X147
+And make the appointment for the oral surgeon at the same time?
+
+DOCTOR X147
+Yes.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+Alright.  @@@.
+
+PATIENT X147
+Okay.
+
+(DOCTOR OUT:  56:53  DOCTOR IN:  62:05)
+
+DOCTOR X147
+Okay.  I talked to my boss; he's okay with that plan.  You can take that and show it to the clerk and she will give you an appointment to see Oral Surgery or they'll send an appointment in the mail to you.  The next time I'm going to see you it'll be two months @@@.
+
+PATIENT X147
+Okay.
+
+DOCTOR X147
+Good enough.
+
+PATIENT X147
+Happy New Year.  
+
+DOCTOR X147
+Yeah do you need anything?
+
+PATIENT X147
+Huh?
+
+DOCTOR X147
+Do you need anything?
+
+PATIENT X147
+Like what?  Oh no.
+
+DOCTOR X147
+Have a good holiday.
+
+PATIENT X147
+You too.
+
+PATIENT LEAVES:  62:32
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286100
+TRANSACTION # 578-10-2-316-0103

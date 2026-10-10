@@ -1,0 +1,945 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@
+
+DOCTOR W204
+PATIENT.
+ 
+PATIENT W204
+Okay.  How you doing?
+
+DOCTOR W204
+Good how are you?
+
+PATIENT W204
+Oh I'm doing good.
+
+DOCTOR W204
+Oh good.
+
+PATIENT W204
+I came over here to get uh, to get something stronger for my pain.
+
+DOCTOR W204
+Where is your pain?
+
+PATIENT W204
+The pain is @@@ on the chest.
+
+DOCTOR W204
+You have chest pain?
+
+PATIENT W204
+Yes.
+
+DOCTOR W204
+When has this started?
+
+PATIENT W204
+And I got uh, there's not no heart attack or anything.  I just come from the shingles.
+
+DOCTOR W204
+You have shingles?
+
+PATIENT W204
+Yeah I have shingles; I have shingles two months ago.
+
+DOCTOR W204
+Where were you?  Who diagnosed you with shingles?
+
+PATIENT W204
+Over here DOCTOR from DOCTOR.
+
+DOCTOR W204
+Can I see it?
+
+PATIENT W204
+Yeah you can see it.  You can see the shingles.  Okay you ready?
+
+DOCTOR W204
+Uh-huh.  Where is it?
+
+PATIENT W204
+It's right here.
+
+DOCTOR W204
+Oh right along here?
+
+PATIENT W204
+Yeah.  The pain is still in the center.
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+The pain is still in the center right here.
+
+DOCTOR W204
+Right here?
+
+PATIENT W204
+No no, the pain is still in the center of where there's no, no @@@ remains.
+
+DOCTOR W204
+Okay, can you point to where the pain is?
+
+PATIENT W204
+No I can't, I can't reach it.
+
+DOCTOR W204
+Okay, it's back here?
+
+PATIENT W204
+Right, yes.
+
+DOCTOR W204
+Back here?
+
+PATIENT W204
+Yes.
+
+DOCTOR W204
+Okay.  Okay that's fine, that's fine.
+
+PATIENT W204
+Right.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+About @@@ straight up.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+Okay.  And then the pain, the pain stays there.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+And it comes out way over here.  Right here and right here.
+
+DOCTOR W204
+Okay.  Does it all feel like, cause you came here in March for pain.  Does it all feel like the same pain?
+
+PATIENT W204
+The same pain.
+
+DOCTOR W204
+It's the same pain.
+
+PATIENT W204
+The same pain.
+
+DOCTOR W204
+Okay, what does it feel like?
+
+PATIENT W204
+It feels sharp pain.
+
+DOCTOR W204
+Sharp?
+
+PATIENT W204
+Both sides yes.
+
+DOCTOR W204
+Okay, like someone's stinging you?
+
+PATIENT W204
+It's stinging me sometime and it's steady.
+
+DOCTOR W204
+Steady?
+
+PATIENT W204
+Steady pain.
+
+DOCTOR W204
+Okay.  Do you have trouble breathing?
+
+PATIENT W204
+No.
+
+DOCTOR W204
+No okay.  So it's not like, you don't feel like someone's sitting on your chest or anything.
+
+PATIENT W204
+No.
+
+DOCTOR W204
+No.  Okay.
+
+PATIENT W204
+No.
+
+DOCTOR W204
+Okay and the Vicodin isn't strong enough?
+
+PATIENT W204
+Uh the Vicodin and the other one.
+
+
+DOCTOR W204
+Gabapentin.
+
+PATIENT W204
+Gabapentin and the Vicodin and the @@@.
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+None of it does anything.
+
+DOCTOR W204
+Alright.  Let me see what else we can give you.
+
+PATIENT W204
+Uh the doctor, I saw the doctor outside.  I got the nurse and a doctor coming over to the house.
+
+DOCTOR W204
+Uh-huh.
+
+PATIENT W204
+And they gave me some tramadol.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+Tramadol.
+
+DOCTOR W204
+Yeah did that work?
+
+PATIENT W204
+No I don't know, I haven't got it yet.
+
+DOCTOR W204
+You haven't gotten it yet?
+
+PATIENT W204
+At least that's what he prescribed.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+He prescribed me two medicines.  I want to see if I could get them over here.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+There are two medicines.
+
+DOCTOR W204
+Okay yeah we can get them for you.
+
+PATIENT W204
+I could want to know how come I got the shingles for the longest.
+
+DOCTOR W204
+How, why do have shingles?  You @@@.
+
+PATIENT W204
+Yeah I want to know.
+
+DOCTOR W204
+There's no reason, people just get it.
+
+PATIENT W204
+Huh?
+
+DOCTOR W204
+People just get it.  If you had um, people just get it.  There's no reason people get it.
+
+PATIENT W204
+Yeah but why do I have the pain so long?
+
+DOCTOR W204
+That's, it lasts a long time.
+
+PATIENT W204
+Oh yeah.
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+Even when I get medicine from the doctor, @@@.
+
+DOCTOR W204
+These are just pain medications to kind of help but it doesn't, it's not curing anything.
+
+PATIENT W204
+Oh no.
+
+DOCTOR W204
+No, we don't really have a medication to cure it.  You just have to wait for it to get better.
+
+PATIENT W204
+Oh yeah.
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+The @@@ two more years and that's good for me?
+
+DOCTOR W204
+Uh-huh.
+
+PATIENT W204
+@@@ house.
+
+DOCTOR W204
+Uh-huh.
+
+PATIENT W204
+And he said that @@@ he got this when he was 20.
+
+DOCTOR W204
+Hmm.
+
+PATIENT W204
+Why do he have it when he was 20?
+
+DOCTOR W204
+I don't know him.  I don't know why he had it when he was 20.
+
+PATIENT W204
+I talked to him and he said that he got a cream, he said a Benadryl cream.
+
+DOCTOR W204
+Benadryl cream.
+
+PATIENT W204
+The doctor gave him the Benadryl cream and he had it about a month and that was it.
+
+DOCTOR W204
+Yeah.  I don't know what Benadryl cream is.  I don't know what he had.
+
+PATIENT W204
+Yeah he got the shingles.
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+When he was 20.
+
+DOCTOR W204
+That's odd to get it in your 20s.
+
+PATIENT W204
+Yeah I talked to another guy and he said that he had it when he was 40.  So why did I wait until I'm 74 and then I get it?
+
+DOCTOR W204
+Some people, people get it at different times.  It's hard to say.  Not everybody gets it at 20 or 40 or 50 and some people don't ever get it.
+
+PATIENT W204
+Oh yeah.
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+But he got it when he was 20.
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+He works in construction now.  Okay well then uh.
+
+DOCTOR W204
+Do you check your blood sugars at home?
+
+PATIENT W204
+Yeah.
+
+DOCTOR W204
+What do they run?
+
+PATIENT W204
+Oh man they run high.
+
+DOCTOR W204
+You increased your medication right?
+
+PATIENT W204
+Yes.
+
+DOCTOR W204
+Well how much are you taking of the metformin?
+
+PATIENT W204
+Metformin I'm taking 1000.
+
+DOCTOR W204
+You're taking 1000 okay.
+
+PATIENT W204
+I'm taking 1000 in the morning and 1000 in the evening.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+It was 252 now.
+
+DOCTOR W204
+Your blood sugars?
+
+PATIENT W204
+Yes.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+It went to 254, now yesterday was 179.
+
+DOCTOR W204
+Uh-huh.
+
+PATIENT W204
+So the metformin stuff is good.
+
+DOCTOR W204
+Yeah but that's not enough.
+
+PATIENT W204
+Well @@@ blood sugar supposed to be the way they treating it here 200s.
+
+DOCTOR W204
+Yeah we're gonna have to add another medication, is that okay?
+
+PATIENT W204
+No.
+
+DOCTOR W204
+Why not?
+
+PATIENT W204
+What other medication, I'm taking enough.
+
+DOCTOR W204
+Well probably either glyburide or it’s another pill.
+
+PATIENT W204
+Uh let me continue with this one and then I give you the ideas.
+
+DOCTOR W204
+But your blood sugars are too high.
+
+PATIENT W204
+Not too high because the 170s, probably if they go over 400s and 300s.
+
+DOCTOR W204
+Yeah but 200 is still high.
+
+PATIENT W204
+And they came down to 200 and they came down to 179s.
+
+DOCTOR W204
+That's still too high.  We want it below 1, you know around 120.
+
+PATIENT W204
+Uh give me the time and we’ll find out, because I just started.
+
+DOCTOR W204
+You started.
+
+PATIENT W204
+Started in @@@.
+
+DOCTOR W204
+In the beginning of March.
+
+PATIENT W204
+Yes that started, that's what it takes but I didn't know.
+
+DOCTOR W204
+But that's long enough.
+
+PATIENT W204
+I think that's what it takes.  Let me continue with this and find out.
+
+DOCTOR W204
+Okay.  You know it puts you at higher risk of having a heart attack right.
+
+PATIENT W204
+Ah.
+
+DOCTOR W204
+And it's probably why your shingles isn't healing.
+
+PATIENT W204
+What about that cause the shingle now, let me continue with it 200 and find out.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+Because it’s too soon. Too soon to try it.
+
+DOCTOR W204
+Alright.  Your blood pressure's too high too.
+
+PATIENT W204
+Yeah but @@@ sometimes its high, sometimes it’s okay.
+
+DOCTOR W204
+But you're taking the medications?
+
+PATIENT W204
+Yes.
+
+DOCTOR W204
+Oh you are on glipizide.
+
+PATIENT W204
+@@@ glipizide.
+
+DOCTOR W204
+You are.  How much are you taking?
+
+PATIENT W204
+Taking, I don't know, I don't remember @@@.  Glipizide.  
+
+DOCTOR W204
+You're taking 10 maybe.
+
+PATIENT W204
+Yes 10 mg glipizide.
+
+DOCTOR W204
+10 okay.
+
+PATIENT W204
+Amlodipine I'm taking it 10 mg..
+
+DOCTOR W204
+If we can increase the glipizide, I don’t know if we can, but would you be okay with that?
+
+PATIENT W204
+With what?
+
+DOCTOR W204
+With increasing the glipizide?
+
+PATIENT W204
+No.  Because I'm taking glipizide and I'm taking metformin.
+
+DOCTOR W204
+I know but your blood sugar is too high.  Are you, did you take the enalapril today?
+
+PATIENT W204
+Yeah.
+
+DOCTOR W204
+You did?
+
+PATIENT W204
+Yes.
+
+DOCTOR W204
+Would you be okay with adding another medication for your blood pressure?
+
+PATIENT W204
+No.
+
+DOCTOR W204
+@@@.
+
+PATIENT W204
+They changed it from what it is.
+
+DOCTOR W204
+Are you taking amlodipine, you said you're taking amlodipine too.
+
+PATIENT W204
+That's another well see I'm taking @@@.  I'm taking gabapentin, taking @@@.
+
+DOCTOR W204
+Uh-huh.
+
+PATIENT W204
+I'm taking metformin.
+
+DOCTOR W204
+Uh-huh.
+
+PATIENT W204
+Taking pantoprazole and taking enalapril.
+
+DOCTOR W204
+Uh-huh.
+
+PATIENT W204
+That's enough pills for one person.
+
+DOCTOR W204
+Are you taking amlodipine or not?
+
+PATIENT W204
+I am taking amlodipine.  That's too many pills for one person.
+
+DOCTOR W204
+Uh the problem is your, okay you know the risks though.  Your blood pressure's too high, you can have a stroke.
+
+PATIENT W204
+The blood pressure's go high and the blood pressures go down, blood pressures go down, blood pressure was 252 and it went down right now to 179, 160, 149.
+
+DOCTOR W204
+Yeah but that's still too high.
+
+PATIENT W204
+139, you want it 120 right?
+
+DOCTOR W204
+Yeah I do.
+
+PATIENT W204
+Yep, 120.
+
+DOCTOR W204
+Alright, let’s work on your diabetes first, that's the main thing.
+
+PATIENT W204
+Sometimes it goes down; blood pressure goes down, goes up and goes down.
+
+DOCTOR W204
+Alright, we're gonna see you back in a month.  If your blood sugar is still too high.
+
+PATIENT W204
+Yeah.
+
+DOCTOR W204
+We're gonna have to add something or go up on one of your medications.
+
+PATIENT W204
+Yeah.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+Yeah.
+
+DOCTOR W204
+Is that okay.
+
+PATIENT W204
+Yeah one month, yeah.
+
+DOCTOR W204
+In one month and it may have to be insulin.
+
+PATIENT W204
+No, I don't want to do it.
+
+DOCTOR W204
+Even if it means you could die?
+
+PATIENT W204
+Exactly.  I don't want no insulin.
+
+DOCTOR W204
+Okay well I want you to think about it.
+
+PATIENT W204
+@@@.  Sometimes it coming up and exercise and other stuff @@@.  What I want to do is get rid of this pain.
+
+DOCTOR W204
+We'll work on the pain okay.  But that's also not going to get better if your blood sugar is too high, your body can't fight infections.
+
+PATIENT W204
+That so.
+
+DOCTOR W204
+And that's what's happening.  So shingles is an infection.
+
+PATIENT W204
+They say that shingles come from a virus.
+
+DOCTOR W204
+Yeah it is a virus and that's an infection and your body can't fight it if your blood sugar is too high.
+
+PATIENT W204
+Oh yeah.
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+Hmm, what can they do for the blood sugars?
+
+DOCTOR W204
+That's what I'm saying.  We could either increase, I don't know I have to check if I can increase your glipizide but I think you might be on the maximum dose and then we would have to add insulin.
+
+PATIENT W204
+Maximum dose of what?
+
+DOCTOR W204
+The glipizide, the 10 mg.
+
+PATIENT W204
+@@@ diabetes, I be taking the glipizide, I'm taking enough glipizide.
+
+DOCTOR W204
+Well for some people that's enough but for you it’s not.  Your diabetes is more severe.
+
+PATIENT W204
+@@@.  Uh-huh.  Okay give me a month then @@@.
+
+DOCTOR W204
+Okay, alright let me talk to DOCTOR okay.
+
+PATIENT W204
+DOCTOR still here?
+
+DOCTOR W204
+Yep.
+
+PATIENT W204
+Oh, supposed to be a patient @@@ six months or seven months.
+
+DOCTOR W204
+Okay let me talk to her and I'll be back.
+
+PATIENT W204
+Okay.
+
+(DOCTOR OUT: 34:03  DOCTOR IN:  41:30)
+
+PATIENT W204
+I got another appointment for 3 o'clock now.
+
+DOCTOR W204
+At 3, well okay. I didn’t know taht.
+
+PATIENT W204
+@@@ in the computer.
+
+DOCTOR W204
+Yeah.  But you came late.
+
+PATIENT W204
+@@@ I don't know is I got to go to the drug store and I got to go, you get the medicine right there, you put it in the computer right.
+
+DOCTOR W204
+I'm putting them in.  Okay.  That's fine.  I can put in the medications um.  Do you want to go to the Pain Clinic to see if they can do something else for your pain?
+
+PATIENT W204
+The Pain Clinic, what is the Pain Clinic @@@?
+
+DOCTOR W204
+It's here.  It's in the hospital.  They may be able to do something else for your pain.
+
+PATIENT W204
+Uh-huh.
+
+DOCTOR W204
+But it's up to you.  Do you want to go?
+
+PATIENT W204
+Yeah.  But I want to go to the other place before they close, the place I have an appointment.
+
+DOCTOR W204
+Okay.  Let me.
+
+PATIENT W204
+When I got the appointment nothing but a half an hour and they told me to come for this appointment.
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+How much is the Pain appointment?
+
+DOCTOR W204
+How much?
+
+PATIENT W204
+Yeah how long is it going to take.
+
+DOCTOR W204
+They're not gonna do it today, they'll call you with it.
+
+PATIENT W204
+Oh yeah.
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+Oh okay then they could call me anytime and then make the appointment cause I want to go to this other place.
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+This other place wanted to @@@.
+
+DOCTOR W204
+Okay how about you go to the, your other appointment.  I'll put in these meds, the two meds that the doctor said.
+
+PATIENT W204
+Yeah.
+
+DOCTOR W204
+In the computer and then you can go pick it up from the Pharmacy.
+
+PATIENT W204
+Yes.
+
+DOCTOR W204
+And they'll send you a letter in the mail regarding the Pain appointment.
+
+PATIENT W204
+Okay.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+@@@.
+
+DOCTOR W204
+Okay.
+
+PATIENT W204
+Okay.
+
+DOCTOR W204
+How's that?
+
+PATIENT W204
+Okay and I come back in a month I definitely will need a paper to get to, I got to put in the office there.
+
+DOCTOR W204
+Alright.  When are you checking your blood sugars?
+
+PATIENT W204
+Huh?
+
+DOCTOR W204
+When are you checking your blood sugars?  Are you checking them after you eat?  Before you eat?
+
+PATIENT W204
+Before I eat.
+
+DOCTOR W204
+Okay keep doing that.
+
+PATIENT W204
+Okay before I eat.
+
+DOCTOR W204
+Yes and can you bring in your meter next time?
+
+PATIENT W204
+Yeah but I mean before I eat, that means before I eat, I eat.
+
+DOCTOR W204
+No check your blood sugars.
+
+PATIENT W204
+Before I eat.
+
+DOCTOR W204
+Before you eat.
+
+PATIENT W204
+I can't do that.
+
+DOCTOR W204
+Why not?
+
+PATIENT W204
+Because you're supposed to take nothing today, my pills before you eat, you empty stomach.
+
+DOCTOR W204
+I'm not telling you to take your pills then; just I just want to know what the blood sugar is.
+
+PATIENT W204
+The blood sugar you're telling me to take it before I eat.
+
+DOCTOR W204
+Yes.
+
+PATIENT W204
+But I can't do that.
+
+DOCTOR W204
+Why not?
+
+PATIENT W204
+Because you're not supposed to take no pills before you eat.
+
+DOCTOR W204
+I'm not saying take your, not to take your pills, check you know how you poke your finger and take your blood.
+
+PATIENT W204
+Yeah and then.
+
+DOCTOR W204
+Do that before you eat.
+
+PATIENT W204
+And then yeah, I do that before I eat.
+
+DOCTOR W204
+Oh okay well that's it.
+
+PATIENT W204
+And then uh before I eat and then I take the pills after I eat.
+
+DOCTOR W204
+Okay that's fine.
+
+PATIENT W204
+Okay.  And this I give to the people @@@.
+
+DOCTOR W204
+Up front.
+
+PATIENT W204
+And you want to put in the computer.
+
+DOCTOR W204
+I'm going to put the medicines in the computer.
+
+PATIENT W204
+Okay, don't forget now.
+
+DOCTOR W204
+Okay.  I'm not; I'm doing it right now.
+
+PATIENT W204
+Oh then what you set-up to come back in a month?
+
+DOCTOR W204
+Yeah.
+
+PATIENT W204
+You put it in over here.
+
+DOCTOR W204
+That's what that paper is.
+
+PATIENT W204
+Okay.
+
+PATIENT LEAVES:  45:24
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286130
+TRANSACTION # 578-10-2-316-0103

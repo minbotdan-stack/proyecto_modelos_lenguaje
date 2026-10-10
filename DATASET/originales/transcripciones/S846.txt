@@ -1,0 +1,1136 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+DOCTOR S846
+PATIENT?
+ 
+PATIENT S846
+Yes.
+
+DOCTOR S846
+How's it going?  I'm DOCTOR.  You got your reports?
+
+PATIENT S846
+Yeah shall we take a look at the EKG?
+
+DOCTOR S846
+When did you get an EKG?
+
+PATIENT S846
+Uh three weeks ago.
+
+DOCTOR S846
+Why'd you get an EKG?  Did I order that or?
+
+PATIENT S846
+Uh no another doctor ordered it uh.  I had uh; well I had a period of shortness of breath.  I'm on the Agent Orange Registry and I said I'd better get an EKG to check for ischemia cause I know that came up on me.
+
+DOCTOR S846
+You're on the what registry?
+
+PATIENT S846
+The Agent Orange Registry.
+
+DOCTOR S846
+Oh okay.
+
+PATIENT S846
+And that's a result, I was exposed to it.  I said we better check that and that EKG showed ischemia and it was very irregular and we kind of.
+
+DOCTOR S846
+Do you have chest pain?
+
+PATIENT S846
+Uh no but I know I get dizzy once in a while.  That could be from the blood pressure going up sometimes.  I got, see when I first started coming here my pressure was way up, now you got it under control but uh I been.
+
+DOCTOR S846
+So you got the chest x-rays because you're short of breath?
+
+PATIENT S846
+Uh the EKG?
+
+DOCTOR S846
+Yeah EKG.
+
+PATIENT S846
+Yeah I was concerned because it came up on me @@@ before the Agent Orange.
+
+DOCTOR S846
+Yeah.
+
+PATIENT S846
+And it came up on the registry and pluls I have high blood pressure so you know.
+
+DOCTOR S846
+Uh-huh.
+
+PATIENT S846
+From Vietnam so I was a little concerned about that so we said we better get an EKG.
+
+DOCTOR S846
+And what symptoms were you having?  You were feeling short of breath when you walked or just when you were resting?
+
+PATIENT S846
+Uh when I walk.
+
+DOCTOR S846
+When you walk and how long had that been going on?
+
+PATIENT S846
+Uh it's just off and on.
+
+DOCTOR S846
+How many blocks can you walk before you get short of breath or how many flights of stairs can you walk before you get short of breath?
+
+PATIENT S846
+Uh I can maybe go at least a flight.
+
+DOCTOR S846
+Is that new or old?  Has that always been the case for a while or is that like that's been here less than a week?
+
+PATIENT S846
+No it's been like this for quite a while.
+
+DOCTOR S846
+Quite a while of years?
+
+PATIENT S846
+Years. Since Vietnam.
+
+DOCTOR S846
+Okay.  So your shortness of breath when you exert yourself is not new wouldn't you say?
+
+PATIENT S846
+No, no it's not @@@.
+
+DOCTOR S846
+So uh what did it get worst that made you say or did you just see the registry and like hey I better get my.
+
+PATIENT S846
+Oh yeah, that's basically what I did, yeah that's why I started taking a look.
+
+DOCTOR S846
+So I'm taking a look at it now.  Let me just print it out, let's see here.
+
+PATIENT S846
+And I talked to the nurse.  She said it's probably the dizziness.  I need to quit smoking.  I've tried to quit smoking 20 times and the problem when I smoke it runs my pressure up and that probably what makes me dizzy once in a while so.  It's not all the time.
+
+DOCTOR S846
+Yeah I.
+
+PATIENT S846
+So I got to quit smoking I know that.
+
+DOCTOR S846
+The best thing you can do for yourself is to quit smoking.
+
+PATIENT S846
+Yeah.
+
+DOCTOR S846
+How are you doing at that?
+
+PATIENT S846
+I cut it down.
+
+DOCTOR S846
+Well you were up to a pack a day the last time I saw you.
+
+PATIENT S846
+Yeah I'm at a half now.
+
+DOCTOR S846
+At half pack a day.
+
+PATIENT S846
+Yeah and if I could get it.
+
+DOCTOR S846
+You go to the Smoking Cessation Clinic?  They can help.
+
+PATIENT S846
+Yeah I'm trying to do it on my own.
+
+DOCTOR S846
+Trying to do it on your own?
+
+PATIENT S846
+Yeah.
+
+DOCTOR S846
+Okay.
+
+PATIENT S846
+If it don't work then I'll go to the clinic.
+
+DOCTOR S846
+Cause on Monday you don't need an appointment you just walked in.
+
+PATIENT S846
+You mean right here?
+
+DOCTOR S846
+Yeah no appointment.
+
+PATIENT S846
+Well I.
+
+DOCTOR S846
+Do you want me to give you the information to you?
+
+PATIENT S846
+Yeah, yeah I'll come up.
+
+DOCTOR S846
+You walk in, you don't need an appointment there’s one on Monday they'll give you gums, patches.
+
+PATIENT S846
+Yeah.
+
+DOCTOR S846
+And the other one on Wednesdays is more like a group thing, kind of like working through a group thing but you can't get any of the gums or patches on that one.
+
+PATIENT S846
+But I can just walk in on Monday?
+
+DOCTOR S846
+You can just walk in.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+Okay.
+
+PATIENT S846
+Yeah.
+
+DOCTOR S846
+Let me give you the information.
+
+PATIENT S846
+I've cut it down but I need to quit.
+
+DOCTOR S846
+Yeah that would definitely be the best thing you can do for your health.
+
+PATIENT S846
+Yeah.
+
+DOCTOR S846
+Is to prevent cancer, you get lung cancer you know with smoking.  You increase your chances like 10 times and you can increase your chance of getting a heart attack or a stroke by multiple times by smoking so a lot of risk factors with the smoking definitely uh, you know.
+
+PATIENT S846
+Now I have the ischemia what was my concern, my family that cuts 
+down on you, that means you're not getting oxygen to some part of your heart.  @@@.
+
+DOCTOR S846
+Ischemia just means like a heart attack.  In medical terms they call it a myocardial ischemia.
+
+PATIENT S846
+Uh-huh.
+
+DOCTOR S846
+That just means you know the heart's not getting oxygen like you said.
+
+PATIENT S846
+Right.
+
+DOCTOR S846
+When your tissues don't get oxygen they start dying.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+So when your heart muscle starts dying, okay that's what we call a heart attack and obviously.
+
+PATIENT S846
+You’re at risk.
+
+DOCTOR S846
+Yeah.  So you get a lot of other problems besides that and the heart can sometimes recover but it can never recover fully and that's when people get what we call congestive heart failure with the heart not pumping as much as it can and they get you know a lot more deconditioned and they can't you know you may know people who can walk from this end of the room to that end of the room without ever getting short of breath.
+
+PATIENT S846
+Yeah. I’m not like that.
+
+DOCTOR S846
+You know they're probably not able so that's what I'm saying like that's what happens.
+
+PATIENT S846
+Can I, can I improve on that maybe by a treadmill or something like that?  Would that help it?
+
+DOCTOR S846
+Diet, exercise, weight loss, cutting out smoking, controlling your blood pressure all those things will prevent.  These have all been studied, widely studied right and they look at people and they say what we should do, what can we do to prevent heart attacks and the thing they found is you know controlling your blood pressure.
+
+PATIENT S846
+Uh-huh.
+
+DOCTOR S846
+Have your pressure in good control.
+
+PATIENT S846
+Yeah.  Quit smoking.  I got to quit smoking.
+
+DOCTOR S846
+You know controlling your cholesterol, cause cholesterol can cause heart attacks.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+Okay.  Quitting smoking okay.  Age, you can't change that.  Genetics, you can't change that.
+
+PATIENT S846
+But how can Agent Orange cause that?
+
+DOCTOR S846
+Agent Orange?
+
+PATIENT S846
+Yeah.
+
+DOCTOR S846
+Uh.
+
+PATIENT S846
+They told me that's related?
+
+DOCTOR S846
+Uh I don't know, I actually have to look into Agent Orange, I'm not an expert on Agent Orange.
+
+PATIENT S846
+Okay.  I'm know I'm on the registry.
+
+DOCTOR S846
+But Agent Orange, so I know there are some lung uh and there's some uh.
+
+PATIENT S846
+They said high blood pressure.
+
+DOCTOR S846
+There's some cancers that can be related to Agent Orange.
+
+PATIENT S846
+Yeah.
+
+DOCTOR S846
+Uh lymphomas.
+
+PATIENT S846
+Yeah right.  See I'm on the registry and there was a letter saying that ischemia came up on the list as one of them.
+
+DOCTOR S846
+Yeah, on the list as one of them okay.
+
+PATIENT S846
+And I just figured, how could they know that caused it?
+
+DOCTOR S846
+So the Urology Clinic people they're following your PSAs?
+
+PATIENT S846
+Yeah.
+
+DOCTOR S846
+Oh you saw them in March.
+
+PATIENT S846
+Yes he's following that.
+
+DOCTOR S846
+And we'll work on that.  How's the, your blood pressure medicines you're still taking all of them?
+
+PATIENT S846
+I been taking all of them.  Uh they told me if I could start working out maybe we can eliminate one but right now I'm taking all of them.  But it's keeping my pressure down.
+
+DOCTOR S846
+You're taking metoprolol and you're taking the hydrochlorothiazide and Losartan all those pills?
+
+PATIENT S846
+Right, yes.
+
+DOCTOR S846
+And you're taking the amlodipine?
+
+PATIENT S846
+Yes.
+
+DOCTOR S846
+Alright um yes and then you remember a low salt diet cause a low salt diet will help prevent you know, you from getting high blood pressure as well.  Um.
+
+PATIENT S846
+Eating a lot of seafood now.
+
+DOCTOR S846
+How's your mood been doing?  Do you still follow with the psychiatrist and everything?
+
+PATIENT S846
+Yeah my PTSD is getting worse.  I haven't worked in eight months.  
+
+DOCTOR S846
+Yeah.
+
+PATIENT S846
+Uh I'm under a lot of stress and like I said when I heard about this ischemia with my heart it made me worse cause you know I hadn't been sleeping but the doctor did give me some, I got some, I came in and got some pills for the stress.
+
+DOCTOR S846
+Okay.
+
+PATIENT S846
+I get too, a little bit too upset but uh that's why I'm trying to work on everything.  I mean I'm on the internet and you know my family's working with me.
+
+DOCTOR S846
+No chest pain, no pressure, no palpitations um?
+
+PATIENT S846
+No.
+
+DOCTOR S846
+And no shortness of breath at rest and you have a little bit of dyspnea on the, a little bit of shortness of breath when you move.
+
+PATIENT S846
+When I exert myself.
+
+DOCTOR S846
+Yeah okay.
+
+PATIENT S846
+I think maybe that's from not being, not working out.
+
+DOCTOR S846
+Any of those night sweats any more or fevers or chills at night?
+
+PATIENT S846
+I still get night sweats.
+
+DOCTOR S846
+You still get night sweats?
+
+PATIENT S846
+Yes.
+
+DOCTOR S846
+And it is, uh how long have you had your night sweats for?
+
+PATIENT S846
+Since Vietnam.  I wake up.
+
+DOCTOR S846
+Vietnam.
+
+PATIENT S846
+I sleep maybe two hours then I can't sleep.
+
+DOCTOR S846
+Yeah.  I know we had tried a new sleep aid on yo,u right.  Didn't Psychiatry give you a new prescription?
+
+PATIENT S846
+I tried that.
+
+DOCTOR S846
+Is that helping or not helping anymore?
+
+PATIENT S846
+It did help because uh.
+
+DOCTOR S846
+Yeah.
+
+PATIENT S846
+Before I was trying to drink beer to go to sleep.  I don't like alcohol.
+
+DOCTOR S846
+You're not drinking anymore, right?
+
+PATIENT S846
+Oh no, no.
+
+DOCTOR S846
+Good.
+
+PATIENT S846
+The pills eliminated that so.
+
+DOCTOR S846
+Good.
+
+PATIENT S846
+It helps.
+
+DOCTOR S846
+Alright.  So you're still getting the night sweats a little bit.
+
+PATIENT S846
+Oh yes.
+
+DOCTOR S846
+But you think it may be related to PTSD?
+
+PATIENT S846
+I know it is.
+
+DOCTOR S846
+Okay we sent a bunch of tests off.  Those were all negative.  Just to let you know the hepatitis B, C, thyroid and it was normal.  Your blood tests look good.
+
+PATIENT S846
+Great.
+
+DOCTOR S846
+And that's all you know good news.
+
+PATIENT S846
+And those sweats all from PTSD yeah.
+
+DOCTOR S846
+Yeah.
+
+PATIENT S846
+That's something I'm have to live with.
+
+DOCTOR S846
+You get any chest pain when you exert yourself or just the shortness of breath?
+
+PATIENT S846
+Just a little shortness of breath that's all.
+
+DOCTOR S846
+Okay.  And besides having this do you ever pass out?
+
+PATIENT S846
+No, no, no.  I just get a little dizzy. 
+
+DOCTOR S846
+You know is it dizzy when you stand up, like is it positional or is it even if you're laying in bed you can get this dizziness.
+
+PATIENT S846
+Uh usually standing up.
+
+DOCTOR S846
+When you're standing up.
+
+PATIENT S846
+Uh yeah you know what it is like see, when I was in the Marine Corps.
+
+DOCTOR S846
+Uh-huh.
+
+PATIENT S846
+If you smoke.
+
+DOCTOR S846
+Yeah.
+
+PATIENT S846
+And during basic training I only smoked two cigarettes a day.
+
+DOCTOR S846
+Right.
+
+PATIENT S846
+Because by not smoking regular and stuff like that, you know when you smoke a cigarette you get dizzy.
+
+DOCTOR S846
+Yeah.
+
+PATIENT S846
+That's what kind of dizziness I get.
+
+DOCTOR S846
+Okay.
+
+PATIENT S846
+So I say well maybe that's from smoking cigarettes.
+
+DOCTOR S846
+Maybe it’s from smoking cigarettes.
+
+PATIENT S846
+Yeah that's the same dizziness I got when I was in boot camp.
+
+DOCTOR S846
+Yeah.
+
+PATIENT S846
+Cause I was only smoking two cigarettes a day.
+
+DOCTOR S846
+Yeah.  @@@ deep breath in and out.  Again.  Good, again.  Good again.  Good again.  @@@.  Okay.  Do you need refills on medications today?
+
+PATIENT S846
+Uh no I think I'm okay right now.  So then the EKG, that's something I should be really concerned about?
+
+DOCTOR S846
+Yeah I'm gonna take a look at it.
+
+PATIENT S846
+Oh, oh you @@@.
+
+DOCTOR S846
+It's in the computer but it's easier to look at uh, easier to look at it on paper.
+
+PATIENT S846
+Yeah.  My wife thinks she’s a doc, she’s scared to death when she saw it.  I had a copy of it but I told her, let me talk to the doctor.
+
+DOCTOR S846
+Yeah I'm gonna take a look at it right now.
+
+(DOCTOR OUT:  43:03  DOCTOR IN:  49:19)
+
+DOCTOR S846
+Let me get that for you.
+
+PATIENT S846
+Let me ask you something, does the high blood pressure make you sleepy all the time, a lot?
+
+DOCTOR S846
+No it shouldn't.
+
+PATIENT S846
+Cause I'm sitting up watching TV and a lot of times I get sleepy and my wife thought maybe it was the high blood pressure.
+
+DOCTOR S846
+Uh no.  Blood pressures, high blood pressures don't make you sleepy.
+
+PATIENT S846
+That's fine, it's probably.
+
+DOCTOR S846
+Sometimes medicines can do that.
+
+PATIENT S846
+It's from not sleeping at night.
+
+DOCTOR S846
+Okay.
+
+PATIENT S846
+Well that's been since Vietnam.
+
+DOCTOR S846
+Have a seat up here.  
+
+(DOCTOR OUT:  49:51  DOCTOR IN: 60:32)
+
+DOCTOR S846
+Alright.  @@@ no appointment needed.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+You can just walk in any time between this time.
+
+PATIENT S846
+Good.
+
+DOCTOR S846
+Alright.
+
+PATIENT S846
+How'd that EKG look to you?
+
+DOCTOR S846
+Well the EKG you got, yeah so these waves right here that are upside, these are supposed to be pointing up.
+
+PATIENT S846
+The inverted P waves.
+
+DOCTOR S846
+The waves that are going up.
+
+PATIENT S846
+An inverted T wave right.
+
+DOCTOR S846
+Inverted T waves.
+
+PATIENT S846
+T wave, yeah Q, R, S and T yeah.
+
+DOCTOR S846
+If they're reading up or someone's been telling you?
+
+PATIENT S846
+My wife’s a respiratory therapist.
+
+DOCTOR S846
+Okay yeah.
+
+PATIENT S846
+And she say yeah it looks like ischemia but I said let me talk to the doctor.
+
+DOCTOR S846
+Yeah.  So you have inverted T waves.  These are nonspecific, it means that it's, you know if we could say wow this means that you have, that you're having a heart attack.  Right or something like that. This could mean that people would have had like prior, maybe some damage to the heart.
+
+PATIENT S846
+Uh-huh.
+
+DOCTOR S846
+They will have it and other times people will be normal and they'll have this.
+
+PATIENT S846
+Oh okay.
+
+DOCTOR S846
+Okay so it's not specific.  It's not necessarily but you do have some of those inverted T's here and then the fact that your, these waves are really high, they're indicate like hypertrophy, that the muscle of the.
+
+PATIENT S846
+It's called high blood pressure.
+
+DOCTOR S846
+Right, right.
+
+PATIENT S846
+Yeah QRS complex.
+
+DOCTOR S846
+Right exactly.
+
+PATIENT S846
+So maybe it was ischemic.
+
+DOCTOR S846
+Well it's not ischemic, this doesn't necessarily mean ischemia it just means that you have high blood pressure.
+
+PATIENT S846
+Oh okay.
+
+DOCTOR S846
+Okay.  This, these flipped T's mean that uh, you know it could mean ischemia, prior ischemia.
+
+PATIENT S846
+Oh okay.
+
+DOCTOR S846
+Okay.
+
+PATIENT S846
+Alright.
+
+DOCTOR S846
+The fact that these waves aren't really elevated means that you're not having like a heart attack like right now or something.
+
+PATIENT S846
+Oh okay.
+
+DOCTOR S846
+But this may or may not so I think the best thing to do would be, since you got the shortness of breath when you walked is just to do a stress test.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+A treadmill stress test.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+They put some things on your chest.
+
+PATIENT S846
+Uh-huh.
+
+DOCTOR S846
+Stick these on the chest, you run on a treadmill or walk on a treadmill; under stress situation and they see if your heart has any ischemia.
+
+PATIENT S846
+Oh okay.
+
+DOCTOR S846
+Okay.
+
+PATIENT S846
+Alright.
+
+DOCTOR S846
+So we'll set that up.
+
+PATIENT S846
+Okay thank you.
+
+DOCTOR S846
+Right that's one.  The second have you ever been on cholesterol medicine?
+
+PATIENT S846
+No.
+
+DOCTOR S846
+Okay.  So, are you fasting today or did you eat?
+
+PATIENT S846
+I haven't eaten anything that's why my stomach's growling.
+
+DOCTOR S846
+Okay.  Well I'm gonna lay out two options for you okay.  Let me show you something.  This is your cholesterol profile.  Okay this was in January of this year, this is what we got recently last time I saw you.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+This is what it was in 2008.  LDL, LDL cholesterol is the bad cholesterol.  We want as less of that as possible okay in our body.  You are 117, that's pretty good.  I mean a normal healthy person, a young healthy person we want 160 or less.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+Okay and uh with someone with high blood pressure, as we get older we may be like the number 130 or less so you're still at that goal.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+But in January you were 176, it's fairly high.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+For a guy that, your risk factor for heart attack are high blood pressure, your age and you're smoking.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+Okay so those three risk factors if you put it into a calculator and with your cholesterol profile puts you at risk of having a heart attack at about 25% in the next ten years.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+Okay.  So we want to lower that risk as much as possible okay.  So your goal by that calculator would be this goal should be less than 100.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+But you're above on that okay.  Your HDL that's the good cholesterol okay.  We want that at least 45 or above in males.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+So you're good there.  You have enough of the good cholesterol.  Triglycerides are okay.  Your total cholesterol number is high as well.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+Okay which is probably reflective of that as well.  So this number is pretty high.
+
+PATIENT S846
+So I got to get that LDL down uh.
+
+DOCTOR S846
+You get the LDL down so, this one is, we could either since this number was so good and this was in 2008, I'm going to lay out the option we could either A recheck it.
+
+PATIENT S846
+Uh-huh.
+
+DOCTOR S846
+And then based on what that shows we'd start you on a cholesterol medicine or we just go ahead and bite the bullet and start the cholesterol medicine today.
+
+PATIENT S846
+I would rather maybe recheck it because we cut down on a lot of the fatty; we eat a lot of fish now.
+
+DOCTOR S846
+Okay.
+
+PATIENT S846
+So uh I'd rather recheck it.  @@@.
+
+DOCTOR S846
+With diet and exercise, if you optimize the diet, you can lower this by about, they say about 15%.
+
+PATIENT S846
+Without medications.
+
+DOCTOR S846
+Without medications.
+
+PATIENT S846
+Okay.  @@@.
+
+DOCTOR S846
+Okay so you know.  If you lower this that 15%, you know you take 15% off of this, that still wouldn't take you at the goal of 100 or less.
+
+PATIENT S846
+Right.
+
+DOCTOR S846
+I just want you to understand that.
+
+PATIENT S846
+Right.
+
+DOCTOR S846
+Now if you do optimizing nutrition in your diet, I don't want you and this gets lower I don't want you and we still start you on cholesterol medicine I don't want that to discourage you or do all this work and it meant nothing.
+
+PATIENT S846
+Yeah.
+
+DOCTOR S846
+Right that's not true because you won't need that high of a dose of the medicine A or as you continue to exercise or if you cut out your smoking, you know your other risk factors may go away.  Smoking is a big one that you could change.  
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+Your age you probably can't change right.
+
+PATIENT S846
+Right.
+
+DOCTOR S846
+You can't do anything about your age and you have to change the fact that you have high blood pressure.
+
+PATIENT S846
+Right.
+
+DOCTOR S846
+We can control it, we can't change the fact that you have it okay, we can’t change the fact that you had it, but you can change the fact that you smoke and that will change your risk okay.
+
+PATIENT S846
+Yeah I'd rather see if I can get that LDL down and have it rechecked.
+
+DOCTOR S846
+So you haven’t, you haven't ate today so would you like to have it rechecked today?
+
+PATIENT S846
+Uh I'd rather do it on the next visit cause I'd like to try to do something to get it down.
+
+DOCTOR S846
+Okay.
+
+PATIENT S846
+Uh if possible because you know that's a big jump from 117 to 176.
+
+DOCTOR S846
+Yeah it is a big.
+
+PATIENT S846
+@@@?
+
+DOCTOR S846
+Yeah this was in September of 08 you know.
+
+PATIENT S846
+Yeah it could've been the diet, you know if you ask me.
+
+DOCTOR S846
+I don't know if you were fasting that day either.  That shouldn't throw things off too much because if you were eating and it was real high because you're eating your triglycerides would have been high so I don't think, I think these are fairly accurate measurements.
+
+PATIENT S846
+Oh wait a minute, you know why it's up, my weight's gone up 20 pounds.  See I normally keep it at a constant weight.  I'm 20 pounds higher, I'm normally 165.
+
+DOCTOR S846
+Yeah and you're 180, you're 185.
+
+PATIENT S846
+Yeah right, right so.
+
+DOCTOR S846
+So.
+
+PATIENT S846
+It's this extra weight.
+
+DOCTOR S846
+Would you like, let me tell you this.
+
+PATIENT S846
+Yeah.
+
+DOCTOR S846
+So do you want us to hold off on starting the medicine or would you like to start a low dose of the cholesterol medicine, do your diet and exercise.
+
+PATIENT S846
+What are the side effects?
+
+DOCTOR S846
+Side effects of the cholesterol medicines it's generally a safe medicine.  You can get some muscle pain with it.
+
+PATIENT S846
+Oh, that no problem.
+
+DOCTOR S846
+You can get some muscle pain with it.  If you get muscle pain with it you stop it and you come back and tell us.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+But that's the major side effect.
+
+PATIENT S846
+Oh okay, yeah a low dose maybe.
+
+DOCTOR S846
+You want to try a low dose?
+
+PATIENT S846
+Yes I would like to try it.
+
+DOCTOR S846
+We'll start a low dose.
+
+PATIENT S846
+Okay yeah I was worried about side effects.
+
+DOCTOR S846
+I want you to still do the diet and exercise and I want you to lose those extra pounds.
+
+PATIENT S846
+Yeah.  I mean.
+
+DOCTOR S846
+That way when we check it in six months your cholesterol may be at the goal we want it and we could maybe.
+
+PATIENT S846
+Take me off it?
+
+DOCTOR S846
+Exactly.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+Alright.
+
+PATIENT S846
+Yeah I am 20 pounds over my weight so.
+
+DOCTOR S846
+Yeah and you're not going to be able to lose that weight overnight.  You know it's going to take some time so maybe the cholesterol medicine might be a good thing to start you with okay.
+
+PATIENT S846
+Uh-huh.  Yeah cause I mean if it was low, I was 20 pounds lighter so then I gained this weight and the cholesterol goes up.  That's got to be it.
+
+DOCTOR S846
+You want to pick it up today or do you want it sent to you?
+
+PATIENT S846
+Uh they can send it to me.
+
+DOCTOR S846
+Okay.  So take this medicine at night okay?
+
+PATIENT S846
+Okay.  Just one time a night.
+
+DOCTOR S846
+One time a night.  The reason why we have it at night cause actually your cholesterol level goes high at night.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+Okay while you're sleeping.  It's the natural cycle of the body so when you take it in the evening dose.  Okay it's going to give you instructions like it's a 20 mg tablet and the instructions are to break it in half so I only started you on a low dose, 10 mg okay.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+Um.
+
+PATIENT S846
+So I just take one half each night.
+
+DOCTOR S846
+Each night.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+Okay.  I renewed your other blood pressure medicines which isn't a problem alright.  You're going to try to quit smoking and I'll give you the information on that.
+
+PATIENT S846
+Right.
+
+DOCTOR S846
+And uh let me order the stress test.  Now they're gonna send you out a letter telling you when to come in for the stress test okay.
+
+PATIENT S846
+Okay no problem.
+
+DOCTOR S846
+Um and you may need to stop your uh, just hold your metoprolol.
+
+PATIENT S846
+Okay.
+
+DOCTOR S846
+They'll give you instructions.
+
+PATIENT S846
+The day…
+ 
+DOCTOR S846
+Okay.  That lowers your heart rate a little bit so they don't want you to take that until the day before your exam.
+
+PATIENT S846
+Now that stress test is to see if I got a problem with my heart?
+
+DOCTOR S846
+Yes.
+
+PATIENT S846
+Oh good okay.
+
+DOCTOR S846
+Right.
+
+PATIENT S846
+Right.
+
+DOCTOR S846
+You're on 50 mg of metoprolol right?
+
+PATIENT S846
+Uh yes.
+
+DOCTOR S846
+Yeah okay so yeah so they'll give you instructions on like what to do right before they send you out a thing and instructions like don't eat after midnight so we'll set that up as well and I'll have you back in let's say two or three months and see how you're doing with the weight loss, the smoking and everything else okay.
+
+PATIENT S846
+Yeah if I can get that weight down that cholesterol should go down.
+
+DOCTOR S846
+Yeah.
+
+PATIENT S846
+Yeah okay.
+
+DOCTOR S846
+I agree, I think so. and keep taking your blood pressure medicine.
+
+PATIENT S846
+Oh exactly.
+
+DOCTOR S846
+Yeah don't be stressed out. That’s not good for you, so everything is going to be alright so he's checking out to.
+
+PATIENT S846
+Thank you very much, I feel much better.
+
+DOCTOR S846
+If you have any problems let me know.  Like I said those EKG came back nonspecific so it doesn't mean that you had a.
+
+PATIENT S846
+Oh those tests didn't show that.  
+
+DOCTOR S846
+@@@.
+
+PATIENT S846
+Alright thank you.
+
+PATIENT LEAVES:  71:06
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255097
+TRANSACTION # 578-10-2-316-0103

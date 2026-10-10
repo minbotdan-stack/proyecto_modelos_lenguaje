@@ -1,0 +1,814 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@@
+
+DOCTOR T351
+PATIENT.  
+
+PATIENT T351
+Yeah.
+
+DOCTOR T351
+Come on back.  I'm DOCTOR.  @@@.  How are you feeling?  Did you used to see DOCTOR?
+
+PATIENT T351
+What?
+
+DOCTOR T351
+Did you used to see DOCTOR @@@.  I've been looking at your plan there.  @@@.  Is that not who you used to see?
+
+PATIENT T351
+I don't remember him.
+
+DOCTOR T351
+No?  Let's see.  You saw DOCTOR.
+
+PATIENT T351
+Yeah.
+
+DOCTOR T351
+Last April right?  Oh actually in December you saw him too.  Okay.  Great, so how have you been feeling?
+
+PATIENT T351
+Good.
+
+DOCTOR T351
+Good.  Just a regular old check-up?
+
+PATIENT T351
+Yes.
+
+DOCTOR T351
+No complaints?  Alright, it looks like the last time you were here you had some dizziness right?  When you would stand up or wake up in the morning.
+
+PATIENT T351
+Yeah but I, the prescription that I, the doctor before DOCTOR gave me, what was it, lisinopril.
+
+DOCTOR T351
+Uh-huh.
+
+PATIENT T351
+It, the medication shows that take two pills a day.
+
+DOCTOR T351
+Okay.
+
+PATIENT T351
+But I was taking one in the morning and one at night.
+
+DOCTOR T351
+I see.
+
+PATIENT T351
+And then I was also taking the other one, you know.
+
+DOCTOR T351
+Okay.
+
+PATIENT T351
+And one time, I don't know, the blood pressure was way too low in the morning.
+
+DOCTOR T351
+Yeah.
+
+PATIENT T351
+That's why I was dizzy, you know @@@.
+
+DOCTOR T351
+Oh okay.
+
+PATIENT T351
+Yeah so now I take them both in the morning.
+
+DOCTOR T351
+And it's alright?
+
+PATIENT T351
+Yeah.
+
+DOCTOR T351
+Good.  Then it's okay.
+
+PATIENT T351
+No that is good, the reason for this dizziness was my blood pressure was too low and then I was taking one of those at night, so.
+
+DOCTOR T351
+@@@.
+
+PATIENT T351
+Yeah that's gone.
+
+DOCTOR T351
+Uh how have your blood sugars been?  Okay?
+
+PATIENT T351
+Kind of okay.
+
+DOCTOR T351
+There were like 120s, 140 in the morning, about the same?
+
+PATIENT T351
+Yeah except this morning it was 119, okay.
+
+DOCTOR T351
+Okay.  
+
+PATIENT T351
+Yeah, I see the blood pressure here.
+
+DOCTOR T351
+Very good.
+
+PATIENT T351
+Yeah.  And it was a little less when I got here.
+
+DOCTOR T351
+Good.  Are you still feeling your hands are a little shaky?
+
+PATIENT T351
+No.
+
+DOCTOR T351
+They do okay.
+
+PATIENT T351
+No I got @@@.
+
+DOCTOR T351
+Oh I see.
+
+PATIENT T351
+Oh yeah.
+
+DOCTOR T351
+Um alright how's your diet, I know that's hard to work with.
+
+PATIENT T351
+It's probably the same, nothing crazy, like.  Sometime I work all night sometimes.
+
+DOCTOR T351
+So what do you do?
+
+PATIENT T351
+I have like property.
+
+DOCTOR T351
+Good for you.
+
+PATIENT T351
+Well my son is running it but at times.
+
+DOCTOR T351
+You do that okay.  I understand, I understand.  Um.  Okay um.  You still have some kind of numbness in your right arm?
+
+PATIENT T351
+It's only the, not in the arm, it's just in the pinky and a little bit here you know.
+
+DOCTOR T351
+Okay.
+
+PATIENT T351
+So it's, either it's less noticeable to me now or it's beginning to come back.  I mean the feeling is beginning to come back.
+
+DOCTOR T351
+Right.
+
+PATIENT T351
+Or I guess I'm used to it you know.
+
+DOCTOR T351
+Yeah.
+
+PATIENT T351
+I don't even know about it any more.
+
+DOCTOR T351
+It doesn't change you that much okay.  Um let's see.  I think you had a history of some skin cancer so you saw the dermatologist.
+
+PATIENT T351
+Yeah.
+
+DOCTOR T351
+In the clinic.
+
+PATIENT T351
+Yeah.
+
+DOCTOR T351
+Very good.  Um, no colonoscopy huh?
+
+PATIENT T351
+No.
+
+DOCTOR T351
+No.
+
+PATIENT T351
+I’ll pass.
+
+DOCTOR T351
+You'll pass okay.  Um think about it sometime.
+
+PATIENT T351
+I did yeah.  My much younger sister had it done two weeks ago you know but I.
+
+DOCTOR T351
+Oh and she did okay?
+
+PATIENT T351
+Yeah she's an RN so.
+
+DOCTOR T351
+Oh perfect.
+
+PATIENT T351
+So retired but she was a RN.
+
+DOCTOR T351
+Perfect.  Um I think you're due for a tetanus shot.  Is that something that you'd be okay with?  It's the one you get just like once every ten years.  Um it prevents you from getting tetanus you know if you scrape with any dirty metals, that kind of thing.
+
+PATIENT T351
+Yeah.  I, you know I got it here but I don't remember when.  I know.
+
+DOCTOR T351
+I think it must have been past the ten year deadline cause it's showing up that you're due.
+
+PATIENT T351
+Okay yeah, okay.
+
+DOCTOR T351
+Yes.
+
+PATIENT T351
+Now I'm seeing when I got it.
+
+DOCTOR T351
+Oh.
+
+PATIENT T351
+I think, I know one time I stepped on a board or a nail at the Home Depot and it was my outside doctor gave it to me.
+
+DOCTOR T351
+Oh okay, okay.
+
+PATIENT T351
+It probably was ten years ago.
+
+DOCTOR T351
+Probably was that long then okay.  Still smoking?
+
+PATIENT T351
+No.
+
+DOCTOR T351
+When was the last time you smoked.
+
+PATIENT T351
+Oh you don't smoke okay.
+
+DOCTOR T351
+Drink?
+
+PATIENT T351
+A little bit.
+
+DOCTOR T351
+A little bit okay.  And no drugs.
+
+PATIENT T351
+No, no, no.
+
+DOCTOR T351
+Good.
+
+PATIENT T351
+I take all the drugs you're giving me.
+
+DOCTOR T351
+Oh yeah.  You're like isn't that enough.
+
+PATIENT T351
+No, nobody in my family uses drugs.  Smoked or drugs.
+
+DOCTOR T351
+Alright.  Well let's see how the diabetes is doing.  So it looks those numbers that we monitor your diabetes okay and it was 7.1 in April of last year and 7.3.  So the goal is to get you under 7, that's the goal. 
+
+PATIENT T351
+Okay.
+
+DOCTOR T351
+So right now the only thing you're taking is the Actos.  The what is, the um the diabetes medication is that the only one right?
+
+PATIENT T351
+No the glyburide.
+
+DOCTOR T351
+The glyburide.  Looks like that's expired.
+
+PATIENT T351
+Well I mean it expired, you need to put the prescription in.
+
+DOCTOR T351
+Just renew the prescription.
+
+PATIENT T351
+I think the glyburide and metformin, I just the last one DOCTOR was, the first ones that are crossed off there.
+
+DOCTOR T351
+Uh-huh.  Pioglitazone.
+
+PATIENT T351
+Right.
+
+DOCTOR T351
+Okay.  Are you still taking that or no?
+
+PATIENT T351
+Yeah I'm taking it.
+
+DOCTOR T351
+Still taking it.
+
+PATIENT T351
+I got, I don't know I have a couple refills, but the other pill is less than that but uh the glyburide and the metformin I need a prescription for those.
+
+DOCTOR T351
+Okay.
+
+PATIENT T351
+And lisinopril.
+
+DOCTOR T351
+So are you, so just the lisinopril and the metformin um and no more hydralazine then, you don't take that anymore or you do?
+
+PATIENT T351
+Yeah I'm still taking it.
+
+DOCTOR T351
+Still taking it and you're doing okay with that?
+
+PATIENT T351
+Yeah.
+
+DOCTOR T351
+Let me see what your, your cholesterol actually looks pretty good um.  In December like last year so it's probably time to do that, let's see.  Um, the prostate let's see when was that cause I think.  Okay and they did that in December and that number was good as well.  Okay and otherwise you don't have any chest pains, shortness of breath, problems breathing, shortness of breath or anything?
+
+PATIENT T351
+I'm fairly active still.
+
+DOCTOR T351
+Still active okay.  No vomiting, diarrhea, fevers, chills, things like that.  Oh Accu-Cheks.
+
+PATIENT T351
+Yeah.  Because @@@.
+
+DOCTOR T351
+Do you have swelling in your legs?
+
+PATIENT T351
+Yeah.
+
+DOCTOR T351
+Okay.
+
+PATIENT T351
+It depends on how long I stay up you know.  I never wear them to come here but I wear them on long trips.
+
+DOCTOR T351
+When you go out okay.
+
+PATIENT T351
+And stuff and I'll take them.
+
+DOCTOR T351
+Sure if you're sitting in a car or something for a while, sure.  Let me take um a quick look at you.  Go ahead and take off your glasses.  Look straight ahead at me.
+
+PATIENT T351
+Yeah I had uh an implant here.
+
+DOCTOR T351
+Okay.
+
+PATIENT T351
+Uh.
+
+DOCTOR T351
+What did they implant?
+
+PATIENT T351
+That's my eye surgery, uh cataract removed.
+
+DOCTOR T351
+Oh cataract removal, sorry about that.
+
+PATIENT T351
+And I have the plastic lens in there.
+
+DOCTOR T351
+Oh perfect, perfect.
+
+PATIENT T351
+@@@ shines, you know.
+
+DOCTOR T351
+Yes, they usually turn out okay.  So look straight at me.  Say ah.
+
+PATIENT T351
+Ah.
+
+DOCTOR T351
+You can put your glasses on.  @@@, sorry my hands are cold.  I'll listen to your back real quick.
+
+PATIENT T351
+My back.
+
+DOCTOR T351
+Yes your back.  You can take off your jacket yeah.  @@@. 
+PATIENT T351
+I was born and raised in Italy.
+
+DOCTOR T351
+Oh.
+
+PATIENT T351
+It's a Polish name.
+
+DOCTOR T351
+Oh really okay.
+
+PATIENT T351
+Yeah, I was raised on @@@.
+
+DOCTOR T351
+I was born and raised here but my family's from Pakistan.
+
+PATIENT T351
+Okay my outside doctor of 20 years, he's from India.
+
+DOCTOR T351
+Oh okay.
+
+PATIENT T351
+DOCTOR.
+
+DOCTOR T351
+DOCTOR yeah that's an Indian name.
+
+PATIENT T351
+Yeah husband and wife are both MDs.
+
+DOCTOR T351
+Oh good for them.  Yeah everybody's from somewhere it seems like right.  Take a deep breath.  Just breathe normally.  Any pain?  Let's see, is that painful at all?
+
+PATIENT T351
+No.
+
+DOCTOR T351
+No nothing, okay.  Sometimes swelling can be a little painful.  So we'll get.
+
+PATIENT T351
+@@@ take my shoes off and it'll just move from my @@@ or something @@@ over this foot and I still get a lot of sensitivity, I'm very ticklish.
+
+DOCTOR T351
+Oh very ticklish.
+
+PATIENT T351
+My nerves are just too good, I guess that's good.
+
+DOCTOR T351
+No that is good.  I'm trying to see if um DOCTOR checked, let's see it looks like you've had.  Are you talking about one of these things, little pokey things? You know.
+
+PATIENT T351
+The what?
+
+DOCTOR T351
+This is just to um.
+
+PATIENT T351
+Oh for checking yeah.
+
+DOCTOR T351
+Yeah, I actually that's a good point.  Would you mind taking off your shoes for a second, I don't think we checked it last time.  Have you seen the eye doctor in the last year?
+
+PATIENT T351
+Uh probably a year ago.  I cancelled my appointment because I went to surgery.
+
+DOCTOR T351
+Okay.
+
+PATIENT T351
+And I completed everything there.
+
+DOCTOR T351
+Okay.
+
+PATIENT T351
+And everything was.
+
+DOCTOR T351
+Yeah we should probably.  Oh you can go ahead and take your socks off.
+
+PATIENT T351
+I mean, both feet or?
+
+DOCTOR T351
+Yes please.  We should probably have you see the eye doctor um.  You know @@@ you know, once a year, they can just kind of dilate your eyes; it makes it look really big but uh.  Okay give me your foot, close your eyes.  Okay tell me when you feel the prick okay.  
+
+PATIENT T351
+Yes.
+
+DOCTOR T351
+Which toe?
+
+PATIENT T351
+The big one.
+
+DOCTOR T351
+Okay.
+
+PATIENT T351
+Little one.  @@@.
+
+DOCTOR T351
+Okay.
+
+PATIENT T351
+Yeah.
+
+DOCTOR T351
+Give me the other foot.  
+
+PATIENT T351
+Big toe.  Little, next to the little left, middle, right side.
+
+DOCTOR T351
+@@@.  Let me go run this by DOCTOR, he's my boss.
+
+PATIENT T351
+Okay.
+
+DOCTOR T351
+And I'll come back in and we'll get your new prescriptions.
+
+PATIENT T351
+Okay can I put my shoes on?
+
+DOCTOR T351
+Yes, yes, you're done.
+
+(DOCTOR OUT:  22:12  DOCTOR IN:  29:47)
+
+DOCTOR T351
+Hi, sorry for your wait.
+
+PATIENT T351
+Uh-huh.
+
+DOCTOR T351
+So um we'll go ahead and refill your medicines and um.  You don't have pain in your legs just when you're at rest do you?
+
+PATIENT T351
+No.
+
+DOCTOR T351
+Good cause your pulse is a little bit hard to feel but um I just wanted to make sure that uh.
+
+PATIENT T351
+No problems.
+
+DOCTOR T351
+You're not having any symptoms of that.  Now this will be for you to take to the front.  So you'll see the Eye Clinic the next available appointment that they have just to, you know just to check that your eyes are doing okay because of your diabetes.
+
+PATIENT T351
+Yeah I've got a, have them make it in July.
+
+DOCTOR T351
+Oh so yeah that's fine.
+
+PATIENT T351
+Cause next month I'll be out of town.
+
+DOCTOR T351
+Sure alright no problem.  Um and we will get your tetanus shot.
+
+PATIENT T351
+I get that today?
+
+DOCTOR T351
+Uh-huh.  They'll just give it to you.
+
+PATIENT T351
+Yeah I'm not worried about it.
+
+DOCTOR T351
+You'll get your compression stockings.
+
+PATIENT T351
+@@@.
+
+DOCTOR T351
+We'll get all the repeat of your labs; you don't have to get them today but just sometime before your next appointment.
+
+PATIENT T351
+The what?
+
+DOCTOR T351
+Repeat blood draw, labs.  But then your kidney numbers look a little bit worse so we just have to check them you know every once in a while to kind of make sure.  They're not terrible but they just, you know what I mean and it's because of the blood pressure and diabetes and stuff that these things happen.
+
+PATIENT T351
+Okay when will they get the blood drawn?
+
+DOCTOR T351
+Um you can get it today, you can go tomorrow.  I mean it doesn't have to be immediately now, but just like in the next month.  You could get it today if you want it.
+
+PATIENT T351
+Yeah I'll do it today.
+
+DOCTOR T351
+You'll do it today okay, that's fine.
+
+PATIENT T351
+Cause the next month I'm not gonna be around here.
+
+DOCTOR T351
+Oh perfect yeah then I would just do that.  Um okay and then which medications do you need today?  Glyburide, do you want them to mail these to you or have you pick them up here?
+
+PATIENT T351
+The what?
+
+DOCTOR T351
+Medications.
+
+PATIENT T351
+Uh just mail them out to me.
+
+DOCTOR T351
+Mail them to you okay.
+
+PATIENT T351
+Unless I'm short of something then I'll wait for it but.
+
+DOCTOR T351
+Sure, sure.  Which ones do you need today?
+
+PATIENT T351
+Uh @@@ and metformin.
+
+DOCTOR T351
+Uh-huh.
+
+PATIENT T351
+The lisinopril and glyburide.
+
+DOCTOR T351
+Okay. 
+
+PATIENT T351
+I'm not out of them either you know but its.
+
+DOCTOR T351
+I know.  Just to make sure you've got it.
+
+PATIENT T351
+That's just to renew the prescription.
+
+DOCTOR T351
+Exactly.  Okay sir I think you're set.
+
+PATIENT T351
+Okay uh so I'm gonna see you from now on then or?
+
+DOCTOR T351
+If you're okay with that yes.  I mean there's tons of other doctors here but if you're okay with that I can be your primary care.
+
+PATIENT T351
+Yeah I don't care, I don't.
+
+DOCTOR T351
+Perfect.
+
+PATIENT T351
+Good uh @@@.
+
+DOCTOR T351
+Yeah.
+
+PATIENT T351
+@@@.
+
+DOCTOR T351
+Good.
+
+PATIENT T351
+@@@.
+
+DOCTOR T351
+Looks good.
+
+PATIENT T351
+And uh is it DOCTOR.
+
+DOCTOR T351
+Uh-huh.
+
+PATIENT T351
+Your last name is DOCTOR.
+
+DOCTOR T351
+Right.
+
+PATIENT T351
+Yeah.
+
+DOCTOR T351
+Yeah there's, I know someone who lives in St. Louis and there's NAME there.
+
+PATIENT T351
+My last name is just PATIENT.
+
+DOCTOR T351
+Uh-huh.
+
+PATIENT T351
+It's @@@ Polish, Russian.
+
+DOCTOR T351
+Oh, so how did you end up with a Polish name?
+
+PATIENT T351
+I lived in northern Italy so @@@.
+
+DOCTOR T351
+Oh yeah.
+
+PATIENT T351
+Moved south you know.
+
+DOCTOR T351
+That's true.
+
+PATIENT T351
+I guess, I mean.
+
+DOCTOR T351
+It's so funny that you mention that because tonight I am eating tiramisu.  
+
+PATIENT T351
+Yeah.
+
+DOCTOR T351
+Yeah.  My mom always made it for us.
+
+PATIENT T351
+To you have a phone number too?
+
+DOCTOR T351
+Yeah, let me get a phone number for you.  @@@ off the top of my head.
+
+PATIENT T351
+Okay.
+
+DOCTOR T351
+Okay, alright sir, so this is the number you can go ahead and call and they'll find a way to get in touch with me.
+
+PATIENT T351
+Alright.  I mean I never call.
+
+DOCTOR T351
+That's just if you.
+
+PATIENT T351
+Anybody but I know sometimes I can go through them and the patient will want the doctor to call and it's not that I'm you know like.
+
+DOCTOR T351
+In case you need, of course.
+
+PATIENT T351
+I'm not gonna bug you with anything.
+
+DOCTOR T351
+No, no, not, no that's what we're here for.  Um and we'll get your shot.
+
+PATIENT T351
+Okay, I'll get the shot now.
+
+DOCTOR T351
+Uh-huh.
+
+PATIENT T351
+And then you'll put the things in for the blood.
+
+DOCTOR T351
+Uh-huh.
+
+PATIENT T351
+And you got it all over with.
+
+DOCTOR T351
+We got it all.  Good.
+
+PATIENT LEAVES:  37:13
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286145
+TRANSACTION # 578-10-2-316-0103

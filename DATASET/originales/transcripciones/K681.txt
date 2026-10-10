@@ -1,0 +1,513 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR K681
+PATIENT?
+
+PATIENT K681
+@@@.
+
+DOCTOR K681
+Taking a look at your chart.
+
+PATIENT K681
+Yeah.
+
+DOCTOR K681
+You @@@.
+
+PATIENT K681
+Yeah, I know. I hurt enough.
+
+DOCTOR K681
+Yeah.  I saw you were recently hospitalized too.
+
+PATIENT K681
+Yeah.
+
+DOCTOR K681
+@@@.
+
+PATIENT K681
+Yeah.
+
+DOCTOR K681
+What happened down there?  I know you had a couple of surgeries.
+
+PATIENT K681
+Yeah, uh, I forget what they did.  They went back and something, I don’t know what he did.  I forget what he called it.  But ever since and just started hurting more and more and as soon as I ran out of my pain pills they didn’t give me that many.
+
+DOCTOR K681
+Okay.
+
+PATIENT K681
+So I tried to last long as I can.  I ain’t got no more pain pills.  
+
+DOCTOR K681
+Okay.
+
+PATIENT K681
+I @@@ pain pills.  I need some stomach pills.  I need some sleeping pills.  But I need the pain pills bad.  I ain’t got no more left.  
+
+DOCTOR K681
+Let me look at @@@.  
+
+PATIENT K681
+Ah, what was the other doctor I had? DOCTOR, the one he was @@@, forgot his name.
+
+DOCTOR K681
+DOCTOR?
+
+PATIENT K681
+Yeah.  
+
+DOCTOR K681
+Yeah, he is gone.  
+
+PATIENT K681
+Gone?  
+
+DOCTOR K681
+He is off to greener pastures.  
+
+PATIENT K681
+Oh.  Are you the one I seeing now?
+
+DOCTOR K681
+Yeah, you got some bad luck, I’m the one you’re going to be seeing now. (Laughs)
+
+PATIENT K681
+No.  Only reason I ask is because he told me to send my transcript, transport to get back and forth to the appointment.  I want to know if he sent that in. You know, to pick me up and take me back home.
+
+DOCTOR K681
+Oh that is fine.  I’ll follow up @@@.
+
+PATIENT K681
+Okay.  
+
+DOCTOR K681
+So what did they give you?
+
+PATIENT K681
+Ah, @@@.  
+
+DOCTOR K681
+They sent you uh, morphine, right? 
+
+PATIENT K681
+Right.
+
+DOCTOR K681
+@@@. Twice a day?  
+
+PATIENT K681
+Yeah.
+
+DOCTOR K681
+And they sent out on a sleeping pill.  Sent you off on Dilaudid. 
+
+PATIENT K681
+Yeah they already gave me @@@ for my pain.
+
+DOCTOR K681
+Um hm.
+
+PATIENT K681
+I need some of that.
+
+DOCTOR K681
+How often were you taking it?
+
+PATIENT K681
+I was taking like for pain, like little pain, @@@, were like, they didn’t give me that many.  They gave me like 30 I think.
+
+DOCTOR K681
+Right but how often were you taking it?
+
+PATIENT K681
+I was taking once - twice a day.  Twice a day.
+
+DOCTOR K681
+Twice a day?
+
+PATIENT K681
+Yeah.  I take one.
+
+DOCTOR K681
+And was the pain pretty much controlled?
+
+PATIENT K681
+Yeah I mean, yeah, it gave control.
+
+DOCTOR K681
+Well alright.  
+
+PATIENT K681
+It was not @@@.  They told me to take the other one like @@@ on @@@ the other one @@@ because @@@.
+
+DOCTOR K681
+@@@.  August @, @@@@.  @@@ pain.  @@@.  Okay.  They basically didn’t do too much for you while you were in the hospital right?
+
+PATIENT K681
+No.  
+
+DOCTOR K681
+You didn’t have any procedures or anything.
+
+PATIENT K681
+No, no.
+
+DOCTOR K681
+Just controlled the pain until you were ready to go home? 
+
+PATIENT K681
+Yup that’s all. That’s all they did.
+
+DOCTOR K681
+Okay.  And you were kept on the blood-thinning medication right?
+
+PATIENT K681
+Right.
+
+DOCTOR K681
+Alright.  
+
+PATIENT K681
+Yeah I still taking that @@@.
+
+DOCTOR K681
+Everything been okay at home?
+
+PATIENT K681
+Yeah @@@, otherwise I @@@ pain @@@.
+
+DOCTOR K681
+Yeah.  Your blood pressure is doing great.
+
+PATIENT K681
+Yeah my blood pressure is good.
+
+DOCTOR K681
+That is fantastic.  You still taking any inhalers at all?
+
+PATIENT K681
+Yeah.  I take them twice a day.
+
+DOCTOR K681
+So just the albuterol?
+
+PATIENT K681
+Yeah, what’s, yeah.
+
+DOCTOR K681
+I am writing everything down @@@.  You have a pretty complicated  medical history.
+
+PATIENT K681
+Yeah, I know.  I know that.
+
+DOCTOR K681
+It is going to be hard talking about this from memory so.
+
+PATIENT K681
+Yeah I used to drink alcohol a long time ago and messed me up @@@.
+
+DOCTOR K681
+Yeah. 
+
+PATIENT K681
+Drinking the alcohol.  I ain’t drank none.  I haven’t drank none in two three years.  I am doing alright.  @@@.  I still smoke a pack of cigarettes a day.  I am slowing down.
+
+DOCTOR K681
+When you going to quit?  
+
+PATIENT K681
+@@@.  
+
+DOCTOR K681
+When you going to quit?  Alright.  Everything is pretty stable.  Um, @@@ follow with the Anticoagulation Clinic too?
+
+PATIENT K681
+Yeah.
+
+DOCTOR K681
+Good.  Good.  We should check your cholesterol.  
+
+PATIENT K681
+Yeah she said something about a shot @@@, I need some kind of shot.  I forget what she said, the nurse.
+
+DOCTOR K681
+Yeah, the flu shot right?
+
+PATIENT K681
+Yeah, right.
+
+DOCTOR K681
+You should get a flu shot today.
+
+PATIENT K681
+Yeah.
+
+DOCTOR K681
+And then @@@.
+
+PATIENT K681
+I ain’t had one since last year.
+
+DOCTOR K681
+Yeah and it is recommended that we get a shot every year especially since you were in the hospital a lot.  The worse thing is we can get flu and then not able to breathe as well, and all that other stuff.
+
+PATIENT K681
+I can get one of these @@@?
+
+DOCTOR K681
+What is that?
+
+PATIENT K681
+I can get a shot @@@.
+
+DOCTOR K681
+Yeah, absolutely.  We can get you one today.  I am just looking through a couple of things here.  We refill your meds and everything.
+
+PATIENT K681
+I can pick them up today too right?
+
+DOCTOR K681
+Yeah.  
+
+PATIENT K681
+Okay.  @@@.  Cause I need it.
+
+DOCTOR K681
+When did you run out meds?
+
+PATIENT K681
+I been a week.
+
+DOCTOR K681
+A week?  
+
+PATIENT K681
+Yeah.  It has been a week. I came down @@@.  I was at the other doctor that takes care of my blood thinners – he said my main doctor had to put the order in.  I just wait till today to come in and get it.  I been in pain.  I @@@.  Couldn’t eat for a couple of days.  @@@.  
+
+DOCTOR K681
+It hurts right there?
+
+PATIENT K681
+Yeah when I cough.
+
+DOCTOR K681
+You got a lot of pressure down there.
+
+PATIENT K681
+Yeah.
+
+DOCTOR K681
+@@@ hematoma.  
+
+PATIENT K681
+Yeah, they was able to @@@.  Yeah. @@@.
+
+DOCTOR K681
+Yeah.  
+
+PATIENT K681
+Guess if it gets bad, just come back to Emergency Room again.
+
+DOCTOR K681
+@@@ I am checking to see if @@@ get your.
+
+PATIENT K681
+Give me your name too okay?
+
+DOCTOR K681
+Yeah it will be on the prescription.
+
+PATIENT K681
+Okay.
+
+DOCTOR K681
+You will see though.  You need a tetanus shot today, too there, buddy?
+
+PATIENT K681
+Right and I need that too.  @@@.
+
+DOCTOR K681
+@@@.  
+
+PATIENT K681
+@@@ two shots.
+
+DOCTOR K681
+Two shots today. And the pnuemovax. You’re due! @@@ pincushion @@@  
+
+PATIENT K681
+Well I need it done.  @@@.
+
+DOCTOR K681
+Yeah, alright, let’s get this all done for you.
+
+PATIENT K681
+Alright.  
+
+DOCTOR K681
+Let’s see.  When did they diagnose the @@@.
+
+PATIENT K681
+Hm, I don’t know. @@@ It has been a while.  I don’t know.  I am not for sure.
+
+DOCTOR K681
+When was the last @@@?
+
+PATIENT K681
+@@@.  
+
+DOCTOR K681
+You’ve got a lot of scar tissue here too.
+
+PATIENT K681
+Yeah.  @@@ swollen. Mostly right in there.
+
+DOCTOR K681
+@@@.  Alright.  Okay.  I @@@.  We are going to check your cholesterol today, maybe a couple of vaccines and I’ll refill your meds.
+
+PATIENT K681
+Okay then.  
+
+DOCTOR K681
+Everything looks pretty good.  
+
+PATIENT K681
+They going to give me enough?
+
+DOCTOR K681
+I’ll give you enough.  Quit smoking.  
+
+PATIENT K681
+Okay. That’s my next goal. My next goal.  
+
+DOCTOR K681
+Yeah.  Yeah.   Let me talk to the boss.
+
+PATIENT K681
+Okay.  
+
+DOCTOR OUT:  41:14  DOCTOR IN:  48:08
+
+DOCTOR K681
+Alright buddy.  I am going to @@@.
+
+PATIENT K681
+Okay.
+
+DOCTOR K681
+Because they won’t be @@@.  Okay?
+
+PATIENT K681
+Okay.
+
+DOCTOR K681
+I will put them in the computer too.
+
+PATIENT K681
+Alright.
+
+DOCTOR K681
+@@@  I can’t give you any refills on those medicines.  @@@ it won’t let me refill them.  Um, what you are going to have to do is come back in another 30 days.  Come to the Friday Clinic because I will be here every Friday.  We will be able to write you a new prescription.
+
+PATIENT K681
+Are these the one you going to give me for my pain?
+
+DOCTOR K681
+Right.  The morphine and the Dilaudid.  Alright? Since it is a heavy dose of narcotics, I can’t give you the refills @@@.  You will have to come in every 30 days to get them.
+
+PATIENT K681
+Okay.
+
+DOCTOR K681
+You can come in, you know, if you have another appointment I can write it for you, but you won’t be able to cash in on that until the 30 days are up.  You see what I am saying?
+
+PATIENT K681
+Yeah, I got you.
+
+DOCTOR K681
+Yeah.  Alright.
+
+PATIENT K681
+In 30 days I can come in.  
+
+DOCTOR K681
+Exactly.  Alright.
+
+PATIENT K681
+@@@.
+
+DOCTOR K681
+@@@.
+
+PATIENT K681
+Okay.  What about the stomach pills?  
+
+DOCTOR K681
+Yeah, those too.
+
+PATIENT K681
+Okay.  Alright.
+
+DOCTOR K681
+@@@ and the @@@.
+
+PATIENT K681
+Now but the @@@, trans…, pick me up and bring me to my appointment?
+
+DOCTOR K681
+Yeah I am going to fill out the encounter form.
+
+PATIENT K681
+You’re going to send @@@
+
+DOCTOR K681
+Right.  Ah, we got the letter.
+
+PATIENT K681
+Okay then.  
+
+DOCTOR K681
+And then I am going to refill your albuterol.  I am putting in those orders for @@@.
+
+PATIENT K681
+Okay then. 
+
+DOCTOR K681
+You got to get your flu shot.
+
+PATIENT K681
+Okay, I go over here?
+
+DOCTOR K681
+Yeah right over there.
+
+PATIENT K681
+The flu shot and ah?
+
+DOCTOR K681
+And a Tdap.
+
+PATIENT K681
+Alright.  Okay thanks man.
+
+DOCTOR K681
+@@@.
+
+PATIENT K681
+I appreciate it.  @@@.  Okay.
+
+DOCTOR K681
+@@@.
+
+PATIENT LEAVES:  50:33
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800515/JOB#  1300288
+TRANSACTION # 578-10-2-316-0103

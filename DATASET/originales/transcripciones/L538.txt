@@ -1,0 +1,280 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@
+
+DOCTOR L538 
+PATIENT?
+
+PATIENT L538
+Yes.
+
+DOCTOR L538
+Go ahead and have a seat over there.  @@@.
+
+PATIENT L538
+That's okay.  @@@.
+
+DOCTOR L538
+Uh so how uh, so yeah I'm sorry to hear about that.  Yeah you got the lesion on the larynx there, I was hoping that wasn’t going to be what it was when I sent you there.
+
+PATIENT L538
+Yeah well.
+
+DOCTOR L538
+@@@.  So sorry.
+
+PATIENT L538
+Well the good news is they caught it in time.
+
+DOCTOR L538
+Yeah it looks like there's no spread and they're just going to pound it with the radiation.
+
+PATIENT L538
+Right and that should be okay.
+
+DOCTOR L538
+Okay that's good.  Uh alright and then you had some plaque in your cheek I guess that they biopsied.
+
+PATIENT L538
+Uh yeah they biopsied @@@.
+
+DOCTOR L538
+It doesn't look like it's anything major.  Alright well so but that pretty well, I mean the Ear, Nose and Throat guys are doing a good job.
+
+PATIENT L538
+Yeah.
+
+DOCTOR L538
+Um now the sugars, um what are you taking now?  You're still taking the metformin.
+
+PATIENT L538
+Uh the metformin and then uh Lantus.
+
+DOCTOR L538
+Lantus.
+
+PATIENT L538
+Lantus insulin.
+
+DOCTOR L538
+30 units?
+
+PATIENT L538
+Uh yeah but the thing that happened was they had been sending it to me and for some reason the post office would send it back.
+
+DOCTOR L538
+Oh okay.
+
+PATIENT L538
+And so my children @@@ go to the pharmacy @@@.  
+
+DOCTOR L538
+Alright so. 
+
+PATIENT L538
+So @@@.
+
+DOCTOR L538
+And when was that?
+
+PATIENT L538
+Oh that was Monday.
+
+DOCTOR L538
+Uh so you had not gotten it.  Cause I noticed some labs from December and uh the hemoglobin A1c was doing a little worse, it was up to 8.7.  You think that and I know you were in the hospital for something else; you had another bout of pancreatitis, right.
+
+PATIENT L538
+Uh yeah.  So they probably improved and then got worse.  If I got a blood test today, it  would be bad.
+
+DOCTOR L538
+Probably be better.
+
+PATIENT L538
+It would be bad.
+
+DOCTOR L538
+Well why don't we just recheck it in a couple of months.
+
+PATIENT L538
+Okay.
+
+DOCTOR L538
+And keep doing what we're doing uh you've been through a lot so it may have messed with the sugars.  Um. 
+
+PATIENT L538
+I don’t know if it's related to the radiation or anything?  But I notice some tingling in my left @@@.
+
+DOCTOR L538
+Okay uh it's tingling?
+
+PATIENT L538
+Uh-huh.
+
+DOCTOR L538
+How often does it happen?
+
+PATIENT L538
+Um, uh several times a day.
+
+DOCTOR L538
+Okay.
+
+PATIENT L538
+Yeah I don't know if it's related to the radiation or what.
+
+DOCTOR L538
+Hmm.  Any chest pain?
+
+PATIENT L538
+No.
+
+DOCTOR L538
+Does it happen if you use it more or?
+
+PATIENT L538
+No it just comes and goes and I just noticed it started when I started the radiation.
+
+DOCTOR L538
+Okay.  Yeah it could potentially be related to the radiation, it's hard to say.  Uh do you feel weakness in your arm?
+
+PATIENT L538
+No.  Just strange, just this strange tingling feeling.
+
+DOCTOR L538
+Yeah.  Alright.
+
+PATIENT L538
+I also mentioned to the radiation doctor @@@.
+
+DOCTOR L538
+Yeah.
+
+PATIENT L538
+Oh one other thing doctor, I @@@.
+
+DOCTOR L538
+Okay.
+
+PATIENT L538
+And uh I need for you to order the patches.
+
+DOCTOR L538
+Oh okay yeah.
+
+PATIENT L538
+And uh some of those nicotine lozenges that you take with the patches sometime.  They told me I have to stop smoking.  
+
+DOCTOR L538
+Yeah.
+
+PATIENT L538
+I definitely have to do that.
+
+DOCTOR L538
+You can't use uh; you cannot smoke with uh this stuff either.
+
+PATIENT L538
+Uh-huh.
+
+DOCTOR L538
+Uh.  Do you want to pick it up today or?
+
+PATIENT L538
+Yes I would appreciate it if I could.
+
+DOCTOR L538
+Do you want the gum?  I think we have the gum.
+
+PATIENT L538
+Uh okay, okay.
+
+DOCTOR L538
+Uh and @@@ lozenges.  So you take, you know you take them predominantly when you have uh cravings.  
+
+PATIENT L538
+It must have been a long morning for you.
+
+DOCTOR L538
+Well it's not too bad.  Alright your blood pressure's been good.  I want to bring you back in a few months and then we'll repeat everything okay.
+
+PATIENT L538
+Okay, good enough.
+
+DOCTOR L538
+You need to get labs drawn beforehand.
+
+PATIENT L538
+Okay.  I can do that in a couple of days.
+
+DOCTOR L538
+Yeah I mean it's up to you.  If you're here you can do it and otherwise you can do it the day of and you know I don't want to make you come in just for that um.  Don't worry about it, just uh.
+
+PATIENT L538
+Alright.  @@@.
+
+DOCTOR L538
+Yeah, exactly.  Alright uh so let me talk to DOCTOR and I'll be right back.
+
+PATIENT L538
+Okay.
+
+DOCTOR L538
+Alright it'll only take a few minutes.  I'm just telling the numbers, going over those.
+
+(DOCTOR OUT:  89:15  DOCTOR IN:  96:11)  
+
+DOCTOR L538
+Alright everything looks good.  Uh we see you back in.
+
+PATIENT L538
+In three months.
+
+DOCTOR L538
+Three months and we'll get the labs beforehand.  Uh I ordered the nicotine stuff so you should be able to pick it up today.
+
+PATIENT L538
+Okay.
+
+DOCTOR L538
+Just don't smoke on it.  It's got a lot of nicotine.
+
+PATIENT L538
+I know.
+
+DOCTOR L538
+And you could get a blood clot or something from this.
+
+PATIENT L538
+Right.
+
+DOCTOR L538
+Uh and then I wish you well with everything with the radiation you know.  I'm glad it got caught early you know.
+
+PATIENT L538
+Yeah.
+
+DOCTOR L538
+@@@
+
+PATIENT L538
+Well I'm glad too, I'm glad @@@.  Like I'm highly motivated.
+
+DOCTOR L538
+Alright.  Take care.
+
+PATIENT L538
+Thank you.
+
+DOCTOR L538
+Alright take care.
+
+PATIENT L538
+I'll see you in three months.
+
+PATIENT LEAVES:  97:04
+
+Time is @@@.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249429
+TRANSACTION # 578-10-2-316-0103

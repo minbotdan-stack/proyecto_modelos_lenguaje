@@ -1,0 +1,12 @@
+TITLE: Hospital Followup and Medication Reconciliation
+DESCRIPTION: Complex posthospital follow-up for renal dysfunction, edema, suspected vasculitis, diabetes, and anticoagulation.
+
+HISTORY OF PRESENT ILLNESS: The patient is seen after hospitalization and rehabilitation, accompanied by a caregiver who handles much of his medication administration and dietary planning. The course has included difficulty walking, marked leg swelling, renal impairment, rash suspected to represent vasculitis, foot wound infection, and steroid treatment. He is tapering prednisone and was recently treated with Levaquin; continuation of antibiotics after discharge is unclear. The caregiver requests a complete medication list and guidance on a renal, diabetic, and low-sodium diet. The patient has had low systolic blood pressure readings, at times in the 90s. He remains on diuretics and warfarin, with anticoagulation testing previously supervised at the rehabilitation facility. Renal values cited by the family include creatinine near 3.1 and BUN near 47, but the dates and completeness of these results are uncertain.
+
+PAST MEDICAL HISTORY: Chronic or recent significant renal dysfunction, diabetes, edema, suspected vasculitis, anemia, and cardiovascular conditions requiring anticoagulation. A recent infected foot lesion was treated during rehabilitation.
+
+MEDICATIONS: Reconciliation included prednisone taper, furosemide, warfarin, insulin (basal and mealtime doses requiring confirmation), amiodarone, carvedilol, aspirin, calcium, iron, and bowel medications. Uncertain courses of Levaquin were specifically flagged for confirmation with the facility.
+
+PHYSICAL EXAMINATION: Blood pressure is relatively low. Lungs clear without crackles and heart rhythm regular on auscultation. The foot wound appears improved or healing.
+
+ASSESSMENT AND PLAN: Complete pharmacy reconciliation against the rehabilitation discharge list before administering or changing doses. Continue diuresis with close blood pressure, daily weight, swelling, and renal-function monitoring; call for rapid weight gain or worsening hypotension. Check laboratory studies and INR, with anticoagulation clinic referral for warfarin management after facility discharge. Consult rheumatology regarding possible vasculitis and steroid taper, nephrology for renal disease, and cardiology as indicated. Confirm with the treating facility whether further antibiotics are required. Nutrition, dermatology, and sleep evaluation were also coordinated. Caregiver was counseled about follow-up and monitoring.

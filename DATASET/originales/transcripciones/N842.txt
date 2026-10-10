@@ -1,0 +1,1074 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+PATIENT N842
+Hello DOCTOR.
+
+DOCTOR N842
+How are you?  You've had kind of an eventful @@@ since the last time I saw you.
+
+PATIENT N842
+Good.  So you read my records?
+
+DOCTOR N842
+Of course.  @@@.
+
+PATIENT N842
+That's good, good, I'm doing good.
+
+DOCTOR N842
+You had a little bit of a bleed, sorry that happened.
+
+PATIENT N842
+I'm alright.
+
+DOCTOR N842
+You were not on aspirin were you?
+
+PATIENT N842
+No.
+
+DOCTOR N842
+We do not have you on aspirin.  I wanted to make sure that we didn't.  Yeah, you weren't on the aspirin I think.  It was only like six days after I saw you.
+
+PATIENT N842
+Yeah.
+
+DOCTOR N842
+Did it just happen like that?
+
+PATIENT N842
+No actually had had happened was that.
+
+DOCTOR N842
+You hit your head?
+
+PATIENT N842
+I was uh playing with my grandson.
+
+DOCTOR N842
+Oh.
+
+PATIENT N842
+And I flipped backwards and I hit my head.
+
+DOCTOR N842
+Got it.
+
+PATIENT N842
+And uh.
+
+DOCTOR N842
+That makes more sense.
+
+PATIENT N842
+So I thought uh, well what the heck, you know I've hit my head many times so what's the difference.  So I went to a primary doctor outside and they gave me some painkillers and I was having some headaches on and off until one day I got out of bed and I couldn't even put my foot in my slipper.  I called here and I gave them all the information.  They tell me if that's the case come right up so when they opened my head, there was a previous.
+
+DOCTOR N842
+It was an old one.
+
+PATIENT N842
+Old one in there but uh they stuck in a drain when I conked my head the headaches stopped.  So I got a drain here and a drain here and.
+
+DOCTOR N842
+What did they think the old one was from?
+
+PATIENT N842
+I have no idea, wouldn't know, you know.
+
+DOCTOR N842
+But they thought they saw some lesions in there.
+
+PATIENT N842
+I don't know, that's a lot of them.  My kids know more because for three or four days I had no idea.
+
+DOCTOR N842
+How are you feeling now?
+
+PATIENT N842
+I feel fine.  I feel fine.  I feel good.  Sometimes I, I don't know when I open my eyes wide open.
+
+DOCTOR N842
+Uh-huh.
+
+PATIENT N842
+I feel like I'm stretching but all in all I feel, I feel good.
+
+DOCTOR N842
+What meds are you on right now?
+
+PATIENT N842
+Medication?  Okay I have simvastatin.
+
+DOCTOR N842
+Okay.
+
+PATIENT N842
+Uh I take a vitamin @@@.
+
+DOCTOR N842
+Vitamin D, I have you on vitamin D.
+
+PATIENT N842
+This one here was prescribed by the hospital here and I did manage to get an order for the @@@.
+
+DOCTOR N842
+Expired.
+
+PATIENT N842
+It expired.
+
+DOCTOR N842
+So are you taking it?
+
+PATIENT N842
+Well you have to decide uh based on my blood pressure.
+
+DOCTOR N842
+Right.  I read the note by the neurosurgeon.
+
+PATIENT N842
+Yeah.  A little bit high there.
+
+DOCTOR N842
+Are you on it now?
+
+PATIENT N842
+No.  I haven't taken it for about maybe a couple of weeks.
+
+DOCTOR N842
+You've been out for two weeks?
+
+PATIENT N842
+Yeah I ran out.
+
+DOCTOR N842
+I see your blood pressure is not that bad.  139/73.
+
+PATIENT N842
+The nurse that comes to see me a couple of times a month.
+
+DOCTOR N842
+Yeah.
+
+PATIENT N842
+She says uh my blood pressure is perfect, 120, 123 but it's a little bit hyper sometimes, it depends on you know, I got to tell my wife not to put salt in the food.
+
+DOCTOR N842
+139/73, given your other medical problems, I'm not necessarily inclined to treat it, to be honest with you.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+Um you have relatively normal kidney functions um, you're not a diabetic.  The last time you were here you were like 157/90.
+
+PATIENT N842
+That was before.
+
+DOCTOR N842
+Right and that is why I wanted to start it.
+
+PATIENT N842
+Everything, everything is sky-rocketing and everything.
+
+DOCTOR N842
+Probably there are probably a lot of reasons for that.
+
+PATIENT N842
+Correct, correct.
+
+DOCTOR N842
+Even if I were to start you on it, I'll do half that dose okay.  I would do the 12.5 not the 25.
+
+PATIENT N842
+Hmm.  I'm taking my blood pressure myself.
+
+DOCTOR N842
+When do you check it at home and what is it?  I'll check it again with this cuff.
+
+PATIENT N842
+Yeah, probably lower.  Uh sometimes like in hyper, you know 130, 120.
+
+DOCTOR N842
+130.
+
+PATIENT N842
+Yes, 130, 120, 124, sometimes lower.
+
+DOCTOR N842
+How high does it get?
+
+PATIENT N842
+Um.
+
+DOCTOR N842
+Does it ever hit the 140 range?
+
+PATIENT N842
+I think so, I think, not a lot though.
+
+DOCTOR N842
+Once, twice.
+
+PATIENT N842
+Once, twice.
+
+DOCTOR N842
+When?  After activity or?
+
+PATIENT N842
+After activity or after yelling at the kids.
+
+DOCTOR N842
+So pretty normal reasons.
+
+PATIENT N842
+Normal reasons.  But I'm pretty sure it's gonna be lower when you take it now.  I uh, I'll take the medication if I really have to but I'd rather not if I don't.
+
+DOCTOR N842
+Okay, alright.
+
+PATIENT N842
+Now the other one, the tamsulosin, I'm not taking that.
+
+DOCTOR N842
+You're not taking the tamsulosin?
+
+PATIENT N842
+No.
+
+DOCTOR N842
+You stopped taking the calcium and simvastatin?
+
+PATIENT N842
+Correct.
+
+DOCTOR N842
+Cause tamsulosin makes you dizzy correct right?
+
+PATIENT N842
+Yeah I wasn't feeling too good.
+
+DOCTOR N842
+Okay.  And you've been off of that for how long?
+
+PATIENT N842
+I would say a couple of months.
+
+DOCTOR N842
+Are you still seeing the urologist for the prostate?
+
+PATIENT N842
+Yes.  They took the PSA test the other day; they gave me a blood test.
+
+DOCTOR N842
+0.35 is what it came back.
+
+PATIENT N842
+So that's good.
+
+DOCTOR N842
+Good. 
+
+PATIENT N842
+Uh.
+
+DOCTOR N842
+And you're not have, you're not having more urinary tract symptoms?
+
+PATIENT N842
+No.
+
+DOCTOR N842
+Okay.
+
+PATIENT N842
+I do get up two, three times at night.  I hate that.
+
+DOCTOR N842
+Oh you do.
+
+PATIENT N842
+Who wouldn't?
+
+DOCTOR N842
+Who wouldn't I agree.  I didn't know you were getting up at night.
+
+PATIENT N842
+Yeah I did get up.  I feel the pressure you know and I don't have to urinate a lot but, the pressure is there.  It's hard to take a nap in the afternoon to relax me.
+
+DOCTOR N842
+(Doctor working on computer)  Make sure your vaccinations are up-to-date but did you get a flu shot this year?
+
+PATIENT N842
+Uh no, I'm gonna wait on that.
+
+DOCTOR N842
+You don't want that then?
+
+PATIENT N842
+Uh no, no.
+
+DOCTOR N842
+Why not?
+
+PATIENT N842
+Well I have mixed reasons.  Every time I take one, I catch a cold.
+
+DOCTOR N842
+Okay.
+
+PATIENT N842
+And with my uh situation I like to know like, play it cool, or easy.  I don't want to, I know of course you know after these, is this gonna be normal for me, is something gonna change?
+
+DOCTOR N842
+What over @@@.
+
+PATIENT N842
+With the whole head issue.
+
+DOCTOR N842
+But that happened a while ago.
+
+PATIENT N842
+It's going on, over 3 1/2 months.
+
+DOCTOR N842
+Right @@@.
+
+PATIENT N842
+So it should be okay.
+
+DOCTOR N842
+It should start cooling down again.
+
+PATIENT N842
+Yeah.
+
+DOCTOR N842
+You not a drinker?
+
+PATIENT N842
+Sometimes I do.
+
+DOCTOR N842
+But you're not a smoker if I remember.
+
+PATIENT N842
+No, right, about 35 years ago.
+
+DOCTOR N842
+I'm just keeping track of some of this stuff I uh.  @@@.
+
+PATIENT N842
+I keep myself busy, I keep myself occupied.
+
+DOCTOR N842
+You've had a ton of lab work recently so.
+
+PATIENT N842
+Yeah.
+
+DOCTOR N842
+All in all you're looking a whole lot better than I expected.  After reading some of these notes, I was a little afraid you know.
+
+PATIENT N842
+Uh my kids uh were told that it was gonna be uh, not drive for about six months, I'm gonna have to use the walker.
+
+DOCTOR N842
+You're walking fine.  You don’t have any neurologic deficits at all?
+
+PATIENT N842
+No, no, not at all.  That's why I don't think I need the.
+
+DOCTOR N842
+Gotcha.
+
+PATIENT N842
+The nurse that comes in, takes my pressure once every other week.  
+
+DOCTOR N842
+It's been a while, the thiazide dropped your us….  When did you start taking the thiazide, back in August, the hydrochlorothiazide?
+
+PATIENT N842
+Maybe.
+
+DOCTOR N842
+In September.
+
+PATIENT N842
+You mean for the.
+
+DOCTOR N842
+Blood pressure.
+
+PATIENT N842
+Oh, that's uh that's here.
+
+DOCTOR N842
+Right but that was in September.
+
+PATIENT N842
+In late September.
+
+DOCTOR N842
+Yeah it dropped your sodium a little bit.
+
+PATIENT N842
+My potassium was off, the sodium was off.
+
+DOCTOR N842
+Yeah.
+
+PATIENT N842
+Blood pressure was.
+
+DOCTOR N842
+Let's not restart it unless we absolutely have to now.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+That’s my suggestion.
+
+PATIENT N842
+Alright.
+
+DOCTOR N842
+You know we should do another cholesterol, I mean you might be due.  So you've been on the simvastatin for a long time?
+
+PATIENT N842
+Yes, yes.
+
+DOCTOR N842
+Have you been on the same dose?
+
+PATIENT N842
+Yes, yes sir.
+
+DOCTOR N842
+Half a pill, long-term?
+
+PATIENT N842
+I would say six months, not long.
+
+DOCTOR N842
+Have they ever increased it?
+
+PATIENT N842
+No.
+
+DOCTOR N842
+No.  I'm gonna put you on 40 once a day; just take the full 40 once a day.
+
+PATIENT N842
+Okay.  The simvastatin?
+
+DOCTOR N842
+Yeah instead of half a tab, just take the one tab.
+
+PATIENT N842
+Take the one tab.
+
+DOCTOR N842
+Yeah, alright.  It probably needs to change, really not change much.
+
+PATIENT N842
+Without even checking my blood?
+
+DOCTOR N842
+Well they've looked at it back in August.
+
+PATIENT N842
+Oh I see, okay.  So you see in the past.
+
+DOCTOR N842
+It's a little higher than I probably want it.
+
+PATIENT N842
+But everything was off at that time, everything.
+
+DOCTOR N842
+Yeah but do you know the cholesterol, it's usually not gonna affect the cholesterol; however, having high cholesterol puts you at risk for strokes.
+
+PATIENT N842
+Uh-huh.
+
+DOCTOR N842
+It's a different type of stroke.  If you’re avid to not do it, you can hold off and then recheck eventually, I'm okay with that.
+
+PATIENT N842
+Well it's up to you.
+
+DOCTOR N842
+No, we work together here, we're a team.
+
+PATIENT N842
+I can have another blood test done, either here or outside and uh we'll uh.
+
+DOCTOR N842
+Cause you know what, although we don't treat total, we generally treat the number called the LDL.
+
+PATIENT N842
+Uh-huh.
+
+DOCTOR N842
+You're total is, I'd like it under 200 and it's 205.  The LDL you know @@@ and you do have hypertension and you've had a history of stroke I would theoretically like it @@@ under 100.
+
+PATIENT N842
+Alright.
+
+DOCTOR N842
+Okay?
+
+PATIENT N842
+You the man, you're the doctor.
+
+DOCTOR N842
+Okay, so we will go, let's go up to 40.
+
+PATIENT N842
+Take the whole thing?
+
+DOCTOR N842
+Yes.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+I think, it's not, you're not gonna feel any different.  It's not, if you're feeling, if we checked it and its a little lower, then I think we can just track that down.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+But having a little bit too low of cholesterol with medication is not a bad thing.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+Okay?  
+
+PATIENT N842
+So, yeah I do have another bottle, full bottle at home.
+
+DOCTOR N842
+Okay, I'll change it, they might send you more but you can always tell them not to.
+
+PATIENT N842
+Well you know by taking in half, you know it lasts quite a long time.
+
+DOCTOR N842
+So we'll put that in for you today.  You never made it to Greece then.
+
+PATIENT N842
+No (laughter).
+
+DOCTOR N842
+I'm really sorry about that.  That's a shame.
+
+PATIENT N842
+Alright, there's no way.
+
+DOCTOR N842
+I was reading here in my notes.  I read it before I came in, return in three montha after patient returns from Greece.
+
+PATIENT N842
+Greece yeah and in a way I'm glad I didn't because if I would, if I would have got on the airplane, I probably would have died.
+
+DOCTOR N842
+You might have, I think so, you head your head though, would you have hit your head?
+
+PATIENT N842
+What do you mean?
+
+DOCTOR N842
+Well you said you hit your hit your head a couple of days before you had the symptoms.
+
+PATIENT N842
+No that was about maybe a couple of months.
+
+DOCTOR N842
+Oh months ago you hit your head.
+
+PATIENT N842
+A couple of months before I came here.
+
+DOCTOR N842
+Oh so slow.
+
+PATIENT N842
+Slowly things @@@.  I heard the bump.
+
+DOCTOR N842
+Subdurals are like that.  @@@.
+
+PATIENT N842
+Yeah and sometimes at night when I'd be watching TV, I couldn't hold my head someplace normal.  I didn’t know what was going on.
+
+DOCTOR N842
+You never told me that at the visit that you were feeling dizzy.
+
+PATIENT N842
+Uh.
+
+DOCTOR N842
+Did you?
+
+PATIENT N842
+I don’t think so.  I wasn't really feeling dizzy.  I was feeling uncomfortable.
+
+DOCTOR N842
+Okay.
+
+PATIENT N842
+Uncomfortable and I thought it was probably my neck.  I thought it was my neck and I would put heating pads on my neck and I would uh move my head this way and that away and go to bed early.  Like I said until one day I got up and I couldn't put my foot in the slipper.
+
+DOCTOR N842
+Wow.
+
+PATIENT N842
+Anyway.
+
+DOCTOR N842
+Good for you that everything.
+
+PATIENT N842
+It worked out okay.
+
+DOCTOR N842
+It worked out okay.
+
+PATIENT N842
+I uh, I'm thankful the people here, I'm glad I came here because I figured if I would've went outside, by the time those people find out how to get their money or who to contact for my records.
+
+DOCTOR N842
+I want get a set of labs first, do you mind?
+
+PATIENT N842
+No.
+
+DOCTOR N842
+The hemoglobin was a little low and generally everything is coming back normal.  I'll recheck your cholesterol too.  You have to be fasting but that's okay.
+
+PATIENT N842
+That's okay.
+
+DOCTOR N842
+Its okay, it's not gonna give me the best information but it'll give me some information.
+
+PATIENT N842
+Alright.  So I should take the blood test then.
+
+DOCTOR N842
+Yeah we'll get some blood @@@.  Um, alright hop up over here.  Since we're done with the chatting, just the exam alright.
+
+PATIENT N842
+Okay, should I take anything off?
+
+DOCTOR N842
+Yeah, your jacket.
+
+PATIENT N842
+@@@.
+
+DOCTOR N842
+That's fine.  If you don't mind unbutton @@@.  Any rash or skin changes or anything like that that you've noticed?  Okay.  Alright, shoes.  Give me a deep breath.  Okay.  Good.  Deep breath and hold it, good.  Another deep breath and hold it.  Say ah.
+
+PATIENT N842
+Ah.
+
+DOCTOR N842
+Good.  Stick your tongue out for me, good.  No sorness? @@@.  Are you eating good?  Okay.
+
+PATIENT N842
+Yes.
+
+DOCTOR N842
+No loss of appetite?
+
+PATIENT N842
+I don't think so, I eat good.
+
+DOCTOR N842
+@@@.
+
+PATIENT N842
+@@@.
+
+DOCTOR N842
+Huh?
+
+PATIENT N842
+I did have a doctor outside.
+
+DOCTOR N842
+Okay.
+
+PATIENT N842
+But if he won't accept HMO, so I said heck with it and I made an appointment here.
+
+DOCTOR N842
+To see the eye doctor?
+
+PATIENT N842
+Yeah.
+
+DOCTOR N842
+The heck with it! (laughs) Oh oops, I'm sorry, what's going on there? (Blood pressure cuff giving problems)
+
+PATIENT N842
+(Laughter).
+
+DOCTOR N842
+Shame on me.  @@@ anything.
+
+PATIENT N842
+(Laughter).
+
+DOCTOR N842
+Not the devices problem, it's my problem.  I don't like the automated machines they use out there.
+
+PATIENT N842
+Oh.
+
+DOCTOR N842
+Cause sometimes it doesn't give you accurate numbers.  A little bit higher.
+
+PATIENT N842
+What?  What'd you find?
+
+DOCTOR N842
+I got like 143/85.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+So we might have to put you on the low dose of that medicine alright?  Um and then in two weeks what we'll do is we'll bring you back for another blood pressure and uh we will check a lab at that time and make sure your potassium and everything is not out of whack.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+Okay, so we'll get, we should get a baseline today @@@.  Okay?
+
+PATIENT N842
+I got to take a blood test today?
+
+DOCTOR N842
+You will cause I want to have something to compare.  Your last one was while you were in the hospital.  Some of the lab work was a little funky.  
+
+PATIENT N842
+Yeah.
+
+DOCTOR N842
+I want to make sure everything has kind of gotten better.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+Okay.
+
+PATIENT N842
+And then uh, you're gonna mail these.
+
+DOCTOR N842
+Well if you want, you could pick it up today.
+
+PATIENT N842
+Uh-huh.
+
+DOCTOR N842
+Okay and for example if that blood pressure medication is doing weird things to your system, we have others okay.
+
+PATIENT N842
+It didn't do anything wrong.
+
+DOCTOR N842
+Okay.  Well no sometimes it can make the potassium go down, it can slow your heart rate.
+
+PATIENT N842
+Oh, oh I see.
+
+DOCTOR N842
+We don't want that to happen.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+Okay.
+
+PATIENT N842
+So.
+
+DOCTOR N842
+Hang tight and I'll have you out of here in about three minutes.
+
+PATIENT N842
+Stay here?
+
+DOCTOR N842
+Yeah.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+For now.
+
+(DOCTOR OUT:  61:29  DOCTOR IN:  67:36
+
+PATIENT N842
+So.
+
+DOCTOR N842
+So, I mean everything is set.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+Um we're gonna put you on the hydrochlorothiazide, that pill that you were taking.
+
+PATIENT N842
+Uh-huh.
+
+DOCTOR N842
+12.5 mg okay.
+
+PATIENT N842
+Yeah.
+
+DOCTOR N842
+Half a pill.
+
+PATIENT N842
+Uh-huh.
+
+DOCTOR N842
+And then the cholesterol pill.
+
+PATIENT N842
+The whole.
+
+DOCTOR N842
+Whole 40 mg.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+Um I'll either have this be mailed to you or you can pick it up today, what would you prefer?
+
+PATIENT N842
+You can mail it.
+
+DOCTOR N842
+I'll mail it.
+
+PATIENT N842
+Okay @@@.
+
+DOCTOR N842
+And then I'm gonna get you @@@.  How long does it take if I put in the medication today, how long does it take to get out to you?
+
+PATIENT N842
+Two days.
+
+DOCTOR N842
+Really?
+
+PATIENT N842
+Yeah.
+
+DOCTOR N842
+Like Wednesday through Thursday you'll have it?
+
+PATIENT N842
+Wednesday @@@.  
+
+DOCTOR N842
+Well I want you on the medication for at least a week before they check this stuff okay.
+
+PATIENT N842
+Yes she's gonna come in and check to make sure and.
+
+DOCTOR N842
+Draw labs uh-huh.  Does she draw labs?
+
+PATIENT N842
+She could.
+
+DOCTOR N842
+Is that from the VA?
+
+PATIENT N842
+I have no idea of where those people come from uh.
+
+DOCTOR N842
+Well if you can come here, why don't you come here.
+
+PATIENT N842
+You want me to come here?
+
+DOCTOR N842
+It would be preferred yeah.
+
+PATIENT N842
+I can come.
+
+DOCTOR N842
+It'd be better @@@ to have you come here.  Um otherwise they can set it up for you to get it at home.
+
+PATIENT N842
+@@@.
+
+DOCTOR N842
+The nurses.
+
+PATIENT N842
+The nurses can get a blood draw.  I can, I can come here early.  @@@ Monday, should I come in Monday?
+
+DOCTOR N842
+No we can give the blood today.
+
+PATIENT N842
+Today.
+
+DOCTOR N842
+But there's gonna be @@@ we need to recheck your blood pressure too.
+
+PATIENT N842
+Oh.
+
+DOCTOR N842
+To make sure, cause sometimes this medication can cause your sodium to drop.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+And it can cause your potassium to drop.  There are side effects that we keep an eye on, especially given the recent head you know issues, I want to make sure that everything a) is back to normal now and b) it stays normal after we start the meds.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+Okay?
+
+PATIENT N842
+Good.
+
+DOCTOR N842
+Three weeks and then three months with me.
+
+PATIENT N842
+Okay.  Uh, I'm gonna be notified.
+
+DOCTOR N842
+For sure.  Uh you want to go to the Lab today?
+
+PATIENT N842
+Today yeah.  Who gets this?
+
+DOCTOR N842
+That goes back to the front desk.
+
+PATIENT N842
+Okay.
+
+DOCTOR N842
+Alright?
+
+PATIENT N842
+That's all I need?
+
+DOCTOR N842
+Yeah, we're good.
+
+PATIENT N842
+@@@.
+
+DOCTOR N842
+@@@.  That sounds very nice.
+
+PATIENT N842
+Like a.
+
+DOCTOR N842
+I better remember that.  That sounds very @@@.
+
+PATIENT N842
+What that means.
+
+DOCTOR N842
+That was closer to what I @@@ when I first got to call you, I was going to say PATIENT
+
+PATIENT N842
+PATIENT.
+
+DOCTOR N842
+What does that mean?
+
+PATIENT N842
+It means when you're facing the sun.
+
+DOCTOR N842
+Okay.
+
+PATIENT N842
+You're PATIENT, in Greek you know the sun is called idios.
+
+DOCTOR N842
+Idios.
+
+PATIENT N842
+PATIENT, so if you are facing the sun, you are PATIENT, like sunny side.
+
+DOCTOR N842
+Sunny side up.
+
+PATIENT N842
+Okay, so that's what, but I think my uh you know people before me, were probably cold and they were waiting for the sun to come up so they warm themselves up so they were facing the sun.  But anyway.
+
+DOCTOR N842
+That's very interesting.  I never heard @@@.
+
+PATIENT N842
+But uh that's what it is, so I left it.  A lot of people asked me to change it but I wasn't going to change it.
+
+DOCTOR N842
+Okay, it's a beautiful name.
+
+PATIENT N842
+Leave it alone, thank you very much.
+
+DOCTOR N842
+Take care.
+
+PATIENT N842
+Okay doctor.
+
+DOCTOR N842
+@@@.
+
+PATIENT N842
+Alright.
+
+DOCTOR N842
+Okay.
+
+PATIENT LEAVES:  71:16
+
+Time is 3:40.
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235330
+TRANSACTION # 578-10-2-316-0103

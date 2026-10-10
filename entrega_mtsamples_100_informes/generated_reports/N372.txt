@@ -1,0 +1,20 @@
+TITLE: General Medicine Followup - Medication Reconciliation
+DESCRIPTION: Follow-up for cardiovascular disease, medication renewals, and blood pressure review.
+
+INTERVAL HISTORY: The patient returns primarily to renew pravastatin, which had disappeared from his current medication list. He has continued taking it. He is otherwise doing reasonably well and walks with a cane without reported falls. He has been using his diuretic every day, although it had also been discussed as an as-needed medication for leg swelling. He continues to follow with Cardiology and the anticoagulation clinic. An eye procedure is planned for June.
+
+CURRENT MEDICATIONS: Pravastatin 40 mg daily, levothyroxine, carvedilol 12.5 mg twice daily, furosemide, warfarin, and clopidogrel among his cardiovascular medications.
+
+PHYSICAL EXAMINATION: Blood pressure is well controlled. The patient ambulates adequately with a cane. Only minimal lower extremity swelling is appreciated.
+
+LABORATORY DATA: INR is 2.66.
+
+ASSESSMENT AND PLAN:
+1. Cardiovascular disease and hypertension: Blood pressure is well controlled. Continue current therapy and Cardiology follow-up. The long-term need for clopidogrel was discussed in relation to specialist management.
+2. Anticoagulation: Continue Coumadin clinic surveillance; most recent INR is therapeutic.
+3. Hyperlipidemia: Pravastatin 40 mg reordered.
+4. Hypothyroidism: Continue levothyroxine and renew prescription.
+5. Intermittent edema: Discussed daily versus as-needed diuretic administration.
+6. Borderline aortic dilation: Prior CT measured the abdominal aorta at 2.9 cm, below conventional aneurysm threshold. The patient has previously declined routine serial surveillance.
+
+Other routine screening was reviewed. Prescriptions were renewed for mailing. Return in six months.

@@ -1,0 +1,572 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR K792
+PATIENT?
+
+PATIENT K792
+Yes.  How are you today?
+
+DOCTOR K792
+I'm DOCTOR.
+
+PATIENT K792
+Just a jacket.
+
+DOCTOR K792
+Come on in.  
+
+PATIENT K792
+So how you doing?
+
+DOCTOR K792
+Fine.  How you doing?
+
+PATIENT K792
+Fine.  What's happening or you know.
+
+DOCTOR K792
+Yeah well um, this is the first time @@@ for a while and yeah.
+
+PATIENT K792
+Oh yeah you're new.  I need a regular check-up.
+
+DOCTOR K792
+Okay great.  Any problems or concerns today?
+
+PATIENT K792
+Eye medicine.
+
+DOCTOR K792
+Eye medicine.
+
+PATIENT K792
+Yeah they put less in the bottle now so it doesn't last the full three months duration.
+
+DOCTOR K792
+Okay.
+
+PATIENT K792
+Can I get four instead of three?
+
+DOCTOR K792
+Okay.  Let me just take a look here.  Which one are you talking about?  @@@.
+
+PATIENT K792
+No, no uh.
+
+DOCTOR K792
+@@@.
+
+PATIENT K792
+Uh I think it's kind of a, let me check my, what'd I do with it.  The one I put in once, I only put it once a day.
+
+DOCTOR K792
+Okay um.
+
+PATIENT K792
+So you can get three bottles, but they put less in the bottles now.
+
+DOCTOR K792
+Okay.  Well what I can do is I can give you 12 refills um.
+
+PATIENT K792
+Yeah but last time @@@ said they only give it to me every three months, it's supposed to last three months when it doesn't last three months.
+
+DOCTOR K792
+Let me try, let me see here.  @@@
+
+PATIENT K792
+It's less in the bottles now.
+
+DOCTOR K792
+@@@ Pharmacy @@@.  
+
+PATIENT K792
+Yes.
+
+DOCTOR K792
+We'll see if this works.  I increased the amount they put in the bottle.
+
+PATIENT K792
+Uh-huh.
+
+DOCTOR K792
+I hope that works.  Otherwise you’ll have to take it up with the pharmacy.
+
+PATIENT K792
+Okay, they won’t pay any attention to me.  And uh I put in for a prescription, could I pick it up today?
+
+DOCTOR K792
+What's that?
+
+PATIENT K792
+My eye medicine.
+
+DOCTOR K792
+Uh did you call and they said they'd mail it?
+
+PATIENT K792
+Yeah.
+
+DOCTOR K792
+Um, you might be able to go down there and get it but they probably have already mailed it.
+
+PATIENT K792
+Right.  Okay.  Because I don't have anymore.  I'll see my eye doctor this afternoon, maybe he can give me.
+
+DOCTOR K792
+Yeah.
+
+PATIENT K792
+Yeah.  Cause I ran out the first of last week, towards the end of the month so.
+
+DOCTOR K792
+And what eye problems do you have?
+
+PATIENT K792
+Uh glaucoma in both eyes.  Can't see in the right, just peripheral vision.
+
+DOCTOR K792
+Any other medical problems?
+
+PATIENT K792
+Uh let's see no.  No.
+
+DOCTOR K792
+Now I understand you've been off the Coumadin correct?
+
+PATIENT K792
+I've been off that for a long time.
+
+DOCTOR K792
+Any problems since that?
+
+PATIENT K792
+Nope.  I've been off Coumadin since February.
+
+DOCTOR K792
+Uh-huh.  Okay good.  Um do you smoke?
+
+PATIENT K792
+Yep.
+
+DOCTOR K792
+How much do you smoke?
+
+PATIENT K792
+Maybe six to eight cigarettes a day.
+
+DOCTOR K792
+Okay.
+
+PATIENT K792
+But I quit.
+
+DOCTOR K792
+You quit?
+
+PATIENT K792
+Yeah.  I'm quitting.
+
+DOCTOR K792
+Okay.  Any alcohol use?
+
+PATIENT K792
+Nope.
+
+DOCTOR K792
+Never, rarely, occasionally?
+
+PATIENT K792
+Occasionally.
+
+DOCTOR K792
+Any illicit drugs?
+
+PATIENT K792
+No.
+
+DOCTOR K792
+Who do you live with?
+
+PATIENT K792
+My son, me and my wife.
+
+SECOND PERSON K792
+@@@ doctor.
+
+DOCTOR K792
+Um family history, mom and dad, any medical problems that you know of?
+
+PATIENT K792
+Uh my father's deceased.  My mother's 88.  She uh, not really medical problems.
+
+DOCTOR K792
+Okay.
+
+PATIENT K792
+Normal for somebody in.
+
+DOCTOR K792
+Any heart disease?
+
+PATIENT K792
+No.
+
+DOCTOR K792
+High blood pressure or anything like that?
+
+PATIENT K792
+Uh maybe high blood pressure.
+
+DOCTOR K792
+And your dad what did he pass from?
+
+PATIENT K792
+I forgot.
+
+DOCTOR K792
+Okay.  Did he have any heart problems or diabetes that you know of?
+
+PATIENT K792
+No.  He's dead so he's not in the system anymore right?
+
+DOCTOR K792
+Um I wouldn't be allowed to look him up anyway.
+
+PATIENT K792
+Oh.
+
+DOCTOR K792
+Okay.  Any fevers, chills, changes in your weight?  Uh do you exercise on a regular basis?
+
+PATIENT K792
+Oh yes.
+
+DOCTOR K792
+Okay good.  What kind of exercise do you do?
+
+PATIENT K792
+Well I go to the gym.  I'm not running because my knees have arthritis.
+
+DOCTOR K792
+Oh okay.
+
+PATIENT K792
+You can't cure my arthritis.
+
+DOCTOR K792
+Well, the only way to really cure it is what you're doing @@@.
+
+PATIENT K792
+I don’t think so.
+
+DOCTOR K792
+What do you take for the pain when you get it?
+
+PATIENT K792
+I don't actually.  Well, I don't have much pain.
+
+DOCTOR K792
+Okay good.
+
+PATIENT K792
+The other doctor told me I had arthritis.
+
+DOCTOR K792
+Okay.
+
+PATIENT K792
+So I just stopped running because of that.
+
+DOCTOR K792
+Okay.  Well you can always do like some.
+
+PATIENT K792
+Yeah I workout at the gym you know, upper body.
+
+DOCTOR K792
+Biking is good for your knees @@@. 
+
+PATIENT K792
+Yeah.  I do a lot of walking.
+
+DOCTOR K792
+Good.  Let me just pull up all of my little reminders here and we'll go through these real quick and then.
+
+PATIENT K792
+I have to go give blood?
+
+DOCTOR K792
+@@@.  Um is there anything @@@.  
+
+PATIENT K792
+No.
+
+DOCTOR K792
+Have you eaten today?
+
+PATIENT K792
+No.
+
+DOCTOR K792
+Drink anything?  Coffee, orange juice?
+
+PATIENT K792
+Juice.
+
+DOCTOR K792
+So I'd like to get a fasting cholesterol level for you.
+
+PATIENT K792
+Uh-huh.
+
+DOCTOR K792
+But you have to be like literally fasting so I can order it and if you don't mind coming back for it.  Are you coming back anytime soon?
+
+PATIENT K792
+Wasn't planning on it.
+
+DOCTOR K792
+Okay.
+
+PATIENT K792
+What do you consider soon, couple days?
+
+DOCTOR K792
+Well within the next month or two, @@@.
+
+PATIENT K792
+Fasting, so how long would I have to fast?
+
+DOCTOR K792
+Um well like the night before when you go to bed.
+
+PATIENT K792
+Yeah.
+
+DOCTOR K792
+Like 10 or 11 o'clock.
+
+PATIENT K792
+Yeah.
+
+DOCTOR K792
+Then that whole morning until you get there and get your labs drawn, only water.  You can take your medicines with the water, that's fine and then you come in first thing in the morning um and then we draw them.@@@
+
+PATIENT K792
+Do you want me to do that?
+
+DOCTOR K792
+If you could that'd be wonderful.
+
+PATIENT K792
+So when would you like me to do it, tomorrow?
+
+DOCTOR K792
+It doesn’t matter.  Like I said I can just put in the order and then you can come back and get it whenever it's convenient.
+
+PATIENT K792
+Oh, okay, okay, so.  I'll try and do that this week.  So I just need to fast from midnight till whenever I come here.  No problem, just snap the whip on me for sure, if you push the button I come a strutting.
+
+DOCTOR K792
+Alright.  And then I would like to get some other basic labs along with the.
+
+PATIENT K792
+Uh @@@.  Cause I been in China and I had a @@@.
+
+DOCTOR K792
+Okay.  So you don't need to give any blood today, we might as well just do all of that when you come in, okay.
+
+PATIENT K792
+Okay.
+
+DOCTOR K792
+So it'll all be in here.
+
+PATIENT K792
+But I could do it today though?
+
+DOCTOR K792
+Um, no you have to be fasting.
+
+PATIENT K792
+Oh okay.  For all the tests I need to fast?
+
+DOCTOR K792
+Not all the tests but they're not going to know the difference at the lab.
+
+PATIENT K792
+Okay.
+
+DOCTOR K792
+So they'd probably draw all the tests and I’d have to reorder.
+
+PATIENT K792
+Okay.  I'll fast and plan on coming in tomorrow.
+
+DOCTOR K792
+That's fine.  Have a seat up here.
+
+PATIENT K792
+She wants you.
+
+SECOND PERSON K792
+No.
+
+PATIENT K792
+Hold this.
+
+
+DOCTOR K792
+I heard you coughing on the way in. Alright open up for me ah.  Any cough, nausea?
+
+PATIENT K792
+No, just a little cough from a cold that's it.
+
+DOCTOR K792
+Okay.  Any chest pains?
+
+PATIENT K792
+No.
+
+DOCTOR K792
+Big deep breath in and out.  Good.  Just breathe normal.  Any swelling in your legs?
+
+PATIENT K792
+No.
+
+DOCTOR K792
+Good. Want to lay back for me.  Any pain where I push?
+
+PATIENT K792
+No.
+
+DOCTOR K792
+Good.  Alright you can sit up.  Alright everything looks good.
+
+PATIENT K792
+Okay.
+
+DOCTOR K792
+No your lungs sound good.  Your heart sounds good and everything else looks okay.  Your blood pressure looks great.
+
+SECOND PERSON K792
+Oh really.
+
+DOCTOR K792
+Um any questions for me?
+
+PATIENT K792
+No.
+
+DOCTOR K792
+Hopefully I fixed the meds but we'll see.
+
+PATIENT K792
+Yeah.
+
+DOCTOR K792
+Alright give me five minutes; I just have to run everything by my boss.
+
+PATIENT K792
+Okay.
+
+DOCTOR K792
+And then we'll get going okay.
+
+PATIENT K792
+Sure, alright.  @@@.  
+
+(DOCTOR OUT:  58:44  DOCTOR IN:  63:33)
+
+DOCTOR K792
+Alright.  So the only other thing to do, you said you'd traveled to China?
+
+PATIENT K792
+Yes.
+
+DOCTOR K792
+Recently, or?
+
+PATIENT K792
+Yeah why?
+
+DOCTOR K792
+Well I was just curious because we'd like you to be immunized when for those, when you’re going to those @@@.  Have you ever had a @@@.
+
+PATIENT K792
+Yes the first time I went.
+
+DOCTOR K792
+So I'll just double check your blood work.
+
+PATIENT K792
+Yeah and uh I have @@@ for every year there too.
+
+DOCTOR K792
+Okay great.
+
+PATIENT K792
+Yeah the first year I took, I was inoculated.
+
+DOCTOR K792
+Okay.  
+
+PATIENT K792
+@@@.
+
+DOCTOR K792
+Oh okay.  Alright and I'll go ahead and set that up for you at the Lab.
+
+PATIENT K792
+And I'll get it tomorrow.
+
+DOCTOR K792
+Okay.  And then I probably don't need to see you for another six months or so unless something comes up okay?
+
+PATIENT K792
+Yep okay.  It's been fun.
+
+DOCTOR K792
+So I'll let you know if anything on your labs comes up.
+
+PATIENT K792
+Yeah.  Good seeing you @@@.
+
+DOCTOR K792
+Oh yeah.  You don't like doctors?
+
+PATIENT K792
+You like doctors NAME?
+
+SECOND PERSON K792
+I like doctors, I like her.
+
+DOCTOR K792
+Something @@@.
+
+PATIENT K792
+Are you still drinking that?  Drinking it for hours now @@@.  So do I give this to the check out?
+
+DOCTOR K792
+Yeah.
+
+PATIENT K792
+Thank you.
+
+DOCTOR K792
+You're welcome, take care.
+
+PATIENT K792
+Alright.  @@@.
+
+PATIENT LEAVES:  66:14
+
+Time is 9:35.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249426
+TRANSACTION # 578-10-2-316-0103

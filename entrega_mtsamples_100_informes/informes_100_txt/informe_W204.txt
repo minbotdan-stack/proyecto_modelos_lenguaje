@@ -1,0 +1,22 @@
+Sample Name: General Medicine Followup - Postherpetic Pain and Diabetes
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Persistent neuropathic pain following shingles with uncontrolled blood glucose and blood pressure.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: A 74-year-old patient reports persistent sharp pain involving the chest and back in the distribution of previously diagnosed herpes zoster. The cutaneous eruption has largely resolved, but the pain continues and he requests stronger therapy. He does not report typical pressure-like chest pain or dyspnea. Diabetes remains inadequately controlled despite metformin 1000 mg twice daily and glipizide, with home glucose recently around 179-254 mg/dL. Hypertension also remains elevated on current medications. He is reluctant to add medications, particularly insulin, and prefers additional time to assess his existing regimen.
+
+PAST MEDICAL HISTORY: Herpes zoster, diabetes mellitus, hypertension, and chronic pain.
+
+MEDICATIONS: Metformin, glipizide, gabapentin, enalapril, amlodipine, pantoprazole and other current drugs.
+
+ASSESSMENT AND PLAN:
+1. Persistent pain after herpes zoster: Reviewed neuropathic pain mechanisms and offered Pain Clinic referral for additional options. Existing symptomatic medications reconciled; two medications recommended by a treating clinician were entered for pharmacy pickup, but their exact names are unclear in the recording.
+2. Uncontrolled diabetes: Discussed need for better glycemic control and possibility of additional oral treatment or insulin. Patient declined escalation today. Continue measurements and bring meter to next visit.
+3. Hypertension: Elevated readings with variable reported medication use; further adjustment discussed but not clearly accepted.
+
+Return in one month for glucose and blood pressure review.

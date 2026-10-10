@@ -1,0 +1,1175 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+ 
+DOCTOR H542
+PATIENT.  
+
+PATIENT H542
+@@@.  
+
+DOCTOR H542
+I saw that maybe you have some arthritis.
+
+PATIENT H542
+Not only that my legs are puffing up now.
+
+DOCTOR H542
+Are you wearing the stockings anymore?
+
+PATIENT H542
+I'm wearing them right now.  I wore them every day for three weeks, it hasn't changed @@@.
+
+DOCTOR H542
+Let's see.  @@@.
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+And you lost four pounds.
+
+PATIENT H542
+Uh-huh.
+
+DOCTOR H542
+Since the last time I saw you in July.
+
+PATIENT H542
+But today I weighed 190.
+
+DOCTOR H542
+I know, so um.
+
+PATIENT H542
+I just wanted to show you the differece.
+
+DOCTOR H542
+Uh-huh.
+
+PATIENT H542
+This one is real swole and this is  @@@.
+
+DOCTOR H542
+Uh-huh.
+
+PATIENT H542
+And I've been wearing the stockings but I'm running low, this is the last pair I got.
+
+DOCTOR H542
+How long do they last you?
+
+PATIENT H542
+They last me maybe I get two pair and they last me maybe four months, they’ll rip.
+
+DOCTOR H542
+They’ll tear?
+
+PATIENT H542
+They’ll tear.
+
+DOCTOR H542
+Hmm.
+
+PATIENT H542
+And I don't put them in the washing machine. I wash them by hand.
+
+DOCTOR H542
+This is your second pair?
+
+PATIENT H542
+Oh Hell no, I mean @@@ tons of them.
+
+DOCTOR H542
+Who were you getting them from?
+
+PATIENT H542
+@@@ prosthetics.
+
+DOCTOR H542
+@@@.
+
+PATIENT H542
+Oh yeah.
+
+DOCTOR H542
+Okay good, yeah I mean continue that.
+
+PATIENT H542
+Well no I see other doctors.
+
+DOCTOR H542
+You need a prescription for them?
+
+PATIENT H542
+Oh yeah right.
+
+DOCTOR H542
+So you need uh, let's see the last time was in four months we’ll sent that. So um are you checking your finger stick glucoses in the home?
+
+PATIENT H542
+I don't even know what that is.
+
+DOCTOR H542
+For your, with the diabetes.  You're taking the metformin for the diabetes.
+
+PATIENT H542
+Yeah but nobody ever told me anything about sticks.
+
+DOCTOR H542
+You're not checking your sugars?
+
+PATIENT H542
+Oh no.
+
+DOCTOR H542
+Oh okay.
+
+PATIENT H542
+@@@ oh yeah.
+
+DOCTOR H542
+Alright.  Um I think it'd be a good idea to have you start.  @@ check it every other day, check your numbers.
+
+PATIENT H542
+Uh-huh.
+
+DOCTOR H542
+And it looks like your diabetes is a little worse.
+
+PATIENT H542
+Uh-huh.
+
+DOCTOR H542
+Um cholesterol is okay.  
+
+PATIENT H542
+And the diet, @@@ diabetic so.
+
+DOCTOR H542
+How’s your breathing been?
+
+PATIENT H542
+Well, you know I took, you signed up for the test, how'd I do?
+
+DOCTOR H542
+It looks like you have uncontrolled obstructive sleep apnea.
+
+PATIENT H542
+Good.
+
+DOCTOR H542
+@@@.
+
+PATIENT H542
+Cause they came back and said I @@@, cause that's the worst diagnosis in the world.  I got every symptom @@@.
+
+DOCTOR H542
+Yeah.  They want to set you up with a machine to help you breathe.
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+They probably want you on a CPAP.
+
+PATIENT H542
+That's @@@ oxygen.
+
+DOCTOR H542
+It doesn't, I don't think that you needed oxygen uh intermittently to provide pressure.
+
+PATIENT H542
+Yeah, yeah I @@@ that.
+
+DOCTOR H542
+CPAP.  Have you ever used it before?
+
+PATIENT H542
+No.
+
+DOCTOR H542
+Okay.
+
+PATIENT H542
+I read about it @@@.  And I went up there and talked to the gal up there and I read up on that and did some research.
+
+DOCTOR H542
+Oh it was DOCTOR @@@.  So have an appointment with DOCTOR on the 25th of this month.
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+That's when they'll set you up with that.
+
+PATIENT H542
+That's weird.  A psychiatrist can set you up with a breathing machine.
+
+DOCTOR H542
+@@@.
+
+PATIENT H542
+Yeah she's my psychiatrist.
+
+DOCTOR H542
+Oh yeah she can put that in.
+
+PATIENT H542
+No she had @@@.
+
+DOCTOR H542
+@@@ I don't see if she put in for that.  Who is DOCTOR?
+
+PATIENT H542
+DOCTOR is my – she’s a social worker.
+
+DOCTOR H542
+Okay.
+
+PATIENT H542
+She’s right next door to Pulmonary.
+
+DOCTOR H542
+Alright so you're gonna need a Pulmonary follow-up appointment.
+
+PATIENT H542
+Yeah, she’s not a doctor, she’s a social worker.
+
+DOCTOR H542
+Yeah, we can set it up for you.
+
+PATIENT H542
+The last time @@@ meds.
+
+DOCTOR H542
+What's that?
+
+PATIENT H542
+The last time you saw me you were supposed to have the meds so then @@@ on the machine, uh the cell phone and then they said it wasn't orderable.
+
+DOCTOR H542
+And what wasn't orderable.
+
+PATIENT H542
+The inhaler.
+
+DOCTOR H542
+Oh, you mean.
+
+PATIENT H542
+So I don't know if you forgot to put it all in or what but it really screwed me up because then I had to go through hell to find a doctor or a pharmacist or somebody, finally got back to me and so @@@.
+
+DOCTOR H542
+Okay, so we're talking about your pump.
+
+PATIENT H542
+@@@ four different kinds.
+
+DOCTOR H542
+Okay you want it mailed to you?
+
+PATIENT H542
+Yeah, all the medications should be mailed.
+
+DOCTOR H542
+Okay so I'll put in the albuterol.  Have you been out of these?
+
+PATIENT H542
+The albuterol I was and I called them and went through a couple of hoops. @@@
+
+DOCTOR H542
+Okay.
+
+PATIENT H542
+They tell you one thing when you're on the phone and then you call up the Pharmacy oh no you can get it.
+
+DOCTOR H542
+Okay. Sorry about that.
+
+PATIENT H542
+That's alright.
+
+DOCTOR H542
+And you're on the mometasone.
+
+PATIENT H542
+Uh-huh.
+
+DOCTOR H542
+You're on the formoterol and the albuterol.  Is there anything else that you're taking?
+
+PATIENT H542
+Yeah, there’s one other thing.
+
+DOCTOR H542
+There’s a fourth one?
+
+PATIENT H542
+Yeah.  Let me ask you the fancy name @@@ I can’t remember it. One is one you turn and it disperses the powder automatically every time you open it.
+
+DOCTOR H542
+Right.
+
+PATIENT H542
+The other two you have to pierce that capsule, @@@ the other two are the ones you carry around albuterol and the other one. Although I think they tried to combine them.
+
+DOCTOR H542
+The Combivent @@@.
+
+PATIENT H542
+Oh that's it.
+
+DOCTOR H542
+Yeah. That’s terrible. I'm really sorry that you needed to go without it.
+
+PATIENT H542
+Oh, it was – well, it is a big deal when you need it.  When I climbing the stairs, I'm on the second floor and it's got a third floor @@@, I got to rest halfway up and sit down on the stairs.  There's no way I can get one of those walkers with a seat is there?
+
+DOCTOR H542
+Um that's possible I think.  Do you feel like you need that?
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+Do you get shortness of breath?
+
+PATIENT H542
+No just like I said shortness of breath is one thing.  I get out of breath about a half a block to a block but it's the waiting for the buses, I take a lot of buses.
+
+DOCTOR H542
+Yeah.
+
+PATIENT H542
+And a lot of times there’s no seat there and I'll stay on my feet for 40 to 30 minutes and I'm telling you, it kills my legs really bad.
+
+DOCTOR H542
+Hmm.  Are you taking Tylenol for your pain?  Does that help?
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+Okay I'll renew that.
+
+PATIENT H542
+@@@.
+
+DOCTOR H542
+@@@ you still having bedbugs?
+
+PATIENT H542
+Oh yeah, we haven’t really @@@.
+
+DOCTOR H542
+And Dermatology gave you some stuff, does that help at all?
+
+PATIENT H542
+Yeah it helps.
+
+DOCTOR H542
+Okay.
+
+PATIENT H542
+They gave me something for the itching I'd never heard of @@@.
+
+DOCTOR H542
+Uh-huh.
+
+PATIENT H542
+But then he gave me this pink stuff @@@.
+
+DOCTOR H542
+Calamine?
+
+PATIENT H542
+Yeah that's it.
+
+DOCTOR H542
+Okay.
+
+PATIENT H542
+And that helps a lot, especially after I just get them, I put it on and it doesn't itch at all @@@.
+
+DOCTOR H542
+Okay do you @@@.
+
+PATIENT H542
+Uh-huh.
+
+DOCTOR H542
+Do you still have those @@@?
+
+PATIENT H542
+Uh I'm almost out.
+
+DOCTOR H542
+Okay.  Your blood pressure's doing pretty good.
+
+PATIENT H542
+Yeah I'm surprised because yesterday I took it, it was high and I had a slight fever, 99.1.
+
+DOCTOR H542
+Hmm.
+
+PATIENT H542
+I got a cold or something @@@ yellowish gray, I got an infection, I guess.
+
+DOCTOR H542
+Are you still smoking?
+
+PATIENT H542
+Oh I @@@.  I @@@.
+
+DOCTOR H542
+Uh-huh.
+
+PATIENT H542
+I’m sucking those hard candies.  @@@ to try to cut down on the smoking.
+
+DOCTOR H542
+Did it help?
+
+PATIENT H542
+A bit but it's like giving me something to do @@@.
+
+DOCTOR H542
+@@@.
+
+PATIENT H542
+Yeah.  I just got over @@@ from that.  @@@.
+
+DOCTOR H542
+Yeah @@@.
+
+PATIENT H542
+Yeah. @@@
+
+DOCTOR H542
+Okay.  Have you been having episodes of chest pain?
+
+PATIENT H542
+Uh only when I'm out of breath @@@ you know something @@@ hurts. Sucking air.
+
+DOCTOR H542
+Uh-huh.  So we could give you some @@@ mask thing.
+
+PATIENT H542
+Uh-huh.
+
+DOCTOR H542
+Would you use it?
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+I think that'll help you to breathe.
+
+PATIENT H542
+I @@@ for the test and woke up and was half gasping for breath @@@. 
+
+DOCTOR H542
+@@@.  
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+@@@.
+
+PATIENT H542
+Uh-huh.
+
+DOCTOR H542
+So your A1C, which is a measure for your diabetes is a little bit higher since August. I'm gonna give a little bit more so I think we should increase your diabetes medication.
+
+PATIENT H542
+Okay.
+
+DOCTOR H542
+Um.
+
+PATIENT H542
+I take two tablets now.
+
+DOCTOR H542
+Right we could give you the 500.
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+And we can give you a finger stick, a glucose meter for at home.
+
+PATIENT H542
+Uh-huh.
+
+DOCTOR H542
+Where you put the strips in the machine.
+
+PATIENT H542
+Oh yeah.
+
+DOCTOR H542
+@@@.
+
+PATIENT H542
+Yeah, right I see.
+
+DOCTOR H542
+Yeah definitely we need to have you um start doing that.  I'm not sure you haven't done it before.
+
+PATIENT H542
+@@@.  There is no such thing as a borderline diabetic according to DOCTOR.
+
+DOCTOR H542
+There is.
+
+PATIENT H542
+Is there?
+
+DOCTOR H542
+Yeah there is.
+
+PATIENT H542
+Oh cause that's what I was told @@@.
+
+DOCTOR H542
+But now you're at the point where you're definitely diabetic.
+
+PATIENT H542
+Oh yeah, yeah.  @@@. I kinda figured that, but they never did tell me to take any kind of blood tests @@@ I don't know.  I guess they were treating me with medications.
+
+DOCTOR H542
+You're due for the TDAP vaccine are you gonna get that today?
+
+PATIENT H542
+What's that?
+
+DOCTOR H542
+Prevents tetanus, diphtheria, and pertussis.
+
+PATIENT H542
+She asked me when the last time it was I got it and I said I don't know.
+
+DOCTOR H542
+The last time you had it was in 2000. You’re supposed to get it every ten years.
+
+PATIENT H542
+Oh okay.  Maybe if she'd have told me that, that I should get it.
+
+DOCTOR H542
+Yeah she can give it to you today.
+
+PATIENT H542
+Good.  Is it a long wait?
+
+DOCTOR H542
+No.  Um what about a colonoscopy?
+
+PATIENT H542
+Uh uh.
+
+DOCTOR H542
+Still don’t want that.
+
+PATIENT H542
+Not yet.
+
+DOCTOR H542
+Okay.  
+
+PATIENT H542
+Why are my legs all puffed up?
+
+DOCTOR H542
+It’s probably from, have you ever had tests done on your heart?  @@@.
+
+PATIENT H542
+Uh a couple of times.
+
+DOCTOR H542
+Let's see when that was doine.  It could be from different reasons.  It could be from your kidneys or @@@.
+
+PATIENT H542
+Sure.
+
+DOCTOR H542
+Um it could be from, it also could be from your heart if you have longstanding problems like diabetes and hypertension it can cause swelling in your legs, also the shortness of breath.  And @@@ smoking and lung disease.
+
+PATIENT H542
+Yeah I've been smoking a pipe, I never smoked @@@.
+
+DOCTOR H542
+Oh okay but still, it still um could be from that or it could be from the lungs or it could be from the heart.
+
+PATIENT H542
+I see.
+
+DOCTOR H542
+@@@ the swelling.
+
+PATIENT H542
+Oh @@@.
+
+DOCTOR H542
+@@@.  So let me see when the last check-up you had was @@@.
+
+PATIENT H542
+And an EKG would be great.
+
+DOCTOR H542
+Yeah.
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+You had a stress test in 2003.
+
+PATIENT H542
+@@@ treadmill are they.
+
+DOCTOR H542
+No @@@.
+
+PATIENT H542
+Yeah, right.
+
+DOCTOR H542
+And I'll just @@@.
+
+PATIENT H542
+Hmm.
+
+DOCTOR H542
+It’s probably worth repeating.
+
+PATIENT H542
+Okay.
+
+DOCTOR H542
+Um @@@ echo @@@.  Okay, have a seat up here.  
+
+PATIENT H542
+You don’t have any new legs back there, somewhere, do you?
+
+DOCTOR H542
+What's that?
+
+PATIENT H542
+You don’t have a pair of new legs back there somewhere? Pop them on?
+
+DOCTOR H542
+New legs? I wish.
+
+PATIENT H542
+Yeah.  That would be nice.
+
+DOCTOR H542
+Um I referred you to the MOVE Clinic, the weight loss clinic. I didn’t see that you made that.
+
+PATIENT H542
+I didn’t see anything on there.
+
+DOCTOR H542
+Oh really.
+
+PATIENT H542
+Nobody contacted me, nobody called me.
+
+DOCTOR H542
+Hmm.
+
+PATIENT H542
+I @@@.
+
+DOCTOR H542
+@@@ deep breath okay.  @@@ look here @@@.
+
+PATIENT H542
+I don't like @@@.
+
+DOCTOR H542
+@@@.  You wouldn’t have gone if @@@ referred.
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+How are you going to lose weight then?
+
+PATIENT H542
+I don't know.
+
+DOCTOR H542
+Open your mouth, say ah.
+
+PATIENT H542
+Ah.
+
+DOCTOR H542
+Okay.  
+
+PATIENT H542
+I know when my legs swell; I'm real tender under the stomach here.
+
+DOCTOR H542
+Really.
+
+PATIENT H542
+Yeah you push down and it hurts.
+
+DOCTOR H542
+Are you drinking alcohol?
+
+PATIENT H542
+Uh I don't do that.  @@@ I went to the ATP classes.  
+
+DOCTOR H542
+Really.  Take some deep breaths.  Again.  Your lungs sound pretty good.
+
+PATIENT H542
+Yeah they do @@@.
+
+DOCTOR H542
+Yeah.
+
+PATIENT H542
+Usually I wheeze.
+
+DOCTOR H542
+Okay.  Let me see when the last time you had an EKG was.
+
+PATIENT H542
+Right.
+
+DOCTOR H542
+It's probably been some time, right?
+
+PATIENT H542
+Yeah, at least a year I think.
+
+DOCTOR H542
+2007.
+
+PATIENT H542
+I know.  @@@ the heart @@@ heart rate was 50 @@@ oh yeah.  I truly @@@.
+
+DOCTOR H542
+Hmm.  Your @@@.
+
+PATIENT H542
+Uh-huh.
+
+DOCTOR H542
+Alright let me go talk to my boss.  I'll be right back.
+
+PATIENT H542
+Who's your boss?
+
+DOCTOR H542
+DOCTOR.
+
+PATIENT H542
+DOCTOR oh.
+
+DOCTOR H542
+@@@.
+
+PATIENT H542
+Very impressive.  @@@.
+
+DOCTOR H542
+@@@.
+
+PATIENT H542
+Laughs.
+
+DOCTOR H542
+I'll be right back.
+
+PATIENT H542
+Alright.
+
+(DOCTOR OUT:  62:28  DOCTOR IN:  72:38)
+
+DOCTOR H542
+Do you want to know the verdict? 
+
+PATIENT H542
+Alright doctor.
+
+DOCTOR H542
+So um I took a look at some of your cardiac studies, to try to see the performance.
+
+PATIENT H542
+Uh-huh.
+
+DOCTOR H542
+We pulled it up and your echo looked okay.  I don't think, it's very unlikely to be coming from your heart.
+
+PATIENT H542
+Okay.
+
+DOCTOR H542
+Um it's probably from your combined asthma/obstructive sleep apnea. 
+
+PATIENT H542
+Okay.
+
+DOCTOR H542
+The blood pressures in the pulmonary arteries that are in the lungs is pretty high.
+
+PATIENT H542
+Oh okay.
+
+DOCTOR H542
+And that makes me think it's coming from here.
+
+PATIENT H542
+Oh okay.
+
+DOCTOR H542
+So I think with the CPAP uh that should help you.
+
+PATIENT H542
+Sounds good.
+
+DOCTOR H542
+But we can definitely, we're gonna start you on medication to help with the swelling in your legs.
+
+PATIENT H542
+@@@.
+
+DOCTOR H542
+Um and we also want to go up on your diabetes meds.
+
+PATIENT H542
+Okay.
+
+DOCTOR H542
+@@@.
+
+PATIENT H542
+Did you ask her about that little chair?
+
+DOCTOR H542
+Yeah we'll definitely look into that.
+
+PATIENT H542
+Great, terrific.
+
+DOCTOR H542
+Um.
+
+PATIENT H542
+It'll help me out in three different ways.
+
+DOCTOR H542
+You have to come back though for some blood work on this medication to help you pee and for the swelling because it can mess up your potassium and electrolytes and stuff.
+
+PATIENT H542
+Okay yeah you gotta keep track of that.
+
+DOCTOR H542
+We just have to follow it yeah.  Let's see here so.
+
+PATIENT H542
+Want a piece of candy?
+
+DOCTOR H542
+Oh no thanks I already had, I already ate.  I'm a diabetic too so.
+
+PATIENT H542
+Are you really?
+
+DOCTOR H542
+Yeah.
+
+PATIENT H542
+So you do that blood test and all the time too.
+
+DOCTOR H542
+Yeah I check my finger sticks three or four times a day.
+
+PATIENT H542
+Alright.
+
+DOCTOR H542
+So we're going up on the metformin.  So now you were taking 500 twice a day of the metformin for your diabetes.  Now you're gonna be taking twice that.  You're taking one gram.
+
+PATIENT H542
+Okay.
+
+DOCTOR H542
+Okay.  And let's see we are also going to start you on something called Lasix flushing the kidneys.  It helps to basically increase the amount of urine.
+
+PATIENT H542
+Oh yeah.
+
+DOCTOR H542
+It basically ups the urine.
+
+PATIENT H542
+I pee all the time anyway.
+
+DOCTOR H542
+I know but that might be because of the diabetes so if you get the blood sugars down then you might not pee as much.
+
+PATIENT H542
+Alright, alright.
+
+DOCTOR H542
+Now when you pee you'll actually.
+
+PATIENT H542
+Get @@@.
+
+DOCTOR H542
+Be @@@.
+
+PATIENT H542
+Yeah okay.
+
+DOCTOR H542
+So um but along with the pee, is it also @@@ potassium.
+
+PATIENT H542
+Oh yeah.
+
+DOCTOR H542
+Magnesium, stuff like that can get low.
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+Check your levels.
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+Check your levels a little bit.  We'll start with um, I think we're gonna start with 20 mg twice a day.  This stuff works for around six hours, so when you take it you have to put your legs up and then all that water will be resorbed into your body and @@@.
+
+PATIENT H542
+I @@@.
+
+DOCTOR H542
+It @@@.
+
+PATIENT H542
+I do that now, I elevate my legs as much as possible and I don't, nothing seems to help.  
+
+DOCTOR H542
+Can you give us a urine test today too?
+
+PATIENT H542
+Sure.
+
+DOCTOR H542
+Okay.
+
+PATIENT H542
+I'm a giving guy.
+
+DOCTOR H542
+Great.
+
+PATIENT H542
+How many gallons do they want?
+
+DOCTOR H542
+As much as you can make, I guess.  Um let's see here, I’ll order the labs now.  You should come back in probably about two weeks to get your blood tests checked.
+
+PATIENT H542
+Okay.
+
+DOCTOR H542
+Then I'll follow up myself to let you know.
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+If something's abnormal.
+
+PATIENT H542
+And what about the compression stockings?
+
+DOCTOR H542
+Yeah I'll order them now.  That, as you know, takes a little bit of time.  I'll give you a call and let you know if they're in.
+
+PATIENT H542
+Oh they've got them up there all the time?
+
+DOCTOR H542
+They, if you go up there immediately yeah.
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+I'll put in the order.
+
+PATIENT H542
+If it's in the computer they got them.  If it ain't in the computer they don't have it.
+
+DOCTOR H542
+Let's see here and one of the notes has the size in there so let me see what your size was.
+
+PATIENT H542
+I think it's like the second from the top.  Yeah I get these shooting pains all the way down to my toes right now.
+
+DOCTOR H542
+Uh-huh.
+
+PATIENT H542
+Yeah in my legs to my toe.  
+
+DOCTOR H542
+@@@ walker.
+
+PATIENT H542
+Yeah.
+
+DOCTOR H542
+@@@.  
+
+PATIENT H542
+Sure would help me out.  
+
+DOCTOR H542
+Are you gonna pick it up or how will we get it to you?
+
+PATIENT H542
+Well it would be coming from Prosthetics.
+
+DOCTOR H542
+Yeah.
+
+PATIENT H542
+Yeah I'd go up and get it.
+
+DOCTOR H542
+Okay.  Okay so we're gonna have you see the nurse in three weeks um.
+
+PATIENT H542
+This stuff shows in the print-out, oh yes.
+
+DOCTOR H542
+Yeah well they'll, I think they make the appointment for you and then they'll give you something to take home to remind you.
+
+PATIENT H542
+Alright.
+
+DOCTOR H542
+And then also I'll send you a letter when you're gonna see me next as well.
+
+PATIENT H542
+Okay.
+
+DOCTOR H542
+Okay.  So.
+
+PATIENT H542
+Well I don't, I'll probably hear now.
+
+DOCTOR H542
+And TDAP.
+
+PATIENT H542
+Oh for what?  Keep that?
+
+DOCTOR H542
+No TDAP vaccine.
+
+PATIENT H542
+Oh that's right.  Do I just go to the nurse now and get it?
+
+DOCTOR H542
+Yeah I think you, oh the pulmonary function; I'll put that in there now.
+
+PATIENT H542
+You want it right now?
+
+DOCTOR H542
+I think @@@ regular @@@ yeah over here and um.  You already have your appointment right?
+
+PATIENT H542
+No.
+
+DOCTOR H542
+You didn't have it right?
+
+PATIENT H542
+All I know is I went overnight and I never heard back and that was it.  So I figured @@@.
+
+DOCTOR H542
+So I'll talk to them.  So the pulmonary appointment and @@@ up front and we'll be able to see you back @@@.
+
+PATIENT H542
+Okay thank you.  Your name is DOCTOR?
+
+DOCTOR H542
+Uh DOCTOR.
+
+PATIENT H542
+Oh DOCTOR.
+
+DOCTOR H542
+Yeah.
+
+PATIENT H542
+Oh why does it say DOCTOR.
+
+DOCTOR H542
+This is the name of the next patient I’m seeing
+ @@@.  Oh don't forget to go to the Lab so you can get those tests.
+
+PATIENT H542
+Yeah I'll do that.
+
+DOCTOR H542
+Great, okay we'll see you soon then okay.
+
+PATIENT H542
+Okie dokey.
+
+DOCTOR H542
+It was nice to see you again.
+
+PATIENT H542
+Yeah.  I'm glad you're gonna be a permanent and not a part-time.
+
+DOCTOR H542
+Uh-huh.  Take care.  Stay warm.
+
+PATIENT H542
+Yeah I know it can really get cold this time of year.
+
+DOCTOR H542
+@@@.
+
+PATIENT H542
+Oh okay.
+
+DOCTOR H542
+@@@.
+
+PATIENT H542
+Yeah I know I think this is blood pressure @@@.
+
+DOCTOR H542
+Right.
+
+PATIENT LEAVES:  81:10.
+
+Time is 2:50.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300311
+TRANSACTION # 578-10-2-316-0103
