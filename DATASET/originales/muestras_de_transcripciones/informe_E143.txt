@@ -1,0 +1,28 @@
+Sample Name: General Medicine Followup - Reflux and Tremor
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Assessment of new action-related hand tremor, nocturnal reflux, and persistent Grover disease symptoms.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient reports a gradually more noticeable tremulous movement, initially in the right hand, primarily when lifting a cup in the morning. He has little difficulty with other fine motor tasks, and there is no constant resting tremor described. He also experiences acid regurgitation when lying down after late meals, occurring several times during the preceding month. He has not previously taken reflux medication and acknowledges eating late in the evening. His chronic Grover disease remains intermittently pruritic despite treatment, and he asks about light therapy discussed with an acquaintance. He also requests shingles vaccination and longer medication supplies because of travel plans.
+
+PAST MEDICAL HISTORY: Grover disease, prostate-related urinary symptoms, and dyslipidemia or lipid medication use.
+
+MEDICATIONS: Terazosin, finasteride, and other longstanding prescriptions were reviewed; medication reconciliation included discontinued agents.
+
+SOCIAL HISTORY: Denies significant current alcohol or tobacco use.
+
+PHYSICAL EXAMINATION: Hand coordination and tremor were assessed during upper extremity examination; no definite neurologic diagnosis was established. Blood pressure was described as satisfactory.
+
+ASSESSMENT AND PLAN:
+1. Gastroesophageal reflux. Avoid meals close to bedtime and identify food triggers. Trial omeprazole once daily for approximately two to three months, with a plan to reassess and discontinue if symptoms resolve. Consider upper endoscopy for persistent or worsening reflux.
+2. Mild intermittent action-related hand shaking. Symptoms and examination reviewed; no specific diagnosis or treatment was established at this time. Monitor progression.
+3. Persistent Grover disease. Advised discussion with Dermatology regarding the potential role of phototherapy rather than initiating it through primary care.
+4. Preventive care. Arrange zoster vaccination at a subsequent nursing visit. Review previous colonoscopy records to determine whether repeat screening is indicated. Fasting laboratory testing including lipids was requested.
+5. Routine medications. Renew appropriate prescriptions and discontinue inactive entries after reconciliation.
+
+Followup after several months or earlier for worsening symptoms.

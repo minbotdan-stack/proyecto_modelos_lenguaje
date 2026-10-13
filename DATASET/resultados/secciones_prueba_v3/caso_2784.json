@@ -1,0 +1,24 @@
+{
+  "Sample Name": "Hematuria - ER Visit",
+  "Medical Specialty": "Consult - History and Phy.",
+  "Description": "Presents to the ER with hematuria that began while sleeping last night. He denies any pain, nausea, vomiting or diarrhea.",
+  "HISTORY OF PRESENT ILLNESS": "The patient is an 85-year-old gentleman who follows as an outpatient with Dr. A. He is known to us from his last admission. At that time, he was admitted with a difficulty voiding and constipation. His urine cultures ended up being negative. He was seen by Dr. B and discharged home on Levaquin for five days.\nHe presents to the ER today with hematuria that began while he was sleeping last night. He denies any pain, nausea, vomiting or diarrhea. In the ER, a Foley catheter was placed and was irrigated with saline. White count was 7.6, H and H are 10.8 and 38.7, and BUN and creatinine are of 27 and 1.9. Urine culture is pending. Chest x-ray is pending. His UA did show lots of red cells. The patient currently is comfortable. CBI is running. His urine is clear.",
+  "PAST MEDICAL HISTORY": "1. Hypertension.\n2. High cholesterol.\n3. Bladder cancer.\n4. Bilateral total knee replacements.\n5. Cataracts.\n6. Enlarged prostate.",
+  "ALLERGIES": "SULFA.",
+  "MEDICATIONS AT HOME": "1. Atenolol.\n2. Cardura.\n3. Zegerid.\n4. Flomax.\n5. Levaquin.\n6. Proscar.\n7. Vicodin.\n8. Morphine.\n9. Phenergan.\n10. Ativan.\n11. Zocor.\n12. Prinivil.\n13. Hydrochlorothiazide.\n14. Folic acid.\n15. Digoxin.\n16. Vitamin B12.\n17. Multivitamin.",
+  "SOCIAL HISTORY": "The patient lives at home with his daughter. He does not smoke, occasionally drinks alcohol. He is independent with his activities of daily living.",
+  "REVIEW OF SYSTEMS": "Not additionally rewarding.",
+  "PHYSICAL EXAMINATION": {
+    "GENERAL": "An awake and alert 85-year-old gentleman who is afebrile.",
+    "VITAL SIGNS": "BP of 162/60 and pulse oximetry of 98% on room air.",
+    "HEENT": "Pink conjunctivae. Anicteric sclerae. Oral mucosa is moist.",
+    "NECK": "Supple.",
+    "CHEST": "Clear to auscultation.",
+    "HEART": "Regular S1 and S2.",
+    "ABDOMEN": "Soft and nontender to palpation.",
+    "EXTREMITIES": "Without edema.\nHe has a Foley catheter in place. His urine is clear."
+  },
+  "LABORATORY DATA": "Reviewed.",
+  "IMPRESSION": "1. Hematuria.\n2. Renal insufficiency.\n3. Hypertension.\n4. High cholesterol.\n5. A history of bladder cancer.\n6. Bilateral total knee replacements.\n7. Cataracts.\n8. Enlarged prostate.",
+  "PLAN": "The patient appears to be stable at the present time. We would continue with care as you have already been doing. Further workup for his hematuria at your expertise. For now, he appears to be stable. He should follow up with Dr. A after discharge. We will continue to follow as needed."
+}

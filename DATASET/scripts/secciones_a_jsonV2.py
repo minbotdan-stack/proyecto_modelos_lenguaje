@@ -3,9 +3,6 @@ import json
 import re
 
 
-# ============================================================
-# CONFIGURACION
-# ============================================================
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -15,10 +12,6 @@ CARPETA_SALIDA = BASE_DIR / "resultados" / "secciones_prueba_v2"
 CARPETA_SALIDA.mkdir(parents=True, exist_ok=True)
 
 
-# ============================================================
-# DETECCION DE ENCABEZADOS
-# ============================================================
-#
 # La idea NO es mantener una lista manual de encabezados medicos.
 # El parser busca patrones estructurales presentes en los TXT:
 #
@@ -35,7 +28,7 @@ CARPETA_SALIDA.mkdir(parents=True, exist_ok=True)
 #
 # "Axis I", "A/P", "A" y "P" se contemplan porque aparecen como
 # formas estructurales particulares en los archivos.
-# ============================================================
+
 
 PATRON_ENCABEZADO = re.compile(
     r"(?<![A-Za-z0-9])"
@@ -107,9 +100,7 @@ def familia_etiqueta(etiqueta):
     return None
 
 
-# ============================================================
-# METADATOS
-# ============================================================
+
 
 def extraer_metadatos(lineas):
     datos = {}
@@ -148,9 +139,7 @@ def extraer_metadatos(lineas):
     return datos
 
 
-# ============================================================
-# UTILIDADES PARA EL JSON
-# ============================================================
+
 
 def agregar_valor(diccionario, llave, valor):
     """
@@ -349,9 +338,7 @@ def debe_ser_hijo(lineas, indice, etiqueta, ultimo_hijo):
     return False
 
 
-# ============================================================
-# CONVERSION PRINCIPAL
-# ============================================================
+
 
 def convertir_txt(ruta_txt):
     texto_original = ruta_txt.read_text(encoding="utf-8")
@@ -379,9 +366,7 @@ def convertir_txt(ruta_txt):
     for indice, linea in enumerate(cuerpo):
         encabezados = encontrar_encabezados(linea)
 
-        # --------------------------------------------------------
-        # Linea sin encabezados
-        # --------------------------------------------------------
+
         if not encabezados:
             if not linea.strip():
                 continue
@@ -419,9 +404,7 @@ def convertir_txt(ruta_txt):
 
         etiqueta_primera = primero.group(1).strip()
 
-        # --------------------------------------------------------
-        # Determinar si la primera etiqueta es top-level o hija.
-        # --------------------------------------------------------
+
         es_hijo = (
             seccion_padre is not None
             and debe_ser_hijo(
@@ -466,9 +449,7 @@ def convertir_txt(ruta_txt):
                 resultado[etiqueta_primera] = contenido
                 contenedor = None
 
-        # --------------------------------------------------------
-        # Procesar todos los encabezados de esta misma linea.
-        # --------------------------------------------------------
+
         for posicion, encabezado in enumerate(encabezados):
             etiqueta = encabezado.group(1).strip()
 
@@ -527,9 +508,6 @@ def convertir_txt(ruta_txt):
     return resultado
 
 
-# ============================================================
-# PROCESAMIENTO DE PRUEBA
-# ============================================================
 
 def main():
     archivos = sorted(CARPETA_ENTRADA.glob("*.txt"))
@@ -546,11 +524,26 @@ def main():
         for ruta in archivos
 
         if ruta.stem in {
-            "caso_34",
-            "caso_50",
-            "caso_51",
-            "caso_58",
-            "caso_184"
+            "caso_57",
+            "caso_61",
+            "caso_63",
+            "caso_65",
+            "caso_91",
+            "caso_94",
+            "caso_97",
+            "caso_100",
+            "caso_102",
+            "caso_185",
+            "caso_201",
+            "caso_204",
+            "caso_218",
+            "caso_283",
+            "caso_301",
+            "caso_347",
+            "caso_390",
+            "caso_419",
+            "caso_476",
+            "caso_531",
         }
 
     ]

@@ -13,6 +13,8 @@ mtsamples.csv
 # Python
 .venv/
 venv/
+env/
+scraping_medico/env/
 __pycache__/
 *.pyc
 

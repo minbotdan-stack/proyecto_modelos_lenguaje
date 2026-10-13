@@ -58,9 +58,7 @@ ENCABEZADOS_PRINCIPALES = {
 }
 
 
-# ---------------------------------------------------------
-# ENCABEZADOS QUE CONTIENEN EL EXAMEN FISICO
-# ---------------------------------------------------------
+
 
 ENCABEZADOS_EXAMEN = {
     "PHYSICAL EXAM",
@@ -70,17 +68,13 @@ ENCABEZADOS_EXAMEN = {
 }
 
 
-# ---------------------------------------------------------
-# NORMALIZAR SALTOS DE LINEA
-# ---------------------------------------------------------
+
 
 def normalizar_saltos(texto):
     return texto.replace("\r\n", "\n").replace("\r", "\n")
 
 
-# ---------------------------------------------------------
-# DETECTAR ENCABEZADO
-# ---------------------------------------------------------
+
 
 def detectar_encabezado(linea, linea_anterior_vacia, dentro_examen):
     """
@@ -124,9 +118,7 @@ def detectar_encabezado(linea, linea_anterior_vacia, dentro_examen):
     return None
 
 
-# ---------------------------------------------------------
-# EXTRAER METADATOS
-# ---------------------------------------------------------
+
 
 def extraer_metadatos(lineas):
     datos = {}
@@ -167,9 +159,7 @@ def extraer_metadatos(lineas):
     return datos
 
 
-# ---------------------------------------------------------
-# CONVERTIR UN TXT
-# ---------------------------------------------------------
+
 
 def convertir_txt(ruta_txt):
 
@@ -180,9 +170,7 @@ def convertir_txt(ruta_txt):
 
     datos = extraer_metadatos(lineas)
 
-    # -----------------------------------------------------
-    # Buscar inicio del informe médico
-    # -----------------------------------------------------
+
 
     inicio = 0
 
@@ -192,9 +180,7 @@ def convertir_txt(ruta_txt):
             inicio = i + 1
             break
 
-    # -----------------------------------------------------
-    # Extraer secciones
-    # -----------------------------------------------------
+
 
     secciones = {}
 
@@ -258,18 +244,14 @@ def convertir_txt(ruta_txt):
     # Guardar última sección
     guardar_seccion()
 
-    # -----------------------------------------------------
-    # Texto que apareció antes del primer encabezado
-    # -----------------------------------------------------
+
 
     texto_inicial = "\n".join(texto_sin_encabezado).strip()
 
     if texto_inicial:
         secciones["REPORT"] = texto_inicial
 
-    # -----------------------------------------------------
-    # Unir metadatos + secciones
-    # -----------------------------------------------------
+
 
     resultado = {}
 

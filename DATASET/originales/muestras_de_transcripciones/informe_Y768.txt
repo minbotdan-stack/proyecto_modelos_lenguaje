@@ -1,0 +1,22 @@
+Sample Name: Chronic Cough Evaluation
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Persistent productive cough with possible gastroesophageal reflux and medication contributions.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient describes nearly one year of daily cough productive of mostly whitish, occasionally greenish sputum, especially on awakening. He denies smoking. He takes medication for hypertension, diabetes, and prostate symptoms and also uses stool softeners. He has a history suggestive of reflux symptoms, previously treated, and possible upper airway drainage. The clinician reviewed lisinopril as a possible cause of cough, although the precise onset relative to the cough is uncertain. There is no reported sustained fever or unexplained weight loss. The patient recalls previous tuberculosis testing and a historical contact with someone who had tuberculosis.
+
+MEDICATIONS: Lisinopril and other antihypertensives, metformin, prostate medication, and stool softeners. A prior reflux medicine was discontinued when symptoms improved.
+
+PHYSICAL EXAMINATION: Blood pressure is satisfactory. Cardiopulmonary and oropharyngeal examinations were performed.
+
+ASSESSMENT AND PLAN:
+1. Chronic productive cough. Potential causes include gastroesophageal reflux, postnasal drainage, and ACE inhibitor-associated cough. Although initial discussion favored a trial off lisinopril, after consultation with the supervising physician the final plan was to restart omeprazole first because the cough was worse in the morning and reflux was considered likely. Reassess response before changing blood pressure therapy.
+2. Hypertension and diabetes. Continue indicated treatment and check blood and urine studies, including measures of diabetes control. Discussed the renal protective role of selected antihypertensive drugs in diabetes.
+3. Obtain chest imaging as part of the chronic cough assessment. Other routine prescriptions were renewed.
+
+Return in approximately four weeks, with visits to the pharmacy, laboratory, and radiology department arranged.

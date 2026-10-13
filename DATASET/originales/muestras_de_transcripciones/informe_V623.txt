@@ -1,0 +1,25 @@
+Sample Name: Complex Medical Followup - Dialysis and Diabetes
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Medication reconciliation and diabetes management after bilateral hip fractures in a patient receiving dialysis.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient returns with a family member who assists with medication management. He has sustained separate fractures of both hips, requiring surgery, and now uses a weighted walker and sometimes a wheelchair; home therapy and fall precautions were discussed. He is receiving dialysis and reports fatigue or malaise after certain sessions. Glucose readings fluctuate markedly, with morning values commonly around 120-170, afternoon hyperglycemia, and intermittent hypoglycemic measurements around 68-70. The family asks about nutritional supplements recommended by the dialysis service. He has a history of intermittent arrhythmia treated with warfarin and cardiac medications. Prior positive urine tests were discussed without clear symptoms of acute urinary infection.
+
+PAST MEDICAL HISTORY: End-stage renal disease on dialysis, insulin-treated diabetes, atrial arrhythmia, bilateral hip fractures, prior amputation, and extensive cardiovascular and surgical history.
+
+MEDICATIONS: Glargine/aspart insulin, warfarin approximately 2 mg daily as reported, carvedilol, amiodarone, and other chronic treatments. Medication list reviewed with caregiver.
+
+ASSESSMENT AND PLAN:
+1. Dialysis-dependent renal disease: Continue scheduled dialysis and Nephrology care; nutritional supplement questions directed to the renal dietitian given glycemic effects.
+2. Labile diabetes: Continue glucose logs and coordinate insulin adjustments with the established diabetes/primary care clinician, particularly to avoid recurrent low glucose.
+3. Atrial arrhythmia: Warfarin and cardiac treatment reconciled; rhythm appeared regular at examination.
+4. Recurrent falls and postoperative mobility impairment: Continue therapy and environmental fall prevention.
+5. Bacteriuria/urinary findings: Follow symptoms and specialist advice; no empiric antibiotic plan established in this discussion.
+6. Preventive studies: Fasting annual laboratory tests, including lipids, ordered. Refills arranged.
+
+Follow up in six months; continue outside specialist care.

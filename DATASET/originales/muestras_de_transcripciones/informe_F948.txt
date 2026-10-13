@@ -1,0 +1,26 @@
+Sample Name: General Medicine Followup - Cirrhosis with Edema
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Followup for hepatitis-associated cirrhosis, fluid retention, varices, and anticoagulation management.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient has advanced liver disease attributed to hepatitis, with known gastrointestinal varices and intermittent encephalopathy. A followup upper endoscopy is scheduled through an outside liver clinic to reassess varices. His INR is presently low after Coumadin doses were held under anticoagulation-clinic instructions for the procedure. He has significant chronic edema with intermittent leg blisters and acknowledges frequently missing prescribed diuretics because urinary frequency interferes with daily activities. He has limited mobility after a previous stroke and uses a scooter; the equipment lift is malfunctioning. He requests assistance with home chores and medication management. The hepatology service has not resumed interferon treatment and continues liver surveillance.
+
+PAST MEDICAL HISTORY: Hepatitis-related cirrhosis, gastric or esophageal varices, episodic hepatic encephalopathy, prior stroke with limited mobility, chronic edema, and ongoing anticoagulation.
+
+MEDICATIONS: Coumadin managed with an anticoagulation clinic, diuretics including spironolactone or other water pills, lactulose, and previously prescribed lipid-lowering treatment.
+
+PHYSICAL EXAMINATION: Significant dependent fluid retention and residual neurologic weakness were assessed. Blood pressure was considered elevated. Chronic lower extremity skin changes and recurrent blisters were discussed.
+
+ASSESSMENT AND PLAN:
+1. Cirrhosis with varices. Continue hepatology management, scheduled endoscopy, and imaging and liver laboratory surveillance. Anticoagulation management around the procedure remains with the established team; the clinician did not specify a new independent Coumadin schedule.
+2. Fluid retention and blood pressure elevation. Reinforced daily adherence to prescribed diuretics and salt restriction. Strategies for remembering medications were discussed.
+3. Post-stroke disability and reduced independence. Physical and occupational therapy referrals and paperwork for assistance at home were addressed.
+4. Hyperlipidemia. Resume the previously prescribed cholesterol treatment and obtain fasting labs with the next INR testing.
+5. Additional evaluation. A bone density study was ordered.
+
+Return for reassessment in approximately three months.

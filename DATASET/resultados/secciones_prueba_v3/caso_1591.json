@@ -1,0 +1,43 @@
+{
+  "Sample Name": "Consult - Coronary Artery Disease",
+  "Medical Specialty": "Consult - History and Phy.",
+  "Description": "Coronary artery disease, prior bypass surgery. The patient has history of elevated PSA and BPH. He had a prior prostate biopsy and he recently had some procedure done, subsequently developed urinary tract infection, and presently on antibiotic. From cardiac standpoint, the patient denies any significant symptom except for fatigue and tiredness.",
+  "REASON FOR CONSULTATION": "Coronary artery disease (CAD), prior bypass surgery.",
+  "HISTORY OF PRESENT ILLNESS": "The patient is a 70-year-old gentleman who was admitted for management of fever. The patient has history of elevated PSA and BPH. He had a prior prostate biopsy and he recently had some procedure done, subsequently developed urinary tract infection, and presently on antibiotic. From cardiac standpoint, the patient denies any significant symptom except for fatigue and tiredness. No symptoms of chest pain or shortness of breath.\nHis history from cardiac standpoint as mentioned below.",
+  "CORONARY RISK FACTORS": "History of hypertension, history of diabetes mellitus, nonsmoker. Cholesterol elevated. History of established coronary artery disease in the family and family history positive.",
+  "FAMILY HISTORY": "Positive for coronary artery disease.",
+  "SURGICAL HISTORY": "Coronary artery bypass surgery and a prior angioplasty and prostate biopsies.",
+  "MEDICATIONS": "1. Metformin.\n2. Prilosec.\n3. Folic acid.\n4. Flomax.\n5. Metoprolol.\n6. Crestor.\n7. Claritin.",
+  "ALLERGIES": "DEMEROL, SULFA.",
+  "PERSONAL HISTORY": "He is married, nonsmoker, does not consume alcohol, and no history of recreational drug use.",
+  "PAST MEDICAL HISTORY": "Significant for multiple knee surgeries, back surgery, and coronary artery bypass surgery with angioplasty, hypertension, hyperlipidemia, elevated PSA level, BPH with questionable cancer. Symptoms of shortness of breath, fatigue, and tiredness.",
+  "REVIEW OF SYSTEMS": {
+    "CONSTITUTIONAL": "No history of fever, rigors, or chills except for recent fever and rigors.",
+    "HEENT": [
+      "No history of cataract or glaucoma.",
+      "Atraumatic, normocephalic."
+    ],
+    "CARDIOVASCULAR": "As above.",
+    "RESPIRATORY": "Shortness of breath. No pneumonia or valley fever.",
+    "GASTROINTESTINAL": "Nausea and vomiting. No hematemesis or melena.",
+    "UROLOGICAL": "Frequency, urgency.",
+    "MUSCULOSKELETAL": "No muscle weakness.",
+    "SKIN": "None significant.",
+    "NEUROLOGICAL": "No TIA or CVA. No seizure disorder.",
+    "PSYCHOLOGICAL": "No anxiety or depression.",
+    "ENDOCRINE": "As above.",
+    "HEMATOLOGICAL": "None significant.",
+    "PHYSICAL EXAMINATION": "",
+    "VITAL SIGNS": "Pulse of 75, blood pressure 130/68, afebrile, and respiratory rate 16 per minute.",
+    "NECK": "Veins flat. No significant carotid bruits.",
+    "LUNGS": "Air entry bilaterally fair.",
+    "HEART": "PMI displaced. S1 and S2 regular.",
+    "ABDOMEN": "Soft, nontender. Bowel sounds present.",
+    "EXTREMITIES": "No edema. Pulses are palpable. No clubbing or cyanosis.",
+    "CNS": "Benign."
+  },
+  "EKG": "Normal sinus rhythm, incomplete right bundle-branch block.",
+  "LABORATORY DATA": "H&H stable, BUN and creatinine within normal limits.",
+  "IMPRESSION": "1. History of coronary artery disease, prior bypass surgery, angioplasty, significant shortness of breath.\n2. Fever with possible urinary tract infection versus prostatitis.\n3. Hypertension, hyperlipidemia, diabetes mellitus.\n4. Contemplated prostate surgery down the road.",
+  "RECOMMENDATION": "1. From cardiac standpoint, medical management including antibiotic for his fever.\n2. We will consider cardiac workup in terms of to rule out ischemia and patency of the graft. If he decides to go for surgery, I would like him to wait until the fever has subsided and is well under control. Discussed with the patient the plan of care, consent was obtained. All the questions answered in detail."
+}

@@ -1,0 +1,17 @@
+Sample Name: Medication Refill Visit - Cardiac Device and Chronic Kidney Disease
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Review of cardiovascular medications, antiplatelet access, and laboratory testing in a patient with an implanted cardiac device.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient presents for medication review and refills. He has had an implanted cardiac pacing or defibrillator device for many years with several replacements and follows with outside cardiology. He reports being unable to obtain Plavix from the current pharmacy without an additional letter from cardiology, although he believes it is needed for stroke prevention. He continues his other medications, including lipid-lowering treatment. He has chronic renal disease and constipation, which he suspects is related to his multiple drugs. He denies diabetes when specifically asked. He is invited to participate voluntarily in a cardiology research study involving a blood draw and gives consent during the encounter.
+
+PAST MEDICAL HISTORY: Longstanding cardiac rhythm or device history, chronic kidney disease, cardiovascular risk requiring lipid treatment, and constipation.
+
+MEDICATIONS: A medication list including amiodarone and albuterol was reviewed; Plavix is not being supplied pending cardiology documentation. Other active prescriptions were reviewed for renewal.
+
+PLAN: Refill eligible maintenance medicines after medication reconciliation and obtain ordered laboratory studies, including renal monitoring. The clinician explained that the Plavix prescription requires supporting documentation from cardiology and did not confirm its renewal today. The voluntary study blood draw and consent were addressed separately from routine care. The patient was assisted with directions to the laboratory and pharmacy.

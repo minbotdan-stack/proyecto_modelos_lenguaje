@@ -1,0 +1,17 @@
+Sample Name: Diabetes Followup and Urinary Symptoms
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Follow-up after treatment of renal calculi, with urgency, weak urinary stream, diabetes, and medication concerns.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient recently underwent treatment to fragment renal calculi after episodes of hematuria and severe flank or back pain. He continues to have a stent and reports residual burning with urination, although the severe pain has improved. His chief concern is marked urinary urgency with very little warning, occasional leakage, and weak stream. He is worried about prostate disease. Prior PSA measurements were approximately 0.76 to 0.87 without a concerning trend according to the clinician. His blood glucose fluctuated during recent illness and stress; current evening home readings are approximately 70 to 130, while mornings may be near 180. He uses approximately 25 units of Lantus nightly. A1c previously improved from 10.7 to 6.7 but subsequently rose to 8.5. The patient forgot his blood pressure medicine today. He reports difficulty tolerating CPAP because of severe dry mouth and interrupted sleep. Recent urine toxicology was positive for cocaine and marijuana; cardiac risks of cocaine use were discussed. The patient reports past cataract procedures and persistent visual concerns.
+
+PAST MEDICAL HISTORY: Diabetes mellitus, hypertension, cardiovascular disease with prior surgery, nephrolithiasis, lower urinary tract symptoms, obstructive sleep apnea, and a history of colon polyp.
+
+PHYSICAL EXAMINATION: Routine examination and diabetic foot sensation screening were performed, with sensation described as preserved.
+
+ASSESSMENT AND PLAN: Persistent urinary urgency and weak stream following renal stone treatment warrant continued urologic follow-up, including scheduled reassessment of residual stones and the ureteral stent. PSA surveillance was discussed without a current diagnosis of malignancy. Repeat diabetes laboratory studies and monitor glucose trends; stressed adherence to insulin and blood pressure therapy. Counseling emphasized avoidance of cocaine because of existing cardiovascular risk. Colonoscopic surveillance after a prior polyp was discussed and laboratory testing arranged. Follow-up in approximately three months.

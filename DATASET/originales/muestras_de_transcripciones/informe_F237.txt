@@ -1,0 +1,25 @@
+Sample Name: Acute Visit - Diabetic Foot Infection
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Evaluation of progressive ankle and foot discomfort, localized redness, and numbness in a patient with diabetes.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient reports longstanding intermittent ankle swelling after an injury sustained in military service, but over recent months swelling has become more persistent. There has been sharper pain, numbness, and discoloration or redness in the affected foot over the past several weeks. He describes a pins-and-needles sensation and notes difficulty maintaining his usual exercise because of work hours and discomfort. Diabetes control has been variable; an A1c in June was approximately 8%, while a more recent outside value was reported as 7.4. Fasting glucose is often in the 120s but may rise later in the day. He uses substantial insulin doses and has previously experienced nocturnal low glucose with mealtime insulin. Gabapentin was tried before but may have caused side effects.
+
+PAST MEDICAL HISTORY: Diabetes mellitus, remote ankle injury, and previous podiatric care.
+
+MEDICATIONS: Insulin regimen including approximately 50 units in the morning and 55 at night, additional mealtime insulin as used by the patient, metformin, pravastatin, and previous gabapentin.
+
+PHYSICAL EXAMINATION: Localized erythema, warmth, tightness, and tenderness over the affected foot or ankle. Areas of peeling and cracked skin suggested possible fungal involvement. No purulent drainage was described. Sensory testing was performed.
+
+ASSESSMENT AND PLAN:
+1. Foot cellulitis in a patient with diabetes. Begin Keflex for seven days. The affected area was marked to help assess spread or regression. Recheck with nursing in one week; the patient should return earlier if the infection worsens.
+2. Possible fungal skin involvement. Keep feet clean and dry, avoid walking barefoot, and discuss antifungal treatment after the acute infection improves; treatment for fungus was deferred today.
+3. Neuropathic pain and paresthesias. Restart gabapentin at a low dose, with gradual dose adjustment through the primary physician if tolerated.
+4. Diabetes. Reinforced consistent meals, glucose monitoring, and tighter glucose control to support healing.
+
+Nursing reassessment in one week and routine followup with the primary care clinician.

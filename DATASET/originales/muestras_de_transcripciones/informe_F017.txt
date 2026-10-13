@@ -1,0 +1,23 @@
+Sample Name: Primary Care Evaluation - Chest and Arm Pain
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Followup after emergency evaluation for chest and arm discomfort, with dyspnea, cough, and medication lapses.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient presents after an emergency department evaluation approximately two weeks ago for chest and arm pain, during which admission was advised but declined after the discomfort subsided. He continues to describe intermittent left arm pain, at times accompanied by chest pressure or stabbing discomfort, exertional breathlessness, headache, and a cough of about three months' duration. The cough is mostly dry but occasionally productive. He has diabetes, a history of an abnormal cardiac stress test, and several cardiovascular risk factors. Access to medications has been inconsistent; he is running out of clopidogrel, metoprolol, glipizide, and metformin. He reports taking approximately 18 units of insulin daily, with some readings in the high 100s. He stopped smoking almost two years ago. Lisinopril use was reviewed as a potential contributor to chronic cough.
+
+PAST MEDICAL HISTORY: Diabetes mellitus, hypertension, dyslipidemia or coronary risk, and previous abnormal stress testing.
+
+MEDICATIONS: Insulin, glipizide, metformin, lisinopril, metoprolol, clopidogrel, and other chronic therapy.
+
+ASSESSMENT AND PLAN:
+1. Intermittent chest discomfort, left arm pain, and dyspnea. Current symptoms were not judged to establish an acute infarction, but coronary disease and possible angina remain concerns. Cardiology reevaluation requested, with possible angiography depending on assessment. The patient was advised to follow through promptly with this appointment.
+2. Left arm discomfort may be musculoskeletal; trial acetaminophen and ice while cardiac causes are evaluated.
+3. Chronic cough. Obtain a two-view chest radiograph. Postnasal drainage and ACE inhibitor cough were considered. A nasal spray was prescribed, and the clinician planned to replace lisinopril with another antihypertensive less likely to cause cough.
+4. Hypertension and diabetes. Medication renewal and intensified blood pressure treatment, including possible hydrochlorothiazide, were discussed. Laboratory studies requested; maintain prescribed diabetes therapy and monitor glucose.
+
+Return in approximately three months, with earlier assessment for recurrent or worsening cardiopulmonary symptoms.

@@ -1,0 +1,24 @@
+Sample Name: Medication Consultation - Diabetes and Renal Impairment
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Review of diabetes therapy and cardiovascular medications after hospitalization for a rapid heart rhythm.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient returns after a recent admission for tachyarrhythmia and changes to multiple medications. He has restarted Coumadin and is undergoing regular anticoagulation monitoring. Metformin was discontinued because of reduced renal function, after which blood glucose increased. He takes glipizide 10 mg twice daily, but morning glucose is now approximately 150 to 160 and evening readings approach 290. He reports some ankle edema. His heart rate is improved on the new regimen, but systolic blood pressures commonly reach the 140s to 150s. Higher lisinopril doses previously caused elevated potassium. He is concerned about medication risks and requests clarification of the discharge regimen.
+
+PAST MEDICAL HISTORY: Diabetes mellitus, hypertension, impaired renal function, and a recently treated rapid cardiac rhythm requiring anticoagulation. Possible previous volume overload was discussed, although the patient disputes having had heart failure.
+
+MEDICATIONS: Coumadin, glipizide 10 mg twice daily, lisinopril, furosemide, and other rate-controlling or cardiovascular medications.
+
+PHYSICAL EXAMINATION: Heart rate 67 with regular rhythm at this visit. Blood pressure elevated. Mild right ankle swelling was reported.
+
+ASSESSMENT AND PLAN:
+1. Diabetes, inadequately controlled since metformin was discontinued for renal impairment. Continue glipizide and add pioglitazone once daily in the morning. Potential fluid retention and edema were discussed; insulin may be necessary if oral therapy remains inadequate. Do not restart metformin given kidney dysfunction.
+2. Hypertension. Because increasing lisinopril may exacerbate hyperkalemia and the heart rate is already controlled, increase furosemide to twice daily. Monitor symptoms, renal function, and electrolytes.
+3. Recent tachyarrhythmia and anticoagulation. Continue the prescribed cardiac regimen and Coumadin with scheduled INR monitoring. Bruising and bleeding risks were reviewed.
+
+Obtain laboratory tests in approximately two weeks and follow up with the regular physician in about six weeks.

@@ -1,0 +1,26 @@
+{
+  "Sample Name": "Chest Pain Evaluation",
+  "Medical Specialty": "Consult - History and Phy.",
+  "Description": "A cardiology consultation note documenting a 58-year-old male presenting with chest pain, elevated troponin, and a plan for cardiac catheterization.",
+  "REASON FOR CONSULTATION": "Evaluation of chest pain and shortness of breath, rule out acute coronary syndrome.",
+  "HISTORY OF PRESENT ILLNESS": "The patient is a 58-year-old male with a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus who presents to the emergency department with a chief complaint of chest pain. The patient describes the pain as substernal, pressure-like, radiating to the left arm and jaw, rated 7/10 in severity, onset approximately two hours prior to arrival. Associated symptoms include diaphoresis, nausea, and mild shortness of breath. The patient denies syncope or palpitations. He has a 30-pack-year smoking history and a family history significant for coronary artery disease in his father, who underwent coronary artery bypass grafting (CABG) at age 62. The patient was seen by his primary care physician three months ago; at that time, he was started on atorvastatin 40 mg and metformin 1000 mg twice daily for poorly controlled blood glucose.",
+  "PAST MEDICAL HISTORY": "Hypertension - managed with lisinopril 10 mg daily and amlodipine 5 mg daily.\nHyperlipidemia - on atorvastatin 40 mg.\nType 2 diabetes mellitus - on metformin, last HbA1c 8.2%.\nObesity - BMI 34.1.\nPeripheral artery disease - diagnosed 2 years ago.",
+  "PAST SURGICAL HISTORY": "Laparoscopic cholecystectomy, 2018. Right knee arthroscopic surgery for meniscal tear, 2015.",
+  "CURRENT MEDICATIONS": "1. Lisinopril 10 mg orally daily.\n2. Amlodipine 5 mg orally daily.\n3. Atorvastatin 40 mg orally at bedtime.\n4. Metformin 1000 mg orally twice daily.\n5. Aspirin 81 mg orally daily.",
+  "ALLERGIES": "Penicillin - rash. Sulfa drugs - anaphylaxis.",
+  "REVIEW OF SYSTEMS": "Positive for chest pain, shortness of breath, nausea, and diaphoresis as described above. Negative for fever, chills, hemoptysis, orthopnea, or paroxysmal nocturnal dyspnea.",
+  "PHYSICAL EXAMINATION": {
+    "Vital Signs": "Blood pressure 158/96 mmHg, heart rate 98 beats per minute, respiratory rate 18 breaths per minute, oxygen saturation 96% on room air, temperature 98.4°F.",
+    "General": "The patient is a well-developed, overweight male in mild distress secondary to chest pain.",
+    "Cardiovascular": "Regular rate and rhythm. S1 and S2 present. No murmurs, rubs, or gallops appreciated. No jugular venous distension. Peripheral pulses 2+ bilaterally.",
+    "Respiratory": "Clear to auscultation bilaterally. No wheezes, rales, or rhonchi.",
+    "Abdomen": "Soft, non-tender, non-distended. No hepatosplenomegaly.",
+    "Extremities": "No clubbing, cyanosis, or edema. Bilateral lower extremity hair loss consistent with peripheral vascular disease.",
+    "DIAGNOSTIC DATA": "",
+    "EKG": "Sinus tachycardia with ST-segment depression in leads V4-V6, suggestive of subendocardial ischemia.",
+    "Laboratory": "Initial troponin I elevated at 0.18 ng/mL (reference < 0.04 ng/mL). BNP 320 pg/mL. Fasting glucose 214 mg/dL. Total cholesterol 242 mg/dL, LDL 158 mg/dL.\nChest X-ray: Mild cardiomegaly. No acute pulmonary infiltrate or pneumothorax.\nEchocardiogram (bedside): Estimated ejection fraction 45–50%. Mild hypokinesis of the anterior wall. No pericardial effusion."
+  },
+  "IMPRESSION": "1. Non-ST elevation myocardial infarction (NSTEMI) – given elevated troponin, EKG changes, and clinical presentation consistent with acute coronary syndrome.\n2. Hypertensive urgency.\n3. Type 2 diabetes mellitus, poorly controlled.\n4. Hyperlipidemia, undertreated.\n5. Peripheral artery disease.",
+  "PLAN": "1. Admit to cardiac care unit for continuous telemetry monitoring and serial troponins every 6 hours.\n2. Anticoagulation with heparin infusion per weight-based protocol.\n3. Dual antiplatelet therapy: aspirin 325 mg loading dose followed by 81 mg daily; clopidogrel 600 mg loading dose followed by 75 mg daily.\n4. High-intensity statin therapy: atorvastatin increased to 80 mg at bedtime.\n5. Urgent cardiac catheterization and possible percutaneous coronary intervention (PCI) with coronary stent placement planned for tomorrow morning pending continued hemodynamic stability.\n6. Cardiothoracic surgery on standby in the event emergent coronary artery bypass grafting is required.\n7. Endocrinology consultation requested for inpatient glycemic management; initiate insulin sliding scale protocol, hold metformin perioperatively.\n8. Blood pressure management with IV labetalol as needed; continue oral antihypertensives.\n9. Repeat echocardiogram post-procedure to reassess ejection fraction and wall motion abnormalities.\n10. Patient and family education provided regarding acute MI, lifestyle modification, smoking cessation, cardiac rehabilitation program, and long-term anticoagulation therapy.",
+  "PROGNOSIS": "Guarded pending results of cardiac catheterization and response to intervention."
+}

@@ -1,0 +1,23 @@
+Sample Name: Blood Pressure Followup
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Review of controlled blood pressure, laboratory results, and home cuff measurements.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient returns for review of blood pressure and recent laboratory studies. He reports doing well and has no new major complaints. The blood pressure improved after prior changes in management. He is concerned that the measurements on his home monitor differ from those obtained in clinic. He also has scheduled appointments with Ophthalmology and Hematology.
+
+LABORATORY DATA: Recent blood count was reviewed with the patient: white count, hemoglobin, and platelets were described as normal, without anemia. Electrolytes were also satisfactory.
+
+PHYSICAL EXAMINATION: Blood pressure was approximately 108 systolic in clinic and described as well controlled. No leg swelling was reported. Heart and lung examination was performed without a new abnormal finding documented in the dialogue.
+
+IMPRESSION AND PLAN:
+1. Hypertension, improved. Continue the current regimen. Schedule nursing blood pressure check in two weeks and bring the home cuff to compare readings directly with the clinic equipment.
+2. Medication management. Existing prescriptions were reviewed and a 90-day mail supply was requested.
+3. Preventive care. Influenza vaccination was discussed. Colonoscopy history was reviewed and repeat screening was not yet due by the clinician's assessment.
+4. Continue planned Ophthalmology and Hematology appointments.
+
+Return to the appropriate primary care clinic in approximately three months, or sooner for new symptoms.

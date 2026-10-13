@@ -1,0 +1,13 @@
+{
+  "Sample Name": "Acute Ischemic Stroke and Thrombolytic Therapy Evaluation",
+  "Medical Specialty": "Consult - History and Phy.",
+  "Description": "Neurology consult for acute ischemic stroke, tPA thrombolytic therapy, stroke prevention, and physical therapy rehab.",
+  "CHIEF COMPLAINT": "Sudden onset right-sided weakness and slurred speech.",
+  "HISTORY OF PRESENT ILLNESS": "The patient is a 67-year-old male brought to the emergency department with acute onset weakness of the right arm and leg accompanied by difficulty speaking. Symptoms started approximately 90 minutes before arrival. There was no associated headache, seizure activity, or loss of consciousness. The patient has a history of atrial fibrillation and poorly controlled hypertension, putting him at increased risk for ischemic stroke. He denies prior stroke or transient ischemic attack.",
+  "PAST MEDICAL HISTORY": "Atrial fibrillation, hypertension, type 2 diabetes mellitus, hyperlipidemia.",
+  "MEDICATIONS": "Metformin 1000 mg twice daily, Atorvastatin 40 mg nightly, Metoprolol 50 mg twice daily, no anticoagulant due to previous noncompliance.",
+  "PHYSICAL EXAMINATION": "Blood pressure 188/104 mmHg, heart rate 96 bpm and irregularly irregular. Neurologic exam reveals expressive aphasia, right facial droop, 2/5 strength in right upper and lower extremities, and decreased sensation to light touch on the right side. NIH Stroke Scale score is 12. Cardiovascular and pulmonary examinations otherwise unremarkable.",
+  "INVESTIGATIONS": "Non-contrast CT scan of the head shows no intracranial hemorrhage. CT angiography demonstrates decreased flow in the left middle cerebral artery distribution consistent with an acute ischemic stroke. Baseline labs, coagulation profile, and blood glucose are within acceptable range for thrombolytic therapy.",
+  "ASSESSMENT": "Acute ischemic stroke involving the left middle cerebral artery territory in a high-risk patient with atrial fibrillation and uncontrolled hypertension.",
+  "PLAN": "1. Proceed with intravenous thrombolytic therapy with tissue plasminogen activator (tPA) after confirming no contraindications.\n2. Admit to stroke unit for continuous neurologic monitoring, blood pressure control, and prevention of complications.\n3. Initiate secondary stroke prevention with long-term oral anticoagulation for atrial fibrillation, aggressive blood pressure management, diabetes control, and cholesterol-lowering therapy.\n4. Arrange early physical therapy, occupational therapy, and speech therapy as part of comprehensive stroke rehabilitation.\n5. Provide family counseling on prognosis, need for strict medication adherence, and warning signs of recurrent stroke or transient ischemic attack."
+}

@@ -1,0 +1,24 @@
+Sample Name: Neurologic Symptoms - Primary Care Followup
+
+Medical Specialty:
+
+Consult - History and Phy.
+
+Description: Followup for intermittent hand locking, distal tingling, and chronic pain, with diabetes review.
+
+(Medical Transcription Sample Report)
+
+HISTORY OF PRESENT ILLNESS: The patient describes intermittent locking of the hands with tingling in the hands and feet. Symptoms are not present daily but appear worse in winter and with extremes of cold or heat. Pain has also increased. An unidentified medication used for neuropathic symptoms over the previous four months has been partially helpful. Electromyography and nerve conduction testing were previously discussed or requested but have been delayed for more than three months. Glucose readings at home have recently increased from approximately 125 to the 150s, occasionally reaching 180, without a clear dietary change. The patient has gained weight and walks less. Hemoglobin A1c in September was approximately 6%. The history also includes a remote bacterial corneal ulcer and corneal transplantation; cataract surgery is pending. The patient reports having received an influenza vaccine.
+
+PAST MEDICAL HISTORY: Diabetes mellitus, ocular disease with prior corneal ulcer and transplant, and cataract.
+
+REVIEW OF SYSTEMS: Intermittent distal paresthesias and hand locking. Chills were attributed by the patient to a cool home environment, with accompanying rhinorrhea.
+
+PHYSICAL EXAMINATION: Heart and lung sounds were described as normal. Sensation to touch was preserved on repeated testing.
+
+ASSESSMENT AND PLAN:
+1. Distal paresthesias, episodic hand locking, and pain of uncertain etiology. Neuropathic or cervical causes remain under evaluation; no definitive etiology was established. After discussion with another clinician, begin gabapentin 100 mg three times daily. A cervical spine MRI was arranged, possibly for the following day. Electrodiagnostic studies remain relevant but their exact scheduling was not confirmed.
+2. Diabetes. Repeat laboratory testing was requested. Recent increased home readings, weight gain, and reduced physical activity were reviewed without a documented medication change.
+3. Ophthalmic history. Continue planned cataract and specialist followup.
+
+Laboratory studies today and general clinic followup in approximately four months.
