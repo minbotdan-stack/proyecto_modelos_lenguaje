@@ -1,0 +1,419 @@
+{
+  "SIN_RESPUESTA": [
+    "28  OBJECTIVE",
+    "8  ENDOCRINE",
+    "3  GYN",
+    "3  DEVELOPMENTAL",
+    "2  TRAVEL HISTORY",
+    "2  OB HISTORY"
+  ],
+  "assessment.clinical_comments": [
+    "500  DESCRIPTION",
+    "62  REASON FOR CONSULTATION",
+    "22  IMPRESSION AND PLAN",
+    "15  IMPRESSION/PLAN",
+    "7  DISCUSSION",
+    "5  RECOMMENDATION",
+    "4  SUMMARY & IMPRESSIONS",
+    "3  SUMMARY",
+    "3  COUNSELING",
+    "2  RESTRAINTS",
+    "2  PROGNOSTIC IMPRESSION",
+    "2  MEDICAL DECISION MAKING",
+    "2  EVALUATION/TREATMENT PLAN",
+    "2  CONDITION",
+    "2  COMMENTS",
+    "2  CASE DISCUSSION",
+    "2  ADDENDUM"
+  ],
+  "assessment.diagnoses": [
+    "137  IMPRESSION",
+    "119  ASSESSMENT",
+    "42  ASSESSMENT AND PLAN",
+    "22  ASSESSMENT/PLAN",
+    "19  DIAGNOSES",
+    "9  DIAGNOSTIC IMPRESSION",
+    "6  PROBLEMS/DIAGNOSES",
+    "5  DIAGNOSIS",
+    "4  PROBLEM",
+    "4  IMPRESSION / DIAGNOSIS",
+    "3  PROBLEMS DIAGNOSES",
+    "3  PROBLEM LIST",
+    "3  DIAGNOSTIC SUMMARY AND IMPRESSION",
+    "3  ALLOWED CONDITIONS",
+    "3  ADMITTING DIAGNOSIS",
+    "2  INITIAL IMPRESSION",
+    "2  IMPRESSION DIAGNOSIS",
+    "2  FINAL DIAGNOSIS",
+    "2  FINAL DIAGNOSES",
+    "2  CONTESTED CONDITION",
+    "2  ASSESSMENTS",
+    "2  ASSESSMENT AND RECOMMENDATIONS",
+    "2  ASSESSMENT AND EVALUATION",
+    "2  ADMISSION DIAGNOSIS",
+    "2  A/P"
+  ],
+  "assessment.hospital_course": [
+    "11  COURSE",
+    "10  HOSPITAL COURSE",
+    "6  EMERGENCY DEPARTMENT COURSE",
+    "2  ED COURSE"
+  ],
+  "assessment.psychiatric_axes.axis_i": [
+    "7  FORMULATION",
+    "6  AXIS I"
+  ],
+  "assessment.psychiatric_axes.axis_ii": [
+    "6  AXIS II"
+  ],
+  "assessment.psychiatric_axes.axis_iii": [
+    "6  AXIS III"
+  ],
+  "assessment.psychiatric_axes.axis_iv": [
+    "6  AXIS IV"
+  ],
+  "assessment.psychiatric_axes.axis_v": [
+    "6  AXIS V"
+  ],
+  "none": [
+    "43  REPORT",
+    "15  REASON FOR CONSULT",
+    "10  REASON FOR REFERRAL",
+    "10  IDENTIFYING DATA",
+    "7  LEGAL HISTORY",
+    "6  COORD",
+    "5  QUESTION",
+    "5  ESTIMATED LENGTH OF STAY",
+    "5  CONDITION UPON DISPOSITION",
+    "5  ANSWER",
+    "4  LEARNING & MEMORY SKILLS",
+    "4  EMPLOYER",
+    "3  VERBAL LEARNING AND MEMORY",
+    "3  TASKS ADMINISTERED",
+    "3  RELEVANT BACKGROUND INFORMATION",
+    "3  PREVIOUS COUNSELING",
+    "3  LANGUAGE",
+    "3  EXECUTIVE FUNCTIONING",
+    "3  EMOTIONAL FUNCTIONING",
+    "3  BEHAVIORAL OBSERVATIONS",
+    "3  ATTENTION",
+    "3  ACADEMIC BACKGROUND",
+    "2  RECORDS REVIEWED",
+    "2  RECORDS REVIEW",
+    "2  REASON FOR THE CONSULT"
+  ],
+  "objective.laboratory": [
+    "90  LABORATORY DATA",
+    "13  DIAGNOSTIC STUDIES",
+    "12  LABORATORY STUDIES",
+    "10  LABORATORY",
+    "7  LABS",
+    "6  TEST RESULTS",
+    "2  LABORATORY WORK",
+    "2  LABORATORY VALUES",
+    "2  LABORATORY TESTS",
+    "2  LABORATORY FINDINGS",
+    "2  LAB DATA",
+    "2  LAB",
+    "2  INVESTIGATION"
+  ],
+  "objective.physical_exam.abdomen": [
+    "62  ABDOMEN",
+    "19  GASTROINTESTINAL",
+    "6  GI",
+    "4  ABD"
+  ],
+  "objective.physical_exam.cardiovascular": [
+    "38  HEART",
+    "38  CARDIOVASCULAR",
+    "8  CV",
+    "6  CARDIAC",
+    "2  CARDIOVASCULAR EXAM"
+  ],
+  "objective.physical_exam.general": [
+    "260  PHYSICAL EXAMINATION",
+    "48  GENERAL",
+    "38  PHYSICAL EXAM",
+    "12  FINDINGS",
+    "8  GENERAL APPEARANCE",
+    "7  GEN",
+    "6  GEN EXAM",
+    "6  EXAMINATION",
+    "3  STATION/GAIT",
+    "3  PE",
+    "3  FUNCTIONAL EXAMINATION",
+    "2  ORAL CAVITY"
+  ],
+  "objective.physical_exam.genitourinary": [
+    "16  GENITOURINARY",
+    "9  GU",
+    "5  GENITALIA",
+    "4  UROLOGICAL",
+    "2  GENITAL"
+  ],
+  "objective.physical_exam.heent": [
+    "69  HEENT",
+    "10  EYES",
+    "9  HEAD",
+    "5  NOSE",
+    "5  EARS",
+    "3  ENT",
+    "3  EARS, NOSE, MOUTH AND THROAT",
+    "2  THROAT",
+    "2  NOSE AND THROAT",
+    "2  MOUTH",
+    "2  HEAD, EYES, EARS, NOSE AND THROAT",
+    "2  ENMT",
+    "2  EAR"
+  ],
+  "objective.physical_exam.lymphatic": [
+    "6  LYMPHATIC",
+    "4  LYMPH NODES",
+    "3  LYMPHATICS",
+    "3  LYMPH",
+    "2  HEMATOPOIETIC",
+    "2  HEMATOLOGIC/LYMPHATIC"
+  ],
+  "objective.physical_exam.mental_status": [
+    "23  PSYCHIATRIC",
+    "11  MENTAL STATUS EXAMINATION",
+    "8  MENTAL STATUS EXAM",
+    "8  MENTAL STATUS",
+    "5  MAJOR FINDINGS",
+    "3  GENERAL COGNITIVE ABILITY",
+    "2  VISUOSPATIAL PERCEPTION AND CONSTRUCTION",
+    "2  NEUROPSYCHIATRIC",
+    "2  MSE"
+  ],
+  "objective.physical_exam.musculoskeletal_extremities": [
+    "54  EXTREMITIES",
+    "33  MUSCULOSKELETAL",
+    "11  GAIT",
+    "8  EXT",
+    "5  BACK",
+    "3  SPINE",
+    "2  LOCOMOTOR"
+  ],
+  "objective.physical_exam.neck": [
+    "63  NECK",
+    "3  HEAD AND NECK",
+    "2  EXAM NECK"
+  ],
+  "objective.physical_exam.neurological": [
+    "37  NEUROLOGIC",
+    "20  MOTOR",
+    "16  SENSORY",
+    "16  REFLEXES",
+    "12  COORDINATION",
+    "11  NEURO",
+    "11  CN",
+    "10  NEUROLOGICAL",
+    "9  CRANIAL NERVES",
+    "8  STATION",
+    "5  NEUROLOGICAL EXAMINATION",
+    "5  CNS",
+    "3  SENSORY EXAM",
+    "3  MOTOR EXAM",
+    "3  DEEP TENDON REFLEXES",
+    "2  SENSATION",
+    "2  ROMBERG TEST",
+    "2  OTOSCOPY",
+    "2  MOTOR FUNCTIONING",
+    "2  DIX-HALLPIKE",
+    "2  CRANIAL NERVE EXAM",
+    "2  CEREBELLAR EXAM"
+  ],
+  "objective.physical_exam.rectal": [
+    "12  RECTAL"
+  ],
+  "objective.physical_exam.respiratory": [
+    "44  LUNGS",
+    "27  CHEST",
+    "23  RESPIRATORY"
+  ],
+  "objective.physical_exam.skin": [
+    "45  SKIN",
+    "8  INTEGUMENTARY",
+    "6  DERMATOLOGIC",
+    "6  BREASTS"
+  ],
+  "objective.studies_and_procedures": [
+    "14  DIAGNOSTIC DATA",
+    "9  STUDIES",
+    "6  PROCEDURE",
+    "4  RADIOLOGY",
+    "4  RADIOLOGIC DATA",
+    "4  INVESTIGATIONS",
+    "4  IMAGING",
+    "4  EKG",
+    "3  STUDY",
+    "3  REVIEW OF X-RAYS",
+    "3  PROCEDURES AND IMMUNIZATIONS",
+    "3  PHARYNGEAL STAGE",
+    "3  ORAL STAGE",
+    "3  DIAGNOSTICS",
+    "3  DATA",
+    "3  CERVICAL ESOPHAGEAL STAGE",
+    "2  TESTS ORDERED",
+    "2  TEST & X-RAY RESULTS",
+    "2  PROCEDURES",
+    "2  PROCEDURE NOTE",
+    "2  PERTINENT DATA",
+    "2  LABORATORY AND DIAGNOSTIC DATA",
+    "2  IMAGINING DATA",
+    "2  IMAGING STUDIES",
+    "2  EMERGENCY DEPARTMENT TESTING"
+  ],
+  "objective.vital_signs": [
+    "53  VITAL SIGNS",
+    "13  EXAM",
+    "3  VS",
+    "2  TEMPERATURE"
+  ],
+  "plan.diet": [
+    "9  DIET",
+    "2  DIETARY"
+  ],
+  "plan.disposition": [
+    "14  DISPOSITION"
+  ],
+  "plan.follow_up": [
+    "5  FOLLOWUP",
+    "2  FOLLOW-UP PLAN"
+  ],
+  "plan.medications_prescribed": [
+    "9  MEDS",
+    "8  PRESCRIPTIONS",
+    "6  MEDICATIONS PRESCRIBED",
+    "2  MEDICATION CHANGES"
+  ],
+  "plan.patient_instructions": [
+    "6  PATIENT INSTRUCTIONS"
+  ],
+  "plan.treatment_and_recommendations": [
+    "189  PLAN",
+    "58  RECOMMENDATIONS",
+    "7  PLANS",
+    "5  TREATMENT",
+    "3  PLAN OF CARE",
+    "2  TREATMENT RECOMMENDATIONS",
+    "2  TREATMENT PLAN",
+    "2  RECOMMENDATIONS AND PLAN",
+    "2  PLANS/RECOMMENDATIONS",
+    "2  PLAN AND RECOMMENDATIONS",
+    "2  PATIENT'S GOAL"
+  ],
+  "subjective.chief_complaint": [
+    "139  CHIEF COMPLAINT",
+    "17  REASON FOR VISIT",
+    "13  CC",
+    "4  CHIEF COMPLAINT (1/1)",
+    "2  PRESENTING PROBLEMS",
+    "2  CHIEF REASON FOR CONSULTATION"
+  ],
+  "subjective.history.allergies": [
+    "298  ALLERGIES",
+    "5  ALLERGIES TO MEDICINES",
+    "2  DRUG ALLERGIES",
+    "2  ALLERGIES TO MEDICATIONS"
+  ],
+  "subjective.history.family_history": [
+    "235  FAMILY HISTORY",
+    "15  FAMILY MEDICAL HISTORY",
+    "9  FHX",
+    "5  BIRTH HISTORY",
+    "4  DEVELOPMENTAL HISTORY",
+    "3  FAMILY PSYCHIATRIC HISTORY",
+    "3  FAMILY BACKGROUND",
+    "2  FAMILY HX",
+    "2  FAMILY HISTORY AND SOCIAL HISTORY"
+  ],
+  "subjective.history.immunizations": [
+    "11  IMMUNIZATIONS",
+    "3  IMMUNIZATION HISTORY"
+  ],
+  "subjective.history.medications": [
+    "206  MEDICATIONS",
+    "96  CURRENT MEDICATIONS",
+    "9  MEDICATIONS AT HOME",
+    "8  MEDICATION HISTORY",
+    "6  MEDICATION",
+    "6  HOME MEDICATIONS",
+    "2  MEDICATIONS PRIOR TO ADMISSION",
+    "2  CURRENT MEDICATIONS AT HOME"
+  ],
+  "subjective.history.past_medical": [
+    "292  PAST MEDICAL HISTORY",
+    "15  PMH",
+    "11  MEDICAL HISTORY",
+    "11  CORONARY RISK FACTORS",
+    "5  PAST MEDICAL AND SURGICAL HISTORY",
+    "4  ILLNESSES",
+    "3  PAST MEDICAL HX",
+    "3  PAST HISTORY",
+    "3  OTHER MEDICAL HISTORY",
+    "2  PREVIOUS INJURIES",
+    "2  PAST CARDIAC HISTORY",
+    "2  PAST AND DEVELOPMENTAL HISTORY",
+    "2  BIRTH/PAST MEDICAL HISTORY"
+  ],
+  "subjective.history.past_surgical": [
+    "143  PAST SURGICAL HISTORY",
+    "15  SURGICAL HISTORY",
+    "4  SURGERIES",
+    "4  OPERATIONS",
+    "3  PSH",
+    "3  PAST SURGICAL HX",
+    "2  PREVIOUS SURGERIES",
+    "2  PREVIOUS OPERATIONS"
+  ],
+  "subjective.history.psychiatric": [
+    "18  PAST PSYCHIATRIC HISTORY",
+    "4  PSYCHIATRIC HISTORY",
+    "3  PSYCHOLOGICAL",
+    "3  GENETIC PSYCHIATRIC HISTORY",
+    "2  PSYCHOLOGICAL HISTORY",
+    "2  PSYCH"
+  ],
+  "subjective.history.social_history": [
+    "285  SOCIAL HISTORY",
+    "13  PERSONAL HISTORY",
+    "9  SHX",
+    "8  FAMILY SOCIAL HISTORY",
+    "7  HABITS",
+    "5  SOCIAL AND DEVELOPMENTAL HISTORY",
+    "5  PERSONAL AND SOCIAL HISTORY",
+    "4  SUBSTANCE AND ALCOHOL HISTORY",
+    "3  SOCIAL HX",
+    "3  NUTRITIONAL HISTORY",
+    "3  FAMILY/SOCIAL HISTORY",
+    "2  WORK STATUS",
+    "2  SUBSTANCE USE",
+    "2  PERSONAL/SOCIAL HISTORY",
+    "2  OBSTETRICAL HISTORY",
+    "2  MISCELLANEOUS/EATING HISTORY",
+    "2  GYN HISTORY"
+  ],
+  "subjective.history_of_present_illness": [
+    "269  HISTORY OF PRESENT ILLNESS",
+    "50  HISTORY",
+    "39  SUBJECTIVE",
+    "13  HX",
+    "5  INTERVAL HISTORY",
+    "5  HPI",
+    "3  REASON FOR ADMISSION",
+    "3  PRESENT ILLNESS",
+    "3  HISTORY OF PRESENTING PROBLEM",
+    "3  HISTORY OF PRESENTING ILLNESS",
+    "3  HISTORY OF PRESENT COMPLAINT",
+    "2  HISTORY OF PRESENT PROBLEM",
+    "2  BRIEF HISTORY"
+  ],
+  "subjective.review_of_systems": [
+    "262  REVIEW OF SYSTEMS",
+    "11  CONSTITUTIONAL",
+    "5  ROS",
+    "3  SYSTEMS REVIEW",
+    "2  PULMONARY"
+  ]
+}

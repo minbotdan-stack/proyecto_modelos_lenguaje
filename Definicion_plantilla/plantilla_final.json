@@ -1,0 +1,58 @@
+{
+  "subjective": {
+    "chief_complaint": "",
+    "history_of_present_illness": "",
+    "review_of_systems": "",
+    "history": {
+      "past_medical": "",
+      "past_surgical": "",
+      "medications": "",
+      "allergies": "",
+      "family_history": "",
+      "social_history": "",
+      "psychiatric": "",
+      "immunizations": "",
+      "obstetric_gynecologic": "",
+      "developmental_birth": ""
+    }
+  },
+  "objective": {
+    "vital_signs": "",
+    "physical_exam": {
+      "general": "",
+      "heent": "",
+      "neck": "",
+      "cardiovascular": "",
+      "respiratory": "",
+      "abdomen": "",
+      "genitourinary": "",
+      "rectal": "",
+      "musculoskeletal_extremities": "",
+      "skin": "",
+      "lymphatic": "",
+      "neurological": "",
+      "mental_status": ""
+    },
+    "laboratory": "",
+    "studies_and_procedures": ""
+  },
+  "assessment": {
+    "diagnoses": "",
+    "assessment_and_plan": "",
+    "psychiatric_axes": {
+      "axis_i": "", "axis_ii": "", "axis_iii": "", "axis_iv": "", "axis_v": ""
+    },
+    "clinical_comments": "",
+    "hospital_course": ""
+  },
+  "plan": {
+    "treatment_and_recommendations": "",
+    "medications_prescribed": "",
+    "studies_ordered": "",
+    "patient_instructions": "",
+    "diet": "",
+    "follow_up": "",
+    "disposition": ""
+  },
+  "additional_sections": []
+}

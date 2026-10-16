@@ -1,0 +1,26 @@
+[
+  {
+    "clave": "PEX",
+    "significado": "peripheral_vascular_exam",
+    "evidencia": "Patent",
+    "confianza": "media"
+  },
+  {
+    "clave": "FEN",
+    "significado": "functional_evaluation_notes",
+    "evidencia": "PO ad lib and document weight gain",
+    "confianza": "media"
+  },
+  {
+    "clave": "add",
+    "significado": "addition",
+    "evidencia": "",
+    "confianza": "baja"
+  },
+  {
+    "clave": "wt",
+    "significado": "weight",
+    "evidencia": "238 BP: 144/82 HR: 69",
+    "confianza": "media"
+  }
+]
