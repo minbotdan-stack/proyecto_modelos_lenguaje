@@ -1,0 +1,62 @@
+{
+  "subjective": {
+    "chief_complaint": "",
+    "history_of_present_illness": "",
+    "review_of_systems": "",
+    "history": {
+      "past_medical": "High cholesterol, ankle surgery (7 surgeries, last one in January @@st in @@@@)",
+      "past_surgical": "Ankle surgery (7 surgeries, last one in January @@st in @@@@)",
+      "medications": "Aspirin, Naproxen, Vicodin (ran out), Norco (prescribed)",
+      "allergies": "Not specified by the patient",
+      "family_history": "Not specified by the patient",
+      "social_history": "Unpredictable work schedule, drives a truck, no smoking history",
+      "psychiatric": "Not specified by the patient",
+      "immunizations": "Not specified by the patient",
+      "obstetric_gynecologic": "Not specified by the patient",
+      "developmental_birth": "Not specified by the patient"
+    }
+  },
+  "objective": {
+    "vital_signs": "Blood pressure looks okay, weight is 310 lbs",
+    "physical_exam": {
+      "general": "Patient is in no acute distress",
+      "heent": "Not specified by the patient",
+      "neck": "Not specified by the patient",
+      "cardiovascular": "Heart sounds normal",
+      "respiratory": "Not specified by the patient",
+      "abdomen": "Not specified by the patient",
+      "genitourinary": "Not specified by the patient",
+      "rectal": "Not specified by the patient",
+      "musculoskeletal_extremities": "Left ankle pain and swelling",
+      "skin": "Not specified by the patient",
+      "lymphatic": "Not specified by the patient",
+      "neurological": "Not specified by the patient",
+      "mental_status": "Not specified by the patient"
+    },
+    "laboratory": "Cholesterol level is 136, INR and iron levels to be checked",
+    "studies_and_procedures": "CPAP for sleep apnea, ultrasound for fatty liver"
+  },
+  "assessment": {
+    "diagnoses": "High cholesterol, chronic ankle pain, sleep apnea, possible fatty liver",
+    "assessment_and_plan": "Patient is doing well generally, needs to lose weight, improve sleep, and manage pain. CPAP is helping with sleep apnea. Cholesterol is within acceptable range for age and risk factors. Iron levels and INR to be checked.",
+    "psychiatric_axes": {
+      "axis_i": "Not specified by the patient",
+      "axis_ii": "Not specified by the patient",
+      "axis_iii": "High cholesterol, chronic ankle pain, sleep apnea, possible fatty liver",
+      "axis_iv": "Unpredictable work schedule, drives a truck",
+      "axis_v": "GAF score not specified by the patient"
+    },
+    "clinical_comments": "Patient is not interested in prostate screening at this time.",
+    "hospital_course": "Not specified by the patient"
+  },
+  "plan": {
+    "treatment_and_recommendations": "Lose weight, improve sleep, manage pain with Norco and Naproxen as needed, follow up in one year for cholesterol and iron levels.",
+    "medications_prescribed": "Norco (prescribed), Naproxen (prescribed)",
+    "studies_ordered": "Iron levels and INR to be checked",
+    "patient_instructions": "Follow up in one year for cholesterol and iron levels, manage pain with Norco and Naproxen as needed.",
+    "diet": "Avoid red meat, cheese, butter, and other high cholesterol foods.",
+    "follow_up": "Follow up in one year",
+    "disposition": "Discharged to home"
+  },
+  "additional_sections": []
+}

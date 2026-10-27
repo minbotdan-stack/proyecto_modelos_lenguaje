@@ -1,0 +1,62 @@
+{
+  "subjective": {
+    "chief_complaint": "Yearly check-up",
+    "history_of_present_illness": "Patient reports high cholesterol (136), ankle pain from previous surgery, irregular work schedule, sleep issues with CPAP. Patient declined flu shot but will get Tdap next time.",
+    "review_of_systems": "Not specified by the patient",
+    "history": {
+      "past_medical": "High cholesterol, history of ankle injury and multiple surgeries",
+      "past_surgical": "Left ankle surgery (7 times since 1988, last in January)",
+      "medications": "Vicodin (ran out), Naproxen (expired/running low), Aspirin for pain, CPAP for sleep apnea",
+      "allergies": "Not specified by the patient",
+      "family_history": "Not specified by the patient",
+      "social_history": "Does not smoke, works irregular hours as truck driver/on-call, lives in Japan/Okinawa/Hokkaido, robbed on Sunday took sick day",
+      "psychiatric": "Not specified by the patient",
+      "immunizations": "Tetanus shot in 2008, flu shot declined, Tdap offered for next visit",
+      "obstetric_gynecologic": "Not applicable",
+      "developmental_birth": "Not specified by the patient"
+    }
+  },
+  "objective": {
+    "vital_signs": "Cholesterol 136 (LDL), age 48, weight decreased from 330 to 310, blood pressure appears normal",
+    "physical_exam": {
+      "general": "Patient examined generally well",
+      "heent": "Not specified by the patient",
+      "neck": "Not specified by the patient",
+      "cardiovascular": "Heart listened to, no abnormalities noted",
+      "respiratory": "Deep breaths taken during exam",
+      "abdomen": "Not specified by the patient",
+      "genitourinary": "Not specified by the patient",
+      "rectal": "Not specified by the patient",
+      "musculoskeletal_extremities": "Left ankle pain and swelling noted, ankle gives out when stepping on it causing falls",
+      "skin": "Not specified by the patient",
+      "lymphatic": "Not specified by the patient",
+      "neurological": "Not specified by the patient",
+      "mental_status": "Not specified by the patient"
+    },
+    "laboratory": "Cholesterol 136 (LDL), iron studies pending for hemochromatosis evaluation",
+    "studies_and_procedures": "Ultrasound previously done showing possible fatty liver, sleep study done previously with CPAP"
+  },
+  "assessment": {
+    "diagnoses": "High cholesterol, ankle pain from previous surgeries, possible hemochromatosis concern",
+    "assessment_and_plan": "Patient stable, medications to be mailed, iron studies ordered, annual follow-up recommended",
+    "psychiatric_axes": {
+      "axis_i": "",
+      "axis_ii": "",
+      "axis_iii": "",
+      "axis_iv": "",
+      "axis_v": ""
+    },
+    "clinical_comments": "Patient has irregular work schedule, CPAP helps with sleep, weight loss progress noted",
+    "hospital_course": "Not applicable"
+  },
+  "plan": {
+    "treatment_and_recommendations": "Diet modification (reduce red meat and fats), exercise encouragement, weight loss goal, improve sleep",
+    "medications_prescribed": "Norco for pain, Naproxen 500mg twice daily",
+    "studies_ordered": "Iron studies to check for hemochromatosis",
+    "patient_instructions": "Take medications as needed, lose more weight, sleep better",
+    "diet": "Reduce red meat, fats, cholesterol; eat fish, vegetables, fruits",
+    "follow_up": "Yearly (or earlier if needed)",
+    "disposition": "Mail medications to patient"
+  },
+  "additional_sections": []
+}

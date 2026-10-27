@@ -1,0 +1,63 @@
+{
+  "consultation_summary": "Follow-up visit for patient with history of hypertension, hyperlipidemia, and prior strokes (found on MRI). Patient reports feeling well, no current breathing issues. BP elevated today attributed to stress/rushing. Plan involves home BP monitoring, low salt diet, potential medication adjustment after pharmacist review, and scheduling colonoscopy/orthopedist follow-up.",
+  "subjective": {
+    "chief_complaint": "Follow-up visit / High blood pressure check",
+    "history_of_present_illness": "Patient reports feeling good, no breathing problems since last visit in late October. BP high today attributed to rushing/stress. History of strokes on MRI. High cholesterol noted in July. Hip replacement surgery history. Colonoscopy done 3 years ago with polyps.",
+    "review_of_systems": "No pains, stiffness, chest pain, or trouble getting around.",
+    "history": {
+      "past_medical": "History of strokes (old strokes on MRI), high blood pressure, high cholesterol.",
+      "past_surgical": "Hip replacement.",
+      "medications": "None currently for BP or cholesterol. Patient tries to avoid meds.",
+      "allergies": "Not specified by the patient",
+      "family_history": "Not specified by the patient",
+      "social_history": "Does cooking mostly. Court appearance on 30th.",
+      "psychiatric": "Not specified by the patient",
+      "immunizations": "Did not get flu shot this year.",
+      "obstetric_gynecologic": "Not specified by the patient",
+      "developmental_birth": "Not specified by the patient"
+    }
+  },
+  "objective": {
+    "vital_signs": "Blood pressure high (specific numbers not provided).",
+    "physical_exam": {
+      "general": "Patient feels great, no pains or stiffness.",
+      "heent": "Not specified by the patient",
+      "neck": "Not specified by the patient",
+      "cardiovascular": "Blood pressure high.",
+      "respiratory": "No trouble breathing currently.",
+      "abdomen": "Not specified by the patient",
+      "genitourinary": "Not specified by the patient",
+      "rectal": "Not specified by the patient",
+      "musculoskeletal_extremities": "Hip replacement history. No trouble getting around.",
+      "skin": "Not specified by the patient",
+      "lymphatic": "Not specified by the patient",
+      "neurological": "History of old strokes on MRI.",
+      "mental_status": "Not specified by the patient"
+    },
+    "laboratory": "Cholesterol high in July labs.",
+    "studies_and_procedures": "MRI brain showing old strokes. Colonoscopy scheduled for early next year."
+  },
+  "assessment": {
+    "diagnoses": "Hypertension, Hyperlipidemia, History of Stroke, Post-Hip Replacement.",
+    "assessment_and_plan": "Monitor BP at home for a week, see pharmacist, consider low-dose meds if needed, low salt diet, colonoscopy screening ordered, orthopedist reschedule.",
+    "psychiatric_axes": {
+      "axis_i": "Not specified by the patient",
+      "axis_ii": "Not specified by the patient",
+      "axis_iii": "Not specified by the patient",
+      "axis_iv": "Not specified by the patient",
+      "axis_v": "Not specified by the patient"
+    },
+    "clinical_comments": "Patient has history of strokes on MRI; high BP is a risk factor for future strokes.",
+    "hospital_course": "Not specified by the patient"
+  },
+  "plan": {
+    "treatment_and_recommendations": "Low salt diet, home BP monitoring daily, see pharmacist in a week, colonoscopy screening ordered.",
+    "medications_prescribed": "None prescribed today; potential low-dose medication if logs show high BP.",
+    "studies_ordered": "Colonoscopy screening (letter to be mailed).",
+    "patient_instructions": "Take BP daily morning at same time, log results, avoid salt.",
+    "diet": "Low salt diet.",
+    "follow_up": "See pharmacist in a week, then 3-4 months later.",
+    "disposition": "Patient leaves clinic."
+  },
+  "additional_sections": []
+}

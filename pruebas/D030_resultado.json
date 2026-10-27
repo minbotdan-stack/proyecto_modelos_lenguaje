@@ -1,0 +1,63 @@
+{
+  "consultation_summary": "Follow-up visit for heart rate monitoring and vitamin D supplementation. Patient reports normal echogram from January, occasional bradycardia (52 bpm) without symptoms, history of syncope in February attributed to overheating. Cholesterol at goal. Vitamin D levels borderline low.",
+  "subjective": {
+    "chief_complaint": "Follow-up visit for heart rate monitoring and vitamin D levels",
+    "history_of_present_illness": "Patient reports normal echogram from end of January. Takes atenolol for heart rate control. Reports heart rate sometimes drops to 52 bpm at home, no lightheadedness. Hospitalized in February for passing out (syncope), attributed to overheating. Cholesterol numbers good. Vitamin D levels borderline low. Urology appointment scheduled for October. Colonoscopy done 2 years ago with polyps removed.",
+    "review_of_systems": "Not specified by the patient",
+    "history": {
+      "past_medical": "Heart condition requiring atenolol, Knee osteoarthritis, Vitamin D deficiency",
+      "past_surgical": "Colonoscopy 2 years ago with polyps removed",
+      "medications": "Atenolol (half tablet), Vitamin D pills",
+      "allergies": "Not specified by the patient",
+      "family_history": "Not specified by the patient",
+      "social_history": "Lives in Chicago, wife walks with neighbor",
+      "psychiatric": "Not specified by the patient",
+      "immunizations": "Not specified by the patient",
+      "obstetric_gynecologic": "Not specified by the patient",
+      "developmental_birth": "Not specified by the patient"
+    }
+  },
+  "objective": {
+    "vital_signs": "Blood pressure controlled. Heart rate sometimes 52 bpm at home.",
+    "physical_exam": {
+      "general": "Patient sounds good, in good shape",
+      "heent": "Not specified by the patient",
+      "neck": "Not specified by the patient",
+      "cardiovascular": "Heart rate monitored, atenolol working to protect heart",
+      "respiratory": "Patient took deep breaths, sounds good",
+      "abdomen": "Not specified by the patient",
+      "genitourinary": "Not specified by the patient",
+      "rectal": "Not specified by the patient",
+      "musculoskeletal_extremities": "Not specified by the patient",
+      "skin": "Not specified by the patient",
+      "lymphatic": "Not specified by the patient",
+      "neurological": "Not specified by the patient",
+      "mental_status": "Not specified by the patient"
+    },
+    "laboratory": "HDL 149, LDL 67. Total cholesterol value obscured in transcript. Vitamin D levels borderline low.",
+    "studies_and_procedures": "Echogram done end of January (normal). Colonoscopy 2 years ago."
+  },
+  "assessment": {
+    "diagnoses": "Heart condition on atenolol, Knee osteoarthritis, Vitamin D deficiency",
+    "assessment_and_plan": "Continue atenolol unless symptomatic bradycardia occurs. Start concentrated Vitamin D pills once a week for 12 weeks. Keep existing Vitamin D pills aside. Return to Lab in August for blood work.",
+    "psychiatric_axes": {
+      "axis_i": "Not specified by the patient",
+      "axis_ii": "Not specified by the patient",
+      "axis_iii": "Not specified by the patient",
+      "axis_iv": "Not specified by the patient",
+      "axis_v": "Not specified by the patient"
+    },
+    "clinical_comments": "Patient has knee osteoarthritis requiring handicapped sticker renewal.",
+    "hospital_course": "Hospitalized in February for syncope."
+  },
+  "plan": {
+    "treatment_and_recommendations": "Continue atenolol unless heart rate drops low or symptoms occur (hold for a few days). Take new Vitamin D pills once a week for 12 weeks. Do aerobic exercise (stationary bike) to raise HDL.",
+    "medications_prescribed": "Concentrated Vitamin D pills (take once a week for 12 weeks). Atenolol continued.",
+    "studies_ordered": "Blood draw at Lab in August to check Vitamin D levels.",
+    "patient_instructions": "Take new Vitamin D pills once a week, hold existing ones aside. Check heart rate first thing in morning. Return to Lab in August.",
+    "diet": "Not specified by the patient",
+    "follow_up": "4 months (August)",
+    "disposition": "Outpatient"
+  },
+  "additional_sections": []
+}
