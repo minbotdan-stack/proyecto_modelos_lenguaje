@@ -1,7 +1,6 @@
 import ollama    
 import json  
 
-# Cambia estas dos rutas por las tuyas
 RUTA_TRANSCRIPCION = "/home/daniel/proyectos/pruebas/D030.txt"
 RUTA_PLANTILLA = "/home/daniel/proyectos/pruebas/plantilla_final.json"
 
